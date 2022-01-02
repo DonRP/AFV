@@ -759,12 +759,12 @@ msgid "[RT] {i}Uploading the pictures now... and click submit... and now we just
 msgstr "[RT] {i}Uploading the pictures now... and click submit... and now we just wait to see if anyone likes them.{/i}"
 
 # game/UpdateScript0.06.rpy:1031## # translate crowdin posting_ph_pics_f35f728e:
-msgid "KT "{i}Oh, my God! Is that Miss [mom_name] posing with Megan!?{/i}"
-    KT "{i}Oh, my God! Is that Miss [mom_name] posing with Megan!?{/i}"
+msgid "[KT] {i}Oh, my God! Is that Miss [mom_name] posing with Megan!?{/i}"
+msgstr "[KT] {i}Oh, my God! Is that Miss [mom_name] posing with Megan!?{/i}"
 
 # game/UpdateScript0.06.rpy:1032## # translate crowdin posting_ph_pics_f0822d93:
-msgid "KT "{i}I've got to have this!{/i}"
-    KT "{i}I've got to have this!{/i}"
+msgid "[KT] {i}I've got to have this!{/i}"
+msgstr "[KT] {i}I've got to have this!{/i}"
 
 # game/UpdateScript0.06.rpy:1040## # translate crowdin posting_ph_pics_262db61b:
 msgid "[J] Well... If it isn't the lovely, lovely [mom_name]"
@@ -823,12 +823,12 @@ msgid "WTT "{i}I'll do whatever I can to defend a teacher like this.{/i}"
     WTT "{i}I'll do whatever I can to defend a teacher like this.{/i}"
 
 # game/UpdateScript0.06.rpy:1090## # translate crowdin posting_ph_pics_cc3ecee5:
-msgid "KT "{i}More pics of Megan and Miss [mom_name]?{/i}"
-    KT "{i}More pics of Megan and Miss [mom_name]?{/i}"
+msgid "[KT] {i}More pics of Megan and Miss [mom_name]?{/i}"
+msgstr "[KT] {i}More pics of Megan and Miss [mom_name]?{/i}"
 
 # game/UpdateScript0.06.rpy:1091## # translate crowdin posting_ph_pics_f0822d93_1:
-msgid "KT "{i}I've got to have this!{/i}"
-    KT "{i}I've got to have this!{/i}"
+msgid "[KT] {i}I've got to have this!{/i}"
+msgstr "[KT] {i}I've got to have this!{/i}"
 
 # game/UpdateScript0.06.rpy:1099## # translate crowdin posting_ph_pics_1e1e6927:
 msgid "[J] Ahh... Glad to see [mom_name]'s still at it."
