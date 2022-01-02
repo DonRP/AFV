@@ -1583,44 +1583,44 @@ msgid "[S] Uhhh.... Hi.... Can I come in?"
 msgstr "[S] Uhhh.... Hi.... Can I come in?"
 
 # game/UpdateScript0.05.rpy:1251## # translate crowdin sidney_search_668ff27f:
-msgid "G "Do you know the password?"
-    G "Do you know the password?"
+msgid "[G] Do you know the password?"
+msgstr "[G] Do you know the password?"
 
 # game/UpdateScript0.05.rpy:1252## # translate crowdin sidney_search_cfd5d96f:
 msgid "[S] Uhh.... is it Scarface?"
 msgstr "[S] Uhh.... is it Scarface?"
 
 # game/UpdateScript0.05.rpy:1253## # translate crowdin sidney_search_7570e50a:
-msgid "G "Is that supposed to be a joke?"
-    G "Is that supposed to be a joke?"
+msgid "[G] Is that supposed to be a joke?"
+msgstr "[G] Is that supposed to be a joke?"
 
 # game/UpdateScript0.05.rpy:1254## # translate crowdin sidney_search_9975f3de:
 msgid "[S] Ummmm.... I don't actually know the password.... But, my mom is one of the dancers, and I was hoping to go see her."
 msgstr "[S] Ummmm.... I don't actually know the password.... But, my mom is one of the dancers, and I was hoping to go see her."
 
 # game/UpdateScript0.05.rpy:1255## # translate crowdin sidney_search_0c31e2da:
-msgid "G "Oh really? Which one?"
-    G "Oh really? Which one?"
+msgid "[G] Oh really? Which one?"
+msgstr "[G] Oh really? Which one?"
 
 # game/UpdateScript0.05.rpy:1256## # translate crowdin sidney_search_15900924:
 msgid "[S] Ummm.... [mom_name]."
 msgstr "[S] Ummm.... [mom_name]."
 
 # game/UpdateScript0.05.rpy:1257## # translate crowdin sidney_search_cfc03a7d:
-msgid "G "Oh yeah, [mom_name], of course! Why didn't you just say so in the first place."
-    G "Oh yeah, [mom_name], of course! Why didn't you just say so in the first place."
+msgid "[G] Oh yeah, [mom_name], of course! Why didn't you just say so in the first place."
+msgstr "[G] Oh yeah, [mom_name], of course! Why didn't you just say so in the first place."
 
 # game/UpdateScript0.05.rpy:1258## # translate crowdin sidney_search_16f0e484:
-msgid "G "We are, after all, a family establishment, and we try to be very accommodating to the families of our employees."
-    G "We are, after all, a family establishment, and we try to be very accommodating to the families of our employees."
+msgid "[G] We are, after all, a family establishment, and we try to be very accommodating to the families of our employees."
+msgstr "[G] We are, after all, a family establishment, and we try to be very accommodating to the families of our employees."
 
 # game/UpdateScript0.05.rpy:1259## # translate crowdin sidney_search_15119a9e:
 msgid "[S] Ummm.... Thank you?"
 msgstr "[S] Ummm.... Thank you?"
 
 # game/UpdateScript0.05.rpy:1260## # translate crowdin sidney_search_19d9ae53:
-msgid "G "Of course.... Come on in."
-    G "Of course.... Come on in."
+msgid "[G] Of course.... Come on in."
+msgstr "[G] Of course.... Come on in."
 
 # game/UpdateScript0.05.rpy:1269## # translate crowdin sidney_search_345a2083:
 msgid "[ST] {i}Wow! This place is so much bigger than it looks from the outside.{/i}"

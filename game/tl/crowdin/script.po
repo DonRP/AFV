@@ -7131,24 +7131,24 @@ msgid "[R] And if anything happens, just call our new friends at the FBI."
 msgstr "[R] And if anything happens, just call our new friends at the FBI."
 
 # game/script.rpy:8086## # translate crowdin dinnerfirst_1b515c55:
-msgid "G "Hey, Boss?"
-    G "Hey, Boss?"
+msgid "[G] Hey, Boss?"
+msgstr "[G] Hey, Boss?"
 
 # game/script.rpy:8087## # translate crowdin dinnerfirst_5725a2e1:
 msgid "[J] What is it?"
 msgstr "[J] What is it?"
 
 # game/script.rpy:8088## # translate crowdin dinnerfirst_89882103:
-msgid "G "There's some twerp following us on a little scooter."
-    G "There's some twerp following us on a little scooter."
+msgid "[G] There's some twerp following us on a little scooter."
+msgstr "[G] There's some twerp following us on a little scooter."
 
 # game/script.rpy:8089## # translate crowdin dinnerfirst_7b67a392:
 msgid "[M] Oh, no! That's probably my son!"
 msgstr "[M] Oh, no! That's probably my son!"
 
 # game/script.rpy:8090## # translate crowdin dinnerfirst_38ea30b7:
-msgid "G "Do you want me to lose him?"
-    G "Do you want me to lose him?"
+msgid "[G] Do you want me to lose him?"
+msgstr "[G] Do you want me to lose him?"
 
 # game/script.rpy:8091## # translate crowdin dinnerfirst_35f42b59:
 msgid "[M] Oh, please do! I don't want him to see where you're making me work!"
@@ -7203,8 +7203,8 @@ msgid "[J] He can have a look around and see if he finds anything interesting."
 msgstr "[J] He can have a look around and see if he finds anything interesting."
 
 # game/script.rpy:8110## # translate crowdin dinnerfirst_0040b991:
-msgid "G "Ok, Boss!"
-    G "Ok, Boss!"
+msgid "[G] Ok, Boss!"
+msgstr "[G] Ok, Boss!"
 
 # game/script.rpy:8116## # translate crowdin dinnerfirst_f5f59dca:
 msgid "[RT] {i}So this place is some kind of bar? The guy at the door welcomed me in without checking my ID.{/i}"
