@@ -1815,8 +1815,8 @@ msgid "[J] HEY! Armani! Can I get a couple drinks?"
 msgstr "[J] HEY! Armani! Can I get a couple drinks?"
 
 # game/UpdateScript0.05.rpy:1335## # translate crowdin sidney_search_2abdd7c4:
-msgid "[A]Hey Uncle! Do you want the usual?"
-msgstr "[A]Hey Uncle! Do you want the usual?"
+msgid "[A] Hey Uncle! Do you want the usual?"
+msgstr "[A] Hey Uncle! Do you want the usual?"
 
 # game/UpdateScript0.05.rpy:1336## # translate crowdin sidney_search_f2eb0d18:
 msgid "[J] Yes darling!, and get Sidney here whatever she wants."
@@ -1847,8 +1847,8 @@ msgid "[J] Sidney, this is my neice Armani."
 msgstr "[J] Sidney, this is my neice Armani."
 
 # game/UpdateScript0.05.rpy:1345## # translate crowdin sidney_search_8a2d51b0:
-msgid "[A]Aren't you a pretty thing?"
-msgstr "[A]Aren't you a pretty thing?"
+msgid "[A] Aren't you a pretty thing?"
+msgstr "[A] Aren't you a pretty thing?"
 
 # game/UpdateScript0.05.rpy:1346## # translate crowdin sidney_search_2f90028e:
 msgid "[S] I wasn't really thinking about serving drinks...."
@@ -1859,12 +1859,12 @@ msgid "[J] Not yet, you mean."
 msgstr "[J] Not yet, you mean."
 
 # game/UpdateScript0.05.rpy:1348## # translate crowdin sidney_search_b9d930f7:
-msgid "[A]Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
-msgstr "[A]Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
+msgid "[A] Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
+msgstr "[A] Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
 
 # game/UpdateScript0.05.rpy:1349## # translate crowdin sidney_search_3494722b:
-msgid "[A]So, think about it."
-msgstr "[A]So, think about it."
+msgid "[A] So, think about it."
+msgstr "[A] So, think about it."
 
 # game/UpdateScript0.05.rpy:1352## # translate crowdin sidney_search_9b656435:
 msgid "[J] And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
@@ -10563,52 +10563,52 @@ msgid "[RT] {i}I've got to keep my eye out for Sidney. If I don't see her, I'm s
 msgstr "[RT] {i}I've got to keep my eye out for Sidney. If I don't see her, I'm sure I can just wait for her to turn up at the bar.{/i}"
 
 # game/UpdateScript0.05.rpy:6025## # translate crowdin sid_working_club_e6315232:
-msgid "[A]If anybody else grabs your ass, remind them that we're only here to serve drinks and look hot. They're not allowed to touch."
-msgstr "[A]If anybody else grabs your ass, remind them that we're only here to serve drinks and look hot. They're not allowed to touch."
+msgid "[A] If anybody else grabs your ass, remind them that we're only here to serve drinks and look hot. They're not allowed to touch."
+msgstr "[A] If anybody else grabs your ass, remind them that we're only here to serve drinks and look hot. They're not allowed to touch."
 
 # game/UpdateScript0.05.rpy:6026## # translate crowdin sid_working_club_0198d510:
-msgid "[A]If that doesn't work, tell the bouncer, and he'll remind him with a black eye."
-msgstr "[A]If that doesn't work, tell the bouncer, and he'll remind him with a black eye."
+msgid "[A] If that doesn't work, tell the bouncer, and he'll remind him with a black eye."
+msgstr "[A] If that doesn't work, tell the bouncer, and he'll remind him with a black eye."
 
 # game/UpdateScript0.05.rpy:6027## # translate crowdin sid_working_club_fd6df094:
 msgid "[S] Will I eventually get an apron too?"
 msgstr "[S] Will I eventually get an apron too?"
 
 # game/UpdateScript0.05.rpy:6030## # translate crowdin sid_working_club_a33f60a8:
-msgid "[A]Well, the uniform doesn't actually come with the apron."
-msgstr "[A]Well, the uniform doesn't actually come with the apron."
+msgid "[A] Well, the uniform doesn't actually come with the apron."
+msgstr "[A] Well, the uniform doesn't actually come with the apron."
 
 # game/UpdateScript0.05.rpy:6031## # translate crowdin sid_working_club_244acc6c:
 msgid "[S] Really?.... These pantyhose give me the worst cameltoe. Why do you get one?"
 msgstr "[S] Really?.... These pantyhose give me the worst cameltoe. Why do you get one?"
 
 # game/UpdateScript0.05.rpy:6032## # translate crowdin sid_working_club_dbbafc0b:
-msgid "[A]My Uncle made me start wearing it shortly after I started serving drinks. I noticed he had a hard time not letting his eyes wander down there. So I think he added it to my uniform to try to protect himself from temptation."
-msgstr "[A]My Uncle made me start wearing it shortly after I started serving drinks. I noticed he had a hard time not letting his eyes wander down there. So I think he added it to my uniform to try to protect himself from temptation."
+msgid "[A] My Uncle made me start wearing it shortly after I started serving drinks. I noticed he had a hard time not letting his eyes wander down there. So I think he added it to my uniform to try to protect himself from temptation."
+msgstr "[A] My Uncle made me start wearing it shortly after I started serving drinks. I noticed he had a hard time not letting his eyes wander down there. So I think he added it to my uniform to try to protect himself from temptation."
 
 # game/UpdateScript0.05.rpy:6033## # translate crowdin sid_working_club_1586fb74:
-msgid "[A]It's actually kind of cute."
-msgstr "[A]It's actually kind of cute."
+msgid "[A] It's actually kind of cute."
+msgstr "[A] It's actually kind of cute."
 
 # game/UpdateScript0.05.rpy:6036## # translate crowdin sid_working_club_a08345fa:
-msgid "[A]My mom thinks I'm helping him with the book keeping each night. Which is what I started out doing. But I noticed that the waitresses made more money than I did, thanks to the tips."
-msgstr "[A]My mom thinks I'm helping him with the book keeping each night. Which is what I started out doing. But I noticed that the waitresses made more money than I did, thanks to the tips."
+msgid "[A] My mom thinks I'm helping him with the book keeping each night. Which is what I started out doing. But I noticed that the waitresses made more money than I did, thanks to the tips."
+msgstr "[A] My mom thinks I'm helping him with the book keeping each night. Which is what I started out doing. But I noticed that the waitresses made more money than I did, thanks to the tips."
 
 # game/UpdateScript0.05.rpy:6037## # translate crowdin sid_working_club_c79fa142:
-msgid "[A]And being a server just looked like more fun, so I convinced him to let me try it, and now I'm learning to tend the bar as well."
-msgstr "[A]And being a server just looked like more fun, so I convinced him to let me try it, and now I'm learning to tend the bar as well."
+msgid "[A] And being a server just looked like more fun, so I convinced him to let me try it, and now I'm learning to tend the bar as well."
+msgstr "[A] And being a server just looked like more fun, so I convinced him to let me try it, and now I'm learning to tend the bar as well."
 
 # game/UpdateScript0.05.rpy:6038## # translate crowdin sid_working_club_6df98ce6:
-msgid "[A]I wanted to give stripping a try too, but I think my Uncle Joey is too afraid of my mom, since she's his sister, and even more hot blooded than he is."
-msgstr "[A]I wanted to give stripping a try too, but I think my Uncle Joey is too afraid of my mom, since she's his sister, and even more hot blooded than he is."
+msgid "[A] I wanted to give stripping a try too, but I think my Uncle Joey is too afraid of my mom, since she's his sister, and even more hot blooded than he is."
+msgstr "[A] I wanted to give stripping a try too, but I think my Uncle Joey is too afraid of my mom, since she's his sister, and even more hot blooded than he is."
 
 # game/UpdateScript0.05.rpy:6039## # translate crowdin sid_working_club_6916b75e:
-msgid "[A]So I don't think that's ever going to happen."
-msgstr "[A]So I don't think that's ever going to happen."
+msgid "[A] So I don't think that's ever going to happen."
+msgstr "[A] So I don't think that's ever going to happen."
 
 # game/UpdateScript0.05.rpy:6040## # translate crowdin sid_working_club_0b9f597b:
-msgid "[A]Sorry, I started talking too much.... I tend to do that. So, I think the answer you're looking for is no, your uniform doesn't get an apron."
-msgstr "[A]Sorry, I started talking too much.... I tend to do that. So, I think the answer you're looking for is no, your uniform doesn't get an apron."
+msgid "[A] Sorry, I started talking too much.... I tend to do that. So, I think the answer you're looking for is no, your uniform doesn't get an apron."
+msgstr "[A] Sorry, I started talking too much.... I tend to do that. So, I think the answer you're looking for is no, your uniform doesn't get an apron."
 
 # game/UpdateScript0.05.rpy:6041## # translate crowdin sid_working_club_58a5150e:
 msgid "[S] Oh.... Ok.... I guess it is what it is."
@@ -10631,12 +10631,12 @@ msgid "[S] Well, we are working."
 msgstr "[S] Well, we are working."
 
 # game/UpdateScript0.05.rpy:6048## # translate crowdin sid_working_club_3c77849c:
-msgid "[A]No it's ok, we're pretty slow right now."
-msgstr "[A]No it's ok, we're pretty slow right now."
+msgid "[A] No it's ok, we're pretty slow right now."
+msgstr "[A] No it's ok, we're pretty slow right now."
 
 # game/UpdateScript0.05.rpy:6051## # translate crowdin sid_working_club_d4143b29:
-msgid "[A]So who's this, Sidney? Your boyfriend?"
-msgstr "[A]So who's this, Sidney? Your boyfriend?"
+msgid "[A] So who's this, Sidney? Your boyfriend?"
+msgstr "[A] So who's this, Sidney? Your boyfriend?"
 
 # game/UpdateScript0.05.rpy:6052## # translate crowdin sid_working_club_0b1436b8:
 msgid "[S] Yeah right, he wishes."
@@ -10651,8 +10651,8 @@ msgid "[S] [ryan], this is Joey's niece, Armani."
 msgstr "[S] [ryan], this is Joey's niece, Armani."
 
 # game/UpdateScript0.05.rpy:6055## # translate crowdin sid_working_club_6d9fb9fa:
-msgid "[A]Brother huh?.... and do you really wish Sidney was your girlfriend?"
-msgstr "[A]Brother huh?.... and do you really wish Sidney was your girlfriend?"
+msgid "[A] Brother huh?.... and do you really wish Sidney was your girlfriend?"
+msgstr "[A] Brother huh?.... and do you really wish Sidney was your girlfriend?"
 
 # game/UpdateScript0.05.rpy:6058## # translate crowdin sid_working_club_1ec31ff2:
 msgid "[R] Sure, why not?"
@@ -10667,8 +10667,8 @@ msgid "[R] It makes sense, we don't even have to move in together, since we alre
 msgstr "[R] It makes sense, we don't even have to move in together, since we already live with each other."
 
 # game/UpdateScript0.05.rpy:6062## # translate crowdin sid_working_club_a462a0ab:
-msgid "[A]Haha.... I like your sense of humor!"
-msgstr "[A]Haha.... I like your sense of humor!"
+msgid "[A] Haha.... I like your sense of humor!"
+msgstr "[A] Haha.... I like your sense of humor!"
 
 # game/UpdateScript0.05.rpy:6063## # translate crowdin sid_working_club_5ea61a1b:
 msgid "[ST] {i}Don't flirt with my brother, you ho!{/i}"
@@ -10683,8 +10683,8 @@ msgid "[R] That would be so weird!"
 msgstr "[R] That would be so weird!"
 
 # game/UpdateScript0.05.rpy:6067## # translate crowdin sid_working_club_d0879ff0:
-msgid "[A]It's not really that weird to me. In Italian culture, especially in the strong Mafia families, incest is actually fairly common."
-msgstr "[A]It's not really that weird to me. In Italian culture, especially in the strong Mafia families, incest is actually fairly common."
+msgid "[A] It's not really that weird to me. In Italian culture, especially in the strong Mafia families, incest is actually fairly common."
+msgstr "[A] It's not really that weird to me. In Italian culture, especially in the strong Mafia families, incest is actually fairly common."
 
 # game/UpdateScript0.05.rpy:6068## # translate crowdin sid_working_club_9278eee0:
 msgid "[ST] {i}We've got some italian blood in us.{/i}"
@@ -10695,8 +10695,8 @@ msgid "{i}\"Sidney Libido +1\"{/i}"
 msgstr "{i}\"Sidney Libido +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:6071## # translate crowdin sid_working_club_d1802940:
-msgid "[A]Anyways, it was nice to meet you [ryan]. I'll let you guys talk, I've got to run to the store room to grab some more vodka."
-msgstr "[A]Anyways, it was nice to meet you [ryan]. I'll let you guys talk, I've got to run to the store room to grab some more vodka."
+msgid "[A] Anyways, it was nice to meet you [ryan]. I'll let you guys talk, I've got to run to the store room to grab some more vodka."
+msgstr "[A] Anyways, it was nice to meet you [ryan]. I'll let you guys talk, I've got to run to the store room to grab some more vodka."
 
 # game/UpdateScript0.05.rpy:6072## # translate crowdin sid_working_club_b8a5e3d4:
 msgid "[R] Thanks Armani.... It was nice to meet you too!"
@@ -10831,52 +10831,52 @@ msgid "[S] So, was there something you wanted to talk to me about?"
 msgstr "[S] So, was there something you wanted to talk to me about?"
 
 # game/UpdateScript0.05.rpy:6146## # translate crowdin sid_working_club_813f8dba:
-msgid "[A]And that's just another example of why getting involved with my Uncle's \"soldatos\" is a bad idea!"
-msgstr "[A]And that's just another example of why getting involved with my Uncle's \"soldatos\" is a bad idea!"
+msgid "[A] And that's just another example of why getting involved with my Uncle's \"soldatos\" is a bad idea!"
+msgstr "[A] And that's just another example of why getting involved with my Uncle's \"soldatos\" is a bad idea!"
 
 # game/UpdateScript0.05.rpy:6147## # translate crowdin sid_working_club_47b1bcca:
 msgid "[S] Holy shit!.... You're such a slut!"
 msgstr "[S] Holy shit!.... You're such a slut!"
 
 # game/UpdateScript0.05.rpy:6148## # translate crowdin sid_working_club_1a1646d3:
-msgid "[A]Hahaha.... I know!"
-msgstr "[A]Hahaha.... I know!"
+msgid "[A] Hahaha.... I know!"
+msgstr "[A] Hahaha.... I know!"
 
 # game/UpdateScript0.05.rpy:6149## # translate crowdin sid_working_club_fd95ce8c:
 msgid "[R] Hello again, ladies."
 msgstr "[R] Hello again, ladies."
 
 # game/UpdateScript0.05.rpy:6152## # translate crowdin sid_working_club_36b70012:
-msgid "[A]Oh Hey [ryan]!"
-msgstr "[A]Oh Hey [ryan]!"
+msgid "[A] Oh Hey [ryan]!"
+msgstr "[A] Oh Hey [ryan]!"
 
 # game/UpdateScript0.05.rpy:6153## # translate crowdin sid_working_club_bbb295c6:
-msgid "[A]I was just sharing more secrets about the Mafia with Sidney."
-msgstr "[A]I was just sharing more secrets about the Mafia with Sidney."
+msgid "[A] I was just sharing more secrets about the Mafia with Sidney."
+msgstr "[A] I was just sharing more secrets about the Mafia with Sidney."
 
 # game/UpdateScript0.05.rpy:6154## # translate crowdin sid_working_club_bfd2e189:
-msgid "[A]Wasn't I?"
-msgstr "[A]Wasn't I?"
+msgid "[A] Wasn't I?"
+msgstr "[A] Wasn't I?"
 
 # game/UpdateScript0.05.rpy:6157## # translate crowdin sid_working_club_a019c58e:
 msgid "[S] More like secrets about sleeping with the Mafia."
 msgstr "[S] More like secrets about sleeping with the Mafia."
 
 # game/UpdateScript0.05.rpy:6158## # translate crowdin sid_working_club_100b19ef:
-msgid "[A]Hey!.... Haha.... See if I tell you anything ever again!"
-msgstr "[A]Hey!.... Haha.... See if I tell you anything ever again!"
+msgid "[A] Hey!.... Haha.... See if I tell you anything ever again!"
+msgstr "[A] Hey!.... Haha.... See if I tell you anything ever again!"
 
 # game/UpdateScript0.05.rpy:6159## # translate crowdin sid_working_club_87213690:
-msgid "[A]Haha.... Like I can even help it."
-msgstr "[A]Haha.... Like I can even help it."
+msgid "[A] Haha.... Like I can even help it."
+msgstr "[A] Haha.... Like I can even help it."
 
 # game/UpdateScript0.05.rpy:6160## # translate crowdin sid_working_club_56da52db:
-msgid "[A]Anyways, I've got to run and fill out an order form for the booze we're getting short on."
-msgstr "[A]Anyways, I've got to run and fill out an order form for the booze we're getting short on."
+msgid "[A] Anyways, I've got to run and fill out an order form for the booze we're getting short on."
+msgstr "[A] Anyways, I've got to run and fill out an order form for the booze we're getting short on."
 
 # game/UpdateScript0.05.rpy:6161## # translate crowdin sid_working_club_a7b65fc1:
-msgid "[A]Sidney, watch the bar for me while I'm gone."
-msgstr "[A]Sidney, watch the bar for me while I'm gone."
+msgid "[A] Sidney, watch the bar for me while I'm gone."
+msgstr "[A] Sidney, watch the bar for me while I'm gone."
 
 # game/UpdateScript0.05.rpy:6162## # translate crowdin sid_working_club_64f9f447:
 msgid "[S] You got it!"
