@@ -5792,11 +5792,11 @@ msgid "R "Uhhh... Mrs. Stone?"
 
 # game/UpdateScript0.07.rpy:4275## # translate crowdin stones_classroom_6a5fefc9:
 msgid "[MS] [ryan]!"
-    MS "[ryan]!"
+msgstr "[MS] [ryan]!"
 
 # game/UpdateScript0.07.rpy:4276## # translate crowdin stones_classroom_0a45d2cf:
 msgid "[MS] My hero from the park?"
-    MS "My hero from the park?"
+msgstr "[MS] My hero from the park?"
 
 # game/UpdateScript0.07.rpy:4277## # translate crowdin stones_classroom_692a2230:
 msgid "R "Haha... Hi, Mrs. Stone."
@@ -5804,7 +5804,7 @@ msgid "R "Haha... Hi, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4280## # translate crowdin stones_classroom_b2855d56:
 msgid "[MS] Come give me a hug."
-    MS "Come give me a hug."
+msgstr "[MS] Come give me a hug."
 
 # game/UpdateScript0.07.rpy:4283## # translate crowdin stones_classroom_079926ad:
 msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
@@ -5816,7 +5816,7 @@ msgid "RT "{i}But, the only thing I can think of is how good her ass felt around
 
 # game/UpdateScript0.07.rpy:4285## # translate crowdin stones_classroom_5ac6b810:
 msgid "[MS] Thank you again for saving me at the park!"
-    MS "Thank you again for saving me at the park!"
+msgstr "[MS] Thank you again for saving me at the park!"
 
 # game/UpdateScript0.07.rpy:4286## # translate crowdin stones_classroom_b3e0249a:
 msgid "R "It was my pleasure."
@@ -5824,15 +5824,15 @@ msgid "R "It was my pleasure."
 
 # game/UpdateScript0.07.rpy:4293## # translate crowdin stones_classroom_684b6e13:
 msgid "[MS] Oh... Hey, [ryan]."
-    MS "Oh... Hey, [ryan]."
+msgstr "[MS] Oh... Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:4294## # translate crowdin stones_classroom_857b01e4:
 msgid "[MS] You snuck up on me again!"
-    MS "You snuck up on me again!"
+msgstr "[MS] You snuck up on me again!"
 
 # game/UpdateScript0.07.rpy:4296## # translate crowdin stones_classroom_a8dd1c71:
 msgid "[MS] I'm guessing you're here for more posters?"
-    MS "I'm guessing you're here for more posters?"
+msgstr "[MS] I'm guessing you're here for more posters?"
 
 # game/UpdateScript0.07.rpy:4297## # translate crowdin stones_classroom_31840d32:
 msgid "R "And maybe something else later?"
@@ -5840,15 +5840,15 @@ msgid "R "And maybe something else later?"
 
 # game/UpdateScript0.07.rpy:4300## # translate crowdin stones_classroom_664e1a28:
 msgid "[MS] Haha... Well, that's mighty presumptuous of you to think we'll be repeating what we did on your last visit."
-    MS "Haha... Well, that's mighty presumptuous of you to think we'll be repeating what we did on your last visit."
+msgstr "[MS] Haha... Well, that's mighty presumptuous of you to think we'll be repeating what we did on your last visit."
 
 # game/UpdateScript0.07.rpy:4301## # translate crowdin stones_classroom_89c7c530:
 msgid "[MS] {i}(Whispering){/i} But we probably will."
-    MS "{i}(Whispering){/i} But we probably will."
+msgstr "[MS] {i}(Whispering){/i} But we probably will."
 
 # game/UpdateScript0.07.rpy:4304## # translate crowdin stones_classroom_fa25cb80:
 msgid "[MS] So, are we looking at 20 more posters?"
-    MS "So, are we looking at 20 more posters?"
+msgstr "[MS] So, are we looking at 20 more posters?"
 
 # game/UpdateScript0.07.rpy:4305## # translate crowdin stones_classroom_568a58b0:
 msgid "R "Yeah, same as last time."
@@ -5856,7 +5856,7 @@ msgid "R "Yeah, same as last time."
 
 # game/UpdateScript0.07.rpy:4306## # translate crowdin stones_classroom_d3e0ac78:
 msgid "[MS] Sounds good... As soon as you pay me, we can get started."
-    MS "Sounds good... As soon as you pay me, we can get started."
+msgstr "[MS] Sounds good... As soon as you pay me, we can get started."
 
 # game/UpdateScript0.07.rpy:4307## # translate crowdin stones_classroom_232ee642:
 msgid "R "Any extra discounts for a fuck buddy?"
@@ -5864,7 +5864,7 @@ msgid "R "Any extra discounts for a fuck buddy?"
 
 # game/UpdateScript0.07.rpy:4308## # translate crowdin stones_classroom_68757d9e:
 msgid "[MS] Hmmm... You know what?... I am going to give you a discount since you've been providing me with such a valuable service."
-    MS "Hmmm... You know what?... I am going to give you a discount since you've been providing me with such a valuable service."
+msgstr "[MS] Hmmm... You know what?... I am going to give you a discount since you've been providing me with such a valuable service."
 
 # game/UpdateScript0.07.rpy:4311## # translate crowdin stones_classroom_42dbd507:
 msgid "R "Here's the money."
@@ -5876,11 +5876,11 @@ msgstr "{b}{i}\"Money -$200\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4314## # translate crowdin stones_classroom_031247bc:
 msgid "[MS] Great!"
-    MS "Great!"
+msgstr "[MS] Great!"
 
 # game/UpdateScript0.07.rpy:4317## # translate crowdin stones_classroom_613d1874:
 msgid "[MS] I assume you'll be sticking around after, to try and finish our never-ending painting?"
-    MS "I assume you'll be sticking around after, to try and finish our never-ending painting?"
+msgstr "[MS] I assume you'll be sticking around after, to try and finish our never-ending painting?"
 
 # game/UpdateScript0.07.rpy:4318## # translate crowdin stones_classroom_838a9db2:
 msgid "R "You couldn't stop me."
@@ -5892,15 +5892,15 @@ msgid "MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
 
 # game/UpdateScript0.07.rpy:4320## # translate crowdin stones_classroom_a54823e4:
 msgid "[MS] Great! Let's get started.."
-    MS "Great! Let's get started.."
+msgstr "[MS] Great! Let's get started.."
 
 # game/UpdateScript0.07.rpy:4321## # translate crowdin stones_classroom_3bbc2e8e:
 msgid "[MS] Go login on my computer and print the images of Lauren for the posters."
-    MS "Go login on my computer and print the images of Lauren for the posters."
+msgstr "[MS] Go login on my computer and print the images of Lauren for the posters."
 
 # game/UpdateScript0.07.rpy:4322## # translate crowdin stones_classroom_bbbca1da:
 msgid "[MS] I'll set up the easel, and grab the paints."
-    MS "I'll set up the easel, and grab the paints."
+msgstr "[MS] I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4324## # translate crowdin stones_classroom_dd3319d7:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
@@ -5916,7 +5916,7 @@ msgid "R "Shoot!... It looks like I don't have the money right now."
 
 # game/UpdateScript0.07.rpy:4353## # translate crowdin stones_classroom_a9824eca:
 msgid "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
-    MS "That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
+msgstr "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
 
 # game/UpdateScript0.07.rpy:4354## # translate crowdin stones_classroom_088b8b36:
 msgid "R "Will do..."
@@ -5928,7 +5928,7 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4358## # translate crowdin stones_classroom_8bf53c65:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4361## # translate crowdin stones_classroom_22425287:
 msgid "R "Shit!... I know these posters are important, but I've got to budget my money."
@@ -5940,19 +5940,19 @@ msgid "R "I just need the money elsewhere right now."
 
 # game/UpdateScript0.07.rpy:4363## # translate crowdin stones_classroom_34a08bc2:
 msgid "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
-    MS "I understand, I'm here every day this week... So, if you change your mind, just come on in."
+msgstr "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
 
 # game/UpdateScript0.07.rpy:4366## # translate crowdin stones_classroom_0689258b:
 msgid "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
-    MS "Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
+msgstr "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
 
 # game/UpdateScript0.07.rpy:4367## # translate crowdin stones_classroom_1ceb59cc:
 msgid "[MS] I hope to see you back here soon."
-    MS "I hope to see you back here soon."
+msgstr "[MS] I hope to see you back here soon."
 
 # game/UpdateScript0.07.rpy:4368## # translate crowdin stones_classroom_e2705816:
 msgid "[MS] Someone needs to humble my nephew."
-    MS "Someone needs to humble my nephew."
+msgstr "[MS] Someone needs to humble my nephew."
 
 # game/UpdateScript0.07.rpy:4369## # translate crowdin stones_classroom_a9710912:
 msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
@@ -5960,7 +5960,7 @@ msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
 
 # game/UpdateScript0.07.rpy:4372## # translate crowdin stones_classroom_8bf53c65_1:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4381## # translate crowdin stones_classroom_019a7282:
 msgid "RT "{i}I wonder how Mrs. Stone is holding up after her incident with Mr. Peterson.{/i}"
@@ -5988,11 +5988,11 @@ msgid "R "Uhhh... Mrs. Stone?"
 
 # game/UpdateScript0.07.rpy:4398## # translate crowdin stones_classroom_6a5fefc9_1:
 msgid "[MS] [ryan]!"
-    MS "[ryan]!"
+msgstr "[MS] [ryan]!"
 
 # game/UpdateScript0.07.rpy:4399## # translate crowdin stones_classroom_0a45d2cf_1:
 msgid "[MS] My hero from the park?"
-    MS "My hero from the park?"
+msgstr "[MS] My hero from the park?"
 
 # game/UpdateScript0.07.rpy:4400## # translate crowdin stones_classroom_692a2230_1:
 msgid "R "Haha... Hi, Mrs. Stone."
@@ -6000,7 +6000,7 @@ msgid "R "Haha... Hi, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4403## # translate crowdin stones_classroom_b2855d56_1:
 msgid "[MS] Come give me a hug."
-    MS "Come give me a hug."
+msgstr "[MS] Come give me a hug."
 
 # game/UpdateScript0.07.rpy:4406## # translate crowdin stones_classroom_079926ad_1:
 msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
@@ -6020,7 +6020,7 @@ msgid "RT "{i}And all I can think about is that handjob.{/i}"
 
 # game/UpdateScript0.07.rpy:4413## # translate crowdin stones_classroom_5ac6b810_1:
 msgid "[MS] Thank you again for saving me at the park!"
-    MS "Thank you again for saving me at the park!"
+msgstr "[MS] Thank you again for saving me at the park!"
 
 # game/UpdateScript0.07.rpy:4414## # translate crowdin stones_classroom_b3e0249a_1:
 msgid "R "It was my pleasure."
@@ -6028,15 +6028,15 @@ msgid "R "It was my pleasure."
 
 # game/UpdateScript0.07.rpy:4421## # translate crowdin stones_classroom_de5ed617:
 msgid "[MS] Oh... Hi, [ryan]."
-    MS "Oh... Hi, [ryan]."
+msgstr "[MS] Oh... Hi, [ryan]."
 
 # game/UpdateScript0.07.rpy:4422## # translate crowdin stones_classroom_f771d599:
 msgid "[MS] I didn't hear you come in."
-    MS "I didn't hear you come in."
+msgstr "[MS] I didn't hear you come in."
 
 # game/UpdateScript0.07.rpy:4424## # translate crowdin stones_classroom_a8dd1c71_1:
 msgid "[MS] I'm guessing you're here for more posters?"
-    MS "I'm guessing you're here for more posters?"
+msgstr "[MS] I'm guessing you're here for more posters?"
 
 # game/UpdateScript0.07.rpy:4425## # translate crowdin stones_classroom_0303282a:
 msgid "R "You guessed it. Matt tore them down again."
@@ -6044,7 +6044,7 @@ msgid "R "You guessed it. Matt tore them down again."
 
 # game/UpdateScript0.07.rpy:4428## # translate crowdin stones_classroom_e7e58665:
 msgid "[MS] Well, that's not all bad, now I get to have a visit from my favorite former student."
-    MS "Well, that's not all bad, now I get to have a visit from my favorite former student."
+msgstr "[MS] Well, that's not all bad, now I get to have a visit from my favorite former student."
 
 # game/UpdateScript0.07.rpy:4429## # translate crowdin stones_classroom_26ac7fcb:
 msgid "R "I'm sure you say that to all your students."
@@ -6064,11 +6064,11 @@ msgid "RT "{i}But I bet she hasn't jacked off nearly as many.{/i}"
 
 # game/UpdateScript0.07.rpy:4436## # translate crowdin stones_classroom_27a76f3a:
 msgid "[MS] No... Just a lot of them, haha..."
-    MS "No... Just a lot of them, haha..."
+msgstr "[MS] No... Just a lot of them, haha..."
 
 # game/UpdateScript0.07.rpy:4439## # translate crowdin stones_classroom_fa25cb80_1:
 msgid "[MS] So, are we looking at 20 more posters?"
-    MS "So, are we looking at 20 more posters?"
+msgstr "[MS] So, are we looking at 20 more posters?"
 
 # game/UpdateScript0.07.rpy:4440## # translate crowdin stones_classroom_568a58b0_1:
 msgid "R "Yeah, same as last time."
@@ -6076,7 +6076,7 @@ msgid "R "Yeah, same as last time."
 
 # game/UpdateScript0.07.rpy:4441## # translate crowdin stones_classroom_2a7ea23f:
 msgid "[MS] Sounds good... As soon as you pay me the three hundred dollars, we can get started."
-    MS "Sounds good... As soon as you pay me the three hundred dollars, we can get started."
+msgstr "[MS] Sounds good... As soon as you pay me the three hundred dollars, we can get started."
 
 # game/UpdateScript0.07.rpy:4444## # translate crowdin stones_classroom_3a158f16:
 msgid "R "Well, it does seem like money well spent, people are still talking a lot about Lauren."
@@ -6084,7 +6084,7 @@ msgid "R "Well, it does seem like money well spent, people are still talking a l
 
 # game/UpdateScript0.07.rpy:4446## # translate crowdin stones_classroom_779b7e48:
 msgid "[MS] I think you're right, every day another boy wants to make a painting of Lauren."
-    MS "I think you're right, every day another boy wants to make a painting of Lauren."
+msgstr "[MS] I think you're right, every day another boy wants to make a painting of Lauren."
 
 # game/UpdateScript0.07.rpy:4447## # translate crowdin stones_classroom_8a528d11:
 msgid "R "That's so crazy!"
@@ -6092,7 +6092,7 @@ msgid "R "That's so crazy!"
 
 # game/UpdateScript0.07.rpy:4449## # translate crowdin stones_classroom_982586fb:
 msgid "[MS] I think you're right... One of the boys in my art class was actually trying to do a painting of Lauren's picture."
-    MS "I think you're right... One of the boys in my art class was actually trying to do a painting of Lauren's picture."
+msgstr "[MS] I think you're right... One of the boys in my art class was actually trying to do a painting of Lauren's picture."
 
 # game/UpdateScript0.07.rpy:4450## # translate crowdin stones_classroom_4272054f:
 msgid "R "Really?... I guess that's encouraging."
@@ -6112,11 +6112,11 @@ msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4455## # translate crowdin stones_classroom_031247bc_1:
 msgid "[MS] Great!"
-    MS "Great!"
+msgstr "[MS] Great!"
 
 # game/UpdateScript0.07.rpy:4458## # translate crowdin stones_classroom_fba31832:
 msgid "[MS] Oh, and don't forget the other part of your payment for the posters."
-    MS "Oh, and don't forget the other part of your payment for the posters."
+msgstr "[MS] Oh, and don't forget the other part of your payment for the posters."
 
 # game/UpdateScript0.07.rpy:4459## # translate crowdin stones_classroom_8b87b9d8:
 msgid "R "How could I?"
@@ -6128,15 +6128,15 @@ msgid "MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
 
 # game/UpdateScript0.07.rpy:4461## # translate crowdin stones_classroom_a54823e4_1:
 msgid "[MS] Great! Let's get started.."
-    MS "Great! Let's get started.."
+msgstr "[MS] Great! Let's get started.."
 
 # game/UpdateScript0.07.rpy:4462## # translate crowdin stones_classroom_3bbc2e8e_1:
 msgid "[MS] Go login on my computer and print the images of Lauren for the posters."
-    MS "Go login on my computer and print the images of Lauren for the posters."
+msgstr "[MS] Go login on my computer and print the images of Lauren for the posters."
 
 # game/UpdateScript0.07.rpy:4463## # translate crowdin stones_classroom_bbbca1da_1:
 msgid "[MS] I'll set up the easel, and grab the paints."
-    MS "I'll set up the easel, and grab the paints."
+msgstr "[MS] I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4465## # translate crowdin stones_classroom_dd3319d7_1:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
@@ -6152,7 +6152,7 @@ msgid "R "Shoot!... It looks like I don't have the money right now."
 
 # game/UpdateScript0.07.rpy:4494## # translate crowdin stones_classroom_a9824eca_1:
 msgid "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
-    MS "That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
+msgstr "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
 
 # game/UpdateScript0.07.rpy:4495## # translate crowdin stones_classroom_088b8b36_1:
 msgid "R "Will do..."
@@ -6164,7 +6164,7 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4499## # translate crowdin stones_classroom_8bf53c65_2:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4502## # translate crowdin stones_classroom_22425287_1:
 msgid "R "Shit!... I know these posters are important, but I've got to budget my money."
@@ -6176,19 +6176,19 @@ msgid "R "I just need the money elsewhere right now."
 
 # game/UpdateScript0.07.rpy:4504## # translate crowdin stones_classroom_34a08bc2_1:
 msgid "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
-    MS "I understand, I'm here every day this week... So, if you change your mind, just come on in."
+msgstr "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
 
 # game/UpdateScript0.07.rpy:4507## # translate crowdin stones_classroom_0689258b_1:
 msgid "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
-    MS "Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
+msgstr "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
 
 # game/UpdateScript0.07.rpy:4508## # translate crowdin stones_classroom_1ceb59cc_1:
 msgid "[MS] I hope to see you back here soon."
-    MS "I hope to see you back here soon."
+msgstr "[MS] I hope to see you back here soon."
 
 # game/UpdateScript0.07.rpy:4509## # translate crowdin stones_classroom_e2705816_1:
 msgid "[MS] Someone needs to humble my nephew."
-    MS "Someone needs to humble my nephew."
+msgstr "[MS] Someone needs to humble my nephew."
 
 # game/UpdateScript0.07.rpy:4510## # translate crowdin stones_classroom_a9710912_1:
 msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
@@ -6196,7 +6196,7 @@ msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
 
 # game/UpdateScript0.07.rpy:4513## # translate crowdin stones_classroom_8bf53c65_3:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4522## # translate crowdin stones_classroom_019a7282_1:
 msgid "RT "{i}I wonder how Mrs. Stone is holding up after her incident with Mr. Peterson.{/i}"
@@ -6216,11 +6216,11 @@ msgid "R "Uhhh... Mrs. Stone?"
 
 # game/UpdateScript0.07.rpy:4534## # translate crowdin stones_classroom_6a5fefc9_2:
 msgid "[MS] [ryan]!"
-    MS "[ryan]!"
+msgstr "[MS] [ryan]!"
 
 # game/UpdateScript0.07.rpy:4535## # translate crowdin stones_classroom_0a45d2cf_2:
 msgid "[MS] My hero from the park?"
-    MS "My hero from the park?"
+msgstr "[MS] My hero from the park?"
 
 # game/UpdateScript0.07.rpy:4536## # translate crowdin stones_classroom_692a2230_2:
 msgid "R "Haha... Hi, Mrs. Stone."
@@ -6228,7 +6228,7 @@ msgid "R "Haha... Hi, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4539## # translate crowdin stones_classroom_b2855d56_2:
 msgid "[MS] Come give me a hug."
-    MS "Come give me a hug."
+msgstr "[MS] Come give me a hug."
 
 # game/UpdateScript0.07.rpy:4542## # translate crowdin stones_classroom_079926ad_2:
 msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
@@ -6236,7 +6236,7 @@ msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
 
 # game/UpdateScript0.07.rpy:4543## # translate crowdin stones_classroom_5ac6b810_2:
 msgid "[MS] Thank you again for saving me at the park!"
-    MS "Thank you again for saving me at the park!"
+msgstr "[MS] Thank you again for saving me at the park!"
 
 # game/UpdateScript0.07.rpy:4544## # translate crowdin stones_classroom_b3e0249a_2:
 msgid "R "It was my pleasure."
@@ -6244,15 +6244,15 @@ msgid "R "It was my pleasure."
 
 # game/UpdateScript0.07.rpy:4551## # translate crowdin stones_classroom_de5ed617_1:
 msgid "[MS] Oh... Hi, [ryan]."
-    MS "Oh... Hi, [ryan]."
+msgstr "[MS] Oh... Hi, [ryan]."
 
 # game/UpdateScript0.07.rpy:4552## # translate crowdin stones_classroom_f771d599_1:
 msgid "[MS] I didn't hear you come in."
-    MS "I didn't hear you come in."
+msgstr "[MS] I didn't hear you come in."
 
 # game/UpdateScript0.07.rpy:4554## # translate crowdin stones_classroom_a8dd1c71_2:
 msgid "[MS] I'm guessing you're here for more posters?"
-    MS "I'm guessing you're here for more posters?"
+msgstr "[MS] I'm guessing you're here for more posters?"
 
 # game/UpdateScript0.07.rpy:4555## # translate crowdin stones_classroom_0303282a_1:
 msgid "R "You guessed it. Matt tore them down again."
@@ -6260,7 +6260,7 @@ msgid "R "You guessed it. Matt tore them down again."
 
 # game/UpdateScript0.07.rpy:4558## # translate crowdin stones_classroom_e7e58665_1:
 msgid "[MS] Well, that's not all bad, now I get to have a visit from my favorite former student."
-    MS "Well, that's not all bad, now I get to have a visit from my favorite former student."
+msgstr "[MS] Well, that's not all bad, now I get to have a visit from my favorite former student."
 
 # game/UpdateScript0.07.rpy:4559## # translate crowdin stones_classroom_26ac7fcb_1:
 msgid "R "I'm sure you say that to all your students."
@@ -6268,11 +6268,11 @@ msgid "R "I'm sure you say that to all your students."
 
 # game/UpdateScript0.07.rpy:4560## # translate crowdin stones_classroom_27a76f3a_1:
 msgid "[MS] No... Just a lot of them, haha..."
-    MS "No... Just a lot of them, haha..."
+msgstr "[MS] No... Just a lot of them, haha..."
 
 # game/UpdateScript0.07.rpy:4563## # translate crowdin stones_classroom_fa25cb80_2:
 msgid "[MS] So, are we looking at 20 more posters?"
-    MS "So, are we looking at 20 more posters?"
+msgstr "[MS] So, are we looking at 20 more posters?"
 
 # game/UpdateScript0.07.rpy:4564## # translate crowdin stones_classroom_568a58b0_2:
 msgid "R "Yeah, same as last time."
@@ -6280,7 +6280,7 @@ msgid "R "Yeah, same as last time."
 
 # game/UpdateScript0.07.rpy:4565## # translate crowdin stones_classroom_2a7ea23f_1:
 msgid "[MS] Sounds good... As soon as you pay me the three hundred dollars, we can get started."
-    MS "Sounds good... As soon as you pay me the three hundred dollars, we can get started."
+msgstr "[MS] Sounds good... As soon as you pay me the three hundred dollars, we can get started."
 
 # game/UpdateScript0.07.rpy:4568## # translate crowdin stones_classroom_9a5d037f:
 msgid "R "Well, it does seem like money well spent, people seem to be talking about Lauren more than ever around the school."
@@ -6304,11 +6304,11 @@ msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4574## # translate crowdin stones_classroom_031247bc_2:
 msgid "[MS] Great!"
-    MS "Great!"
+msgstr "[MS] Great!"
 
 # game/UpdateScript0.07.rpy:4577## # translate crowdin stones_classroom_fba31832_1:
 msgid "[MS] Oh, and don't forget the other part of your payment for the posters."
-    MS "Oh, and don't forget the other part of your payment for the posters."
+msgstr "[MS] Oh, and don't forget the other part of your payment for the posters."
 
 # game/UpdateScript0.07.rpy:4578## # translate crowdin stones_classroom_8ab711e2:
 msgid "R "You mean being a model for your portrait?"
@@ -6316,7 +6316,7 @@ msgid "R "You mean being a model for your portrait?"
 
 # game/UpdateScript0.07.rpy:4579## # translate crowdin stones_classroom_54c8272e:
 msgid "[MS] Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
-    MS "Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
+msgstr "[MS] Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
 
 # game/UpdateScript0.07.rpy:4580## # translate crowdin stones_classroom_ee903cde:
 msgid "R "You got it."
@@ -6324,15 +6324,15 @@ msgid "R "You got it."
 
 # game/UpdateScript0.07.rpy:4581## # translate crowdin stones_classroom_a54823e4_2:
 msgid "[MS] Great! Let's get started.."
-    MS "Great! Let's get started.."
+msgstr "[MS] Great! Let's get started.."
 
 # game/UpdateScript0.07.rpy:4582## # translate crowdin stones_classroom_3bbc2e8e_2:
 msgid "[MS] Go login on my computer and print the images of Lauren for the posters."
-    MS "Go login on my computer and print the images of Lauren for the posters."
+msgstr "[MS] Go login on my computer and print the images of Lauren for the posters."
 
 # game/UpdateScript0.07.rpy:4583## # translate crowdin stones_classroom_bbbca1da_2:
 msgid "[MS] I'll set up the easel, and grab the paints."
-    MS "I'll set up the easel, and grab the paints."
+msgstr "[MS] I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4585## # translate crowdin stones_classroom_dd3319d7_2:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
@@ -6348,7 +6348,7 @@ msgid "R "Shoot!... It looks like I don't have the money right now."
 
 # game/UpdateScript0.07.rpy:4614## # translate crowdin stones_classroom_a9824eca_2:
 msgid "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
-    MS "That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
+msgstr "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
 
 # game/UpdateScript0.07.rpy:4615## # translate crowdin stones_classroom_088b8b36_2:
 msgid "R "Will do..."
@@ -6360,7 +6360,7 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4619## # translate crowdin stones_classroom_8bf53c65_4:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4622## # translate crowdin stones_classroom_22425287_2:
 msgid "R "Shit!... I know these posters are important, but I've got to budget my money."
@@ -6372,19 +6372,19 @@ msgid "R "I just need the money elsewhere right now."
 
 # game/UpdateScript0.07.rpy:4624## # translate crowdin stones_classroom_34a08bc2_2:
 msgid "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
-    MS "I understand, I'm here every day this week... So, if you change your mind, just come on in."
+msgstr "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
 
 # game/UpdateScript0.07.rpy:4627## # translate crowdin stones_classroom_0689258b_2:
 msgid "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
-    MS "Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
+msgstr "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
 
 # game/UpdateScript0.07.rpy:4628## # translate crowdin stones_classroom_1ceb59cc_2:
 msgid "[MS] I hope to see you back here soon."
-    MS "I hope to see you back here soon."
+msgstr "[MS] I hope to see you back here soon."
 
 # game/UpdateScript0.07.rpy:4629## # translate crowdin stones_classroom_e2705816_2:
 msgid "[MS] Someone needs to humble my nephew."
-    MS "Someone needs to humble my nephew."
+msgstr "[MS] Someone needs to humble my nephew."
 
 # game/UpdateScript0.07.rpy:4630## # translate crowdin stones_classroom_a9710912_2:
 msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
@@ -6392,7 +6392,7 @@ msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
 
 # game/UpdateScript0.07.rpy:4633## # translate crowdin stones_classroom_8bf53c65_5:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4642## # translate crowdin stones_classroom_019a7282_2:
 msgid "RT "{i}I wonder how Mrs. Stone is holding up after her incident with Mr. Peterson.{/i}"
@@ -6412,11 +6412,11 @@ msgid "R "Uhhh... Mrs. Stone?"
 
 # game/UpdateScript0.07.rpy:4654## # translate crowdin stones_classroom_6a5fefc9_3:
 msgid "[MS] [ryan]!"
-    MS "[ryan]!"
+msgstr "[MS] [ryan]!"
 
 # game/UpdateScript0.07.rpy:4655## # translate crowdin stones_classroom_0a45d2cf_3:
 msgid "[MS] My hero from the park?"
-    MS "My hero from the park?"
+msgstr "[MS] My hero from the park?"
 
 # game/UpdateScript0.07.rpy:4656## # translate crowdin stones_classroom_692a2230_3:
 msgid "R "Haha... Hi, Mrs. Stone."
@@ -6424,7 +6424,7 @@ msgid "R "Haha... Hi, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4659## # translate crowdin stones_classroom_b2855d56_3:
 msgid "[MS] Come give me a hug."
-    MS "Come give me a hug."
+msgstr "[MS] Come give me a hug."
 
 # game/UpdateScript0.07.rpy:4662## # translate crowdin stones_classroom_079926ad_3:
 msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
@@ -6432,7 +6432,7 @@ msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
 
 # game/UpdateScript0.07.rpy:4663## # translate crowdin stones_classroom_5ac6b810_3:
 msgid "[MS] Thank you again for saving me at the park!"
-    MS "Thank you again for saving me at the park!"
+msgstr "[MS] Thank you again for saving me at the park!"
 
 # game/UpdateScript0.07.rpy:4664## # translate crowdin stones_classroom_b3e0249a_3:
 msgid "R "It was my pleasure."
@@ -6440,15 +6440,15 @@ msgid "R "It was my pleasure."
 
 # game/UpdateScript0.07.rpy:4671## # translate crowdin stones_classroom_de5ed617_2:
 msgid "[MS] Oh... Hi, [ryan]."
-    MS "Oh... Hi, [ryan]."
+msgstr "[MS] Oh... Hi, [ryan]."
 
 # game/UpdateScript0.07.rpy:4672## # translate crowdin stones_classroom_f771d599_2:
 msgid "[MS] I didn't hear you come in."
-    MS "I didn't hear you come in."
+msgstr "[MS] I didn't hear you come in."
 
 # game/UpdateScript0.07.rpy:4674## # translate crowdin stones_classroom_3881dff4:
 msgid "[MS] Now, What can I do for you?"
-    MS "Now, What can I do for you?"
+msgstr "[MS] Now, What can I do for you?"
 
 # game/UpdateScript0.07.rpy:4675## # translate crowdin stones_classroom_a0373ee5:
 msgid "R "I need to make some more campaign posters."
@@ -6456,7 +6456,7 @@ msgid "R "I need to make some more campaign posters."
 
 # game/UpdateScript0.07.rpy:4676## # translate crowdin stones_classroom_edfe6b02:
 msgid "[MS] Oh, really?... twenty posters weren't enough?"
-    MS "Oh, really?... twenty posters weren't enough?"
+msgstr "[MS] Oh, really?... twenty posters weren't enough?"
 
 # game/UpdateScript0.07.rpy:4677## # translate crowdin stones_classroom_f1409ca4:
 msgid "R "Well, Matt tore them all down and replaced them with his own."
@@ -6468,7 +6468,7 @@ msgid "R "Now I need to go return the favor."
 
 # game/UpdateScript0.07.rpy:4681## # translate crowdin stones_classroom_ca84747d:
 msgid "[MS] Good... I'm glad to hear you're not going to take his bullying lying down."
-    MS "Good... I'm glad to hear you're not going to take his bullying lying down."
+msgstr "[MS] Good... I'm glad to hear you're not going to take his bullying lying down."
 
 # game/UpdateScript0.07.rpy:4682## # translate crowdin stones_classroom_38911a7c:
 msgid "R "Yeah, I'm hoping he'll realize it's going to be just as expensive for him to keep tearing down our posters."
@@ -6476,23 +6476,23 @@ msgid "R "Yeah, I'm hoping he'll realize it's going to be just as expensive for 
 
 # game/UpdateScript0.07.rpy:4685## # translate crowdin stones_classroom_6bb462e9:
 msgid "[MS] That won't bother him too much. His parents are paying for his campaign, and they're pretty wealthy."
-    MS "That won't bother him too much. His parents are paying for his campaign, and they're pretty wealthy."
+msgstr "[MS] That won't bother him too much. His parents are paying for his campaign, and they're pretty wealthy."
 
 # game/UpdateScript0.07.rpy:4686## # translate crowdin stones_classroom_a5273cc4:
 msgid "[MS] So, he's not going to quit."
-    MS "So, he's not going to quit."
+msgstr "[MS] So, he's not going to quit."
 
 # game/UpdateScript0.07.rpy:4687## # translate crowdin stones_classroom_8b7b7bb9:
 msgid "[MS] But, as busy as he is with basketball, He probably won't be able to get around to retaliating for about a week."
-    MS "But, as busy as he is with basketball, He probably won't be able to get around to retaliating for about a week."
+msgstr "[MS] But, as busy as he is with basketball, He probably won't be able to get around to retaliating for about a week."
 
 # game/UpdateScript0.07.rpy:4688## # translate crowdin stones_classroom_300e0f21:
 msgid "[MS] That will give Lauren's posters some time to do their job."
-    MS "That will give Lauren's posters some time to do their job."
+msgstr "[MS] That will give Lauren's posters some time to do their job."
 
 # game/UpdateScript0.07.rpy:4689## # translate crowdin stones_classroom_ea2140f1:
 msgid "[MS] And if you retaliate quickly, the students won't get very much exposure to Matt's posters at all."
-    MS "And if you retaliate quickly, the students won't get very much exposure to Matt's posters at all."
+msgstr "[MS] And if you retaliate quickly, the students won't get very much exposure to Matt's posters at all."
 
 # game/UpdateScript0.07.rpy:4690## # translate crowdin stones_classroom_09c1fbc9:
 msgid "R "Are you saying this could become a weekly expense?"
@@ -6500,7 +6500,7 @@ msgid "R "Are you saying this could become a weekly expense?"
 
 # game/UpdateScript0.07.rpy:4691## # translate crowdin stones_classroom_e9e020e7:
 msgid "[MS] Yeah, most likely."
-    MS "Yeah, most likely."
+msgstr "[MS] Yeah, most likely."
 
 # game/UpdateScript0.07.rpy:4692## # translate crowdin stones_classroom_69e8ae39:
 msgid "R "Shit!... I wasn't planning on that."
@@ -6508,7 +6508,7 @@ msgid "R "Shit!... I wasn't planning on that."
 
 # game/UpdateScript0.07.rpy:4693## # translate crowdin stones_classroom_66f6e26b:
 msgid "[MS] I hope you can afford it, I'd hate to see that little shit win the poster war."
-    MS "I hope you can afford it, I'd hate to see that little shit win the poster war."
+msgstr "[MS] I hope you can afford it, I'd hate to see that little shit win the poster war."
 
 # game/UpdateScript0.07.rpy:4694## # translate crowdin stones_classroom_1edc8510:
 msgid "R "I'm sure going to try."
@@ -6516,7 +6516,7 @@ msgid "R "I'm sure going to try."
 
 # game/UpdateScript0.07.rpy:4697## # translate crowdin stones_classroom_fa25cb80_3:
 msgid "[MS] So, are we looking at 20 more posters?"
-    MS "So, are we looking at 20 more posters?"
+msgstr "[MS] So, are we looking at 20 more posters?"
 
 # game/UpdateScript0.07.rpy:4698## # translate crowdin stones_classroom_00ed386c:
 msgid "R "Yeah, that's about how many I'll need."
@@ -6524,7 +6524,7 @@ msgid "R "Yeah, that's about how many I'll need."
 
 # game/UpdateScript0.07.rpy:4699## # translate crowdin stones_classroom_b7b0ab3c:
 msgid "[MS] Sounds good... As soon as you pay me three hundred dollars, we can get started."
-    MS "Sounds good... As soon as you pay me three hundred dollars, we can get started."
+msgstr "[MS] Sounds good... As soon as you pay me three hundred dollars, we can get started."
 
 # game/UpdateScript0.07.rpy:4700## # translate crowdin stones_classroom_211cf5f1:
 msgid "R "No discount for a second batch?"
@@ -6532,7 +6532,7 @@ msgid "R "No discount for a second batch?"
 
 # game/UpdateScript0.07.rpy:4701## # translate crowdin stones_classroom_db4fe83a:
 msgid "[MS] I wish I could, but I'm already giving you the lowest price I can do them for without losing money."
-    MS "I wish I could, but I'm already giving you the lowest price I can do them for without losing money."
+msgstr "[MS] I wish I could, but I'm already giving you the lowest price I can do them for without losing money."
 
 # game/UpdateScript0.07.rpy:4704## # translate crowdin stones_classroom_8244bbcb:
 msgid "R "Yeah, I don't see how Lauren can win the election if we don't keep fighting this poster war."
@@ -6548,15 +6548,15 @@ msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4708## # translate crowdin stones_classroom_89d2d541:
 msgid "[MS] I think that's really smart."
-    MS "I think that's really smart."
+msgstr "[MS] I think that's really smart."
 
 # game/UpdateScript0.07.rpy:4709## # translate crowdin stones_classroom_0c4d5928:
 msgid "[MS] The pics you're using on those posters should eventually bring voters around."
-    MS "The pics you're using on those posters should eventually bring voters around."
+msgstr "[MS] The pics you're using on those posters should eventually bring voters around."
 
 # game/UpdateScript0.07.rpy:4712## # translate crowdin stones_classroom_fba31832_2:
 msgid "[MS] Oh, and don't forget the other part of your payment for the posters."
-    MS "Oh, and don't forget the other part of your payment for the posters."
+msgstr "[MS] Oh, and don't forget the other part of your payment for the posters."
 
 # game/UpdateScript0.07.rpy:4713## # translate crowdin stones_classroom_8ab711e2_1:
 msgid "R "You mean being a model for your portrait?"
@@ -6564,7 +6564,7 @@ msgid "R "You mean being a model for your portrait?"
 
 # game/UpdateScript0.07.rpy:4714## # translate crowdin stones_classroom_54c8272e_1:
 msgid "[MS] Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
-    MS "Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
+msgstr "[MS] Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
 
 # game/UpdateScript0.07.rpy:4715## # translate crowdin stones_classroom_ee903cde_1:
 msgid "R "You got it."
@@ -6572,15 +6572,15 @@ msgid "R "You got it."
 
 # game/UpdateScript0.07.rpy:4716## # translate crowdin stones_classroom_a54823e4_3:
 msgid "[MS] Great! Let's get started.."
-    MS "Great! Let's get started.."
+msgstr "[MS] Great! Let's get started.."
 
 # game/UpdateScript0.07.rpy:4717## # translate crowdin stones_classroom_3bbc2e8e_3:
 msgid "[MS] Go login on my computer and print the images of Lauren for the posters."
-    MS "Go login on my computer and print the images of Lauren for the posters."
+msgstr "[MS] Go login on my computer and print the images of Lauren for the posters."
 
 # game/UpdateScript0.07.rpy:4718## # translate crowdin stones_classroom_bbbca1da_3:
 msgid "[MS] I'll set up the easel, and grab the paints."
-    MS "I'll set up the easel, and grab the paints."
+msgstr "[MS] I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4720## # translate crowdin stones_classroom_dd3319d7_3:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
@@ -6592,7 +6592,7 @@ msgid "R "Shoot!... It looks like I don't have the money right now."
 
 # game/UpdateScript0.07.rpy:4737## # translate crowdin stones_classroom_a9824eca_3:
 msgid "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
-    MS "That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
+msgstr "[MS] That's ok... I'll be here every day this week... Just get the money and come back tomorrow, or the next day, or whenever you can afford it."
 
 # game/UpdateScript0.07.rpy:4738## # translate crowdin stones_classroom_088b8b36_3:
 msgid "R "Will do..."
@@ -6604,7 +6604,7 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4742## # translate crowdin stones_classroom_8bf53c65_6:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4745## # translate crowdin stones_classroom_22425287_3:
 msgid "R "Shit!... I know these posters are important, but I've got to budget my money."
@@ -6616,19 +6616,19 @@ msgid "R "I just need the money elsewhere right now."
 
 # game/UpdateScript0.07.rpy:4747## # translate crowdin stones_classroom_34a08bc2_3:
 msgid "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
-    MS "I understand, I'm here every day this week... So, if you change your mind, just come on in."
+msgstr "[MS] I understand, I'm here every day this week... So, if you change your mind, just come on in."
 
 # game/UpdateScript0.07.rpy:4750## # translate crowdin stones_classroom_0689258b_3:
 msgid "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
-    MS "Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
+msgstr "[MS] Just make sure you don't underestimate how effective these posters are at gaining {b}\"School Influence\"{/b} for Lauren."
 
 # game/UpdateScript0.07.rpy:4751## # translate crowdin stones_classroom_1ceb59cc_3:
 msgid "[MS] I hope to see you back here soon."
-    MS "I hope to see you back here soon."
+msgstr "[MS] I hope to see you back here soon."
 
 # game/UpdateScript0.07.rpy:4752## # translate crowdin stones_classroom_e2705816_3:
 msgid "[MS] Someone needs to humble my nephew."
-    MS "Someone needs to humble my nephew."
+msgstr "[MS] Someone needs to humble my nephew."
 
 # game/UpdateScript0.07.rpy:4753## # translate crowdin stones_classroom_a9710912_3:
 msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
@@ -6636,7 +6636,7 @@ msgid "R "Thanks for the support, Mrs. Stone... I'm sure I'll be back soon."
 
 # game/UpdateScript0.07.rpy:4756## # translate crowdin stones_classroom_8bf53c65_7:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4764## # translate crowdin stones_classroom_5849e89c:
 msgid "RT "{i}Ah... My old art classroom.{/i}"
@@ -6676,11 +6676,11 @@ msgid "R "Uhhh... Mrs. Stone?"
 
 # game/UpdateScript0.07.rpy:4783## # translate crowdin stones_classroom_020069a0:
 msgid "[MS] Is that my favorite student?"
-    MS "Is that my favorite student?"
+msgstr "[MS] Is that my favorite student?"
 
 # game/UpdateScript0.07.rpy:4784## # translate crowdin stones_classroom_0a45d2cf_4:
 msgid "[MS] My hero from the park?"
-    MS "My hero from the park?"
+msgstr "[MS] My hero from the park?"
 
 # game/UpdateScript0.07.rpy:4785## # translate crowdin stones_classroom_ea681a99:
 msgid "R "Haha... Yeah, it's me, Mrs. Stone."
@@ -6688,7 +6688,7 @@ msgid "R "Haha... Yeah, it's me, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4788## # translate crowdin stones_classroom_b2855d56_4:
 msgid "[MS] Come give me a hug."
-    MS "Come give me a hug."
+msgstr "[MS] Come give me a hug."
 
 # game/UpdateScript0.07.rpy:4791## # translate crowdin stones_classroom_079926ad_4:
 msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
@@ -6696,7 +6696,7 @@ msgid "RT "{i}Mrs. Stone's hugs are the best!{/i}"
 
 # game/UpdateScript0.07.rpy:4798## # translate crowdin stones_classroom_3f62f859:
 msgid "[MS] Oh... Hello..."
-    MS "Oh... Hello..."
+msgstr "[MS] Oh... Hello..."
 
 # game/UpdateScript0.07.rpy:4799## # translate crowdin stones_classroom_4a378a4c:
 msgid "R "Hi, Mrs. Stone."
@@ -6708,11 +6708,11 @@ msgid "R "Remember me?"
 
 # game/UpdateScript0.07.rpy:4801## # translate crowdin stones_classroom_d7d8db85:
 msgid "[MS] Oh... From my class last year."
-    MS "Oh... From my class last year."
+msgstr "[MS] Oh... From my class last year."
 
 # game/UpdateScript0.07.rpy:4802## # translate crowdin stones_classroom_50cfee0d:
 msgid "[MS] Ronald, wasn't it?"
-    MS "Ronald, wasn't it?"
+msgstr "[MS] Ronald, wasn't it?"
 
 # game/UpdateScript0.07.rpy:4803## # translate crowdin stones_classroom_4856b932:
 msgid "R "[ryan], actually."
@@ -6720,11 +6720,11 @@ msgid "R "[ryan], actually."
 
 # game/UpdateScript0.07.rpy:4804## # translate crowdin stones_classroom_1018e65a:
 msgid "[MS] Oh yes, [ryan]."
-    MS "Oh yes, [ryan]."
+msgstr "[MS] Oh yes, [ryan]."
 
 # game/UpdateScript0.07.rpy:4805## # translate crowdin stones_classroom_392b5acf:
 msgid "[MS] I hope you've been well."
-    MS "I hope you've been well."
+msgstr "[MS] I hope you've been well."
 
 # game/UpdateScript0.07.rpy:4806## # translate crowdin stones_classroom_35c6fae5:
 msgid "RT "{i}I guess, besides my life getting turned head down, ass up...{/i}"
@@ -6736,11 +6736,11 @@ msgid "R "Ehh... Can't complain."
 
 # game/UpdateScript0.07.rpy:4808## # translate crowdin stones_classroom_561e9bf0:
 msgid "[MS] Good..."
-    MS "Good..."
+msgstr "[MS] Good..."
 
 # game/UpdateScript0.07.rpy:4810## # translate crowdin stones_classroom_3881dff4_1:
 msgid "[MS] Now, What can I do for you?"
-    MS "Now, What can I do for you?"
+msgstr "[MS] Now, What can I do for you?"
 
 # game/UpdateScript0.07.rpy:4811## # translate crowdin stones_classroom_728bf00b:
 msgid "R "I need help making some campaign posters."
@@ -6748,7 +6748,7 @@ msgid "R "I need help making some campaign posters."
 
 # game/UpdateScript0.07.rpy:4812## # translate crowdin stones_classroom_77c7a841:
 msgid "[MS] Oh, really?... Are you running for one of the offices?"
-    MS "Oh, really?... Are you running for one of the offices?"
+msgstr "[MS] Oh, really?... Are you running for one of the offices?"
 
 # game/UpdateScript0.07.rpy:4813## # translate crowdin stones_classroom_769b8ffd:
 msgid "R "Not me... My sister Lauren is running for student body president."
@@ -6756,7 +6756,7 @@ msgid "R "Not me... My sister Lauren is running for student body president."
 
 # game/UpdateScript0.07.rpy:4816## # translate crowdin stones_classroom_b709d624:
 msgid "[MS] Oh... I know Lauren! Cute little redhead?"
-    MS "Oh... I know Lauren! Cute little redhead?"
+msgstr "[MS] Oh... I know Lauren! Cute little redhead?"
 
 # game/UpdateScript0.07.rpy:4817## # translate crowdin stones_classroom_a6c8ae53:
 msgid "R "That's her."
@@ -6764,15 +6764,15 @@ msgid "R "That's her."
 
 # game/UpdateScript0.07.rpy:4818## # translate crowdin stones_classroom_bab6b2ef:
 msgid "[MS] She was such a good student! Very artistic and creative."
-    MS "She was such a good student! Very artistic and creative."
+msgstr "[MS] She was such a good student! Very artistic and creative."
 
 # game/UpdateScript0.07.rpy:4819## # translate crowdin stones_classroom_e09c939d:
 msgid "[MS] She'd make a great president."
-    MS "She'd make a great president."
+msgstr "[MS] She'd make a great president."
 
 # game/UpdateScript0.07.rpy:4820## # translate crowdin stones_classroom_32bbb9be:
 msgid "[MS] Much better than my nephew Matt."
-    MS "Much better than my nephew Matt."
+msgstr "[MS] Much better than my nephew Matt."
 
 # game/UpdateScript0.07.rpy:4821## # translate crowdin stones_classroom_20584193:
 msgid "R "Wait!... Matt's your nephew?... As in the captain of the basketball team, goes to our school, is running for president, Matt?"
@@ -6780,7 +6780,7 @@ msgid "R "Wait!... Matt's your nephew?... As in the captain of the basketball te
 
 # game/UpdateScript0.07.rpy:4824## # translate crowdin stones_classroom_9066cf3d:
 msgid "[MS] That's the one."
-    MS "That's the one."
+msgstr "[MS] That's the one."
 
 # game/UpdateScript0.07.rpy:4825## # translate crowdin stones_classroom_895a152c:
 msgid "R "Wow!..."
@@ -6788,7 +6788,7 @@ msgid "R "Wow!..."
 
 # game/UpdateScript0.07.rpy:4826## # translate crowdin stones_classroom_170c8bec:
 msgid "[MS] So you need to make Lauren some campaign posters?"
-    MS "So you need to make Lauren some campaign posters?"
+msgstr "[MS] So you need to make Lauren some campaign posters?"
 
 # game/UpdateScript0.07.rpy:4827## # translate crowdin stones_classroom_85323806:
 msgid "R "Well, yeah, I was going to ask you for help, but that was before I realized you're Matt's aunt."
@@ -6804,15 +6804,15 @@ msgid "RT "{i}Maybe the rumors about them fucking aren't true after all.{/i}"
 
 # game/UpdateScript0.07.rpy:4830## # translate crowdin stones_classroom_e2965a7b:
 msgid "[MS] No, I wouldn't help him if he begged me."
-    MS "No, I wouldn't help him if he begged me."
+msgstr "[MS] No, I wouldn't help him if he begged me."
 
 # game/UpdateScript0.07.rpy:4831## # translate crowdin stones_classroom_79a3f7ab:
 msgid "[MS] My nephew would make a terrible student body president."
-    MS "My nephew would make a terrible student body president."
+msgstr "[MS] My nephew would make a terrible student body president."
 
 # game/UpdateScript0.07.rpy:4832## # translate crowdin stones_classroom_ba7d84cd:
 msgid "[MS] Not only that, I'm not on the best terms with him, or my sister, uhh... his mother I guess I should say."
-    MS "Not only that, I'm not on the best terms with him, or my sister, uhh... his mother I guess I should say."
+msgstr "[MS] Not only that, I'm not on the best terms with him, or my sister, uhh... his mother I guess I should say."
 
 # game/UpdateScript0.07.rpy:4833## # translate crowdin stones_classroom_9cfef6f4:
 msgid "MST "{i}Just because she caught us fucking, didn't mean she had to cut me out of their lives.{/i}"
@@ -6836,7 +6836,7 @@ msgid "R "Not to mention your big-ass printer."
 
 # game/UpdateScript0.07.rpy:4840## # translate crowdin stones_classroom_b6b9f57c:
 msgid "[MS] Haha... [ryan]!... We're still in school. Please try to use appropriate language."
-    MS "Haha... [ryan]!... We're still in school. Please try to use appropriate language."
+msgstr "[MS] Haha... [ryan]!... We're still in school. Please try to use appropriate language."
 
 # game/UpdateScript0.07.rpy:4841## # translate crowdin stones_classroom_ecc45e0b:
 msgid "R "Sorry."
@@ -6844,23 +6844,23 @@ msgid "R "Sorry."
 
 # game/UpdateScript0.07.rpy:4844## # translate crowdin stones_classroom_75b5b2b8:
 msgid "[MS] I'll be happy to help you with your sister's campaign posters, but I'm going to need something from you in return."
-    MS "I'll be happy to help you with your sister's campaign posters, but I'm going to need something from you in return."
+msgstr "[MS] I'll be happy to help you with your sister's campaign posters, but I'm going to need something from you in return."
 
 # game/UpdateScript0.07.rpy:4845## # translate crowdin stones_classroom_0610db0e:
 msgid "[MS] First off, I'm going to need money. Big poster paper and ink aren't cheap, you know."
-    MS "First off, I'm going to need money. Big poster paper and ink aren't cheap, you know."
+msgstr "[MS] First off, I'm going to need money. Big poster paper and ink aren't cheap, you know."
 
 # game/UpdateScript0.07.rpy:4846## # translate crowdin stones_classroom_11fdc944:
 msgid "[MS] I'll also need a little extra for my creativity and time."
-    MS "I'll also need a little extra for my creativity and time."
+msgstr "[MS] I'll also need a little extra for my creativity and time."
 
 # game/UpdateScript0.07.rpy:4847## # translate crowdin stones_classroom_2278be02:
 msgid "[MS] This is my free time after all, and teachers don't make a lot of money."
-    MS "This is my free time after all, and teachers don't make a lot of money."
+msgstr "[MS] This is my free time after all, and teachers don't make a lot of money."
 
 # game/UpdateScript0.07.rpy:4848## # translate crowdin stones_classroom_f27e8ddc:
 msgid "[MS] How many posters do you think you'll need?"
-    MS "How many posters do you think you'll need?"
+msgstr "[MS] How many posters do you think you'll need?"
 
 # game/UpdateScript0.07.rpy:4849## # translate crowdin stones_classroom_49eb649a:
 msgid "R "Probably about 20"
@@ -6868,7 +6868,7 @@ msgid "R "Probably about 20"
 
 # game/UpdateScript0.07.rpy:4852## # translate crowdin stones_classroom_56e1a479:
 msgid "[MS] Alright, I think we could do that for about three hundred dollars."
-    MS "Alright, I think we could do that for about three hundred dollars."
+msgstr "[MS] Alright, I think we could do that for about three hundred dollars."
 
 # game/UpdateScript0.07.rpy:4853## # translate crowdin stones_classroom_5f7231f5:
 msgid "R "That's like fifteen bucks a poster!"
@@ -6876,7 +6876,7 @@ msgid "R "That's like fifteen bucks a poster!"
 
 # game/UpdateScript0.07.rpy:4854## # translate crowdin stones_classroom_b47c7251:
 msgid "[MS] Yeah, that sounds about right."
-    MS "Yeah, that sounds about right."
+msgstr "[MS] Yeah, that sounds about right."
 
 # game/UpdateScript0.07.rpy:4855## # translate crowdin stones_classroom_f0cd3a14:
 msgid "R "That's way more expensive than I was thinking it would be."
@@ -6884,7 +6884,7 @@ msgid "R "That's way more expensive than I was thinking it would be."
 
 # game/UpdateScript0.07.rpy:4858## # translate crowdin stones_classroom_271a8341:
 msgid "[MS] Yeah, well, ink is expensive. You're welcome to go to the local print shop to compare, but I guarantee they'll be about thirty dollars a poster."
-    MS "Yeah, well, ink is expensive. You're welcome to go to the local print shop to compare, but I guarantee they'll be about thirty dollars a poster."
+msgstr "[MS] Yeah, well, ink is expensive. You're welcome to go to the local print shop to compare, but I guarantee they'll be about thirty dollars a poster."
 
 # game/UpdateScript0.07.rpy:4859## # translate crowdin stones_classroom_34391c22:
 msgid "RT "{i}Damn!... No wonder Lauren needed me to finance her campaign.{/i}"
@@ -6892,7 +6892,7 @@ msgid "RT "{i}Damn!... No wonder Lauren needed me to finance her campaign.{/i}"
 
 # game/UpdateScript0.07.rpy:4860## # translate crowdin stones_classroom_a9226a13:
 msgid "[MS] So are you ready to pay?"
-    MS "So are you ready to pay?"
+msgstr "[MS] So are you ready to pay?"
 
 # game/UpdateScript0.07.rpy:4864## # translate crowdin stones_classroom_e8d754a2:
 msgid "R "Yeah, I don't see how Lauren can win if we don't get her some professional posters."
@@ -6908,23 +6908,23 @@ msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4868## # translate crowdin stones_classroom_89d2d541_1:
 msgid "[MS] I think that's really smart."
-    MS "I think that's really smart."
+msgstr "[MS] I think that's really smart."
 
 # game/UpdateScript0.07.rpy:4869## # translate crowdin stones_classroom_f698c10f:
 msgid "[MS] From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
-    MS "From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
+msgstr "[MS] From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
 
 # game/UpdateScript0.07.rpy:4870## # translate crowdin stones_classroom_125bdb36:
 msgid "[MS] Some students are the exception, due to their extreme popularity."
-    MS "Some students are the exception, due to their extreme popularity."
+msgstr "[MS] Some students are the exception, due to their extreme popularity."
 
 # game/UpdateScript0.07.rpy:4873## # translate crowdin stones_classroom_8d13e3de:
 msgid "[MS] And though Lauren is popular within her own circle, she's not well known throughout the entire school."
-    MS "And though Lauren is popular within her own circle, she's not well known throughout the entire school."
+msgstr "[MS] And though Lauren is popular within her own circle, she's not well known throughout the entire school."
 
 # game/UpdateScript0.07.rpy:4874## # translate crowdin stones_classroom_f68a54f5:
 msgid "[MS] If you want to help her win, you're just going to have to spend some money."
-    MS "If you want to help her win, you're just going to have to spend some money."
+msgstr "[MS] If you want to help her win, you're just going to have to spend some money."
 
 # game/UpdateScript0.07.rpy:4875## # translate crowdin stones_classroom_e0db5c0b:
 msgid "R "Alright, so should we start making some posters?"
@@ -6932,7 +6932,7 @@ msgid "R "Alright, so should we start making some posters?"
 
 # game/UpdateScript0.07.rpy:4876## # translate crowdin stones_classroom_fc547767:
 msgid "[MS] There was one more thing I was going to ask for in exchange for my help."
-    MS "There was one more thing I was going to ask for in exchange for my help."
+msgstr "[MS] There was one more thing I was going to ask for in exchange for my help."
 
 # game/UpdateScript0.07.rpy:4877## # translate crowdin stones_classroom_a5c2e44d:
 msgid "R "What is it?"
@@ -6940,19 +6940,19 @@ msgid "R "What is it?"
 
 # game/UpdateScript0.07.rpy:4878## # translate crowdin stones_classroom_0b0e5cf6:
 msgid "[MS] I've been invited to be part of an art show in the fall, and I've got to come up with a few more original pieces."
-    MS "I've been invited to be part of an art show in the fall, and I've got to come up with a few more original pieces."
+msgstr "[MS] I've been invited to be part of an art show in the fall, and I've got to come up with a few more original pieces."
 
 # game/UpdateScript0.07.rpy:4879## # translate crowdin stones_classroom_1f6a101c:
 msgid "[MS] Since the best inspiration for art comes from your own life, I want one of my pieces to be a portrait of a student."
-    MS "Since the best inspiration for art comes from your own life, I want one of my pieces to be a portrait of a student."
+msgstr "[MS] Since the best inspiration for art comes from your own life, I want one of my pieces to be a portrait of a student."
 
 # game/UpdateScript0.07.rpy:4880## # translate crowdin stones_classroom_caecc61b:
 msgid "[MS] That means I need a model."
-    MS "That means I need a model."
+msgstr "[MS] That means I need a model."
 
 # game/UpdateScript0.07.rpy:4881## # translate crowdin stones_classroom_6075d899:
 msgid "[MS] If you'll be willing to model for me, I'll be happy to help you with your posters."
-    MS "If you'll be willing to model for me, I'll be happy to help you with your posters."
+msgstr "[MS] If you'll be willing to model for me, I'll be happy to help you with your posters."
 
 # game/UpdateScript0.07.rpy:4882## # translate crowdin stones_classroom_6fb79f01:
 msgid "R "That sounds easy."
@@ -6960,11 +6960,11 @@ msgid "R "That sounds easy."
 
 # game/UpdateScript0.07.rpy:4883## # translate crowdin stones_classroom_008a3cf2:
 msgid "[MS] Yeah, all you have to do is sit there."
-    MS "Yeah, all you have to do is sit there."
+msgstr "[MS] Yeah, all you have to do is sit there."
 
 # game/UpdateScript0.07.rpy:4884## # translate crowdin stones_classroom_1f209337:
 msgid "[MS] But you have to stay as still as you can."
-    MS "But you have to stay as still as you can."
+msgstr "[MS] But you have to stay as still as you can."
 
 # game/UpdateScript0.07.rpy:4885## # translate crowdin stones_classroom_c72e6aa2:
 msgid "R "Alright."
@@ -6972,11 +6972,11 @@ msgid "R "Alright."
 
 # game/UpdateScript0.07.rpy:4886## # translate crowdin stones_classroom_2298e267:
 msgid "[MS] Great! Let's get those posters designed and printed, and then I'll have you pose for me."
-    MS "Great! Let's get those posters designed and printed, and then I'll have you pose for me."
+msgstr "[MS] Great! Let's get those posters designed and printed, and then I'll have you pose for me."
 
 # game/UpdateScript0.07.rpy:4887## # translate crowdin stones_classroom_58fbc7a1:
 msgid "[MS] Do you have the pictures of Lauren you want to put on the posters?"
-    MS "Do you have the pictures of Lauren you want to put on the posters?"
+msgstr "[MS] Do you have the pictures of Lauren you want to put on the posters?"
 
 # game/UpdateScript0.07.rpy:4888## # translate crowdin stones_classroom_91f70cc5:
 msgid "R "Yeah, I just need to pull them off the internet."
@@ -6984,11 +6984,11 @@ msgid "R "Yeah, I just need to pull them off the internet."
 
 # game/UpdateScript0.07.rpy:4889## # translate crowdin stones_classroom_36bdb72a:
 msgid "[MS] Great!... Go login on my computer and download the images of Lauren you want to use for the posters."
-    MS "Great!... Go login on my computer and download the images of Lauren you want to use for the posters."
+msgstr "[MS] Great!... Go login on my computer and download the images of Lauren you want to use for the posters."
 
 # game/UpdateScript0.07.rpy:4890## # translate crowdin stones_classroom_bbbca1da_4:
 msgid "[MS] I'll set up the easel, and grab the paints."
-    MS "I'll set up the easel, and grab the paints."
+msgstr "[MS] I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4895## # translate crowdin stones_classroom_8f2a0440:
 msgid "R "I don't have that kind of money right now."
@@ -6996,7 +6996,7 @@ msgid "R "I don't have that kind of money right now."
 
 # game/UpdateScript0.07.rpy:4896## # translate crowdin stones_classroom_b1687c9c:
 msgid "[MS] I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
-    MS "I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
+msgstr "[MS] I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
 
 # game/UpdateScript0.07.rpy:4897## # translate crowdin stones_classroom_9b69cace:
 msgid "R "I understand. Is it ok if I come back when I get the money together?"
@@ -7004,7 +7004,7 @@ msgid "R "I understand. Is it ok if I come back when I get the money together?"
 
 # game/UpdateScript0.07.rpy:4898## # translate crowdin stones_classroom_6275f95c:
 msgid "[MS] You bet. This is my free hour, so stop by any weekday around the same time."
-    MS "You bet. This is my free hour, so stop by any weekday around the same time."
+msgstr "[MS] You bet. This is my free hour, so stop by any weekday around the same time."
 
 # game/UpdateScript0.07.rpy:4899## # translate crowdin stones_classroom_d8bff121_4:
 msgid "R "Thanks, Mrs. Stone."
@@ -7012,7 +7012,7 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4902## # translate crowdin stones_classroom_8bf53c65_8:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4905## # translate crowdin stones_classroom_84804916:
 msgid "R "I don't have that kind of money to just throw away on posters!"
@@ -7020,7 +7020,7 @@ msgid "R "I don't have that kind of money to just throw away on posters!"
 
 # game/UpdateScript0.07.rpy:4906## # translate crowdin stones_classroom_b1687c9c_1:
 msgid "[MS] I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
-    MS "I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
+msgstr "[MS] I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
 
 # game/UpdateScript0.07.rpy:4907## # translate crowdin stones_classroom_0c0eca1b:
 msgid "R "Maybe I can just buy some markers and poster board."
@@ -7028,23 +7028,23 @@ msgid "R "Maybe I can just buy some markers and poster board."
 
 # game/UpdateScript0.07.rpy:4910## # translate crowdin stones_classroom_b3316065:
 msgid "[MS] Yeah, you could... And the students might think that a 5th grader is running for president."
-    MS "Yeah, you could... And the students might think that a 5th grader is running for president."
+msgstr "[MS] Yeah, you could... And the students might think that a 5th grader is running for president."
 
 # game/UpdateScript0.07.rpy:4911## # translate crowdin stones_classroom_f698c10f_1:
 msgid "[MS] From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
-    MS "From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
+msgstr "[MS] From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
 
 # game/UpdateScript0.07.rpy:4912## # translate crowdin stones_classroom_125bdb36_1:
 msgid "[MS] Some students are the exception, due to their extreme popularity."
-    MS "Some students are the exception, due to their extreme popularity."
+msgstr "[MS] Some students are the exception, due to their extreme popularity."
 
 # game/UpdateScript0.07.rpy:4915## # translate crowdin stones_classroom_8d13e3de_1:
 msgid "[MS] And though Lauren is popular within her own circle, she's not well known throughout the entire school."
-    MS "And though Lauren is popular within her own circle, she's not well known throughout the entire school."
+msgstr "[MS] And though Lauren is popular within her own circle, she's not well known throughout the entire school."
 
 # game/UpdateScript0.07.rpy:4916## # translate crowdin stones_classroom_f68a54f5_1:
 msgid "[MS] If you want to help her win, you're just going to have to spend some money."
-    MS "If you want to help her win, you're just going to have to spend some money."
+msgstr "[MS] If you want to help her win, you're just going to have to spend some money."
 
 # game/UpdateScript0.07.rpy:4917## # translate crowdin stones_classroom_70aad073:
 msgid "R "Alright, I'll think about it. If I change my mind, can I come and get your help?"
@@ -7052,7 +7052,7 @@ msgid "R "Alright, I'll think about it. If I change my mind, can I come and get 
 
 # game/UpdateScript0.07.rpy:4918## # translate crowdin stones_classroom_6275f95c_1:
 msgid "[MS] You bet. This is my free hour, so stop by any weekday around the same time."
-    MS "You bet. This is my free hour, so stop by any weekday around the same time."
+msgstr "[MS] You bet. This is my free hour, so stop by any weekday around the same time."
 
 # game/UpdateScript0.07.rpy:4919## # translate crowdin stones_classroom_d8bff121_5:
 msgid "R "Thanks, Mrs. Stone."
@@ -7060,11 +7060,11 @@ msgid "R "Thanks, Mrs. Stone."
 
 # game/UpdateScript0.07.rpy:4922## # translate crowdin stones_classroom_8bf53c65_9:
 msgid "[MS] You bet... It was good to see you again, [ryan]."
-    MS "You bet... It was good to see you again, [ryan]."
+msgstr "[MS] You bet... It was good to see you again, [ryan]."
 
 # game/UpdateScript0.07.rpy:4929## # translate crowdin finished_painting_88f482ba:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:4930## # translate crowdin finished_painting_02b92d0c:
 msgid "R "Great, thank you."
@@ -7072,7 +7072,7 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:4931## # translate crowdin finished_painting_6a82b0f9:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:4932## # translate crowdin finished_painting_5a05cf2a:
 msgid "R "I'm guessing you want me naked again?"
@@ -7080,7 +7080,7 @@ msgid "R "I'm guessing you want me naked again?"
 
 # game/UpdateScript0.07.rpy:4933## # translate crowdin finished_painting_0e919a44:
 msgid "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
-    MS "Uh... yes, please, but try really hard not to get aroused this time... If possible?"
+msgstr "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
 
 # game/UpdateScript0.07.rpy:4934## # translate crowdin finished_painting_40d2fe6b:
 msgid "R "I'll try, I promise."
@@ -7092,7 +7092,7 @@ msgid "MST "{i}I can't stop thinking about that beautiful dick... How good it fe
 
 # game/UpdateScript0.07.rpy:4940## # translate crowdin finished_painting_8695d6e8:
 msgid "[MS] Are you doing ok over there?"
-    MS "Are you doing ok over there?"
+msgstr "[MS] Are you doing ok over there?"
 
 # game/UpdateScript0.07.rpy:4941## # translate crowdin finished_painting_52683ccd:
 msgid "R "I think I'll be ok."
@@ -7116,7 +7116,7 @@ msgid "RT "{i}Looks like he's back for more!{/i}"
 
 # game/UpdateScript0.07.rpy:4950## # translate crowdin finished_painting_c472bd83:
 msgid "[MS] [ryan]?... Did it happen again?"
-    MS "[ryan]?... Did it happen again?"
+msgstr "[MS] [ryan]?... Did it happen again?"
 
 # game/UpdateScript0.07.rpy:4953## # translate crowdin finished_painting_c695f272:
 msgid "RT "{i}Yeah.{/i}"
@@ -7128,15 +7128,15 @@ msgid "R "Sorry... I just can't stop thinking about my last visit."
 
 # game/UpdateScript0.07.rpy:4959## # translate crowdin finished_painting_deb73e6d:
 msgid "[MS] You're not the only one."
-    MS "You're not the only one."
+msgstr "[MS] You're not the only one."
 
 # game/UpdateScript0.07.rpy:4962## # translate crowdin finished_painting_7101a772:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:4965## # translate crowdin finished_painting_2f712cb4:
 msgid "[MS] Oh, wow!... I think it's even harder than last time!"
-    MS "Oh, wow!... I think it's even harder than last time!"
+msgstr "[MS] Oh, wow!... I think it's even harder than last time!"
 
 # game/UpdateScript0.07.rpy:4966## # translate crowdin finished_painting_e78de6b0:
 msgid "R "Like I said, I can't get past the thought of your ass sliding up and down on my cock."
@@ -7144,15 +7144,15 @@ msgid "R "Like I said, I can't get past the thought of your ass sliding up and d
 
 # game/UpdateScript0.07.rpy:4967## # translate crowdin finished_painting_bfc97021:
 msgid "[MS] Hmmm..."
-    MS "Hmmm..."
+msgstr "[MS] Hmmm..."
 
 # game/UpdateScript0.07.rpy:4968## # translate crowdin finished_painting_8093c2d9:
 msgid "[MS] I wonder if we'll ever get that painting done."
-    MS "I wonder if we'll ever get that painting done."
+msgstr "[MS] I wonder if we'll ever get that painting done."
 
 # game/UpdateScript0.07.rpy:4971## # translate crowdin finished_painting_f49efd46:
 msgid "[MS] So, should we see if we can fit in a quick fuck, and maybe we'll have enough time for some painting after?"
-    MS "So, should we see if we can fit in a quick fuck, and maybe we'll have enough time for some painting after?"
+msgstr "[MS] So, should we see if we can fit in a quick fuck, and maybe we'll have enough time for some painting after?"
 
 # game/UpdateScript0.07.rpy:4972## # translate crowdin finished_painting_a1c5f194:
 msgid "MST "{i}I'm sure we both know there won't be time, and it's just an excuse to keep fucking.{/i}"
@@ -7168,27 +7168,27 @@ msgid "R "Yeah, let's see if we can finish any faster today."
 
 # game/UpdateScript0.07.rpy:4978## # translate crowdin finished_painting_1b912cdd:
 msgid "[MS] Ok... First I need to get your cock all lubed up."
-    MS "Ok... First I need to get your cock all lubed up."
+msgstr "[MS] Ok... First I need to get your cock all lubed up."
 
 # game/UpdateScript0.07.rpy:4987## # translate crowdin finished_painting_eef4d9da:
 msgid "[MS] Ok... Let's start out slow."
-    MS "Ok... Let's start out slow."
+msgstr "[MS] Ok... Let's start out slow."
 
 # game/UpdateScript0.07.rpy:4988## # translate crowdin finished_painting_345e6a44:
 msgid "[MS] My ass is getting more used to it, but we still need to be careful after letting it rest for a few days."
-    MS "My ass is getting more used to it, but we still need to be careful after letting it rest for a few days."
+msgstr "[MS] My ass is getting more used to it, but we still need to be careful after letting it rest for a few days."
 
 # game/UpdateScript0.07.rpy:4993## # translate crowdin finished_painting_a2fa8dc5:
 msgid "[MS] Oh, my God!... I feel so full!"
-    MS "Oh, my God!... I feel so full!"
+msgstr "[MS] Oh, my God!... I feel so full!"
 
 # game/UpdateScript0.07.rpy:4994## # translate crowdin finished_painting_00850925:
 msgid "[MS] Oohhh... Ahhh..."
-    MS "Oohhh... Ahhh..."
+msgstr "[MS] Oohhh... Ahhh..."
 
 # game/UpdateScript0.07.rpy:4995## # translate crowdin finished_painting_3e3072a9:
 msgid "[MS] You feel so good in my ass!"
-    MS "You feel so good in my ass!"
+msgstr "[MS] You feel so good in my ass!"
 
 # game/UpdateScript0.07.rpy:4996## # translate crowdin finished_painting_cdb34e86:
 msgid "RT "Oh, fuck!"
@@ -7196,11 +7196,11 @@ msgid "RT "Oh, fuck!"
 
 # game/UpdateScript0.07.rpy:4997## # translate crowdin finished_painting_ebf47662:
 msgid "[MS] ...."
-    MS "...."
+msgstr "[MS] ...."
 
 # game/UpdateScript0.07.rpy:4998## # translate crowdin finished_painting_7abd877e:
 msgid "[MS] Ohhh... Faster!"
-    MS "Ohhh... Faster!"
+msgstr "[MS] Ohhh... Faster!"
 
 # game/UpdateScript0.07.rpy:5002## # translate crowdin finished_painting_361f12bd:
 msgid "R "God, this feels so good, Mrs. Stone!"
@@ -7212,7 +7212,7 @@ msgid "R "...."
 
 # game/UpdateScript0.07.rpy:5004## # translate crowdin finished_painting_f9a261e2:
 msgid "[MS] Oh, my God!... I'm cumming from my ass!"
-    MS "Oh, my God!... I'm cumming from my ass!"
+msgstr "[MS] Oh, my God!... I'm cumming from my ass!"
 
 # game/UpdateScript0.07.rpy:5007## # translate crowdin finished_painting_fc1e65c2:
 msgid "R "Oh... Should I stop?"
@@ -7220,15 +7220,15 @@ msgid "R "Oh... Should I stop?"
 
 # game/UpdateScript0.07.rpy:5008## # translate crowdin finished_painting_e2964c25:
 msgid "[MS] Don't you dare!"
-    MS "Don't you dare!"
+msgstr "[MS] Don't you dare!"
 
 # game/UpdateScript0.07.rpy:5009## # translate crowdin finished_painting_12c82bfe:
 msgid "[MS] Keep fucking me!"
-    MS "Keep fucking me!"
+msgstr "[MS] Keep fucking me!"
 
 # game/UpdateScript0.07.rpy:5011## # translate crowdin finished_painting_e471c3e5:
 msgid "[MS] Oh, my God!... That was amazing!"
-    MS "Oh, my God!... That was amazing!"
+msgstr "[MS] Oh, my God!... That was amazing!"
 
 # game/UpdateScript0.07.rpy:5014## # translate crowdin finished_painting_2aae7677:
 msgid "RT "{i}Oohhh.... I'm about to cum!{/i}"
@@ -7236,15 +7236,15 @@ msgid "RT "{i}Oohhh.... I'm about to cum!{/i}"
 
 # game/UpdateScript0.07.rpy:5022## # translate crowdin finished_painting_20b584a4:
 msgid "[MS] Ohhh... That's so much cum!"
-    MS "Ohhh... That's so much cum!"
+msgstr "[MS] Ohhh... That's so much cum!"
 
 # game/UpdateScript0.07.rpy:5023## # translate crowdin finished_painting_9b7d6bf5:
 msgid "[MS] I feel so full."
-    MS "I feel so full."
+msgstr "[MS] I feel so full."
 
 # game/UpdateScript0.07.rpy:5028## # translate crowdin finished_painting_dc9f1219:
 msgid "[MS] Oh, my God!... You're filling me up from my ass!"
-    MS "Oh, my God!... You're filling me up from my ass!"
+msgstr "[MS] Oh, my God!... You're filling me up from my ass!"
 
 # game/UpdateScript0.07.rpy:5029## # translate crowdin finished_painting_7e94ba32:
 msgid "R "Oooohhh...."
@@ -7256,23 +7256,23 @@ msgid "R "Mrs. Stone!... I'm cumming!"
 
 # game/UpdateScript0.07.rpy:5032## # translate crowdin finished_painting_78ad3efd:
 msgid "[MS] Wait!... Cum all over my ass!"
-    MS "Wait!... Cum all over my ass!"
+msgstr "[MS] Wait!... Cum all over my ass!"
 
 # game/UpdateScript0.07.rpy:5046## # translate crowdin finished_painting_97f61ddb:
 msgid "[MS] Ohhh... That is so much cum!"
-    MS "Ohhh... That is so much cum!"
+msgstr "[MS] Ohhh... That is so much cum!"
 
 # game/UpdateScript0.07.rpy:5047## # translate crowdin finished_painting_23cc8b99:
 msgid "[MS] You literally covered my whole ass!"
-    MS "You literally covered my whole ass!"
+msgstr "[MS] You literally covered my whole ass!"
 
 # game/UpdateScript0.07.rpy:5052## # translate crowdin finished_painting_827ac8db:
 msgid "[MS] God, I can't get enough of that!"
-    MS "God, I can't get enough of that!"
+msgstr "[MS] God, I can't get enough of that!"
 
 # game/UpdateScript0.07.rpy:5053## # translate crowdin finished_painting_ebadf8b2:
 msgid "[MS] Please tell me you won't ever stop visiting me!"
-    MS "Please tell me you won't ever stop visiting me!"
+msgstr "[MS] Please tell me you won't ever stop visiting me!"
 
 # game/UpdateScript0.07.rpy:5054## # translate crowdin finished_painting_18e5551b:
 msgid "RT "{i}Uh oh... I hope she's not getting too attached.{/i}"
@@ -7284,19 +7284,19 @@ msgid "R "I'll try."
 
 # game/UpdateScript0.07.rpy:5056## # translate crowdin finished_painting_ca1f9767:
 msgid "[MS] You definitely came faster that time, but there still isn't enough time to finish the painting."
-    MS "You definitely came faster that time, but there still isn't enough time to finish the painting."
+msgstr "[MS] You definitely came faster that time, but there still isn't enough time to finish the painting."
 
 # game/UpdateScript0.07.rpy:5057## # translate crowdin finished_painting_29d8568a:
 msgid "[MS] I'd better clean up and we'd better get dressed."
-    MS "I'd better clean up and we'd better get dressed."
+msgstr "[MS] I'd better clean up and we'd better get dressed."
 
 # game/UpdateScript0.07.rpy:5062## # translate crowdin finished_painting_6c6ad862:
 msgid "[MS] Well, you should get going... The bell is about to ring."
-    MS "Well, you should get going... The bell is about to ring."
+msgstr "[MS] Well, you should get going... The bell is about to ring."
 
 # game/UpdateScript0.07.rpy:5063## # translate crowdin finished_painting_ede2f59e:
 msgid "[MS] Please promise me you'll come back so we can finish the painting?"
-    MS "Please promise me you'll come back so we can finish the painting?"
+msgstr "[MS] Please promise me you'll come back so we can finish the painting?"
 
 # game/UpdateScript0.07.rpy:5064## # translate crowdin finished_painting_4c1aed89:
 msgid "R "I promise, and thanks so much for everything, Mrs. Stone!"
@@ -7304,15 +7304,15 @@ msgid "R "I promise, and thanks so much for everything, Mrs. Stone!"
 
 # game/UpdateScript0.07.rpy:5065## # translate crowdin finished_painting_9e5a2d7f:
 msgid "[MS] It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
-    MS "It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5066## # translate crowdin finished_painting_ce009651:
 msgid "[MS] And thanks for coming to see me. Your visits are the best part of my week."
-    MS "And thanks for coming to see me. Your visits are the best part of my week."
+msgstr "[MS] And thanks for coming to see me. Your visits are the best part of my week."
 
 # game/UpdateScript0.07.rpy:5076## # translate crowdin finished_painting_88f482ba_1:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5077## # translate crowdin finished_painting_02b92d0c_1:
 msgid "R "Great, thank you."
@@ -7320,7 +7320,7 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5078## # translate crowdin finished_painting_6a82b0f9_1:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5079## # translate crowdin finished_painting_5a05cf2a_1:
 msgid "R "I'm guessing you want me naked again?"
@@ -7328,7 +7328,7 @@ msgid "R "I'm guessing you want me naked again?"
 
 # game/UpdateScript0.07.rpy:5080## # translate crowdin finished_painting_0e919a44_1:
 msgid "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
-    MS "Uh... yes, please, but try really hard not to get aroused this time... If possible?"
+msgstr "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
 
 # game/UpdateScript0.07.rpy:5081## # translate crowdin finished_painting_40d2fe6b_1:
 msgid "R "I'll try, I promise."
@@ -7344,7 +7344,7 @@ msgid "MST "{i}Why did I promise my husband I wouldn't let any other students fu
 
 # game/UpdateScript0.07.rpy:5088## # translate crowdin finished_painting_8695d6e8_1:
 msgid "[MS] Are you doing ok over there?"
-    MS "Are you doing ok over there?"
+msgstr "[MS] Are you doing ok over there?"
 
 # game/UpdateScript0.07.rpy:5089## # translate crowdin finished_painting_52683ccd_1:
 msgid "R "I think I'll be ok."
@@ -7368,7 +7368,7 @@ msgid "RT "{i}You stupid penis!{/i}"
 
 # game/UpdateScript0.07.rpy:5098## # translate crowdin finished_painting_c472bd83_1:
 msgid "[MS] [ryan]?... Did it happen again?"
-    MS "[ryan]?... Did it happen again?"
+msgstr "[MS] [ryan]?... Did it happen again?"
 
 # game/UpdateScript0.07.rpy:5101## # translate crowdin finished_painting_14ad2917:
 msgid "RT "{i}Fuck!{/i}"
@@ -7380,7 +7380,7 @@ msgid "R "Sorry... I'm just... trying to control my thoughts."
 
 # game/UpdateScript0.07.rpy:5107## # translate crowdin finished_painting_86ffb6eb:
 msgid "[MS] [ryan]?"
-    MS "[ryan]?"
+msgstr "[MS] [ryan]?"
 
 # game/UpdateScript0.07.rpy:5108## # translate crowdin finished_painting_d2d96b65:
 msgid "MST "{i}This is the best part of the week!{/i}"
@@ -7388,11 +7388,11 @@ msgid "MST "{i}This is the best part of the week!{/i}"
 
 # game/UpdateScript0.07.rpy:5111## # translate crowdin finished_painting_7101a772_1:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:5114## # translate crowdin finished_painting_2f712cb4_1:
 msgid "[MS] Oh, wow!... I think it's even harder than last time!"
-    MS "Oh, wow!... I think it's even harder than last time!"
+msgstr "[MS] Oh, wow!... I think it's even harder than last time!"
 
 # game/UpdateScript0.07.rpy:5115## # translate crowdin finished_painting_70f944b7:
 msgid "R "I'm sorry, but I just can't stop thinking about that last blow job."
@@ -7400,15 +7400,15 @@ msgid "R "I'm sorry, but I just can't stop thinking about that last blow job."
 
 # game/UpdateScript0.07.rpy:5116## # translate crowdin finished_painting_bfc97021_1:
 msgid "[MS] Hmmm..."
-    MS "Hmmm..."
+msgstr "[MS] Hmmm..."
 
 # game/UpdateScript0.07.rpy:5117## # translate crowdin finished_painting_3673cd2d:
 msgid "[MS] Well, I really need to get that painting done... And giving you a blowjob takes too long."
-    MS "Well, I really need to get that painting done... And giving you a blowjob takes too long."
+msgstr "[MS] Well, I really need to get that painting done... And giving you a blowjob takes too long."
 
 # game/UpdateScript0.07.rpy:5118## # translate crowdin finished_painting_ceb61974:
 msgid "[MS] We're running out of options here."
-    MS "We're running out of options here."
+msgstr "[MS] We're running out of options here."
 
 # game/UpdateScript0.07.rpy:5121## # translate crowdin finished_painting_b5b1dc34:
 msgid "R "Mrs. Stone... Please don't get mad at me for asking this, but is it true that you've had sex with some of your students?"
@@ -7416,11 +7416,11 @@ msgid "R "Mrs. Stone... Please don't get mad at me for asking this, but is it tr
 
 # game/UpdateScript0.07.rpy:5122## # translate crowdin finished_painting_bf31cfcd:
 msgid "[MS] Hmmm... I know... The rumor that I fuck a different student every year has been going around for over five years now."
-    MS "Hmmm... I know... The rumor that I fuck a different student every year has been going around for over five years now."
+msgstr "[MS] Hmmm... I know... The rumor that I fuck a different student every year has been going around for over five years now."
 
 # game/UpdateScript0.07.rpy:5123## # translate crowdin finished_painting_6fba7b0c:
 msgid "[MS] And, it's made me very popular with the male students, but... with the exception of two students, all the other rumors are an exaggeration."
-    MS "And, it's made me very popular with the male students, but... with the exception of two students, all the other rumors are an exaggeration."
+msgstr "[MS] And, it's made me very popular with the male students, but... with the exception of two students, all the other rumors are an exaggeration."
 
 # game/UpdateScript0.07.rpy:5124## # translate crowdin finished_painting_cd2fc519:
 msgid "R "Well... would you be willing to make me one of those exceptions too?"
@@ -7428,11 +7428,11 @@ msgid "R "Well... would you be willing to make me one of those exceptions too?"
 
 # game/UpdateScript0.07.rpy:5125## # translate crowdin finished_painting_6a1392a0:
 msgid "[MS] Uuurrgghhh... [ryan]!... I wish I could... I really do!"
-    MS "Uuurrgghhh... [ryan]!... I wish I could... I really do!"
+msgstr "[MS] Uuurrgghhh... [ryan]!... I wish I could... I really do!"
 
 # game/UpdateScript0.07.rpy:5128## # translate crowdin finished_painting_09d9ac14:
 msgid "[MS] It's just... my husband found out about those students and made me swear that I would never let another student put his dick in my pussy again."
-    MS "It's just... my husband found out about those students and made me swear that I would never let another student put his dick in my pussy again."
+msgstr "[MS] It's just... my husband found out about those students and made me swear that I would never let another student put his dick in my pussy again."
 
 # game/UpdateScript0.07.rpy:5129## # translate crowdin finished_painting_d6abd397:
 msgid "MST "...."
@@ -7440,19 +7440,19 @@ msgid "MST "...."
 
 # game/UpdateScript0.07.rpy:5130## # translate crowdin finished_painting_905e2bf6:
 msgid "[MS] Huh... He did very specifically say pussy..."
-    MS "Huh... He did very specifically say pussy..."
+msgstr "[MS] Huh... He did very specifically say pussy..."
 
 # game/UpdateScript0.07.rpy:5131## # translate crowdin finished_painting_46ee3569:
 msgid "[MS] I remember him complaining about it getting too loose, and how it felt like he was parking his bicycle in an airplane hanger."
-    MS "I remember him complaining about it getting too loose, and how it felt like he was parking his bicycle in an airplane hanger."
+msgstr "[MS] I remember him complaining about it getting too loose, and how it felt like he was parking his bicycle in an airplane hanger."
 
 # game/UpdateScript0.07.rpy:5132## # translate crowdin finished_painting_7967a981:
 msgid "[MS] So he made me swear never to let another dick inside it."
-    MS "So he made me swear never to let another dick inside it."
+msgstr "[MS] So he made me swear never to let another dick inside it."
 
 # game/UpdateScript0.07.rpy:5133## # translate crowdin finished_painting_2ccdfa15:
 msgid "[MS] But what if?..."
-    MS "But what if?..."
+msgstr "[MS] But what if?..."
 
 # game/UpdateScript0.07.rpy:5134## # translate crowdin finished_painting_bd5cb173:
 msgid "MST "{i}Oh, my God!... Are you really thinking of letting him fuck your ass?{/i}"
@@ -7480,11 +7480,11 @@ msgid "R "Mrs. Stone?..."
 
 # game/UpdateScript0.07.rpy:5140## # translate crowdin finished_painting_277d0a03:
 msgid "[MS] Yeah... [ryan]..."
-    MS "Yeah... [ryan]..."
+msgstr "[MS] Yeah... [ryan]..."
 
 # game/UpdateScript0.07.rpy:5141## # translate crowdin finished_painting_2a0af6c7:
 msgid "[MS] Uhhh...I've got a somewhat indecent proposal to make to you."
-    MS "Uhhh...I've got a somewhat indecent proposal to make to you."
+msgstr "[MS] Uhhh...I've got a somewhat indecent proposal to make to you."
 
 # game/UpdateScript0.07.rpy:5142## # translate crowdin finished_painting_80f00190:
 msgid "MST "{i}Don't say it!{/i}"
@@ -7496,11 +7496,11 @@ msgid "MST "{i}Oh... but I want it so bad!{/i}"
 
 # game/UpdateScript0.07.rpy:5146## # translate crowdin finished_painting_96f093e1:
 msgid "[MS] I've promised my husband that I would never let a student fuck my pussy again..."
-    MS "I've promised my husband that I would never let a student fuck my pussy again..."
+msgstr "[MS] I've promised my husband that I would never let a student fuck my pussy again..."
 
 # game/UpdateScript0.07.rpy:5147## # translate crowdin finished_painting_0647a84e:
 msgid "[MS] But I never promised him that I wouldn't let a student fuck... elsewhere."
-    MS "But I never promised him that I wouldn't let a student fuck... elsewhere."
+msgstr "[MS] But I never promised him that I wouldn't let a student fuck... elsewhere."
 
 # game/UpdateScript0.07.rpy:5148## # translate crowdin finished_painting_db6ba0bb:
 msgid "RT "{i}Oh, my God!...Is she asking me to fuck her in the ass?{/i}"
@@ -7516,7 +7516,7 @@ msgid "R "Uhhh..."
 
 # game/UpdateScript0.07.rpy:5153## # translate crowdin finished_painting_9bcf9d76:
 msgid "[MS] So would you want to?"
-    MS "So would you want to?"
+msgstr "[MS] So would you want to?"
 
 # game/UpdateScript0.07.rpy:5154## # translate crowdin finished_painting_30f91d02:
 msgid "MST "{i}Oh... Please say he wants to!{/i}"
@@ -7528,7 +7528,7 @@ msgid "R "Do you mean?..."
 
 # game/UpdateScript0.07.rpy:5156## # translate crowdin finished_painting_f5577e91:
 msgid "[MS] Yes... I'm offering to have anal sex with you."
-    MS "Yes... I'm offering to have anal sex with you."
+msgstr "[MS] Yes... I'm offering to have anal sex with you."
 
 # game/UpdateScript0.07.rpy:5157## # translate crowdin finished_painting_2e7bfd4d:
 msgid "MST "{i}Oh, God!... I just said it... I can't take that back now!{/i}"
@@ -7544,15 +7544,15 @@ msgid "R "Oh, hell yeah!"
 
 # game/UpdateScript0.07.rpy:5163## # translate crowdin finished_painting_1b912cdd_1:
 msgid "[MS] Ok... First I need to get your cock all lubed up."
-    MS "Ok... First I need to get your cock all lubed up."
+msgstr "[MS] Ok... First I need to get your cock all lubed up."
 
 # game/UpdateScript0.07.rpy:5172## # translate crowdin finished_painting_eef4d9da_1:
 msgid "[MS] Ok... Let's start out slow."
-    MS "Ok... Let's start out slow."
+msgstr "[MS] Ok... Let's start out slow."
 
 # game/UpdateScript0.07.rpy:5173## # translate crowdin finished_painting_e2c6b368:
 msgid "[MS] I've only ever done this a couple times, and only once with a dick that was bigger than yours."
-    MS "I've only ever done this a couple times, and only once with a dick that was bigger than yours."
+msgstr "[MS] I've only ever done this a couple times, and only once with a dick that was bigger than yours."
 
 # game/UpdateScript0.07.rpy:5174## # translate crowdin finished_painting_02234106:
 msgid "RT "{i}Could she be talking about Matt?{/i}"
@@ -7560,19 +7560,19 @@ msgid "RT "{i}Could she be talking about Matt?{/i}"
 
 # game/UpdateScript0.07.rpy:5175## # translate crowdin finished_painting_5f686b0f:
 msgid "[MS] And it's been a long time."
-    MS "And it's been a long time."
+msgstr "[MS] And it's been a long time."
 
 # game/UpdateScript0.07.rpy:5180## # translate crowdin finished_painting_a2fa8dc5_1:
 msgid "[MS] Oh, my God!... I feel so full!"
-    MS "Oh, my God!... I feel so full!"
+msgstr "[MS] Oh, my God!... I feel so full!"
 
 # game/UpdateScript0.07.rpy:5181## # translate crowdin finished_painting_00850925_1:
 msgid "[MS] Oohhh... Ahhh..."
-    MS "Oohhh... Ahhh..."
+msgstr "[MS] Oohhh... Ahhh..."
 
 # game/UpdateScript0.07.rpy:5182## # translate crowdin finished_painting_3e3072a9_1:
 msgid "[MS] You feel so good in my ass!"
-    MS "You feel so good in my ass!"
+msgstr "[MS] You feel so good in my ass!"
 
 # game/UpdateScript0.07.rpy:5183## # translate crowdin finished_painting_cdb34e86_1:
 msgid "RT "Oh, fuck!"
@@ -7580,11 +7580,11 @@ msgid "RT "Oh, fuck!"
 
 # game/UpdateScript0.07.rpy:5184## # translate crowdin finished_painting_ebf47662_1:
 msgid "[MS] ...."
-    MS "...."
+msgstr "[MS] ...."
 
 # game/UpdateScript0.07.rpy:5185## # translate crowdin finished_painting_7abd877e_1:
 msgid "[MS] Ohhh... Faster!"
-    MS "Ohhh... Faster!"
+msgstr "[MS] Ohhh... Faster!"
 
 # game/UpdateScript0.07.rpy:5189## # translate crowdin finished_painting_361f12bd_1:
 msgid "R "God, this feels so good, Mrs. Stone!"
@@ -7596,7 +7596,7 @@ msgid "R "...."
 
 # game/UpdateScript0.07.rpy:5191## # translate crowdin finished_painting_f9a261e2_1:
 msgid "[MS] Oh, my God!... I'm cumming from my ass!"
-    MS "Oh, my God!... I'm cumming from my ass!"
+msgstr "[MS] Oh, my God!... I'm cumming from my ass!"
 
 # game/UpdateScript0.07.rpy:5194## # translate crowdin finished_painting_fc1e65c2_1:
 msgid "R "Oh... Should I stop?"
@@ -7604,15 +7604,15 @@ msgid "R "Oh... Should I stop?"
 
 # game/UpdateScript0.07.rpy:5195## # translate crowdin finished_painting_e2964c25_1:
 msgid "[MS] Don't you dare!"
-    MS "Don't you dare!"
+msgstr "[MS] Don't you dare!"
 
 # game/UpdateScript0.07.rpy:5196## # translate crowdin finished_painting_12c82bfe_1:
 msgid "[MS] Keep fucking me!"
-    MS "Keep fucking me!"
+msgstr "[MS] Keep fucking me!"
 
 # game/UpdateScript0.07.rpy:5198## # translate crowdin finished_painting_e471c3e5_1:
 msgid "[MS] Oh, my God!... That was amazing!"
-    MS "Oh, my God!... That was amazing!"
+msgstr "[MS] Oh, my God!... That was amazing!"
 
 # game/UpdateScript0.07.rpy:5201## # translate crowdin finished_painting_2aae7677_1:
 msgid "RT "{i}Oohhh.... I'm about to cum!{/i}"
@@ -7620,15 +7620,15 @@ msgid "RT "{i}Oohhh.... I'm about to cum!{/i}"
 
 # game/UpdateScript0.07.rpy:5209## # translate crowdin finished_painting_20b584a4_1:
 msgid "[MS] Ohhh... That's so much cum!"
-    MS "Ohhh... That's so much cum!"
+msgstr "[MS] Ohhh... That's so much cum!"
 
 # game/UpdateScript0.07.rpy:5210## # translate crowdin finished_painting_9b7d6bf5_1:
 msgid "[MS] I feel so full."
-    MS "I feel so full."
+msgstr "[MS] I feel so full."
 
 # game/UpdateScript0.07.rpy:5215## # translate crowdin finished_painting_dc9f1219_1:
 msgid "[MS] Oh, my God!... You're filling me up from my ass!"
-    MS "Oh, my God!... You're filling me up from my ass!"
+msgstr "[MS] Oh, my God!... You're filling me up from my ass!"
 
 # game/UpdateScript0.07.rpy:5216## # translate crowdin finished_painting_7e94ba32_1:
 msgid "R "Oooohhh...."
@@ -7640,23 +7640,23 @@ msgid "R "Mrs. Stone!... I'm cumming!"
 
 # game/UpdateScript0.07.rpy:5219## # translate crowdin finished_painting_78ad3efd_1:
 msgid "[MS] Wait!... Cum all over my ass!"
-    MS "Wait!... Cum all over my ass!"
+msgstr "[MS] Wait!... Cum all over my ass!"
 
 # game/UpdateScript0.07.rpy:5233## # translate crowdin finished_painting_97f61ddb_1:
 msgid "[MS] Ohhh... That is so much cum!"
-    MS "Ohhh... That is so much cum!"
+msgstr "[MS] Ohhh... That is so much cum!"
 
 # game/UpdateScript0.07.rpy:5234## # translate crowdin finished_painting_23cc8b99_1:
 msgid "[MS] You literally covered my whole ass!"
-    MS "You literally covered my whole ass!"
+msgstr "[MS] You literally covered my whole ass!"
 
 # game/UpdateScript0.07.rpy:5239## # translate crowdin finished_painting_459b6936:
 msgid "[MS] God, I can't tell you how much I needed that!"
-    MS "God, I can't tell you how much I needed that!"
+msgstr "[MS] God, I can't tell you how much I needed that!"
 
 # game/UpdateScript0.07.rpy:5240## # translate crowdin finished_painting_a2bdf9b2:
 msgid "[MS] I think a lot of boys would feel squeamish about fucking a woman in the ass, so, thank you for doing that!"
-    MS "I think a lot of boys would feel squeamish about fucking a woman in the ass, so, thank you for doing that!"
+msgstr "[MS] I think a lot of boys would feel squeamish about fucking a woman in the ass, so, thank you for doing that!"
 
 # game/UpdateScript0.07.rpy:5241## # translate crowdin finished_painting_04c55fcc:
 msgid "R "It was completely my pleasure!"
@@ -7664,19 +7664,19 @@ msgid "R "It was completely my pleasure!"
 
 # game/UpdateScript0.07.rpy:5242## # translate crowdin finished_painting_ca1f9767_1:
 msgid "[MS] You definitely came faster that time, but there still isn't enough time to finish the painting."
-    MS "You definitely came faster that time, but there still isn't enough time to finish the painting."
+msgstr "[MS] You definitely came faster that time, but there still isn't enough time to finish the painting."
 
 # game/UpdateScript0.07.rpy:5243## # translate crowdin finished_painting_29d8568a_1:
 msgid "[MS] I'd better clean up and we'd better get dressed."
-    MS "I'd better clean up and we'd better get dressed."
+msgstr "[MS] I'd better clean up and we'd better get dressed."
 
 # game/UpdateScript0.07.rpy:5248## # translate crowdin finished_painting_6c6ad862_1:
 msgid "[MS] Well, you should get going... The bell is about to ring."
-    MS "Well, you should get going... The bell is about to ring."
+msgstr "[MS] Well, you should get going... The bell is about to ring."
 
 # game/UpdateScript0.07.rpy:5249## # translate crowdin finished_painting_ede2f59e_1:
 msgid "[MS] Please promise me you'll come back so we can finish the painting?"
-    MS "Please promise me you'll come back so we can finish the painting?"
+msgstr "[MS] Please promise me you'll come back so we can finish the painting?"
 
 # game/UpdateScript0.07.rpy:5250## # translate crowdin finished_painting_4c1aed89_1:
 msgid "R "I promise, and thanks so much for everything, Mrs. Stone!"
@@ -7684,15 +7684,15 @@ msgid "R "I promise, and thanks so much for everything, Mrs. Stone!"
 
 # game/UpdateScript0.07.rpy:5251## # translate crowdin finished_painting_9e5a2d7f_1:
 msgid "[MS] It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
-    MS "It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] It was my pleasure. Oh.. and your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5252## # translate crowdin finished_painting_ce009651_1:
 msgid "[MS] And thanks for coming to see me. Your visits are the best part of my week."
-    MS "And thanks for coming to see me. Your visits are the best part of my week."
+msgstr "[MS] And thanks for coming to see me. Your visits are the best part of my week."
 
 # game/UpdateScript0.07.rpy:5263## # translate crowdin finished_painting_88f482ba_2:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5264## # translate crowdin finished_painting_02b92d0c_2:
 msgid "R "Great, thank you."
@@ -7700,7 +7700,7 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5265## # translate crowdin finished_painting_6a82b0f9_2:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5266## # translate crowdin finished_painting_e0a875e3:
 msgid "R "Alright, I'll lose my clothes while I'm at it."
@@ -7708,15 +7708,15 @@ msgid "R "Alright, I'll lose my clothes while I'm at it."
 
 # game/UpdateScript0.07.rpy:5267## # translate crowdin finished_painting_9bd0dfd0:
 msgid "[MS] You're getting the hang of this."
-    MS "You're getting the hang of this."
+msgstr "[MS] You're getting the hang of this."
 
 # game/UpdateScript0.07.rpy:5268## # translate crowdin finished_painting_e37a266b:
 msgid "[MS] Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
-    MS "Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
+msgstr "[MS] Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
 
 # game/UpdateScript0.07.rpy:5269## # translate crowdin finished_painting_db1409b6:
 msgid "[MS] The way this is going... I'll never get this painting done."
-    MS "The way this is going... I'll never get this painting done."
+msgstr "[MS] The way this is going... I'll never get this painting done."
 
 # game/UpdateScript0.07.rpy:5270## # translate crowdin finished_painting_40d2fe6b_2:
 msgid "R "I'll try, I promise."
@@ -7728,7 +7728,7 @@ msgid "MST "{i}I haven't been able to stop thinking about that cock since I last
 
 # game/UpdateScript0.07.rpy:5276## # translate crowdin finished_painting_3b3a3f14:
 msgid "[MS] Your pose is perfect, but try not to be so nervous!"
-    MS "Your pose is perfect, but try not to be so nervous!"
+msgstr "[MS] Your pose is perfect, but try not to be so nervous!"
 
 # game/UpdateScript0.07.rpy:5277## # translate crowdin finished_painting_52683ccd_2:
 msgid "R "I think I'll be ok."
@@ -7752,7 +7752,7 @@ msgid "RT "{i}Here he comes again.{/i}"
 
 # game/UpdateScript0.07.rpy:5286## # translate crowdin finished_painting_ccc3284b:
 msgid "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
-    MS "[ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
+msgstr "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
 
 # game/UpdateScript0.07.rpy:5289## # translate crowdin finished_painting_a36a8b78:
 msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
@@ -7760,7 +7760,7 @@ msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
 
 # game/UpdateScript0.07.rpy:5290## # translate crowdin finished_painting_8a3a9e7e:
 msgid "[MS] [ryan]?... Are you having the same problem as last time?"
-    MS "[ryan]?... Are you having the same problem as last time?"
+msgstr "[MS] [ryan]?... Are you having the same problem as last time?"
 
 # game/UpdateScript0.07.rpy:5293## # translate crowdin finished_painting_b43cf445_1:
 msgid "R "Sorry... I'm just... trying to control my thoughts."
@@ -7768,7 +7768,7 @@ msgid "R "Sorry... I'm just... trying to control my thoughts."
 
 # game/UpdateScript0.07.rpy:5296## # translate crowdin finished_painting_98e60bd1:
 msgid "[MS] Again?... Really?"
-    MS "Again?... Really?"
+msgstr "[MS] Again?... Really?"
 
 # game/UpdateScript0.07.rpy:5297## # translate crowdin finished_painting_2402836c:
 msgid "MST "{i}Why does this make me so happy?{/i}"
@@ -7776,11 +7776,11 @@ msgid "MST "{i}Why does this make me so happy?{/i}"
 
 # game/UpdateScript0.07.rpy:5300## # translate crowdin finished_painting_7101a772_2:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:5303## # translate crowdin finished_painting_59adf6ea:
 msgid "[MS] Oh, wow!... This is just as bad as last time!"
-    MS "Oh, wow!... This is just as bad as last time!"
+msgstr "[MS] Oh, wow!... This is just as bad as last time!"
 
 # game/UpdateScript0.07.rpy:5304## # translate crowdin finished_painting_6b5531fa:
 msgid "R "I'm sorry, but I just can't stop thinking about your blow job."
@@ -7788,11 +7788,11 @@ msgid "R "I'm sorry, but I just can't stop thinking about your blow job."
 
 # game/UpdateScript0.07.rpy:5305## # translate crowdin finished_painting_bfc97021_2:
 msgid "[MS] Hmmm..."
-    MS "Hmmm..."
+msgstr "[MS] Hmmm..."
 
 # game/UpdateScript0.07.rpy:5308## # translate crowdin finished_painting_ff3444c3:
 msgid "[MS] Well, do you want me to give you another blowjob?"
-    MS "Well, do you want me to give you another blowjob?"
+msgstr "[MS] Well, do you want me to give you another blowjob?"
 
 # game/UpdateScript0.07.rpy:5309## # translate crowdin finished_painting_c32c7783:
 msgid "R "Oh... I thought maybe we'd do something... more advanced?"
@@ -7800,11 +7800,11 @@ msgid "R "Oh... I thought maybe we'd do something... more advanced?"
 
 # game/UpdateScript0.07.rpy:5310## # translate crowdin finished_painting_026a0428:
 msgid "[MS] [ryan]! I'm surprised at you!... I'm a married woman."
-    MS "[ryan]! I'm surprised at you!... I'm a married woman."
+msgstr "[MS] [ryan]! I'm surprised at you!... I'm a married woman."
 
 # game/UpdateScript0.07.rpy:5311## # translate crowdin finished_painting_bd93b74c:
 msgid "[MS] I can't do anything more than a blowjob!"
-    MS "I can't do anything more than a blowjob!"
+msgstr "[MS] I can't do anything more than a blowjob!"
 
 # game/UpdateScript0.07.rpy:5312## # translate crowdin finished_painting_c643b75d:
 msgid "R "Is that how it works when you're married?"
@@ -7812,7 +7812,7 @@ msgid "R "Is that how it works when you're married?"
 
 # game/UpdateScript0.07.rpy:5313## # translate crowdin finished_painting_9659d656:
 msgid "[MS] Well, in my case it's complicated."
-    MS "Well, in my case it's complicated."
+msgstr "[MS] Well, in my case it's complicated."
 
 # game/UpdateScript0.07.rpy:5314## # translate crowdin finished_painting_72859d22:
 msgid "R "Ok... I'll still be pretty content with a blowjob."
@@ -7820,7 +7820,7 @@ msgid "R "Ok... I'll still be pretty content with a blowjob."
 
 # game/UpdateScript0.07.rpy:5315## # translate crowdin finished_painting_ddfeb1f0:
 msgid "[MS] But, don't forget why we're doing this... I need you to try and hurry so we can get around to finishing that painting for once."
-    MS "But, don't forget why we're doing this... I need you to try and hurry so we can get around to finishing that painting for once."
+msgstr "[MS] But, don't forget why we're doing this... I need you to try and hurry so we can get around to finishing that painting for once."
 
 # game/UpdateScript0.07.rpy:5316## # translate crowdin finished_painting_ffb5fd4b:
 msgid "MST "{i}Because that's what this is all about.{/i}"
@@ -7892,7 +7892,7 @@ msgid "R "Ohhh... I'm getting close!"
 
 # game/UpdateScript0.07.rpy:5354## # translate crowdin finished_painting_88f482ba_3:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5355## # translate crowdin finished_painting_02b92d0c_3:
 msgid "R "Great, thank you."
@@ -7900,7 +7900,7 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5356## # translate crowdin finished_painting_6a82b0f9_3:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5357## # translate crowdin finished_painting_e0a875e3_1:
 msgid "R "Alright, I'll lose my clothes while I'm at it."
@@ -7908,15 +7908,15 @@ msgid "R "Alright, I'll lose my clothes while I'm at it."
 
 # game/UpdateScript0.07.rpy:5358## # translate crowdin finished_painting_9bd0dfd0_1:
 msgid "[MS] You're getting the hang of this."
-    MS "You're getting the hang of this."
+msgstr "[MS] You're getting the hang of this."
 
 # game/UpdateScript0.07.rpy:5359## # translate crowdin finished_painting_e37a266b_1:
 msgid "[MS] Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
-    MS "Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
+msgstr "[MS] Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
 
 # game/UpdateScript0.07.rpy:5360## # translate crowdin finished_painting_db1409b6_1:
 msgid "[MS] The way this is going... I'll never get this painting done."
-    MS "The way this is going... I'll never get this painting done."
+msgstr "[MS] The way this is going... I'll never get this painting done."
 
 # game/UpdateScript0.07.rpy:5361## # translate crowdin finished_painting_40d2fe6b_3:
 msgid "R "I'll try, I promise."
@@ -7932,7 +7932,7 @@ msgid "MST "{i}I haven't been able to stop thinking about that cock since I last
 
 # game/UpdateScript0.07.rpy:5368## # translate crowdin finished_painting_3b3a3f14_1:
 msgid "[MS] Your pose is perfect, but try not to be so nervous!"
-    MS "Your pose is perfect, but try not to be so nervous!"
+msgstr "[MS] Your pose is perfect, but try not to be so nervous!"
 
 # game/UpdateScript0.07.rpy:5369## # translate crowdin finished_painting_52683ccd_3:
 msgid "R "I think I'll be ok."
@@ -7956,7 +7956,7 @@ msgid "RT "{i}Here he comes again.{/i}"
 
 # game/UpdateScript0.07.rpy:5378## # translate crowdin finished_painting_ccc3284b_1:
 msgid "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
-    MS "[ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
+msgstr "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
 
 # game/UpdateScript0.07.rpy:5381## # translate crowdin finished_painting_a36a8b78_1:
 msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
@@ -7964,7 +7964,7 @@ msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
 
 # game/UpdateScript0.07.rpy:5382## # translate crowdin finished_painting_8a3a9e7e_1:
 msgid "[MS] [ryan]?... Are you having the same problem as last time?"
-    MS "[ryan]?... Are you having the same problem as last time?"
+msgstr "[MS] [ryan]?... Are you having the same problem as last time?"
 
 # game/UpdateScript0.07.rpy:5385## # translate crowdin finished_painting_b43cf445_2:
 msgid "R "Sorry... I'm just... trying to control my thoughts."
@@ -7972,7 +7972,7 @@ msgid "R "Sorry... I'm just... trying to control my thoughts."
 
 # game/UpdateScript0.07.rpy:5388## # translate crowdin finished_painting_98e60bd1_1:
 msgid "[MS] Again?... Really?"
-    MS "Again?... Really?"
+msgstr "[MS] Again?... Really?"
 
 # game/UpdateScript0.07.rpy:5389## # translate crowdin finished_painting_2402836c_1:
 msgid "MST "{i}Why does this make me so happy?{/i}"
@@ -7980,11 +7980,11 @@ msgid "MST "{i}Why does this make me so happy?{/i}"
 
 # game/UpdateScript0.07.rpy:5392## # translate crowdin finished_painting_7101a772_3:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:5395## # translate crowdin finished_painting_59adf6ea_1:
 msgid "[MS] Oh, wow!... This is just as bad as last time!"
-    MS "Oh, wow!... This is just as bad as last time!"
+msgstr "[MS] Oh, wow!... This is just as bad as last time!"
 
 # game/UpdateScript0.07.rpy:5396## # translate crowdin finished_painting_14fcda86:
 msgid "R "I'm sorry, but I just can't stop thinking about your beautiful tits."
@@ -7992,23 +7992,23 @@ msgid "R "I'm sorry, but I just can't stop thinking about your beautiful tits."
 
 # game/UpdateScript0.07.rpy:5397## # translate crowdin finished_painting_bfc97021_3:
 msgid "[MS] Hmmm..."
-    MS "Hmmm..."
+msgstr "[MS] Hmmm..."
 
 # game/UpdateScript0.07.rpy:5400## # translate crowdin finished_painting_fb934ccb:
 msgid "[MS] Well, the question is... What are we going to do to get this massive hardon to go away?"
-    MS "Well, the question is... What are we going to do to get this massive hardon to go away?"
+msgstr "[MS] Well, the question is... What are we going to do to get this massive hardon to go away?"
 
 # game/UpdateScript0.07.rpy:5401## # translate crowdin finished_painting_d614836a:
 msgid "[MS] We can do the same thing as last time..."
-    MS "We can do the same thing as last time..."
+msgstr "[MS] We can do the same thing as last time..."
 
 # game/UpdateScript0.07.rpy:5402## # translate crowdin finished_painting_082f6e18:
 msgid "[MS] But that took too long, and I never got around to drawing you."
-    MS "But that took too long, and I never got around to drawing you."
+msgstr "[MS] But that took too long, and I never got around to drawing you."
 
 # game/UpdateScript0.07.rpy:5403## # translate crowdin finished_painting_05519445:
 msgid "[MS] So, we need to do something to make you cum faster."
-    MS "So, we need to do something to make you cum faster."
+msgstr "[MS] So, we need to do something to make you cum faster."
 
 # game/UpdateScript0.07.rpy:5404## # translate crowdin finished_painting_26a59529_1:
 msgid "R "Do you mean?..."
@@ -8016,7 +8016,7 @@ msgid "R "Do you mean?..."
 
 # game/UpdateScript0.07.rpy:5405## # translate crowdin finished_painting_fb6b73dc:
 msgid "[MS] Have you ever had a blowjob?"
-    MS "Have you ever had a blowjob?"
+msgstr "[MS] Have you ever had a blowjob?"
 
 # game/UpdateScript0.07.rpy:5406## # translate crowdin finished_painting_f5082fc8:
 msgid "RT "{i}That's not exactly what I was thinking...but...{/i}"
@@ -8128,7 +8128,7 @@ msgid "R "Ohhh... I'm getting close!"
 
 # game/UpdateScript0.07.rpy:5457## # translate crowdin finished_painting_88f482ba_4:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5458## # translate crowdin finished_painting_02b92d0c_4:
 msgid "R "Great, thank you."
@@ -8136,7 +8136,7 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5459## # translate crowdin finished_painting_6a82b0f9_4:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5460## # translate crowdin finished_painting_5a05cf2a_2:
 msgid "R "I'm guessing you want me naked again?"
@@ -8144,7 +8144,7 @@ msgid "R "I'm guessing you want me naked again?"
 
 # game/UpdateScript0.07.rpy:5461## # translate crowdin finished_painting_0e919a44_2:
 msgid "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
-    MS "Uh... yes, please, but try really hard not to get aroused this time... If possible?"
+msgstr "[MS] Uh... yes, please, but try really hard not to get aroused this time... If possible?"
 
 # game/UpdateScript0.07.rpy:5462## # translate crowdin finished_painting_40d2fe6b_4:
 msgid "R "I'll try, I promise."
@@ -8160,7 +8160,7 @@ msgid "MST "{i}Even though I haven't been able to stop thinking about that cock 
 
 # game/UpdateScript0.07.rpy:5469## # translate crowdin finished_painting_d83e1604:
 msgid "[MS] Your pose is perfect, luckily I've already painted your face, because you look nervous."
-    MS "Your pose is perfect, luckily I've already painted your face, because you look nervous."
+msgstr "[MS] Your pose is perfect, luckily I've already painted your face, because you look nervous."
 
 # game/UpdateScript0.07.rpy:5470## # translate crowdin finished_painting_52683ccd_4:
 msgid "R "I think I'll be ok."
@@ -8184,7 +8184,7 @@ msgid "RT "{i}You stupid penis!{/i}"
 
 # game/UpdateScript0.07.rpy:5479## # translate crowdin finished_painting_ccc3284b_2:
 msgid "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
-    MS "[ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
+msgstr "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
 
 # game/UpdateScript0.07.rpy:5482## # translate crowdin finished_painting_a36a8b78_2:
 msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
@@ -8192,7 +8192,7 @@ msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
 
 # game/UpdateScript0.07.rpy:5483## # translate crowdin finished_painting_8a3a9e7e_2:
 msgid "[MS] [ryan]?... Are you having the same problem as last time?"
-    MS "[ryan]?... Are you having the same problem as last time?"
+msgstr "[MS] [ryan]?... Are you having the same problem as last time?"
 
 # game/UpdateScript0.07.rpy:5486## # translate crowdin finished_painting_b43cf445_3:
 msgid "R "Sorry... I'm just... trying to control my thoughts."
@@ -8200,7 +8200,7 @@ msgid "R "Sorry... I'm just... trying to control my thoughts."
 
 # game/UpdateScript0.07.rpy:5489## # translate crowdin finished_painting_e26a452e:
 msgid "[MS] Oh, no!... Not again?"
-    MS "Oh, no!... Not again?"
+msgstr "[MS] Oh, no!... Not again?"
 
 # game/UpdateScript0.07.rpy:5490## # translate crowdin finished_painting_f64f9876:
 msgid "MST "{i}Oh, yes!{/i}"
@@ -8208,11 +8208,11 @@ msgid "MST "{i}Oh, yes!{/i}"
 
 # game/UpdateScript0.07.rpy:5493## # translate crowdin finished_painting_7101a772_4:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:5496## # translate crowdin finished_painting_59adf6ea_2:
 msgid "[MS] Oh, wow!... This is just as bad as last time!"
-    MS "Oh, wow!... This is just as bad as last time!"
+msgstr "[MS] Oh, wow!... This is just as bad as last time!"
 
 # game/UpdateScript0.07.rpy:5497## # translate crowdin finished_painting_9c3c93fd:
 msgid "R "I'm sorry, but I just can't stop thinking about last time."
@@ -8220,23 +8220,23 @@ msgid "R "I'm sorry, but I just can't stop thinking about last time."
 
 # game/UpdateScript0.07.rpy:5498## # translate crowdin finished_painting_bfc97021_4:
 msgid "[MS] Hmmm..."
-    MS "Hmmm..."
+msgstr "[MS] Hmmm..."
 
 # game/UpdateScript0.07.rpy:5501## # translate crowdin finished_painting_fb934ccb_1:
 msgid "[MS] Well, the question is... What are we going to do to get this massive hardon to go away?"
-    MS "Well, the question is... What are we going to do to get this massive hardon to go away?"
+msgstr "[MS] Well, the question is... What are we going to do to get this massive hardon to go away?"
 
 # game/UpdateScript0.07.rpy:5502## # translate crowdin finished_painting_d614836a_1:
 msgid "[MS] We can do the same thing as last time..."
-    MS "We can do the same thing as last time..."
+msgstr "[MS] We can do the same thing as last time..."
 
 # game/UpdateScript0.07.rpy:5503## # translate crowdin finished_painting_082f6e18_1:
 msgid "[MS] But that took too long, and I never got around to drawing you."
-    MS "But that took too long, and I never got around to drawing you."
+msgstr "[MS] But that took too long, and I never got around to drawing you."
 
 # game/UpdateScript0.07.rpy:5504## # translate crowdin finished_painting_05519445_1:
 msgid "[MS] So, we need to do something to make you cum faster."
-    MS "So, we need to do something to make you cum faster."
+msgstr "[MS] So, we need to do something to make you cum faster."
 
 # game/UpdateScript0.07.rpy:5505## # translate crowdin finished_painting_0426831d:
 msgid "MST "{i}Don't go there!{/i}"
@@ -8252,7 +8252,7 @@ msgid "R "Do you mean?..."
 
 # game/UpdateScript0.07.rpy:5508## # translate crowdin finished_painting_d477bc78:
 msgid "[MS] Have you ever had a titjob?"
-    MS "Have you ever had a titjob?"
+msgstr "[MS] Have you ever had a titjob?"
 
 # game/UpdateScript0.07.rpy:5509## # translate crowdin finished_painting_f5082fc8_1:
 msgid "RT "{i}That's not exactly what I was thinking...but...{/i}"
@@ -8264,7 +8264,7 @@ msgid "R "No... I've never had one... that might make me cum faster."
 
 # game/UpdateScript0.07.rpy:5511## # translate crowdin finished_painting_3f0ff200:
 msgid "[MS] We'll never know until we try."
-    MS "We'll never know until we try."
+msgstr "[MS] We'll never know until we try."
 
 # game/UpdateScript0.07.rpy:5512## # translate crowdin finished_painting_c1961024_1:
 msgid "RT "{i}Oh, my God!... I can't believe this is happening!{/i}"
@@ -8316,7 +8316,7 @@ msgid "R "I'm getting close, Mrs. Stone!"
 
 # game/UpdateScript0.07.rpy:5528## # translate crowdin finished_painting_0d885878:
 msgid "[MS] Just cum all over my tits!"
-    MS "Just cum all over my tits!"
+msgstr "[MS] Just cum all over my tits!"
 
 # game/UpdateScript0.07.rpy:5531## # translate crowdin finished_painting_2d316a35:
 msgid "R "Oh, God!"
@@ -8324,11 +8324,11 @@ msgid "R "Oh, God!"
 
 # game/UpdateScript0.07.rpy:5544## # translate crowdin finished_painting_77b58e2a:
 msgid "[MS] Oh, my God!... [ryan]!... That was so much cum!"
-    MS "Oh, my God!... [ryan]!... That was so much cum!"
+msgstr "[MS] Oh, my God!... [ryan]!... That was so much cum!"
 
 # game/UpdateScript0.07.rpy:5545## # translate crowdin finished_painting_e393631b:
 msgid "[MS] You must not have ejaculated at all since the last time you came all over my face."
-    MS "You must not have ejaculated at all since the last time you came all over my face."
+msgstr "[MS] You must not have ejaculated at all since the last time you came all over my face."
 
 # game/UpdateScript0.07.rpy:5546## # translate crowdin finished_painting_0b1e716e:
 msgid "R "Yeah... Something like that."
@@ -8340,7 +8340,7 @@ msgid "RT "{i}How many times have I came since then?{/i}"
 
 # game/UpdateScript0.07.rpy:5548## # translate crowdin finished_painting_ab9cc1c5:
 msgid "[MS] Wow!... I don't think I've ever had this much cum on my tits!"
-    MS "Wow!... I don't think I've ever had this much cum on my tits!"
+msgstr "[MS] Wow!... I don't think I've ever had this much cum on my tits!"
 
 # game/UpdateScript0.07.rpy:5549## # translate crowdin finished_painting_a8ce4606:
 msgid "MST "{i}You know that's a lie!{/i}"
@@ -8352,19 +8352,19 @@ msgid "MST "{i}Well, I guess I haven't from just one guy.{/i}"
 
 # game/UpdateScript0.07.rpy:5551## # translate crowdin finished_painting_e58b9eae:
 msgid "[MS] That still took too long."
-    MS "That still took too long."
+msgstr "[MS] That still took too long."
 
 # game/UpdateScript0.07.rpy:5552## # translate crowdin finished_painting_3f6dab4f:
 msgid "[MS] I don't think I've got time to paint you now."
-    MS "I don't think I've got time to paint you now."
+msgstr "[MS] I don't think I've got time to paint you now."
 
 # game/UpdateScript0.07.rpy:5553## # translate crowdin finished_painting_e196f12a:
 msgid "[MS] I've got a class starting in eight minutes."
-    MS "I've got a class starting in eight minutes."
+msgstr "[MS] I've got a class starting in eight minutes."
 
 # game/UpdateScript0.07.rpy:5554## # translate crowdin finished_painting_bc019a4b:
 msgid "[MS] Promise me that you'll come back so I can finish my painting?"
-    MS "Promise me that you'll come back so I can finish my painting?"
+msgstr "[MS] Promise me that you'll come back so I can finish my painting?"
 
 # game/UpdateScript0.07.rpy:5555## # translate crowdin finished_painting_838a9db2:
 msgid "R "You couldn't stop me."
@@ -8372,15 +8372,15 @@ msgid "R "You couldn't stop me."
 
 # game/UpdateScript0.07.rpy:5560## # translate crowdin finished_painting_7329c28c:
 msgid "[MS] Well, that was not how I expected today to go."
-    MS "Well, that was not how I expected today to go."
+msgstr "[MS] Well, that was not how I expected today to go."
 
 # game/UpdateScript0.07.rpy:5561## # translate crowdin finished_painting_a07eb339:
 msgid "[MS] But I can't complain."
-    MS "But I can't complain."
+msgstr "[MS] But I can't complain."
 
 # game/UpdateScript0.07.rpy:5562## # translate crowdin finished_painting_c22be53a:
 msgid "[MS] My breasts got a nice cum bath... Cum is good for your skin, you know."
-    MS "My breasts got a nice cum bath... Cum is good for your skin, you know."
+msgstr "[MS] My breasts got a nice cum bath... Cum is good for your skin, you know."
 
 # game/UpdateScript0.07.rpy:5563## # translate crowdin finished_painting_372657cd:
 msgid "R "I didn't know that."
@@ -8388,7 +8388,7 @@ msgid "R "I didn't know that."
 
 # game/UpdateScript0.07.rpy:5564## # translate crowdin finished_painting_6c6ad862_2:
 msgid "[MS] Well, you should get going... The bell is about to ring."
-    MS "Well, you should get going... The bell is about to ring."
+msgstr "[MS] Well, you should get going... The bell is about to ring."
 
 # game/UpdateScript0.07.rpy:5565## # translate crowdin finished_painting_00634bfa:
 msgid "R "Thanks so much for everything, Mrs. Stone!"
@@ -8396,11 +8396,11 @@ msgid "R "Thanks so much for everything, Mrs. Stone!"
 
 # game/UpdateScript0.07.rpy:5566## # translate crowdin finished_painting_46ba9d56:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5567## # translate crowdin finished_painting_140ad2df:
 msgid "[MS] And thanks for coming to see me. I really enjoy your visits."
-    MS "And thanks for coming to see me. I really enjoy your visits."
+msgstr "[MS] And thanks for coming to see me. I really enjoy your visits."
 
 # game/UpdateScript0.07.rpy:5568## # translate crowdin finished_painting_49c21971:
 msgid "R "Thanks, Mrs. Stone... I do too, now more than ever."
@@ -8416,7 +8416,7 @@ msgid "RT "{i}Wow!... I can't wait for Matt to rip down Lauren's posters again.{
 
 # game/UpdateScript0.07.rpy:5582## # translate crowdin finished_painting_88f482ba_5:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5583## # translate crowdin finished_painting_02b92d0c_5:
 msgid "R "Great, thank you."
@@ -8424,11 +8424,11 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5584## # translate crowdin finished_painting_6a82b0f9_5:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5585## # translate crowdin finished_painting_b33ad3a9:
 msgid "[MS] Only... Can you do one more thing for me?"
-    MS "Only... Can you do one more thing for me?"
+msgstr "[MS] Only... Can you do one more thing for me?"
 
 # game/UpdateScript0.07.rpy:5586## # translate crowdin finished_painting_ee7c81c1:
 msgid "R "Remove my shirt and pants again?"
@@ -8436,7 +8436,7 @@ msgid "R "Remove my shirt and pants again?"
 
 # game/UpdateScript0.07.rpy:5587## # translate crowdin finished_painting_45fe105f:
 msgid "[MS] Uh... yes please, but would you also be willing to... remove your underwear?"
-    MS "Uh... yes please, but would you also be willing to... remove your underwear?"
+msgstr "[MS] Uh... yes please, but would you also be willing to... remove your underwear?"
 
 # game/UpdateScript0.07.rpy:5588## # translate crowdin finished_painting_589bf676:
 msgid "R "Wait... What?"
@@ -8444,7 +8444,7 @@ msgid "R "Wait... What?"
 
 # game/UpdateScript0.07.rpy:5589## # translate crowdin finished_painting_66fce99e:
 msgid "[MS] I'm sorry... It's just that these types of portraits are always done nude."
-    MS "I'm sorry... It's just that these types of portraits are always done nude."
+msgstr "[MS] I'm sorry... It's just that these types of portraits are always done nude."
 
 # game/UpdateScript0.07.rpy:5590## # translate crowdin finished_painting_a4fbb287:
 msgid "R "Are you serious?"
@@ -8452,7 +8452,7 @@ msgid "R "Are you serious?"
 
 # game/UpdateScript0.07.rpy:5591## # translate crowdin finished_painting_8673607c:
 msgid "[MS] I couldn't tell you from the start, because I didn't want to scare you off. I was trying to ease you into it."
-    MS "I couldn't tell you from the start, because I didn't want to scare you off. I was trying to ease you into it."
+msgstr "[MS] I couldn't tell you from the start, because I didn't want to scare you off. I was trying to ease you into it."
 
 # game/UpdateScript0.07.rpy:5592## # translate crowdin finished_painting_cd1f4fbf:
 msgid "RT "{i}Holy fuck!... Hello karma... Haha... This is so ironic.{/i}"
@@ -8468,7 +8468,7 @@ msgid "R "Yeah... okay..."
 
 # game/UpdateScript0.07.rpy:5595## # translate crowdin finished_painting_d274084c:
 msgid "[MS] Okay?... really?...."
-    MS "Okay?... really?...."
+msgstr "[MS] Okay?... really?...."
 
 # game/UpdateScript0.07.rpy:5596## # translate crowdin finished_painting_23fa62e6:
 msgid "R "I get it... I'm an artist too... At least a photographer, and I understand that art needs to push boundaries and be exciting sometimes to get an emotional response from the observer."
@@ -8476,7 +8476,7 @@ msgid "R "I get it... I'm an artist too... At least a photographer, and I unders
 
 # game/UpdateScript0.07.rpy:5597## # translate crowdin finished_painting_d6b287dc:
 msgid "[MS] I'm so glad you understand! Let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
-    MS "I'm so glad you understand! Let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+msgstr "[MS] I'm so glad you understand! Let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
 
 # game/UpdateScript0.07.rpy:5602## # translate crowdin finished_painting_7a9430b5:
 msgid "MST "{i}Holy shit!... I would have never guessed [ryan] was packing anything that big.{/i}"
@@ -8488,7 +8488,7 @@ msgid "MST "{i}I didn't even know white boys could get that big.{/i}"
 
 # game/UpdateScript0.07.rpy:5604## # translate crowdin finished_painting_e71587fd:
 msgid "[MS] Your pose is perfect, but you seem a little nervous."
-    MS "Your pose is perfect, but you seem a little nervous."
+msgstr "[MS] Your pose is perfect, but you seem a little nervous."
 
 # game/UpdateScript0.07.rpy:5605## # translate crowdin finished_painting_7e0e5199:
 msgid "R "I'm ok."
@@ -8520,7 +8520,7 @@ msgid "RT "{i}You've betrayed me!{/i}"
 
 # game/UpdateScript0.07.rpy:5616## # translate crowdin finished_painting_ccc3284b_3:
 msgid "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
-    MS "[ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
+msgstr "[MS] [ryan]?... Would you mind moving your hands? I can't see what I'm trying to paint."
 
 # game/UpdateScript0.07.rpy:5619## # translate crowdin finished_painting_a36a8b78_3:
 msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
@@ -8528,7 +8528,7 @@ msgid "RT "{i}Fuck!... This is so embarrassing!{/i}"
 
 # game/UpdateScript0.07.rpy:5620## # translate crowdin finished_painting_2ea82ca8:
 msgid "[MS] [ryan]?... Is there a problem?"
-    MS "[ryan]?... Is there a problem?"
+msgstr "[MS] [ryan]?... Is there a problem?"
 
 # game/UpdateScript0.07.rpy:5623## # translate crowdin finished_painting_acee7b40:
 msgid "R "Sorry... I'm just... trying to get something under control."
@@ -8536,19 +8536,19 @@ msgid "R "Sorry... I'm just... trying to get something under control."
 
 # game/UpdateScript0.07.rpy:5626## # translate crowdin finished_painting_b6fb7558:
 msgid "[MS] Oh, no!... This won't do at all."
-    MS "Oh, no!... This won't do at all."
+msgstr "[MS] Oh, no!... This won't do at all."
 
 # game/UpdateScript0.07.rpy:5627## # translate crowdin finished_painting_5ba9e4c0:
 msgid "[MS] I can't draw your little guy... I mean big guy when it's like this..."
-    MS "I can't draw your little guy... I mean big guy when it's like this..."
+msgstr "[MS] I can't draw your little guy... I mean big guy when it's like this..."
 
 # game/UpdateScript0.07.rpy:5628## # translate crowdin finished_painting_5dfd6a15:
 msgid "[MS] There's a very fine line between a tasteful nude and porn... And an erect penis is definitely in the latter category."
-    MS "There's a very fine line between a tasteful nude and porn... And an erect penis is definitely in the latter category."
+msgstr "[MS] There's a very fine line between a tasteful nude and porn... And an erect penis is definitely in the latter category."
 
 # game/UpdateScript0.07.rpy:5631## # translate crowdin finished_painting_7101a772_5:
 msgid "[MS] Alright... Move your hands and let me see just how bad it is."
-    MS "Alright... Move your hands and let me see just how bad it is."
+msgstr "[MS] Alright... Move your hands and let me see just how bad it is."
 
 # game/UpdateScript0.07.rpy:5632## # translate crowdin finished_painting_4ccafb50:
 msgid "R "But... Are you sure?"
@@ -8556,15 +8556,15 @@ msgid "R "But... Are you sure?"
 
 # game/UpdateScript0.07.rpy:5633## # translate crowdin finished_painting_da8c4efb:
 msgid "[MS] Well, I need to know how serious this is, to see if we're just going to have to do this another day."
-    MS "Well, I need to know how serious this is, to see if we're just going to have to do this another day."
+msgstr "[MS] Well, I need to know how serious this is, to see if we're just going to have to do this another day."
 
 # game/UpdateScript0.07.rpy:5634## # translate crowdin finished_painting_342ace91:
 msgid "[MS] So, go ahead..."
-    MS "So, go ahead..."
+msgstr "[MS] So, go ahead..."
 
 # game/UpdateScript0.07.rpy:5637## # translate crowdin finished_painting_d52ce7b6:
 msgid "[MS] Oh, wow!... You're both a grower and a shower!"
-    MS "Oh, wow!... You're both a grower and a shower!"
+msgstr "[MS] Oh, wow!... You're both a grower and a shower!"
 
 # game/UpdateScript0.07.rpy:5638## # translate crowdin finished_painting_c0c1c091:
 msgid "R "Uhhh... Thanks... I think."
@@ -8572,11 +8572,11 @@ msgid "R "Uhhh... Thanks... I think."
 
 # game/UpdateScript0.07.rpy:5639## # translate crowdin finished_painting_981fe853:
 msgid "[MS] Oh, yes... You should be very proud of this dick!"
-    MS "Oh, yes... You should be very proud of this dick!"
+msgstr "[MS] Oh, yes... You should be very proud of this dick!"
 
 # game/UpdateScript0.07.rpy:5640## # translate crowdin finished_painting_13b4c305:
 msgid "[MS] I've only ever seen its equal in pornos."
-    MS "I've only ever seen its equal in pornos."
+msgstr "[MS] I've only ever seen its equal in pornos."
 
 # game/UpdateScript0.07.rpy:5641## # translate crowdin finished_painting_683c31f5:
 msgid "R "You watch porn?"
@@ -8584,23 +8584,23 @@ msgid "R "You watch porn?"
 
 # game/UpdateScript0.07.rpy:5642## # translate crowdin finished_painting_4b8b5f81:
 msgid "[MS] Oh, please, [ryan]... Everyone does... Even your teachers."
-    MS "Oh, please, [ryan]... Everyone does... Even your teachers."
+msgstr "[MS] Oh, please, [ryan]... Everyone does... Even your teachers."
 
 # game/UpdateScript0.07.rpy:5645## # translate crowdin finished_painting_62dcd368:
 msgid "[MS] Now, the question is... What are we going to do to get this massive hardon to go away?"
-    MS "Now, the question is... What are we going to do to get this massive hardon to go away?"
+msgstr "[MS] Now, the question is... What are we going to do to get this massive hardon to go away?"
 
 # game/UpdateScript0.07.rpy:5646## # translate crowdin finished_painting_2cee226b:
 msgid "[MS] Maybe it would help, if we knew what caused it?"
-    MS "Maybe it would help, if we knew what caused it?"
+msgstr "[MS] Maybe it would help, if we knew what caused it?"
 
 # game/UpdateScript0.07.rpy:5647## # translate crowdin finished_painting_ebf47662_2:
 msgid "[MS] ...."
-    MS "...."
+msgstr "[MS] ...."
 
 # game/UpdateScript0.07.rpy:5648## # translate crowdin finished_painting_86ffb6eb_1:
 msgid "[MS] [ryan]?"
-    MS "[ryan]?"
+msgstr "[MS] [ryan]?"
 
 # game/UpdateScript0.07.rpy:5649## # translate crowdin finished_painting_5409fa1e:
 msgid "R "It's just... knowing I'm naked in front of such a beautiful woman... I just couldn't keep my mind from going where it shouldn't have."
@@ -8608,7 +8608,7 @@ msgid "R "It's just... knowing I'm naked in front of such a beautiful woman... I
 
 # game/UpdateScript0.07.rpy:5650## # translate crowdin finished_painting_36e563f0:
 msgid "[MS] I see... That's just what I suspected."
-    MS "I see... That's just what I suspected."
+msgstr "[MS] I see... That's just what I suspected."
 
 # game/UpdateScript0.07.rpy:5651## # translate crowdin finished_painting_968e1f17:
 msgid "MST "{i}Don't do it!... Your husband will be furious if he finds out you're doing this with students again!{/i}"
@@ -8620,7 +8620,7 @@ msgid "MST "{i}Shut up, conscience!... My husband doesn't give me nearly the att
 
 # game/UpdateScript0.07.rpy:5654## # translate crowdin finished_painting_77176b49:
 msgid "[MS] Since I'm the one who caused this... I should be the one to take care of it."
-    MS "Since I'm the one who caused this... I should be the one to take care of it."
+msgstr "[MS] Since I'm the one who caused this... I should be the one to take care of it."
 
 # game/UpdateScript0.07.rpy:5655## # translate crowdin finished_painting_4881927b:
 msgid "R "What?"
@@ -8628,7 +8628,7 @@ msgid "R "What?"
 
 # game/UpdateScript0.07.rpy:5656## # translate crowdin finished_painting_f2e044d5:
 msgid "[MS] That is... if you don't object?"
-    MS "That is... if you don't object?"
+msgstr "[MS] That is... if you don't object?"
 
 # game/UpdateScript0.07.rpy:5657## # translate crowdin finished_painting_98176587:
 msgid "R "No... I... Just... I'm not sure what you mean."
@@ -8636,7 +8636,7 @@ msgid "R "No... I... Just... I'm not sure what you mean."
 
 # game/UpdateScript0.07.rpy:5658## # translate crowdin finished_painting_5445f576:
 msgid "[MS] I think you do."
-    MS "I think you do."
+msgstr "[MS] I think you do."
 
 # game/UpdateScript0.07.rpy:5662## # translate crowdin finished_painting_8073c527:
 msgid "MST "{i}Ok... I'm not cheating on my husband....{/i}"
@@ -8672,7 +8672,7 @@ msgid "R "I'm getting close, Mrs. Stone!"
 
 # game/UpdateScript0.07.rpy:5670## # translate crowdin finished_painting_39e54fe1:
 msgid "[MS] Just let it out."
-    MS "Just let it out."
+msgstr "[MS] Just let it out."
 
 # game/UpdateScript0.07.rpy:5673## # translate crowdin finished_painting_2d316a35_1:
 msgid "R "Oh, God!"
@@ -8680,15 +8680,15 @@ msgid "R "Oh, God!"
 
 # game/UpdateScript0.07.rpy:5686## # translate crowdin finished_painting_77b58e2a_1:
 msgid "[MS] Oh, my God!... [ryan]!... That was so much cum!"
-    MS "Oh, my God!... [ryan]!... That was so much cum!"
+msgstr "[MS] Oh, my God!... [ryan]!... That was so much cum!"
 
 # game/UpdateScript0.07.rpy:5687## # translate crowdin finished_painting_58dd5b66:
 msgid "[MS] I've never seen so much cum from one person!"
-    MS "I've never seen so much cum from one person!"
+msgstr "[MS] I've never seen so much cum from one person!"
 
 # game/UpdateScript0.07.rpy:5690## # translate crowdin finished_painting_dc23f89d:
 msgid "[MS] That was like a three man bukkake!"
-    MS "That was like a three man bukkake!"
+msgstr "[MS] That was like a three man bukkake!"
 
 # game/UpdateScript0.07.rpy:5691## # translate crowdin finished_painting_c5b4b879:
 msgid "RT "{i}I can't believe Mrs. Stone knows what a bukkake is.{/i}"
@@ -8696,19 +8696,19 @@ msgid "RT "{i}I can't believe Mrs. Stone knows what a bukkake is.{/i}"
 
 # game/UpdateScript0.07.rpy:5692## # translate crowdin finished_painting_6e47b226:
 msgid "[MS] You must have been really backed up."
-    MS "You must have been really backed up."
+msgstr "[MS] You must have been really backed up."
 
 # game/UpdateScript0.07.rpy:5695## # translate crowdin finished_painting_3f6dab4f_1:
 msgid "[MS] I don't think I've got time to paint you now."
-    MS "I don't think I've got time to paint you now."
+msgstr "[MS] I don't think I've got time to paint you now."
 
 # game/UpdateScript0.07.rpy:5696## # translate crowdin finished_painting_e196f12a_1:
 msgid "[MS] I've got a class starting in eight minutes."
-    MS "I've got a class starting in eight minutes."
+msgstr "[MS] I've got a class starting in eight minutes."
 
 # game/UpdateScript0.07.rpy:5699## # translate crowdin finished_painting_bc019a4b_1:
 msgid "[MS] Promise me that you'll come back so I can finish my painting?"
-    MS "Promise me that you'll come back so I can finish my painting?"
+msgstr "[MS] Promise me that you'll come back so I can finish my painting?"
 
 # game/UpdateScript0.07.rpy:5700## # translate crowdin finished_painting_838a9db2_1:
 msgid "R "You couldn't stop me."
@@ -8716,15 +8716,15 @@ msgid "R "You couldn't stop me."
 
 # game/UpdateScript0.07.rpy:5705## # translate crowdin finished_painting_7329c28c_1:
 msgid "[MS] Well, that was not how I expected today to go."
-    MS "Well, that was not how I expected today to go."
+msgstr "[MS] Well, that was not how I expected today to go."
 
 # game/UpdateScript0.07.rpy:5706## # translate crowdin finished_painting_a07eb339_1:
 msgid "[MS] But I can't complain."
-    MS "But I can't complain."
+msgstr "[MS] But I can't complain."
 
 # game/UpdateScript0.07.rpy:5707## # translate crowdin finished_painting_8e368220:
 msgid "[MS] I'll see you soon?"
-    MS "I'll see you soon?"
+msgstr "[MS] I'll see you soon?"
 
 # game/UpdateScript0.07.rpy:5708## # translate crowdin finished_painting_50ae4db5:
 msgid "R "Yeah... As soon as I need some more posters."
@@ -8732,15 +8732,15 @@ msgid "R "Yeah... As soon as I need some more posters."
 
 # game/UpdateScript0.07.rpy:5709## # translate crowdin finished_painting_79e1431c:
 msgid "[MS] Oh, right..."
-    MS "Oh, right..."
+msgstr "[MS] Oh, right..."
 
 # game/UpdateScript0.07.rpy:5710## # translate crowdin finished_painting_46ba9d56_1:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5711## # translate crowdin finished_painting_140ad2df_1:
 msgid "[MS] And thanks for coming to see me. I really enjoy your visits."
-    MS "And thanks for coming to see me. I really enjoy your visits."
+msgstr "[MS] And thanks for coming to see me. I really enjoy your visits."
 
 # game/UpdateScript0.07.rpy:5712## # translate crowdin finished_painting_49c21971_1:
 msgid "R "Thanks, Mrs. Stone... I do too, now more than ever."
@@ -8756,7 +8756,7 @@ msgid "RT "{i}Wow!... I can't wait for Matt to rip down Lauren's posters again.{
 
 # game/UpdateScript0.07.rpy:5727## # translate crowdin finished_painting_88f482ba_6:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5728## # translate crowdin finished_painting_02b92d0c_6:
 msgid "R "Great, thank you."
@@ -8764,11 +8764,11 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5729## # translate crowdin finished_painting_6a82b0f9_6:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5730## # translate crowdin finished_painting_b33ad3a9_1:
 msgid "[MS] Only... Can you do one more thing for me?"
-    MS "Only... Can you do one more thing for me?"
+msgstr "[MS] Only... Can you do one more thing for me?"
 
 # game/UpdateScript0.07.rpy:5731## # translate crowdin finished_painting_b18a38c9:
 msgid "R "Remove my shirt again?"
@@ -8776,7 +8776,7 @@ msgid "R "Remove my shirt again?"
 
 # game/UpdateScript0.07.rpy:5732## # translate crowdin finished_painting_7b3e835c:
 msgid "[MS] Uh... yes please, but would you also be willing to remove your pants?"
-    MS "Uh... yes please, but would you also be willing to remove your pants?"
+msgstr "[MS] Uh... yes please, but would you also be willing to remove your pants?"
 
 # game/UpdateScript0.07.rpy:5733## # translate crowdin finished_painting_589bf676_1:
 msgid "R "Wait... What?"
@@ -8784,7 +8784,7 @@ msgid "R "Wait... What?"
 
 # game/UpdateScript0.07.rpy:5734## # translate crowdin finished_painting_39bd1299:
 msgid "[MS] You can keep your underwear on. I just need to capture more of your figure to complete my painting."
-    MS "You can keep your underwear on. I just need to capture more of your figure to complete my painting."
+msgstr "[MS] You can keep your underwear on. I just need to capture more of your figure to complete my painting."
 
 # game/UpdateScript0.07.rpy:5735## # translate crowdin finished_painting_33e77293:
 msgid "RT "{i}Having me strip slowly?... While she captures my image?... I think I'm starting to understand how the girls feel when I ask them to strip for my photo shoots.{/i}"
@@ -8800,11 +8800,11 @@ msgid "R "Yeah... okay..."
 
 # game/UpdateScript0.07.rpy:5738## # translate crowdin finished_painting_29863384:
 msgid "[MS] Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
-    MS "Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+msgstr "[MS] Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
 
 # game/UpdateScript0.07.rpy:5743## # translate crowdin finished_painting_ff97de2c:
 msgid "[MS] Your pose is perfect. Just like last time."
-    MS "Your pose is perfect. Just like last time."
+msgstr "[MS] Your pose is perfect. Just like last time."
 
 # game/UpdateScript0.07.rpy:5744## # translate crowdin finished_painting_a29744f1:
 msgid "RT "{i}I should try to flex a little... Just so Mrs. Stone can see how strong my muscles really are.{/i}"
@@ -8812,7 +8812,7 @@ msgid "RT "{i}I should try to flex a little... Just so Mrs. Stone can see how st
 
 # game/UpdateScript0.07.rpy:5745## # translate crowdin finished_painting_3f4b4023:
 msgid "[MS] Now, hold still while I try to capture your likeness."
-    MS "Now, hold still while I try to capture your likeness."
+msgstr "[MS] Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5746## # translate crowdin finished_painting_eeb5ac7b:
 msgid "MST "{i}Damn!... I got him to take his pants off.{/i}"
@@ -8840,11 +8840,11 @@ msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5756## # translate crowdin finished_painting_f8888d0c:
 msgid "[MS] And done... At least for today."
-    MS "And done... At least for today."
+msgstr "[MS] And done... At least for today."
 
 # game/UpdateScript0.07.rpy:5759## # translate crowdin finished_painting_c33638cc:
 msgid "[MS] I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
-    MS "I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
+msgstr "[MS] I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
 
 # game/UpdateScript0.07.rpy:5760## # translate crowdin finished_painting_82ffc676:
 msgid "MST "{i}Can I control myself and let him keep his underwear on?{/i}"
@@ -8860,15 +8860,15 @@ msgid "R "Yeah, most likely I'll be back to have more posters made."
 
 # game/UpdateScript0.07.rpy:5763## # translate crowdin finished_painting_79e1431c_1:
 msgid "[MS] Oh, right..."
-    MS "Oh, right..."
+msgstr "[MS] Oh, right..."
 
 # game/UpdateScript0.07.rpy:5764## # translate crowdin finished_painting_46ba9d56_2:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5765## # translate crowdin finished_painting_140ad2df_2:
 msgid "[MS] And thanks for coming to see me. I really enjoy your visits."
-    MS "And thanks for coming to see me. I really enjoy your visits."
+msgstr "[MS] And thanks for coming to see me. I really enjoy your visits."
 
 # game/UpdateScript0.07.rpy:5766## # translate crowdin finished_painting_fdb26bf4:
 msgid "R "Thanks, Mrs. Stone... I do too."
@@ -8876,7 +8876,7 @@ msgid "R "Thanks, Mrs. Stone... I do too."
 
 # game/UpdateScript0.07.rpy:5775## # translate crowdin finished_painting_88f482ba_7:
 msgid "[MS] Alright, I've got the posters printing."
-    MS "Alright, I've got the posters printing."
+msgstr "[MS] Alright, I've got the posters printing."
 
 # game/UpdateScript0.07.rpy:5776## # translate crowdin finished_painting_02b92d0c_7:
 msgid "R "Great, thank you."
@@ -8884,11 +8884,11 @@ msgid "R "Great, thank you."
 
 # game/UpdateScript0.07.rpy:5777## # translate crowdin finished_painting_6a82b0f9_7:
 msgid "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
-    MS "Why don't you grab a stool and go strike the exact same pose you were in last time."
+msgstr "[MS] Why don't you grab a stool and go strike the exact same pose you were in last time."
 
 # game/UpdateScript0.07.rpy:5778## # translate crowdin finished_painting_b33ad3a9_2:
 msgid "[MS] Only... Can you do one more thing for me?"
-    MS "Only... Can you do one more thing for me?"
+msgstr "[MS] Only... Can you do one more thing for me?"
 
 # game/UpdateScript0.07.rpy:5779## # translate crowdin finished_painting_066eacf6:
 msgid "R "What's that?"
@@ -8896,7 +8896,7 @@ msgid "R "What's that?"
 
 # game/UpdateScript0.07.rpy:5780## # translate crowdin finished_painting_1a1bbee6:
 msgid "[MS] Would you mind just taking off your shirt and tie?"
-    MS "Would you mind just taking off your shirt and tie?"
+msgstr "[MS] Would you mind just taking off your shirt and tie?"
 
 # game/UpdateScript0.07.rpy:5781## # translate crowdin finished_painting_c65fea4f:
 msgid "R "What? Really?"
@@ -8904,11 +8904,11 @@ msgid "R "What? Really?"
 
 # game/UpdateScript0.07.rpy:5782## # translate crowdin finished_painting_d48ded0a:
 msgid "[MS] Yeah, for this piece, I really want to capture the physique of the average male student."
-    MS "Yeah, for this piece, I really want to capture the physique of the average male student."
+msgstr "[MS] Yeah, for this piece, I really want to capture the physique of the average male student."
 
 # game/UpdateScript0.07.rpy:5783## # translate crowdin finished_painting_4bc4847a:
 msgid "[MS] Though... maybe your muscles are a little bigger than the average male student?"
-    MS "Though... maybe your muscles are a little bigger than the average male student?"
+msgstr "[MS] Though... maybe your muscles are a little bigger than the average male student?"
 
 # game/UpdateScript0.07.rpy:5784## # translate crowdin finished_painting_6e93f48a:
 msgid "R "Well, I don't want to brag, but I've tried to keep myself in pretty good shape."
@@ -8916,7 +8916,7 @@ msgid "R "Well, I don't want to brag, but I've tried to keep myself in pretty go
 
 # game/UpdateScript0.07.rpy:5785## # translate crowdin finished_painting_14160d61:
 msgid "[MS] Ohh... Do you mind letting me draw you without your shirt, then?"
-    MS "Ohh... Do you mind letting me draw you without your shirt, then?"
+msgstr "[MS] Ohh... Do you mind letting me draw you without your shirt, then?"
 
 # game/UpdateScript0.07.rpy:5786## # translate crowdin finished_painting_a4c289ee:
 msgid "R "Yeah, I suppose I could do that."
@@ -8924,11 +8924,11 @@ msgid "R "Yeah, I suppose I could do that."
 
 # game/UpdateScript0.07.rpy:5787## # translate crowdin finished_painting_29863384_1:
 msgid "[MS] Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
-    MS "Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+msgstr "[MS] Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
 
 # game/UpdateScript0.07.rpy:5792## # translate crowdin finished_painting_ff97de2c_1:
 msgid "[MS] Your pose is perfect. Just like last time."
-    MS "Your pose is perfect. Just like last time."
+msgstr "[MS] Your pose is perfect. Just like last time."
 
 # game/UpdateScript0.07.rpy:5793## # translate crowdin finished_painting_a29744f1_1:
 msgid "RT "{i}I should try to flex a little... Just so Mrs. Stone can see how strong my muscles really are.{/i}"
@@ -8936,7 +8936,7 @@ msgid "RT "{i}I should try to flex a little... Just so Mrs. Stone can see how st
 
 # game/UpdateScript0.07.rpy:5794## # translate crowdin finished_painting_3f4b4023_1:
 msgid "[MS] Now, hold still while I try to capture your likeness."
-    MS "Now, hold still while I try to capture your likeness."
+msgstr "[MS] Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5795## # translate crowdin finished_painting_8bc08372:
 msgid "MST "{i}Damn!... I haven't had a shirtless boy in my class for a long time.{/i}"
@@ -8964,11 +8964,11 @@ msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5805## # translate crowdin finished_painting_f8888d0c_1:
 msgid "[MS] And done... At least for today."
-    MS "And done... At least for today."
+msgstr "[MS] And done... At least for today."
 
 # game/UpdateScript0.07.rpy:5808## # translate crowdin finished_painting_c33638cc_1:
 msgid "[MS] I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
-    MS "I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
+msgstr "[MS] I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
 
 # game/UpdateScript0.07.rpy:5809## # translate crowdin finished_painting_b2f0cc41_1:
 msgid "R "Yeah, most likely I'll be back to have more posters made."
@@ -8976,15 +8976,15 @@ msgid "R "Yeah, most likely I'll be back to have more posters made."
 
 # game/UpdateScript0.07.rpy:5810## # translate crowdin finished_painting_79e1431c_2:
 msgid "[MS] Oh, right..."
-    MS "Oh, right..."
+msgstr "[MS] Oh, right..."
 
 # game/UpdateScript0.07.rpy:5811## # translate crowdin finished_painting_46ba9d56_3:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5812## # translate crowdin finished_painting_140ad2df_3:
 msgid "[MS] And thanks for coming to see me. I really enjoy your visits."
-    MS "And thanks for coming to see me. I really enjoy your visits."
+msgstr "[MS] And thanks for coming to see me. I really enjoy your visits."
 
 # game/UpdateScript0.07.rpy:5813## # translate crowdin finished_painting_fdb26bf4_1:
 msgid "R "Thanks, Mrs. Stone... I do too."
@@ -8992,15 +8992,15 @@ msgid "R "Thanks, Mrs. Stone... I do too."
 
 # game/UpdateScript0.07.rpy:5822## # translate crowdin finished_painting_6292674d:
 msgid "[MS] The ink on your posters is almost dry."
-    MS "The ink on your posters is almost dry."
+msgstr "[MS] The ink on your posters is almost dry."
 
 # game/UpdateScript0.07.rpy:5823## # translate crowdin finished_painting_9d1d8127:
 msgid "[MS] I'm going to scan them real quick, and then you can do some posing for me while they're being printed."
-    MS "I'm going to scan them real quick, and then you can do some posing for me while they're being printed."
+msgstr "[MS] I'm going to scan them real quick, and then you can do some posing for me while they're being printed."
 
 # game/UpdateScript0.07.rpy:5824## # translate crowdin finished_painting_98e50772:
 msgid "[MS] So 10 of each for a total of 20 posters, right?"
-    MS "So 10 of each for a total of 20 posters, right?"
+msgstr "[MS] So 10 of each for a total of 20 posters, right?"
 
 # game/UpdateScript0.07.rpy:5825## # translate crowdin finished_painting_cdbdd074:
 msgid "R "Yes, thank you."
@@ -9008,11 +9008,11 @@ msgid "R "Yes, thank you."
 
 # game/UpdateScript0.07.rpy:5826## # translate crowdin finished_painting_5d1eae3a:
 msgid "[MS] Great!... Why don't you grab a stool and go in front of my easel and try to think of a pose where you look thoughtful. You know, like a model student should be."
-    MS "Great!... Why don't you grab a stool and go in front of my easel and try to think of a pose where you look thoughtful. You know, like a model student should be."
+msgstr "[MS] Great!... Why don't you grab a stool and go in front of my easel and try to think of a pose where you look thoughtful. You know, like a model student should be."
 
 # game/UpdateScript0.07.rpy:5827## # translate crowdin finished_painting_ddb3bf9e:
 msgid "[MS] I'll be right back after I get your posters printing."
-    MS "I'll be right back after I get your posters printing."
+msgstr "[MS] I'll be right back after I get your posters printing."
 
 # game/UpdateScript0.07.rpy:5830## # translate crowdin finished_painting_491e2abb:
 msgid "{i}(A few minutes later){/i}"
@@ -9020,11 +9020,11 @@ msgstr "{i}(A few minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5833## # translate crowdin finished_painting_c6bd4132:
 msgid "[MS] That pose is perfect."
-    MS "That pose is perfect."
+msgstr "[MS] That pose is perfect."
 
 # game/UpdateScript0.07.rpy:5834## # translate crowdin finished_painting_3f4b4023_2:
 msgid "[MS] Now, hold still while I try to capture your likeness."
-    MS "Now, hold still while I try to capture your likeness."
+msgstr "[MS] Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5837## # translate crowdin finished_painting_35776249_2:
 msgid "{i}(A few more minutes later){/i}"
@@ -9032,11 +9032,11 @@ msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5840## # translate crowdin finished_painting_f8888d0c_2:
 msgid "[MS] And done... At least for today."
-    MS "And done... At least for today."
+msgstr "[MS] And done... At least for today."
 
 # game/UpdateScript0.07.rpy:5843## # translate crowdin finished_painting_71bec428:
 msgid "[MS] I've got a class starting in a few minutes so, I need you to come back another day so I can finish capturing your likeness."
-    MS "I've got a class starting in a few minutes so, I need you to come back another day so I can finish capturing your likeness."
+msgstr "[MS] I've got a class starting in a few minutes so, I need you to come back another day so I can finish capturing your likeness."
 
 # game/UpdateScript0.07.rpy:5844## # translate crowdin finished_painting_7c108874:
 msgid "R "Ok, I promise I'll be back!"
@@ -9044,11 +9044,11 @@ msgid "R "Ok, I promise I'll be back!"
 
 # game/UpdateScript0.07.rpy:5845## # translate crowdin finished_painting_46ba9d56_4:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5846## # translate crowdin finished_painting_58da55c3:
 msgid "[MS] And thanks for coming to see me. This is the most enjoyable free hour I've had in a long time."
-    MS "And thanks for coming to see me. This is the most enjoyable free hour I've had in a long time."
+msgstr "[MS] And thanks for coming to see me. This is the most enjoyable free hour I've had in a long time."
 
 # game/UpdateScript0.07.rpy:5890## # translate crowdin stone_bj_cum_e3ec90d2:
 msgid "RT "{i}Oh God, Mrs. Stone is so good!... I'm going to cum!{/i}"
@@ -9056,35 +9056,35 @@ msgid "RT "{i}Oh God, Mrs. Stone is so good!... I'm going to cum!{/i}"
 
 # game/UpdateScript0.07.rpy:5910## # translate crowdin stone_bj_cum_8e94f763:
 msgid "[MS] Hrrcccchchh..."
-    MS "Hrrcccchchh..."
+msgstr "[MS] Hrrcccchchh..."
 
 # game/UpdateScript0.07.rpy:5914## # translate crowdin stone_bj_cum_77b58e2a:
 msgid "[MS] Oh, my God!... [ryan]!... That was so much cum!"
-    MS "Oh, my God!... [ryan]!... That was so much cum!"
+msgstr "[MS] Oh, my God!... [ryan]!... That was so much cum!"
 
 # game/UpdateScript0.07.rpy:5916## # translate crowdin stone_bj_cum_a40102c2:
 msgid "[MS] I feel like you filled up my stomach!"
-    MS "I feel like you filled up my stomach!"
+msgstr "[MS] I feel like you filled up my stomach!"
 
 # game/UpdateScript0.07.rpy:5917## # translate crowdin stone_bj_cum_7d588b8b:
 msgid "[MS] I don't think I'll be needing lunch later."
-    MS "I don't think I'll be needing lunch later."
+msgstr "[MS] I don't think I'll be needing lunch later."
 
 # game/UpdateScript0.07.rpy:5918## # translate crowdin stone_bj_cum_0e8b03e0:
 msgid "[MS] Wow!"
-    MS "Wow!"
+msgstr "[MS] Wow!"
 
 # game/UpdateScript0.07.rpy:5921## # translate crowdin stone_bj_cum_3f6dab4f:
 msgid "[MS] I don't think I've got time to paint you now."
-    MS "I don't think I've got time to paint you now."
+msgstr "[MS] I don't think I've got time to paint you now."
 
 # game/UpdateScript0.07.rpy:5922## # translate crowdin stone_bj_cum_5a0f5f89:
 msgid "[MS] That took longer than I thought it would."
-    MS "That took longer than I thought it would."
+msgstr "[MS] That took longer than I thought it would."
 
 # game/UpdateScript0.07.rpy:5925## # translate crowdin stone_bj_cum_bc019a4b:
 msgid "[MS] Promise me that you'll come back so I can finish my painting?"
-    MS "Promise me that you'll come back so I can finish my painting?"
+msgstr "[MS] Promise me that you'll come back so I can finish my painting?"
 
 # game/UpdateScript0.07.rpy:5926## # translate crowdin stone_bj_cum_838a9db2:
 msgid "R "You couldn't stop me."
@@ -9092,23 +9092,23 @@ msgid "R "You couldn't stop me."
 
 # game/UpdateScript0.07.rpy:5940## # translate crowdin stone_bj_cum_77b58e2a_1:
 msgid "[MS] Oh, my God!... [ryan]!... That was so much cum!"
-    MS "Oh, my God!... [ryan]!... That was so much cum!"
+msgstr "[MS] Oh, my God!... [ryan]!... That was so much cum!"
 
 # game/UpdateScript0.07.rpy:5943## # translate crowdin stone_bj_cum_7dd405b0:
 msgid "[MS] My skin is going to be silky soft for days!"
-    MS "My skin is going to be silky soft for days!"
+msgstr "[MS] My skin is going to be silky soft for days!"
 
 # game/UpdateScript0.07.rpy:5946## # translate crowdin stone_bj_cum_3f6dab4f_1:
 msgid "[MS] I don't think I've got time to paint you now."
-    MS "I don't think I've got time to paint you now."
+msgstr "[MS] I don't think I've got time to paint you now."
 
 # game/UpdateScript0.07.rpy:5947## # translate crowdin stone_bj_cum_5a0f5f89_1:
 msgid "[MS] That took longer than I thought it would."
-    MS "That took longer than I thought it would."
+msgstr "[MS] That took longer than I thought it would."
 
 # game/UpdateScript0.07.rpy:5950## # translate crowdin stone_bj_cum_bc019a4b_1:
 msgid "[MS] Promise me that you'll come back so I can finish my painting?"
-    MS "Promise me that you'll come back so I can finish my painting?"
+msgstr "[MS] Promise me that you'll come back so I can finish my painting?"
 
 # game/UpdateScript0.07.rpy:5951## # translate crowdin stone_bj_cum_838a9db2_1:
 msgid "R "You couldn't stop me."
@@ -9116,7 +9116,7 @@ msgid "R "You couldn't stop me."
 
 # game/UpdateScript0.07.rpy:5956## # translate crowdin stone_bj_cum_8e368220:
 msgid "[MS] I'll see you soon?"
-    MS "I'll see you soon?"
+msgstr "[MS] I'll see you soon?"
 
 # game/UpdateScript0.07.rpy:5957## # translate crowdin stone_bj_cum_50ae4db5:
 msgid "R "Yeah... As soon as I need some more posters."
@@ -9124,15 +9124,15 @@ msgid "R "Yeah... As soon as I need some more posters."
 
 # game/UpdateScript0.07.rpy:5958## # translate crowdin stone_bj_cum_79e1431c:
 msgid "[MS] Oh, right..."
-    MS "Oh, right..."
+msgstr "[MS] Oh, right..."
 
 # game/UpdateScript0.07.rpy:5959## # translate crowdin stone_bj_cum_46ba9d56:
 msgid "[MS] Your posters should be done... You can grab them off the printer on your way out."
-    MS "Your posters should be done... You can grab them off the printer on your way out."
+msgstr "[MS] Your posters should be done... You can grab them off the printer on your way out."
 
 # game/UpdateScript0.07.rpy:5960## # translate crowdin stone_bj_cum_140ad2df:
 msgid "[MS] And thanks for coming to see me. I really enjoy your visits."
-    MS "And thanks for coming to see me. I really enjoy your visits."
+msgstr "[MS] And thanks for coming to see me. I really enjoy your visits."
 
 # game/UpdateScript0.07.rpy:5961## # translate crowdin stone_bj_cum_49c21971:
 msgid "R "Thanks, Mrs. Stone... I do too, now more than ever."

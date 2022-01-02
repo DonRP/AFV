@@ -9368,7 +9368,7 @@ msgid "R "And he's attacking my art teacher, Mrs. Stone!"
 
 # game/UpdateScript0.05.rpy:5344## # translate crowdin park_activities_ee61a651:
 msgid "[MS] Please help me!"
-    MS "Please help me!"
+msgstr "[MS] Please help me!"
 
 # game/UpdateScript0.05.rpy:5345## # translate crowdin park_activities_8f277ab4:
 msgid "R "That's it!"
@@ -9468,11 +9468,11 @@ msgid "S "Ahhh...."
 
 # game/UpdateScript0.05.rpy:5388## # translate crowdin park_activities_f75be925:
 msgid "[MS] Oh my God! [ryan]!.... You're my hero!"
-    MS "Oh my God! [ryan]!.... You're my hero!"
+msgstr "[MS] Oh my God! [ryan]!.... You're my hero!"
 
 # game/UpdateScript0.05.rpy:5389## # translate crowdin park_activities_232c6572:
 msgid "[MS] Let me just help you up, and give you a great big hug!"
-    MS "Let me just help you up, and give you a great big hug!"
+msgstr "[MS] Let me just help you up, and give you a great big hug!"
 
 # game/UpdateScript0.05.rpy:5392## # translate crowdin park_activities_bb1c3ae1:
 msgid "R "Thanks, Mrs. Stone!"
@@ -9480,19 +9480,19 @@ msgid "R "Thanks, Mrs. Stone!"
 
 # game/UpdateScript0.05.rpy:5393## # translate crowdin park_activities_855e6e00:
 msgid "[MS] I just can't believe how brave you were!"
-    MS "I just can't believe how brave you were!"
+msgstr "[MS] I just can't believe how brave you were!"
 
 # game/UpdateScript0.05.rpy:5396## # translate crowdin park_activities_a87ec360:
 msgid "[MS] Not only did you rescue me, but you also helped that poor old man."
-    MS "Not only did you rescue me, but you also helped that poor old man."
+msgstr "[MS] Not only did you rescue me, but you also helped that poor old man."
 
 # game/UpdateScript0.05.rpy:5397## # translate crowdin park_activities_ada889d0:
 msgid "[MS] The poor thing's been surviving off of the land for weeks."
-    MS "The poor thing's been surviving off of the land for weeks."
+msgstr "[MS] The poor thing's been surviving off of the land for weeks."
 
 # game/UpdateScript0.05.rpy:5400## # translate crowdin park_activities_9cc9275e:
 msgid "[MS] I sure hope they give you some kind of medal."
-    MS "I sure hope they give you some kind of medal."
+msgstr "[MS] I sure hope they give you some kind of medal."
 
 # game/UpdateScript0.05.rpy:5401## # translate crowdin park_activities_b9871172:
 msgid "R "Oh, don't be silly. I don't deserve a medal."
@@ -9500,7 +9500,7 @@ msgid "R "Oh, don't be silly. I don't deserve a medal."
 
 # game/UpdateScript0.05.rpy:5402## # translate crowdin park_activities_d45a24be:
 msgid "[MS] Oh, and you're so humble."
-    MS "Oh, and you're so humble."
+msgstr "[MS] Oh, and you're so humble."
 
 # game/UpdateScript0.05.rpy:5406## # translate crowdin park_activities_0f365492:
 msgid "S "Sorry to interrupt, but shouldn't we be getting home?"
@@ -9512,7 +9512,7 @@ msgid "ST "{i}This bitch better back off my brother.{/i}"
 
 # game/UpdateScript0.05.rpy:5410## # translate crowdin park_activities_7cf31ca8:
 msgid "[MS] And who might this be?"
-    MS "And who might this be?"
+msgstr "[MS] And who might this be?"
 
 # game/UpdateScript0.05.rpy:5411## # translate crowdin park_activities_fc906262:
 msgid "R "Oh, no one.... I mean.... this is my sister Sidney."
@@ -9520,7 +9520,7 @@ msgid "R "Oh, no one.... I mean.... this is my sister Sidney."
 
 # game/UpdateScript0.05.rpy:5414## # translate crowdin park_activities_73622d45:
 msgid "[MS] Sister?.... But didn't I see her climbing up on your lap right before I got grabbed by Mr. Peterson?"
-    MS "Sister?.... But didn't I see her climbing up on your lap right before I got grabbed by Mr. Peterson?"
+msgstr "[MS] Sister?.... But didn't I see her climbing up on your lap right before I got grabbed by Mr. Peterson?"
 
 # game/UpdateScript0.05.rpy:5415## # translate crowdin park_activities_6ccb256f:
 msgid "R "Oh, she was just giving me a purely platonic, sisterly hug."
@@ -9528,7 +9528,7 @@ msgid "R "Oh, she was just giving me a purely platonic, sisterly hug."
 
 # game/UpdateScript0.05.rpy:5418## # translate crowdin park_activities_c574b357:
 msgid "[MS] Oh.... So that's how white folks show their siblings affection?"
-    MS "Oh.... So that's how white folks show their siblings affection?"
+msgstr "[MS] Oh.... So that's how white folks show their siblings affection?"
 
 # game/UpdateScript0.05.rpy:5419## # translate crowdin park_activities_65374d18:
 msgid "S "As a matter of fact, yeah, that's how it is."
@@ -9536,19 +9536,19 @@ msgid "S "As a matter of fact, yeah, that's how it is."
 
 # game/UpdateScript0.05.rpy:5422## # translate crowdin park_activities_228dba03:
 msgid "[MS] Well, it's none of my business anyhow."
-    MS "Well, it's none of my business anyhow."
+msgstr "[MS] Well, it's none of my business anyhow."
 
 # game/UpdateScript0.05.rpy:5423## # translate crowdin park_activities_f25921b9:
 msgid "[MS] And I've got to get to school before my first class starts."
-    MS "And I've got to get to school before my first class starts."
+msgstr "[MS] And I've got to get to school before my first class starts."
 
 # game/UpdateScript0.05.rpy:5426## # translate crowdin park_activities_10602f31:
 msgid "[MS] Thank you so much again for saving me today!"
-    MS "Thank you so much again for saving me today!"
+msgstr "[MS] Thank you so much again for saving me today!"
 
 # game/UpdateScript0.05.rpy:5427## # translate crowdin park_activities_930c5750:
 msgid "[MS] If the city doesn't give you a reward, I'm sure I can think up a good one to give you."
-    MS "If the city doesn't give you a reward, I'm sure I can think up a good one to give you."
+msgstr "[MS] If the city doesn't give you a reward, I'm sure I can think up a good one to give you."
 
 # game/UpdateScript0.05.rpy:5428## # translate crowdin park_activities_2add12e8:
 msgid "ST "{i}She better not be implying what I think she's implying!{/i}"
@@ -9564,7 +9564,7 @@ msgid "S "And I think I'm going to be sick. [ryan], let's go home."
 
 # game/UpdateScript0.05.rpy:5431## # translate crowdin park_activities_5b557bee:
 msgid "[MS] Goodbye, my savior!"
-    MS "Goodbye, my savior!"
+msgstr "[MS] Goodbye, my savior!"
 
 # game/UpdateScript0.05.rpy:5436## # translate crowdin park_activities_8d8c66e6:
 msgid "S "You did it! No more crazy pervert to worry about at the park."
