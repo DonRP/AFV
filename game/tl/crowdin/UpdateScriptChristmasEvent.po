@@ -3239,40 +3239,40 @@ msgid "[R] (breathing heavily) What are you doing here?"
 msgstr "[R] (breathing heavily) What are you doing here?"
 
 # game/UpdateScriptChristmasEvent.rpy:1683## # translate crowdin christmas_shoot_555f21f1:
-msgid "AD "Now that's not a very nice way to greet me!"
-    AD "Now that's not a very nice way to greet me!"
+msgid "[AD] Now that's not a very nice way to greet me!"
+msgstr "[AD] Now that's not a very nice way to greet me!"
 
 # game/UpdateScriptChristmasEvent.rpy:1684## # translate crowdin christmas_shoot_d4b329c2:
 msgid "[R] Sorry!.... What the hell are you doing here.... ma'am."
 msgstr "[R] Sorry!.... What the hell are you doing here.... ma'am."
 
 # game/UpdateScriptChristmasEvent.rpy:1685## # translate crowdin christmas_shoot_e9d12ed2:
-msgid "AD "Well, I came by the house for my usual payoff, and found that everyone was gone."
-    AD "Well, I came by the house for my usual payoff, and found that everyone was gone."
+msgid "[AD] Well, I came by the house for my usual payoff, and found that everyone was gone."
+msgstr "[AD] Well, I came by the house for my usual payoff, and found that everyone was gone."
 
 # game/UpdateScriptChristmasEvent.rpy:1686## # translate crowdin christmas_shoot_594253b8:
 msgid "[R] Shit! It's Thursday?.... But it's Christmas Eve!"
 msgstr "[R] Shit! It's Thursday?.... But it's Christmas Eve!"
 
 # game/UpdateScriptChristmasEvent.rpy:1687## # translate crowdin christmas_shoot_e1675db3:
-msgid "AD "Yeah, and I wanted my present. So, I tracked you here."
-    AD "Yeah, and I wanted my present. So, I tracked you here."
+msgid "[AD] Yeah, and I wanted my present. So, I tracked you here."
+msgstr "[AD] Yeah, and I wanted my present. So, I tracked you here."
 
 # game/UpdateScriptChristmasEvent.rpy:1688## # translate crowdin christmas_shoot_2efefd9a:
 msgid "[R] How!?"
 msgstr "[R] How!?"
 
 # game/UpdateScriptChristmasEvent.rpy:1689## # translate crowdin christmas_shoot_a64feca2:
-msgid "AD "I work for the FBI.... I know a hundred ways to track you."
-    AD "I work for the FBI.... I know a hundred ways to track you."
+msgid "[AD] I work for the FBI.... I know a hundred ways to track you."
+msgstr "[AD] I work for the FBI.... I know a hundred ways to track you."
 
 # game/UpdateScriptChristmasEvent.rpy:1690## # translate crowdin christmas_shoot_b81a0386:
-msgid "AD "And I'm so glad I did!"
-    AD "And I'm so glad I did!"
+msgid "[AD] And I'm so glad I did!"
+msgstr "[AD] And I'm so glad I did!"
 
 # game/UpdateScriptChristmasEvent.rpy:1693## # translate crowdin christmas_shoot_d4ffbcfe:
-msgid "AD "Now I get to see where the magic happens."
-    AD "Now I get to see where the magic happens."
+msgid "[AD] Now I get to see where the magic happens."
+msgstr "[AD] Now I get to see where the magic happens."
 
 # game/UpdateScriptChristmasEvent.rpy:1694## # translate crowdin christmas_shoot_15584b21:
 msgid "GCP "Get rid of her!"
@@ -3283,20 +3283,20 @@ msgid "[R] Uhhh.... I suppose you want your money."
 msgstr "[R] Uhhh.... I suppose you want your money."
 
 # game/UpdateScriptChristmasEvent.rpy:1696## # translate crowdin christmas_shoot_9f495968:
-msgid "AD "Actually, there's something I want even more than my money."
-    AD "Actually, there's something I want even more than my money."
+msgid "[AD] Actually, there's something I want even more than my money."
+msgstr "[AD] Actually, there's something I want even more than my money."
 
 # game/UpdateScriptChristmasEvent.rpy:1697## # translate crowdin christmas_shoot_3864a5ae:
-msgid "AD "If you'll let me be the director and photographer of your photo shoot, you won't have to pay me for this week, or next week."
-    AD "If you'll let me be the director and photographer of your photo shoot, you won't have to pay me for this week, or next week."
+msgid "[AD] If you'll let me be the director and photographer of your photo shoot, you won't have to pay me for this week, or next week."
+msgstr "[AD] If you'll let me be the director and photographer of your photo shoot, you won't have to pay me for this week, or next week."
 
 # game/UpdateScriptChristmasEvent.rpy:1698## # translate crowdin christmas_shoot_34fe4869:
 msgid "{i}\"Offer only valid in the Christmas present.\"{/i}"
 msgstr "{i}\"Offer only valid in the Christmas present.\"{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1699## # translate crowdin christmas_shoot_39d647c5:
-msgid "AD "So, what do you say?"
-    AD "So, what do you say?"
+msgid "[AD] So, what do you say?"
+msgstr "[AD] So, what do you say?"
 
 # game/UpdateScriptChristmasEvent.rpy:1700## # translate crowdin christmas_shoot_7aeb6eec:
 msgid "GCP "Pay her, and get her out of here!"
@@ -3315,8 +3315,8 @@ msgid "[R] Yeah, I don't think so! Here's the $500, and why don't you take your 
 msgstr "[R] Yeah, I don't think so! Here's the $500, and why don't you take your broom and fly away."
 
 # game/UpdateScriptChristmasEvent.rpy:1708## # translate crowdin christmas_shoot_24e0e0c3:
-msgid "AD "Fine!.... But make sure you're home next week! If I have to track you down again, I'm going to be taking both forms of payment."
-    AD "Fine!.... But make sure you're home next week! If I have to track you down again, I'm going to be taking both forms of payment."
+msgid "[AD] Fine!.... But make sure you're home next week! If I have to track you down again, I'm going to be taking both forms of payment."
+msgstr "[AD] Fine!.... But make sure you're home next week! If I have to track you down again, I'm going to be taking both forms of payment."
 
 # game/UpdateScriptChristmasEvent.rpy:1709## # translate crowdin christmas_shoot_60388158:
 msgid "GCP "Good job! Now let's go give the girls their gift cards, and we'll call today a success!"
@@ -4415,8 +4415,8 @@ msgid "[R] Uhhh.... actually it seems that I don't have the money on me."
 msgstr "[R] Uhhh.... actually it seems that I don't have the money on me."
 
 # game/UpdateScriptChristmasEvent.rpy:2121## # translate crowdin christmas_shoot_8e7496c2:
-msgid "AD "So.... I guess I'll show myself in then."
-    AD "So.... I guess I'll show myself in then."
+msgid "[AD] So.... I guess I'll show myself in then."
+msgstr "[AD] So.... I guess I'll show myself in then."
 
 # game/UpdateScriptChristmasEvent.rpy:2122## # translate crowdin christmas_shoot_37ce8e08:
 msgid "[RT] {i}Shit!{/i}"
@@ -4443,24 +4443,24 @@ msgid "[R] Everything?"
 msgstr "[R] Everything?"
 
 # game/UpdateScriptChristmasEvent.rpy:2132## # translate crowdin christmas_shoot_6c722b76:
-msgid "AD "Like how I'm extorting you for money and favors in exchange for letting you continue your legally questionable business and other activities, and also not throwing you in prison like your father?"
-    AD "Like how I'm extorting you for money and favors in exchange for letting you continue your legally questionable business and other activities, and also not throwing you in prison like your father?"
+msgid "[AD] Like how I'm extorting you for money and favors in exchange for letting you continue your legally questionable business and other activities, and also not throwing you in prison like your father?"
+msgstr "[AD] Like how I'm extorting you for money and favors in exchange for letting you continue your legally questionable business and other activities, and also not throwing you in prison like your father?"
 
 # game/UpdateScriptChristmasEvent.rpy:2133## # translate crowdin christmas_shoot_d978f182:
-msgid "AD "Is that what she told you?"
-    AD "Is that what she told you?"
+msgid "[AD] Is that what she told you?"
+msgstr "[AD] Is that what she told you?"
 
 # game/UpdateScriptChristmasEvent.rpy:2134## # translate crowdin christmas_shoot_3115c941:
 msgid "S "Basically."
     S "Basically."
 
 # game/UpdateScriptChristmasEvent.rpy:2135## # translate crowdin christmas_shoot_9c607738:
-msgid "AD "Great! I'm glad we're all up to speed."
-    AD "Great! I'm glad we're all up to speed."
+msgid "[AD] Great! I'm glad we're all up to speed."
+msgstr "[AD] Great! I'm glad we're all up to speed."
 
 # game/UpdateScriptChristmasEvent.rpy:2136## # translate crowdin christmas_shoot_72a6f832:
-msgid "AD "And today is Thursday, and [ryan] failed to produce the needed cash for my buy off, so for my payment in favors, I get to take the pictures today instead."
-    AD "And today is Thursday, and [ryan] failed to produce the needed cash for my buy off, so for my payment in favors, I get to take the pictures today instead."
+msgid "[AD] And today is Thursday, and [ryan] failed to produce the needed cash for my buy off, so for my payment in favors, I get to take the pictures today instead."
+msgstr "[AD] And today is Thursday, and [ryan] failed to produce the needed cash for my buy off, so for my payment in favors, I get to take the pictures today instead."
 
 # game/UpdateScriptChristmasEvent.rpy:2137## # translate crowdin christmas_shoot_5dd560f7:
 msgid "GCP "No! If this photo shoot takes place, then I'll fail my part of the mission too!"
@@ -4475,12 +4475,12 @@ msgid "GCP "Yeah!"
     GCP "Yeah!"
 
 # game/UpdateScriptChristmasEvent.rpy:2140## # translate crowdin christmas_shoot_909820f0:
-msgid "AD "Oh, really? Because I happen to know that you make and get paid for costumes, as part of a business that is not in of itself illegal, but is hiding funds from the FBI to avoid garnishments."
-    AD "Oh, really? Because I happen to know that you make and get paid for costumes, as part of a business that is not in of itself illegal, but is hiding funds from the FBI to avoid garnishments."
+msgid "[AD] Oh, really? Because I happen to know that you make and get paid for costumes, as part of a business that is not in of itself illegal, but is hiding funds from the FBI to avoid garnishments."
+msgstr "[AD] Oh, really? Because I happen to know that you make and get paid for costumes, as part of a business that is not in of itself illegal, but is hiding funds from the FBI to avoid garnishments."
 
 # game/UpdateScriptChristmasEvent.rpy:2141## # translate crowdin christmas_shoot_5f1d3c14:
-msgid "AD "Now, I can either keep this knowledge safe, and actually completely hide this illegal cash flow, or I can expose it, and you can do hard time in federal prison for financial fraud."
-    AD "Now, I can either keep this knowledge safe, and actually completely hide this illegal cash flow, or I can expose it, and you can do hard time in federal prison for financial fraud."
+msgid "[AD] Now, I can either keep this knowledge safe, and actually completely hide this illegal cash flow, or I can expose it, and you can do hard time in federal prison for financial fraud."
+msgstr "[AD] Now, I can either keep this knowledge safe, and actually completely hide this illegal cash flow, or I can expose it, and you can do hard time in federal prison for financial fraud."
 
 # game/UpdateScriptChristmasEvent.rpy:2142## # translate crowdin christmas_shoot_43fa7ba6:
 msgid "S "You goddamn dirty cop!"
@@ -4499,28 +4499,28 @@ msgid "GCP "Uuuurrrggghhhh!!"
     GCP "Uuuurrrggghhhh!!"
 
 # game/UpdateScriptChristmasEvent.rpy:2146## # translate crowdin christmas_shoot_90866e3e:
-msgid "AD "(sarcastically) Ouch.... I can't tell you how much that hurts."
-    AD "(sarcastically) Ouch.... I can't tell you how much that hurts."
+msgid "[AD] (sarcastically) Ouch.... I can't tell you how much that hurts."
+msgstr "[AD] (sarcastically) Ouch.... I can't tell you how much that hurts."
 
 # game/UpdateScriptChristmasEvent.rpy:2147## # translate crowdin christmas_shoot_4b64039b:
-msgid "AD "So, are you all going to play ball?"
-    AD "So, are you all going to play ball?"
+msgid "[AD] So, are you all going to play ball?"
+msgstr "[AD] So, are you all going to play ball?"
 
 # game/UpdateScriptChristmasEvent.rpy:2148## # translate crowdin christmas_shoot_5594fc7c:
 msgid "S "I don't see another choice."
     S "I don't see another choice."
 
 # game/UpdateScriptChristmasEvent.rpy:2149## # translate crowdin christmas_shoot_f82ef9e8:
-msgid "AD "Good! I'm glad you're being sensible."
-    AD "Good! I'm glad you're being sensible."
+msgid "[AD] Good! I'm glad you're being sensible."
+msgstr "[AD] Good! I'm glad you're being sensible."
 
 # game/UpdateScriptChristmasEvent.rpy:2150## # translate crowdin christmas_shoot_420ba00f:
-msgid "AD "[ryan], give me the camera, and girls, go do a nice pose! And make these pics good, or else!"
-    AD "[ryan], give me the camera, and girls, go do a nice pose! And make these pics good, or else!"
+msgid "[AD] [ryan], give me the camera, and girls, go do a nice pose! And make these pics good, or else!"
+msgstr "[AD] [ryan], give me the camera, and girls, go do a nice pose! And make these pics good, or else!"
 
 # game/UpdateScriptChristmasEvent.rpy:2153## # translate crowdin christmas_shoot_7e7aadd2:
-msgid "AD "Girls?.... While I'm figuring out this camera, run to my car and grab the two gifts in the back seat. They were for a couple of my girl friends, but I think we can make better use of them during the photo shoot."
-    AD "Girls?.... While I'm figuring out this camera, run to my car and grab the two gifts in the back seat. They were for a couple of my girl friends, but I think we can make better use of them during the photo shoot."
+msgid "[AD] Girls?.... While I'm figuring out this camera, run to my car and grab the two gifts in the back seat. They were for a couple of my girl friends, but I think we can make better use of them during the photo shoot."
+msgstr "[AD] Girls?.... While I'm figuring out this camera, run to my car and grab the two gifts in the back seat. They were for a couple of my girl friends, but I think we can make better use of them during the photo shoot."
 
 # game/UpdateScriptChristmasEvent.rpy:2154## # translate crowdin christmas_shoot_93462efb:
 msgid "[L] {i}I hate this bitch!{/i}"
@@ -4567,8 +4567,8 @@ msgid "[L] Ok, We're back!"
 msgstr "[L] Ok, We're back!"
 
 # game/UpdateScriptChristmasEvent.rpy:2173## # translate crowdin christmas_shoot_1cc4a049:
-msgid "AD "Great! I think I've got the camera figured out, so go strike a pose."
-    AD "Great! I think I've got the camera figured out, so go strike a pose."
+msgid "[AD] Great! I think I've got the camera figured out, so go strike a pose."
+msgstr "[AD] Great! I think I've got the camera figured out, so go strike a pose."
 
 # game/UpdateScriptChristmasEvent.rpy:2176## # translate crowdin christmas_shoot_e7ac152a:
 msgid "[L] Ok Agent Diaz, I think we're ready"
@@ -4579,36 +4579,36 @@ msgid "S "Is this ok?"
     S "Is this ok?"
 
 # game/UpdateScriptChristmasEvent.rpy:2178## # translate crowdin christmas_shoot_6a383426:
-msgid "AD "Great! I like the buddy-buddy pose."
-    AD "Great! I like the buddy-buddy pose."
+msgid "[AD] Great! I like the buddy-buddy pose."
+msgstr "[AD] Great! I like the buddy-buddy pose."
 
 # game/UpdateScriptChristmasEvent.rpy:2179## # translate crowdin christmas_shoot_d295a5a8_1:
 msgid "[R] That will make a great first pic."
 msgstr "[R] That will make a great first pic."
 
 # game/UpdateScriptChristmasEvent.rpy:2184## # translate crowdin christmas_shoot_67cae995:
-msgid "AD "Can you add a homey Christmas background later or something?"
-    AD "Can you add a homey Christmas background later or something?"
+msgid "[AD] Can you add a homey Christmas background later or something?"
+msgstr "[AD] Can you add a homey Christmas background later or something?"
 
 # game/UpdateScriptChristmasEvent.rpy:2185## # translate crowdin christmas_shoot_43f29d86:
 msgid "[R] Uh, yeah. That's what I'll do."
 msgstr "[R] Uh, yeah. That's what I'll do."
 
 # game/UpdateScriptChristmasEvent.rpy:2190## # translate crowdin christmas_shoot_55158eaf:
-msgid "AD "I can see it all now!"
-    AD "I can see it all now!"
+msgid "[AD] I can see it all now!"
+msgstr "[AD] I can see it all now!"
 
 # game/UpdateScriptChristmasEvent.rpy:2192## # translate crowdin christmas_shoot_23b6798e:
-msgid "AD "Ok.... now I want you to do some Christmassy things."
-    AD "Ok.... now I want you to do some Christmassy things."
+msgid "[AD] Ok.... now I want you to do some Christmassy things."
+msgstr "[AD] Ok.... now I want you to do some Christmassy things."
 
 # game/UpdateScriptChristmasEvent.rpy:2193## # translate crowdin christmas_shoot_f3e19616:
 msgid "S "Like what?"
     S "Like what?"
 
 # game/UpdateScriptChristmasEvent.rpy:2194## # translate crowdin christmas_shoot_4e7a910e:
-msgid "AD "I don't know. Do I have to think of everything for you?"
-    AD "I don't know. Do I have to think of everything for you?"
+msgid "[AD] I don't know. Do I have to think of everything for you?"
+msgstr "[AD] I don't know. Do I have to think of everything for you?"
 
 # game/UpdateScriptChristmasEvent.rpy:2195## # translate crowdin christmas_shoot_8f02dd6d:
 msgid "[L] I can make it look like I'm hanging Christmas tree ornaments, I guess."
@@ -4619,8 +4619,8 @@ msgid "S "And I'll make it look like I'm hanging stockings."
     S "And I'll make it look like I'm hanging stockings."
 
 # game/UpdateScriptChristmasEvent.rpy:2197## # translate crowdin christmas_shoot_79decdaa:
-msgid "AD "Yeah.... whatever! Just make it sexy!"
-    AD "Yeah.... whatever! Just make it sexy!"
+msgid "[AD] Yeah.... whatever! Just make it sexy!"
+msgstr "[AD] Yeah.... whatever! Just make it sexy!"
 
 # game/UpdateScriptChristmasEvent.rpy:2198## # translate crowdin christmas_shoot_a571aeb3:
 msgid "ST "{i}Agent Diaz has a terrible disposition for a photographer.{/i}"
@@ -4631,12 +4631,12 @@ msgid "ST "{i}I miss how professional [ryan] is.{/i}"
     ST "{i}I miss how professional [ryan] is.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2202## # translate crowdin christmas_shoot_6b544093:
-msgid "AD "Nice! That looks super hot!"
-    AD "Nice! That looks super hot!"
+msgid "[AD] Nice! That looks super hot!"
+msgstr "[AD] Nice! That looks super hot!"
 
 # game/UpdateScriptChristmasEvent.rpy:2207## # translate crowdin christmas_shoot_1a7bc2a0:
-msgid "AD "I think I got a lady boner!"
-    AD "I think I got a lady boner!"
+msgid "[AD] I think I got a lady boner!"
+msgstr "[AD] I think I got a lady boner!"
 
 # game/UpdateScriptChristmasEvent.rpy:2208## # translate crowdin christmas_shoot_af9dc667:
 msgid "[LT] {i}It's kind of fun posing with my sister, and Agent Diaz dominating this photo shoot is kind of turning me on.{/i}"
@@ -4651,32 +4651,32 @@ msgid "[RT] {i}This is insightful! I wish I could read minds all the time.{/i}"
 msgstr "[RT] {i}This is insightful! I wish I could read minds all the time.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2211## # translate crowdin christmas_shoot_9e8995e1:
-msgid "AD "Ok.... enough of that!.... I think it's time to pull out the presents I brought."
-    AD "Ok.... enough of that!.... I think it's time to pull out the presents I brought."
+msgid "[AD] Ok.... enough of that!.... I think it's time to pull out the presents I brought."
+msgstr "[AD] Ok.... enough of that!.... I think it's time to pull out the presents I brought."
 
 # game/UpdateScriptChristmasEvent.rpy:2212## # translate crowdin christmas_shoot_295d36a0:
-msgid "AD "Let's do some shots with you opening them."
-    AD "Let's do some shots with you opening them."
+msgid "[AD] Let's do some shots with you opening them."
+msgstr "[AD] Let's do some shots with you opening them."
 
 # game/UpdateScriptChristmasEvent.rpy:2215## # translate crowdin christmas_shoot_7b30f61b:
-msgid "AD "God, you two are sexy! I love those outfits, Sidney!"
-    AD "God, you two are sexy! I love those outfits, Sidney!"
+msgid "[AD] God, you two are sexy! I love those outfits, Sidney!"
+msgstr "[AD] God, you two are sexy! I love those outfits, Sidney!"
 
 # game/UpdateScriptChristmasEvent.rpy:2216## # translate crowdin christmas_shoot_be459f7f:
 msgid "S "Uhh.... thanks?"
     S "Uhh.... thanks?"
 
 # game/UpdateScriptChristmasEvent.rpy:2217## # translate crowdin christmas_shoot_3e5af900:
-msgid "AD "Yeah, I've got a great shot of both of your sexy young pussies."
-    AD "Yeah, I've got a great shot of both of your sexy young pussies."
+msgid "[AD] Yeah, I've got a great shot of both of your sexy young pussies."
+msgstr "[AD] Yeah, I've got a great shot of both of your sexy young pussies."
 
 # game/UpdateScriptChristmasEvent.rpy:2222## # translate crowdin christmas_shoot_dd777d5a:
-msgid "AD "Once you get them open, show each other what was in them."
-    AD "Once you get them open, show each other what was in them."
+msgid "[AD] Once you get them open, show each other what was in them."
+msgstr "[AD] Once you get them open, show each other what was in them."
 
 # game/UpdateScriptChristmasEvent.rpy:2223## # translate crowdin christmas_shoot_0cc71191:
-msgid "AD "And try to look happy about what's inside!"
-    AD "And try to look happy about what's inside!"
+msgid "[AD] And try to look happy about what's inside!"
+msgstr "[AD] And try to look happy about what's inside!"
 
 # game/UpdateScriptChristmasEvent.rpy:2226## # translate crowdin christmas_shoot_47cc17c7:
 msgid "ST "{i}Oh God!.... Of course they're dildos{/i}"
@@ -4687,8 +4687,8 @@ msgid "[LT] {i}What a predatory pervert!{/i}"
 msgstr "[LT] {i}What a predatory pervert!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2228## # translate crowdin christmas_shoot_1f08d435:
-msgid "AD "This is great! You two are great actresses!"
-    AD "This is great! You two are great actresses!"
+msgid "[AD] This is great! You two are great actresses!"
+msgstr "[AD] This is great! You two are great actresses!"
 
 # game/UpdateScriptChristmasEvent.rpy:2233## # translate crowdin christmas_shoot_b6cdebda:
 msgid "ST "{i}If she offers to screw me with it, I'm going home!{/i}"
@@ -4699,24 +4699,24 @@ msgid "[LT] {i}What if she makes us use them?{/i}"
 msgstr "[LT] {i}What if she makes us use them?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2235## # translate crowdin christmas_shoot_c46d2e6d:
-msgid "AD "Alright.... why don't you two pretend to thank each other with a passionate kiss."
-    AD "Alright.... why don't you two pretend to thank each other with a passionate kiss."
+msgid "[AD] Alright.... why don't you two pretend to thank each other with a passionate kiss."
+msgstr "[AD] Alright.... why don't you two pretend to thank each other with a passionate kiss."
 
 # game/UpdateScriptChristmasEvent.rpy:2238## # translate crowdin christmas_shoot_feb8d233_1:
 msgid "S "What!?..."
     S "What!?..."
 
 # game/UpdateScriptChristmasEvent.rpy:2239## # translate crowdin christmas_shoot_784ed33e:
-msgid "AD "For the photo shoot!"
-    AD "For the photo shoot!"
+msgid "[AD] For the photo shoot!"
+msgstr "[AD] For the photo shoot!"
 
 # game/UpdateScriptChristmasEvent.rpy:2240## # translate crowdin christmas_shoot_5d3fdfea:
-msgid "AD "Not for real."
-    AD "Not for real."
+msgid "[AD] Not for real."
+msgstr "[AD] Not for real."
 
 # game/UpdateScriptChristmasEvent.rpy:2241## # translate crowdin christmas_shoot_f8f8dcdc:
-msgid "AD "Though, I think you'd both enjoy a good makeout session with each other, or you can come make out with me if that doesn't do it for you."
-    AD "Though, I think you'd both enjoy a good makeout session with each other, or you can come make out with me if that doesn't do it for you."
+msgid "[AD] Though, I think you'd both enjoy a good makeout session with each other, or you can come make out with me if that doesn't do it for you."
+msgstr "[AD] Though, I think you'd both enjoy a good makeout session with each other, or you can come make out with me if that doesn't do it for you."
 
 # game/UpdateScriptChristmasEvent.rpy:2242## # translate crowdin christmas_shoot_c81fd647:
 msgid "S "Gross!"
@@ -4727,24 +4727,24 @@ msgid "S "I'd rather make out with Lauren, than with you."
     S "I'd rather make out with Lauren, than with you."
 
 # game/UpdateScriptChristmasEvent.rpy:2244## # translate crowdin christmas_shoot_fd2e7a77:
-msgid "AD "Great, then go ahead and do that."
-    AD "Great, then go ahead and do that."
+msgid "[AD] Great, then go ahead and do that."
+msgstr "[AD] Great, then go ahead and do that."
 
 # game/UpdateScriptChristmasEvent.rpy:2245## # translate crowdin christmas_shoot_237e9ea2_1:
 msgid "[L] But we're sisters!"
 msgstr "[L] But we're sisters!"
 
 # game/UpdateScriptChristmasEvent.rpy:2246## # translate crowdin christmas_shoot_1e140025:
-msgid "AD "Yeah, well, none of your online fans know that. And even if they did, it would just make you two even more popular."
-    AD "Yeah, well, none of your online fans know that. And even if they did, it would just make you two even more popular."
+msgid "[AD] Yeah, well, none of your online fans know that. And even if they did, it would just make you two even more popular."
+msgstr "[AD] Yeah, well, none of your online fans know that. And even if they did, it would just make you two even more popular."
 
 # game/UpdateScriptChristmasEvent.rpy:2247## # translate crowdin christmas_shoot_853d43ee_1:
 msgid "[RT] {i}Maybe I should put that in their bios.{/i}"
 msgstr "[RT] {i}Maybe I should put that in their bios.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2248## # translate crowdin christmas_shoot_b1cc84fd:
-msgid "AD "Are you gonna sit there like little bitches, or can we get on with this?"
-    AD "Are you gonna sit there like little bitches, or can we get on with this?"
+msgid "[AD] Are you gonna sit there like little bitches, or can we get on with this?"
+msgstr "[AD] Are you gonna sit there like little bitches, or can we get on with this?"
 
 # game/UpdateScriptChristmasEvent.rpy:2249## # translate crowdin christmas_shoot_827334e2_1:
 msgid "[LT] {i}Oh my God! Will Sidney agree to do this with me? Why am I getting butterflies in my pussy when I think about it?{/i}"
@@ -4759,20 +4759,20 @@ msgid "S "Fine!"
     S "Fine!"
 
 # game/UpdateScriptChristmasEvent.rpy:2252## # translate crowdin christmas_shoot_4ec03217:
-msgid "AD "Lauren, why don't you just straddle Sidney and..."
-    AD "Lauren, why don't you just straddle Sidney and..."
+msgid "[AD] Lauren, why don't you just straddle Sidney and..."
+msgstr "[AD] Lauren, why don't you just straddle Sidney and..."
 
 # game/UpdateScriptChristmasEvent.rpy:2255## # translate crowdin christmas_shoot_2a7eae35:
-msgid "AD "Oh, yeah.... that's perfect!"
-    AD "Oh, yeah.... that's perfect!"
+msgid "[AD] Oh, yeah.... that's perfect!"
+msgstr "[AD] Oh, yeah.... that's perfect!"
 
 # game/UpdateScriptChristmasEvent.rpy:2256## # translate crowdin christmas_shoot_f1b3db03_1:
 msgid "[R] Wow! That's pretty hot!"
 msgstr "[R] Wow! That's pretty hot!"
 
 # game/UpdateScriptChristmasEvent.rpy:2257## # translate crowdin christmas_shoot_393537ee:
-msgid "AD "I know, right?"
-    AD "I know, right?"
+msgid "[AD] I know, right?"
+msgstr "[AD] I know, right?"
 
 # game/UpdateScriptChristmasEvent.rpy:2258## # translate crowdin christmas_shoot_826b8a70_1:
 msgid "S "Just hurry up and take the picture!"
@@ -4815,12 +4815,12 @@ msgid "[RT] {i}It sounds like they just need a little persuading.{/i}"
 msgstr "[RT] {i}It sounds like they just need a little persuading.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2274## # translate crowdin christmas_shoot_7ff41c1e:
-msgid "AD "Great! I think we're ready for the next pose."
-    AD "Great! I think we're ready for the next pose."
+msgid "[AD] Great! I think we're ready for the next pose."
+msgstr "[AD] Great! I think we're ready for the next pose."
 
 # game/UpdateScriptChristmasEvent.rpy:2276## # translate crowdin christmas_shoot_28c3dbd7:
-msgid "AD "Unless you want to keep kissing, but I'm thinking we should take a few shots playing with your new toys."
-    AD "Unless you want to keep kissing, but I'm thinking we should take a few shots playing with your new toys."
+msgid "[AD] Unless you want to keep kissing, but I'm thinking we should take a few shots playing with your new toys."
+msgstr "[AD] Unless you want to keep kissing, but I'm thinking we should take a few shots playing with your new toys."
 
 # game/UpdateScriptChristmasEvent.rpy:2278## # translate crowdin christmas_shoot_fe31079c_1:
 msgid "S "Play with our..."
@@ -4847,28 +4847,28 @@ msgid "ST "{i}Holy shit!.... I think Lauren just leaked onto my leg!.... Does th
     ST "{i}Holy shit!.... I think Lauren just leaked onto my leg!.... Does the thought of us playing with toys together get her excited?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2284## # translate crowdin christmas_shoot_02c43815:
-msgid "AD "Haha.... I'm not expecting you to screw each other with your new dildos."
-    AD "Haha.... I'm not expecting you to screw each other with your new dildos."
+msgid "[AD] Haha.... I'm not expecting you to screw each other with your new dildos."
+msgstr "[AD] Haha.... I'm not expecting you to screw each other with your new dildos."
 
 # game/UpdateScriptChristmasEvent.rpy:2285## # translate crowdin christmas_shoot_c50482e5_1:
 msgid "[RT] {i}These girls are going to make me nut in my pants!{/i}"
 msgstr "[RT] {i}These girls are going to make me nut in my pants!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2286## # translate crowdin christmas_shoot_ce6a3b67:
-msgid "AD "Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
-    AD "Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
+msgid "[AD] Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
+msgstr "[AD] Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
 
 # game/UpdateScriptChristmasEvent.rpy:2287## # translate crowdin christmas_shoot_612139ad:
-msgid "AD "But you won't actually penetrate.... haha, unless you want to."
-    AD "But you won't actually penetrate.... haha, unless you want to."
+msgid "[AD] But you won't actually penetrate.... haha, unless you want to."
+msgstr "[AD] But you won't actually penetrate.... haha, unless you want to."
 
 # game/UpdateScriptChristmasEvent.rpy:2288## # translate crowdin christmas_shoot_5f488140:
-msgid "AD "Whatever you choose, Just make it look like it."
-    AD "Whatever you choose, Just make it look like it."
+msgid "[AD] Whatever you choose, Just make it look like it."
+msgstr "[AD] Whatever you choose, Just make it look like it."
 
 # game/UpdateScriptChristmasEvent.rpy:2289## # translate crowdin christmas_shoot_814065ce:
-msgid "AD "Unless you want to keep making out all day!"
-    AD "Unless you want to keep making out all day!"
+msgid "[AD] Unless you want to keep making out all day!"
+msgstr "[AD] Unless you want to keep making out all day!"
 
 # game/UpdateScriptChristmasEvent.rpy:2290## # translate crowdin christmas_shoot_0b2b81d3_1:
 msgid "[LT] {i}I kind of do.{/i}"
@@ -4883,24 +4883,24 @@ msgid "S "Does this look ok?"
     S "Does this look ok?"
 
 # game/UpdateScriptChristmasEvent.rpy:2296## # translate crowdin christmas_shoot_c71cc244:
-msgid "AD "Yeah, that's pretty convincing."
-    AD "Yeah, that's pretty convincing."
+msgid "[AD] Yeah, that's pretty convincing."
+msgstr "[AD] Yeah, that's pretty convincing."
 
 # game/UpdateScriptChristmasEvent.rpy:2297## # translate crowdin christmas_shoot_bdd3814a:
-msgid "AD "Let me get a quick shot of it."
-    AD "Let me get a quick shot of it."
+msgid "[AD] Let me get a quick shot of it."
+msgstr "[AD] Let me get a quick shot of it."
 
 # game/UpdateScriptChristmasEvent.rpy:2302## # translate crowdin christmas_shoot_d86ddc78:
-msgid "AD "Great! Now move the dildo a little closer."
-    AD "Great! Now move the dildo a little closer."
+msgid "[AD] Great! Now move the dildo a little closer."
+msgstr "[AD] Great! Now move the dildo a little closer."
 
 # game/UpdateScriptChristmasEvent.rpy:2303## # translate crowdin christmas_shoot_790a17c9:
-msgid "AD "So.... just kind of prod and push the dildo between her thigh gap."
-    AD "So.... just kind of prod and push the dildo between her thigh gap."
+msgid "[AD] So.... just kind of prod and push the dildo between her thigh gap."
+msgstr "[AD] So.... just kind of prod and push the dildo between her thigh gap."
 
 # game/UpdateScriptChristmasEvent.rpy:2304## # translate crowdin christmas_shoot_21784bd5:
-msgid "AD "From my perspective, it should look pretty convincing."
-    AD "From my perspective, it should look pretty convincing."
+msgid "[AD] From my perspective, it should look pretty convincing."
+msgstr "[AD] From my perspective, it should look pretty convincing."
 
 # game/UpdateScriptChristmasEvent.rpy:2307## # translate crowdin christmas_shoot_b11b5772:
 msgid "ST "{i}Hmmmm.... I think I should use this opportunity to punish Lauren for not telling me about Agent Diaz. This might not have been so shocking, had I been warned.{/i}"
@@ -4979,8 +4979,8 @@ msgid "[R] Agent Diaz? Can I quickly show you a couple of settings on that camer
 msgstr "[R] Agent Diaz? Can I quickly show you a couple of settings on that camera that will make the shots even better?"
 
 # game/UpdateScriptChristmasEvent.rpy:2334## # translate crowdin christmas_shoot_1570a005:
-msgid "AD "Yeah.... I want these pics to turn out well too."
-    AD "Yeah.... I want these pics to turn out well too."
+msgid "[AD] Yeah.... I want these pics to turn out well too."
+msgstr "[AD] Yeah.... I want these pics to turn out well too."
 
 # game/UpdateScriptChristmasEvent.rpy:2335## # translate crowdin christmas_shoot_aa4cd1ac:
 msgid "[R] Great! Let me show you a few things."
@@ -5275,12 +5275,12 @@ msgid "[R] So that should be all! I think that will improve your pictures a lot!
 msgstr "[R] So that should be all! I think that will improve your pictures a lot!"
 
 # game/UpdateScriptChristmasEvent.rpy:2436## # translate crowdin christmas_shoot_9ca5761e:
-msgid "AD "Hmmmm.... that seemed like a lot of explaining for just a couple little adjustments."
-    AD "Hmmmm.... that seemed like a lot of explaining for just a couple little adjustments."
+msgid "[AD] Hmmmm.... that seemed like a lot of explaining for just a couple little adjustments."
+msgstr "[AD] Hmmmm.... that seemed like a lot of explaining for just a couple little adjustments."
 
 # game/UpdateScriptChristmasEvent.rpy:2437## # translate crowdin christmas_shoot_ff4e5326:
-msgid "AD "Oh, well.... you girls are looking amazing. That dildo thigh humping looks pretty convincing, huh?"
-    AD "Oh, well.... you girls are looking amazing. That dildo thigh humping looks pretty convincing, huh?"
+msgid "[AD] Oh, well.... you girls are looking amazing. That dildo thigh humping looks pretty convincing, huh?"
+msgstr "[AD] Oh, well.... you girls are looking amazing. That dildo thigh humping looks pretty convincing, huh?"
 
 # game/UpdateScriptChristmasEvent.rpy:2442## # translate crowdin christmas_shoot_072e9c85_1:
 msgid "[LT] {i}Fuck.... I was so close!{/i}"
@@ -5299,16 +5299,16 @@ msgid "[LT] {i}But now I really need to get off! How am I going to take care of 
 msgstr "[LT] {i}But now I really need to get off! How am I going to take care of this?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2453## # translate crowdin christmas_shoot_a4f4f00f:
-msgid "AD "Ok, I have just one more pic for you girls to pose to."
-    AD "Ok, I have just one more pic for you girls to pose to."
+msgid "[AD] Ok, I have just one more pic for you girls to pose to."
+msgstr "[AD] Ok, I have just one more pic for you girls to pose to."
 
 # game/UpdateScriptChristmasEvent.rpy:2454## # translate crowdin christmas_shoot_d4393b4f:
-msgid "AD "I'm going to be in this one, so [ryan], take the camera."
-    AD "I'm going to be in this one, so [ryan], take the camera."
+msgid "[AD] I'm going to be in this one, so [ryan], take the camera."
+msgstr "[AD] I'm going to be in this one, so [ryan], take the camera."
 
 # game/UpdateScriptChristmasEvent.rpy:2455## # translate crowdin christmas_shoot_1e4a6e9c:
-msgid "AD "And give me just a second to strip down to my panties."
-    AD "And give me just a second to strip down to my panties."
+msgid "[AD] And give me just a second to strip down to my panties."
+msgstr "[AD] And give me just a second to strip down to my panties."
 
 # game/UpdateScriptChristmasEvent.rpy:2456## # translate crowdin christmas_shoot_59dfa5fb:
 msgid "[RT] {i}Holy shit! Diaz is going to pose with them! I'll have pictures that will force the FBI to fire her.{/i}"
@@ -5327,16 +5327,16 @@ msgid "S "Really? You're taking off your top too?"
     S "Really? You're taking off your top too?"
 
 # game/UpdateScriptChristmasEvent.rpy:2460## # translate crowdin christmas_shoot_2dcd9f71:
-msgid "AD "Haha.... you know you like what you see!"
-    AD "Haha.... you know you like what you see!"
+msgid "[AD] Haha.... you know you like what you see!"
+msgstr "[AD] Haha.... you know you like what you see!"
 
 # game/UpdateScriptChristmasEvent.rpy:2461## # translate crowdin christmas_shoot_aa5db449:
 msgid "[LT] {i}She does have really sexy breasts.{/i}"
 msgstr "[LT] {i}She does have really sexy breasts.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2464## # translate crowdin christmas_shoot_9b564d73:
-msgid "AD "Alright ladies. I want you to both get into a kneeling position, and then I want a shot where it looks like one of you is licking my crotch from the front, and one is licking my ass from behind."
-    AD "Alright ladies. I want you to both get into a kneeling position, and then I want a shot where it looks like one of you is licking my crotch from the front, and one is licking my ass from behind."
+msgid "[AD] Alright ladies. I want you to both get into a kneeling position, and then I want a shot where it looks like one of you is licking my crotch from the front, and one is licking my ass from behind."
+msgstr "[AD] Alright ladies. I want you to both get into a kneeling position, and then I want a shot where it looks like one of you is licking my crotch from the front, and one is licking my ass from behind."
 
 # game/UpdateScriptChristmasEvent.rpy:2465## # translate crowdin christmas_shoot_aa0df7db:
 msgid "S "Are you fucking kidding me?"
@@ -5347,52 +5347,52 @@ msgid "[RT] {i}Oh my God!....{/i}"
 msgstr "[RT] {i}Oh my God!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2467## # translate crowdin christmas_shoot_f42ddd1b:
-msgid "AD "If you complain too much, I'll take off the panties too."
-    AD "If you complain too much, I'll take off the panties too."
+msgid "[AD] If you complain too much, I'll take off the panties too."
+msgstr "[AD] If you complain too much, I'll take off the panties too."
 
 # game/UpdateScriptChristmasEvent.rpy:2468## # translate crowdin christmas_shoot_c75d458e:
 msgid "[L] I call crotch!"
 msgstr "[L] I call crotch!"
 
 # game/UpdateScriptChristmasEvent.rpy:2469## # translate crowdin christmas_shoot_1d1d9d35:
-msgid "AD "Ohh.... Lauren! I like the eagerness."
-    AD "Ohh.... Lauren! I like the eagerness."
+msgid "[AD] Ohh.... Lauren! I like the eagerness."
+msgstr "[AD] Ohh.... Lauren! I like the eagerness."
 
 # game/UpdateScriptChristmasEvent.rpy:2470## # translate crowdin christmas_shoot_3158dc31:
 msgid "[L] I just don't want to get stuck with licking your ass."
 msgstr "[L] I just don't want to get stuck with licking your ass."
 
 # game/UpdateScriptChristmasEvent.rpy:2471## # translate crowdin christmas_shoot_e0cf51d1:
-msgid "AD "Haha.... I like the way you think!"
-    AD "Haha.... I like the way you think!"
+msgid "[AD] Haha.... I like the way you think!"
+msgstr "[AD] Haha.... I like the way you think!"
 
 # game/UpdateScriptChristmasEvent.rpy:2472## # translate crowdin christmas_shoot_218bad49:
-msgid "AD "You ready, Sidney?"
-    AD "You ready, Sidney?"
+msgid "[AD] You ready, Sidney?"
+msgstr "[AD] You ready, Sidney?"
 
 # game/UpdateScriptChristmasEvent.rpy:2473## # translate crowdin christmas_shoot_e90fa763:
 msgid "S "I don't want to lick your ass!"
     S "I don't want to lick your ass!"
 
 # game/UpdateScriptChristmasEvent.rpy:2474## # translate crowdin christmas_shoot_f945238c:
-msgid "AD "Then don't! Just make it look like you are."
-    AD "Then don't! Just make it look like you are."
+msgid "[AD] Then don't! Just make it look like you are."
+msgstr "[AD] Then don't! Just make it look like you are."
 
 # game/UpdateScriptChristmasEvent.rpy:2475## # translate crowdin christmas_shoot_e509397a:
-msgid "AD "Come on, it's the last picture, don't make me bring up my leverage over you."
-    AD "Come on, it's the last picture, don't make me bring up my leverage over you."
+msgid "[AD] Come on, it's the last picture, don't make me bring up my leverage over you."
+msgstr "[AD] Come on, it's the last picture, don't make me bring up my leverage over you."
 
 # game/UpdateScriptChristmasEvent.rpy:2476## # translate crowdin christmas_shoot_c6190b95_2:
 msgid "S "Fine!"
     S "Fine!"
 
 # game/UpdateScriptChristmasEvent.rpy:2477## # translate crowdin christmas_shoot_bbf02d7a:
-msgid "AD "Awesome! Ok [ryan], we'll let you know when we're in position."
-    AD "Awesome! Ok [ryan], we'll let you know when we're in position."
+msgid "[AD] Awesome! Ok [ryan], we'll let you know when we're in position."
+msgstr "[AD] Awesome! Ok [ryan], we'll let you know when we're in position."
 
 # game/UpdateScriptChristmasEvent.rpy:2478## # translate crowdin christmas_shoot_b802af47:
-msgid "AD "How's it looking?"
-    AD "How's it looking?"
+msgid "[AD] How's it looking?"
+msgstr "[AD] How's it looking?"
 
 # game/UpdateScriptChristmasEvent.rpy:2479## # translate crowdin christmas_shoot_89b26767:
 msgid "[R] Just make your face look more orgasmic, and I think it will look amazing."
@@ -5427,76 +5427,76 @@ msgid "[R] There.... that pose is perfect!"
 msgstr "[R] There.... that pose is perfect!"
 
 # game/UpdateScriptChristmasEvent.rpy:2489## # translate crowdin christmas_shoot_e27625cc:
-msgid "AD "This is going out as my Christmas card to my close girlfriends."
-    AD "This is going out as my Christmas card to my close girlfriends."
+msgid "[AD] This is going out as my Christmas card to my close girlfriends."
+msgstr "[AD] This is going out as my Christmas card to my close girlfriends."
 
 # game/UpdateScriptChristmasEvent.rpy:2494## # translate crowdin christmas_shoot_8677b491:
 msgid "[R] Alright, I got it. I think that might end up being the best of the set."
 msgstr "[R] Alright, I got it. I think that might end up being the best of the set."
 
 # game/UpdateScriptChristmasEvent.rpy:2499## # translate crowdin christmas_shoot_b3b72fe0:
-msgid "AD "Awesome! Too bad for you, it's not going with the rest of the set."
-    AD "Awesome! Too bad for you, it's not going with the rest of the set."
+msgid "[AD] Awesome! Too bad for you, it's not going with the rest of the set."
+msgstr "[AD] Awesome! Too bad for you, it's not going with the rest of the set."
 
 # game/UpdateScriptChristmasEvent.rpy:2500## # translate crowdin christmas_shoot_b91e5bf9:
 msgid "[R] What why not?"
 msgstr "[R] What why not?"
 
 # game/UpdateScriptChristmasEvent.rpy:2501## # translate crowdin christmas_shoot_f4c0d074:
-msgid "AD "Haha.... I'm sure you'd like that.... but I'm not an idiot. I know what damage that picture would cause in the wrong hands."
-    AD "Haha.... I'm sure you'd like that.... but I'm not an idiot. I know what damage that picture would cause in the wrong hands."
+msgid "[AD] Haha.... I'm sure you'd like that.... but I'm not an idiot. I know what damage that picture would cause in the wrong hands."
+msgstr "[AD] Haha.... I'm sure you'd like that.... but I'm not an idiot. I know what damage that picture would cause in the wrong hands."
 
 # game/UpdateScriptChristmasEvent.rpy:2504## # translate crowdin christmas_shoot_99415aa0:
-msgid "AD "I'll just be taking the SD card."
-    AD "I'll just be taking the SD card."
+msgid "[AD] I'll just be taking the SD card."
+msgstr "[AD] I'll just be taking the SD card."
 
 # game/UpdateScriptChristmasEvent.rpy:2505## # translate crowdin christmas_shoot_a8aece6b:
 msgid "[R] What about the other pics?"
 msgstr "[R] What about the other pics?"
 
 # game/UpdateScriptChristmasEvent.rpy:2506## # translate crowdin christmas_shoot_10f25c04:
-msgid "AD "You're a fan of my work, are you?"
-    AD "You're a fan of my work, are you?"
+msgid "[AD] You're a fan of my work, are you?"
+msgstr "[AD] You're a fan of my work, are you?"
 
 # game/UpdateScriptChristmasEvent.rpy:2507## # translate crowdin christmas_shoot_3da2af1b:
-msgid "AD "I'll send you the rest."
-    AD "I'll send you the rest."
+msgid "[AD] I'll send you the rest."
+msgstr "[AD] I'll send you the rest."
 
 # game/UpdateScriptChristmasEvent.rpy:2508## # translate crowdin christmas_shoot_04fe04f7:
-msgid "AD "After I get what I want off of it."
-    AD "After I get what I want off of it."
+msgid "[AD] After I get what I want off of it."
+msgstr "[AD] After I get what I want off of it."
 
 # game/UpdateScriptChristmasEvent.rpy:2509## # translate crowdin christmas_shoot_3b8d7f93:
-msgid "AD "You girls did really good today!"
-    AD "You girls did really good today!"
+msgid "[AD] You girls did really good today!"
+msgstr "[AD] You girls did really good today!"
 
 # game/UpdateScriptChristmasEvent.rpy:2510## # translate crowdin christmas_shoot_726816a9:
-msgid "AD "I can't wait to see what kind of photo shoots [ryan] puts you together in down the road."
-    AD "I can't wait to see what kind of photo shoots [ryan] puts you together in down the road."
+msgid "[AD] I can't wait to see what kind of photo shoots [ryan] puts you together in down the road."
+msgstr "[AD] I can't wait to see what kind of photo shoots [ryan] puts you together in down the road."
 
 # game/UpdateScriptChristmasEvent.rpy:2511## # translate crowdin christmas_shoot_a079e7f6:
-msgid "AD "I am one of your subscribers on Cosplay Heaven, by the way."
-    AD "I am one of your subscribers on Cosplay Heaven, by the way."
+msgid "[AD] I am one of your subscribers on Cosplay Heaven, by the way."
+msgstr "[AD] I am one of your subscribers on Cosplay Heaven, by the way."
 
 # game/UpdateScriptChristmasEvent.rpy:2512## # translate crowdin christmas_shoot_f9378b2a:
-msgid "AD "My user name is BigDykeDiaz, haha..."
-    AD "My user name is BigDykeDiaz, haha..."
+msgid "[AD] My user name is BigDykeDiaz, haha..."
+msgstr "[AD] My user name is BigDykeDiaz, haha..."
 
 # game/UpdateScriptChristmasEvent.rpy:2513## # translate crowdin christmas_shoot_a7715167:
 msgid "[L] Uhhh.... we'll look for you on there..."
 msgstr "[L] Uhhh.... we'll look for you on there..."
 
 # game/UpdateScriptChristmasEvent.rpy:2514## # translate crowdin christmas_shoot_826251a9:
-msgid "AD "Thank you all for your time and hard work!"
-    AD "Thank you all for your time and hard work!"
+msgid "[AD] Thank you all for your time and hard work!"
+msgstr "[AD] Thank you all for your time and hard work!"
 
 # game/UpdateScriptChristmasEvent.rpy:2515## # translate crowdin christmas_shoot_6de81852:
-msgid "AD "The pleasure was all mine!"
-    AD "The pleasure was all mine!"
+msgid "[AD] The pleasure was all mine!"
+msgstr "[AD] The pleasure was all mine!"
 
 # game/UpdateScriptChristmasEvent.rpy:2516## # translate crowdin christmas_shoot_c735a41b:
-msgid "AD "Later, perpetrators!"
-    AD "Later, perpetrators!"
+msgid "[AD] Later, perpetrators!"
+msgstr "[AD] Later, perpetrators!"
 
 # game/UpdateScriptChristmasEvent.rpy:2521## # translate crowdin christmas_shoot_0ddfa8ae_1:
 msgid "S "(whispering) Lauren? Are you ok?.... I know you didn't get to satisfy your itch."

@@ -28467,88 +28467,88 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16427## # translate crowdin diaz_help_03649242:
-msgid "AD "You again?"
-    AD "You again?"
+msgid "[AD] You again?"
+msgstr "[AD] You again?"
 
 # game/UpdateScript0.07.rpy:16430## # translate crowdin diaz_help_dfa93d1a:
 msgid "[R] Yes, me again... I wanted to know..."
 msgstr "[R] Yes, me again... I wanted to know..."
 
 # game/UpdateScript0.07.rpy:16431## # translate crowdin diaz_help_28095139:
-msgid "AD "If I've dug up any dirt on Matt yet?"
-    AD "If I've dug up any dirt on Matt yet?"
+msgid "[AD] If I've dug up any dirt on Matt yet?"
+msgstr "[AD] If I've dug up any dirt on Matt yet?"
 
 # game/UpdateScript0.07.rpy:16432## # translate crowdin diaz_help_61fc6dfd:
 msgid "[R] Exactly."
 msgstr "[R] Exactly."
 
 # game/UpdateScript0.07.rpy:16433## # translate crowdin diaz_help_5cd847e4:
-msgid "AD "Come on in... Let's talk about it inside."
-    AD "Come on in... Let's talk about it inside."
+msgid "[AD] Come on in... Let's talk about it inside."
+msgstr "[AD] Come on in... Let's talk about it inside."
 
 # game/UpdateScript0.07.rpy:16436## # translate crowdin diaz_help_134bc321:
-msgid "AD "I'm sorry, but I don't have any dirt on Matt yet."
-    AD "I'm sorry, but I don't have any dirt on Matt yet."
+msgid "[AD] I'm sorry, but I don't have any dirt on Matt yet."
+msgstr "[AD] I'm sorry, but I don't have any dirt on Matt yet."
 
 # game/UpdateScript0.07.rpy:16437## # translate crowdin diaz_help_2083e6ab:
-msgid "AD "I'm trying to, but I've had to spend most of my time on other things."
-    AD "I'm trying to, but I've had to spend most of my time on other things."
+msgid "[AD] I'm trying to, but I've had to spend most of my time on other things."
+msgstr "[AD] I'm trying to, but I've had to spend most of my time on other things."
 
 # game/UpdateScript0.07.rpy:16438## # translate crowdin diaz_help_65aa1816:
 msgid "[R] Other things?... You said if I installed your peep-cam, you'd get right on it."
 msgstr "[R] Other things?... You said if I installed your peep-cam, you'd get right on it."
 
 # game/UpdateScript0.07.rpy:16441## # translate crowdin diaz_help_30176a6d:
-msgid "AD "Yeah, well, some other shit's been going down, and it all involves your family."
-    AD "Yeah, well, some other shit's been going down, and it all involves your family."
+msgid "[AD] Yeah, well, some other shit's been going down, and it all involves your family."
+msgstr "[AD] Yeah, well, some other shit's been going down, and it all involves your family."
 
 # game/UpdateScript0.07.rpy:16442## # translate crowdin diaz_help_a1a42eaa:
 msgid "[R] My family?... What's been going on?"
 msgstr "[R] My family?... What's been going on?"
 
 # game/UpdateScript0.07.rpy:16443## # translate crowdin diaz_help_0b0bd8ce:
-msgid "AD "Nothing that involves you... yet."
-    AD "Nothing that involves you... yet."
+msgid "[AD] Nothing that involves you... yet."
+msgstr "[AD] Nothing that involves you... yet."
 
 # game/UpdateScript0.07.rpy:16444## # translate crowdin diaz_help_fef4a84f:
-msgid "AD "Just relax and let me handle it."
-    AD "Just relax and let me handle it."
+msgid "[AD] Just relax and let me handle it."
+msgstr "[AD] Just relax and let me handle it."
 
 # game/UpdateScript0.07.rpy:16447## # translate crowdin diaz_help_b3007d2f:
-msgid "AD "Keep checking back... I'll have some dirt for you soon."
-    AD "Keep checking back... I'll have some dirt for you soon."
+msgid "[AD] Keep checking back... I'll have some dirt for you soon."
+msgstr "[AD] Keep checking back... I'll have some dirt for you soon."
 
 # game/UpdateScript0.07.rpy:16448## # translate crowdin diaz_help_0f5aab2b:
-msgid "AD "In the meantime, might I suggest you continue to focus your energy on perving on your family at night... I really enjoy those videos."
-    AD "In the meantime, might I suggest you continue to focus your energy on perving on your family at night... I really enjoy those videos."
+msgid "[AD] In the meantime, might I suggest you continue to focus your energy on perving on your family at night... I really enjoy those videos."
+msgstr "[AD] In the meantime, might I suggest you continue to focus your energy on perving on your family at night... I really enjoy those videos."
 
 # game/UpdateScript0.07.rpy:16449## # translate crowdin diaz_help_744c480f:
-msgid "AD "Oh... And if you get the chance, try to make your aunt a little more submissive... She's a fiery one."
-    AD "Oh... And if you get the chance, try to make your aunt a little more submissive... She's a fiery one."
+msgid "[AD] Oh... And if you get the chance, try to make your aunt a little more submissive... She's a fiery one."
+msgstr "[AD] Oh... And if you get the chance, try to make your aunt a little more submissive... She's a fiery one."
 
 # game/UpdateScript0.07.rpy:16450## # translate crowdin diaz_help_cfc6e8f7:
 msgid "[R] It's so weird that you know so much about us."
 msgstr "[R] It's so weird that you know so much about us."
 
 # game/UpdateScript0.07.rpy:16453## # translate crowdin diaz_help_4bc30666:
-msgid "AD "Try not to think about it... Just pretend that I'm not here watching everything you do."
-    AD "Try not to think about it... Just pretend that I'm not here watching everything you do."
+msgid "[AD] Try not to think about it... Just pretend that I'm not here watching everything you do."
+msgstr "[AD] Try not to think about it... Just pretend that I'm not here watching everything you do."
 
 # game/UpdateScript0.07.rpy:16454## # translate crowdin diaz_help_51b5f234:
 msgid "[RT] {i}Uhh... That's unsettling.{/i}"
 msgstr "[RT] {i}Uhh... That's unsettling.{/i}"
 
 # game/UpdateScript0.07.rpy:16456## # translate crowdin diaz_help_1c0d9f60:
-msgid "AD "Did you want to buy some influence for the weekly poll while you are here?"
-    AD "Did you want to buy some influence for the weekly poll while you are here?"
+msgid "[AD] Did you want to buy some influence for the weekly poll while you are here?"
+msgstr "[AD] Did you want to buy some influence for the weekly poll while you are here?"
 
 # game/UpdateScript0.07.rpy:16459## # translate crowdin diaz_help_bc49455e:
 msgid "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 msgstr "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:16460## # translate crowdin diaz_help_7c6dfc79:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:16461## # translate crowdin diaz_help_5196730c:
 msgid "[R] Alright... it's a deal."
@@ -28559,8 +28559,8 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16464## # translate crowdin diaz_help_2c816dd3:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:16465## # translate crowdin diaz_help_83b65130:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
@@ -28571,16 +28571,16 @@ msgid "[R] Yeah, right... I'm not giving you any more money."
 msgstr "[R] Yeah, right... I'm not giving you any more money."
 
 # game/UpdateScript0.07.rpy:16470## # translate crowdin diaz_help_85bbc5fc:
-msgid "AD "Ok, but if you change your mind, you know where to find me."
-    AD "Ok, but if you change your mind, you know where to find me."
+msgid "[AD] Ok, but if you change your mind, you know where to find me."
+msgstr "[AD] Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:16471## # translate crowdin diaz_help_42e46acb:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16474## # translate crowdin diaz_help_b3881032:
-msgid "AD "Well, if there's nothing else, I've got to get back to work."
-    AD "Well, if there's nothing else, I've got to get back to work."
+msgid "[AD] Well, if there's nothing else, I've got to get back to work."
+msgstr "[AD] Well, if there's nothing else, I've got to get back to work."
 
 # game/UpdateScript0.07.rpy:16477## # translate crowdin diaz_help_384f9cbf:
 msgid "[RT] {i}I guess I'd better come back next week.{/i}"
@@ -28595,32 +28595,32 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16490## # translate crowdin diaz_help_03649242_1:
-msgid "AD "You again?"
-    AD "You again?"
+msgid "[AD] You again?"
+msgstr "[AD] You again?"
 
 # game/UpdateScript0.07.rpy:16493## # translate crowdin diaz_help_21bf3db3:
-msgid "AD "I was hoping you'd be back soon."
-    AD "I was hoping you'd be back soon."
+msgid "[AD] I was hoping you'd be back soon."
+msgstr "[AD] I was hoping you'd be back soon."
 
 # game/UpdateScript0.07.rpy:16494## # translate crowdin diaz_help_5a2c562c:
-msgid "AD "I hope you came to buy some votes... My gambling money is getting low."
-    AD "I hope you came to buy some votes... My gambling money is getting low."
+msgid "[AD] I hope you came to buy some votes... My gambling money is getting low."
+msgstr "[AD] I hope you came to buy some votes... My gambling money is getting low."
 
 # game/UpdateScript0.07.rpy:16495## # translate crowdin diaz_help_b72b348a:
-msgid "AD "Come on in."
-    AD "Come on in."
+msgid "[AD] Come on in."
+msgstr "[AD] Come on in."
 
 # game/UpdateScript0.07.rpy:16502## # translate crowdin diaz_help_f3d5aefa:
-msgid "AD "So, I'm guessing you're wanting to buy some votes and a special favor?"
-    AD "So, I'm guessing you're wanting to buy some votes and a special favor?"
+msgid "[AD] So, I'm guessing you're wanting to buy some votes and a special favor?"
+msgstr "[AD] So, I'm guessing you're wanting to buy some votes and a special favor?"
 
 # game/UpdateScript0.07.rpy:16505## # translate crowdin diaz_help_7d11fb70:
 msgid "[R] Yes, that is... as long as you can continue to guarantee that Lauren's vote count will go up."
 msgstr "[R] Yes, that is... as long as you can continue to guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:16506## # translate crowdin diaz_help_7c6dfc79_1:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:16507## # translate crowdin diaz_help_5196730c_1:
 msgid "[R] Alright... it's a deal."
@@ -28631,28 +28631,28 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16510## # translate crowdin diaz_help_2c816dd3_1:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:16511## # translate crowdin diaz_help_83b65130_1:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16514## # translate crowdin diaz_help_12a88958:
-msgid "AD "Now... You ready for that favor?"
-    AD "Now... You ready for that favor?"
+msgid "[AD] Now... You ready for that favor?"
+msgstr "[AD] Now... You ready for that favor?"
 
 # game/UpdateScript0.07.rpy:16515## # translate crowdin diaz_help_02a98ae8:
 msgid "[R] Oh God, I can't wait to shove my dick back down your throat."
 msgstr "[R] Oh God, I can't wait to shove my dick back down your throat."
 
 # game/UpdateScript0.07.rpy:16522## # translate crowdin diaz_help_eaac6115:
-msgid "AD "Haha... That's pretty graphic for a high school student."
-    AD "Haha... That's pretty graphic for a high school student."
+msgid "[AD] Haha... That's pretty graphic for a high school student."
+msgstr "[AD] Haha... That's pretty graphic for a high school student."
 
 # game/UpdateScript0.07.rpy:16524## # translate crowdin diaz_help_864030b6:
-msgid "AD "Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
-    AD "Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
+msgid "[AD] Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
+msgstr "[AD] Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
 
 # game/UpdateScript0.07.rpy:16529## # translate crowdin diaz_help_13fd2e5a:
 msgid "[R] God yes, Diaz... Stick it in your mouth!"
@@ -28663,8 +28663,8 @@ msgid "[R] Oh, yeah... lick the head of my cock!"
 msgstr "[R] Oh, yeah... lick the head of my cock!"
 
 # game/UpdateScript0.07.rpy:16534## # translate crowdin diaz_help_0cd0d956:
-msgid "AD "Mmmmm...."
-    AD "Mmmmm...."
+msgid "[AD] Mmmmm...."
+msgstr "[AD] Mmmmm...."
 
 # game/UpdateScript0.07.rpy:16540## # translate crowdin diaz_help_ea776cbd:
 msgid "[RT] {i}I love hate-fucking her face!{/i}"
@@ -28679,8 +28679,8 @@ msgid "[R] Holy fuck... you can go so deep!"
 msgstr "[R] Holy fuck... you can go so deep!"
 
 # game/UpdateScript0.07.rpy:16548## # translate crowdin diaz_help_f57334a5:
-msgid "AD "Bllleerrrccchhhh..."
-    AD "Bllleerrrccchhhh..."
+msgid "[AD] Bllleerrrccchhhh..."
+msgstr "[AD] Bllleerrrccchhhh..."
 
 # game/UpdateScript0.07.rpy:16549## # translate crowdin diaz_help_e4952929:
 msgid "[R] Oohhh..."
@@ -28691,16 +28691,16 @@ msgid "[R] I can't really afford it right now, but I was hoping to get a preview
 msgstr "[R] I can't really afford it right now, but I was hoping to get a preview of the goods I'll possibly be buying in the future."
 
 # game/UpdateScript0.07.rpy:16567## # translate crowdin diaz_help_88034a06:
-msgid "AD "The fuck?... You've already gotten your preview."
-    AD "The fuck?... You've already gotten your preview."
+msgid "[AD] The fuck?... You've already gotten your preview."
+msgstr "[AD] The fuck?... You've already gotten your preview."
 
 # game/UpdateScript0.07.rpy:16568## # translate crowdin diaz_help_35154cfa:
-msgid "AD "I'm not sucking your cock again unless I get some money first."
-    AD "I'm not sucking your cock again unless I get some money first."
+msgid "[AD] I'm not sucking your cock again unless I get some money first."
+msgstr "[AD] I'm not sucking your cock again unless I get some money first."
 
 # game/UpdateScript0.07.rpy:16569## # translate crowdin diaz_help_6c1618d4:
-msgid "AD "Now... Would you stop wasting my time? I've got a lot of work I need to get to."
-    AD "Now... Would you stop wasting my time? I've got a lot of work I need to get to."
+msgid "[AD] Now... Would you stop wasting my time? I've got a lot of work I need to get to."
+msgstr "[AD] Now... Would you stop wasting my time? I've got a lot of work I need to get to."
 
 # game/UpdateScript0.07.rpy:16578## # translate crowdin diaz_help_8ce0b883:
 msgid "[RT] {i}I've already bough influence this week, I wonder if there's anything else Diaz can do to help the campaign.{/i}"
@@ -28711,40 +28711,40 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16584## # translate crowdin diaz_help_e685899a:
-msgid "AD "Another visit?... You sure you don't have a thing for me?"
-    AD "Another visit?... You sure you don't have a thing for me?"
+msgid "[AD] Another visit?... You sure you don't have a thing for me?"
+msgstr "[AD] Another visit?... You sure you don't have a thing for me?"
 
 # game/UpdateScript0.07.rpy:16587## # translate crowdin diaz_help_a8ecd6e3:
 msgid "[R] God... That's getting old."
 msgstr "[R] God... That's getting old."
 
 # game/UpdateScript0.07.rpy:16588## # translate crowdin diaz_help_f52db717:
-msgid "AD "You're the one visiting me excessively."
-    AD "You're the one visiting me excessively."
+msgid "[AD] You're the one visiting me excessively."
+msgstr "[AD] You're the one visiting me excessively."
 
 # game/UpdateScript0.07.rpy:16589## # translate crowdin diaz_help_2d953f55:
 msgid "[R] I was just wondering if there was anything else you could do to help the campaign."
 msgstr "[R] I was just wondering if there was anything else you could do to help the campaign."
 
 # game/UpdateScript0.07.rpy:16590## # translate crowdin diaz_help_0f629136:
-msgid "AD "Look, I've already sold you votes this week, I've given you dirt on Matt."
-    AD "Look, I've already sold you votes this week, I've given you dirt on Matt."
+msgid "[AD] Look, I've already sold you votes this week, I've given you dirt on Matt."
+msgstr "[AD] Look, I've already sold you votes this week, I've given you dirt on Matt."
 
 # game/UpdateScript0.07.rpy:16591## # translate crowdin diaz_help_62b3be32:
-msgid "AD "Believe it or not, my whole world doesn't revolve around helping you."
-    AD "Believe it or not, my whole world doesn't revolve around helping you."
+msgid "[AD] Believe it or not, my whole world doesn't revolve around helping you."
+msgstr "[AD] Believe it or not, my whole world doesn't revolve around helping you."
 
 # game/UpdateScript0.07.rpy:16592## # translate crowdin diaz_help_e784e229:
-msgid "AD "I've got other cases I'm working on as well."
-    AD "I've got other cases I'm working on as well."
+msgid "[AD] I've got other cases I'm working on as well."
+msgstr "[AD] I've got other cases I'm working on as well."
 
 # game/UpdateScript0.07.rpy:16593## # translate crowdin diaz_help_bbd899c3:
-msgid "AD "If you still want to buy extra votes for the poll next week, come see me then."
-    AD "If you still want to buy extra votes for the poll next week, come see me then."
+msgid "[AD] If you still want to buy extra votes for the poll next week, come see me then."
+msgstr "[AD] If you still want to buy extra votes for the poll next week, come see me then."
 
 # game/UpdateScript0.07.rpy:16594## # translate crowdin diaz_help_b5864ad1:
-msgid "AD "Otherwise, I'll see you Thursday."
-    AD "Otherwise, I'll see you Thursday."
+msgid "[AD] Otherwise, I'll see you Thursday."
+msgstr "[AD] Otherwise, I'll see you Thursday."
 
 # game/UpdateScript0.07.rpy:16597## # translate crowdin diaz_help_a141385c:
 msgid "[RT] {i}I guess I'd better wait until next week to talk to Diaz.{/i}"
@@ -28763,52 +28763,52 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16611## # translate crowdin diaz_help_fc8e0eb0:
-msgid "AD "If it isn't the future crooked politician."
-    AD "If it isn't the future crooked politician."
+msgid "[AD] If it isn't the future crooked politician."
+msgstr "[AD] If it isn't the future crooked politician."
 
 # game/UpdateScript0.07.rpy:16614## # translate crowdin diaz_help_21bf3db3_1:
-msgid "AD "I was hoping you'd be back soon."
-    AD "I was hoping you'd be back soon."
+msgid "[AD] I was hoping you'd be back soon."
+msgstr "[AD] I was hoping you'd be back soon."
 
 # game/UpdateScript0.07.rpy:16615## # translate crowdin diaz_help_5a2c562c_1:
-msgid "AD "I hope you came to buy some votes... My gambling money is getting low."
-    AD "I hope you came to buy some votes... My gambling money is getting low."
+msgid "[AD] I hope you came to buy some votes... My gambling money is getting low."
+msgstr "[AD] I hope you came to buy some votes... My gambling money is getting low."
 
 # game/UpdateScript0.07.rpy:16616## # translate crowdin diaz_help_5fdc8d0f:
 msgid "[R] Yeah, I was hoping to talk to you a little bit about that."
 msgstr "[R] Yeah, I was hoping to talk to you a little bit about that."
 
 # game/UpdateScript0.07.rpy:16617## # translate crowdin diaz_help_1357f50a:
-msgid "AD "Oh, a talk? Well, come on in."
-    AD "Oh, a talk? Well, come on in."
+msgid "[AD] Oh, a talk? Well, come on in."
+msgstr "[AD] Oh, a talk? Well, come on in."
 
 # game/UpdateScript0.07.rpy:16624## # translate crowdin diaz_help_85f183f3:
-msgid "AD "So, what did you want to talk about?"
-    AD "So, what did you want to talk about?"
+msgid "[AD] So, what did you want to talk about?"
+msgstr "[AD] So, what did you want to talk about?"
 
 # game/UpdateScript0.07.rpy:16625## # translate crowdin diaz_help_5fdc5ced:
 msgid "[R] I wanted to talk to you about the deal we have every week."
 msgstr "[R] I wanted to talk to you about the deal we have every week."
 
 # game/UpdateScript0.07.rpy:16626## # translate crowdin diaz_help_06e7f20a:
-msgid "AD "You mean the one where I provide a means to boost your weekly poll numbers, and the final election numbers?"
-    AD "You mean the one where I provide a means to boost your weekly poll numbers, and the final election numbers?"
+msgid "[AD] You mean the one where I provide a means to boost your weekly poll numbers, and the final election numbers?"
+msgstr "[AD] You mean the one where I provide a means to boost your weekly poll numbers, and the final election numbers?"
 
 # game/UpdateScript0.07.rpy:16627## # translate crowdin diaz_help_61fc6dfd_1:
 msgid "[R] Exactly."
 msgstr "[R] Exactly."
 
 # game/UpdateScript0.07.rpy:16634## # translate crowdin diaz_help_91873663:
-msgid "AD "Do you have a problem with our current arrangement?"
-    AD "Do you have a problem with our current arrangement?"
+msgid "[AD] Do you have a problem with our current arrangement?"
+msgstr "[AD] Do you have a problem with our current arrangement?"
 
 # game/UpdateScript0.07.rpy:16635## # translate crowdin diaz_help_c0ca3684:
 msgid "[R] Well, it's just a lot of money for such a small bump in votes."
 msgstr "[R] Well, it's just a lot of money for such a small bump in votes."
 
 # game/UpdateScript0.07.rpy:16642## # translate crowdin diaz_help_96683ac8:
-msgid "AD "Do you have any idea the amount of risk our asset in your school takes every time she pads that vote?"
-    AD "Do you have any idea the amount of risk our asset in your school takes every time she pads that vote?"
+msgid "[AD] Do you have any idea the amount of risk our asset in your school takes every time she pads that vote?"
+msgstr "[AD] Do you have any idea the amount of risk our asset in your school takes every time she pads that vote?"
 
 # game/UpdateScript0.07.rpy:16643## # translate crowdin diaz_help_1185acb1:
 msgid "[R] No, no... I appreciate the risk... I was just wondering if maybe there was something else I could get from you for that large amount of money, that involves no risk at all."
@@ -28819,48 +28819,48 @@ msgid "[R] I mean after all, we're starting to close the gap behind Matt, and we
 msgstr "[R] I mean after all, we're starting to close the gap behind Matt, and we may not need your secret votes for very much longer."
 
 # game/UpdateScript0.07.rpy:16651## # translate crowdin diaz_help_4e2d13a8:
-msgid "AD "Ok... I see where this is going... You want me to throw in a handy every time you buy those votes, right?"
-    AD "Ok... I see where this is going... You want me to throw in a handy every time you buy those votes, right?"
+msgid "[AD] Ok... I see where this is going... You want me to throw in a handy every time you buy those votes, right?"
+msgstr "[AD] Ok... I see where this is going... You want me to throw in a handy every time you buy those votes, right?"
 
 # game/UpdateScript0.07.rpy:16652## # translate crowdin diaz_help_9931c24b:
 msgid "[R] For five hundred dollars, I was hoping for a little more than a handy."
 msgstr "[R] For five hundred dollars, I was hoping for a little more than a handy."
 
 # game/UpdateScript0.07.rpy:16659## # translate crowdin diaz_help_d5264d1a:
-msgid "AD "What? You want me to give you a blowjob or something?"
-    AD "What? You want me to give you a blowjob or something?"
+msgid "[AD] What? You want me to give you a blowjob or something?"
+msgstr "[AD] What? You want me to give you a blowjob or something?"
 
 # game/UpdateScript0.07.rpy:16660## # translate crowdin diaz_help_f6f8c30d:
 msgid "[R] At the very least for that amount of money."
 msgstr "[R] At the very least for that amount of money."
 
 # game/UpdateScript0.07.rpy:16661## # translate crowdin diaz_help_57d4db50:
-msgid "AD "Hmmmm... And that's the very least I'm going to give you... But sure, we can throw that into the deal."
-    AD "Hmmmm... And that's the very least I'm going to give you... But sure, we can throw that into the deal."
+msgid "[AD] Hmmmm... And that's the very least I'm going to give you... But sure, we can throw that into the deal."
+msgstr "[AD] Hmmmm... And that's the very least I'm going to give you... But sure, we can throw that into the deal."
 
 # game/UpdateScript0.07.rpy:16662## # translate crowdin diaz_help_102110b6:
-msgid "AD "I've sucked dick for much less than that."
-    AD "I've sucked dick for much less than that."
+msgid "[AD] I've sucked dick for much less than that."
+msgstr "[AD] I've sucked dick for much less than that."
 
 # game/UpdateScript0.07.rpy:16663## # translate crowdin diaz_help_f6b51e87:
 msgid "[R] Really?"
 msgstr "[R] Really?"
 
 # game/UpdateScript0.07.rpy:16664## # translate crowdin diaz_help_b1c5a020:
-msgid "AD "You bet."
-    AD "You bet."
+msgid "[AD] You bet."
+msgstr "[AD] You bet."
 
 # game/UpdateScript0.07.rpy:16665## # translate crowdin diaz_help_67059164:
-msgid "AD "So, do you want to exercise our deal right now?"
-    AD "So, do you want to exercise our deal right now?"
+msgid "[AD] So, do you want to exercise our deal right now?"
+msgstr "[AD] So, do you want to exercise our deal right now?"
 
 # game/UpdateScript0.07.rpy:16668## # translate crowdin diaz_help_29336139:
 msgid "[R] Yeah, ok... As long as you can continue to guarantee that Lauren's vote count will go up."
 msgstr "[R] Yeah, ok... As long as you can continue to guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:16669## # translate crowdin diaz_help_7c6dfc79_2:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:16670## # translate crowdin diaz_help_5196730c_2:
 msgid "[R] Alright... it's a deal."
@@ -28871,48 +28871,48 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16673## # translate crowdin diaz_help_2c816dd3_2:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:16674## # translate crowdin diaz_help_83b65130_2:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16677## # translate crowdin diaz_help_61b93545:
-msgid "AD "Now... Are you ready for the other part of our deal?"
-    AD "Now... Are you ready for the other part of our deal?"
+msgid "[AD] Now... Are you ready for the other part of our deal?"
+msgstr "[AD] Now... Are you ready for the other part of our deal?"
 
 # game/UpdateScript0.07.rpy:16678## # translate crowdin diaz_help_39bc9b06:
 msgid "[R] Oh God, Agent Diaz, I've been fantasizing about the moment I get to fuck your mouth since the first time you blackmailed me."
 msgstr "[R] Oh God, Agent Diaz, I've been fantasizing about the moment I get to fuck your mouth since the first time you blackmailed me."
 
 # game/UpdateScript0.07.rpy:16685## # translate crowdin diaz_help_5ff54e06:
-msgid "AD "Haha... I'm glad to know I've been on your mind that much."
-    AD "Haha... I'm glad to know I've been on your mind that much."
+msgid "[AD] Haha... I'm glad to know I've been on your mind that much."
+msgstr "[AD] Haha... I'm glad to know I've been on your mind that much."
 
 # game/UpdateScript0.07.rpy:16687## # translate crowdin diaz_help_5e83425a_1:
 msgid "[R] I can't really afford it right now, but I was hoping to get a preview of the goods I'll possibly be buying in the future."
 msgstr "[R] I can't really afford it right now, but I was hoping to get a preview of the goods I'll possibly be buying in the future."
 
 # game/UpdateScript0.07.rpy:16694## # translate crowdin diaz_help_703e240b:
-msgid "AD "You presumptuous little fucker."
-    AD "You presumptuous little fucker."
+msgid "[AD] You presumptuous little fucker."
+msgstr "[AD] You presumptuous little fucker."
 
 # game/UpdateScript0.07.rpy:16695## # translate crowdin diaz_help_7bc6811a:
-msgid "AD "I can't even believe your nerve."
-    AD "I can't even believe your nerve."
+msgid "[AD] I can't even believe your nerve."
+msgstr "[AD] I can't even believe your nerve."
 
 # game/UpdateScript0.07.rpy:16702## # translate crowdin diaz_help_8e1d080e:
-msgid "AD "Haha... It's also one of the things I like most about you."
-    AD "Haha... It's also one of the things I like most about you."
+msgid "[AD] Haha... It's also one of the things I like most about you."
+msgstr "[AD] Haha... It's also one of the things I like most about you."
 
 # game/UpdateScript0.07.rpy:16703## # translate crowdin diaz_help_bdd3f8f2:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:16704## # translate crowdin diaz_help_59f26dc0:
-msgid "AD "Alright, I'll give you a little trial of what you can expect in the future."
-    AD "Alright, I'll give you a little trial of what you can expect in the future."
+msgid "[AD] Alright, I'll give you a little trial of what you can expect in the future."
+msgstr "[AD] Alright, I'll give you a little trial of what you can expect in the future."
 
 # game/UpdateScript0.07.rpy:16705## # translate crowdin diaz_help_f6b51e87_1:
 msgid "[R] Really?"
@@ -28923,24 +28923,24 @@ msgid "[RT] {i}I can't believe that worked!{/i}"
 msgstr "[RT] {i}I can't believe that worked!{/i}"
 
 # game/UpdateScript0.07.rpy:16707## # translate crowdin diaz_help_0fa42448:
-msgid "AD "I'll admit... I've been wanting to get another look at that cock since the last time I saw it."
-    AD "I'll admit... I've been wanting to get another look at that cock since the last time I saw it."
+msgid "[AD] I'll admit... I've been wanting to get another look at that cock since the last time I saw it."
+msgstr "[AD] I'll admit... I've been wanting to get another look at that cock since the last time I saw it."
 
 # game/UpdateScript0.07.rpy:16708## # translate crowdin diaz_help_28dd3cc2:
-msgid "AD "So, are you ready to get your dick sucked?"
-    AD "So, are you ready to get your dick sucked?"
+msgid "[AD] So, are you ready to get your dick sucked?"
+msgstr "[AD] So, are you ready to get your dick sucked?"
 
 # game/UpdateScript0.07.rpy:16709## # translate crowdin diaz_help_39bc9b06_1:
 msgid "[R] Oh God, Agent Diaz, I've been fantasizing about the moment I get to fuck your mouth since the first time you blackmailed me."
 msgstr "[R] Oh God, Agent Diaz, I've been fantasizing about the moment I get to fuck your mouth since the first time you blackmailed me."
 
 # game/UpdateScript0.07.rpy:16710## # translate crowdin diaz_help_5ff54e06_1:
-msgid "AD "Haha... I'm glad to know I've been on your mind that much."
-    AD "Haha... I'm glad to know I've been on your mind that much."
+msgid "[AD] Haha... I'm glad to know I've been on your mind that much."
+msgstr "[AD] Haha... I'm glad to know I've been on your mind that much."
 
 # game/UpdateScript0.07.rpy:16712## # translate crowdin diaz_help_864030b6_1:
-msgid "AD "Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
-    AD "Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
+msgid "[AD] Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
+msgstr "[AD] Why don't I just switch on the Sidney room cameras for ambiance, and you can pull those pants down."
 
 # game/UpdateScript0.07.rpy:16717## # translate crowdin diaz_help_13fd2e5a_1:
 msgid "[R] God yes, Diaz... Stick it in your mouth!"
@@ -28951,8 +28951,8 @@ msgid "[R] Oh, yeah... lick the head of my cock!"
 msgstr "[R] Oh, yeah... lick the head of my cock!"
 
 # game/UpdateScript0.07.rpy:16722## # translate crowdin diaz_help_0cd0d956_1:
-msgid "AD "Mmmmm...."
-    AD "Mmmmm...."
+msgid "[AD] Mmmmm...."
+msgstr "[AD] Mmmmm...."
 
 # game/UpdateScript0.07.rpy:16728## # translate crowdin diaz_help_6d8f0ea4:
 msgid "[RT] {i}I've finally got that bitch sucking my cock.{/i}"
@@ -28967,8 +28967,8 @@ msgid "[R] Holy fuck... you can go so deep!"
 msgstr "[R] Holy fuck... you can go so deep!"
 
 # game/UpdateScript0.07.rpy:16736## # translate crowdin diaz_help_f57334a5_1:
-msgid "AD "Bllleerrrccchhhh..."
-    AD "Bllleerrrccchhhh..."
+msgid "[AD] Bllleerrrccchhhh..."
+msgstr "[AD] Bllleerrrccchhhh..."
 
 # game/UpdateScript0.07.rpy:16737## # translate crowdin diaz_help_e4952929_1:
 msgid "[R] Oohhh..."
@@ -28983,40 +28983,40 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16758## # translate crowdin diaz_help_e1f075ab:
-msgid "AD "Another visit?... Are you falling in love with me or something?"
-    AD "Another visit?... Are you falling in love with me or something?"
+msgid "[AD] Another visit?... Are you falling in love with me or something?"
+msgstr "[AD] Another visit?... Are you falling in love with me or something?"
 
 # game/UpdateScript0.07.rpy:16761## # translate crowdin diaz_help_99994c96:
 msgid "[R] What?... How could I fall in love with an evil witch who's exploiting me for money or favors with my sister?"
 msgstr "[R] What?... How could I fall in love with an evil witch who's exploiting me for money or favors with my sister?"
 
 # game/UpdateScript0.07.rpy:16762## # translate crowdin diaz_help_6e0f26c5:
-msgid "AD "I don't know... I've just noticed your visits are getting excessive."
-    AD "I don't know... I've just noticed your visits are getting excessive."
+msgid "[AD] I don't know... I've just noticed your visits are getting excessive."
+msgstr "[AD] I don't know... I've just noticed your visits are getting excessive."
 
 # game/UpdateScript0.07.rpy:16763## # translate crowdin diaz_help_2d953f55_1:
 msgid "[R] I was just wondering if there was anything else you could do to help the campaign."
 msgstr "[R] I was just wondering if there was anything else you could do to help the campaign."
 
 # game/UpdateScript0.07.rpy:16764## # translate crowdin diaz_help_f0f448ae:
-msgid "AD "Look, I've already sold you votes this week, and gave you dirt on Matt."
-    AD "Look, I've already sold you votes this week, and gave you dirt on Matt."
+msgid "[AD] Look, I've already sold you votes this week, and gave you dirt on Matt."
+msgstr "[AD] Look, I've already sold you votes this week, and gave you dirt on Matt."
 
 # game/UpdateScript0.07.rpy:16765## # translate crowdin diaz_help_62b3be32_1:
-msgid "AD "Believe it or not, my whole world doesn't revolve around helping you."
-    AD "Believe it or not, my whole world doesn't revolve around helping you."
+msgid "[AD] Believe it or not, my whole world doesn't revolve around helping you."
+msgstr "[AD] Believe it or not, my whole world doesn't revolve around helping you."
 
 # game/UpdateScript0.07.rpy:16766## # translate crowdin diaz_help_e784e229_1:
-msgid "AD "I've got other cases I'm working on as well."
-    AD "I've got other cases I'm working on as well."
+msgid "[AD] I've got other cases I'm working on as well."
+msgstr "[AD] I've got other cases I'm working on as well."
 
 # game/UpdateScript0.07.rpy:16767## # translate crowdin diaz_help_bbd899c3_1:
-msgid "AD "If you still want to buy extra votes for the poll next week, come see me then."
-    AD "If you still want to buy extra votes for the poll next week, come see me then."
+msgid "[AD] If you still want to buy extra votes for the poll next week, come see me then."
+msgstr "[AD] If you still want to buy extra votes for the poll next week, come see me then."
 
 # game/UpdateScript0.07.rpy:16768## # translate crowdin diaz_help_b5864ad1_1:
-msgid "AD "Otherwise, I'll see you Thursday."
-    AD "Otherwise, I'll see you Thursday."
+msgid "[AD] Otherwise, I'll see you Thursday."
+msgstr "[AD] Otherwise, I'll see you Thursday."
 
 # game/UpdateScript0.07.rpy:16771## # translate crowdin diaz_help_a141385c_1:
 msgid "[RT] {i}I guess I'd better wait until next week to talk to Diaz.{/i}"
@@ -29031,40 +29031,40 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16784## # translate crowdin diaz_help_4863cee7:
-msgid "AD "Well, hey there big Johnson."
-    AD "Well, hey there big Johnson."
+msgid "[AD] Well, hey there big Johnson."
+msgstr "[AD] Well, hey there big Johnson."
 
 # game/UpdateScript0.07.rpy:16787## # translate crowdin diaz_help_eed44b11:
-msgid "AD "I was wondering when I'd see you again."
-    AD "I was wondering when I'd see you again."
+msgid "[AD] I was wondering when I'd see you again."
+msgstr "[AD] I was wondering when I'd see you again."
 
 # game/UpdateScript0.07.rpy:16788## # translate crowdin diaz_help_3b88518d:
-msgid "AD "I think I've got some good news for you today."
-    AD "I think I've got some good news for you today."
+msgid "[AD] I think I've got some good news for you today."
+msgstr "[AD] I think I've got some good news for you today."
 
 # game/UpdateScript0.07.rpy:16789## # translate crowdin diaz_help_d5673859:
 msgid "[R] Did you get some dirt on Matt?"
 msgstr "[R] Did you get some dirt on Matt?"
 
 # game/UpdateScript0.07.rpy:16790## # translate crowdin diaz_help_1eb8f79e:
-msgid "AD "Come on in, have a seat and I'll show you what I've found."
-    AD "Come on in, have a seat and I'll show you what I've found."
+msgid "[AD] Come on in, have a seat and I'll show you what I've found."
+msgstr "[AD] Come on in, have a seat and I'll show you what I've found."
 
 # game/UpdateScript0.07.rpy:16797## # translate crowdin diaz_help_44697fcd:
-msgid "AD "Goddammit, Sidney... We don't have time for that right now."
-    AD "Goddammit, Sidney... We don't have time for that right now."
+msgid "[AD] Goddammit, Sidney... We don't have time for that right now."
+msgstr "[AD] Goddammit, Sidney... We don't have time for that right now."
 
 # game/UpdateScript0.07.rpy:16798## # translate crowdin diaz_help_f04fd068:
-msgid "AD "Here, keep an eye on Sidney's screen."
-    AD "Here, keep an eye on Sidney's screen."
+msgid "[AD] Here, keep an eye on Sidney's screen."
+msgstr "[AD] Here, keep an eye on Sidney's screen."
 
 # game/UpdateScript0.07.rpy:16805## # translate crowdin diaz_help_b44acb0c:
 msgid "[R] Oh... Text messages between Matt and Megan?"
 msgstr "[R] Oh... Text messages between Matt and Megan?"
 
 # game/UpdateScript0.07.rpy:16806## # translate crowdin diaz_help_e633a526:
-msgid "AD "Yeah... Read them."
-    AD "Yeah... Read them."
+msgid "[AD] Yeah... Read them."
+msgstr "[AD] Yeah... Read them."
 
 # game/UpdateScript0.07.rpy:16807## # translate crowdin diaz_help_36db77af:
 msgid "[MG] OMG!. Can U Believe that Jessica is my new Cheerleading coach?"
@@ -29167,20 +29167,20 @@ msgid "[R] Ok... Why am I reading that disgusting exchange?"
 msgstr "[R] Ok... Why am I reading that disgusting exchange?"
 
 # game/UpdateScript0.07.rpy:16832## # translate crowdin diaz_help_8907c927:
-msgid "AD "Ask and you shall receive."
-    AD "Ask and you shall receive."
+msgid "[AD] Ask and you shall receive."
+msgstr "[AD] Ask and you shall receive."
 
 # game/UpdateScript0.07.rpy:16833## # translate crowdin diaz_help_6578f86c:
-msgid "AD "Look at the screen to the right."
-    AD "Look at the screen to the right."
+msgid "[AD] Look at the screen to the right."
+msgstr "[AD] Look at the screen to the right."
 
 # game/UpdateScript0.07.rpy:16840## # translate crowdin diaz_help_5a8f0f82:
-msgid "AD "Incredibly, this video wouldn't have been possible without your own daring escapades."
-    AD "Incredibly, this video wouldn't have been possible without your own daring escapades."
+msgid "[AD] Incredibly, this video wouldn't have been possible without your own daring escapades."
+msgstr "[AD] Incredibly, this video wouldn't have been possible without your own daring escapades."
 
 # game/UpdateScript0.07.rpy:16841## # translate crowdin diaz_help_7d39934e:
-msgid "AD "Now, watch closely, and I hope you enjoy it as much as I did."
-    AD "Now, watch closely, and I hope you enjoy it as much as I did."
+msgid "[AD] Now, watch closely, and I hope you enjoy it as much as I did."
+msgstr "[AD] Now, watch closely, and I hope you enjoy it as much as I did."
 
 # game/UpdateScript0.07.rpy:16847## # translate crowdin diaz_help_cb16e400:
 msgid "MJ "Come on... Why are you dragging your feet?"
@@ -29343,8 +29343,8 @@ msgid "[R] Oh, my God! How can she take a cock that big in her ass?"
 msgstr "[R] Oh, my God! How can she take a cock that big in her ass?"
 
 # game/UpdateScript0.07.rpy:16911## # translate crowdin diaz_help_d8032659:
-msgid "AD "You'd be surprised how much an ass can stretch with enough practice."
-    AD "You'd be surprised how much an ass can stretch with enough practice."
+msgid "[AD] You'd be surprised how much an ass can stretch with enough practice."
+msgstr "[AD] You'd be surprised how much an ass can stretch with enough practice."
 
 # game/UpdateScript0.07.rpy:16914## # translate crowdin diaz_help_3abdf03a:
 msgid "MJ "Matt!... You're... splitting me... in half!..."
@@ -29367,24 +29367,24 @@ msgid "[R] Did he just cum in her ass?"
 msgstr "[R] Did he just cum in her ass?"
 
 # game/UpdateScript0.07.rpy:16933## # translate crowdin diaz_help_b856a79b:
-msgid "AD "He sure did... You can see it dripping out, even from this crappy camera's view."
-    AD "He sure did... You can see it dripping out, even from this crappy camera's view."
+msgid "[AD] He sure did... You can see it dripping out, even from this crappy camera's view."
+msgstr "[AD] He sure did... You can see it dripping out, even from this crappy camera's view."
 
 # game/UpdateScript0.07.rpy:16937## # translate crowdin diaz_help_5f1e8af6:
 msgid "[R] Wow!"
 msgstr "[R] Wow!"
 
 # game/UpdateScript0.07.rpy:16938## # translate crowdin diaz_help_bca7a199:
-msgid "AD "Yeah... He fucked her so hard she can't even get up."
-    AD "Yeah... He fucked her so hard she can't even get up."
+msgid "[AD] Yeah... He fucked her so hard she can't even get up."
+msgstr "[AD] Yeah... He fucked her so hard she can't even get up."
 
 # game/UpdateScript0.07.rpy:16939## # translate crowdin diaz_help_41b03391:
-msgid "AD "Go and show that to Megan, and you're going to have one angry girlfriend."
-    AD "Go and show that to Megan, and you're going to have one angry girlfriend."
+msgid "[AD] Go and show that to Megan, and you're going to have one angry girlfriend."
+msgstr "[AD] Go and show that to Megan, and you're going to have one angry girlfriend."
 
 # game/UpdateScript0.07.rpy:16940## # translate crowdin diaz_help_45d33db8:
-msgid "AD "And if you can get her and the cheerleaders supporting Lauren... I'd say Lauren has a pretty good chance of winning this election."
-    AD "And if you can get her and the cheerleaders supporting Lauren... I'd say Lauren has a pretty good chance of winning this election."
+msgid "[AD] And if you can get her and the cheerleaders supporting Lauren... I'd say Lauren has a pretty good chance of winning this election."
+msgstr "[AD] And if you can get her and the cheerleaders supporting Lauren... I'd say Lauren has a pretty good chance of winning this election."
 
 # game/UpdateScript0.07.rpy:16941## # translate crowdin diaz_help_32c195b9:
 msgid "[R] Yeah... This is gold!"
@@ -29395,16 +29395,16 @@ msgid "[R] I never thought I'd say this to you Agent Diaz, but thank you."
 msgstr "[R] I never thought I'd say this to you Agent Diaz, but thank you."
 
 # game/UpdateScript0.07.rpy:16946## # translate crowdin diaz_help_c2d93112:
-msgid "AD "Well, you did the ground work."
-    AD "Well, you did the ground work."
+msgid "[AD] Well, you did the ground work."
+msgstr "[AD] Well, you did the ground work."
 
 # game/UpdateScript0.07.rpy:16947## # translate crowdin diaz_help_52f4bf79:
-msgid "AD "And you could have found this video as easily as I did."
-    AD "And you could have found this video as easily as I did."
+msgid "[AD] And you could have found this video as easily as I did."
+msgstr "[AD] And you could have found this video as easily as I did."
 
 # game/UpdateScript0.07.rpy:16948## # translate crowdin diaz_help_d80d20a3:
-msgid "AD "That is assuming you kept the code to the camera, so you can see through it too?"
-    AD "That is assuming you kept the code to the camera, so you can see through it too?"
+msgid "[AD] That is assuming you kept the code to the camera, so you can see through it too?"
+msgstr "[AD] That is assuming you kept the code to the camera, so you can see through it too?"
 
 # game/UpdateScript0.07.rpy:16949## # translate crowdin diaz_help_c323f503:
 msgid "[R] Of course I did."
@@ -29415,56 +29415,56 @@ msgid "[R] But, I would have never known the value of this video without the tex
 msgstr "[R] But, I would have never known the value of this video without the text messages."
 
 # game/UpdateScript0.07.rpy:16951## # translate crowdin diaz_help_e7e47376:
-msgid "AD "Well, that's true."
-    AD "Well, that's true."
+msgid "[AD] Well, that's true."
+msgstr "[AD] Well, that's true."
 
 # game/UpdateScript0.07.rpy:16952## # translate crowdin diaz_help_09694f31:
-msgid "AD "OH, SHIT!"
-    AD "OH, SHIT!"
+msgid "[AD] OH, SHIT!"
+msgstr "[AD] OH, SHIT!"
 
 # game/UpdateScript0.07.rpy:16953## # translate crowdin diaz_help_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.07.rpy:16954## # translate crowdin diaz_help_d38805a0:
-msgid "AD "I just got an alert that the FBI director is on his way to see me."
-    AD "I just got an alert that the FBI director is on his way to see me."
+msgid "[AD] I just got an alert that the FBI director is on his way to see me."
+msgstr "[AD] I just got an alert that the FBI director is on his way to see me."
 
 # game/UpdateScript0.07.rpy:16955## # translate crowdin diaz_help_f992eef6:
-msgid "AD "You've got to leave now."
-    AD "You've got to leave now."
+msgid "[AD] You've got to leave now."
+msgstr "[AD] You've got to leave now."
 
 # game/UpdateScript0.07.rpy:16960## # translate crowdin diaz_help_c67e0191:
 msgid "[R] But, I wanted to ask..."
 msgstr "[R] But, I wanted to ask..."
 
 # game/UpdateScript0.07.rpy:16961## # translate crowdin diaz_help_36155837:
-msgid "AD "No time. Come see me tomorrow."
-    AD "No time. Come see me tomorrow."
+msgid "[AD] No time. Come see me tomorrow."
+msgstr "[AD] No time. Come see me tomorrow."
 
 # game/UpdateScript0.07.rpy:16962## # translate crowdin diaz_help_8f49ce31:
 msgid "[R] Will you at least send that video to my phone?"
 msgstr "[R] Will you at least send that video to my phone?"
 
 # game/UpdateScript0.07.rpy:16963## # translate crowdin diaz_help_902247a0:
-msgid "AD "Already done, in fact I already took the liberty of downloading it into your photo library."
-    AD "Already done, in fact I already took the liberty of downloading it into your photo library."
+msgid "[AD] Already done, in fact I already took the liberty of downloading it into your photo library."
+msgstr "[AD] Already done, in fact I already took the liberty of downloading it into your photo library."
 
 # game/UpdateScript0.07.rpy:16964## # translate crowdin diaz_help_0f0dbded:
 msgid "[R] But how?"
 msgstr "[R] But how?"
 
 # game/UpdateScript0.07.rpy:16965## # translate crowdin diaz_help_135bd7af:
-msgid "AD "FBI... remember?"
-    AD "FBI... remember?"
+msgid "[AD] FBI... remember?"
+msgstr "[AD] FBI... remember?"
 
 # game/UpdateScript0.07.rpy:16966## # translate crowdin diaz_help_ed2c3d29:
 msgid "[R] Right."
 msgstr "[R] Right."
 
 # game/UpdateScript0.07.rpy:16967## # translate crowdin diaz_help_e7ab906f:
-msgid "AD "Now, go!"
-    AD "Now, go!"
+msgid "[AD] Now, go!"
+msgstr "[AD] Now, go!"
 
 # game/UpdateScript0.07.rpy:16970## # translate crowdin diaz_help_93148833:
 msgid "[RT] {i}I wonder how she keeps all her shady dealings secret from her higher ups at the FBI?{/i}"
@@ -29483,32 +29483,32 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16985## # translate crowdin diaz_help_eb05623c:
-msgid "AD "To what do I owe the pleasure?... Can I help you with something?"
-    AD "To what do I owe the pleasure?... Can I help you with something?"
+msgid "[AD] To what do I owe the pleasure?... Can I help you with something?"
+msgstr "[AD] To what do I owe the pleasure?... Can I help you with something?"
 
 # game/UpdateScript0.07.rpy:16988## # translate crowdin diaz_help_ca0c9e92:
 msgid "[R] Did you find anything on Matt yet?"
 msgstr "[R] Did you find anything on Matt yet?"
 
 # game/UpdateScript0.07.rpy:16989## # translate crowdin diaz_help_f4af6f18:
-msgid "AD "Patience, you've hardly given me any time."
-    AD "Patience, you've hardly given me any time."
+msgid "[AD] Patience, you've hardly given me any time."
+msgstr "[AD] Patience, you've hardly given me any time."
 
 # game/UpdateScript0.07.rpy:16990## # translate crowdin diaz_help_f7203e01:
-msgid "AD "Come back next week, and I'm sure I'll have something for you by then."
-    AD "Come back next week, and I'm sure I'll have something for you by then."
+msgid "[AD] Come back next week, and I'm sure I'll have something for you by then."
+msgstr "[AD] Come back next week, and I'm sure I'll have something for you by then."
 
 # game/UpdateScript0.07.rpy:16992## # translate crowdin diaz_help_1c0d9f60_1:
-msgid "AD "Did you want to buy some influence for the weekly poll while you are here?"
-    AD "Did you want to buy some influence for the weekly poll while you are here?"
+msgid "[AD] Did you want to buy some influence for the weekly poll while you are here?"
+msgstr "[AD] Did you want to buy some influence for the weekly poll while you are here?"
 
 # game/UpdateScript0.07.rpy:16995## # translate crowdin diaz_help_bc49455e_1:
 msgid "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 msgstr "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:16996## # translate crowdin diaz_help_7c6dfc79_3:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:16997## # translate crowdin diaz_help_5196730c_3:
 msgid "[R] Alright... it's a deal."
@@ -29519,8 +29519,8 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17000## # translate crowdin diaz_help_2c816dd3_3:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:17001## # translate crowdin diaz_help_83b65130_3:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
@@ -29531,16 +29531,16 @@ msgid "[R] Yeah, right... I'm not giving you any more money."
 msgstr "[R] Yeah, right... I'm not giving you any more money."
 
 # game/UpdateScript0.07.rpy:17006## # translate crowdin diaz_help_85bbc5fc_1:
-msgid "AD "Ok, but if you change your mind, you know where to find me."
-    AD "Ok, but if you change your mind, you know where to find me."
+msgid "[AD] Ok, but if you change your mind, you know where to find me."
+msgstr "[AD] Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17007## # translate crowdin diaz_help_42e46acb_1:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17010## # translate crowdin diaz_help_b3881032_1:
-msgid "AD "Well, if there's nothing else, I've got to get back to work."
-    AD "Well, if there's nothing else, I've got to get back to work."
+msgid "[AD] Well, if there's nothing else, I've got to get back to work."
+msgstr "[AD] Well, if there's nothing else, I've got to get back to work."
 
 # game/UpdateScript0.07.rpy:17013## # translate crowdin diaz_help_384f9cbf_1:
 msgid "[RT] {i}I guess I'd better come back next week.{/i}"
@@ -29563,64 +29563,64 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17028## # translate crowdin diaz_help_41643054:
-msgid "AD "Well well, if it isn't the twerp."
-    AD "Well well, if it isn't the twerp."
+msgid "[AD] Well well, if it isn't the twerp."
+msgstr "[AD] Well well, if it isn't the twerp."
 
 # game/UpdateScript0.07.rpy:17031## # translate crowdin diaz_help_77f282dd:
-msgid "AD "Nice job on that spy cam, I've already recorded several hours of... important investigatory content."
-    AD "Nice job on that spy cam, I've already recorded several hours of... important investigatory content."
+msgid "[AD] Nice job on that spy cam, I've already recorded several hours of... important investigatory content."
+msgstr "[AD] Nice job on that spy cam, I've already recorded several hours of... important investigatory content."
 
 # game/UpdateScript0.07.rpy:17032## # translate crowdin diaz_help_c837c131:
-msgid "AD "I hope it wasn't too much trouble?"
-    AD "I hope it wasn't too much trouble?"
+msgid "[AD] I hope it wasn't too much trouble?"
+msgstr "[AD] I hope it wasn't too much trouble?"
 
 # game/UpdateScript0.07.rpy:17033## # translate crowdin diaz_help_30ba2c6d:
 msgid "[R] Oh, no... I just had to sneak through a locker room full of girls... You know... super easy."
 msgstr "[R] Oh, no... I just had to sneak through a locker room full of girls... You know... super easy."
 
 # game/UpdateScript0.07.rpy:17034## # translate crowdin diaz_help_e65c2f95:
-msgid "AD "Well, the important thing is you did it."
-    AD "Well, the important thing is you did it."
+msgid "[AD] Well, the important thing is you did it."
+msgstr "[AD] Well, the important thing is you did it."
 
 # game/UpdateScript0.07.rpy:17035## # translate crowdin diaz_help_9374719d:
-msgid "AD "Do you want to come in?"
-    AD "Do you want to come in?"
+msgid "[AD] Do you want to come in?"
+msgstr "[AD] Do you want to come in?"
 
 # game/UpdateScript0.07.rpy:17036## # translate crowdin diaz_help_bb5838a3:
 msgid "[R] Don't mind if I do."
 msgstr "[R] Don't mind if I do."
 
 # game/UpdateScript0.07.rpy:17043## # translate crowdin diaz_help_f01e1f52:
-msgid "AD "I've already started looking for some dirt on Matt."
-    AD "I've already started looking for some dirt on Matt."
+msgid "[AD] I've already started looking for some dirt on Matt."
+msgstr "[AD] I've already started looking for some dirt on Matt."
 
 # game/UpdateScript0.07.rpy:17044## # translate crowdin diaz_help_41d9348a:
-msgid "AD "This type of thing can take a little while though."
-    AD "This type of thing can take a little while though."
+msgid "[AD] This type of thing can take a little while though."
+msgstr "[AD] This type of thing can take a little while though."
 
 # game/UpdateScript0.07.rpy:17051## # translate crowdin diaz_help_82d6b114:
-msgid "AD "So try coming back next week."
-    AD "So try coming back next week."
+msgid "[AD] So try coming back next week."
+msgstr "[AD] So try coming back next week."
 
 # game/UpdateScript0.07.rpy:17052## # translate crowdin diaz_help_bdd3f8f2_1:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17059## # translate crowdin diaz_help_3a78e923:
-msgid "AD "Was there anything else I can do for you before you go?"
-    AD "Was there anything else I can do for you before you go?"
+msgid "[AD] Was there anything else I can do for you before you go?"
+msgstr "[AD] Was there anything else I can do for you before you go?"
 
 # game/UpdateScript0.07.rpy:17060## # translate crowdin diaz_help_5b203064:
-msgid "AD "Did you want to spy on your family for a few minutes or anything?"
-    AD "Did you want to spy on your family for a few minutes or anything?"
+msgid "[AD] Did you want to spy on your family for a few minutes or anything?"
+msgstr "[AD] Did you want to spy on your family for a few minutes or anything?"
 
 # game/UpdateScript0.07.rpy:17061## # translate crowdin diaz_help_18d6e57f:
 msgid "[R] No, I just want you to finish that handjob you promised me."
 msgstr "[R] No, I just want you to finish that handjob you promised me."
 
 # game/UpdateScript0.07.rpy:17069## # translate crowdin diaz_help_747e04d8:
-msgid "AD "Did I promise?"
-    AD "Did I promise?"
+msgid "[AD] Did I promise?"
+msgstr "[AD] Did I promise?"
 
 # game/UpdateScript0.07.rpy:17070## # translate crowdin diaz_help_c1a63896:
 msgid "[R] Yes, you promised!"
@@ -29635,84 +29635,84 @@ msgid "[R] Well... it's installed."
 msgstr "[R] Well... it's installed."
 
 # game/UpdateScript0.07.rpy:17073## # translate crowdin diaz_help_786da189:
-msgid "AD "Ok, ok, keep your pants on... Uhhh... I guess I should be saying the opposite."
-    AD "Ok, ok, keep your pants on... Uhhh... I guess I should be saying the opposite."
+msgid "[AD] Ok, ok, keep your pants on... Uhhh... I guess I should be saying the opposite."
+msgstr "[AD] Ok, ok, keep your pants on... Uhhh... I guess I should be saying the opposite."
 
 # game/UpdateScript0.07.rpy:17074## # translate crowdin diaz_help_7e0084b8:
-msgid "AD "Haha... Anyways... why don't you sit down and watch Sidney with me for a minute to get us in the mood... She's looking at step-brother porn on her laptop right now."
-    AD "Haha... Anyways... why don't you sit down and watch Sidney with me for a minute to get us in the mood... She's looking at step-brother porn on her laptop right now."
+msgid "[AD] Haha... Anyways... why don't you sit down and watch Sidney with me for a minute to get us in the mood... She's looking at step-brother porn on her laptop right now."
+msgstr "[AD] Haha... Anyways... why don't you sit down and watch Sidney with me for a minute to get us in the mood... She's looking at step-brother porn on her laptop right now."
 
 # game/UpdateScript0.07.rpy:17075## # translate crowdin diaz_help_9df388fa:
-msgid "AD "It won't be long until she starts taking care of herself."
-    AD "It won't be long until she starts taking care of herself."
+msgid "[AD] It won't be long until she starts taking care of herself."
+msgstr "[AD] It won't be long until she starts taking care of herself."
 
 # game/UpdateScript0.07.rpy:17080## # translate crowdin diaz_help_eee67cb6:
-msgid "AD "Oh, yeah... There she goes."
-    AD "Oh, yeah... There she goes."
+msgid "[AD] Oh, yeah... There she goes."
+msgstr "[AD] Oh, yeah... There she goes."
 
 # game/UpdateScript0.07.rpy:17081## # translate crowdin diaz_help_ea6803e4:
-msgid "AD "That poor girl has got so much pent up sexual frustration."
-    AD "That poor girl has got so much pent up sexual frustration."
+msgid "[AD] That poor girl has got so much pent up sexual frustration."
+msgstr "[AD] That poor girl has got so much pent up sexual frustration."
 
 # game/UpdateScript0.07.rpy:17082## # translate crowdin diaz_help_d8fbc913:
-msgid "AD "Ooohhh...yeah..."
-    AD "Ooohhh...yeah..."
+msgid "[AD] Ooohhh...yeah..."
+msgstr "[AD] Ooohhh...yeah..."
 
 # game/UpdateScript0.07.rpy:17083## # translate crowdin diaz_help_e94bef4a:
 msgid "[R] Hey, you're supposed to be rubbing me, not yourself."
 msgstr "[R] Hey, you're supposed to be rubbing me, not yourself."
 
 # game/UpdateScript0.07.rpy:17084## # translate crowdin diaz_help_9f33c9f9:
-msgid "AD "Are you sure you don't want to lick my pussy first?"
-    AD "Are you sure you don't want to lick my pussy first?"
+msgid "[AD] Are you sure you don't want to lick my pussy first?"
+msgstr "[AD] Are you sure you don't want to lick my pussy first?"
 
 # game/UpdateScript0.07.rpy:17085## # translate crowdin diaz_help_4bce79ac:
 msgid "[R] Yeah, right... I'm not falling for that again."
 msgstr "[R] Yeah, right... I'm not falling for that again."
 
 # game/UpdateScript0.07.rpy:17086## # translate crowdin diaz_help_88064ac1:
-msgid "AD "Well, then pull down your pants and pop your dick out."
-    AD "Well, then pull down your pants and pop your dick out."
+msgid "[AD] Well, then pull down your pants and pop your dick out."
+msgstr "[AD] Well, then pull down your pants and pop your dick out."
 
 # game/UpdateScript0.07.rpy:17089## # translate crowdin diaz_help_388e8a99:
 msgid "[R] There!"
 msgstr "[R] There!"
 
 # game/UpdateScript0.07.rpy:17090## # translate crowdin diaz_help_eb3a8980:
-msgid "AD "Well, someone's excited."
-    AD "Well, someone's excited."
+msgid "[AD] Well, someone's excited."
+msgstr "[AD] Well, someone's excited."
 
 # game/UpdateScript0.07.rpy:17091## # translate crowdin diaz_help_217fd5b9:
 msgid "[R] He's been mostly hard since the last time I was in here."
 msgstr "[R] He's been mostly hard since the last time I was in here."
 
 # game/UpdateScript0.07.rpy:17092## # translate crowdin diaz_help_e73f273c:
-msgid "AD "Haha... that's what I like to hear."
-    AD "Haha... that's what I like to hear."
+msgid "[AD] Haha... that's what I like to hear."
+msgstr "[AD] Haha... that's what I like to hear."
 
 # game/UpdateScript0.07.rpy:17093## # translate crowdin diaz_help_8d2fa6f7:
-msgid "AD "Poor little neglected cock has been missing Agent Diaz?"
-    AD "Poor little neglected cock has been missing Agent Diaz?"
+msgid "[AD] Poor little neglected cock has been missing Agent Diaz?"
+msgstr "[AD] Poor little neglected cock has been missing Agent Diaz?"
 
 # game/UpdateScript0.07.rpy:17094## # translate crowdin diaz_help_9aff3c20:
-msgid "AD "Are you ready for me to take care of you?"
-    AD "Are you ready for me to take care of you?"
+msgid "[AD] Are you ready for me to take care of you?"
+msgstr "[AD] Are you ready for me to take care of you?"
 
 # game/UpdateScript0.07.rpy:17095## # translate crowdin diaz_help_aca318b6:
 msgid "[R] You're talking to my penis... That's kind of weird... but somehow... sexy."
 msgstr "[R] You're talking to my penis... That's kind of weird... but somehow... sexy."
 
 # game/UpdateScript0.07.rpy:17096## # translate crowdin diaz_help_ad63b519:
-msgid "AD "Haha... Ok, let me take care of you."
-    AD "Haha... Ok, let me take care of you."
+msgid "[AD] Haha... Ok, let me take care of you."
+msgstr "[AD] Haha... Ok, let me take care of you."
 
 # game/UpdateScript0.07.rpy:17099## # translate crowdin diaz_help_3f64c82f:
-msgid "AD "That's one beautiful cock."
-    AD "That's one beautiful cock."
+msgid "[AD] That's one beautiful cock."
+msgstr "[AD] That's one beautiful cock."
 
 # game/UpdateScript0.07.rpy:17102## # translate crowdin diaz_help_105764da:
-msgid "AD "A cock like this needs two hands."
-    AD "A cock like this needs two hands."
+msgid "[AD] A cock like this needs two hands."
+msgstr "[AD] A cock like this needs two hands."
 
 # game/UpdateScript0.07.rpy:17106## # translate crowdin diaz_help_5cbabcc5:
 msgid "[R] Oh, God... That feels good."
@@ -29739,48 +29739,48 @@ msgid "[R] Hhhhnnggghh..."
 msgstr "[R] Hhhhnnggghh..."
 
 # game/UpdateScript0.07.rpy:17126## # translate crowdin diaz_help_569d1526:
-msgid "AD "Hh..Holy shit, [ryan]!"
-    AD "Hh..Holy shit, [ryan]!"
+msgid "[AD] Hh..Holy shit, [ryan]!"
+msgstr "[AD] Hh..Holy shit, [ryan]!"
 
 # game/UpdateScript0.07.rpy:17127## # translate crowdin diaz_help_4ee844f2:
-msgid "AD "Haha... That's a lot of cum."
-    AD "Haha... That's a lot of cum."
+msgid "[AD] Haha... That's a lot of cum."
+msgstr "[AD] Haha... That's a lot of cum."
 
 # game/UpdateScript0.07.rpy:17130## # translate crowdin diaz_help_be7f70cd:
-msgid "AD "The way you cum, the way your mom and sisters squirt... Your family should be breeding stock for future pornstars."
-    AD "The way you cum, the way your mom and sisters squirt... Your family should be breeding stock for future pornstars."
+msgid "[AD] The way you cum, the way your mom and sisters squirt... Your family should be breeding stock for future pornstars."
+msgstr "[AD] The way you cum, the way your mom and sisters squirt... Your family should be breeding stock for future pornstars."
 
 # game/UpdateScript0.07.rpy:17131## # translate crowdin diaz_help_389c2cbe:
-msgid "AD "I got lucky to be assigned to such an oversexed family."
-    AD "I got lucky to be assigned to such an oversexed family."
+msgid "[AD] I got lucky to be assigned to such an oversexed family."
+msgstr "[AD] I got lucky to be assigned to such an oversexed family."
 
 # game/UpdateScript0.07.rpy:17132## # translate crowdin diaz_help_fa945fcc:
 msgid "[R] We never used to be."
 msgstr "[R] We never used to be."
 
 # game/UpdateScript0.07.rpy:17135## # translate crowdin diaz_help_7fa91a2b:
-msgid "AD "Yeah, I think your sudden sexual awakening was the match that lit the fire."
-    AD "Yeah, I think your sudden sexual awakening was the match that lit the fire."
+msgid "[AD] Yeah, I think your sudden sexual awakening was the match that lit the fire."
+msgstr "[AD] Yeah, I think your sudden sexual awakening was the match that lit the fire."
 
 # game/UpdateScript0.07.rpy:17136## # translate crowdin diaz_help_2b4092b9:
 msgid "[RT] {i}Huh... She may be right... I wonder how different things would be if I had never seen Mom stripping.{/i}"
 msgstr "[RT] {i}Huh... She may be right... I wonder how different things would be if I had never seen Mom stripping.{/i}"
 
 # game/UpdateScript0.07.rpy:17138## # translate crowdin diaz_help_45681410:
-msgid "AD "Well?... Was there anything else you needed while you're here?"
-    AD "Well?... Was there anything else you needed while you're here?"
+msgid "[AD] Well?... Was there anything else you needed while you're here?"
+msgstr "[AD] Well?... Was there anything else you needed while you're here?"
 
 # game/UpdateScript0.07.rpy:17144## # translate crowdin diaz_help_96314478:
 msgid "[R] Can your narc get us anymore votes this week?"
 msgstr "[R] Can your narc get us anymore votes this week?"
 
 # game/UpdateScript0.07.rpy:17145## # translate crowdin diaz_help_d609568f:
-msgid "AD "Sorry, she's already bumping Lauren's numbers as far as she dares this week... Any more and someone could get suspicious."
-    AD "Sorry, she's already bumping Lauren's numbers as far as she dares this week... Any more and someone could get suspicious."
+msgid "[AD] Sorry, she's already bumping Lauren's numbers as far as she dares this week... Any more and someone could get suspicious."
+msgstr "[AD] Sorry, she's already bumping Lauren's numbers as far as she dares this week... Any more and someone could get suspicious."
 
 # game/UpdateScript0.07.rpy:17146## # translate crowdin diaz_help_fbff716a:
-msgid "AD "Come back next week, and you can pay us for more votes."
-    AD "Come back next week, and you can pay us for more votes."
+msgid "[AD] Come back next week, and you can pay us for more votes."
+msgstr "[AD] Come back next week, and you can pay us for more votes."
 
 # game/UpdateScript0.07.rpy:17147## # translate crowdin diaz_help_f6d7e900:
 msgid "[R] Well, then I guess that's it for today."
@@ -29791,48 +29791,48 @@ msgid "[R] I guess I'll be on my way."
 msgstr "[R] I guess I'll be on my way."
 
 # game/UpdateScript0.07.rpy:17149## # translate crowdin diaz_help_84340a4a:
-msgid "AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
-    AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgid "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgstr "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
 
 # game/UpdateScript0.07.rpy:17150## # translate crowdin diaz_help_dc894400:
 msgid "[R] Are you ever going to let us off the hook for that?"
 msgstr "[R] Are you ever going to let us off the hook for that?"
 
 # game/UpdateScript0.07.rpy:17151## # translate crowdin diaz_help_42d8f35b:
-msgid "AD "No way... That situation is just too damn good for me."
-    AD "No way... That situation is just too damn good for me."
+msgid "[AD] No way... That situation is just too damn good for me."
+msgstr "[AD] No way... That situation is just too damn good for me."
 
 # game/UpdateScript0.07.rpy:17152## # translate crowdin diaz_help_4af858a8:
 msgid "[R] Just when I thought we were starting to bond."
 msgstr "[R] Just when I thought we were starting to bond."
 
 # game/UpdateScript0.07.rpy:17155## # translate crowdin diaz_help_216511ae:
-msgid "AD "Well, don't let a handjob make you think there's more going on between us than there is."
-    AD "Well, don't let a handjob make you think there's more going on between us than there is."
+msgid "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
+msgstr "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
 
 # game/UpdateScript0.07.rpy:17156## # translate crowdin diaz_help_e3140a63:
 msgid "[R] EEcchh... I wouldn't want anything like that from you."
 msgstr "[R] EEcchh... I wouldn't want anything like that from you."
 
 # game/UpdateScript0.07.rpy:17157## # translate crowdin diaz_help_d6542b8d:
-msgid "AD "Uh huh... Sure."
-    AD "Uh huh... Sure."
+msgid "[AD] Uh huh... Sure."
+msgstr "[AD] Uh huh... Sure."
 
 # game/UpdateScript0.07.rpy:17158## # translate crowdin diaz_help_0a659602:
 msgid "[R] I wouldn't!..."
 msgstr "[R] I wouldn't!..."
 
 # game/UpdateScript0.07.rpy:17161## # translate crowdin diaz_help_13b5a6dc:
-msgid "AD "Sure, Romeo."
-    AD "Sure, Romeo."
+msgid "[AD] Sure, Romeo."
+msgstr "[AD] Sure, Romeo."
 
 # game/UpdateScript0.07.rpy:17162## # translate crowdin diaz_help_f79bacf2:
 msgid "[R] I'm leaving."
 msgstr "[R] I'm leaving."
 
 # game/UpdateScript0.07.rpy:17163## # translate crowdin diaz_help_023c5527:
-msgid "AD "Haha... close the door behind you."
-    AD "Haha... close the door behind you."
+msgid "[AD] Haha... close the door behind you."
+msgstr "[AD] Haha... close the door behind you."
 
 # game/UpdateScript0.07.rpy:17168## # translate crowdin diaz_help_0d4ba03f:
 msgid "[R] Yeah, actually, I'd like to buy some of those extra votes you offered before."
@@ -29843,8 +29843,8 @@ msgid "[R] That is... As long as you can guarantee that Lauren's vote count will
 msgstr "[R] That is... As long as you can guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:17170## # translate crowdin diaz_help_7c6dfc79_4:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:17171## # translate crowdin diaz_help_5196730c_4:
 msgid "[R] Alright... it's a deal."
@@ -29855,8 +29855,8 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17174## # translate crowdin diaz_help_2c816dd3_4:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:17175## # translate crowdin diaz_help_83b65130_4:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
@@ -29871,100 +29871,100 @@ msgid "[R] I guess I'll be on my way."
 msgstr "[R] I guess I'll be on my way."
 
 # game/UpdateScript0.07.rpy:17180## # translate crowdin diaz_help_84340a4a_1:
-msgid "AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
-    AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgid "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgstr "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
 
 # game/UpdateScript0.07.rpy:17181## # translate crowdin diaz_help_dc894400_1:
 msgid "[R] Are you ever going to let us off the hook for that?"
 msgstr "[R] Are you ever going to let us off the hook for that?"
 
 # game/UpdateScript0.07.rpy:17182## # translate crowdin diaz_help_42d8f35b_1:
-msgid "AD "No way... That situation is just too damn good for me."
-    AD "No way... That situation is just too damn good for me."
+msgid "[AD] No way... That situation is just too damn good for me."
+msgstr "[AD] No way... That situation is just too damn good for me."
 
 # game/UpdateScript0.07.rpy:17183## # translate crowdin diaz_help_4af858a8_1:
 msgid "[R] Just when I thought we were starting to bond."
 msgstr "[R] Just when I thought we were starting to bond."
 
 # game/UpdateScript0.07.rpy:17186## # translate crowdin diaz_help_216511ae_1:
-msgid "AD "Well, don't let a handjob make you think there's more going on between us than there is."
-    AD "Well, don't let a handjob make you think there's more going on between us than there is."
+msgid "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
+msgstr "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
 
 # game/UpdateScript0.07.rpy:17187## # translate crowdin diaz_help_e3140a63_1:
 msgid "[R] EEcchh... I wouldn't want anything like that from you."
 msgstr "[R] EEcchh... I wouldn't want anything like that from you."
 
 # game/UpdateScript0.07.rpy:17188## # translate crowdin diaz_help_d6542b8d_1:
-msgid "AD "Uh huh... Sure."
-    AD "Uh huh... Sure."
+msgid "[AD] Uh huh... Sure."
+msgstr "[AD] Uh huh... Sure."
 
 # game/UpdateScript0.07.rpy:17189## # translate crowdin diaz_help_0a659602_1:
 msgid "[R] I wouldn't!..."
 msgstr "[R] I wouldn't!..."
 
 # game/UpdateScript0.07.rpy:17192## # translate crowdin diaz_help_13b5a6dc_1:
-msgid "AD "Sure, Romeo."
-    AD "Sure, Romeo."
+msgid "[AD] Sure, Romeo."
+msgstr "[AD] Sure, Romeo."
 
 # game/UpdateScript0.07.rpy:17193## # translate crowdin diaz_help_f79bacf2_1:
 msgid "[R] I'm leaving."
 msgstr "[R] I'm leaving."
 
 # game/UpdateScript0.07.rpy:17194## # translate crowdin diaz_help_023c5527_1:
-msgid "AD "Haha... close the door behind you."
-    AD "Haha... close the door behind you."
+msgid "[AD] Haha... close the door behind you."
+msgstr "[AD] Haha... close the door behind you."
 
 # game/UpdateScript0.07.rpy:17199## # translate crowdin diaz_help_0e1354d7:
-msgid "AD "Well, then I guess that's it for today."
-    AD "Well, then I guess that's it for today."
+msgid "[AD] Well, then I guess that's it for today."
+msgstr "[AD] Well, then I guess that's it for today."
 
 # game/UpdateScript0.07.rpy:17200## # translate crowdin diaz_help_d740b6ec_2:
 msgid "[R] I guess I'll be on my way."
 msgstr "[R] I guess I'll be on my way."
 
 # game/UpdateScript0.07.rpy:17201## # translate crowdin diaz_help_84340a4a_2:
-msgid "AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
-    AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgid "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+msgstr "[AD] Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
 
 # game/UpdateScript0.07.rpy:17202## # translate crowdin diaz_help_dc894400_2:
 msgid "[R] Are you ever going to let us off the hook for that?"
 msgstr "[R] Are you ever going to let us off the hook for that?"
 
 # game/UpdateScript0.07.rpy:17203## # translate crowdin diaz_help_42d8f35b_2:
-msgid "AD "No way... That situation is just too damn good for me."
-    AD "No way... That situation is just too damn good for me."
+msgid "[AD] No way... That situation is just too damn good for me."
+msgstr "[AD] No way... That situation is just too damn good for me."
 
 # game/UpdateScript0.07.rpy:17204## # translate crowdin diaz_help_4af858a8_2:
 msgid "[R] Just when I thought we were starting to bond."
 msgstr "[R] Just when I thought we were starting to bond."
 
 # game/UpdateScript0.07.rpy:17207## # translate crowdin diaz_help_216511ae_2:
-msgid "AD "Well, don't let a handjob make you think there's more going on between us than there is."
-    AD "Well, don't let a handjob make you think there's more going on between us than there is."
+msgid "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
+msgstr "[AD] Well, don't let a handjob make you think there's more going on between us than there is."
 
 # game/UpdateScript0.07.rpy:17208## # translate crowdin diaz_help_e3140a63_2:
 msgid "[R] EEcchh... I wouldn't want anything like that from you."
 msgstr "[R] EEcchh... I wouldn't want anything like that from you."
 
 # game/UpdateScript0.07.rpy:17209## # translate crowdin diaz_help_d6542b8d_2:
-msgid "AD "Uh huh... Sure."
-    AD "Uh huh... Sure."
+msgid "[AD] Uh huh... Sure."
+msgstr "[AD] Uh huh... Sure."
 
 # game/UpdateScript0.07.rpy:17210## # translate crowdin diaz_help_0a659602_2:
 msgid "[R] I wouldn't!..."
 msgstr "[R] I wouldn't!..."
 
 # game/UpdateScript0.07.rpy:17213## # translate crowdin diaz_help_13b5a6dc_2:
-msgid "AD "Sure, Romeo."
-    AD "Sure, Romeo."
+msgid "[AD] Sure, Romeo."
+msgstr "[AD] Sure, Romeo."
 
 # game/UpdateScript0.07.rpy:17214## # translate crowdin diaz_help_f79bacf2_2:
 msgid "[R] I'm leaving."
 msgstr "[R] I'm leaving."
 
 # game/UpdateScript0.07.rpy:17215## # translate crowdin diaz_help_023c5527_2:
-msgid "AD "Haha... close the door behind you."
-    AD "Haha... close the door behind you."
+msgid "[AD] Haha... close the door behind you."
+msgstr "[AD] Haha... close the door behind you."
 
 # game/UpdateScript0.07.rpy:17223## # translate crowdin diaz_help_3171708a:
 msgid "[RT] {i}I could use some more help with Lauren's campaign.{/i}"
@@ -29979,36 +29979,36 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17230## # translate crowdin diaz_help_246551b7:
-msgid "AD "Well, if it isn't the twerp... Did you get that spy cam installed?"
-    AD "Well, if it isn't the twerp... Did you get that spy cam installed?"
+msgid "[AD] Well, if it isn't the twerp... Did you get that spy cam installed?"
+msgstr "[AD] Well, if it isn't the twerp... Did you get that spy cam installed?"
 
 # game/UpdateScript0.07.rpy:17233## # translate crowdin diaz_help_260f3e8f:
 msgid "[R] No, not yet."
 msgstr "[R] No, not yet."
 
 # game/UpdateScript0.07.rpy:17234## # translate crowdin diaz_help_d07726ba:
-msgid "AD "Then what are you doing here?"
-    AD "Then what are you doing here?"
+msgid "[AD] Then what are you doing here?"
+msgstr "[AD] Then what are you doing here?"
 
 # game/UpdateScript0.07.rpy:17235## # translate crowdin diaz_help_0dd71796:
 msgid "[R] I'm just looking to see if I can get some more help with Lauren's campaign."
 msgstr "[R] I'm just looking to see if I can get some more help with Lauren's campaign."
 
 # game/UpdateScript0.07.rpy:17237## # translate crowdin diaz_help_0113fb07:
-msgid "AD "Sure... I can get word to our informant in the school to stuff some more ballots and boost your numbers."
-    AD "Sure... I can get word to our informant in the school to stuff some more ballots and boost your numbers."
+msgid "[AD] Sure... I can get word to our informant in the school to stuff some more ballots and boost your numbers."
+msgstr "[AD] Sure... I can get word to our informant in the school to stuff some more ballots and boost your numbers."
 
 # game/UpdateScript0.07.rpy:17238## # translate crowdin diaz_help_639e1331:
-msgid "AD "For the right price, of course."
-    AD "For the right price, of course."
+msgid "[AD] For the right price, of course."
+msgstr "[AD] For the right price, of course."
 
 # game/UpdateScript0.07.rpy:17241## # translate crowdin diaz_help_bc49455e_2:
 msgid "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 msgstr "[R] Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:17242## # translate crowdin diaz_help_7c6dfc79_5:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:17243## # translate crowdin diaz_help_5196730c_5:
 msgid "[R] Alright... it's a deal."
@@ -30019,8 +30019,8 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17246## # translate crowdin diaz_help_2c816dd3_5:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:17247## # translate crowdin diaz_help_83b65130_5:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
@@ -30031,40 +30031,40 @@ msgid "[R] Yeah, right... I'm not giving you any more money."
 msgstr "[R] Yeah, right... I'm not giving you any more money."
 
 # game/UpdateScript0.07.rpy:17252## # translate crowdin diaz_help_85bbc5fc_2:
-msgid "AD "Ok, but if you change your mind, you know where to find me."
-    AD "Ok, but if you change your mind, you know where to find me."
+msgid "[AD] Ok, but if you change your mind, you know where to find me."
+msgstr "[AD] Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17253## # translate crowdin diaz_help_42e46acb_2:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17254## # translate crowdin diaz_help_850150d1:
-msgid "AD "Is there anything else I can do for you?"
-    AD "Is there anything else I can do for you?"
+msgid "[AD] Is there anything else I can do for you?"
+msgstr "[AD] Is there anything else I can do for you?"
 
 # game/UpdateScript0.07.rpy:17257## # translate crowdin diaz_help_1dc94db4:
 msgid "[R] Have you found any dirt on Matt?"
 msgstr "[R] Have you found any dirt on Matt?"
 
 # game/UpdateScript0.07.rpy:17258## # translate crowdin diaz_help_ac2cb9bb:
-msgid "AD "I'm not even going to try until you get that spy camera installed."
-    AD "I'm not even going to try until you get that spy camera installed."
+msgid "[AD] I'm not even going to try until you get that spy camera installed."
+msgstr "[AD] I'm not even going to try until you get that spy camera installed."
 
 # game/UpdateScript0.07.rpy:17259## # translate crowdin diaz_help_0fa3489c:
 msgid "[R] I'm just not sure how I'm going to make it into the showers without being seen."
 msgstr "[R] I'm just not sure how I'm going to make it into the showers without being seen."
 
 # game/UpdateScript0.07.rpy:17260## # translate crowdin diaz_help_8ae036b1:
-msgid "AD "Go in the early morning, before the locker room gets too busy."
-    AD "Go in the early morning, before the locker room gets too busy."
+msgid "[AD] Go in the early morning, before the locker room gets too busy."
+msgstr "[AD] Go in the early morning, before the locker room gets too busy."
 
 # game/UpdateScript0.07.rpy:17261## # translate crowdin diaz_help_21741a97:
-msgid "AD "And now, I've got to get back to work."
-    AD "And now, I've got to get back to work."
+msgid "[AD] And now, I've got to get back to work."
+msgstr "[AD] And now, I've got to get back to work."
 
 # game/UpdateScript0.07.rpy:17262## # translate crowdin diaz_help_eae8475a:
-msgid "AD "Get that spy cam installed, and then we can talk some more."
-    AD "Get that spy cam installed, and then we can talk some more."
+msgid "[AD] Get that spy cam installed, and then we can talk some more."
+msgstr "[AD] Get that spy cam installed, and then we can talk some more."
 
 # game/UpdateScript0.07.rpy:17265## # translate crowdin diaz_help_e8995bb8:
 msgid "[RT] {i}I guess I'd better try to get that camera installed if I want any more help from Agent Diaz.{/i}"
@@ -30091,124 +30091,124 @@ msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17281## # translate crowdin diaz_help_8e024a00:
-msgid "AD "Well, if it isn't the twerp... To what do I owe the pleasure?"
-    AD "Well, if it isn't the twerp... To what do I owe the pleasure?"
+msgid "[AD] Well, if it isn't the twerp... To what do I owe the pleasure?"
+msgstr "[AD] Well, if it isn't the twerp... To what do I owe the pleasure?"
 
 # game/UpdateScript0.07.rpy:17284## # translate crowdin diaz_help_8c51eaa6:
 msgid "[R] Oh... I was just noticing how cold it got when I was passing this van... I figured there must be a witch inside."
 msgstr "[R] Oh... I was just noticing how cold it got when I was passing this van... I figured there must be a witch inside."
 
 # game/UpdateScript0.07.rpy:17285## # translate crowdin diaz_help_9b2c939d:
-msgid "AD "You found our cliché FBI van. What gave it away, was it our wireless network named \"FBI Surveillance Van\"?"
-    AD "You found our cliché FBI van. What gave it away, was it our wireless network named \"FBI Surveillance Van\"?"
+msgid "[AD] You found our cliché FBI van. What gave it away, was it our wireless network named \"FBI Surveillance Van\"?"
+msgstr "[AD] You found our cliché FBI van. What gave it away, was it our wireless network named \"FBI Surveillance Van\"?"
 
 # game/UpdateScript0.07.rpy:17286## # translate crowdin diaz_help_435a36a0:
 msgid "[R] Uhhh..."
 msgstr "[R] Uhhh..."
 
 # game/UpdateScript0.07.rpy:17287## # translate crowdin diaz_help_4956f1cc:
-msgid "AD "Haha... Never mind, come in."
-    AD "Haha... Never mind, come in."
+msgid "[AD] Haha... Never mind, come in."
+msgstr "[AD] Haha... Never mind, come in."
 
 # game/UpdateScript0.07.rpy:17294## # translate crowdin diaz_help_04c1e5a5:
-msgid "AD "Welcome to where the magic happens."
-    AD "Welcome to where the magic happens."
+msgid "[AD] Welcome to where the magic happens."
+msgstr "[AD] Welcome to where the magic happens."
 
 # game/UpdateScript0.07.rpy:17295## # translate crowdin diaz_help_d7ff811d:
 msgid "[R] Oh, my God!... You're literally watching everything we do."
 msgstr "[R] Oh, my God!... You're literally watching everything we do."
 
 # game/UpdateScript0.07.rpy:17302## # translate crowdin diaz_help_317502b3:
-msgid "AD "Like I told you before, I hacked into your cameras, and then I installed a few of my own."
-    AD "Like I told you before, I hacked into your cameras, and then I installed a few of my own."
+msgid "[AD] Like I told you before, I hacked into your cameras, and then I installed a few of my own."
+msgstr "[AD] Like I told you before, I hacked into your cameras, and then I installed a few of my own."
 
 # game/UpdateScript0.07.rpy:17303## # translate crowdin diaz_help_f580a8e2:
 msgid "[R] Oh, God!... Does the entire FBI see everything we do?"
 msgstr "[R] Oh, God!... Does the entire FBI see everything we do?"
 
 # game/UpdateScript0.07.rpy:17310## # translate crowdin diaz_help_a2c7219e:
-msgid "AD "Haha... Lucky for you, no. I just send them anything that would be valuable to our investigation."
-    AD "Haha... Lucky for you, no. I just send them anything that would be valuable to our investigation."
+msgid "[AD] Haha... Lucky for you, no. I just send them anything that would be valuable to our investigation."
+msgstr "[AD] Haha... Lucky for you, no. I just send them anything that would be valuable to our investigation."
 
 # game/UpdateScript0.07.rpy:17311## # translate crowdin diaz_help_205d2e89:
-msgid "AD "You'd be in a world of trouble if anyone besides myself was heading this investigation."
-    AD "You'd be in a world of trouble if anyone besides myself was heading this investigation."
+msgid "[AD] You'd be in a world of trouble if anyone besides myself was heading this investigation."
+msgstr "[AD] You'd be in a world of trouble if anyone besides myself was heading this investigation."
 
 # game/UpdateScript0.07.rpy:17312## # translate crowdin diaz_help_5f30f32e:
-msgid "AD "But as it is, I delete almost everything since most everything your family does has no value to the FBI, only value to my pussy."
-    AD "But as it is, I delete almost everything since most everything your family does has no value to the FBI, only value to my pussy."
+msgid "[AD] But as it is, I delete almost everything since most everything your family does has no value to the FBI, only value to my pussy."
+msgstr "[AD] But as it is, I delete almost everything since most everything your family does has no value to the FBI, only value to my pussy."
 
 # game/UpdateScript0.07.rpy:17313## # translate crowdin diaz_help_a2b3f44a:
-msgid "AD "I'm really doing your family a favor by keeping everything discreet."
-    AD "I'm really doing your family a favor by keeping everything discreet."
+msgid "[AD] I'm really doing your family a favor by keeping everything discreet."
+msgstr "[AD] I'm really doing your family a favor by keeping everything discreet."
 
 # game/UpdateScript0.07.rpy:17314## # translate crowdin diaz_help_60d2795e:
-msgid "AD "Instead of hating me, you should think of me as your friend."
-    AD "Instead of hating me, you should think of me as your friend."
+msgid "[AD] Instead of hating me, you should think of me as your friend."
+msgstr "[AD] Instead of hating me, you should think of me as your friend."
 
 # game/UpdateScript0.07.rpy:17315## # translate crowdin diaz_help_e9dafe62:
 msgid "[R] Well... It's hard to think of someone who is extorting you for money or favors as a friend."
 msgstr "[R] Well... It's hard to think of someone who is extorting you for money or favors as a friend."
 
 # game/UpdateScript0.07.rpy:17322## # translate crowdin diaz_help_d9ec2e20:
-msgid "AD "So, was there a reason you became bold enough to come knocking on my FBI van?"
-    AD "So, was there a reason you became bold enough to come knocking on my FBI van?"
+msgid "[AD] So, was there a reason you became bold enough to come knocking on my FBI van?"
+msgstr "[AD] So, was there a reason you became bold enough to come knocking on my FBI van?"
 
 # game/UpdateScript0.07.rpy:17323## # translate crowdin diaz_help_f5dadeb0:
 msgid "[R] Yeah actually... I don't know if you know this, but Lauren is running for..."
 msgstr "[R] Yeah actually... I don't know if you know this, but Lauren is running for..."
 
 # game/UpdateScript0.07.rpy:17324## # translate crowdin diaz_help_6fa5edab:
-msgid "AD "Student body president?... Yeah, I know."
-    AD "Student body president?... Yeah, I know."
+msgid "[AD] Student body president?... Yeah, I know."
+msgstr "[AD] Student body president?... Yeah, I know."
 
 # game/UpdateScript0.07.rpy:17325## # translate crowdin diaz_help_8642a6c7:
-msgid "AD "I can see all her texts and social media... so I know."
-    AD "I can see all her texts and social media... so I know."
+msgid "[AD] I can see all her texts and social media... so I know."
+msgstr "[AD] I can see all her texts and social media... so I know."
 
 # game/UpdateScript0.07.rpy:17326## # translate crowdin diaz_help_cc4fc2ee:
 msgid "[R] Ok... well, do you already know what I need from you then?"
 msgstr "[R] Ok... well, do you already know what I need from you then?"
 
 # game/UpdateScript0.07.rpy:17327## # translate crowdin diaz_help_a57eeb96:
-msgid "AD "Please don't ask me to be Lauren's campaign manager... though... Lauren and I could become quite close if I were managing her campaign..."
-    AD "Please don't ask me to be Lauren's campaign manager... though... Lauren and I could become quite close if I were managing her campaign..."
+msgid "[AD] Please don't ask me to be Lauren's campaign manager... though... Lauren and I could become quite close if I were managing her campaign..."
+msgstr "[AD] Please don't ask me to be Lauren's campaign manager... though... Lauren and I could become quite close if I were managing her campaign..."
 
 # game/UpdateScript0.07.rpy:17328## # translate crowdin diaz_help_6295c546:
-msgid "AD "Alright... you talked me into it... I'll manage Lauren's campaign."
-    AD "Alright... you talked me into it... I'll manage Lauren's campaign."
+msgid "[AD] Alright... you talked me into it... I'll manage Lauren's campaign."
+msgstr "[AD] Alright... you talked me into it... I'll manage Lauren's campaign."
 
 # game/UpdateScript0.07.rpy:17329## # translate crowdin diaz_help_fecc0d1b:
 msgid "[R] No... that's not what I wanted at all!"
 msgstr "[R] No... that's not what I wanted at all!"
 
 # game/UpdateScript0.07.rpy:17336## # translate crowdin diaz_help_a7d8b31c:
-msgid "AD "Haha... No shit, Sherlock!"
-    AD "Haha... No shit, Sherlock!"
+msgid "[AD] Haha... No shit, Sherlock!"
+msgstr "[AD] Haha... No shit, Sherlock!"
 
 # game/UpdateScript0.07.rpy:17337## # translate crowdin diaz_help_74cfb761:
-msgid "AD "I'm just messing with ya."
-    AD "I'm just messing with ya."
+msgid "[AD] I'm just messing with ya."
+msgstr "[AD] I'm just messing with ya."
 
 # game/UpdateScript0.07.rpy:17338## # translate crowdin diaz_help_c894c6a4:
-msgid "AD "Please... Ask your favor."
-    AD "Please... Ask your favor."
+msgid "[AD] Please... Ask your favor."
+msgstr "[AD] Please... Ask your favor."
 
 # game/UpdateScript0.07.rpy:17339## # translate crowdin diaz_help_2c5d6f3c:
 msgid "[R] Ok... So the kid Lauren is running against..."
 msgstr "[R] Ok... So the kid Lauren is running against..."
 
 # game/UpdateScript0.07.rpy:17340## # translate crowdin diaz_help_64c177a7:
-msgid "AD "You mean that stud, Matt?"
-    AD "You mean that stud, Matt?"
+msgid "[AD] You mean that stud, Matt?"
+msgstr "[AD] You mean that stud, Matt?"
 
 # game/UpdateScript0.07.rpy:17341## # translate crowdin diaz_help_4d03c231:
 msgid "[R] Urrgghhh... He's not as hot shit as everyone thinks he is."
 msgstr "[R] Urrgghhh... He's not as hot shit as everyone thinks he is."
 
 # game/UpdateScript0.07.rpy:17342## # translate crowdin diaz_help_c9f49e29:
-msgid "AD "Jealous, much?"
-    AD "Jealous, much?"
+msgid "[AD] Jealous, much?"
+msgstr "[AD] Jealous, much?"
 
 # game/UpdateScript0.07.rpy:17343## # translate crowdin diaz_help_d537a9c0:
 msgid "[R] No!... maybe..."
@@ -30219,84 +30219,84 @@ msgid "[R] Anyways, Lauren's chances of beating him are slim, so she wanted me, 
 msgstr "[R] Anyways, Lauren's chances of beating him are slim, so she wanted me, to ask you, if you could dig up any dirt on him."
 
 # game/UpdateScript0.07.rpy:17351## # translate crowdin diaz_help_40c5ba3f:
-msgid "AD "Wait..."
-    AD "Wait..."
+msgid "[AD] Wait..."
+msgstr "[AD] Wait..."
 
 # game/UpdateScript0.07.rpy:17352## # translate crowdin diaz_help_372d557f:
-msgid "AD "You want me, to use the resources of the FBI, to find dirt on a kid, so your sister can win a student body election?"
-    AD "You want me, to use the resources of the FBI, to find dirt on a kid, so your sister can win a student body election?"
+msgid "[AD] You want me, to use the resources of the FBI, to find dirt on a kid, so your sister can win a student body election?"
+msgstr "[AD] You want me, to use the resources of the FBI, to find dirt on a kid, so your sister can win a student body election?"
 
 # game/UpdateScript0.07.rpy:17353## # translate crowdin diaz_help_dabe3809:
 msgid "[R] Uhhh.... it sounds worse when you say it like that."
 msgstr "[R] Uhhh.... it sounds worse when you say it like that."
 
 # game/UpdateScript0.07.rpy:17354## # translate crowdin diaz_help_bdd3f8f2_2:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17355## # translate crowdin diaz_help_e8213fc4:
 msgid "[R] But... could you?"
 msgstr "[R] But... could you?"
 
 # game/UpdateScript0.07.rpy:17362## # translate crowdin diaz_help_a407533f:
-msgid "AD "Maybe..."
-    AD "Maybe..."
+msgid "[AD] Maybe..."
+msgstr "[AD] Maybe..."
 
 # game/UpdateScript0.07.rpy:17363## # translate crowdin diaz_help_ec543434:
-msgid "AD "It would depend on if you'd be willing to do something for me in return."
-    AD "It would depend on if you'd be willing to do something for me in return."
+msgid "[AD] It would depend on if you'd be willing to do something for me in return."
+msgstr "[AD] It would depend on if you'd be willing to do something for me in return."
 
 # game/UpdateScript0.07.rpy:17364## # translate crowdin diaz_help_30acda98:
 msgid "[R] I should have known."
 msgstr "[R] I should have known."
 
 # game/UpdateScript0.07.rpy:17365## # translate crowdin diaz_help_e0f8d765:
-msgid "AD "Of course you should have known... You don't just get something for nothing."
-    AD "Of course you should have known... You don't just get something for nothing."
+msgid "[AD] Of course you should have known... You don't just get something for nothing."
+msgstr "[AD] Of course you should have known... You don't just get something for nothing."
 
 # game/UpdateScript0.07.rpy:17366## # translate crowdin diaz_help_c32160b7:
 msgid "[R] Ok... And what could an FBI agent want from a high school kid?"
 msgstr "[R] Ok... And what could an FBI agent want from a high school kid?"
 
 # game/UpdateScript0.07.rpy:17367## # translate crowdin diaz_help_1a2585ea:
-msgid "AD "Give me a second... I wasn't expecting to be offered a favor from a high school student today..."
-    AD "Give me a second... I wasn't expecting to be offered a favor from a high school student today..."
+msgid "[AD] Give me a second... I wasn't expecting to be offered a favor from a high school student today..."
+msgstr "[AD] Give me a second... I wasn't expecting to be offered a favor from a high school student today..."
 
 # game/UpdateScript0.07.rpy:17368## # translate crowdin diaz_help_bdd3f8f2_3:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17375## # translate crowdin diaz_help_7de77cb7:
-msgid "AD "Ooohhh... That's it!"
-    AD "Ooohhh... That's it!"
+msgid "[AD] Ooohhh... That's it!"
+msgstr "[AD] Ooohhh... That's it!"
 
 # game/UpdateScript0.07.rpy:17376## # translate crowdin diaz_help_b4f9af30:
-msgid "AD "As a high school student, you've got access to your high school."
-    AD "As a high school student, you've got access to your high school."
+msgid "[AD] As a high school student, you've got access to your high school."
+msgstr "[AD] As a high school student, you've got access to your high school."
 
 # game/UpdateScript0.07.rpy:17377## # translate crowdin diaz_help_7192baf5:
 msgid "[R] Oh, no... You don't want me to become a narc, do you?"
 msgstr "[R] Oh, no... You don't want me to become a narc, do you?"
 
 # game/UpdateScript0.07.rpy:17378## # translate crowdin diaz_help_3ec49ed3:
-msgid "AD "No... We've already got an informant in your school."
-    AD "No... We've already got an informant in your school."
+msgid "[AD] No... We've already got an informant in your school."
+msgstr "[AD] No... We've already got an informant in your school."
 
 # game/UpdateScript0.07.rpy:17379## # translate crowdin diaz_help_5514a6d6:
 msgid "[R] Really?... Who?"
 msgstr "[R] Really?... Who?"
 
 # game/UpdateScript0.07.rpy:17386## # translate crowdin diaz_help_bdd3f8f2_4:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17387## # translate crowdin diaz_help_460646fd:
 msgid "[R] Is it a teacher, or a student?"
 msgstr "[R] Is it a teacher, or a student?"
 
 # game/UpdateScript0.07.rpy:17388## # translate crowdin diaz_help_bdd3f8f2_5:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17389## # translate crowdin diaz_help_b9599af7:
 msgid "[R] Right... Never mind."
@@ -30307,28 +30307,28 @@ msgid "[R] So, if you've got a narc, why do you need my help?"
 msgstr "[R] So, if you've got a narc, why do you need my help?"
 
 # game/UpdateScript0.07.rpy:17397## # translate crowdin diaz_help_f7a06c79:
-msgid "AD "Because our informant is too straight-laced."
-    AD "Because our informant is too straight-laced."
+msgid "[AD] Because our informant is too straight-laced."
+msgstr "[AD] Because our informant is too straight-laced."
 
 # game/UpdateScript0.07.rpy:17398## # translate crowdin diaz_help_e5a80aa2:
-msgid "AD "She'd report me for sure."
-    AD "She'd report me for sure."
+msgid "[AD] She'd report me for sure."
+msgstr "[AD] She'd report me for sure."
 
 # game/UpdateScript0.07.rpy:17399## # translate crowdin diaz_help_faa84e09:
 msgid "[R] Oh, no... This sound like it could be risky."
 msgstr "[R] Oh, no... This sound like it could be risky."
 
 # game/UpdateScript0.07.rpy:17400## # translate crowdin diaz_help_e7492d41:
-msgid "AD "Yeah... You wouldn't want to get caught."
-    AD "Yeah... You wouldn't want to get caught."
+msgid "[AD] Yeah... You wouldn't want to get caught."
+msgstr "[AD] Yeah... You wouldn't want to get caught."
 
 # game/UpdateScript0.07.rpy:17401## # translate crowdin diaz_help_15c62016:
 msgid "[R] So?... What do you need?"
 msgstr "[R] So?... What do you need?"
 
 # game/UpdateScript0.07.rpy:17402## # translate crowdin diaz_help_c9b055d3:
-msgid "AD "I want you to sneak into the girls' locker room and plant a spy camera in the shower for me."
-    AD "I want you to sneak into the girls' locker room and plant a spy camera in the shower for me."
+msgid "[AD] I want you to sneak into the girls' locker room and plant a spy camera in the shower for me."
+msgstr "[AD] I want you to sneak into the girls' locker room and plant a spy camera in the shower for me."
 
 # game/UpdateScript0.07.rpy:17403## # translate crowdin diaz_help_2610c029:
 msgid "[R] You want a camera in the high school girls' locker room?"
@@ -30339,80 +30339,80 @@ msgid "[R] There must be drug deals going down in there, or something?"
 msgstr "[R] There must be drug deals going down in there, or something?"
 
 # game/UpdateScript0.07.rpy:17405## # translate crowdin diaz_help_bdd3f8f2_6:
-msgid "AD "...."
-    AD "...."
+msgid "[AD] ...."
+msgstr "[AD] ...."
 
 # game/UpdateScript0.07.rpy:17406## # translate crowdin diaz_help_c3c33a6a:
-msgid "AD "Yes... drugs."
-    AD "Yes... drugs."
+msgid "[AD] Yes... drugs."
+msgstr "[AD] Yes... drugs."
 
 # game/UpdateScript0.07.rpy:17407## # translate crowdin diaz_help_6d14521f:
 msgid "[R] Oh... You just want to see girls changing... Don't you?"
 msgstr "[R] Oh... You just want to see girls changing... Don't you?"
 
 # game/UpdateScript0.07.rpy:17414## # translate crowdin diaz_help_fd15a4eb:
-msgid "AD "It can be two things."
-    AD "It can be two things."
+msgid "[AD] It can be two things."
+msgstr "[AD] It can be two things."
 
 # game/UpdateScript0.07.rpy:17415## # translate crowdin diaz_help_04ad5e03:
-msgid "AD "I mean... Who knows what kind of shady things are going on in there."
-    AD "I mean... Who knows what kind of shady things are going on in there."
+msgid "[AD] I mean... Who knows what kind of shady things are going on in there."
+msgstr "[AD] I mean... Who knows what kind of shady things are going on in there."
 
 # game/UpdateScript0.07.rpy:17416## # translate crowdin diaz_help_1c980223:
-msgid "AD "Once we have a camera in there, we'll know for sure."
-    AD "Once we have a camera in there, we'll know for sure."
+msgid "[AD] Once we have a camera in there, we'll know for sure."
+msgstr "[AD] Once we have a camera in there, we'll know for sure."
 
 # game/UpdateScript0.07.rpy:17417## # translate crowdin diaz_help_2114cf29:
 msgid "[R] Well, how in the hell am I supposed to plant a camera in the girls' dressing room?"
 msgstr "[R] Well, how in the hell am I supposed to plant a camera in the girls' dressing room?"
 
 # game/UpdateScript0.07.rpy:17424## # translate crowdin diaz_help_d3b7269a:
-msgid "AD "I don't know, have Lauren help you... She'll draw much less attention."
-    AD "I don't know, have Lauren help you... She'll draw much less attention."
+msgid "[AD] I don't know, have Lauren help you... She'll draw much less attention."
+msgstr "[AD] I don't know, have Lauren help you... She'll draw much less attention."
 
 # game/UpdateScript0.07.rpy:17425## # translate crowdin diaz_help_783d5f12:
 msgid "[R] Yeah, right... Lauren showers in there... She'll never be ok with this."
 msgstr "[R] Yeah, right... Lauren showers in there... She'll never be ok with this."
 
 # game/UpdateScript0.07.rpy:17426## # translate crowdin diaz_help_8efa8c25:
-msgid "AD "Well then, you could try in the early morning, before school starts. There are students there for extracurricular activities, but there might not be any students in the showers."
-    AD "Well then, you could try in the early morning, before school starts. There are students there for extracurricular activities, but there might not be any students in the showers."
+msgid "[AD] Well then, you could try in the early morning, before school starts. There are students there for extracurricular activities, but there might not be any students in the showers."
+msgstr "[AD] Well then, you could try in the early morning, before school starts. There are students there for extracurricular activities, but there might not be any students in the showers."
 
 # game/UpdateScript0.07.rpy:17427## # translate crowdin diaz_help_408e3256:
 msgid "[R] Yeah... I guess I could try that."
 msgstr "[R] Yeah... I guess I could try that."
 
 # game/UpdateScript0.07.rpy:17428## # translate crowdin diaz_help_aca569bf:
-msgid "AD "Perfect... Once that camera is live and streaming, I'll see if I can dig up some dirt on your best friend Matt."
-    AD "Perfect... Once that camera is live and streaming, I'll see if I can dig up some dirt on your best friend Matt."
+msgid "[AD] Perfect... Once that camera is live and streaming, I'll see if I can dig up some dirt on your best friend Matt."
+msgstr "[AD] Perfect... Once that camera is live and streaming, I'll see if I can dig up some dirt on your best friend Matt."
 
 # game/UpdateScript0.07.rpy:17429## # translate crowdin diaz_help_3928b036:
-msgid "AD "Here's the spy cam."
-    AD "Here's the spy cam."
+msgid "[AD] Here's the spy cam."
+msgstr "[AD] Here's the spy cam."
 
 # game/UpdateScript0.07.rpy:17430## # translate crowdin diaz_help_6cb97888:
 msgid "{b}{i}\"You received one spy-cam\"{/i}{/b}"
 msgstr "{b}{i}\"You received one spy-cam\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17432## # translate crowdin diaz_help_9c7888a7:
-msgid "AD "Now... If there's nothing else, I'd like to get back to observing my favorite family... All the best stuff seems to happen in the evening."
-    AD "Now... If there's nothing else, I'd like to get back to observing my favorite family... All the best stuff seems to happen in the evening."
+msgid "[AD] Now... If there's nothing else, I'd like to get back to observing my favorite family... All the best stuff seems to happen in the evening."
+msgstr "[AD] Now... If there's nothing else, I'd like to get back to observing my favorite family... All the best stuff seems to happen in the evening."
 
 # game/UpdateScript0.07.rpy:17433## # translate crowdin diaz_help_0709aa4f:
 msgid "[R] Can I watch with you for a few minutes?"
 msgstr "[R] Can I watch with you for a few minutes?"
 
 # game/UpdateScript0.07.rpy:17434## # translate crowdin diaz_help_d7dd738d:
-msgid "AD "I guess... pull up a chair and make yourself comfortable."
-    AD "I guess... pull up a chair and make yourself comfortable."
+msgid "[AD] I guess... pull up a chair and make yourself comfortable."
+msgstr "[AD] I guess... pull up a chair and make yourself comfortable."
 
 # game/UpdateScript0.07.rpy:17437## # translate crowdin diaz_help_3def8852:
 msgid "{i}\"A few minutes later\"{/i}"
 msgstr "{i}\"A few minutes later\"{/i}"
 
 # game/UpdateScript0.07.rpy:17445## # translate crowdin diaz_help_7ef2ec24:
-msgid "AD "Oh, look, Sidney's starting to finger herself."
-    AD "Oh, look, Sidney's starting to finger herself."
+msgid "[AD] Oh, look, Sidney's starting to finger herself."
+msgstr "[AD] Oh, look, Sidney's starting to finger herself."
 
 # game/UpdateScript0.07.rpy:17446## # translate crowdin diaz_help_bf61d393:
 msgid "[R] Oh, nice!"
@@ -30423,44 +30423,44 @@ msgid "[RT] {i}This is weird watching Sidney with Diaz right next to me.{/i}"
 msgstr "[RT] {i}This is weird watching Sidney with Diaz right next to me.{/i}"
 
 # game/UpdateScript0.07.rpy:17448## # translate crowdin diaz_help_89ea853e:
-msgid "AD "Oh, here, you can watch it on your own monitor too."
-    AD "Oh, here, you can watch it on your own monitor too."
+msgid "[AD] Oh, here, you can watch it on your own monitor too."
+msgstr "[AD] Oh, here, you can watch it on your own monitor too."
 
 # game/UpdateScript0.07.rpy:17451## # translate crowdin diaz_help_9efe7eef:
-msgid "AD "Sidney's no Lauren, but she's still pretty damn hot!"
-    AD "Sidney's no Lauren, but she's still pretty damn hot!"
+msgid "[AD] Sidney's no Lauren, but she's still pretty damn hot!"
+msgstr "[AD] Sidney's no Lauren, but she's still pretty damn hot!"
 
 # game/UpdateScript0.07.rpy:17452## # translate crowdin diaz_help_43b450a4:
 msgid "[R] What is it about Lauren that you like so much?"
 msgstr "[R] What is it about Lauren that you like so much?"
 
 # game/UpdateScript0.07.rpy:17453## # translate crowdin diaz_help_f253b046:
-msgid "AD "I'm into redheads."
-    AD "I'm into redheads."
+msgid "[AD] I'm into redheads."
+msgstr "[AD] I'm into redheads."
 
 # game/UpdateScript0.07.rpy:17454## # translate crowdin diaz_help_737a004d:
 msgid "[R] What about my mom?"
 msgstr "[R] What about my mom?"
 
 # game/UpdateScript0.07.rpy:17455## # translate crowdin diaz_help_0444a1d7:
-msgid "AD "Oh, fuck yeah... She's so damn hot!"
-    AD "Oh, fuck yeah... She's so damn hot!"
+msgid "[AD] Oh, fuck yeah... She's so damn hot!"
+msgstr "[AD] Oh, fuck yeah... She's so damn hot!"
 
 # game/UpdateScript0.07.rpy:17456## # translate crowdin diaz_help_f2d3ccab:
-msgid "AD "I'm not allowed to do anything with her though..."
-    AD "I'm not allowed to do anything with her though..."
+msgid "[AD] I'm not allowed to do anything with her though..."
+msgstr "[AD] I'm not allowed to do anything with her though..."
 
 # game/UpdateScript0.07.rpy:17457## # translate crowdin diaz_help_92709176:
-msgid "AD "Joey DeCapo's specifically forbid any of his people to touch [mom_name]."
-    AD "Joey DeCapo's specifically forbid any of his people to touch [mom_name]."
+msgid "[AD] Joey DeCapo's specifically forbid any of his people to touch [mom_name]."
+msgstr "[AD] Joey DeCapo's specifically forbid any of his people to touch [mom_name]."
 
 # game/UpdateScript0.07.rpy:17458## # translate crowdin diaz_help_a8e09408:
-msgid "AD "He wants her for himself."
-    AD "He wants her for himself."
+msgid "[AD] He wants her for himself."
+msgstr "[AD] He wants her for himself."
 
 # game/UpdateScript0.07.rpy:17459## # translate crowdin diaz_help_61a4270b:
-msgid "AD "Mmmmm..."
-    AD "Mmmmm..."
+msgid "[AD] Mmmmm..."
+msgstr "[AD] Mmmmm..."
 
 # game/UpdateScript0.07.rpy:17460## # translate crowdin diaz_help_3c7e8c59:
 msgid "[RT] {i}Oh, wow... Diaz is rubbing her pussy over her tight pants.{/i}"
@@ -30471,24 +30471,24 @@ msgid "[R] Do I need to worry about Joey raping my mom or anything?"
 msgstr "[R] Do I need to worry about Joey raping my mom or anything?"
 
 # game/UpdateScript0.07.rpy:17462## # translate crowdin diaz_help_090c03ae:
-msgid "AD "Oh, no..."
-    AD "Oh, no..."
+msgid "[AD] Oh, no..."
+msgstr "[AD] Oh, no..."
 
 # game/UpdateScript0.07.rpy:17463## # translate crowdin diaz_help_fccec4dd:
-msgid "AD "Oohhh..."
-    AD "Oohhh..."
+msgid "[AD] Oohhh..."
+msgstr "[AD] Oohhh..."
 
 # game/UpdateScript0.07.rpy:17464## # translate crowdin diaz_help_f728b6ed:
-msgid "AD "Joey doesn't force himself on women..."
-    AD "Joey doesn't force himself on women..."
+msgid "[AD] Joey doesn't force himself on women..."
+msgstr "[AD] Joey doesn't force himself on women..."
 
 # game/UpdateScript0.07.rpy:17465## # translate crowdin diaz_help_25725965:
-msgid "AD "He loves to play a game with other men's wives."
-    AD "He loves to play a game with other men's wives."
+msgid "[AD] He loves to play a game with other men's wives."
+msgstr "[AD] He loves to play a game with other men's wives."
 
 # game/UpdateScript0.07.rpy:17466## # translate crowdin diaz_help_63547201:
-msgid "AD "He loves to win them, then corrupt them, make them his, He makes them practically beg for sex, and then releases them on the men who attend his club."
-    AD "He loves to win them, then corrupt them, make them his, He makes them practically beg for sex, and then releases them on the men who attend his club."
+msgid "[AD] He loves to win them, then corrupt them, make them his, He makes them practically beg for sex, and then releases them on the men who attend his club."
+msgstr "[AD] He loves to win them, then corrupt them, make them his, He makes them practically beg for sex, and then releases them on the men who attend his club."
 
 # game/UpdateScript0.07.rpy:17467## # translate crowdin diaz_help_11a38b2c:
 msgid "[R] Wow..."
@@ -30503,32 +30503,32 @@ msgid "[R] Only... How do I prevent him from doing that with my mom?"
 msgstr "[R] Only... How do I prevent him from doing that with my mom?"
 
 # game/UpdateScript0.07.rpy:17470## # translate crowdin diaz_help_c4f3584e:
-msgid "AD "Aaahh..."
-    AD "Aaahh..."
+msgid "[AD] Aaahh..."
+msgstr "[AD] Aaahh..."
 
 # game/UpdateScript0.07.rpy:17471## # translate crowdin diaz_help_7cf64edf:
 msgid "[RT] {i}Fuck!... Now I have a boner!{/i}"
 msgstr "[RT] {i}Fuck!... Now I have a boner!{/i}"
 
 # game/UpdateScript0.07.rpy:17472## # translate crowdin diaz_help_2ebaf16e:
-msgid "AD "I don't know... Good luck with that though."
-    AD "I don't know... Good luck with that though."
+msgid "[AD] I don't know... Good luck with that though."
+msgstr "[AD] I don't know... Good luck with that though."
 
 # game/UpdateScript0.07.rpy:17473## # translate crowdin diaz_help_7d87378e:
 msgid "[R] Would you stop rubbing your pussy while I'm trying to talk to you?... It's very... distracting."
 msgstr "[R] Would you stop rubbing your pussy while I'm trying to talk to you?... It's very... distracting."
 
 # game/UpdateScript0.07.rpy:17476## # translate crowdin diaz_help_9f75974a:
-msgid "AD "Oh... I'm sorry. I'm being a bad host."
-    AD "Oh... I'm sorry. I'm being a bad host."
+msgid "[AD] Oh... I'm sorry. I'm being a bad host."
+msgstr "[AD] Oh... I'm sorry. I'm being a bad host."
 
 # game/UpdateScript0.07.rpy:17477## # translate crowdin diaz_help_9e623fda:
-msgid "AD "I see your dick is hard as a rock. Please, feel free to take him out and do the same for yourself."
-    AD "I see your dick is hard as a rock. Please, feel free to take him out and do the same for yourself."
+msgid "[AD] I see your dick is hard as a rock. Please, feel free to take him out and do the same for yourself."
+msgstr "[AD] I see your dick is hard as a rock. Please, feel free to take him out and do the same for yourself."
 
 # game/UpdateScript0.07.rpy:17478## # translate crowdin diaz_help_3a881432:
-msgid "AD "I know I can't resist when I'm watching Sidney paddle the pink canoe."
-    AD "I know I can't resist when I'm watching Sidney paddle the pink canoe."
+msgid "[AD] I know I can't resist when I'm watching Sidney paddle the pink canoe."
+msgstr "[AD] I know I can't resist when I'm watching Sidney paddle the pink canoe."
 
 # game/UpdateScript0.07.rpy:17479## # translate crowdin diaz_help_625a0a03:
 msgid "[RT] {i}I know she's being a smart ass, so let's see how she reacts if I really pull my dick out.{/i}"
@@ -30539,56 +30539,56 @@ msgid "[R] ...."
 msgstr "[R] ...."
 
 # game/UpdateScript0.07.rpy:17481## # translate crowdin diaz_help_7ef6c0cc:
-msgid "AD "Oh my God, [ryan]!"
-    AD "Oh my God, [ryan]!"
+msgid "[AD] Oh my God, [ryan]!"
+msgstr "[AD] Oh my God, [ryan]!"
 
 # game/UpdateScript0.07.rpy:17482## # translate crowdin diaz_help_4acb64be:
-msgid "AD "I could tell you were big from the video streams, but seeing it in person... That's something else."
-    AD "I could tell you were big from the video streams, but seeing it in person... That's something else."
+msgid "[AD] I could tell you were big from the video streams, but seeing it in person... That's something else."
+msgstr "[AD] I could tell you were big from the video streams, but seeing it in person... That's something else."
 
 # game/UpdateScript0.07.rpy:17483## # translate crowdin diaz_help_ba77f43e:
-msgid "AD "Would you mind turning towards me, so I can get a better view?"
-    AD "Would you mind turning towards me, so I can get a better view?"
+msgid "[AD] Would you mind turning towards me, so I can get a better view?"
+msgstr "[AD] Would you mind turning towards me, so I can get a better view?"
 
 # game/UpdateScript0.07.rpy:17486## # translate crowdin diaz_help_abb7178b:
 msgid "[R] Do you like what you see?"
 msgstr "[R] Do you like what you see?"
 
 # game/UpdateScript0.07.rpy:17487## # translate crowdin diaz_help_865f7424:
-msgid "AD "Damn... I've got to admit, I'm impressed."
-    AD "Damn... I've got to admit, I'm impressed."
+msgid "[AD] Damn... I've got to admit, I'm impressed."
+msgstr "[AD] Damn... I've got to admit, I'm impressed."
 
 # game/UpdateScript0.07.rpy:17490## # translate crowdin diaz_help_6338bb41:
-msgid "AD "Do you mind if I take a closer look?... Maybe, touch him?"
-    AD "Do you mind if I take a closer look?... Maybe, touch him?"
+msgid "[AD] Do you mind if I take a closer look?... Maybe, touch him?"
+msgstr "[AD] Do you mind if I take a closer look?... Maybe, touch him?"
 
 # game/UpdateScript0.07.rpy:17491## # translate crowdin diaz_help_06976888:
 msgid "[R] Uhhh... no, I don't mind."
 msgstr "[R] Uhhh... no, I don't mind."
 
 # game/UpdateScript0.07.rpy:17494## # translate crowdin diaz_help_7320292a:
-msgid "AD "Holy fuck, this thing is huge."
-    AD "Holy fuck, this thing is huge."
+msgid "[AD] Holy fuck, this thing is huge."
+msgstr "[AD] Holy fuck, this thing is huge."
 
 # game/UpdateScript0.07.rpy:17497## # translate crowdin diaz_help_a8e12792:
-msgid "AD "This is the kind of cock you only see in pornos."
-    AD "This is the kind of cock you only see in pornos."
+msgid "[AD] This is the kind of cock you only see in pornos."
+msgstr "[AD] This is the kind of cock you only see in pornos."
 
 # game/UpdateScript0.07.rpy:17498## # translate crowdin diaz_help_5e3a1b53:
-msgid "AD "How does your body have enough blood to keep this thing erect?"
-    AD "How does your body have enough blood to keep this thing erect?"
+msgid "[AD] How does your body have enough blood to keep this thing erect?"
+msgstr "[AD] How does your body have enough blood to keep this thing erect?"
 
 # game/UpdateScript0.07.rpy:17502## # translate crowdin diaz_help_f4a965dd:
 msgid "[R] Oh my God... That feels good."
 msgstr "[R] Oh my God... That feels good."
 
 # game/UpdateScript0.07.rpy:17503## # translate crowdin diaz_help_e3e1bf5b:
-msgid "AD "Wow... I need both my hands to get a good grip."
-    AD "Wow... I need both my hands to get a good grip."
+msgid "[AD] Wow... I need both my hands to get a good grip."
+msgstr "[AD] Wow... I need both my hands to get a good grip."
 
 # game/UpdateScript0.07.rpy:17504## # translate crowdin diaz_help_b8256584:
-msgid "AD "I'm not even that into dicks, but this one has me interested."
-    AD "I'm not even that into dicks, but this one has me interested."
+msgid "[AD] I'm not even that into dicks, but this one has me interested."
+msgstr "[AD] I'm not even that into dicks, but this one has me interested."
 
 # game/UpdateScript0.07.rpy:17505## # translate crowdin diaz_help_9c9063f5:
 msgid "[RT] {i}Oh... This is weird getting a handjob from someone I hate.{/i}"
@@ -30615,24 +30615,24 @@ msgid "[R] Huh?... Why'd you stop?"
 msgstr "[R] Huh?... Why'd you stop?"
 
 # game/UpdateScript0.07.rpy:17515## # translate crowdin diaz_help_00ca24c7:
-msgid "AD "This is my van... You don't get to have an orgasm before me."
-    AD "This is my van... You don't get to have an orgasm before me."
+msgid "[AD] This is my van... You don't get to have an orgasm before me."
+msgstr "[AD] This is my van... You don't get to have an orgasm before me."
 
 # game/UpdateScript0.07.rpy:17518## # translate crowdin diaz_help_2efb9750:
 msgid "[R] That is so not cool!"
 msgstr "[R] That is so not cool!"
 
 # game/UpdateScript0.07.rpy:17519## # translate crowdin diaz_help_88438267:
-msgid "AD "Do you want me to finish?"
-    AD "Do you want me to finish?"
+msgid "[AD] Do you want me to finish?"
+msgstr "[AD] Do you want me to finish?"
 
 # game/UpdateScript0.07.rpy:17520## # translate crowdin diaz_help_421bbd44:
 msgid "[R] Of course I do... That's just cruel to do that to me without finishing."
 msgstr "[R] Of course I do... That's just cruel to do that to me without finishing."
 
 # game/UpdateScript0.07.rpy:17521## # translate crowdin diaz_help_2abbb8ef:
-msgid "AD "Alright, I'll finish if you take care of me first."
-    AD "Alright, I'll finish if you take care of me first."
+msgid "[AD] Alright, I'll finish if you take care of me first."
+msgstr "[AD] Alright, I'll finish if you take care of me first."
 
 # game/UpdateScript0.07.rpy:17522## # translate crowdin diaz_help_dc7a84b6_1:
 msgid "[R] ...."
@@ -30643,36 +30643,36 @@ msgid "[R] Alright... I can finger you until you cum."
 msgstr "[R] Alright... I can finger you until you cum."
 
 # game/UpdateScript0.07.rpy:17524## # translate crowdin diaz_help_f2c4e0fe:
-msgid "AD "I can finger myself thank you... I want you to lick my cunt."
-    AD "I can finger myself thank you... I want you to lick my cunt."
+msgid "[AD] I can finger myself thank you... I want you to lick my cunt."
+msgstr "[AD] I can finger myself thank you... I want you to lick my cunt."
 
 # game/UpdateScript0.07.rpy:17525## # translate crowdin diaz_help_c426cec2:
 msgid "[R] Really?... You want me... to lick you?..."
 msgstr "[R] Really?... You want me... to lick you?..."
 
 # game/UpdateScript0.07.rpy:17526## # translate crowdin diaz_help_a33fe961:
-msgid "AD "Yeah... It's not a very difficult concept."
-    AD "Yeah... It's not a very difficult concept."
+msgid "[AD] Yeah... It's not a very difficult concept."
+msgstr "[AD] Yeah... It's not a very difficult concept."
 
 # game/UpdateScript0.07.rpy:17527## # translate crowdin diaz_help_a071ea01:
 msgid "[R] It's just that we're not really..."
 msgstr "[R] It's just that we're not really..."
 
 # game/UpdateScript0.07.rpy:17528## # translate crowdin diaz_help_e18df65f:
-msgid "AD "I've told you already... We should be friends."
-    AD "I've told you already... We should be friends."
+msgid "[AD] I've told you already... We should be friends."
+msgstr "[AD] I've told you already... We should be friends."
 
 # game/UpdateScript0.07.rpy:17529## # translate crowdin diaz_help_33c7d884:
-msgid "AD "What better way to start a friendship."
-    AD "What better way to start a friendship."
+msgid "[AD] What better way to start a friendship."
+msgstr "[AD] What better way to start a friendship."
 
 # game/UpdateScript0.07.rpy:17530## # translate crowdin diaz_help_c8f86caa:
 msgid "[R] Yeah... Because so many of my friendships have started just like this."
 msgstr "[R] Yeah... Because so many of my friendships have started just like this."
 
 # game/UpdateScript0.07.rpy:17531## # translate crowdin diaz_help_0e12c86e:
-msgid "AD "Do you want me to finish you off, or not?"
-    AD "Do you want me to finish you off, or not?"
+msgid "[AD] Do you want me to finish you off, or not?"
+msgstr "[AD] Do you want me to finish you off, or not?"
 
 # game/UpdateScript0.07.rpy:17532## # translate crowdin diaz_help_d2c8afe0:
 msgid "[R] Yeah... Ok, I'll do it."
@@ -30687,20 +30687,20 @@ msgid "[RT] {i}I don't care if that makes me the submissive one here... I just w
 msgstr "[RT] {i}I don't care if that makes me the submissive one here... I just want to taste that pussy.{/i}"
 
 # game/UpdateScript0.07.rpy:17539## # translate crowdin diaz_help_25e70be0:
-msgid "AD "Have you fallen asleep back there?... Get licking!"
-    AD "Have you fallen asleep back there?... Get licking!"
+msgid "[AD] Have you fallen asleep back there?... Get licking!"
+msgstr "[AD] Have you fallen asleep back there?... Get licking!"
 
 # game/UpdateScript0.07.rpy:17544## # translate crowdin diaz_help_6e70ed6c:
-msgid "AD "Yeah, there you go!"
-    AD "Yeah, there you go!"
+msgid "[AD] Yeah, there you go!"
+msgstr "[AD] Yeah, there you go!"
 
 # game/UpdateScript0.07.rpy:17545## # translate crowdin diaz_help_06e1f1ca:
-msgid "AD "Oh, yeah... That's what I needed today!"
-    AD "Oh, yeah... That's what I needed today!"
+msgid "[AD] Oh, yeah... That's what I needed today!"
+msgstr "[AD] Oh, yeah... That's what I needed today!"
 
 # game/UpdateScript0.07.rpy:17546## # translate crowdin diaz_help_0b173994:
-msgid "AD "Yes! You fucking beta... lick my asshole too!"
-    AD "Yes! You fucking beta... lick my asshole too!"
+msgid "[AD] Yes! You fucking beta... lick my asshole too!"
+msgstr "[AD] Yes! You fucking beta... lick my asshole too!"
 
 # game/UpdateScript0.07.rpy:17547## # translate crowdin diaz_help_8b8b49ab:
 msgid "[RT] {i}Did she just call me a beta?... I should walk out of this van right now... Let her see what it feels like not to finish.{/i}"
@@ -30711,24 +30711,24 @@ msgid "[RT] {i}Eh, it's not worth it. Not only is this making me incredibly horn
 msgstr "[RT] {i}Eh, it's not worth it. Not only is this making me incredibly horny, I really want her to finish me off.{/i}"
 
 # game/UpdateScript0.07.rpy:17551## # translate crowdin diaz_help_d84bcf7a:
-msgid "AD "Oh, fuck! I'm cumming!"
-    AD "Oh, fuck! I'm cumming!"
+msgid "[AD] Oh, fuck! I'm cumming!"
+msgstr "[AD] Oh, fuck! I'm cumming!"
 
 # game/UpdateScript0.07.rpy:17556## # translate crowdin diaz_help_910848b2:
-msgid "AD "AAAaaahhhh!...."
-    AD "AAAaaahhhh!...."
+msgid "[AD] AAAaaahhhh!...."
+msgstr "[AD] AAAaaahhhh!...."
 
 # game/UpdateScript0.07.rpy:17557## # translate crowdin diaz_help_40503a0d:
-msgid "AD "God!... That felt good!"
-    AD "God!... That felt good!"
+msgid "[AD] God!... That felt good!"
+msgstr "[AD] God!... That felt good!"
 
 # game/UpdateScript0.07.rpy:17560## # translate crowdin diaz_help_7f1f6a45:
 msgid "[R] Wait... You had an orgasm?"
 msgstr "[R] Wait... You had an orgasm?"
 
 # game/UpdateScript0.07.rpy:17561## # translate crowdin diaz_help_3a5a4631:
-msgid "AD "Of course I did, you idiot."
-    AD "Of course I did, you idiot."
+msgid "[AD] Of course I did, you idiot."
+msgstr "[AD] Of course I did, you idiot."
 
 # game/UpdateScript0.07.rpy:17562## # translate crowdin diaz_help_69fe0a24:
 msgid "[R] Where's all the juices?"
@@ -30739,52 +30739,52 @@ msgid "[R] You were wet, but you didn't squirt at all."
 msgstr "[R] You were wet, but you didn't squirt at all."
 
 # game/UpdateScript0.07.rpy:17564## # translate crowdin diaz_help_f08e3c4b:
-msgid "AD "Haha... You think all women squirt?"
-    AD "Haha... You think all women squirt?"
+msgid "[AD] Haha... You think all women squirt?"
+msgstr "[AD] Haha... You think all women squirt?"
 
 # game/UpdateScript0.07.rpy:17565## # translate crowdin diaz_help_16808fb5:
-msgid "AD "Haven't you watched porn?"
-    AD "Haven't you watched porn?"
+msgid "[AD] Haven't you watched porn?"
+msgstr "[AD] Haven't you watched porn?"
 
 # game/UpdateScript0.07.rpy:17566## # translate crowdin diaz_help_0e02a52c:
-msgid "AD "Most women don't squirt."
-    AD "Most women don't squirt."
+msgid "[AD] Most women don't squirt."
+msgstr "[AD] Most women don't squirt."
 
 # game/UpdateScript0.07.rpy:17567## # translate crowdin diaz_help_7e2c791a:
 msgid "[R] Oh, I just figured they didn't squirt because they were faking their orgasm."
 msgstr "[R] Oh, I just figured they didn't squirt because they were faking their orgasm."
 
 # game/UpdateScript0.07.rpy:17568## # translate crowdin diaz_help_1f573436:
-msgid "AD "Well, yeah, most of them probably are faking... but [ryan], squirting is a rare thing."
-    AD "Well, yeah, most of them probably are faking... but [ryan], squirting is a rare thing."
+msgid "[AD] Well, yeah, most of them probably are faking... but [ryan], squirting is a rare thing."
+msgstr "[AD] Well, yeah, most of them probably are faking... but [ryan], squirting is a rare thing."
 
 # game/UpdateScript0.07.rpy:17569## # translate crowdin diaz_help_e87463c7:
-msgid "AD "Especially the amount of fluid the girls in your family squirt."
-    AD "Especially the amount of fluid the girls in your family squirt."
+msgid "[AD] Especially the amount of fluid the girls in your family squirt."
+msgstr "[AD] Especially the amount of fluid the girls in your family squirt."
 
 # game/UpdateScript0.07.rpy:17570## # translate crowdin diaz_help_0b823220:
-msgid "AD "I mean, the size of your dick... The way all the girls in your family can blast like a fire hose."
-    AD "I mean, the size of your dick... The way all the girls in your family can blast like a fire hose."
+msgid "[AD] I mean, the size of your dick... The way all the girls in your family can blast like a fire hose."
+msgstr "[AD] I mean, the size of your dick... The way all the girls in your family can blast like a fire hose."
 
 # game/UpdateScript0.07.rpy:17571## # translate crowdin diaz_help_09a73286:
-msgid "AD "It's like your family was bred to make porn."
-    AD "It's like your family was bred to make porn."
+msgid "[AD] It's like your family was bred to make porn."
+msgstr "[AD] It's like your family was bred to make porn."
 
 # game/UpdateScript0.07.rpy:17572## # translate crowdin diaz_help_0dc2bec2:
 msgid "[R] Huh... That would be a fun career."
 msgstr "[R] Huh... That would be a fun career."
 
 # game/UpdateScript0.07.rpy:17573## # translate crowdin diaz_help_4eee5a1a:
-msgid "AD "Well, you've already got the studio. Now, you just need to talk the girls into it."
-    AD "Well, you've already got the studio. Now, you just need to talk the girls into it."
+msgid "[AD] Well, you've already got the studio. Now, you just need to talk the girls into it."
+msgstr "[AD] Well, you've already got the studio. Now, you just need to talk the girls into it."
 
 # game/UpdateScript0.07.rpy:17574## # translate crowdin diaz_help_89e3910a:
-msgid "AD "I mean, with your silver tongue, I'm sure it won't be too long."
-    AD "I mean, with your silver tongue, I'm sure it won't be too long."
+msgid "[AD] I mean, with your silver tongue, I'm sure it won't be too long."
+msgstr "[AD] I mean, with your silver tongue, I'm sure it won't be too long."
 
 # game/UpdateScript0.07.rpy:17575## # translate crowdin diaz_help_6e5470df:
-msgid "AD "Here... Let me pull up my pants."
-    AD "Here... Let me pull up my pants."
+msgid "[AD] Here... Let me pull up my pants."
+msgstr "[AD] Here... Let me pull up my pants."
 
 # game/UpdateScript0.07.rpy:17578## # translate crowdin diaz_help_aeb55e9d:
 msgid "[RT] {i}Could I really transition my studio from a cosplay photo studio, to a porn studio?{/i}"
@@ -30799,100 +30799,100 @@ msgid "[R] Alright, I'm ready for you to finish me off now."
 msgstr "[R] Alright, I'm ready for you to finish me off now."
 
 # game/UpdateScript0.07.rpy:17583## # translate crowdin diaz_help_59e2bee9:
-msgid "AD "Yeah... That's not going to happen."
-    AD "Yeah... That's not going to happen."
+msgid "[AD] Yeah... That's not going to happen."
+msgstr "[AD] Yeah... That's not going to happen."
 
 # game/UpdateScript0.07.rpy:17586## # translate crowdin diaz_help_acc00314:
 msgid "[R] What?... But you said."
 msgstr "[R] What?... But you said."
 
 # game/UpdateScript0.07.rpy:17587## # translate crowdin diaz_help_d9eed025:
-msgid "AD "I was lying."
-    AD "I was lying."
+msgid "[AD] I was lying."
+msgstr "[AD] I was lying."
 
 # game/UpdateScript0.07.rpy:17588## # translate crowdin diaz_help_4881927b_1:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.07.rpy:17590## # translate crowdin diaz_help_6c5a8efe:
-msgid "AD "I thought it over while you were so generously licking my pussy, and decided that I need to give you some extra incentive to plant that spy cam in the girls' locker room."
-    AD "I thought it over while you were so generously licking my pussy, and decided that I need to give you some extra incentive to plant that spy cam in the girls' locker room."
+msgid "[AD] I thought it over while you were so generously licking my pussy, and decided that I need to give you some extra incentive to plant that spy cam in the girls' locker room."
+msgstr "[AD] I thought it over while you were so generously licking my pussy, and decided that I need to give you some extra incentive to plant that spy cam in the girls' locker room."
 
 # game/UpdateScript0.07.rpy:17591## # translate crowdin diaz_help_ff102e13:
-msgid "AD "So, you get that camera planted, and I'll get you what I can on Matt, and I'll take care of your little guy."
-    AD "So, you get that camera planted, and I'll get you what I can on Matt, and I'll take care of your little guy."
+msgid "[AD] So, you get that camera planted, and I'll get you what I can on Matt, and I'll take care of your little guy."
+msgstr "[AD] So, you get that camera planted, and I'll get you what I can on Matt, and I'll take care of your little guy."
 
 # game/UpdateScript0.07.rpy:17594## # translate crowdin diaz_help_367e9f26:
 msgid "[R] I can't believe you tricked me into licking your pussy."
 msgstr "[R] I can't believe you tricked me into licking your pussy."
 
 # game/UpdateScript0.07.rpy:17595## # translate crowdin diaz_help_ce4418d3:
-msgid "AD "Yeah... That was kind of a dirty trick, wasn't it?"
-    AD "Yeah... That was kind of a dirty trick, wasn't it?"
+msgid "[AD] Yeah... That was kind of a dirty trick, wasn't it?"
+msgstr "[AD] Yeah... That was kind of a dirty trick, wasn't it?"
 
 # game/UpdateScript0.07.rpy:17596## # translate crowdin diaz_help_b25867a1:
-msgid "AD "I feel kind of bad... Let me make it up to you."
-    AD "I feel kind of bad... Let me make it up to you."
+msgid "[AD] I feel kind of bad... Let me make it up to you."
+msgstr "[AD] I feel kind of bad... Let me make it up to you."
 
 # game/UpdateScript0.07.rpy:17597## # translate crowdin diaz_help_3f2392cc:
 msgid "[R] Oh, no... I don't want another one of your tricks."
 msgstr "[R] Oh, no... I don't want another one of your tricks."
 
 # game/UpdateScript0.07.rpy:17598## # translate crowdin diaz_help_a864f6d7:
-msgid "AD "It's not a trick, it's simply a deal."
-    AD "It's not a trick, it's simply a deal."
+msgid "[AD] It's not a trick, it's simply a deal."
+msgstr "[AD] It's not a trick, it's simply a deal."
 
 # game/UpdateScript0.07.rpy:17599## # translate crowdin diaz_help_3d1566b8:
-msgid "AD "As I've already told you, we have an informant in your high school."
-    AD "As I've already told you, we have an informant in your high school."
+msgid "[AD] As I've already told you, we have an informant in your high school."
+msgstr "[AD] As I've already told you, we have an informant in your high school."
 
 # game/UpdateScript0.07.rpy:17600## # translate crowdin diaz_help_0923124b:
-msgid "AD "I could use her to help benefit Lauren's campaign."
-    AD "I could use her to help benefit Lauren's campaign."
+msgid "[AD] I could use her to help benefit Lauren's campaign."
+msgstr "[AD] I could use her to help benefit Lauren's campaign."
 
 # game/UpdateScript0.07.rpy:17601## # translate crowdin diaz_help_258731c4:
-msgid "AD "Would you be willing to pay me to have that informant sneak in some extra votes?"
-    AD "Would you be willing to pay me to have that informant sneak in some extra votes?"
+msgid "[AD] Would you be willing to pay me to have that informant sneak in some extra votes?"
+msgstr "[AD] Would you be willing to pay me to have that informant sneak in some extra votes?"
 
 # game/UpdateScript0.07.rpy:17602## # translate crowdin diaz_help_ad427d47:
 msgid "[R] Do you mean you could rig the election?"
 msgstr "[R] Do you mean you could rig the election?"
 
 # game/UpdateScript0.07.rpy:17603## # translate crowdin diaz_help_d32f06bf:
-msgid "AD "Not completely, the informant could only sneak in a limited amount of votes without it being too obvious."
-    AD "Not completely, the informant could only sneak in a limited amount of votes without it being too obvious."
+msgid "[AD] Not completely, the informant could only sneak in a limited amount of votes without it being too obvious."
+msgstr "[AD] Not completely, the informant could only sneak in a limited amount of votes without it being too obvious."
 
 # game/UpdateScript0.07.rpy:17604## # translate crowdin diaz_help_7cf8d4f2:
 msgid "[R] Do you mean the votes for the weekly polls, or for the actual election?"
 msgstr "[R] Do you mean the votes for the weekly polls, or for the actual election?"
 
 # game/UpdateScript0.07.rpy:17605## # translate crowdin diaz_help_5a7c33c2:
-msgid "AD "Probably both. It just depends on if you've paid for them."
-    AD "Probably both. It just depends on if you've paid for them."
+msgid "[AD] Probably both. It just depends on if you've paid for them."
+msgstr "[AD] Probably both. It just depends on if you've paid for them."
 
 # game/UpdateScript0.07.rpy:17606## # translate crowdin diaz_help_6fd297fb:
 msgid "[R] But, I thought you said your high school narc was too straight laced for that kind of thing."
 msgstr "[R] But, I thought you said your high school narc was too straight laced for that kind of thing."
 
 # game/UpdateScript0.07.rpy:17607## # translate crowdin diaz_help_b103a015:
-msgid "AD "I just have to convince her that it helps the investigation into your family somehow. Don't worry, I'll figure out what to tell her."
-    AD "I just have to convince her that it helps the investigation into your family somehow. Don't worry, I'll figure out what to tell her."
+msgid "[AD] I just have to convince her that it helps the investigation into your family somehow. Don't worry, I'll figure out what to tell her."
+msgstr "[AD] I just have to convince her that it helps the investigation into your family somehow. Don't worry, I'll figure out what to tell her."
 
 # game/UpdateScript0.07.rpy:17608## # translate crowdin diaz_help_b6f76f1f:
 msgid "[R] Wow!... I wasn't expecting that."
 msgstr "[R] Wow!... I wasn't expecting that."
 
 # game/UpdateScript0.07.rpy:17609## # translate crowdin diaz_help_d95bc1c4:
-msgid "AD "You see... I do have your family's best interests at heart."
-    AD "You see... I do have your family's best interests at heart."
+msgid "[AD] You see... I do have your family's best interests at heart."
+msgstr "[AD] You see... I do have your family's best interests at heart."
 
 # game/UpdateScript0.07.rpy:17610## # translate crowdin diaz_help_1a854268:
 msgid "[R] Sure, and how much do I have to pay for our best interests?"
 msgstr "[R] Sure, and how much do I have to pay for our best interests?"
 
 # game/UpdateScript0.07.rpy:17611## # translate crowdin diaz_help_25559f5e:
-msgid "AD "Hmmm... for an operation this risky... Let's say five hundred dollars for every week that we pad the ballot box."
-    AD "Hmmm... for an operation this risky... Let's say five hundred dollars for every week that we pad the ballot box."
+msgid "[AD] Hmmm... for an operation this risky... Let's say five hundred dollars for every week that we pad the ballot box."
+msgstr "[AD] Hmmm... for an operation this risky... Let's say five hundred dollars for every week that we pad the ballot box."
 
 # game/UpdateScript0.07.rpy:17612## # translate crowdin diaz_help_16512d6e:
 msgid "[R] Five hundred dollars!?"
@@ -30903,36 +30903,36 @@ msgid "[R] That's crazy!"
 msgstr "[R] That's crazy!"
 
 # game/UpdateScript0.07.rpy:17614## # translate crowdin diaz_help_9740691e:
-msgid "AD "No, think about it... You're paying a lot because it's high risk."
-    AD "No, think about it... You're paying a lot because it's high risk."
+msgid "[AD] No, think about it... You're paying a lot because it's high risk."
+msgstr "[AD] No, think about it... You're paying a lot because it's high risk."
 
 # game/UpdateScript0.07.rpy:17615## # translate crowdin diaz_help_fec5b9ba:
-msgid "AD "If my informant gets caught, she'll be expelled and we'll have to recruit and train a new asset in your school."
-    AD "If my informant gets caught, she'll be expelled and we'll have to recruit and train a new asset in your school."
+msgid "[AD] If my informant gets caught, she'll be expelled and we'll have to recruit and train a new asset in your school."
+msgstr "[AD] If my informant gets caught, she'll be expelled and we'll have to recruit and train a new asset in your school."
 
 # game/UpdateScript0.07.rpy:17616## # translate crowdin diaz_help_60eae683:
 msgid "[R] Expelled... Ha!... It is a student."
 msgstr "[R] Expelled... Ha!... It is a student."
 
 # game/UpdateScript0.07.rpy:17619## # translate crowdin diaz_help_e816e336:
-msgid "AD "Fuck..."
-    AD "Fuck..."
+msgid "[AD] Fuck..."
+msgstr "[AD] Fuck..."
 
 # game/UpdateScript0.07.rpy:17620## # translate crowdin diaz_help_8fc67539:
 msgid "[R] I wonder who it is..."
 msgstr "[R] I wonder who it is..."
 
 # game/UpdateScript0.07.rpy:17621## # translate crowdin diaz_help_a9f043ed:
-msgid "AD "So do you want to buy some votes, or not?"
-    AD "So do you want to buy some votes, or not?"
+msgid "[AD] So do you want to buy some votes, or not?"
+msgstr "[AD] So do you want to buy some votes, or not?"
 
 # game/UpdateScript0.07.rpy:17624## # translate crowdin diaz_help_b61e382f:
 msgid "[R] Fine!... As long as you can guarantee that Lauren's vote count will go up."
 msgstr "[R] Fine!... As long as you can guarantee that Lauren's vote count will go up."
 
 # game/UpdateScript0.07.rpy:17625## # translate crowdin diaz_help_7c6dfc79_6:
-msgid "AD "I guarantee it."
-    AD "I guarantee it."
+msgid "[AD] I guarantee it."
+msgstr "[AD] I guarantee it."
 
 # game/UpdateScript0.07.rpy:17626## # translate crowdin diaz_help_5196730c_6:
 msgid "[R] Alright... it's a deal."
@@ -30943,8 +30943,8 @@ msgid "{b}{i}\"Money -$500\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17629## # translate crowdin diaz_help_2c816dd3_6:
-msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
-    AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgid "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
+msgstr "[AD] Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
 
 # game/UpdateScript0.07.rpy:17630## # translate crowdin diaz_help_83b65130_6:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
@@ -30955,20 +30955,20 @@ msgid "[R] Yeah, right... I'm not giving you any more money."
 msgstr "[R] Yeah, right... I'm not giving you any more money."
 
 # game/UpdateScript0.07.rpy:17635## # translate crowdin diaz_help_85bbc5fc_3:
-msgid "AD "Ok, but if you change your mind, you know where to find me."
-    AD "Ok, but if you change your mind, you know where to find me."
+msgid "[AD] Ok, but if you change your mind, you know where to find me."
+msgstr "[AD] Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17636## # translate crowdin diaz_help_42e46acb_3:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
 msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17639## # translate crowdin diaz_help_e6d2c9e9:
-msgid "AD "Now, if that's it, I need to get back to my observations."
-    AD "Now, if that's it, I need to get back to my observations."
+msgid "[AD] Now, if that's it, I need to get back to my observations."
+msgstr "[AD] Now, if that's it, I need to get back to my observations."
 
 # game/UpdateScript0.07.rpy:17640## # translate crowdin diaz_help_4bd15503:
-msgid "AD "So, remember... Like God, I'm always watching."
-    AD "So, remember... Like God, I'm always watching."
+msgid "[AD] So, remember... Like God, I'm always watching."
+msgstr "[AD] So, remember... Like God, I'm always watching."
 
 # game/UpdateScript0.07.rpy:17641## # translate crowdin diaz_help_c85a5eb0:
 msgid "[RT] {i}Well that's unsettling.{/i}"
@@ -30983,48 +30983,48 @@ msgid "[R] Uuunnggghhh... I'm gonna cum!"
 msgstr "[R] Uuunnggghhh... I'm gonna cum!"
 
 # game/UpdateScript0.07.rpy:17707## # translate crowdin diaz_cum_06adc1f9:
-msgid "AD "Oh, my God!... I really thought I'd be able to swallow it all that time."
-    AD "Oh, my God!... I really thought I'd be able to swallow it all that time."
+msgid "[AD] Oh, my God!... I really thought I'd be able to swallow it all that time."
+msgstr "[AD] Oh, my God!... I really thought I'd be able to swallow it all that time."
 
 # game/UpdateScript0.07.rpy:17721## # translate crowdin diaz_cum_96fb7f7c:
-msgid "AD "Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
-    AD "Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
+msgid "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
+msgstr "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
 
 # game/UpdateScript0.07.rpy:17724## # translate crowdin diaz_cum_ead3c4ef:
-msgid "AD "You covered me again!"
-    AD "You covered me again!"
+msgid "[AD] You covered me again!"
+msgstr "[AD] You covered me again!"
 
 # game/UpdateScript0.07.rpy:17729## # translate crowdin diaz_cum_d23474ea:
-msgid "AD "Satisfied?"
-    AD "Satisfied?"
+msgid "[AD] Satisfied?"
+msgstr "[AD] Satisfied?"
 
 # game/UpdateScript0.07.rpy:17730## # translate crowdin diaz_cum_947f95a9:
 msgid "[R] Oooohhh... yeahhh...."
 msgstr "[R] Oooohhh... yeahhh...."
 
 # game/UpdateScript0.07.rpy:17734## # translate crowdin diaz_cum_8a7f1af2:
-msgid "AD "Haha... I knew you'd like that."
-    AD "Haha... I knew you'd like that."
+msgid "[AD] Haha... I knew you'd like that."
+msgstr "[AD] Haha... I knew you'd like that."
 
 # game/UpdateScript0.07.rpy:17737## # translate crowdin diaz_cum_1e1493e3:
-msgid "AD "Well, next time you're in the market for some shady votes, come and see me."
-    AD "Well, next time you're in the market for some shady votes, come and see me."
+msgid "[AD] Well, next time you're in the market for some shady votes, come and see me."
+msgstr "[AD] Well, next time you're in the market for some shady votes, come and see me."
 
 # game/UpdateScript0.07.rpy:17738## # translate crowdin diaz_cum_3354fab7:
-msgid "AD "One free blowjob with every purchase."
-    AD "One free blowjob with every purchase."
+msgid "[AD] One free blowjob with every purchase."
+msgstr "[AD] One free blowjob with every purchase."
 
 # game/UpdateScript0.07.rpy:17739## # translate crowdin diaz_cum_c0b47633:
-msgid "AD "But, [ryan]?"
-    AD "But, [ryan]?"
+msgid "[AD] But, [ryan]?"
+msgstr "[AD] But, [ryan]?"
 
 # game/UpdateScript0.07.rpy:17740## # translate crowdin diaz_cum_16721db6:
 msgid "[R] Don't say it!"
 msgstr "[R] Don't say it!"
 
 # game/UpdateScript0.07.rpy:17741## # translate crowdin diaz_cum_ae9dbcf5:
-msgid "AD "This is just business... Don't fall in love with me."
-    AD "This is just business... Don't fall in love with me."
+msgid "[AD] This is just business... Don't fall in love with me."
+msgstr "[AD] This is just business... Don't fall in love with me."
 
 # game/UpdateScript0.07.rpy:17742## # translate crowdin diaz_cum_b1d549ae:
 msgid "[R] Please! Stop!"
@@ -31035,16 +31035,16 @@ msgid "[R] You ruin every blowjob by saying that!"
 msgstr "[R] You ruin every blowjob by saying that!"
 
 # game/UpdateScript0.07.rpy:17746## # translate crowdin diaz_cum_68ea45d4:
-msgid "AD "Haha... Yet you keep coming back."
-    AD "Haha... Yet you keep coming back."
+msgid "[AD] Haha... Yet you keep coming back."
+msgstr "[AD] Haha... Yet you keep coming back."
 
 # game/UpdateScript0.07.rpy:17747## # translate crowdin diaz_cum_74962427:
 msgid "[R] Well, I'm leaving now!"
 msgstr "[R] Well, I'm leaving now!"
 
 # game/UpdateScript0.07.rpy:17748## # translate crowdin diaz_cum_9a1c6c05:
-msgid "AD "Hahaha... I'll see you Thursday."
-    AD "Hahaha... I'll see you Thursday."
+msgid "[AD] Hahaha... I'll see you Thursday."
+msgstr "[AD] Hahaha... I'll see you Thursday."
 
 # game/UpdateScript0.07.rpy:17751## # translate crowdin diaz_cum_21dc291f:
 msgid "[RT] {i}Why do I let her get under my skin?{/i}"
@@ -31059,40 +31059,40 @@ msgid "[R] Uuunnggghhh... I'm gonna cum!"
 msgstr "[R] Uuunnggghhh... I'm gonna cum!"
 
 # game/UpdateScript0.07.rpy:17776## # translate crowdin diaz_cum_b42b0d2a:
-msgid "AD "Oh, my God!... I thought I'd be able to swallow it all."
-    AD "Oh, my God!... I thought I'd be able to swallow it all."
+msgid "[AD] Oh, my God!... I thought I'd be able to swallow it all."
+msgstr "[AD] Oh, my God!... I thought I'd be able to swallow it all."
 
 # game/UpdateScript0.07.rpy:17790## # translate crowdin diaz_cum_96fb7f7c_1:
-msgid "AD "Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
-    AD "Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
+msgid "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
+msgstr "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
 
 # game/UpdateScript0.07.rpy:17793## # translate crowdin diaz_cum_af993942:
-msgid "AD "You covered me!"
-    AD "You covered me!"
+msgid "[AD] You covered me!"
+msgstr "[AD] You covered me!"
 
 # game/UpdateScript0.07.rpy:17798## # translate crowdin diaz_cum_f1cda86e:
-msgid "AD "So?... How was that?"
-    AD "So?... How was that?"
+msgid "[AD] So?... How was that?"
+msgstr "[AD] So?... How was that?"
 
 # game/UpdateScript0.07.rpy:17799## # translate crowdin diaz_cum_96cadcf6:
-msgid "AD "Did I earn a return customer?"
-    AD "Did I earn a return customer?"
+msgid "[AD] Did I earn a return customer?"
+msgstr "[AD] Did I earn a return customer?"
 
 # game/UpdateScript0.07.rpy:17800## # translate crowdin diaz_cum_947f95a9_1:
 msgid "[R] Oooohhh... yeahhh...."
 msgstr "[R] Oooohhh... yeahhh...."
 
 # game/UpdateScript0.07.rpy:17804## # translate crowdin diaz_cum_f31d9f65:
-msgid "AD "Haha... I thought you'd like that."
-    AD "Haha... I thought you'd like that."
+msgid "[AD] Haha... I thought you'd like that."
+msgstr "[AD] Haha... I thought you'd like that."
 
 # game/UpdateScript0.07.rpy:17805## # translate crowdin diaz_cum_f8ff2b27:
 msgid "[R] So?... Can we make that a permanent part of the deal?"
 msgstr "[R] So?... Can we make that a permanent part of the deal?"
 
 # game/UpdateScript0.07.rpy:17808## # translate crowdin diaz_cum_531e2f78:
-msgid "AD "Sure... Why not?"
-    AD "Sure... Why not?"
+msgid "[AD] Sure... Why not?"
+msgstr "[AD] Sure... Why not?"
 
 # game/UpdateScript0.07.rpy:17809## # translate crowdin diaz_cum_539d79b3:
 msgid "[R] Yes!"
@@ -31103,20 +31103,20 @@ msgid "[R] I'll be back the next time I need some more votes then."
 msgstr "[R] I'll be back the next time I need some more votes then."
 
 # game/UpdateScript0.07.rpy:17811## # translate crowdin diaz_cum_4e30d22b:
-msgid "AD "I'll be waiting."
-    AD "I'll be waiting."
+msgid "[AD] I'll be waiting."
+msgstr "[AD] I'll be waiting."
 
 # game/UpdateScript0.07.rpy:17812## # translate crowdin diaz_cum_c0b47633_1:
-msgid "AD "But, [ryan]?"
-    AD "But, [ryan]?"
+msgid "[AD] But, [ryan]?"
+msgstr "[AD] But, [ryan]?"
 
 # game/UpdateScript0.07.rpy:17813## # translate crowdin diaz_cum_95428694:
 msgid "[R] Yeah?"
 msgstr "[R] Yeah?"
 
 # game/UpdateScript0.07.rpy:17814## # translate crowdin diaz_cum_bb804bd5:
-msgid "AD "Be careful not to fall in love with me!"
-    AD "Be careful not to fall in love with me!"
+msgid "[AD] Be careful not to fall in love with me!"
+msgstr "[AD] Be careful not to fall in love with me!"
 
 # game/UpdateScript0.07.rpy:17815## # translate crowdin diaz_cum_e6217458:
 msgid "[R] Oh, gross!"
@@ -31127,20 +31127,20 @@ msgid "[R] Maybe if you weren't such a manipulative monster!"
 msgstr "[R] Maybe if you weren't such a manipulative monster!"
 
 # game/UpdateScript0.07.rpy:17819## # translate crowdin diaz_cum_e2d4947b:
-msgid "AD "Haha... Well, it takes one to know one."
-    AD "Haha... Well, it takes one to know one."
+msgid "[AD] Haha... Well, it takes one to know one."
+msgstr "[AD] Haha... Well, it takes one to know one."
 
 # game/UpdateScript0.07.rpy:17820## # translate crowdin diaz_cum_244db417:
-msgid "AD "And I love you, too!"
-    AD "And I love you, too!"
+msgid "[AD] And I love you, too!"
+msgstr "[AD] And I love you, too!"
 
 # game/UpdateScript0.07.rpy:17821## # translate crowdin diaz_cum_a5a695fd:
 msgid "[R] Oh, shut up! I'm leaving!"
 msgstr "[R] Oh, shut up! I'm leaving!"
 
 # game/UpdateScript0.07.rpy:17822## # translate crowdin diaz_cum_d035e085:
-msgid "AD "Hahaha..."
-    AD "Hahaha..."
+msgid "[AD] Hahaha..."
+msgstr "[AD] Hahaha..."
 
 # game/UpdateScript0.07.rpy:17825## # translate crowdin diaz_cum_31ebd9b7:
 msgid "[RT] {i}She did have a point... Calling her a manipulative monster was kinda hypocritical.{/i}"
