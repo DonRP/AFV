@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/images/interface_images/Roulette/RouletteGame.rpy:537## # translate crowdin test_feb4bc5b:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/Roulette/RouletteGame.rpy:537## # translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
     "[betPickVar]"
 

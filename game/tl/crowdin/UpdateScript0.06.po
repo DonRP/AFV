@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/UpdateScript0.06.rpy:715## # translate crowdin move_in_day_31871088:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.06.rpy:715## # translate crowdin move_in_day_31871088:
 msgid "RT "{i}I... think I slept in... What time is it?{/i}"
     RT "{i}I... think I slept in... What time is it?{/i}"
 

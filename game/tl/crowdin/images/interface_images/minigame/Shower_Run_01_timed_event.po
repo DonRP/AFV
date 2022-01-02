@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125## # translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125## # translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
 msgid "RT "{i}I've just got to move as silently as a ninja.{/i}"
     RT "{i}I've just got to move as silently as a ninja.{/i}"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/Phone_interface.rpy:265## # translate crowdin mafia_warning_f561667c:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/Phone_interface.rpy:265## # translate crowdin mafia_warning_f561667c:
 msgid "RT "{i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
     RT "{i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
 

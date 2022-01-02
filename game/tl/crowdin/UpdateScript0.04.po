@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "RT "{i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
     RT "{i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
 

@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-## # translate crowdin strings:
+﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
 msgid "game/Phone_gallery.rpy:54
     old "{image=images/interface_images/phone_screen_images/images_phone.png} Photo Gallery"
     new "{image=images/interface_images/phone_screen_images/images_phone.png} Photo Gallery"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:47
-
-# game/Cosplay_gallery.rpy:1213## # translate crowdin cosplay_label_c1f386dd:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/Cosplay_gallery.rpy:1213## # translate crowdin cosplay_label_c1f386dd:
 msgid "RT "{i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
     RT "{i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
 

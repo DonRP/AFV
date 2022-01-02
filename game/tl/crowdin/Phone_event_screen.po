@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/Phone_event_screen.rpy:859## # translate crowdin event_info_02_5cb3efa8:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/Phone_event_screen.rpy:859## # translate crowdin event_info_02_5cb3efa8:
 msgid "RT "{i}I should go to the family portrait first to reminisce.{/i}"
     RT "{i}I should go to the family portrait first to reminisce.{/i}"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126## # translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
+﻿# TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126## # translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
 msgid "RT "{i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
     RT "{i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
 
