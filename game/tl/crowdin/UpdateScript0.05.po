@@ -1151,16 +1151,16 @@ msgid "[S] HELP!.... FLASHER!... Please! Someone catch him!"
 msgstr "[S] HELP!.... FLASHER!... Please! Someone catch him!"
 
 # game/UpdateScript0.05.rpy:1055## # translate crowdin sidney_morning_jog_0646fc74:
-msgid "P "Mr. Peterson!.... Please stop!.... Your family is worried about you!"
-    P "Mr. Peterson!.... Please stop!.... Your family is worried about you!"
+msgid "[P] Mr. Peterson!.... Please stop!.... Your family is worried about you!"
+msgstr "[P] Mr. Peterson!.... Please stop!.... Your family is worried about you!"
 
 # game/UpdateScript0.05.rpy:1056## # translate crowdin sidney_morning_jog_c4a7be3a:
 msgid "CM "You commie bastards will thank us one day after we win this war!"
     CM "You commie bastards will thank us one day after we win this war!"
 
 # game/UpdateScript0.05.rpy:1057## # translate crowdin sidney_morning_jog_25d720e5:
-msgid "P "No! Please stop!"
-    P "No! Please stop!"
+msgid "[P] No! Please stop!"
+msgstr "[P] No! Please stop!"
 
 # game/UpdateScript0.05.rpy:1060## # translate crowdin sidney_morning_jog_bda055f2:
 msgid "[S] Holy shit!.... What in the hell?.... That crazy guy flashed me his junk!"
@@ -9415,52 +9415,52 @@ msgid "MP "(groaning)"
     MP "(groaning)"
 
 # game/UpdateScript0.05.rpy:5370## # translate crowdin park_activities_01ff5265:
-msgid "P "Nice tackle, kid!"
-    P "Nice tackle, kid!"
+msgid "[P] Nice tackle, kid!"
+msgstr "[P] Nice tackle, kid!"
 
 # game/UpdateScript0.05.rpy:5371## # translate crowdin park_activities_696681ec:
-msgid "P "And by the looks of things, I don't think you broke any of his bones."
-    P "And by the looks of things, I don't think you broke any of his bones."
+msgid "[P] And by the looks of things, I don't think you broke any of his bones."
+msgstr "[P] And by the looks of things, I don't think you broke any of his bones."
 
 # game/UpdateScript0.05.rpy:5372## # translate crowdin park_activities_47be81c9:
-msgid "P "That tough son of a bitch."
-    P "That tough son of a bitch."
+msgid "[P] That tough son of a bitch."
+msgstr "[P] That tough son of a bitch."
 
 # game/UpdateScript0.05.rpy:5373## # translate crowdin park_activities_5207b67f:
-msgid "P "He's a war hero, you know!"
-    P "He's a war hero, you know!"
+msgid "[P] He's a war hero, you know!"
+msgstr "[P] He's a war hero, you know!"
 
 # game/UpdateScript0.05.rpy:5374## # translate crowdin park_activities_205b7959:
 msgid "[R] Yeah, and a Medal of Honor recipient."
 msgstr "[R] Yeah, and a Medal of Honor recipient."
 
 # game/UpdateScript0.05.rpy:5375## # translate crowdin park_activities_48da257e:
-msgid "P "His family is going to be so relieved to have him back."
-    P "His family is going to be so relieved to have him back."
+msgid "[P] His family is going to be so relieved to have him back."
+msgstr "[P] His family is going to be so relieved to have him back."
 
 # game/UpdateScript0.05.rpy:5376## # translate crowdin park_activities_fb3a81d1:
-msgid "P "You're a hero!"
-    P "You're a hero!"
+msgid "[P] You're a hero!"
+msgstr "[P] You're a hero!"
 
 # game/UpdateScript0.05.rpy:5377## # translate crowdin park_activities_42152a77:
 msgid "[R] Oh.... Just doing my civic duty."
 msgstr "[R] Oh.... Just doing my civic duty."
 
 # game/UpdateScript0.05.rpy:5378## # translate crowdin park_activities_f44a70af:
-msgid "P "Well, I'll make sure they hear about it."
-    P "Well, I'll make sure they hear about it."
+msgid "[P] Well, I'll make sure they hear about it."
+msgstr "[P] Well, I'll make sure they hear about it."
 
 # game/UpdateScript0.05.rpy:5381## # translate crowdin park_activities_748c6753:
-msgid "P "Come on Mr. Peterson. Your family is worried sick about you."
-    P "Come on Mr. Peterson. Your family is worried sick about you."
+msgid "[P] Come on Mr. Peterson. Your family is worried sick about you."
+msgstr "[P] Come on Mr. Peterson. Your family is worried sick about you."
 
 # game/UpdateScript0.05.rpy:5382## # translate crowdin park_activities_e2725ab0:
 msgid "MP "Can that young prostitute come with us?"
     MP "Can that young prostitute come with us?"
 
 # game/UpdateScript0.05.rpy:5383## # translate crowdin park_activities_f578cc1f:
-msgid "P "We'll see if she's willing to visit you in the nursing home."
-    P "We'll see if she's willing to visit you in the nursing home."
+msgid "[P] We'll see if she's willing to visit you in the nursing home."
+msgstr "[P] We'll see if she's willing to visit you in the nursing home."
 
 # game/UpdateScript0.05.rpy:5384## # translate crowdin park_activities_d6e6272f:
 msgid "[S] Ahhh...."
@@ -9755,24 +9755,24 @@ msgid "[X] Hey! You two on the bench"
 msgstr "[X] Hey! You two on the bench"
 
 # game/UpdateScript0.05.rpy:5511## # translate crowdin park_activities_d6c43065:
-msgid "P "I'm going to have to ask you two to tone it down."
-    P "I'm going to have to ask you two to tone it down."
+msgid "[P] I'm going to have to ask you two to tone it down."
+msgstr "[P] I'm going to have to ask you two to tone it down."
 
 # game/UpdateScript0.05.rpy:5512## # translate crowdin park_activities_19e0dc83:
 msgid "[S] I'm sorry. I didn't realize we were doing anything wrong."
 msgstr "[S] I'm sorry. I didn't realize we were doing anything wrong."
 
 # game/UpdateScript0.05.rpy:5513## # translate crowdin park_activities_ca00f941:
-msgid "P "Well, what you were doing isn't technically illegal, but you two were sure pushing the boundaries of indecent exposure."
-    P "Well, what you were doing isn't technically illegal, but you two were sure pushing the boundaries of indecent exposure."
+msgid "[P] Well, what you were doing isn't technically illegal, but you two were sure pushing the boundaries of indecent exposure."
+msgstr "[P] Well, what you were doing isn't technically illegal, but you two were sure pushing the boundaries of indecent exposure."
 
 # game/UpdateScript0.05.rpy:5514## # translate crowdin park_activities_cea88566:
 msgid "[R] We're sorry."
 msgstr "[R] We're sorry."
 
 # game/UpdateScript0.05.rpy:5515## # translate crowdin park_activities_6b53ad23:
-msgid "P "Ok buddy, Why don't you take your little girlfriend and do this in the privacy of your own home."
-    P "Ok buddy, Why don't you take your little girlfriend and do this in the privacy of your own home."
+msgid "[P] Ok buddy, Why don't you take your little girlfriend and do this in the privacy of your own home."
+msgstr "[P] Ok buddy, Why don't you take your little girlfriend and do this in the privacy of your own home."
 
 # game/UpdateScript0.05.rpy:5516## # translate crowdin park_activities_b916c1bf:
 msgid "[R] But she's not my girlfriend, she's my.... I mean uhhh...."
@@ -9787,8 +9787,8 @@ msgid "[ST] {i}He can be such an idiot!{/i}"
 msgstr "[ST] {i}He can be such an idiot!{/i}"
 
 # game/UpdateScript0.05.rpy:5519## # translate crowdin park_activities_f298ba70:
-msgid "P "Yeah, I don't really care about the details of your relationship, just take it somewhere else, ok?"
-    P "Yeah, I don't really care about the details of your relationship, just take it somewhere else, ok?"
+msgid "[P] Yeah, I don't really care about the details of your relationship, just take it somewhere else, ok?"
+msgstr "[P] Yeah, I don't really care about the details of your relationship, just take it somewhere else, ok?"
 
 # game/UpdateScript0.05.rpy:5520## # translate crowdin park_activities_88e3b36d:
 msgid "[R] Yeah, we're leaving right now."
