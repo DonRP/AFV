@@ -11583,44 +11583,44 @@ msgid "[RT] ...."
 msgstr "[RT] ...."
 
 # game/UpdateScript0.06.rpy:7264## # translate crowdin diaz_is_back_8a4d0e22:
-msgid "ADT "{i}What the hell? Where is everyone?{/i}"
-    ADT "{i}What the hell? Where is everyone?{/i}"
+msgid "[ADT] {i}What the hell? Where is everyone?{/i}"
+msgstr "[ADT] {i}What the hell? Where is everyone?{/i}"
 
 # game/UpdateScript0.06.rpy:7265## # translate crowdin diaz_is_back_88fcbc6a:
-msgid "ADT "{i}I guess I'll just use my key and let myself in.{/i}"
-    ADT "{i}I guess I'll just use my key and let myself in.{/i}"
+msgid "[ADT] {i}I guess I'll just use my key and let myself in.{/i}"
+msgstr "[ADT] {i}I guess I'll just use my key and let myself in.{/i}"
 
 # game/UpdateScript0.06.rpy:7268## # translate crowdin diaz_is_back_0bae9818:
 msgid "[AD] Hello!... Is anybody home?"
 msgstr "[AD] Hello!... Is anybody home?"
 
 # game/UpdateScript0.06.rpy:7269## # translate crowdin diaz_is_back_99332836:
-msgid "ADT "{i}I know [mom_name] left this morning to talk to her lawyer, and I saw Sidney go running.{/i}"
-    ADT "{i}I know [mom_name] left this morning to talk to her lawyer, and I saw Sidney go running.{/i}"
+msgid "[ADT] {i}I know [mom_name] left this morning to talk to her lawyer, and I saw Sidney go running.{/i}"
+msgstr "[ADT] {i}I know [mom_name] left this morning to talk to her lawyer, and I saw Sidney go running.{/i}"
 
 # game/UpdateScript0.06.rpy:7270## # translate crowdin diaz_is_back_b09a5c8f:
-msgid "ADT "{i}The rest of them have got to be here.{/i}"
-    ADT "{i}The rest of them have got to be here.{/i}"
+msgid "[ADT] {i}The rest of them have got to be here.{/i}"
+msgstr "[ADT] {i}The rest of them have got to be here.{/i}"
 
 # game/UpdateScript0.06.rpy:7271## # translate crowdin diaz_is_back_3ccb980a:
-msgid "ADT "{i}I'll just show myself into Lauren's room, then.{/i}"
-    ADT "{i}I'll just show myself into Lauren's room, then.{/i}"
+msgid "[ADT] {i}I'll just show myself into Lauren's room, then.{/i}"
+msgstr "[ADT] {i}I'll just show myself into Lauren's room, then.{/i}"
 
 # game/UpdateScript0.06.rpy:7272## # translate crowdin diaz_is_back_adc3e8cd:
-msgid "ADT "{i}From what I've seen on [ryan]'s little spycams, I'd say it's about time for Mandy to join in on the fun.{/i}"
-    ADT "{i}From what I've seen on [ryan]'s little spycams, I'd say it's about time for Mandy to join in on the fun.{/i}"
+msgid "[ADT] {i}From what I've seen on [ryan]'s little spycams, I'd say it's about time for Mandy to join in on the fun.{/i}"
+msgstr "[ADT] {i}From what I've seen on [ryan]'s little spycams, I'd say it's about time for Mandy to join in on the fun.{/i}"
 
 # game/UpdateScript0.06.rpy:7277## # translate crowdin diaz_is_back_41944e4a:
-msgid "ADT "{i}Ohhh... how adorable is that?{/i}"
-    ADT "{i}Ohhh... how adorable is that?{/i}"
+msgid "[ADT] {i}Ohhh... how adorable is that?{/i}"
+msgstr "[ADT] {i}Ohhh... how adorable is that?{/i}"
 
 # game/UpdateScript0.06.rpy:7278## # translate crowdin diaz_is_back_ec13ffa7:
-msgid "ADT "{i}I almost hate to wake them.{/i}"
-    ADT "{i}I almost hate to wake them.{/i}"
+msgid "[ADT] {i}I almost hate to wake them.{/i}"
+msgstr "[ADT] {i}I almost hate to wake them.{/i}"
 
 # game/UpdateScript0.06.rpy:7279## # translate crowdin diaz_is_back_420f6d85:
-msgid "ADT "{i}But I didn't break into their house for nothing!{/i}"
-    ADT "{i}But I didn't break into their house for nothing!{/i}"
+msgid "[ADT] {i}But I didn't break into their house for nothing!{/i}"
+msgstr "[ADT] {i}But I didn't break into their house for nothing!{/i}"
 
 # game/UpdateScript0.06.rpy:7283## # translate crowdin diaz_is_back_c5c89e74:
 msgid "[AD] Good morning, girls!"
@@ -11935,8 +11935,8 @@ msgid "[AD] Alright, no need to be so rude. I'll just show myself out."
 msgstr "[AD] Alright, no need to be so rude. I'll just show myself out."
 
 # game/UpdateScript0.06.rpy:7400## # translate crowdin diaz_is_back_50565260:
-msgid "ADT "{i}Jerk... I'll fucking change in my car.{/i}"
-    ADT "{i}Jerk... I'll fucking change in my car.{/i}"
+msgid "[ADT] {i}Jerk... I'll fucking change in my car.{/i}"
+msgstr "[ADT] {i}Jerk... I'll fucking change in my car.{/i}"
 
 # game/UpdateScript0.06.rpy:7403## # translate crowdin diaz_is_back_fc88d2b1:
 msgid "[R] Are you two ok?"
@@ -12167,36 +12167,36 @@ msgid "MD "Just take off your skirt, and follow my lead."
     MD "Just take off your skirt, and follow my lead."
 
 # game/UpdateScript0.06.rpy:7500## # translate crowdin diaz_is_back_8f91f713:
-msgid "ADT "{i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
-    ADT "{i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
+msgid "[ADT] {i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
+msgstr "[ADT] {i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
 
 # game/UpdateScript0.06.rpy:7503## # translate crowdin diaz_is_back_16e0a530:
-msgid "ADT "{i}I hope I didn't take too long.{/i}"
-    ADT "{i}I hope I didn't take too long.{/i}"
+msgid "[ADT] {i}I hope I didn't take too long.{/i}"
+msgstr "[ADT] {i}I hope I didn't take too long.{/i}"
 
 # game/UpdateScript0.06.rpy:7504## # translate crowdin diaz_is_back_c1fb7fa7:
-msgid "ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
-    ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgid "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgstr "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
 
 # game/UpdateScript0.06.rpy:7507## # translate crowdin diaz_is_back_fef8e416:
-msgid "ADT "{i}Oh, well now.... this is interesting!{/i}"
-    ADT "{i}Oh, well now.... this is interesting!{/i}"
+msgid "[ADT] {i}Oh, well now.... this is interesting!{/i}"
+msgstr "[ADT] {i}Oh, well now.... this is interesting!{/i}"
 
 # game/UpdateScript0.06.rpy:7508## # translate crowdin diaz_is_back_6bbb2d35:
-msgid "ADT "{i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
-    ADT "{i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
+msgid "[ADT] {i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
+msgstr "[ADT] {i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
 
 # game/UpdateScript0.06.rpy:7509## # translate crowdin diaz_is_back_959b975e:
-msgid "ADT "{i}What could he have said to them to make this happen?{/i}"
-    ADT "{i}What could he have said to them to make this happen?{/i}"
+msgid "[ADT] {i}What could he have said to them to make this happen?{/i}"
+msgstr "[ADT] {i}What could he have said to them to make this happen?{/i}"
 
 # game/UpdateScript0.06.rpy:7510## # translate crowdin diaz_is_back_e95a5683:
-msgid "ADT "{i}I'm starting to respect this kid's game!{/i}"
-    ADT "{i}I'm starting to respect this kid's game!{/i}"
+msgid "[ADT] {i}I'm starting to respect this kid's game!{/i}"
+msgstr "[ADT] {i}I'm starting to respect this kid's game!{/i}"
 
 # game/UpdateScript0.06.rpy:7513## # translate crowdin diaz_is_back_5afde0e6:
-msgid "ADT "{i}That's fucking hot!{/i}"
-    ADT "{i}That's fucking hot!{/i}"
+msgid "[ADT] {i}That's fucking hot!{/i}"
+msgstr "[ADT] {i}That's fucking hot!{/i}"
 
 # game/UpdateScript0.06.rpy:7541## # translate crowdin diaz_is_back_2f6de9bb:
 msgid "[RT] {i}Oh, God!... This might be the best day of my life!{/i}"
@@ -12535,16 +12535,16 @@ msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7675## # translate crowdin diaz_is_back_bcd848a4:
-msgid "ADT "{i}I love this job!{/i}"
-    ADT "{i}I love this job!{/i}"
+msgid "[ADT] {i}I love this job!{/i}"
+msgstr "[ADT] {i}I love this job!{/i}"
 
 # game/UpdateScript0.06.rpy:7676## # translate crowdin diaz_is_back_1c461274:
-msgid "ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
-    ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
+msgid "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
+msgstr "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
 
 # game/UpdateScript0.06.rpy:7677## # translate crowdin diaz_is_back_10392901:
-msgid "ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
-    ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgid "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgstr "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
 
 # game/UpdateScript0.06.rpy:7679## # translate crowdin diaz_is_back_b976ed1a:
 msgid "[AD] Alright... I think Lauren's probably had enough fun for today."
@@ -12719,20 +12719,20 @@ msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7750## # translate crowdin diaz_is_back_bcd848a4_1:
-msgid "ADT "{i}I love this job!{/i}"
-    ADT "{i}I love this job!{/i}"
+msgid "[ADT] {i}I love this job!{/i}"
+msgstr "[ADT] {i}I love this job!{/i}"
 
 # game/UpdateScript0.06.rpy:7751## # translate crowdin diaz_is_back_50560e02:
-msgid "ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
-    ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
+msgid "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
+msgstr "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
 
 # game/UpdateScript0.06.rpy:7752## # translate crowdin diaz_is_back_1c461274_1:
-msgid "ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
-    ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
+msgid "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
+msgstr "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
 
 # game/UpdateScript0.06.rpy:7753## # translate crowdin diaz_is_back_10392901_1:
-msgid "ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
-    ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgid "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgstr "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
 
 # game/UpdateScript0.06.rpy:7755## # translate crowdin diaz_is_back_572984ea:
 msgid "[AD] Alright... I think Mandy's probably had enough fun for today."
@@ -13091,36 +13091,36 @@ msgid "MD "Just take off your skirt, and follow my lead."
     MD "Just take off your skirt, and follow my lead."
 
 # game/UpdateScript0.06.rpy:7920## # translate crowdin ryan_lauren_and_mandy_8f91f713:
-msgid "ADT "{i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
-    ADT "{i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
+msgid "[ADT] {i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
+msgstr "[ADT] {i}Finally! It's such a fucking pain to change clothes in the car.{/i}"
 
 # game/UpdateScript0.06.rpy:7923## # translate crowdin ryan_lauren_and_mandy_16e0a530:
-msgid "ADT "{i}I hope I didn't take too long.{/i}"
-    ADT "{i}I hope I didn't take too long.{/i}"
+msgid "[ADT] {i}I hope I didn't take too long.{/i}"
+msgstr "[ADT] {i}I hope I didn't take too long.{/i}"
 
 # game/UpdateScript0.06.rpy:7924## # translate crowdin ryan_lauren_and_mandy_c1fb7fa7:
-msgid "ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
-    ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgid "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgstr "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
 
 # game/UpdateScript0.06.rpy:7927## # translate crowdin ryan_lauren_and_mandy_fef8e416:
-msgid "ADT "{i}Oh, well now.... this is interesting!{/i}"
-    ADT "{i}Oh, well now.... this is interesting!{/i}"
+msgid "[ADT] {i}Oh, well now.... this is interesting!{/i}"
+msgstr "[ADT] {i}Oh, well now.... this is interesting!{/i}"
 
 # game/UpdateScript0.06.rpy:7928## # translate crowdin ryan_lauren_and_mandy_6bbb2d35:
-msgid "ADT "{i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
-    ADT "{i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
+msgid "[ADT] {i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
+msgstr "[ADT] {i}I didn't think he'd be able to get Mandy involved this quickly!{/i}"
 
 # game/UpdateScript0.06.rpy:7929## # translate crowdin ryan_lauren_and_mandy_959b975e:
-msgid "ADT "{i}What could he have said to them to make this happen?{/i}"
-    ADT "{i}What could he have said to them to make this happen?{/i}"
+msgid "[ADT] {i}What could he have said to them to make this happen?{/i}"
+msgstr "[ADT] {i}What could he have said to them to make this happen?{/i}"
 
 # game/UpdateScript0.06.rpy:7930## # translate crowdin ryan_lauren_and_mandy_e95a5683:
-msgid "ADT "{i}I'm starting to respect this kid's game!{/i}"
-    ADT "{i}I'm starting to respect this kid's game!{/i}"
+msgid "[ADT] {i}I'm starting to respect this kid's game!{/i}"
+msgstr "[ADT] {i}I'm starting to respect this kid's game!{/i}"
 
 # game/UpdateScript0.06.rpy:7933## # translate crowdin ryan_lauren_and_mandy_5afde0e6:
-msgid "ADT "{i}That's fucking hot!{/i}"
-    ADT "{i}That's fucking hot!{/i}"
+msgid "[ADT] {i}That's fucking hot!{/i}"
+msgstr "[ADT] {i}That's fucking hot!{/i}"
 
 # game/UpdateScript0.06.rpy:7961## # translate crowdin ryan_lauren_and_mandy_2f6de9bb:
 msgid "[RT] {i}Oh, God!... This might be the best day of my life!{/i}"
@@ -13339,20 +13339,20 @@ msgid "[L] I can't wait any longer. Let's just take off our skirts already."
 msgstr "[L] I can't wait any longer. Let's just take off our skirts already."
 
 # game/UpdateScript0.06.rpy:8067## # translate crowdin ryan_lauren_and_mandy_16e0a530_1:
-msgid "ADT "{i}I hope I didn't take too long.{/i}"
-    ADT "{i}I hope I didn't take too long.{/i}"
+msgid "[ADT] {i}I hope I didn't take too long.{/i}"
+msgstr "[ADT] {i}I hope I didn't take too long.{/i}"
 
 # game/UpdateScript0.06.rpy:8068## # translate crowdin ryan_lauren_and_mandy_c1fb7fa7_1:
-msgid "ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
-    ADT "{i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgid "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
+msgstr "[ADT] {i}I would hate to miss out on their after-Diaz visit ritual.{/i}"
 
 # game/UpdateScript0.06.rpy:8071## # translate crowdin ryan_lauren_and_mandy_ed1b58bc:
-msgid "ADT "{i}Haha... I'd say my visit is an aphrodisiac!{/i}"
-    ADT "{i}Haha... I'd say my visit is an aphrodisiac!{/i}"
+msgid "[ADT] {i}Haha... I'd say my visit is an aphrodisiac!{/i}"
+msgstr "[ADT] {i}Haha... I'd say my visit is an aphrodisiac!{/i}"
 
 # game/UpdateScript0.06.rpy:8074## # translate crowdin ryan_lauren_and_mandy_5afde0e6_1:
-msgid "ADT "{i}That's fucking hot!{/i}"
-    ADT "{i}That's fucking hot!{/i}"
+msgid "[ADT] {i}That's fucking hot!{/i}"
+msgstr "[ADT] {i}That's fucking hot!{/i}"
 
 # game/UpdateScript0.06.rpy:8102## # translate crowdin ryan_lauren_and_mandy_dd07b7c5:
 msgid "[RT] {i}Oh, God!... This feels so good!{/i}"
@@ -13819,28 +13819,28 @@ msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8301## # translate crowdin diaz_lauren_and_mandy_bcd848a4:
-msgid "ADT "{i}I love this job!{/i}"
-    ADT "{i}I love this job!{/i}"
+msgid "[ADT] {i}I love this job!{/i}"
+msgstr "[ADT] {i}I love this job!{/i}"
 
 # game/UpdateScript0.06.rpy:8302## # translate crowdin diaz_lauren_and_mandy_50560e02:
-msgid "ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
-    ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
+msgid "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
+msgstr "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
 
 # game/UpdateScript0.06.rpy:8304## # translate crowdin diaz_lauren_and_mandy_1c461274:
-msgid "ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
-    ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
+msgid "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
+msgstr "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
 
 # game/UpdateScript0.06.rpy:8305## # translate crowdin diaz_lauren_and_mandy_10392901:
-msgid "ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
-    ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgid "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgstr "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
 
 # game/UpdateScript0.06.rpy:8307## # translate crowdin diaz_lauren_and_mandy_beedb701:
-msgid "ADT "{i}And they've let me do this multiple times now!{/i}"
-    ADT "{i}And they've let me do this multiple times now!{/i}"
+msgid "[ADT] {i}And they've let me do this multiple times now!{/i}"
+msgstr "[ADT] {i}And they've let me do this multiple times now!{/i}"
 
 # game/UpdateScript0.06.rpy:8308## # translate crowdin diaz_lauren_and_mandy_f0967c78:
-msgid "ADT "{i}They're so into this!{/i}"
-    ADT "{i}They're so into this!{/i}"
+msgid "[ADT] {i}They're so into this!{/i}"
+msgstr "[ADT] {i}They're so into this!{/i}"
 
 # game/UpdateScript0.06.rpy:8310## # translate crowdin diaz_lauren_and_mandy_b976ed1a:
 msgid "[AD] Alright... I think Lauren's probably had enough fun for today."
@@ -14051,28 +14051,28 @@ msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8396## # translate crowdin diaz_lauren_and_mandy_bcd848a4_1:
-msgid "ADT "{i}I love this job!{/i}"
-    ADT "{i}I love this job!{/i}"
+msgid "[ADT] {i}I love this job!{/i}"
+msgstr "[ADT] {i}I love this job!{/i}"
 
 # game/UpdateScript0.06.rpy:8397## # translate crowdin diaz_lauren_and_mandy_50560e02_1:
-msgid "ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
-    ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
+msgid "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
+msgstr "[ADT] {i}It's a rare thing to find a family that's this perverted.{/i}"
 
 # game/UpdateScript0.06.rpy:8399## # translate crowdin diaz_lauren_and_mandy_1c461274_1:
-msgid "ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
-    ADT "{i}I wouldn't be able to get away with this with most people...{/i}"
+msgid "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
+msgstr "[ADT] {i}I wouldn't be able to get away with this with most people...{/i}"
 
 # game/UpdateScript0.06.rpy:8400## # translate crowdin diaz_lauren_and_mandy_10392901_1:
-msgid "ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
-    ADT "{i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgid "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
+msgstr "[ADT] {i}But after reading their digital journals and seeing their browser histories, I know I'm just helping them fulfill their deepest and most secret desires.{/i}"
 
 # game/UpdateScript0.06.rpy:8402## # translate crowdin diaz_lauren_and_mandy_beedb701_1:
-msgid "ADT "{i}And they've let me do this multiple times now!{/i}"
-    ADT "{i}And they've let me do this multiple times now!{/i}"
+msgid "[ADT] {i}And they've let me do this multiple times now!{/i}"
+msgstr "[ADT] {i}And they've let me do this multiple times now!{/i}"
 
 # game/UpdateScript0.06.rpy:8403## # translate crowdin diaz_lauren_and_mandy_f0967c78_1:
-msgid "ADT "{i}They're so into this!{/i}"
-    ADT "{i}They're so into this!{/i}"
+msgid "[ADT] {i}They're so into this!{/i}"
+msgstr "[ADT] {i}They're so into this!{/i}"
 
 # game/UpdateScript0.06.rpy:8405## # translate crowdin diaz_lauren_and_mandy_572984ea:
 msgid "[AD] Alright... I think Mandy's probably had enough fun for today."
@@ -15975,8 +15975,8 @@ msgid "[AD] {i}GASP!{/i} Oh, my God!"
 msgstr "[AD] {i}GASP!{/i} Oh, my God!"
 
 # game/UpdateScript0.06.rpy:9257## # translate crowdin sid_sex_event_b97095e9:
-msgid "ADT "{i}Holy fuck, Diaz! Ignore those sexy asses for a minute.{/i}"
-    ADT "{i}Holy fuck, Diaz! Ignore those sexy asses for a minute.{/i}"
+msgid "[ADT] {i}Holy fuck, Diaz! Ignore those sexy asses for a minute.{/i}"
+msgstr "[ADT] {i}Holy fuck, Diaz! Ignore those sexy asses for a minute.{/i}"
 
 # game/UpdateScript0.06.rpy:9258## # translate crowdin sid_sex_event_8eedc6b2:
 msgid "[AD] Where's Charlie the Chin?... Did he do this to you?"

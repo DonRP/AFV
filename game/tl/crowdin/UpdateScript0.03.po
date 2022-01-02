@@ -2847,48 +2847,48 @@ msgid "[LT] {i}It's a good thing we'll never go further than this. I think I'd b
 msgstr "[LT] {i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
 
 # game/UpdateScript0.03.rpy:1788## # translate crowdin ryan_and_lauren_327a297d:
-msgid "ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-    ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
+msgid "[ADT] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
+msgstr "[ADT] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
 
 # game/UpdateScript0.03.rpy:1789## # translate crowdin ryan_and_lauren_dcacf2ba:
-msgid "ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
-    ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
+msgid "[ADT] {i}At least I've got an extra $500 to enjoy.{/i}"
+msgstr "[ADT] {i}At least I've got an extra $500 to enjoy.{/i}"
 
 # game/UpdateScript0.03.rpy:1792## # translate crowdin ryan_and_lauren_acc394b2:
-msgid "ADT "{i}Time to watch my favorite family on the TV again.{/i}"
-    ADT "{i}Time to watch my favorite family on the TV again.{/i}"
+msgid "[ADT] {i}Time to watch my favorite family on the TV again.{/i}"
+msgstr "[ADT] {i}Time to watch my favorite family on the TV again.{/i}"
 
 # game/UpdateScript0.03.rpy:1793## # translate crowdin ryan_and_lauren_9f513ffc:
-msgid "ADT "{i}So much drama.... will they?.... Won't they?.... {/i}"
-    ADT "{i}So much drama.... will they?.... Won't they?.... {/i}"
+msgid "[ADT] {i}So much drama.... will they?.... Won't they?.... {/i}"
+msgstr "[ADT] {i}So much drama.... will they?.... Won't they?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1794## # translate crowdin ryan_and_lauren_b955da6b:
-msgid "ADT "{i}(sarcastically) I can't wait to watch the next episode.{/i}"
-    ADT "{i}(sarcastically) I can't wait to watch the next episode.{/i}"
+msgid "[ADT] {i}(sarcastically) I can't wait to watch the next episode.{/i}"
+msgstr "[ADT] {i}(sarcastically) I can't wait to watch the next episode.{/i}"
 
 # game/UpdateScript0.03.rpy:1795## # translate crowdin ryan_and_lauren_86891b5e:
-msgid "ADT "{i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
-    ADT "{i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
+msgid "[ADT] {i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
+msgstr "[ADT] {i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
 
 # game/UpdateScript0.03.rpy:1796## # translate crowdin ryan_and_lauren_ee9467db:
-msgid "ADT "{i}They were so easy to hack into.{/i}"
-    ADT "{i}They were so easy to hack into.{/i}"
+msgid "[ADT] {i}They were so easy to hack into.{/i}"
+msgstr "[ADT] {i}They were so easy to hack into.{/i}"
 
 # game/UpdateScript0.03.rpy:1797## # translate crowdin ryan_and_lauren_9fb77b3e:
-msgid "ADT "{i}I should check Lauren's room, she might be getting dressed for school.{/i}"
-    ADT "{i}I should check Lauren's room, she might be getting dressed for school.{/i}"
+msgid "[ADT] {i}I should check Lauren's room, she might be getting dressed for school.{/i}"
+msgstr "[ADT] {i}I should check Lauren's room, she might be getting dressed for school.{/i}"
 
 # game/UpdateScript0.03.rpy:1800## # translate crowdin ryan_and_lauren_e8bf8080:
-msgid "ADT "{i}Oh my God.... this is interesting!{/i}"
-    ADT "{i}Oh my God.... this is interesting!{/i}"
+msgid "[ADT] {i}Oh my God.... this is interesting!{/i}"
+msgstr "[ADT] {i}Oh my God.... this is interesting!{/i}"
 
 # game/UpdateScript0.03.rpy:1801## # translate crowdin ryan_and_lauren_2ce65086:
-msgid "ADT "{i}Haha.... I'm not surprised!{/i}"
-    ADT "{i}Haha.... I'm not surprised!{/i}"
+msgid "[ADT] {i}Haha.... I'm not surprised!{/i}"
+msgstr "[ADT] {i}Haha.... I'm not surprised!{/i}"
 
 # game/UpdateScript0.03.rpy:1804## # translate crowdin ryan_and_lauren_bae084fe:
-msgid "ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-    ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
+msgid "[ADT] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
+msgstr "[ADT] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
 
 # game/UpdateScript0.03.rpy:1859## # translate crowdin ryan_and_lauren_1ebb5fe1:
 msgid "[L] Well, big brother?"
@@ -3103,32 +3103,32 @@ msgid "[LT] {i}It's a good thing we'll never go further than this. I think I'd b
 msgstr "[LT] {i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
 
 # game/UpdateScript0.03.rpy:1975## # translate crowdin ryan_and_lauren_327a297d_1:
-msgid "ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-    ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
+msgid "[ADT] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
+msgstr "[ADT] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
 
 # game/UpdateScript0.03.rpy:1976## # translate crowdin ryan_and_lauren_dcacf2ba_1:
-msgid "ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
-    ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
+msgid "[ADT] {i}At least I've got an extra $500 to enjoy.{/i}"
+msgstr "[ADT] {i}At least I've got an extra $500 to enjoy.{/i}"
 
 # game/UpdateScript0.03.rpy:1979## # translate crowdin ryan_and_lauren_acc394b2_1:
-msgid "ADT "{i}Time to watch my favorite family on the TV again.{/i}"
-    ADT "{i}Time to watch my favorite family on the TV again.{/i}"
+msgid "[ADT] {i}Time to watch my favorite family on the TV again.{/i}"
+msgstr "[ADT] {i}Time to watch my favorite family on the TV again.{/i}"
 
 # game/UpdateScript0.03.rpy:1980## # translate crowdin ryan_and_lauren_ced64c4a:
-msgid "ADT "{i}I wonder if [ryan] and Lauren are going at it again.{/i}"
-    ADT "{i}I wonder if [ryan] and Lauren are going at it again.{/i}"
+msgid "[ADT] {i}I wonder if [ryan] and Lauren are going at it again.{/i}"
+msgstr "[ADT] {i}I wonder if [ryan] and Lauren are going at it again.{/i}"
 
 # game/UpdateScript0.03.rpy:1983## # translate crowdin ryan_and_lauren_335fd228:
-msgid "ADT "{i}Haha.... looks like I'm an aphrodisiac!{/i}"
-    ADT "{i}Haha.... looks like I'm an aphrodisiac!{/i}"
+msgid "[ADT] {i}Haha.... looks like I'm an aphrodisiac!{/i}"
+msgstr "[ADT] {i}Haha.... looks like I'm an aphrodisiac!{/i}"
 
 # game/UpdateScript0.03.rpy:1984## # translate crowdin ryan_and_lauren_971430d5:
-msgid "ADT "{i}I wonder when they'll take it further.{/i}"
-    ADT "{i}I wonder when they'll take it further.{/i}"
+msgid "[ADT] {i}I wonder when they'll take it further.{/i}"
+msgstr "[ADT] {i}I wonder when they'll take it further.{/i}"
 
 # game/UpdateScript0.03.rpy:1987## # translate crowdin ryan_and_lauren_bae084fe_1:
-msgid "ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-    ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
+msgid "[ADT] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
+msgstr "[ADT] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
 
 # game/UpdateScript0.03.rpy:2042## # translate crowdin ryan_and_lauren_1ebb5fe1_1:
 msgid "[L] Well, big brother?"
