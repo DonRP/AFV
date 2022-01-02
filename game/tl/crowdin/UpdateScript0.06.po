@@ -20431,68 +20431,68 @@ msgid "[M] {i}(sarcastically){/i} I can't wait."
 msgstr "[M] {i}(sarcastically){/i} I can't wait."
 
 # game/UpdateScript0.06.rpy:11688## # translate crowdin ph_recap_beginning_420f1409:
-msgid "HGT "{i}Oh, Merlin's saggy left testicle! That was close!{/i}"
-    HGT "{i}Oh, Merlin's saggy left testicle! That was close!{/i}"
+msgid "[HGT] {i}Oh, Merlin's saggy left testicle! That was close!{/i}"
+msgstr "[HGT] {i}Oh, Merlin's saggy left testicle! That was close!{/i}"
 
 # game/UpdateScript0.06.rpy:11689## # translate crowdin ph_recap_beginning_72e3798e:
-msgid "HGT "{i}If I'd been caught in the forbidden section of the library, I would have cost our house over three hundred points!{/i}"
-    HGT "{i}If I'd been caught in the forbidden section of the library, I would have cost our house over three hundred points!{/i}"
+msgid "[HGT] {i}If I'd been caught in the forbidden section of the library, I would have cost our house over three hundred points!{/i}"
+msgstr "[HGT] {i}If I'd been caught in the forbidden section of the library, I would have cost our house over three hundred points!{/i}"
 
 # game/UpdateScript0.06.rpy:11690## # translate crowdin ph_recap_beginning_e0b1de0a:
-msgid "HGT "{i}I think Ron Tiddle's diary will help Perry defeat \"He who must not be kink-shamed!\"{/i}"
-    HGT "{i}I think Ron Tiddle's diary will help Perry defeat \"He who must not be kink-shamed!\"{/i}"
+msgid "[HGT] {i}I think Ron Tiddle's diary will help Perry defeat \"He who must not be kink-shamed!\"{/i}"
+msgstr "[HGT] {i}I think Ron Tiddle's diary will help Perry defeat \"He who must not be kink-shamed!\"{/i}"
 
 # game/UpdateScript0.06.rpy:11691## # translate crowdin ph_recap_beginning_5f9b772e:
 msgid "...."
 msgstr "...."
 
 # game/UpdateScript0.06.rpy:11692## # translate crowdin ph_recap_beginning_db0e9bca:
-msgid "HGT "{i}Did I just hear a noise come from the diary?{/i}"
-    HGT "{i}Did I just hear a noise come from the diary?{/i}"
+msgid "[HGT] {i}Did I just hear a noise come from the diary?{/i}"
+msgstr "[HGT] {i}Did I just hear a noise come from the diary?{/i}"
 
 # game/UpdateScript0.06.rpy:11695## # translate crowdin ph_recap_beginning_61b797bd:
-msgid "HGT "{i}I can't read this. Is this Latin?{/i}"
-    HGT "{i}I can't read this. Is this Latin?{/i}"
+msgid "[HGT] {i}I can't read this. Is this Latin?{/i}"
+msgstr "[HGT] {i}I can't read this. Is this Latin?{/i}"
 
 # game/UpdateScript0.06.rpy:11696## # translate crowdin ph_recap_beginning_908632b9:
-msgid "HGT "{i}Perdidi nasum, sed penis maior possedi?{/i}"
-    HGT "{i}Perdidi nasum, sed penis maior possedi?{/i}"
+msgid "[HGT] {i}Perdidi nasum, sed penis maior possedi?{/i}"
+msgstr "[HGT] {i}Perdidi nasum, sed penis maior possedi?{/i}"
 
 # game/UpdateScript0.06.rpy:11699## # translate crowdin ph_recap_beginning_d9f4ccb3:
-msgid "EV "{i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
-    EV "{i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
+msgid "[EV] {i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
+msgstr "[EV] {i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
 
 # game/UpdateScript0.06.rpy:11702## # translate crowdin ph_recap_beginning_c9a8a19b:
-msgid "HG "Yes master, but until I see it, I will cause mischief in your name."
-    HG "Yes master, but until I see it, I will cause mischief in your name."
+msgid "[HG] Yes master, but until I see it, I will cause mischief in your name."
+msgstr "[HG] Yes master, but until I see it, I will cause mischief in your name."
 
 # game/UpdateScript0.06.rpy:11705## # translate crowdin ph_recap_beginning_be783808:
-msgid "HGT "{i}First I need to do something about these drabby clothes.{/i}"
-    HGT "{i}First I need to do something about these drabby clothes.{/i}"
+msgid "[HGT] {i}First I need to do something about these drabby clothes.{/i}"
+msgstr "[HGT] {i}First I need to do something about these drabby clothes.{/i}"
 
 # game/UpdateScript0.06.rpy:11717## # translate crowdin ph_recap_beginning_c16e89ae:
-msgid "HGT "{i}Haha... That's better! Now how should I cause trouble?{/i}"
-    HGT "{i}Haha... That's better! Now how should I cause trouble?{/i}"
+msgid "[HGT] {i}Haha... That's better! Now how should I cause trouble?{/i}"
+msgstr "[HGT] {i}Haha... That's better! Now how should I cause trouble?{/i}"
 
 # game/UpdateScript0.06.rpy:11718## # translate crowdin ph_recap_beginning_2cdd76d8:
-msgid "HGT "{i}I know!{/i}"
-    HGT "{i}I know!{/i}"
+msgid "[HGT] {i}I know!{/i}"
+msgstr "[HGT] {i}I know!{/i}"
 
 # game/UpdateScript0.06.rpy:11721## # translate crowdin ph_recap_beginning_bc3da7cc:
-msgid "HG "Accio Firebolt!"
-    HG "Accio Firebolt!"
+msgid "[HG] Accio Firebolt!"
+msgstr "[HG] Accio Firebolt!"
 
 # game/UpdateScript0.06.rpy:11724## # translate crowdin ph_recap_beginning_e03fa56c:
-msgid "HGT "{i}And now for some fun.{/i}"
-    HGT "{i}And now for some fun.{/i}"
+msgid "[HGT] {i}And now for some fun.{/i}"
+msgstr "[HGT] {i}And now for some fun.{/i}"
 
 # game/UpdateScript0.06.rpy:11739## # translate crowdin ph_recap_beginning_d5383426:
-msgid "HGT "{i}Hahaha... There's Professor McGargleCum!{/i}"
-    HGT "{i}Hahaha... There's Professor McGargleCum!{/i}"
+msgid "[HGT] {i}Hahaha... There's Professor McGargleCum!{/i}"
+msgstr "[HGT] {i}Hahaha... There's Professor McGargleCum!{/i}"
 
 # game/UpdateScript0.06.rpy:11740## # translate crowdin ph_recap_beginning_8913abd7:
-msgid "HGT "{i}Let's make some mischief for her.{/i}"
-    HGT "{i}Let's make some mischief for her.{/i}"
+msgid "[HGT] {i}Let's make some mischief for her.{/i}"
+msgstr "[HGT] {i}Let's make some mischief for her.{/i}"
 
 # game/UpdateScript0.06.rpy:11743## # translate crowdin ph_recap_beginning_ca674706:
 msgid "PM "Hermione Bang'er! Get back here at once!"
@@ -20511,8 +20511,8 @@ msgid "PM "Stupify!"
     PM "Stupify!"
 
 # game/UpdateScript0.06.rpy:11755## # translate crowdin ph_recap_beginning_0017ece1:
-msgid "HG "OOOHHFFF!"
-    HG "OOOHHFFF!"
+msgid "[HG] OOOHHFFF!"
+msgstr "[HG] OOOHHFFF!"
 
 # game/UpdateScript0.06.rpy:11758## # translate crowdin ph_recap_beginning_31851142:
 msgid "PM "Well, well, well..."
@@ -20535,28 +20535,28 @@ msgid "PM "You will now follow me to detention for the next two hours."
     PM "You will now follow me to detention for the next two hours."
 
 # game/UpdateScript0.06.rpy:11768## # translate crowdin ph_recap_beginning_ec72c158:
-msgid "HGT "{i}Uuucchhh... How am I supposed to cause mischief in detention?{/i}"
-    HGT "{i}Uuucchhh... How am I supposed to cause mischief in detention?{/i}"
+msgid "[HGT] {i}Uuucchhh... How am I supposed to cause mischief in detention?{/i}"
+msgstr "[HGT] {i}Uuucchhh... How am I supposed to cause mischief in detention?{/i}"
 
 # game/UpdateScript0.06.rpy:11771## # translate crowdin ph_recap_beginning_a581f8ff:
-msgid "EV "{i}(Raspy whisper){/i} Perdidi nasum, sed penis maior possedi!"
-    EV "{i}(Raspy whisper){/i} Perdidi nasum, sed penis maior possedi!"
+msgid "[EV] {i}(Raspy whisper){/i} Perdidi nasum, sed penis maior possedi!"
+msgstr "[EV] {i}(Raspy whisper){/i} Perdidi nasum, sed penis maior possedi!"
 
 # game/UpdateScript0.06.rpy:11774## # translate crowdin ph_recap_beginning_a34f3fcc:
-msgid "HGT "{i}That's it!{/i}"
-    HGT "{i}That's it!{/i}"
+msgid "[HGT] {i}That's it!{/i}"
+msgstr "[HGT] {i}That's it!{/i}"
 
 # game/UpdateScript0.06.rpy:11777## # translate crowdin ph_recap_beginning_875299b6:
-msgid "HG "Professor McGargleCum, can you help me with something I read in this book that I don't understand."
-    HG "Professor McGargleCum, can you help me with something I read in this book that I don't understand."
+msgid "[HG] Professor McGargleCum, can you help me with something I read in this book that I don't understand."
+msgstr "[HG] Professor McGargleCum, can you help me with something I read in this book that I don't understand."
 
 # game/UpdateScript0.06.rpy:11778## # translate crowdin ph_recap_beginning_ae75ac3b:
 msgid "PM "It it homework for a class?"
     PM "It it homework for a class?"
 
 # game/UpdateScript0.06.rpy:11779## # translate crowdin ph_recap_beginning_f5b55427:
-msgid "HG "Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
-    HG "Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
+msgid "[HG] Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
+msgstr "[HG] Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
 
 # game/UpdateScript0.06.rpy:11781## # translate crowdin ph_recap_beginning_3ff12c9d:
 msgid "PM "Ron Tiddles diary? But where did you find that?"
@@ -20567,8 +20567,8 @@ msgid "PM "Oh no!..."
     PM "Oh no!..."
 
 # game/UpdateScript0.06.rpy:11785## # translate crowdin ph_recap_beginning_4a753da3:
-msgid "EV "{i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
-    EV "{i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
+msgid "[EV] {i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
+msgstr "[EV] {i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
 
 # game/UpdateScript0.06.rpy:11788## # translate crowdin ph_recap_beginning_a1e8b137:
 msgid "PM "Yes master, but until I see it, I will cause mischief in your name."
@@ -32163,8 +32163,8 @@ msgid "PM "Get on the floor and show me some respect before I {i}Avada Kedavra{/
     PM "Get on the floor and show me some respect before I {i}Avada Kedavra{/i} you into next week."
 
 # game/UpdateScript0.06.rpy:16742## # translate crowdin ph_recap_end_0b37f215:
-msgid "HG "Uhhh... Yes... Professor."
-    HG "Uhhh... Yes... Professor."
+msgid "[HG] Uhhh... Yes... Professor."
+msgstr "[HG] Uhhh... Yes... Professor."
 
 # game/UpdateScript0.06.rpy:16743## # translate crowdin ph_recap_end_2ddda78c:
 msgid "PM "Call me Mistress, and lick those boots clean while you're down there."
@@ -32203,8 +32203,8 @@ msgid "PM "And now you will write lines until I tell you to stop."
     PM "And now you will write lines until I tell you to stop."
 
 # game/UpdateScript0.06.rpy:16758## # translate crowdin ph_recap_end_b9210d1b:
-msgid "HG "But, how can I write lines with my hands tied?"
-    HG "But, how can I write lines with my hands tied?"
+msgid "[HG] But, how can I write lines with my hands tied?"
+msgstr "[HG] But, how can I write lines with my hands tied?"
 
 # game/UpdateScript0.06.rpy:16763## # translate crowdin ph_recap_end_5dc8bcf3:
 msgid "PM "That's right! I want you to write \"I will not dress slutty.\" one hundred times!"
@@ -32215,28 +32215,28 @@ msgid "PM "And while you're doing that... I think I'll help myself to some eye c
     PM "And while you're doing that... I think I'll help myself to some eye candy."
 
 # game/UpdateScript0.06.rpy:16769## # translate crowdin ph_recap_end_9c70221f:
-msgid "HG "You perverted bitch! Get your hands off my dress!"
-    HG "You perverted bitch! Get your hands off my dress!"
+msgid "[HG] You perverted bitch! Get your hands off my dress!"
+msgstr "[HG] You perverted bitch! Get your hands off my dress!"
 
 # game/UpdateScript0.06.rpy:16770## # translate crowdin ph_recap_end_0aaeeec4:
 msgid "PM "Oh... You think it's ok to talk to your professor like that?"
     PM "Oh... You think it's ok to talk to your professor like that?"
 
 # game/UpdateScript0.06.rpy:16771## # translate crowdin ph_recap_end_1002f6e2:
-msgid "HG "I'll talk to you however I want, you STD encrusted flobberworm!"
-    HG "I'll talk to you however I want, you STD encrusted flobberworm!"
+msgid "[HG] I'll talk to you however I want, you STD encrusted flobberworm!"
+msgstr "[HG] I'll talk to you however I want, you STD encrusted flobberworm!"
 
 # game/UpdateScript0.06.rpy:16774## # translate crowdin ph_recap_end_a9e04457:
-msgid "HG "You ugly... Aaahhh!"
-    HG "You ugly... Aaahhh!"
+msgid "[HG] You ugly... Aaahhh!"
+msgstr "[HG] You ugly... Aaahhh!"
 
 # game/UpdateScript0.06.rpy:16778## # translate crowdin ph_recap_end_c89b346d:
-msgid "HG "MMMmmmmmrrrmmmpphhh!..."
-    HG "MMMmmmmmrrrmmmpphhh!..."
+msgid "[HG] MMMmmmmmrrrmmmpphhh!..."
+msgstr "[HG] MMMmmmmmrrrmmmpphhh!..."
 
 # game/UpdateScript0.06.rpy:16780## # translate crowdin ph_recap_end_9f12e788:
-msgid "HGT "{i}Oh, shit! What have I done?{/i}"
-    HGT "{i}Oh, shit! What have I done?{/i}"
+msgid "[HGT] {i}Oh, shit! What have I done?{/i}"
+msgstr "[HGT] {i}Oh, shit! What have I done?{/i}"
 
 # game/UpdateScript0.06.rpy:16781## # translate crowdin ph_recap_end_ecbc3212:
 msgid "PM "That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
