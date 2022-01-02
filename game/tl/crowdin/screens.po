@@ -1,337 +1,337 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
 msgid "game/screens.rpy:256
-    old "History"
+msgid "History"
     new "History"
 
     # game/screens.rpy:257
-    old "Skip"
+msgid "Skip"
     new "Skip"
 
     # game/screens.rpy:258
-    old "Auto"
+msgid "Auto"
     new "Auto"
 
     # game/screens.rpy:259
-    old "Save"
+msgid "Save"
     new "Save"
 
     # game/screens.rpy:260
-    old "Load"
+msgid "Load"
     new "Load"
 
     # game/screens.rpy:261
-    old "Q.Save"
+msgid "Q.Save"
     new "Q.Save"
 
     # game/screens.rpy:262
-    old "Q.Load"
+msgid "Q.Load"
     new "Q.Load"
 
     # game/screens.rpy:263
-    old "Prefs"
+msgid "Prefs"
     new "Prefs"
 
     # game/screens.rpy:308
-    old "Start"
+msgid "Start"
     new "Start"
 
     # game/screens.rpy:319
-    old "Gallery"
+msgid "Gallery"
     new "Gallery"
 
     # game/screens.rpy:321
-    old "Preferences"
+msgid "Preferences"
     new "Preferences"
 
     # game/screens.rpy:325
-    old "End Replay"
+msgid "End Replay"
     new "End Replay"
 
     # game/screens.rpy:329
-    old "Main Menu"
+msgid "Main Menu"
     new "Main Menu"
 
     # game/screens.rpy:331
-    old "About"
+msgid "About"
     new "About"
 
     # game/screens.rpy:334
-    old "Credits"
+msgid "Credits"
     new "Credits"
 
     # game/screens.rpy:339
-    old "Help"
+msgid "Help"
     new "Help"
 
     # game/screens.rpy:342
-    old "Quit"
+msgid "Quit"
     new "Quit"
 
     # game/screens.rpy:496
-    old "Return"
+msgid "Return"
     new "Return"
 
     # game/screens.rpy:580
-    old "Version [config.version!t]\n"
+msgid "Version [config.version!t]\n"
     new "Version [config.version!t]\n"
 
     # game/screens.rpy:586
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:626
-    old "Page {}"
+msgid "Page {}"
     new "Page {}"
 
     # game/screens.rpy:626
-    old "Automatic saves"
+msgid "Automatic saves"
     new "Automatic saves"
 
     # game/screens.rpy:626
-    old "Quick saves"
+msgid "Quick saves"
     new "Quick saves"
 
     # game/screens.rpy:668
-    old "{#file_time}%A, %B %d %Y, %H:%M"
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:668
-    old "empty slot"
+msgid "empty slot"
     new "empty slot"
 
     # game/screens.rpy:694
-    old "<"
+msgid "<"
     new "<"
 
     # game/screens.rpy:697
-    old "{#auto_page}A"
+msgid "{#auto_page}A"
     new "{#auto_page}A"
 
     # game/screens.rpy:700
-    old "{#quick_page}Q"
+msgid "{#quick_page}Q"
     new "{#quick_page}Q"
 
     # game/screens.rpy:706
-    old ">"
+msgid ">"
     new ">"
 
     # game/screens.rpy:763
-    old "Display"
+msgid "Display"
     new "Display"
 
     # game/screens.rpy:764
-    old "Window"
+msgid "Window"
     new "Window"
 
     # game/screens.rpy:765
-    old "Fullscreen"
+msgid "Fullscreen"
     new "Fullscreen"
 
     # game/screens.rpy:769
-    old "Rollback Side"
+msgid "Rollback Side"
     new "Rollback Side"
 
     # game/screens.rpy:770
-    old "Disable"
+msgid "Disable"
     new "Disable"
 
     # game/screens.rpy:771
-    old "Left"
+msgid "Left"
     new "Left"
 
     # game/screens.rpy:772
-    old "Right"
+msgid "Right"
     new "Right"
 
     # game/screens.rpy:777
-    old "Unseen Text"
+msgid "Unseen Text"
     new "Unseen Text"
 
     # game/screens.rpy:778
-    old "After Choices"
+msgid "After Choices"
     new "After Choices"
 
     # game/screens.rpy:779
-    old "Transitions"
+msgid "Transitions"
     new "Transitions"
 
     # game/screens.rpy:783
-    old "Navigation settings"
+msgid "Navigation settings"
     new "Navigation settings"
 
     # game/screens.rpy:790
-    old "Language"
+msgid "Language"
     new "Language"
 
     # game/screens.rpy:847
-    old "Text Speed"
+msgid "Text Speed"
     new "Text Speed"
 
     # game/screens.rpy:851
-    old "Auto-Forward Time"
+msgid "Auto-Forward Time"
     new "Auto-Forward Time"
 
     # game/screens.rpy:858
-    old "Music Volume"
+msgid "Music Volume"
     new "Music Volume"
 
     # game/screens.rpy:865
-    old "Sound Volume"
+msgid "Sound Volume"
     new "Sound Volume"
 
     # game/screens.rpy:871
-    old "Test"
+msgid "Test"
     new "Test"
 
     # game/screens.rpy:875
-    old "Voice Volume"
+msgid "Voice Volume"
     new "Voice Volume"
 
     # game/screens.rpy:886
-    old "Mute All"
+msgid "Mute All"
     new "Mute All"
 
     # game/screens.rpy:1014
-    old "The dialogue history is empty."
+msgid "The dialogue history is empty."
     new "The dialogue history is empty."
 
     # game/screens.rpy:1084
-    old "Keyboard"
+msgid "Keyboard"
     new "Keyboard"
 
     # game/screens.rpy:1085
-    old "Mouse"
+msgid "Mouse"
     new "Mouse"
 
     # game/screens.rpy:1088
-    old "Gamepad"
+msgid "Gamepad"
     new "Gamepad"
 
     # game/screens.rpy:1101
-    old "Enter"
+msgid "Enter"
     new "Enter"
 
     # game/screens.rpy:1102
-    old "Advances dialogue and activates the interface."
+msgid "Advances dialogue and activates the interface."
     new "Advances dialogue and activates the interface."
 
     # game/screens.rpy:1105
-    old "Space"
+msgid "Space"
     new "Space"
 
     # game/screens.rpy:1106
-    old "Advances dialogue without selecting choices."
+msgid "Advances dialogue without selecting choices."
     new "Advances dialogue without selecting choices."
 
     # game/screens.rpy:1109
-    old "Arrow Keys"
+msgid "Arrow Keys"
     new "Arrow Keys"
 
     # game/screens.rpy:1110
-    old "Navigate the interface."
+msgid "Navigate the interface."
     new "Navigate the interface."
 
     # game/screens.rpy:1113
-    old "Escape"
+msgid "Escape"
     new "Escape"
 
     # game/screens.rpy:1114
-    old "Accesses the game menu."
+msgid "Accesses the game menu."
     new "Accesses the game menu."
 
     # game/screens.rpy:1117
-    old "Ctrl"
+msgid "Ctrl"
     new "Ctrl"
 
     # game/screens.rpy:1118
-    old "Skips dialogue while held down."
+msgid "Skips dialogue while held down."
     new "Skips dialogue while held down."
 
     # game/screens.rpy:1121
-    old "Tab"
+msgid "Tab"
     new "Tab"
 
     # game/screens.rpy:1122
-    old "Toggles dialogue skipping."
+msgid "Toggles dialogue skipping."
     new "Toggles dialogue skipping."
 
     # game/screens.rpy:1125
-    old "Page Up"
+msgid "Page Up"
     new "Page Up"
 
     # game/screens.rpy:1126
-    old "Rolls back to earlier dialogue."
+msgid "Rolls back to earlier dialogue."
     new "Rolls back to earlier dialogue."
 
     # game/screens.rpy:1129
-    old "Page Down"
+msgid "Page Down"
     new "Page Down"
 
     # game/screens.rpy:1130
-    old "Rolls forward to later dialogue."
+msgid "Rolls forward to later dialogue."
     new "Rolls forward to later dialogue."
 
     # game/screens.rpy:1134
-    old "Hides the user interface."
+msgid "Hides the user interface."
     new "Hides the user interface."
 
     # game/screens.rpy:1138
-    old "Takes a screenshot."
+msgid "Takes a screenshot."
     new "Takes a screenshot."
 
     # game/screens.rpy:1142
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:1148
-    old "Left Click"
+msgid "Left Click"
     new "Left Click"
 
     # game/screens.rpy:1152
-    old "Middle Click"
+msgid "Middle Click"
     new "Middle Click"
 
     # game/screens.rpy:1156
-    old "Right Click"
+msgid "Right Click"
     new "Right Click"
 
     # game/screens.rpy:1160
-    old "Mouse Wheel Up\nClick Rollback Side"
+msgid "Mouse Wheel Up\nClick Rollback Side"
     new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/screens.rpy:1164
-    old "Mouse Wheel Down"
+msgid "Mouse Wheel Down"
     new "Mouse Wheel Down"
 
     # game/screens.rpy:1171
-    old "Right Trigger\nA/Bottom Button"
+msgid "Right Trigger\nA/Bottom Button"
     new "Right Trigger\nA/Bottom Button"
 
     # game/screens.rpy:1175
-    old "Left Trigger\nLeft Shoulder"
+msgid "Left Trigger\nLeft Shoulder"
     new "Left Trigger\nLeft Shoulder"
 
     # game/screens.rpy:1179
-    old "Right Shoulder"
+msgid "Right Shoulder"
     new "Right Shoulder"
 
     # game/screens.rpy:1184
-    old "D-Pad, Sticks"
+msgid "D-Pad, Sticks"
     new "D-Pad, Sticks"
 
     # game/screens.rpy:1188
-    old "Start, Guide"
+msgid "Start, Guide"
     new "Start, Guide"
 
     # game/screens.rpy:1192
-    old "Y/Top Button"
+msgid "Y/Top Button"
     new "Y/Top Button"
 
     # game/screens.rpy:1195
-    old "Calibrate"
+msgid "Calibrate"
     new "Calibrate"
 
     # game/screens.rpy:1307
-    old "Skipping"
+msgid "Skipping"
     new "Skipping"
 

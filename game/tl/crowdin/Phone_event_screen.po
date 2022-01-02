@@ -1223,22 +1223,22 @@ msgid "End of tutorial."
     "End of tutorial."
 ## # translate crowdin strings:
 msgid "game/Phone_event_screen.rpy:25
-    old "[event_num]:"
+msgid "[event_num]:"
     new "[event_num]:"
 
     # game/Phone_event_screen.rpy:40
-    old "???"
+msgid "???"
     new "???"
 
     # game/Phone_event_screen.rpy:802
-    old "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
+msgid "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
     new "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
 
     # game/Phone_event_screen.rpy:805
-    old "Watch the tutorial again!"
+msgid "Watch the tutorial again!"
     new "Watch the tutorial again!"
 
     # game/Phone_event_screen.rpy:811
-    old "{color=#E60000}-------------------------------------{/color}"
+msgid "{color=#E60000}-------------------------------------{/color}"
     new "{color=#E60000}-------------------------------------{/color}"
 

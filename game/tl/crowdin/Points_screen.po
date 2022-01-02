@@ -1,125 +1,125 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
 msgid "game/Points_screen.rpy:115
-    old "Mom's stats:"
+msgid "Mom's stats:"
     new "Mom's stats:"
 
     # game/Points_screen.rpy:125
-    old "[momaffection]"
+msgid "[momaffection]"
     new "[momaffection]"
 
     # game/Points_screen.rpy:126
-    old "[momrespect]"
+msgid "[momrespect]"
     new "[momrespect]"
 
     # game/Points_screen.rpy:127
-    old "[momlibido]"
+msgid "[momlibido]"
     new "[momlibido]"
 
     # game/Points_screen.rpy:128
-    old "[momsubmission]"
+msgid "[momsubmission]"
     new "[momsubmission]"
 
     # game/Points_screen.rpy:129
-    old "[momanger]"
+msgid "[momanger]"
     new "[momanger]"
 
     # game/Points_screen.rpy:136
-    old "Lauren's stats:"
+msgid "Lauren's stats:"
     new "Lauren's stats:"
 
     # game/Points_screen.rpy:145
-    old "[laurenaffection]"
+msgid "[laurenaffection]"
     new "[laurenaffection]"
 
     # game/Points_screen.rpy:146
-    old "[laurenrespect]"
+msgid "[laurenrespect]"
     new "[laurenrespect]"
 
     # game/Points_screen.rpy:147
-    old "[laurenlibido]"
+msgid "[laurenlibido]"
     new "[laurenlibido]"
 
     # game/Points_screen.rpy:148
-    old "[laurensubmission]"
+msgid "[laurensubmission]"
     new "[laurensubmission]"
 
     # game/Points_screen.rpy:149
-    old "[laurenanger]"
+msgid "[laurenanger]"
     new "[laurenanger]"
 
     # game/Points_screen.rpy:156
-    old "Sidney's stats:"
+msgid "Sidney's stats:"
     new "Sidney's stats:"
 
     # game/Points_screen.rpy:165
-    old "[sidneyaffection]"
+msgid "[sidneyaffection]"
     new "[sidneyaffection]"
 
     # game/Points_screen.rpy:166
-    old "[sidneyrespect]"
+msgid "[sidneyrespect]"
     new "[sidneyrespect]"
 
     # game/Points_screen.rpy:167
-    old "[sidneylibido]"
+msgid "[sidneylibido]"
     new "[sidneylibido]"
 
     # game/Points_screen.rpy:168
-    old "[sidneysubmission]"
+msgid "[sidneysubmission]"
     new "[sidneysubmission]"
 
     # game/Points_screen.rpy:169
-    old "[sidneyanger]"
+msgid "[sidneyanger]"
     new "[sidneyanger]"
 
     # game/Points_screen.rpy:188
-    old "[auntaffection]"
+msgid "[auntaffection]"
     new "[auntaffection]"
 
     # game/Points_screen.rpy:189
-    old "[auntrespect]"
+msgid "[auntrespect]"
     new "[auntrespect]"
 
     # game/Points_screen.rpy:190
-    old "[auntlibido]"
+msgid "[auntlibido]"
     new "[auntlibido]"
 
     # game/Points_screen.rpy:191
-    old "[auntsubmission]"
+msgid "[auntsubmission]"
     new "[auntsubmission]"
 
     # game/Points_screen.rpy:192
-    old "[auntanger]"
+msgid "[auntanger]"
     new "[auntanger]"
 
     # game/Points_screen.rpy:202
-    old "Mandy's stats:"
+msgid "Mandy's stats:"
     new "Mandy's stats:"
 
     # game/Points_screen.rpy:211
-    old "[cousinaffection]"
+msgid "[cousinaffection]"
     new "[cousinaffection]"
 
     # game/Points_screen.rpy:212
-    old "[cousinrespect]"
+msgid "[cousinrespect]"
     new "[cousinrespect]"
 
     # game/Points_screen.rpy:213
-    old "[cousinlibido]"
+msgid "[cousinlibido]"
     new "[cousinlibido]"
 
     # game/Points_screen.rpy:214
-    old "[cousinsubmission]"
+msgid "[cousinsubmission]"
     new "[cousinsubmission]"
 
     # game/Points_screen.rpy:215
-    old "[cousinanger]"
+msgid "[cousinanger]"
     new "[cousinanger]"
 
     # game/Points_screen.rpy:217
-    old "<<"
+msgid "<<"
     new "<<"
 
     # game/Points_screen.rpy:228
-    old ">>"
+msgid ">>"
     new ">>"
 

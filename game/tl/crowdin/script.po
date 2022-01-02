@@ -8243,406 +8243,406 @@ msgid "RT "{i}Now I better get out of here before she notices me.{/i}"
     RT "{i}Now I better get out of here before she notices me.{/i}"
 ## # translate crowdin strings:
 msgid "game/script.rpy:310
-    old "Would you like to see the tutorial?"
+msgid "Would you like to see the tutorial?"
     new "Would you like to see the tutorial?"
 
     # game/script.rpy:310
-    old "Yes."
+msgid "Yes."
     new "Yes."
 
     # game/script.rpy:310
-    old "No."
+msgid "No."
     new "No."
 
     # game/script.rpy:317
-    old "Skip to the end of v0.01b"
+msgid "Skip to the end of v0.01b"
     new "Skip to the end of v0.01b"
 
     # game/script.rpy:317
-    old "Don't skip the game"
+msgid "Don't skip the game"
     new "Don't skip the game"
 
     # game/script.rpy:319
-    old "Chose your route!"
+msgid "Chose your route!"
     new "Chose your route!"
 
     # game/script.rpy:319
-    old "Loyalty route"
+msgid "Loyalty route"
     new "Loyalty route"
 
     # game/script.rpy:319
-    old "NTR route"
+msgid "NTR route"
     new "NTR route"
 
     # game/script.rpy:319
-    old "Back"
+msgid "Back"
     new "Back"
 
     # game/script.rpy:700
-    old "Peek down her robe"
+msgid "Peek down her robe"
     new "Peek down her robe"
 
     # game/script.rpy:700
-    old "Gross!! That's just weird!"
+msgid "Gross!! That's just weird!"
     new "Gross!! That's just weird!"
 
     # game/script.rpy:780
-    old "Lauren, what the hell are you doing?"
+msgid "Lauren, what the hell are you doing?"
     new "Lauren, what the hell are you doing?"
 
     # game/script.rpy:1043
-    old "Sleep"
+msgid "Sleep"
     new "Sleep"
 
     # game/script.rpy:1043
-    old "Never mind"
+msgid "Never mind"
     new "Never mind"
 
     # game/script.rpy:1058
-    old "Memes (Advances time)"
+msgid "Memes (Advances time)"
     new "Memes (Advances time)"
 
     # game/script.rpy:1586
-    old "Go sit down"
+msgid "Go sit down"
     new "Go sit down"
 
     # game/script.rpy:1592
-    old "Ask Mom about her day"
+msgid "Ask Mom about her day"
     new "Ask Mom about her day"
 
     # game/script.rpy:1592
-    old "Ask Lauren about her day"
+msgid "Ask Lauren about her day"
     new "Ask Lauren about her day"
 
     # game/script.rpy:1869
-    old "Yes"
+msgid "Yes"
     new "Yes"
 
     # game/script.rpy:1869
-    old "No"
+msgid "No"
     new "No"
 
     # game/script.rpy:1993
-    old "Skip event and sleep till tomorrow"
+msgid "Skip event and sleep till tomorrow"
     new "Skip event and sleep till tomorrow"
 
     # game/script.rpy:1993
-    old "Jump to Mafia payment event."
+msgid "Jump to Mafia payment event."
     new "Jump to Mafia payment event."
 
     # game/script.rpy:1998
-    old "I'll pay them $1,000."
+msgid "I'll pay them $1,000."
     new "I'll pay them $1,000."
 
     # game/script.rpy:1998
-    old "Shit!... I don't have enough money to pay the Mafia."
+msgid "Shit!... I don't have enough money to pay the Mafia."
     new "Shit!... I don't have enough money to pay the Mafia."
 
     # game/script.rpy:1998
-    old "Let Mom use her \"ass\"ets to pay the debt this week."
+msgid "Let Mom use her \"ass\"ets to pay the debt this week."
     new "Let Mom use her \"ass\"ets to pay the debt this week."
 
     # game/script.rpy:2194
-    old "Look down"
+msgid "Look down"
     new "Look down"
 
     # game/script.rpy:2203
-    old "Look up"
+msgid "Look up"
     new "Look up"
 
     # game/script.rpy:2227
-    old "Cover up"
+msgid "Cover up"
     new "Cover up"
 
     # game/script.rpy:2227
-    old "\"Why should I?\""
+msgid "\"Why should I?\""
     new "\"Why should I?\""
 
     # game/script.rpy:2669
-    old "Watch TV with Lauren"
+msgid "Watch TV with Lauren"
     new "Watch TV with Lauren"
 
     # game/script.rpy:3346
-    old "Look."
+msgid "Look."
     new "Look."
 
     # game/script.rpy:3346
-    old "Never mind."
+msgid "Never mind."
     new "Never mind."
 
     # game/script.rpy:3634
-    old "Peek"
+msgid "Peek"
     new "Peek"
 
     # game/script.rpy:3731
-    old "Have Dinner"
+msgid "Have Dinner"
     new "Have Dinner"
 
     # game/script.rpy:3748
-    old "Hey Mom, it's good to see you up and about!"
+msgid "Hey Mom, it's good to see you up and about!"
     new "Hey Mom, it's good to see you up and about!"
 
     # game/script.rpy:3748
-    old "Are you drinking again?!"
+msgid "Are you drinking again?!"
     new "Are you drinking again?!"
 
     # game/script.rpy:4132
-    old "Look around"
+msgid "Look around"
     new "Look around"
 
     # game/script.rpy:4152
-    old "Talk to Sidney"
+msgid "Talk to Sidney"
     new "Talk to Sidney"
 
     # game/script.rpy:4197
-    old "Try to keep eye contact"
+msgid "Try to keep eye contact"
     new "Try to keep eye contact"
 
     # game/script.rpy:4218
-    old "Just a really quick peek"
+msgid "Just a really quick peek"
     new "Just a really quick peek"
 
     # game/script.rpy:4218
-    old "Don't risk it"
+msgid "Don't risk it"
     new "Don't risk it"
 
     # game/script.rpy:4247
-    old "Give her money for Lauren's cosplay outfit."
+msgid "Give her money for Lauren's cosplay outfit."
     new "Give her money for Lauren's cosplay outfit."
 
     # game/script.rpy:4247
-    old "Ask her to work at club."
+msgid "Ask her to work at club."
     new "Ask her to work at club."
 
     # game/script.rpy:4333
-    old "Take a look"
+msgid "Take a look"
     new "Take a look"
 
     # game/script.rpy:4333
-    old "Stay Strong"
+msgid "Stay Strong"
     new "Stay Strong"
 
     # game/script.rpy:4349
-    old "What do you think, slut?!"
+msgid "What do you think, slut?!"
     new "What do you think, slut?!"
 
     # game/script.rpy:4349
-    old "Nothing!"
+msgid "Nothing!"
     new "Nothing!"
 
     # game/script.rpy:4358
-    old "Just walk away"
+msgid "Just walk away"
     new "Just walk away"
 
     # game/script.rpy:4489
-    old "Knock on her door"
+msgid "Knock on her door"
     new "Knock on her door"
 
     # game/script.rpy:4721
-    old "Look closer."
+msgid "Look closer."
     new "Look closer."
 
     # game/script.rpy:4737
-    old "Try using subliminal messages"
+msgid "Try using subliminal messages"
     new "Try using subliminal messages"
 
     # game/script.rpy:4737
-    old "Just leave her alone, she's had a rough few days."
+msgid "Just leave her alone, she's had a rough few days."
     new "Just leave her alone, she's had a rough few days."
 
     # game/script.rpy:4776
-    old "Subliminal messages"
+msgid "Subliminal messages"
     new "Subliminal messages"
 
     # game/script.rpy:4818
-    old "Peek through the spy-cam."
+msgid "Peek through the spy-cam."
     new "Peek through the spy-cam."
 
     # game/script.rpy:4818
-    old "Nah, she's probably just sleeping."
+msgid "Nah, she's probably just sleeping."
     new "Nah, she's probably just sleeping."
 
     # game/script.rpy:4835
-    old "Knock"
+msgid "Knock"
     new "Knock"
 
     # game/script.rpy:4835
-    old "Peek through spy-cam"
+msgid "Peek through spy-cam"
     new "Peek through spy-cam"
 
     # game/script.rpy:4835
-    old "I'm just going to give her some time to cool down"
+msgid "I'm just going to give her some time to cool down"
     new "I'm just going to give her some time to cool down"
 
     # game/script.rpy:4841
-    old "Give her a gift"
+msgid "Give her a gift"
     new "Give her a gift"
 
     # game/script.rpy:4841
-    old "I just wanted to apologize"
+msgid "I just wanted to apologize"
     new "I just wanted to apologize"
 
     # game/script.rpy:4847
-    old "Give her a chocolate bar"
+msgid "Give her a chocolate bar"
     new "Give her a chocolate bar"
 
     # game/script.rpy:4847
-    old "Give her Hardnlong gift card"
+msgid "Give her Hardnlong gift card"
     new "Give her Hardnlong gift card"
 
     # game/script.rpy:4847
-    old "Give her flowers"
+msgid "Give her flowers"
     new "Give her flowers"
 
     # game/script.rpy:5091
-    old "Get a closer look"
+msgid "Get a closer look"
     new "Get a closer look"
 
     # game/script.rpy:5091
-    old "Why would I even think of looking?"
+msgid "Why would I even think of looking?"
     new "Why would I even think of looking?"
 
     # game/script.rpy:5275
-    old "Use spy-cam."
+msgid "Use spy-cam."
     new "Use spy-cam."
 
     # game/script.rpy:5275
-    old "Not right now."
+msgid "Not right now."
     new "Not right now."
 
     # game/script.rpy:5381
-    old "Take a peek."
+msgid "Take a peek."
     new "Take a peek."
 
     # game/script.rpy:5396
-    old "Let's just take a peek at what she's doing."
+msgid "Let's just take a peek at what she's doing."
     new "Let's just take a peek at what she's doing."
 
     # game/script.rpy:5855
-    old "Yes, I need an ally"
+msgid "Yes, I need an ally"
     new "Yes, I need an ally"
 
     # game/script.rpy:5899
-    old "More subliminal messages!"
+msgid "More subliminal messages!"
     new "More subliminal messages!"
 
     # game/script.rpy:5899
-    old "Not tonight."
+msgid "Not tonight."
     new "Not tonight."
 
     # game/script.rpy:6017
-    old "Spy on Sidney"
+msgid "Spy on Sidney"
     new "Spy on Sidney"
 
     # game/script.rpy:6017
-    old "Keep looking around"
+msgid "Keep looking around"
     new "Keep looking around"
 
     # game/script.rpy:6103
-    old "Just a little bit"
+msgid "Just a little bit"
     new "Just a little bit"
 
     # game/script.rpy:6103
-    old "Nothing"
+msgid "Nothing"
     new "Nothing"
 
     # game/script.rpy:6140
-    old "Of course!"
+msgid "Of course!"
     new "Of course!"
 
     # game/script.rpy:6197
-    old "Continue sneaking"
+msgid "Continue sneaking"
     new "Continue sneaking"
 
     # game/script.rpy:6197
-    old "Leave"
+msgid "Leave"
     new "Leave"
 
     # game/script.rpy:6621
-    old "Attend Class"
+msgid "Attend Class"
     new "Attend Class"
 
     # game/script.rpy:6621
-    old "Start Election Campaign Storyline"
+msgid "Start Election Campaign Storyline"
     new "Start Election Campaign Storyline"
 
     # game/script.rpy:6673
-    old "Talk to Mom about Oedipus assignment"
+msgid "Talk to Mom about Oedipus assignment"
     new "Talk to Mom about Oedipus assignment"
 
     # game/script.rpy:6854
-    old "Accept Matt's help (\"WARNING\" future NTR content)"
+msgid "Accept Matt's help (\"WARNING\" future NTR content)"
     new "Accept Matt's help (\"WARNING\" future NTR content)"
 
     # game/script.rpy:6854
-    old "Tell Matt to go fuck himself"
+msgid "Tell Matt to go fuck himself"
     new "Tell Matt to go fuck himself"
 
     # game/script.rpy:7054
-    old "Just the tip"
+msgid "Just the tip"
     new "Just the tip"
 
     # game/script.rpy:7054
-    old "Throat Fuck"
+msgid "Throat Fuck"
     new "Throat Fuck"
 
     # game/script.rpy:7065
-    old "Deeper"
+msgid "Deeper"
     new "Deeper"
 
     # game/script.rpy:7065
-    old "Cum"
+msgid "Cum"
     new "Cum"
 
     # game/script.rpy:7114
-    old "Down Megan's throat"
+msgid "Down Megan's throat"
     new "Down Megan's throat"
 
     # game/script.rpy:7114
-    old "All over her face"
+msgid "All over her face"
     new "All over her face"
 
     # game/script.rpy:7422
-    old "Make Deliveries"
+msgid "Make Deliveries"
     new "Make Deliveries"
 
     # game/script.rpy:7479
-    old "Pick up Items"
+msgid "Pick up Items"
     new "Pick up Items"
 
     # game/script.rpy:7479
-    old "Go to Photo Studio."
+msgid "Go to Photo Studio."
     new "Go to Photo Studio."
 
     # game/script.rpy:7479
-    old "Return to Map"
+msgid "Return to Map"
     new "Return to Map"
 
     # game/script.rpy:7975
-    old "Tell them about the conversation with Uncle Bobby"
+msgid "Tell them about the conversation with Uncle Bobby"
     new "Tell them about the conversation with Uncle Bobby"
 
     # game/script.rpy:7990
-    old "Tell them about visit with Uncle Bobby"
+msgid "Tell them about visit with Uncle Bobby"
     new "Tell them about visit with Uncle Bobby"
 
     # game/script.rpy:8135
-    old "Stay and Watch"
+msgid "Stay and Watch"
     new "Stay and Watch"
 
     # game/script.rpy:8135
-    old "Go home"
+msgid "Go home"
     new "Go home"
 
     # game/script.rpy:8167
-    old "Keep Watching"
+msgid "Keep Watching"
     new "Keep Watching"
 
     # game/script.rpy:8306
-    old "Go answer the door"
+msgid "Go answer the door"
     new "Go answer the door"
 
     # game/script.rpy:8320
-    old "No (lie)"
+msgid "No (lie)"
     new "No (lie)"
 

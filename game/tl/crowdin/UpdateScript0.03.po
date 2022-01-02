@@ -9431,70 +9431,70 @@ msgid "RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check th
     RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
 ## # translate crowdin strings:
 msgid "game/UpdateScript0.03.rpy:11
-    old "Kenzie's Thoughts"
+msgid "Kenzie's Thoughts"
     new "Kenzie's Thoughts"
 
     # game/UpdateScript0.03.rpy:12
-    old "Waitress"
+msgid "Waitress"
     new "Waitress"
 
     # game/UpdateScript0.03.rpy:13
-    old "Everybody Else"
+msgid "Everybody Else"
     new "Everybody Else"
 
     # game/UpdateScript0.03.rpy:14
-    old "Matt's Thoughts"
+msgid "Matt's Thoughts"
     new "Matt's Thoughts"
 
     # game/UpdateScript0.03.rpy:15
-    old "Agent Diaz"
+msgid "Agent Diaz"
     new "Agent Diaz"
 
     # game/UpdateScript0.03.rpy:16
-    old "Agent Diaz's Thoughts"
+msgid "Agent Diaz's Thoughts"
     new "Agent Diaz's Thoughts"
 
     # game/UpdateScript0.03.rpy:790
-    old "Of course I'll protect Lauren!"
+msgid "Of course I'll protect Lauren!"
     new "Of course I'll protect Lauren!"
 
     # game/UpdateScript0.03.rpy:790
-    old "Shit!.... I don't have the money to protect her this week!"
+msgid "Shit!.... I don't have the money to protect her this week!"
     new "Shit!.... I don't have the money to protect her this week!"
 
     # game/UpdateScript0.03.rpy:790
-    old "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
+msgid "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
     new "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
 
     # game/UpdateScript0.03.rpy:897
-    old "Just Leave her alone."
+msgid "Just Leave her alone."
     new "Just Leave her alone."
 
     # game/UpdateScript0.03.rpy:1071
-    old "Commission a new cosplay outfit."
+msgid "Commission a new cosplay outfit."
     new "Commission a new cosplay outfit."
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
+msgid "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
     new "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
+msgid "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
     new "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
+msgid "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
     new "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her to show her titties. {i}(submission 14+){/i}"
+msgid "Ask her to show her titties. {i}(submission 14+){/i}"
     new "Ask her to show her titties. {i}(submission 14+){/i}"
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
+msgid "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
     new "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
 
     # game/UpdateScript0.03.rpy:3816
-    old "Ask her for explicit close-ups. {i}(submission 25+){/i}"
+msgid "Ask her for explicit close-ups. {i}(submission 25+){/i}"
     new "Ask her for explicit close-ups. {i}(submission 25+){/i}"
 

@@ -39,38 +39,38 @@ msgid "BJ_dealer "Sorry! You don't have enough money!{w=2.0}{nw}"
     BJ_dealer "Sorry! You don't have enough money!{w=2.0}{nw}"
 ## # translate crowdin strings:
 msgid "game/images/interface_images/blackjack/blackjack-DS.rpy:198
-    old "Dealer"
+msgid "Dealer"
     new "Dealer"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:236
-    old "Place your bets!"
+msgid "Place your bets!"
     new "Place your bets!"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:244
-    old "Do you want to bet $100 and start the game?"
+msgid "Do you want to bet $100 and start the game?"
     new "Do you want to bet $100 and start the game?"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:252
-    old "Do you want to bet $500 and start the game?"
+msgid "Do you want to bet $500 and start the game?"
     new "Do you want to bet $500 and start the game?"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:260
-    old "Do you want to bet $1000 and start the game?"
+msgid "Do you want to bet $1000 and start the game?"
     new "Do you want to bet $1000 and start the game?"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:268
-    old "Do you want to leave the BlackJack game?"
+msgid "Do you want to leave the BlackJack game?"
     new "Do you want to leave the BlackJack game?"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:276
-    old "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
+msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
     new "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:321
-    old "Player cards: [playerScore]"
+msgid "Player cards: [playerScore]"
     new "Player cards: [playerScore]"
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:480
-    old "Do you want to play again?"
+msgid "Do you want to play again?"
     new "Do you want to play again?"
 

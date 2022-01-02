@@ -599,66 +599,66 @@ msgid "RT "{i}Not right now.{/i}"
     RT "{i}Not right now.{/i}"
 ## # translate crowdin strings:
 msgid "game/Shopping_gallery.rpy:323
-    old "Buy chocolate"
+msgid "Buy chocolate"
     new "Buy chocolate"
 
     # game/Shopping_gallery.rpy:323
-    old "Don't buy"
+msgid "Don't buy"
     new "Don't buy"
 
     # game/Shopping_gallery.rpy:341
-    old "Buy giftcard"
+msgid "Buy giftcard"
     new "Buy giftcard"
 
     # game/Shopping_gallery.rpy:358
-    old "Buy Flowers"
+msgid "Buy Flowers"
     new "Buy Flowers"
 
     # game/Shopping_gallery.rpy:374
-    old "Buy melatonin."
+msgid "Buy melatonin."
     new "Buy melatonin."
 
     # game/Shopping_gallery.rpy:400
-    old "Buy spycam."
+msgid "Buy spycam."
     new "Buy spycam."
 
     # game/Shopping_gallery.rpy:417
-    old "Buy green screen."
+msgid "Buy green screen."
     new "Buy green screen."
 
     # game/Shopping_gallery.rpy:435
-    old "Buy pro lights."
+msgid "Buy pro lights."
     new "Buy pro lights."
 
     # game/Shopping_gallery.rpy:453
-    old "Buy DSLR camera."
+msgid "Buy DSLR camera."
     new "Buy DSLR camera."
 
     # game/Shopping_gallery.rpy:470
-    old "Buy camera accessory."
+msgid "Buy camera accessory."
     new "Buy camera accessory."
 
     # game/Shopping_gallery.rpy:589
-    old "Buy camera accessory"
+msgid "Buy camera accessory"
     new "Buy camera accessory"
 
     # game/Shopping_gallery.rpy:607
-    old "Buy bikini"
+msgid "Buy bikini"
     new "Buy bikini"
 
     # game/Shopping_gallery.rpy:628
-    old "Buy ball gag."
+msgid "Buy ball gag."
     new "Buy ball gag."
 
     # game/Shopping_gallery.rpy:651
-    old "Buy Perry Hotter Book 1."
+msgid "Buy Perry Hotter Book 1."
     new "Buy Perry Hotter Book 1."
 
     # game/Shopping_gallery.rpy:674
-    old "Buy Perry Hotter Book 2."
+msgid "Buy Perry Hotter Book 2."
     new "Buy Perry Hotter Book 2."
 
     # game/Shopping_gallery.rpy:697
-    old "Buy Perry Hotter Book 3."
+msgid "Buy Perry Hotter Book 3."
     new "Buy Perry Hotter Book 3."
 

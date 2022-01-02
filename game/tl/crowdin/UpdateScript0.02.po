@@ -6063,66 +6063,66 @@ msgid "R "Shit, she's done, I'd better make myself scarce."
     R "Shit, she's done, I'd better make myself scarce."
 ## # translate crowdin strings:
 msgid "game/UpdateScript0.02.rpy:233
-    old "What will she do?"
+msgid "What will she do?"
     new "What will she do?"
 
     # game/UpdateScript0.02.rpy:233
-    old "Skip event."
+msgid "Skip event."
     new "Skip event."
 
     # game/UpdateScript0.02.rpy:316
-    old "Let's keep things going with Sidney."
+msgid "Let's keep things going with Sidney."
     new "Let's keep things going with Sidney."
 
     # game/UpdateScript0.02.rpy:316
-    old "Just sleep."
+msgid "Just sleep."
     new "Just sleep."
 
     # game/UpdateScript0.02.rpy:766
-    old "Try to make it better."
+msgid "Try to make it better."
     new "Try to make it better."
 
     # game/UpdateScript0.02.rpy:766
-    old "Just leave her alone, you've tortured her enough."
+msgid "Just leave her alone, you've tortured her enough."
     new "Just leave her alone, you've tortured her enough."
 
     # game/UpdateScript0.02.rpy:772
-    old "Bang your metal bat on the floor"
+msgid "Bang your metal bat on the floor"
     new "Bang your metal bat on the floor"
 
     # game/UpdateScript0.02.rpy:802
-    old "Make some creepy noises"
+msgid "Make some creepy noises"
     new "Make some creepy noises"
 
     # game/UpdateScript0.02.rpy:825
-    old "You're right, I should save up a little more money first."
+msgid "You're right, I should save up a little more money first."
     new "You're right, I should save up a little more money first."
 
     # game/UpdateScript0.02.rpy:913
-    old "Now let's see how you pose when they ask you to take pics from behind."
+msgid "Now let's see how you pose when they ask you to take pics from behind."
     new "Now let's see how you pose when they ask you to take pics from behind."
 
     # game/UpdateScript0.02.rpy:913
-    old "Have a good time at the convention!"
+msgid "Have a good time at the convention!"
     new "Have a good time at the convention!"
 
     # game/UpdateScript0.02.rpy:969
-    old "Set up new spy-cam."
+msgid "Set up new spy-cam."
     new "Set up new spy-cam."
 
     # game/UpdateScript0.02.rpy:1538
-    old "Peek through spy-cam."
+msgid "Peek through spy-cam."
     new "Peek through spy-cam."
 
     # game/UpdateScript0.02.rpy:2186
-    old "Pinch."
+msgid "Pinch."
     new "Pinch."
 
     # game/UpdateScript0.02.rpy:2261
-    old "Not now."
+msgid "Not now."
     new "Not now."
 
     # game/UpdateScript0.02.rpy:2832
-    old "Look through spy-cam"
+msgid "Look through spy-cam"
     new "Look through spy-cam"
 

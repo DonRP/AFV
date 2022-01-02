@@ -7,10 +7,10 @@ msgid "RT "{i}What should I do today on the internet?{/i}"
     RT "{i}What should I do today on the internet?{/i}"
 ## # translate crowdin strings:
 msgid "game/Booble_screen.rpy:33
-    old "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
+msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
     new "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
     # game/Booble_screen.rpy:39
-    old "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
+msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
     new "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 

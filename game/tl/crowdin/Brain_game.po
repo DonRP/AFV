@@ -15,10 +15,10 @@ msgid "RT "{i}School has ended, I must return home.{/i}"
     RT "{i}School has ended, I must return home.{/i}"
 ## # translate crowdin strings:
 msgid "game/Brain_game.rpy:497
-    old "You lose!"
+msgid "You lose!"
     new "You lose!"
 
     # game/Brain_game.rpy:519
-    old "YOU WON!!!"
+msgid "YOU WON!!!"
     new "YOU WON!!!"
 

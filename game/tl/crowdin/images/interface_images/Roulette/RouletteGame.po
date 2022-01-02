@@ -167,18 +167,18 @@ msgid "RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRo
     RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
 ## # translate crowdin strings:
 msgid "game/images/interface_images/Roulette/RouletteGame.rpy:235
-    old "Croupier"
+msgid "Croupier"
     new "Croupier"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:322
-    old "Do you want to play the Roulette?"
+msgid "Do you want to play the Roulette?"
     new "Do you want to play the Roulette?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:340
-    old "What type of game do you want to play?"
+msgid "What type of game do you want to play?"
     new "What type of game do you want to play?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:521
-    old "Game type: [betType]\nYou bet on: [playerPiked]"
+msgid "Game type: [betType]\nYou bet on: [playerPiked]"
     new "Game type: [betType]\nYou bet on: [playerPiked]"
 

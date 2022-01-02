@@ -31967,422 +31967,422 @@ msgid "RT "{i}If I do decide to set them up, It would probably best to speak to 
     RT "{i}If I do decide to set them up, It would probably best to speak to Mom at breakfast. I'm pretty sure she despises Will Tylor, so she'd probably be more open to it in the morning.{/i}"
 ## # translate crowdin strings:
 msgid "game/UpdateScript0.07.rpy:17
-    old "Voice over intercom"
+msgid "Voice over intercom"
     new "Voice over intercom"
 
     # game/UpdateScript0.07.rpy:18
-    old "Principal Hardun"
+msgid "Principal Hardun"
     new "Principal Hardun"
 
     # game/UpdateScript0.07.rpy:19
-    old "Miss Jessica"
+msgid "Miss Jessica"
     new "Miss Jessica"
 
     # game/UpdateScript0.07.rpy:20
-    old "Zack"
+msgid "Zack"
     new "Zack"
 
     # game/UpdateScript0.07.rpy:21
-    old "Unknown Boy"
+msgid "Unknown Boy"
     new "Unknown Boy"
 
     # game/UpdateScript0.07.rpy:22
-    old "Another Unknown Boy"
+msgid "Another Unknown Boy"
     new "Another Unknown Boy"
 
     # game/UpdateScript0.07.rpy:23
-    old "Stacy"
+msgid "Stacy"
     new "Stacy"
 
     # game/UpdateScript0.07.rpy:24
-    old "Mrs. Stone's Thoughts"
+msgid "Mrs. Stone's Thoughts"
     new "Mrs. Stone's Thoughts"
 
     # game/UpdateScript0.07.rpy:25
-    old "Locker Room Girl"
+msgid "Locker Room Girl"
     new "Locker Room Girl"
 
     # game/UpdateScript0.07.rpy:26
-    old "Brooke"
+msgid "Brooke"
     new "Brooke"
 
     # game/UpdateScript0.07.rpy:27
-    old "Reagan"
+msgid "Reagan"
     new "Reagan"
 
     # game/UpdateScript0.07.rpy:28
-    old "Haylee"
+msgid "Haylee"
     new "Haylee"
 
     # game/UpdateScript0.07.rpy:1332
-    old "Lick that clit!"
+msgid "Lick that clit!"
     new "Lick that clit!"
 
     # game/UpdateScript0.07.rpy:1332
-    old "Where's your pride, man?"
+msgid "Where's your pride, man?"
     new "Where's your pride, man?"
 
     # game/UpdateScript0.07.rpy:1561
-    old "I think our relationship is more than that."
+msgid "I think our relationship is more than that."
     new "I think our relationship is more than that."
 
     # game/UpdateScript0.07.rpy:1561
-    old "Say nothing."
+msgid "Say nothing."
     new "Say nothing."
 
     # game/UpdateScript0.07.rpy:1672
-    old "Take what you can get!"
+msgid "Take what you can get!"
     new "Take what you can get!"
 
     # game/UpdateScript0.07.rpy:1672
-    old "I can't let her think I'm that desperate."
+msgid "I can't let her think I'm that desperate."
     new "I can't let her think I'm that desperate."
 
     # game/UpdateScript0.07.rpy:1966
-    old "Lets go to pound town."
+msgid "Lets go to pound town."
     new "Lets go to pound town."
 
     # game/UpdateScript0.07.rpy:2044
-    old "Pull out!"
+msgid "Pull out!"
     new "Pull out!"
 
     # game/UpdateScript0.07.rpy:2044
-    old "Creampie!"
+msgid "Creampie!"
     new "Creampie!"
 
     # game/UpdateScript0.07.rpy:2330
-    old "Leave her alone"
+msgid "Leave her alone"
     new "Leave her alone"
 
     # game/UpdateScript0.07.rpy:2536
-    old "Cover her face"
+msgid "Cover her face"
     new "Cover her face"
 
     # game/UpdateScript0.07.rpy:3064
-    old "Suggest Anal sex"
+msgid "Suggest Anal sex"
     new "Suggest Anal sex"
 
     # game/UpdateScript0.07.rpy:3064
-    old "Don't bring up anal"
+msgid "Don't bring up anal"
     new "Don't bring up anal"
 
     # game/UpdateScript0.07.rpy:3836
-    old "Stay strong, don't arrange the date."
+msgid "Stay strong, don't arrange the date."
     new "Stay strong, don't arrange the date."
 
     # game/UpdateScript0.07.rpy:3836
-    old "Lauren's election is too important, arrange the date."
+msgid "Lauren's election is too important, arrange the date."
     new "Lauren's election is too important, arrange the date."
 
     # game/UpdateScript0.07.rpy:4140
-    old "Interrupt."
+msgid "Interrupt."
     new "Interrupt."
 
     # game/UpdateScript0.07.rpy:4140
-    old "Continue to wait."
+msgid "Continue to wait."
     new "Continue to wait."
 
     # game/UpdateScript0.07.rpy:4164
-    old "Cough loudly."
+msgid "Cough loudly."
     new "Cough loudly."
 
     # game/UpdateScript0.07.rpy:4269
-    old "Get her attention."
+msgid "Get her attention."
     new "Get her attention."
 
     # game/UpdateScript0.07.rpy:4309
-    old "Pay for posters ($200)"
+msgid "Pay for posters ($200)"
     new "Pay for posters ($200)"
 
     # game/UpdateScript0.07.rpy:4309
-    old "I don't have that much money."
+msgid "I don't have that much money."
     new "I don't have that much money."
 
     # game/UpdateScript0.07.rpy:4309
-    old "I'm not spending that much on posters!"
+msgid "I'm not spending that much on posters!"
     new "I'm not spending that much on posters!"
 
     # game/UpdateScript0.07.rpy:4325
-    old "Skip Mini-Game."
+msgid "Skip Mini-Game."
     new "Skip Mini-Game."
 
     # game/UpdateScript0.07.rpy:4325
-    old "Play Mini-Game"
+msgid "Play Mini-Game"
     new "Play Mini-Game"
 
     # game/UpdateScript0.07.rpy:4442
-    old "Pay for posters ($300)"
+msgid "Pay for posters ($300)"
     new "Pay for posters ($300)"
 
     # game/UpdateScript0.07.rpy:6932
-    old "Standing doggy"
+msgid "Standing doggy"
     new "Standing doggy"
 
     # game/UpdateScript0.07.rpy:7364
-    old "Ok, fine!"
+msgid "Ok, fine!"
     new "Ok, fine!"
 
     # game/UpdateScript0.07.rpy:7364
-    old "No way!"
+msgid "No way!"
     new "No way!"
 
     # game/UpdateScript0.07.rpy:7368
-    old "Lick her pussy"
+msgid "Lick her pussy"
     new "Lick her pussy"
 
     # game/UpdateScript0.07.rpy:7368
-    old "Get a blowjob"
+msgid "Get a blowjob"
     new "Get a blowjob"
 
     # game/UpdateScript0.07.rpy:7368
-    old "Fuck her missionary style"
+msgid "Fuck her missionary style"
     new "Fuck her missionary style"
 
     # game/UpdateScript0.07.rpy:7368
-    old "Fuck her standing doggystyle"
+msgid "Fuck her standing doggystyle"
     new "Fuck her standing doggystyle"
 
     # game/UpdateScript0.07.rpy:7897
-    old "Standing Doggy"
+msgid "Standing Doggy"
     new "Standing Doggy"
 
     # game/UpdateScript0.07.rpy:7910
-    old "Lick her pussy."
+msgid "Lick her pussy."
     new "Lick her pussy."
 
     # game/UpdateScript0.07.rpy:7936
-    old "Lauren squirt"
+msgid "Lauren squirt"
     new "Lauren squirt"
 
     # game/UpdateScript0.07.rpy:8408
-    old "Ok, I'll bankroll you."
+msgid "Ok, I'll bankroll you."
     new "Ok, I'll bankroll you."
 
     # game/UpdateScript0.07.rpy:8408
-    old "I can't afford another losing campaign."
+msgid "I can't afford another losing campaign."
     new "I can't afford another losing campaign."
 
     # game/UpdateScript0.07.rpy:8408
-    old "Sorry, I've got to protect Mom at all costs."
+msgid "Sorry, I've got to protect Mom at all costs."
     new "Sorry, I've got to protect Mom at all costs."
 
     # game/UpdateScript0.07.rpy:8551
-    old "I don't have enough money this week."
+msgid "I don't have enough money this week."
     new "I don't have enough money this week."
 
     # game/UpdateScript0.07.rpy:8551
-    old "Give her $100"
+msgid "Give her $100"
     new "Give her $100"
 
     # game/UpdateScript0.07.rpy:8551
-    old "Give her $250"
+msgid "Give her $250"
     new "Give her $250"
 
     # game/UpdateScript0.07.rpy:8551
-    old "Give her $500"
+msgid "Give her $500"
     new "Give her $500"
 
     # game/UpdateScript0.07.rpy:8953
-    old "Go see Mom"
+msgid "Go see Mom"
     new "Go see Mom"
 
     # game/UpdateScript0.07.rpy:9119
-    old "Talk to Megan"
+msgid "Talk to Megan"
     new "Talk to Megan"
 
     # game/UpdateScript0.07.rpy:9145
-    old "Get Lauren's Attention"
+msgid "Get Lauren's Attention"
     new "Get Lauren's Attention"
 
     # game/UpdateScript0.07.rpy:9765
-    old "sneak out of class"
+msgid "sneak out of class"
     new "sneak out of class"
 
     # game/UpdateScript0.07.rpy:9780
-    old "Sneak out of class"
+msgid "Sneak out of class"
     new "Sneak out of class"
 
     # game/UpdateScript0.07.rpy:10033
-    old "Yes ($300)"
+msgid "Yes ($300)"
     new "Yes ($300)"
 
     # game/UpdateScript0.07.rpy:10082
-    old "Cum inside"
+msgid "Cum inside"
     new "Cum inside"
 
     # game/UpdateScript0.07.rpy:10082
-    old "Cum on her ass"
+msgid "Cum on her ass"
     new "Cum on her ass"
 
     # game/UpdateScript0.07.rpy:10766
-    old "I should get our of here."
+msgid "I should get our of here."
     new "I should get our of here."
 
     # game/UpdateScript0.07.rpy:10824
-    old "Yes, let's go back in time."
+msgid "Yes, let's go back in time."
     new "Yes, let's go back in time."
 
     # game/UpdateScript0.07.rpy:10824
-    old "No, I'll keep the consequences of losing."
+msgid "No, I'll keep the consequences of losing."
     new "No, I'll keep the consequences of losing."
 
     # game/UpdateScript0.07.rpy:11422
-    old "$100"
+msgid "$100"
     new "$100"
 
     # game/UpdateScript0.07.rpy:11422
-    old "$300"
+msgid "$300"
     new "$300"
 
     # game/UpdateScript0.07.rpy:11422
-    old "$500"
+msgid "$500"
     new "$500"
 
     # game/UpdateScript0.07.rpy:11715
-    old "Sorry, no money right now."
+msgid "Sorry, no money right now."
     new "Sorry, no money right now."
 
     # game/UpdateScript0.07.rpy:12221
-    old "Lauren, you sound a little bit crazy."
+msgid "Lauren, you sound a little bit crazy."
     new "Lauren, you sound a little bit crazy."
 
     # game/UpdateScript0.07.rpy:12221
-    old "Lauren, I think you might be on to something."
+msgid "Lauren, I think you might be on to something."
     new "Lauren, I think you might be on to something."
 
     # game/UpdateScript0.07.rpy:12438
-    old "Lick Lauren's ass"
+msgid "Lick Lauren's ass"
     new "Lick Lauren's ass"
 
     # game/UpdateScript0.07.rpy:12438
-    old "Get a blowjob from Lauren"
+msgid "Get a blowjob from Lauren"
     new "Get a blowjob from Lauren"
 
     # game/UpdateScript0.07.rpy:12438
-    old "Invite Mandy"
+msgid "Invite Mandy"
     new "Invite Mandy"
 
     # game/UpdateScript0.07.rpy:12483
-    old "Go see Mrs. Stone."
+msgid "Go see Mrs. Stone."
     new "Go see Mrs. Stone."
 
     # game/UpdateScript0.07.rpy:12483
-    old "I'll go another time."
+msgid "I'll go another time."
     new "I'll go another time."
 
     # game/UpdateScript0.07.rpy:12515
-    old "Down Lauren's throat"
+msgid "Down Lauren's throat"
     new "Down Lauren's throat"
 
     # game/UpdateScript0.07.rpy:12515
-    old "All over Lauren's Face"
+msgid "All over Lauren's Face"
     new "All over Lauren's Face"
 
     # game/UpdateScript0.07.rpy:13172
-    old "Lick your ass!"
+msgid "Lick your ass!"
     new "Lick your ass!"
 
     # game/UpdateScript0.07.rpy:13172
-    old "I'd love another blowjob!"
+msgid "I'd love another blowjob!"
     new "I'd love another blowjob!"
 
     # game/UpdateScript0.07.rpy:13873
-    old "Maybe..."
+msgid "Maybe..."
     new "Maybe..."
 
     # game/UpdateScript0.07.rpy:14019
-    old "Put this dream out of it's misery."
+msgid "Put this dream out of it's misery."
     new "Put this dream out of it's misery."
 
     # game/UpdateScript0.07.rpy:14019
-    old "Encourage her to keep going."
+msgid "Encourage her to keep going."
     new "Encourage her to keep going."
 
     # game/UpdateScript0.07.rpy:15052
-    old "I was busy."
+msgid "I was busy."
     new "I was busy."
 
     # game/UpdateScript0.07.rpy:15052
-    old "I didn't have the money."
+msgid "I didn't have the money."
     new "I didn't have the money."
 
     # game/UpdateScript0.07.rpy:15052
-    old "I don't know... I'm really sorry."
+msgid "I don't know... I'm really sorry."
     new "I don't know... I'm really sorry."
 
     # game/UpdateScript0.07.rpy:15244
-    old "In Lauren's mouth"
+msgid "In Lauren's mouth"
     new "In Lauren's mouth"
 
     # game/UpdateScript0.07.rpy:15244
-    old "On Lauren's face"
+msgid "On Lauren's face"
     new "On Lauren's face"
 
     # game/UpdateScript0.07.rpy:15862
-    old "Missionary Position"
+msgid "Missionary Position"
     new "Missionary Position"
 
     # game/UpdateScript0.07.rpy:15965
-    old "Reverse Cowgirl"
+msgid "Reverse Cowgirl"
     new "Reverse Cowgirl"
 
     # game/UpdateScript0.07.rpy:15990
-    old "Pull Out"
+msgid "Pull Out"
     new "Pull Out"
 
     # game/UpdateScript0.07.rpy:16050
-    old "Suggest Anal Sex"
+msgid "Suggest Anal Sex"
     new "Suggest Anal Sex"
 
     # game/UpdateScript0.07.rpy:16050
-    old "Keep Quiet"
+msgid "Keep Quiet"
     new "Keep Quiet"
 
     # game/UpdateScript0.07.rpy:16131
-    old "Uhh... Never mind... It wasn't a good idea."
+msgid "Uhh... Never mind... It wasn't a good idea."
     new "Uhh... Never mind... It wasn't a good idea."
 
     # game/UpdateScript0.07.rpy:16235
-    old "Suggest Anal Sex."
+msgid "Suggest Anal Sex."
     new "Suggest Anal Sex."
 
     # game/UpdateScript0.07.rpy:16235
-    old "Wait! Bad idea."
+msgid "Wait! Bad idea."
     new "Wait! Bad idea."
 
     # game/UpdateScript0.07.rpy:16383
-    old "Go visit Will Tylor"
+msgid "Go visit Will Tylor"
     new "Go visit Will Tylor"
 
     # game/UpdateScript0.07.rpy:16383
-    old "Maybe another time."
+msgid "Maybe another time."
     new "Maybe another time."
 
     # game/UpdateScript0.07.rpy:16399
-    old "Check out the van."
+msgid "Check out the van."
     new "Check out the van."
 
     # game/UpdateScript0.07.rpy:16399
-    old "Maybe later."
+msgid "Maybe later."
     new "Maybe later."
 
     # game/UpdateScript0.07.rpy:16503
-    old "Yes ($500)"
+msgid "Yes ($500)"
     new "Yes ($500)"
 
     # game/UpdateScript0.07.rpy:17141
-    old "Buy School Influence ($500)"
+msgid "Buy School Influence ($500)"
     new "Buy School Influence ($500)"
 
     # game/UpdateScript0.07.rpy:17141
-    old "Nothing else."
+msgid "Nothing else."
     new "Nothing else."
 
     # game/UpdateScript0.07.rpy:17890
-    old "Yeah, why not?"
+msgid "Yeah, why not?"
     new "Yeah, why not?"
 
     # game/UpdateScript0.07.rpy:17890
-    old "No, that's too expensive."
+msgid "No, that's too expensive."
     new "No, that's too expensive."
 
