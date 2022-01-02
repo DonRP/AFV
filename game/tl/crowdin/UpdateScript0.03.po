@@ -1,21 +1,21 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.03.rpy:466## # translate crowdin posting_the_htbyd_pics_99f2fd00:
-msgid "RT "{i}I finally finished the Zad 3D work and photo editing.{/i}"
+msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
     RT "{i}I finally finished the Zad 3D work and photo editing.{/i}"
 
 # game/UpdateScript0.03.rpy:467## # translate crowdin posting_the_htbyd_pics_b5e1a766:
-msgid "RT "{i}They turned out pretty damn hot if I do say so myself.{/i}"
+msgid "[RT] {i}They turned out pretty damn hot if I do say so myself.{/i}"
     RT "{i}They turned out pretty damn hot if I do say so myself.{/i}"
 
 # game/UpdateScript0.03.rpy:468## # translate crowdin posting_the_htbyd_pics_1ec43bb1:
-msgid "RT "{i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
+msgid "[RT] {i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
     RT "{i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
 
 # game/UpdateScript0.03.rpy:469## # translate crowdin posting_the_htbyd_pics_6e5a373c:
-msgid "RT "{i}I've got to be sure to check the website sometime tomorrow.{/i}"
+msgid "[RT] {i}I've got to be sure to check the website sometime tomorrow.{/i}"
     RT "{i}I've got to be sure to check the website sometime tomorrow.{/i}"
 
 # game/UpdateScript0.03.rpy:484## # translate crowdin check_for_htbyd_likes_b47e0d22:
-msgid "RT "{i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
+msgid "[RT] {i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
     RT "{i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
 
 # game/UpdateScript0.03.rpy:491## # translate crowdin check_for_htbyd_likes_213638a4:
@@ -155,7 +155,7 @@ msgid "S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... pant
     S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
 
 # game/UpdateScript0.03.rpy:572## # translate crowdin diazvisit_f21c2334:
-msgid "RT "{i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
+msgid "[RT] {i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
     RT "{i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
 
 # game/UpdateScript0.03.rpy:577## # translate crowdin diazvisit_80cae6de:
@@ -227,7 +227,7 @@ msgid "AD "I know where it is.... just run and get Lauren."
     AD "I know where it is.... just run and get Lauren."
 
 # game/UpdateScript0.03.rpy:601## # translate crowdin diazvisit_f5e057fd:
-msgid "RT "{i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
+msgid "[RT] {i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
     RT "{i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
 
 # game/UpdateScript0.03.rpy:604## # translate crowdin diazvisit_2bd18c71:
@@ -291,7 +291,7 @@ msgid "AD "Are you aware how easy it is to follow teens on their bikes and moped
     AD "Are you aware how easy it is to follow teens on their bikes and mopeds?"
 
 # game/UpdateScript0.03.rpy:623## # translate crowdin diazvisit_a11847bd:
-msgid "RT "{i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
+msgid "[RT] {i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
     RT "{i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
 
 # game/UpdateScript0.03.rpy:624## # translate crowdin diazvisit_aecb30cb:
@@ -579,15 +579,15 @@ msgid "AD "So, you'd better be willing to play ball, or your life is going to ge
     AD "So, you'd better be willing to play ball, or your life is going to get pretty uncomfortable."
 
 # game/UpdateScript0.03.rpy:727## # translate crowdin diazvisit_47a4eebc:
-msgid "RT "{i}Shit.... I'm an idiot to think I was being so sneaky with the FBI watching me.{/i}"
+msgid "[RT] {i}Shit.... I'm an idiot to think I was being so sneaky with the FBI watching me.{/i}"
     RT "{i}Shit.... I'm an idiot to think I was being so sneaky with the FBI watching me.{/i}"
 
 # game/UpdateScript0.03.rpy:728## # translate crowdin diazvisit_f7c08ea8:
-msgid "RT "{i}Maybe I'm lucky that a crooked agent is in charge of this case.{/i}"
+msgid "[RT] {i}Maybe I'm lucky that a crooked agent is in charge of this case.{/i}"
     RT "{i}Maybe I'm lucky that a crooked agent is in charge of this case.{/i}"
 
 # game/UpdateScript0.03.rpy:729## # translate crowdin diazvisit_b268dd27:
-msgid "RT "{i}I'm not in trouble so to speak, and it sounds like Dad's going to be out of our lives, at least for the foreseeable future.{/i}"
+msgid "[RT] {i}I'm not in trouble so to speak, and it sounds like Dad's going to be out of our lives, at least for the foreseeable future.{/i}"
     RT "{i}I'm not in trouble so to speak, and it sounds like Dad's going to be out of our lives, at least for the foreseeable future.{/i}"
 
 # game/UpdateScript0.03.rpy:732## # translate crowdin diazvisit_da2f7287:
@@ -599,7 +599,7 @@ msgid "[R] I'll take that into consideration. Goodbye!"
 msgstr "[R] I'll take that into consideration. Goodbye!"
 
 # game/UpdateScript0.03.rpy:737## # translate crowdin diazvisit_b727c6bd:
-msgid "RT "{i}Holy fucking shit!!.... What is happening with my life?.... {/i}"
+msgid "[RT] {i}Holy fucking shit!!.... What is happening with my life?.... {/i}"
     RT "{i}Holy fucking shit!!.... What is happening with my life?.... {/i}"
 
 # game/UpdateScript0.03.rpy:738## # translate crowdin diazvisit_2c3ab4a5:
@@ -727,15 +727,15 @@ msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:811## # translate crowdin diazvisit_1682acb0:
-msgid "RT "{i}I better grab my cash in case I need it.{/i}"
+msgid "[RT] {i}I better grab my cash in case I need it.{/i}"
     RT "{i}I better grab my cash in case I need it.{/i}"
 
 # game/UpdateScript0.03.rpy:813## # translate crowdin diazvisit_4459ac27:
-msgid "RT "{i}Shit, I'm short on cash this week.{/i}"
+msgid "[RT] {i}Shit, I'm short on cash this week.{/i}"
     RT "{i}Shit, I'm short on cash this week.{/i}"
 
 # game/UpdateScript0.03.rpy:814## # translate crowdin diazvisit_8f29da67:
-msgid "RT "{i}I hope Lauren's ready to do her duty.{/i}"
+msgid "[RT] {i}I hope Lauren's ready to do her duty.{/i}"
     RT "{i}I hope Lauren's ready to do her duty.{/i}"
 
 # game/UpdateScript0.03.rpy:819## # translate crowdin diazvisit_80cae6de_1:
@@ -795,7 +795,7 @@ msgid "AD "Well, thank you! I'll see you next Thursday, bright and early!"
     AD "Well, thank you! I'll see you next Thursday, bright and early!"
 
 # game/UpdateScript0.03.rpy:843## # translate crowdin diazvisit_784e2e16:
-msgid "RT "{i}Oh, I hate that woman!{/i}"
+msgid "[RT] {i}Oh, I hate that woman!{/i}"
     RT "{i}Oh, I hate that woman!{/i}"
 
 # game/UpdateScript0.03.rpy:844## # translate crowdin diazvisit_deb88fea:
@@ -903,19 +903,19 @@ msgid "AD "I'll just make myself comfortable, shall I?"
     AD "I'll just make myself comfortable, shall I?"
 
 # game/UpdateScript0.03.rpy:891## # translate crowdin firstloyaltyweekend_ebe51551:
-msgid "RT "{i}10:00? I slept in, I must have been tired.{/i}"
+msgid "[RT] {i}10:00? I slept in, I must have been tired.{/i}"
     RT "{i}10:00? I slept in, I must have been tired.{/i}"
 
 # game/UpdateScript0.03.rpy:892## # translate crowdin firstloyaltyweekend_3239fafe:
-msgid "RT "{i}Of course Sidney is still asleep.{/i}"
+msgid "[RT] {i}Of course Sidney is still asleep.{/i}"
     RT "{i}Of course Sidney is still asleep.{/i}"
 
 # game/UpdateScript0.03.rpy:893## # translate crowdin firstloyaltyweekend_e327b919:
-msgid "RT "{i}Well, it's time to go to the kitchen, I wonder if Mom made breakfast.{/i}"
+msgid "[RT] {i}Well, it's time to go to the kitchen, I wonder if Mom made breakfast.{/i}"
     RT "{i}Well, it's time to go to the kitchen, I wonder if Mom made breakfast.{/i}"
 
 # game/UpdateScript0.03.rpy:896## # translate crowdin firstloyaltyweekend_4931d756:
-msgid "RT "{i}Oh, no.... it looks like Mom has started drinking early this morning.{/i}"
+msgid "[RT] {i}Oh, no.... it looks like Mom has started drinking early this morning.{/i}"
     RT "{i}Oh, no.... it looks like Mom has started drinking early this morning.{/i}"
 
 # game/UpdateScript0.03.rpy:901## # translate crowdin firstloyaltyweekend_e0429891:
@@ -935,7 +935,7 @@ msgid "M "Well, let me correct myself, everything was great, until you came arou
     M "Well, let me correct myself, everything was great, until you came around and started sticking your nose into my business."
 
 # game/UpdateScript0.03.rpy:911## # translate crowdin firstloyaltyweekend_8fc9f793:
-msgid "RT "{i}I'd love to stick my nose right directly into her business ;){/i}"
+msgid "[RT] {i}I'd love to stick my nose right directly into her business ;){/i}"
     RT "{i}I'd love to stick my nose right directly into her business ;){/i}"
 
 # game/UpdateScript0.03.rpy:912## # translate crowdin firstloyaltyweekend_b6e02bea:
@@ -1047,7 +1047,7 @@ msgid "M "I'm still head of this household, you're just the man of the house!"
     M "I'm still head of this household, you're just the man of the house!"
 
 # game/UpdateScript0.03.rpy:957## # translate crowdin firstloyaltyweekend_e8419ec9:
-msgid "RT "{i}YES!!.... She just acknowledged that I'm the man of the house!{/i}"
+msgid "[RT] {i}YES!!.... She just acknowledged that I'm the man of the house!{/i}"
     RT "{i}YES!!.... She just acknowledged that I'm the man of the house!{/i}"
 
 # game/UpdateScript0.03.rpy:958## # translate crowdin firstloyaltyweekend_e969bf46:
@@ -1307,15 +1307,15 @@ msgid "S "Come find me again when I'm not so busy."
     S "Come find me again when I'm not so busy."
 
 # game/UpdateScript0.03.rpy:1081## # translate crowdin commissionsecondoutfit_bf87ec39:
-msgid "RT "{i}She's flashing me again!{/i}"
+msgid "[RT] {i}She's flashing me again!{/i}"
     RT "{i}She's flashing me again!{/i}"
 
 # game/UpdateScript0.03.rpy:1082## # translate crowdin commissionsecondoutfit_49aca8ae:
-msgid "RT "{i}Is she doing this on purpose?{/i}"
+msgid "[RT] {i}Is she doing this on purpose?{/i}"
     RT "{i}Is she doing this on purpose?{/i}"
 
 # game/UpdateScript0.03.rpy:1083## # translate crowdin commissionsecondoutfit_7c3354e4:
-msgid "RT "{i}Or could she really be this clueless?{/i}"
+msgid "[RT] {i}Or could she really be this clueless?{/i}"
     RT "{i}Or could she really be this clueless?{/i}"
 
 # game/UpdateScript0.03.rpy:1084## # translate crowdin commissionsecondoutfit_25b0019e:
@@ -1367,7 +1367,7 @@ msgid "S "Uhhh.... that's because.... never mind."
     S "Uhhh.... that's because.... never mind."
 
 # game/UpdateScript0.03.rpy:1108## # translate crowdin commissionsecondoutfit_781ec2a0:
-msgid "RT "{i}Haha.... she thinks I really don't know.{/i}"
+msgid "[RT] {i}Haha.... she thinks I really don't know.{/i}"
     RT "{i}Haha.... she thinks I really don't know.{/i}"
 
 # game/UpdateScript0.03.rpy:1111## # translate crowdin commissionsecondoutfit_d455752f:
@@ -1491,15 +1491,15 @@ msgid "S "I think you're enjoying more than the money from this little venture."
     S "I think you're enjoying more than the money from this little venture."
 
 # game/UpdateScript0.03.rpy:1161## # translate crowdin commissionsecondoutfit_bf87ec39_1:
-msgid "RT "{i}She's flashing me again!{/i}"
+msgid "[RT] {i}She's flashing me again!{/i}"
     RT "{i}She's flashing me again!{/i}"
 
 # game/UpdateScript0.03.rpy:1162## # translate crowdin commissionsecondoutfit_49aca8ae_1:
-msgid "RT "{i}Is she doing this on purpose?{/i}"
+msgid "[RT] {i}Is she doing this on purpose?{/i}"
     RT "{i}Is she doing this on purpose?{/i}"
 
 # game/UpdateScript0.03.rpy:1163## # translate crowdin commissionsecondoutfit_7c3354e4_1:
-msgid "RT "{i}Or could she really be this clueless?{/i}"
+msgid "[RT] {i}Or could she really be this clueless?{/i}"
     RT "{i}Or could she really be this clueless?{/i}"
 
 # game/UpdateScript0.03.rpy:1164## # translate crowdin commissionsecondoutfit_05a9b552:
@@ -1591,11 +1591,11 @@ msgid "L "Haha of course not.... I'm leaving that up to you."
     L "Haha of course not.... I'm leaving that up to you."
 
 # game/UpdateScript0.03.rpy:1207## # translate crowdin secondcosplayfitting_a9f4302a:
-msgid "RT "{i}Shit!.... How am I going to tell Mom about this?{/i}"
+msgid "[RT] {i}Shit!.... How am I going to tell Mom about this?{/i}"
     RT "{i}Shit!.... How am I going to tell Mom about this?{/i}"
 
 # game/UpdateScript0.03.rpy:1208## # translate crowdin secondcosplayfitting_3fd7cd95:
-msgid "RT "{i}Oh, well.... another problem for another day.{/i}"
+msgid "[RT] {i}Oh, well.... another problem for another day.{/i}"
     RT "{i}Oh, well.... another problem for another day.{/i}"
 
 # game/UpdateScript0.03.rpy:1209## # translate crowdin secondcosplayfitting_50a74cf7:
@@ -1623,7 +1623,7 @@ msgid "S "Don't forget that it's your little sister you're taking pictures of pl
     S "Don't forget that it's your little sister you're taking pictures of please!"
 
 # game/UpdateScript0.03.rpy:1218## # translate crowdin secondcosplayfitting_8214c44c:
-msgid "RT "{i}Says the girl jerking off her brother when she thinks he's sleeping.{/i}"
+msgid "[RT] {i}Says the girl jerking off her brother when she thinks he's sleeping.{/i}"
     RT "{i}Says the girl jerking off her brother when she thinks he's sleeping.{/i}"
 
 # game/UpdateScript0.03.rpy:1219## # translate crowdin secondcosplayfitting_2362adfe:
@@ -1691,15 +1691,15 @@ msgid "M "Give me just a second."
     M "Give me just a second."
 
 # game/UpdateScript0.03.rpy:1248## # translate crowdin bikinishow_52ff0480:
-msgid "RT "{i}I can't believe how easy it was to talk her into trying on bikinis for me.{/i}"
+msgid "[RT] {i}I can't believe how easy it was to talk her into trying on bikinis for me.{/i}"
     RT "{i}I can't believe how easy it was to talk her into trying on bikinis for me.{/i}"
 
 # game/UpdateScript0.03.rpy:1249## # translate crowdin bikinishow_180e0ed3:
-msgid "RT "{i}I can't wait to see what I can talk her into next.{/i}"
+msgid "[RT] {i}I can't wait to see what I can talk her into next.{/i}"
     RT "{i}I can't wait to see what I can talk her into next.{/i}"
 
 # game/UpdateScript0.03.rpy:1250## # translate crowdin bikinishow_ed87762c:
-msgid "RT "{i}Maybe something at the pool.{/i}"
+msgid "[RT] {i}Maybe something at the pool.{/i}"
     RT "{i}Maybe something at the pool.{/i}"
 
 # game/UpdateScript0.03.rpy:1254## # translate crowdin bikinishow_a6e1ec74:
@@ -1719,7 +1719,7 @@ msgid "[R] Pink looks really good on you."
 msgstr "[R] Pink looks really good on you."
 
 # game/UpdateScript0.03.rpy:1258## # translate crowdin bikinishow_3f607c84:
-msgid "RT "{i}Oh my God.... stay in control. Stay in control. Stay in control.... {/i}"
+msgid "[RT] {i}Oh my God.... stay in control. Stay in control. Stay in control.... {/i}"
     RT "{i}Oh my God.... stay in control. Stay in control. Stay in control.... {/i}"
 
 # game/UpdateScript0.03.rpy:1259## # translate crowdin bikinishow_21a03ae0:
@@ -1763,27 +1763,27 @@ msgid "MT "{i}Shit!.... Why did I agree to this?.... Why did I say those teasing
     MT "{i}Shit!.... Why did I agree to this?.... Why did I say those teasing comments?.... I've made it a bit awkward...{/i}"
 
 # game/UpdateScript0.03.rpy:1273## # translate crowdin bikinishow_899c4742:
-msgid "RT "{i}Oh my God!!.... Was Mom trying to turn me on, on purpose?!!.... {/i}"
+msgid "[RT] {i}Oh my God!!.... Was Mom trying to turn me on, on purpose?!!.... {/i}"
     RT "{i}Oh my God!!.... Was Mom trying to turn me on, on purpose?!!.... {/i}"
 
 # game/UpdateScript0.03.rpy:1274## # translate crowdin bikinishow_babc0525:
-msgid "RT "{i}Ok.... un-sexy thought, un-sexy thoughts.... {/i}"
+msgid "[RT] {i}Ok.... un-sexy thought, un-sexy thoughts.... {/i}"
     RT "{i}Ok.... un-sexy thought, un-sexy thoughts.... {/i}"
 
 # game/UpdateScript0.03.rpy:1275## # translate crowdin bikinishow_ad44ff0d:
-msgid "RT "{i}Grandma naked, grandma naked, grandma naked.... {/i}"
+msgid "[RT] {i}Grandma naked, grandma naked, grandma naked.... {/i}"
     RT "{i}Grandma naked, grandma naked, grandma naked.... {/i}"
 
 # game/UpdateScript0.03.rpy:1276## # translate crowdin bikinishow_74a934a1:
-msgid "RT "{i}Shit.... grandma's too sexy also.... {/i}"
+msgid "[RT] {i}Shit.... grandma's too sexy also.... {/i}"
     RT "{i}Shit.... grandma's too sexy also.... {/i}"
 
 # game/UpdateScript0.03.rpy:1277## # translate crowdin bikinishow_87b8a60e:
-msgid "RT "{i}I know.... grandpa naked on a cold day, grandpa naked on a cold day, grandpa naked on a cold day.{/i}"
+msgid "[RT] {i}I know.... grandpa naked on a cold day, grandpa naked on a cold day, grandpa naked on a cold day.{/i}"
     RT "{i}I know.... grandpa naked on a cold day, grandpa naked on a cold day, grandpa naked on a cold day.{/i}"
 
 # game/UpdateScript0.03.rpy:1278## # translate crowdin bikinishow_79d39400:
-msgid "RT "{i}Oh thank God.... that took care of it.... {/i}"
+msgid "[RT] {i}Oh thank God.... that took care of it.... {/i}"
     RT "{i}Oh thank God.... that took care of it.... {/i}"
 
 # game/UpdateScript0.03.rpy:1281## # translate crowdin bikinishow_2e78a17a:
@@ -1823,15 +1823,15 @@ msgid "M "There. I found the perfect solution. It keeps me more modest in front 
     M "There. I found the perfect solution. It keeps me more modest in front of my son, but allows everyone at the club to imagine what's going on underneath them."
 
 # game/UpdateScript0.03.rpy:1294## # translate crowdin bikinishow_0a50f783:
-msgid "RT "{i}Oh, I'm imagining all right.... shit.... I've got to stop imagining if I'm going to keep little [ryan] under control.{/i}"
+msgid "[RT] {i}Oh, I'm imagining all right.... shit.... I've got to stop imagining if I'm going to keep little [ryan] under control.{/i}"
     RT "{i}Oh, I'm imagining all right.... shit.... I've got to stop imagining if I'm going to keep little [ryan] under control.{/i}"
 
 # game/UpdateScript0.03.rpy:1295## # translate crowdin bikinishow_e03834b0:
-msgid "RT "{i}Grandpa naked on a cold day.... grandpa naked on a cold day.... grandpa naked on a cold day.... {/i}"
+msgid "[RT] {i}Grandpa naked on a cold day.... grandpa naked on a cold day.... grandpa naked on a cold day.... {/i}"
     RT "{i}Grandpa naked on a cold day.... grandpa naked on a cold day.... grandpa naked on a cold day.... {/i}"
 
 # game/UpdateScript0.03.rpy:1296## # translate crowdin bikinishow_d2afff5a:
-msgid "RT "{i}Ok.... back in control.... {/i}"
+msgid "[RT] {i}Ok.... back in control.... {/i}"
     RT "{i}Ok.... back in control.... {/i}"
 
 # game/UpdateScript0.03.rpy:1297## # translate crowdin bikinishow_069a93da:
@@ -1851,15 +1851,15 @@ msgid "M "Ok, so what's it going to be? The pink one or the blue one?"
     M "Ok, so what's it going to be? The pink one or the blue one?"
 
 # game/UpdateScript0.03.rpy:1303## # translate crowdin bikinishow_1d957916:
-msgid "RT "{i}Ok, well the pink one is more revealing since she's wearing the shorts. I mean I definitely get to see more of her ass.{/i}"
+msgid "[RT] {i}Ok, well the pink one is more revealing since she's wearing the shorts. I mean I definitely get to see more of her ass.{/i}"
     RT "{i}Ok, well the pink one is more revealing since she's wearing the shorts. I mean I definitely get to see more of her ass.{/i}"
 
 # game/UpdateScript0.03.rpy:1304## # translate crowdin bikinishow_77c7f73f:
-msgid "RT "{i}The blue one is sexier, but those damn shorts!.... I wonder if there's some way I'll be able to get her to take them off at the club pool?{/i}"
+msgid "[RT] {i}The blue one is sexier, but those damn shorts!.... I wonder if there's some way I'll be able to get her to take them off at the club pool?{/i}"
     RT "{i}The blue one is sexier, but those damn shorts!.... I wonder if there's some way I'll be able to get her to take them off at the club pool?{/i}"
 
 # game/UpdateScript0.03.rpy:1305## # translate crowdin bikinishow_8e92b373:
-msgid "RT "{i}Which should I choose?{/i}"
+msgid "[RT] {i}Which should I choose?{/i}"
     RT "{i}Which should I choose?{/i}"
 
 # game/UpdateScript0.03.rpy:1309## # translate crowdin bikinishow_f5178826:
@@ -1983,31 +1983,31 @@ msgid "AD ".... Just.... wow!..."
     AD ".... Just.... wow!..."
 
 # game/UpdateScript0.03.rpy:1364## # translate crowdin diaz_and_lauren_46a5da4a:
-msgid "RT "{i}I've got to see this!{/i}"
+msgid "[RT] {i}I've got to see this!{/i}"
     RT "{i}I've got to see this!{/i}"
 
 # game/UpdateScript0.03.rpy:1365## # translate crowdin diaz_and_lauren_e9bfaf80:
-msgid "RT "{i}Not just for my own enjoyment, but to make sure Agent Diaz doesn't take things too far.{/i}"
+msgid "[RT] {i}Not just for my own enjoyment, but to make sure Agent Diaz doesn't take things too far.{/i}"
     RT "{i}Not just for my own enjoyment, but to make sure Agent Diaz doesn't take things too far.{/i}"
 
 # game/UpdateScript0.03.rpy:1369## # translate crowdin diaz_and_lauren_ea21b17e:
-msgid "RT "{i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
+msgid "[RT] {i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
     RT "{i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
 
 # game/UpdateScript0.03.rpy:1371## # translate crowdin diaz_and_lauren_0c29a03f:
-msgid "RT "{i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
+msgid "[RT] {i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
     RT "{i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
 
 # game/UpdateScript0.03.rpy:1374## # translate crowdin diaz_and_lauren_5ce904ae:
-msgid "RT "{i}Oh, wow! I wish she'd wear her uniform like that to school.{/i}"
+msgid "[RT] {i}Oh, wow! I wish she'd wear her uniform like that to school.{/i}"
     RT "{i}Oh, wow! I wish she'd wear her uniform like that to school.{/i}"
 
 # game/UpdateScript0.03.rpy:1375## # translate crowdin diaz_and_lauren_f78df67d:
-msgid "RT "{i}Hmmmmm.... I wonder if Mom could ever be convinced to allow that dress code in her class.{/i}"
+msgid "[RT] {i}Hmmmmm.... I wonder if Mom could ever be convinced to allow that dress code in her class.{/i}"
     RT "{i}Hmmmmm.... I wonder if Mom could ever be convinced to allow that dress code in her class.{/i}"
 
 # game/UpdateScript0.03.rpy:1376## # translate crowdin diaz_and_lauren_ccf0294d:
-msgid "RT "{i}I know school board member Will Tylor would gladly agree to that kind of dress code.{/i}"
+msgid "[RT] {i}I know school board member Will Tylor would gladly agree to that kind of dress code.{/i}"
     RT "{i}I know school board member Will Tylor would gladly agree to that kind of dress code.{/i}"
 
 # game/UpdateScript0.03.rpy:1379## # translate crowdin diaz_and_lauren_3db1fe88:
@@ -2147,19 +2147,19 @@ msgid "L "Never!"
     L "Never!"
 
 # game/UpdateScript0.03.rpy:1447## # translate crowdin diaz_and_lauren_4ac15ba2:
-msgid "RT "{i}Oh my God! She's spanking Lauren!{/i}"
+msgid "[RT] {i}Oh my God! She's spanking Lauren!{/i}"
     RT "{i}Oh my God! She's spanking Lauren!{/i}"
 
 # game/UpdateScript0.03.rpy:1451## # translate crowdin diaz_and_lauren_937147bc:
-msgid "RT "{i}Why do I find that so hot?.... {/i}"
+msgid "[RT] {i}Why do I find that so hot?.... {/i}"
     RT "{i}Why do I find that so hot?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1452## # translate crowdin diaz_and_lauren_0fe8dd12:
-msgid "RT "{i}I've got the biggest boner right now!{/i}"
+msgid "[RT] {i}I've got the biggest boner right now!{/i}"
     RT "{i}I've got the biggest boner right now!{/i}"
 
 # game/UpdateScript0.03.rpy:1454## # translate crowdin diaz_and_lauren_ce040eee:
-msgid "RT "{i}I hope that slapping doesn't wake up Sidney.{/i}"
+msgid "[RT] {i}I hope that slapping doesn't wake up Sidney.{/i}"
     RT "{i}I hope that slapping doesn't wake up Sidney.{/i}"
 
 # game/UpdateScript0.03.rpy:1457## # translate crowdin diaz_and_lauren_005117f0:
@@ -2231,11 +2231,11 @@ msgid "[R] Whaa.... what are you implying.... the very idea.... goodbye!"
 msgstr "[R] Whaa.... what are you implying.... the very idea.... goodbye!"
 
 # game/UpdateScript0.03.rpy:1501## # translate crowdin diaz_and_lauren_a583aa71:
-msgid "RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
+msgid "[RT] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
     RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
 
 # game/UpdateScript0.03.rpy:1502## # translate crowdin diaz_and_lauren_2d5a20bc:
-msgid "RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
+msgid "[RT] {i}Shit!.... I'd better go check on Lauren.{/i}"
     RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
 
 # game/UpdateScript0.03.rpy:1507## # translate crowdin diaz_and_lauren_d06ce517:
@@ -2491,11 +2491,11 @@ msgid "AD "I'll see you next week."
     AD "I'll see you next week."
 
 # game/UpdateScript0.03.rpy:1622## # translate crowdin diaz_and_lauren_a583aa71_1:
-msgid "RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
+msgid "[RT] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
     RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
 
 # game/UpdateScript0.03.rpy:1623## # translate crowdin diaz_and_lauren_2d5a20bc_1:
-msgid "RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
+msgid "[RT] {i}Shit!.... I'd better go check on Lauren.{/i}"
     RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
 
 # game/UpdateScript0.03.rpy:1628## # translate crowdin diaz_and_lauren_d06ce517_1:
@@ -2611,11 +2611,11 @@ msgid "L "I don't know what changed you.... but I like it."
     L "I don't know what changed you.... but I like it."
 
 # game/UpdateScript0.03.rpy:1673## # translate crowdin ryan_and_lauren_5059f34e:
-msgid "RT "{i}I'm pretty sure jacking off to Mom while she was stripping changed me more than Dad going to prison.{/i}"
+msgid "[RT] {i}I'm pretty sure jacking off to Mom while she was stripping changed me more than Dad going to prison.{/i}"
     RT "{i}I'm pretty sure jacking off to Mom while she was stripping changed me more than Dad going to prison.{/i}"
 
 # game/UpdateScript0.03.rpy:1674## # translate crowdin ryan_and_lauren_548c9123:
-msgid "RT "{i}In hindsight, I probably shouldn't have done that.{/i}"
+msgid "[RT] {i}In hindsight, I probably shouldn't have done that.{/i}"
     RT "{i}In hindsight, I probably shouldn't have done that.{/i}"
 
 # game/UpdateScript0.03.rpy:1675## # translate crowdin ryan_and_lauren_137c3d57:
@@ -2663,7 +2663,7 @@ msgid "[R] {i}(whispering){/i} sorry..."
 msgstr "[R] {i}(whispering){/i} sorry..."
 
 # game/UpdateScript0.03.rpy:1696## # translate crowdin ryan_and_lauren_a9d8f990:
-msgid "RT "{i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
+msgid "[RT] {i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
     RT "{i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
 
 # game/UpdateScript0.03.rpy:1697## # translate crowdin ryan_and_lauren_8331f458:
@@ -2751,11 +2751,11 @@ msgid "L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was some
     L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
 
 # game/UpdateScript0.03.rpy:1731## # translate crowdin ryan_and_lauren_49fbc840:
-msgid "RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
+msgid "[RT] {i}Oh, nice! Lauren wants to do some role-play.{/i}"
     RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
 
 # game/UpdateScript0.03.rpy:1732## # translate crowdin ryan_and_lauren_f24beb43:
-msgid "RT "{i}Maybe it's easier for her if she pretends I'm not her brother?{/i}"
+msgid "[RT] {i}Maybe it's easier for her if she pretends I'm not her brother?{/i}"
     RT "{i}Maybe it's easier for her if she pretends I'm not her brother?{/i}"
 
 # game/UpdateScript0.03.rpy:1733## # translate crowdin ryan_and_lauren_2ef08669:
@@ -2951,7 +2951,7 @@ msgid "[R] Ok..."
 msgstr "[R] Ok..."
 
 # game/UpdateScript0.03.rpy:1886## # translate crowdin ryan_and_lauren_a7c4642c:
-msgid "RT "{i}How am I supposed to resist a few peeks?{/i}"
+msgid "[RT] {i}How am I supposed to resist a few peeks?{/i}"
     RT "{i}How am I supposed to resist a few peeks?{/i}"
 
 # game/UpdateScript0.03.rpy:1892## # translate crowdin ryan_and_lauren_d4352eb0:
@@ -3019,7 +3019,7 @@ msgid "L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was some
     L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
 
 # game/UpdateScript0.03.rpy:1921## # translate crowdin ryan_and_lauren_49fbc840_1:
-msgid "RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
+msgid "[RT] {i}Oh, nice! Lauren wants to do some role-play.{/i}"
     RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
 
 # game/UpdateScript0.03.rpy:1922## # translate crowdin ryan_and_lauren_2ef08669_1:
@@ -3163,11 +3163,11 @@ msgid "L "Hahah.... you'd better run and get ready for school. I'm already halfw
     L "Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
 
 # game/UpdateScript0.03.rpy:2060## # translate crowdin meganloyaltyblowjob_7da2c237:
-msgid "RT "{i}Shit.... I'm late again.... oh look there's Megan.... {/i}"
+msgid "[RT] {i}Shit.... I'm late again.... oh look there's Megan.... {/i}"
     RT "{i}Shit.... I'm late again.... oh look there's Megan.... {/i}"
 
 # game/UpdateScript0.03.rpy:2061## # translate crowdin meganloyaltyblowjob_3c46a946:
-msgid "RT "{i}She kind of looks like she's waiting for me.... {/i}"
+msgid "[RT] {i}She kind of looks like she's waiting for me.... {/i}"
     RT "{i}She kind of looks like she's waiting for me.... {/i}"
 
 # game/UpdateScript0.03.rpy:2064## # translate crowdin meganloyaltyblowjob_710eb87b:
@@ -3207,15 +3207,15 @@ msgid "MG "He can be a little bit possessive, and sometimes violent."
     MG "He can be a little bit possessive, and sometimes violent."
 
 # game/UpdateScript0.03.rpy:2075## # translate crowdin meganloyaltyblowjob_2deecb1b:
-msgid "RT "{i}Man I'm glad I didn't accept his help. He sounds like a first class asshole.{/i}"
+msgid "[RT] {i}Man I'm glad I didn't accept his help. He sounds like a first class asshole.{/i}"
     RT "{i}Man I'm glad I didn't accept his help. He sounds like a first class asshole.{/i}"
 
 # game/UpdateScript0.03.rpy:2076## # translate crowdin meganloyaltyblowjob_67651745:
-msgid "RT "{i}Maybe I can show him that he's not the shit by messing with his girl.{/i}"
+msgid "[RT] {i}Maybe I can show him that he's not the shit by messing with his girl.{/i}"
     RT "{i}Maybe I can show him that he's not the shit by messing with his girl.{/i}"
 
 # game/UpdateScript0.03.rpy:2077## # translate crowdin meganloyaltyblowjob_37c42ad6:
-msgid "RT "{i}I know she's probably trying to get something out of me, but why not try to get something out of her in return?{/i}"
+msgid "[RT] {i}I know she's probably trying to get something out of me, but why not try to get something out of her in return?{/i}"
     RT "{i}I know she's probably trying to get something out of me, but why not try to get something out of her in return?{/i}"
 
 # game/UpdateScript0.03.rpy:2078## # translate crowdin meganloyaltyblowjob_fc000663:
@@ -3227,7 +3227,7 @@ msgid "MG "Sometimes, but then I remember the size of his cock, and you know wha
     MG "Sometimes, but then I remember the size of his cock, and you know what they say about how once you've had black..."
 
 # game/UpdateScript0.03.rpy:2082## # translate crowdin meganloyaltyblowjob_f3eb863d:
-msgid "RT "{i}Shit.... then the rumors are true.{/i}"
+msgid "[RT] {i}Shit.... then the rumors are true.{/i}"
     RT "{i}Shit.... then the rumors are true.{/i}"
 
 # game/UpdateScript0.03.rpy:2083## # translate crowdin meganloyaltyblowjob_fc994986:
@@ -3451,11 +3451,11 @@ msgid "MG "{i}\"Schhhhluurrrrp\"{/i}"
     MG "{i}\"Schhhhluurrrrp\"{/i}"
 
 # game/UpdateScript0.03.rpy:2178## # translate crowdin megan_cum_ff929df5:
-msgid "RT "{i}Oh my God, I'm gonna cum!{/i}"
+msgid "[RT] {i}Oh my God, I'm gonna cum!{/i}"
     RT "{i}Oh my God, I'm gonna cum!{/i}"
 
 # game/UpdateScript0.03.rpy:2180## # translate crowdin megan_cum_4f0ad1c6:
-msgid "RT "{i}Where should I do it?{/i}"
+msgid "[RT] {i}Where should I do it?{/i}"
     RT "{i}Where should I do it?{/i}"
 
 # game/UpdateScript0.03.rpy:2190## # translate crowdin megan_cum_1207d4fe:
@@ -3671,7 +3671,7 @@ msgid "[R] I'll go see what I can do."
 msgstr "[R] I'll go see what I can do."
 
 # game/UpdateScript0.03.rpy:2328## # translate crowdin clubpool_e2aa607b:
-msgid "RT "{i}Yep, reading a book, just like always.{/i}"
+msgid "[RT] {i}Yep, reading a book, just like always.{/i}"
     RT "{i}Yep, reading a book, just like always.{/i}"
 
 # game/UpdateScript0.03.rpy:2329## # translate crowdin clubpool_b639dc18:
@@ -3759,15 +3759,15 @@ msgid "[R] Ok, it's a deal."
 msgstr "[R] Ok, it's a deal."
 
 # game/UpdateScript0.03.rpy:2362## # translate crowdin clubpool_42d71c1f:
-msgid "RT "..."
+msgid "[RT] ..."
     RT "..."
 
 # game/UpdateScript0.03.rpy:2363## # translate crowdin clubpool_9ffac19b:
-msgid "RT "{i}If only I could get Mom some alcohol, she's always a lot more fun in social situations when she has a little liquid courage.{/i}"
+msgid "[RT] {i}If only I could get Mom some alcohol, she's always a lot more fun in social situations when she has a little liquid courage.{/i}"
     RT "{i}If only I could get Mom some alcohol, she's always a lot more fun in social situations when she has a little liquid courage.{/i}"
 
 # game/UpdateScript0.03.rpy:2364## # translate crowdin clubpool_344e4dd9:
-msgid "RT "{i}I can't order anything on credit, but I've got some cash in the wallet in my shorts, I wonder if they would accept cash here.{/i}"
+msgid "[RT] {i}I can't order anything on credit, but I've got some cash in the wallet in my shorts, I wonder if they would accept cash here.{/i}"
     RT "{i}I can't order anything on credit, but I've got some cash in the wallet in my shorts, I wonder if they would accept cash here.{/i}"
 
 # game/UpdateScript0.03.rpy:2367## # translate crowdin clubpool_4947e22f:
@@ -3859,19 +3859,19 @@ msgid "[R] Alright, I'll be right back, I just have to run and grab the cash out
 msgstr "[R] Alright, I'll be right back, I just have to run and grab the cash out of my wallet."
 
 # game/UpdateScript0.03.rpy:2392## # translate crowdin clubpool_2ebf8fd9:
-msgid "RT "{i}Umm.... ok, let me just think a second.{/i}"
+msgid "[RT] {i}Umm.... ok, let me just think a second.{/i}"
     RT "{i}Umm.... ok, let me just think a second.{/i}"
 
 # game/UpdateScript0.03.rpy:2393## # translate crowdin clubpool_dcfb0c4b:
-msgid "RT "{i}That's a lot of money for a little liquid refreshment,{/i}"
+msgid "[RT] {i}That's a lot of money for a little liquid refreshment,{/i}"
     RT "{i}That's a lot of money for a little liquid refreshment,{/i}"
 
 # game/UpdateScript0.03.rpy:2394## # translate crowdin clubpool_f7ca6391:
-msgid "RT "{i}But Mom really does loosen up with a few glasses of wine in her.{/i}"
+msgid "[RT] {i}But Mom really does loosen up with a few glasses of wine in her.{/i}"
     RT "{i}But Mom really does loosen up with a few glasses of wine in her.{/i}"
 
 # game/UpdateScript0.03.rpy:2395## # translate crowdin clubpool_8e1e1c5c:
-msgid "RT "{i}One glass might loosen her up a bit, but each glass she drinks after that might make her even more uninhibited.{/i}"
+msgid "[RT] {i}One glass might loosen her up a bit, but each glass she drinks after that might make her even more uninhibited.{/i}"
     RT "{i}One glass might loosen her up a bit, but each glass she drinks after that might make her even more uninhibited.{/i}"
 
 # game/UpdateScript0.03.rpy:2400## # translate crowdin clubpool_aa8121f5:
@@ -3887,7 +3887,7 @@ msgid "W "Ok, I'll run and get her a glass and let her know it's from the gentle
     W "Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
 
 # game/UpdateScript0.03.rpy:2404## # translate crowdin clubpool_d8d2d9d6:
-msgid "RT "{i}Haha gentleman, yeah, that describes me pretty well.{/i}"
+msgid "[RT] {i}Haha gentleman, yeah, that describes me pretty well.{/i}"
     RT "{i}Haha gentleman, yeah, that describes me pretty well.{/i}"
 
 # game/UpdateScript0.03.rpy:2405## # translate crowdin clubpool_16da2b5e:
@@ -3911,7 +3911,7 @@ msgid "W "Ok, I'll run and get her a glass and let her know it's from the gentle
     W "Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
 
 # game/UpdateScript0.03.rpy:2421## # translate crowdin clubpool_d8d2d9d6_1:
-msgid "RT "{i}Haha gentleman, yeah, that describes me pretty well.{/i}"
+msgid "[RT] {i}Haha gentleman, yeah, that describes me pretty well.{/i}"
     RT "{i}Haha gentleman, yeah, that describes me pretty well.{/i}"
 
 # game/UpdateScript0.03.rpy:2422## # translate crowdin clubpool_16da2b5e_1:
@@ -4079,11 +4079,11 @@ msgid "M "Maybe I should come work with you, you might be making more money than
     M "Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2525## # translate crowdin clubpool_e12e9c38:
-msgid "RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
+msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
     RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
 
 # game/UpdateScript0.03.rpy:2526## # translate crowdin clubpool_179cccdb:
-msgid "RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
+msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
     RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2528## # translate crowdin clubpool_c6610d0d:
@@ -4107,11 +4107,11 @@ msgid "M "Maybe I should come work with you, you might be making more money than
     M "Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2534## # translate crowdin clubpool_e12e9c38_1:
-msgid "RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
+msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
     RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
 
 # game/UpdateScript0.03.rpy:2535## # translate crowdin clubpool_179cccdb_1:
-msgid "RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
+msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
     RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2537## # translate crowdin clubpool_8a52fc45:
@@ -4135,11 +4135,11 @@ msgid "M "Maybe I should come work with you, you might be making more money than
     M "Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2543## # translate crowdin clubpool_e12e9c38_2:
-msgid "RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
+msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
     RT "{i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
 
 # game/UpdateScript0.03.rpy:2544## # translate crowdin clubpool_179cccdb_2:
-msgid "RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
+msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
     RT "{i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2546## # translate crowdin clubpool_8bf19f1e:
@@ -4323,7 +4323,7 @@ msgid "M "Oh, wow! That water is refreshing!"
     M "Oh, wow! That water is refreshing!"
 
 # game/UpdateScript0.03.rpy:2681## # translate crowdin clubpool_b65d9eb4:
-msgid "RT "{i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
+msgid "[RT] {i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
     RT "{i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
 
 # game/UpdateScript0.03.rpy:2683## # translate crowdin clubpool_fc59f26b:
@@ -4407,7 +4407,7 @@ msgid "M "Too easy to take advantage of the situation, if you know what I mean."
     M "Too easy to take advantage of the situation, if you know what I mean."
 
 # game/UpdateScript0.03.rpy:2716## # translate crowdin clubpool_11b42530:
-msgid "RT "{i}She's probably played enough of those porn games I introduced her to, so she knows what we hope will happen in a chicken fight.{/i}"
+msgid "[RT] {i}She's probably played enough of those porn games I introduced her to, so she knows what we hope will happen in a chicken fight.{/i}"
     RT "{i}She's probably played enough of those porn games I introduced her to, so she knows what we hope will happen in a chicken fight.{/i}"
 
 # game/UpdateScript0.03.rpy:2717## # translate crowdin clubpool_4c0399f8:
@@ -4423,7 +4423,7 @@ msgid "MB "I think that's a great idea, Miss [mom_name]!"
     MB "I think that's a great idea, Miss [mom_name]!"
 
 # game/UpdateScript0.03.rpy:2720## # translate crowdin clubpool_426d219e:
-msgid "RT "{i}Ass kisser.{/i}"
+msgid "[RT] {i}Ass kisser.{/i}"
     RT "{i}Ass kisser.{/i}"
 
 # game/UpdateScript0.03.rpy:2721## # translate crowdin clubpool_f2108dc8:
@@ -4519,11 +4519,11 @@ msgid "MBT "{i}That's definitely Miss [mom_name]. a strong pull on that top shou
     MBT "{i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
 
 # game/UpdateScript0.03.rpy:2769## # translate crowdin clubpool_252d2def:
-msgid "RT "{i}Is Matt going to do what I think he's doing?{/i}"
+msgid "[RT] {i}Is Matt going to do what I think he's doing?{/i}"
     RT "{i}Is Matt going to do what I think he's doing?{/i}"
 
 # game/UpdateScript0.03.rpy:2770## # translate crowdin clubpool_bd18b97a:
-msgid "RT "{i}I'd better get over there and help her.{/i}"
+msgid "[RT] {i}I'd better get over there and help her.{/i}"
     RT "{i}I'd better get over there and help her.{/i}"
 
 # game/UpdateScript0.03.rpy:2771## # translate crowdin clubpool_0fc75056:
@@ -4575,15 +4575,15 @@ msgid "[R] You want the whole pool to see them?"
 msgstr "[R] You want the whole pool to see them?"
 
 # game/UpdateScript0.03.rpy:2801## # translate crowdin clubpool_7d4975b1:
-msgid "RT "{i}Oh my God! I'm grabbing Mom's tits!!{/i}"
+msgid "[RT] {i}Oh my God! I'm grabbing Mom's tits!!{/i}"
     RT "{i}Oh my God! I'm grabbing Mom's tits!!{/i}"
 
 # game/UpdateScript0.03.rpy:2808## # translate crowdin clubpool_b8a3d3c7:
-msgid "RT "{i}Oh no! My swimsuit is shrinking!{/i}"
+msgid "[RT] {i}Oh no! My swimsuit is shrinking!{/i}"
     RT "{i}Oh no! My swimsuit is shrinking!{/i}"
 
 # game/UpdateScript0.03.rpy:2815## # translate crowdin clubpool_34bba332:
-msgid "RT "{i}I guess I should have expected this.{/i}"
+msgid "[RT] {i}I guess I should have expected this.{/i}"
     RT "{i}I guess I should have expected this.{/i}"
 
 # game/UpdateScript0.03.rpy:2822## # translate crowdin clubpool_d12fd868:
@@ -4643,11 +4643,11 @@ msgid "[R] .... Yeah!.... Of course!..."
 msgstr "[R] .... Yeah!.... Of course!..."
 
 # game/UpdateScript0.03.rpy:2855## # translate crowdin clubpool_3cee199f:
-msgid "RT "{i}I can't believe she's not furious!{/i}"
+msgid "[RT] {i}I can't believe she's not furious!{/i}"
     RT "{i}I can't believe she's not furious!{/i}"
 
 # game/UpdateScript0.03.rpy:2856## # translate crowdin clubpool_1fd5b71a:
-msgid "RT "{i}It must be all the wine.{/i}"
+msgid "[RT] {i}It must be all the wine.{/i}"
     RT "{i}It must be all the wine.{/i}"
 
 # game/UpdateScript0.03.rpy:2857## # translate crowdin clubpool_d8189bdf:
@@ -4683,15 +4683,15 @@ msgid "M "You don't have to protect me from everything!"
     M "You don't have to protect me from everything!"
 
 # game/UpdateScript0.03.rpy:2872## # translate crowdin clubpool_7d4975b1_1:
-msgid "RT "{i}Oh my God! I'm grabbing Mom's tits!!{/i}"
+msgid "[RT] {i}Oh my God! I'm grabbing Mom's tits!!{/i}"
     RT "{i}Oh my God! I'm grabbing Mom's tits!!{/i}"
 
 # game/UpdateScript0.03.rpy:2879## # translate crowdin clubpool_b8a3d3c7_1:
-msgid "RT "{i}Oh no! My swimsuit is shrinking!{/i}"
+msgid "[RT] {i}Oh no! My swimsuit is shrinking!{/i}"
     RT "{i}Oh no! My swimsuit is shrinking!{/i}"
 
 # game/UpdateScript0.03.rpy:2886## # translate crowdin clubpool_34bba332_1:
-msgid "RT "{i}I guess I should have expected this.{/i}"
+msgid "[RT] {i}I guess I should have expected this.{/i}"
     RT "{i}I guess I should have expected this.{/i}"
 
 # game/UpdateScript0.03.rpy:2893## # translate crowdin clubpool_a0a0a26e:
@@ -4787,15 +4787,15 @@ msgid "MT "{i}Shit, [mom_name]! Pull yourself together! You can't think about on
     MT "{i}Shit, [mom_name]! Pull yourself together! You can't think about one of your students like that!{/i}"
 
 # game/UpdateScript0.03.rpy:2931## # translate crowdin clubpool_2d99d24c:
-msgid "RT "{i}Shit!! Matt's gonna come after Mom hard.{/i}"
+msgid "[RT] {i}Shit!! Matt's gonna come after Mom hard.{/i}"
     RT "{i}Shit!! Matt's gonna come after Mom hard.{/i}"
 
 # game/UpdateScript0.03.rpy:2932## # translate crowdin clubpool_5e797ed9:
-msgid "RT "{i}And that fucker has game.{/i}"
+msgid "[RT] {i}And that fucker has game.{/i}"
     RT "{i}And that fucker has game.{/i}"
 
 # game/UpdateScript0.03.rpy:2933## # translate crowdin clubpool_8e0f8571:
-msgid "RT "{i}How am I going to protect her from him?{/i}"
+msgid "[RT] {i}How am I going to protect her from him?{/i}"
     RT "{i}How am I going to protect her from him?{/i}"
 
 # game/UpdateScript0.03.rpy:2935## # translate crowdin clubpool_ae33e464:
@@ -4911,11 +4911,11 @@ msgid "EBE "Polo!"
     EBE "Polo!"
 
 # game/UpdateScript0.03.rpy:2986## # translate crowdin clubpool_aec4b66d:
-msgid "RT "{i}Holy shit!{/i}"
+msgid "[RT] {i}Holy shit!{/i}"
     RT "{i}Holy shit!{/i}"
 
 # game/UpdateScript0.03.rpy:2987## # translate crowdin clubpool_6237d0ef:
-msgid "RT "{i}Mom's a fast swimmer.{/i}"
+msgid "[RT] {i}Mom's a fast swimmer.{/i}"
     RT "{i}Mom's a fast swimmer.{/i}"
 
 # game/UpdateScript0.03.rpy:2994## # translate crowdin clubpool_9eca3b34:
@@ -4931,7 +4931,7 @@ msgid "MT "{i}Ha! I've almost got someone, but I'm not positive it's [ryan].{/i}
     MT "{i}Ha! I've almost got someone, but I'm not positive it's [ryan].{/i}"
 
 # game/UpdateScript0.03.rpy:2998## # translate crowdin clubpool_e2958419:
-msgid "RT "{i}Damn she's almost got me. Maybe I'd better start doing yoga too.{/i}"
+msgid "[RT] {i}Damn she's almost got me. Maybe I'd better start doing yoga too.{/i}"
     RT "{i}Damn she's almost got me. Maybe I'd better start doing yoga too.{/i}"
 
 # game/UpdateScript0.03.rpy:3001## # translate crowdin clubpool_7f40dc86:
@@ -4955,7 +4955,7 @@ msgid "MT "{i}Who the hell is this?{/i}"
     MT "{i}Who the hell is this?{/i}"
 
 # game/UpdateScript0.03.rpy:3024## # translate crowdin clubpool_2afd586f:
-msgid "RT "{i}Oh my God, oh my God, oh my God!!!.... Does Mom know she's jacking me off?{/i}"
+msgid "[RT] {i}Oh my God, oh my God, oh my God!!!.... Does Mom know she's jacking me off?{/i}"
     RT "{i}Oh my God, oh my God, oh my God!!!.... Does Mom know she's jacking me off?{/i}"
 
 # game/UpdateScript0.03.rpy:3038## # translate crowdin clubpool_85ea0317:
@@ -4963,7 +4963,7 @@ msgid "MT "{i}Hmmmm.... I really think this must be Kenzie, but I know I heard h
     MT "{i}Hmmmm.... I really think this must be Kenzie, but I know I heard her voice on the other side of the pool.{/i}"
 
 # game/UpdateScript0.03.rpy:3053## # translate crowdin clubpool_a998697d:
-msgid "RT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
+msgid "[RT] {i}Oh, shit!!!.... I can't hold back any more!{/i}"
     RT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
 
 # game/UpdateScript0.03.rpy:3054## # translate crowdin clubpool_dbedcbea:
@@ -4971,7 +4971,7 @@ msgid "[R] Hnnnngggghhhh!!"
 msgstr "[R] Hnnnngggghhhh!!"
 
 # game/UpdateScript0.03.rpy:3060## # translate crowdin clubpool_4a82439b:
-msgid "RT "{i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i}"
+msgid "[RT] {i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i}"
     RT "{i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i}"
 
 # game/UpdateScript0.03.rpy:3061## # translate crowdin clubpool_68c42e7a:
@@ -5019,7 +5019,7 @@ msgid "M "{i}(whispering){/i} We don't want everyone in the pool to hear what ha
     M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
 
 # game/UpdateScript0.03.rpy:3089## # translate crowdin clubpool_f4a57f40:
-msgid "RT "{i}Yeah right, fat chance of that.{/i}"
+msgid "[RT] {i}Yeah right, fat chance of that.{/i}"
     RT "{i}Yeah right, fat chance of that.{/i}"
 
 # game/UpdateScript0.03.rpy:3090## # translate crowdin clubpool_66725d47:
@@ -5095,7 +5095,7 @@ msgid "M "{i}(whispering){/i} We don't want everyone in the pool to hear what ha
     M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
 
 # game/UpdateScript0.03.rpy:3131## # translate crowdin clubpool_f4a57f40_1:
-msgid "RT "{i}Yeah right, fat chance of that.{/i}"
+msgid "[RT] {i}Yeah right, fat chance of that.{/i}"
     RT "{i}Yeah right, fat chance of that.{/i}"
 
 # game/UpdateScript0.03.rpy:3132## # translate crowdin clubpool_1cb7a5f0:
@@ -5255,7 +5255,7 @@ msgid "[R] What do you mean? Did you get Kenzie? Is she it now?"
 msgstr "[R] What do you mean? Did you get Kenzie? Is she it now?"
 
 # game/UpdateScript0.03.rpy:3275## # translate crowdin clubpool_469d52d2:
-msgid "RT "{i}Hahah.... I saw exactly what happened.{/i}"
+msgid "[RT] {i}Hahah.... I saw exactly what happened.{/i}"
     RT "{i}Hahah.... I saw exactly what happened.{/i}"
 
 # game/UpdateScript0.03.rpy:3276## # translate crowdin clubpool_abfe8934:
@@ -5263,11 +5263,11 @@ msgid "[R] Or did you guess wrong. Are you coming after me next?"
 msgstr "[R] Or did you guess wrong. Are you coming after me next?"
 
 # game/UpdateScript0.03.rpy:3277## # translate crowdin clubpool_85474628:
-msgid "RT "{i}Why doesn't she seem more upset?{/i}"
+msgid "[RT] {i}Why doesn't she seem more upset?{/i}"
     RT "{i}Why doesn't she seem more upset?{/i}"
 
 # game/UpdateScript0.03.rpy:3278## # translate crowdin clubpool_e42e21ec:
-msgid "RT "{i}Maybe it's the alcohol.{/i}"
+msgid "[RT] {i}Maybe it's the alcohol.{/i}"
     RT "{i}Maybe it's the alcohol.{/i}"
 
 # game/UpdateScript0.03.rpy:3279## # translate crowdin clubpool_f16ffad6:
@@ -5283,7 +5283,7 @@ msgid "M "No.... sorry.... I can't tell you."
     M "No.... sorry.... I can't tell you."
 
 # game/UpdateScript0.03.rpy:3282## # translate crowdin clubpool_b95aeeda:
-msgid "RT "{i}Mom is a lot more fun when she's drunk.{/i}"
+msgid "[RT] {i}Mom is a lot more fun when she's drunk.{/i}"
     RT "{i}Mom is a lot more fun when she's drunk.{/i}"
 
 # game/UpdateScript0.03.rpy:3283## # translate crowdin clubpool_5e90e9ae:
@@ -5371,7 +5371,7 @@ msgid "[R] What do you mean? Did you get Kenzie? Is she it now?"
 msgstr "[R] What do you mean? Did you get Kenzie? Is she it now?"
 
 # game/UpdateScript0.03.rpy:3327## # translate crowdin clubpool_469d52d2_1:
-msgid "RT "{i}Hahah.... I saw exactly what happened.{/i}"
+msgid "[RT] {i}Hahah.... I saw exactly what happened.{/i}"
     RT "{i}Hahah.... I saw exactly what happened.{/i}"
 
 # game/UpdateScript0.03.rpy:3328## # translate crowdin clubpool_abfe8934_1:
@@ -5379,7 +5379,7 @@ msgid "[R] Or did you guess wrong. Are you coming after me next?"
 msgstr "[R] Or did you guess wrong. Are you coming after me next?"
 
 # game/UpdateScript0.03.rpy:3329## # translate crowdin clubpool_aaa748ef:
-msgid "RT "{i}She looks kind of upset?{/i}"
+msgid "[RT] {i}She looks kind of upset?{/i}"
     RT "{i}She looks kind of upset?{/i}"
 
 # game/UpdateScript0.03.rpy:3330## # translate crowdin clubpool_fd8cf1d5:
@@ -5395,7 +5395,7 @@ msgid "M "No.... sorry.... I can't tell you."
     M "No.... sorry.... I can't tell you."
 
 # game/UpdateScript0.03.rpy:3333## # translate crowdin clubpool_5df16283:
-msgid "RT "{i}She looks really embarrassed.{/i}"
+msgid "[RT] {i}She looks really embarrassed.{/i}"
     RT "{i}She looks really embarrassed.{/i}"
 
 # game/UpdateScript0.03.rpy:3334## # translate crowdin clubpool_fe66232a_1:
@@ -5487,7 +5487,7 @@ msgid "MBT "{i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in t
     MBT "{i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
 
 # game/UpdateScript0.03.rpy:3425## # translate crowdin clubpool_06e0c3b6:
-msgid "RT "Mom!.... Stop.... open your eyes!"
+msgid "[RT] Mom!.... Stop.... open your eyes!"
     RT "Mom!.... Stop.... open your eyes!"
 
 # game/UpdateScript0.03.rpy:3426## # translate crowdin clubpool_497a6ce2:
@@ -5571,7 +5571,7 @@ msgid "M "I mean.... oh heck.... I'm sorry to compare you to him."
     M "I mean.... oh heck.... I'm sorry to compare you to him."
 
 # game/UpdateScript0.03.rpy:3463## # translate crowdin clubpool_c3f41a1c:
-msgid "RT "{i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
+msgid "[RT] {i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
     RT "{i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
 
 # game/UpdateScript0.03.rpy:3464## # translate crowdin clubpool_615e6e69:
@@ -5951,7 +5951,7 @@ msgid "[R] If you're too uncomfortable to go any further with the shoot, we'll j
 msgstr "[R] If you're too uncomfortable to go any further with the shoot, we'll just call it a day, and see how we feel on the next one."
 
 # game/UpdateScript0.03.rpy:3727## # translate crowdin htbydshoot_20fe84ff:
-msgid "RT "{i}{b}I've got to remember not to push Lauren too hard. If I make her mad, she's just going to end the photo shoot and go home.{/b}{/i}"
+msgid "[RT] {i}{b}I've got to remember not to push Lauren too hard. If I make her mad, she's just going to end the photo shoot and go home.{/b}{/i}"
     RT "{i}{b}I've got to remember not to push Lauren too hard. If I make her mad, she's just going to end the photo shoot and go home.{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3728## # translate crowdin htbydshoot_197cc58c:
@@ -6075,7 +6075,7 @@ msgid "L "Ah.... thanks [ryan]!"
     L "Ah.... thanks [ryan]!"
 
 # game/UpdateScript0.03.rpy:3814## # translate crowdin htbydshoot_43c7285b:
-msgid "RT "{i}Ok, should I keep going?{/i}"
+msgid "[RT] {i}Ok, should I keep going?{/i}"
     RT "{i}Ok, should I keep going?{/i}"
 
 # game/UpdateScript0.03.rpy:3821## # translate crowdin htbydshoot_744c9729:
@@ -6763,7 +6763,7 @@ msgid "[R] You're looking great!"
 msgstr "[R] You're looking great!"
 
 # game/UpdateScript0.03.rpy:4178## # translate crowdin removeskirt_594e0ea2:
-msgid "RT "{i}Should I go on?{/i}"
+msgid "[RT] {i}Should I go on?{/i}"
     RT "{i}Should I go on?{/i}"
 
 # game/UpdateScript0.03.rpy:4182## # translate crowdin removeskirt_ed2d2668:
@@ -7363,7 +7363,7 @@ msgid "[R] I can't wait to see this one with the new background."
 msgstr "[R] I can't wait to see this one with the new background."
 
 # game/UpdateScript0.03.rpy:4491## # translate crowdin thongtime_057ff4a5:
-msgid "RT "{i}Things seem to be going pretty well. Should I keep going?{/i}"
+msgid "[RT] {i}Things seem to be going pretty well. Should I keep going?{/i}"
     RT "{i}Things seem to be going pretty well. Should I keep going?{/i}"
 
 # game/UpdateScript0.03.rpy:4495## # translate crowdin thongtime_ed2d2668:
@@ -7887,7 +7887,7 @@ msgid "[R] {i}(sarcastically){/i} Haha.... you're so funny."
 msgstr "[R] {i}(sarcastically){/i} Haha.... you're so funny."
 
 # game/UpdateScript0.03.rpy:4757## # translate crowdin removebra_e058831d:
-msgid "RT "{i}Should I keep this going?{/i}"
+msgid "[RT] {i}Should I keep this going?{/i}"
     RT "{i}Should I keep this going?{/i}"
 
 # game/UpdateScript0.03.rpy:4761## # translate crowdin removebra_27706357:
@@ -8447,11 +8447,11 @@ msgid "L "Oh.... I really hope so!..."
     L "Oh.... I really hope so!..."
 
 # game/UpdateScript0.03.rpy:5054## # translate crowdin showtitties_9b6df967:
-msgid "RT "{i}Lauren might be mad at first when she sees these, but I think her anger will wear off after she sees how popular these pics are going to be.{/i}"
+msgid "[RT] {i}Lauren might be mad at first when she sees these, but I think her anger will wear off after she sees how popular these pics are going to be.{/i}"
     RT "{i}Lauren might be mad at first when she sees these, but I think her anger will wear off after she sees how popular these pics are going to be.{/i}"
 
 # game/UpdateScript0.03.rpy:5055## # translate crowdin showtitties_836c1045:
-msgid "RT "{i}Now should I ask her to continue, or call it good?{/i}"
+msgid "[RT] {i}Now should I ask her to continue, or call it good?{/i}"
     RT "{i}Now should I ask her to continue, or call it good?{/i}"
 
 # game/UpdateScript0.03.rpy:5059## # translate crowdin showtitties_21ac00c6:
@@ -8803,7 +8803,7 @@ msgid "[R] Yep, got it!"
 msgstr "[R] Yep, got it!"
 
 # game/UpdateScript0.03.rpy:5220## # translate crowdin removethong_5bb8d876:
-msgid "RT "{i}I think I might be able to get her to go just a little bit farther, but should I?{/i}"
+msgid "[RT] {i}I think I might be able to get her to go just a little bit farther, but should I?{/i}"
     RT "{i}I think I might be able to get her to go just a little bit farther, but should I?{/i}"
 
 # game/UpdateScript0.03.rpy:5224## # translate crowdin removethong_e51ecde2:
@@ -9203,15 +9203,15 @@ msgid "L "Not done yet."
     L "Not done yet."
 
 # game/UpdateScript0.03.rpy:5445## # translate crowdin htbyd_closeups_db32565b:
-msgid "RT "{i}Oh, shit.... I got Lauren to grind me.... {/i}"
+msgid "[RT] {i}Oh, shit.... I got Lauren to grind me.... {/i}"
     RT "{i}Oh, shit.... I got Lauren to grind me.... {/i}"
 
 # game/UpdateScript0.03.rpy:5446## # translate crowdin htbyd_closeups_bfd76378:
-msgid "RT "{i}She must want this as bad as me.{/i}"
+msgid "[RT] {i}She must want this as bad as me.{/i}"
     RT "{i}She must want this as bad as me.{/i}"
 
 # game/UpdateScript0.03.rpy:5465## # translate crowdin htbyd_closeups_31f2ccad:
-msgid "RT "{i}Oh, man! I'm gonna cum.... {/i}"
+msgid "[RT] {i}Oh, man! I'm gonna cum.... {/i}"
     RT "{i}Oh, man! I'm gonna cum.... {/i}"
 
 # game/UpdateScript0.03.rpy:5468## # translate crowdin htbyd_closeups_c471307d:
@@ -9339,15 +9339,15 @@ msgid "L "Not done yet."
     L "Not done yet."
 
 # game/UpdateScript0.03.rpy:5553## # translate crowdin htbyd_closeups_958efa47:
-msgid "RT "{i}Oh, shit.... I got Lauren to grind me again.... {/i}"
+msgid "[RT] {i}Oh, shit.... I got Lauren to grind me again.... {/i}"
     RT "{i}Oh, shit.... I got Lauren to grind me again.... {/i}"
 
 # game/UpdateScript0.03.rpy:5554## # translate crowdin htbyd_closeups_c62205db:
-msgid "RT "{i}She won't admit it to herself, but she wants this as bad as me.{/i}"
+msgid "[RT] {i}She won't admit it to herself, but she wants this as bad as me.{/i}"
     RT "{i}She won't admit it to herself, but she wants this as bad as me.{/i}"
 
 # game/UpdateScript0.03.rpy:5573## # translate crowdin htbyd_closeups_31f2ccad_1:
-msgid "RT "{i}Oh, man! I'm gonna cum.... {/i}"
+msgid "[RT] {i}Oh, man! I'm gonna cum.... {/i}"
     RT "{i}Oh, man! I'm gonna cum.... {/i}"
 
 # game/UpdateScript0.03.rpy:5576## # translate crowdin htbyd_closeups_c471307d_1:
@@ -9419,15 +9419,15 @@ msgid "[R] Yeah.... I'll just clean things up here, and I'll be home soon too."
 msgstr "[R] Yeah.... I'll just clean things up here, and I'll be home soon too."
 
 # game/UpdateScript0.03.rpy:5623## # translate crowdin emailalert_2056fd1c:
-msgid "RT "{i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
+msgid "[RT] {i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
     RT "{i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
 
 # game/UpdateScript0.03.rpy:5626## # translate crowdin emailalert_65801c46:
-msgid "RT "{i}Oh man, it's just an email alert. You buy one thing at Hardnlong, and the emails never stop.{/i}"
+msgid "[RT] {i}Oh man, it's just an email alert. You buy one thing at Hardnlong, and the emails never stop.{/i}"
     RT "{i}Oh man, it's just an email alert. You buy one thing at Hardnlong, and the emails never stop.{/i}"
 
 # game/UpdateScript0.03.rpy:5627## # translate crowdin emailalert_86b823da:
-msgid "RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
+msgid "[RT] {i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
     RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
 ## # translate crowdin strings:##    # game/UpdateScript0.03.rpy:11
 msgid "Kenzie's Thoughts"

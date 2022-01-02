@@ -31,19 +31,19 @@ msgid "DS "To set up the spy cams in the rooms you must first have the 'progress
     DS "To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2496## # translate crowdin adv_rest_jump_24ddb230:
-msgid "RT "{i}School has ended, I must return home{/i}"
+msgid "[RT] {i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2504## # translate crowdin adv_rest_jump_24ddb230_1:
-msgid "RT "{i}School has ended, I must return home{/i}"
+msgid "[RT] {i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2510## # translate crowdin adv_rest_jump_24ddb230_2:
-msgid "RT "{i}School has ended, I must return home{/i}"
+msgid "[RT] {i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2516## # translate crowdin adv_rest_jump_24ddb230_3:
-msgid "RT "{i}School has ended, I must return home{/i}"
+msgid "[RT] {i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 ## # translate crowdin strings:##    # game/Patreon_$5_Gallery/D.S.Mod.rpy:160
 msgid "label name: [store.current_label]"

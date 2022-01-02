@@ -19,7 +19,7 @@ msgid "[R] It was mostly her idea."
 msgstr "[R] It was mostly her idea."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:131## # translate crowdin HTBYD_game_start_lbl_f7155a88:
-msgid "RT "{i}With a lot of coaxing.{/i}"
+msgid "[RT] {i}With a lot of coaxing.{/i}"
     RT "{i}With a lot of coaxing.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:132## # translate crowdin HTBYD_game_start_lbl_2dc7ff8f:
