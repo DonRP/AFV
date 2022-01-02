@@ -9147,56 +9147,56 @@ msgid "[RT] {i}Wow!... I can't wait for Matt to rip down Lauren's posters again.
 msgstr "[RT] {i}Wow!... I can't wait for Matt to rip down Lauren's posters again.{/i}"
 
 # game/UpdateScript0.07.rpy:5983## # translate crowdin actual_election_bf3b6dfe:
-msgid "PH "Welcome students!"
-    PH "Welcome students!"
+msgid "[PH] Welcome students!"
+msgstr "[PH] Welcome students!"
 
 # game/UpdateScript0.07.rpy:5984## # translate crowdin actual_election_175dc9dd:
-msgid "PH "Students?..."
-    PH "Students?..."
+msgid "[PH] Students?..."
+msgstr "[PH] Students?..."
 
 # game/UpdateScript0.07.rpy:5985## # translate crowdin actual_election_1bbf3c7c:
-msgid "PH "Can you please be quiet, and give me your attention!"
-    PH "Can you please be quiet, and give me your attention!"
+msgid "[PH] Can you please be quiet, and give me your attention!"
+msgstr "[PH] Can you please be quiet, and give me your attention!"
 
 # game/UpdateScript0.07.rpy:5987## # translate crowdin actual_election_ba401841:
-msgid "PH "Thank you."
-    PH "Thank you."
+msgid "[PH] Thank you."
+msgstr "[PH] Thank you."
 
 # game/UpdateScript0.07.rpy:5990## # translate crowdin actual_election_b889f955:
-msgid "PH "And once again, welcome to this special student body election assembly."
-    PH "And once again, welcome to this special student body election assembly."
+msgid "[PH] And once again, welcome to this special student body election assembly."
+msgstr "[PH] And once again, welcome to this special student body election assembly."
 
 # game/UpdateScript0.07.rpy:5991## # translate crowdin actual_election_25650a4b:
-msgid "PH "Our candidates have been working hard to get your votes, and now it's time for them to make one last appeal."
-    PH "Our candidates have been working hard to get your votes, and now it's time for them to make one last appeal."
+msgid "[PH] Our candidates have been working hard to get your votes, and now it's time for them to make one last appeal."
+msgstr "[PH] Our candidates have been working hard to get your votes, and now it's time for them to make one last appeal."
 
 # game/UpdateScript0.07.rpy:5992## # translate crowdin actual_election_6ae22aa1:
-msgid "PH "We'll start the assembly with the two candidates for student body president, Matt and Lauren."
-    PH "We'll start the assembly with the two candidates for student body president, Matt and Lauren."
+msgid "[PH] We'll start the assembly with the two candidates for student body president, Matt and Lauren."
+msgstr "[PH] We'll start the assembly with the two candidates for student body president, Matt and Lauren."
 
 # game/UpdateScript0.07.rpy:5993## # translate crowdin actual_election_3b543f50:
-msgid "PH "We'll let them come and take a few minutes each to give you their campaign speeches, and then we'll have a skit from them in the same order."
-    PH "We'll let them come and take a few minutes each to give you their campaign speeches, and then we'll have a skit from them in the same order."
+msgid "[PH] We'll let them come and take a few minutes each to give you their campaign speeches, and then we'll have a skit from them in the same order."
+msgstr "[PH] We'll let them come and take a few minutes each to give you their campaign speeches, and then we'll have a skit from them in the same order."
 
 # game/UpdateScript0.07.rpy:5996## # translate crowdin actual_election_5833b56e:
-msgid "PH "We'll begin with a young man that needs no introduction."
-    PH "We'll begin with a young man that needs no introduction."
+msgid "[PH] We'll begin with a young man that needs no introduction."
+msgstr "[PH] We'll begin with a young man that needs no introduction."
 
 # game/UpdateScript0.07.rpy:5997## # translate crowdin actual_election_7fe56760:
-msgid "PH "The captain of our basketball team for the last two years."
-    PH "The captain of our basketball team for the last two years."
+msgid "[PH] The captain of our basketball team for the last two years."
+msgstr "[PH] The captain of our basketball team for the last two years."
 
 # game/UpdateScript0.07.rpy:5998## # translate crowdin actual_election_83e88c52:
-msgid "PH "The leader who brought our school two state titles."
-    PH "The leader who brought our school two state titles."
+msgid "[PH] The leader who brought our school two state titles."
+msgstr "[PH] The leader who brought our school two state titles."
 
 # game/UpdateScript0.07.rpy:5999## # translate crowdin actual_election_ecb0a076:
-msgid "PH "Let's give it up for Matt!"
-    PH "Let's give it up for Matt!"
+msgid "[PH] Let's give it up for Matt!"
+msgstr "[PH] Let's give it up for Matt!"
 
 # game/UpdateScript0.07.rpy:6000## # translate crowdin actual_election_643a30f3:
-msgid "PH "{i}(talking quickly and muffled){/i} Followed shortly after by Lauren."
-    PH "{i}(talking quickly and muffled){/i} Followed shortly after by Lauren."
+msgid "[PH] {i}(talking quickly and muffled){/i} Followed shortly after by Lauren."
+msgstr "[PH] {i}(talking quickly and muffled){/i} Followed shortly after by Lauren."
 
 # game/UpdateScript0.07.rpy:6004## # translate crowdin actual_election_3283963b:
 msgid "[MB] Thank you, Principal Hardun!"
@@ -9503,8 +9503,8 @@ msgid "[R] Haha... Sorry."
 msgstr "[R] Haha... Sorry."
 
 # game/UpdateScript0.07.rpy:6164## # translate crowdin actual_election_85fda4b6:
-msgid "PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
-    PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
+msgid "[PH] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
+msgstr "[PH] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
 
 # game/UpdateScript0.07.rpy:6168## # translate crowdin actual_election_2d02ffbd:
 msgid "[X] Woo..wooo! Go Megan!"
@@ -9579,24 +9579,24 @@ msgid "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
 msgstr "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
 
 # game/UpdateScript0.07.rpy:6253## # translate crowdin actual_election_e7e30581:
-msgid "PH "So, it appears that Matt does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
-    PH "So, it appears that Matt does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
+msgid "[PH] So, it appears that Matt does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
+msgstr "[PH] So, it appears that Matt does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
 
 # game/UpdateScript0.07.rpy:6254## # translate crowdin actual_election_a50918bc:
-msgid "PH "Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
-    PH "Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
+msgid "[PH] Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
+msgstr "[PH] Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
 
 # game/UpdateScript0.07.rpy:6255## # translate crowdin actual_election_98e67b6c:
-msgid "PH "Then, sign in with your student IDs and passwords and cast your vote for student body president."
-    PH "Then, sign in with your student IDs and passwords and cast your vote for student body president."
+msgid "[PH] Then, sign in with your student IDs and passwords and cast your vote for student body president."
+msgstr "[PH] Then, sign in with your student IDs and passwords and cast your vote for student body president."
 
 # game/UpdateScript0.07.rpy:6256## # translate crowdin actual_election_696533ff:
-msgid "PH "Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
-    PH "Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
+msgid "[PH] Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
+msgstr "[PH] Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
 
 # game/UpdateScript0.07.rpy:6257## # translate crowdin actual_election_3d52a51a:
-msgid "PH "The voting has now started and will end in five minutes."
-    PH "The voting has now started and will end in five minutes."
+msgid "[PH] The voting has now started and will end in five minutes."
+msgstr "[PH] The voting has now started and will end in five minutes."
 
 # game/UpdateScript0.07.rpy:6260## # translate crowdin actual_election_81265a15:
 msgid "{i}\"Four and a half minutes later.\"{/i}"
@@ -9611,16 +9611,16 @@ msgid "[L] It's almost time!"
 msgstr "[L] It's almost time!"
 
 # game/UpdateScript0.07.rpy:6265## # translate crowdin actual_election_0d0527fb:
-msgid "PH "And here come the numbers!"
-    PH "And here come the numbers!"
+msgid "[PH] And here come the numbers!"
+msgstr "[PH] And here come the numbers!"
 
 # game/UpdateScript0.07.rpy:6268## # translate crowdin actual_election_3131f36d:
 msgid "[L] I can't look!"
 msgstr "[L] I can't look!"
 
 # game/UpdateScript0.07.rpy:6271## # translate crowdin actual_election_9180a755:
-msgid "PH "Wow! Is this accurate?"
-    PH "Wow! Is this accurate?"
+msgid "[PH] Wow! Is this accurate?"
+msgstr "[PH] Wow! Is this accurate?"
 
 # game/UpdateScript0.07.rpy:6274## # translate crowdin actual_election_26729b0b:
 msgid "[R] Lauren!... Open your eyes!"
@@ -9651,20 +9651,20 @@ msgid "[RT] {i}Wow!... Anyone could have seen that!{/i}"
 msgstr "[RT] {i}Wow!... Anyone could have seen that!{/i}"
 
 # game/UpdateScript0.07.rpy:6295## # translate crowdin actual_election_65e85ae7:
-msgid "PH "Holy Toledo!"
-    PH "Holy Toledo!"
+msgid "[PH] Holy Toledo!"
+msgstr "[PH] Holy Toledo!"
 
 # game/UpdateScript0.07.rpy:6296## # translate crowdin actual_election_e7b2a60d:
-msgid "PH "What a stunning upset!"
-    PH "What a stunning upset!"
+msgid "[PH] What a stunning upset!"
+msgstr "[PH] What a stunning upset!"
 
 # game/UpdateScript0.07.rpy:6297## # translate crowdin actual_election_0ab05c11:
-msgid "PH "Who would have thought in a million years that this relatively unknown girl could capture the hearts of this school and beat one of the most popular students to ever walk these halls!"
-    PH "Who would have thought in a million years that this relatively unknown girl could capture the hearts of this school and beat one of the most popular students to ever walk these halls!"
+msgid "[PH] Who would have thought in a million years that this relatively unknown girl could capture the hearts of this school and beat one of the most popular students to ever walk these halls!"
+msgstr "[PH] Who would have thought in a million years that this relatively unknown girl could capture the hearts of this school and beat one of the most popular students to ever walk these halls!"
 
 # game/UpdateScript0.07.rpy:6298## # translate crowdin actual_election_831d565b:
-msgid "PH "Congratulations, Lauren! Get on up here and say a few words!"
-    PH "Congratulations, Lauren! Get on up here and say a few words!"
+msgid "[PH] Congratulations, Lauren! Get on up here and say a few words!"
+msgstr "[PH] Congratulations, Lauren! Get on up here and say a few words!"
 
 # game/UpdateScript0.07.rpy:6304## # translate crowdin actual_election_cfdbbd8b:
 msgid "[X] {i}(Chanting){/i} Cosplay girl... Cosplay girl... Cosplay girl!!"
@@ -10067,8 +10067,8 @@ msgid "[MD] Yeah, about that. I had a few girls from the dance team that were su
 msgstr "[MD] Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
 
 # game/UpdateScript0.07.rpy:6489## # translate crowdin actual_election_85fda4b6_1:
-msgid "PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
-    PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
+msgid "[PH] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
+msgstr "[PH] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
 
 # game/UpdateScript0.07.rpy:6539## # translate crowdin actual_election_a1f77a14_2:
 msgid "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
@@ -10123,24 +10123,24 @@ msgid "[R] I'll run and tell principal Hardun that you don't have a skit."
 msgstr "[R] I'll run and tell principal Hardun that you don't have a skit."
 
 # game/UpdateScript0.07.rpy:6569## # translate crowdin actual_election_efa34208:
-msgid "PH "So, it appears that Lauren does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
-    PH "So, it appears that Lauren does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
+msgid "[PH] So, it appears that Lauren does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
+msgstr "[PH] So, it appears that Lauren does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
 
 # game/UpdateScript0.07.rpy:6570## # translate crowdin actual_election_a50918bc_1:
-msgid "PH "Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
-    PH "Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
+msgid "[PH] Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
+msgstr "[PH] Please, students. Pull out your phones or chodebooks and open page www.votehorny.edu."
 
 # game/UpdateScript0.07.rpy:6571## # translate crowdin actual_election_98e67b6c_1:
-msgid "PH "Then, sign in with your student IDs and passwords and cast your vote for student body president."
-    PH "Then, sign in with your student IDs and passwords and cast your vote for student body president."
+msgid "[PH] Then, sign in with your student IDs and passwords and cast your vote for student body president."
+msgstr "[PH] Then, sign in with your student IDs and passwords and cast your vote for student body president."
 
 # game/UpdateScript0.07.rpy:6572## # translate crowdin actual_election_696533ff_1:
-msgid "PH "Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
-    PH "Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
+msgid "[PH] Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
+msgstr "[PH] Remember, the choices are between Matt and Lauren. If you see anyone else, you've done something wrong."
 
 # game/UpdateScript0.07.rpy:6573## # translate crowdin actual_election_3d52a51a_1:
-msgid "PH "The voting has now started and will end in five minutes."
-    PH "The voting has now started and will end in five minutes."
+msgid "[PH] The voting has now started and will end in five minutes."
+msgstr "[PH] The voting has now started and will end in five minutes."
 
 # game/UpdateScript0.07.rpy:6576## # translate crowdin actual_election_81265a15_1:
 msgid "{i}\"Four and a half minutes later.\"{/i}"
@@ -10155,16 +10155,16 @@ msgid "[L] I know I'm going to lose, but I just hope I don't get slaughtered!"
 msgstr "[L] I know I'm going to lose, but I just hope I don't get slaughtered!"
 
 # game/UpdateScript0.07.rpy:6581## # translate crowdin actual_election_0d0527fb_1:
-msgid "PH "And here come the numbers!"
-    PH "And here come the numbers!"
+msgid "[PH] And here come the numbers!"
+msgstr "[PH] And here come the numbers!"
 
 # game/UpdateScript0.07.rpy:6584## # translate crowdin actual_election_3131f36d_1:
 msgid "[L] I can't look!"
 msgstr "[L] I can't look!"
 
 # game/UpdateScript0.07.rpy:6587## # translate crowdin actual_election_46b60968:
-msgid "PH "And there are the final results, I don't think anyone is surprised at the outcome, but Lauren's numbers are quite a bit higher than I expected."
-    PH "And there are the final results, I don't think anyone is surprised at the outcome, but Lauren's numbers are quite a bit higher than I expected."
+msgid "[PH] And there are the final results, I don't think anyone is surprised at the outcome, but Lauren's numbers are quite a bit higher than I expected."
+msgstr "[PH] And there are the final results, I don't think anyone is surprised at the outcome, but Lauren's numbers are quite a bit higher than I expected."
 
 # game/UpdateScript0.07.rpy:6590## # translate crowdin actual_election_54d8260b:
 msgid "[L] Only thirty percent?"
@@ -14567,8 +14567,8 @@ msgid "[M] But for now, I want you to help me take them down."
 msgstr "[M] But for now, I want you to help me take them down."
 
 # game/UpdateScript0.07.rpy:8859## # translate crowdin mom_angry_about_posters_102c1711:
-msgid "PH "Well hello there, Miss [mom_name]. You look upset. Is there some kind of problem here?"
-    PH "Well hello there, Miss [mom_name]. You look upset. Is there some kind of problem here?"
+msgid "[PH] Well hello there, Miss [mom_name]. You look upset. Is there some kind of problem here?"
+msgstr "[PH] Well hello there, Miss [mom_name]. You look upset. Is there some kind of problem here?"
 
 # game/UpdateScript0.07.rpy:8862## # translate crowdin mom_angry_about_posters_e4250b37:
 msgid "[M] Oh... Principal Hardun..."
@@ -14579,16 +14579,16 @@ msgid "[M] No... I mean yes... I'm sure you've noticed the inappropriate posters
 msgstr "[M] No... I mean yes... I'm sure you've noticed the inappropriate posters of my daughter hung up all over the halls."
 
 # game/UpdateScript0.07.rpy:8864## # translate crowdin mom_angry_about_posters_bd8b8233:
-msgid "PH "Oh... Lauren is your daughter?... I must congratulate you. She's really very beautiful... I can see where she gets her looks."
-    PH "Oh... Lauren is your daughter?... I must congratulate you. She's really very beautiful... I can see where she gets her looks."
+msgid "[PH] Oh... Lauren is your daughter?... I must congratulate you. She's really very beautiful... I can see where she gets her looks."
+msgstr "[PH] Oh... Lauren is your daughter?... I must congratulate you. She's really very beautiful... I can see where she gets her looks."
 
 # game/UpdateScript0.07.rpy:8865## # translate crowdin mom_angry_about_posters_6ec6f692:
 msgid "[M] Uhhh... thank you?"
 msgstr "[M] Uhhh... thank you?"
 
 # game/UpdateScript0.07.rpy:8866## # translate crowdin mom_angry_about_posters_c36368e4:
-msgid "PH "So, what exactly is the problem?"
-    PH "So, what exactly is the problem?"
+msgid "[PH] So, what exactly is the problem?"
+msgstr "[PH] So, what exactly is the problem?"
 
 # game/UpdateScript0.07.rpy:8867## # translate crowdin mom_angry_about_posters_1a9f9e6b:
 msgid "[M] Uhh... The fact that they are completely inappropriate!"
@@ -14603,24 +14603,24 @@ msgid "[M] So I'm making him take them all down."
 msgstr "[M] So I'm making him take them all down."
 
 # game/UpdateScript0.07.rpy:8874## # translate crowdin mom_angry_about_posters_de392264:
-msgid "PH "Is this true, young man?"
-    PH "Is this true, young man?"
+msgid "[PH] Is this true, young man?"
+msgstr "[PH] Is this true, young man?"
 
 # game/UpdateScript0.07.rpy:8875## # translate crowdin mom_angry_about_posters_11bdb4f8:
 msgid "[R] Yes, but..."
 msgstr "[R] Yes, but..."
 
 # game/UpdateScript0.07.rpy:8876## # translate crowdin mom_angry_about_posters_583ae17d:
-msgid "PH "Did you make these posters and hang them without the young lady's consent?"
-    PH "Did you make these posters and hang them without the young lady's consent?"
+msgid "[PH] Did you make these posters and hang them without the young lady's consent?"
+msgstr "[PH] Did you make these posters and hang them without the young lady's consent?"
 
 # game/UpdateScript0.07.rpy:8877## # translate crowdin mom_angry_about_posters_96c0d1cf:
 msgid "[R] No... She told me to make them, and to hang them up."
 msgstr "[R] No... She told me to make them, and to hang them up."
 
 # game/UpdateScript0.07.rpy:8878## # translate crowdin mom_angry_about_posters_0725c0cb:
-msgid "PH "Does she know what type of photos you used of her?"
-    PH "Does she know what type of photos you used of her?"
+msgid "[PH] Does she know what type of photos you used of her?"
+msgstr "[PH] Does she know what type of photos you used of her?"
 
 # game/UpdateScript0.07.rpy:8879## # translate crowdin mom_angry_about_posters_13163bff:
 msgid "[R] Yes... She's the one who told me to use those pictures."
@@ -14639,8 +14639,8 @@ msgid "[R] I thought that..."
 msgstr "[R] I thought that..."
 
 # game/UpdateScript0.07.rpy:8885## # translate crowdin mom_angry_about_posters_5b4bbf63:
-msgid "PH "Actually... If your son was acting under the direction of your daughter, with her full knowledge and consent, there's really nothing we can do."
-    PH "Actually... If your son was acting under the direction of your daughter, with her full knowledge and consent, there's really nothing we can do."
+msgid "[PH] Actually... If your son was acting under the direction of your daughter, with her full knowledge and consent, there's really nothing we can do."
+msgstr "[PH] Actually... If your son was acting under the direction of your daughter, with her full knowledge and consent, there's really nothing we can do."
 
 # game/UpdateScript0.07.rpy:8888## # translate crowdin mom_angry_about_posters_d8bf5ca9:
 msgid "[M] What?"
@@ -14651,24 +14651,24 @@ msgid "[M] This has to violate some kind of school rule or bylaw."
 msgstr "[M] This has to violate some kind of school rule or bylaw."
 
 # game/UpdateScript0.07.rpy:8890## # translate crowdin mom_angry_about_posters_23178151:
-msgid "PH "A few years ago, that would have been true, but ever since the Supreme Court ruled that free speech is protected within schools as well as everywhere else, we've had to change a few rules."
-    PH "A few years ago, that would have been true, but ever since the Supreme Court ruled that free speech is protected within schools as well as everywhere else, we've had to change a few rules."
+msgid "[PH] A few years ago, that would have been true, but ever since the Supreme Court ruled that free speech is protected within schools as well as everywhere else, we've had to change a few rules."
+msgstr "[PH] A few years ago, that would have been true, but ever since the Supreme Court ruled that free speech is protected within schools as well as everywhere else, we've had to change a few rules."
 
 # game/UpdateScript0.07.rpy:8891## # translate crowdin mom_angry_about_posters_05db61df:
 msgid "[M] But this is a private school."
 msgstr "[M] But this is a private school."
 
 # game/UpdateScript0.07.rpy:8892## # translate crowdin mom_angry_about_posters_1d3ed56b:
-msgid "PH "Yes, but a private school that receives government grants."
-    PH "Yes, but a private school that receives government grants."
+msgid "[PH] Yes, but a private school that receives government grants."
+msgstr "[PH] Yes, but a private school that receives government grants."
 
 # game/UpdateScript0.07.rpy:8893## # translate crowdin mom_angry_about_posters_b3c5f2bb:
 msgid "[M] But that can't apply to pornography!"
 msgstr "[M] But that can't apply to pornography!"
 
 # game/UpdateScript0.07.rpy:8894## # translate crowdin mom_angry_about_posters_96618fa8:
-msgid "PH "Good luck proving that your daughter's poster is pornography. There isn't even nudity."
-    PH "Good luck proving that your daughter's poster is pornography. There isn't even nudity."
+msgid "[PH] Good luck proving that your daughter's poster is pornography. There isn't even nudity."
+msgstr "[PH] Good luck proving that your daughter's poster is pornography. There isn't even nudity."
 
 # game/UpdateScript0.07.rpy:8897## # translate crowdin mom_angry_about_posters_f1c2917a:
 msgid "[M] But they're suggestive!"
@@ -14679,44 +14679,44 @@ msgid "[M] And she's my daughter, don't I have the right as her mother to force 
 msgstr "[M] And she's my daughter, don't I have the right as her mother to force her to take them down?"
 
 # game/UpdateScript0.07.rpy:8899## # translate crowdin mom_angry_about_posters_fbba5aaa:
-msgid "PH "You probably could if you weren't employed here."
-    PH "You probably could if you weren't employed here."
+msgid "[PH] You probably could if you weren't employed here."
+msgstr "[PH] You probably could if you weren't employed here."
 
 # game/UpdateScript0.07.rpy:8902## # translate crowdin mom_angry_about_posters_8046b1e5:
-msgid "PH "But since you are a teacher, employed by this school, I have to demand that you don't take down a single poster without her consent."
-    PH "But since you are a teacher, employed by this school, I have to demand that you don't take down a single poster without her consent."
+msgid "[PH] But since you are a teacher, employed by this school, I have to demand that you don't take down a single poster without her consent."
+msgstr "[PH] But since you are a teacher, employed by this school, I have to demand that you don't take down a single poster without her consent."
 
 # game/UpdateScript0.07.rpy:8903## # translate crowdin mom_angry_about_posters_26e0d6b6:
-msgid "PH "And I mean it!... If you do, there will be disciplinary action. This school can't afford a free speech lawsuit."
-    PH "And I mean it!... If you do, there will be disciplinary action. This school can't afford a free speech lawsuit."
+msgid "[PH] And I mean it!... If you do, there will be disciplinary action. This school can't afford a free speech lawsuit."
+msgstr "[PH] And I mean it!... If you do, there will be disciplinary action. This school can't afford a free speech lawsuit."
 
 # game/UpdateScript0.07.rpy:8904## # translate crowdin mom_angry_about_posters_09b32ecc:
-msgid "PH "Now... Do I have your word?"
-    PH "Now... Do I have your word?"
+msgid "[PH] Now... Do I have your word?"
+msgstr "[PH] Now... Do I have your word?"
 
 # game/UpdateScript0.07.rpy:8905## # translate crowdin mom_angry_about_posters_9040f0a8:
 msgid "[M] ...."
 msgstr "[M] ...."
 
 # game/UpdateScript0.07.rpy:8906## # translate crowdin mom_angry_about_posters_d752ffbb:
-msgid "PH "Miss [mom_name]?"
-    PH "Miss [mom_name]?"
+msgid "[PH] Miss [mom_name]?"
+msgstr "[PH] Miss [mom_name]?"
 
 # game/UpdateScript0.07.rpy:8907## # translate crowdin mom_angry_about_posters_3eb00c88:
 msgid "[M] Yes... I won't take any posters down until my daughter gives me permission."
 msgstr "[M] Yes... I won't take any posters down until my daughter gives me permission."
 
 # game/UpdateScript0.07.rpy:8908## # translate crowdin mom_angry_about_posters_22af2b52:
-msgid "PH "And let's get that permission in writing, just to cover our butts."
-    PH "And let's get that permission in writing, just to cover our butts."
+msgid "[PH] And let's get that permission in writing, just to cover our butts."
+msgstr "[PH] And let's get that permission in writing, just to cover our butts."
 
 # game/UpdateScript0.07.rpy:8909## # translate crowdin mom_angry_about_posters_2e751259:
-msgid "PH "Phew... I'm glad I happened upon that conversation."
-    PH "Phew... I'm glad I happened upon that conversation."
+msgid "[PH] Phew... I'm glad I happened upon that conversation."
+msgstr "[PH] Phew... I'm glad I happened upon that conversation."
 
 # game/UpdateScript0.07.rpy:8910## # translate crowdin mom_angry_about_posters_dfd67654:
-msgid "PH "Now if you'll excuse me, I've got other fires that need pissing on."
-    PH "Now if you'll excuse me, I've got other fires that need pissing on."
+msgid "[PH] Now if you'll excuse me, I've got other fires that need pissing on."
+msgstr "[PH] Now if you'll excuse me, I've got other fires that need pissing on."
 
 # game/UpdateScript0.07.rpy:8913## # translate crowdin mom_angry_about_posters_77e7c1f7:
 msgid "[M] Don't you think this is over!"
@@ -14863,64 +14863,64 @@ msgid "[M] Alright class, everybody pay attention to the TV, please."
 msgstr "[M] Alright class, everybody pay attention to the TV, please."
 
 # game/UpdateScript0.07.rpy:9029## # translate crowdin new_classroom_morning_f88daf1b:
-msgid "PH "Good morning students of Shagtown High!"
-    PH "Good morning students of Shagtown High!"
+msgid "[PH] Good morning students of Shagtown High!"
+msgstr "[PH] Good morning students of Shagtown High!"
 
 # game/UpdateScript0.07.rpy:9032## # translate crowdin new_classroom_morning_878a48ef:
-msgid "PH "As your principal, it's my honor to give you the weekly morning announcements."
-    PH "As your principal, it's my honor to give you the weekly morning announcements."
+msgid "[PH] As your principal, it's my honor to give you the weekly morning announcements."
+msgstr "[PH] As your principal, it's my honor to give you the weekly morning announcements."
 
 # game/UpdateScript0.07.rpy:9035## # translate crowdin new_classroom_morning_0d945a48:
-msgid "PH "Lunch today once again will be hot dogs or tacos, and as a special treat, the lunch lady is serving her specialty cream pie."
-    PH "Lunch today once again will be hot dogs or tacos, and as a special treat, the lunch lady is serving her specialty cream pie."
+msgid "[PH] Lunch today once again will be hot dogs or tacos, and as a special treat, the lunch lady is serving her specialty cream pie."
+msgstr "[PH] Lunch today once again will be hot dogs or tacos, and as a special treat, the lunch lady is serving her specialty cream pie."
 
 # game/UpdateScript0.07.rpy:9036## # translate crowdin new_classroom_morning_734abb14:
 msgid "{i}\"class giggling\"{/i}"
 msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9037## # translate crowdin new_classroom_morning_dd46bba5:
-msgid "PH "Blah blah blah, blah blah blah blah..."
-    PH "Blah blah blah, blah blah blah blah..."
+msgid "[PH] Blah blah blah, blah blah blah blah..."
+msgstr "[PH] Blah blah blah, blah blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9038## # translate crowdin new_classroom_morning_b8e9eda9:
 msgid "[RT] {i}Uggghh... Get to the important stuff already.{/i}"
 msgstr "[RT] {i}Uggghh... Get to the important stuff already.{/i}"
 
 # game/UpdateScript0.07.rpy:9041## # translate crowdin new_classroom_morning_3d887e9c:
-msgid "PH "And now, for the announcement's you've all been waiting for, Let's take a look at our weekly poll numbers."
-    PH "And now, for the announcement's you've all been waiting for, Let's take a look at our weekly poll numbers."
+msgid "[PH] And now, for the announcement's you've all been waiting for, Let's take a look at our weekly poll numbers."
+msgstr "[PH] And now, for the announcement's you've all been waiting for, Let's take a look at our weekly poll numbers."
 
 # game/UpdateScript0.07.rpy:9042## # translate crowdin new_classroom_morning_af089614:
-msgid "PH "Polls were conducted by the yearbook club by asking a sample of randomly selected students."
-    PH "Polls were conducted by the yearbook club by asking a sample of randomly selected students."
+msgid "[PH] Polls were conducted by the yearbook club by asking a sample of randomly selected students."
+msgstr "[PH] Polls were conducted by the yearbook club by asking a sample of randomly selected students."
 
 # game/UpdateScript0.07.rpy:9043## # translate crowdin new_classroom_morning_37c3775f:
-msgid "PH "Let's just go ahead and start at the top with student body president."
-    PH "Let's just go ahead and start at the top with student body president."
+msgid "[PH] Let's just go ahead and start at the top with student body president."
+msgstr "[PH] Let's just go ahead and start at the top with student body president."
 
 # game/UpdateScript0.07.rpy:9047## # translate crowdin new_classroom_morning_f51c3157:
-msgid "PH "Let's see... It says here that..."
-    PH "Let's see... It says here that..."
+msgid "[PH] Let's see... It says here that..."
+msgstr "[PH] Let's see... It says here that..."
 
 # game/UpdateScript0.07.rpy:9049## # translate crowdin new_classroom_morning_b955d1c2:
-msgid "PH "Oh, my God!... Am I reading these numbers right?"
-    PH "Oh, my God!... Am I reading these numbers right?"
+msgid "[PH] Oh, my God!... Am I reading these numbers right?"
+msgstr "[PH] Oh, my God!... Am I reading these numbers right?"
 
 # game/UpdateScript0.07.rpy:9050## # translate crowdin new_classroom_morning_d4b4bf54:
-msgid "PH "I'll have to double check this, but it looks like the poll numbers for President are too close to call."
-    PH "I'll have to double check this, but it looks like the poll numbers for President are too close to call."
+msgid "[PH] I'll have to double check this, but it looks like the poll numbers for President are too close to call."
+msgstr "[PH] I'll have to double check this, but it looks like the poll numbers for President are too close to call."
 
 # game/UpdateScript0.07.rpy:9053## # translate crowdin new_classroom_morning_7e6cb3b8:
-msgid "PH "If those numbers are verified, It would be nothing short of amazing on the part of the relatively unknown candidate, but beautiful cosplayer, Lauren."
-    PH "If those numbers are verified, It would be nothing short of amazing on the part of the relatively unknown candidate, but beautiful cosplayer, Lauren."
+msgid "[PH] If those numbers are verified, It would be nothing short of amazing on the part of the relatively unknown candidate, but beautiful cosplayer, Lauren."
+msgstr "[PH] If those numbers are verified, It would be nothing short of amazing on the part of the relatively unknown candidate, but beautiful cosplayer, Lauren."
 
 # game/UpdateScript0.07.rpy:9054## # translate crowdin new_classroom_morning_78ba462a:
-msgid "PH "I myself, while I can't say I didn't enjoy the posters, did wonder if a move like that wasn't political suicide, but it appears that the risk is paying off."
-    PH "I myself, while I can't say I didn't enjoy the posters, did wonder if a move like that wasn't political suicide, but it appears that the risk is paying off."
+msgid "[PH] I myself, while I can't say I didn't enjoy the posters, did wonder if a move like that wasn't political suicide, but it appears that the risk is paying off."
+msgstr "[PH] I myself, while I can't say I didn't enjoy the posters, did wonder if a move like that wasn't political suicide, but it appears that the risk is paying off."
 
 # game/UpdateScript0.07.rpy:9055## # translate crowdin new_classroom_morning_49c150f2:
-msgid "PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
-    PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgid "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgstr "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9056## # translate crowdin new_classroom_morning_80eb9db4:
 msgid "[RT] {i}Oh, nice! Lauren's going to be ecstatic! It was kind of creepy for the principal to mention Lauren's posters, but I'll bet she was too excited about the poll results to even notice.{/i}"
@@ -14939,16 +14939,16 @@ msgid "[RT] {i}I'd better go check on Lauren... She's probably at her campaign h
 msgstr "[RT] {i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
 
 # game/UpdateScript0.07.rpy:9071## # translate crowdin new_classroom_morning_0e7324e8:
-msgid "PH "It looks like our star player and captain of the basketball team, Matt, is still in the lead, but his opponent Lauren is surprisingly close behind."
-    PH "It looks like our star player and captain of the basketball team, Matt, is still in the lead, but his opponent Lauren is surprisingly close behind."
+msgid "[PH] It looks like our star player and captain of the basketball team, Matt, is still in the lead, but his opponent Lauren is surprisingly close behind."
+msgstr "[PH] It looks like our star player and captain of the basketball team, Matt, is still in the lead, but his opponent Lauren is surprisingly close behind."
 
 # game/UpdateScript0.07.rpy:9072## # translate crowdin new_classroom_morning_422cd8b8:
-msgid "PH "While it seems unlikely that Lauren could pull an upset... still, I'd be sure to watch my back if I were Matt."
-    PH "While it seems unlikely that Lauren could pull an upset... still, I'd be sure to watch my back if I were Matt."
+msgid "[PH] While it seems unlikely that Lauren could pull an upset... still, I'd be sure to watch my back if I were Matt."
+msgstr "[PH] While it seems unlikely that Lauren could pull an upset... still, I'd be sure to watch my back if I were Matt."
 
 # game/UpdateScript0.07.rpy:9073## # translate crowdin new_classroom_morning_49c150f2_1:
-msgid "PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
-    PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgid "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgstr "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9074## # translate crowdin new_classroom_morning_38dded53:
 msgid "[RT] {i}Wow!... Lauren's got to be pretty pleased. I mean, she might not be winning, but she's still doing much better than anyone ever expected her to do against Matt.{/i}"
@@ -14971,16 +14971,16 @@ msgid "[RT] {i}I'd better go check on Lauren... She's probably at her campaign h
 msgstr "[RT] {i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
 
 # game/UpdateScript0.07.rpy:9090## # translate crowdin new_classroom_morning_b530a13e:
-msgid "PH "Yep... Just as everyone suspected, our star player and captain of the basketball team, Matt, is winning in a landslide."
-    PH "Yep... Just as everyone suspected, our star player and captain of the basketball team, Matt, is winning in a landslide."
+msgid "[PH] Yep... Just as everyone suspected, our star player and captain of the basketball team, Matt, is winning in a landslide."
+msgstr "[PH] Yep... Just as everyone suspected, our star player and captain of the basketball team, Matt, is winning in a landslide."
 
 # game/UpdateScript0.07.rpy:9091## # translate crowdin new_classroom_morning_b751ae99:
-msgid "PH "We won't say by how far he is pummeling his relatively unknown opponent, what's her name?... Oh, Lauren... but let's just say, it won't be easy to come back from this far behind."
-    PH "We won't say by how far he is pummeling his relatively unknown opponent, what's her name?... Oh, Lauren... but let's just say, it won't be easy to come back from this far behind."
+msgid "[PH] We won't say by how far he is pummeling his relatively unknown opponent, what's her name?... Oh, Lauren... but let's just say, it won't be easy to come back from this far behind."
+msgstr "[PH] We won't say by how far he is pummeling his relatively unknown opponent, what's her name?... Oh, Lauren... but let's just say, it won't be easy to come back from this far behind."
 
 # game/UpdateScript0.07.rpy:9092## # translate crowdin new_classroom_morning_49c150f2_2:
-msgid "PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
-    PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgid "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+msgstr "[PH] And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9093## # translate crowdin new_classroom_morning_dac6ee28:
 msgid "[RT] {i}Shit!... That can't be good... Lauren's going to be pretty upset.{/i}"
@@ -15875,76 +15875,76 @@ msgid "[M] Alright class, everybody pay attention to the TV, please."
 msgstr "[M] Alright class, everybody pay attention to the TV, please."
 
 # game/UpdateScript0.07.rpy:9660## # translate crowdin election_announcement_f88daf1b:
-msgid "PH "Good morning students of Shagtown High!"
-    PH "Good morning students of Shagtown High!"
+msgid "[PH] Good morning students of Shagtown High!"
+msgstr "[PH] Good morning students of Shagtown High!"
 
 # game/UpdateScript0.07.rpy:9663## # translate crowdin election_announcement_ba52e8ef:
-msgid "PH "As your principal, it's my honor to give you the morning announcements."
-    PH "As your principal, it's my honor to give you the morning announcements."
+msgid "[PH] As your principal, it's my honor to give you the morning announcements."
+msgstr "[PH] As your principal, it's my honor to give you the morning announcements."
 
 # game/UpdateScript0.07.rpy:9666## # translate crowdin election_announcement_e3e19aba:
-msgid "PH "Lunch today will be hot dogs or tacos, and as a special treat, the lunchlady is serving her specialty cream pie."
-    PH "Lunch today will be hot dogs or tacos, and as a special treat, the lunchlady is serving her specialty cream pie."
+msgid "[PH] Lunch today will be hot dogs or tacos, and as a special treat, the lunchlady is serving her specialty cream pie."
+msgstr "[PH] Lunch today will be hot dogs or tacos, and as a special treat, the lunchlady is serving her specialty cream pie."
 
 # game/UpdateScript0.07.rpy:9667## # translate crowdin election_announcement_734abb14:
 msgid "{i}\"class giggling\"{/i}"
 msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9670## # translate crowdin election_announcement_9e2d61e9:
-msgid "PH "The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
-    PH "The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
+msgid "[PH] The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
+msgstr "[PH] The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
 
 # game/UpdateScript0.07.rpy:9671## # translate crowdin election_announcement_386d1ad2:
-msgid "PH "Well... I don't know what NTR is, but I'm sure you did a great job defending it... Haha... So, I hope all your lives are full of NTR."
-    PH "Well... I don't know what NTR is, but I'm sure you did a great job defending it... Haha... So, I hope all your lives are full of NTR."
+msgid "[PH] Well... I don't know what NTR is, but I'm sure you did a great job defending it... Haha... So, I hope all your lives are full of NTR."
+msgstr "[PH] Well... I don't know what NTR is, but I'm sure you did a great job defending it... Haha... So, I hope all your lives are full of NTR."
 
 # game/UpdateScript0.07.rpy:9672## # translate crowdin election_announcement_734abb14_1:
 msgid "{i}\"class giggling\"{/i}"
 msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9675## # translate crowdin election_announcement_6ce653ea:
-msgid "PH "Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
-    PH "Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
+msgid "[PH] Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
+msgstr "[PH] Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
 
 # game/UpdateScript0.07.rpy:9678## # translate crowdin election_announcement_5a21fae9:
-msgid "PH "Mmmm... Mr. Tylor tried to argue that the School Board was being sexist and wouldn't remove and expel the officers if they weren't all female. Mr. Tylor was in favor of punishing the girls by making them work extra hours in his office as personal assistants and maids."
-    PH "Mmmm... Mr. Tylor tried to argue that the School Board was being sexist and wouldn't remove and expel the officers if they weren't all female. Mr. Tylor was in favor of punishing the girls by making them work extra hours in his office as personal assistants and maids."
+msgid "[PH] Mmmm... Mr. Tylor tried to argue that the School Board was being sexist and wouldn't remove and expel the officers if they weren't all female. Mr. Tylor was in favor of punishing the girls by making them work extra hours in his office as personal assistants and maids."
+msgstr "[PH] Mmmm... Mr. Tylor tried to argue that the School Board was being sexist and wouldn't remove and expel the officers if they weren't all female. Mr. Tylor was in favor of punishing the girls by making them work extra hours in his office as personal assistants and maids."
 
 # game/UpdateScript0.07.rpy:9679## # translate crowdin election_announcement_c999ebdd:
-msgid "PH "The State School board decided that Mr. Tylor's proposed punishment wasn't harsh enough for the girl's actions."
-    PH "The State School board decided that Mr. Tylor's proposed punishment wasn't harsh enough for the girl's actions."
+msgid "[PH] The State School board decided that Mr. Tylor's proposed punishment wasn't harsh enough for the girl's actions."
+msgstr "[PH] The State School board decided that Mr. Tylor's proposed punishment wasn't harsh enough for the girl's actions."
 
 # game/UpdateScript0.07.rpy:9680## # translate crowdin election_announcement_627659a4:
-msgid "PH "In case you've been living under a rock, the student council got themselves in trouble when they went to the state capital for their student body council training."
-    PH "In case you've been living under a rock, the student council got themselves in trouble when they went to the state capital for their student body council training."
+msgid "[PH] In case you've been living under a rock, the student council got themselves in trouble when they went to the state capital for their student body council training."
+msgstr "[PH] In case you've been living under a rock, the student council got themselves in trouble when they went to the state capital for their student body council training."
 
 # game/UpdateScript0.07.rpy:9683## # translate crowdin election_announcement_2aac2402:
-msgid "PH "During the mock United Nations portion of their retreat, the girls prostituted themselves to win influence and votes from the student delegates of the other schools in the state."
-    PH "During the mock United Nations portion of their retreat, the girls prostituted themselves to win influence and votes from the student delegates of the other schools in the state."
+msgid "[PH] During the mock United Nations portion of their retreat, the girls prostituted themselves to win influence and votes from the student delegates of the other schools in the state."
+msgstr "[PH] During the mock United Nations portion of their retreat, the girls prostituted themselves to win influence and votes from the student delegates of the other schools in the state."
 
 # game/UpdateScript0.07.rpy:9684## # translate crowdin election_announcement_1ab7dd2b:
-msgid "PH "To quote your former student body president, \"We were just trying to make our mock UN function like the actual UN. Why would they punish us for following the example of our own country's delegates?\""
-    PH "To quote your former student body president, \"We were just trying to make our mock UN function like the actual UN. Why would they punish us for following the example of our own country's delegates?\""
+msgid "[PH] To quote your former student body president, \"We were just trying to make our mock UN function like the actual UN. Why would they punish us for following the example of our own country's delegates?\""
+msgstr "[PH] To quote your former student body president, \"We were just trying to make our mock UN function like the actual UN. Why would they punish us for following the example of our own country's delegates?\""
 
 # game/UpdateScript0.07.rpy:9691## # translate crowdin election_announcement_1ee1b7a1:
-msgid "PH "Due to the president and her officer's removal, there is now a need to replace this school's student council."
-    PH "Due to the president and her officer's removal, there is now a need to replace this school's student council."
+msgid "[PH] Due to the president and her officer's removal, there is now a need to replace this school's student council."
+msgstr "[PH] Due to the president and her officer's removal, there is now a need to replace this school's student council."
 
 # game/UpdateScript0.07.rpy:9692## # translate crowdin election_announcement_ba0f93f2:
-msgid "PH "We will be taking applications for anyone who wishes to run for the offices of President, Vice President, and Secretary."
-    PH "We will be taking applications for anyone who wishes to run for the offices of President, Vice President, and Secretary."
+msgid "[PH] We will be taking applications for anyone who wishes to run for the offices of President, Vice President, and Secretary."
+msgstr "[PH] We will be taking applications for anyone who wishes to run for the offices of President, Vice President, and Secretary."
 
 # game/UpdateScript0.07.rpy:9695## # translate crowdin election_announcement_806704bc:
-msgid "PH "Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
-    PH "Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
+msgid "[PH] Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
+msgstr "[PH] Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
 
 # game/UpdateScript0.07.rpy:9698## # translate crowdin election_announcement_bba316d6:
 msgid "MJ "Did you say my name? Is it time to introduce myself?"
     MJ "Did you say my name? Is it time to introduce myself?"
 
 # game/UpdateScript0.07.rpy:9701## # translate crowdin election_announcement_c3d1331b:
-msgid "PH "{i}(Whispering){/i} Oh, shit!..."
-    PH "{i}(Whispering){/i} Oh, shit!..."
+msgid "[PH] {i}(Whispering){/i} Oh, shit!..."
+msgstr "[PH] {i}(Whispering){/i} Oh, shit!..."
 
 # game/UpdateScript0.07.rpy:9702## # translate crowdin election_announcement_9b23fc7e:
 msgid "[MG] Hey! She used to be my cheerleading captain when I was a freshman!"
@@ -15959,36 +15959,36 @@ msgid "[M] Shhhh..."
 msgstr "[M] Shhhh..."
 
 # game/UpdateScript0.07.rpy:9707## # translate crowdin election_announcement_95b09ca1:
-msgid "PH "Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
-    PH "Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
+msgid "[PH] Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
+msgstr "[PH] Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
 
 # game/UpdateScript0.07.rpy:9710## # translate crowdin election_announcement_e7256888:
 msgid "MJ "You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
     MJ "You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
 
 # game/UpdateScript0.07.rpy:9711## # translate crowdin election_announcement_77b958e5:
-msgid "PH "{i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
-    PH "{i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
+msgid "[PH] {i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
+msgstr "[PH] {i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
 
 # game/UpdateScript0.07.rpy:9712## # translate crowdin election_announcement_6df3498f:
 msgid "MJ "{i}(whispering){/i} Sorry..."
     MJ "{i}(whispering){/i} Sorry..."
 
 # game/UpdateScript0.07.rpy:9715## # translate crowdin election_announcement_4afa93cf:
-msgid "PH "This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
-    PH "This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
+msgid "[PH] This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
+msgstr "[PH] This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
 
 # game/UpdateScript0.07.rpy:9716## # translate crowdin election_announcement_6b00f640:
-msgid "PH "She's the new school secretary and will also be serving as our new cheerleading coach."
-    PH "She's the new school secretary and will also be serving as our new cheerleading coach."
+msgid "[PH] She's the new school secretary and will also be serving as our new cheerleading coach."
+msgstr "[PH] She's the new school secretary and will also be serving as our new cheerleading coach."
 
 # game/UpdateScript0.07.rpy:9717## # translate crowdin election_announcement_586bf81c:
 msgid "[MG] Nooo!"
 msgstr "[MG] Nooo!"
 
 # game/UpdateScript0.07.rpy:9718## # translate crowdin election_announcement_d603f388:
-msgid "PH "Some of you may recognize her since she graduated from our school 3 years ago."
-    PH "Some of you may recognize her since she graduated from our school 3 years ago."
+msgid "[PH] Some of you may recognize her since she graduated from our school 3 years ago."
+msgstr "[PH] Some of you may recognize her since she graduated from our school 3 years ago."
 
 # game/UpdateScript0.07.rpy:9719## # translate crowdin election_announcement_c925a910:
 msgid "[RT] {i}I know, I jacked off multiple times to her yearbook picture after my freshman year.{/i}"
@@ -16011,8 +16011,8 @@ msgid "{i}\"class giggling\"{/i}"
 msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9728## # translate crowdin election_announcement_bf8496bb:
-msgid "PH "Ok, I think you shouldn't say anaything else..."
-    PH "Ok, I think you shouldn't say anaything else..."
+msgid "[PH] Ok, I think you shouldn't say anaything else..."
+msgstr "[PH] Ok, I think you shouldn't say anaything else..."
 
 # game/UpdateScript0.07.rpy:9729## # translate crowdin election_announcement_9b81d85a:
 msgid "MJ "But I'm only trying to..."
@@ -18119,16 +18119,16 @@ msgid "[R] Principal Hardun?"
 msgstr "[R] Principal Hardun?"
 
 # game/UpdateScript0.07.rpy:10969## # translate crowdin bad_shower_end_4ebac82e:
-msgid "PH "Back for more, I see."
-    PH "Back for more, I see."
+msgid "[PH] Back for more, I see."
+msgstr "[PH] Back for more, I see."
 
 # game/UpdateScript0.07.rpy:10970## # translate crowdin bad_shower_end_70224aeb:
-msgid "PH "I knew you were lying."
-    PH "I knew you were lying."
+msgid "[PH] I knew you were lying."
+msgstr "[PH] I knew you were lying."
 
 # game/UpdateScript0.07.rpy:10971## # translate crowdin bad_shower_end_13dad08c:
-msgid "PH "Let's go talk to your mother."
-    PH "Let's go talk to your mother."
+msgid "[PH] Let's go talk to your mother."
+msgstr "[PH] Let's go talk to your mother."
 
 # game/UpdateScript0.07.rpy:10976## # translate crowdin bad_shower_end_37da16b4:
 msgid "[M] AGAIN!?"
@@ -18147,8 +18147,8 @@ msgid "[R] I didn't think anyone would be in the locker room this early in the m
 msgstr "[R] I didn't think anyone would be in the locker room this early in the morning, so I thought I could sneak in there and see if she's been hiding it from me."
 
 # game/UpdateScript0.07.rpy:10982## # translate crowdin bad_shower_end_decefd4b:
-msgid "PH "He's obviously lying."
-    PH "He's obviously lying."
+msgid "[PH] He's obviously lying."
+msgstr "[PH] He's obviously lying."
 
 # game/UpdateScript0.07.rpy:10985## # translate crowdin bad_shower_end_c7360c12:
 msgid "[M] I don't know... His hoodie still hasn't turned up."
@@ -18171,12 +18171,12 @@ msgid "[MT] {i}I just hope I can make myself do it.{/i}"
 msgstr "[MT] {i}I just hope I can make myself do it.{/i}"
 
 # game/UpdateScript0.07.rpy:10992## # translate crowdin bad_shower_end_5b455e2b:
-msgid "PH "Well, I'm not convinced."
-    PH "Well, I'm not convinced."
+msgid "[PH] Well, I'm not convinced."
+msgstr "[PH] Well, I'm not convinced."
 
 # game/UpdateScript0.07.rpy:10993## # translate crowdin bad_shower_end_7a0f03d7:
-msgid "PH "Let's you and me go discuss it in my office."
-    PH "Let's you and me go discuss it in my office."
+msgid "[PH] Let's you and me go discuss it in my office."
+msgstr "[PH] Let's you and me go discuss it in my office."
 
 # game/UpdateScript0.07.rpy:10996## # translate crowdin bad_shower_end_cc4624dc:
 msgid "[M] I can't belive you did this again! You need to get your perverted mind under control! Now wait for me here, until I get back out!"
@@ -18255,32 +18255,32 @@ msgid "[R] Principal Hardun?"
 msgstr "[R] Principal Hardun?"
 
 # game/UpdateScript0.07.rpy:11053## # translate crowdin bad_shower_end_585b2b61:
-msgid "PH "So, we've got a pervert sneaking around in the girls' locker room, huh."
-    PH "So, we've got a pervert sneaking around in the girls' locker room, huh."
+msgid "[PH] So, we've got a pervert sneaking around in the girls' locker room, huh."
+msgstr "[PH] So, we've got a pervert sneaking around in the girls' locker room, huh."
 
 # game/UpdateScript0.07.rpy:11054## # translate crowdin bad_shower_end_8674fbec:
-msgid "PH "Boy... let's go to the office and call your parents."
-    PH "Boy... let's go to the office and call your parents."
+msgid "[PH] Boy... let's go to the office and call your parents."
+msgstr "[PH] Boy... let's go to the office and call your parents."
 
 # game/UpdateScript0.07.rpy:11055## # translate crowdin bad_shower_end_8f72f1d4:
-msgid "PH "This is an expellable offense."
-    PH "This is an expellable offense."
+msgid "[PH] This is an expellable offense."
+msgstr "[PH] This is an expellable offense."
 
 # game/UpdateScript0.07.rpy:11056## # translate crowdin bad_shower_end_15accba5:
 msgid "[R] But my mom is a teacher here."
 msgstr "[R] But my mom is a teacher here."
 
 # game/UpdateScript0.07.rpy:11057## # translate crowdin bad_shower_end_d22678bb:
-msgid "PH "And which teacher is this?"
-    PH "And which teacher is this?"
+msgid "[PH] And which teacher is this?"
+msgstr "[PH] And which teacher is this?"
 
 # game/UpdateScript0.07.rpy:11058## # translate crowdin bad_shower_end_3818062d:
 msgid "[R] Miss [mom_name]."
 msgstr "[R] Miss [mom_name]."
 
 # game/UpdateScript0.07.rpy:11059## # translate crowdin bad_shower_end_faf21bf8:
-msgid "PH "Oh, the lovely Miss [mom_name]... Let's go see if we can find her."
-    PH "Oh, the lovely Miss [mom_name]... Let's go see if we can find her."
+msgid "[PH] Oh, the lovely Miss [mom_name]... Let's go see if we can find her."
+msgstr "[PH] Oh, the lovely Miss [mom_name]... Let's go see if we can find her."
 
 # game/UpdateScript0.07.rpy:11064## # translate crowdin bad_shower_end_e4565312:
 msgid "[M] You did what!?"
@@ -18303,8 +18303,8 @@ msgid "[R] I didn't think anyone would be in the locker room this early in the m
 msgstr "[R] I didn't think anyone would be in the locker room this early in the morning, so I thought I could sneak in there and see if she's been hiding it from me."
 
 # game/UpdateScript0.07.rpy:11071## # translate crowdin bad_shower_end_1218348a:
-msgid "PH "I don't know... You know the kid better than I do... But I think he's lying."
-    PH "I don't know... You know the kid better than I do... But I think he's lying."
+msgid "[PH] I don't know... You know the kid better than I do... But I think he's lying."
+msgstr "[PH] I don't know... You know the kid better than I do... But I think he's lying."
 
 # game/UpdateScript0.07.rpy:11074## # translate crowdin bad_shower_end_3ab26f3d:
 msgid "[M] I don't know... I know the hoodie he's talking about... And I haven't seen him wear it for over a month."
@@ -18323,12 +18323,12 @@ msgid "[MT] {i}He's got to finish school this year so he can move on with his li
 msgstr "[MT] {i}He's got to finish school this year so he can move on with his life!{/i}"
 
 # game/UpdateScript0.07.rpy:11080## # translate crowdin bad_shower_end_5b455e2b_1:
-msgid "PH "Well, I'm not convinced."
-    PH "Well, I'm not convinced."
+msgid "[PH] Well, I'm not convinced."
+msgstr "[PH] Well, I'm not convinced."
 
 # game/UpdateScript0.07.rpy:11081## # translate crowdin bad_shower_end_aa991d34:
-msgid "PH "Let's you and me, go discuss it in my office."
-    PH "Let's you and me, go discuss it in my office."
+msgid "[PH] Let's you and me, go discuss it in my office."
+msgstr "[PH] Let's you and me, go discuss it in my office."
 
 # game/UpdateScript0.07.rpy:11084## # translate crowdin bad_shower_end_aa13ce48:
 msgid "[M] I can't belive you did this! Now, you stay here and wait for me! It's not going to be easy to get your ass out of hot water!"
