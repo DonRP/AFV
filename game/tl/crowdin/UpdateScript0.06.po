@@ -15575,36 +15575,36 @@ msgid "VP "Make sure that you don't."
     VP "Make sure that you don't."
 
 # game/UpdateScript0.06.rpy:9091## # translate crowdin sid_sex_event_2aec8e6f:
-msgid "A "Wow! Not a single customer since we started."
-    A "Wow! Not a single customer since we started."
+msgid "[A]Wow! Not a single customer since we started."
+msgstr "[A]Wow! Not a single customer since we started."
 
 # game/UpdateScript0.06.rpy:9092## # translate crowdin sid_sex_event_99a726e0:
-msgid "A "Joey asked me to do the books tonight. He and the boys had to run off suddenly on some kind of emergency. So I get to fill in tonight. I guess I'll go get started since there's no action here."
-    A "Joey asked me to do the books tonight. He and the boys had to run off suddenly on some kind of emergency. So I get to fill in tonight. I guess I'll go get started since there's no action here."
+msgid "[A]Joey asked me to do the books tonight. He and the boys had to run off suddenly on some kind of emergency. So I get to fill in tonight. I guess I'll go get started since there's no action here."
+msgstr "[A]Joey asked me to do the books tonight. He and the boys had to run off suddenly on some kind of emergency. So I get to fill in tonight. I guess I'll go get started since there's no action here."
 
 # game/UpdateScript0.06.rpy:9093## # translate crowdin sid_sex_event_7061a1a6:
-msgid "A "Do you want to come and keep me company?"
-    A "Do you want to come and keep me company?"
+msgid "[A]Do you want to come and keep me company?"
+msgstr "[A]Do you want to come and keep me company?"
 
 # game/UpdateScript0.06.rpy:9094## # translate crowdin sid_sex_event_0850a1c4:
 msgid "[S] What if a customer comes?"
 msgstr "[S] What if a customer comes?"
 
 # game/UpdateScript0.06.rpy:9095## # translate crowdin sid_sex_event_ca438485:
-msgid "A "It's unlikely since most of the customers are part of the gang, but if someone shows up, I'm sure Charlie the Chin will come and find us."
-    A "It's unlikely since most of the customers are part of the gang, but if someone shows up, I'm sure Charlie the Chin will come and find us."
+msgid "[A]It's unlikely since most of the customers are part of the gang, but if someone shows up, I'm sure Charlie the Chin will come and find us."
+msgstr "[A]It's unlikely since most of the customers are part of the gang, but if someone shows up, I'm sure Charlie the Chin will come and find us."
 
 # game/UpdateScript0.06.rpy:9096## # translate crowdin sid_sex_event_bd937b65:
-msgid "A "He's guarding the entrance tonight."
-    A "He's guarding the entrance tonight."
+msgid "[A]He's guarding the entrance tonight."
+msgstr "[A]He's guarding the entrance tonight."
 
 # game/UpdateScript0.06.rpy:9097## # translate crowdin sid_sex_event_56c92ca0:
 msgid "[S] I don't know..."
 msgstr "[S] I don't know..."
 
 # game/UpdateScript0.06.rpy:9098## # translate crowdin sid_sex_event_933f901c:
-msgid "A "Oh come on... I'll do the books in Joey's office, and you can just hang out while getting paid for it."
-    A "Oh come on... I'll do the books in Joey's office, and you can just hang out while getting paid for it."
+msgid "[A]Oh come on... I'll do the books in Joey's office, and you can just hang out while getting paid for it."
+msgstr "[A]Oh come on... I'll do the books in Joey's office, and you can just hang out while getting paid for it."
 
 # game/UpdateScript0.06.rpy:9099## # translate crowdin sid_sex_event_70a15371:
 msgid "[ST] {i}Hmmm... [ryan] did tell me to keep my eye out for anything that might help us in our situation...{/i}"
@@ -15619,28 +15619,28 @@ msgid "[S] Ok..."
 msgstr "[S] Ok..."
 
 # game/UpdateScript0.06.rpy:9102## # translate crowdin sid_sex_event_593c60b7:
-msgid "A "Yay!"
-    A "Yay!"
+msgid "[A]Yay!"
+msgstr "[A]Yay!"
 
 # game/UpdateScript0.06.rpy:9108## # translate crowdin sid_sex_event_d230e17a:
 msgid "[S] I can't believe you're keeping the books on actual books... Why don't you use a computer?"
 msgstr "[S] I can't believe you're keeping the books on actual books... Why don't you use a computer?"
 
 # game/UpdateScript0.06.rpy:9109## # translate crowdin sid_sex_event_46626e58:
-msgid "A "Well, because of the nature of some of the family's sources of income, some legitimate, others not so much, my uncle doesn't want any records kept that could possibly get hacked."
-    A "Well, because of the nature of some of the family's sources of income, some legitimate, others not so much, my uncle doesn't want any records kept that could possibly get hacked."
+msgid "[A]Well, because of the nature of some of the family's sources of income, some legitimate, others not so much, my uncle doesn't want any records kept that could possibly get hacked."
+msgstr "[A]Well, because of the nature of some of the family's sources of income, some legitimate, others not so much, my uncle doesn't want any records kept that could possibly get hacked."
 
 # game/UpdateScript0.06.rpy:9110## # translate crowdin sid_sex_event_be78a302:
-msgid "A "Well, the money they make from your family each week for instance, see it's listed right here. It's not a legitimate source of income, and so it has to be laundered through one of his legitimate companies."
-    A "Well, the money they make from your family each week for instance, see it's listed right here. It's not a legitimate source of income, and so it has to be laundered through one of his legitimate companies."
+msgid "[A]Well, the money they make from your family each week for instance, see it's listed right here. It's not a legitimate source of income, and so it has to be laundered through one of his legitimate companies."
+msgstr "[A]Well, the money they make from your family each week for instance, see it's listed right here. It's not a legitimate source of income, and so it has to be laundered through one of his legitimate companies."
 
 # game/UpdateScript0.06.rpy:9111## # translate crowdin sid_sex_event_2c488cc3:
 msgid "[S] Isn't your uncle afraid the books might get stolen?"
 msgstr "[S] Isn't your uncle afraid the books might get stolen?"
 
 # game/UpdateScript0.06.rpy:9112## # translate crowdin sid_sex_event_2ec5350b:
-msgid "A "Not really... They're kept undet the desk here in a very heavy, very secure safe."
-    A "Not really... They're kept undet the desk here in a very heavy, very secure safe."
+msgid "[A]Not really... They're kept undet the desk here in a very heavy, very secure safe."
+msgstr "[A]Not really... They're kept undet the desk here in a very heavy, very secure safe."
 
 # game/UpdateScript0.06.rpy:9113## # translate crowdin sid_sex_event_96455483:
 msgid "[ST] {i}Hmmm... I wonder if there's any way to get the combination for that safe?{/i}"
@@ -15659,52 +15659,52 @@ msgid "CC "Armani!"
     CC "Armani!"
 
 # game/UpdateScript0.06.rpy:9124## # translate crowdin sid_sex_event_19a1c635:
-msgid "A "Charlie!... You're not supposed to be in Uncle's office!"
-    A "Charlie!... You're not supposed to be in Uncle's office!"
+msgid "[A]Charlie!... You're not supposed to be in Uncle's office!"
+msgstr "[A]Charlie!... You're not supposed to be in Uncle's office!"
 
 # game/UpdateScript0.06.rpy:9125## # translate crowdin sid_sex_event_8cf20b48:
-msgid "A "And why the hell?..."
-    A "And why the hell?..."
+msgid "[A]And why the hell?..."
+msgstr "[A]And why the hell?..."
 
 # game/UpdateScript0.06.rpy:9126## # translate crowdin sid_sex_event_510bc3cf:
 msgid "CC "Shut up! Why are you here? Where's your Uncle Joey?"
     CC "Shut up! Why are you here? Where's your Uncle Joey?"
 
 # game/UpdateScript0.06.rpy:9127## # translate crowdin sid_sex_event_ad18c3de:
-msgid "A "I wouldn't tell you if I knew!"
-    A "I wouldn't tell you if I knew!"
+msgid "[A]I wouldn't tell you if I knew!"
+msgstr "[A]I wouldn't tell you if I knew!"
 
 # game/UpdateScript0.06.rpy:9128## # translate crowdin sid_sex_event_29b05ce2:
-msgid "A "You came here to kill him, didn't you!"
-    A "You came here to kill him, didn't you!"
+msgid "[A]You came here to kill him, didn't you!"
+msgstr "[A]You came here to kill him, didn't you!"
 
 # game/UpdateScript0.06.rpy:9131## # translate crowdin sid_sex_event_6c0d8e7a:
 msgid "CC "Tell me, or I start shooting!"
     CC "Tell me, or I start shooting!"
 
 # game/UpdateScript0.06.rpy:9134## # translate crowdin sid_sex_event_f233261b:
-msgid "A "Ok!... ok... I don't really know!"
-    A "Ok!... ok... I don't really know!"
+msgid "[A]Ok!... ok... I don't really know!"
+msgstr "[A]Ok!... ok... I don't really know!"
 
 # game/UpdateScript0.06.rpy:9135## # translate crowdin sid_sex_event_62e7f055:
-msgid "A "He just said he had some emergency business."
-    A "He just said he had some emergency business."
+msgid "[A]He just said he had some emergency business."
+msgstr "[A]He just said he had some emergency business."
 
 # game/UpdateScript0.06.rpy:9136## # translate crowdin sid_sex_event_6b96dc0f:
-msgid "A "He didn't give me any details."
-    A "He didn't give me any details."
+msgid "[A]He didn't give me any details."
+msgstr "[A]He didn't give me any details."
 
 # game/UpdateScript0.06.rpy:9137## # translate crowdin sid_sex_event_793f4097:
-msgid "A "He told me to come and do the accounting for the eveing while he was away."
-    A "He told me to come and do the accounting for the eveing while he was away."
+msgid "[A]He told me to come and do the accounting for the eveing while he was away."
+msgstr "[A]He told me to come and do the accounting for the eveing while he was away."
 
 # game/UpdateScript0.06.rpy:9138## # translate crowdin sid_sex_event_da575833:
 msgid "CC "Well, why wasn't I told?"
     CC "Well, why wasn't I told?"
 
 # game/UpdateScript0.06.rpy:9139## # translate crowdin sid_sex_event_09e7c1d0:
-msgid "A "Are you kdding? They don't tell you anything."
-    A "Are you kdding? They don't tell you anything."
+msgid "[A]Are you kdding? They don't tell you anything."
+msgstr "[A]Are you kdding? They don't tell you anything."
 
 # game/UpdateScript0.06.rpy:9142## # translate crowdin sid_sex_event_7bbd91c6:
 msgid "CC "Goddammit! Shit! Mother fucker!"
@@ -15719,8 +15719,8 @@ msgid "[S] Please... Just let me go... I'm just a waitress. I don't have any par
 msgstr "[S] Please... Just let me go... I'm just a waitress. I don't have any part of this."
 
 # game/UpdateScript0.06.rpy:9145## # translate crowdin sid_sex_event_1bff3181:
-msgid "A "And I don't have any information that would be helpful to you!"
-    A "And I don't have any information that would be helpful to you!"
+msgid "[A]And I don't have any information that would be helpful to you!"
+msgstr "[A]And I don't have any information that would be helpful to you!"
 
 # game/UpdateScript0.06.rpy:9146## # translate crowdin sid_sex_event_b32e3306:
 msgid "CC "Just shut up and let me think!"
@@ -15759,8 +15759,8 @@ msgid "CC "Are you two gonna move, or do I need to start shooting?"
     CC "Are you two gonna move, or do I need to start shooting?"
 
 # game/UpdateScript0.06.rpy:9157## # translate crowdin sid_sex_event_acfb1880:
-msgid "A "No! We're going."
-    A "No! We're going."
+msgid "[A]No! We're going."
+msgstr "[A]No! We're going."
 
 # game/UpdateScript0.06.rpy:9167## # translate crowdin sid_sex_event_3f2c4e5e:
 msgid "SRT "{i}There's Armani and the new girl... I wonder where Charlie the Chin is taking them?{/i}"
@@ -15779,8 +15779,8 @@ msgid "CC "Armani, go bend yourself over the wooden pony, waitress girl, latch t
     CC "Armani, go bend yourself over the wooden pony, waitress girl, latch the cuffs around her hands and ankles."
 
 # game/UpdateScript0.06.rpy:9178## # translate crowdin sid_sex_event_950ee664:
-msgid "A "Her name is Sidney!"
-    A "Her name is Sidney!"
+msgid "[A]Her name is Sidney!"
+msgstr "[A]Her name is Sidney!"
 
 # game/UpdateScript0.06.rpy:9179## # translate crowdin sid_sex_event_9437274e:
 msgid "CC "I don't give a fuck."
@@ -15811,20 +15811,20 @@ msgid "[S] It seems kind of kinky."
 msgstr "[S] It seems kind of kinky."
 
 # game/UpdateScript0.06.rpy:9192## # translate crowdin sid_sex_event_76cb55f3:
-msgid "A "{i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
-    A "{i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
+msgid "[A]{i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
+msgstr "[A]{i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
 
 # game/UpdateScript0.06.rpy:9193## # translate crowdin sid_sex_event_0f4ac74b:
 msgid "[S] {i}(whispering){/i}What is he going to do to us?"
 msgstr "[S] {i}(whispering){/i}What is he going to do to us?"
 
 # game/UpdateScript0.06.rpy:9194## # translate crowdin sid_sex_event_f2f2e1df:
-msgid "A "{i}(whispering){/i}He won't do anything to us if he has half a brain."
-    A "{i}(whispering){/i}He won't do anything to us if he has half a brain."
+msgid "[A]{i}(whispering){/i}He won't do anything to us if he has half a brain."
+msgstr "[A]{i}(whispering){/i}He won't do anything to us if he has half a brain."
 
 # game/UpdateScript0.06.rpy:9195## # translate crowdin sid_sex_event_4f7a9815:
-msgid "A "....But it is Charlie the Chin... He's not known for being very intelligent."
-    A "....But it is Charlie the Chin... He's not known for being very intelligent."
+msgid "[A]....But it is Charlie the Chin... He's not known for being very intelligent."
+msgstr "[A]....But it is Charlie the Chin... He's not known for being very intelligent."
 
 # game/UpdateScript0.06.rpy:9202## # translate crowdin sid_sex_event_3fbab9c4:
 msgid "[AD] What do you mean nobody's here?"
@@ -15967,8 +15967,8 @@ msgid "[AD] {i}(Muffled voice){/i} Armani?... Sidney... Can you girls hear me?"
 msgstr "[AD] {i}(Muffled voice){/i} Armani?... Sidney... Can you girls hear me?"
 
 # game/UpdateScript0.06.rpy:9251## # translate crowdin sid_sex_event_b2cd767f:
-msgid "A "Help! We're in the interrogation room!"
-    A "Help! We're in the interrogation room!"
+msgid "[A]Help! We're in the interrogation room!"
+msgstr "[A]Help! We're in the interrogation room!"
 
 # game/UpdateScript0.06.rpy:9254## # translate crowdin sid_sex_event_71ce465a:
 msgid "[AD] {i}GASP!{/i} Oh, my God!"
@@ -15983,8 +15983,8 @@ msgid "[AD] Where's Charlie the Chin?... Did he do this to you?"
 msgstr "[AD] Where's Charlie the Chin?... Did he do this to you?"
 
 # game/UpdateScript0.06.rpy:9259## # translate crowdin sid_sex_event_2291fb9f:
-msgid "A "{i}(Panicked voice){/i} I'm not sure where he is, but I think he's still in the room!"
-    A "{i}(Panicked voice){/i} I'm not sure where he is, but I think he's still in the room!"
+msgid "[A]{i}(Panicked voice){/i} I'm not sure where he is, but I think he's still in the room!"
+msgstr "[A]{i}(Panicked voice){/i} I'm not sure where he is, but I think he's still in the room!"
 
 # game/UpdateScript0.06.rpy:9263## # translate crowdin sid_sex_event_f156f8a3:
 msgid "CC "That's right, I'm right here."
@@ -16015,8 +16015,8 @@ msgid "CC "Shut up bitch! I've got a gun, so I don't have to tell you anything."
     CC "Shut up bitch! I've got a gun, so I don't have to tell you anything."
 
 # game/UpdateScript0.06.rpy:9272## # translate crowdin sid_sex_event_e1c33421:
-msgid "A "He said he's here to kill my uncle!"
-    A "He said he's here to kill my uncle!"
+msgid "[A]He said he's here to kill my uncle!"
+msgstr "[A]He said he's here to kill my uncle!"
 
 # game/UpdateScript0.06.rpy:9273## # translate crowdin sid_sex_event_8b070773:
 msgid "[AD] You have got to be the dumbest son of a bitch. You do realize you've just dug your own grave, right?"
@@ -16031,8 +16031,8 @@ msgid "[AD] You're not smart enough, nor do you have the resources to succeed wi
 msgstr "[AD] You're not smart enough, nor do you have the resources to succeed with that."
 
 # game/UpdateScript0.06.rpy:9276## # translate crowdin sid_sex_event_c29b7212:
-msgid "A "He's got help from someone!"
-    A "He's got help from someone!"
+msgid "[A]He's got help from someone!"
+msgstr "[A]He's got help from someone!"
 
 # game/UpdateScript0.06.rpy:9277## # translate crowdin sid_sex_event_c00509d6:
 msgid "CC "If you don't shut your mouth, I'm going to put something in it!"
@@ -16043,8 +16043,8 @@ msgid "CC "How would you like to get a little practice for your new profession?"
     CC "How would you like to get a little practice for your new profession?"
 
 # game/UpdateScript0.06.rpy:9279## # translate crowdin sid_sex_event_8ebf7b02:
-msgid "A "{i}(Timid voice){/i} I'll be quiet!"
-    A "{i}(Timid voice){/i} I'll be quiet!"
+msgid "[A]{i}(Timid voice){/i} I'll be quiet!"
+msgstr "[A]{i}(Timid voice){/i} I'll be quiet!"
 
 # game/UpdateScript0.06.rpy:9280## # translate crowdin sid_sex_event_a33b40b9:
 msgid "CC "You'd better."
@@ -16619,8 +16619,8 @@ msgid "[AD] Why? Do you actually think you have some?"
 msgstr "[AD] Why? Do you actually think you have some?"
 
 # game/UpdateScript0.06.rpy:9567## # translate crowdin find_sidney_4c94eb5a:
-msgid "A "Agent Diaz, maybe you should be quiet!"
-    A "Agent Diaz, maybe you should be quiet!"
+msgid "[A]Agent Diaz, maybe you should be quiet!"
+msgstr "[A]Agent Diaz, maybe you should be quiet!"
 
 # game/UpdateScript0.06.rpy:9568## # translate crowdin find_sidney_23ad9a28:
 msgid "[AD] If only your mom had swallowed you instead."
@@ -16671,24 +16671,24 @@ msgid "CC "Haha... That shut your big mouth!"
     CC "Haha... That shut your big mouth!"
 
 # game/UpdateScript0.06.rpy:9594## # translate crowdin find_sidney_75ef4d44:
-msgid "A "Oh, my God! Did he really stick a wrench in your ass?"
-    A "Oh, my God! Did he really stick a wrench in your ass?"
+msgid "[A]Oh, my God! Did he really stick a wrench in your ass?"
+msgstr "[A]Oh, my God! Did he really stick a wrench in your ass?"
 
 # game/UpdateScript0.06.rpy:9597## # translate crowdin find_sidney_c1b3eb5f:
 msgid "[S] Oh, my God, oh my God, oh my God!"
 msgstr "[S] Oh, my God, oh my God, oh my God!"
 
 # game/UpdateScript0.06.rpy:9601## # translate crowdin find_sidney_c188b91a:
-msgid "A "Holy fuck! Diaz, you aren't enjoying it, are you?"
-    A "Holy fuck! Diaz, you aren't enjoying it, are you?"
+msgid "[A]Holy fuck! Diaz, you aren't enjoying it, are you?"
+msgstr "[A]Holy fuck! Diaz, you aren't enjoying it, are you?"
 
 # game/UpdateScript0.06.rpy:9602## # translate crowdin find_sidney_ec93c2de:
 msgid "[AD] ...I... I cant... help it!..."
 msgstr "[AD] ...I... I cant... help it!..."
 
 # game/UpdateScript0.06.rpy:9606## # translate crowdin find_sidney_584e3a13:
-msgid "A "Oh, my God! How depraved are you?"
-    A "Oh, my God! How depraved are you?"
+msgid "[A]Oh, my God! How depraved are you?"
+msgstr "[A]Oh, my God! How depraved are you?"
 
 # game/UpdateScript0.06.rpy:9607## # translate crowdin find_sidney_e252f803:
 msgid "[AD] It's just... I'm kind of into... anal..."
@@ -16787,8 +16787,8 @@ msgid "CC "Whoa... Hey... Hey... Please, don't shoot!"
     CC "Whoa... Hey... Hey... Please, don't shoot!"
 
 # game/UpdateScript0.06.rpy:9653## # translate crowdin find_sidney_7b10238e:
-msgid "A "Who's that?"
-    A "Who's that?"
+msgid "[A]Who's that?"
+msgstr "[A]Who's that?"
 
 # game/UpdateScript0.06.rpy:9654## # translate crowdin find_sidney_56bda43a:
 msgid "[R] Don't worry, girls... I'm here!"
@@ -16839,8 +16839,8 @@ msgid "CC "Whoa... Hey... Hey... don't shoot!"
     CC "Whoa... Hey... Hey... don't shoot!"
 
 # game/UpdateScript0.06.rpy:9669## # translate crowdin find_sidney_7b10238e_1:
-msgid "A "Who's that?"
-    A "Who's that?"
+msgid "[A]Who's that?"
+msgstr "[A]Who's that?"
 
 # game/UpdateScript0.06.rpy:9670## # translate crowdin find_sidney_c241ac8a:
 msgid "[R] Don't worry girls... I'm here!"
@@ -16935,8 +16935,8 @@ msgid "[AD] They can decide what to do with you."
 msgstr "[AD] They can decide what to do with you."
 
 # game/UpdateScript0.06.rpy:9703## # translate crowdin find_sidney_cdfb7e32:
-msgid "A "Are you doing ok, Sidney?"
-    A "Are you doing ok, Sidney?"
+msgid "[A]Are you doing ok, Sidney?"
+msgstr "[A]Are you doing ok, Sidney?"
 
 # game/UpdateScript0.06.rpy:9704## # translate crowdin find_sidney_9cb3f175:
 msgid "[S] Yeah, I'm surprisingly calm."
@@ -16947,52 +16947,52 @@ msgid "[S] I was scared while it was happening, but now I feel almost a rush."
 msgstr "[S] I was scared while it was happening, but now I feel almost a rush."
 
 # game/UpdateScript0.06.rpy:9706## # translate crowdin find_sidney_6db38fa3:
-msgid "A "Aahh... like after a scary movie, right?"
-    A "Aahh... like after a scary movie, right?"
+msgid "[A]Aahh... like after a scary movie, right?"
+msgstr "[A]Aahh... like after a scary movie, right?"
 
 # game/UpdateScript0.06.rpy:9707## # translate crowdin find_sidney_6cf677d5:
 msgid "[S] Yeah... Kinda..."
 msgstr "[S] Yeah... Kinda..."
 
 # game/UpdateScript0.06.rpy:9708## # translate crowdin find_sidney_7ac91137:
-msgid "A "There are very few people that get a thrill from such intense situations."
-    A "There are very few people that get a thrill from such intense situations."
+msgid "[A]There are very few people that get a thrill from such intense situations."
+msgstr "[A]There are very few people that get a thrill from such intense situations."
 
 # game/UpdateScript0.06.rpy:9709## # translate crowdin find_sidney_ae2df6de:
-msgid "A "Maybe this type of life is suited for you."
-    A "Maybe this type of life is suited for you."
+msgid "[A]Maybe this type of life is suited for you."
+msgstr "[A]Maybe this type of life is suited for you."
 
 # game/UpdateScript0.06.rpy:9710## # translate crowdin find_sidney_4844c782:
-msgid "A "Anyways, I hope this experience won't make you quit working here."
-    A "Anyways, I hope this experience won't make you quit working here."
+msgid "[A]Anyways, I hope this experience won't make you quit working here."
+msgstr "[A]Anyways, I hope this experience won't make you quit working here."
 
 # game/UpdateScript0.06.rpy:9711## # translate crowdin find_sidney_5ed7d88a:
-msgid "A "I love having your company at work."
-    A "I love having your company at work."
+msgid "[A]I love having your company at work."
+msgstr "[A]I love having your company at work."
 
 # game/UpdateScript0.06.rpy:9712## # translate crowdin find_sidney_b331b659:
 msgid "[S] No... I think I'm ok... I'll be back next Monday... Maybe even sooner."
 msgstr "[S] No... I think I'm ok... I'll be back next Monday... Maybe even sooner."
 
 # game/UpdateScript0.06.rpy:9713## # translate crowdin find_sidney_0a645935:
-msgid "A "Yay! I'm so happy you're going to stay!"
-    A "Yay! I'm so happy you're going to stay!"
+msgid "[A]Yay! I'm so happy you're going to stay!"
+msgstr "[A]Yay! I'm so happy you're going to stay!"
 
 # game/UpdateScript0.06.rpy:9716## # translate crowdin find_sidney_1eac61dd:
-msgid "A "And thank you so much for saving us, [ryan]!"
-    A "And thank you so much for saving us, [ryan]!"
+msgid "[A]And thank you so much for saving us, [ryan]!"
+msgstr "[A]And thank you so much for saving us, [ryan]!"
 
 # game/UpdateScript0.06.rpy:9717## # translate crowdin find_sidney_1ad23779:
-msgid "A "Who knows what would have happened to us if he'd succeeded in killing my uncle."
-    A "Who knows what would have happened to us if he'd succeeded in killing my uncle."
+msgid "[A]Who knows what would have happened to us if he'd succeeded in killing my uncle."
+msgstr "[A]Who knows what would have happened to us if he'd succeeded in killing my uncle."
 
 # game/UpdateScript0.06.rpy:9718## # translate crowdin find_sidney_de270ce6:
 msgid "[R] He was after your uncle?"
 msgstr "[R] He was after your uncle?"
 
 # game/UpdateScript0.06.rpy:9719## # translate crowdin find_sidney_d6439440:
-msgid "A "Yes, and because of you, we're all safe!"
-    A "Yes, and because of you, we're all safe!"
+msgid "[A]Yes, and because of you, we're all safe!"
+msgstr "[A]Yes, and because of you, we're all safe!"
 
 # game/UpdateScript0.06.rpy:9720## # translate crowdin find_sidney_400940ce:
 msgid "[RT] {i}Damnit! Why couldn't I have saved them after he'd killed her uncle.{/i}"
@@ -17007,16 +17007,16 @@ msgid "[R] Wow!... Thanks!"
 msgstr "[R] Wow!... Thanks!"
 
 # game/UpdateScript0.06.rpy:9728## # translate crowdin find_sidney_26ac7f72:
-msgid "A "No... Thank you!"
-    A "No... Thank you!"
+msgid "[A]No... Thank you!"
+msgstr "[A]No... Thank you!"
 
 # game/UpdateScript0.06.rpy:9729## # translate crowdin find_sidney_dbd6e2dc:
-msgid "A "And now I've got to run help Diaz find my uncle."
-    A "And now I've got to run help Diaz find my uncle."
+msgid "[A]And now I've got to run help Diaz find my uncle."
+msgstr "[A]And now I've got to run help Diaz find my uncle."
 
 # game/UpdateScript0.06.rpy:9730## # translate crowdin find_sidney_7e844c16:
-msgid "A "Make sure Sidney's ok for me, will you?"
-    A "Make sure Sidney's ok for me, will you?"
+msgid "[A]Make sure Sidney's ok for me, will you?"
+msgstr "[A]Make sure Sidney's ok for me, will you?"
 
 # game/UpdateScript0.06.rpy:9731## # translate crowdin find_sidney_e5307bb3:
 msgid "[R] Yeah, of course."
@@ -17443,8 +17443,8 @@ msgid "{i}\"(Sound of door opening)\"{/i}"
 msgstr "{i}\"(Sound of door opening)\"{/i}"
 
 # game/UpdateScript0.06.rpy:9988## # translate crowdin find_sidney_7f565a7a:
-msgid "A "Fuck! What are you two doing?"
-    A "Fuck! What are you two doing?"
+msgid "[A]Fuck! What are you two doing?"
+msgstr "[A]Fuck! What are you two doing?"
 
 # game/UpdateScript0.06.rpy:9989## # translate crowdin find_sidney_bc7a2829:
 msgid "[S] It's not what it looks like!"
@@ -17455,12 +17455,12 @@ msgid "[S] Its..."
 msgstr "[S] Its..."
 
 # game/UpdateScript0.06.rpy:9991## # translate crowdin find_sidney_a7630350:
-msgid "A "It doesn't matter right now. You two need to hurry and get your pants back on. My uncle is back, and he's looking for both of you."
-    A "It doesn't matter right now. You two need to hurry and get your pants back on. My uncle is back, and he's looking for both of you."
+msgid "[A]It doesn't matter right now. You two need to hurry and get your pants back on. My uncle is back, and he's looking for both of you."
+msgstr "[A]It doesn't matter right now. You two need to hurry and get your pants back on. My uncle is back, and he's looking for both of you."
 
 # game/UpdateScript0.06.rpy:9992## # translate crowdin find_sidney_3aaac2da:
-msgid "A "I'll run and tell him you're still here, and in the meantime, get those pants back on."
-    A "I'll run and tell him you're still here, and in the meantime, get those pants back on."
+msgid "[A]I'll run and tell him you're still here, and in the meantime, get those pants back on."
+msgstr "[A]I'll run and tell him you're still here, and in the meantime, get those pants back on."
 
 # game/UpdateScript0.06.rpy:10000## # translate crowdin find_sidney_4f17cecc:
 msgid "[J] I'm so glad you two are still here."
@@ -17547,12 +17547,12 @@ msgid "[R] Understood."
 msgstr "[R] Understood."
 
 # game/UpdateScript0.06.rpy:10030## # translate crowdin find_sidney_789a89c9:
-msgid "A "Holy fuck!... I can't even believe you two!"
-    A "Holy fuck!... I can't even believe you two!"
+msgid "[A]Holy fuck!... I can't even believe you two!"
+msgstr "[A]Holy fuck!... I can't even believe you two!"
 
 # game/UpdateScript0.06.rpy:10031## # translate crowdin find_sidney_07298e96:
-msgid "A "Sidney! Why didn't you tell me you were fucking your brother?"
-    A "Sidney! Why didn't you tell me you were fucking your brother?"
+msgid "[A]Sidney! Why didn't you tell me you were fucking your brother?"
+msgstr "[A]Sidney! Why didn't you tell me you were fucking your brother?"
 
 # game/UpdateScript0.06.rpy:10032## # translate crowdin find_sidney_56929c41:
 msgid "[S] I wasn't... Until tonight..."
@@ -17563,20 +17563,20 @@ msgid "[S] I was just so overwhelmed with emotions, I acted on instinct, instead
 msgstr "[S] I was just so overwhelmed with emotions, I acted on instinct, instead of using my brain."
 
 # game/UpdateScript0.06.rpy:10034## # translate crowdin find_sidney_c71e6e82:
-msgid "A "Shit! That's awesome! Usually our instincts are right, and we just screw things up with our brains."
-    A "Shit! That's awesome! Usually our instincts are right, and we just screw things up with our brains."
+msgid "[A]Shit! That's awesome! Usually our instincts are right, and we just screw things up with our brains."
+msgstr "[A]Shit! That's awesome! Usually our instincts are right, and we just screw things up with our brains."
 
 # game/UpdateScript0.06.rpy:10035## # translate crowdin find_sidney_350ddc5c:
-msgid "A "Just to be clear though, you don't have any time to fuck here again. They are literally hauling Charlie's broken ass to this room as we speak."
-    A "Just to be clear though, you don't have any time to fuck here again. They are literally hauling Charlie's broken ass to this room as we speak."
+msgid "[A]Just to be clear though, you don't have any time to fuck here again. They are literally hauling Charlie's broken ass to this room as we speak."
+msgstr "[A]Just to be clear though, you don't have any time to fuck here again. They are literally hauling Charlie's broken ass to this room as we speak."
 
 # game/UpdateScript0.06.rpy:10036## # translate crowdin find_sidney_97e02baf:
-msgid "A "I hope I get to see you two around again very soon!"
-    A "I hope I get to see you two around again very soon!"
+msgid "[A]I hope I get to see you two around again very soon!"
+msgstr "[A]I hope I get to see you two around again very soon!"
 
 # game/UpdateScript0.06.rpy:10037## # translate crowdin find_sidney_9e65abe5:
-msgid "A "And thank you again, [ryan]! You're my hero!"
-    A "And thank you again, [ryan]! You're my hero!"
+msgid "[A]And thank you again, [ryan]! You're my hero!"
+msgstr "[A]And thank you again, [ryan]! You're my hero!"
 
 # game/UpdateScript0.06.rpy:10041## # translate crowdin find_sidney_b61557ba:
 msgid "[S] Wow!... I can't believe how cool Armani was with what just happened."
@@ -17595,8 +17595,8 @@ msgid "[S] I need to collect all my stuff, and then I'll meet you there."
 msgstr "[S] I need to collect all my stuff, and then I'll meet you there."
 
 # game/UpdateScript0.06.rpy:10058## # translate crowdin post_bondage_chat_6286a2e9:
-msgid "A "I just can't tell you how happy I am that our experience didn't scare you off!"
-    A "I just can't tell you how happy I am that our experience didn't scare you off!"
+msgid "[A]I just can't tell you how happy I am that our experience didn't scare you off!"
+msgstr "[A]I just can't tell you how happy I am that our experience didn't scare you off!"
 
 # game/UpdateScript0.06.rpy:10059## # translate crowdin post_bondage_chat_bdaf3b85:
 msgid "[S] Yeah... it's weird... it's like I never felt so alive!"
@@ -17607,60 +17607,60 @@ msgid "[S] And that's why I..."
 msgstr "[S] And that's why I..."
 
 # game/UpdateScript0.06.rpy:10061## # translate crowdin post_bondage_chat_a9353fce:
-msgid "A "Nope!... You don't have to explain a thing!"
-    A "Nope!... You don't have to explain a thing!"
+msgid "[A]Nope!... You don't have to explain a thing!"
+msgstr "[A]Nope!... You don't have to explain a thing!"
 
 # game/UpdateScript0.06.rpy:10062## # translate crowdin post_bondage_chat_df94efe2:
-msgid "A "I'll admit I was a little shocked at first..."
-    A "I'll admit I was a little shocked at first..."
+msgid "[A]I'll admit I was a little shocked at first..."
+msgstr "[A]I'll admit I was a little shocked at first..."
 
 # game/UpdateScript0.06.rpy:10063## # translate crowdin post_bondage_chat_a8cb695b:
-msgid "A "But I totally see why you would be into that."
-    A "But I totally see why you would be into that."
+msgid "[A]But I totally see why you would be into that."
+msgstr "[A]But I totally see why you would be into that."
 
 # game/UpdateScript0.06.rpy:10064## # translate crowdin post_bondage_chat_8dfbd7ac:
-msgid "A "Especially when I saw how hung your brother is!"
-    A "Especially when I saw how hung your brother is!"
+msgid "[A]Especially when I saw how hung your brother is!"
+msgstr "[A]Especially when I saw how hung your brother is!"
 
 # game/UpdateScript0.06.rpy:10065## # translate crowdin post_bondage_chat_247e4d59:
 msgid "[S] You didn't even see him fully erect!"
 msgstr "[S] You didn't even see him fully erect!"
 
 # game/UpdateScript0.06.rpy:10066## # translate crowdin post_bondage_chat_2592133b:
-msgid "A "Shit! That's true!"
-    A "Shit! That's true!"
+msgid "[A]Shit! That's true!"
+msgstr "[A]Shit! That's true!"
 
 # game/UpdateScript0.06.rpy:10067## # translate crowdin post_bondage_chat_20a6c4df:
-msgid "A "We've got to figure out a way to get a peek!..."
-    A "We've got to figure out a way to get a peek!..."
+msgid "[A]We've got to figure out a way to get a peek!..."
+msgstr "[A]We've got to figure out a way to get a peek!..."
 
 # game/UpdateScript0.06.rpy:10068## # translate crowdin post_bondage_chat_f4bb75f8:
 msgid "[S] Hehehehe..."
 msgstr "[S] Hehehehe..."
 
 # game/UpdateScript0.06.rpy:10069## # translate crowdin post_bondage_chat_6e7985c1:
-msgid "A "Hehehehe..."
-    A "Hehehehe..."
+msgid "[A]Hehehehe..."
+msgstr "[A]Hehehehe..."
 
 # game/UpdateScript0.06.rpy:10072## # translate crowdin post_bondage_chat_0cf47a16:
 msgid "[R] What's so funny?"
 msgstr "[R] What's so funny?"
 
 # game/UpdateScript0.06.rpy:10073## # translate crowdin post_bondage_chat_8665c5f6:
-msgid "A "Oh, hey [ryan]!"
-    A "Oh, hey [ryan]!"
+msgid "[A]Oh, hey [ryan]!"
+msgstr "[A]Oh, hey [ryan]!"
 
 # game/UpdateScript0.06.rpy:10074## # translate crowdin post_bondage_chat_ab1b61a9:
-msgid "A "We were just talking about... potatoes."
-    A "We were just talking about... potatoes."
+msgid "[A]We were just talking about... potatoes."
+msgstr "[A]We were just talking about... potatoes."
 
 # game/UpdateScript0.06.rpy:10075## # translate crowdin post_bondage_chat_bbe677f3:
 msgid "[R] Potatoes?"
 msgstr "[R] Potatoes?"
 
 # game/UpdateScript0.06.rpy:10076## # translate crowdin post_bondage_chat_967b7aca:
-msgid "A "Weren't we?"
-    A "Weren't we?"
+msgid "[A]Weren't we?"
+msgstr "[A]Weren't we?"
 
 # game/UpdateScript0.06.rpy:10079## # translate crowdin post_bondage_chat_5bd34d76:
 msgid "[S] Ummm... yeah..."
@@ -17671,20 +17671,20 @@ msgid "[S] You know... how they use potatos to make vodka!"
 msgstr "[S] You know... how they use potatos to make vodka!"
 
 # game/UpdateScript0.06.rpy:10081## # translate crowdin post_bondage_chat_aa8cf574:
-msgid "A "Right!... Vodka... like how we have vodka at the bar."
-    A "Right!... Vodka... like how we have vodka at the bar."
+msgid "[A]Right!... Vodka... like how we have vodka at the bar."
+msgstr "[A]Right!... Vodka... like how we have vodka at the bar."
 
 # game/UpdateScript0.06.rpy:10082## # translate crowdin post_bondage_chat_2756e5e5:
-msgid "A "{i}(Whispering to Sidney){/i} Nice cover!"
-    A "{i}(Whispering to Sidney){/i} Nice cover!"
+msgid "[A]{i}(Whispering to Sidney){/i} Nice cover!"
+msgstr "[A]{i}(Whispering to Sidney){/i} Nice cover!"
 
 # game/UpdateScript0.06.rpy:10083## # translate crowdin post_bondage_chat_56da52db:
-msgid "A "Anyways, I've got to run and fill out an order form for the booze we're getting short on."
-    A "Anyways, I've got to run and fill out an order form for the booze we're getting short on."
+msgid "[A]Anyways, I've got to run and fill out an order form for the booze we're getting short on."
+msgstr "[A]Anyways, I've got to run and fill out an order form for the booze we're getting short on."
 
 # game/UpdateScript0.06.rpy:10084## # translate crowdin post_bondage_chat_a7b65fc1:
-msgid "A "Sidney, watch the bar for me while I'm gone."
-    A "Sidney, watch the bar for me while I'm gone."
+msgid "[A]Sidney, watch the bar for me while I'm gone."
+msgstr "[A]Sidney, watch the bar for me while I'm gone."
 
 # game/UpdateScript0.06.rpy:10085## # translate crowdin post_bondage_chat_64f9f447:
 msgid "[S] You got it!"
