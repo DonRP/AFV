@@ -8943,8 +8943,8 @@ msgid "[R] I'm coming!"
 msgstr "[R] I'm coming!"
 
 # game/UpdateScript0.05.rpy:5138## # translate crowdin not_fit_enough_2a5916b0:
-msgid "MP "Shit!"
-    MP "Shit!"
+msgid "[MP] Shit!"
+msgstr "[MP] Shit!"
 
 # game/UpdateScript0.05.rpy:5141## # translate crowdin not_fit_enough_0238913b:
 msgid "[R] Mr. Peterson! Stop!"
@@ -9111,12 +9111,12 @@ msgid "[S] What the hell?"
 msgstr "[S] What the hell?"
 
 # game/UpdateScript0.05.rpy:5232## # translate crowdin not_fit_enough_a36ca266:
-msgid "MP "Hello again, beautiful."
-    MP "Hello again, beautiful."
+msgid "[MP] Hello again, beautiful."
+msgstr "[MP] Hello again, beautiful."
 
 # game/UpdateScript0.05.rpy:5235## # translate crowdin not_fit_enough_5c17299d:
-msgid "MP "I know I'm not one of your commie customers, but my money is worth even more, and I think you'll find my dick is twice as big."
-    MP "I know I'm not one of your commie customers, but my money is worth even more, and I think you'll find my dick is twice as big."
+msgid "[MP] I know I'm not one of your commie customers, but my money is worth even more, and I think you'll find my dick is twice as big."
+msgstr "[MP] I know I'm not one of your commie customers, but my money is worth even more, and I think you'll find my dick is twice as big."
 
 # game/UpdateScript0.05.rpy:5236## # translate crowdin not_fit_enough_c2c4236a:
 msgid "[S] Get your hands off of me!"
@@ -9143,16 +9143,16 @@ msgid "[R] HEY!"
 msgstr "[R] HEY!"
 
 # game/UpdateScript0.05.rpy:5246## # translate crowdin not_fit_enough_471abc3b:
-msgid "MP "Damnit girl! I just wanted a taste! And now your commie friends are coming!"
-    MP "Damnit girl! I just wanted a taste! And now your commie friends are coming!"
+msgid "[MP] Damnit girl! I just wanted a taste! And now your commie friends are coming!"
+msgstr "[MP] Damnit girl! I just wanted a taste! And now your commie friends are coming!"
 
 # game/UpdateScript0.05.rpy:5247## # translate crowdin not_fit_enough_17d7b5be:
 msgid "[R] Mr. Peterson! Let go of her, and let's talk!"
 msgstr "[R] Mr. Peterson! Let go of her, and let's talk!"
 
 # game/UpdateScript0.05.rpy:5248## # translate crowdin not_fit_enough_694458e3:
-msgid "MP "How do you know my name? You commie spy!"
-    MP "How do you know my name? You commie spy!"
+msgid "[MP] How do you know my name? You commie spy!"
+msgstr "[MP] How do you know my name? You commie spy!"
 
 # game/UpdateScript0.05.rpy:5249## # translate crowdin not_fit_enough_1f173978:
 msgid "[R] No! Don't run!"
@@ -9399,20 +9399,20 @@ msgid "[R] own good!"
 msgstr "[R] own good!"
 
 # game/UpdateScript0.05.rpy:5364## # translate crowdin park_activities_f5716be1:
-msgid "MP "Urrmmmppphhhh...."
-    MP "Urrmmmppphhhh...."
+msgid "[MP] Urrmmmppphhhh...."
+msgstr "[MP] Urrmmmppphhhh...."
 
 # game/UpdateScript0.05.rpy:5365## # translate crowdin park_activities_cb9d3e37:
-msgid "MP "...."
-    MP "...."
+msgid "[MP] ...."
+msgstr "[MP] ...."
 
 # game/UpdateScript0.05.rpy:5366## # translate crowdin park_activities_c4289669:
 msgid "[R] Are you ok, Mr. Peterson?"
 msgstr "[R] Are you ok, Mr. Peterson?"
 
 # game/UpdateScript0.05.rpy:5367## # translate crowdin park_activities_4b9d57af:
-msgid "MP "(groaning)"
-    MP "(groaning)"
+msgid "[MP] (groaning)"
+msgstr "[MP] (groaning)"
 
 # game/UpdateScript0.05.rpy:5370## # translate crowdin park_activities_01ff5265:
 msgid "[P] Nice tackle, kid!"
@@ -9455,8 +9455,8 @@ msgid "[P] Come on Mr. Peterson. Your family is worried sick about you."
 msgstr "[P] Come on Mr. Peterson. Your family is worried sick about you."
 
 # game/UpdateScript0.05.rpy:5382## # translate crowdin park_activities_e2725ab0:
-msgid "MP "Can that young prostitute come with us?"
-    MP "Can that young prostitute come with us?"
+msgid "[MP] Can that young prostitute come with us?"
+msgstr "[MP] Can that young prostitute come with us?"
 
 # game/UpdateScript0.05.rpy:5383## # translate crowdin park_activities_f578cc1f:
 msgid "[P] We'll see if she's willing to visit you in the nursing home."
