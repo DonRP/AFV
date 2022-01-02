@@ -1,6 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# translate crowdin strings:
+## # translate crowdin strings:
 msgid "game/character.rpy:43
     old "[ryan]'s Thoughts"
     new "[ryan]'s Thoughts"

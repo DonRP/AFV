@@ -1,6 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# translate crowdin strings:
+## # translate crowdin strings:
 msgid "game/Credits_screen.rpy:57
     old "                               Credits"
     new "                               Credits"

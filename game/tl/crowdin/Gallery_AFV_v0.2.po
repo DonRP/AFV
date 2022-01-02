@@ -1,6 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
-
-# translate crowdin strings:
+## # translate crowdin strings:
 msgid "game/Gallery_AFV_v0.2.rpy:225
     old "Mom's gallery"
     new "Mom's gallery"
