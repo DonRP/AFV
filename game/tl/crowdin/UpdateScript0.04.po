@@ -1551,8 +1551,8 @@ msgid "[M] It's good to see you, sister! You never come by any more."
 msgstr "[M] It's good to see you, sister! You never come by any more."
 
 # game/UpdateScript0.04.rpy:1236## # translate crowdin camille_tells_a32b3507:
-msgid "MT "{i}Except when you need something from us!{/i}"
-    MT "{i}Except when you need something from us!{/i}"
+msgid "[MT] {i}Except when you need something from us!{/i}"
+msgstr "[MT] {i}Except when you need something from us!{/i}"
 
 # game/UpdateScript0.04.rpy:1237## # translate crowdin camille_tells_8724faaa:
 msgid "C "Well, I've been super busy training for the triathlon in October, and all the other mom things I have to do to take care of Mandy take up the rest of my time."
@@ -1751,8 +1751,8 @@ msgid "[M] I think that's a good idea."
 msgstr "[M] I think that's a good idea."
 
 # game/UpdateScript0.04.rpy:1304## # translate crowdin camille_tells_1e9d2d3c:
-msgid "MT "{i}My sister is such a bitch!{/i}"
-    MT "{i}My sister is such a bitch!{/i}"
+msgid "[MT] {i}My sister is such a bitch!{/i}"
+msgstr "[MT] {i}My sister is such a bitch!{/i}"
 
 # game/UpdateScript0.04.rpy:1309## # translate crowdin camille_tells_d1db65a7:
 msgid "[R] Goodbye, Aunt Cami."
@@ -6967,24 +6967,24 @@ msgid "[R] {i}Wow, she seems to be jumping right into it this time.{/i}"
 msgstr "[R] {i}Wow, she seems to be jumping right into it this time.{/i}"
 
 # game/UpdateScript0.04.rpy:3720## # translate crowdin jacky_at_Laptop_f88f3e78:
-msgid "MT "{i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
-    MT "{i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
+msgid "[MT] {i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
+msgstr "[MT] {i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
 
 # game/UpdateScript0.04.rpy:3721## # translate crowdin jacky_at_Laptop_2a9a9168:
-msgid "MT "{i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
-    MT "{i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
+msgid "[MT] {i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
+msgstr "[MT] {i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
 
 # game/UpdateScript0.04.rpy:3722## # translate crowdin jacky_at_Laptop_5355e0d0:
-msgid "MT "{i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
-    MT "{i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
+msgid "[MT] {i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
+msgstr "[MT] {i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
 
 # game/UpdateScript0.04.rpy:3725## # translate crowdin jacky_at_Laptop_684bbe43:
 msgid "[M] {i}Shit!{/i}"
 msgstr "[M] {i}Shit!{/i}"
 
 # game/UpdateScript0.04.rpy:3729## # translate crowdin jacky_at_Laptop_ddd1237c:
-msgid "MT "{i}Why am I doing this?{/i}"
-    MT "{i}Why am I doing this?{/i}"
+msgid "[MT] {i}Why am I doing this?{/i}"
+msgstr "[MT] {i}Why am I doing this?{/i}"
 
 # game/UpdateScript0.04.rpy:3730## # translate crowdin jacky_at_Laptop_02b15a0b:
 msgid "[R] I think we're coming to some new content."
@@ -6999,8 +6999,8 @@ msgid "[RT] {i}Well, I guess there's no time like the present.{/i}"
 msgstr "[RT] {i}Well, I guess there's no time like the present.{/i}"
 
 # game/UpdateScript0.04.rpy:3747## # translate crowdin jacky_at_Laptop_7aa9006c:
-msgid "MT "{i}Well, fuck self control.... this feels too good.{/i}"
-    MT "{i}Well, fuck self control.... this feels too good.{/i}"
+msgid "[MT] {i}Well, fuck self control.... this feels too good.{/i}"
+msgstr "[MT] {i}Well, fuck self control.... this feels too good.{/i}"
 
 # game/UpdateScript0.04.rpy:3748## # translate crowdin jacky_at_Laptop_712363bc:
 msgid "[RT] {i}I think the time will be right very soon to push things a little further.... I'll just enjoy this for now.{/i}"
@@ -7063,8 +7063,8 @@ msgid "[R] Can I watch?"
 msgstr "[R] Can I watch?"
 
 # game/UpdateScript0.04.rpy:3776## # translate crowdin jacky_at_Laptop_43ae3973:
-msgid "MT "{i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
-    MT "{i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
+msgid "[MT] {i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
+msgstr "[MT] {i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
 
 # game/UpdateScript0.04.rpy:3777## # translate crowdin jacky_at_Laptop_147f77f3:
 msgid "[M] Now please hurry along.... before I cut your cock off."
@@ -7239,16 +7239,16 @@ msgid "[R] Haha.... can you imagine?"
 msgstr "[R] Haha.... can you imagine?"
 
 # game/UpdateScript0.04.rpy:3864## # translate crowdin jacky_at_Laptop_48387a1c:
-msgid "MT "{i}Shit! Yeah, I kind of can.{/i}"
-    MT "{i}Shit! Yeah, I kind of can.{/i}"
+msgid "[MT] {i}Shit! Yeah, I kind of can.{/i}"
+msgstr "[MT] {i}Shit! Yeah, I kind of can.{/i}"
 
 # game/UpdateScript0.04.rpy:3865## # translate crowdin jacky_at_Laptop_cacec065:
-msgid "MT "{i}Showing this kind of stuff in front of all my students, with my own son sitting 3 feet away from me.{/i}"
-    MT "{i}Showing this kind of stuff in front of all my students, with my own son sitting 3 feet away from me.{/i}"
+msgid "[MT] {i}Showing this kind of stuff in front of all my students, with my own son sitting 3 feet away from me.{/i}"
+msgstr "[MT] {i}Showing this kind of stuff in front of all my students, with my own son sitting 3 feet away from me.{/i}"
 
 # game/UpdateScript0.04.rpy:3866## # translate crowdin jacky_at_Laptop_d40413cd:
-msgid "MT "{i}I know exactly what they would all be thinking about.{/i}"
-    MT "{i}I know exactly what they would all be thinking about.{/i}"
+msgid "[MT] {i}I know exactly what they would all be thinking about.{/i}"
+msgstr "[MT] {i}I know exactly what they would all be thinking about.{/i}"
 
 # game/UpdateScript0.04.rpy:3867## # translate crowdin jacky_at_Laptop_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -7271,28 +7271,28 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:3876## # translate crowdin jacky_at_Laptop_e257f4d1:
-msgid "MT "{i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
-    MT "{i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
+msgid "[MT] {i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
+msgstr "[MT] {i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
 
 # game/UpdateScript0.04.rpy:3877## # translate crowdin jacky_at_Laptop_8a49b21d:
-msgid "MT "{i}I am so horny right now! [ryan] barged in here before I could take care of myself.{/i}"
-    MT "{i}I am so horny right now! [ryan] barged in here before I could take care of myself.{/i}"
+msgid "[MT] {i}I am so horny right now! [ryan] barged in here before I could take care of myself.{/i}"
+msgstr "[MT] {i}I am so horny right now! [ryan] barged in here before I could take care of myself.{/i}"
 
 # game/UpdateScript0.04.rpy:3878## # translate crowdin jacky_at_Laptop_995c26db:
-msgid "MT "{i}And now here he is dominating my office with that huge cock of his!{/i}"
-    MT "{i}And now here he is dominating my office with that huge cock of his!{/i}"
+msgid "[MT] {i}And now here he is dominating my office with that huge cock of his!{/i}"
+msgstr "[MT] {i}And now here he is dominating my office with that huge cock of his!{/i}"
 
 # game/UpdateScript0.04.rpy:3879## # translate crowdin jacky_at_Laptop_fe0dc4a6:
-msgid "MT "{i}I wouldn't mind getting a better look at it right now.{/i}"
-    MT "{i}I wouldn't mind getting a better look at it right now.{/i}"
+msgid "[MT] {i}I wouldn't mind getting a better look at it right now.{/i}"
+msgstr "[MT] {i}I wouldn't mind getting a better look at it right now.{/i}"
 
 # game/UpdateScript0.04.rpy:3880## # translate crowdin jacky_at_Laptop_d11e034f:
-msgid "MT "{i}But how would I do that?{/i}"
-    MT "{i}But how would I do that?{/i}"
+msgid "[MT] {i}But how would I do that?{/i}"
+msgstr "[MT] {i}But how would I do that?{/i}"
 
 # game/UpdateScript0.04.rpy:3881## # translate crowdin jacky_at_Laptop_b0d003f7:
-msgid "MT "{i}Hmmmmmm.... {/i}"
-    MT "{i}Hmmmmmm.... {/i}"
+msgid "[MT] {i}Hmmmmmm.... {/i}"
+msgstr "[MT] {i}Hmmmmmm.... {/i}"
 
 # game/UpdateScript0.04.rpy:3882## # translate crowdin jacky_at_Laptop_c93d9342:
 msgid "[M] [ryan]!"
@@ -7335,8 +7335,8 @@ msgid "[M] I'm not into these incest games either!..."
 msgstr "[M] I'm not into these incest games either!..."
 
 # game/UpdateScript0.04.rpy:3892## # translate crowdin jacky_at_Laptop_05a6e783:
-msgid "MT "{i}Shit!.... I kind of have been getting hooked on them the last couple weeks!{/i}"
-    MT "{i}Shit!.... I kind of have been getting hooked on them the last couple weeks!{/i}"
+msgid "[MT] {i}Shit!.... I kind of have been getting hooked on them the last couple weeks!{/i}"
+msgstr "[MT] {i}Shit!.... I kind of have been getting hooked on them the last couple weeks!{/i}"
 
 # game/UpdateScript0.04.rpy:3893## # translate crowdin jacky_at_Laptop_ae83e740:
 msgid "[M] And don't get me wrong. I'm not mad."
@@ -7431,20 +7431,20 @@ msgid "[R] Yes, Mom."
 msgstr "[R] Yes, Mom."
 
 # game/UpdateScript0.04.rpy:3922## # translate crowdin jacky_at_Laptop_6a47ffec:
-msgid "MT "{i}Oh my God, it worked!{/i}"
-    MT "{i}Oh my God, it worked!{/i}"
+msgid "[MT] {i}Oh my God, it worked!{/i}"
+msgstr "[MT] {i}Oh my God, it worked!{/i}"
 
 # game/UpdateScript0.04.rpy:3923## # translate crowdin jacky_at_Laptop_950f4c94:
-msgid "MT "{i}I can't believe I'm staring at my son's cock, while playing an incest game!{/i}"
-    MT "{i}I can't believe I'm staring at my son's cock, while playing an incest game!{/i}"
+msgid "[MT] {i}I can't believe I'm staring at my son's cock, while playing an incest game!{/i}"
+msgstr "[MT] {i}I can't believe I'm staring at my son's cock, while playing an incest game!{/i}"
 
 # game/UpdateScript0.04.rpy:3924## # translate crowdin jacky_at_Laptop_5bd7bf8d:
-msgid "MT "{i}Oh no!.... Somethings really wrong with me!!!{/i}"
-    MT "{i}Oh no!.... Somethings really wrong with me!!!{/i}"
+msgid "[MT] {i}Oh no!.... Somethings really wrong with me!!!{/i}"
+msgstr "[MT] {i}Oh no!.... Somethings really wrong with me!!!{/i}"
 
 # game/UpdateScript0.04.rpy:3925## # translate crowdin jacky_at_Laptop_c1d704cb:
-msgid "MT "{i}I'd better not let him catch me staring.{/i}"
-    MT "{i}I'd better not let him catch me staring.{/i}"
+msgid "[MT] {i}I'd better not let him catch me staring.{/i}"
+msgstr "[MT] {i}I'd better not let him catch me staring.{/i}"
 
 # game/UpdateScript0.04.rpy:3928## # translate crowdin jacky_at_Laptop_c5437802:
 msgid "[RT] {i}Oh my God, it worked!{/i}"
@@ -7507,40 +7507,40 @@ msgid "[R] Uuuhhh.... yeah.... I think so.... maybe we better see it to the end 
 msgstr "[R] Uuuhhh.... yeah.... I think so.... maybe we better see it to the end though to make sure."
 
 # game/UpdateScript0.04.rpy:3948## # translate crowdin jacky_at_Laptop_e7117dbd:
-msgid "MT "{i}Haha.... what a horndog.... he must take after his father.... shit.... I am too.... {/i}"
-    MT "{i}Haha.... what a horndog.... he must take after his father.... shit.... I am too.... {/i}"
+msgid "[MT] {i}Haha.... what a horndog.... he must take after his father.... shit.... I am too.... {/i}"
+msgstr "[MT] {i}Haha.... what a horndog.... he must take after his father.... shit.... I am too.... {/i}"
 
 # game/UpdateScript0.04.rpy:3949## # translate crowdin jacky_at_Laptop_1ef50a13:
-msgid "MT "{i}Now [mom_name], you aren't turned on because you're looking at your son's penis. You're just turned on because you're looking at a huge penis.{/i}"
-    MT "{i}Now [mom_name], you aren't turned on because you're looking at your son's penis. You're just turned on because you're looking at a huge penis.{/i}"
+msgid "[MT] {i}Now [mom_name], you aren't turned on because you're looking at your son's penis. You're just turned on because you're looking at a huge penis.{/i}"
+msgstr "[MT] {i}Now [mom_name], you aren't turned on because you're looking at your son's penis. You're just turned on because you're looking at a huge penis.{/i}"
 
 # game/UpdateScript0.04.rpy:3950## # translate crowdin jacky_at_Laptop_4bfbaac3:
-msgid "MT "{i}Fuck.... I just need a little relief.... {/i}"
-    MT "{i}Fuck.... I just need a little relief.... {/i}"
+msgid "[MT] {i}Fuck.... I just need a little relief.... {/i}"
+msgstr "[MT] {i}Fuck.... I just need a little relief.... {/i}"
 
 # game/UpdateScript0.04.rpy:3954## # translate crowdin jacky_at_Laptop_9575b9b5:
 msgid "[RT] {i}Did I just see Mom rubbing herself out of the corner of my eye?{/i}"
 msgstr "[RT] {i}Did I just see Mom rubbing herself out of the corner of my eye?{/i}"
 
 # game/UpdateScript0.04.rpy:3957## # translate crowdin jacky_at_Laptop_0616da02:
-msgid "MT "{i}Shit.... did he see me?{/i}"
-    MT "{i}Shit.... did he see me?{/i}"
+msgid "[MT] {i}Shit.... did he see me?{/i}"
+msgstr "[MT] {i}Shit.... did he see me?{/i}"
 
 # game/UpdateScript0.04.rpy:3958## # translate crowdin jacky_at_Laptop_bd8e4c16:
-msgid "MT "{i}I wonder what he's looking at?{/i}"
-    MT "{i}I wonder what he's looking at?{/i}"
+msgid "[MT] {i}I wonder what he's looking at?{/i}"
+msgstr "[MT] {i}I wonder what he's looking at?{/i}"
 
 # game/UpdateScript0.04.rpy:3959## # translate crowdin jacky_at_Laptop_d5b4e7f7:
-msgid "MT "{i}Is he staring up my skirt?{/i}"
-    MT "{i}Is he staring up my skirt?{/i}"
+msgid "[MT] {i}Is he staring up my skirt?{/i}"
+msgstr "[MT] {i}Is he staring up my skirt?{/i}"
 
 # game/UpdateScript0.04.rpy:3960## # translate crowdin jacky_at_Laptop_dfcf669f:
-msgid "MT "{i}Fuck!.... Thinking about him looking up my skirt is making me wet.{/i}"
-    MT "{i}Fuck!.... Thinking about him looking up my skirt is making me wet.{/i}"
+msgid "[MT] {i}Fuck!.... Thinking about him looking up my skirt is making me wet.{/i}"
+msgstr "[MT] {i}Fuck!.... Thinking about him looking up my skirt is making me wet.{/i}"
 
 # game/UpdateScript0.04.rpy:3961## # translate crowdin jacky_at_Laptop_f33a12a3:
-msgid "MT "{i}Oh, God!.... I hope he doesn't notice!.... {/i}"
-    MT "{i}Oh, God!.... I hope he doesn't notice!.... {/i}"
+msgid "[MT] {i}Oh, God!.... I hope he doesn't notice!.... {/i}"
+msgstr "[MT] {i}Oh, God!.... I hope he doesn't notice!.... {/i}"
 
 # game/UpdateScript0.04.rpy:3962## # translate crowdin jacky_at_Laptop_20a5b2d8:
 msgid "[RT] {i}Oh my God.... I think she was rubbing herself.... her panties are starting to get wet.{/i}"
@@ -7551,36 +7551,36 @@ msgid "[RT] {i}Fuck that's hot.... I wish she would move her hand so I could get
 msgstr "[RT] {i}Fuck that's hot.... I wish she would move her hand so I could get a better view. It'd be nice to get those panties out of the way too, as sexy as they may be.{/i}"
 
 # game/UpdateScript0.04.rpy:3967## # translate crowdin jacky_at_Laptop_663c9218:
-msgid "MT "{i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
-    MT "{i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
+msgid "[MT] {i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
+msgstr "[MT] {i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
 
 # game/UpdateScript0.04.rpy:3970## # translate crowdin jacky_at_Laptop_d5b33f9b:
-msgid "MT "{i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
-    MT "{i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
+msgid "[MT] {i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
+msgstr "[MT] {i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
 
 # game/UpdateScript0.04.rpy:3971## # translate crowdin jacky_at_Laptop_f03db5d4:
-msgid "MT "{i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
-    MT "{i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
+msgid "[MT] {i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
+msgstr "[MT] {i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
 
 # game/UpdateScript0.04.rpy:3972## # translate crowdin jacky_at_Laptop_62b6dd03:
-msgid "MT "{i}Ahhhh.... fuck it!{/i}"
-    MT "{i}Ahhhh.... fuck it!{/i}"
+msgid "[MT] {i}Ahhhh.... fuck it!{/i}"
+msgstr "[MT] {i}Ahhhh.... fuck it!{/i}"
 
 # game/UpdateScript0.04.rpy:3987## # translate crowdin jacky_at_Laptop_ba38ff93:
 msgid "[RT] {i}She's rubbing herself right in front of me!.... Should I do the same?{/i}"
 msgstr "[RT] {i}She's rubbing herself right in front of me!.... Should I do the same?{/i}"
 
 # game/UpdateScript0.04.rpy:3988## # translate crowdin jacky_at_Laptop_cde0c7df:
-msgid "MT "{i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
-    MT "{i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
+msgid "[MT] {i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
+msgstr "[MT] {i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
 
 # game/UpdateScript0.04.rpy:3992## # translate crowdin jacky_at_Laptop_89650ace:
-msgid "MT "{i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
-    MT "{i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
+msgid "[MT] {i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
+msgstr "[MT] {i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
 
 # game/UpdateScript0.04.rpy:3994## # translate crowdin jacky_at_Laptop_9133fe56:
-msgid "MT "{i}Oh, God!.... {/i}"
-    MT "{i}Oh, God!.... {/i}"
+msgid "[MT] {i}Oh, God!.... {/i}"
+msgstr "[MT] {i}Oh, God!.... {/i}"
 
 # game/UpdateScript0.04.rpy:3995## # translate crowdin jacky_at_Laptop_a820e4c6_1:
 msgid "[RT] {i}Oh.... fuck.... {/i}"
@@ -7659,32 +7659,32 @@ msgid "[M] Go!..."
 msgstr "[M] Go!..."
 
 # game/UpdateScript0.04.rpy:4031## # translate crowdin jacky_at_Laptop_b108a7e9:
-msgid "MT "{i}Shit!.... I really did let that go too far.... {/i}"
-    MT "{i}Shit!.... I really did let that go too far.... {/i}"
+msgid "[MT] {i}Shit!.... I really did let that go too far.... {/i}"
+msgstr "[MT] {i}Shit!.... I really did let that go too far.... {/i}"
 
 # game/UpdateScript0.04.rpy:4032## # translate crowdin jacky_at_Laptop_b6e32b91:
-msgid "MT "{i}How could I let myself get carried away like that?{/i}"
-    MT "{i}How could I let myself get carried away like that?{/i}"
+msgid "[MT] {i}How could I let myself get carried away like that?{/i}"
+msgstr "[MT] {i}How could I let myself get carried away like that?{/i}"
 
 # game/UpdateScript0.04.rpy:4033## # translate crowdin jacky_at_Laptop_2abe5a62:
-msgid "MT "{i}I was just so horny!{/i}"
-    MT "{i}I was just so horny!{/i}"
+msgid "[MT] {i}I was just so horny!{/i}"
+msgstr "[MT] {i}I was just so horny!{/i}"
 
 # game/UpdateScript0.04.rpy:4034## # translate crowdin jacky_at_Laptop_26b5416c:
-msgid "MT "{i}I'm like a whole different person when I'm horny.{/i}"
-    MT "{i}I'm like a whole different person when I'm horny.{/i}"
+msgid "[MT] {i}I'm like a whole different person when I'm horny.{/i}"
+msgstr "[MT] {i}I'm like a whole different person when I'm horny.{/i}"
 
 # game/UpdateScript0.04.rpy:4035## # translate crowdin jacky_at_Laptop_15c16493:
-msgid "MT "{i}I've just got to be careful not to be around my son, or my girls, or anybody when I'm that bad.{/i}"
-    MT "{i}I've just got to be careful not to be around my son, or my girls, or anybody when I'm that bad.{/i}"
+msgid "[MT] {i}I've just got to be careful not to be around my son, or my girls, or anybody when I'm that bad.{/i}"
+msgstr "[MT] {i}I've just got to be careful not to be around my son, or my girls, or anybody when I'm that bad.{/i}"
 
 # game/UpdateScript0.04.rpy:4036## # translate crowdin jacky_at_Laptop_ed31316d:
-msgid "MT "{i}The problem is masturbation just isn't doing enough. I need a cock!!{/i}"
-    MT "{i}The problem is masturbation just isn't doing enough. I need a cock!!{/i}"
+msgid "[MT] {i}The problem is masturbation just isn't doing enough. I need a cock!!{/i}"
+msgstr "[MT] {i}The problem is masturbation just isn't doing enough. I need a cock!!{/i}"
 
 # game/UpdateScript0.04.rpy:4037## # translate crowdin jacky_at_Laptop_2a2d84ac:
-msgid "MT "{i}I mean I need [dad_name]'s cock.... of course.{/i}"
-    MT "{i}I mean I need [dad_name]'s cock.... of course.{/i}"
+msgid "[MT] {i}I mean I need [dad_name]'s cock.... of course.{/i}"
+msgstr "[MT] {i}I mean I need [dad_name]'s cock.... of course.{/i}"
 
 # game/UpdateScript0.04.rpy:4050## # translate crowdin bye_bobby_35885d12:
 msgid "[RT] {i}Ok, off to the warehouse!{/i}"

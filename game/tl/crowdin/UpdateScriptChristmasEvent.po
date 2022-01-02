@@ -6763,40 +6763,40 @@ msgid "[M] Hmmmm..."
 msgstr "[M] Hmmmm..."
 
 # game/UpdateScriptChristmasEvent.rpy:2987## # translate crowdin christmas_club_edfc1ee0:
-msgid "MT "{i}Holy shit, [mom_name]! What are you thinking?....{/i}"
-    MT "{i}Holy shit, [mom_name]! What are you thinking?....{/i}"
+msgid "[MT] {i}Holy shit, [mom_name]! What are you thinking?....{/i}"
+msgstr "[MT] {i}Holy shit, [mom_name]! What are you thinking?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2988## # translate crowdin christmas_club_9c747162:
-msgid "MT "{i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
-    MT "{i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
+msgid "[MT] {i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
+msgstr "[MT] {i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2989## # translate crowdin christmas_club_35a9edeb:
-msgid "MT "{i}But I never dreamt one guy would offer me $4,000 dollars in one night!{/i}"
-    MT "{i}But I never dreamt one guy would offer me $4,000 dollars in one night!{/i}"
+msgid "[MT] {i}But I never dreamt one guy would offer me $4,000 dollars in one night!{/i}"
+msgstr "[MT] {i}But I never dreamt one guy would offer me $4,000 dollars in one night!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2990## # translate crowdin christmas_club_98c490cc:
-msgid "MT "{i}I'll have enough to pay for a semester of modeling school.{/i}"
-    MT "{i}I'll have enough to pay for a semester of modeling school.{/i}"
+msgid "[MT] {i}I'll have enough to pay for a semester of modeling school.{/i}"
+msgstr "[MT] {i}I'll have enough to pay for a semester of modeling school.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2991## # translate crowdin christmas_club_c0e48b39:
-msgid "MT "{i}That could be enough for me to get my start in the industry.{/i}"
-    MT "{i}That could be enough for me to get my start in the industry.{/i}"
+msgid "[MT] {i}That could be enough for me to get my start in the industry.{/i}"
+msgstr "[MT] {i}That could be enough for me to get my start in the industry.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2992## # translate crowdin christmas_club_f518ee6d:
-msgid "MT "{i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
-    MT "{i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
+msgid "[MT] {i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
+msgstr "[MT] {i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2993## # translate crowdin christmas_club_e717013e:
-msgid "MT "{i}It's worth it!{/i}"
-    MT "{i}It's worth it!{/i}"
+msgid "[MT] {i}It's worth it!{/i}"
+msgstr "[MT] {i}It's worth it!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2994## # translate crowdin christmas_club_10128fa1:
-msgid "MT "{i}Plus, he's cute!{/i}"
-    MT "{i}Plus, he's cute!{/i}"
+msgid "[MT] {i}Plus, he's cute!{/i}"
+msgstr "[MT] {i}Plus, he's cute!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2995## # translate crowdin christmas_club_23ca0433:
-msgid "MT "{i}Even if he does look like he could be your brother.{/i}"
-    MT "{i}Even if he does look like he could be your brother.{/i}"
+msgid "[MT] {i}Even if he does look like he could be your brother.{/i}"
+msgstr "[MT] {i}Even if he does look like he could be your brother.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2996## # translate crowdin christmas_club_7c39d5bc:
 msgid "[M] Take your pants off!"
@@ -6811,12 +6811,12 @@ msgid "[M] Hurry before I change my mind..."
 msgstr "[M] Hurry before I change my mind..."
 
 # game/UpdateScriptChristmasEvent.rpy:3002## # translate crowdin christmas_club_58cf727c:
-msgid "MT "{i}Wow! Look at the size of this cock!{/i}"
-    MT "{i}Wow! Look at the size of this cock!{/i}"
+msgid "[MT] {i}Wow! Look at the size of this cock!{/i}"
+msgstr "[MT] {i}Wow! Look at the size of this cock!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3003## # translate crowdin christmas_club_8168fb5e:
-msgid "MT "{i}He's as big as the men in my family!{/i}"
-    MT "{i}He's as big as the men in my family!{/i}"
+msgid "[MT] {i}He's as big as the men in my family!{/i}"
+msgstr "[MT] {i}He's as big as the men in my family!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3007## # translate crowdin christmas_club_5d6d2490:
 msgid "[RT] {i}Holy shit! Mom's sucking my cock!{/i}"
@@ -6827,16 +6827,16 @@ msgid "[RT] {i}It might just be a dream, but what an amazing dream!{/i}"
 msgstr "[RT] {i}It might just be a dream, but what an amazing dream!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3009## # translate crowdin christmas_club_01e9d6b7:
-msgid "MT "{i}Shit! This is so weird!{/i}"
-    MT "{i}Shit! This is so weird!{/i}"
+msgid "[MT] {i}Shit! This is so weird!{/i}"
+msgstr "[MT] {i}Shit! This is so weird!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3010## # translate crowdin christmas_club_66e98a77:
-msgid "MT "{i}Why does it feel like I'm giving a blowjob to my brother?{/i}"
-    MT "{i}Why does it feel like I'm giving a blowjob to my brother?{/i}"
+msgid "[MT] {i}Why does it feel like I'm giving a blowjob to my brother?{/i}"
+msgstr "[MT] {i}Why does it feel like I'm giving a blowjob to my brother?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3011## # translate crowdin christmas_club_ab3ce303:
-msgid "MT "{i}Shit, [mom_name]! Stop thinking so much about your brother!{/i}"
-    MT "{i}Shit, [mom_name]! Stop thinking so much about your brother!{/i}"
+msgid "[MT] {i}Shit, [mom_name]! Stop thinking so much about your brother!{/i}"
+msgstr "[MT] {i}Shit, [mom_name]! Stop thinking so much about your brother!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3019## # translate crowdin christmas_club_9d6cd058:
 msgid "GP "Oh, hey.... I'm done drinking, and I wanted to tell you that it's almost time to go!"

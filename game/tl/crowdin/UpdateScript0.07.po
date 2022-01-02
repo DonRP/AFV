@@ -203,8 +203,8 @@ msgid "[M] So school board member Will Tylor was visiting the school yesterday, 
 msgstr "[M] So school board member Will Tylor was visiting the school yesterday, and there's a few things I've been wanting to talk to him about."
 
 # game/UpdateScript0.07.rpy:1127## # translate crowdin mandy_accepted_2ff575cf:
-msgid "MT "{i}Mostly about his inappropriate Oedipus curriculum.{/i}"
-    MT "{i}Mostly about his inappropriate Oedipus curriculum.{/i}"
+msgid "[MT] {i}Mostly about his inappropriate Oedipus curriculum.{/i}"
+msgstr "[MT] {i}Mostly about his inappropriate Oedipus curriculum.{/i}"
 
 # game/UpdateScript0.07.rpy:1129## # translate crowdin mandy_accepted_7408d43c:
 msgid "[M] Surprisingly, he seemed to know who I was."
@@ -235,12 +235,12 @@ msgid "[M] I convinced him to come talk to me in my office."
 msgstr "[M] I convinced him to come talk to me in my office."
 
 # game/UpdateScript0.07.rpy:1138## # translate crowdin mandy_accepted_68864841:
-msgid "MT "{i}Which was surprisingly easy now that I think about it.{/i}"
-    MT "{i}Which was surprisingly easy now that I think about it.{/i}"
+msgid "[MT] {i}Which was surprisingly easy now that I think about it.{/i}"
+msgstr "[MT] {i}Which was surprisingly easy now that I think about it.{/i}"
 
 # game/UpdateScript0.07.rpy:1139## # translate crowdin mandy_accepted_11055509:
-msgid "MT "{i}It's not like he would have time to speak to all the teachers who would like to grab his ear.{/i}"
-    MT "{i}It's not like he would have time to speak to all the teachers who would like to grab his ear.{/i}"
+msgid "[MT] {i}It's not like he would have time to speak to all the teachers who would like to grab his ear.{/i}"
+msgstr "[MT] {i}It's not like he would have time to speak to all the teachers who would like to grab his ear.{/i}"
 
 # game/UpdateScript0.07.rpy:1142## # translate crowdin mandy_accepted_54b238da:
 msgid "[M] Anyways, I ended up talking to him about my lovely niece Mandy. I told him a little bit about our situation, and how you would love to attend our school, but can't afford a new private school due to... well, you all know."
@@ -251,8 +251,8 @@ msgid "[M] He seemed eager to help, and said he'd speak with the superintendent,
 msgstr "[M] He seemed eager to help, and said he'd speak with the superintendent, and see if they could pull a few strings since she's my niece."
 
 # game/UpdateScript0.07.rpy:1144## # translate crowdin mandy_accepted_4f526663:
-msgid "MT "{i}Huh... I completely forgot to speak to him about his lewd Oedipal curriculum.{/i}"
-    MT "{i}Huh... I completely forgot to speak to him about his lewd Oedipal curriculum.{/i}"
+msgid "[MT] {i}Huh... I completely forgot to speak to him about his lewd Oedipal curriculum.{/i}"
+msgstr "[MT] {i}Huh... I completely forgot to speak to him about his lewd Oedipal curriculum.{/i}"
 
 # game/UpdateScript0.07.rpy:1145## # translate crowdin mandy_accepted_af147341:
 msgid "[M] So, today I got a call from the superintendent, and he told me that Mandy would be welcome to attend our school for free on a special employee family scholarship."
@@ -523,12 +523,12 @@ msgid "[M] I'm going to run and patch things up with Lauren now, let her know I'
 msgstr "[M] I'm going to run and patch things up with Lauren now, let her know I'm going to support her dreams."
 
 # game/UpdateScript0.07.rpy:1257## # translate crowdin lauren_mom_fight_b2dd970c:
-msgid "MT "{i}What in the hell was that? That little fucker can talk me into almost anything... It's like he knows some kind of mental karate.{/i}"
-    MT "{i}What in the hell was that? That little fucker can talk me into almost anything... It's like he knows some kind of mental karate.{/i}"
+msgid "[MT] {i}What in the hell was that? That little fucker can talk me into almost anything... It's like he knows some kind of mental karate.{/i}"
+msgstr "[MT] {i}What in the hell was that? That little fucker can talk me into almost anything... It's like he knows some kind of mental karate.{/i}"
 
 # game/UpdateScript0.07.rpy:1258## # translate crowdin lauren_mom_fight_f6eb81fa:
-msgid "MT "{i}I think he's right in this case, but I've got to make sure not to let my guard down around him.{/i}"
-    MT "{i}I think he's right in this case, but I've got to make sure not to let my guard down around him.{/i}"
+msgid "[MT] {i}I think he's right in this case, but I've got to make sure not to let my guard down around him.{/i}"
+msgstr "[MT] {i}I think he's right in this case, but I've got to make sure not to let my guard down around him.{/i}"
 
 # game/UpdateScript0.07.rpy:1271## # translate crowdin ntr_lounge_sex_9bae8c84:
 msgid "[RT] {i}Oh, fuck!{/i}"
@@ -887,16 +887,16 @@ msgid "[R] God, Lauren, I'm still here."
 msgstr "[R] God, Lauren, I'm still here."
 
 # game/UpdateScript0.07.rpy:1439## # translate crowdin ntr_lounge_sex_fd52ab4b:
-msgid "MT "{i}What a refreshing shower.{/i}"
-    MT "{i}What a refreshing shower.{/i}"
+msgid "[MT] {i}What a refreshing shower.{/i}"
+msgstr "[MT] {i}What a refreshing shower.{/i}"
 
 # game/UpdateScript0.07.rpy:1442## # translate crowdin ntr_lounge_sex_ab2a6553:
-msgid "MT "{i}Oh, good!... Matt's here again.{/i}"
-    MT "{i}Oh, good!... Matt's here again.{/i}"
+msgid "[MT] {i}Oh, good!... Matt's here again.{/i}"
+msgstr "[MT] {i}Oh, good!... Matt's here again.{/i}"
 
 # game/UpdateScript0.07.rpy:1445## # translate crowdin ntr_lounge_sex_9acb0db7:
-msgid "MT "{i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
-    MT "{i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
+msgid "[MT] {i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
+msgstr "[MT] {i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
 
 # game/UpdateScript0.07.rpy:1448## # translate crowdin ntr_lounge_sex_14a9344e:
 msgid "[M] Matt... I'm sorry you've caught me in my towel again, it's just that I always shower in the evenings."
@@ -955,20 +955,20 @@ msgid "MB "No, don't worry about it... I didn't even notice. As always, I was on
     MB "No, don't worry about it... I didn't even notice. As always, I was only looking at your beautiful eyes."
 
 # game/UpdateScript0.07.rpy:1469## # translate crowdin ntr_lounge_sex_69188156:
-msgid "MT "{i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
-    MT "{i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
+msgid "[MT] {i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
+msgstr "[MT] {i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
 
 # game/UpdateScript0.07.rpy:1470## # translate crowdin ntr_lounge_sex_f63a40ca:
-msgid "MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
-    MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
+msgid "[MT] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
+msgstr "[MT] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
 
 # game/UpdateScript0.07.rpy:1471## # translate crowdin ntr_lounge_sex_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
 msgstr "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1473## # translate crowdin ntr_lounge_sex_f4d57e44:
-msgid "MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
-    MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
+msgid "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
+msgstr "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
 
 # game/UpdateScript0.07.rpy:1474## # translate crowdin ntr_lounge_sex_4b839dc2:
 msgid "L "God, Mom!... Why are you still just standing there!"
@@ -1663,76 +1663,76 @@ msgid "[RT] {i}Oh, for fuck's sake!{/i}"
 msgstr "[RT] {i}Oh, for fuck's sake!{/i}"
 
 # game/UpdateScript0.07.rpy:1783## # translate crowdin ntr_lounge_sex_fd52ab4b_1:
-msgid "MT "{i}What a refreshing shower.{/i}"
-    MT "{i}What a refreshing shower.{/i}"
+msgid "[MT] {i}What a refreshing shower.{/i}"
+msgstr "[MT] {i}What a refreshing shower.{/i}"
 
 # game/UpdateScript0.07.rpy:1786## # translate crowdin ntr_lounge_sex_ffb1349a:
-msgid "MT "{i}Oh, God... Lauren's got a visitor, and I'm walking around in nothing but a towel.{/i}"
-    MT "{i}Oh, God... Lauren's got a visitor, and I'm walking around in nothing but a towel.{/i}"
+msgid "[MT] {i}Oh, God... Lauren's got a visitor, and I'm walking around in nothing but a towel.{/i}"
+msgstr "[MT] {i}Oh, God... Lauren's got a visitor, and I'm walking around in nothing but a towel.{/i}"
 
 # game/UpdateScript0.07.rpy:1787## # translate crowdin ntr_lounge_sex_e1b62997:
-msgid "MT "{i}Wait... Is that my student, Matt?{/i}"
-    MT "{i}Wait... Is that my student, Matt?{/i}"
+msgid "[MT] {i}Wait... Is that my student, Matt?{/i}"
+msgstr "[MT] {i}Wait... Is that my student, Matt?{/i}"
 
 # game/UpdateScript0.07.rpy:1788## # translate crowdin ntr_lounge_sex_fccdf020:
-msgid "MT "{i}He seems pretty close with my daughter.{/i}"
-    MT "{i}He seems pretty close with my daughter.{/i}"
+msgid "[MT] {i}He seems pretty close with my daughter.{/i}"
+msgstr "[MT] {i}He seems pretty close with my daughter.{/i}"
 
 # game/UpdateScript0.07.rpy:1790## # translate crowdin ntr_lounge_sex_79d40e76:
-msgid "MT "{i}Oh fuck... If they're together... That means that I've sucked off my daughter's boyfriend.{/i}"
-    MT "{i}Oh fuck... If they're together... That means that I've sucked off my daughter's boyfriend.{/i}"
+msgid "[MT] {i}Oh fuck... If they're together... That means that I've sucked off my daughter's boyfriend.{/i}"
+msgstr "[MT] {i}Oh fuck... If they're together... That means that I've sucked off my daughter's boyfriend.{/i}"
 
 # game/UpdateScript0.07.rpy:1791## # translate crowdin ntr_lounge_sex_450fe024:
-msgid "MT "{i}That doesn't make me a very good mom.{/i}"
-    MT "{i}That doesn't make me a very good mom.{/i}"
+msgid "[MT] {i}That doesn't make me a very good mom.{/i}"
+msgstr "[MT] {i}That doesn't make me a very good mom.{/i}"
 
 # game/UpdateScript0.07.rpy:1792## # translate crowdin ntr_lounge_sex_e9dc041e:
-msgid "MT "{i}But maybe he's with Lauren because he really wants to get closer to me.{/i}"
-    MT "{i}But maybe he's with Lauren because he really wants to get closer to me.{/i}"
+msgid "[MT] {i}But maybe he's with Lauren because he really wants to get closer to me.{/i}"
+msgstr "[MT] {i}But maybe he's with Lauren because he really wants to get closer to me.{/i}"
 
 # game/UpdateScript0.07.rpy:1794## # translate crowdin ntr_lounge_sex_42f1d4c7:
-msgid "MT "{i}Lauren's got good taste.{/i}"
-    MT "{i}Lauren's got good taste.{/i}"
+msgid "[MT] {i}Lauren's got good taste.{/i}"
+msgstr "[MT] {i}Lauren's got good taste.{/i}"
 
 # game/UpdateScript0.07.rpy:1795## # translate crowdin ntr_lounge_sex_ca04f19d:
-msgid "MT "{i}He's a very handsome boy.{/i}"
-    MT "{i}He's a very handsome boy.{/i}"
+msgid "[MT] {i}He's a very handsome boy.{/i}"
+msgstr "[MT] {i}He's a very handsome boy.{/i}"
 
 # game/UpdateScript0.07.rpy:1796## # translate crowdin ntr_lounge_sex_fd151731:
-msgid "MT "{i}And I swear that boy undresses me with his eyes during every class.{/i}"
-    MT "{i}And I swear that boy undresses me with his eyes during every class.{/i}"
+msgid "[MT] {i}And I swear that boy undresses me with his eyes during every class.{/i}"
+msgstr "[MT] {i}And I swear that boy undresses me with his eyes during every class.{/i}"
 
 # game/UpdateScript0.07.rpy:1797## # translate crowdin ntr_lounge_sex_571d169b:
-msgid "MT "{i}I hope he's not dating Lauren just to get to me.{/i}"
-    MT "{i}I hope he's not dating Lauren just to get to me.{/i}"
+msgid "[MT] {i}I hope he's not dating Lauren just to get to me.{/i}"
+msgstr "[MT] {i}I hope he's not dating Lauren just to get to me.{/i}"
 
 # game/UpdateScript0.07.rpy:1798## # translate crowdin ntr_lounge_sex_33a7dd38:
-msgid "MT "{i}Hmmm...{/i}"
-    MT "{i}Hmmm...{/i}"
+msgid "[MT] {i}Hmmm...{/i}"
+msgstr "[MT] {i}Hmmm...{/i}"
 
 # game/UpdateScript0.07.rpy:1799## # translate crowdin ntr_lounge_sex_2ad91699:
-msgid "MT "{i}I wonder how he would react if he were to see an \"accidental\" wardrobe malfunction.{/i}"
-    MT "{i}I wonder how he would react if he were to see an \"accidental\" wardrobe malfunction.{/i}"
+msgid "[MT] {i}I wonder how he would react if he were to see an \"accidental\" wardrobe malfunction.{/i}"
+msgstr "[MT] {i}I wonder how he would react if he were to see an \"accidental\" wardrobe malfunction.{/i}"
 
 # game/UpdateScript0.07.rpy:1802## # translate crowdin ntr_lounge_sex_eac9507b:
-msgid "MT "{i}I can't believe I'm doing this... Am I really so depraved that I'm showing a teenage boy my nipples to see how he reacts?{/i}"
-    MT "{i}I can't believe I'm doing this... Am I really so depraved that I'm showing a teenage boy my nipples to see how he reacts?{/i}"
+msgid "[MT] {i}I can't believe I'm doing this... Am I really so depraved that I'm showing a teenage boy my nipples to see how he reacts?{/i}"
+msgstr "[MT] {i}I can't believe I'm doing this... Am I really so depraved that I'm showing a teenage boy my nipples to see how he reacts?{/i}"
 
 # game/UpdateScript0.07.rpy:1803## # translate crowdin ntr_lounge_sex_1eded5a8:
-msgid "MT "{i}You know this is more for you... You're getting desperate for attention.{/i}"
-    MT "{i}You know this is more for you... You're getting desperate for attention.{/i}"
+msgid "[MT] {i}You know this is more for you... You're getting desperate for attention.{/i}"
+msgstr "[MT] {i}You know this is more for you... You're getting desperate for attention.{/i}"
 
 # game/UpdateScript0.07.rpy:1804## # translate crowdin ntr_lounge_sex_2745ad7f:
-msgid "MT "{i}So, what if I am?{/i}"
-    MT "{i}So, what if I am?{/i}"
+msgid "[MT] {i}So, what if I am?{/i}"
+msgstr "[MT] {i}So, what if I am?{/i}"
 
 # game/UpdateScript0.07.rpy:1805## # translate crowdin ntr_lounge_sex_1e9b1c7a:
-msgid "MT "{i}It's better than the unnatural thoughts I've been having about my own son.{/i}"
-    MT "{i}It's better than the unnatural thoughts I've been having about my own son.{/i}"
+msgid "[MT] {i}It's better than the unnatural thoughts I've been having about my own son.{/i}"
+msgstr "[MT] {i}It's better than the unnatural thoughts I've been having about my own son.{/i}"
 
 # game/UpdateScript0.07.rpy:1806## # translate crowdin ntr_lounge_sex_b7f5764e:
-msgid "MT "{i}Alright, here I go.{/i}"
-    MT "{i}Alright, here I go.{/i}"
+msgid "[MT] {i}Alright, here I go.{/i}"
+msgstr "[MT] {i}Alright, here I go.{/i}"
 
 # game/UpdateScript0.07.rpy:1809## # translate crowdin ntr_lounge_sex_ebcc8aea:
 msgid "[M] Gosh!... If I'd known we were having a visitor, I would have brought a change of clothes into the bathroom."
@@ -1787,20 +1787,20 @@ msgid "MB "No, don't worry about it... I didn't even notice. I was only looking 
     MB "No, don't worry about it... I didn't even notice. I was only looking at your beautiful eyes."
 
 # game/UpdateScript0.07.rpy:1829## # translate crowdin ntr_lounge_sex_4793364e:
-msgid "MT "{i}Wow!... What a charmer... but I know his eyes didn't make their way up here until after I fixed my towel.{/i}"
-    MT "{i}Wow!... What a charmer... but I know his eyes didn't make their way up here until after I fixed my towel.{/i}"
+msgid "[MT] {i}Wow!... What a charmer... but I know his eyes didn't make their way up here until after I fixed my towel.{/i}"
+msgstr "[MT] {i}Wow!... What a charmer... but I know his eyes didn't make their way up here until after I fixed my towel.{/i}"
 
 # game/UpdateScript0.07.rpy:1830## # translate crowdin ntr_lounge_sex_f63a40ca_1:
-msgid "MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
-    MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
+msgid "[MT] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
+msgstr "[MT] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
 
 # game/UpdateScript0.07.rpy:1831## # translate crowdin ntr_lounge_sex_1e246541:
 msgid "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
 msgstr "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1833## # translate crowdin ntr_lounge_sex_f4d57e44_1:
-msgid "MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
-    MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
+msgid "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
+msgstr "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
 
 # game/UpdateScript0.07.rpy:1834## # translate crowdin ntr_lounge_sex_3e0f57a6:
 msgid "L "God, Mom!... Why are you just standing there!"
@@ -2303,12 +2303,12 @@ msgid "[R] Hahaha...."
 msgstr "[R] Hahaha...."
 
 # game/UpdateScript0.07.rpy:2127## # translate crowdin lounge_sex_c28195b3:
-msgid "MT "{i}Why are they talking about gum in Lauren's room again?{/i}"
-    MT "{i}Why are they talking about gum in Lauren's room again?{/i}"
+msgid "[MT] {i}Why are they talking about gum in Lauren's room again?{/i}"
+msgstr "[MT] {i}Why are they talking about gum in Lauren's room again?{/i}"
 
 # game/UpdateScript0.07.rpy:2128## # translate crowdin lounge_sex_4cbde912:
-msgid "MT "{i}I love how close they are... love that they have inside jokes... but I'm getting worried that they might be getting a little too close.{/i}"
-    MT "{i}I love how close they are... love that they have inside jokes... but I'm getting worried that they might be getting a little too close.{/i}"
+msgid "[MT] {i}I love how close they are... love that they have inside jokes... but I'm getting worried that they might be getting a little too close.{/i}"
+msgstr "[MT] {i}I love how close they are... love that they have inside jokes... but I'm getting worried that they might be getting a little too close.{/i}"
 
 # game/UpdateScript0.07.rpy:2129## # translate crowdin lounge_sex_a57745ef:
 msgid "[M] Hey, you two... How was your show today?"
@@ -5155,20 +5155,20 @@ msgid "[R] They're perfect... I mean the syrup's perfect!"
 msgstr "[R] They're perfect... I mean the syrup's perfect!"
 
 # game/UpdateScript0.07.rpy:3931## # translate crowdin breakfast_for_will_66049438:
-msgid "MT "{i}You bold, cheeky bastard!... I know what that was about.{/i}"
-    MT "{i}You bold, cheeky bastard!... I know what that was about.{/i}"
+msgid "[MT] {i}You bold, cheeky bastard!... I know what that was about.{/i}"
+msgstr "[MT] {i}You bold, cheeky bastard!... I know what that was about.{/i}"
 
 # game/UpdateScript0.07.rpy:3932## # translate crowdin breakfast_for_will_b22aa88f:
-msgid "MT "{i}So, why did you do it for him?{/i}"
-    MT "{i}So, why did you do it for him?{/i}"
+msgid "[MT] {i}So, why did you do it for him?{/i}"
+msgstr "[MT] {i}So, why did you do it for him?{/i}"
 
 # game/UpdateScript0.07.rpy:3939## # translate crowdin breakfast_for_will_c6b72e6a:
-msgid "MT "{i}Shit!... I need to get laid, so I'm not always so horny around [ryan] and the girls!{/i}"
-    MT "{i}Shit!... I need to get laid, so I'm not always so horny around [ryan] and the girls!{/i}"
+msgid "[MT] {i}Shit!... I need to get laid, so I'm not always so horny around [ryan] and the girls!{/i}"
+msgstr "[MT] {i}Shit!... I need to get laid, so I'm not always so horny around [ryan] and the girls!{/i}"
 
 # game/UpdateScript0.07.rpy:3940## # translate crowdin breakfast_for_will_c188eacb:
-msgid "MT "{i}When are they going to let my fucking husband out of prison?{/i}"
-    MT "{i}When are they going to let my fucking husband out of prison?{/i}"
+msgid "[MT] {i}When are they going to let my fucking husband out of prison?{/i}"
+msgstr "[MT] {i}When are they going to let my fucking husband out of prison?{/i}"
 
 # game/UpdateScript0.07.rpy:3941## # translate crowdin breakfast_for_will_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
@@ -5363,8 +5363,8 @@ msgid "[M] Ok, enough you two!"
 msgstr "[M] Ok, enough you two!"
 
 # game/UpdateScript0.07.rpy:4098## # translate crowdin mandy_school_breakfast_6ead4c1f:
-msgid "MT "{i}Poor Lauren. She was really crushed when she lost that election.{/i}"
-    MT "{i}Poor Lauren. She was really crushed when she lost that election.{/i}"
+msgid "[MT] {i}Poor Lauren. She was really crushed when she lost that election.{/i}"
+msgstr "[MT] {i}Poor Lauren. She was really crushed when she lost that election.{/i}"
 
 # game/UpdateScript0.07.rpy:4105## # translate crowdin mandy_school_breakfast_16ecc431:
 msgid "[M] Honey, I can't change what's happened, but what if I talk to the school board and see if there's any way Mandy can transfer to our school?"
@@ -9407,8 +9407,8 @@ msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
     X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6114## # translate crowdin actual_election_8ba62ea5:
-msgid "MT "{i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
-    MT "{i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
+msgid "[MT] {i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
+msgstr "[MT] {i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
 
 # game/UpdateScript0.07.rpy:6115## # translate crowdin actual_election_a82d7b80:
 msgid "L "Oh, and let me show you how it looks from behind."
@@ -18159,16 +18159,16 @@ msgid "[M] I think he's telling the truth."
 msgstr "[M] I think he's telling the truth."
 
 # game/UpdateScript0.07.rpy:10987## # translate crowdin bad_shower_end_f8c4f578:
-msgid "MT "{i}Stupid little lying pervert!... I can't believe he did this again!{/i}"
-    MT "{i}Stupid little lying pervert!... I can't believe he did this again!{/i}"
+msgid "[MT] {i}Stupid little lying pervert!... I can't believe he did this again!{/i}"
+msgstr "[MT] {i}Stupid little lying pervert!... I can't believe he did this again!{/i}"
 
 # game/UpdateScript0.07.rpy:10988## # translate crowdin bad_shower_end_27a00d53:
-msgid "MT "{i}There's only one way to save [ryan]'s ass this time.{/i}"
-    MT "{i}There's only one way to save [ryan]'s ass this time.{/i}"
+msgid "[MT] {i}There's only one way to save [ryan]'s ass this time.{/i}"
+msgstr "[MT] {i}There's only one way to save [ryan]'s ass this time.{/i}"
 
 # game/UpdateScript0.07.rpy:10989## # translate crowdin bad_shower_end_4f5633d7:
-msgid "MT "{i}I just hope I can make myself do it.{/i}"
-    MT "{i}I just hope I can make myself do it.{/i}"
+msgid "[MT] {i}I just hope I can make myself do it.{/i}"
+msgstr "[MT] {i}I just hope I can make myself do it.{/i}"
 
 # game/UpdateScript0.07.rpy:10992## # translate crowdin bad_shower_end_5b455e2b:
 msgid "PH "Well, I'm not convinced."
@@ -18183,8 +18183,8 @@ msgid "[M] I can't belive you did this again! You need to get your perverted min
 msgstr "[M] I can't belive you did this again! You need to get your perverted mind under control! Now wait for me here, until I get back out!"
 
 # game/UpdateScript0.07.rpy:10997## # translate crowdin bad_shower_end_25657027:
-msgid "MT "{i}Just get this over with fast!{/i}"
-    MT "{i}Just get this over with fast!{/i}"
+msgid "[MT] {i}Just get this over with fast!{/i}"
+msgstr "[MT] {i}Just get this over with fast!{/i}"
 
 # game/UpdateScript0.07.rpy:11006## # translate crowdin bad_shower_end_e74f1df1:
 msgid "[RT] {i}Uh oh... I might be in deep shit. She actually looks worried.{/i}"
@@ -18219,8 +18219,8 @@ msgid "[M] It's not important! Just be grateful you're not getting expelled."
 msgstr "[M] It's not important! Just be grateful you're not getting expelled."
 
 # game/UpdateScript0.07.rpy:11027## # translate crowdin bad_shower_end_dfaf5b5a:
-msgid "MT "{i}And I've found a way to save him if he ever fucks up again.{/i}"
-    MT "{i}And I've found a way to save him if he ever fucks up again.{/i}"
+msgid "[MT] {i}And I've found a way to save him if he ever fucks up again.{/i}"
+msgstr "[MT] {i}And I've found a way to save him if he ever fucks up again.{/i}"
 
 # game/UpdateScript0.07.rpy:11028## # translate crowdin bad_shower_end_20e43209:
 msgid "[R] But!..."
@@ -18315,12 +18315,12 @@ msgid "[M] I think he's telling the truth."
 msgstr "[M] I think he's telling the truth."
 
 # game/UpdateScript0.07.rpy:11076## # translate crowdin bad_shower_end_41a13206:
-msgid "MT "{i}Stupid little lying pervert!... I can't let him get expelled. I can't afford for him to go to school anywhere else!{/i}"
-    MT "{i}Stupid little lying pervert!... I can't let him get expelled. I can't afford for him to go to school anywhere else!{/i}"
+msgid "[MT] {i}Stupid little lying pervert!... I can't let him get expelled. I can't afford for him to go to school anywhere else!{/i}"
+msgstr "[MT] {i}Stupid little lying pervert!... I can't let him get expelled. I can't afford for him to go to school anywhere else!{/i}"
 
 # game/UpdateScript0.07.rpy:11077## # translate crowdin bad_shower_end_1ddb5cbe:
-msgid "MT "{i}He's got to finish school this year so he can move on with his life!{/i}"
-    MT "{i}He's got to finish school this year so he can move on with his life!{/i}"
+msgid "[MT] {i}He's got to finish school this year so he can move on with his life!{/i}"
+msgstr "[MT] {i}He's got to finish school this year so he can move on with his life!{/i}"
 
 # game/UpdateScript0.07.rpy:11080## # translate crowdin bad_shower_end_5b455e2b_1:
 msgid "PH "Well, I'm not convinced."
