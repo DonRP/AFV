@@ -1191,8 +1191,8 @@ msgid "[S] That's sweet... But you shouldn't try and make our relationship somet
 msgstr "[S] That's sweet... But you shouldn't try and make our relationship something it can never be."
 
 # game/UpdateScript0.07.rpy:1567## # translate crowdin ntr_lounge_sex_acb9e89b:
-msgid "ST "{i}Shit!... Why am I so glad he said that?{/i}"
-    ST "{i}Shit!... Why am I so glad he said that?{/i}"
+msgid "[ST] {i}Shit!... Why am I so glad he said that?{/i}"
+msgstr "[ST] {i}Shit!... Why am I so glad he said that?{/i}"
 
 # game/UpdateScript0.07.rpy:1568## # translate crowdin ntr_lounge_sex_7c691781:
 msgid "{b}{i}\"Sidney's Affection +1\"{/i}{/b}"
@@ -1215,8 +1215,8 @@ msgid "[S] Yeah, well... Unfortunately, that's the world we live in."
 msgstr "[S] Yeah, well... Unfortunately, that's the world we live in."
 
 # game/UpdateScript0.07.rpy:1580## # translate crowdin ntr_lounge_sex_9e51f4a5:
-msgid "ST "{i}[ryan] makes me feel safe... I've never had anyone make me feel so fulfilled sexually... It fucking sucks that this can't become more!{/i}"
-    ST "{i}[ryan] makes me feel safe... I've never had anyone make me feel so fulfilled sexually... It fucking sucks that this can't become more!{/i}"
+msgid "[ST] {i}[ryan] makes me feel safe... I've never had anyone make me feel so fulfilled sexually... It fucking sucks that this can't become more!{/i}"
+msgstr "[ST] {i}[ryan] makes me feel safe... I've never had anyone make me feel so fulfilled sexually... It fucking sucks that this can't become more!{/i}"
 
 # game/UpdateScript0.07.rpy:1582## # translate crowdin ntr_lounge_sex_3c6a6ca0:
 msgid "[S] It can't ever be anything more than that."
@@ -1227,16 +1227,16 @@ msgid "[R] I know."
 msgstr "[R] I know."
 
 # game/UpdateScript0.07.rpy:1584## # translate crowdin ntr_lounge_sex_6b01ae8e:
-msgid "ST "{i}Damn... I kinda hoped he'd disagree with me... Even though I know it's good that he didn't.{/i}"
-    ST "{i}Damn... I kinda hoped he'd disagree with me... Even though I know it's good that he didn't.{/i}"
+msgid "[ST] {i}Damn... I kinda hoped he'd disagree with me... Even though I know it's good that he didn't.{/i}"
+msgstr "[ST] {i}Damn... I kinda hoped he'd disagree with me... Even though I know it's good that he didn't.{/i}"
 
 # game/UpdateScript0.07.rpy:1585## # translate crowdin ntr_lounge_sex_7450ba28:
 msgid "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
 msgstr "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1589## # translate crowdin ntr_lounge_sex_be7b9ec7:
-msgid "ST "{i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
-    ST "{i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
+msgid "[ST] {i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
+msgstr "[ST] {i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
 
 # game/UpdateScript0.07.rpy:1590## # translate crowdin ntr_lounge_sex_03f162d5:
 msgid "[R] Alright, well I'm going to go try and stop Lauren and Matt from getting any closer."
@@ -5279,12 +5279,12 @@ msgid "[S] Uhhh... yeah... sorry."
 msgstr "[S] Uhhh... yeah... sorry."
 
 # game/UpdateScript0.07.rpy:4025## # translate crowdin breakfast_for_will_ae1fd2ca:
-msgid "ST "{i}Ohhhh... I should kill that little shit!...{/i}"
-    ST "{i}Ohhhh... I should kill that little shit!...{/i}"
+msgid "[ST] {i}Ohhhh... I should kill that little shit!...{/i}"
+msgstr "[ST] {i}Ohhhh... I should kill that little shit!...{/i}"
 
 # game/UpdateScript0.07.rpy:4026## # translate crowdin breakfast_for_will_9dd42229:
-msgid "ST "{i}Mmmm... but it does feel really good.{/i}"
-    ST "{i}Mmmm... but it does feel really good.{/i}"
+msgid "[ST] {i}Mmmm... but it does feel really good.{/i}"
+msgstr "[ST] {i}Mmmm... but it does feel really good.{/i}"
 
 # game/UpdateScript0.07.rpy:4027## # translate crowdin breakfast_for_will_6e0dab43:
 msgid "{b}{i}\"Sidney's Libido +1\"{/i}{/b}"

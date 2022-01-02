@@ -3175,32 +3175,32 @@ msgid "{i}\"[ryan] Leaves\"{/i}"
 msgstr "{i}\"[ryan] Leaves\"{/i}"
 
 # game/script.rpy:4379## # translate crowdin sidneyinthekitchencontinued_da8ab24b:
-msgid "ST "{i}Oh my God! Could I have been subconsciously flashing my brother on purpose?{/i}"
-    ST "{i}Oh my God! Could I have been subconsciously flashing my brother on purpose?{/i}"
+msgid "[ST] {i}Oh my God! Could I have been subconsciously flashing my brother on purpose?{/i}"
+msgstr "[ST] {i}Oh my God! Could I have been subconsciously flashing my brother on purpose?{/i}"
 
 # game/script.rpy:4380## # translate crowdin sidneyinthekitchencontinued_f2386581:
-msgid "ST "{i}Is something wrong with me?{/i}"
-    ST "{i}Is something wrong with me?{/i}"
+msgid "[ST] {i}Is something wrong with me?{/i}"
+msgstr "[ST] {i}Is something wrong with me?{/i}"
 
 # game/script.rpy:4381## # translate crowdin sidneyinthekitchencontinued_bcf5218a:
-msgid "ST "{i}First I'm molesting my sister in her sleep, and now this.{/i}"
-    ST "{i}First I'm molesting my sister in her sleep, and now this.{/i}"
+msgid "[ST] {i}First I'm molesting my sister in her sleep, and now this.{/i}"
+msgstr "[ST] {i}First I'm molesting my sister in her sleep, and now this.{/i}"
 
 # game/script.rpy:4382## # translate crowdin sidneyinthekitchencontinued_5d0d5fc0:
-msgid "ST "{i}Worst of all, [ryan] seemed to like it.{/i}"
-    ST "{i}Worst of all, [ryan] seemed to like it.{/i}"
+msgid "[ST] {i}Worst of all, [ryan] seemed to like it.{/i}"
+msgstr "[ST] {i}Worst of all, [ryan] seemed to like it.{/i}"
 
 # game/script.rpy:4383## # translate crowdin sidneyinthekitchencontinued_3d3c6058:
-msgid "ST "{i}Ha the look on his face when I caught him.{/i}"
-    ST "{i}Ha the look on his face when I caught him.{/i}"
+msgid "[ST] {i}Ha the look on his face when I caught him.{/i}"
+msgstr "[ST] {i}Ha the look on his face when I caught him.{/i}"
 
 # game/script.rpy:4384## # translate crowdin sidneyinthekitchencontinued_a55fd799:
-msgid "ST "{i}I don't buy that it was an accident.{/i}"
-    ST "{i}I don't buy that it was an accident.{/i}"
+msgid "[ST] {i}I don't buy that it was an accident.{/i}"
+msgstr "[ST] {i}I don't buy that it was an accident.{/i}"
 
 # game/script.rpy:4385## # translate crowdin sidneyinthekitchencontinued_122f47a2:
-msgid "ST "{i}But am I just as perverted as him?.... {/i}"
-    ST "{i}But am I just as perverted as him?.... {/i}"
+msgid "[ST] {i}But am I just as perverted as him?.... {/i}"
+msgstr "[ST] {i}But am I just as perverted as him?.... {/i}"
 
 # game/script.rpy:4386## # translate crowdin sidneyinthekitchencontinued_e0b12ac0:
 msgid "{i}{b}\"Sidney's Libido +3\"{/b}{/i}"
@@ -3231,28 +3231,28 @@ msgid "{i}\"[ryan] storms out\"{/i}"
 msgstr "{i}\"[ryan] storms out\"{/i}"
 
 # game/script.rpy:4405## # translate crowdin sidneyinthekitchencontinued_76544330:
-msgid "ST "{i}Wow, I think I really pissed him off.{/i}"
-    ST "{i}Wow, I think I really pissed him off.{/i}"
+msgid "[ST] {i}Wow, I think I really pissed him off.{/i}"
+msgstr "[ST] {i}Wow, I think I really pissed him off.{/i}"
 
 # game/script.rpy:4406## # translate crowdin sidneyinthekitchencontinued_74fff79e:
-msgid "ST "{i}He sure looked determined when he left.{/i}"
-    ST "{i}He sure looked determined when he left.{/i}"
+msgid "[ST] {i}He sure looked determined when he left.{/i}"
+msgstr "[ST] {i}He sure looked determined when he left.{/i}"
 
 # game/script.rpy:4407## # translate crowdin sidneyinthekitchencontinued_58824f6e:
-msgid "ST "{i}It made me almost believe him when he says he's going to provide for the family.{/i}"
-    ST "{i}It made me almost believe him when he says he's going to provide for the family.{/i}"
+msgid "[ST] {i}It made me almost believe him when he says he's going to provide for the family.{/i}"
+msgstr "[ST] {i}It made me almost believe him when he says he's going to provide for the family.{/i}"
 
 # game/script.rpy:4408## # translate crowdin sidneyinthekitchencontinued_ac40951e:
-msgid "ST "{i}Shit, if he succeeds, would I really be willing to call him daddy to get money from him?{/i}"
-    ST "{i}Shit, if he succeeds, would I really be willing to call him daddy to get money from him?{/i}"
+msgid "[ST] {i}Shit, if he succeeds, would I really be willing to call him daddy to get money from him?{/i}"
+msgstr "[ST] {i}Shit, if he succeeds, would I really be willing to call him daddy to get money from him?{/i}"
 
 # game/script.rpy:4409## # translate crowdin sidneyinthekitchencontinued_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
 msgstr "{i}\"Sidney's Submission +1\"{/i}"
 
 # game/script.rpy:4411## # translate crowdin sidneyinthekitchencontinued_90007593:
-msgid "ST "{i}I wonder if [ryan] understands the sexual connotation of a woman calling him daddy.{/i}"
-    ST "{i}I wonder if [ryan] understands the sexual connotation of a woman calling him daddy.{/i}"
+msgid "[ST] {i}I wonder if [ryan] understands the sexual connotation of a woman calling him daddy.{/i}"
+msgstr "[ST] {i}I wonder if [ryan] understands the sexual connotation of a woman calling him daddy.{/i}"
 
 # game/script.rpy:4412## # translate crowdin sidneyinthekitchencontinued_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
@@ -4759,12 +4759,12 @@ msgid "[RT] {i}Well, I guess all good things must come to an end.{/i}"
 msgstr "[RT] {i}Well, I guess all good things must come to an end.{/i}"
 
 # game/script.rpy:6049## # translate crowdin sidneychanging_dd9deb7f:
-msgid "ST "{i}I love this outfit, it looks so cute on me!{/i}"
-    ST "{i}I love this outfit, it looks so cute on me!{/i}"
+msgid "[ST] {i}I love this outfit, it looks so cute on me!{/i}"
+msgstr "[ST] {i}I love this outfit, it looks so cute on me!{/i}"
 
 # game/script.rpy:6052## # translate crowdin sidneychanging_fb0eef3f:
-msgid "ST "{i}Oh my God, is that?.... {/i}"
-    ST "{i}Oh my God, is that?.... {/i}"
+msgid "[ST] {i}Oh my God, is that?.... {/i}"
+msgstr "[ST] {i}Oh my God, is that?.... {/i}"
 
 # game/script.rpy:6055## # translate crowdin sidneychanging_594ef6ad:
 msgid "[RT] {i}Oh no, her face in the mirror looks like she might've seen me.{/i}"
@@ -4775,40 +4775,40 @@ msgid "[RT] {i}I've got to get out of here!{/i}"
 msgstr "[RT] {i}I've got to get out of here!{/i}"
 
 # game/script.rpy:6059## # translate crowdin sidneychanging_30da61d1:
-msgid "ST "{i}Oh wait, there's nothing there.... {/i}"
-    ST "{i}Oh wait, there's nothing there.... {/i}"
+msgid "[ST] {i}Oh wait, there's nothing there.... {/i}"
+msgstr "[ST] {i}Oh wait, there's nothing there.... {/i}"
 
 # game/script.rpy:6062## # translate crowdin sidneychanging_53534f48:
-msgid "ST "{i}Did I just imagine it?{/i}"
-    ST "{i}Did I just imagine it?{/i}"
+msgid "[ST] {i}Did I just imagine it?{/i}"
+msgstr "[ST] {i}Did I just imagine it?{/i}"
 
 # game/script.rpy:6063## # translate crowdin sidneychanging_fc95d35c:
-msgid "ST "{i}Who could it have been? Isn't everyone at school?{/i}"
-    ST "{i}Who could it have been? Isn't everyone at school?{/i}"
+msgid "[ST] {i}Who could it have been? Isn't everyone at school?{/i}"
+msgstr "[ST] {i}Who could it have been? Isn't everyone at school?{/i}"
 
 # game/script.rpy:6064## # translate crowdin sidneychanging_8a2ad95e:
-msgid "ST "{i}Could a stranger have been watching me change?{/i}"
-    ST "{i}Could a stranger have been watching me change?{/i}"
+msgid "[ST] {i}Could a stranger have been watching me change?{/i}"
+msgstr "[ST] {i}Could a stranger have been watching me change?{/i}"
 
 # game/script.rpy:6065## # translate crowdin sidneychanging_106c2116:
-msgid "ST "{i}More likely it's just [ryan] skipping class.{/i}"
-    ST "{i}More likely it's just [ryan] skipping class.{/i}"
+msgid "[ST] {i}More likely it's just [ryan] skipping class.{/i}"
+msgstr "[ST] {i}More likely it's just [ryan] skipping class.{/i}"
 
 # game/script.rpy:6066## # translate crowdin sidneychanging_f497553b:
-msgid "ST "{i}I sure hope it was [ryan].{/i}"
-    ST "{i}I sure hope it was [ryan].{/i}"
+msgid "[ST] {i}I sure hope it was [ryan].{/i}"
+msgstr "[ST] {i}I sure hope it was [ryan].{/i}"
 
 # game/script.rpy:6067## # translate crowdin sidneychanging_029b4439:
-msgid "ST "{i}Wait.... that sounded weird in my head.{/i}"
-    ST "{i}Wait.... that sounded weird in my head.{/i}"
+msgid "[ST] {i}Wait.... that sounded weird in my head.{/i}"
+msgstr "[ST] {i}Wait.... that sounded weird in my head.{/i}"
 
 # game/script.rpy:6068## # translate crowdin sidneychanging_d2ff2a49:
-msgid "ST "{i}I shouldn't be hoping that my brother is watching me change.{/i}"
-    ST "{i}I shouldn't be hoping that my brother is watching me change.{/i}"
+msgid "[ST] {i}I shouldn't be hoping that my brother is watching me change.{/i}"
+msgstr "[ST] {i}I shouldn't be hoping that my brother is watching me change.{/i}"
 
 # game/script.rpy:6069## # translate crowdin sidneychanging_3048d6d0:
-msgid "ST "{i}Why does that thought turn me on just a little?{/i}"
-    ST "{i}Why does that thought turn me on just a little?{/i}"
+msgid "[ST] {i}Why does that thought turn me on just a little?{/i}"
+msgstr "[ST] {i}Why does that thought turn me on just a little?{/i}"
 
 # game/script.rpy:6070## # translate crowdin sidneychanging_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
@@ -5091,24 +5091,24 @@ msgid "[M] NOW!"
 msgstr "[M] NOW!"
 
 # game/script.rpy:6254## # translate crowdin sidneylaurensneakingnight_02c26517:
-msgid "ST "{i}Oh no! What if?.... {/i}"
-    ST "{i}Oh no! What if?.... {/i}"
+msgid "[ST] {i}Oh no! What if?.... {/i}"
+msgstr "[ST] {i}Oh no! What if?.... {/i}"
 
 # game/script.rpy:6255## # translate crowdin sidneylaurensneakingnight_e8c9efd9:
-msgid "ST "{i}Shit!.... {/i}"
-    ST "{i}Shit!.... {/i}"
+msgid "[ST] {i}Shit!.... {/i}"
+msgstr "[ST] {i}Shit!.... {/i}"
 
 # game/script.rpy:6256## # translate crowdin sidneylaurensneakingnight_6933045b:
-msgid "ST "{i}I put my finger up Lauren's ass?{/i}"
-    ST "{i}I put my finger up Lauren's ass?{/i}"
+msgid "[ST] {i}I put my finger up Lauren's ass?{/i}"
+msgstr "[ST] {i}I put my finger up Lauren's ass?{/i}"
 
 # game/script.rpy:6257## # translate crowdin sidneylaurensneakingnight_c926ae2f:
-msgid "ST "{i}I really did have my finger up her ass.... {/i}"
-    ST "{i}I really did have my finger up her ass.... {/i}"
+msgid "[ST] {i}I really did have my finger up her ass.... {/i}"
+msgstr "[ST] {i}I really did have my finger up her ass.... {/i}"
 
 # game/script.rpy:6258## # translate crowdin sidneylaurensneakingnight_30682567:
-msgid "ST "{i}Why would I do that?.... {/i}"
-    ST "{i}Why would I do that?.... {/i}"
+msgid "[ST] {i}Why would I do that?.... {/i}"
+msgstr "[ST] {i}Why would I do that?.... {/i}"
 
 # game/script.rpy:6259## # translate crowdin sidneylaurensneakingnight_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
@@ -5339,24 +5339,24 @@ msgid "[M] Do it Sidney! Smell your fingers."
 msgstr "[M] Do it Sidney! Smell your fingers."
 
 # game/script.rpy:6372## # translate crowdin sidneylaurensneakingnight_baf0403e:
-msgid "ST "{i}Oh my God! My fingers do smell like pussy!{/i}"
-    ST "{i}Oh my God! My fingers do smell like pussy!{/i}"
+msgid "[ST] {i}Oh my God! My fingers do smell like pussy!{/i}"
+msgstr "[ST] {i}Oh my God! My fingers do smell like pussy!{/i}"
 
 # game/script.rpy:6373## # translate crowdin sidneylaurensneakingnight_78a6d6c7:
-msgid "ST "{i}Hmmm.... it must be Lauren's smell after all, it smells different than mine, I guess sweeter, or younger or something.... {/i}"
-    ST "{i}Hmmm.... it must be Lauren's smell after all, it smells different than mine, I guess sweeter, or younger or something.... {/i}"
+msgid "[ST] {i}Hmmm.... it must be Lauren's smell after all, it smells different than mine, I guess sweeter, or younger or something.... {/i}"
+msgstr "[ST] {i}Hmmm.... it must be Lauren's smell after all, it smells different than mine, I guess sweeter, or younger or something.... {/i}"
 
 # game/script.rpy:6374## # translate crowdin sidneylaurensneakingnight_5d3cd84e:
-msgid "ST "{i}Why do I like that smell?{/i}"
-    ST "{i}Why do I like that smell?{/i}"
+msgid "[ST] {i}Why do I like that smell?{/i}"
+msgstr "[ST] {i}Why do I like that smell?{/i}"
 
 # game/script.rpy:6375## # translate crowdin sidneylaurensneakingnight_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
 
 # game/script.rpy:6377## # translate crowdin sidneylaurensneakingnight_353d424e:
-msgid "ST "{i}Shit! I can't admit to this!{/i}"
-    ST "{i}Shit! I can't admit to this!{/i}"
+msgid "[ST] {i}Shit! I can't admit to this!{/i}"
+msgstr "[ST] {i}Shit! I can't admit to this!{/i}"
 
 # game/script.rpy:6378## # translate crowdin sidneylaurensneakingnight_36adb692:
 msgid "[M] Well, what's the verdict?"
