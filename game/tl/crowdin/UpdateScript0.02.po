@@ -27,7 +27,7 @@ msgid "L "Hehehhehehe."
     L "Hehehhehehe."
 
 # game/UpdateScript0.02.rpy:25## # translate crowdin cosplaywakeme_ce5d5923:
-msgid "R "Wha.... what.... what are you girls doing in my bed?"
+msgid "[R] Wha.... what.... what are you girls doing in my bed?"
     R "Wha.... what.... what are you girls doing in my bed?"
 
 # game/UpdateScript0.02.rpy:28## # translate crowdin cosplaywakeme_b24231d2:
@@ -39,11 +39,11 @@ msgid "L "Yeah, we've got a really good idea that we want you to be a part of."
     L "Yeah, we've got a really good idea that we want you to be a part of."
 
 # game/UpdateScript0.02.rpy:30## # translate crowdin cosplaywakeme_3f9feb9a:
-msgid "R "I think I know where this is going, but are you really ready to go full Alabama?"
+msgid "[R] I think I know where this is going, but are you really ready to go full Alabama?"
     R "I think I know where this is going, but are you really ready to go full Alabama?"
 
 # game/UpdateScript0.02.rpy:34## # translate crowdin cosplaywakeme_681b9862:
-msgid "R "Ok.... ok.... relax.... I was joking."
+msgid "[R] Ok.... ok.... relax.... I was joking."
     R "Ok.... ok.... relax.... I was joking."
 
 # game/UpdateScript0.02.rpy:35## # translate crowdin cosplaywakeme_cb4d38d7:
@@ -51,7 +51,7 @@ msgid "RT "{i}Not joking.{/i}"
     RT "{i}Not joking.{/i}"
 
 # game/UpdateScript0.02.rpy:36## # translate crowdin cosplaywakeme_f80a1c78:
-msgid "R "But couldn't this have waited until later?"
+msgid "[R] But couldn't this have waited until later?"
     R "But couldn't this have waited until later?"
 
 # game/UpdateScript0.02.rpy:39## # translate crowdin cosplaywakeme_10f28cad:
@@ -59,7 +59,7 @@ msgid "L "No, we're too excited!"
     L "No, we're too excited!"
 
 # game/UpdateScript0.02.rpy:40## # translate crowdin cosplaywakeme_b20707f8:
-msgid "R "Well, what's going on?"
+msgid "[R] Well, what's going on?"
     R "Well, what's going on?"
 
 # game/UpdateScript0.02.rpy:41## # translate crowdin cosplaywakeme_f5697158:
@@ -71,7 +71,7 @@ msgid "L "Yeah and she's famous!"
     L "Yeah and she's famous!"
 
 # game/UpdateScript0.02.rpy:43## # translate crowdin cosplaywakeme_5977fdee:
-msgid "R "Yeah?.... Have I ever heard of her?"
+msgid "[R] Yeah?.... Have I ever heard of her?"
     R "Yeah?.... Have I ever heard of her?"
 
 # game/UpdateScript0.02.rpy:44## # translate crowdin cosplaywakeme_958ac389:
@@ -79,7 +79,7 @@ msgid "MD "Her name is Jassica Nugru!"
     MD "Her name is Jassica Nugru!"
 
 # game/UpdateScript0.02.rpy:45## # translate crowdin cosplaywakeme_06028c06:
-msgid "R "Oh yeah, I've seen her stuff. It's pretty hot."
+msgid "[R] Oh yeah, I've seen her stuff. It's pretty hot."
     R "Oh yeah, I've seen her stuff. It's pretty hot."
 
 # game/UpdateScript0.02.rpy:48## # translate crowdin cosplaywakeme_6d961718:
@@ -87,7 +87,7 @@ msgid "L "Haha.... see, I told you he's a pervert."
     L "Haha.... see, I told you he's a pervert."
 
 # game/UpdateScript0.02.rpy:49## # translate crowdin cosplaywakeme_71b06990:
-msgid "R "Just because I know who she is doesn't make me a pervert."
+msgid "[R] Just because I know who she is doesn't make me a pervert."
     R "Just because I know who she is doesn't make me a pervert."
 
 # game/UpdateScript0.02.rpy:52## # translate crowdin cosplaywakeme_8996e84c:
@@ -95,11 +95,11 @@ msgid "L "Yeah, but looking at cosplay porn all day does."
     L "Yeah, but looking at cosplay porn all day does."
 
 # game/UpdateScript0.02.rpy:53## # translate crowdin cosplaywakeme_5db67a35:
-msgid "R "Well, whatever.... I like what I like."
+msgid "[R] Well, whatever.... I like what I like."
     R "Well, whatever.... I like what I like."
 
 # game/UpdateScript0.02.rpy:54## # translate crowdin cosplaywakeme_fda177c9:
-msgid "R "Does this conversation have a point?"
+msgid "[R] Does this conversation have a point?"
     R "Does this conversation have a point?"
 
 # game/UpdateScript0.02.rpy:55## # translate crowdin cosplaywakeme_e9db0b8c:
@@ -107,7 +107,7 @@ msgid "MD "Do you know how many views her Cosplay Heaven profile gets a day?"
     MD "Do you know how many views her Cosplay Heaven profile gets a day?"
 
 # game/UpdateScript0.02.rpy:56## # translate crowdin cosplaywakeme_664660fc:
-msgid "R "No, do you?"
+msgid "[R] No, do you?"
     R "No, do you?"
 
 # game/UpdateScript0.02.rpy:57## # translate crowdin cosplaywakeme_3e5fed85:
@@ -139,15 +139,15 @@ msgid "L "Well, what do you think?"
     L "Well, what do you think?"
 
 # game/UpdateScript0.02.rpy:69## # translate crowdin cosplaywakeme_d9dd96af:
-msgid "R "It's worth a shot I guess. I mean.... if.... and that's a big if..."
+msgid "[R] It's worth a shot I guess. I mean.... if.... and that's a big if..."
     R "It's worth a shot I guess. I mean.... if.... and that's a big if..."
 
 # game/UpdateScript0.02.rpy:72## # translate crowdin cosplaywakeme_ea1e7b4d:
-msgid "R "If you become internet famous..."
+msgid "[R] If you become internet famous..."
     R "If you become internet famous..."
 
 # game/UpdateScript0.02.rpy:73## # translate crowdin cosplaywakeme_90d42a8b:
-msgid "R "We might even be able to make some decent money so we can help Mom out of her situation with the Mafia."
+msgid "[R] We might even be able to make some decent money so we can help Mom out of her situation with the Mafia."
     R "We might even be able to make some decent money so we can help Mom out of her situation with the Mafia."
 
 # game/UpdateScript0.02.rpy:74## # translate crowdin cosplaywakeme_d78d5163:
@@ -155,19 +155,19 @@ msgid "L "For Mom? We want the money for ourselves!"
     L "For Mom? We want the money for ourselves!"
 
 # game/UpdateScript0.02.rpy:75## # translate crowdin cosplaywakeme_d02e821f:
-msgid "R "Oh come on! If Dad is in prison for as long as I think he's going to be, Mom's going to be in debt to the mob for the rest of her life."
+msgid "[R] Oh come on! If Dad is in prison for as long as I think he's going to be, Mom's going to be in debt to the mob for the rest of her life."
     R "Oh come on! If Dad is in prison for as long as I think he's going to be, Mom's going to be in debt to the mob for the rest of her life."
 
 # game/UpdateScript0.02.rpy:76## # translate crowdin cosplaywakeme_b43d0de9:
-msgid "R "I'm currently giving her everything I make to pay just the weekly interest on the debt."
+msgid "[R] I'm currently giving her everything I make to pay just the weekly interest on the debt."
     R "I'm currently giving her everything I make to pay just the weekly interest on the debt."
 
 # game/UpdateScript0.02.rpy:77## # translate crowdin cosplaywakeme_cba8efa6:
-msgid "R "The least you can do is help out a little bit."
+msgid "[R] The least you can do is help out a little bit."
     R "The least you can do is help out a little bit."
 
 # game/UpdateScript0.02.rpy:78## # translate crowdin cosplaywakeme_d8bfeb0c:
-msgid "R "And then once we've paid the Mafia everything Mom owes them, then we can use the money for ourselves."
+msgid "[R] And then once we've paid the Mafia everything Mom owes them, then we can use the money for ourselves."
     R "And then once we've paid the Mafia everything Mom owes them, then we can use the money for ourselves."
 
 # game/UpdateScript0.02.rpy:79## # translate crowdin cosplaywakeme_45b3fde3:
@@ -179,15 +179,15 @@ msgid "L "You think we're going to give you any?"
     L "You think we're going to give you any?"
 
 # game/UpdateScript0.02.rpy:81## # translate crowdin cosplaywakeme_35be0a21:
-msgid "R "If you want to succeed you better."
+msgid "[R] If you want to succeed you better."
     R "If you want to succeed you better."
 
 # game/UpdateScript0.02.rpy:82## # translate crowdin cosplaywakeme_a4504aeb:
-msgid "R "Besides just taking pictures, I know how to market you all over the internet so that you can actually get people to see your pictures, and then I know how to convert those views into money."
+msgid "[R] Besides just taking pictures, I know how to market you all over the internet so that you can actually get people to see your pictures, and then I know how to convert those views into money."
     R "Besides just taking pictures, I know how to market you all over the internet so that you can actually get people to see your pictures, and then I know how to convert those views into money."
 
 # game/UpdateScript0.02.rpy:83## # translate crowdin cosplaywakeme_cd3bc2d7:
-msgid "R "So, if you want to be successful, you're going to have to let me manage everything."
+msgid "[R] So, if you want to be successful, you're going to have to let me manage everything."
     R "So, if you want to be successful, you're going to have to let me manage everything."
 
 # game/UpdateScript0.02.rpy:86## # translate crowdin cosplaywakeme_b9966199:
@@ -207,15 +207,15 @@ msgid "L "And your little ass looks so good from behind in your outfit!"
     L "And your little ass looks so good from behind in your outfit!"
 
 # game/UpdateScript0.02.rpy:94## # translate crowdin cosplaywakeme_dd51fcc2:
-msgid "R "We've just got to get Sidney on board with making us more costumes."
+msgid "[R] We've just got to get Sidney on board with making us more costumes."
     R "We've just got to get Sidney on board with making us more costumes."
 
 # game/UpdateScript0.02.rpy:95## # translate crowdin cosplaywakeme_151da0bf:
-msgid "R "She told me you can sell them for quite a bit more than you can make them for."
+msgid "[R] She told me you can sell them for quite a bit more than you can make them for."
     R "She told me you can sell them for quite a bit more than you can make them for."
 
 # game/UpdateScript0.02.rpy:96## # translate crowdin cosplaywakeme_1ae38e63:
-msgid "R "Maybe we could make money off of selling the outfits as well."
+msgid "[R] Maybe we could make money off of selling the outfits as well."
     R "Maybe we could make money off of selling the outfits as well."
 
 # game/UpdateScript0.02.rpy:97## # translate crowdin cosplaywakeme_d9edd3c2:
@@ -235,15 +235,15 @@ msgid "L "That's what she's going to school for after all."
     L "That's what she's going to school for after all."
 
 # game/UpdateScript0.02.rpy:101## # translate crowdin cosplaywakeme_f5ebaf56:
-msgid "R "All right, let's do this!"
+msgid "[R] All right, let's do this!"
     R "All right, let's do this!"
 
 # game/UpdateScript0.02.rpy:102## # translate crowdin cosplaywakeme_1ed871fc:
-msgid "R "And for my first decision as manager, is that we are going to go take some pictures at Dad's warehouse."
+msgid "[R] And for my first decision as manager, is that we are going to go take some pictures at Dad's warehouse."
     R "And for my first decision as manager, is that we are going to go take some pictures at Dad's warehouse."
 
 # game/UpdateScript0.02.rpy:106## # translate crowdin cosplaywakeme_9cdbcfe4:
-msgid "R "What?!"
+msgid "[R] What?!"
     R "What?!"
 
 # game/UpdateScript0.02.rpy:107## # translate crowdin cosplaywakeme_e8bdd752:
@@ -255,19 +255,19 @@ msgid "MD "Mom and I only go there every once in a while to pick up Dad from wor
     MD "Mom and I only go there every once in a while to pick up Dad from work. But even then, all the men just stare at us, and undress us with their eyes."
 
 # game/UpdateScript0.02.rpy:109## # translate crowdin cosplaywakeme_74af002e:
-msgid "R "Well, don't worry. There's an empty building where we can find some privacy, and there's a lot less workers there since the FBI has been investigating."
+msgid "[R] Well, don't worry. There's an empty building where we can find some privacy, and there's a lot less workers there since the FBI has been investigating."
     R "Well, don't worry. There's an empty building where we can find some privacy, and there's a lot less workers there since the FBI has been investigating."
 
 # game/UpdateScript0.02.rpy:111## # translate crowdin cosplaywakeme_0ef1987f:
-msgid "R "I hope you don't mind missing a day of school to go take these pictures."
+msgid "[R] I hope you don't mind missing a day of school to go take these pictures."
     R "I hope you don't mind missing a day of school to go take these pictures."
 
 # game/UpdateScript0.02.rpy:113## # translate crowdin cosplaywakeme_d5f0c888:
-msgid "R "I hope you don't mind spending your Saturday taking pictures."
+msgid "[R] I hope you don't mind spending your Saturday taking pictures."
     R "I hope you don't mind spending your Saturday taking pictures."
 
 # game/UpdateScript0.02.rpy:115## # translate crowdin cosplaywakeme_8ca7da98:
-msgid "R "I hope you don't mind spending your Sunday taking pictures."
+msgid "[R] I hope you don't mind spending your Sunday taking pictures."
     R "I hope you don't mind spending your Sunday taking pictures."
 
 # game/UpdateScript0.02.rpy:118## # translate crowdin cosplaywakeme_80dfa9b6:
@@ -283,7 +283,7 @@ msgid "L "Hehehehehe."
     L "Hehehehehe."
 
 # game/UpdateScript0.02.rpy:123## # translate crowdin cosplaywakeme_53578f72:
-msgid "R "Ok, give me the costumes and I'll bring them over there on my scooter. You guys jump on your bikes and meet me over there."
+msgid "[R] Ok, give me the costumes and I'll bring them over there on my scooter. You guys jump on your bikes and meet me over there."
     R "Ok, give me the costumes and I'll bring them over there on my scooter. You guys jump on your bikes and meet me over there."
 
 # game/UpdateScript0.02.rpy:126## # translate crowdin cosplaywakeme_c5faa3c4:
@@ -291,7 +291,7 @@ msgid "MD "Ok, we'll just leave you and little [ryan] to get ready, and we'll se
     MD "Ok, we'll just leave you and little [ryan] to get ready, and we'll see you over there in 30 minutes!"
 
 # game/UpdateScript0.02.rpy:127## # translate crowdin cosplaywakeme_337b152c:
-msgid "R "Little [ryan]? Why didn't you tell me I was hanging out?"
+msgid "[R] Little [ryan]? Why didn't you tell me I was hanging out?"
     R "Little [ryan]? Why didn't you tell me I was hanging out?"
 
 # game/UpdateScript0.02.rpy:128## # translate crowdin cosplaywakeme_7fb9b7ee:
@@ -299,7 +299,7 @@ msgid "L "Yeah right! Like you didn't know..."
     L "Yeah right! Like you didn't know..."
 
 # game/UpdateScript0.02.rpy:129## # translate crowdin cosplaywakeme_ea33fa1e:
-msgid "R "I didn't!"
+msgid "[R] I didn't!"
     R "I didn't!"
 
 # game/UpdateScript0.02.rpy:130## # translate crowdin cosplaywakeme_2e88b790:
@@ -319,7 +319,7 @@ msgid "MD "Well, whatever, we'll see you over there. And feel free to bring litt
     MD "Well, whatever, we'll see you over there. And feel free to bring little [ryan] along too."
 
 # game/UpdateScript0.02.rpy:137## # translate crowdin cosplaywakeme_9d9bc28b:
-msgid "R "Well, I don't go anywhere without him. We'll see you there soon."
+msgid "[R] Well, I don't go anywhere without him. We'll see you there soon."
     R "Well, I don't go anywhere without him. We'll see you there soon."
 
 # game/UpdateScript0.02.rpy:140## # translate crowdin cosplaywakeme_d68a65ad:
@@ -363,7 +363,7 @@ msgid "RT "{i}Ok, I've got to just login with my username and password and we'll
     RT "{i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
 
 # game/UpdateScript0.02.rpy:177## # translate crowdin checkforlikes_213638a4:
-msgid "R "Oh, hey Lauren, what's up?"
+msgid "[R] Oh, hey Lauren, what's up?"
     R "Oh, hey Lauren, what's up?"
 
 # game/UpdateScript0.02.rpy:179## # translate crowdin checkforlikes_5fa12a12:
@@ -375,11 +375,11 @@ msgid "L "Hey [ryan], I just came to see if you'd posted those pictures online y
     L "Hey [ryan], I just came to see if you'd posted those pictures online yet."
 
 # game/UpdateScript0.02.rpy:182## # translate crowdin checkforlikes_c29fb562:
-msgid "R "What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
+msgid "[R] What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
     R "What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
 
 # game/UpdateScript0.02.rpy:183## # translate crowdin checkforlikes_80266054:
-msgid "R "Why don't we take a look together?"
+msgid "[R] Why don't we take a look together?"
     R "Why don't we take a look together?"
 
 # game/UpdateScript0.02.rpy:186## # translate crowdin checkforlikes_478edcd7:
@@ -387,7 +387,7 @@ msgid "L "Why did you post all of Mandy's pictures above mine?"
     L "Why did you post all of Mandy's pictures above mine?"
 
 # game/UpdateScript0.02.rpy:187## # translate crowdin checkforlikes_c8152339:
-msgid "R "I didn't, they are just appearing in the order that received the most likes."
+msgid "[R] I didn't, they are just appearing in the order that received the most likes."
     R "I didn't, they are just appearing in the order that received the most likes."
 
 # game/UpdateScript0.02.rpy:188## # translate crowdin checkforlikes_d08fe08e:
@@ -395,7 +395,7 @@ msgid "L "Wait.... what!?.... Mandy's pictures got more likes than mine?"
     L "Wait.... what!?.... Mandy's pictures got more likes than mine?"
 
 # game/UpdateScript0.02.rpy:191## # translate crowdin checkforlikes_ba194ca7:
-msgid "R "Well yeah, because Mandy took better pictures than you did."
+msgid "[R] Well yeah, because Mandy took better pictures than you did."
     R "Well yeah, because Mandy took better pictures than you did."
 
 # game/UpdateScript0.02.rpy:192## # translate crowdin checkforlikes_ce7fb1eb:
@@ -403,11 +403,11 @@ msgid "L "By better, you mean more revealing."
     L "By better, you mean more revealing."
 
 # game/UpdateScript0.02.rpy:193## # translate crowdin checkforlikes_202a3671:
-msgid "R "Of course I do, look."
+msgid "[R] Of course I do, look."
     R "Of course I do, look."
 
 # game/UpdateScript0.02.rpy:196## # translate crowdin checkforlikes_7a6d7fb0:
-msgid "R "All of the pictures where she showed more skin than you, she got more likes."
+msgid "[R] All of the pictures where she showed more skin than you, she got more likes."
     R "All of the pictures where she showed more skin than you, she got more likes."
 
 # game/UpdateScript0.02.rpy:197## # translate crowdin checkforlikes_912eda6b:
@@ -415,15 +415,15 @@ msgid "L "That slut!"
     L "That slut!"
 
 # game/UpdateScript0.02.rpy:198## # translate crowdin checkforlikes_f852436a:
-msgid "R "She's just willing to do what it takes to get internet famous."
+msgid "[R] She's just willing to do what it takes to get internet famous."
     R "She's just willing to do what it takes to get internet famous."
 
 # game/UpdateScript0.02.rpy:199## # translate crowdin checkforlikes_b39c8d5a:
-msgid "R "If you'd listened to me at the photoshoot, your photos would have gotten more likes than hers."
+msgid "[R] If you'd listened to me at the photoshoot, your photos would have gotten more likes than hers."
     R "If you'd listened to me at the photoshoot, your photos would have gotten more likes than hers."
 
 # game/UpdateScript0.02.rpy:200## # translate crowdin checkforlikes_763ee3ff:
-msgid "R "See in the ones of hers that aren't showing as much skin, your pics did better."
+msgid "[R] See in the ones of hers that aren't showing as much skin, your pics did better."
     R "See in the ones of hers that aren't showing as much skin, your pics did better."
 
 # game/UpdateScript0.02.rpy:203## # translate crowdin checkforlikes_cdc8c3c4:
@@ -435,7 +435,7 @@ msgid "L "I'll try to be better at following your guidance. Sorry, I just though
     L "I'll try to be better at following your guidance. Sorry, I just thought you were being a perv."
 
 # game/UpdateScript0.02.rpy:205## # translate crowdin checkforlikes_d76cb04e:
-msgid "R "I just want to see this venture succeed. I would love to help Mom pay off her debt."
+msgid "[R] I just want to see this venture succeed. I would love to help Mom pay off her debt."
     R "I just want to see this venture succeed. I would love to help Mom pay off her debt."
 
 # game/UpdateScript0.02.rpy:206## # translate crowdin checkforlikes_1ffebffc:
@@ -447,7 +447,7 @@ msgid "L "Ok, I'll try harder next time, but don't push me too hard or I'll end 
     L "Ok, I'll try harder next time, but don't push me too hard or I'll end the shoot."
 
 # game/UpdateScript0.02.rpy:209## # translate crowdin checkforlikes_83210ad8:
-msgid "R "Ok, just as long as you're willing to be a bit open minded, and not just assume I'm trying to get just a bunch of eye candy for myself."
+msgid "[R] Ok, just as long as you're willing to be a bit open minded, and not just assume I'm trying to get just a bunch of eye candy for myself."
     R "Ok, just as long as you're willing to be a bit open minded, and not just assume I'm trying to get just a bunch of eye candy for myself."
 
 # game/UpdateScript0.02.rpy:210## # translate crowdin checkforlikes_ee20818f:
@@ -455,11 +455,11 @@ msgid "L "It is eye candy though isn't it? I mean Mandy and I look really hot."
     L "It is eye candy though isn't it? I mean Mandy and I look really hot."
 
 # game/UpdateScript0.02.rpy:211## # translate crowdin checkforlikes_9fcd8b2d:
-msgid "R "Yeah, you guys did good. And if we were to get some professional equipment, like lighting, or a backdrop, or more stuff like that. Your pictures will be amazing!"
+msgid "[R] Yeah, you guys did good. And if we were to get some professional equipment, like lighting, or a backdrop, or more stuff like that. Your pictures will be amazing!"
     R "Yeah, you guys did good. And if we were to get some professional equipment, like lighting, or a backdrop, or more stuff like that. Your pictures will be amazing!"
 
 # game/UpdateScript0.02.rpy:212## # translate crowdin checkforlikes_0e15c0c6:
-msgid "R "I think you girls could just pull this off."
+msgid "[R] I think you girls could just pull this off."
     R "I think you girls could just pull this off."
 
 # game/UpdateScript0.02.rpy:213## # translate crowdin checkforlikes_e82f728d:
@@ -951,7 +951,7 @@ msgid "ST "{i}I wonder if I.... {/i}"
     ST "{i}I wonder if I.... {/i}"
 
 # game/UpdateScript0.02.rpy:564## # translate crowdin sidneysleepswithryan_c471307d:
-msgid "R "Hnnnngggghhhh..."
+msgid "[R] Hnnnngggghhhh..."
     R "Hnnnngggghhhh..."
 
 # game/UpdateScript0.02.rpy:570## # translate crowdin sidneysleepswithryan_1aa6c33c:
@@ -1211,7 +1211,7 @@ msgid "S "Pssstttt.... hey, [ryan].... are you awake?"
     S "Pssstttt.... hey, [ryan].... are you awake?"
 
 # game/UpdateScript0.02.rpy:714## # translate crowdin sidneysleepswithryan_85444fff:
-msgid "R "Hey, Sidney. What are you doing in my room in the middle of the night?"
+msgid "[R] Hey, Sidney. What are you doing in my room in the middle of the night?"
     R "Hey, Sidney. What are you doing in my room in the middle of the night?"
 
 # game/UpdateScript0.02.rpy:715## # translate crowdin sidneysleepswithryan_3de9b6a5:
@@ -1219,11 +1219,11 @@ msgid "S "You said I could come wake you if I heard any noises in the night."
     S "You said I could come wake you if I heard any noises in the night."
 
 # game/UpdateScript0.02.rpy:716## # translate crowdin sidneysleepswithryan_8bb14c49:
-msgid "R "Yeah, I remember."
+msgid "[R] Yeah, I remember."
     R "Yeah, I remember."
 
 # game/UpdateScript0.02.rpy:717## # translate crowdin sidneysleepswithryan_008982ff:
-msgid "R "But I checked things out and didn't see anything."
+msgid "[R] But I checked things out and didn't see anything."
     R "But I checked things out and didn't see anything."
 
 # game/UpdateScript0.02.rpy:718## # translate crowdin sidneysleepswithryan_20ccbff5:
@@ -1235,7 +1235,7 @@ msgid "S "Do you mind if I sleep in here so I'm not alone?"
     S "Do you mind if I sleep in here so I'm not alone?"
 
 # game/UpdateScript0.02.rpy:720## # translate crowdin sidneysleepswithryan_5dfd6ffb:
-msgid "R "Well, why don't you sleep with Lauren or Mom?"
+msgid "[R] Well, why don't you sleep with Lauren or Mom?"
     R "Well, why don't you sleep with Lauren or Mom?"
 
 # game/UpdateScript0.02.rpy:721## # translate crowdin sidneysleepswithryan_fd3d2a9a:
@@ -1247,7 +1247,7 @@ msgid "S ".... Umm.... I uh.... just feel safer with you."
     S ".... Umm.... I uh.... just feel safer with you."
 
 # game/UpdateScript0.02.rpy:723## # translate crowdin sidneysleepswithryan_57d56fd5:
-msgid "R "You said you think Mom is probably stronger than me."
+msgid "[R] You said you think Mom is probably stronger than me."
     R "You said you think Mom is probably stronger than me."
 
 # game/UpdateScript0.02.rpy:724## # translate crowdin sidneysleepswithryan_693b9a45:
@@ -1255,11 +1255,11 @@ msgid "S "Yeah, well.... I was just being a bratty sister."
     S "Yeah, well.... I was just being a bratty sister."
 
 # game/UpdateScript0.02.rpy:725## # translate crowdin sidneysleepswithryan_c2d0b757:
-msgid "R "Well, as long as you're willing to admit that, than I guess I'll let you sleep in here with me."
+msgid "[R] Well, as long as you're willing to admit that, than I guess I'll let you sleep in here with me."
     R "Well, as long as you're willing to admit that, than I guess I'll let you sleep in here with me."
 
 # game/UpdateScript0.02.rpy:726## # translate crowdin sidneysleepswithryan_99dc2208:
-msgid "R "But don't you usually sleep in your panties?"
+msgid "[R] But don't you usually sleep in your panties?"
     R "But don't you usually sleep in your panties?"
 
 # game/UpdateScript0.02.rpy:727## # translate crowdin sidneysleepswithryan_765d1948:
@@ -1267,11 +1267,11 @@ msgid "S "Yeah, well I'd be an idiot to sleep with a suspected pervert in nothin
     S "Yeah, well I'd be an idiot to sleep with a suspected pervert in nothing but my panties wouldn't I?"
 
 # game/UpdateScript0.02.rpy:728## # translate crowdin sidneysleepswithryan_52a3f1b5:
-msgid "R "Oh, hardy har har!"
+msgid "[R] Oh, hardy har har!"
     R "Oh, hardy har har!"
 
 # game/UpdateScript0.02.rpy:729## # translate crowdin sidneysleepswithryan_b683f14f:
-msgid "R "I'm not a pervert."
+msgid "[R] I'm not a pervert."
     R "I'm not a pervert."
 
 # game/UpdateScript0.02.rpy:730## # translate crowdin sidneysleepswithryan_cbfe80c4:
@@ -1283,19 +1283,19 @@ msgid "S "(Just stares at you)"
     S "(Just stares at you)"
 
 # game/UpdateScript0.02.rpy:732## # translate crowdin sidneysleepswithryan_d5bd3beb:
-msgid "R "Ok, maybe just a little teenage curiosity."
+msgid "[R] Ok, maybe just a little teenage curiosity."
     R "Ok, maybe just a little teenage curiosity."
 
 # game/UpdateScript0.02.rpy:733## # translate crowdin sidneysleepswithryan_f6f03be6:
-msgid "R "But don't worry, I'm a very deep sleeper."
+msgid "[R] But don't worry, I'm a very deep sleeper."
     R "But don't worry, I'm a very deep sleeper."
 
 # game/UpdateScript0.02.rpy:734## # translate crowdin sidneysleepswithryan_84b67126:
-msgid "R "I take melatonin at night to help me sleep."
+msgid "[R] I take melatonin at night to help me sleep."
     R "I take melatonin at night to help me sleep."
 
 # game/UpdateScript0.02.rpy:735## # translate crowdin sidneysleepswithryan_f6288fcd:
-msgid "R "You should try it."
+msgid "[R] You should try it."
     R "You should try it."
 
 # game/UpdateScript0.02.rpy:736## # translate crowdin sidneysleepswithryan_4684d31e:
@@ -1311,7 +1311,7 @@ msgid "S "So, will you scoot over and let me sleep with you? I'm pretty tired."
     S "So, will you scoot over and let me sleep with you? I'm pretty tired."
 
 # game/UpdateScript0.02.rpy:739## # translate crowdin sidneysleepswithryan_af2d31f1:
-msgid "R "Ok.... I guess.... but you owe me."
+msgid "[R] Ok.... I guess.... but you owe me."
     R "Ok.... I guess.... but you owe me."
 
 # game/UpdateScript0.02.rpy:740## # translate crowdin sidneysleepswithryan_7bfa39f3:
@@ -1319,7 +1319,7 @@ msgid "S "Owe you what?"
     S "Owe you what?"
 
 # game/UpdateScript0.02.rpy:741## # translate crowdin sidneysleepswithryan_96492c77:
-msgid "R "I don't know, I'll think of something."
+msgid "[R] I don't know, I'll think of something."
     R "I don't know, I'll think of something."
 
 # game/UpdateScript0.02.rpy:742## # translate crowdin sidneysleepswithryan_ebdd0137:
@@ -1331,7 +1331,7 @@ msgid "S "Oh, and honey?"
     S "Oh, and honey?"
 
 # game/UpdateScript0.02.rpy:744## # translate crowdin sidneysleepswithryan_95428694:
-msgid "R "Yeah?"
+msgid "[R] Yeah?"
     R "Yeah?"
 
 # game/UpdateScript0.02.rpy:745## # translate crowdin sidneysleepswithryan_21c413ba:
@@ -1339,7 +1339,7 @@ msgid "S "Don't tell Mom or Lauren that I'm sleeping with you."
     S "Don't tell Mom or Lauren that I'm sleeping with you."
 
 # game/UpdateScript0.02.rpy:746## # translate crowdin sidneysleepswithryan_ca7e84a9:
-msgid "R "Why not?"
+msgid "[R] Why not?"
     R "Why not?"
 
 # game/UpdateScript0.02.rpy:747## # translate crowdin sidneysleepswithryan_746649e3:
@@ -1355,7 +1355,7 @@ msgid "S "Promise not to tell."
     S "Promise not to tell."
 
 # game/UpdateScript0.02.rpy:750## # translate crowdin sidneysleepswithryan_8eeb8580:
-msgid "R "Ok, I can do that."
+msgid "[R] Ok, I can do that."
     R "Ok, I can do that."
 
 # game/UpdateScript0.02.rpy:753## # translate crowdin sidneysleepswithryan_15102bf4:
@@ -1395,15 +1395,15 @@ msgid "S "Are you here to kill me?"
     S "Are you here to kill me?"
 
 # game/UpdateScript0.02.rpy:779## # translate crowdin getsidneyoffthecouch_032216cf:
-msgid "R "Oh, haha.... sorry to wake you, I didn't mean to drop my bat."
+msgid "[R] Oh, haha.... sorry to wake you, I didn't mean to drop my bat."
     R "Oh, haha.... sorry to wake you, I didn't mean to drop my bat."
 
 # game/UpdateScript0.02.rpy:780## # translate crowdin getsidneyoffthecouch_6e9da006:
-msgid "R "I was just checking the house to make sure everything is safe."
+msgid "[R] I was just checking the house to make sure everything is safe."
     R "I was just checking the house to make sure everything is safe."
 
 # game/UpdateScript0.02.rpy:781## # translate crowdin getsidneyoffthecouch_b8754f0e:
-msgid "R "I heard some noises around the house like someone was sneaking around."
+msgid "[R] I heard some noises around the house like someone was sneaking around."
     R "I heard some noises around the house like someone was sneaking around."
 
 # game/UpdateScript0.02.rpy:782## # translate crowdin getsidneyoffthecouch_b7784451:
@@ -1411,15 +1411,15 @@ msgid "S "It was probably just Mom or Lauren using the bathroom."
     S "It was probably just Mom or Lauren using the bathroom."
 
 # game/UpdateScript0.02.rpy:783## # translate crowdin getsidneyoffthecouch_7dcbd9c7:
-msgid "R "It wasn't, I already checked on them."
+msgid "[R] It wasn't, I already checked on them."
     R "It wasn't, I already checked on them."
 
 # game/UpdateScript0.02.rpy:784## # translate crowdin getsidneyoffthecouch_f36dae0c:
-msgid "R "It sounded more like a window opening and closing, and booted footsteps sneaking around in this room."
+msgid "[R] It sounded more like a window opening and closing, and booted footsteps sneaking around in this room."
     R "It sounded more like a window opening and closing, and booted footsteps sneaking around in this room."
 
 # game/UpdateScript0.02.rpy:785## # translate crowdin getsidneyoffthecouch_b8a262d4:
-msgid "R "Did you see or hear anything?"
+msgid "[R] Did you see or hear anything?"
     R "Did you see or hear anything?"
 
 # game/UpdateScript0.02.rpy:786## # translate crowdin getsidneyoffthecouch_fe3ad1d5:
@@ -1427,11 +1427,11 @@ msgid "S "No, are you sure you heard these noises?"
     S "No, are you sure you heard these noises?"
 
 # game/UpdateScript0.02.rpy:787## # translate crowdin getsidneyoffthecouch_f5928a3b:
-msgid "R "Not completely, but with everything that's going on with the Mafia and the FBI, I thought it's very possible for either of them to be sneaking around in here."
+msgid "[R] Not completely, but with everything that's going on with the Mafia and the FBI, I thought it's very possible for either of them to be sneaking around in here."
     R "Not completely, but with everything that's going on with the Mafia and the FBI, I thought it's very possible for either of them to be sneaking around in here."
 
 # game/UpdateScript0.02.rpy:788## # translate crowdin getsidneyoffthecouch_0f1badd1:
-msgid "R "Just the thought of them sneaking around and spying on us in our underwear as we sleep motivated me to grab a bat and come check things out."
+msgid "[R] Just the thought of them sneaking around and spying on us in our underwear as we sleep motivated me to grab a bat and come check things out."
     R "Just the thought of them sneaking around and spying on us in our underwear as we sleep motivated me to grab a bat and come check things out."
 
 # game/UpdateScript0.02.rpy:789## # translate crowdin getsidneyoffthecouch_7b04cafc:
@@ -1439,7 +1439,7 @@ msgid "S "Well, go back to sleep, I'm sure you were just imagining things."
     S "Well, go back to sleep, I'm sure you were just imagining things."
 
 # game/UpdateScript0.02.rpy:790## # translate crowdin getsidneyoffthecouch_f26ad90f:
-msgid "R "Ok, but if you hear anything, come and tell me, ok?"
+msgid "[R] Ok, but if you hear anything, come and tell me, ok?"
     R "Ok, but if you hear anything, come and tell me, ok?"
 
 # game/UpdateScript0.02.rpy:791## # translate crowdin getsidneyoffthecouch_0839905c:
@@ -1447,7 +1447,7 @@ msgid "S "Yeah right, I think I'd go tell Mom she's probably stronger than you."
     S "Yeah right, I think I'd go tell Mom she's probably stronger than you."
 
 # game/UpdateScript0.02.rpy:792## # translate crowdin getsidneyoffthecouch_e6619df8:
-msgid "R "No, she's not!"
+msgid "[R] No, she's not!"
     R "No, she's not!"
 
 # game/UpdateScript0.02.rpy:793## # translate crowdin getsidneyoffthecouch_92db5806:
@@ -1455,7 +1455,7 @@ msgid "S "Ok whatever, just go back to sleep."
     S "Ok whatever, just go back to sleep."
 
 # game/UpdateScript0.02.rpy:794## # translate crowdin getsidneyoffthecouch_5d602c8a:
-msgid "R "Ok, goodnight."
+msgid "[R] Ok, goodnight."
     R "Ok, goodnight."
 
 # game/UpdateScript0.02.rpy:797## # translate crowdin getsidneyoffthecouch_29927f2a:
@@ -1499,7 +1499,7 @@ msgid "S "Hey [ryan], what can I do for you?"
     S "Hey [ryan], what can I do for you?"
 
 # game/UpdateScript0.02.rpy:821## # translate crowdin givesidneymoneyforcosplay_e2069dcd:
-msgid "R "I've got the money for Lauren's cosplay outfit."
+msgid "[R] I've got the money for Lauren's cosplay outfit."
     R "I've got the money for Lauren's cosplay outfit."
 
 # game/UpdateScript0.02.rpy:824## # translate crowdin givesidneymoneyforcosplay_1a471edc:
@@ -1507,7 +1507,7 @@ msgid "S "Are you sure? Aren't you supposed to be saving up to pay the DeCapos a
     S "Are you sure? Aren't you supposed to be saving up to pay the DeCapos at the end of the week?"
 
 # game/UpdateScript0.02.rpy:827## # translate crowdin givesidneymoneyforcosplay_98c19aa7:
-msgid "R "I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
+msgid "[R] I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
     R "I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
 
 # game/UpdateScript0.02.rpy:828## # translate crowdin givesidneymoneyforcosplay_43a49173:
@@ -1523,7 +1523,7 @@ msgid "{i}\"Money - $400\"{/i}"
 msgstr "{i}\"Money - $400\"{/i}"
 
 # game/UpdateScript0.02.rpy:834## # translate crowdin givesidneymoneyforcosplay_0770ae02:
-msgid "R "Why should I be the one responsible to pay off the debt every week, Mom can help out too."
+msgid "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
     R "Why should I be the one responsible to pay off the debt every week, Mom can help out too."
 
 # game/UpdateScript0.02.rpy:835## # translate crowdin givesidneymoneyforcosplay_25d608c0:
@@ -1531,7 +1531,7 @@ msgid "S "Yeah, well I guess it's your money. You earned it. If you'd rather pay
     S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
 
 # game/UpdateScript0.02.rpy:836## # translate crowdin givesidneymoneyforcosplay_13b30cdc:
-msgid "R "Oh please, our mom isn't in any danger."
+msgid "[R] Oh please, our mom isn't in any danger."
     R "Oh please, our mom isn't in any danger."
 
 # game/UpdateScript0.02.rpy:837## # translate crowdin givesidneymoneyforcosplay_3e143f5a_1:
@@ -1539,7 +1539,7 @@ msgid "{i}\"Money - $400\"{/i}"
 msgstr "{i}\"Money - $400\"{/i}"
 
 # game/UpdateScript0.02.rpy:844## # translate crowdin givesidneymoneyforcosplay_10adc244:
-msgid "R "So, how long will it take to finish?"
+msgid "[R] So, how long will it take to finish?"
     R "So, how long will it take to finish?"
 
 # game/UpdateScript0.02.rpy:845## # translate crowdin givesidneymoneyforcosplay_9c41c972:
@@ -1547,7 +1547,7 @@ msgid "S "Give me a couple days and then I'll have it ready for fitting on Laure
     S "Give me a couple days and then I'll have it ready for fitting on Lauren."
 
 # game/UpdateScript0.02.rpy:847## # translate crowdin givesidneymoneyforcosplay_49b61397:
-msgid "R "Awesome, I can't wait!"
+msgid "[R] Awesome, I can't wait!"
     R "Awesome, I can't wait!"
 
 # game/UpdateScript0.02.rpy:850## # translate crowdin givesidneymoneyforcosplay_3300138e:
@@ -1555,7 +1555,7 @@ msgid "S "Haha, I'll bet you can't."
     S "Haha, I'll bet you can't."
 
 # game/UpdateScript0.02.rpy:851## # translate crowdin givesidneymoneyforcosplay_0e82cd39:
-msgid "R "What's that supposed to mean?"
+msgid "[R] What's that supposed to mean?"
     R "What's that supposed to mean?"
 
 # game/UpdateScript0.02.rpy:854## # translate crowdin givesidneymoneyforcosplay_9948524c:
@@ -1579,15 +1579,15 @@ msgid "RT "{i}Or could she really be this clueless.{/i}"
     RT "{i}Or could she really be this clueless.{/i}"
 
 # game/UpdateScript0.02.rpy:859## # translate crowdin givesidneymoneyforcosplay_efe68f93:
-msgid "R "Whatever.... I'll just check back in a few days to see if you're done."
+msgid "[R] Whatever.... I'll just check back in a few days to see if you're done."
     R "Whatever.... I'll just check back in a few days to see if you're done."
 
 # game/UpdateScript0.02.rpy:868## # translate crowdin kitchencosplayfitting_fe673b46:
-msgid "R "Oh hey, it's cousin Mandy! That outfit looks incredible."
+msgid "[R] Oh hey, it's cousin Mandy! That outfit looks incredible."
     R "Oh hey, it's cousin Mandy! That outfit looks incredible."
 
 # game/UpdateScript0.02.rpy:869## # translate crowdin kitchencosplayfitting_6b44da10:
-msgid "R "You look just like Novina from \"SolarCraft\"!"
+msgid "[R] You look just like Novina from \"SolarCraft\"!"
     R "You look just like Novina from \"SolarCraft\"!"
 
 # game/UpdateScript0.02.rpy:870## # translate crowdin kitchencosplayfitting_e5f2ef1e:
@@ -1595,11 +1595,11 @@ msgid "MD "Thanks! Sidney made it for me weeks ago. She really did do an incredi
     MD "Thanks! Sidney made it for me weeks ago. She really did do an incredible job!"
 
 # game/UpdateScript0.02.rpy:871## # translate crowdin kitchencosplayfitting_b220d106:
-msgid "R "I'll say, and Lauren's outfit must be Penny Roberson from \"Missing in Space\". Way to pick the sexiest red-head on TV!"
+msgid "[R] I'll say, and Lauren's outfit must be Penny Roberson from \"Missing in Space\". Way to pick the sexiest red-head on TV!"
     R "I'll say, and Lauren's outfit must be Penny Roberson from \"Missing in Space\". Way to pick the sexiest red-head on TV!"
 
 # game/UpdateScript0.02.rpy:872## # translate crowdin kitchencosplayfitting_811748a6:
-msgid "R "Though I must say, this costume is a little sexier than the one she wears."
+msgid "[R] Though I must say, this costume is a little sexier than the one she wears."
     R "Though I must say, this costume is a little sexier than the one she wears."
 
 # game/UpdateScript0.02.rpy:873## # translate crowdin kitchencosplayfitting_e9a7686f:
@@ -1607,7 +1607,7 @@ msgid "L "Haha, you idiot."
     L "Haha, you idiot."
 
 # game/UpdateScript0.02.rpy:874## # translate crowdin kitchencosplayfitting_332d1626:
-msgid "R "Why didn't you tell me the outfits were done?"
+msgid "[R] Why didn't you tell me the outfits were done?"
     R "Why didn't you tell me the outfits were done?"
 
 # game/UpdateScript0.02.rpy:875## # translate crowdin kitchencosplayfitting_d76846e9:
@@ -1615,7 +1615,7 @@ msgid "S "I was going to get them all fitted and then come and find you."
     S "I was going to get them all fitted and then come and find you."
 
 # game/UpdateScript0.02.rpy:876## # translate crowdin kitchencosplayfitting_8795c0d6:
-msgid "R "They look great!"
+msgid "[R] They look great!"
     R "They look great!"
 
 # game/UpdateScript0.02.rpy:877## # translate crowdin kitchencosplayfitting_2284e9ab:
@@ -1631,7 +1631,7 @@ msgid "L "Really? Why did you do that?"
     L "Really? Why did you do that?"
 
 # game/UpdateScript0.02.rpy:880## # translate crowdin kitchencosplayfitting_624c4ec8:
-msgid "R "Because it's what Dad would have done."
+msgid "[R] Because it's what Dad would have done."
     R "Because it's what Dad would have done."
 
 # game/UpdateScript0.02.rpy:881## # translate crowdin kitchencosplayfitting_0c9dd8fb:
@@ -1655,11 +1655,11 @@ msgid "L "Haha, did you really just want to check out my ass?"
     L "Haha, did you really just want to check out my ass?"
 
 # game/UpdateScript0.02.rpy:889## # translate crowdin kitchencosplayfitting_cc948361:
-msgid "R "Of course not! I didn't even know what outfit Sidney was going to make for you."
+msgid "[R] Of course not! I didn't even know what outfit Sidney was going to make for you."
     R "Of course not! I didn't even know what outfit Sidney was going to make for you."
 
 # game/UpdateScript0.02.rpy:890## # translate crowdin kitchencosplayfitting_43432614:
-msgid "R "And even if she'd told me, Penny's outfit on the show doesn't quite show off her ass like that."
+msgid "[R] And even if she'd told me, Penny's outfit on the show doesn't quite show off her ass like that."
     R "And even if she'd told me, Penny's outfit on the show doesn't quite show off her ass like that."
 
 # game/UpdateScript0.02.rpy:891## # translate crowdin kitchencosplayfitting_a6d94eb3:
@@ -1671,7 +1671,7 @@ msgid "L "Ok, so how does it look from the front?"
     L "Ok, so how does it look from the front?"
 
 # game/UpdateScript0.02.rpy:903## # translate crowdin kitchencosplayfitting_54514568:
-msgid "R "Ummmm.... uuhh.... really great!"
+msgid "[R] Ummmm.... uuhh.... really great!"
     R "Ummmm.... uuhh.... really great!"
 
 # game/UpdateScript0.02.rpy:904## # translate crowdin kitchencosplayfitting_3b8d8dcc:
@@ -1691,7 +1691,7 @@ msgid "MD "Don't worry too much. The best stuff doesn't happen until night anywa
     MD "Don't worry too much. The best stuff doesn't happen until night anyways."
 
 # game/UpdateScript0.02.rpy:908## # translate crowdin kitchencosplayfitting_1c395cc9:
-msgid "R "Well, before you go, let's see you strike a pose."
+msgid "[R] Well, before you go, let's see you strike a pose."
     R "Well, before you go, let's see you strike a pose."
 
 # game/UpdateScript0.02.rpy:909## # translate crowdin kitchencosplayfitting_78abbc18:
@@ -1699,7 +1699,7 @@ msgid "L "Ok.... fine.... but really quick."
     L "Ok.... fine.... but really quick."
 
 # game/UpdateScript0.02.rpy:912## # translate crowdin kitchencosplayfitting_7b1be420:
-msgid "R "Haha.... ok.... nice!.... That's just how you need to pose for the creepy fanboys that will want to take pictures of you."
+msgid "[R] Haha.... ok.... nice!.... That's just how you need to pose for the creepy fanboys that will want to take pictures of you."
     R "Haha.... ok.... nice!.... That's just how you need to pose for the creepy fanboys that will want to take pictures of you."
 
 # game/UpdateScript0.02.rpy:918## # translate crowdin kitchencosplayfitting_3861b3ce:
@@ -1707,7 +1707,7 @@ msgid "L "No you asshole. That's creepy for a brother to ask that, and we're in 
     L "No you asshole. That's creepy for a brother to ask that, and we're in a hurry. You'll just have to use your imagination for now."
 
 # game/UpdateScript0.02.rpy:919## # translate crowdin kitchencosplayfitting_0ee1cd3c:
-msgid "R "But I'm the one who bought the costume for you."
+msgid "[R] But I'm the one who bought the costume for you."
     R "But I'm the one who bought the costume for you."
 
 # game/UpdateScript0.02.rpy:920## # translate crowdin kitchencosplayfitting_26bd45c0:
@@ -1723,11 +1723,11 @@ msgid "L "Isn't it just a bit weird for a brother to ask his sister and cousin t
     L "Isn't it just a bit weird for a brother to ask his sister and cousin to see their asses?"
 
 # game/UpdateScript0.02.rpy:926## # translate crowdin kitchencosplayfitting_02ec261f:
-msgid "R "I think it would be weirder if I didn't appreciate a couple sexy girls in sexy costumes."
+msgid "[R] I think it would be weirder if I didn't appreciate a couple sexy girls in sexy costumes."
     R "I think it would be weirder if I didn't appreciate a couple sexy girls in sexy costumes."
 
 # game/UpdateScript0.02.rpy:927## # translate crowdin kitchencosplayfitting_6d1e6ec8:
-msgid "R "The fact that we're related has nothing to do with it."
+msgid "[R] The fact that we're related has nothing to do with it."
     R "The fact that we're related has nothing to do with it."
 
 # game/UpdateScript0.02.rpy:928## # translate crowdin kitchencosplayfitting_49d6af85:
@@ -1735,7 +1735,7 @@ msgid "MD "Oh, so you think we're sexy?"
     MD "Oh, so you think we're sexy?"
 
 # game/UpdateScript0.02.rpy:929## # translate crowdin kitchencosplayfitting_e9485ed4:
-msgid "R "I'd have to be gay to think otherwise."
+msgid "[R] I'd have to be gay to think otherwise."
     R "I'd have to be gay to think otherwise."
 
 # game/UpdateScript0.02.rpy:930## # translate crowdin kitchencosplayfitting_64e7b164:
@@ -1755,7 +1755,7 @@ msgid "MD "Well, what do you think?"
     MD "Well, what do you think?"
 
 # game/UpdateScript0.02.rpy:938## # translate crowdin kitchencosplayfitting_b2baad2c:
-msgid "R "Really sexy, but Sidney should have made your shorts as revealing as Lauren's."
+msgid "[R] Really sexy, but Sidney should have made your shorts as revealing as Lauren's."
     R "Really sexy, but Sidney should have made your shorts as revealing as Lauren's."
 
 # game/UpdateScript0.02.rpy:939## # translate crowdin kitchencosplayfitting_674f011e:
@@ -1763,7 +1763,7 @@ msgid "S "Actually, those shorts are adjustable, they can be modified to show so
     S "Actually, those shorts are adjustable, they can be modified to show some cheeks."
 
 # game/UpdateScript0.02.rpy:940## # translate crowdin kitchencosplayfitting_e676e659:
-msgid "R "Oh awesome, let's see that!"
+msgid "[R] Oh awesome, let's see that!"
     R "Oh awesome, let's see that!"
 
 # game/UpdateScript0.02.rpy:941## # translate crowdin kitchencosplayfitting_348d048a:
@@ -1783,7 +1783,7 @@ msgid "L "Thanks we will. And I really owe you for paying for my costume."
     L "Thanks we will. And I really owe you for paying for my costume."
 
 # game/UpdateScript0.02.rpy:954## # translate crowdin kitchencosplayfitting_3de6374b:
-msgid "R "I'll remember that."
+msgid "[R] I'll remember that."
     R "I'll remember that."
 
 # game/UpdateScript0.02.rpy:955## # translate crowdin kitchencosplayfitting_268ee5a2:
@@ -4815,7 +4815,7 @@ msgid "RT "{i}I should run before I get caught.{/i}"
     RT "{i}I should run before I get caught.{/i}"
 
 # game/UpdateScript0.02.rpy:3248## # translate crowdin invitemomtooffice_7a6bcafc:
-msgid "R "Hey Matt, hey Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
+msgid "[R] Hey Matt, hey Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
     R "Hey Matt, hey Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
 
 # game/UpdateScript0.02.rpy:3249## # translate crowdin invitemomtooffice_e8074312:
@@ -4823,7 +4823,7 @@ msgid "M "Ok [ryan], go to my office and I'll be right there."
     M "Ok [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3250## # translate crowdin invitemomtooffice_b4a078ed:
-msgid "R "Mom!"
+msgid "[R] Mom!"
     R "Mom!"
 
 # game/UpdateScript0.02.rpy:3251## # translate crowdin invitemomtooffice_623e7626:
@@ -4831,7 +4831,7 @@ msgid "M "I mean [ryan], go to my office and I'll be right there."
     M "I mean [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3258## # translate crowdin invitemomtooffice_8b7a4f81:
-msgid "R "Hi Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
+msgid "[R] Hi Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
     R "Hi Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
 
 # game/UpdateScript0.02.rpy:3259## # translate crowdin invitemomtooffice_2a03a09f:
@@ -4839,7 +4839,7 @@ msgid "M "Ok, Ok, [ryan], go to my office and I'll be right there."
     M "Ok, Ok, [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3260## # translate crowdin invitemomtooffice_b4a078ed_1:
-msgid "R "Mom!"
+msgid "[R] Mom!"
     R "Mom!"
 
 # game/UpdateScript0.02.rpy:3261## # translate crowdin invitemomtooffice_623e7626_1:
@@ -4851,7 +4851,7 @@ msgid "M "Oh, hi honey."
     M "Oh, hi honey."
 
 # game/UpdateScript0.02.rpy:3269## # translate crowdin invitemomtooffice_8ec6149a:
-msgid "R "Mom, remember? I don't want you to call me honey at school."
+msgid "[R] Mom, remember? I don't want you to call me honey at school."
     R "Mom, remember? I don't want you to call me honey at school."
 
 # game/UpdateScript0.02.rpy:3270## # translate crowdin invitemomtooffice_4f38eed8:
@@ -4863,7 +4863,7 @@ msgid "M "But if I can't call you honey, you have to call me Miss [mom_name]."
     M "But if I can't call you honey, you have to call me Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3272## # translate crowdin invitemomtooffice_5a5a3f30:
-msgid "R "Ok Miss [mom_name]."
+msgid "[R] Ok Miss [mom_name]."
     R "Ok Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3273## # translate crowdin invitemomtooffice_ae756d3c:
@@ -4871,7 +4871,7 @@ msgid "M "We were all actually just talking about you."
     M "We were all actually just talking about you."
 
 # game/UpdateScript0.02.rpy:3274## # translate crowdin invitemomtooffice_2113744a:
-msgid "R "Really? What about?"
+msgid "[R] Really? What about?"
     R "Really? What about?"
 
 # game/UpdateScript0.02.rpy:3275## # translate crowdin invitemomtooffice_c8609fbd:
@@ -4935,7 +4935,7 @@ msgid "M "What am I going to do with you?"
     M "What am I going to do with you?"
 
 # game/UpdateScript0.02.rpy:3294## # translate crowdin invitemomtooffice_fbce5781:
-msgid "R "Hey Miss [mom_name], do you have a minute. I really need to meet with you about the Oedipus assignment you gave us."
+msgid "[R] Hey Miss [mom_name], do you have a minute. I really need to meet with you about the Oedipus assignment you gave us."
     R "Hey Miss [mom_name], do you have a minute. I really need to meet with you about the Oedipus assignment you gave us."
 
 # game/UpdateScript0.02.rpy:3295## # translate crowdin invitemomtooffice_7c4c0e04:
@@ -4943,7 +4943,7 @@ msgid "M "Ok honey, go to my office and I'll be right there."
     M "Ok honey, go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3296## # translate crowdin invitemomtooffice_b4a078ed_2:
-msgid "R "Mom!"
+msgid "[R] Mom!"
     R "Mom!"
 
 # game/UpdateScript0.02.rpy:3297## # translate crowdin invitemomtooffice_623e7626_2:
@@ -4955,7 +4955,7 @@ msgid "M "Oh, hi honey."
     M "Oh, hi honey."
 
 # game/UpdateScript0.02.rpy:3305## # translate crowdin invitemomtooffice_8ec6149a_1:
-msgid "R "Mom, remember? I don't want you to call me honey at school."
+msgid "[R] Mom, remember? I don't want you to call me honey at school."
     R "Mom, remember? I don't want you to call me honey at school."
 
 # game/UpdateScript0.02.rpy:3306## # translate crowdin invitemomtooffice_4f38eed8_1:
@@ -4967,7 +4967,7 @@ msgid "M "But if I can't call you honey, you have to call me Miss [mom_name]."
     M "But if I can't call you honey, you have to call me Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3308## # translate crowdin invitemomtooffice_5a5a3f30_1:
-msgid "R "Ok Miss [mom_name]."
+msgid "[R] Ok Miss [mom_name]."
     R "Ok Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3309## # translate crowdin invitemomtooffice_aac26a50:
@@ -4975,7 +4975,7 @@ msgid "M "Did you need something?"
     M "Did you need something?"
 
 # game/UpdateScript0.02.rpy:3310## # translate crowdin invitemomtooffice_afcedf68:
-msgid "R "Yeah actually, I really need to meet with you about the Oedipus assignment you gave us."
+msgid "[R] Yeah actually, I really need to meet with you about the Oedipus assignment you gave us."
     R "Yeah actually, I really need to meet with you about the Oedipus assignment you gave us."
 
 # game/UpdateScript0.02.rpy:3311## # translate crowdin invitemomtooffice_7c4c0e04_1:
@@ -4983,7 +4983,7 @@ msgid "M "Ok honey, go to my office and I'll be right there."
     M "Ok honey, go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3312## # translate crowdin invitemomtooffice_b4a078ed_3:
-msgid "R "Mom!"
+msgid "[R] Mom!"
     R "Mom!"
 
 # game/UpdateScript0.02.rpy:3313## # translate crowdin invitemomtooffice_623e7626_3:
@@ -4995,7 +4995,7 @@ msgid "M "Ok honey, so what was it that you wanted to ask me?"
     M "Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3325## # translate crowdin momsoffice_79dad77f:
-msgid "R "I was just wondering if you got a chance to play more of those games I sent you, to see if they would work for my assignment."
+msgid "[R] I was just wondering if you got a chance to play more of those games I sent you, to see if they would work for my assignment."
     R "I was just wondering if you got a chance to play more of those games I sent you, to see if they would work for my assignment."
 
 # game/UpdateScript0.02.rpy:3326## # translate crowdin momsoffice_426bf7f9:
@@ -5003,7 +5003,7 @@ msgid "M "No I haven't quite had time yet."
     M "No I haven't quite had time yet."
 
 # game/UpdateScript0.02.rpy:3327## # translate crowdin momsoffice_6b774b6b:
-msgid "R "Well, would you like to play a little bit more of them with me right now, to see if you can find a reason why they wouldn't work?"
+msgid "[R] Well, would you like to play a little bit more of them with me right now, to see if you can find a reason why they wouldn't work?"
     R "Well, would you like to play a little bit more of them with me right now, to see if you can find a reason why they wouldn't work?"
 
 # game/UpdateScript0.02.rpy:3328## # translate crowdin momsoffice_db3aade8:
@@ -5011,11 +5011,11 @@ msgid "M "Sure, just scooch over a chair and I'll come sit by you so we can play
     M "Sure, just scooch over a chair and I'll come sit by you so we can play together."
 
 # game/UpdateScript0.02.rpy:3331## # translate crowdin momsoffice_ae959015:
-msgid "R "Ok, let me just look through my F95Zone downloads."
+msgid "[R] Ok, let me just look through my F95Zone downloads."
     R "Ok, let me just look through my F95Zone downloads."
 
 # game/UpdateScript0.02.rpy:3332## # translate crowdin momsoffice_d01cade2:
-msgid "R "Oh yes, here they are."
+msgid "[R] Oh yes, here they are."
     R "Oh yes, here they are."
 
 # game/UpdateScript0.02.rpy:3343## # translate crowdin momsoffice_6c23fa5f:
@@ -5023,11 +5023,11 @@ msgid "M "We keep seeing the same scenes over and over."
     M "We keep seeing the same scenes over and over."
 
 # game/UpdateScript0.02.rpy:3344## # translate crowdin momsoffice_8bfe6000:
-msgid "R "Yeah, that's called grinding, the best games require it to build your stats."
+msgid "[R] Yeah, that's called grinding, the best games require it to build your stats."
     R "Yeah, that's called grinding, the best games require it to build your stats."
 
 # game/UpdateScript0.02.rpy:3345## # translate crowdin momsoffice_b5ee7a6f:
-msgid "R "It makes each scene you unlock feel even more rewarding."
+msgid "[R] It makes each scene you unlock feel even more rewarding."
     R "It makes each scene you unlock feel even more rewarding."
 
 # game/UpdateScript0.02.rpy:3346## # translate crowdin momsoffice_ec8a7089:
@@ -5035,7 +5035,7 @@ msgid "M "That makes a lot of sense."
     M "That makes a lot of sense."
 
 # game/UpdateScript0.02.rpy:3349## # translate crowdin momsoffice_2bb50312:
-msgid "R "So, did you see anything that would disqualify these games from my assignment?"
+msgid "[R] So, did you see anything that would disqualify these games from my assignment?"
     R "So, did you see anything that would disqualify these games from my assignment?"
 
 # game/UpdateScript0.02.rpy:3350## # translate crowdin momsoffice_94a771d0:
@@ -5059,7 +5059,7 @@ msgid "M "Ok, I really need to get back to my class, I'll see you at home tonigh
     M "Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3356## # translate crowdin momsoffice_0a9bc157:
-msgid "R "Ok Mom, see you later."
+msgid "[R] Ok Mom, see you later."
     R "Ok Mom, see you later."
 
 # game/UpdateScript0.02.rpy:3357## # translate crowdin momsoffice_3a6a7d7d:
@@ -5075,15 +5075,15 @@ msgid "M "Ok honey, so what was it that you wanted to ask me?"
     M "Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3370## # translate crowdin momsoffice_28e0c223:
-msgid "R "I'm still struggling with this Oedipus assignment."
+msgid "[R] I'm still struggling with this Oedipus assignment."
     R "I'm still struggling with this Oedipus assignment."
 
 # game/UpdateScript0.02.rpy:3371## # translate crowdin momsoffice_ec70f4b2:
-msgid "R "I wanted to show you something else that I found, and see if it works for my Oedipus assignment."
+msgid "[R] I wanted to show you something else that I found, and see if it works for my Oedipus assignment."
     R "I wanted to show you something else that I found, and see if it works for my Oedipus assignment."
 
 # game/UpdateScript0.02.rpy:3374## # translate crowdin momsoffice_23370fc7:
-msgid "R "It's another video game I found online, can you come look at it with me and see what you think."
+msgid "[R] It's another video game I found online, can you come look at it with me and see what you think."
     R "It's another video game I found online, can you come look at it with me and see what you think."
 
 # game/UpdateScript0.02.rpy:3375## # translate crowdin momsoffice_4b55c26e:
@@ -5091,11 +5091,11 @@ msgid "M "Ok just scooch over a chair and I'll come sit by you so you can show m
     M "Ok just scooch over a chair and I'll come sit by you so you can show me."
 
 # game/UpdateScript0.02.rpy:3378## # translate crowdin momsoffice_ae959015_1:
-msgid "R "Ok, let me just look through my F95Zone downloads."
+msgid "[R] Ok, let me just look through my F95Zone downloads."
     R "Ok, let me just look through my F95Zone downloads."
 
 # game/UpdateScript0.02.rpy:3379## # translate crowdin momsoffice_3c12b70c:
-msgid "R "Oh yes, here it is."
+msgid "[R] Oh yes, here it is."
     R "Oh yes, here it is."
 
 # game/UpdateScript0.02.rpy:3383## # translate crowdin momsoffice_fd89a40d:
@@ -5107,7 +5107,7 @@ msgid "M "What on earth is a Milf?"
     M "What on earth is a Milf?"
 
 # game/UpdateScript0.02.rpy:3385## # translate crowdin momsoffice_e00a42df:
-msgid "R "Just a hot mom."
+msgid "[R] Just a hot mom."
     R "Just a hot mom."
 
 # game/UpdateScript0.02.rpy:3386## # translate crowdin momsoffice_5cbd3ce0:
@@ -5119,7 +5119,7 @@ msgid "M "Wow! Somehow the mom kissing her son makes this so much more intimate 
     M "Wow! Somehow the mom kissing her son makes this so much more intimate than even the sex."
 
 # game/UpdateScript0.02.rpy:3392## # translate crowdin momsoffice_b004b47d:
-msgid "R "Yeah, it makes you kind of understand why some people get into these types of games."
+msgid "[R] Yeah, it makes you kind of understand why some people get into these types of games."
     R "Yeah, it makes you kind of understand why some people get into these types of games."
 
 # game/UpdateScript0.02.rpy:3393## # translate crowdin momsoffice_3b2f6452:
@@ -5135,7 +5135,7 @@ msgid "M "Wait! I shouldn't have said that.... I'm sorry if I made you uncomfort
     M "Wait! I shouldn't have said that.... I'm sorry if I made you uncomfortable."
 
 # game/UpdateScript0.02.rpy:3400## # translate crowdin momsoffice_d595540c:
-msgid "R "It's ok, it's flattering that my dick impressed you that much."
+msgid "[R] It's ok, it's flattering that my dick impressed you that much."
     R "It's ok, it's flattering that my dick impressed you that much."
 
 # game/UpdateScript0.02.rpy:3401## # translate crowdin momsoffice_ffca2bff:
@@ -5143,11 +5143,11 @@ msgid "M "Don't push it!"
     M "Don't push it!"
 
 # game/UpdateScript0.02.rpy:3404## # translate crowdin momsoffice_56a97f43:
-msgid "R "So, do you think this one is good example for my paper as well?"
+msgid "[R] So, do you think this one is good example for my paper as well?"
     R "So, do you think this one is good example for my paper as well?"
 
 # game/UpdateScript0.02.rpy:3405## # translate crowdin momsoffice_9fceb1b9:
-msgid "R "Mom, are you alright?"
+msgid "[R] Mom, are you alright?"
     R "Mom, are you alright?"
 
 # game/UpdateScript0.02.rpy:3406## # translate crowdin momsoffice_a6b6cd95:
@@ -5167,7 +5167,7 @@ msgid "M "Ok, I really need to get back to my class, I'll see you at home tonigh
     M "Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3411## # translate crowdin momsoffice_b25d89fe:
-msgid "R "Ok, Mom, see you later."
+msgid "[R] Ok, Mom, see you later."
     R "Ok, Mom, see you later."
 
 # game/UpdateScript0.02.rpy:3412## # translate crowdin momsoffice_5afbdbb7:
@@ -5183,15 +5183,15 @@ msgid "M "Ok honey, so what was it that you wanted to ask me?"
     M "Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3425## # translate crowdin momsoffice_fe43db32:
-msgid "R "I'm just kind of struggling with this Oedipus assignment."
+msgid "[R] I'm just kind of struggling with this Oedipus assignment."
     R "I'm just kind of struggling with this Oedipus assignment."
 
 # game/UpdateScript0.02.rpy:3426## # translate crowdin momsoffice_a1ade8ef:
-msgid "R "I'm supposed to find how this ancient play still is relevant in modern day life."
+msgid "[R] I'm supposed to find how this ancient play still is relevant in modern day life."
     R "I'm supposed to find how this ancient play still is relevant in modern day life."
 
 # game/UpdateScript0.02.rpy:3427## # translate crowdin momsoffice_8db5d59a:
-msgid "R "But when I search for Oedipus stuff on the internet. I find stuff that is kind of porn-ish."
+msgid "[R] But when I search for Oedipus stuff on the internet. I find stuff that is kind of porn-ish."
     R "But when I search for Oedipus stuff on the internet. I find stuff that is kind of porn-ish."
 
 # game/UpdateScript0.02.rpy:3428## # translate crowdin momsoffice_76190a68:
@@ -5207,7 +5207,7 @@ msgid "M "But I'm forced to teach it, because if I don't I'll be fired."
     M "But I'm forced to teach it, because if I don't I'll be fired."
 
 # game/UpdateScript0.02.rpy:3431## # translate crowdin momsoffice_ce3869e8:
-msgid "R "It's not as bad as I originally thought it would be. But if you don't get to choose what you teach, who sets the curriculum?"
+msgid "[R] It's not as bad as I originally thought it would be. But if you don't get to choose what you teach, who sets the curriculum?"
     R "It's not as bad as I originally thought it would be. But if you don't get to choose what you teach, who sets the curriculum?"
 
 # game/UpdateScript0.02.rpy:3432## # translate crowdin momsoffice_4c526736:
@@ -5219,7 +5219,7 @@ msgid "M "I just hope he gets fired before his curriculum corrupts everyone on t
     M "I just hope he gets fired before his curriculum corrupts everyone on the school board, and in the schools."
 
 # game/UpdateScript0.02.rpy:3434## # translate crowdin momsoffice_2631ca7b:
-msgid "R "Hmmmm.... sounds like an asshole."
+msgid "[R] Hmmmm.... sounds like an asshole."
     R "Hmmmm.... sounds like an asshole."
 
 # game/UpdateScript0.02.rpy:3435## # translate crowdin momsoffice_f0871a81:
@@ -5227,11 +5227,11 @@ msgid "M "He really is."
     M "He really is."
 
 # game/UpdateScript0.02.rpy:3436## # translate crowdin momsoffice_5576b4d1:
-msgid "R "Well then, I wanted to show you something that I found on the internet, and see if it works for my Oedipus assignment."
+msgid "[R] Well then, I wanted to show you something that I found on the internet, and see if it works for my Oedipus assignment."
     R "Well then, I wanted to show you something that I found on the internet, and see if it works for my Oedipus assignment."
 
 # game/UpdateScript0.02.rpy:3439## # translate crowdin momsoffice_5d3cf1b9:
-msgid "R "It's just this video game I found online, can you come look at it with me and see what you think."
+msgid "[R] It's just this video game I found online, can you come look at it with me and see what you think."
     R "It's just this video game I found online, can you come look at it with me and see what you think."
 
 # game/UpdateScript0.02.rpy:3440## # translate crowdin momsoffice_a66aed00:
@@ -5239,11 +5239,11 @@ msgid "M "Sure, just scooch over a chair and I'll come sit by you so you can sho
     M "Sure, just scooch over a chair and I'll come sit by you so you can show me."
 
 # game/UpdateScript0.02.rpy:3443## # translate crowdin momsoffice_ae959015_2:
-msgid "R "Ok, let me just look through my F95Zone downloads."
+msgid "[R] Ok, let me just look through my F95Zone downloads."
     R "Ok, let me just look through my F95Zone downloads."
 
 # game/UpdateScript0.02.rpy:3444## # translate crowdin momsoffice_3c12b70c_1:
-msgid "R "Oh yes, here it is."
+msgid "[R] Oh yes, here it is."
     R "Oh yes, here it is."
 
 # game/UpdateScript0.02.rpy:3448## # translate crowdin momsoffice_dd0f6dfa:
@@ -5255,7 +5255,7 @@ msgid "M "Is this like that voyeuristic television show on TV?"
     M "Is this like that voyeuristic television show on TV?"
 
 # game/UpdateScript0.02.rpy:3450## # translate crowdin momsoffice_4a67eccf:
-msgid "R "No this isn't nearly that lewd."
+msgid "[R] No this isn't nearly that lewd."
     R "No this isn't nearly that lewd."
 
 # game/UpdateScript0.02.rpy:3451## # translate crowdin momsoffice_5cbd3ce0_1:
@@ -5267,7 +5267,7 @@ msgid "M "Uggghh.... are we really supposed to continue to believe that the mom 
     M "Uggghh.... are we really supposed to continue to believe that the mom is so stupid to believe she needs to jack off her son because he has carpal tunnel syndrome?"
 
 # game/UpdateScript0.02.rpy:3457## # translate crowdin momsoffice_b13394b9:
-msgid "R "Mom, try to remember that it's just a game. It may be a bit ridiculous, but it's hard to make up situations where a mom would willingly enter a relationship with her son."
+msgid "[R] Mom, try to remember that it's just a game. It may be a bit ridiculous, but it's hard to make up situations where a mom would willingly enter a relationship with her son."
     R "Mom, try to remember that it's just a game. It may be a bit ridiculous, but it's hard to make up situations where a mom would willingly enter a relationship with her son."
 
 # game/UpdateScript0.02.rpy:3458## # translate crowdin momsoffice_44077d45:
@@ -5283,11 +5283,11 @@ msgid "M "I think that's all we should see for today."
     M "I think that's all we should see for today."
 
 # game/UpdateScript0.02.rpy:3467## # translate crowdin momsoffice_6e5e2012:
-msgid "R "It's just fiction Mom, but there are a lot of people into these kind of games. I think it would be a good argument in my paper."
+msgid "[R] It's just fiction Mom, but there are a lot of people into these kind of games. I think it would be a good argument in my paper."
     R "It's just fiction Mom, but there are a lot of people into these kind of games. I think it would be a good argument in my paper."
 
 # game/UpdateScript0.02.rpy:3468## # translate crowdin momsoffice_9fceb1b9_1:
-msgid "R "Mom, are you alright?"
+msgid "[R] Mom, are you alright?"
     R "Mom, are you alright?"
 
 # game/UpdateScript0.02.rpy:3469## # translate crowdin momsoffice_a6b6cd95_1:
@@ -5307,7 +5307,7 @@ msgid "M "Ok, I really need to get back to my class, I'll see you at home tonigh
     M "Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3474## # translate crowdin momsoffice_0a9bc157_1:
-msgid "R "Ok Mom, see you later."
+msgid "[R] Ok Mom, see you later."
     R "Ok Mom, see you later."
 
 # game/UpdateScript0.02.rpy:3475## # translate crowdin momsoffice_a0153dfe:
@@ -5319,7 +5319,7 @@ msgid "RT "{i}I'll have to show her some more of those games to see how she reac
     RT "{i}I'll have to show her some more of those games to see how she reacts.{/i}"
 
 # game/UpdateScript0.02.rpy:3494## # translate crowdin emptywarehouse_b8d6ea8b:
-msgid "R "Well, this is it. What do you guys think?"
+msgid "[R] Well, this is it. What do you guys think?"
     R "Well, this is it. What do you guys think?"
 
 # game/UpdateScript0.02.rpy:3495## # translate crowdin emptywarehouse_f627b4ed:
@@ -5331,15 +5331,15 @@ msgid "L "And there are windows everywhere! Any perverted warehouse worker could
     L "And there are windows everywhere! Any perverted warehouse worker could peek in for a free show."
 
 # game/UpdateScript0.02.rpy:3497## # translate crowdin emptywarehouse_a183ce37:
-msgid "R "All problems we can take care of."
+msgid "[R] All problems we can take care of."
     R "All problems we can take care of."
 
 # game/UpdateScript0.02.rpy:3498## # translate crowdin emptywarehouse_0a94238c:
-msgid "R "I will start to clean things up a bit, and hang these old canvas tarps over the windows."
+msgid "[R] I will start to clean things up a bit, and hang these old canvas tarps over the windows."
     R "I will start to clean things up a bit, and hang these old canvas tarps over the windows."
 
 # game/UpdateScript0.02.rpy:3499## # translate crowdin emptywarehouse_ac9f225d:
-msgid "R "You two go into that utility closet and get your outfits on."
+msgid "[R] You two go into that utility closet and get your outfits on."
     R "You two go into that utility closet and get your outfits on."
 
 # game/UpdateScript0.02.rpy:3502## # translate crowdin emptywarehouse_045a3e03:
@@ -5347,7 +5347,7 @@ msgid "{i}\"15 minutes later\"{/i}"
 msgstr "{i}\"15 minutes later\"{/i}"
 
 # game/UpdateScript0.02.rpy:3505## # translate crowdin emptywarehouse_eb00645c:
-msgid "R "There, isn't this better."
+msgid "[R] There, isn't this better."
     R "There, isn't this better."
 
 # game/UpdateScript0.02.rpy:3506## # translate crowdin emptywarehouse_4678424c:
@@ -5359,27 +5359,27 @@ msgid "L "Not the best lighting, but the flash on your camera should help with t
     L "Not the best lighting, but the flash on your camera should help with that?"
 
 # game/UpdateScript0.02.rpy:3508## # translate crowdin emptywarehouse_028ee4ce:
-msgid "R "To a degree."
+msgid "[R] To a degree."
     R "To a degree."
 
 # game/UpdateScript0.02.rpy:3509## # translate crowdin emptywarehouse_82051fa2:
-msgid "R "If we take more pictures down the road, we may want to consider investing in some professional lighting, a nice backdrop, some photo equipment."
+msgid "[R] If we take more pictures down the road, we may want to consider investing in some professional lighting, a nice backdrop, some photo equipment."
     R "If we take more pictures down the road, we may want to consider investing in some professional lighting, a nice backdrop, some photo equipment."
 
 # game/UpdateScript0.02.rpy:3510## # translate crowdin emptywarehouse_1b4003a2:
-msgid "R "That's getting way ahead of ourselves. That is assuming we make some good money."
+msgid "[R] That's getting way ahead of ourselves. That is assuming we make some good money."
     R "That's getting way ahead of ourselves. That is assuming we make some good money."
 
 # game/UpdateScript0.02.rpy:3511## # translate crowdin emptywarehouse_7f1b8f26:
-msgid "R "But for now, this will do just fine."
+msgid "[R] But for now, this will do just fine."
     R "But for now, this will do just fine."
 
 # game/UpdateScript0.02.rpy:3512## # translate crowdin emptywarehouse_5a5daedc:
-msgid "R "I'm going to shoot each of you individually and do some photos of you together."
+msgid "[R] I'm going to shoot each of you individually and do some photos of you together."
     R "I'm going to shoot each of you individually and do some photos of you together."
 
 # game/UpdateScript0.02.rpy:3513## # translate crowdin emptywarehouse_fdf52837:
-msgid "R "Who wants to go first?"
+msgid "[R] Who wants to go first?"
     R "Who wants to go first?"
 
 # game/UpdateScript0.02.rpy:3514## # translate crowdin emptywarehouse_a87cf47a:
@@ -5387,11 +5387,11 @@ msgid "L "Oh, I do!"
     L "Oh, I do!"
 
 # game/UpdateScript0.02.rpy:3515## # translate crowdin emptywarehouse_c0fd717e:
-msgid "R "Ok, strike a pose and I'll start taking some pictures."
+msgid "[R] Ok, strike a pose and I'll start taking some pictures."
     R "Ok, strike a pose and I'll start taking some pictures."
 
 # game/UpdateScript0.02.rpy:3519## # translate crowdin emptywarehouse_87388ae1:
-msgid "R "Ok, that's cute."
+msgid "[R] Ok, that's cute."
     R "Ok, that's cute."
 
 # game/UpdateScript0.02.rpy:3520## # translate crowdin emptywarehouse_14bb48ff:
@@ -5399,7 +5399,7 @@ msgid "L "Cute? I was going for sexy!"
     L "Cute? I was going for sexy!"
 
 # game/UpdateScript0.02.rpy:3525## # translate crowdin emptywarehouse_8dd40289:
-msgid "R "If you want sexy just turn around."
+msgid "[R] If you want sexy just turn around."
     R "If you want sexy just turn around."
 
 # game/UpdateScript0.02.rpy:3526## # translate crowdin emptywarehouse_fb722c38:
@@ -5407,15 +5407,15 @@ msgid "L "Do you know how weird this is having my brother directing me to take s
     L "Do you know how weird this is having my brother directing me to take sexy photos?"
 
 # game/UpdateScript0.02.rpy:3527## # translate crowdin emptywarehouse_833da7f6:
-msgid "R "You've just got to forget that I'm your brother."
+msgid "[R] You've just got to forget that I'm your brother."
     R "You've just got to forget that I'm your brother."
 
 # game/UpdateScript0.02.rpy:3528## # translate crowdin emptywarehouse_79d694c4:
-msgid "R "Imagine you're a professional model, and I'm just some nameless photographer."
+msgid "[R] Imagine you're a professional model, and I'm just some nameless photographer."
     R "Imagine you're a professional model, and I'm just some nameless photographer."
 
 # game/UpdateScript0.02.rpy:3529## # translate crowdin emptywarehouse_ec4a8062:
-msgid "R "Now turn around."
+msgid "[R] Now turn around."
     R "Now turn around."
 
 # game/UpdateScript0.02.rpy:3530## # translate crowdin emptywarehouse_f4b7a91f:
@@ -5423,7 +5423,7 @@ msgid "L "Ok, I'll try."
     L "Ok, I'll try."
 
 # game/UpdateScript0.02.rpy:3533## # translate crowdin emptywarehouse_2d61414d:
-msgid "R "There you go, now that's sexy!"
+msgid "[R] There you go, now that's sexy!"
     R "There you go, now that's sexy!"
 
 # game/UpdateScript0.02.rpy:3534## # translate crowdin emptywarehouse_aa2412d8:
@@ -5435,11 +5435,11 @@ msgid "L "I can't completely forget that it's my brother taking these pictures."
     L "I can't completely forget that it's my brother taking these pictures."
 
 # game/UpdateScript0.02.rpy:3536## # translate crowdin emptywarehouse_68084a28:
-msgid "R "Ok, I'll try."
+msgid "[R] Ok, I'll try."
     R "Ok, I'll try."
 
 # game/UpdateScript0.02.rpy:3541## # translate crowdin emptywarehouse_e375cd99:
-msgid "R "Ok, grab your prop gun and see if you can think of a sexy pose on your own."
+msgid "[R] Ok, grab your prop gun and see if you can think of a sexy pose on your own."
     R "Ok, grab your prop gun and see if you can think of a sexy pose on your own."
 
 # game/UpdateScript0.02.rpy:3544## # translate crowdin emptywarehouse_3b8def9e:
@@ -5451,7 +5451,7 @@ msgid "RT "{i}Oh God, don't say anything too weird!{/i}"
     RT "{i}Oh God, don't say anything too weird!{/i}"
 
 # game/UpdateScript0.02.rpy:3546## # translate crowdin emptywarehouse_7abe1adb:
-msgid "R "Yeah.... that works ok."
+msgid "[R] Yeah.... that works ok."
     R "Yeah.... that works ok."
 
 # game/UpdateScript0.02.rpy:3551## # translate crowdin emptywarehouse_d90f6d9e:
@@ -5459,7 +5459,7 @@ msgid "RT "{i}Would it be unprofessional to pop a boner in the middle of a photo
     RT "{i}Would it be unprofessional to pop a boner in the middle of a photoshoot?{/i}"
 
 # game/UpdateScript0.02.rpy:3552## # translate crowdin emptywarehouse_32a69e3c:
-msgid "R "Alright, should we turn up the heat a little more?"
+msgid "[R] Alright, should we turn up the heat a little more?"
     R "Alright, should we turn up the heat a little more?"
 
 # game/UpdateScript0.02.rpy:3553## # translate crowdin emptywarehouse_16df8f7d:
@@ -5471,7 +5471,7 @@ msgid "L "Oh my ass cheeks hanging out aren't enough skin for you?"
     L "Oh my ass cheeks hanging out aren't enough skin for you?"
 
 # game/UpdateScript0.02.rpy:3559## # translate crowdin emptywarehouse_5212b469:
-msgid "R "Well, yeah, it's pretty sexy, but you're going to have to go further if you want your pictures to get the kind of attention you want them to get."
+msgid "[R] Well, yeah, it's pretty sexy, but you're going to have to go further if you want your pictures to get the kind of attention you want them to get."
     R "Well, yeah, it's pretty sexy, but you're going to have to go further if you want your pictures to get the kind of attention you want them to get."
 
 # game/UpdateScript0.02.rpy:3560## # translate crowdin emptywarehouse_6dcb9fdf:
@@ -5487,15 +5487,15 @@ msgid "L "I'm sure I'll get plenty of attention without having to strip for you.
     L "I'm sure I'll get plenty of attention without having to strip for you."
 
 # game/UpdateScript0.02.rpy:3564## # translate crowdin emptywarehouse_8658c03c:
-msgid "R "Ok.... ok.... I don't want you to do anything you're uncomfortable with."
+msgid "[R] Ok.... ok.... I don't want you to do anything you're uncomfortable with."
     R "Ok.... ok.... I don't want you to do anything you're uncomfortable with."
 
 # game/UpdateScript0.02.rpy:3567## # translate crowdin emptywarehouse_01040856:
-msgid "R "Mandy.... why don't you grab your prop gun and we'll take some pictures of you two together."
+msgid "[R] Mandy.... why don't you grab your prop gun and we'll take some pictures of you two together."
     R "Mandy.... why don't you grab your prop gun and we'll take some pictures of you two together."
 
 # game/UpdateScript0.02.rpy:3568## # translate crowdin emptywarehouse_d0a1c74f:
-msgid "R "Ok, now you two pose like Lauren is arresting Mandy."
+msgid "[R] Ok, now you two pose like Lauren is arresting Mandy."
     R "Ok, now you two pose like Lauren is arresting Mandy."
 
 # game/UpdateScript0.02.rpy:3571## # translate crowdin emptywarehouse_2be91207:
@@ -5503,35 +5503,35 @@ msgid "MD "Like this?"
     MD "Like this?"
 
 # game/UpdateScript0.02.rpy:3572## # translate crowdin emptywarehouse_a69d25dd:
-msgid "R "Yeah, that's pretty good."
+msgid "[R] Yeah, that's pretty good."
     R "Yeah, that's pretty good."
 
 # game/UpdateScript0.02.rpy:3577## # translate crowdin emptywarehouse_d2610a59:
-msgid "R "Ok Lauren, now you have to check her for dangerous weapons."
+msgid "[R] Ok Lauren, now you have to check her for dangerous weapons."
     R "Ok Lauren, now you have to check her for dangerous weapons."
 
 # game/UpdateScript0.02.rpy:3578## # translate crowdin emptywarehouse_d3050866:
-msgid "R "Start with her boots, and work your way up."
+msgid "[R] Start with her boots, and work your way up."
     R "Start with her boots, and work your way up."
 
 # game/UpdateScript0.02.rpy:3586## # translate crowdin emptywarehouse_bcf84ee2:
-msgid "R "Ok, work your way up to her belt, and take it off."
+msgid "[R] Ok, work your way up to her belt, and take it off."
     R "Ok, work your way up to her belt, and take it off."
 
 # game/UpdateScript0.02.rpy:3587## # translate crowdin emptywarehouse_cb418b9e:
-msgid "R "I see some dangerous weapons hanging off of it."
+msgid "[R] I see some dangerous weapons hanging off of it."
     R "I see some dangerous weapons hanging off of it."
 
 # game/UpdateScript0.02.rpy:3590## # translate crowdin emptywarehouse_18b03d5e:
-msgid "R "Ok, that's great."
+msgid "[R] Ok, that's great."
     R "Ok, that's great."
 
 # game/UpdateScript0.02.rpy:3595## # translate crowdin emptywarehouse_c4a10064:
-msgid "R "Now just unbuckle it and throw it over here."
+msgid "[R] Now just unbuckle it and throw it over here."
     R "Now just unbuckle it and throw it over here."
 
 # game/UpdateScript0.02.rpy:3596## # translate crowdin emptywarehouse_3cc0e3d2:
-msgid "R "Now you need to check the more intimate areas for weapons."
+msgid "[R] Now you need to check the more intimate areas for weapons."
     R "Now you need to check the more intimate areas for weapons."
 
 # game/UpdateScript0.02.rpy:3599## # translate crowdin emptywarehouse_7c0577be:
@@ -5539,11 +5539,11 @@ msgid "L "Are you serious right now? She's my cousin. That's just too weird."
     L "Are you serious right now? She's my cousin. That's just too weird."
 
 # game/UpdateScript0.02.rpy:3600## # translate crowdin emptywarehouse_b978adff:
-msgid "R "She's not your cousin. You're both professional models that are trying to take the kinds of pictures that will kick start your careers."
+msgid "[R] She's not your cousin. You're both professional models that are trying to take the kinds of pictures that will kick start your careers."
     R "She's not your cousin. You're both professional models that are trying to take the kinds of pictures that will kick start your careers."
 
 # game/UpdateScript0.02.rpy:3601## # translate crowdin emptywarehouse_6e0b75bc:
-msgid "R "You don't have to grope her. Just hover your hands over the area and make it look like you're groping her."
+msgid "[R] You don't have to grope her. Just hover your hands over the area and make it look like you're groping her."
     R "You don't have to grope her. Just hover your hands over the area and make it look like you're groping her."
 
 # game/UpdateScript0.02.rpy:3602## # translate crowdin emptywarehouse_20eedfcf:
@@ -5551,7 +5551,7 @@ msgid "L "You really are a pervert."
     L "You really are a pervert."
 
 # game/UpdateScript0.02.rpy:3603## # translate crowdin emptywarehouse_879389a0:
-msgid "R "No, I'm a professional photographer, who has done a fair bit of online research, so I know what kind of pictures get attention online."
+msgid "[R] No, I'm a professional photographer, who has done a fair bit of online research, so I know what kind of pictures get attention online."
     R "No, I'm a professional photographer, who has done a fair bit of online research, so I know what kind of pictures get attention online."
 
 # game/UpdateScript0.02.rpy:3604## # translate crowdin emptywarehouse_427871e8:
@@ -5559,15 +5559,15 @@ msgid "MD "Hahaha.... online research.... hahah."
     MD "Hahaha.... online research.... hahah."
 
 # game/UpdateScript0.02.rpy:3605## # translate crowdin emptywarehouse_34ef8096:
-msgid "R "Now get back into character!"
+msgid "[R] Now get back into character!"
     R "Now get back into character!"
 
 # game/UpdateScript0.02.rpy:3608## # translate crowdin emptywarehouse_d9d96840:
-msgid "R "There you go, that's perfect."
+msgid "[R] There you go, that's perfect."
     R "There you go, that's perfect."
 
 # game/UpdateScript0.02.rpy:3613## # translate crowdin emptywarehouse_8214e4de:
-msgid "R "It looks like you're really groping Mandy."
+msgid "[R] It looks like you're really groping Mandy."
     R "It looks like you're really groping Mandy."
 
 # game/UpdateScript0.02.rpy:3614## # translate crowdin emptywarehouse_06c4d3d6:
@@ -5575,15 +5575,15 @@ msgid "L "I kind-of am, I was just going to hover my hands, but figured the pict
     L "I kind-of am, I was just going to hover my hands, but figured the picture and Mandy's reaction would be better if I just went for it."
 
 # game/UpdateScript0.02.rpy:3615## # translate crowdin emptywarehouse_deb5a95b:
-msgid "R "Good job!"
+msgid "[R] Good job!"
     R "Good job!"
 
 # game/UpdateScript0.02.rpy:3616## # translate crowdin emptywarehouse_fc1686ed:
-msgid "R "That's the kind of professionalism I want on my photoshoots."
+msgid "[R] That's the kind of professionalism I want on my photoshoots."
     R "That's the kind of professionalism I want on my photoshoots."
 
 # game/UpdateScript0.02.rpy:3619## # translate crowdin emptywarehouse_6d4589f0:
-msgid "R "Ok, now you need to strip search Mandy to make sure she's not hiding anything else."
+msgid "[R] Ok, now you need to strip search Mandy to make sure she's not hiding anything else."
     R "Ok, now you need to strip search Mandy to make sure she's not hiding anything else."
 
 # game/UpdateScript0.02.rpy:3620## # translate crowdin emptywarehouse_8531be86:
@@ -5599,7 +5599,7 @@ msgid "L "And now I'm done."
     L "And now I'm done."
 
 # game/UpdateScript0.02.rpy:3626## # translate crowdin emptywarehouse_6850d803:
-msgid "R "Wait what do you mean you're done?"
+msgid "[R] Wait what do you mean you're done?"
     R "Wait what do you mean you're done?"
 
 # game/UpdateScript0.02.rpy:3627## # translate crowdin emptywarehouse_1a179e53:
@@ -5623,15 +5623,15 @@ msgid "L "Well then, go ahead and take some more pics with my pervy brother. I'l
     L "Well then, go ahead and take some more pics with my pervy brother. I'll just watch."
 
 # game/UpdateScript0.02.rpy:3633## # translate crowdin emptywarehouse_b299e353:
-msgid "R "Ok Lauren, your loss."
+msgid "[R] Ok Lauren, your loss."
     R "Ok Lauren, your loss."
 
 # game/UpdateScript0.02.rpy:3634## # translate crowdin emptywarehouse_6acf0587:
-msgid "R "Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
+msgid "[R] Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
     R "Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
 
 # game/UpdateScript0.02.rpy:3636## # translate crowdin emptywarehouse_6acf0587_1:
-msgid "R "Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
+msgid "[R] Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
     R "Alright; Mandy, I want you to start out with an action pose. Here, use this prop."
 
 # game/UpdateScript0.02.rpy:3639## # translate crowdin emptywarehouse_2be91207_1:
@@ -5639,11 +5639,11 @@ msgid "MD "Like this?"
     MD "Like this?"
 
 # game/UpdateScript0.02.rpy:3640## # translate crowdin emptywarehouse_79c37bb8:
-msgid "R "Yeah Mandy, you really are a natural."
+msgid "[R] Yeah Mandy, you really are a natural."
     R "Yeah Mandy, you really are a natural."
 
 # game/UpdateScript0.02.rpy:3645## # translate crowdin emptywarehouse_f0616930:
-msgid "R "Ok, let's get into the poses that will make the money. Can you sexy up that outfit?"
+msgid "[R] Ok, let's get into the poses that will make the money. Can you sexy up that outfit?"
     R "Ok, let's get into the poses that will make the money. Can you sexy up that outfit?"
 
 # game/UpdateScript0.02.rpy:3646## # translate crowdin emptywarehouse_b51b4ced:
@@ -5655,15 +5655,15 @@ msgid "RT "{i}Holy shit! I think I need roomier pants.{/i}"
     RT "{i}Holy shit! I think I need roomier pants.{/i}"
 
 # game/UpdateScript0.02.rpy:3650## # translate crowdin emptywarehouse_4f5e3a31:
-msgid "R "Uhhemm.... It looks really good.... uhhh nice pose!"
+msgid "[R] Uhhemm.... It looks really good.... uhhh nice pose!"
     R "Uhhemm.... It looks really good.... uhhh nice pose!"
 
 # game/UpdateScript0.02.rpy:3655## # translate crowdin emptywarehouse_34ec492e:
-msgid "R "Ok, let's get a sexy pic from the front."
+msgid "[R] Ok, let's get a sexy pic from the front."
     R "Ok, let's get a sexy pic from the front."
 
 # game/UpdateScript0.02.rpy:3656## # translate crowdin emptywarehouse_1f13e77b:
-msgid "R "Can you modify anything in the front so that it looks sexier?"
+msgid "[R] Can you modify anything in the front so that it looks sexier?"
     R "Can you modify anything in the front so that it looks sexier?"
 
 # game/UpdateScript0.02.rpy:3657## # translate crowdin emptywarehouse_7f1a1627:
@@ -5675,7 +5675,7 @@ msgid "MD "Yeah, it can, I'm not really sure I'm comfortable showing my nips tho
     MD "Yeah, it can, I'm not really sure I'm comfortable showing my nips though."
 
 # game/UpdateScript0.02.rpy:3661## # translate crowdin emptywarehouse_19e7aed6:
-msgid "R "Oh yeah, like I said, nothing that makes you feel uncomfortable, so you could just take off the breast plate and cover your nipples with your hands."
+msgid "[R] Oh yeah, like I said, nothing that makes you feel uncomfortable, so you could just take off the breast plate and cover your nipples with your hands."
     R "Oh yeah, like I said, nothing that makes you feel uncomfortable, so you could just take off the breast plate and cover your nipples with your hands."
 
 # game/UpdateScript0.02.rpy:3664## # translate crowdin emptywarehouse_88736aa8:
@@ -5687,11 +5687,11 @@ msgid "{i}{b}\"Mandy's Submission +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mandy's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3667## # translate crowdin emptywarehouse_995ed9fd:
-msgid "R "Yeah, that costume kicks ass."
+msgid "[R] Yeah, that costume kicks ass."
     R "Yeah, that costume kicks ass."
 
 # game/UpdateScript0.02.rpy:3668## # translate crowdin emptywarehouse_3c4cede7:
-msgid "R "Now, try to look sexy."
+msgid "[R] Now, try to look sexy."
     R "Now, try to look sexy."
 
 # game/UpdateScript0.02.rpy:3670## # translate crowdin emptywarehouse_8f152e6e:
@@ -5719,15 +5719,15 @@ msgid "RT "{i}That is pretty hot! I think I've found my dream career.{/i}"
     RT "{i}That is pretty hot! I think I've found my dream career.{/i}"
 
 # game/UpdateScript0.02.rpy:3679## # translate crowdin emptywarehouse_b4aa68b7:
-msgid "R "Uuuuhhhhhh.... gulp.... yeah, that will.... uh.... do just fine."
+msgid "[R] Uuuuhhhhhh.... gulp.... yeah, that will.... uh.... do just fine."
     R "Uuuuhhhhhh.... gulp.... yeah, that will.... uh.... do just fine."
 
 # game/UpdateScript0.02.rpy:3684## # translate crowdin emptywarehouse_e313bb97:
-msgid "R "Ok, good job. Those pictures are going to turn out great!"
+msgid "[R] Ok, good job. Those pictures are going to turn out great!"
     R "Ok, good job. Those pictures are going to turn out great!"
 
 # game/UpdateScript0.02.rpy:3688## # translate crowdin emptywarehouse_c18915ba:
-msgid "R "I got some great pictures from both of you. Why don't you go change and put your costumes in my scooter's pizza box holder, and I'll take them home for you."
+msgid "[R] I got some great pictures from both of you. Why don't you go change and put your costumes in my scooter's pizza box holder, and I'll take them home for you."
     R "I got some great pictures from both of you. Why don't you go change and put your costumes in my scooter's pizza box holder, and I'll take them home for you."
 
 # game/UpdateScript0.02.rpy:3689## # translate crowdin emptywarehouse_4bfc5838:
@@ -5735,15 +5735,15 @@ msgid "{i}+2 inventory items, \"Cosplay Outfits.\"{/i}"
 msgstr "{i}+2 inventory items, \"Cosplay Outfits.\"{/i}"
 
 # game/UpdateScript0.02.rpy:3692## # translate crowdin emptywarehouse_2883eb57:
-msgid "R "I'll also edit and enhance these photos and post them online for you."
+msgid "[R] I'll also edit and enhance these photos and post them online for you."
     R "I'll also edit and enhance these photos and post them online for you."
 
 # game/UpdateScript0.02.rpy:3693## # translate crowdin emptywarehouse_fa19c49e:
-msgid "R "If all goes well, this will be the beginning of your internet fame."
+msgid "[R] If all goes well, this will be the beginning of your internet fame."
     R "If all goes well, this will be the beginning of your internet fame."
 
 # game/UpdateScript0.02.rpy:3694## # translate crowdin emptywarehouse_d9508318:
-msgid "R "Be careful riding your bikes home."
+msgid "[R] Be careful riding your bikes home."
     R "Be careful riding your bikes home."
 
 # game/UpdateScript0.02.rpy:3698## # translate crowdin emptywarehouse_8f889d5b:
@@ -5867,7 +5867,7 @@ msgid "RT "{i}Shit! Why didn't i work harder to make the money for this week's p
     RT "{i}Shit! Why didn't i work harder to make the money for this week's payment? Who knows what could happen to Mom back there.{/i}"
 
 # game/UpdateScript0.02.rpy:3775## # translate crowdin ntrclub_78b41dfd:
-msgid "R "Umm.... excuse me sir, could you tell me what goes on behind that curtain?"
+msgid "[R] Umm.... excuse me sir, could you tell me what goes on behind that curtain?"
     R "Umm.... excuse me sir, could you tell me what goes on behind that curtain?"
 
 # game/UpdateScript0.02.rpy:3778## # translate crowdin ntrclub_63200108:
@@ -5875,7 +5875,7 @@ msgid "G "Ahh.... aren't you Ron?"
     G "Ahh.... aren't you Ron?"
 
 # game/UpdateScript0.02.rpy:3779## # translate crowdin ntrclub_5b8d3220:
-msgid "R "It's [ryan] actually."
+msgid "[R] It's [ryan] actually."
     R "It's [ryan] actually."
 
 # game/UpdateScript0.02.rpy:3780## # translate crowdin ntrclub_4fd6a65e:
@@ -5887,7 +5887,7 @@ msgid "G "Joey was hoping you'd be here tonight."
     G "Joey was hoping you'd be here tonight."
 
 # game/UpdateScript0.02.rpy:3782## # translate crowdin ntrclub_358cce29:
-msgid "R "What? What are you talking about?"
+msgid "[R] What? What are you talking about?"
     R "What? What are you talking about?"
 
 # game/UpdateScript0.02.rpy:3783## # translate crowdin ntrclub_6146f6b9:
@@ -5899,7 +5899,7 @@ msgid "G "And since [dad_name] is in prison, having you around is the next best 
     G "And since [dad_name] is in prison, having you around is the next best thing for him."
 
 # game/UpdateScript0.02.rpy:3787## # translate crowdin ntrclub_20bc5300:
-msgid "R "Cuckold? Does that mean he's going to fuck her in there?"
+msgid "[R] Cuckold? Does that mean he's going to fuck her in there?"
     R "Cuckold? Does that mean he's going to fuck her in there?"
 
 # game/UpdateScript0.02.rpy:3788## # translate crowdin ntrclub_736b2e1c:
@@ -5911,7 +5911,7 @@ msgid "G "But if she keeps coming back, I would say yes, he'll eventually split 
     G "But if she keeps coming back, I would say yes, he'll eventually split her peach."
 
 # game/UpdateScript0.02.rpy:3790## # translate crowdin ntrclub_c2eccb99:
-msgid "R "Shit. I've got to do something."
+msgid "[R] Shit. I've got to do something."
     R "Shit. I've got to do something."
 
 # game/UpdateScript0.02.rpy:3793## # translate crowdin ntrclub_0f9cfe6f:
@@ -5927,7 +5927,7 @@ msgid "G "And maybe you'd better just peek, and don't let [mom_name] see you. If
     G "And maybe you'd better just peek, and don't let [mom_name] see you. If you spook her off, Joey won't be very happy, and once again, I'll have to give you two black eyes."
 
 # game/UpdateScript0.02.rpy:3796## # translate crowdin ntrclub_cbcd85b8:
-msgid "R "Ok, ok, I've got it. If I ruin Joey's moment, I get two black eyes."
+msgid "[R] Ok, ok, I've got it. If I ruin Joey's moment, I get two black eyes."
     R "Ok, ok, I've got it. If I ruin Joey's moment, I get two black eyes."
 
 # game/UpdateScript0.02.rpy:3797## # translate crowdin ntrclub_7c1a051c:
@@ -5935,7 +5935,7 @@ msgid "G "Two black eyes."
     G "Two black eyes."
 
 # game/UpdateScript0.02.rpy:3798## # translate crowdin ntrclub_629dcbe9:
-msgid "R "Ok, can I peek now?"
+msgid "[R] Ok, can I peek now?"
     R "Ok, can I peek now?"
 
 # game/UpdateScript0.02.rpy:3799## # translate crowdin ntrclub_37f0c076:
@@ -6059,7 +6059,7 @@ msgid "J "Whatever."
     J "Whatever."
 
 # game/UpdateScript0.02.rpy:3976## # translate crowdin ntrclub_87beebe4:
-msgid "R "Shit, she's done, I'd better make myself scarce."
+msgid "[R] Shit, she's done, I'd better make myself scarce."
     R "Shit, she's done, I'd better make myself scarce."
 ## # translate crowdin strings:##    # game/UpdateScript0.02.rpy:233
 msgid "What will she do?"

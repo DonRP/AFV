@@ -3,7 +3,7 @@ msgid "[MS] That's the picture of Lauren you're going to use?"
 msgstr "[MS] That's the picture of Lauren you're going to use?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:127## # translate crowdin HTBYD_game_start_lbl_09808be8:
-msgid "R "Yeah, do you like it?"
+msgid "[R] Yeah, do you like it?"
     R "Yeah, do you like it?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:128## # translate crowdin HTBYD_game_start_lbl_f8e32db7:
@@ -15,7 +15,7 @@ msgid "[MS] Is Lauren ok with this?"
 msgstr "[MS] Is Lauren ok with this?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:130## # translate crowdin HTBYD_game_start_lbl_d597c159:
-msgid "R "It was mostly her idea."
+msgid "[R] It was mostly her idea."
     R "It was mostly her idea."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:131## # translate crowdin HTBYD_game_start_lbl_f7155a88:
@@ -35,7 +35,7 @@ msgid "[MS] Lauren looks a lot like the girl in that movie \"How to Breed your D
 msgstr "[MS] Lauren looks a lot like the girl in that movie \"How to Breed your Dragon.\", only with much fewer... clothes on... What's her name?... Assturd?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:135## # translate crowdin HTBYD_game_start_lbl_1ab2361d:
-msgid "R "Yeah, that's exactly right."
+msgid "[R] Yeah, that's exactly right."
     R "Yeah, that's exactly right."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:136## # translate crowdin HTBYD_game_start_lbl_aab0d72b:
@@ -43,11 +43,11 @@ msgid "[MS] Ok, good. So you want the poster to reflect that with a proper backg
 msgstr "[MS] Ok, good. So you want the poster to reflect that with a proper background, and a proper slogan... So take a second to think about it."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:137## # translate crowdin HTBYD_game_start_lbl_dc7a84b6:
-msgid "R "...."
+msgid "[R] ...."
     R "...."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:138## # translate crowdin HTBYD_game_start_lbl_9126eb03:
-msgid "R "Ok... I think I've got an idea."
+msgid "[R] Ok... I think I've got an idea."
     R "Ok... I think I've got an idea."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:139## # translate crowdin HTBYD_game_start_lbl_75b88557:
@@ -59,7 +59,7 @@ msgid "[MS] You still want to use that particular picture?"
 msgstr "[MS] You still want to use that particular picture?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:142## # translate crowdin HTBYD_game_start_lbl_d6db9db2:
-msgid "R "Yeah, why not?"
+msgid "[R] Yeah, why not?"
     R "Yeah, why not?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:143## # translate crowdin HTBYD_game_start_lbl_d30bcd4d:
@@ -87,7 +87,7 @@ msgid "[MS] And let your creativity flow."
 msgstr "[MS] And let your creativity flow."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:149## # translate crowdin HTBYD_game_start_lbl_771f9494:
-msgid "R "Ok... I think I'm ready."
+msgid "[R] Ok... I think I'm ready."
     R "Ok... I think I'm ready."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:161## # translate crowdin HTBYD_game_end_lbl_fccd1316:
@@ -99,11 +99,11 @@ msgid "MST "{i}The slogan is a bit provocative, but it definitely goes with the 
     MST "{i}The slogan is a bit provocative, but it definitely goes with the flavor of the picture.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:163## # translate crowdin HTBYD_game_end_lbl_618f050e:
-msgid "R "Yeah... I just did exactly what you said..."
+msgid "[R] Yeah... I just did exactly what you said..."
     R "Yeah... I just did exactly what you said..."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:164## # translate crowdin HTBYD_game_end_lbl_768d340b:
-msgid "R "You're such a good art teacher!"
+msgid "[R] You're such a good art teacher!"
     R "You're such a good art teacher!"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:165## # translate crowdin HTBYD_game_end_lbl_6a29bd12:
@@ -115,7 +115,7 @@ msgid "[MS] Now, is that it, or did you say you need to design another poster?"
 msgstr "[MS] Now, is that it, or did you say you need to design another poster?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:167## # translate crowdin HTBYD_game_end_lbl_955333a5:
-msgid "R "I've got one more."
+msgid "[R] I've got one more."
     R "I've got one more."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:168## # translate crowdin HTBYD_game_end_lbl_9de72fec:
@@ -127,7 +127,7 @@ msgid "[MS] The background is looking nice, now bring it home with a creative sl
 msgstr "[MS] The background is looking nice, now bring it home with a creative slogan."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:177## # translate crowdin HTBYD_game_end_lbl_67c6ec22:
-msgid "R "Alright... I've got this."
+msgid "[R] Alright... I've got this."
     R "Alright... I've got this."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:184## # translate crowdin HTBYD_game_end_lbl_6a323a1c:
@@ -135,11 +135,11 @@ msgid "[MS] Oh... That's... Hmmm..."
 msgstr "[MS] Oh... That's... Hmmm..."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:185## # translate crowdin HTBYD_game_end_lbl_8c85cc34:
-msgid "R "Well... That didn't end up the way I planned."
+msgid "[R] Well... That didn't end up the way I planned."
     R "Well... That didn't end up the way I planned."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:186## # translate crowdin HTBYD_game_end_lbl_14eba41d:
-msgid "R "But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
+msgid "[R] But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
     R "But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:187## # translate crowdin HTBYD_game_end_lbl_6c494ceb:
@@ -151,7 +151,7 @@ msgid "[MS] Now, is that it, or did you say you need to design another poster?"
 msgstr "[MS] Now, is that it, or did you say you need to design another poster?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:189## # translate crowdin HTBYD_game_end_lbl_955333a5_1:
-msgid "R "I've got one more."
+msgid "[R] I've got one more."
     R "I've got one more."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:190## # translate crowdin HTBYD_game_end_lbl_9de72fec_1:

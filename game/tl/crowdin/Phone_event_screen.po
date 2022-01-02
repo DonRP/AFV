@@ -891,27 +891,27 @@ msgid "RT "{i}With so many people in the house, it's hard to catch Lauren alone.
     RT "{i}With so many people in the house, it's hard to catch Lauren alone... She usually showers alone early on Saturday. That might be a good opportunity for some more fun.{/i}"
 
 # game/Phone_event_screen.rpy:1639## # translate crowdin again_tutorial_50b4b06e:
-msgid "R "Testing.... Testing.... Ok.... It looks like it's recording."
+msgid "[R] Testing.... Testing.... Ok.... It looks like it's recording."
     R "Testing.... Testing.... Ok.... It looks like it's recording."
 
 # game/Phone_event_screen.rpy:1642## # translate crowdin again_tutorial_eb7ecfdc:
-msgid "R "My name is [ryan].... And if you are watching this recording, it means that I am dead."
+msgid "[R] My name is [ryan].... And if you are watching this recording, it means that I am dead."
     R "My name is [ryan].... And if you are watching this recording, it means that I am dead."
 
 # game/Phone_event_screen.rpy:1643## # translate crowdin again_tutorial_0d8199d8:
-msgid "R "Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
+msgid "[R] Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
     R "Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
 
 # game/Phone_event_screen.rpy:1646## # translate crowdin again_tutorial_a7a71d55:
-msgid "R "Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
+msgid "[R] Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
     R "Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
 
 # game/Phone_event_screen.rpy:1647## # translate crowdin again_tutorial_4941a26d:
-msgid "R "But probably the kind of tv series you could only see on HBO."
+msgid "[R] But probably the kind of tv series you could only see on HBO."
     R "But probably the kind of tv series you could only see on HBO."
 
 # game/Phone_event_screen.rpy:1650## # translate crowdin again_tutorial_047a76a4:
-msgid "R "Please God, just don't let anybody make a crappy H-game out of this."
+msgid "[R] Please God, just don't let anybody make a crappy H-game out of this."
     R "Please God, just don't let anybody make a crappy H-game out of this."
 
 # game/Phone_event_screen.rpy:1654## # translate crowdin again_tutorial_29d73646:
@@ -931,15 +931,15 @@ msgid "WT "Back to you [ryan]."
     WT "Back to you [ryan]."
 
 # game/Phone_event_screen.rpy:1662## # translate crowdin again_tutorial_9888c663:
-msgid "R "I wanted to record my version of the remarkable events that have occured over the last little while."
+msgid "[R] I wanted to record my version of the remarkable events that have occured over the last little while."
     R "I wanted to record my version of the remarkable events that have occured over the last little while."
 
 # game/Phone_event_screen.rpy:1663## # translate crowdin again_tutorial_f9858483:
-msgid "R "I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
+msgid "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
     R "I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
 
 # game/Phone_event_screen.rpy:1664## # translate crowdin again_tutorial_15e2c4a9:
-msgid "R "I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
+msgid "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
     R "I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
 
 # game/Phone_event_screen.rpy:1667## # translate crowdin again_tutorial_7be5f7b4:
@@ -983,11 +983,11 @@ msgid "WT "I'll let you get back to [ryan] again."
     WT "I'll let you get back to [ryan] again."
 
 # game/Phone_event_screen.rpy:1697## # translate crowdin again_tutorial_4f74ea21:
-msgid "R "I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
+msgid "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
     R "I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
 
 # game/Phone_event_screen.rpy:1700## # translate crowdin again_tutorial_88c4b13a:
-msgid "R "I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
+msgid "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
     R "I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
 
 # game/Phone_event_screen.rpy:1703## # translate crowdin again_tutorial_33df29b8:
@@ -1023,15 +1023,15 @@ msgid "WT "So have fun exploring!"
     WT "So have fun exploring!"
 
 # game/Phone_event_screen.rpy:1722## # translate crowdin again_tutorial_c83ea849:
-msgid "R "I never can be sure who is following me, even though I have my suspicions."
+msgid "[R] I never can be sure who is following me, even though I have my suspicions."
     R "I never can be sure who is following me, even though I have my suspicions."
 
 # game/Phone_event_screen.rpy:1723## # translate crowdin again_tutorial_7346a4af:
-msgid "R "Always having to watch my back, has made me grow closer to the few people I can trust."
+msgid "[R] Always having to watch my back, has made me grow closer to the few people I can trust."
     R "Always having to watch my back, has made me grow closer to the few people I can trust."
 
 # game/Phone_event_screen.rpy:1724## # translate crowdin again_tutorial_51e7cbc3:
-msgid "R "And who can I trust better than those that live right here with me?"
+msgid "[R] And who can I trust better than those that live right here with me?"
     R "And who can I trust better than those that live right here with me?"
 
 # game/Phone_event_screen.rpy:1725## # translate crowdin again_tutorial_033e4640:
@@ -1043,7 +1043,7 @@ msgid "M "{i}(muffled voice){/i} [ryan]? Why is the door locked? You're not look
     M "{i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
 
 # game/Phone_event_screen.rpy:1729## # translate crowdin again_tutorial_a8730e81:
-msgid "R "No Mom!.... But I'm really busy right now!"
+msgid "[R] No Mom!.... But I'm really busy right now!"
     R "No Mom!.... But I'm really busy right now!"
 
 # game/Phone_event_screen.rpy:1730## # translate crowdin again_tutorial_ecfc0255:
@@ -1051,7 +1051,7 @@ msgid "M "With what?"
     M "With what?"
 
 # game/Phone_event_screen.rpy:1731## # translate crowdin again_tutorial_2f540835:
-msgid "R "Ummm.... Homework.... of course!"
+msgid "[R] Ummm.... Homework.... of course!"
     R "Ummm.... Homework.... of course!"
 
 # game/Phone_event_screen.rpy:1732## # translate crowdin again_tutorial_d3cb05bf:
@@ -1063,15 +1063,15 @@ msgid "M "You know, that if you need some relief, you just need to let me know. 
     M "You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
 
 # game/Phone_event_screen.rpy:1736## # translate crowdin again_tutorial_c8d5a1ef:
-msgid "R "Ok!.... thanks Mom!"
+msgid "[R] Ok!.... thanks Mom!"
     R "Ok!.... thanks Mom!"
 
 # game/Phone_event_screen.rpy:1737## # translate crowdin again_tutorial_b7d2b788:
-msgid "R "Please don't judge me until you've heard my side of the story."
+msgid "[R] Please don't judge me until you've heard my side of the story."
     R "Please don't judge me until you've heard my side of the story."
 
 # game/Phone_event_screen.rpy:1740## # translate crowdin again_tutorial_483a3f0e:
-msgid "R "It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
+msgid "[R] It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
     R "It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
 
 # game/Phone_event_screen.rpy:1743## # translate crowdin again_tutorial_0f68a40c:
@@ -1199,23 +1199,23 @@ msgid "WT "Go ahead and take it from here [ryan]!"
     WT "Go ahead and take it from here [ryan]!"
 
 # game/Phone_event_screen.rpy:1822## # translate crowdin again_tutorial_26e720f0:
-msgid "R "I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
+msgid "[R] I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
     R "I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
 
 # game/Phone_event_screen.rpy:1823## # translate crowdin again_tutorial_a0f32abe:
-msgid "R "And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
+msgid "[R] And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
     R "And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
 
 # game/Phone_event_screen.rpy:1826## # translate crowdin again_tutorial_e6d5853d:
-msgid "R ".... So, until fairly recently, I was just a normal teenage kid like everybody else."
+msgid "[R] .... So, until fairly recently, I was just a normal teenage kid like everybody else."
     R ".... So, until fairly recently, I was just a normal teenage kid like everybody else."
 
 # game/Phone_event_screen.rpy:1827## # translate crowdin again_tutorial_e48aa4ec:
-msgid "R "Until I was woken up really early one day, by a phone call that would change my life forever...."
+msgid "[R] Until I was woken up really early one day, by a phone call that would change my life forever...."
     R "Until I was woken up really early one day, by a phone call that would change my life forever...."
 
 # game/Phone_event_screen.rpy:1828## # translate crowdin again_tutorial_dc7a84b6:
-msgid "R "...."
+msgid "[R] ...."
     R "...."
 
 # game/Phone_event_screen.rpy:1831## # translate crowdin again_tutorial_076a53a8:

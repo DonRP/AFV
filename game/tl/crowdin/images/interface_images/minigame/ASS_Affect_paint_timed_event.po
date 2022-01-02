@@ -7,7 +7,7 @@ msgid "[MS] She is very photogenic from that angle."
 msgstr "[MS] She is very photogenic from that angle."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:128## # translate crowdin ASS_Affect_game_start_lbl_cb04a16f:
-msgid "R "Yeah, what she lacks in the bra, she makes up for in the trunk."
+msgid "[R] Yeah, what she lacks in the bra, she makes up for in the trunk."
     R "Yeah, what she lacks in the bra, she makes up for in the trunk."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:129## # translate crowdin ASS_Affect_game_start_lbl_737e5d1a:
@@ -15,7 +15,7 @@ msgid "[MS] Haha... [ryan]..."
 msgstr "[MS] Haha... [ryan]..."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:130## # translate crowdin ASS_Affect_game_start_lbl_38ce0b4a:
-msgid "R "Oh, right... I shouldn't talk like that in school, sorry."
+msgid "[R] Oh, right... I shouldn't talk like that in school, sorry."
     R "Oh, right... I shouldn't talk like that in school, sorry."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:131## # translate crowdin ASS_Affect_game_start_lbl_43bfb9e7:
@@ -23,7 +23,7 @@ msgid "[MS] Uh huh... And who is Lauren supposed to be in this picture?"
 msgstr "[MS] Uh huh... And who is Lauren supposed to be in this picture?"
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:132## # translate crowdin ASS_Affect_game_start_lbl_2c794b2d:
-msgid "R "Well, she's supposed to be Penny Roberson from \"Missing in Space\", but she could pass for any number of sci-fi girls."
+msgid "[R] Well, she's supposed to be Penny Roberson from \"Missing in Space\", but she could pass for any number of sci-fi girls."
     R "Well, she's supposed to be Penny Roberson from \"Missing in Space\", but she could pass for any number of sci-fi girls."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:133## # translate crowdin ASS_Affect_game_start_lbl_ea3d16ca:
@@ -31,11 +31,11 @@ msgid "[MS] Ok, great... So remember, think of a theme, a background, and a slog
 msgstr "[MS] Ok, great... So remember, think of a theme, a background, and a slogan."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:134## # translate crowdin ASS_Affect_game_start_lbl_dc7a84b6:
-msgid "R "...."
+msgid "[R] ...."
     R "...."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:135## # translate crowdin ASS_Affect_game_start_lbl_e9adfdff:
-msgid "R "Ok, I think I've got an idea."
+msgid "[R] Ok, I think I've got an idea."
     R "Ok, I think I've got an idea."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:137## # translate crowdin ASS_Affect_game_start_lbl_62d847a6:
@@ -55,7 +55,7 @@ msgid "[MS] And let your creativity flow."
 msgstr "[MS] And let your creativity flow."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:141## # translate crowdin ASS_Affect_game_start_lbl_771f9494:
-msgid "R "Ok... I think I'm ready."
+msgid "[R] Ok... I think I'm ready."
     R "Ok... I think I'm ready."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:154## # translate crowdin ASS_Affect_game_end_lbl_546445bc:
@@ -67,7 +67,7 @@ msgid "[MS] What is \"Ass Affect\" referencing though?"
 msgstr "[MS] What is \"Ass Affect\" referencing though?"
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:156## # translate crowdin ASS_Affect_game_end_lbl_31c97292:
-msgid "R "It's a parody on the sci-fi video game \"Ass Effect\", but it's really effect with an \"e\"."
+msgid "[R] It's a parody on the sci-fi video game \"Ass Effect\", but it's really effect with an \"e\"."
     R "It's a parody on the sci-fi video game \"Ass Effect\", but it's really effect with an \"e\"."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:157## # translate crowdin ASS_Affect_game_end_lbl_4830b64e:
@@ -99,7 +99,7 @@ msgid "[MS] The background is looking nice, now bring it home with a creative sl
 msgstr "[MS] The background is looking nice, now bring it home with a creative slogan."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:176## # translate crowdin ASS_Affect_game_end_lbl_67c6ec22:
-msgid "R "Alright... I've got this."
+msgid "[R] Alright... I've got this."
     R "Alright... I've got this."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:183## # translate crowdin ASS_Affect_game_end_lbl_6a323a1c:
@@ -107,11 +107,11 @@ msgid "[MS] Oh... That's... Hmmm..."
 msgstr "[MS] Oh... That's... Hmmm..."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:184## # translate crowdin ASS_Affect_game_end_lbl_8c85cc34:
-msgid "R "Well... That didn't end up the way I planned."
+msgid "[R] Well... That didn't end up the way I planned."
     R "Well... That didn't end up the way I planned."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:185## # translate crowdin ASS_Affect_game_end_lbl_14eba41d:
-msgid "R "But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
+msgid "[R] But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
     R "But, I think nobody will really care since they will just be paying attention to the picture of Lauren."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:186## # translate crowdin ASS_Affect_game_end_lbl_6c494ceb:
