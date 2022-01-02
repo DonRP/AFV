@@ -8,11 +8,11 @@ msgid "RT "{i}I should check if I got any likes and if I can transfer the money 
 
 # game/Cosplay_gallery.rpy:1793## # translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
-    "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
+msgstr "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
 
 # game/Cosplay_gallery.rpy:1798## # translate crowdin supporters_income_photoshoot_aa36c7f3:
 msgid "You have already withdrawn the money that you have earned this month!"
-    "You have already withdrawn the money that you have earned this month!"
+msgstr "You have already withdrawn the money that you have earned this month!"
 
 # game/Cosplay_gallery.rpy:1803## # translate crowdin supporters_income_photoshoot_ed87ddab:
 msgid "RT "{i}I must wait until the end of the month to withdraw my funds.{/i}"
@@ -20,11 +20,11 @@ msgid "RT "{i}I must wait until the end of the month to withdraw my funds.{/i}"
 
 # game/Cosplay_gallery.rpy:1822## # translate crowdin income_photoshoot_9eef3851:
 msgid "You have received [new_likes] new likes and earned $[income]!"
-    "You have received [new_likes] new likes and earned $[income]!"
+msgstr "You have received [new_likes] new likes and earned $[income]!"
 
 # game/Cosplay_gallery.rpy:1827## # translate crowdin income_photoshoot_e4c275b3:
 msgid "You have already withdrawn the money that you have earned!"
-    "You have already withdrawn the money that you have earned!"
+msgstr "You have already withdrawn the money that you have earned!"
 
 # game/Cosplay_gallery.rpy:1832## # translate crowdin income_photoshoot_35500616:
 msgid "RT "{i}I must wait until the end of the week to withdraw my funds.{/i}"

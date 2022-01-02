@@ -104,7 +104,7 @@ msgid "L "Yep, cuz you will probably never hear it again."
 
 # game/UpdateScript0.03.rpy:531## # translate crowdin check_for_htbyd_likes_1ffebffc:
 msgid "{i}{b}\"Lauren's Anger =0\"{/b}{/i}"
-    "{i}{b}\"Lauren's Anger =0\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Anger =0\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:535## # translate crowdin check_for_htbyd_likes_b911c927:
 msgid "L "Well.... your skin to likes ratio theory seems to hold true."
@@ -136,11 +136,11 @@ msgid "L "Ok, it's getting too mushy in here. I'll see you around the house some
 
 # game/UpdateScript0.03.rpy:558## # translate crowdin diazvisit_ac5a80fe:
 msgid "{b}Ding Dong!{/b}"
-    "{b}Ding Dong!{/b}"
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:563## # translate crowdin diazvisit_ac5a80fe_1:
 msgid "{b}Ding Dong!{/b}"
-    "{b}Ding Dong!{/b}"
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:568## # translate crowdin diazvisit_559bc79a:
 msgid "R "Who in the hell?"
@@ -536,7 +536,7 @@ msgid "L "Oh, thank God!"
 
 # game/UpdateScript0.03.rpy:709## # translate crowdin diazvisit_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:712## # translate crowdin diazvisit_f3e8c69d:
 msgid "R "I'm a little short on money, but I'll do my best to get enough by Saturday."
@@ -564,7 +564,7 @@ msgid "R "Here's the $500."
 
 # game/UpdateScript0.03.rpy:720## # translate crowdin diazvisit_1d2e43f3:
 msgid "{i}\"Money - $500\"{/i}"
-    "{i}\"Money - $500\"{/i}"
+msgstr "{i}\"Money - $500\"{/i}"
 
 # game/UpdateScript0.03.rpy:722## # translate crowdin diazvisit_22792f17:
 msgid "AD "It's been a pleasure doing business with you."
@@ -640,7 +640,7 @@ msgid "L "Things that are more important than Mom?"
 
 # game/UpdateScript0.03.rpy:752## # translate crowdin diazvisit_6c49f378:
 msgid "{i}{b}\"Lauren's Respect -1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Respect -1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Respect -1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:754## # translate crowdin diazvisit_cc62608b:
 msgid "R "Well, why don't you try supporting the family?.... See how easy you think it is..."
@@ -680,11 +680,11 @@ msgid "AD "I'll just make myself comfortable on your bed."
 
 # game/UpdateScript0.03.rpy:770## # translate crowdin diazvisit_ac5a80fe_2:
 msgid "{b}Ding Dong!{/b}"
-    "{b}Ding Dong!{/b}"
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:775## # translate crowdin diazvisit_ac5a80fe_3:
 msgid "{b}Ding Dong!{/b}"
-    "{b}Ding Dong!{/b}"
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:780## # translate crowdin diazvisit_e4c22b0d:
 msgid "R "Shit!.... I know who that is..."
@@ -700,31 +700,31 @@ msgid "S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... pant
 
 # game/UpdateScript0.03.rpy:785## # translate crowdin diazvisit_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
-    "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
+msgstr "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
 
 # game/UpdateScript0.03.rpy:788## # translate crowdin diazvisit_60fc04c7:
 msgid "Ok... I get it... You've got other events to complete."
-    "Ok... I get it... You've got other events to complete."
+msgstr "Ok... I get it... You've got other events to complete."
 
 # game/UpdateScript0.03.rpy:789## # translate crowdin diazvisit_5305e469:
 msgid "But are you going to protect Lauren and pay the $500 this week, or will you let Lauren pay Diaz in favors?"
-    "But are you going to protect Lauren and pay the $500 this week, or will you let Lauren pay Diaz in favors?"
+msgstr "But are you going to protect Lauren and pay the $500 this week, or will you let Lauren pay Diaz in favors?"
 
 # game/UpdateScript0.03.rpy:792## # translate crowdin diazvisit_413e9889:
 msgid "{i}\"Money -$500\"{/i}"
-    "{i}\"Money -$500\"{/i}"
+msgstr "{i}\"Money -$500\"{/i}"
 
 # game/UpdateScript0.03.rpy:794## # translate crowdin diazvisit_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:799## # translate crowdin diazvisit_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:804## # translate crowdin diazvisit_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:811## # translate crowdin diazvisit_1682acb0:
 msgid "RT "{i}I better grab my cash in case I need it.{/i}"
@@ -764,7 +764,7 @@ msgid "R "Here, just take your money and get out of here."
 
 # game/UpdateScript0.03.rpy:827## # translate crowdin diazvisit_413e9889_1:
 msgid "{i}\"Money -$500\"{/i}"
-    "{i}\"Money -$500\"{/i}"
+msgstr "{i}\"Money -$500\"{/i}"
 
 # game/UpdateScript0.03.rpy:831## # translate crowdin diazvisit_0d5e051e:
 msgid "AD "Now don't be like that..."
@@ -940,7 +940,7 @@ msgid "RT "{i}I'd love to stick my nose right directly into her business ;){/i}"
 
 # game/UpdateScript0.03.rpy:912## # translate crowdin firstloyaltyweekend_b6e02bea:
 msgid "{i}{b}\"Mom's Affection -2\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection -2\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection -2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:914## # translate crowdin firstloyaltyweekend_99cfd95b:
 msgid "R "Sorry Mom, I just can't help but worry about you."
@@ -976,7 +976,7 @@ msgid "M "I just thought stripping was going to be part of my life again until y
 
 # game/UpdateScript0.03.rpy:926## # translate crowdin firstloyaltyweekend_21ebdb42:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
-    "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:928## # translate crowdin firstloyaltyweekend_28ce09a6:
 msgid "R "It just makes me feel really good to take care of you and make you happy."
@@ -984,11 +984,11 @@ msgid "R "It just makes me feel really good to take care of you and make you hap
 
 # game/UpdateScript0.03.rpy:929## # translate crowdin firstloyaltyweekend_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:930## # translate crowdin firstloyaltyweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:934## # translate crowdin firstloyaltyweekend_702aacb5:
 msgid "R "Good! I'm so glad to see you looking happy. I know your stress has to be through the roof."
@@ -1000,7 +1000,7 @@ msgid "R "I really admire how well you're handling everything that's going on."
 
 # game/UpdateScript0.03.rpy:936## # translate crowdin firstloyaltyweekend_b591b992:
 msgid "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:938## # translate crowdin firstloyaltyweekend_0c178c1e:
 msgid "M "Oh, honey, you're so sweet!"
@@ -1028,7 +1028,7 @@ msgid "M "I just thought stripping was going to be part of my life again until y
 
 # game/UpdateScript0.03.rpy:946## # translate crowdin firstloyaltyweekend_21ebdb42_1:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
-    "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:948## # translate crowdin firstloyaltyweekend_28ce09a6_1:
 msgid "R "It just makes me feel really good to take care of you and make you happy."
@@ -1132,7 +1132,7 @@ msgid "MT "{i}Otherwise.... I wouldn't let this kind of shit fly at all!!.... {/
 
 # game/UpdateScript0.03.rpy:990## # translate crowdin firstloyaltyweekend_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:998## # translate crowdin firstloyaltyweekend_5fe9f6dd_1:
 msgid "M "[upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
@@ -1172,7 +1172,7 @@ msgid "M "I've got to go cool down somewhere."
 
 # game/UpdateScript0.03.rpy:1009## # translate crowdin firstloyaltyweekend_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1020## # translate crowdin firstloyaltyweekend_30b80105:
 msgid "M "Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
@@ -1272,7 +1272,7 @@ msgid "M "[ryan]! I can't tell if that was supposed to be a joke or not, but eit
 
 # game/UpdateScript0.03.rpy:1058## # translate crowdin firstloyaltyweekend_191a2b95:
 msgid "{i}\"Mom's affection -3\"{/i}"
-    "{i}\"Mom's affection -3\"{/i}"
+msgstr "{i}\"Mom's affection -3\"{/i}"
 
 # game/UpdateScript0.03.rpy:1060## # translate crowdin firstloyaltyweekend_07b2f917:
 msgid "R "But Mom, I was just..."
@@ -1436,7 +1436,7 @@ msgid "R "I've been working really hard lately, and I should have enough to pay 
 
 # game/UpdateScript0.03.rpy:1133## # translate crowdin commissionsecondoutfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-    "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
+msgstr "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1135## # translate crowdin commissionsecondoutfit_bfd8516a:
 msgid "S "Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
@@ -1444,7 +1444,7 @@ msgid "S "Good for you little brother! Keep it up and maybe we will be able to g
 
 # game/UpdateScript0.03.rpy:1136## # translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
-    "{i}\"Money - $400\"{/i}"
+msgstr "{i}\"Money - $400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1139## # translate crowdin commissionsecondoutfit_0770ae02:
 msgid "R "Why should I be the one responsible to pay off the debt every week, Mom can help out too."
@@ -1460,7 +1460,7 @@ msgid "R "Oh please, Mom's not in any danger."
 
 # game/UpdateScript0.03.rpy:1142## # translate crowdin commissionsecondoutfit_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
-    "{i}\"Money - $400\"{/i}"
+msgstr "{i}\"Money - $400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1149## # translate crowdin commissionsecondoutfit_10adc244:
 msgid "R "So, how long will it take to finish?"
@@ -1892,7 +1892,7 @@ msgid "M "And a Hyongu is such a stylish bikini. I'll be proud to wear this one 
 
 # game/UpdateScript0.03.rpy:1318## # translate crowdin bikinishow_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1320## # translate crowdin bikinishow_886ca893:
 msgid "M "Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
@@ -2320,7 +2320,7 @@ msgid "L "Thank you!!"
 
 # game/UpdateScript0.03.rpy:1531## # translate crowdin diaz_and_lauren_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1533## # translate crowdin diaz_and_lauren_d63f0ce0:
 msgid "R "We'd better get ready for school. We're going to be late."
@@ -2576,7 +2576,7 @@ msgid "L "Thank you!!"
 
 # game/UpdateScript0.03.rpy:1651## # translate crowdin diaz_and_lauren_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1653## # translate crowdin diaz_and_lauren_d63f0ce0_1:
 msgid "R "We'd better get ready for school. We're going to be late."
@@ -2592,7 +2592,7 @@ msgid "R "That's what big brothers are for, Lauren."
 
 # game/UpdateScript0.03.rpy:1666## # translate crowdin ryan_and_lauren_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1668## # translate crowdin ryan_and_lauren_821cedf8:
 msgid "L "Well, lately you've been much more to me than a big brother."
@@ -2932,7 +2932,7 @@ msgid "R "That's what big brothers are for, Lauren."
 
 # game/UpdateScript0.03.rpy:1875## # translate crowdin ryan_and_lauren_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1877## # translate crowdin ryan_and_lauren_e98acf51:
 msgid "L "Well, I wanted to take this opportunity again to return the favor."
@@ -3880,7 +3880,7 @@ msgid "R "I'll just get her a glass of wine."
 
 # game/UpdateScript0.03.rpy:2401## # translate crowdin clubpool_617c9bdb:
 msgid "{i}\"Money -$20\"{/i}"
-    "{i}\"Money -$20\"{/i}"
+msgstr "{i}\"Money -$20\"{/i}"
 
 # game/UpdateScript0.03.rpy:2403## # translate crowdin clubpool_f2276e41:
 msgid "W "Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
@@ -3904,7 +3904,7 @@ msgid "R "I'll get her the whole bottle."
 
 # game/UpdateScript0.03.rpy:2417## # translate crowdin clubpool_8f73246e:
 msgid "{i}\"Money -$100\"{/i}"
-    "{i}\"Money -$100\"{/i}"
+msgstr "{i}\"Money -$100\"{/i}"
 
 # game/UpdateScript0.03.rpy:2420## # translate crowdin clubpool_f2276e41_1:
 msgid "W "Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
@@ -4068,11 +4068,11 @@ msgid "R "Don't worry, Mom, I'll keep paying that Mafia debt."
 
 # game/UpdateScript0.03.rpy:2520## # translate crowdin clubpool_b591b992:
 msgid "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2521## # translate crowdin clubpool_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2524## # translate crowdin clubpool_d1d0eb65:
 msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4100,7 +4100,7 @@ msgid "R "Don't worry, Mom, I'll keep paying that Mafia debt."
 
 # game/UpdateScript0.03.rpy:2531## # translate crowdin clubpool_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2533## # translate crowdin clubpool_d1d0eb65_1:
 msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4128,7 +4128,7 @@ msgid "R "Don't worry, Mom, I'll keep paying that Mafia debt."
 
 # game/UpdateScript0.03.rpy:2540## # translate crowdin clubpool_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2542## # translate crowdin clubpool_d1d0eb65_2:
 msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4340,7 +4340,7 @@ msgid "M "Are we going to have a problem?"
 
 # game/UpdateScript0.03.rpy:2688## # translate crowdin clubpool_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2690## # translate crowdin clubpool_b578b25a:
 msgid "MB "No.... sorry! We'll behave!"
@@ -4380,7 +4380,7 @@ msgid "MT "{i}Is he really developing an Oedipal complex?.... Why do I feel flat
 
 # game/UpdateScript0.03.rpy:2702## # translate crowdin clubpool_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2704## # translate crowdin clubpool_3555bba0:
 msgid "MT "{i}Will trying to stamp it out really just make him get stuck in this phase like that textbook says?{/i}"
@@ -4532,7 +4532,7 @@ msgid "MB "Is it.... miss [mom_name]?"
 
 # game/UpdateScript0.03.rpy:2772## # translate crowdin clubpool_1919f423:
 msgid "Pull.... yank..."
-    "Pull.... yank..."
+msgstr "Pull.... yank..."
 
 # game/UpdateScript0.03.rpy:2779## # translate crowdin clubpool_3f2c5b41:
 msgid "MBT "{i}Yes, it worked!{/i}"
@@ -4780,7 +4780,7 @@ msgid "MT "{i}I wonder what he's packing underneath those trunks.{/i}"
 
 # game/UpdateScript0.03.rpy:2926## # translate crowdin clubpool_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2928## # translate crowdin clubpool_ad85e890:
 msgid "MT "{i}Shit, [mom_name]! Pull yourself together! You can't think about one of your students like that!{/i}"
@@ -5044,7 +5044,7 @@ msgid "MT "{i}Shit, [mom_name]!.... Stop thinking about your son's huge pulsing 
 
 # game/UpdateScript0.03.rpy:3095## # translate crowdin clubpool_3265e8ee_2:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3097## # translate crowdin clubpool_fedf7ce1:
 msgid "MT "{i}We've got to get out of here.{/i}"
@@ -5104,7 +5104,7 @@ msgid "M "I've never been so embarrassed."
 
 # game/UpdateScript0.03.rpy:3133## # translate crowdin clubpool_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
-    "{i}\"Mom's Respect -1\"{/i}"
+msgstr "{i}\"Mom's Respect -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3135## # translate crowdin clubpool_3a53d690:
 msgid "M "Let's just get our stuff and hurry out to the car."
@@ -5124,7 +5124,7 @@ msgid "MT "{i}Shit, [mom_name]!.... Stop thinking about your son's huge pulsing 
 
 # game/UpdateScript0.03.rpy:3139## # translate crowdin clubpool_3265e8ee_3:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3141## # translate crowdin clubpool_fedf7ce1_1:
 msgid "MT "{i}We've got to get out of here.{/i}"
@@ -5300,7 +5300,7 @@ msgid "MT "{i}And she just let it happen.... didn't say a word for a long time..
 
 # game/UpdateScript0.03.rpy:3286## # translate crowdin clubpool_3265e8ee_4:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3288## # translate crowdin clubpool_53046692:
 msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
@@ -5404,7 +5404,7 @@ msgid "MT "{i}I can't believe I was groping her tight little pussy and ass like 
 
 # game/UpdateScript0.03.rpy:3335## # translate crowdin clubpool_3265e8ee_5:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3337## # translate crowdin clubpool_53046692_1:
 msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
@@ -5588,7 +5588,7 @@ msgid "MT "{i}And he just let it happen.... didn't say a word for a long time...
 
 # game/UpdateScript0.03.rpy:3467## # translate crowdin clubpool_3265e8ee_6:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3469## # translate crowdin clubpool_53046692_2:
 msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
@@ -5696,7 +5696,7 @@ msgid "MT "{i}Matt just let it happen.... didn't say a word for a long time.... 
 
 # game/UpdateScript0.03.rpy:3517## # translate crowdin clubpool_3265e8ee_7:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3519## # translate crowdin clubpool_53046692_3:
 msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
@@ -5712,95 +5712,95 @@ msgid "M "Just shut up and come on!"
 
 # game/UpdateScript0.03.rpy:3548## # translate crowdin photostudio_b4d99b92:
 msgid "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
-    "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
+msgstr "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
 
 # game/UpdateScript0.03.rpy:3559## # translate crowdin photostudio_b4d99b92_1:
 msgid "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
-    "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
+msgstr "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
 
 # game/UpdateScript0.03.rpy:3570## # translate crowdin photostudio_b4d99b92_2:
 msgid "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
-    "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
+msgstr "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
 
 # game/UpdateScript0.03.rpy:3583## # translate crowdin htbydshoot_1b47bdc8:
 msgid "Lauren is only available to take pictures in the late morning."
-    "Lauren is only available to take pictures in the late morning."
+msgstr "Lauren is only available to take pictures in the late morning."
 
 # game/UpdateScript0.03.rpy:3587## # translate crowdin htbydshoot_1b47bdc8_1:
 msgid "Lauren is only available to take pictures in the late morning."
-    "Lauren is only available to take pictures in the late morning."
+msgstr "Lauren is only available to take pictures in the late morning."
 
 # game/UpdateScript0.03.rpy:3591## # translate crowdin htbydshoot_1b47bdc8_2:
 msgid "Lauren is only available to take pictures in the late morning."
-    "Lauren is only available to take pictures in the late morning."
+msgstr "Lauren is only available to take pictures in the late morning."
 
 # game/UpdateScript0.03.rpy:3595## # translate crowdin htbydshoot_1b47bdc8_3:
 msgid "Lauren is only available to take pictures in the late morning."
-    "Lauren is only available to take pictures in the late morning."
+msgstr "Lauren is only available to take pictures in the late morning."
 
 # game/UpdateScript0.03.rpy:3599## # translate crowdin htbydshoot_fba0da7d:
 msgid "You have completed this photo session with Lauren entirely."
-    "You have completed this photo session with Lauren entirely."
+msgstr "You have completed this photo session with Lauren entirely."
 
 # game/UpdateScript0.03.rpy:3600## # translate crowdin htbydshoot_a411d86b:
 msgid "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
-    "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
+msgstr "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3603## # translate crowdin htbydshoot_fba0da7d_1:
 msgid "You have completed this photo session with Lauren entirely."
-    "You have completed this photo session with Lauren entirely."
+msgstr "You have completed this photo session with Lauren entirely."
 
 # game/UpdateScript0.03.rpy:3604## # translate crowdin htbydshoot_a411d86b_1:
 msgid "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
-    "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
+msgstr "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3607## # translate crowdin htbydshoot_4e3273ee:
 msgid "You have already done this photo session with Lauren this week."
-    "You have already done this photo session with Lauren this week."
+msgstr "You have already done this photo session with Lauren this week."
 
 # game/UpdateScript0.03.rpy:3608## # translate crowdin htbydshoot_704bd7a7:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-    "You will still be able to increase Lauren's stats and progress through this scene,"
+msgstr "You will still be able to increase Lauren's stats and progress through this scene,"
 
 # game/UpdateScript0.03.rpy:3609## # translate crowdin htbydshoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
+msgstr "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3612## # translate crowdin htbydshoot_4e3273ee_1:
 msgid "You have already done this photo session with Lauren this week."
-    "You have already done this photo session with Lauren this week."
+msgstr "You have already done this photo session with Lauren this week."
 
 # game/UpdateScript0.03.rpy:3613## # translate crowdin htbydshoot_704bd7a7_1:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-    "You will still be able to increase Lauren's stats and progress through this scene,"
+msgstr "You will still be able to increase Lauren's stats and progress through this scene,"
 
 # game/UpdateScript0.03.rpy:3614## # translate crowdin htbydshoot_d2e00a31_1:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
+msgstr "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3617## # translate crowdin htbydshoot_4e3273ee_2:
 msgid "You have already done this photo session with Lauren this week."
-    "You have already done this photo session with Lauren this week."
+msgstr "You have already done this photo session with Lauren this week."
 
 # game/UpdateScript0.03.rpy:3618## # translate crowdin htbydshoot_704bd7a7_2:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-    "You will still be able to increase Lauren's stats and progress through this scene,"
+msgstr "You will still be able to increase Lauren's stats and progress through this scene,"
 
 # game/UpdateScript0.03.rpy:3619## # translate crowdin htbydshoot_d2e00a31_2:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
+msgstr "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3622## # translate crowdin htbydshoot_4e3273ee_3:
 msgid "You have already done this photo session with Lauren this week."
-    "You have already done this photo session with Lauren this week."
+msgstr "You have already done this photo session with Lauren this week."
 
 # game/UpdateScript0.03.rpy:3623## # translate crowdin htbydshoot_704bd7a7_3:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-    "You will still be able to increase Lauren's stats and progress through this scene,"
+msgstr "You will still be able to increase Lauren's stats and progress through this scene,"
 
 # game/UpdateScript0.03.rpy:3624## # translate crowdin htbydshoot_d2e00a31_3:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
+msgstr "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
 
 # game/UpdateScript0.03.rpy:3631## # translate crowdin htbydshoot_bd3ba4e4:
 msgid "R "Yeah.... I'm already over here."
@@ -5808,7 +5808,7 @@ msgid "R "Yeah.... I'm already over here."
 
 # game/UpdateScript0.03.rpy:3632## # translate crowdin htbydshoot_a20cefa7:
 msgid "..."
-    "..."
+msgstr "..."
 
 # game/UpdateScript0.03.rpy:3633## # translate crowdin htbydshoot_0b8428e0:
 msgid "R "No.... I said I'm already here, I'm not coming to get you."
@@ -5816,7 +5816,7 @@ msgid "R "No.... I said I'm already here, I'm not coming to get you."
 
 # game/UpdateScript0.03.rpy:3634## # translate crowdin htbydshoot_a20cefa7_1:
 msgid "..."
-    "..."
+msgstr "..."
 
 # game/UpdateScript0.03.rpy:3635## # translate crowdin htbydshoot_63bf9803:
 msgid "R "Just ride your bike, it's not that far."
@@ -5824,7 +5824,7 @@ msgid "R "Just ride your bike, it's not that far."
 
 # game/UpdateScript0.03.rpy:3636## # translate crowdin htbydshoot_a20cefa7_2:
 msgid "..."
-    "..."
+msgstr "..."
 
 # game/UpdateScript0.03.rpy:3637## # translate crowdin htbydshoot_540058d3:
 msgid "R "Yeah and bring your cosplay costume."
@@ -5832,7 +5832,7 @@ msgid "R "Yeah and bring your cosplay costume."
 
 # game/UpdateScript0.03.rpy:3638## # translate crowdin htbydshoot_a20cefa7_3:
 msgid "..."
-    "..."
+msgstr "..."
 
 # game/UpdateScript0.03.rpy:3639## # translate crowdin htbydshoot_2dbee252:
 msgid "R "No, I'm sure you can fit it in your backpack."
@@ -5840,7 +5840,7 @@ msgid "R "No, I'm sure you can fit it in your backpack."
 
 # game/UpdateScript0.03.rpy:3640## # translate crowdin htbydshoot_a20cefa7_4:
 msgid "..."
-    "..."
+msgstr "..."
 
 # game/UpdateScript0.03.rpy:3641## # translate crowdin htbydshoot_16fbac71:
 msgid "R "Ok, I'll get the studio ready while I'm waiting for you."
@@ -6116,7 +6116,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:3838## # translate crowdin htbydshoot_87757bf4:
 msgid "To get Lauren to take her skirt off you must have her submission at 5 points or her libido at 9 points."
-    "To get Lauren to take her skirt off you must have her submission at 5 points or her libido at 9 points."
+msgstr "To get Lauren to take her skirt off you must have her submission at 5 points or her libido at 9 points."
 
 # game/UpdateScript0.03.rpy:3843## # translate crowdin htbydshoot_5dbf032d:
 msgid "R "How about we make that outfit even more sexy."
@@ -6152,7 +6152,7 @@ msgid "L "Well.... ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:3858## # translate crowdin htbydshoot_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3862## # translate crowdin htbydshoot_dbbab13a:
 msgid "R "And get rid of that axe and shield while you're at it. We shouldn't need those any more."
@@ -6196,11 +6196,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:3884## # translate crowdin htbydshoot_c40e9816:
 msgid "{i}\"Lauren Anger +1\"{/i}"
-    "{i}\"Lauren Anger +1\"{/i}"
+msgstr "{i}\"Lauren Anger +1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3886## # translate crowdin htbydshoot_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3888## # translate crowdin htbydshoot_375035b3_1:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6208,7 +6208,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:3891## # translate crowdin htbydshoot_0f2352d6:
 msgid "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
-    "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
+msgstr "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
 
 # game/UpdateScript0.03.rpy:3896## # translate crowdin htbydshoot_5dbf032d_1:
 msgid "R "How about we make that outfit even more sexy."
@@ -6244,7 +6244,7 @@ msgid "L "Well.... ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:3911## # translate crowdin htbydshoot_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3913## # translate crowdin htbydshoot_316668ef_1:
 msgid "L "Ok, give me just a second."
@@ -6288,11 +6288,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:3935## # translate crowdin htbydshoot_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-    "{i}\"Lauren Anger +2\"{/i}"
+msgstr "{i}\"Lauren Anger +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:3937## # translate crowdin htbydshoot_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3939## # translate crowdin htbydshoot_375035b3_2:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6300,7 +6300,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:3942## # translate crowdin htbydshoot_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
+msgstr "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
 
 # game/UpdateScript0.03.rpy:3947## # translate crowdin htbydshoot_27706357:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6348,7 +6348,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:3964## # translate crowdin htbydshoot_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3966## # translate crowdin htbydshoot_316668ef_2:
 msgid "L "Ok, give me just a second."
@@ -6392,11 +6392,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:3984## # translate crowdin htbydshoot_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-    "{i}\"Lauren Anger +3\"{/i}"
+msgstr "{i}\"Lauren Anger +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:3986## # translate crowdin htbydshoot_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3988## # translate crowdin htbydshoot_375035b3_3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6404,7 +6404,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:3991## # translate crowdin htbydshoot_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
+msgstr "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
 
 # game/UpdateScript0.03.rpy:3996## # translate crowdin htbydshoot_27706357_1:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6452,7 +6452,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4013## # translate crowdin htbydshoot_c335f1dc_3:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4015## # translate crowdin htbydshoot_316668ef_3:
 msgid "L "Ok, give me just a second."
@@ -6496,11 +6496,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4033## # translate crowdin htbydshoot_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-    "{i}\"Lauren Anger +4\"{/i}"
+msgstr "{i}\"Lauren Anger +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4035## # translate crowdin htbydshoot_5541bdda_3:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4037## # translate crowdin htbydshoot_375035b3_4:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6508,7 +6508,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4040## # translate crowdin htbydshoot_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-    "To get Lauren to take everything off you must have her submission at 19 points."
+msgstr "To get Lauren to take everything off you must have her submission at 19 points."
 
 # game/UpdateScript0.03.rpy:4045## # translate crowdin htbydshoot_27706357_2:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6572,7 +6572,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:4066## # translate crowdin htbydshoot_c335f1dc_4:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4068## # translate crowdin htbydshoot_316668ef_4:
 msgid "L "Ok, give me just a second."
@@ -6616,11 +6616,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:4086## # translate crowdin htbydshoot_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:4088## # translate crowdin htbydshoot_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4090## # translate crowdin htbydshoot_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -6628,7 +6628,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:4093## # translate crowdin htbydshoot_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:4097## # translate crowdin htbydshoot_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -6656,11 +6656,11 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:4104## # translate crowdin htbydshoot_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4105## # translate crowdin htbydshoot_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4108## # translate crowdin htbydshoot_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -6712,7 +6712,7 @@ msgid "L "Ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:4131## # translate crowdin removeskirt_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4133## # translate crowdin removeskirt_dbbab13a:
 msgid "R "And get rid of that axe and shield while you're at it. We shouldn't need those any more."
@@ -6740,7 +6740,7 @@ msgid "R "Seriously, you look incredible."
 
 # game/UpdateScript0.03.rpy:4148## # translate crowdin removeskirt_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4154## # translate crowdin removeskirt_be95a5c5:
 msgid "R "Ok, just hold that pose."
@@ -6800,7 +6800,7 @@ msgid "L "Well.... ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:4197## # translate crowdin removeskirt_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4199## # translate crowdin removeskirt_316668ef_1:
 msgid "L "Ok, give me just a second."
@@ -6840,11 +6840,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4216## # translate crowdin removeskirt_c40e9816:
 msgid "{i}\"Lauren Anger +1\"{/i}"
-    "{i}\"Lauren Anger +1\"{/i}"
+msgstr "{i}\"Lauren Anger +1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4218## # translate crowdin removeskirt_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4220## # translate crowdin removeskirt_375035b3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6852,7 +6852,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4223## # translate crowdin removeskirt_0f2352d6:
 msgid "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
-    "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
+msgstr "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
 
 # game/UpdateScript0.03.rpy:4228## # translate crowdin removeskirt_ed2d2668_1:
 msgid "R "Let's see what we can do to that outfit to sexy it up even more."
@@ -6888,7 +6888,7 @@ msgid "L "Well.... ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:4243## # translate crowdin removeskirt_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4245## # translate crowdin removeskirt_316668ef_2:
 msgid "L "Ok, give me just a second."
@@ -6932,11 +6932,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4267## # translate crowdin removeskirt_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-    "{i}\"Lauren Anger +2\"{/i}"
+msgstr "{i}\"Lauren Anger +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4269## # translate crowdin removeskirt_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4271## # translate crowdin removeskirt_375035b3_1:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -6944,7 +6944,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4274## # translate crowdin removeskirt_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
+msgstr "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
 
 # game/UpdateScript0.03.rpy:4279## # translate crowdin removeskirt_27706357:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6992,7 +6992,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4296## # translate crowdin removeskirt_c335f1dc_3:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4298## # translate crowdin removeskirt_316668ef_3:
 msgid "L "Ok, give me just a second."
@@ -7036,11 +7036,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4316## # translate crowdin removeskirt_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-    "{i}\"Lauren Anger +3\"{/i}"
+msgstr "{i}\"Lauren Anger +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4318## # translate crowdin removeskirt_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4320## # translate crowdin removeskirt_375035b3_2:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7048,7 +7048,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4323## # translate crowdin removeskirt_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
+msgstr "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
 
 # game/UpdateScript0.03.rpy:4328## # translate crowdin removeskirt_27706357_1:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7096,7 +7096,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4345## # translate crowdin removeskirt_c335f1dc_4:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4347## # translate crowdin removeskirt_316668ef_4:
 msgid "L "Ok, give me just a second."
@@ -7140,11 +7140,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4365## # translate crowdin removeskirt_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-    "{i}\"Lauren Anger +4\"{/i}"
+msgstr "{i}\"Lauren Anger +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4367## # translate crowdin removeskirt_5541bdda_3:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4369## # translate crowdin removeskirt_375035b3_3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7152,7 +7152,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4372## # translate crowdin removeskirt_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-    "To get Lauren to take everything off you must have her submission at 19 points."
+msgstr "To get Lauren to take everything off you must have her submission at 19 points."
 
 # game/UpdateScript0.03.rpy:4377## # translate crowdin removeskirt_27706357_2:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7216,7 +7216,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:4398## # translate crowdin removeskirt_c335f1dc_5:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4400## # translate crowdin removeskirt_316668ef_5:
 msgid "L "Ok, give me just a second."
@@ -7260,11 +7260,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:4418## # translate crowdin removeskirt_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:4420## # translate crowdin removeskirt_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4422## # translate crowdin removeskirt_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -7272,7 +7272,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:4425## # translate crowdin removeskirt_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:4429## # translate crowdin removeskirt_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -7300,11 +7300,11 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:4436## # translate crowdin removeskirt_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4437## # translate crowdin removeskirt_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4440## # translate crowdin removeskirt_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -7356,7 +7356,7 @@ msgid "R "Well, keep it up."
 
 # game/UpdateScript0.03.rpy:4476## # translate crowdin thongtime_f18558a3:
 msgid "{i}\"Lauren Libido +1\"{/i}"
-    "{i}\"Lauren Libido +1\"{/i}"
+msgstr "{i}\"Lauren Libido +1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4479## # translate crowdin thongtime_02ae962e:
 msgid "R "I can't wait to see this one with the new background."
@@ -7400,7 +7400,7 @@ msgid "L "Well.... ok, I guess we can do that."
 
 # game/UpdateScript0.03.rpy:4510## # translate crowdin thongtime_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4512## # translate crowdin thongtime_316668ef:
 msgid "L "Ok, give me just a second."
@@ -7444,11 +7444,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4530## # translate crowdin thongtime_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-    "{i}\"Lauren Anger +2\"{/i}"
+msgstr "{i}\"Lauren Anger +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4532## # translate crowdin thongtime_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4534## # translate crowdin thongtime_375035b3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7456,7 +7456,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4537## # translate crowdin thongtime_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
+msgstr "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
 
 # game/UpdateScript0.03.rpy:4542## # translate crowdin thongtime_27706357:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7504,7 +7504,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4559## # translate crowdin thongtime_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4561## # translate crowdin thongtime_316668ef_1:
 msgid "L "Ok, give me just a second."
@@ -7548,11 +7548,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4579## # translate crowdin thongtime_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-    "{i}\"Lauren Anger +3\"{/i}"
+msgstr "{i}\"Lauren Anger +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4581## # translate crowdin thongtime_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4583## # translate crowdin thongtime_375035b3_1:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7560,7 +7560,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4586## # translate crowdin thongtime_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
+msgstr "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
 
 # game/UpdateScript0.03.rpy:4591## # translate crowdin thongtime_27706357_1:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7608,7 +7608,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4608## # translate crowdin thongtime_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4610## # translate crowdin thongtime_316668ef_2:
 msgid "L "Ok, give me just a second."
@@ -7652,11 +7652,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4628## # translate crowdin thongtime_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-    "{i}\"Lauren Anger +4\"{/i}"
+msgstr "{i}\"Lauren Anger +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4630## # translate crowdin thongtime_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4632## # translate crowdin thongtime_375035b3_2:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7664,7 +7664,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4635## # translate crowdin thongtime_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-    "To get Lauren to take everything off you must have her submission at 19 points."
+msgstr "To get Lauren to take everything off you must have her submission at 19 points."
 
 # game/UpdateScript0.03.rpy:4640## # translate crowdin thongtime_27706357_2:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7728,7 +7728,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:4661## # translate crowdin thongtime_c335f1dc_3:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4663## # translate crowdin thongtime_316668ef_3:
 msgid "L "Ok, give me just a second."
@@ -7772,11 +7772,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:4681## # translate crowdin thongtime_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:4683## # translate crowdin thongtime_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4685## # translate crowdin thongtime_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -7784,7 +7784,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:4688## # translate crowdin thongtime_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:4692## # translate crowdin thongtime_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -7812,11 +7812,11 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:4699## # translate crowdin thongtime_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4700## # translate crowdin thongtime_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4703## # translate crowdin thongtime_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -7860,7 +7860,7 @@ msgid "R "No, really, even with your top off, I think most of the attention will
 
 # game/UpdateScript0.03.rpy:4726## # translate crowdin removebra_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4728## # translate crowdin removebra_fd00e057:
 msgid "L "You're a natural at helping your subject feel at ease."
@@ -7936,7 +7936,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4778## # translate crowdin removebra_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4780## # translate crowdin removebra_316668ef:
 msgid "L "Ok, give me just a second."
@@ -7980,11 +7980,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4794## # translate crowdin removebra_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-    "{i}\"Lauren Anger +3\"{/i}"
+msgstr "{i}\"Lauren Anger +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4796## # translate crowdin removebra_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4798## # translate crowdin removebra_375035b3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -7992,7 +7992,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4801## # translate crowdin removebra_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
+msgstr "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
 
 # game/UpdateScript0.03.rpy:4806## # translate crowdin removebra_27706357_1:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -8040,7 +8040,7 @@ msgid "L "Well.... ok, I guess we can do that, if it helps me get internet famou
 
 # game/UpdateScript0.03.rpy:4823## # translate crowdin removebra_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4825## # translate crowdin removebra_316668ef_1:
 msgid "L "Ok, give me just a second."
@@ -8084,11 +8084,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:4843## # translate crowdin removebra_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-    "{i}\"Lauren Anger +4\"{/i}"
+msgstr "{i}\"Lauren Anger +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4845## # translate crowdin removebra_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4847## # translate crowdin removebra_375035b3_1:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -8096,7 +8096,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:4850## # translate crowdin removebra_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-    "To get Lauren to take everything off you must have her submission at 19 points."
+msgstr "To get Lauren to take everything off you must have her submission at 19 points."
 
 # game/UpdateScript0.03.rpy:4855## # translate crowdin removebra_27706357_2:
 msgid "R "Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -8160,7 +8160,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:4876## # translate crowdin removebra_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4878## # translate crowdin removebra_316668ef_2:
 msgid "L "Ok, give me just a second."
@@ -8204,11 +8204,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:4896## # translate crowdin removebra_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:4898## # translate crowdin removebra_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4900## # translate crowdin removebra_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -8216,7 +8216,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:4903## # translate crowdin removebra_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:4907## # translate crowdin removebra_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -8244,7 +8244,7 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:4919## # translate crowdin removebra_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4921## # translate crowdin removebra_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -8304,7 +8304,7 @@ msgid "R ".... Did you like seeing it?"
 
 # game/UpdateScript0.03.rpy:4944## # translate crowdin showtitties_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4946## # translate crowdin showtitties_ad32df25:
 msgid "L ".... Are you going to make me pose like this all day, or are you going to take a picture?"
@@ -8488,7 +8488,7 @@ msgid "L "Well.... ok, I guess you've earned it."
 
 # game/UpdateScript0.03.rpy:5072## # translate crowdin showtitties_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5074## # translate crowdin showtitties_316668ef:
 msgid "L "Ok, give me just a second."
@@ -8532,11 +8532,11 @@ msgid "L "Yeah.... I don't think so. I'm going to get dressed and go home."
 
 # game/UpdateScript0.03.rpy:5090## # translate crowdin showtitties_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-    "{i}\"Lauren Anger +4\"{/i}"
+msgstr "{i}\"Lauren Anger +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:5092## # translate crowdin showtitties_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-    "{i}\"Lauren Affection -1\"{/i}"
+msgstr "{i}\"Lauren Affection -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5094## # translate crowdin showtitties_375035b3:
 msgid "L "We can try again next week if you're willing to be more professional."
@@ -8544,7 +8544,7 @@ msgid "L "We can try again next week if you're willing to be more professional."
 
 # game/UpdateScript0.03.rpy:5097## # translate crowdin showtitties_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-    "To get Lauren to take everything off you must have her submission at 19 points."
+msgstr "To get Lauren to take everything off you must have her submission at 19 points."
 
 # game/UpdateScript0.03.rpy:5102## # translate crowdin showtitties_e51ecde2:
 msgid "R "Ok, how bout we take this shoot to a whole different level."
@@ -8596,7 +8596,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:5119## # translate crowdin showtitties_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5121## # translate crowdin showtitties_316668ef_1:
 msgid "L "Ok, give me just a second."
@@ -8640,11 +8640,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:5141## # translate crowdin showtitties_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:5143## # translate crowdin showtitties_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5145## # translate crowdin showtitties_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -8652,7 +8652,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:5148## # translate crowdin showtitties_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:5154## # translate crowdin showtitties_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -8680,7 +8680,7 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:5161## # translate crowdin showtitties_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5163## # translate crowdin showtitties_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -8760,7 +8760,7 @@ msgid "R "Oh, yeah!..."
 
 # game/UpdateScript0.03.rpy:5193## # translate crowdin removethong_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5195## # translate crowdin removethong_8ee8f0fb:
 msgid "R "And hold that pose."
@@ -8856,7 +8856,7 @@ msgid "L "Oh my God, I know. hehehe..."
 
 # game/UpdateScript0.03.rpy:5241## # translate crowdin removethong_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5243## # translate crowdin removethong_316668ef:
 msgid "L "Ok, give me just a second."
@@ -8900,11 +8900,11 @@ msgid "L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and 
 
 # game/UpdateScript0.03.rpy:5259## # translate crowdin removethong_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-    "{i}\"Lauren Anger +10\"{/i}"
+msgstr "{i}\"Lauren Anger +10\"{/i}"
 
 # game/UpdateScript0.03.rpy:5261## # translate crowdin removethong_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-    "{i}\"Lauren Affection -5\"{/i}"
+msgstr "{i}\"Lauren Affection -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5263## # translate crowdin removethong_5a4211b0:
 msgid "L "You better stop acting like an asshole if you want me to come again next week."
@@ -8912,7 +8912,7 @@ msgid "L "You better stop acting like an asshole if you want me to come again ne
 
 # game/UpdateScript0.03.rpy:5266## # translate crowdin removethong_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-    "To get Lauren to take explicit photos, submission must be at 25 points."
+msgstr "To get Lauren to take explicit photos, submission must be at 25 points."
 
 # game/UpdateScript0.03.rpy:5272## # translate crowdin removethong_e4287853:
 msgid "R "I think we've got all the pics we need for now."
@@ -8940,7 +8940,7 @@ msgid "L "And showing some skin was kind of exciting!"
 
 # game/UpdateScript0.03.rpy:5279## # translate crowdin removethong_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5281## # translate crowdin removethong_c023ab9a:
 msgid "L "I can't wait for the next photoshoot."
@@ -9020,7 +9020,7 @@ msgid "L "Yeah, I feel closer to you too."
 
 # game/UpdateScript0.03.rpy:5328## # translate crowdin htbyd_closeups_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-    "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5330## # translate crowdin htbyd_closeups_8ee8f0fb:
 msgid "R "And hold that pose."
@@ -9256,7 +9256,7 @@ msgid "LT "{i}Mmmmmmmm.... [ryan] deep inside of me.... {/i}"
 
 # game/UpdateScript0.03.rpy:5493## # translate crowdin htbyd_closeups_aae3c931:
 msgid "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5495## # translate crowdin htbyd_closeups_f7b90ea3:
 msgid "L "I can't believe that just happened."
@@ -9372,7 +9372,7 @@ msgid "LT "{i}Mmmmmmmm.... I love his wet cum against my pussy.... {/i}"
 
 # game/UpdateScript0.03.rpy:5596## # translate crowdin htbyd_closeups_aae3c931_1:
 msgid "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5598## # translate crowdin htbyd_closeups_edac7e1a:
 msgid "L "I can't believe that just happened again."

@@ -16,7 +16,7 @@ msgid "RT "{i}I should get [auntie]'s and Mandy's finances out of the way.{/i}"
 
 # game/UpdateScript0.07.rpy:1040## # translate crowdin receive_will_email_2b209956:
 msgid "{i}\"20 minutes later.\"{/i}"
-    "{i}\"20 minutes later.\"{/i}"
+msgstr "{i}\"20 minutes later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:1045## # translate crowdin receive_will_email_c1af27fe:
 msgid "RT "{i}There, and after paying that last bill, that should leave me with $200.{/i}"
@@ -24,7 +24,7 @@ msgid "RT "{i}There, and after paying that last bill, that should leave me with 
 
 # game/UpdateScript0.07.rpy:1046## # translate crowdin receive_will_email_d1bb1473:
 msgid "{i}\"Money +200\"{/i}"
-    "{i}\"Money +200\"{/i}"
+msgstr "{i}\"Money +200\"{/i}"
 
 # game/UpdateScript0.07.rpy:1048## # translate crowdin receive_will_email_6fef741b:
 msgid "RT "{i}Time to check my email.{/i}"
@@ -680,7 +680,7 @@ msgid "LT "{i}Oh, God... I love that I'm making my brother so desperate that he 
 
 # game/UpdateScript0.07.rpy:1340## # translate crowdin ntr_lounge_sex_7062ba0b:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1346## # translate crowdin ntr_lounge_sex_bd7b2186:
 msgid "L "Alright Matt... I'm ready to get fucked!"
@@ -776,7 +776,7 @@ msgid "LT "{i}I still imagine it's my brother's dick.{/i}"
 
 # game/UpdateScript0.07.rpy:1383## # translate crowdin ntr_lounge_sex_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1385## # translate crowdin ntr_lounge_sex_71645e30:
 msgid "LT "{i}But, he doesn't deserve me.{/i}"
@@ -824,11 +824,11 @@ msgid "R "Not again!..."
 
 # game/UpdateScript0.07.rpy:1409## # translate crowdin ntr_lounge_sex_1c9e068c:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1411## # translate crowdin ntr_lounge_sex_d640daf7:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:1416## # translate crowdin ntr_lounge_sex_14e462dd:
 msgid "L "Wow!... Look how much is dripping out!"
@@ -964,7 +964,7 @@ msgid "MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.
 
 # game/UpdateScript0.07.rpy:1471## # translate crowdin ntr_lounge_sex_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1473## # translate crowdin ntr_lounge_sex_f4d57e44:
 msgid "MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
@@ -1196,7 +1196,7 @@ msgid "ST "{i}Shit!... Why am I so glad he said that?{/i}"
 
 # game/UpdateScript0.07.rpy:1568## # translate crowdin ntr_lounge_sex_7c691781:
 msgid "{b}{i}\"Sidney's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Sidney's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Sidney's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1572## # translate crowdin ntr_lounge_sex_e2369e03:
 msgid "S "Society would never accept what we're doing."
@@ -1232,7 +1232,7 @@ msgid "ST "{i}Damn... I kinda hoped he'd disagree with me... Even though I know 
 
 # game/UpdateScript0.07.rpy:1585## # translate crowdin ntr_lounge_sex_7450ba28:
 msgid "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
-    "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
+msgstr "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1589## # translate crowdin ntr_lounge_sex_be7b9ec7:
 msgid "ST "{i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
@@ -1440,7 +1440,7 @@ msgid "LT "{i}Oh, God... I love that I'm making my brother so desperate that he 
 
 # game/UpdateScript0.07.rpy:1680## # translate crowdin ntr_lounge_sex_7062ba0b_1:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1686## # translate crowdin ntr_lounge_sex_535b19b9:
 msgid "L "Alright, Matt... I'm ready to get fucked!"
@@ -1580,7 +1580,7 @@ msgid "L "Mmmmmmmmm..."
 
 # game/UpdateScript0.07.rpy:1739## # translate crowdin ntr_lounge_sex_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1745## # translate crowdin ntr_lounge_sex_b8e3c35a_1:
 msgid "MB "Oh yeah, Lauren, I'm about to explode!"
@@ -1600,11 +1600,11 @@ msgid "R "Don't..."
 
 # game/UpdateScript0.07.rpy:1753## # translate crowdin ntr_lounge_sex_1c9e068c_1:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1755## # translate crowdin ntr_lounge_sex_d640daf7_1:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:1760## # translate crowdin ntr_lounge_sex_14e462dd_1:
 msgid "L "Wow!... Look how much is dripping out!"
@@ -1796,7 +1796,7 @@ msgid "MT "{i}Fuck... I'm getting wet thinking about Matt looking at my nipples.
 
 # game/UpdateScript0.07.rpy:1831## # translate crowdin ntr_lounge_sex_1e246541:
 msgid "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
-    "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
+msgstr "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:1833## # translate crowdin ntr_lounge_sex_f4d57e44_1:
 msgid "MT "{i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
@@ -1972,7 +1972,7 @@ msgid "LT "{i}Where's my self-control?{/i}"
 
 # game/UpdateScript0.07.rpy:1915## # translate crowdin lounge_sex_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1934## # translate crowdin lounge_sex_e85188a6_1:
 msgid "L "Hey [ryan], do you want to watch something with me?"
@@ -2208,15 +2208,15 @@ msgid "L "Fuuuck!..."
 
 # game/UpdateScript0.07.rpy:2087## # translate crowdin lounge_sex_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2089## # translate crowdin lounge_sex_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:2090## # translate crowdin lounge_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2094## # translate crowdin lounge_sex_0b8cdb83:
 msgid "L "Holy shit!... My pussy is so full, but I can actually feel that there's pressure built up in my womb!"
@@ -2524,15 +2524,15 @@ msgid "L "Fuuuck!..."
 
 # game/UpdateScript0.07.rpy:2265## # translate crowdin lounge_sex_90b9e638_1:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2267## # translate crowdin lounge_sex_fd9c5a4b_1:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:2268## # translate crowdin lounge_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2272## # translate crowdin lounge_sex_0b8cdb83_1:
 msgid "L "Holy shit!... My pussy is so full, but I can actually feel that there's pressure built up in my womb!"
@@ -2660,7 +2660,7 @@ msgid "RT "{i}Sounds like she's taking advantage of that alone time... Maybe I s
 
 # game/UpdateScript0.07.rpy:2344## # translate crowdin lauren_bath_alone_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2350## # translate crowdin lauren_bath_alone_c671eda2:
 msgid "RT "{i}But that doesn't mean I can't at least take a peek at her in the shower.{/i}"
@@ -2724,7 +2724,7 @@ msgid "RT "{i}Sounds like she's taking advantage of that alone time... Maybe I s
 
 # game/UpdateScript0.07.rpy:2403## # translate crowdin lauren_bath_alone_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-    "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
+msgstr "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2409## # translate crowdin lauren_bath_alone_c671eda2_1:
 msgid "RT "{i}But that doesn't mean I can't at least take a peek at her in the shower.{/i}"
@@ -2824,7 +2824,7 @@ msgid "RT "{i}I should start trying to find ways to turn her on.{/i}"
 
 # game/UpdateScript0.07.rpy:2485## # translate crowdin lauren_bath_fuck_e49d94ce:
 msgid "{i}\"Try visiting Lauren again in the bathroom on Saturday in the early morning when her libido is either a 9 or a 10.\"{/i}"
-    "{i}\"Try visiting Lauren again in the bathroom on Saturday in the early morning when her libido is either a 9 or a 10.\"{/i}"
+msgstr "{i}\"Try visiting Lauren again in the bathroom on Saturday in the early morning when her libido is either a 9 or a 10.\"{/i}"
 
 # game/UpdateScript0.07.rpy:2493## # translate crowdin lauren_bath_fuck_55ba2990:
 msgid "L "Hmmm..."
@@ -3180,15 +3180,15 @@ msgid "L "Ffffuuuuuck... You already came five minutes ago... How did you still 
 
 # game/UpdateScript0.07.rpy:2709## # translate crowdin lauren_bath_fuck_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2711## # translate crowdin lauren_bath_fuck_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:2712## # translate crowdin lauren_bath_fuck_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2719## # translate crowdin lauren_bath_fuck_d1b94c5f:
 msgid "L "Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -3220,7 +3220,7 @@ msgid "L "It better not!"
 
 # game/UpdateScript0.07.rpy:2729## # translate crowdin lauren_bath_fuck_53665c57:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2744## # translate crowdin lauren_bath_fuck_fa70a26c:
 msgid "R "Fffuuuck!"
@@ -3232,7 +3232,7 @@ msgid "L "Mmmmm... You covered me!"
 
 # game/UpdateScript0.07.rpy:2753## # translate crowdin lauren_bath_fuck_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:2760## # translate crowdin lauren_bath_fuck_cdbadf80:
 msgid "L "God... I can't believe we fucked on the bathroom floor again!"
@@ -3656,15 +3656,15 @@ msgid "L "Ffffuuuuuck... You already came five minutes ago... How did you still 
 
 # game/UpdateScript0.07.rpy:3009## # translate crowdin lauren_bath_fuck_90b9e638_1:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3011## # translate crowdin lauren_bath_fuck_fd9c5a4b_1:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:3012## # translate crowdin lauren_bath_fuck_058ef1c2_2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3019## # translate crowdin lauren_bath_fuck_d1b94c5f_1:
 msgid "L "Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -3696,7 +3696,7 @@ msgid "L "It better not!"
 
 # game/UpdateScript0.07.rpy:3029## # translate crowdin lauren_bath_fuck_53665c57_1:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3044## # translate crowdin lauren_bath_fuck_fa70a26c_1:
 msgid "R "Fffuuuck!"
@@ -3708,7 +3708,7 @@ msgid "L "Mmmmm... You covered me!"
 
 # game/UpdateScript0.07.rpy:3053## # translate crowdin lauren_bath_fuck_058ef1c2_3:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3060## # translate crowdin lauren_bath_fuck_cdbadf80_1:
 msgid "L "God... I can't believe we fucked on the bathroom floor again!"
@@ -3948,7 +3948,7 @@ msgid "RT "{i}I shouldn't give up though... She's usually more receptive of me i
 
 # game/UpdateScript0.07.rpy:3166## # translate crowdin lauren_bath_fuck_78adb2f5:
 msgid "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is either a 9 or a 10.\"{/i}"
-    "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is either a 9 or a 10.\"{/i}"
+msgstr "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is either a 9 or a 10.\"{/i}"
 
 # game/UpdateScript0.07.rpy:3173## # translate crowdin lauren_bath_fuck_71d650b9:
 msgid "LT "{i}Urrrgghhh... I want to punish him, but that's also punishing me.{/i}"
@@ -4300,15 +4300,15 @@ msgid "L "Ffffuuuuuck... You already came five minutes ago... How did you still 
 
 # game/UpdateScript0.07.rpy:3388## # translate crowdin lauren_bath_fuck_90b9e638_2:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3390## # translate crowdin lauren_bath_fuck_fd9c5a4b_2:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:3391## # translate crowdin lauren_bath_fuck_058ef1c2_4:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3398## # translate crowdin lauren_bath_fuck_d1b94c5f_2:
 msgid "L "Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -4340,7 +4340,7 @@ msgid "L "It better not!"
 
 # game/UpdateScript0.07.rpy:3408## # translate crowdin lauren_bath_fuck_53665c57_2:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3423## # translate crowdin lauren_bath_fuck_fa70a26c_2:
 msgid "R "Fffuuuck!"
@@ -4352,7 +4352,7 @@ msgid "L "Mmmmm... You covered me!"
 
 # game/UpdateScript0.07.rpy:3432## # translate crowdin lauren_bath_fuck_058ef1c2_5:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3439## # translate crowdin lauren_bath_fuck_91004442:
 msgid "L "God... I can't believe we fucked on the bathroom floor!"
@@ -4468,7 +4468,7 @@ msgid "RT "{i}I shouldn't give up though... She's usually more receptive of me i
 
 # game/UpdateScript0.07.rpy:3485## # translate crowdin lauren_bath_fuck_c1f6fae3:
 msgid "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is 7 or higher.\"{/i}"
-    "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is 7 or higher.\"{/i}"
+msgstr "{i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is 7 or higher.\"{/i}"
 
 # game/UpdateScript0.07.rpy:3494## # translate crowdin lauren_bath_fuck_62580583:
 msgid "L "Oh my God, [ryan], this is so naughty."
@@ -4828,15 +4828,15 @@ msgid "L "Ffffuuuuuck... You already came five minutes ago... How did you still 
 
 # game/UpdateScript0.07.rpy:3715## # translate crowdin lauren_bath_fuck_90b9e638_3:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3717## # translate crowdin lauren_bath_fuck_fd9c5a4b_3:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:3718## # translate crowdin lauren_bath_fuck_058ef1c2_6:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3725## # translate crowdin lauren_bath_fuck_d1b94c5f_3:
 msgid "L "Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -4868,7 +4868,7 @@ msgid "L "It better not!"
 
 # game/UpdateScript0.07.rpy:3735## # translate crowdin lauren_bath_fuck_53665c57_3:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3750## # translate crowdin lauren_bath_fuck_fa70a26c_3:
 msgid "R "Fffuuuck!"
@@ -4880,7 +4880,7 @@ msgid "L "Mmmmm... You covered me!"
 
 # game/UpdateScript0.07.rpy:3759## # translate crowdin lauren_bath_fuck_058ef1c2_7:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3766## # translate crowdin lauren_bath_fuck_91004442_1:
 msgid "L "God... I can't believe we fucked on the bathroom floor!"
@@ -5172,7 +5172,7 @@ msgid "MT "{i}When are they going to let my fucking husband out of prison?{/i}"
 
 # game/UpdateScript0.07.rpy:3941## # translate crowdin breakfast_for_will_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:3943## # translate crowdin breakfast_for_will_aab5479a:
 msgid "R "Thanks, Mom!"
@@ -5228,7 +5228,7 @@ msgid "L "Uhhh... yeah... I'm great!..."
 
 # game/UpdateScript0.07.rpy:3996## # translate crowdin breakfast_for_will_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4007## # translate crowdin breakfast_for_will_c7c8695b:
 msgid "RT "{i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -5288,7 +5288,7 @@ msgid "ST "{i}Mmmm... but it does feel really good.{/i}"
 
 # game/UpdateScript0.07.rpy:4027## # translate crowdin breakfast_for_will_6e0dab43:
 msgid "{b}{i}\"Sidney's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Sidney's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Sidney's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4038## # translate crowdin mandy_school_breakfast_8d9a4b12:
 msgid "RT "{i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -5376,7 +5376,7 @@ msgid "L "I really would like that. Thank you, Mom."
 
 # game/UpdateScript0.07.rpy:4123## # translate crowdin meeting_miss_jessica_e492cef9:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4124## # translate crowdin meeting_miss_jessica_3b2152bb:
 msgid "RT "{i}Wow! Jessica is our new secretary.{/i}"
@@ -5404,7 +5404,7 @@ msgid "RT "...."
 
 # game/UpdateScript0.07.rpy:4130## # translate crowdin meeting_miss_jessica_e492cef9_1:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4131## # translate crowdin meeting_miss_jessica_53e9b27e:
 msgid "RT "{i}Has she even noticed I'm here?{/i}"
@@ -5420,7 +5420,7 @@ msgid "MJ "Give me just a second."
 
 # game/UpdateScript0.07.rpy:4134## # translate crowdin meeting_miss_jessica_e492cef9_2:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4135## # translate crowdin meeting_miss_jessica_dc7a84b6:
 msgid "R "...."
@@ -5432,7 +5432,7 @@ msgid "R "...."
 
 # game/UpdateScript0.07.rpy:4137## # translate crowdin meeting_miss_jessica_e492cef9_3:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4138## # translate crowdin meeting_miss_jessica_dc7a84b6_2:
 msgid "R "...."
@@ -5452,7 +5452,7 @@ msgid "R "Can you take just a minute to help me?"
 
 # game/UpdateScript0.07.rpy:4144## # translate crowdin meeting_miss_jessica_e492cef9_4:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4145## # translate crowdin meeting_miss_jessica_dc7a84b6_4:
 msgid "R "...."
@@ -5492,7 +5492,7 @@ msgid "MJ "Is there something you need?"
 
 # game/UpdateScript0.07.rpy:4158## # translate crowdin meeting_miss_jessica_e492cef9_5:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4159## # translate crowdin meeting_miss_jessica_dc7a84b6_5:
 msgid "R "...."
@@ -5504,7 +5504,7 @@ msgid "R "...."
 
 # game/UpdateScript0.07.rpy:4161## # translate crowdin meeting_miss_jessica_e492cef9_6:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4162## # translate crowdin meeting_miss_jessica_dc7a84b6_7:
 msgid "R "...."
@@ -5536,7 +5536,7 @@ msgid "MJ "Is there something you need?"
 
 # game/UpdateScript0.07.rpy:4174## # translate crowdin meeting_miss_jessica_e492cef9_7:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4175## # translate crowdin meeting_miss_jessica_dc7a84b6_9:
 msgid "R "...."
@@ -5548,7 +5548,7 @@ msgid "R "...."
 
 # game/UpdateScript0.07.rpy:4177## # translate crowdin meeting_miss_jessica_e492cef9_8:
 msgid "{i}(Keyboard clacking sounds){/i}"
-    "{i}(Keyboard clacking sounds){/i}"
+msgstr "{i}(Keyboard clacking sounds){/i}"
 
 # game/UpdateScript0.07.rpy:4178## # translate crowdin meeting_miss_jessica_dc7a84b6_11:
 msgid "R "...."
@@ -5752,7 +5752,7 @@ msgid "MJ "Correct."
 
 # game/UpdateScript0.07.rpy:4240## # translate crowdin meeting_miss_jessica_113b5580:
 msgid "{b}{i}\"Money - $50\"{/i}{/b}"
-    "{b}{i}\"Money - $50\"{/i}{/b}"
+msgstr "{b}{i}\"Money - $50\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4242## # translate crowdin meeting_miss_jessica_b840de8f:
 msgid "MJ "I hate to see you waste your money like this."
@@ -5872,7 +5872,7 @@ msgid "R "Here's the money."
 
 # game/UpdateScript0.07.rpy:4312## # translate crowdin stones_classroom_ad60590d:
 msgid "{b}{i}\"Money -$200\"{/i}{/b}"
-    "{b}{i}\"Money -$200\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$200\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4314## # translate crowdin stones_classroom_031247bc:
 msgid "MS "Great!"
@@ -5904,11 +5904,11 @@ msgid "MS "I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4324## # translate crowdin stones_classroom_dd3319d7:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
-    "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
+msgstr "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
 
 # game/UpdateScript0.07.rpy:4336## # translate crowdin stones_classroom_d1150047:
 msgid "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
-    "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
+msgstr "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
 
 # game/UpdateScript0.07.rpy:4352## # translate crowdin stones_classroom_92fd392c:
 msgid "R "Shoot!... It looks like I don't have the money right now."
@@ -6108,7 +6108,7 @@ msgid "R "Here's the money."
 
 # game/UpdateScript0.07.rpy:4453## # translate crowdin stones_classroom_0dc3a1c4:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4455## # translate crowdin stones_classroom_031247bc_1:
 msgid "MS "Great!"
@@ -6140,11 +6140,11 @@ msgid "MS "I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4465## # translate crowdin stones_classroom_dd3319d7_1:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
-    "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
+msgstr "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
 
 # game/UpdateScript0.07.rpy:4477## # translate crowdin stones_classroom_d1150047_1:
 msgid "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
-    "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
+msgstr "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
 
 # game/UpdateScript0.07.rpy:4493## # translate crowdin stones_classroom_92fd392c_1:
 msgid "R "Shoot!... It looks like I don't have the money right now."
@@ -6300,7 +6300,7 @@ msgid "R "Here's the money."
 
 # game/UpdateScript0.07.rpy:4572## # translate crowdin stones_classroom_0dc3a1c4_1:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4574## # translate crowdin stones_classroom_031247bc_2:
 msgid "MS "Great!"
@@ -6336,11 +6336,11 @@ msgid "MS "I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4585## # translate crowdin stones_classroom_dd3319d7_2:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
-    "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
+msgstr "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
 
 # game/UpdateScript0.07.rpy:4597## # translate crowdin stones_classroom_d1150047_2:
 msgid "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
-    "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
+msgstr "{i}\"You seem to be having some trouble with this mini-game. Would you like to skip it and get the best results?\"{/i}"
 
 # game/UpdateScript0.07.rpy:4613## # translate crowdin stones_classroom_92fd392c_2:
 msgid "R "Shoot!... It looks like I don't have the money right now."
@@ -6544,7 +6544,7 @@ msgid "R "Here's the money."
 
 # game/UpdateScript0.07.rpy:4706## # translate crowdin stones_classroom_0dc3a1c4_2:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4708## # translate crowdin stones_classroom_89d2d541:
 msgid "MS "I think that's really smart."
@@ -6584,7 +6584,7 @@ msgid "MS "I'll set up the easel, and grab the paints."
 
 # game/UpdateScript0.07.rpy:4720## # translate crowdin stones_classroom_dd3319d7_3:
 msgid "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
-    "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
+msgstr "{i}\"You've already successfully completed this mini game sequence, You can skip the mini game and receive the best outcome, or feel free to play again to see how you do.{/i}\""
 
 # game/UpdateScript0.07.rpy:4736## # translate crowdin stones_classroom_92fd392c_3:
 msgid "R "Shoot!... It looks like I don't have the money right now."
@@ -6904,7 +6904,7 @@ msgid "R "Here's the money."
 
 # game/UpdateScript0.07.rpy:4866## # translate crowdin stones_classroom_0dc3a1c4_3:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4868## # translate crowdin stones_classroom_89d2d541_1:
 msgid "MS "I think that's really smart."
@@ -8836,7 +8836,7 @@ msgid "MST "{i}Just... paint the canvas.{/i}"
 
 # game/UpdateScript0.07.rpy:5753## # translate crowdin finished_painting_35776249:
 msgid "{i}(A few more minutes later){/i}"
-    "{i}(A few more minutes later){/i}"
+msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5756## # translate crowdin finished_painting_f8888d0c:
 msgid "MS "And done... At least for today."
@@ -8960,7 +8960,7 @@ msgid "MST "{i}Just... paint the canvas.{/i}"
 
 # game/UpdateScript0.07.rpy:5802## # translate crowdin finished_painting_35776249_1:
 msgid "{i}(A few more minutes later){/i}"
-    "{i}(A few more minutes later){/i}"
+msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5805## # translate crowdin finished_painting_f8888d0c_1:
 msgid "MS "And done... At least for today."
@@ -9016,7 +9016,7 @@ msgid "MS "I'll be right back after I get your posters printing."
 
 # game/UpdateScript0.07.rpy:5830## # translate crowdin finished_painting_491e2abb:
 msgid "{i}(A few minutes later){/i}"
-    "{i}(A few minutes later){/i}"
+msgstr "{i}(A few minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5833## # translate crowdin finished_painting_c6bd4132:
 msgid "MS "That pose is perfect."
@@ -9028,7 +9028,7 @@ msgid "MS "Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5837## # translate crowdin finished_painting_35776249_2:
 msgid "{i}(A few more minutes later){/i}"
-    "{i}(A few more minutes later){/i}"
+msgstr "{i}(A few more minutes later){/i}"
 
 # game/UpdateScript0.07.rpy:5840## # translate crowdin finished_painting_f8888d0c_2:
 msgid "MS "And done... At least for today."
@@ -9600,7 +9600,7 @@ msgid "PH "The voting has now started and will end in five minutes."
 
 # game/UpdateScript0.07.rpy:6260## # translate crowdin actual_election_81265a15:
 msgid "{i}\"Four and a half minutes later.\"{/i}"
-    "{i}\"Four and a half minutes later.\"{/i}"
+msgstr "{i}\"Four and a half minutes later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:6263## # translate crowdin actual_election_434ebf09:
 msgid "L "Oh, God!... The suspense is killing me!"
@@ -9684,7 +9684,7 @@ msgid "L "I'm so humbled..."
 
 # game/UpdateScript0.07.rpy:6310## # translate crowdin actual_election_cb96e56f:
 msgid "{i}\"One acceptance speech later.\"{/i}"
-    "{i}\"One acceptance speech later.\"{/i}"
+msgstr "{i}\"One acceptance speech later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:6313## # translate crowdin actual_election_d1410548:
 msgid "L "How was that?"
@@ -9760,7 +9760,7 @@ msgid "MB "Alright... and done."
 
 # game/UpdateScript0.07.rpy:6339## # translate crowdin actual_election_c6d27ef0:
 msgid "{b}{i}\"Money +$3,000\"{/i}{/b}"
-    "{b}{i}\"Money +$3,000\"{/i}{/b}"
+msgstr "{b}{i}\"Money +$3,000\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:6343## # translate crowdin actual_election_270e01ab:
 msgid "MB "I can't believe you guys pulled that off!"
@@ -10144,7 +10144,7 @@ msgid "PH "The voting has now started and will end in five minutes."
 
 # game/UpdateScript0.07.rpy:6576## # translate crowdin actual_election_81265a15_1:
 msgid "{i}\"Four and a half minutes later.\"{/i}"
-    "{i}\"Four and a half minutes later.\"{/i}"
+msgstr "{i}\"Four and a half minutes later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:6579## # translate crowdin actual_election_434ebf09_1:
 msgid "L "Oh, God!... The suspense is killing me!"
@@ -10204,7 +10204,7 @@ msgid "M "First, I just want to say..."
 
 # game/UpdateScript0.07.rpy:6614## # translate crowdin actual_election_f808f85f:
 msgid "{i}\"One victory speech later.\"{/i}"
-    "{i}\"One victory speech later.\"{/i}"
+msgstr "{i}\"One victory speech later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:6617## # translate crowdin actual_election_fe82ab64:
 msgid "L "At least Matt said some nice things about me."
@@ -10452,7 +10452,7 @@ msgid "MB "Wow!... you really are good for it."
 
 # game/UpdateScript0.07.rpy:6729## # translate crowdin election_finale_4b85a56d:
 msgid "{b}{i}\"Money - $4,000\"{/i}{/b}"
-    "{b}{i}\"Money - $4,000\"{/i}{/b}"
+msgstr "{b}{i}\"Money - $4,000\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:6733## # translate crowdin election_finale_253322e2:
 msgid "MB "Alright... consider the debt paid."
@@ -11152,15 +11152,15 @@ msgid "L "Fffuuuck!"
 
 # game/UpdateScript0.07.rpy:7083## # translate crowdin exclusive_sex_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7085## # translate crowdin exclusive_sex_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:7086## # translate crowdin exclusive_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7093## # translate crowdin exclusive_sex_6e36278c:
 msgid "L "Goddammit, [ryan]!"
@@ -11376,7 +11376,7 @@ msgid "L "Holy shit!... You frosted me like a cinnamon roll."
 
 # game/UpdateScript0.07.rpy:7188## # translate crowdin exclusive_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7190## # translate crowdin exclusive_sex_dcc7b8c8:
 msgid "L "Do I look sexy covered in your cum?"
@@ -11596,11 +11596,11 @@ msgid "L "MMMMMmmmm!..."
 
 # game/UpdateScript0.07.rpy:7302## # translate crowdin shared_sex_1c9e068c:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7304## # translate crowdin shared_sex_d640daf7:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:7305## # translate crowdin shared_sex_c6841c25:
 msgid "R "..."
@@ -11996,11 +11996,11 @@ msgid "R "Pregnant."
 
 # game/UpdateScript0.07.rpy:7498## # translate crowdin shared_sex_1c9e068c_1:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7500## # translate crowdin shared_sex_d640daf7_1:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:7501## # translate crowdin shared_sex_c6841c25_1:
 msgid "R "..."
@@ -12580,15 +12580,15 @@ msgid "L "Fffuuuck!"
 
 # game/UpdateScript0.07.rpy:7773## # translate crowdin shared_sex_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7775## # translate crowdin shared_sex_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:7776## # translate crowdin shared_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7783## # translate crowdin shared_sex_6e36278c:
 msgid "L "Goddammit, [ryan]!"
@@ -12764,7 +12764,7 @@ msgid "L "Do I look sexy covered in your cum?"
 
 # game/UpdateScript0.07.rpy:7866## # translate crowdin shared_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7868## # translate crowdin shared_sex_3ba57db3:
 msgid "R "God! You look SO sexy!"
@@ -12876,15 +12876,15 @@ msgid "L "Fffuuuck!"
 
 # game/UpdateScript0.07.rpy:8003## # translate crowdin lauren_cum_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8005## # translate crowdin lauren_cum_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:8006## # translate crowdin lauren_cum_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8013## # translate crowdin lauren_cum_6e36278c:
 msgid "L "Goddammit, [ryan]!"
@@ -13040,7 +13040,7 @@ msgid "L "Holy shit!... You frosted me like a cinnamon roll."
 
 # game/UpdateScript0.07.rpy:8085## # translate crowdin lauren_cum_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8087## # translate crowdin lauren_cum_dcc7b8c8:
 msgid "L "Do I look sexy covered in your cum?"
@@ -13132,15 +13132,15 @@ msgid "L "Fffuuuck!"
 
 # game/UpdateScript0.07.rpy:8134## # translate crowdin lauren_cum_90b9e638_1:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8136## # translate crowdin lauren_cum_fd9c5a4b_1:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:8137## # translate crowdin lauren_cum_058ef1c2_2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8144## # translate crowdin lauren_cum_6e36278c_1:
 msgid "L "Goddammit, [ryan]!"
@@ -13268,7 +13268,7 @@ msgid "L "Holy shit!... You frosted me like a cinnamon roll."
 
 # game/UpdateScript0.07.rpy:8209## # translate crowdin lauren_cum_058ef1c2_3:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8211## # translate crowdin lauren_cum_dcc7b8c8_1:
 msgid "L "Do I look sexy covered in your cum?"
@@ -13544,11 +13544,11 @@ msgid "L "I'm so happy right now!"
 
 # game/UpdateScript0.07.rpy:8414## # translate crowdin hall_ambush_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8416## # translate crowdin hall_ambush_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8423## # translate crowdin hall_ambush_5e70b181:
 msgid "L "What the fuck, [ryan]?"
@@ -13556,7 +13556,7 @@ msgid "L "What the fuck, [ryan]?"
 
 # game/UpdateScript0.07.rpy:8424## # translate crowdin hall_ambush_d81f1d8a:
 msgid "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8426## # translate crowdin hall_ambush_e941368e:
 msgid "L "This is something I've wanted since I started high school, and you can't have my back on this?"
@@ -13604,7 +13604,7 @@ msgid "L "Thank you for seeing it my way!"
 
 # game/UpdateScript0.07.rpy:8439## # translate crowdin hall_ambush_f4af3eda:
 msgid "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8441## # translate crowdin hall_ambush_11e51dc2:
 msgid "R "Like I had any other choice."
@@ -13616,7 +13616,7 @@ msgid "L "What the fuck, [ryan]?"
 
 # game/UpdateScript0.07.rpy:8446## # translate crowdin hall_ambush_d81f1d8a_1:
 msgid "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8448## # translate crowdin hall_ambush_e941368e_1:
 msgid "L "This is something I've wanted since I started high school, and you can't have my back on this?"
@@ -13700,7 +13700,7 @@ msgid "L "Thank you for seeing it my way!"
 
 # game/UpdateScript0.07.rpy:8474## # translate crowdin hall_ambush_f4af3eda_1:
 msgid "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8476## # translate crowdin hall_ambush_11e51dc2_1:
 msgid "R "Like I had any other choice."
@@ -13864,7 +13864,7 @@ msgid "L "Here you go."
 
 # game/UpdateScript0.07.rpy:8548## # translate crowdin hall_ambush_ae2d8eec:
 msgid "{i}\"You received Lauren's application to run for student body president.\"{/i}"
-    "{i}\"You received Lauren's application to run for student body president.\"{/i}"
+msgstr "{i}\"You received Lauren's application to run for student body president.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8549## # translate crowdin hall_ambush_b3db5a8e:
 msgid "L "And is it possible to get a little extra money to get things going?"
@@ -13880,35 +13880,35 @@ msgid "R "Sorry, money is too tight this week."
 
 # game/UpdateScript0.07.rpy:8556## # translate crowdin hall_ambush_1b0c9886:
 msgid "{i}\"You refused to give Lauren money for her campaign this week. When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
-    "{i}\"You refused to give Lauren money for her campaign this week. When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+msgstr "{i}\"You refused to give Lauren money for her campaign this week. When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8557## # translate crowdin hall_ambush_3e6a98a3:
 msgid "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
-    "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+msgstr "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8558## # translate crowdin hall_ambush_8997e063:
 msgid "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
-    "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+msgstr "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8559## # translate crowdin hall_ambush_e0a04813:
 msgid "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
-    "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+msgstr "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8560## # translate crowdin hall_ambush_29135655:
 msgid "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
-    "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+msgstr "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8561## # translate crowdin hall_ambush_030b560f:
 msgid "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
-    "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+msgstr "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8562## # translate crowdin hall_ambush_dd623eea:
 msgid "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
-    "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+msgstr "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8563## # translate crowdin hall_ambush_25f447d1:
 msgid "{b}{i}\"Lauren's School Influence +0\"{/i}{/b}"
-    "{b}{i}\"Lauren's School Influence +0\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8564## # translate crowdin hall_ambush_b8dacf64:
 msgid "L "Are you fucking kidding me?"
@@ -13924,7 +13924,7 @@ msgid "L "What the hell have you been spending all that money on?"
 
 # game/UpdateScript0.07.rpy:8567## # translate crowdin hall_ambush_29387bb4:
 msgid "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8569## # translate crowdin hall_ambush_1a548d37:
 msgid "R "Well..."
@@ -13992,39 +13992,39 @@ msgid "R "I've got about a hundred dollars I can spare."
 
 # game/UpdateScript0.07.rpy:8589## # translate crowdin hall_ambush_8f73246e:
 msgid "{i}\"Money -$100\"{/i}"
-    "{i}\"Money -$100\"{/i}"
+msgstr "{i}\"Money -$100\"{/i}"
 
 # game/UpdateScript0.07.rpy:8593## # translate crowdin hall_ambush_1f77cfa3:
 msgid "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
-    "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+msgstr "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8594## # translate crowdin hall_ambush_3e6a98a3_1:
 msgid "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
-    "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+msgstr "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8595## # translate crowdin hall_ambush_8997e063_1:
 msgid "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
-    "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+msgstr "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8596## # translate crowdin hall_ambush_e0a04813_1:
 msgid "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
-    "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+msgstr "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8597## # translate crowdin hall_ambush_29135655_1:
 msgid "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
-    "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+msgstr "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8598## # translate crowdin hall_ambush_030b560f_1:
 msgid "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
-    "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+msgstr "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8599## # translate crowdin hall_ambush_dd623eea_1:
 msgid "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
-    "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+msgstr "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8600## # translate crowdin hall_ambush_0e36755b:
 msgid "{b}{i}\"School Influence +1\"{/i}{/b}"
-    "{b}{i}\"School Influence +1\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8602## # translate crowdin hall_ambush_c3c2d859:
 msgid "L "Oh... That's... great."
@@ -14052,7 +14052,7 @@ msgid "R "Thanks for trying to be thrifty, and I'll try to make some more money,
 
 # game/UpdateScript0.07.rpy:8608## # translate crowdin hall_ambush_f6a86c35_1:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8612## # translate crowdin hall_ambush_300895cc:
 msgid "L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -14112,39 +14112,39 @@ msgid "R "I hope two hundred and fifty is enough."
 
 # game/UpdateScript0.07.rpy:8630## # translate crowdin hall_ambush_94172490:
 msgid "{i}\"Money -$250\"{/i}"
-    "{i}\"Money -$250\"{/i}"
+msgstr "{i}\"Money -$250\"{/i}"
 
 # game/UpdateScript0.07.rpy:8634## # translate crowdin hall_ambush_1f77cfa3_1:
 msgid "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
-    "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+msgstr "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8635## # translate crowdin hall_ambush_3e6a98a3_2:
 msgid "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
-    "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+msgstr "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8636## # translate crowdin hall_ambush_8997e063_2:
 msgid "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
-    "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+msgstr "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8637## # translate crowdin hall_ambush_e0a04813_2:
 msgid "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
-    "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+msgstr "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8638## # translate crowdin hall_ambush_29135655_2:
 msgid "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
-    "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+msgstr "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8639## # translate crowdin hall_ambush_030b560f_2:
 msgid "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
-    "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+msgstr "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8640## # translate crowdin hall_ambush_dd623eea_2:
 msgid "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
-    "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+msgstr "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8641## # translate crowdin hall_ambush_466b567d:
 msgid "{b}{i}\"School Influence +2\"{/i}{/b}"
-    "{b}{i}\"School Influence +2\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8643## # translate crowdin hall_ambush_4f253f91:
 msgid "L "Two hundred and fifty is perfect. It's just what I need to get some posters printed, some buttons made, and a campaign video put together."
@@ -14156,11 +14156,11 @@ msgid "R "I'll try to make some more money, and make sure to set it aside for yo
 
 # game/UpdateScript0.07.rpy:8645## # translate crowdin hall_ambush_f6a86c35_2:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8646## # translate crowdin hall_ambush_59e472a0_1:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8651## # translate crowdin hall_ambush_300895cc_1:
 msgid "L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -14220,39 +14220,39 @@ msgid "R "I hope five hundred is enough."
 
 # game/UpdateScript0.07.rpy:8669## # translate crowdin hall_ambush_413e9889:
 msgid "{i}\"Money -$500\"{/i}"
-    "{i}\"Money -$500\"{/i}"
+msgstr "{i}\"Money -$500\"{/i}"
 
 # game/UpdateScript0.07.rpy:8673## # translate crowdin hall_ambush_1f77cfa3_2:
 msgid "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
-    "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+msgstr "{i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8674## # translate crowdin hall_ambush_3e6a98a3_3:
 msgid "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
-    "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+msgstr "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8675## # translate crowdin hall_ambush_8997e063_3:
 msgid "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
-    "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+msgstr "{i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8676## # translate crowdin hall_ambush_e0a04813_3:
 msgid "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
-    "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+msgstr "{i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8677## # translate crowdin hall_ambush_29135655_3:
 msgid "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
-    "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+msgstr "{i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8678## # translate crowdin hall_ambush_030b560f_3:
 msgid "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
-    "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+msgstr "{i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8679## # translate crowdin hall_ambush_dd623eea_3:
 msgid "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
-    "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+msgstr "{i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8680## # translate crowdin hall_ambush_63ab36dc:
 msgid "{b}{i}\"School Influence +3\"{/i}{/b}"
-    "{b}{i}\"School Influence +3\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8682## # translate crowdin hall_ambush_1934f3f5:
 msgid "L "Oh, my God!... You are the best brother ever!"
@@ -14272,11 +14272,11 @@ msgid "R "I'll try to make even more money, and make sure to set it aside for yo
 
 # game/UpdateScript0.07.rpy:8686## # translate crowdin hall_ambush_9ae7a281:
 msgid "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8687## # translate crowdin hall_ambush_59e472a0_2:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8692## # translate crowdin hall_ambush_300895cc_2:
 msgid "L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -14352,11 +14352,11 @@ msgid "RT "{i}There... All done.{/i}"
 
 # game/UpdateScript0.07.rpy:8729## # translate crowdin hang_the_bulbs_f737ad1a:
 msgid "{i}\"Good job, you just hung Lauren's campaign posters!... Unfortunately, these posters are doing more harm than good.\"{/i}"
-    "{i}\"Good job, you just hung Lauren's campaign posters!... Unfortunately, these posters are doing more harm than good.\"{/i}"
+msgstr "{i}\"Good job, you just hung Lauren's campaign posters!... Unfortunately, these posters are doing more harm than good.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8730## # translate crowdin hang_the_bulbs_42cea395:
 msgid "{b}{i}\"School Influence -1\"{/i}{/b}"
-    "{b}{i}\"School Influence -1\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8734## # translate crowdin hang_the_bulbs_b6822b7c:
 msgid "RT "{i}That took up the whole afternoon.{/i}"
@@ -14408,7 +14408,7 @@ msgid "RT "{i}This will make the guys want to use the bathroom for something bes
 
 # game/UpdateScript0.07.rpy:8766## # translate crowdin hang_the_posters_4d414474:
 msgid "{i}\"Good job! Those \"How to Breed your Dragon\" posters look really professional, not to mention sexy! They will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they are up.\"{/i}"
-    "{i}\"Good job! Those \"How to Breed your Dragon\" posters look really professional, not to mention sexy! They will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they are up.\"{/i}"
+msgstr "{i}\"Good job! Those \"How to Breed your Dragon\" posters look really professional, not to mention sexy! They will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they are up.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8770## # translate crowdin hang_the_posters_26e8cda7_1:
 msgid "RT "{i}There.{/i}"
@@ -14420,7 +14420,7 @@ msgid "RT "{i}I know it doesn't look very professional, but with that picture of
 
 # game/UpdateScript0.07.rpy:8774## # translate crowdin hang_the_posters_c550c1ad:
 msgid "{i}\"Sure that picture is sexy, but the lack of professionalism isn't doing Lauren any favors. Sorry, but these dragon posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
-    "{i}\"Sure that picture is sexy, but the lack of professionalism isn't doing Lauren any favors. Sorry, but these dragon posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
+msgstr "{i}\"Sure that picture is sexy, but the lack of professionalism isn't doing Lauren any favors. Sorry, but these dragon posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8775## # translate crowdin hang_the_posters_80120f01:
 msgid "R "Alright, time to hang the next one."
@@ -14436,7 +14436,7 @@ msgid "RT "{i}Hopefully there are enough gamers to appreciate this reference.{/i
 
 # game/UpdateScript0.07.rpy:8793## # translate crowdin hang_the_posters_8620cbdb:
 msgid "{i}Luckily, there are plenty of gamers in the school who appreciate the reference and these Ass Affect posters will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they're hung up.\"{/i}"
-    "{i}Luckily, there are plenty of gamers in the school who appreciate the reference and these Ass Affect posters will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they're hung up.\"{/i}"
+msgstr "{i}Luckily, there are plenty of gamers in the school who appreciate the reference and these Ass Affect posters will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they're hung up.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8797## # translate crowdin hang_the_posters_26e8cda7_3:
 msgid "RT "{i}There.{/i}"
@@ -14448,7 +14448,7 @@ msgid "RT "{i}That's a pretty sexy picture... Too bad the rest of the poster isn
 
 # game/UpdateScript0.07.rpy:8801## # translate crowdin hang_the_posters_a99f7ec1:
 msgid "{i}\"Too bad indeed... These space posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
-    "{i}\"Too bad indeed... These space posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
+msgstr "{i}\"Too bad indeed... These space posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8802## # translate crowdin hang_the_posters_1e911e79:
 msgid "RT "{i}Just eighteen more posters to hang.{/i}"
@@ -14456,7 +14456,7 @@ msgid "RT "{i}Just eighteen more posters to hang.{/i}"
 
 # game/UpdateScript0.07.rpy:8805## # translate crowdin hang_the_posters_3e237d4c:
 msgid "{i}\"Eighteen posters later.{/i}"
-    "{i}\"Eighteen posters later.{/i}"
+msgstr "{i}\"Eighteen posters later.{/i}"
 
 # game/UpdateScript0.07.rpy:8809## # translate crowdin hang_the_posters_569e8655:
 msgid "RT "{i}Time to admire my work.{/i}"
@@ -14468,7 +14468,7 @@ msgid "RT "{i}That looks awesome!{/i}"
 
 # game/UpdateScript0.07.rpy:8811## # translate crowdin hang_the_posters_ee74a7bc:
 msgid "{i}\"Good job, this setup will bring Lauren \"2 School Influence Points\" every school day it's up.\"{/i}"
-    "{i}\"Good job, this setup will bring Lauren \"2 School Influence Points\" every school day it's up.\"{/i}"
+msgstr "{i}\"Good job, this setup will bring Lauren \"2 School Influence Points\" every school day it's up.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8812## # translate crowdin hang_the_posters_06e47d71:
 msgid "RT "{i}I think Lauren will be very pleased.{/i}"
@@ -14484,7 +14484,7 @@ msgid "RT "{i}At least half of the posters look good.{/i}"
 
 # game/UpdateScript0.07.rpy:8818## # translate crowdin hang_the_posters_496c671d:
 msgid "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
-    "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
+msgstr "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8822## # translate crowdin hang_the_posters_569e8655_2:
 msgid "RT "{i}Time to admire my work.{/i}"
@@ -14496,7 +14496,7 @@ msgid "RT "{i}At least half of the posters look good.{/i}"
 
 # game/UpdateScript0.07.rpy:8824## # translate crowdin hang_the_posters_496c671d_1:
 msgid "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
-    "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
+msgstr "{i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8828## # translate crowdin hang_the_posters_569e8655_3:
 msgid "RT "{i}Time to admire my work.{/i}"
@@ -14512,7 +14512,7 @@ msgid "RT "{i}Hopefully it will still bring in some extra votes.{/i}"
 
 # game/UpdateScript0.07.rpy:8831## # translate crowdin hang_the_posters_6466aef6:
 msgid "{i}\"It won't... This setup will not generate any \"School Influence Points\" throughout the week.{/i}"
-    "{i}\"It won't... This setup will not generate any \"School Influence Points\" throughout the week.{/i}"
+msgstr "{i}\"It won't... This setup will not generate any \"School Influence Points\" throughout the week.{/i}"
 
 # game/UpdateScript0.07.rpy:8832## # translate crowdin hang_the_posters_ddb84565:
 msgid "RT "{i}Hopefully they'll be up for a few days before Matt comes and tears them down again.{/i}"
@@ -14836,19 +14836,19 @@ msgid "M "Okay class, let's talk more about your final projects for the Oedipal 
 
 # game/UpdateScript0.07.rpy:8998## # translate crowdin new_classroom_morning_33f2cbf8:
 msgid "{i}\"Now that the election process has been going on for a while, you now have the option of triggering the actual election.\"{/i}"
-    "{i}\"Now that the election process has been going on for a while, you now have the option of triggering the actual election.\"{/i}"
+msgstr "{i}\"Now that the election process has been going on for a while, you now have the option of triggering the actual election.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9000## # translate crowdin new_classroom_morning_6bfedc7b:
 msgid "{i}\"Congratulations, you have completed all the events to make Lauren successful in winning the election! {b}\"WARNING\"{/b} Triggering the election will make certain repeating events unnavailable once the election is over.\"{/i}"
-    "{i}\"Congratulations, you have completed all the events to make Lauren successful in winning the election! {b}\"WARNING\"{/b} Triggering the election will make certain repeating events unnavailable once the election is over.\"{/i}"
+msgstr "{i}\"Congratulations, you have completed all the events to make Lauren successful in winning the election! {b}\"WARNING\"{/b} Triggering the election will make certain repeating events unnavailable once the election is over.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9003## # translate crowdin new_classroom_morning_0f16bddc:
 msgid "{i}\"WARNING... You have not finished all the events necessary to win the election. If you trigger the election now, Lauren will lose and certain repeating events will become unavailable once the election is over.{/i}"
-    "{i}\"WARNING... You have not finished all the events necessary to win the election. If you trigger the election now, Lauren will lose and certain repeating events will become unavailable once the election is over.{/i}"
+msgstr "{i}\"WARNING... You have not finished all the events necessary to win the election. If you trigger the election now, Lauren will lose and certain repeating events will become unavailable once the election is over.{/i}"
 
 # game/UpdateScript0.07.rpy:9004## # translate crowdin new_classroom_morning_9229cd54:
 msgid "{i}\"Would you like to trigger the election?\"{/i}"
-    "{i}\"Would you like to trigger the election?\"{/i}"
+msgstr "{i}\"Would you like to trigger the election?\"{/i}"
 
 # game/UpdateScript0.07.rpy:9020## # translate crowdin new_classroom_morning_3f83f693:
 msgid "M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show modern applications and examples of the Oedipus tragedy in our modern society."
@@ -14876,7 +14876,7 @@ msgid "PH "Lunch today once again will be hot dogs or tacos, and as a special tr
 
 # game/UpdateScript0.07.rpy:9036## # translate crowdin new_classroom_morning_734abb14:
 msgid "{i}\"class giggling\"{/i}"
-    "{i}\"class giggling\"{/i}"
+msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9037## # translate crowdin new_classroom_morning_dd46bba5:
 msgid "PH "Blah blah blah, blah blah blah blah..."
@@ -14932,7 +14932,7 @@ msgid "RT "{i}Oh... she took off... Haha... She's probably doing cartwheels down
 
 # game/UpdateScript0.07.rpy:9066## # translate crowdin new_classroom_morning_fe5ea61b:
 msgid "{i}\"Shortly after class.\"{/i}"
-    "{i}\"Shortly after class.\"{/i}"
+msgstr "{i}\"Shortly after class.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9067## # translate crowdin new_classroom_morning_bac89744:
 msgid "RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
@@ -14964,7 +14964,7 @@ msgid "RT "{i}Oh... she took off... I hope she's not upset. She should at least 
 
 # game/UpdateScript0.07.rpy:9085## # translate crowdin new_classroom_morning_fe5ea61b_1:
 msgid "{i}\"Shortly after class.\"{/i}"
-    "{i}\"Shortly after class.\"{/i}"
+msgstr "{i}\"Shortly after class.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9086## # translate crowdin new_classroom_morning_bac89744_1:
 msgid "RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
@@ -14992,7 +14992,7 @@ msgid "RT "{i}Oh... she took off... I hope she's ok... I'd better go check on he
 
 # game/UpdateScript0.07.rpy:9103## # translate crowdin new_classroom_morning_fe5ea61b_2:
 msgid "{i}\"Shortly after class.\"{/i}"
-    "{i}\"Shortly after class.\"{/i}"
+msgstr "{i}\"Shortly after class.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9104## # translate crowdin new_classroom_morning_bac89744_2:
 msgid "RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
@@ -15036,7 +15036,7 @@ msgid "L "Sorry, maybe another time."
 
 # game/UpdateScript0.07.rpy:9180## # translate crowdin new_classroom_afternoon_df39ee72:
 msgid "{i}\"Lauren's libido needs to be at 8 or above.\"{/i}"
-    "{i}\"Lauren's libido needs to be at 8 or above.\"{/i}"
+msgstr "{i}\"Lauren's libido needs to be at 8 or above.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9194## # translate crowdin new_classroom_afternoon_4756c8dd:
 msgid "L "Yeah... I'd be up for that."
@@ -15888,7 +15888,7 @@ msgid "PH "Lunch today will be hot dogs or tacos, and as a special treat, the lu
 
 # game/UpdateScript0.07.rpy:9667## # translate crowdin election_announcement_734abb14:
 msgid "{i}\"class giggling\"{/i}"
-    "{i}\"class giggling\"{/i}"
+msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9670## # translate crowdin election_announcement_9e2d61e9:
 msgid "PH "The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
@@ -15900,7 +15900,7 @@ msgid "PH "Well... I don't know what NTR is, but I'm sure you did a great job de
 
 # game/UpdateScript0.07.rpy:9672## # translate crowdin election_announcement_734abb14_1:
 msgid "{i}\"class giggling\"{/i}"
-    "{i}\"class giggling\"{/i}"
+msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9675## # translate crowdin election_announcement_6ce653ea:
 msgid "PH "Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
@@ -16008,7 +16008,7 @@ msgid "MJ "I'm so excited to be back at this school. It's so hard to find work i
 
 # game/UpdateScript0.07.rpy:9725## # translate crowdin election_announcement_734abb14_2:
 msgid "{i}\"class giggling\"{/i}"
-    "{i}\"class giggling\"{/i}"
+msgstr "{i}\"class giggling\"{/i}"
 
 # game/UpdateScript0.07.rpy:9728## # translate crowdin election_announcement_bf8496bb:
 msgid "PH "Ok, I think you shouldn't say anaything else..."
@@ -16436,7 +16436,7 @@ msgid "MG "Hahaha... [ryan]!"
 
 # game/UpdateScript0.07.rpy:10037## # translate crowdin talk_to_megan_0dc3a1c4:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10040## # translate crowdin talk_to_megan_85694701:
 msgid "MG "That's what I like to see."
@@ -16536,11 +16536,11 @@ msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10110## # translate crowdin talk_to_megan_6f34071d:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
-    "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+msgstr "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10112## # translate crowdin talk_to_megan_17ad4074:
 msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10113## # translate crowdin talk_to_megan_74289b2f:
 msgid "MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
@@ -16820,7 +16820,7 @@ msgid "R "Yeah ok, I guess it's worth that much."
 
 # game/UpdateScript0.07.rpy:10239## # translate crowdin talk_to_megan_0dc3a1c4_1:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10242## # translate crowdin talk_to_megan_2ff5a4ff:
 msgid "MG "That's what I like to hear."
@@ -16936,11 +16936,11 @@ msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10316## # translate crowdin talk_to_megan_6f34071d_1:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
-    "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+msgstr "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10318## # translate crowdin talk_to_megan_17ad4074_1:
 msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10319## # translate crowdin talk_to_megan_74289b2f_1:
 msgid "MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
@@ -17248,7 +17248,7 @@ msgid "MG "Oh, God... Is that Jessica and Matt?"
 
 # game/UpdateScript0.07.rpy:10472## # translate crowdin talk_to_megan_032b25db:
 msgid "{i}\"some time later.\"{/i}"
-    "{i}\"some time later.\"{/i}"
+msgstr "{i}\"some time later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:10478## # translate crowdin talk_to_megan_a83624b7:
 msgid "MG "That bastard told me he wouldn't fuck her."
@@ -17584,11 +17584,11 @@ msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10639## # translate crowdin talk_to_megan_6f34071d_2:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
-    "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+msgstr "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10641## # translate crowdin talk_to_megan_17ad4074_2:
 msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10642## # translate crowdin talk_to_megan_b3dea31d:
 msgid "MGT "{i}Oh God, that's a baby making load for sure...{/i}"
@@ -17908,11 +17908,11 @@ msgid "RT "{i}What am I doing here? I could get in a lot of trouble if somebody 
 
 # game/UpdateScript0.07.rpy:10820## # translate crowdin locker_room_run_0d8531d7:
 msgid "{i}\"It looks like your struggling with the shower run game. Would you like to skip this game?\"{/i}"
-    "{i}\"It looks like your struggling with the shower run game. Would you like to skip this game?\"{/i}"
+msgstr "{i}\"It looks like your struggling with the shower run game. Would you like to skip this game?\"{/i}"
 
 # game/UpdateScript0.07.rpy:10823## # translate crowdin locker_room_run_e9fe071c:
 msgid "{i}\"Would you like to erase the negative consequences of losing the game and continue as if you'd never lost in the first place?\"{/i}"
-    "{i}\"Would you like to erase the negative consequences of losing the game and continue as if you'd never lost in the first place?\"{/i}"
+msgstr "{i}\"Would you like to erase the negative consequences of losing the game and continue as if you'd never lost in the first place?\"{/i}"
 
 # game/UpdateScript0.07.rpy:10831## # translate crowdin locker_room_run_47c3c2c5:
 msgid "RT "{i}Shit!... That girl's here again.{/i}"
@@ -18192,7 +18192,7 @@ msgid "RT "{i}Uh oh... I might be in deep shit. She actually looks worried.{/i}"
 
 # game/UpdateScript0.07.rpy:11015## # translate crowdin bad_shower_end_7684dc99:
 msgid "{i}\"10 minutes later.\"{/i}"
-    "{i}\"10 minutes later.\"{/i}"
+msgstr "{i}\"10 minutes later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11021## # translate crowdin bad_shower_end_414aea12:
 msgid "M "Ok... You're free to go."
@@ -18336,7 +18336,7 @@ msgid "M "I can't belive you did this! Now, you stay here and wait for me! It's 
 
 # game/UpdateScript0.07.rpy:11096## # translate crowdin bad_shower_end_7684dc99_1:
 msgid "{i}\"10 minutes later.\"{/i}"
-    "{i}\"10 minutes later.\"{/i}"
+msgstr "{i}\"10 minutes later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11099## # translate crowdin bad_shower_end_94d452bb:
 msgid "M "You better be grateful!... I was able to save you from expulsion!... But you're going to have to do some detention for me."
@@ -18472,7 +18472,7 @@ msgid "L "Would you stop starting at my pussy and finish telling me what's going
 
 # game/UpdateScript0.07.rpy:11165## # translate crowdin good_shower_end_46f8d9b2:
 msgid "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11167## # translate crowdin good_shower_end_60bf26cb:
 msgid "R "Right... Where was I?"
@@ -18844,59 +18844,59 @@ msgid "L "Are you all ready to begin our meeting?"
 
 # game/UpdateScript0.07.rpy:11416## # translate crowdin campaign_headquarters_afternoon_b5642756:
 msgid "{i}\"One campaign meeting later.\"{/i}"
-    "{i}\"One campaign meeting later.\"{/i}"
+msgstr "{i}\"One campaign meeting later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11420## # translate crowdin campaign_headquarters_afternoon_1c8f82be:
 msgid "{i}\"It was brought up in the meeting that you hadn't donated to the campaign yet this week.\"{/i}"
-    "{i}\"It was brought up in the meeting that you hadn't donated to the campaign yet this week.\"{/i}"
+msgstr "{i}\"It was brought up in the meeting that you hadn't donated to the campaign yet this week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11421## # translate crowdin campaign_headquarters_afternoon_294caea0:
 msgid "{i}\"How much did you donate during the campaign meeting?\"{/i}"
-    "{i}\"How much did you donate during the campaign meeting?\"{/i}"
+msgstr "{i}\"How much did you donate during the campaign meeting?\"{/i}"
 
 # game/UpdateScript0.07.rpy:11424## # translate crowdin campaign_headquarters_afternoon_48e9cb30:
 msgid "{i}\"Lauren didn't gain any school influence.\"{/i}"
-    "{i}\"Lauren didn't gain any school influence.\"{/i}"
+msgstr "{i}\"Lauren didn't gain any school influence.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11426## # translate crowdin campaign_headquarters_afternoon_af539ee2:
 msgid "{b}{i}\"Money -$100\"{/i}{/b}"
-    "{b}{i}\"Money -$100\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11428## # translate crowdin campaign_headquarters_afternoon_0e36755b:
 msgid "{b}{i}\"School Influence +1\"{/i}{/b}"
-    "{b}{i}\"School Influence +1\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11432## # translate crowdin campaign_headquarters_afternoon_0dc3a1c4:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11434## # translate crowdin campaign_headquarters_afternoon_63ab36dc:
 msgid "{b}{i}\"School Influence +3\"{/i}{/b}"
-    "{b}{i}\"School Influence +3\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11438## # translate crowdin campaign_headquarters_afternoon_598bf38c:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11440## # translate crowdin campaign_headquarters_afternoon_83b65130:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11444## # translate crowdin campaign_headquarters_afternoon_6c7a4953:
 msgid "{i}\"It was brought up in the meeting that you haven't torn down Matt's posters and replaced them with Lauren's new posters.\"{/i}"
-    "{i}\"It was brought up in the meeting that you haven't torn down Matt's posters and replaced them with Lauren's new posters.\"{/i}"
+msgstr "{i}\"It was brought up in the meeting that you haven't torn down Matt's posters and replaced them with Lauren's new posters.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11445## # translate crowdin campaign_headquarters_afternoon_617c01d4:
 msgid "{i}\"Would you like to go visit Mrs. Stone to get her help in making new posters?\"{/i}"
-    "{i}\"Would you like to go visit Mrs. Stone to get her help in making new posters?\"{/i}"
+msgstr "{i}\"Would you like to go visit Mrs. Stone to get her help in making new posters?\"{/i}"
 
 # game/UpdateScript0.07.rpy:11450## # translate crowdin campaign_headquarters_afternoon_13f6a41c:
 msgid "{i}\"The rest of the meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
-    "{i}\"The rest of the meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
+msgstr "{i}\"The rest of the meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11453## # translate crowdin campaign_headquarters_afternoon_4269a0f0:
 msgid "{i}\"The meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
-    "{i}\"The meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
+msgstr "{i}\"The meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11460## # translate crowdin campaign_headquarters_afternoon_1ed47550_1:
 msgid "K "Oh, hey [ryan]."
@@ -19096,7 +19096,7 @@ msgid "L "I'm so excited!"
 
 # game/UpdateScript0.07.rpy:11549## # translate crowdin campaign_headquarters_afternoon_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11553## # translate crowdin campaign_headquarters_afternoon_f217bc5f:
 msgid "MD "It's coming together really well."
@@ -19228,7 +19228,7 @@ msgid "L "I'm so excited!"
 
 # game/UpdateScript0.07.rpy:11594## # translate crowdin campaign_headquarters_afternoon_f6a86c35_1:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11598## # translate crowdin campaign_headquarters_afternoon_e8ce76b3:
 msgid "L "I know my cousin Mandy has been meeting with Megan and the cheerleaders, and I think the skit is coming together pretty well."
@@ -19580,7 +19580,7 @@ msgid "R "Let's see... I think I can spare a hundred dollars for the campaign th
 
 # game/UpdateScript0.07.rpy:11728## # translate crowdin campaign_headquarters_afternoon_af539ee2_1:
 msgid "{b}{i}\"Money -$100\"{/i}{/b}"
-    "{b}{i}\"Money -$100\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11736## # translate crowdin campaign_headquarters_afternoon_41621b7d:
 msgid "L "Alright... That won't go very far, but it's better than nothing... Thanks, [ryan]."
@@ -19588,7 +19588,7 @@ msgid "L "Alright... That won't go very far, but it's better than nothing... Tha
 
 # game/UpdateScript0.07.rpy:11737## # translate crowdin campaign_headquarters_afternoon_0e36755b_1:
 msgid "{b}{i}\"School Influence +1\"{/i}{/b}"
-    "{b}{i}\"School Influence +1\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11741## # translate crowdin campaign_headquarters_afternoon_da699ae6:
 msgid "R "I think I should be able to afford three hundred dollars this week."
@@ -19596,7 +19596,7 @@ msgid "R "I think I should be able to afford three hundred dollars this week."
 
 # game/UpdateScript0.07.rpy:11742## # translate crowdin campaign_headquarters_afternoon_0dc3a1c4_1:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11750## # translate crowdin campaign_headquarters_afternoon_f3b2fb77:
 msgid "L "Perfect!... That should be just enough to get us through the week."
@@ -19604,7 +19604,7 @@ msgid "L "Perfect!... That should be just enough to get us through the week."
 
 # game/UpdateScript0.07.rpy:11751## # translate crowdin campaign_headquarters_afternoon_63ab36dc_1:
 msgid "{b}{i}\"School Influence +3\"{/i}{/b}"
-    "{b}{i}\"School Influence +3\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11755## # translate crowdin campaign_headquarters_afternoon_51ceddf0:
 msgid "R "Will five hundred cover your expenses this week?"
@@ -19612,7 +19612,7 @@ msgid "R "Will five hundred cover your expenses this week?"
 
 # game/UpdateScript0.07.rpy:11756## # translate crowdin campaign_headquarters_afternoon_598bf38c_1:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11764## # translate crowdin campaign_headquarters_afternoon_6fefa595:
 msgid "L "Wow!... That's so generous! That will cover everything we need, and more."
@@ -19624,11 +19624,11 @@ msgid "L "This is going to be so helpful!"
 
 # game/UpdateScript0.07.rpy:11766## # translate crowdin campaign_headquarters_afternoon_83b65130_1:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11768## # translate crowdin campaign_headquarters_afternoon_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11771## # translate crowdin campaign_headquarters_afternoon_3c997abd:
 msgid "L "And with that... I think this meeting is adjourned."
@@ -19956,7 +19956,7 @@ msgid "R "Let's see... I think I can spare a hundred dollars for the campaign th
 
 # game/UpdateScript0.07.rpy:11957## # translate crowdin campaign_headquarters_afternoon_af539ee2_2:
 msgid "{b}{i}\"Money -$100\"{/i}{/b}"
-    "{b}{i}\"Money -$100\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11965## # translate crowdin campaign_headquarters_afternoon_41621b7d_1:
 msgid "L "Alright... That won't go very far, but it's better than nothing... Thanks, [ryan]."
@@ -19964,7 +19964,7 @@ msgid "L "Alright... That won't go very far, but it's better than nothing... Tha
 
 # game/UpdateScript0.07.rpy:11966## # translate crowdin campaign_headquarters_afternoon_0e36755b_2:
 msgid "{b}{i}\"School Influence +1\"{/i}{/b}"
-    "{b}{i}\"School Influence +1\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11970## # translate crowdin campaign_headquarters_afternoon_da699ae6_1:
 msgid "R "I think I should be able to afford three hundred dollars this week."
@@ -19972,7 +19972,7 @@ msgid "R "I think I should be able to afford three hundred dollars this week."
 
 # game/UpdateScript0.07.rpy:11971## # translate crowdin campaign_headquarters_afternoon_0dc3a1c4_2:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
-    "{b}{i}\"Money -$300\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11979## # translate crowdin campaign_headquarters_afternoon_f3b2fb77_1:
 msgid "L "Perfect!... That should be just enough to get us through the week."
@@ -19980,7 +19980,7 @@ msgid "L "Perfect!... That should be just enough to get us through the week."
 
 # game/UpdateScript0.07.rpy:11980## # translate crowdin campaign_headquarters_afternoon_63ab36dc_2:
 msgid "{b}{i}\"School Influence +3\"{/i}{/b}"
-    "{b}{i}\"School Influence +3\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11984## # translate crowdin campaign_headquarters_afternoon_51ceddf0_1:
 msgid "R "Will five hundred cover your expenses this week?"
@@ -19988,7 +19988,7 @@ msgid "R "Will five hundred cover your expenses this week?"
 
 # game/UpdateScript0.07.rpy:11985## # translate crowdin campaign_headquarters_afternoon_598bf38c_2:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11993## # translate crowdin campaign_headquarters_afternoon_6fefa595_1:
 msgid "L "Wow!... That's so generous! That will cover everything we need, and more."
@@ -20000,11 +20000,11 @@ msgid "L "This is going to be so helpful!"
 
 # game/UpdateScript0.07.rpy:11995## # translate crowdin campaign_headquarters_afternoon_83b65130_2:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11997## # translate crowdin campaign_headquarters_afternoon_59e472a0_1:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12006## # translate crowdin campaign_headquarters_afternoon_14691a0a:
 msgid "L "Alright, the last task on my list is for you, [ryan]."
@@ -20444,11 +20444,11 @@ msgid "L "That's exactly the kind of feedback I need."
 
 # game/UpdateScript0.07.rpy:12255## # translate crowdin campaign_headquarters_afternoon_59e472a0_2:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12256## # translate crowdin campaign_headquarters_afternoon_921fd515:
 msgid "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12265## # translate crowdin campaign_headquarters_afternoon_c8bd723e:
 msgid "L "Kenzie."
@@ -20504,7 +20504,7 @@ msgid "L "How else could that whore have won?"
 
 # game/UpdateScript0.07.rpy:12299## # translate crowdin campaign_headquarters_afternoon_f6a86c35_2:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12301## # translate crowdin campaign_headquarters_afternoon_e788b678:
 msgid "R "And speaking of whores..."
@@ -20784,7 +20784,7 @@ msgid "R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:12465## # translate crowdin best_polls_aftermath_4a8bf424:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12467## # translate crowdin best_polls_aftermath_b516cf76:
 msgid "L "Ok... where did I put those panties?"
@@ -21128,7 +21128,7 @@ msgid "LT "{i}I guess I kind of like staring into her eyes while she licks my br
 
 # game/UpdateScript0.07.rpy:12638## # translate crowdin best_polls_aftermath_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12640## # translate crowdin best_polls_aftermath_7e5940b2_1:
 msgid "R "Aaahhh..."
@@ -21200,7 +21200,7 @@ msgid "L "Oooooohhhh..."
 
 # game/UpdateScript0.07.rpy:12674## # translate crowdin best_polls_aftermath_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12680## # translate crowdin best_polls_aftermath_0e19b85f:
 msgid "L "Thank you, Mandy... That was amazing!"
@@ -21260,7 +21260,7 @@ msgid "MD "Aaaahhhh...."
 
 # game/UpdateScript0.07.rpy:12707## # translate crowdin best_polls_aftermath_36deb974:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12711## # translate crowdin best_polls_aftermath_01f7b3fd:
 msgid "R "Shit!... I'm gonna cum too!"
@@ -21320,7 +21320,7 @@ msgid "LT "{i}Why is it turning me on so much?{/i}"
 
 # game/UpdateScript0.07.rpy:12741## # translate crowdin best_polls_aftermath_23bbdde1:
 msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12745## # translate crowdin best_polls_aftermath_a2a5898e:
 msgid "MD "There... All clean. Now, do you want to return the favor this time?"
@@ -21340,7 +21340,7 @@ msgid "MD "Mmmmm...."
 
 # game/UpdateScript0.07.rpy:12753## # translate crowdin best_polls_aftermath_7e4defd6:
 msgid "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
-    "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
+msgstr "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12757## # translate crowdin best_polls_aftermath_8e35956c:
 msgid "L "Oh my God... We'd better finish up."
@@ -21760,7 +21760,7 @@ msgid "LT "{i}Oh, but staring into her eyes while she licks my brother's cock is
 
 # game/UpdateScript0.07.rpy:12948## # translate crowdin best_polls_aftermath_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12950## # translate crowdin best_polls_aftermath_7e5940b2_2:
 msgid "R "Aaahhh..."
@@ -21908,7 +21908,7 @@ msgid "L "Oooooohhhh..."
 
 # game/UpdateScript0.07.rpy:13006## # translate crowdin best_polls_aftermath_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13012## # translate crowdin best_polls_aftermath_0e19b85f_1:
 msgid "L "Thank you, Mandy... That was amazing!"
@@ -22008,7 +22008,7 @@ msgid "MD "Aaaahhhh...."
 
 # game/UpdateScript0.07.rpy:13049## # translate crowdin best_polls_aftermath_36deb974_1:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13053## # translate crowdin best_polls_aftermath_01f7b3fd_1:
 msgid "R "Shit!... I'm gonna cum too!"
@@ -22116,7 +22116,7 @@ msgid "LT "{i}Why is it turning me on so much?{/i}"
 
 # game/UpdateScript0.07.rpy:13097## # translate crowdin best_polls_aftermath_23bbdde1_1:
 msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13101## # translate crowdin best_polls_aftermath_645d1560:
 msgid "MD "There... All clean. Now, do you want to return the favor?"
@@ -22144,7 +22144,7 @@ msgid "MDT "{i}Oohhhh... That's so good!... I wonder if all cum tastes as good a
 
 # game/UpdateScript0.07.rpy:13111## # translate crowdin best_polls_aftermath_7e4defd6_1:
 msgid "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
-    "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
+msgstr "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13113## # translate crowdin best_polls_aftermath_657e14cc:
 msgid "L "You're like a legit cum slut!"
@@ -22280,7 +22280,7 @@ msgid "R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13199## # translate crowdin best_polls_aftermath_4a8bf424_1:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13201## # translate crowdin best_polls_aftermath_b516cf76_1:
 msgid "L "Ok... where did I put those panties?"
@@ -22912,7 +22912,7 @@ msgid "R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13593## # translate crowdin best_polls_aftermath_4a8bf424_2:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13595## # translate crowdin best_polls_aftermath_b516cf76_2:
 msgid "L "Ok... where did I put those panties?"
@@ -23204,7 +23204,7 @@ msgid "R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13763## # translate crowdin best_polls_aftermath_4a8bf424_3:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13765## # translate crowdin best_polls_aftermath_8c9850a2:
 msgid "L "Do you think you could help me find my panties?"
@@ -23448,7 +23448,7 @@ msgid "L "But I am really flattered!"
 
 # game/UpdateScript0.07.rpy:13890## # translate crowdin best_polls_aftermath_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13894## # translate crowdin best_polls_aftermath_f0cde651:
 msgid "L "Are you ok with just doing this for fun?..."
@@ -23552,11 +23552,11 @@ msgid "L "So, I guess I'm just saying that I'm glad we're confused together."
 
 # game/UpdateScript0.07.rpy:13932## # translate crowdin best_polls_aftermath_9ae7a281:
 msgid "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13934## # translate crowdin best_polls_aftermath_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13936## # translate crowdin best_polls_aftermath_066bc887:
 msgid "L "I still can't believe we did so good in the polls today."
@@ -23748,7 +23748,7 @@ msgid "L "You're just like Dad... He said I was wasting his money the last time 
 
 # game/UpdateScript0.07.rpy:14030## # translate crowdin bad_polls_aftermath_13736541:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14034## # translate crowdin bad_polls_aftermath_cd1aef1e:
 msgid "L "Maybe I could actually accomplish something, if the people I love just believed in me!"
@@ -23796,7 +23796,7 @@ msgid "L "Haha... nice pep talk... you dork."
 
 # game/UpdateScript0.07.rpy:14055## # translate crowdin bad_polls_aftermath_e4849e56:
 msgid "{b}{i}\"Lauren's Anger -2\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger -2\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger -2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14056## # translate crowdin bad_polls_aftermath_bdd4a99a:
 msgid "R "Hey, don't laugh!"
@@ -23844,7 +23844,7 @@ msgid "L "Haha... nice pep talk... you dork."
 
 # game/UpdateScript0.07.rpy:14076## # translate crowdin bad_polls_aftermath_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14077## # translate crowdin bad_polls_aftermath_bdd4a99a_1:
 msgid "R "Hey, don't laugh!"
@@ -24024,7 +24024,7 @@ msgid "R "For now, let's just make the posters."
 
 # game/UpdateScript0.07.rpy:14135## # translate crowdin bad_polls_aftermath_921fd515:
 msgid "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14139## # translate crowdin bad_polls_aftermath_6f0c2e11:
 msgid "L "You're right."
@@ -24048,7 +24048,7 @@ msgid "R "Don't worry... I won't go overboard."
 
 # game/UpdateScript0.07.rpy:14144## # translate crowdin bad_polls_aftermath_4f9fc2b8:
 msgid "{b}{i}\"Sound of door opening.\"{/i}{/b}"
-    "{b}{i}\"Sound of door opening.\"{/i}{/b}"
+msgstr "{b}{i}\"Sound of door opening.\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14147## # translate crowdin bad_polls_aftermath_9f250dc0:
 msgid "MB "Well, whatever you're doing, I would suggest you go a little more overboard."
@@ -24524,7 +24524,7 @@ msgid "AUB "Yeah, no cutting, asshole!"
 
 # game/UpdateScript0.07.rpy:14325## # translate crowdin bad_polls_aftermath_7da75588:
 msgid "{i}(Sound of guys faintly moaning){/i}"
-    "{i}(Sound of guys faintly moaning){/i}"
+msgstr "{i}(Sound of guys faintly moaning){/i}"
 
 # game/UpdateScript0.07.rpy:14330## # translate crowdin bad_polls_aftermath_d485ba1d:
 msgid "L "Olllcchhhh.... Hrey Hrrrroooyyyaaannn."
@@ -24560,7 +24560,7 @@ msgid "LT "{i}Why does getting came on turn me on so much?{/i}"
 
 # game/UpdateScript0.07.rpy:14348## # translate crowdin bad_polls_aftermath_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14350## # translate crowdin bad_polls_aftermath_95fb1a56:
 msgid "AUB "I'm cumming, too!"
@@ -24576,7 +24576,7 @@ msgid "L "Oh, yeah... Cover me!"
 
 # game/UpdateScript0.07.rpy:14356## # translate crowdin bad_polls_aftermath_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14358## # translate crowdin bad_polls_aftermath_067e6e4f:
 msgid "RT "{i}I can't even believe what she's becoming!{/i}"
@@ -24704,19 +24704,19 @@ msgid "RT "{i}She really doesn't even want me around anymore.{/i}"
 
 # game/UpdateScript0.07.rpy:14428## # translate crowdin bad_polls_aftermath_5f63e79a:
 msgid "{i}\"There's no maybe's about it... You like watching Lauren in this situation... I mean, You had to really try to get her to this point...\"{/i}"
-    "{i}\"There's no maybe's about it... You like watching Lauren in this situation... I mean, You had to really try to get her to this point...\"{/i}"
+msgstr "{i}\"There's no maybe's about it... You like watching Lauren in this situation... I mean, You had to really try to get her to this point...\"{/i}"
 
 # game/UpdateScript0.07.rpy:14429## # translate crowdin bad_polls_aftermath_092ea968:
 msgid "{i}\"Anyways, Lauren just gained another 5 influence points all by herself.\"{/i}"
-    "{i}\"Anyways, Lauren just gained another 5 influence points all by herself.\"{/i}"
+msgstr "{i}\"Anyways, Lauren just gained another 5 influence points all by herself.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14430## # translate crowdin bad_polls_aftermath_83b65130:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14431## # translate crowdin bad_polls_aftermath_2d48bc50:
 msgid "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
-    "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+msgstr "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14434## # translate crowdin bad_polls_aftermath_ee5ac4a4:
 msgid "RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
@@ -24764,7 +24764,7 @@ msgid "AUB "Yeah, no cutting, asshole!"
 
 # game/UpdateScript0.07.rpy:14468## # translate crowdin bad_polls_aftermath_7da75588_1:
 msgid "{i}(Sound of guys faintly moaning){/i}"
-    "{i}(Sound of guys faintly moaning){/i}"
+msgstr "{i}(Sound of guys faintly moaning){/i}"
 
 # game/UpdateScript0.07.rpy:14473## # translate crowdin bad_polls_aftermath_d9aa4ece:
 msgid "R "Shit, Lauren!"
@@ -24824,7 +24824,7 @@ msgid "LT "{i}Why does getting came on turn me on so much?{/i}"
 
 # game/UpdateScript0.07.rpy:14502## # translate crowdin bad_polls_aftermath_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14504## # translate crowdin bad_polls_aftermath_95fb1a56_1:
 msgid "AUB "I'm cumming, too!"
@@ -24840,7 +24840,7 @@ msgid "L "Oh, yeah... Cover me!"
 
 # game/UpdateScript0.07.rpy:14510## # translate crowdin bad_polls_aftermath_657dc9c8_3:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14512## # translate crowdin bad_polls_aftermath_067e6e4f_1:
 msgid "RT "{i}I can't even believe what she's becoming!{/i}"
@@ -25068,19 +25068,19 @@ msgid "L "Good."
 
 # game/UpdateScript0.07.rpy:14612## # translate crowdin bad_polls_aftermath_c4044ce3:
 msgid "{i}\"Huh... Maybe you really like watching Lauren getting busy with others... I mean, how many times is that now?...\"{/i}"
-    "{i}\"Huh... Maybe you really like watching Lauren getting busy with others... I mean, how many times is that now?...\"{/i}"
+msgstr "{i}\"Huh... Maybe you really like watching Lauren getting busy with others... I mean, how many times is that now?...\"{/i}"
 
 # game/UpdateScript0.07.rpy:14613## # translate crowdin bad_polls_aftermath_040b3503:
 msgid "{i}\"Anyways, Lauren just gained another 5 influence points all by herself. You could add \"Licks pussies for votes\" on her posters now.\"{/i}"
-    "{i}\"Anyways, Lauren just gained another 5 influence points all by herself. You could add \"Licks pussies for votes\" on her posters now.\"{/i}"
+msgstr "{i}\"Anyways, Lauren just gained another 5 influence points all by herself. You could add \"Licks pussies for votes\" on her posters now.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14614## # translate crowdin bad_polls_aftermath_83b65130_1:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14615## # translate crowdin bad_polls_aftermath_2d48bc50_1:
 msgid "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
-    "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+msgstr "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14619## # translate crowdin bad_polls_aftermath_ee5ac4a4_1:
 msgid "RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
@@ -25184,7 +25184,7 @@ msgid "AUB "Yeah, no cutting, asshole!"
 
 # game/UpdateScript0.07.rpy:14669## # translate crowdin bad_polls_aftermath_7da75588_2:
 msgid "{i}(Sound of guys faintly moaning){/i}"
-    "{i}(Sound of guys faintly moaning){/i}"
+msgstr "{i}(Sound of guys faintly moaning){/i}"
 
 # game/UpdateScript0.07.rpy:14670## # translate crowdin bad_polls_aftermath_b8bdb3f2:
 msgid "RT "{i}Ok, moment of truth.{/i}"
@@ -25344,15 +25344,15 @@ msgid "RT "{i}I'd better step up my game and really work hard or I'm going to lo
 
 # game/UpdateScript0.07.rpy:14739## # translate crowdin bad_polls_aftermath_fbf22120:
 msgid "{i}\"Wow! Lauren just gained another 5 influence points all by herself. Blowjobs for votes... You should have put that on the posters.\"{/i}"
-    "{i}\"Wow! Lauren just gained another 5 influence points all by herself. Blowjobs for votes... You should have put that on the posters.\"{/i}"
+msgstr "{i}\"Wow! Lauren just gained another 5 influence points all by herself. Blowjobs for votes... You should have put that on the posters.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14740## # translate crowdin bad_polls_aftermath_83b65130_2:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14741## # translate crowdin bad_polls_aftermath_2d48bc50_2:
 msgid "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
-    "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+msgstr "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14745## # translate crowdin bad_polls_aftermath_ee5ac4a4_2:
 msgid "RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
@@ -25412,7 +25412,7 @@ msgid "AUB "Yeah, no cutting, asshole!"
 
 # game/UpdateScript0.07.rpy:14784## # translate crowdin bad_polls_aftermath_7da75588_3:
 msgid "{i}(Sound of guys faintly moaning){/i}"
-    "{i}(Sound of guys faintly moaning){/i}"
+msgstr "{i}(Sound of guys faintly moaning){/i}"
 
 # game/UpdateScript0.07.rpy:14785## # translate crowdin bad_polls_aftermath_19e071e8:
 msgid "RT "{i}Oh, God... I can't believe I have to see this again.{/i}"
@@ -25600,15 +25600,15 @@ msgid "RT "{i}I'd better step up my game and really work hard or I'm going to lo
 
 # game/UpdateScript0.07.rpy:14858## # translate crowdin bad_polls_aftermath_1d9836c0:
 msgid "{i}\"Wow! Lauren just gained another 5 influence points all by herself. She really does have a knack for politics!\"{/i}"
-    "{i}\"Wow! Lauren just gained another 5 influence points all by herself. She really does have a knack for politics!\"{/i}"
+msgstr "{i}\"Wow! Lauren just gained another 5 influence points all by herself. She really does have a knack for politics!\"{/i}"
 
 # game/UpdateScript0.07.rpy:14859## # translate crowdin bad_polls_aftermath_83b65130_3:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14860## # translate crowdin bad_polls_aftermath_2d48bc50_3:
 msgid "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
-    "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+msgstr "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14863## # translate crowdin bad_polls_aftermath_ee5ac4a4_3:
 msgid "RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
@@ -25776,7 +25776,7 @@ msgid "K "Maybe you'd better go talk to her, see if you can talk some sense into
 
 # game/UpdateScript0.07.rpy:14933## # translate crowdin bad_polls_aftermath_7da75588_4:
 msgid "{i}(Sound of guys faintly moaning){/i}"
-    "{i}(Sound of guys faintly moaning){/i}"
+msgstr "{i}(Sound of guys faintly moaning){/i}"
 
 # game/UpdateScript0.07.rpy:14934## # translate crowdin bad_polls_aftermath_e45cad17:
 msgid "RT "{i}Oh, God... I don't know if I want to see what's behind this door.{/i}"
@@ -26020,15 +26020,15 @@ msgid "RT "{i}I'd better step up my game and really work hard if I want to keep 
 
 # game/UpdateScript0.07.rpy:15019## # translate crowdin bad_polls_aftermath_32f02895:
 msgid "{i}\"Wow! Lauren just gained 5 influence points all by herself. That really was effective.\"{/i}"
-    "{i}\"Wow! Lauren just gained 5 influence points all by herself. That really was effective.\"{/i}"
+msgstr "{i}\"Wow! Lauren just gained 5 influence points all by herself. That really was effective.\"{/i}"
 
 # game/UpdateScript0.07.rpy:15020## # translate crowdin bad_polls_aftermath_83b65130_4:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15021## # translate crowdin bad_polls_aftermath_2d48bc50_4:
 msgid "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
-    "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+msgstr "{i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
 
 # game/UpdateScript0.07.rpy:15026## # translate crowdin bad_polls_aftermath_ee5ac4a4_4:
 msgid "RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
@@ -26092,7 +26092,7 @@ msgid "L "Well, that's what it feels like to me."
 
 # game/UpdateScript0.07.rpy:15060## # translate crowdin bad_polls_aftermath_13736541_1:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15062## # translate crowdin bad_polls_aftermath_1c262ca5:
 msgid "L "If I lose this election because you were too busy with other people's shit, I'm going to... well, I don't know... but you're not going to like it!"
@@ -26120,7 +26120,7 @@ msgid "L "Well, that's what it feels like to me."
 
 # game/UpdateScript0.07.rpy:15071## # translate crowdin bad_polls_aftermath_13736541_2:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15073## # translate crowdin bad_polls_aftermath_246ff479:
 msgid "L "If I lose this election because you're wasting your money on other girls, even if they're family... I'm going to...well, I don't know... but you're not going to like it!"
@@ -26136,7 +26136,7 @@ msgid "L "I hope so... That's easy for you to say, but I'll believe it when I se
 
 # game/UpdateScript0.07.rpy:15077## # translate crowdin bad_polls_aftermath_46f8d9b2:
 msgid "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15079## # translate crowdin bad_polls_aftermath_e5e7230a:
 msgid "L "I'm working as hard as I possibly can, so if I lose this election because you didn't do your part, I'm going to... well, I don't know... but you're not going to like it!"
@@ -26428,7 +26428,7 @@ msgid "L "Haha... that does sound tempting."
 
 # game/UpdateScript0.07.rpy:15281## # translate crowdin htbyd_cum_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15283## # translate crowdin htbyd_cum_555b9634:
 msgid "L "But I don't think I have time, or room in my stomach, for another round. I'd better get back to school."
@@ -26472,7 +26472,7 @@ msgid "L "Haha... me too."
 
 # game/UpdateScript0.07.rpy:15299## # translate crowdin htbyd_cum_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15301## # translate crowdin htbyd_cum_8a31f80a_1:
 msgid "L "Thanks for lunch... I'm gonna go get dressed. I'll see you at home."
@@ -26508,7 +26508,7 @@ msgid "LT "{i}[ryan]'s cum all over my face really turns me on.{/i}"
 
 # game/UpdateScript0.07.rpy:15330## # translate crowdin htbyd_cum_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15332## # translate crowdin htbyd_cum_0dc36566:
 msgid "L "I'm gonna run and clean up and get dressed. I'll see you at home."
@@ -26564,7 +26564,7 @@ msgid "LT "{i}I love the idea of leaving my brother's cum all over my face... It
 
 # game/UpdateScript0.07.rpy:15351## # translate crowdin htbyd_cum_657dc9c8_3:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15353## # translate crowdin htbyd_cum_0dc36566_1:
 msgid "L "I'm gonna run and clean up and get dressed. I'll see you at home."
@@ -26816,11 +26816,11 @@ msgid "MB "Aaaahhh...."
 
 # game/UpdateScript0.07.rpy:15487## # translate crowdin htbyd_fuck_1c9e068c:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15489## # translate crowdin htbyd_fuck_d640daf7:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:15497## # translate crowdin htbyd_fuck_964818c3:
 msgid "L "Wow, Matt!... Good as always!"
@@ -26832,7 +26832,7 @@ msgid "L "Can't wait to sit through my mom's next class again, knowing your cum 
 
 # game/UpdateScript0.07.rpy:15499## # translate crowdin htbyd_fuck_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15501## # translate crowdin htbyd_fuck_09589f47:
 msgid "R "Good God, Lauren!... Do I have to hear about this again?"
@@ -27320,11 +27320,11 @@ msgid "MB "Aaaahhh...."
 
 # game/UpdateScript0.07.rpy:15713## # translate crowdin htbyd_fuck_1c9e068c_1:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15715## # translate crowdin htbyd_fuck_d640daf7_1:
 msgid "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of Matt's cum in Lauren's pussy = ({b}[lauren_matt_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:15723## # translate crowdin htbyd_fuck_2db8e3b6:
 msgid "L "Wow, Matt!... That was amazing!"
@@ -27336,7 +27336,7 @@ msgid "L "The best part is I'll get to sit through my mom's next class, knowing 
 
 # game/UpdateScript0.07.rpy:15725## # translate crowdin htbyd_fuck_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15727## # translate crowdin htbyd_fuck_b1b2adcc:
 msgid "R "Good God, Lauren!... Can you hear yourself?"
@@ -27460,7 +27460,7 @@ msgid "LT "{i}Fuck... I'm not really in the mood to get pounded by his huge cock
 
 # game/UpdateScript0.07.rpy:15775## # translate crowdin htbyd_fuck_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15779## # translate crowdin htbyd_fuck_79ef3f51:
 msgid "L "Uhhh...I've gotta go."
@@ -27812,15 +27812,15 @@ msgid "R "Fffuuuck!"
 
 # game/UpdateScript0.07.rpy:16029## # translate crowdin dragon_cum_90b9e638:
 msgid "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
-    "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
+msgstr "{b}{i}\"[ryan]'s cum loads in Lauren's pussy +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16031## # translate crowdin dragon_cum_fd9c5a4b:
 msgid "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
-    "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
+msgstr "{i}\"Total loads of [ryan]'s cum in Lauren's pussy = ({b}[lauren_cum_loads_counter]{/b})\"{/i}"
 
 # game/UpdateScript0.07.rpy:16032## # translate crowdin dragon_cum_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
+msgstr "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16040## # translate crowdin dragon_cum_2ca0bc1e:
 msgid "L "Are you kidding me?"
@@ -27956,7 +27956,7 @@ msgid "L "Thanks for giving me a reason to skip school, but most of all, thanks 
 
 # game/UpdateScript0.07.rpy:16102## # translate crowdin dragon_cum_3a88bd2d:
 msgid "Mmmwwaaah"
-    "Mmmwwaaah"
+msgstr "Mmmwwaaah"
 
 # game/UpdateScript0.07.rpy:16103## # translate crowdin dragon_cum_ea9de4a4:
 msgid "L "I'll see you at home."
@@ -28132,7 +28132,7 @@ msgid "L "Thanks for giving me a reason to skip school, but most of all, thanks 
 
 # game/UpdateScript0.07.rpy:16184## # translate crowdin dragon_cum_3a88bd2d_1:
 msgid "Mmmwwaaah"
-    "Mmmwwaaah"
+msgstr "Mmmwwaaah"
 
 # game/UpdateScript0.07.rpy:16185## # translate crowdin dragon_cum_ea9de4a4_1:
 msgid "L "I'll see you at home."
@@ -28464,7 +28464,7 @@ msgid "RT "{i}I wonder if Diaz has dug up any dirt on Matt yet?{/i}"
 
 # game/UpdateScript0.07.rpy:16424## # translate crowdin diaz_help_a9009371:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16427## # translate crowdin diaz_help_03649242:
 msgid "AD "You again?"
@@ -28556,7 +28556,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:16462## # translate crowdin diaz_help_598bf38c:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16464## # translate crowdin diaz_help_2c816dd3:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -28564,7 +28564,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:16465## # translate crowdin diaz_help_83b65130:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16469## # translate crowdin diaz_help_0e561655:
 msgid "R "Yeah, right... I'm not giving you any more money."
@@ -28576,7 +28576,7 @@ msgid "AD "Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:16471## # translate crowdin diaz_help_42e46acb:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
-    "{b}{i}\"School Influence +0\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16474## # translate crowdin diaz_help_b3881032:
 msgid "AD "Well, if there's nothing else, I've got to get back to work."
@@ -28592,7 +28592,7 @@ msgid "RT "{i}Another visit to Agent Diaz could be useful... I haven't bought an
 
 # game/UpdateScript0.07.rpy:16487## # translate crowdin diaz_help_a9009371_1:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16490## # translate crowdin diaz_help_03649242_1:
 msgid "AD "You again?"
@@ -28628,7 +28628,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:16508## # translate crowdin diaz_help_598bf38c_1:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16510## # translate crowdin diaz_help_2c816dd3_1:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -28636,7 +28636,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:16511## # translate crowdin diaz_help_83b65130_1:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16514## # translate crowdin diaz_help_12a88958:
 msgid "AD "Now... You ready for that favor?"
@@ -28708,7 +28708,7 @@ msgid "RT "{i}I've already bough influence this week, I wonder if there's anythi
 
 # game/UpdateScript0.07.rpy:16581## # translate crowdin diaz_help_a9009371_2:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16584## # translate crowdin diaz_help_e685899a:
 msgid "AD "Another visit?... You sure you don't have a thing for me?"
@@ -28760,7 +28760,7 @@ msgid "RT "{i}I should be getting more than a few votes for five hundred dollars
 
 # game/UpdateScript0.07.rpy:16608## # translate crowdin diaz_help_a9009371_3:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16611## # translate crowdin diaz_help_fc8e0eb0:
 msgid "AD "If it isn't the future crooked politician."
@@ -28868,7 +28868,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:16671## # translate crowdin diaz_help_598bf38c_2:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16673## # translate crowdin diaz_help_2c816dd3_2:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -28876,7 +28876,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:16674## # translate crowdin diaz_help_83b65130_2:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16677## # translate crowdin diaz_help_61b93545:
 msgid "AD "Now... Are you ready for the other part of our deal?"
@@ -28980,7 +28980,7 @@ msgid "RT "{i}I wonder if there's anything else Diaz can do to help the campaign
 
 # game/UpdateScript0.07.rpy:16755## # translate crowdin diaz_help_a9009371_4:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16758## # translate crowdin diaz_help_e1f075ab:
 msgid "AD "Another visit?... Are you falling in love with me or something?"
@@ -29028,7 +29028,7 @@ msgid "RT "{i}Hopefully Agent Diaz has some dirt on Matt by now.{/i}"
 
 # game/UpdateScript0.07.rpy:16781## # translate crowdin diaz_help_a9009371_5:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16784## # translate crowdin diaz_help_4863cee7:
 msgid "AD "Well, hey there big Johnson."
@@ -29480,7 +29480,7 @@ msgid "RT "{i}I wonder if Diaz has found any dirt on Matt yet.{/i}"
 
 # game/UpdateScript0.07.rpy:16982## # translate crowdin diaz_help_a9009371_6:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:16985## # translate crowdin diaz_help_eb05623c:
 msgid "AD "To what do I owe the pleasure?... Can I help you with something?"
@@ -29516,7 +29516,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:16998## # translate crowdin diaz_help_598bf38c_3:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17000## # translate crowdin diaz_help_2c816dd3_3:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -29524,7 +29524,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:17001## # translate crowdin diaz_help_83b65130_3:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17005## # translate crowdin diaz_help_0e561655_1:
 msgid "R "Yeah, right... I'm not giving you any more money."
@@ -29536,7 +29536,7 @@ msgid "AD "Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17007## # translate crowdin diaz_help_42e46acb_1:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
-    "{b}{i}\"School Influence +0\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17010## # translate crowdin diaz_help_b3881032_1:
 msgid "AD "Well, if there's nothing else, I've got to get back to work."
@@ -29560,7 +29560,7 @@ msgid "RT "{i}She also owes me a handjob... To completion this time... She bette
 
 # game/UpdateScript0.07.rpy:17025## # translate crowdin diaz_help_a9009371_7:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17028## # translate crowdin diaz_help_41643054:
 msgid "AD "Well well, if it isn't the twerp."
@@ -29852,7 +29852,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:17172## # translate crowdin diaz_help_598bf38c_4:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17174## # translate crowdin diaz_help_2c816dd3_4:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -29860,7 +29860,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:17175## # translate crowdin diaz_help_83b65130_4:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17178## # translate crowdin diaz_help_e2c0f88a:
 msgid "R "Well then, I guess that's it for today."
@@ -29976,7 +29976,7 @@ msgid "RT "{i}I wonder if Agent Diaz is in her van?{/i}"
 
 # game/UpdateScript0.07.rpy:17227## # translate crowdin diaz_help_a9009371_8:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17230## # translate crowdin diaz_help_246551b7:
 msgid "AD "Well, if it isn't the twerp... Did you get that spy cam installed?"
@@ -30016,7 +30016,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:17244## # translate crowdin diaz_help_598bf38c_5:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17246## # translate crowdin diaz_help_2c816dd3_5:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -30024,7 +30024,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:17247## # translate crowdin diaz_help_83b65130_5:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17251## # translate crowdin diaz_help_0e561655_2:
 msgid "R "Yeah, right... I'm not giving you any more money."
@@ -30036,7 +30036,7 @@ msgid "AD "Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17253## # translate crowdin diaz_help_42e46acb_2:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
-    "{b}{i}\"School Influence +0\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17254## # translate crowdin diaz_help_850150d1:
 msgid "AD "Is there anything else I can do for you?"
@@ -30088,7 +30088,7 @@ msgid "RT "{i}Well, Here goes nothing.{/i}"
 
 # game/UpdateScript0.07.rpy:17278## # translate crowdin diaz_help_a9009371_9:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
-    "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
+msgstr "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17281## # translate crowdin diaz_help_8e024a00:
 msgid "AD "Well, if it isn't the twerp... To what do I owe the pleasure?"
@@ -30392,7 +30392,7 @@ msgid "AD "Here's the spy cam."
 
 # game/UpdateScript0.07.rpy:17430## # translate crowdin diaz_help_6cb97888:
 msgid "{b}{i}\"You received one spy-cam\"{/i}{/b}"
-    "{b}{i}\"You received one spy-cam\"{/i}{/b}"
+msgstr "{b}{i}\"You received one spy-cam\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17432## # translate crowdin diaz_help_9c7888a7:
 msgid "AD "Now... If there's nothing else, I'd like to get back to observing my favorite family... All the best stuff seems to happen in the evening."
@@ -30408,7 +30408,7 @@ msgid "AD "I guess... pull up a chair and make yourself comfortable."
 
 # game/UpdateScript0.07.rpy:17437## # translate crowdin diaz_help_3def8852:
 msgid "{i}\"A few minutes later\"{/i}"
-    "{i}\"A few minutes later\"{/i}"
+msgstr "{i}\"A few minutes later\"{/i}"
 
 # game/UpdateScript0.07.rpy:17445## # translate crowdin diaz_help_7ef2ec24:
 msgid "AD "Oh, look, Sidney's starting to finger herself."
@@ -30940,7 +30940,7 @@ msgid "R "Alright... it's a deal."
 
 # game/UpdateScript0.07.rpy:17627## # translate crowdin diaz_help_598bf38c_6:
 msgid "{b}{i}\"Money -$500\"{/i}{/b}"
-    "{b}{i}\"Money -$500\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$500\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17629## # translate crowdin diaz_help_2c816dd3_6:
 msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on Monday's poll."
@@ -30948,7 +30948,7 @@ msgid "AD "Alright, I'll make it happen. You should notice your numbers go up on
 
 # game/UpdateScript0.07.rpy:17630## # translate crowdin diaz_help_83b65130_6:
 msgid "{b}{i}\"School Influence +5\"{/i}{/b}"
-    "{b}{i}\"School Influence +5\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17634## # translate crowdin diaz_help_0e561655_3:
 msgid "R "Yeah, right... I'm not giving you any more money."
@@ -30960,7 +30960,7 @@ msgid "AD "Ok, but if you change your mind, you know where to find me."
 
 # game/UpdateScript0.07.rpy:17636## # translate crowdin diaz_help_42e46acb_3:
 msgid "{b}{i}\"School Influence +0\"{/i}{/b}"
-    "{b}{i}\"School Influence +0\"{/i}{/b}"
+msgstr "{b}{i}\"School Influence +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17639## # translate crowdin diaz_help_e6d2c9e9:
 msgid "AD "Now, if that's it, I need to get back to my observations."
@@ -31300,7 +31300,7 @@ msgid "CD "I knew I liked you."
 
 # game/UpdateScript0.07.rpy:17893## # translate crowdin will_meeting_3356816d:
 msgid "{b}{i}\"Money -$50\"{/i}{/b}"
-    "{b}{i}\"Money -$50\"{/i}{/b}"
+msgstr "{b}{i}\"Money -$50\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17901## # translate crowdin will_meeting_5fffda70:
 msgid "CD "Okay... I don't think anyone will be disturbing us."

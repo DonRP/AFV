@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/Roulette/RouletteGame.rpy:537## # translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
-    "[betPickVar]"
+msgstr "[betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:547## # translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "RLT_dealer "Error: You haven't bet any amount of money.{w=3.0}{nw}" with Dissolve(2.0)

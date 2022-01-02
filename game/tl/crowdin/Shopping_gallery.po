@@ -24,19 +24,19 @@ msgid "RT "{i}Is there a girl in the world who doesn't like chocolate? This gift
 
 # game/Shopping_gallery.rpy:316## # translate crowdin buying_label_b4ac69d5:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:319## # translate crowdin buying_label_df03e1df:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:321## # translate crowdin buying_label_e8b6d93f:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:327## # translate crowdin buying_label_e7a9af50:
 msgid "You bought one chocolate bar."
-    "You bought one chocolate bar."
+msgstr "You bought one chocolate bar."
 
 # game/Shopping_gallery.rpy:328## # translate crowdin buying_label_42292d87:
 msgid "RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
@@ -52,19 +52,19 @@ msgid "RT "{i}This seems like a good gift when the FBI is trying to track the mo
 
 # game/Shopping_gallery.rpy:334## # translate crowdin buying_label_b4ac69d5_1:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:337## # translate crowdin buying_label_df03e1df_1:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:339## # translate crowdin buying_label_e8b6d93f_1:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:345## # translate crowdin buying_label_6af083ce:
 msgid "You bought one gift card."
-    "You bought one gift card."
+msgstr "You bought one gift card."
 
 # game/Shopping_gallery.rpy:346## # translate crowdin buying_label_42292d87_1:
 msgid "RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
@@ -76,19 +76,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:351## # translate crowdin buying_label_b4ac69d5_2:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:354## # translate crowdin buying_label_df03e1df_2:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:356## # translate crowdin buying_label_e8b6d93f_2:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:362## # translate crowdin buying_label_ec631be8:
 msgid "You bought one bouquet of flowers."
-    "You bought one bouquet of flowers."
+msgstr "You bought one bouquet of flowers."
 
 # game/Shopping_gallery.rpy:363## # translate crowdin buying_label_42292d87_2:
 msgid "RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
@@ -108,15 +108,15 @@ msgid "RT "{i}Oh look, it's all natural...non addictive...So it won't be bad for
 
 # game/Shopping_gallery.rpy:370## # translate crowdin buying_label_b4ac69d5_3:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:372## # translate crowdin buying_label_5b013d92:
 msgid "You don't need any more of this."
-    "You don't need any more of this."
+msgstr "You don't need any more of this."
 
 # game/Shopping_gallery.rpy:379## # translate crowdin buying_label_689e106e:
 msgid "You bought a bottle of Melatonin."
-    "You bought a bottle of Melatonin."
+msgstr "You bought a bottle of Melatonin."
 
 # game/Shopping_gallery.rpy:380## # translate crowdin buying_label_2d609e58:
 msgid "RT "{i}Awesome. Now I've just got to figure out how to get Mom and my sisters to take some each night.{/i}"
@@ -136,7 +136,7 @@ msgid "RT "{i}This could come in handy for a pervert like me.{/i}"
 
 # game/Shopping_gallery.rpy:387## # translate crowdin buying_label_b4ac69d5_4:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:393## # translate crowdin buying_label_8675cce7:
 msgid "RT "{i}Good thing this is being delivered to Dad's warehouse. If anyone saw what I ordered, it could raise a few questions.{/i}"
@@ -164,19 +164,19 @@ msgid "RT "{i}I could make whatever background I want for my photo shoots!{/i}"
 
 # game/Shopping_gallery.rpy:410## # translate crowdin buying_label_b4ac69d5_5:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:413## # translate crowdin buying_label_df03e1df_3:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:415## # translate crowdin buying_label_e8b6d93f_3:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:421## # translate crowdin buying_label_1526a744:
 msgid "You bought a green screen."
-    "You bought a green screen."
+msgstr "You bought a green screen."
 
 # game/Shopping_gallery.rpy:422## # translate crowdin buying_label_d843ed8c:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -192,19 +192,19 @@ msgid "RT "{i}The flash on my camera just doesn't do enough.{/i}"
 
 # game/Shopping_gallery.rpy:428## # translate crowdin buying_label_b4ac69d5_6:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:431## # translate crowdin buying_label_df03e1df_4:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:433## # translate crowdin buying_label_e8b6d93f_4:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:439## # translate crowdin buying_label_eb62cd53:
 msgid "You bought professional lights for your studio."
-    "You bought professional lights for your studio."
+msgstr "You bought professional lights for your studio."
 
 # game/Shopping_gallery.rpy:440## # translate crowdin buying_label_d843ed8c_1:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -220,19 +220,19 @@ msgid "RT "{i}This camera makes me drool!{/i}"
 
 # game/Shopping_gallery.rpy:446## # translate crowdin buying_label_b4ac69d5_7:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:449## # translate crowdin buying_label_df03e1df_5:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:451## # translate crowdin buying_label_e8b6d93f_5:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:457## # translate crowdin buying_label_249fc77d:
 msgid "You bought a new DSLR camera."
-    "You bought a new DSLR camera."
+msgstr "You bought a new DSLR camera."
 
 # game/Shopping_gallery.rpy:458## # translate crowdin buying_label_d843ed8c_2:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -244,19 +244,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:463## # translate crowdin buying_label_b4ac69d5_8:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:466## # translate crowdin buying_label_df03e1df_6:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:468## # translate crowdin buying_label_e8b6d93f_6:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:474## # translate crowdin buying_label_9aef3168:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:475## # translate crowdin buying_label_d843ed8c_3:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -268,19 +268,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:480## # translate crowdin buying_label_b4ac69d5_9:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:483## # translate crowdin buying_label_df03e1df_7:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:485## # translate crowdin buying_label_e8b6d93f_7:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:491## # translate crowdin buying_label_9aef3168_1:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:492## # translate crowdin buying_label_d843ed8c_4:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -292,19 +292,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:497## # translate crowdin buying_label_b4ac69d5_10:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:500## # translate crowdin buying_label_df03e1df_8:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:502## # translate crowdin buying_label_e8b6d93f_8:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:508## # translate crowdin buying_label_9aef3168_2:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:509## # translate crowdin buying_label_d843ed8c_5:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -316,19 +316,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:514## # translate crowdin buying_label_b4ac69d5_11:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:517## # translate crowdin buying_label_df03e1df_9:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:519## # translate crowdin buying_label_e8b6d93f_9:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:525## # translate crowdin buying_label_9aef3168_3:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:526## # translate crowdin buying_label_d843ed8c_6:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -340,19 +340,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:531## # translate crowdin buying_label_b4ac69d5_12:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:534## # translate crowdin buying_label_df03e1df_10:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:536## # translate crowdin buying_label_e8b6d93f_10:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:542## # translate crowdin buying_label_9aef3168_4:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:543## # translate crowdin buying_label_d843ed8c_7:
 msgid "RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -364,19 +364,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:548## # translate crowdin buying_label_b4ac69d5_13:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:551## # translate crowdin buying_label_df03e1df_11:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:553## # translate crowdin buying_label_e8b6d93f_11:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:559## # translate crowdin buying_label_9aef3168_5:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:560## # translate crowdin buying_label_4c1f7824:
 msgid "RT "{i}Great, now with this microphone we can make videos for more money. I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -388,19 +388,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:565## # translate crowdin buying_label_b4ac69d5_14:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:568## # translate crowdin buying_label_df03e1df_12:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:570## # translate crowdin buying_label_e8b6d93f_12:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:576## # translate crowdin buying_label_9aef3168_6:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:577## # translate crowdin buying_label_07d87587:
 msgid "RT "{i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -412,19 +412,19 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:582## # translate crowdin buying_label_b4ac69d5_15:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:585## # translate crowdin buying_label_df03e1df_13:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:587## # translate crowdin buying_label_e8b6d93f_13:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:593## # translate crowdin buying_label_9aef3168_7:
 msgid "You bought a new camera accessory."
-    "You bought a new camera accessory."
+msgstr "You bought a new camera accessory."
 
 # game/Shopping_gallery.rpy:594## # translate crowdin buying_label_07d87587_1:
 msgid "RT "{i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -440,19 +440,19 @@ msgid "RT "{i}Mmmmm... I can imagine all the girls in this... But I think it wou
 
 # game/Shopping_gallery.rpy:600## # translate crowdin buying_label_b4ac69d5_16:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:603## # translate crowdin buying_label_df03e1df_14:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:605## # translate crowdin buying_label_e8b6d93f_14:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:611## # translate crowdin buying_label_4e98bab6:
 msgid "You bought a new swimsuit."
-    "You bought a new swimsuit."
+msgstr "You bought a new swimsuit."
 
 # game/Shopping_gallery.rpy:612## # translate crowdin buying_label_d5c7abcb:
 msgid "RT "{i}Wow! That's expensive, but Mom will only wear the most stylish swimsuits to the club pool. I'll just need to pick it up at Dad's warehouse.{/i}"
@@ -464,15 +464,15 @@ msgid "RT "{i}Not right now.{/i}"
 
 # game/Shopping_gallery.rpy:617## # translate crowdin buying_label_b4ac69d5_17:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:620## # translate crowdin buying_label_df03e1df_15:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:623## # translate crowdin buying_label_e8b6d93f_15:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:626## # translate crowdin buying_label_8e69bfda:
 msgid "RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
@@ -480,7 +480,7 @@ msgid "RT "{i}I've already bought this... I still need to go pick it up at the w
 
 # game/Shopping_gallery.rpy:632## # translate crowdin buying_label_1fbd6f50:
 msgid "You bought a ball gag."
-    "You bought a ball gag."
+msgstr "You bought a ball gag."
 
 # game/Shopping_gallery.rpy:633## # translate crowdin buying_label_a3a66a09:
 msgid "RT "{i}I don't know what I'm going to use this for, but it never hurts to have a ball gag on hand. I'd better go to Dad's warehouse to pick it up.{/i}"
@@ -500,15 +500,15 @@ msgid "RT "{i}One hundred and fifty dollars! Holy fuck! I should have just read 
 
 # game/Shopping_gallery.rpy:640## # translate crowdin buying_label_b4ac69d5_18:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:643## # translate crowdin buying_label_df03e1df_16:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:646## # translate crowdin buying_label_e8b6d93f_16:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:649## # translate crowdin buying_label_8e69bfda_1:
 msgid "RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
@@ -516,7 +516,7 @@ msgid "RT "{i}I've already bought this... I still need to go pick it up at the w
 
 # game/Shopping_gallery.rpy:655## # translate crowdin buying_label_7b494822:
 msgid "You bought Perry Hotter Book 1."
-    "You bought Perry Hotter Book 1."
+msgstr "You bought Perry Hotter Book 1."
 
 # game/Shopping_gallery.rpy:656## # translate crowdin buying_label_9cc97f0a:
 msgid "RT "{i}This book had better live up to the hype!{/i}"
@@ -536,15 +536,15 @@ msgid "RT "{i}Goddammit! Looks like my only option is the hardback collector's e
 
 # game/Shopping_gallery.rpy:663## # translate crowdin buying_label_b4ac69d5_19:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:666## # translate crowdin buying_label_df03e1df_17:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:669## # translate crowdin buying_label_e8b6d93f_17:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:672## # translate crowdin buying_label_8e69bfda_2:
 msgid "RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
@@ -552,7 +552,7 @@ msgid "RT "{i}I've already bought this... I still need to go pick it up at the w
 
 # game/Shopping_gallery.rpy:678## # translate crowdin buying_label_35160924:
 msgid "You bought Perry Hotter Book 2."
-    "You bought Perry Hotter Book 2."
+msgstr "You bought Perry Hotter Book 2."
 
 # game/Shopping_gallery.rpy:679## # translate crowdin buying_label_8f18a216:
 msgid "RT "{i}At least the first book was slightly entertaining... Maybe this one won't be too bad either.{/i}"
@@ -572,15 +572,15 @@ msgid "RT "{i}Of course! Another collector's edition. I guess third times the ch
 
 # game/Shopping_gallery.rpy:686## # translate crowdin buying_label_b4ac69d5_20:
 msgid "You don't have enough money."
-    "You don't have enough money."
+msgstr "You don't have enough money."
 
 # game/Shopping_gallery.rpy:689## # translate crowdin buying_label_df03e1df_18:
 msgid "You already have enough."
-    "You already have enough."
+msgstr "You already have enough."
 
 # game/Shopping_gallery.rpy:692## # translate crowdin buying_label_e8b6d93f_18:
 msgid "You have enough already."
-    "You have enough already."
+msgstr "You have enough already."
 
 # game/Shopping_gallery.rpy:695## # translate crowdin buying_label_8e69bfda_3:
 msgid "RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
@@ -588,7 +588,7 @@ msgid "RT "{i}I've already bought this... I still need to go pick it up at the w
 
 # game/Shopping_gallery.rpy:701## # translate crowdin buying_label_4eb61aad:
 msgid "You bought Perry Hotter Book 3."
-    "You bought Perry Hotter Book 3."
+msgstr "You bought Perry Hotter Book 3."
 
 # game/Shopping_gallery.rpy:702## # translate crowdin buying_label_e3c6c266:
 msgid "RT "{i}I can't admit to anyone that I kind of like these stories.{/i}"

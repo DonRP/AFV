@@ -1036,7 +1036,7 @@ msgid "R "And who can I trust better than those that live right here with me?"
 
 # game/Phone_event_screen.rpy:1725## # translate crowdin again_tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
-    "{i}\"(knock knock knock....)\"{/i}"
+msgstr "{i}\"(knock knock knock....)\"{/i}"
 
 # game/Phone_event_screen.rpy:1726## # translate crowdin again_tutorial_c1bfb181:
 msgid "M "{i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
@@ -1220,7 +1220,7 @@ msgid "R "...."
 
 # game/Phone_event_screen.rpy:1831## # translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
-    "End of tutorial."
+msgstr "End of tutorial."
 ## # translate crowdin strings:##    # game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
 msgstr "[event_num]:"

@@ -4,7 +4,7 @@ msgid "DS "You added $[addmoney] and now have: $[money]."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2362## # translate crowdin change_names_34819df8:
 msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-    "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
+msgstr "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2387## # translate crowdin ds_change_name_mom_2e923a8a:
 msgid "DS "Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
