@@ -15535,44 +15535,44 @@ msgid "[CC]I don't know... The DeCapo's won't ever stop trying to kill me if the
 msgstr "[CC]I don't know... The DeCapo's won't ever stop trying to kill me if they know I betrayed them."
 
 # game/UpdateScript0.06.rpy:9075## # translate crowdin sid_sex_event_97fd5582:
-msgid "VP "Well then don't fuck this up! If you successfully pull this off, the DeCapos will be as good as finito. With Joey dead, Don DeCapo will have no one to take over his enterprise."
-    VP "Well then don't fuck this up! If you successfully pull this off, the DeCapos will be as good as finito. With Joey dead, Don DeCapo will have no one to take over his enterprise."
+msgid "[VP]Well then don't fuck this up! If you successfully pull this off, the DeCapos will be as good as finito. With Joey dead, Don DeCapo will have no one to take over his enterprise."
+msgstr "[VP]Well then don't fuck this up! If you successfully pull this off, the DeCapos will be as good as finito. With Joey dead, Don DeCapo will have no one to take over his enterprise."
 
 # game/UpdateScript0.06.rpy:9076## # translate crowdin sid_sex_event_be856685:
-msgid "VP "We'll muscle our way in, and take over his whole operation."
-    VP "We'll muscle our way in, and take over his whole operation."
+msgid "[VP]We'll muscle our way in, and take over his whole operation."
+msgstr "[VP]We'll muscle our way in, and take over his whole operation."
 
 # game/UpdateScript0.06.rpy:9077## # translate crowdin sid_sex_event_a9ae55b9:
-msgid "VP "And while we're cleaning things up here, you'll be at our little cocoa farm in Columbia with more money than you can spend and more coke than you can possibly snort."
-    VP "And while we're cleaning things up here, you'll be at our little cocoa farm in Columbia with more money than you can spend and more coke than you can possibly snort."
+msgid "[VP]And while we're cleaning things up here, you'll be at our little cocoa farm in Columbia with more money than you can spend and more coke than you can possibly snort."
+msgstr "[VP]And while we're cleaning things up here, you'll be at our little cocoa farm in Columbia with more money than you can spend and more coke than you can possibly snort."
 
 # game/UpdateScript0.06.rpy:9078## # translate crowdin sid_sex_event_ed1e6764:
-msgid "VP "And when it's all taken care of, you come back home as a made man forever in the Bonatti family."
-    VP "And when it's all taken care of, you come back home as a made man forever in the Bonatti family."
+msgid "[VP]And when it's all taken care of, you come back home as a made man forever in the Bonatti family."
+msgstr "[VP]And when it's all taken care of, you come back home as a made man forever in the Bonatti family."
 
 # game/UpdateScript0.06.rpy:9079## # translate crowdin sid_sex_event_50583428:
 msgid "[CC]Alright, but what do I do if things go south? Will you help me get out of here?"
 msgstr "[CC]Alright, but what do I do if things go south? Will you help me get out of here?"
 
 # game/UpdateScript0.06.rpy:9080## # translate crowdin sid_sex_event_4693d09c:
-msgid "VP "Sure... sure, just give us a call on your burner, and we'll come riding in to the rescue."
-    VP "Sure... sure, just give us a call on your burner, and we'll come riding in to the rescue."
+msgid "[VP]Sure... sure, just give us a call on your burner, and we'll come riding in to the rescue."
+msgstr "[VP]Sure... sure, just give us a call on your burner, and we'll come riding in to the rescue."
 
 # game/UpdateScript0.06.rpy:9081## # translate crowdin sid_sex_event_b52ffc3e:
 msgid "[CC]Ok, Joey is always alone in his office Monday nights, I'll take care of it there."
 msgstr "[CC]Ok, Joey is always alone in his office Monday nights, I'll take care of it there."
 
 # game/UpdateScript0.06.rpy:9082## # translate crowdin sid_sex_event_07d46dc2:
-msgid "VP "Alright, and just remember... If you get caught, if you say a single word that we were involved, we'll go after that pretty little sister of yours."
-    VP "Alright, and just remember... If you get caught, if you say a single word that we were involved, we'll go after that pretty little sister of yours."
+msgid "[VP]Alright, and just remember... If you get caught, if you say a single word that we were involved, we'll go after that pretty little sister of yours."
+msgstr "[VP]Alright, and just remember... If you get caught, if you say a single word that we were involved, we'll go after that pretty little sister of yours."
 
 # game/UpdateScript0.06.rpy:9083## # translate crowdin sid_sex_event_71c2156b:
 msgid "[CC]I would never..."
 msgstr "[CC]I would never..."
 
 # game/UpdateScript0.06.rpy:9084## # translate crowdin sid_sex_event_fa53f557:
-msgid "VP "Make sure that you don't."
-    VP "Make sure that you don't."
+msgid "[VP]Make sure that you don't."
+msgstr "[VP]Make sure that you don't."
 
 # game/UpdateScript0.06.rpy:9091## # translate crowdin sid_sex_event_2aec8e6f:
 msgid "[A]Wow! Not a single customer since we started."
@@ -15863,8 +15863,8 @@ msgid "[CC]No... it's just like I said. Joey wasn't in his office... He's not ev
 msgstr "[CC]No... it's just like I said. Joey wasn't in his office... He's not even in the club."
 
 # game/UpdateScript0.06.rpy:9221## # translate crowdin sid_sex_event_5e6a3c77:
-msgid "VP "Well then, do it a different night."
-    VP "Well then, do it a different night."
+msgid "[VP]Well then, do it a different night."
+msgstr "[VP]Well then, do it a different night."
 
 # game/UpdateScript0.06.rpy:9222## # translate crowdin sid_sex_event_df19d2d6:
 msgid "[CC]Well... The thing is... His niece was there... and now I've got her and another girl tied up in the interrogation room."
@@ -15879,64 +15879,64 @@ msgid "[ST] {i}Oh God, no!{/i}"
 msgstr "[ST] {i}Oh God, no!{/i}"
 
 # game/UpdateScript0.06.rpy:9225## # translate crowdin sid_sex_event_02d3edc2:
-msgid "VP "Did they see your face? Do they know who you are?"
-    VP "Did they see your face? Do they know who you are?"
+msgid "[VP]Did they see your face? Do they know who you are?"
+msgstr "[VP]Did they see your face? Do they know who you are?"
 
 # game/UpdateScript0.06.rpy:9226## # translate crowdin sid_sex_event_8764d89e:
 msgid "[CC]Ummm... Yeah..."
 msgstr "[CC]Ummm... Yeah..."
 
 # game/UpdateScript0.06.rpy:9227## # translate crowdin sid_sex_event_9923aa58:
-msgid "VP "Charlie, you dumb fuck!"
-    VP "Charlie, you dumb fuck!"
+msgid "[VP]Charlie, you dumb fuck!"
+msgstr "[VP]Charlie, you dumb fuck!"
 
 # game/UpdateScript0.06.rpy:9228## # translate crowdin sid_sex_event_e63ddf8a:
-msgid "VP "We need Joey dead, not his niece as our hostage."
-    VP "We need Joey dead, not his niece as our hostage."
+msgid "[VP]We need Joey dead, not his niece as our hostage."
+msgstr "[VP]We need Joey dead, not his niece as our hostage."
 
 # game/UpdateScript0.06.rpy:9229## # translate crowdin sid_sex_event_20316182:
-msgid "VP "Taking her hostage will cause an all-out gang war, which is exactly what we're trying to avoid by taking him out quickly and quietly in the first place."
-    VP "Taking her hostage will cause an all-out gang war, which is exactly what we're trying to avoid by taking him out quickly and quietly in the first place."
+msgid "[VP]Taking her hostage will cause an all-out gang war, which is exactly what we're trying to avoid by taking him out quickly and quietly in the first place."
+msgstr "[VP]Taking her hostage will cause an all-out gang war, which is exactly what we're trying to avoid by taking him out quickly and quietly in the first place."
 
 # game/UpdateScript0.06.rpy:9230## # translate crowdin sid_sex_event_eb293ea1:
-msgid "VP "Uuuggghhhh... You dumb fuck!"
-    VP "Uuuggghhhh... You dumb fuck!"
+msgid "[VP]Uuuggghhhh... You dumb fuck!"
+msgstr "[VP]Uuuggghhhh... You dumb fuck!"
 
 # game/UpdateScript0.06.rpy:9233## # translate crowdin sid_sex_event_999048c1:
-msgid "VP "...."
-    VP "...."
+msgid "[VP]...."
+msgstr "[VP]...."
 
 # game/UpdateScript0.06.rpy:9234## # translate crowdin sid_sex_event_216ce321:
-msgid "VP "If you fail to kill Joey tonight, if I were you, I'd dissapear, cuz if the DeCapos catch you, they're going to torture and kill you."
-    VP "If you fail to kill Joey tonight, if I were you, I'd dissapear, cuz if the DeCapos catch you, they're going to torture and kill you."
+msgid "[VP]If you fail to kill Joey tonight, if I were you, I'd dissapear, cuz if the DeCapos catch you, they're going to torture and kill you."
+msgstr "[VP]If you fail to kill Joey tonight, if I were you, I'd dissapear, cuz if the DeCapos catch you, they're going to torture and kill you."
 
 # game/UpdateScript0.06.rpy:9235## # translate crowdin sid_sex_event_72954ba2:
-msgid "VP "And I seriously doubt you have the strength to keep quiet about us under torture."
-    VP "And I seriously doubt you have the strength to keep quiet about us under torture."
+msgid "[VP]And I seriously doubt you have the strength to keep quiet about us under torture."
+msgstr "[VP]And I seriously doubt you have the strength to keep quiet about us under torture."
 
 # game/UpdateScript0.06.rpy:9236## # translate crowdin sid_sex_event_02975f41:
-msgid "VP "And if you do mention our name, we'll kill you if they don't, and that pretty little sister of yours will be the one that ends up trafficked to one of our brothels."
-    VP "And if you do mention our name, we'll kill you if they don't, and that pretty little sister of yours will be the one that ends up trafficked to one of our brothels."
+msgid "[VP]And if you do mention our name, we'll kill you if they don't, and that pretty little sister of yours will be the one that ends up trafficked to one of our brothels."
+msgstr "[VP]And if you do mention our name, we'll kill you if they don't, and that pretty little sister of yours will be the one that ends up trafficked to one of our brothels."
 
 # game/UpdateScript0.06.rpy:9237## # translate crowdin sid_sex_event_dc588557:
-msgid "VP "So, you'd better kill Joey, or get out of there and make yourself impossible to find."
-    VP "So, you'd better kill Joey, or get out of there and make yourself impossible to find."
+msgid "[VP]So, you'd better kill Joey, or get out of there and make yourself impossible to find."
+msgstr "[VP]So, you'd better kill Joey, or get out of there and make yourself impossible to find."
 
 # game/UpdateScript0.06.rpy:9238## # translate crowdin sid_sex_event_f5bf81a8:
 msgid "[CC]Can't you guys protect me?"
 msgstr "[CC]Can't you guys protect me?"
 
 # game/UpdateScript0.06.rpy:9239## # translate crowdin sid_sex_event_50810c5d:
-msgid "VP "Only if Joey dies tonight."
-    VP "Only if Joey dies tonight."
+msgid "[VP]Only if Joey dies tonight."
+msgstr "[VP]Only if Joey dies tonight."
 
 # game/UpdateScript0.06.rpy:9240## # translate crowdin sid_sex_event_f88f1d37:
-msgid "VP "But you can't leave any witnesses either."
-    VP "But you can't leave any witnesses either."
+msgid "[VP]But you can't leave any witnesses either."
+msgstr "[VP]But you can't leave any witnesses either."
 
 # game/UpdateScript0.06.rpy:9241## # translate crowdin sid_sex_event_8bdf8e05:
-msgid "VP "So, if you're successful in killing him, bring us those two lovely girls, and we'll let you keep a share of their brothel earnings."
-    VP "So, if you're successful in killing him, bring us those two lovely girls, and we'll let you keep a share of their brothel earnings."
+msgid "[VP]So, if you're successful in killing him, bring us those two lovely girls, and we'll let you keep a share of their brothel earnings."
+msgstr "[VP]So, if you're successful in killing him, bring us those two lovely girls, and we'll let you keep a share of their brothel earnings."
 
 # game/UpdateScript0.06.rpy:9242## # translate crowdin sid_sex_event_87b697f2:
 msgid "[CC]But how am I going to?...."
