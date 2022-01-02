@@ -6539,12 +6539,12 @@ msgid "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just sa
 msgstr "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
 
 # game/UpdateScript0.04.rpy:3486## # translate crowdin jacky_caught_office_ec48f479:
-msgid "MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
-    MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
+msgid "[MG] She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
+msgstr "[MG] She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
 
 # game/UpdateScript0.04.rpy:3487## # translate crowdin jacky_caught_office_8b78ea83:
-msgid "MG "Is everything ok?"
-    MG "Is everything ok?"
+msgid "[MG] Is everything ok?"
+msgstr "[MG] Is everything ok?"
 
 # game/UpdateScript0.04.rpy:3488## # translate crowdin jacky_caught_office_3a55d753:
 msgid "[R] Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
@@ -6563,24 +6563,24 @@ msgid "[R] What?.... no.... shut up!"
 msgstr "[R] What?.... no.... shut up!"
 
 # game/UpdateScript0.04.rpy:3492## # translate crowdin jacky_caught_office_40cd6e2d:
-msgid "MG "Holy shit!"
-    MG "Holy shit!"
+msgid "[MG] Holy shit!"
+msgstr "[MG] Holy shit!"
 
 # game/UpdateScript0.04.rpy:3493## # translate crowdin jacky_caught_office_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.04.rpy:3494## # translate crowdin jacky_caught_office_9f8333c6:
-msgid "MG "I just got a mental image.... wow!.... That really turns me on for some reason."
-    MG "I just got a mental image.... wow!.... That really turns me on for some reason."
+msgid "[MG] I just got a mental image.... wow!.... That really turns me on for some reason."
+msgstr "[MG] I just got a mental image.... wow!.... That really turns me on for some reason."
 
 # game/UpdateScript0.04.rpy:3495## # translate crowdin jacky_caught_office_4580e4dd:
 msgid "[R] What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
 msgstr "[R] What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
 
 # game/UpdateScript0.04.rpy:3496## # translate crowdin jacky_caught_office_6efad675:
-msgid "MG "Matt! Follow me.... I've got something.... I need to.... take care of..."
-    MG "Matt! Follow me.... I've got something.... I need to.... take care of..."
+msgid "[MG] Matt! Follow me.... I've got something.... I need to.... take care of..."
+msgstr "[MG] Matt! Follow me.... I've got something.... I need to.... take care of..."
 
 # game/UpdateScript0.04.rpy:3499## # translate crowdin jacky_caught_office_8d6de886:
 msgid "[RT] {i}Ok, Mom's probably in her office. I could go talk to her, or should I maybe look around and see if I can tell where Matt and Megan went.... maybe I can sneak a peek.... {/i}"
@@ -6615,20 +6615,20 @@ msgid "[RT] {i}Nice!.... Megan is really into it!{/i}"
 msgstr "[RT] {i}Nice!.... Megan is really into it!{/i}"
 
 # game/UpdateScript0.04.rpy:3525## # translate crowdin jacky_caught_office_5e848239:
-msgid "MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgid "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgstr "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
 
 # game/UpdateScript0.04.rpy:3526## # translate crowdin jacky_caught_office_6ac7cc45:
-msgid "MG "Speaking of.... have we made.... much progress?..."
-    MG "Speaking of.... have we made.... much progress?..."
+msgid "[MG] Speaking of.... have we made.... much progress?..."
+msgstr "[MG] Speaking of.... have we made.... much progress?..."
 
 # game/UpdateScript0.04.rpy:3527## # translate crowdin jacky_caught_office_d5fa5170:
 msgid "[MB] Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
 msgstr "[MB] Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
 
 # game/UpdateScript0.04.rpy:3528## # translate crowdin jacky_caught_office_7a9f7a98:
-msgid "MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
-    MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
+msgid "[MG] I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
+msgstr "[MG] I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
 
 # game/UpdateScript0.04.rpy:3529## # translate crowdin jacky_caught_office_5fa743d2:
 msgid "[RT] {i}They're going at it again.{/i}"
@@ -6651,28 +6651,28 @@ msgid "[RT] {i}Nice!.... Megan is really into it!{/i}"
 msgstr "[RT] {i}Nice!.... Megan is really into it!{/i}"
 
 # game/UpdateScript0.04.rpy:3547## # translate crowdin jacky_caught_office_5e848239_1:
-msgid "MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgid "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgstr "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
 
 # game/UpdateScript0.04.rpy:3548## # translate crowdin jacky_caught_office_7474ddf2:
 msgid "[MB] I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
 msgstr "[MB] I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
 
 # game/UpdateScript0.04.rpy:3549## # translate crowdin jacky_caught_office_b8aa2b57:
-msgid "MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
-    MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
+msgid "[MG] Shut up! Don't.... ruin .... my fantasy .... right now!"
+msgstr "[MG] Shut up! Don't.... ruin .... my fantasy .... right now!"
 
 # game/UpdateScript0.04.rpy:3550## # translate crowdin jacky_caught_office_2b118f35:
-msgid "MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
-    MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
+msgid "[MG] You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
+msgstr "[MG] You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
 
 # game/UpdateScript0.04.rpy:3551## # translate crowdin jacky_caught_office_01e75c77:
 msgid "[MB] Yeah.... well, hopefully soon.... it will be.... more than just.... fantasy."
 msgstr "[MB] Yeah.... well, hopefully soon.... it will be.... more than just.... fantasy."
 
 # game/UpdateScript0.04.rpy:3553## # translate crowdin jacky_caught_office_2fed0a60:
-msgid "MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
-    MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
+msgid "[MG] How's that.... going to.... happen.... I thought he told you.... to fuck off."
+msgstr "[MG] How's that.... going to.... happen.... I thought he told you.... to fuck off."
 
 # game/UpdateScript0.04.rpy:3554## # translate crowdin jacky_caught_office_1f651090:
 msgid "[MB] Yeah he did.... but you can just tell.... there's electricity between them.... It's just a matter.... of time..."
@@ -6683,8 +6683,8 @@ msgid "[MB] But I've got to.... figure how to get a piece of.... [mom_name]'s as
 msgstr "[MB] But I've got to.... figure how to get a piece of.... [mom_name]'s ass for myself."
 
 # game/UpdateScript0.04.rpy:3557## # translate crowdin jacky_caught_office_57e69d2a:
-msgid "MG "Have you.... figured out a .... plan to get them.... together yet?"
-    MG "Have you.... figured out a .... plan to get them.... together yet?"
+msgid "[MG] Have you.... figured out a .... plan to get them.... together yet?"
+msgstr "[MG] Have you.... figured out a .... plan to get them.... together yet?"
 
 # game/UpdateScript0.04.rpy:3558## # translate crowdin jacky_caught_office_1213fd85:
 msgid "[MB] I'm still working.... out the details.... but it's going to involve you.... getting close to his family."
@@ -6695,16 +6695,16 @@ msgid "[MB] Maybe you can.... get close.... through his sister.... Lauren."
 msgstr "[MB] Maybe you can.... get close.... through his sister.... Lauren."
 
 # game/UpdateScript0.04.rpy:3560## # translate crowdin jacky_caught_office_e0fe6189:
-msgid "MG "Well, that's easy.... she seems pretty.... easy to influence..."
-    MG "Well, that's easy.... she seems pretty.... easy to influence..."
+msgid "[MG] Well, that's easy.... she seems pretty.... easy to influence..."
+msgstr "[MG] Well, that's easy.... she seems pretty.... easy to influence..."
 
 # game/UpdateScript0.04.rpy:3561## # translate crowdin jacky_caught_office_4a1e4820:
 msgid "[MB] Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
 msgstr "[MB] Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
 
 # game/UpdateScript0.04.rpy:3562## # translate crowdin jacky_caught_office_79f01eb4:
-msgid "MG "Whatever we do.... we need to hurry it along."
-    MG "Whatever we do.... we need to hurry it along."
+msgid "[MG] Whatever we do.... we need to hurry it along."
+msgstr "[MG] Whatever we do.... we need to hurry it along."
 
 # game/UpdateScript0.04.rpy:3563## # translate crowdin jacky_caught_office_b3defae4:
 msgid "[MB] Yeah.... so far.... it's been like.... one of those crappy incest games.... that leaves you with blue balls.... and never gets.... to the good stuff."
@@ -6755,20 +6755,20 @@ msgid "[RT] {i}Nice!.... Megan is really into it!{/i}"
 msgstr "[RT] {i}Nice!.... Megan is really into it!{/i}"
 
 # game/UpdateScript0.04.rpy:3594## # translate crowdin jacky_caught_office_5e848239_2:
-msgid "MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgid "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgstr "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
 
 # game/UpdateScript0.04.rpy:3595## # translate crowdin jacky_caught_office_6ac7cc45_1:
-msgid "MG "Speaking of.... have we made.... much progress?..."
-    MG "Speaking of.... have we made.... much progress?..."
+msgid "[MG] Speaking of.... have we made.... much progress?..."
+msgstr "[MG] Speaking of.... have we made.... much progress?..."
 
 # game/UpdateScript0.04.rpy:3596## # translate crowdin jacky_caught_office_d5fa5170_1:
 msgid "[MB] Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
 msgstr "[MB] Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
 
 # game/UpdateScript0.04.rpy:3597## # translate crowdin jacky_caught_office_7a9f7a98_1:
-msgid "MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
-    MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
+msgid "[MG] I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
+msgstr "[MG] I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
 
 # game/UpdateScript0.04.rpy:3598## # translate crowdin jacky_caught_office_5fa743d2_1:
 msgid "[RT] {i}They're going at it again.{/i}"
@@ -6791,28 +6791,28 @@ msgid "[RT] {i}Nice!.... Megan is really into it!{/i}"
 msgstr "[RT] {i}Nice!.... Megan is really into it!{/i}"
 
 # game/UpdateScript0.04.rpy:3616## # translate crowdin jacky_caught_office_5e848239_3:
-msgid "MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgid "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
+msgstr "[MG] Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
 
 # game/UpdateScript0.04.rpy:3617## # translate crowdin jacky_caught_office_7474ddf2_1:
 msgid "[MB] I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
 msgstr "[MB] I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
 
 # game/UpdateScript0.04.rpy:3618## # translate crowdin jacky_caught_office_b8aa2b57_1:
-msgid "MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
-    MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
+msgid "[MG] Shut up! Don't.... ruin .... my fantasy .... right now!"
+msgstr "[MG] Shut up! Don't.... ruin .... my fantasy .... right now!"
 
 # game/UpdateScript0.04.rpy:3619## # translate crowdin jacky_caught_office_2b118f35_1:
-msgid "MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
-    MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
+msgid "[MG] You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
+msgstr "[MG] You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
 
 # game/UpdateScript0.04.rpy:3620## # translate crowdin jacky_caught_office_01e75c77_1:
 msgid "[MB] Yeah.... well, hopefully soon.... it will be.... more than just.... fantasy."
 msgstr "[MB] Yeah.... well, hopefully soon.... it will be.... more than just.... fantasy."
 
 # game/UpdateScript0.04.rpy:3622## # translate crowdin jacky_caught_office_2fed0a60_1:
-msgid "MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
-    MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
+msgid "[MG] How's that.... going to.... happen.... I thought he told you.... to fuck off."
+msgstr "[MG] How's that.... going to.... happen.... I thought he told you.... to fuck off."
 
 # game/UpdateScript0.04.rpy:3623## # translate crowdin jacky_caught_office_1f651090_1:
 msgid "[MB] Yeah he did.... but you can just tell.... there's electricity between them.... It's just a matter.... of time..."
@@ -6823,8 +6823,8 @@ msgid "[MB] But I've got to.... figure how to get a piece of.... [mom_name]'s as
 msgstr "[MB] But I've got to.... figure how to get a piece of.... [mom_name]'s ass for myself."
 
 # game/UpdateScript0.04.rpy:3626## # translate crowdin jacky_caught_office_57e69d2a_1:
-msgid "MG "Have you.... figured out a .... plan to get them.... together yet?"
-    MG "Have you.... figured out a .... plan to get them.... together yet?"
+msgid "[MG] Have you.... figured out a .... plan to get them.... together yet?"
+msgstr "[MG] Have you.... figured out a .... plan to get them.... together yet?"
 
 # game/UpdateScript0.04.rpy:3627## # translate crowdin jacky_caught_office_1213fd85_1:
 msgid "[MB] I'm still working.... out the details.... but it's going to involve you.... getting close to his family."
@@ -6835,16 +6835,16 @@ msgid "[MB] Maybe you can.... get close.... through his sister.... Lauren."
 msgstr "[MB] Maybe you can.... get close.... through his sister.... Lauren."
 
 # game/UpdateScript0.04.rpy:3629## # translate crowdin jacky_caught_office_e0fe6189_1:
-msgid "MG "Well, that's easy.... she seems pretty.... easy to influence..."
-    MG "Well, that's easy.... she seems pretty.... easy to influence..."
+msgid "[MG] Well, that's easy.... she seems pretty.... easy to influence..."
+msgstr "[MG] Well, that's easy.... she seems pretty.... easy to influence..."
 
 # game/UpdateScript0.04.rpy:3630## # translate crowdin jacky_caught_office_4a1e4820_1:
 msgid "[MB] Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
 msgstr "[MB] Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
 
 # game/UpdateScript0.04.rpy:3631## # translate crowdin jacky_caught_office_79f01eb4_1:
-msgid "MG "Whatever we do.... we need to hurry it along."
-    MG "Whatever we do.... we need to hurry it along."
+msgid "[MG] Whatever we do.... we need to hurry it along."
+msgstr "[MG] Whatever we do.... we need to hurry it along."
 
 # game/UpdateScript0.04.rpy:3632## # translate crowdin jacky_caught_office_b3defae4_1:
 msgid "[MB] Yeah.... so far.... it's been like.... one of those crappy incest games.... that leaves you with blue balls.... and never gets.... to the good stuff."

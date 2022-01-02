@@ -4875,16 +4875,16 @@ msgid "[R] Really? What about?"
 msgstr "[R] Really? What about?"
 
 # game/UpdateScript0.02.rpy:3275## # translate crowdin invitemomtooffice_c8609fbd:
-msgid "MG "Oh, haha.... really Miss [mom_name] just overheard our conversation about the hottest couple for the yearbook."
-    MG "Oh, haha.... really Miss [mom_name] just overheard our conversation about the hottest couple for the yearbook."
+msgid "[MG] Oh, haha.... really Miss [mom_name] just overheard our conversation about the hottest couple for the yearbook."
+msgstr "[MG] Oh, haha.... really Miss [mom_name] just overheard our conversation about the hottest couple for the yearbook."
 
 # game/UpdateScript0.02.rpy:3276## # translate crowdin invitemomtooffice_76575d43:
-msgid "MG "This year it's not from existing couples, but who would make the cutest couples."
-    MG "This year it's not from existing couples, but who would make the cutest couples."
+msgid "[MG] This year it's not from existing couples, but who would make the cutest couples."
+msgstr "[MG] This year it's not from existing couples, but who would make the cutest couples."
 
 # game/UpdateScript0.02.rpy:3277## # translate crowdin invitemomtooffice_0c51bd1a:
-msgid "MG "And your name is on the top of the chart."
-    MG "And your name is on the top of the chart."
+msgid "[MG] And your name is on the top of the chart."
+msgstr "[MG] And your name is on the top of the chart."
 
 # game/UpdateScript0.02.rpy:3278## # translate crowdin invitemomtooffice_8cc11a35:
 msgid "[M] But I'm dying to know what girl you should be coupled with."
@@ -4919,12 +4919,12 @@ msgid "[MB] And think about it. You're the hottest woman in this school!"
 msgstr "[MB] And think about it. You're the hottest woman in this school!"
 
 # game/UpdateScript0.02.rpy:3288## # translate crowdin invitemomtooffice_338f5f67:
-msgid "MG "Yeah, and [ryan]'s quite the looker as well."
-    MG "Yeah, and [ryan]'s quite the looker as well."
+msgid "[MG] Yeah, and [ryan]'s quite the looker as well."
+msgstr "[MG] Yeah, and [ryan]'s quite the looker as well."
 
 # game/UpdateScript0.02.rpy:3289## # translate crowdin invitemomtooffice_4335f2b8:
-msgid "MG "You passed down your sexiest genes Miss [mom_name]!"
-    MG "You passed down your sexiest genes Miss [mom_name]!"
+msgid "[MG] You passed down your sexiest genes Miss [mom_name]!"
+msgstr "[MG] You passed down your sexiest genes Miss [mom_name]!"
 
 # game/UpdateScript0.02.rpy:3292## # translate crowdin invitemomtooffice_2941e037:
 msgid "[M] Oh, you two!"

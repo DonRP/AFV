@@ -9511,68 +9511,68 @@ msgid "X "Woo..wooo! Go Megan!"
     X "Woo..wooo! Go Megan!"
 
 # game/UpdateScript0.07.rpy:6171## # translate crowdin actual_election_629ebcf2:
-msgid "MG "Hello, Students of Shagtown High."
-    MG "Hello, Students of Shagtown High."
+msgid "[MG] Hello, Students of Shagtown High."
+msgstr "[MG] Hello, Students of Shagtown High."
 
 # game/UpdateScript0.07.rpy:6172## # translate crowdin actual_election_58ae076a:
-msgid "MG "Hi Matt, you lying son of a bitch!"
-    MG "Hi Matt, you lying son of a bitch!"
+msgid "[MG] Hi Matt, you lying son of a bitch!"
+msgstr "[MG] Hi Matt, you lying son of a bitch!"
 
 # game/UpdateScript0.07.rpy:6175## # translate crowdin actual_election_e5d57fe2:
-msgid "MG "I just want you to know, that I know what you did in the girls locker room."
-    MG "I just want you to know, that I know what you did in the girls locker room."
+msgid "[MG] I just want you to know, that I know what you did in the girls locker room."
+msgstr "[MG] I just want you to know, that I know what you did in the girls locker room."
 
 # game/UpdateScript0.07.rpy:6176## # translate crowdin actual_election_8db5bb7c:
-msgid "MG "I've known for some time now."
-    MG "I've known for some time now."
+msgid "[MG] I've known for some time now."
+msgstr "[MG] I've known for some time now."
 
 # game/UpdateScript0.07.rpy:6179## # translate crowdin actual_election_38aa23a7:
-msgid "MG "Students, unless you're basic, don't vote for Matt!"
-    MG "Students, unless you're basic, don't vote for Matt!"
+msgid "[MG] Students, unless you're basic, don't vote for Matt!"
+msgstr "[MG] Students, unless you're basic, don't vote for Matt!"
 
 # game/UpdateScript0.07.rpy:6180## # translate crowdin actual_election_92f26c21:
-msgid "MG "How could you possibly trust anyone who would do his own girlfriend so dirty?"
-    MG "How could you possibly trust anyone who would do his own girlfriend so dirty?"
+msgid "[MG] How could you possibly trust anyone who would do his own girlfriend so dirty?"
+msgstr "[MG] How could you possibly trust anyone who would do his own girlfriend so dirty?"
 
 # game/UpdateScript0.07.rpy:6181## # translate crowdin actual_election_917d9934:
-msgid "MG "Especially a girlfriend who lets him do almost anything and anyone he wants to."
-    MG "Especially a girlfriend who lets him do almost anything and anyone he wants to."
+msgid "[MG] Especially a girlfriend who lets him do almost anything and anyone he wants to."
+msgstr "[MG] Especially a girlfriend who lets him do almost anything and anyone he wants to."
 
 # game/UpdateScript0.07.rpy:6182## # translate crowdin actual_election_7fe6d046:
-msgid "MG "I tell him to stay away from one single bitch, and what does he do?"
-    MG "I tell him to stay away from one single bitch, and what does he do?"
+msgid "[MG] I tell him to stay away from one single bitch, and what does he do?"
+msgstr "[MG] I tell him to stay away from one single bitch, and what does he do?"
 
 # game/UpdateScript0.07.rpy:6183## # translate crowdin actual_election_c2753576:
-msgid "MG "Well... I can't say it in front of all the teachers and principal without getting detention."
-    MG "Well... I can't say it in front of all the teachers and principal without getting detention."
+msgid "[MG] Well... I can't say it in front of all the teachers and principal without getting detention."
+msgstr "[MG] Well... I can't say it in front of all the teachers and principal without getting detention."
 
 # game/UpdateScript0.07.rpy:6184## # translate crowdin actual_election_c95d41b8:
-msgid "MG "Needless to say, Matt is a filthy, dirty, untrustworthy douchebag that doesn't care about me, you, or his school."
-    MG "Needless to say, Matt is a filthy, dirty, untrustworthy douchebag that doesn't care about me, you, or his school."
+msgid "[MG] Needless to say, Matt is a filthy, dirty, untrustworthy douchebag that doesn't care about me, you, or his school."
+msgstr "[MG] Needless to say, Matt is a filthy, dirty, untrustworthy douchebag that doesn't care about me, you, or his school."
 
 # game/UpdateScript0.07.rpy:6185## # translate crowdin actual_election_8ccc9656:
-msgid "MG "The only thing Matt cares about, is himself!"
-    MG "The only thing Matt cares about, is himself!"
+msgid "[MG] The only thing Matt cares about, is himself!"
+msgstr "[MG] The only thing Matt cares about, is himself!"
 
 # game/UpdateScript0.07.rpy:6188## # translate crowdin actual_election_b3ef6135:
-msgid "MG "So, I'm here to tell you to vote for another candidate, one who's already proven her love for the school by saving us from those ancient sweaty rags."
-    MG "So, I'm here to tell you to vote for another candidate, one who's already proven her love for the school by saving us from those ancient sweaty rags."
+msgid "[MG] So, I'm here to tell you to vote for another candidate, one who's already proven her love for the school by saving us from those ancient sweaty rags."
+msgstr "[MG] So, I'm here to tell you to vote for another candidate, one who's already proven her love for the school by saving us from those ancient sweaty rags."
 
 # game/UpdateScript0.07.rpy:6189## # translate crowdin actual_election_71e76b57:
-msgid "MG "One who I'm sure would be loyal to her bae no matter what."
-    MG "One who I'm sure would be loyal to her bae no matter what."
+msgid "[MG] One who I'm sure would be loyal to her bae no matter what."
+msgstr "[MG] One who I'm sure would be loyal to her bae no matter what."
 
 # game/UpdateScript0.07.rpy:6192## # translate crowdin actual_election_3d31753b:
-msgid "MG "Of course I'm talking about our very own cosplay girl, Lauren!"
-    MG "Of course I'm talking about our very own cosplay girl, Lauren!"
+msgid "[MG] Of course I'm talking about our very own cosplay girl, Lauren!"
+msgstr "[MG] Of course I'm talking about our very own cosplay girl, Lauren!"
 
 # game/UpdateScript0.07.rpy:6193## # translate crowdin actual_election_1cdba709_5:
 msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
     X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6194## # translate crowdin actual_election_71c9fe05:
-msgid "MG "Now, please enjoy a skit we cheerleaders put together just for her!"
-    MG "Now, please enjoy a skit we cheerleaders put together just for her!"
+msgid "[MG] Now, please enjoy a skit we cheerleaders put together just for her!"
+msgstr "[MG] Now, please enjoy a skit we cheerleaders put together just for her!"
 
 # game/UpdateScript0.07.rpy:6247## # translate crowdin actual_election_d106e1f9:
 msgid "X "{i}(Chanting){/i} Lauren... Lauren... Lauren!!"
@@ -14751,12 +14751,12 @@ msgid "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just sa
 msgstr "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
 
 # game/UpdateScript0.07.rpy:8931## # translate crowdin new_jacky_caught_office_ec48f479:
-msgid "MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
-    MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
+msgid "[MG] She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
+msgstr "[MG] She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
 
 # game/UpdateScript0.07.rpy:8932## # translate crowdin new_jacky_caught_office_8b78ea83:
-msgid "MG "Is everything ok?"
-    MG "Is everything ok?"
+msgid "[MG] Is everything ok?"
+msgstr "[MG] Is everything ok?"
 
 # game/UpdateScript0.07.rpy:8933## # translate crowdin new_jacky_caught_office_3a55d753:
 msgid "[R] Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
@@ -14775,16 +14775,16 @@ msgid "[R] Shut up!"
 msgstr "[R] Shut up!"
 
 # game/UpdateScript0.07.rpy:8937## # translate crowdin new_jacky_caught_office_40cd6e2d:
-msgid "MG "Holy shit!"
-    MG "Holy shit!"
+msgid "[MG] Holy shit!"
+msgstr "[MG] Holy shit!"
 
 # game/UpdateScript0.07.rpy:8938## # translate crowdin new_jacky_caught_office_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.07.rpy:8939## # translate crowdin new_jacky_caught_office_9f8333c6:
-msgid "MG "I just got a mental image.... wow!.... That really turns me on for some reason."
-    MG "I just got a mental image.... wow!.... That really turns me on for some reason."
+msgid "[MG] I just got a mental image.... wow!.... That really turns me on for some reason."
+msgstr "[MG] I just got a mental image.... wow!.... That really turns me on for some reason."
 
 # game/UpdateScript0.07.rpy:8940## # translate crowdin new_jacky_caught_office_4580e4dd:
 msgid "[R] What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
@@ -14795,16 +14795,16 @@ msgid "MGT "{i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
     MGT "{i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
 
 # game/UpdateScript0.07.rpy:8942## # translate crowdin new_jacky_caught_office_9b07cf0a:
-msgid "MG "...."
-    MG "...."
+msgid "[MG] ...."
+msgstr "[MG] ...."
 
 # game/UpdateScript0.07.rpy:8943## # translate crowdin new_jacky_caught_office_e200a835:
 msgid "[MB] Didn't you want to go somewhere to take care of that?"
 msgstr "[MB] Didn't you want to go somewhere to take care of that?"
 
 # game/UpdateScript0.07.rpy:8944## # translate crowdin new_jacky_caught_office_12ad1f01:
-msgid "MG "No... I still can't."
-    MG "No... I still can't."
+msgid "[MG] No... I still can't."
+msgstr "[MG] No... I still can't."
 
 # game/UpdateScript0.07.rpy:8945## # translate crowdin new_jacky_caught_office_4a74412e:
 msgid "[MB] You mean you still have a rash down there?"
@@ -15947,12 +15947,12 @@ msgid "PH "{i}(Whispering){/i} Oh, shit!..."
     PH "{i}(Whispering){/i} Oh, shit!..."
 
 # game/UpdateScript0.07.rpy:9702## # translate crowdin election_announcement_9b23fc7e:
-msgid "MG "Hey! She used to be my cheerleading captain when I was a freshman!"
-    MG "Hey! She used to be my cheerleading captain when I was a freshman!"
+msgid "[MG] Hey! She used to be my cheerleading captain when I was a freshman!"
+msgstr "[MG] Hey! She used to be my cheerleading captain when I was a freshman!"
 
 # game/UpdateScript0.07.rpy:9703## # translate crowdin election_announcement_25341c6b:
-msgid "MG "Wait!... Oh, my God! Was she doing what I think she was doing?"
-    MG "Wait!... Oh, my God! Was she doing what I think she was doing?"
+msgid "[MG] Wait!... Oh, my God! Was she doing what I think she was doing?"
+msgstr "[MG] Wait!... Oh, my God! Was she doing what I think she was doing?"
 
 # game/UpdateScript0.07.rpy:9704## # translate crowdin election_announcement_6e0b93ff:
 msgid "[M] Shhhh..."
@@ -15983,8 +15983,8 @@ msgid "PH "She's the new school secretary and will also be serving as our new ch
     PH "She's the new school secretary and will also be serving as our new cheerleading coach."
 
 # game/UpdateScript0.07.rpy:9717## # translate crowdin election_announcement_586bf81c:
-msgid "MG "Nooo!"
-    MG "Nooo!"
+msgid "[MG] Nooo!"
+msgstr "[MG] Nooo!"
 
 # game/UpdateScript0.07.rpy:9718## # translate crowdin election_announcement_d603f388:
 msgid "PH "Some of you may recognize her since she graduated from our school 3 years ago."
@@ -15995,8 +15995,8 @@ msgid "[RT] {i}I know, I jacked off multiple times to her yearbook picture after
 msgstr "[RT] {i}I know, I jacked off multiple times to her yearbook picture after my freshman year.{/i}"
 
 # game/UpdateScript0.07.rpy:9720## # translate crowdin election_announcement_d4676515:
-msgid "MG "That's bullshit! She can't be the new cheerleading coach!"
-    MG "That's bullshit! She can't be the new cheerleading coach!"
+msgid "[MG] That's bullshit! She can't be the new cheerleading coach!"
+msgstr "[MG] That's bullshit! She can't be the new cheerleading coach!"
 
 # game/UpdateScript0.07.rpy:9721## # translate crowdin election_announcement_fedeba91:
 msgid "[M] Settle down, Megan."
@@ -16391,88 +16391,88 @@ msgid "MD "Bye, [ryan]"
     MD "Bye, [ryan]"
 
 # game/UpdateScript0.07.rpy:10015## # translate crowdin talk_to_megan_6eef4f8c:
-msgid "MG "See ya, [ryan], maybe we'll see you soon."
-    MG "See ya, [ryan], maybe we'll see you soon."
+msgid "[MG] See ya, [ryan], maybe we'll see you soon."
+msgstr "[MG] See ya, [ryan], maybe we'll see you soon."
 
 # game/UpdateScript0.07.rpy:10021## # translate crowdin talk_to_megan_7fc091a0:
 msgid "[R] Took you long enough."
 msgstr "[R] Took you long enough."
 
 # game/UpdateScript0.07.rpy:10022## # translate crowdin talk_to_megan_1ffe06fc:
-msgid "MG "You're the one who said not to cause suspicion."
-    MG "You're the one who said not to cause suspicion."
+msgid "[MG] You're the one who said not to cause suspicion."
+msgstr "[MG] You're the one who said not to cause suspicion."
 
 # game/UpdateScript0.07.rpy:10025## # translate crowdin talk_to_megan_dc94cbe9:
 msgid "[R] So, is the skit still coming along well?"
 msgstr "[R] So, is the skit still coming along well?"
 
 # game/UpdateScript0.07.rpy:10026## # translate crowdin talk_to_megan_fcaef13c:
-msgid "MG "Yeah, we're getting it more and more polished."
-    MG "Yeah, we're getting it more and more polished."
+msgid "[MG] Yeah, we're getting it more and more polished."
+msgstr "[MG] Yeah, we're getting it more and more polished."
 
 # game/UpdateScript0.07.rpy:10027## # translate crowdin talk_to_megan_bbb68bcd:
-msgid "MG "Mandy's been really great in making all our movements synchronized."
-    MG "Mandy's been really great in making all our movements synchronized."
+msgid "[MG] Mandy's been really great in making all our movements synchronized."
+msgstr "[MG] Mandy's been really great in making all our movements synchronized."
 
 # game/UpdateScript0.07.rpy:10030## # translate crowdin talk_to_megan_4c9530a0:
-msgid "MG "Soooo... I assume this is more than just a social visit?"
-    MG "Soooo... I assume this is more than just a social visit?"
+msgid "[MG] Soooo... I assume this is more than just a social visit?"
+msgstr "[MG] Soooo... I assume this is more than just a social visit?"
 
 # game/UpdateScript0.07.rpy:10031## # translate crowdin talk_to_megan_5f58d2bb:
 msgid "[R] What would make you think that I don't just want to talk to you?... See how you're doing?"
 msgstr "[R] What would make you think that I don't just want to talk to you?... See how you're doing?"
 
 # game/UpdateScript0.07.rpy:10032## # translate crowdin talk_to_megan_bea128ce:
-msgid "MG "[ryan]! Do you want a roll, or not?"
-    MG "[ryan]! Do you want a roll, or not?"
+msgid "[MG] [ryan]! Do you want a roll, or not?"
+msgstr "[MG] [ryan]! Do you want a roll, or not?"
 
 # game/UpdateScript0.07.rpy:10035## # translate crowdin talk_to_megan_d164a171:
 msgid "[R] Well, if you really need my dick that much."
 msgstr "[R] Well, if you really need my dick that much."
 
 # game/UpdateScript0.07.rpy:10036## # translate crowdin talk_to_megan_dade4754:
-msgid "MG "Hahaha... [ryan]!"
-    MG "Hahaha... [ryan]!"
+msgid "[MG] Hahaha... [ryan]!"
+msgstr "[MG] Hahaha... [ryan]!"
 
 # game/UpdateScript0.07.rpy:10037## # translate crowdin talk_to_megan_0dc3a1c4:
 msgid "{b}{i}\"Money -$300\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10040## # translate crowdin talk_to_megan_85694701:
-msgid "MG "That's what I like to see."
-    MG "That's what I like to see."
+msgid "[MG] That's what I like to see."
+msgstr "[MG] That's what I like to see."
 
 # game/UpdateScript0.07.rpy:10043## # translate crowdin talk_to_megan_e8512d5a:
-msgid "MG "Now let's lose these clothes and get busy."
-    MG "Now let's lose these clothes and get busy."
+msgid "[MG] Now let's lose these clothes and get busy."
+msgstr "[MG] Now let's lose these clothes and get busy."
 
 # game/UpdateScript0.07.rpy:10044## # translate crowdin talk_to_megan_4d9512ed:
-msgid "MG "I think I'd better lube you up first."
-    MG "I think I'd better lube you up first."
+msgid "[MG] I think I'd better lube you up first."
+msgstr "[MG] I think I'd better lube you up first."
 
 # game/UpdateScript0.07.rpy:10047## # translate crowdin talk_to_megan_02a3c4f9:
-msgid "MG "I could get used to this cock."
-    MG "I could get used to this cock."
+msgid "[MG] I could get used to this cock."
+msgstr "[MG] I could get used to this cock."
 
 # game/UpdateScript0.07.rpy:10048## # translate crowdin talk_to_megan_4057b57c:
-msgid "MG "Mmm... Let's get you ready for my pussy."
-    MG "Mmm... Let's get you ready for my pussy."
+msgid "[MG] Mmm... Let's get you ready for my pussy."
+msgstr "[MG] Mmm... Let's get you ready for my pussy."
 
 # game/UpdateScript0.07.rpy:10052## # translate crowdin talk_to_megan_1b45d0a3:
 msgid "[RT] {i}Ohhh... This feels good!{/i}"
 msgstr "[RT] {i}Ohhh... This feels good!{/i}"
 
 # game/UpdateScript0.07.rpy:10057## # translate crowdin talk_to_megan_cd58c0d4:
-msgid "MG "There we go, [ryan]"
-    MG "There we go, [ryan]"
+msgid "[MG] There we go, [ryan]"
+msgstr "[MG] There we go, [ryan]"
 
 # game/UpdateScript0.07.rpy:10058## # translate crowdin talk_to_megan_b4f1421f:
-msgid "MG "All lubed up."
-    MG "All lubed up."
+msgid "[MG] All lubed up."
+msgstr "[MG] All lubed up."
 
 # game/UpdateScript0.07.rpy:10059## # translate crowdin talk_to_megan_b1652d38:
-msgid "MG "Are you ready to stick that hot cock in my tight pussy?"
-    MG "Are you ready to stick that hot cock in my tight pussy?"
+msgid "[MG] Are you ready to stick that hot cock in my tight pussy?"
+msgstr "[MG] Are you ready to stick that hot cock in my tight pussy?"
 
 # game/UpdateScript0.07.rpy:10060## # translate crowdin talk_to_megan_a0f32196:
 msgid "[R] Oh, yeah... I can't wait to fuck that pretty little pussy."
@@ -16487,16 +16487,16 @@ msgid "[RT] {i}How can that be?{/i}"
 msgstr "[RT] {i}How can that be?{/i}"
 
 # game/UpdateScript0.07.rpy:10074## # translate crowdin talk_to_megan_f9981b9b:
-msgid "MG "Oh, yeah... [ryan]! Fuck my greedy pussy!"
-    MG "Oh, yeah... [ryan]! Fuck my greedy pussy!"
+msgid "[MG] Oh, yeah... [ryan]! Fuck my greedy pussy!"
+msgstr "[MG] Oh, yeah... [ryan]! Fuck my greedy pussy!"
 
 # game/UpdateScript0.07.rpy:10075## # translate crowdin talk_to_megan_3c1448ac:
-msgid "MG "God, you're hitting my womb!"
-    MG "God, you're hitting my womb!"
+msgid "[MG] God, you're hitting my womb!"
+msgstr "[MG] God, you're hitting my womb!"
 
 # game/UpdateScript0.07.rpy:10076## # translate crowdin talk_to_megan_639d7dc8:
-msgid "MG "God!... I need this cock!"
-    MG "God!... I need this cock!"
+msgid "[MG] God!... I need this cock!"
+msgstr "[MG] God!... I need this cock!"
 
 # game/UpdateScript0.07.rpy:10079## # translate crowdin talk_to_megan_d5a30642:
 msgid "[RT] {i}Fuck!... Her dirty talk is driving me crazy... I'm getting so close!{/i}"
@@ -16507,32 +16507,32 @@ msgid "[R] Oooohhh... Megan... I'm gonna cum!"
 msgstr "[R] Oooohhh... Megan... I'm gonna cum!"
 
 # game/UpdateScript0.07.rpy:10081## # translate crowdin talk_to_megan_30c0235f:
-msgid "MG "Ohhh... Yes... give me that baby batter!"
-    MG "Ohhh... Yes... give me that baby batter!"
+msgid "[MG] Ohhh... Yes... give me that baby batter!"
+msgstr "[MG] Ohhh... Yes... give me that baby batter!"
 
 # game/UpdateScript0.07.rpy:10084## # translate crowdin talk_to_megan_c2c7ae2c:
-msgid "MG "Fill me up!"
-    MG "Fill me up!"
+msgid "[MG] Fill me up!"
+msgstr "[MG] Fill me up!"
 
 # game/UpdateScript0.07.rpy:10085## # translate crowdin talk_to_megan_42048646:
-msgid "MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
-    MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgid "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgstr "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
 
 # game/UpdateScript0.07.rpy:10086## # translate crowdin talk_to_megan_43021cc5:
-msgid "MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
-    MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgid "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgstr "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
 
 # game/UpdateScript0.07.rpy:10087## # translate crowdin talk_to_megan_5831a62f:
 msgid "[R] Oh fuck, Megan! You're driving me crazy!"
 msgstr "[R] Oh fuck, Megan! You're driving me crazy!"
 
 # game/UpdateScript0.07.rpy:10099## # translate crowdin talk_to_megan_869b3faf:
-msgid "MG "Oh, my God!... My womb can't fit anymore!"
-    MG "Oh, my God!... My womb can't fit anymore!"
+msgid "[MG] Oh, my God!... My womb can't fit anymore!"
+msgstr "[MG] Oh, my God!... My womb can't fit anymore!"
 
 # game/UpdateScript0.07.rpy:10109## # translate crowdin talk_to_megan_c4b54c5f:
-msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
-    MG "Holy fuck! I'm so full it's bursting out of me!"
+msgid "[MG] Holy fuck! I'm so full it's bursting out of me!"
+msgstr "[MG] Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10110## # translate crowdin talk_to_megan_6f34071d:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
@@ -16559,32 +16559,32 @@ msgid "[R] I'm cumming!"
 msgstr "[R] I'm cumming!"
 
 # game/UpdateScript0.07.rpy:10131## # translate crowdin talk_to_megan_e63fa3b9:
-msgid "MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
-    MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
+msgid "[MG] Holy shit, [ryan]! You just basted me like a fucking turkey!"
+msgstr "[MG] Holy shit, [ryan]! You just basted me like a fucking turkey!"
 
 # game/UpdateScript0.07.rpy:10132## # translate crowdin talk_to_megan_4f66d7f1:
 msgid "[R] Ohhh... Megan!.... Fuck!"
 msgstr "[R] Ohhh... Megan!.... Fuck!"
 
 # game/UpdateScript0.07.rpy:10137## # translate crowdin talk_to_megan_a6b0f3ff:
-msgid "MG "How was that?"
-    MG "How was that?"
+msgid "[MG] How was that?"
+msgstr "[MG] How was that?"
 
 # game/UpdateScript0.07.rpy:10139## # translate crowdin talk_to_megan_719f167d:
 msgid "[R] Worth every penny."
 msgstr "[R] Worth every penny."
 
 # game/UpdateScript0.07.rpy:10140## # translate crowdin talk_to_megan_24605c1c:
-msgid "MG "Haha... That's what I like to hear."
-    MG "Haha... That's what I like to hear."
+msgid "[MG] Haha... That's what I like to hear."
+msgstr "[MG] Haha... That's what I like to hear."
 
 # game/UpdateScript0.07.rpy:10141## # translate crowdin talk_to_megan_ff64b69d:
-msgid "MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
-    MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgid "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgstr "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
 
 # game/UpdateScript0.07.rpy:10147## # translate crowdin talk_to_megan_b375b661:
-msgid "MG "So, I guess I'll be seeing you around again fairly soon?"
-    MG "So, I guess I'll be seeing you around again fairly soon?"
+msgid "[MG] So, I guess I'll be seeing you around again fairly soon?"
+msgstr "[MG] So, I guess I'll be seeing you around again fairly soon?"
 
 # game/UpdateScript0.07.rpy:10148## # translate crowdin talk_to_megan_229aa192:
 msgid "[R] You can count on it."
@@ -16599,40 +16599,40 @@ msgid "[R] As tempting as that sounds, I just can't spend that kind of money rig
 msgstr "[R] As tempting as that sounds, I just can't spend that kind of money right now."
 
 # game/UpdateScript0.07.rpy:10158## # translate crowdin talk_to_megan_08aca068:
-msgid "MG "Alright, I understand."
-    MG "Alright, I understand."
+msgid "[MG] Alright, I understand."
+msgstr "[MG] Alright, I understand."
 
 # game/UpdateScript0.07.rpy:10159## # translate crowdin talk_to_megan_8a38dddc:
-msgid "MG "I'm just not sure why you made me follow you in here again."
-    MG "I'm just not sure why you made me follow you in here again."
+msgid "[MG] I'm just not sure why you made me follow you in here again."
+msgstr "[MG] I'm just not sure why you made me follow you in here again."
 
 # game/UpdateScript0.07.rpy:10160## # translate crowdin talk_to_megan_bedb237d:
 msgid "[R] You know... to make sure everything's still good with Lauren's campaign stuff."
 msgstr "[R] You know... to make sure everything's still good with Lauren's campaign stuff."
 
 # game/UpdateScript0.07.rpy:10161## # translate crowdin talk_to_megan_afd7fa60:
-msgid "MG "Still good. Maybe you can just ask that over a text next time."
-    MG "Still good. Maybe you can just ask that over a text next time."
+msgid "[MG] Still good. Maybe you can just ask that over a text next time."
+msgstr "[MG] Still good. Maybe you can just ask that over a text next time."
 
 # game/UpdateScript0.07.rpy:10162## # translate crowdin talk_to_megan_d930f8d2:
-msgid "MG "If you want something extra, say the code."
-    MG "If you want something extra, say the code."
+msgid "[MG] If you want something extra, say the code."
+msgstr "[MG] If you want something extra, say the code."
 
 # game/UpdateScript0.07.rpy:10163## # translate crowdin talk_to_megan_cad4a5ed:
 msgid "[R] Ok... Sorry, I know you had your hopes up about getting fucked by my big cock."
 msgstr "[R] Ok... Sorry, I know you had your hopes up about getting fucked by my big cock."
 
 # game/UpdateScript0.07.rpy:10164## # translate crowdin talk_to_megan_a9a1024d:
-msgid "MG "Haha... You idiot!"
-    MG "Haha... You idiot!"
+msgid "[MG] Haha... You idiot!"
+msgstr "[MG] Haha... You idiot!"
 
 # game/UpdateScript0.07.rpy:10165## # translate crowdin talk_to_megan_55c12ede:
 msgid "MGT "{i}I really did.{/i}"
     MGT "{i}I really did.{/i}"
 
 # game/UpdateScript0.07.rpy:10166## # translate crowdin talk_to_megan_869e72b8:
-msgid "MG "I'm out of here. I try not to spend too much time in boys' bathrooms."
-    MG "I'm out of here. I try not to spend too much time in boys' bathrooms."
+msgid "[MG] I'm out of here. I try not to spend too much time in boys' bathrooms."
+msgstr "[MG] I'm out of here. I try not to spend too much time in boys' bathrooms."
 
 # game/UpdateScript0.07.rpy:10167## # translate crowdin talk_to_megan_ccae2660:
 msgid "[R] Alright, later Megan."
@@ -16663,16 +16663,16 @@ msgid "[R] Ohh, I just had a few more ideas for Megan to help us take down Matt.
 msgstr "[R] Ohh, I just had a few more ideas for Megan to help us take down Matt."
 
 # game/UpdateScript0.07.rpy:10186## # translate crowdin talk_to_megan_db3f955c:
-msgid "MG "Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
-    MG "Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
+msgid "[MG] Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
+msgstr "[MG] Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
 
 # game/UpdateScript0.07.rpy:10187## # translate crowdin talk_to_megan_9e7dc4ab:
-msgid "MG "You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
-    MG "You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
+msgid "[MG] You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
+msgstr "[MG] You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
 
 # game/UpdateScript0.07.rpy:10193## # translate crowdin talk_to_megan_4407243d:
-msgid "MG "Now, what is this about?"
-    MG "Now, what is this about?"
+msgid "[MG] Now, what is this about?"
+msgstr "[MG] Now, what is this about?"
 
 # game/UpdateScript0.07.rpy:10194## # translate crowdin talk_to_megan_1d59ea05:
 msgid "[R] I'll tell you when we're in the stall."
@@ -16687,24 +16687,24 @@ msgid "[R] So, how is the skit coming along?"
 msgstr "[R] So, how is the skit coming along?"
 
 # game/UpdateScript0.07.rpy:10199## # translate crowdin talk_to_megan_67de226a:
-msgid "MG "It's been a little messy, but it's starting to come together."
-    MG "It's been a little messy, but it's starting to come together."
+msgid "[MG] It's been a little messy, but it's starting to come together."
+msgstr "[MG] It's been a little messy, but it's starting to come together."
 
 # game/UpdateScript0.07.rpy:10200## # translate crowdin talk_to_megan_b1692e6a:
 msgid "[R] How has it been working with Mandy?."
 msgstr "[R] How has it been working with Mandy?."
 
 # game/UpdateScript0.07.rpy:10201## # translate crowdin talk_to_megan_ae918e32:
-msgid "MG "She's actually really great. After we're done sneaking around with this whole skit thing, I'm going to get her a formal tryout to be on the cheerleading team."
-    MG "She's actually really great. After we're done sneaking around with this whole skit thing, I'm going to get her a formal tryout to be on the cheerleading team."
+msgid "[MG] She's actually really great. After we're done sneaking around with this whole skit thing, I'm going to get her a formal tryout to be on the cheerleading team."
+msgstr "[MG] She's actually really great. After we're done sneaking around with this whole skit thing, I'm going to get her a formal tryout to be on the cheerleading team."
 
 # game/UpdateScript0.07.rpy:10202## # translate crowdin talk_to_megan_eaed835e:
 msgid "[R] Mandy would love that."
 msgstr "[R] Mandy would love that."
 
 # game/UpdateScript0.07.rpy:10205## # translate crowdin talk_to_megan_b3efcf2e:
-msgid "MG "Soooo... were you wanting to just make small talk, or is there an important reason why you brought me back to this particular stall?"
-    MG "Soooo... were you wanting to just make small talk, or is there an important reason why you brought me back to this particular stall?"
+msgid "[MG] Soooo... were you wanting to just make small talk, or is there an important reason why you brought me back to this particular stall?"
+msgstr "[MG] Soooo... were you wanting to just make small talk, or is there an important reason why you brought me back to this particular stall?"
 
 # game/UpdateScript0.07.rpy:10206## # translate crowdin talk_to_megan_dfc00eb0:
 msgid "[R] I just cant stop thinking about what you said, in that video we made for Matt."
@@ -16715,16 +16715,16 @@ msgid "[R] I was hoping we could..."
 msgstr "[R] I was hoping we could..."
 
 # game/UpdateScript0.07.rpy:10208## # translate crowdin talk_to_megan_eeb17468:
-msgid "MG "Ohhh... So you {b}are{/b} hoping for another at-school booty call."
-    MG "Ohhh... So you {b}are{/b} hoping for another at-school booty call."
+msgid "[MG] Ohhh... So you {b}are{/b} hoping for another at-school booty call."
+msgstr "[MG] Ohhh... So you {b}are{/b} hoping for another at-school booty call."
 
 # game/UpdateScript0.07.rpy:10209## # translate crowdin talk_to_megan_a8d93f81:
 msgid "[R] I mean, you did say..."
 msgstr "[R] I mean, you did say..."
 
 # game/UpdateScript0.07.rpy:10210## # translate crowdin talk_to_megan_128a4f3b:
-msgid "MG "Alright, three hundred dollars."
-    MG "Alright, three hundred dollars."
+msgid "[MG] Alright, three hundred dollars."
+msgstr "[MG] Alright, three hundred dollars."
 
 # game/UpdateScript0.07.rpy:10211## # translate crowdin talk_to_megan_6fd0126b:
 msgid "[R] What!?"
@@ -16735,28 +16735,28 @@ msgid "[R] But we fucked for free the other day."
 msgstr "[R] But we fucked for free the other day."
 
 # game/UpdateScript0.07.rpy:10213## # translate crowdin talk_to_megan_e2d178c3:
-msgid "MG "That didn't make you my boyfriend."
-    MG "That didn't make you my boyfriend."
+msgid "[MG] That didn't make you my boyfriend."
+msgstr "[MG] That didn't make you my boyfriend."
 
 # game/UpdateScript0.07.rpy:10214## # translate crowdin talk_to_megan_2e77e2ba:
-msgid "MG "And besides, I need the money."
-    MG "And besides, I need the money."
+msgid "[MG] And besides, I need the money."
+msgstr "[MG] And besides, I need the money."
 
 # game/UpdateScript0.07.rpy:10215## # translate crowdin talk_to_megan_58a4ec17:
 msgid "[R] Why? Your family is loaded."
 msgstr "[R] Why? Your family is loaded."
 
 # game/UpdateScript0.07.rpy:10216## # translate crowdin talk_to_megan_0497f2f5:
-msgid "MG "My parents cut off my allowance."
-    MG "My parents cut off my allowance."
+msgid "[MG] My parents cut off my allowance."
+msgstr "[MG] My parents cut off my allowance."
 
 # game/UpdateScript0.07.rpy:10217## # translate crowdin talk_to_megan_4d11c504:
-msgid "MG "They found some pictures on my phone they didn't approve of."
-    MG "They found some pictures on my phone they didn't approve of."
+msgid "[MG] They found some pictures on my phone they didn't approve of."
+msgstr "[MG] They found some pictures on my phone they didn't approve of."
 
 # game/UpdateScript0.07.rpy:10218## # translate crowdin talk_to_megan_8c7ee03a:
-msgid "MG "So I need cash."
-    MG "So I need cash."
+msgid "[MG] So I need cash."
+msgstr "[MG] So I need cash."
 
 # game/UpdateScript0.07.rpy:10219## # translate crowdin talk_to_megan_0282f379:
 msgid "[R] So you want me to pay you for sex?"
@@ -16767,12 +16767,12 @@ msgid "[R] You know what that is, right?"
 msgstr "[R] You know what that is, right?"
 
 # game/UpdateScript0.07.rpy:10221## # translate crowdin talk_to_megan_d8ac9791:
-msgid "MG "Don't think about it as paying for sex, think about it as paying for that photo-set I did with your mom."
-    MG "Don't think about it as paying for sex, think about it as paying for that photo-set I did with your mom."
+msgid "[MG] Don't think about it as paying for sex, think about it as paying for that photo-set I did with your mom."
+msgstr "[MG] Don't think about it as paying for sex, think about it as paying for that photo-set I did with your mom."
 
 # game/UpdateScript0.07.rpy:10222## # translate crowdin talk_to_megan_b5cc2f3a:
-msgid "MG "And as a starving model, I'm showing you my gratitude."
-    MG "And as a starving model, I'm showing you my gratitude."
+msgid "[MG] And as a starving model, I'm showing you my gratitude."
+msgstr "[MG] And as a starving model, I'm showing you my gratitude."
 
 # game/UpdateScript0.07.rpy:10224## # translate crowdin talk_to_megan_7b678d70:
 msgid "[R] What about our deal we made at the photoshoot?"
@@ -16783,20 +16783,20 @@ msgid "[R] Where you'll do anything to me that I can get my mom to do to me."
 msgstr "[R] Where you'll do anything to me that I can get my mom to do to me."
 
 # game/UpdateScript0.07.rpy:10226## # translate crowdin talk_to_megan_3cbc40d0:
-msgid "MG "Don't worry, that deal's still on the table."
-    MG "Don't worry, that deal's still on the table."
+msgid "[MG] Don't worry, that deal's still on the table."
+msgstr "[MG] Don't worry, that deal's still on the table."
 
 # game/UpdateScript0.07.rpy:10227## # translate crowdin talk_to_megan_51b3153c:
-msgid "MG "Why?... Have you fucked your mom?"
-    MG "Why?... Have you fucked your mom?"
+msgid "[MG] Why?... Have you fucked your mom?"
+msgstr "[MG] Why?... Have you fucked your mom?"
 
 # game/UpdateScript0.07.rpy:10228## # translate crowdin talk_to_megan_c2d00446:
 msgid "[R] Well, no... not yet."
 msgstr "[R] Well, no... not yet."
 
 # game/UpdateScript0.07.rpy:10229## # translate crowdin talk_to_megan_b4ab17b7:
-msgid "MG "Alright, so other issues?"
-    MG "Alright, so other issues?"
+msgid "[MG] Alright, so other issues?"
+msgstr "[MG] Alright, so other issues?"
 
 # game/UpdateScript0.07.rpy:10230## # translate crowdin talk_to_megan_32cb2b06:
 msgid "[R] I guess not."
@@ -16823,56 +16823,56 @@ msgid "{b}{i}\"Money -$300\"{/i}{/b}"
 msgstr "{b}{i}\"Money -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10242## # translate crowdin talk_to_megan_2ff5a4ff:
-msgid "MG "That's what I like to hear."
-    MG "That's what I like to hear."
+msgid "[MG] That's what I like to hear."
+msgstr "[MG] That's what I like to hear."
 
 # game/UpdateScript0.07.rpy:10245## # translate crowdin talk_to_megan_e8512d5a_1:
-msgid "MG "Now let's lose these clothes and get busy."
-    MG "Now let's lose these clothes and get busy."
+msgid "[MG] Now let's lose these clothes and get busy."
+msgstr "[MG] Now let's lose these clothes and get busy."
 
 # game/UpdateScript0.07.rpy:10246## # translate crowdin talk_to_megan_4d9512ed_1:
-msgid "MG "I think I'd better lube you up first."
-    MG "I think I'd better lube you up first."
+msgid "[MG] I think I'd better lube you up first."
+msgstr "[MG] I think I'd better lube you up first."
 
 # game/UpdateScript0.07.rpy:10249## # translate crowdin talk_to_megan_fa439b92:
-msgid "MG "I worried I'd never be happy with a smaller cock after having Matt's."
-    MG "I worried I'd never be happy with a smaller cock after having Matt's."
+msgid "[MG] I worried I'd never be happy with a smaller cock after having Matt's."
+msgstr "[MG] I worried I'd never be happy with a smaller cock after having Matt's."
 
 # game/UpdateScript0.07.rpy:10250## # translate crowdin talk_to_megan_aa949f74:
-msgid "MG "But really... your cock size is perfect."
-    MG "But really... your cock size is perfect."
+msgid "[MG] But really... your cock size is perfect."
+msgstr "[MG] But really... your cock size is perfect."
 
 # game/UpdateScript0.07.rpy:10251## # translate crowdin talk_to_megan_920be6d0:
-msgid "MG "Matt really was too big for me."
-    MG "Matt really was too big for me."
+msgid "[MG] Matt really was too big for me."
+msgstr "[MG] Matt really was too big for me."
 
 # game/UpdateScript0.07.rpy:10252## # translate crowdin talk_to_megan_2cd527d9:
-msgid "MG "Now, I won't have to walk funny at cheerleading practice anymore."
-    MG "Now, I won't have to walk funny at cheerleading practice anymore."
+msgid "[MG] Now, I won't have to walk funny at cheerleading practice anymore."
+msgstr "[MG] Now, I won't have to walk funny at cheerleading practice anymore."
 
 # game/UpdateScript0.07.rpy:10253## # translate crowdin talk_to_megan_61e1676e:
 msgid "[RT] {i}I wonder if she means it, or is she just trying to make me feel better, since I'm not as big?{/i}"
 msgstr "[RT] {i}I wonder if she means it, or is she just trying to make me feel better, since I'm not as big?{/i}"
 
 # game/UpdateScript0.07.rpy:10254## # translate crowdin talk_to_megan_4057b57c_1:
-msgid "MG "Mmm... Let's get you ready for my pussy."
-    MG "Mmm... Let's get you ready for my pussy."
+msgid "[MG] Mmm... Let's get you ready for my pussy."
+msgstr "[MG] Mmm... Let's get you ready for my pussy."
 
 # game/UpdateScript0.07.rpy:10258## # translate crowdin talk_to_megan_1b45d0a3_1:
 msgid "[RT] {i}Ohhh... This feels good!{/i}"
 msgstr "[RT] {i}Ohhh... This feels good!{/i}"
 
 # game/UpdateScript0.07.rpy:10263## # translate crowdin talk_to_megan_cd58c0d4_1:
-msgid "MG "There we go, [ryan]"
-    MG "There we go, [ryan]"
+msgid "[MG] There we go, [ryan]"
+msgstr "[MG] There we go, [ryan]"
 
 # game/UpdateScript0.07.rpy:10264## # translate crowdin talk_to_megan_b4f1421f_1:
-msgid "MG "All lubed up."
-    MG "All lubed up."
+msgid "[MG] All lubed up."
+msgstr "[MG] All lubed up."
 
 # game/UpdateScript0.07.rpy:10265## # translate crowdin talk_to_megan_b1652d38_1:
-msgid "MG "Are you ready to stick that hot cock in my tight pussy?"
-    MG "Are you ready to stick that hot cock in my tight pussy?"
+msgid "[MG] Are you ready to stick that hot cock in my tight pussy?"
+msgstr "[MG] Are you ready to stick that hot cock in my tight pussy?"
 
 # game/UpdateScript0.07.rpy:10266## # translate crowdin talk_to_megan_a0f32196_1:
 msgid "[R] Oh, yeah... I can't wait to fuck that pretty little pussy."
@@ -16887,16 +16887,16 @@ msgid "[RT] {i}How can that be?{/i}"
 msgstr "[RT] {i}How can that be?{/i}"
 
 # game/UpdateScript0.07.rpy:10280## # translate crowdin talk_to_megan_f9981b9b_1:
-msgid "MG "Oh, yeah... [ryan]! Fuck my greedy pussy!"
-    MG "Oh, yeah... [ryan]! Fuck my greedy pussy!"
+msgid "[MG] Oh, yeah... [ryan]! Fuck my greedy pussy!"
+msgstr "[MG] Oh, yeah... [ryan]! Fuck my greedy pussy!"
 
 # game/UpdateScript0.07.rpy:10281## # translate crowdin talk_to_megan_3c1448ac_1:
-msgid "MG "God, you're hitting my womb!"
-    MG "God, you're hitting my womb!"
+msgid "[MG] God, you're hitting my womb!"
+msgstr "[MG] God, you're hitting my womb!"
 
 # game/UpdateScript0.07.rpy:10282## # translate crowdin talk_to_megan_639d7dc8_1:
-msgid "MG "God!... I need this cock!"
-    MG "God!... I need this cock!"
+msgid "[MG] God!... I need this cock!"
+msgstr "[MG] God!... I need this cock!"
 
 # game/UpdateScript0.07.rpy:10285## # translate crowdin talk_to_megan_d5a30642_1:
 msgid "[RT] {i}Fuck!... Her dirty talk is driving me crazy... I'm getting so close!{/i}"
@@ -16907,32 +16907,32 @@ msgid "[R] Oooohhh... Megan... I'm gonna cum!"
 msgstr "[R] Oooohhh... Megan... I'm gonna cum!"
 
 # game/UpdateScript0.07.rpy:10287## # translate crowdin talk_to_megan_30c0235f_1:
-msgid "MG "Ohhh... Yes... give me that baby batter!"
-    MG "Ohhh... Yes... give me that baby batter!"
+msgid "[MG] Ohhh... Yes... give me that baby batter!"
+msgstr "[MG] Ohhh... Yes... give me that baby batter!"
 
 # game/UpdateScript0.07.rpy:10290## # translate crowdin talk_to_megan_c2c7ae2c_1:
-msgid "MG "Fill me up!"
-    MG "Fill me up!"
+msgid "[MG] Fill me up!"
+msgstr "[MG] Fill me up!"
 
 # game/UpdateScript0.07.rpy:10291## # translate crowdin talk_to_megan_42048646_1:
-msgid "MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
-    MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgid "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgstr "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
 
 # game/UpdateScript0.07.rpy:10292## # translate crowdin talk_to_megan_43021cc5_1:
-msgid "MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
-    MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgid "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgstr "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
 
 # game/UpdateScript0.07.rpy:10293## # translate crowdin talk_to_megan_5831a62f_1:
 msgid "[R] Oh fuck, Megan! You're driving me crazy!"
 msgstr "[R] Oh fuck, Megan! You're driving me crazy!"
 
 # game/UpdateScript0.07.rpy:10305## # translate crowdin talk_to_megan_869b3faf_1:
-msgid "MG "Oh, my God!... My womb can't fit anymore!"
-    MG "Oh, my God!... My womb can't fit anymore!"
+msgid "[MG] Oh, my God!... My womb can't fit anymore!"
+msgstr "[MG] Oh, my God!... My womb can't fit anymore!"
 
 # game/UpdateScript0.07.rpy:10315## # translate crowdin talk_to_megan_c4b54c5f_1:
-msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
-    MG "Holy fuck! I'm so full it's bursting out of me!"
+msgid "[MG] Holy fuck! I'm so full it's bursting out of me!"
+msgstr "[MG] Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10316## # translate crowdin talk_to_megan_6f34071d_1:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
@@ -16959,60 +16959,60 @@ msgid "[R] I'm cumming!"
 msgstr "[R] I'm cumming!"
 
 # game/UpdateScript0.07.rpy:10337## # translate crowdin talk_to_megan_e63fa3b9_1:
-msgid "MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
-    MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
+msgid "[MG] Holy shit, [ryan]! You just basted me like a fucking turkey!"
+msgstr "[MG] Holy shit, [ryan]! You just basted me like a fucking turkey!"
 
 # game/UpdateScript0.07.rpy:10338## # translate crowdin talk_to_megan_4f66d7f1_1:
 msgid "[R] Ohhh... Megan!.... Fuck!"
 msgstr "[R] Ohhh... Megan!.... Fuck!"
 
 # game/UpdateScript0.07.rpy:10343## # translate crowdin talk_to_megan_a6b0f3ff_1:
-msgid "MG "How was that?"
-    MG "How was that?"
+msgid "[MG] How was that?"
+msgstr "[MG] How was that?"
 
 # game/UpdateScript0.07.rpy:10345## # translate crowdin talk_to_megan_719f167d_1:
 msgid "[R] Worth every penny."
 msgstr "[R] Worth every penny."
 
 # game/UpdateScript0.07.rpy:10346## # translate crowdin talk_to_megan_24605c1c_1:
-msgid "MG "Haha... That's what I like to hear."
-    MG "Haha... That's what I like to hear."
+msgid "[MG] Haha... That's what I like to hear."
+msgstr "[MG] Haha... That's what I like to hear."
 
 # game/UpdateScript0.07.rpy:10347## # translate crowdin talk_to_megan_50144030:
 msgid "[R] So, if I get the money together... can I keep coming back?"
 msgstr "[R] So, if I get the money together... can I keep coming back?"
 
 # game/UpdateScript0.07.rpy:10350## # translate crowdin talk_to_megan_65e0c705:
-msgid "MG "Oh yes, you're more than welcome."
-    MG "Oh yes, you're more than welcome."
+msgid "[MG] Oh yes, you're more than welcome."
+msgstr "[MG] Oh yes, you're more than welcome."
 
 # game/UpdateScript0.07.rpy:10351## # translate crowdin talk_to_megan_6387753c:
-msgid "MG "So far, you're my only customer, and if you keep paying me, I won't have to go looking for anymore."
-    MG "So far, you're my only customer, and if you keep paying me, I won't have to go looking for anymore."
+msgid "[MG] So far, you're my only customer, and if you keep paying me, I won't have to go looking for anymore."
+msgstr "[MG] So far, you're my only customer, and if you keep paying me, I won't have to go looking for anymore."
 
 # game/UpdateScript0.07.rpy:10352## # translate crowdin talk_to_megan_704a364c:
 msgid "[R] I'll do what I can."
 msgstr "[R] I'll do what I can."
 
 # game/UpdateScript0.07.rpy:10353## # translate crowdin talk_to_megan_ff64b69d_1:
-msgid "MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
-    MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgid "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgstr "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
 
 # game/UpdateScript0.07.rpy:10359## # translate crowdin talk_to_megan_1c16b098:
 msgid "[R] We need to come up with some kind of code to let you know to come meet me here in the bathroom."
 msgstr "[R] We need to come up with some kind of code to let you know to come meet me here in the bathroom."
 
 # game/UpdateScript0.07.rpy:10360## # translate crowdin talk_to_megan_96d26392:
-msgid "MG "Well, aren't you the sneaky one?"
-    MG "Well, aren't you the sneaky one?"
+msgid "[MG] Well, aren't you the sneaky one?"
+msgstr "[MG] Well, aren't you the sneaky one?"
 
 # game/UpdateScript0.07.rpy:10361## # translate crowdin talk_to_megan_cc82490e:
 msgid "[R] It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
 msgstr "[R] It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
 
 # game/UpdateScript0.07.rpy:10362## # translate crowdin talk_to_megan_8f812aa9:
-msgid "MG "Alright, what kind of code do you have in mind?"
-    MG "Alright, what kind of code do you have in mind?"
+msgid "[MG] Alright, what kind of code do you have in mind?"
+msgstr "[MG] Alright, what kind of code do you have in mind?"
 
 # game/UpdateScript0.07.rpy:10363## # translate crowdin talk_to_megan_82f30cfd:
 msgid "[R] Hmmm..."
@@ -17023,12 +17023,12 @@ msgid "[R] How about if I say, \"I've got to go work on some anatomy homework\",
 msgstr "[R] How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
 
 # game/UpdateScript0.07.rpy:10365## # translate crowdin talk_to_megan_bf594124:
-msgid "MG "Haha... I like it."
-    MG "Haha... I like it."
+msgid "[MG] Haha... I like it."
+msgstr "[MG] Haha... I like it."
 
 # game/UpdateScript0.07.rpy:10366## # translate crowdin talk_to_megan_502500fe:
-msgid "MG "So, I guess I'll be seeing you around fairly soon?"
-    MG "So, I guess I'll be seeing you around fairly soon?"
+msgid "[MG] So, I guess I'll be seeing you around fairly soon?"
+msgstr "[MG] So, I guess I'll be seeing you around fairly soon?"
 
 # game/UpdateScript0.07.rpy:10367## # translate crowdin talk_to_megan_229aa192_1:
 msgid "[R] You can count on it."
@@ -17043,32 +17043,32 @@ msgid "[R] As tempting as that sounds, I just can't spend that kind of money rig
 msgstr "[R] As tempting as that sounds, I just can't spend that kind of money right now."
 
 # game/UpdateScript0.07.rpy:10378## # translate crowdin talk_to_megan_08aca068_1:
-msgid "MG "Alright, I understand."
-    MG "Alright, I understand."
+msgid "[MG] Alright, I understand."
+msgstr "[MG] Alright, I understand."
 
 # game/UpdateScript0.07.rpy:10379## # translate crowdin talk_to_megan_c34d074b:
 msgid "[R] But, is the offer still on the table in the future?"
 msgstr "[R] But, is the offer still on the table in the future?"
 
 # game/UpdateScript0.07.rpy:10380## # translate crowdin talk_to_megan_8ea9958e:
-msgid "MG "Yeah. We can make it a standing offer."
-    MG "Yeah. We can make it a standing offer."
+msgid "[MG] Yeah. We can make it a standing offer."
+msgstr "[MG] Yeah. We can make it a standing offer."
 
 # game/UpdateScript0.07.rpy:10381## # translate crowdin talk_to_megan_de728a9b:
 msgid "[R] Alright, then we need to come up with some kind of code to let you know to come meet me here in the bathroom."
 msgstr "[R] Alright, then we need to come up with some kind of code to let you know to come meet me here in the bathroom."
 
 # game/UpdateScript0.07.rpy:10382## # translate crowdin talk_to_megan_96d26392_1:
-msgid "MG "Well, aren't you the sneaky one?"
-    MG "Well, aren't you the sneaky one?"
+msgid "[MG] Well, aren't you the sneaky one?"
+msgstr "[MG] Well, aren't you the sneaky one?"
 
 # game/UpdateScript0.07.rpy:10383## # translate crowdin talk_to_megan_cc82490e_1:
 msgid "[R] It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
 msgstr "[R] It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
 
 # game/UpdateScript0.07.rpy:10384## # translate crowdin talk_to_megan_8f812aa9_1:
-msgid "MG "Alright, what kind of code do you have in mind?"
-    MG "Alright, what kind of code do you have in mind?"
+msgid "[MG] Alright, what kind of code do you have in mind?"
+msgstr "[MG] Alright, what kind of code do you have in mind?"
 
 # game/UpdateScript0.07.rpy:10385## # translate crowdin talk_to_megan_82f30cfd_1:
 msgid "[R] Hmmm..."
@@ -17079,12 +17079,12 @@ msgid "[R] How about if I say, \"I've got to go work on some anatomy homework\",
 msgstr "[R] How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
 
 # game/UpdateScript0.07.rpy:10387## # translate crowdin talk_to_megan_bf594124_1:
-msgid "MG "Haha... I like it."
-    MG "Haha... I like it."
+msgid "[MG] Haha... I like it."
+msgstr "[MG] Haha... I like it."
 
 # game/UpdateScript0.07.rpy:10388## # translate crowdin talk_to_megan_502500fe_1:
-msgid "MG "So, I guess I'll be seeing you around fairly soon?"
-    MG "So, I guess I'll be seeing you around fairly soon?"
+msgid "[MG] So, I guess I'll be seeing you around fairly soon?"
+msgstr "[MG] So, I guess I'll be seeing you around fairly soon?"
 
 # game/UpdateScript0.07.rpy:10389## # translate crowdin talk_to_megan_229aa192_2:
 msgid "[R] You can count on it."
@@ -17103,8 +17103,8 @@ msgid "[R] No... I just thought you might be talking about a certain election sk
 msgstr "[R] No... I just thought you might be talking about a certain election skit."
 
 # game/UpdateScript0.07.rpy:10407## # translate crowdin talk_to_megan_2cb5634f:
-msgid "MG "Did you tell them then?"
-    MG "Did you tell them then?"
+msgid "[MG] Did you tell them then?"
+msgstr "[MG] Did you tell them then?"
 
 # game/UpdateScript0.07.rpy:10408## # translate crowdin talk_to_megan_b438cdb7:
 msgid "[R] No, I thought you would have."
@@ -17135,24 +17135,24 @@ msgid "[R] Kyle?"
 msgstr "[R] Kyle?"
 
 # game/UpdateScript0.07.rpy:10427## # translate crowdin talk_to_megan_20d34a09:
-msgid "MG "Yeah... from the basketball team?"
-    MG "Yeah... from the basketball team?"
+msgid "[MG] Yeah... from the basketball team?"
+msgstr "[MG] Yeah... from the basketball team?"
 
 # game/UpdateScript0.07.rpy:10428## # translate crowdin talk_to_megan_d5089f84:
 msgid "[R] Oh, yeah."
 msgstr "[R] Oh, yeah."
 
 # game/UpdateScript0.07.rpy:10429## # translate crowdin talk_to_megan_26a7c9bb:
-msgid "MG "Anyways, he's trying to grow a mustache, but his hair just isn't thick enough and it looks so funny!"
-    MG "Anyways, he's trying to grow a mustache, but his hair just isn't thick enough and it looks so funny!"
+msgid "[MG] Anyways, he's trying to grow a mustache, but his hair just isn't thick enough and it looks so funny!"
+msgstr "[MG] Anyways, he's trying to grow a mustache, but his hair just isn't thick enough and it looks so funny!"
 
 # game/UpdateScript0.07.rpy:10430## # translate crowdin talk_to_megan_392fce7e:
 msgid "[R] Oh, yeah... I've noticed. Mrs. Freedman the lunch lady has a bigger mustache than he does."
 msgstr "[R] Oh, yeah... I've noticed. Mrs. Freedman the lunch lady has a bigger mustache than he does."
 
 # game/UpdateScript0.07.rpy:10433## # translate crowdin talk_to_megan_b9f86b1f:
-msgid "MG "She really does!"
-    MG "She really does!"
+msgid "[MG] She really does!"
+msgstr "[MG] She really does!"
 
 # game/UpdateScript0.07.rpy:10434## # translate crowdin talk_to_megan_87753b16:
 msgid "[R] Hey, Megan?"
@@ -17163,16 +17163,16 @@ msgid "[R] Can I steal you away for a couple minutes?"
 msgstr "[R] Can I steal you away for a couple minutes?"
 
 # game/UpdateScript0.07.rpy:10436## # translate crowdin talk_to_megan_16326dcb:
-msgid "MG "Uhhh... ok..."
-    MG "Uhhh... ok..."
+msgid "[MG] Uhhh... ok..."
+msgstr "[MG] Uhhh... ok..."
 
 # game/UpdateScript0.07.rpy:10440## # translate crowdin talk_to_megan_1c8c9e8b:
-msgid "MG "Why are we going in here?"
-    MG "Why are we going in here?"
+msgid "[MG] Why are we going in here?"
+msgstr "[MG] Why are we going in here?"
 
 # game/UpdateScript0.07.rpy:10443## # translate crowdin talk_to_megan_1aa83f17:
-msgid "MG "Oh... You're not going to ask me to suck your dick again are you?"
-    MG "Oh... You're not going to ask me to suck your dick again are you?"
+msgid "[MG] Oh... You're not going to ask me to suck your dick again are you?"
+msgstr "[MG] Oh... You're not going to ask me to suck your dick again are you?"
 
 # game/UpdateScript0.07.rpy:10444## # translate crowdin talk_to_megan_bc30c1e4:
 msgid "[R] No... It's nothing like that."
@@ -17183,12 +17183,12 @@ msgid "[R] Just trust me, and follow me into the stall."
 msgstr "[R] Just trust me, and follow me into the stall."
 
 # game/UpdateScript0.07.rpy:10446## # translate crowdin talk_to_megan_5951a1be:
-msgid "MG "[ryan]... Two people in a public bathroom stall is almost always \"like that\"."
-    MG "[ryan]... Two people in a public bathroom stall is almost always \"like that\"."
+msgid "[MG] [ryan]... Two people in a public bathroom stall is almost always \"like that\"."
+msgstr "[MG] [ryan]... Two people in a public bathroom stall is almost always \"like that\"."
 
 # game/UpdateScript0.07.rpy:10449## # translate crowdin talk_to_megan_34b1d036:
-msgid "MG "So, you're not even going to buy me flowers first?"
-    MG "So, you're not even going to buy me flowers first?"
+msgid "[MG] So, you're not even going to buy me flowers first?"
+msgstr "[MG] So, you're not even going to buy me flowers first?"
 
 # game/UpdateScript0.07.rpy:10450## # translate crowdin talk_to_megan_817a44c5:
 msgid "[R] I could... I mean I'd love to..."
@@ -17199,20 +17199,20 @@ msgid "[R] But, like I said, that's not what this is about."
 msgstr "[R] But, like I said, that's not what this is about."
 
 # game/UpdateScript0.07.rpy:10452## # translate crowdin talk_to_megan_fcae413c:
-msgid "MG "Well talk, damnit!... You're killing me with curiosity."
-    MG "Well talk, damnit!... You're killing me with curiosity."
+msgid "[MG] Well talk, damnit!... You're killing me with curiosity."
+msgstr "[MG] Well talk, damnit!... You're killing me with curiosity."
 
 # game/UpdateScript0.07.rpy:10453## # translate crowdin talk_to_megan_94a38a8c:
 msgid "[R] Ok... I heard a rumor recently that you and the new cheerleading coach don't get along."
 msgstr "[R] Ok... I heard a rumor recently that you and the new cheerleading coach don't get along."
 
 # game/UpdateScript0.07.rpy:10456## # translate crowdin talk_to_megan_ca0047b6:
-msgid "MG "Miss Jessica?... Yeah... Let's just say \"hate\" would be putting it mildly."
-    MG "Miss Jessica?... Yeah... Let's just say \"hate\" would be putting it mildly."
+msgid "[MG] Miss Jessica?... Yeah... Let's just say \"hate\" would be putting it mildly."
+msgstr "[MG] Miss Jessica?... Yeah... Let's just say \"hate\" would be putting it mildly."
 
 # game/UpdateScript0.07.rpy:10457## # translate crowdin talk_to_megan_c86e7a9e:
-msgid "MG "I swear she came back here just to make my life hell."
-    MG "I swear she came back here just to make my life hell."
+msgid "[MG] I swear she came back here just to make my life hell."
+msgstr "[MG] I swear she came back here just to make my life hell."
 
 # game/UpdateScript0.07.rpy:10458## # translate crowdin talk_to_megan_d5779205:
 msgid "[R] Yeah... That's what I thought, and that's why I wanted to show you something."
@@ -17223,112 +17223,112 @@ msgid "[R] And, normally I would stay out of something like this, but I thought 
 msgstr "[R] And, normally I would stay out of something like this, but I thought this is something you would want to see and know about."
 
 # game/UpdateScript0.07.rpy:10460## # translate crowdin talk_to_megan_ed84ef23:
-msgid "MG "What are you talking about?"
-    MG "What are you talking about?"
+msgid "[MG] What are you talking about?"
+msgstr "[MG] What are you talking about?"
 
 # game/UpdateScript0.07.rpy:10461## # translate crowdin talk_to_megan_816e77b6:
 msgid "[R] My friend sent me a video that was recorded a few days ago. I'm not sure how she got it, but here... I'll just let the video do the talking."
 msgstr "[R] My friend sent me a video that was recorded a few days ago. I'm not sure how she got it, but here... I'll just let the video do the talking."
 
 # game/UpdateScript0.07.rpy:10464## # translate crowdin talk_to_megan_0d1acf25:
-msgid "MG "Oh, my God!... Is that the showers in our locker room?"
-    MG "Oh, my God!... Is that the showers in our locker room?"
+msgid "[MG] Oh, my God!... Is that the showers in our locker room?"
+msgstr "[MG] Oh, my God!... Is that the showers in our locker room?"
 
 # game/UpdateScript0.07.rpy:10465## # translate crowdin talk_to_megan_9167231d:
 msgid "[R] It's probably the boys locker room, I'm pretty sure they look the same."
 msgstr "[R] It's probably the boys locker room, I'm pretty sure they look the same."
 
 # game/UpdateScript0.07.rpy:10466## # translate crowdin talk_to_megan_7694d512:
-msgid "MG "Hmmm... the print is small, but I think it says girls locker room."
-    MG "Hmmm... the print is small, but I think it says girls locker room."
+msgid "[MG] Hmmm... the print is small, but I think it says girls locker room."
+msgstr "[MG] Hmmm... the print is small, but I think it says girls locker room."
 
 # game/UpdateScript0.07.rpy:10469## # translate crowdin talk_to_megan_052ddba9:
-msgid "MG "Oh, God... Is that Jessica and Matt?"
-    MG "Oh, God... Is that Jessica and Matt?"
+msgid "[MG] Oh, God... Is that Jessica and Matt?"
+msgstr "[MG] Oh, God... Is that Jessica and Matt?"
 
 # game/UpdateScript0.07.rpy:10472## # translate crowdin talk_to_megan_032b25db:
 msgid "{i}\"some time later.\"{/i}"
 msgstr "{i}\"some time later.\"{/i}"
 
 # game/UpdateScript0.07.rpy:10478## # translate crowdin talk_to_megan_a83624b7:
-msgid "MG "That bastard told me he wouldn't fuck her."
-    MG "That bastard told me he wouldn't fuck her."
+msgid "[MG] That bastard told me he wouldn't fuck her."
+msgstr "[MG] That bastard told me he wouldn't fuck her."
 
 # game/UpdateScript0.07.rpy:10481## # translate crowdin talk_to_megan_b29c99f0:
-msgid "MG "Uuurrrggghhh!... I hate Jessica!"
-    MG "Uuurrrggghhh!... I hate Jessica!"
+msgid "[MG] Uuurrrggghhh!... I hate Jessica!"
+msgstr "[MG] Uuurrrggghhh!... I hate Jessica!"
 
 # game/UpdateScript0.07.rpy:10482## # translate crowdin talk_to_megan_fc31e41d:
-msgid "MG "Comes back to my school!... Makes my life hell at cheerleading practice!... Fucks my boyfriend!"
-    MG "Comes back to my school!... Makes my life hell at cheerleading practice!... Fucks my boyfriend!"
+msgid "[MG] Comes back to my school!... Makes my life hell at cheerleading practice!... Fucks my boyfriend!"
+msgstr "[MG] Comes back to my school!... Makes my life hell at cheerleading practice!... Fucks my boyfriend!"
 
 # game/UpdateScript0.07.rpy:10483## # translate crowdin talk_to_megan_a22b1b00:
-msgid "MG "Insults, belittles, manipulates!..."
-    MG "Insults, belittles, manipulates!..."
+msgid "[MG] Insults, belittles, manipulates!..."
+msgstr "[MG] Insults, belittles, manipulates!..."
 
 # game/UpdateScript0.07.rpy:10484## # translate crowdin talk_to_megan_69378688:
-msgid "MG "LETS HIM FUCK HER ASS!... I know he's always wanted to, but I'm too small!"
-    MG "LETS HIM FUCK HER ASS!... I know he's always wanted to, but I'm too small!"
+msgid "[MG] LETS HIM FUCK HER ASS!... I know he's always wanted to, but I'm too small!"
+msgstr "[MG] LETS HIM FUCK HER ASS!... I know he's always wanted to, but I'm too small!"
 
 # game/UpdateScript0.07.rpy:10487## # translate crowdin talk_to_megan_1863f538:
-msgid "MG "And fucking Matt!... I let him fuck just about anybody he wants!"
-    MG "And fucking Matt!... I let him fuck just about anybody he wants!"
+msgid "[MG] And fucking Matt!... I let him fuck just about anybody he wants!"
+msgstr "[MG] And fucking Matt!... I let him fuck just about anybody he wants!"
 
 # game/UpdateScript0.07.rpy:10488## # translate crowdin talk_to_megan_93eaf945:
-msgid "MG "I ask him not to fuck one person, and what does he do?"
-    MG "I ask him not to fuck one person, and what does he do?"
+msgid "[MG] I ask him not to fuck one person, and what does he do?"
+msgstr "[MG] I ask him not to fuck one person, and what does he do?"
 
 # game/UpdateScript0.07.rpy:10489## # translate crowdin talk_to_megan_7488b85f:
 msgid "[R] Fucks her."
 msgstr "[R] Fucks her."
 
 # game/UpdateScript0.07.rpy:10490## # translate crowdin talk_to_megan_96d49864:
-msgid "MG "He fucking fucks her!"
-    MG "He fucking fucks her!"
+msgid "[MG] He fucking fucks her!"
+msgstr "[MG] He fucking fucks her!"
 
 # game/UpdateScript0.07.rpy:10493## # translate crowdin talk_to_megan_3ee2e18a:
-msgid "MG "Well, guess what?"
-    MG "Well, guess what?"
+msgid "[MG] Well, guess what?"
+msgstr "[MG] Well, guess what?"
 
 # game/UpdateScript0.07.rpy:10494## # translate crowdin talk_to_megan_30b22fb5:
-msgid "MG "Two can play at that game!"
-    MG "Two can play at that game!"
+msgid "[MG] Two can play at that game!"
+msgstr "[MG] Two can play at that game!"
 
 # game/UpdateScript0.07.rpy:10498## # translate crowdin talk_to_megan_92df9d45:
-msgid "MG "Yes..."
-    MG "Yes..."
+msgid "[MG] Yes..."
+msgstr "[MG] Yes..."
 
 # game/UpdateScript0.07.rpy:10499## # translate crowdin talk_to_megan_085d40f9:
-msgid "MG "That's exactly what that bastard deserves."
-    MG "That's exactly what that bastard deserves."
+msgid "[MG] That's exactly what that bastard deserves."
+msgstr "[MG] That's exactly what that bastard deserves."
 
 # game/UpdateScript0.07.rpy:10500## # translate crowdin talk_to_megan_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.07.rpy:10503## # translate crowdin talk_to_megan_2e2a7068:
-msgid "MG "Revenge."
-    MG "Revenge."
+msgid "[MG] Revenge."
+msgstr "[MG] Revenge."
 
 # game/UpdateScript0.07.rpy:10504## # translate crowdin talk_to_megan_2ce04a4f:
 msgid "[R] Huh?"
 msgstr "[R] Huh?"
 
 # game/UpdateScript0.07.rpy:10505## # translate crowdin talk_to_megan_39387932:
-msgid "MG "Guess who Matt just recently forbid me to fuck."
-    MG "Guess who Matt just recently forbid me to fuck."
+msgid "[MG] Guess who Matt just recently forbid me to fuck."
+msgstr "[MG] Guess who Matt just recently forbid me to fuck."
 
 # game/UpdateScript0.07.rpy:10506## # translate crowdin talk_to_megan_435a36a0:
 msgid "[R] Uhhh..."
 msgstr "[R] Uhhh..."
 
 # game/UpdateScript0.07.rpy:10507## # translate crowdin talk_to_megan_26d67c7f:
-msgid "MG "I'll give you a hint."
-    MG "I'll give you a hint."
+msgid "[MG] I'll give you a hint."
+msgstr "[MG] I'll give you a hint."
 
 # game/UpdateScript0.07.rpy:10508## # translate crowdin talk_to_megan_0008af7c:
-msgid "MG "His sister is running for president against Matt."
-    MG "His sister is running for president against Matt."
+msgid "[MG] His sister is running for president against Matt."
+msgstr "[MG] His sister is running for president against Matt."
 
 # game/UpdateScript0.07.rpy:10509## # translate crowdin talk_to_megan_f6b51e87:
 msgid "[R] Really?"
@@ -17339,20 +17339,20 @@ msgid "[R] He forbid you to fuck me?"
 msgstr "[R] He forbid you to fuck me?"
 
 # game/UpdateScript0.07.rpy:10513## # translate crowdin talk_to_megan_eae764f2:
-msgid "MG "Yeah... Not that I was planning to, or anything."
-    MG "Yeah... Not that I was planning to, or anything."
+msgid "[MG] Yeah... Not that I was planning to, or anything."
+msgstr "[MG] Yeah... Not that I was planning to, or anything."
 
 # game/UpdateScript0.07.rpy:10514## # translate crowdin talk_to_megan_34f1b04f:
-msgid "MG "I'm not sure if he thought I wanted to?..."
-    MG "I'm not sure if he thought I wanted to?..."
+msgid "[MG] I'm not sure if he thought I wanted to?..."
+msgstr "[MG] I'm not sure if he thought I wanted to?..."
 
 # game/UpdateScript0.07.rpy:10515## # translate crowdin talk_to_megan_2a0033c2:
-msgid "MG "Anyways, I was expressly forbidden to fuck you."
-    MG "Anyways, I was expressly forbidden to fuck you."
+msgid "[MG] Anyways, I was expressly forbidden to fuck you."
+msgstr "[MG] Anyways, I was expressly forbidden to fuck you."
 
 # game/UpdateScript0.07.rpy:10518## # translate crowdin talk_to_megan_0d78478d:
-msgid "MG "And guess what we're going to do."
-    MG "And guess what we're going to do."
+msgid "[MG] And guess what we're going to do."
+msgstr "[MG] And guess what we're going to do."
 
 # game/UpdateScript0.07.rpy:10519## # translate crowdin talk_to_megan_dc7a84b6:
 msgid "[R] ...."
@@ -17363,8 +17363,8 @@ msgid "[R] Uhh... Fuck?"
 msgstr "[R] Uhh... Fuck?"
 
 # game/UpdateScript0.07.rpy:10521## # translate crowdin talk_to_megan_c5ef1c86:
-msgid "MG "Fucking fuck."
-    MG "Fucking fuck."
+msgid "[MG] Fucking fuck."
+msgstr "[MG] Fucking fuck."
 
 # game/UpdateScript0.07.rpy:10522## # translate crowdin talk_to_megan_aa59a045:
 msgid "[RT] {i}Oh, my God!... Is this really happening?{/i}"
@@ -17379,32 +17379,32 @@ msgid "[R] May I make a suggestion?"
 msgstr "[R] May I make a suggestion?"
 
 # game/UpdateScript0.07.rpy:10527## # translate crowdin talk_to_megan_e4905ca2:
-msgid "MG "What?"
-    MG "What?"
+msgid "[MG] What?"
+msgstr "[MG] What?"
 
 # game/UpdateScript0.07.rpy:10528## # translate crowdin talk_to_megan_9e263e82:
 msgid "[R] Let's record it, so we can send it to him later."
 msgstr "[R] Let's record it, so we can send it to him later."
 
 # game/UpdateScript0.07.rpy:10531## # translate crowdin talk_to_megan_8bce3871:
-msgid "MG "Huh... That would really piss him off."
-    MG "Huh... That would really piss him off."
+msgid "[MG] Huh... That would really piss him off."
+msgstr "[MG] Huh... That would really piss him off."
 
 # game/UpdateScript0.07.rpy:10532## # translate crowdin talk_to_megan_9b2f8051:
-msgid "MG "I know seeing him fucking my worst enemy pissed me off a ton."
-    MG "I know seeing him fucking my worst enemy pissed me off a ton."
+msgid "[MG] I know seeing him fucking my worst enemy pissed me off a ton."
+msgstr "[MG] I know seeing him fucking my worst enemy pissed me off a ton."
 
 # game/UpdateScript0.07.rpy:10533## # translate crowdin talk_to_megan_2c4ff580:
-msgid "MG "It would definitely have more impact if he saw it, rather than if I just told him about it."
-    MG "It would definitely have more impact if he saw it, rather than if I just told him about it."
+msgid "[MG] It would definitely have more impact if he saw it, rather than if I just told him about it."
+msgstr "[MG] It would definitely have more impact if he saw it, rather than if I just told him about it."
 
 # game/UpdateScript0.07.rpy:10536## # translate crowdin talk_to_megan_f5cdc8ac:
-msgid "MG "Alright, dirty boy."
-    MG "Alright, dirty boy."
+msgid "[MG] Alright, dirty boy."
+msgstr "[MG] Alright, dirty boy."
 
 # game/UpdateScript0.07.rpy:10537## # translate crowdin talk_to_megan_c5df5714:
-msgid "MG "I like the way you think."
-    MG "I like the way you think."
+msgid "[MG] I like the way you think."
+msgstr "[MG] I like the way you think."
 
 # game/UpdateScript0.07.rpy:10538## # translate crowdin talk_to_megan_b107ecf8:
 msgid "[R] Wow!... Just a second, let me get my phone ready."
@@ -17415,48 +17415,48 @@ msgid "[R] Ok... I'm recording."
 msgstr "[R] Ok... I'm recording."
 
 # game/UpdateScript0.07.rpy:10545## # translate crowdin talk_to_megan_cae2a0ce:
-msgid "MG "Hey, Matt!... It's your girl."
-    MG "Hey, Matt!... It's your girl."
+msgid "[MG] Hey, Matt!... It's your girl."
+msgstr "[MG] Hey, Matt!... It's your girl."
 
 # game/UpdateScript0.07.rpy:10546## # translate crowdin talk_to_megan_293c631b:
-msgid "MG "Just wanted to send you a video message and let you know that I know..."
-    MG "Just wanted to send you a video message and let you know that I know..."
+msgid "[MG] Just wanted to send you a video message and let you know that I know..."
+msgstr "[MG] Just wanted to send you a video message and let you know that I know..."
 
 # game/UpdateScript0.07.rpy:10549## # translate crowdin talk_to_megan_613c4510:
-msgid "MG "What a filthy cheating liar you are!"
-    MG "What a filthy cheating liar you are!"
+msgid "[MG] What a filthy cheating liar you are!"
+msgstr "[MG] What a filthy cheating liar you are!"
 
 # game/UpdateScript0.07.rpy:10550## # translate crowdin talk_to_megan_afc1e3cb:
-msgid "MG "I know you fucked Jessica!"
-    MG "I know you fucked Jessica!"
+msgid "[MG] I know you fucked Jessica!"
+msgstr "[MG] I know you fucked Jessica!"
 
 # game/UpdateScript0.07.rpy:10551## # translate crowdin talk_to_megan_90873ec8:
-msgid "MG "After you promised me you wouldn't!"
-    MG "After you promised me you wouldn't!"
+msgid "[MG] After you promised me you wouldn't!"
+msgstr "[MG] After you promised me you wouldn't!"
 
 # game/UpdateScript0.07.rpy:10552## # translate crowdin talk_to_megan_7a2045c5:
-msgid "MG "Well, guess what!"
-    MG "Well, guess what!"
+msgid "[MG] Well, guess what!"
+msgstr "[MG] Well, guess what!"
 
 # game/UpdateScript0.07.rpy:10553## # translate crowdin talk_to_megan_c5ef0f2f:
-msgid "MG "Take a look at who's in our favorite stall with me."
-    MG "Take a look at who's in our favorite stall with me."
+msgid "[MG] Take a look at who's in our favorite stall with me."
+msgstr "[MG] Take a look at who's in our favorite stall with me."
 
 # game/UpdateScript0.07.rpy:10554## # translate crowdin talk_to_megan_4de4f45b:
-msgid "MG "{i}(whispering){/i} Hurry... flip the image and wave, so he can see you."
-    MG "{i}(whispering){/i} Hurry... flip the image and wave, so he can see you."
+msgid "[MG] {i}(whispering){/i} Hurry... flip the image and wave, so he can see you."
+msgstr "[MG] {i}(whispering){/i} Hurry... flip the image and wave, so he can see you."
 
 # game/UpdateScript0.07.rpy:10557## # translate crowdin talk_to_megan_da8e5f7a:
-msgid "MG "That's right... Your good friend, [ryan]."
-    MG "That's right... Your good friend, [ryan]."
+msgid "[MG] That's right... Your good friend, [ryan]."
+msgstr "[MG] That's right... Your good friend, [ryan]."
 
 # game/UpdateScript0.07.rpy:10558## # translate crowdin talk_to_megan_3c332bb2:
-msgid "MG "And guess what... I'm going to let him fuck me for as long as he can go."
-    MG "And guess what... I'm going to let him fuck me for as long as he can go."
+msgid "[MG] And guess what... I'm going to let him fuck me for as long as he can go."
+msgstr "[MG] And guess what... I'm going to let him fuck me for as long as he can go."
 
 # game/UpdateScript0.07.rpy:10561## # translate crowdin talk_to_megan_e41bb651:
-msgid "MG "And what's more... His cock is almost as big as yours, and after some practice, I'll send you another video of him fucking my ass!"
-    MG "And what's more... His cock is almost as big as yours, and after some practice, I'll send you another video of him fucking my ass!"
+msgid "[MG] And what's more... His cock is almost as big as yours, and after some practice, I'll send you another video of him fucking my ass!"
+msgstr "[MG] And what's more... His cock is almost as big as yours, and after some practice, I'll send you another video of him fucking my ass!"
 
 # game/UpdateScript0.07.rpy:10562## # translate crowdin talk_to_megan_d4300f17:
 msgid "[RT] {i}Oh, damn!... I hope she means that, and isn't just saying something she doesn't mean to piss him off.{/i}"
@@ -17467,32 +17467,32 @@ msgid "[RT] {i}I would love to fuck such a tight ass!{/i}"
 msgstr "[RT] {i}I would love to fuck such a tight ass!{/i}"
 
 # game/UpdateScript0.07.rpy:10564## # translate crowdin talk_to_megan_9ae5276f:
-msgid "MG "So, enjoy a last look at these, because I'm never going to let you see them again."
-    MG "So, enjoy a last look at these, because I'm never going to let you see them again."
+msgid "[MG] So, enjoy a last look at these, because I'm never going to let you see them again."
+msgstr "[MG] So, enjoy a last look at these, because I'm never going to let you see them again."
 
 # game/UpdateScript0.07.rpy:10567## # translate crowdin talk_to_megan_58bce641:
-msgid "MG "If you want to see them, you'll just have to save this video of [ryan] fucking your slutty ex-girlfriend."
-    MG "If you want to see them, you'll just have to save this video of [ryan] fucking your slutty ex-girlfriend."
+msgid "[MG] If you want to see them, you'll just have to save this video of [ryan] fucking your slutty ex-girlfriend."
+msgstr "[MG] If you want to see them, you'll just have to save this video of [ryan] fucking your slutty ex-girlfriend."
 
 # game/UpdateScript0.07.rpy:10568## # translate crowdin talk_to_megan_951d7990:
-msgid "MG "Alright, [ryan]... Let's give Matt a look at what I'll be replacing his cock with."
-    MG "Alright, [ryan]... Let's give Matt a look at what I'll be replacing his cock with."
+msgid "[MG] Alright, [ryan]... Let's give Matt a look at what I'll be replacing his cock with."
+msgstr "[MG] Alright, [ryan]... Let's give Matt a look at what I'll be replacing his cock with."
 
 # game/UpdateScript0.07.rpy:10573## # translate crowdin talk_to_megan_86c06e98:
-msgid "MG "See, Matt. Look how big his cock is... It's not as big as yours, but to be honest, I've always thought your cock is too big."
-    MG "See, Matt. Look how big his cock is... It's not as big as yours, but to be honest, I've always thought your cock is too big."
+msgid "[MG] See, Matt. Look how big his cock is... It's not as big as yours, but to be honest, I've always thought your cock is too big."
+msgstr "[MG] See, Matt. Look how big his cock is... It's not as big as yours, but to be honest, I've always thought your cock is too big."
 
 # game/UpdateScript0.07.rpy:10574## # translate crowdin talk_to_megan_87340bb6:
-msgid "MG "This cock is perfect! Big enough to make me feel like I'm getting split in half, but not so big that it will actually rip the inside of my pussy."
-    MG "This cock is perfect! Big enough to make me feel like I'm getting split in half, but not so big that it will actually rip the inside of my pussy."
+msgid "[MG] This cock is perfect! Big enough to make me feel like I'm getting split in half, but not so big that it will actually rip the inside of my pussy."
+msgstr "[MG] This cock is perfect! Big enough to make me feel like I'm getting split in half, but not so big that it will actually rip the inside of my pussy."
 
 # game/UpdateScript0.07.rpy:10575## # translate crowdin talk_to_megan_8b123881:
-msgid "MG "Oh... I can't wait to fuck it!"
-    MG "Oh... I can't wait to fuck it!"
+msgid "[MG] Oh... I can't wait to fuck it!"
+msgstr "[MG] Oh... I can't wait to fuck it!"
 
 # game/UpdateScript0.07.rpy:10576## # translate crowdin talk_to_megan_08d4f6e5:
-msgid "MG "I'd better get it nice and lubed up, or it's not going to go in."
-    MG "I'd better get it nice and lubed up, or it's not going to go in."
+msgid "[MG] I'd better get it nice and lubed up, or it's not going to go in."
+msgstr "[MG] I'd better get it nice and lubed up, or it's not going to go in."
 
 # game/UpdateScript0.07.rpy:10580## # translate crowdin talk_to_megan_1b45d0a3_2:
 msgid "[RT] {i}Ohhh... This feels good!{/i}"
@@ -17503,16 +17503,16 @@ msgid "[RT] {i}I'm so excited that I get to be a part of revenge sex!{/i}"
 msgstr "[RT] {i}I'm so excited that I get to be a part of revenge sex!{/i}"
 
 # game/UpdateScript0.07.rpy:10586## # translate crowdin talk_to_megan_cd58c0d4_2:
-msgid "MG "There we go, [ryan]"
-    MG "There we go, [ryan]"
+msgid "[MG] There we go, [ryan]"
+msgstr "[MG] There we go, [ryan]"
 
 # game/UpdateScript0.07.rpy:10587## # translate crowdin talk_to_megan_b4f1421f_2:
-msgid "MG "All lubed up."
-    MG "All lubed up."
+msgid "[MG] All lubed up."
+msgstr "[MG] All lubed up."
 
 # game/UpdateScript0.07.rpy:10588## # translate crowdin talk_to_megan_b1652d38_2:
-msgid "MG "Are you ready to stick that hot cock in my tight pussy?"
-    MG "Are you ready to stick that hot cock in my tight pussy?"
+msgid "[MG] Are you ready to stick that hot cock in my tight pussy?"
+msgstr "[MG] Are you ready to stick that hot cock in my tight pussy?"
 
 # game/UpdateScript0.07.rpy:10589## # translate crowdin talk_to_megan_a0f32196_2:
 msgid "[R] Oh, yeah... I can't wait to fuck that pretty little pussy."
@@ -17535,16 +17535,16 @@ msgid "[RT] {i}Maybe she's just got an amazingly stretchy pussy.{/i}"
 msgstr "[RT] {i}Maybe she's just got an amazingly stretchy pussy.{/i}"
 
 # game/UpdateScript0.07.rpy:10605## # translate crowdin talk_to_megan_7ae4c552:
-msgid "MG "Oh, yeah... [ryan]! Fuck my needy pussy!"
-    MG "Oh, yeah... [ryan]! Fuck my needy pussy!"
+msgid "[MG] Oh, yeah... [ryan]! Fuck my needy pussy!"
+msgstr "[MG] Oh, yeah... [ryan]! Fuck my needy pussy!"
 
 # game/UpdateScript0.07.rpy:10606## # translate crowdin talk_to_megan_c72b81c4:
-msgid "MG "Split me in half!"
-    MG "Split me in half!"
+msgid "[MG] Split me in half!"
+msgstr "[MG] Split me in half!"
 
 # game/UpdateScript0.07.rpy:10607## # translate crowdin talk_to_megan_639d7dc8_2:
-msgid "MG "God!... I need this cock!"
-    MG "God!... I need this cock!"
+msgid "[MG] God!... I need this cock!"
+msgstr "[MG] God!... I need this cock!"
 
 # game/UpdateScript0.07.rpy:10610## # translate crowdin talk_to_megan_d5a30642_2:
 msgid "[RT] {i}Fuck!... Her dirty talk is driving me crazy... I'm getting so close!{/i}"
@@ -17555,32 +17555,32 @@ msgid "[R] Oooohhh... Megan... I'm gonna cum!"
 msgstr "[R] Oooohhh... Megan... I'm gonna cum!"
 
 # game/UpdateScript0.07.rpy:10612## # translate crowdin talk_to_megan_10260923:
-msgid "MG "Ohhh... Yes... Cum inside me, you stud!"
-    MG "Ohhh... Yes... Cum inside me, you stud!"
+msgid "[MG] Ohhh... Yes... Cum inside me, you stud!"
+msgstr "[MG] Ohhh... Yes... Cum inside me, you stud!"
 
 # game/UpdateScript0.07.rpy:10613## # translate crowdin talk_to_megan_c2c7ae2c_2:
-msgid "MG "Fill me up!"
-    MG "Fill me up!"
+msgid "[MG] Fill me up!"
+msgstr "[MG] Fill me up!"
 
 # game/UpdateScript0.07.rpy:10614## # translate crowdin talk_to_megan_42048646_2:
-msgid "MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
-    MG "I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgid "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
+msgstr "[MG] I want that cum to be sloshing around in my womb when I go talk to Matt later today."
 
 # game/UpdateScript0.07.rpy:10615## # translate crowdin talk_to_megan_43021cc5_2:
-msgid "MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
-    MG "I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgid "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
+msgstr "[MG] I want it dripping out and splattering on my cheer teammates when they throw me in the air for a basket toss!"
 
 # game/UpdateScript0.07.rpy:10616## # translate crowdin talk_to_megan_13512224:
 msgid "[R] Oh fuck, Laur... Uuuhhh Megan! You're driving me crazy!"
 msgstr "[R] Oh fuck, Laur... Uuuhhh Megan! You're driving me crazy!"
 
 # game/UpdateScript0.07.rpy:10628## # translate crowdin talk_to_megan_9156c9bb:
-msgid "MG "Oh, my God!... You really are filling me up!"
-    MG "Oh, my God!... You really are filling me up!"
+msgid "[MG] Oh, my God!... You really are filling me up!"
+msgstr "[MG] Oh, my God!... You really are filling me up!"
 
 # game/UpdateScript0.07.rpy:10638## # translate crowdin talk_to_megan_c4b54c5f_2:
-msgid "MG "Holy fuck! I'm so full it's bursting out of me!"
-    MG "Holy fuck! I'm so full it's bursting out of me!"
+msgid "[MG] Holy fuck! I'm so full it's bursting out of me!"
+msgstr "[MG] Holy fuck! I'm so full it's bursting out of me!"
 
 # game/UpdateScript0.07.rpy:10639## # translate crowdin talk_to_megan_6f34071d_2:
 msgid "{i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
@@ -17611,32 +17611,32 @@ msgid "[R] Ohhh... Megan!.... Fuck!"
 msgstr "[R] Ohhh... Megan!.... Fuck!"
 
 # game/UpdateScript0.07.rpy:10651## # translate crowdin talk_to_megan_4b178c04:
-msgid "MG "Well Matt, I hope you enjoyed our video today!"
-    MG "Well Matt, I hope you enjoyed our video today!"
+msgid "[MG] Well Matt, I hope you enjoyed our video today!"
+msgstr "[MG] Well Matt, I hope you enjoyed our video today!"
 
 # game/UpdateScript0.07.rpy:10652## # translate crowdin talk_to_megan_57072779:
-msgid "MG "Don't forget to hit like, and subscribe."
-    MG "Don't forget to hit like, and subscribe."
+msgid "[MG] Don't forget to hit like, and subscribe."
+msgstr "[MG] Don't forget to hit like, and subscribe."
 
 # game/UpdateScript0.07.rpy:10653## # translate crowdin talk_to_megan_50d76862:
-msgid "MG "I've got to let you know, [ryan] might not be as big as you, but he cums way more."
-    MG "I've got to let you know, [ryan] might not be as big as you, but he cums way more."
+msgid "[MG] I've got to let you know, [ryan] might not be as big as you, but he cums way more."
+msgstr "[MG] I've got to let you know, [ryan] might not be as big as you, but he cums way more."
 
 # game/UpdateScript0.07.rpy:10654## # translate crowdin talk_to_megan_cc9a1d6a:
-msgid "MG "It's probably going to take days to get all his baby gravy out of my womb."
-    MG "It's probably going to take days to get all his baby gravy out of my womb."
+msgid "[MG] It's probably going to take days to get all his baby gravy out of my womb."
+msgstr "[MG] It's probably going to take days to get all his baby gravy out of my womb."
 
 # game/UpdateScript0.07.rpy:10655## # translate crowdin talk_to_megan_90164da7:
-msgid "MG "And then, I think I'll have him give me a refill."
-    MG "And then, I think I'll have him give me a refill."
+msgid "[MG] And then, I think I'll have him give me a refill."
+msgstr "[MG] And then, I think I'll have him give me a refill."
 
 # game/UpdateScript0.07.rpy:10656## # translate crowdin talk_to_megan_2aef8402:
-msgid "MG "Bye!"
-    MG "Bye!"
+msgid "[MG] Bye!"
+msgstr "[MG] Bye!"
 
 # game/UpdateScript0.07.rpy:10659## # translate crowdin talk_to_megan_a6b0f3ff_2:
-msgid "MG "How was that?"
-    MG "How was that?"
+msgid "[MG] How was that?"
+msgstr "[MG] How was that?"
 
 # game/UpdateScript0.07.rpy:10661## # translate crowdin talk_to_megan_3b5a3f13:
 msgid "[R] Do you mean the video, or the fucking?"
@@ -17647,68 +17647,68 @@ msgid "[R] Because I would say you were great on both accounts."
 msgstr "[R] Because I would say you were great on both accounts."
 
 # game/UpdateScript0.07.rpy:10665## # translate crowdin talk_to_megan_7d8d11b5:
-msgid "MG "Thanks, [ryan]!"
-    MG "Thanks, [ryan]!"
+msgid "[MG] Thanks, [ryan]!"
+msgstr "[MG] Thanks, [ryan]!"
 
 # game/UpdateScript0.07.rpy:10666## # translate crowdin talk_to_megan_ff64b69d_2:
-msgid "MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
-    MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgid "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+msgstr "[MG] We'd better hurry and get dressed. I'm surprised nobody has come in yet."
 
 # game/UpdateScript0.07.rpy:10672## # translate crowdin talk_to_megan_ae1267da:
-msgid "MG "I can't wait to send this video to Matt."
-    MG "I can't wait to send this video to Matt."
+msgid "[MG] I can't wait to send this video to Matt."
+msgstr "[MG] I can't wait to send this video to Matt."
 
 # game/UpdateScript0.07.rpy:10673## # translate crowdin talk_to_megan_5fabc2de:
-msgid "MG "Will you send it to my phone?"
-    MG "Will you send it to my phone?"
+msgid "[MG] Will you send it to my phone?"
+msgstr "[MG] Will you send it to my phone?"
 
 # game/UpdateScript0.07.rpy:10674## # translate crowdin talk_to_megan_2710f378:
 msgid "[R] Sure, but I was wondering if you could do me a favor first."
 msgstr "[R] Sure, but I was wondering if you could do me a favor first."
 
 # game/UpdateScript0.07.rpy:10675## # translate crowdin talk_to_megan_f4c9b57a:
-msgid "MG "What kind of favor?"
-    MG "What kind of favor?"
+msgid "[MG] What kind of favor?"
+msgstr "[MG] What kind of favor?"
 
 # game/UpdateScript0.07.rpy:10676## # translate crowdin talk_to_megan_56175934:
 msgid "[R] I heard you might be part of Matt's election skit."
 msgstr "[R] I heard you might be part of Matt's election skit."
 
 # game/UpdateScript0.07.rpy:10677## # translate crowdin talk_to_megan_916da305:
-msgid "MG "Well, I was going to be... There's no way I'm going to do it now."
-    MG "Well, I was going to be... There's no way I'm going to do it now."
+msgid "[MG] Well, I was going to be... There's no way I'm going to do it now."
+msgstr "[MG] Well, I was going to be... There's no way I'm going to do it now."
 
 # game/UpdateScript0.07.rpy:10678## # translate crowdin talk_to_megan_83c67eff:
-msgid "MG "I was going to get some of the cheerleaders to perform a sexy number with me."
-    MG "I was going to get some of the cheerleaders to perform a sexy number with me."
+msgid "[MG] I was going to get some of the cheerleaders to perform a sexy number with me."
+msgstr "[MG] I was going to get some of the cheerleaders to perform a sexy number with me."
 
 # game/UpdateScript0.07.rpy:10679## # translate crowdin talk_to_megan_e8811f2b:
-msgid "MG "Luckily we haven't practiced it much, so now I'll just call it off."
-    MG "Luckily we haven't practiced it much, so now I'll just call it off."
+msgid "[MG] Luckily we haven't practiced it much, so now I'll just call it off."
+msgstr "[MG] Luckily we haven't practiced it much, so now I'll just call it off."
 
 # game/UpdateScript0.07.rpy:10680## # translate crowdin talk_to_megan_d97809df:
 msgid "[R] So, that's the favor I wanted to ask of you."
 msgstr "[R] So, that's the favor I wanted to ask of you."
 
 # game/UpdateScript0.07.rpy:10681## # translate crowdin talk_to_megan_e4905ca2_1:
-msgid "MG "What?"
-    MG "What?"
+msgid "[MG] What?"
+msgstr "[MG] What?"
 
 # game/UpdateScript0.07.rpy:10682## # translate crowdin talk_to_megan_cf51ef80:
 msgid "[R] Don't cancel the skit."
 msgstr "[R] Don't cancel the skit."
 
 # game/UpdateScript0.07.rpy:10685## # translate crowdin talk_to_megan_21e5739f:
-msgid "MG "Why?... There's no way I'm performing for Matt now."
-    MG "Why?... There's no way I'm performing for Matt now."
+msgid "[MG] Why?... There's no way I'm performing for Matt now."
+msgstr "[MG] Why?... There's no way I'm performing for Matt now."
 
 # game/UpdateScript0.07.rpy:10686## # translate crowdin talk_to_megan_505968ad:
 msgid "[R] Yeah, so do it for Lauren instead."
 msgstr "[R] Yeah, so do it for Lauren instead."
 
 # game/UpdateScript0.07.rpy:10687## # translate crowdin talk_to_megan_e4905ca2_2:
-msgid "MG "What?"
-    MG "What?"
+msgid "[MG] What?"
+msgstr "[MG] What?"
 
 # game/UpdateScript0.07.rpy:10688## # translate crowdin talk_to_megan_71deef07:
 msgid "[R] Think about it. You keep practicing, and Matt will think you're getting ready for his election skit."
@@ -17731,64 +17731,64 @@ msgid "[R] Oh, I know... To add insult to injury, when he's feeling the pain of 
 msgstr "[R] Oh, I know... To add insult to injury, when he's feeling the pain of failure, you send him this video we just made."
 
 # game/UpdateScript0.07.rpy:10695## # translate crowdin talk_to_megan_9d94d89f:
-msgid "MG "I don't know..."
-    MG "I don't know..."
+msgid "[MG] I don't know..."
+msgstr "[MG] I don't know..."
 
 # game/UpdateScript0.07.rpy:10696## # translate crowdin talk_to_megan_a2ce6687:
-msgid "MG "That would mean I would have to pretend to stay with him until the election assembly, and that everything's good between us."
-    MG "That would mean I would have to pretend to stay with him until the election assembly, and that everything's good between us."
+msgid "[MG] That would mean I would have to pretend to stay with him until the election assembly, and that everything's good between us."
+msgstr "[MG] That would mean I would have to pretend to stay with him until the election assembly, and that everything's good between us."
 
 # game/UpdateScript0.07.rpy:10697## # translate crowdin talk_to_megan_1e7fe6e6:
-msgid "MG "He's going to want to keep having sex, and there's no way I'm fucking him now... How would I get out of that?"
-    MG "He's going to want to keep having sex, and there's no way I'm fucking him now... How would I get out of that?"
+msgid "[MG] He's going to want to keep having sex, and there's no way I'm fucking him now... How would I get out of that?"
+msgstr "[MG] He's going to want to keep having sex, and there's no way I'm fucking him now... How would I get out of that?"
 
 # game/UpdateScript0.07.rpy:10698## # translate crowdin talk_to_megan_286d34a5:
 msgid "[R] Say you're on your period?"
 msgstr "[R] Say you're on your period?"
 
 # game/UpdateScript0.07.rpy:10699## # translate crowdin talk_to_megan_ab627930:
-msgid "MG "That will only work for a week."
-    MG "That will only work for a week."
+msgid "[MG] That will only work for a week."
+msgstr "[MG] That will only work for a week."
 
 # game/UpdateScript0.07.rpy:10700## # translate crowdin talk_to_megan_28207c5d:
 msgid "[R] Say that you've got some kind of vagina disease."
 msgstr "[R] Say that you've got some kind of vagina disease."
 
 # game/UpdateScript0.07.rpy:10701## # translate crowdin talk_to_megan_93172f68:
-msgid "MG "You mean an STD?... Gross!"
-    MG "You mean an STD?... Gross!"
+msgid "[MG] You mean an STD?... Gross!"
+msgstr "[MG] You mean an STD?... Gross!"
 
 # game/UpdateScript0.07.rpy:10702## # translate crowdin talk_to_megan_61fc6dfd:
 msgid "[R] Exactly."
 msgstr "[R] Exactly."
 
 # game/UpdateScript0.07.rpy:10703## # translate crowdin talk_to_megan_2bb924ee:
-msgid "MG "That would be a fun rumor to try to stop from circling around the school."
-    MG "That would be a fun rumor to try to stop from circling around the school."
+msgid "[MG] That would be a fun rumor to try to stop from circling around the school."
+msgstr "[MG] That would be a fun rumor to try to stop from circling around the school."
 
 # game/UpdateScript0.07.rpy:10704## # translate crowdin talk_to_megan_84a660a2:
 msgid "[R] Well, think about it. It might be harder, but playing the long game will have such a better reward."
 msgstr "[R] Well, think about it. It might be harder, but playing the long game will have such a better reward."
 
 # game/UpdateScript0.07.rpy:10707## # translate crowdin talk_to_megan_9eff4c12:
-msgid "MG "How do you mean?"
-    MG "How do you mean?"
+msgid "[MG] How do you mean?"
+msgstr "[MG] How do you mean?"
 
 # game/UpdateScript0.07.rpy:10708## # translate crowdin talk_to_megan_3e130679:
 msgid "[R] It's like that book my mom made us read for class. The Count of Monte Cristo."
 msgstr "[R] It's like that book my mom made us read for class. The Count of Monte Cristo."
 
 # game/UpdateScript0.07.rpy:10709## # translate crowdin talk_to_megan_8de949b2:
-msgid "MG "I don't remember."
-    MG "I don't remember."
+msgid "[MG] I don't remember."
+msgstr "[MG] I don't remember."
 
 # game/UpdateScript0.07.rpy:10710## # translate crowdin talk_to_megan_4e249348:
 msgid "[R] You know... We watched the movie?... About those French guys?... The one went to jail forever, broke out, found a treasure, and planned the best revenge ever."
 msgstr "[R] You know... We watched the movie?... About those French guys?... The one went to jail forever, broke out, found a treasure, and planned the best revenge ever."
 
 # game/UpdateScript0.07.rpy:10713## # translate crowdin talk_to_megan_846060e7:
-msgid "MG "I think that movie was against revenge."
-    MG "I think that movie was against revenge."
+msgid "[MG] I think that movie was against revenge."
+msgstr "[MG] I think that movie was against revenge."
 
 # game/UpdateScript0.07.rpy:10714## # translate crowdin talk_to_megan_4f887401:
 msgid "[R] Well, I'd say it worked out pretty well for the Count... At least... in the movie."
@@ -17799,12 +17799,12 @@ msgid "[R] But the point is, he played the long game, and it all came together m
 msgstr "[R] But the point is, he played the long game, and it all came together magnificently."
 
 # game/UpdateScript0.07.rpy:10716## # translate crowdin talk_to_megan_c28f3aa4:
-msgid "MG "Hmmmm...."
-    MG "Hmmmm...."
+msgid "[MG] Hmmmm...."
+msgstr "[MG] Hmmmm...."
 
 # game/UpdateScript0.07.rpy:10719## # translate crowdin talk_to_megan_5544acce:
-msgid "MG "Ok... I'll do it."
-    MG "Ok... I'll do it."
+msgid "[MG] Ok... I'll do it."
+msgstr "[MG] Ok... I'll do it."
 
 # game/UpdateScript0.07.rpy:10720## # translate crowdin talk_to_megan_539d79b3:
 msgid "[R] Yes!"
@@ -17815,8 +17815,8 @@ msgid "[R] Ohh... And would you mind working on the skit with my cousin, Mandy?"
 msgstr "[R] Ohh... And would you mind working on the skit with my cousin, Mandy?"
 
 # game/UpdateScript0.07.rpy:10722## # translate crowdin talk_to_megan_1b201391:
-msgid "MG "Oh, the new girl? Is she athletic, or know how to dance?"
-    MG "Oh, the new girl? Is she athletic, or know how to dance?"
+msgid "[MG] Oh, the new girl? Is she athletic, or know how to dance?"
+msgstr "[MG] Oh, the new girl? Is she athletic, or know how to dance?"
 
 # game/UpdateScript0.07.rpy:10723## # translate crowdin talk_to_megan_469f5cd3:
 msgid "[R] Yeah, she was on some elite dance team at her old school."
@@ -17831,20 +17831,20 @@ msgid "[R] I think she'll only make the skit better."
 msgstr "[R] I think she'll only make the skit better."
 
 # game/UpdateScript0.07.rpy:10728## # translate crowdin talk_to_megan_641a8ae3:
-msgid "MG "Alright, tell her to get ahold of me."
-    MG "Alright, tell her to get ahold of me."
+msgid "[MG] Alright, tell her to get ahold of me."
+msgstr "[MG] Alright, tell her to get ahold of me."
 
 # game/UpdateScript0.07.rpy:10729## # translate crowdin talk_to_megan_ed6e6aa5:
-msgid "MG "You know my number?"
-    MG "You know my number?"
+msgid "[MG] You know my number?"
+msgstr "[MG] You know my number?"
 
 # game/UpdateScript0.07.rpy:10730## # translate crowdin talk_to_megan_a98be67e:
-msgid "MG "No... Why would you."
-    MG "No... Why would you."
+msgid "[MG] No... Why would you."
+msgstr "[MG] No... Why would you."
 
 # game/UpdateScript0.07.rpy:10731## # translate crowdin talk_to_megan_ba25a748:
-msgid "MG "I'll text you my contact info."
-    MG "I'll text you my contact info."
+msgid "[MG] I'll text you my contact info."
+msgstr "[MG] I'll text you my contact info."
 
 # game/UpdateScript0.07.rpy:10732## # translate crowdin talk_to_megan_2e6ce0c1:
 msgid "[R] Awesome!... And remember."
@@ -17855,8 +17855,8 @@ msgid "[R] Don't let Matt think anything is wrong."
 msgstr "[R] Don't let Matt think anything is wrong."
 
 # game/UpdateScript0.07.rpy:10734## # translate crowdin talk_to_megan_ea50b5fd:
-msgid "MG "Ok, I'll do my best."
-    MG "Ok, I'll do my best."
+msgid "[MG] Ok, I'll do my best."
+msgstr "[MG] Ok, I'll do my best."
 
 # game/UpdateScript0.07.rpy:10756## # translate crowdin new_girls_lockers_morning_a9698c3b:
 msgid "[RT] {i}Why in the hell did I come back here?{/i}"
@@ -18015,8 +18015,8 @@ msgid "[R] Shhhh..."
 msgstr "[R] Shhhh..."
 
 # game/UpdateScript0.07.rpy:10894## # translate crowdin bad_shower_caught_85c71c05:
-msgid "MG "Again, [ryan]? What the hell?"
-    MG "Again, [ryan]? What the hell?"
+msgid "[MG] Again, [ryan]? What the hell?"
+msgstr "[MG] Again, [ryan]? What the hell?"
 
 # game/UpdateScript0.07.rpy:10897## # translate crowdin bad_shower_caught_bcc59973:
 msgid "SY "You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
@@ -18035,8 +18035,8 @@ msgid "[R] Shhhh..."
 msgstr "[R] Shhhh..."
 
 # game/UpdateScript0.07.rpy:10908## # translate crowdin bad_shower_caught_0c7346bc:
-msgid "MG "[ryan]! What the hell are you doing in here?"
-    MG "[ryan]! What the hell are you doing in here?"
+msgid "[MG] [ryan]! What the hell are you doing in here?"
+msgstr "[MG] [ryan]! What the hell are you doing in here?"
 
 # game/UpdateScript0.07.rpy:10911## # translate crowdin bad_shower_caught_e1fef729:
 msgid "SY "You'd better get out of here right now, or I'm really going to start screaming!"
@@ -19363,8 +19363,8 @@ msgid "MD "What if we made every Friday pizza day?"
     MD "What if we made every Friday pizza day?"
 
 # game/UpdateScript0.07.rpy:11654## # translate crowdin campaign_headquarters_afternoon_0cc1b4d3:
-msgid "MG "And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
-    MG "And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
+msgid "[MG] And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
+msgstr "[MG] And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
 
 # game/UpdateScript0.07.rpy:11655## # translate crowdin campaign_headquarters_afternoon_82aaa629:
 msgid "L "That's a fun idea."
@@ -24075,8 +24075,8 @@ msgid "[MB] Relax, you two."
 msgstr "[MB] Relax, you two."
 
 # game/UpdateScript0.07.rpy:14155## # translate crowdin bad_polls_aftermath_3754c143:
-msgid "MG "We just came to check on Lauren. She seemed pretty upset after the morning announcements."
-    MG "We just came to check on Lauren. She seemed pretty upset after the morning announcements."
+msgid "[MG] We just came to check on Lauren. She seemed pretty upset after the morning announcements."
+msgstr "[MG] We just came to check on Lauren. She seemed pretty upset after the morning announcements."
 
 # game/UpdateScript0.07.rpy:14156## # translate crowdin bad_polls_aftermath_d76b27fe:
 msgid "L "Did I look upset? Well, you're mistaken. I'm doing just fine."
@@ -24207,8 +24207,8 @@ msgid "[MB] If I win the election, I would get to fuck you."
 msgstr "[MB] If I win the election, I would get to fuck you."
 
 # game/UpdateScript0.07.rpy:14194## # translate crowdin bad_polls_aftermath_de0ffd88:
-msgid "MG "Matt!..."
-    MG "Matt!..."
+msgid "[MG] Matt!..."
+msgstr "[MG] Matt!..."
 
 # game/UpdateScript0.07.rpy:14195## # translate crowdin bad_polls_aftermath_1e899005:
 msgid "[MB] Shut up Megan, We'll talk about it later!"
@@ -29067,8 +29067,8 @@ msgid "AD "Yeah... Read them."
     AD "Yeah... Read them."
 
 # game/UpdateScript0.07.rpy:16807## # translate crowdin diaz_help_36db77af:
-msgid "MG "OMG!. Can U Believe that Jessica is my new Cheerleading coach?"
-    MG "OMG!. Can U Believe that Jessica is my new Cheerleading coach?"
+msgid "[MG] OMG!. Can U Believe that Jessica is my new Cheerleading coach?"
+msgstr "[MG] OMG!. Can U Believe that Jessica is my new Cheerleading coach?"
 
 # game/UpdateScript0.07.rpy:16808## # translate crowdin diaz_help_403fab7a:
 msgid "[MB] You're so fucking lucky."
@@ -29079,24 +29079,24 @@ msgid "[MB] I wish I could stare at that ass during my practices."
 msgstr "[MB] I wish I could stare at that ass during my practices."
 
 # game/UpdateScript0.07.rpy:16810## # translate crowdin diaz_help_1502b293:
-msgid "MG "STFU! You know how much I hate her!"
-    MG "STFU! You know how much I hate her!"
+msgid "[MG] STFU! You know how much I hate her!"
+msgstr "[MG] STFU! You know how much I hate her!"
 
 # game/UpdateScript0.07.rpy:16811## # translate crowdin diaz_help_2902487a:
-msgid "MG "She made my life hell our freshman year."
-    MG "She made my life hell our freshman year."
+msgid "[MG] She made my life hell our freshman year."
+msgstr "[MG] She made my life hell our freshman year."
 
 # game/UpdateScript0.07.rpy:16812## # translate crowdin diaz_help_de7b97cb:
 msgid "[MB] She's not so bad."
 msgstr "[MB] She's not so bad."
 
 # game/UpdateScript0.07.rpy:16813## # translate crowdin diaz_help_47aac377:
-msgid "MG "MATT!"
-    MG "MATT!"
+msgid "[MG] MATT!"
+msgstr "[MG] MATT!"
 
 # game/UpdateScript0.07.rpy:16814## # translate crowdin diaz_help_31cf5c4e:
-msgid "MG "I FORBID YOU TO STICK YOUR DICK IN HER!!!"
-    MG "I FORBID YOU TO STICK YOUR DICK IN HER!!!"
+msgid "[MG] I FORBID YOU TO STICK YOUR DICK IN HER!!!"
+msgstr "[MG] I FORBID YOU TO STICK YOUR DICK IN HER!!!"
 
 # game/UpdateScript0.07.rpy:16815## # translate crowdin diaz_help_b46a24b3:
 msgid "[MB] What? Why?"
@@ -29107,24 +29107,24 @@ msgid "[MB] You've never cared who I fucked before!"
 msgstr "[MB] You've never cared who I fucked before!"
 
 # game/UpdateScript0.07.rpy:16817## # translate crowdin diaz_help_5f1f532c:
-msgid "MG "Do you have any idea the amount of emotional abuse I went through when she was our team captain?"
-    MG "Do you have any idea the amount of emotional abuse I went through when she was our team captain?"
+msgid "[MG] Do you have any idea the amount of emotional abuse I went through when she was our team captain?"
+msgstr "[MG] Do you have any idea the amount of emotional abuse I went through when she was our team captain?"
 
 # game/UpdateScript0.07.rpy:16818## # translate crowdin diaz_help_c29147c6:
-msgid "MG "She gave me several eating disorders!!"
-    MG "She gave me several eating disorders!!"
+msgid "[MG] She gave me several eating disorders!!"
+msgstr "[MG] She gave me several eating disorders!!"
 
 # game/UpdateScript0.07.rpy:16819## # translate crowdin diaz_help_815c8ed1:
 msgid "[MB] Yeah, and you look great now!"
 msgstr "[MB] Yeah, and you look great now!"
 
 # game/UpdateScript0.07.rpy:16820## # translate crowdin diaz_help_c56c5c56:
-msgid "MG "MATT!!!"
-    MG "MATT!!!"
+msgid "[MG] MATT!!!"
+msgstr "[MG] MATT!!!"
 
 # game/UpdateScript0.07.rpy:16821## # translate crowdin diaz_help_2d74e7b1:
-msgid "MG "I swear that if I find out you've stuck your dick in her, I'll never let you stick your dick in me again!"
-    MG "I swear that if I find out you've stuck your dick in her, I'll never let you stick your dick in me again!"
+msgid "[MG] I swear that if I find out you've stuck your dick in her, I'll never let you stick your dick in me again!"
+msgstr "[MG] I swear that if I find out you've stuck your dick in her, I'll never let you stick your dick in me again!"
 
 # game/UpdateScript0.07.rpy:16822## # translate crowdin diaz_help_91b6d658:
 msgid "[MB] What if I only do it once?"
@@ -29147,16 +29147,16 @@ msgid "[MB] Ok, I won't fuck her :("
 msgstr "[MB] Ok, I won't fuck her :("
 
 # game/UpdateScript0.07.rpy:16827## # translate crowdin diaz_help_bb081ddd:
-msgid "MG "Thank you!"
-    MG "Thank you!"
+msgid "[MG] Thank you!"
+msgstr "[MG] Thank you!"
 
 # game/UpdateScript0.07.rpy:16828## # translate crowdin diaz_help_4391a5ca:
 msgid "[MB] But I'm going to need to fuck you extra to keep my mind off her."
 msgstr "[MB] But I'm going to need to fuck you extra to keep my mind off her."
 
 # game/UpdateScript0.07.rpy:16829## # translate crowdin diaz_help_17bb0c51:
-msgid "MG "Meet me under the gym bleachers."
-    MG "Meet me under the gym bleachers."
+msgid "[MG] Meet me under the gym bleachers."
+msgstr "[MG] Meet me under the gym bleachers."
 
 # game/UpdateScript0.07.rpy:16830## # translate crowdin diaz_help_e35f8cf5:
 msgid "[MB] 8==> ()"
