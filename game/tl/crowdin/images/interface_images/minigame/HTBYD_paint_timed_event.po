@@ -24,11 +24,11 @@ msgstr "[RT] {i}With a lot of coaxing.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:132## # translate crowdin HTBYD_game_start_lbl_2dc7ff8f:
 msgid "[MST] {i}Oh my God!... That will get the attention of all the students for sure. These kids are bringing their \"A game\"{/i}"
-    MST "{i}Oh my God!... That will get the attention of all the students for sure. These kids are bringing their \"A game\"{/i}"
+msgstr "[MST] {i}Oh my God!... That will get the attention of all the students for sure. These kids are bringing their \"A game\"{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:133## # translate crowdin HTBYD_game_start_lbl_2fb4108b:
 msgid "[MST] {i}It's also useful to know that [ryan] and Lauren are anything but prudes.{/i}"
-    MST "{i}It's also useful to know that [ryan] and Lauren are anything but prudes.{/i}"
+msgstr "[MST] {i}It's also useful to know that [ryan] and Lauren are anything but prudes.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:134## # translate crowdin HTBYD_game_start_lbl_6a9bbe49:
 msgid "[MS] Lauren looks a lot like the girl in that movie \"How to Breed your Dragon.\", only with much fewer... clothes on... What's her name?... Assturd?"
@@ -68,11 +68,11 @@ msgstr "[MS] No reason."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:144## # translate crowdin HTBYD_game_start_lbl_0d5e265d:
 msgid "[MST] {i}Unless you've got something even sexier.{/i}"
-    MST "{i}Unless you've got something even sexier.{/i}"
+msgstr "[MST] {i}Unless you've got something even sexier.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:145## # translate crowdin HTBYD_game_start_lbl_e0d14e45:
 msgid "[MST] {i}I'm not even into women, but I can appreciate a beautiful young ass.{/i}"
-    MST "{i}I'm not even into women, but I can appreciate a beautiful young ass.{/i}"
+msgstr "[MST] {i}I'm not even into women, but I can appreciate a beautiful young ass.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:146## # translate crowdin HTBYD_game_start_lbl_89598738:
 msgid "[MS] Now, remember your theme."
@@ -96,7 +96,7 @@ msgstr "[MS] Wow... That's really good."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:162## # translate crowdin HTBYD_game_end_lbl_9284b59b:
 msgid "[MST] {i}The slogan is a bit provocative, but it definitely goes with the flavor of the picture.{/i}"
-    MST "{i}The slogan is a bit provocative, but it definitely goes with the flavor of the picture.{/i}"
+msgstr "[MST] {i}The slogan is a bit provocative, but it definitely goes with the flavor of the picture.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:163## # translate crowdin HTBYD_game_end_lbl_618f050e:
 msgid "[R] Yeah... I just did exactly what you said..."
