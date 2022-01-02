@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
-msgid "game/Phone_stats_screen.rpy:70
+﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
 msgstr "Girls stats"
 

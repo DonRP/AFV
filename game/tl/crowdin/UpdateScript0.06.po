@@ -33241,8 +33241,7 @@ msgid "R "Damnit!"
 # game/UpdateScript0.06.rpy:17344## # translate crowdin park_sex_fe1fe0be:
 msgid "R "Sidney, wait!"
     R "Sidney, wait!"
-## # translate crowdin strings:
-msgid "game/UpdateScript0.06.rpy:6
+## # translate crowdin strings:##    # game/UpdateScript0.06.rpy:6
 msgid "SWAT Guy"
 msgstr "SWAT Guy"
 

@@ -12673,8 +12673,7 @@ msgid "R "K, and I'll stay and clean things up a bit, and I'll see you soon!"
 # game/UpdateScript0.04.rpy:6321## # translate crowdin wr_gape_37c03a5b_1:
 msgid "S "See ya later brother!"
     S "See ya later brother!"
-## # translate crowdin strings:
-msgid "game/UpdateScript0.04.rpy:320
+## # translate crowdin strings:##    # game/UpdateScript0.04.rpy:320
 msgid "Just leave her alone."
 msgstr "Just leave her alone."
 

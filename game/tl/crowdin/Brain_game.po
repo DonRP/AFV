@@ -13,8 +13,7 @@ msgid "RT "{i}School has ended, I must return home.{/i}"
 # game/Brain_game.rpy:619## # translate crowdin map_location_e011db0e_3:
 msgid "RT "{i}School has ended, I must return home.{/i}"
     RT "{i}School has ended, I must return home.{/i}"
-## # translate crowdin strings:
-msgid "game/Brain_game.rpy:497
+## # translate crowdin strings:##    # game/Brain_game.rpy:497
 msgid "You lose!"
 msgstr "You lose!"
 

@@ -597,8 +597,7 @@ msgid "RT "{i}I can't admit to anyone that I kind of like these stories.{/i}"
 # game/Shopping_gallery.rpy:704## # translate crowdin buying_label_ee2b767d_20:
 msgid "RT "{i}Not right now.{/i}"
     RT "{i}Not right now.{/i}"
-## # translate crowdin strings:
-msgid "game/Shopping_gallery.rpy:323
+## # translate crowdin strings:##    # game/Shopping_gallery.rpy:323
 msgid "Buy chocolate"
 msgstr "Buy chocolate"
 

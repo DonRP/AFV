@@ -11525,8 +11525,7 @@ msgid "S "Now I've got to get back to the bar before anyone notices I'm missing.
 # game/UpdateScript0.05.rpy:6596## # translate crowdin club_cum_54e40d27:
 msgid "S "So, was there anything else you wanted to talk to me about?"
     S "So, was there anything else you wanted to talk to me about?"
-## # translate crowdin strings:
-msgid "game/UpdateScript0.05.rpy:7
+## # translate crowdin strings:##    # game/UpdateScript0.05.rpy:7
 msgid "Crazy Old Man"
 msgstr "Crazy Old Man"
 

@@ -9429,8 +9429,7 @@ msgid "RT "{i}Oh man, it's just an email alert. You buy one thing at Hardnlong, 
 # game/UpdateScript0.03.rpy:5627## # translate crowdin emailalert_86b823da:
 msgid "RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
     RT "{i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
-## # translate crowdin strings:
-msgid "game/UpdateScript0.03.rpy:11
+## # translate crowdin strings:##    # game/UpdateScript0.03.rpy:11
 msgid "Kenzie's Thoughts"
 msgstr "Kenzie's Thoughts"
 

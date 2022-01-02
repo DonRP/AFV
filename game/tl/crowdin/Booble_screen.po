@@ -5,8 +5,7 @@ msgid "RT "{i}I should do a search on booble.com to find a way to buy the stuff 
 # game/Booble_screen.rpy:67## # translate crowdin booble_search_ce876757:
 msgid "RT "{i}What should I do today on the internet?{/i}"
     RT "{i}What should I do today on the internet?{/i}"
-## # translate crowdin strings:
-msgid "game/Booble_screen.rpy:33
+## # translate crowdin strings:##    # game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 msgstr "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 

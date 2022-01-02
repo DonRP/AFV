@@ -31965,8 +31965,7 @@ msgid "RT "{i}Shit!... The only way to get the dress code changed is by setting 
 # game/UpdateScript0.07.rpy:18134## # translate crowdin will_meeting_f8853787:
 msgid "RT "{i}If I do decide to set them up, It would probably best to speak to Mom at breakfast. I'm pretty sure she despises Will Tylor, so she'd probably be more open to it in the morning.{/i}"
     RT "{i}If I do decide to set them up, It would probably best to speak to Mom at breakfast. I'm pretty sure she despises Will Tylor, so she'd probably be more open to it in the morning.{/i}"
-## # translate crowdin strings:
-msgid "game/UpdateScript0.07.rpy:17
+## # translate crowdin strings:##    # game/UpdateScript0.07.rpy:17
 msgid "Voice over intercom"
 msgstr "Voice over intercom"
 

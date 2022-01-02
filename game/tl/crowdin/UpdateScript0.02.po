@@ -6061,8 +6061,7 @@ msgid "J "Whatever."
 # game/UpdateScript0.02.rpy:3976## # translate crowdin ntrclub_87beebe4:
 msgid "R "Shit, she's done, I'd better make myself scarce."
     R "Shit, she's done, I'd better make myself scarce."
-## # translate crowdin strings:
-msgid "game/UpdateScript0.02.rpy:233
+## # translate crowdin strings:##    # game/UpdateScript0.02.rpy:233
 msgid "What will she do?"
 msgstr "What will she do?"
 

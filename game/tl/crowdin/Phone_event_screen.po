@@ -1221,8 +1221,7 @@ msgid "R "...."
 # game/Phone_event_screen.rpy:1831## # translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
     "End of tutorial."
-## # translate crowdin strings:
-msgid "game/Phone_event_screen.rpy:25
+## # translate crowdin strings:##    # game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
 msgstr "[event_num]:"
 

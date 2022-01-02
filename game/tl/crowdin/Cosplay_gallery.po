@@ -61,8 +61,7 @@ msgid "RT "{i} The first cosplay outfit that [outfit_nfo_name] wore on our first
 # game/Cosplay_gallery.rpy:1889## # translate crowdin outfit_info_d4afad73:
 msgid "RT "{i}I hope we can sell more of them.{/i}"
     RT "{i}I hope we can sell more of them.{/i}"
-## # translate crowdin strings:
-msgid "game/Cosplay_gallery.rpy:562
+## # translate crowdin strings:##    # game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
 msgstr "{color=#ffffff}{b}Supporters{/b}{/color}"
 

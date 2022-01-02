@@ -8241,8 +8241,7 @@ msgid "RT "{i}I'm out of control.... maybe I should get help?.... Nah this is ju
 # game/script.rpy:8641## # translate crowdin nightclubbing_6468df67_1:
 msgid "RT "{i}Now I better get out of here before she notices me.{/i}"
     RT "{i}Now I better get out of here before she notices me.{/i}"
-## # translate crowdin strings:
-msgid "game/script.rpy:310
+## # translate crowdin strings:##    # game/script.rpy:310
 msgid "Would you like to see the tutorial?"
 msgstr "Would you like to see the tutorial?"
 

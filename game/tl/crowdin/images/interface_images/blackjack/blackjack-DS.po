@@ -37,8 +37,7 @@ msgid "BJ_dealer "The dealer also has [computerScore], so it's a push! You get y
 # game/images/interface_images/blackjack/blackjack-DS.rpy:488## # translate crowdin noMoney_9706b720:
 msgid "BJ_dealer "Sorry! You don't have enough money!{w=2.0}{nw}"
     BJ_dealer "Sorry! You don't have enough money!{w=2.0}{nw}"
-## # translate crowdin strings:
-msgid "game/images/interface_images/blackjack/blackjack-DS.rpy:198
+## # translate crowdin strings:##    # game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid "Dealer"
 msgstr "Dealer"
 

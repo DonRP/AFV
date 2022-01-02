@@ -6977,8 +6977,7 @@ msgid "RT "{i}That was such a crazy dream.... It felt so real.... then again, mo
 # game/UpdateScriptChristmasEvent.rpy:3083## # translate crowdin christmas_club_2ded6d39_1:
 msgid "RT "{i}I do feel pretty tired.{/i}"
     RT "{i}I do feel pretty tired.{/i}"
-## # translate crowdin strings:
-msgid "game/UpdateScriptChristmasEvent.rpy:6
+## # translate crowdin strings:##    # game/UpdateScriptChristmasEvent.rpy:6
 msgid "Ghost of XXX-mas Past"
 msgstr "Ghost of XXX-mas Past"
 
