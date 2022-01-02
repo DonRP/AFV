@@ -36,5 +36,5 @@ msgid "RT "{i}Ok, just a little further and I can turn right.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:161## # translate crowdin Shower_Run02_game_end_lbl_1d59b54d:
 msgid "[R] Goddammit!"
-    R "Goddammit!"
+msgstr "[R] Goddammit!"
 

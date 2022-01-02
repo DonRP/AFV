@@ -24,5 +24,5 @@ msgid "RT "{i}So far so good... Don't screw up now.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:156## # translate crowdin Shower_Run01_game_end_lbl_1d59b54d:
 msgid "[R] Goddammit!"
-    R "Goddammit!"
+msgstr "[R] Goddammit!"
 
