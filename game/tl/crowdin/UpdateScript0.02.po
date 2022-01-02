@@ -4895,8 +4895,8 @@ msgid "[M] They were just about to tell me."
 msgstr "[M] They were just about to tell me."
 
 # game/UpdateScript0.02.rpy:3280## # translate crowdin invitemomtooffice_e7437c78:
-msgid "MB "Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
-    MB "Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
+msgid "[MB] Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
+msgstr "[MB] Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
 
 # game/UpdateScript0.02.rpy:3283## # translate crowdin invitemomtooffice_d8bf5ca9:
 msgid "[M] What?"
@@ -4907,16 +4907,16 @@ msgid "[M] Matt, that isn't funny!"
 msgstr "[M] Matt, that isn't funny!"
 
 # game/UpdateScript0.02.rpy:3285## # translate crowdin invitemomtooffice_1edbdf8e:
-msgid "MB "I'm serious!"
-    MB "I'm serious!"
+msgid "[MB] I'm serious!"
+msgstr "[MB] I'm serious!"
 
 # game/UpdateScript0.02.rpy:3286## # translate crowdin invitemomtooffice_d33743a1:
-msgid "MB "Tabboo stuff is kind of in right now."
-    MB "Tabboo stuff is kind of in right now."
+msgid "[MB] Tabboo stuff is kind of in right now."
+msgstr "[MB] Tabboo stuff is kind of in right now."
 
 # game/UpdateScript0.02.rpy:3287## # translate crowdin invitemomtooffice_50f989cf:
-msgid "MB "And think about it. You're the hottest woman in this school!"
-    MB "And think about it. You're the hottest woman in this school!"
+msgid "[MB] And think about it. You're the hottest woman in this school!"
+msgstr "[MB] And think about it. You're the hottest woman in this school!"
 
 # game/UpdateScript0.02.rpy:3288## # translate crowdin invitemomtooffice_338f5f67:
 msgid "MG "Yeah, and [ryan]'s quite the looker as well."

@@ -5867,48 +5867,48 @@ msgid "X "Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
     X "Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
 
 # game/script.rpy:6831## # translate crowdin firstdayofschool_2c1deb09:
-msgid "MB "{i}(whispering){/i} Your mom has one fine ass! Don't you think?"
-    MB "{i}(whispering){/i} Your mom has one fine ass! Don't you think?"
+msgid "[MB] {i}(whispering){/i} Your mom has one fine ass! Don't you think?"
+msgstr "[MB] {i}(whispering){/i} Your mom has one fine ass! Don't you think?"
 
 # game/script.rpy:6832## # translate crowdin firstdayofschool_417bd2bc:
 msgid "[R] {i}(whispering desperately){/i}.... what, are you crazy! She's my mom! I would never think of her like that!"
 msgstr "[R] {i}(whispering desperately){/i}.... what, are you crazy! She's my mom! I would never think of her like that!"
 
 # game/script.rpy:6833## # translate crowdin firstdayofschool_a32b3195:
-msgid "MB "{i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
-    MB "{i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
+msgid "[MB] {i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
+msgstr "[MB] {i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
 
 # game/script.rpy:6834## # translate crowdin firstdayofschool_b132699b:
-msgid "MB "{i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
-    MB "{i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
+msgid "[MB] {i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
+msgstr "[MB] {i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
 
 # game/script.rpy:6837## # translate crowdin firstdayofschool_63d0dbc1:
-msgid "MB "{i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
-    MB "{i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
+msgid "[MB] {i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
+msgstr "[MB] {i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
 
 # game/script.rpy:6838## # translate crowdin firstdayofschool_65406bbc:
-msgid "MB "{i}(whispering){/i} In fact, I can help you get what you want."
-    MB "{i}(whispering){/i} In fact, I can help you get what you want."
+msgid "[MB] {i}(whispering){/i} In fact, I can help you get what you want."
+msgstr "[MB] {i}(whispering){/i} In fact, I can help you get what you want."
 
 # game/script.rpy:6841## # translate crowdin firstdayofschool_c4388d21:
 msgid "[R] {i}(whispering){/i} What do you mean?"
 msgstr "[R] {i}(whispering){/i} What do you mean?"
 
 # game/script.rpy:6842## # translate crowdin firstdayofschool_96aab6bf:
-msgid "MB "{i}(whispering){/i} I mean I can help you conquer your mom."
-    MB "{i}(whispering){/i} I mean I can help you conquer your mom."
+msgid "[MB] {i}(whispering){/i} I mean I can help you conquer your mom."
+msgstr "[MB] {i}(whispering){/i} I mean I can help you conquer your mom."
 
 # game/script.rpy:6843## # translate crowdin firstdayofschool_e974b93b:
 msgid "[R] {i}(whispering){/i} Ha.... yeah right."
 msgstr "[R] {i}(whispering){/i} Ha.... yeah right."
 
 # game/script.rpy:6844## # translate crowdin firstdayofschool_b93009a4:
-msgid "MB "{i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
-    MB "{i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
+msgid "[MB] {i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
+msgstr "[MB] {i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
 
 # game/script.rpy:6845## # translate crowdin firstdayofschool_6ba66b7f:
-msgid "MB "{i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
-    MB "{i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
+msgid "[MB] {i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
+msgstr "[MB] {i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
 
 # game/script.rpy:6848## # translate crowdin firstdayofschool_98ba60a2:
 msgid "[RT] {i}If anyone could help me seduce Mom, it would probably be Matt.{/i}"
@@ -5939,12 +5939,12 @@ msgid "[R] {i}(whispering){/i} Ok, but the deal is that I get her first. After I
 msgstr "[R] {i}(whispering){/i} Ok, but the deal is that I get her first. After I've \"conquered\" her, then you can have a go at her."
 
 # game/script.rpy:6860## # translate crowdin firstdayofschool_26269138:
-msgid "MB "{i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
-    MB "{i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
+msgid "[MB] {i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
+msgstr "[MB] {i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
 
 # game/script.rpy:6861## # translate crowdin firstdayofschool_e1e11780:
-msgid "MB "{i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
-    MB "{i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
+msgid "[MB] {i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
+msgstr "[MB] {i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
 
 # game/script.rpy:6862## # translate crowdin firstdayofschool_e7813929:
 msgid "[RT] {i}Hmmmm.... I wonder what the surprise could be.{/i}"
@@ -5967,20 +5967,20 @@ msgid "[R] {i}(whispering){/i} I don't know what your perverted imagination is c
 msgstr "[R] {i}(whispering){/i} I don't know what your perverted imagination is coming up with, but I don't want to fuck my own mother!"
 
 # game/script.rpy:6874## # translate crowdin firstdayofschool_f81d6bfa:
-msgid "MB "{i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
-    MB "{i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
+msgid "[MB] {i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
+msgstr "[MB] {i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
 
 # game/script.rpy:6875## # translate crowdin firstdayofschool_cd568da7:
 msgid "[R] {i}(whispering){/i} Don't you dare!"
 msgstr "[R] {i}(whispering){/i} Don't you dare!"
 
 # game/script.rpy:6876## # translate crowdin firstdayofschool_ec175fd2:
-msgid "MB "{i}(whispering){/i} Ah ha.... I knew it!"
-    MB "{i}(whispering){/i} Ah ha.... I knew it!"
+msgid "[MB] {i}(whispering){/i} Ah ha.... I knew it!"
+msgstr "[MB] {i}(whispering){/i} Ah ha.... I knew it!"
 
 # game/script.rpy:6877## # translate crowdin firstdayofschool_71cc99e1:
-msgid "MB "{i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
-    MB "{i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
+msgid "[MB] {i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
+msgstr "[MB] {i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
 
 # game/script.rpy:6878## # translate crowdin firstdayofschool_18af3a96:
 msgid "[R] {i}(whispering){/i} Yeah, right.... like that would ever happen."
