@@ -15763,12 +15763,12 @@ msgid "[A]No! We're going."
 msgstr "[A]No! We're going."
 
 # game/UpdateScript0.06.rpy:9167## # translate crowdin sid_sex_event_3f2c4e5e:
-msgid "SRT "{i}There's Armani and the new girl... I wonder where Charlie the Chin is taking them?{/i}"
-    SRT "{i}There's Armani and the new girl... I wonder where Charlie the Chin is taking them?{/i}"
+msgid "[SRT]{i}There's Armani and the new girl... I wonder where Charlie the Chin is taking them?{/i}"
+msgstr "[SRT]{i}There's Armani and the new girl... I wonder where Charlie the Chin is taking them?{/i}"
 
 # game/UpdateScript0.06.rpy:9170## # translate crowdin sid_sex_event_e85af63b:
-msgid "SRT "{i}Hmmm... None of my business, I guess...{/i}"
-    SRT "{i}Hmmm... None of my business, I guess...{/i}"
+msgid "[SRT]{i}Hmmm... None of my business, I guess...{/i}"
+msgstr "[SRT]{i}Hmmm... None of my business, I guess...{/i}"
 
 # game/UpdateScript0.06.rpy:9176## # translate crowdin sid_sex_event_56cac6c0:
 msgid "[CC]This should be a good place to keep you until Joey gets back."
@@ -15855,8 +15855,8 @@ msgid "[AD] ...."
 msgstr "[AD] ...."
 
 # game/UpdateScript0.06.rpy:9213## # translate crowdin sid_sex_event_e8748825:
-msgid "SRT "No business of mine, I guess."
-    SRT "No business of mine, I guess."
+msgid "[SRT]No business of mine, I guess."
+msgstr "[SRT]No business of mine, I guess."
 
 # game/UpdateScript0.06.rpy:9220## # translate crowdin sid_sex_event_5ff90a16:
 msgid "[CC]No... it's just like I said. Joey wasn't in his office... He's not even in the club."
