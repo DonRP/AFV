@@ -523,8 +523,8 @@ msgid "[RT] {i}Oh, shit!!! Just the thought!! I'm losing it again!!!{/i}"
 msgstr "[RT] {i}Oh, shit!!! Just the thought!! I'm losing it again!!!{/i}"
 
 # game/UpdateScript0.02.rpy:281## # translate crowdin sidneysleepswithryan_b96d631d:
-msgid "S "{i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
-    S "{i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
+msgid "[S] {i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
+msgstr "[S] {i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
 
 # game/UpdateScript0.02.rpy:282## # translate crowdin sidneysleepswithryan_70fd47ef:
 msgid "ST "{i}Now to get rid of the evidence.{/i}"
@@ -655,8 +655,8 @@ msgid "[RT] {i}Oh, shit!!! Just the thought!! I'm losing it!!!{/i}"
 msgstr "[RT] {i}Oh, shit!!! Just the thought!! I'm losing it!!!{/i}"
 
 # game/UpdateScript0.02.rpy:371## # translate crowdin sidneysleepswithryan_b96d631d_1:
-msgid "S "{i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
-    S "{i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
+msgid "[S] {i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
+msgstr "[S] {i}(Whispering){/i} That's it little brother, cum for me.... cum right into my panties.... that's a good brother."
 
 # game/UpdateScript0.02.rpy:372## # translate crowdin sidneysleepswithryan_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
@@ -739,8 +739,8 @@ msgid "ST "{i}It looks like he is still asleep.{/i}"
     ST "{i}It looks like he is still asleep.{/i}"
 
 # game/UpdateScript0.02.rpy:431## # translate crowdin sidneysleepswithryan_c51a6315:
-msgid "S "{i}(whispering){/i} pssst.... [ryan].... are you asleep?"
-    S "{i}(whispering){/i} pssst.... [ryan].... are you asleep?"
+msgid "[S] {i}(whispering){/i} pssst.... [ryan].... are you asleep?"
+msgstr "[S] {i}(whispering){/i} pssst.... [ryan].... are you asleep?"
 
 # game/UpdateScript0.02.rpy:432## # translate crowdin sidneysleepswithryan_429c068c:
 msgid "ST "{i}Good, he's sound asleep.{/i}"
@@ -931,8 +931,8 @@ msgid "ST "{i}Wait.... Is he still asleep?{/i}"
     ST "{i}Wait.... Is he still asleep?{/i}"
 
 # game/UpdateScript0.02.rpy:551## # translate crowdin sidneysleepswithryan_c51a6315_1:
-msgid "S "{i}(whispering){/i} pssst.... [ryan].... are you asleep?"
-    S "{i}(whispering){/i} pssst.... [ryan].... are you asleep?"
+msgid "[S] {i}(whispering){/i} pssst.... [ryan].... are you asleep?"
+msgstr "[S] {i}(whispering){/i} pssst.... [ryan].... are you asleep?"
 
 # game/UpdateScript0.02.rpy:552## # translate crowdin sidneysleepswithryan_429c068c_1:
 msgid "ST "{i}Good, he's sound asleep.{/i}"
@@ -1207,16 +1207,16 @@ msgid "[RT] {i}Ok.... I hear her coming.... she's opening the door.... just pret
 msgstr "[RT] {i}Ok.... I hear her coming.... she's opening the door.... just pretend you're asleep.{/i}"
 
 # game/UpdateScript0.02.rpy:709## # translate crowdin sidneysleepswithryan_643ec372:
-msgid "S "Pssstttt.... hey, [ryan].... are you awake?"
-    S "Pssstttt.... hey, [ryan].... are you awake?"
+msgid "[S] Pssstttt.... hey, [ryan].... are you awake?"
+msgstr "[S] Pssstttt.... hey, [ryan].... are you awake?"
 
 # game/UpdateScript0.02.rpy:714## # translate crowdin sidneysleepswithryan_85444fff:
 msgid "[R] Hey, Sidney. What are you doing in my room in the middle of the night?"
 msgstr "[R] Hey, Sidney. What are you doing in my room in the middle of the night?"
 
 # game/UpdateScript0.02.rpy:715## # translate crowdin sidneysleepswithryan_3de9b6a5:
-msgid "S "You said I could come wake you if I heard any noises in the night."
-    S "You said I could come wake you if I heard any noises in the night."
+msgid "[S] You said I could come wake you if I heard any noises in the night."
+msgstr "[S] You said I could come wake you if I heard any noises in the night."
 
 # game/UpdateScript0.02.rpy:716## # translate crowdin sidneysleepswithryan_8bb14c49:
 msgid "[R] Yeah, I remember."
@@ -1227,12 +1227,12 @@ msgid "[R] But I checked things out and didn't see anything."
 msgstr "[R] But I checked things out and didn't see anything."
 
 # game/UpdateScript0.02.rpy:718## # translate crowdin sidneysleepswithryan_20ccbff5:
-msgid "S "Still, I'm pretty shaken up by the thought that someone could be watching me sleep."
-    S "Still, I'm pretty shaken up by the thought that someone could be watching me sleep."
+msgid "[S] Still, I'm pretty shaken up by the thought that someone could be watching me sleep."
+msgstr "[S] Still, I'm pretty shaken up by the thought that someone could be watching me sleep."
 
 # game/UpdateScript0.02.rpy:719## # translate crowdin sidneysleepswithryan_b49f3af0:
-msgid "S "Do you mind if I sleep in here so I'm not alone?"
-    S "Do you mind if I sleep in here so I'm not alone?"
+msgid "[S] Do you mind if I sleep in here so I'm not alone?"
+msgstr "[S] Do you mind if I sleep in here so I'm not alone?"
 
 # game/UpdateScript0.02.rpy:720## # translate crowdin sidneysleepswithryan_5dfd6ffb:
 msgid "[R] Well, why don't you sleep with Lauren or Mom?"
@@ -1243,16 +1243,16 @@ msgid "[RT] {i}Hehehehe.... {/i}"
 msgstr "[RT] {i}Hehehehe.... {/i}"
 
 # game/UpdateScript0.02.rpy:722## # translate crowdin sidneysleepswithryan_89f8223e:
-msgid "S ".... Umm.... I uh.... just feel safer with you."
-    S ".... Umm.... I uh.... just feel safer with you."
+msgid "[S] .... Umm.... I uh.... just feel safer with you."
+msgstr "[S] .... Umm.... I uh.... just feel safer with you."
 
 # game/UpdateScript0.02.rpy:723## # translate crowdin sidneysleepswithryan_57d56fd5:
 msgid "[R] You said you think Mom is probably stronger than me."
 msgstr "[R] You said you think Mom is probably stronger than me."
 
 # game/UpdateScript0.02.rpy:724## # translate crowdin sidneysleepswithryan_693b9a45:
-msgid "S "Yeah, well.... I was just being a bratty sister."
-    S "Yeah, well.... I was just being a bratty sister."
+msgid "[S] Yeah, well.... I was just being a bratty sister."
+msgstr "[S] Yeah, well.... I was just being a bratty sister."
 
 # game/UpdateScript0.02.rpy:725## # translate crowdin sidneysleepswithryan_c2d0b757:
 msgid "[R] Well, as long as you're willing to admit that, than I guess I'll let you sleep in here with me."
@@ -1263,8 +1263,8 @@ msgid "[R] But don't you usually sleep in your panties?"
 msgstr "[R] But don't you usually sleep in your panties?"
 
 # game/UpdateScript0.02.rpy:727## # translate crowdin sidneysleepswithryan_765d1948:
-msgid "S "Yeah, well I'd be an idiot to sleep with a suspected pervert in nothing but my panties wouldn't I?"
-    S "Yeah, well I'd be an idiot to sleep with a suspected pervert in nothing but my panties wouldn't I?"
+msgid "[S] Yeah, well I'd be an idiot to sleep with a suspected pervert in nothing but my panties wouldn't I?"
+msgstr "[S] Yeah, well I'd be an idiot to sleep with a suspected pervert in nothing but my panties wouldn't I?"
 
 # game/UpdateScript0.02.rpy:728## # translate crowdin sidneysleepswithryan_52a3f1b5:
 msgid "[R] Oh, hardy har har!"
@@ -1279,8 +1279,8 @@ msgid "[RT] {i}I'm the worst kind of pervert.{/i}"
 msgstr "[RT] {i}I'm the worst kind of pervert.{/i}"
 
 # game/UpdateScript0.02.rpy:731## # translate crowdin sidneysleepswithryan_17a8764c:
-msgid "S "(Just stares at you)"
-    S "(Just stares at you)"
+msgid "[S] (Just stares at you)"
+msgstr "[S] (Just stares at you)"
 
 # game/UpdateScript0.02.rpy:732## # translate crowdin sidneysleepswithryan_d5bd3beb:
 msgid "[R] Ok, maybe just a little teenage curiosity."
@@ -1299,60 +1299,60 @@ msgid "[R] You should try it."
 msgstr "[R] You should try it."
 
 # game/UpdateScript0.02.rpy:736## # translate crowdin sidneysleepswithryan_4684d31e:
-msgid "S "I don't think I need it, I've been sleeping pretty deeply myself lately."
-    S "I don't think I need it, I've been sleeping pretty deeply myself lately."
+msgid "[S] I don't think I need it, I've been sleeping pretty deeply myself lately."
+msgstr "[S] I don't think I need it, I've been sleeping pretty deeply myself lately."
 
 # game/UpdateScript0.02.rpy:737## # translate crowdin sidneysleepswithryan_19cf4ee3:
 msgid "ST "{i}With the exception of a few interruptions.{/i}"
     ST "{i}With the exception of a few interruptions.{/i}"
 
 # game/UpdateScript0.02.rpy:738## # translate crowdin sidneysleepswithryan_991c1d34:
-msgid "S "So, will you scoot over and let me sleep with you? I'm pretty tired."
-    S "So, will you scoot over and let me sleep with you? I'm pretty tired."
+msgid "[S] So, will you scoot over and let me sleep with you? I'm pretty tired."
+msgstr "[S] So, will you scoot over and let me sleep with you? I'm pretty tired."
 
 # game/UpdateScript0.02.rpy:739## # translate crowdin sidneysleepswithryan_af2d31f1:
 msgid "[R] Ok.... I guess.... but you owe me."
 msgstr "[R] Ok.... I guess.... but you owe me."
 
 # game/UpdateScript0.02.rpy:740## # translate crowdin sidneysleepswithryan_7bfa39f3:
-msgid "S "Owe you what?"
-    S "Owe you what?"
+msgid "[S] Owe you what?"
+msgstr "[S] Owe you what?"
 
 # game/UpdateScript0.02.rpy:741## # translate crowdin sidneysleepswithryan_96492c77:
 msgid "[R] I don't know, I'll think of something."
 msgstr "[R] I don't know, I'll think of something."
 
 # game/UpdateScript0.02.rpy:742## # translate crowdin sidneysleepswithryan_ebdd0137:
-msgid "S "Whatever!"
-    S "Whatever!"
+msgid "[S] Whatever!"
+msgstr "[S] Whatever!"
 
 # game/UpdateScript0.02.rpy:743## # translate crowdin sidneysleepswithryan_ba9243ea:
-msgid "S "Oh, and honey?"
-    S "Oh, and honey?"
+msgid "[S] Oh, and honey?"
+msgstr "[S] Oh, and honey?"
 
 # game/UpdateScript0.02.rpy:744## # translate crowdin sidneysleepswithryan_95428694:
 msgid "[R] Yeah?"
 msgstr "[R] Yeah?"
 
 # game/UpdateScript0.02.rpy:745## # translate crowdin sidneysleepswithryan_21c413ba:
-msgid "S "Don't tell Mom or Lauren that I'm sleeping with you."
-    S "Don't tell Mom or Lauren that I'm sleeping with you."
+msgid "[S] Don't tell Mom or Lauren that I'm sleeping with you."
+msgstr "[S] Don't tell Mom or Lauren that I'm sleeping with you."
 
 # game/UpdateScript0.02.rpy:746## # translate crowdin sidneysleepswithryan_ca7e84a9:
 msgid "[R] Why not?"
 msgstr "[R] Why not?"
 
 # game/UpdateScript0.02.rpy:747## # translate crowdin sidneysleepswithryan_746649e3:
-msgid "S "They would just think it's weird, in fact I'm going to get up early enough that no one will suspect I'm sleeping in here."
-    S "They would just think it's weird, in fact I'm going to get up early enough that no one will suspect I'm sleeping in here."
+msgid "[S] They would just think it's weird, in fact I'm going to get up early enough that no one will suspect I'm sleeping in here."
+msgstr "[S] They would just think it's weird, in fact I'm going to get up early enough that no one will suspect I'm sleeping in here."
 
 # game/UpdateScript0.02.rpy:748## # translate crowdin sidneysleepswithryan_9453ad20:
-msgid "S "It will give me a great excuse to do a morning jog in the park."
-    S "It will give me a great excuse to do a morning jog in the park."
+msgid "[S] It will give me a great excuse to do a morning jog in the park."
+msgstr "[S] It will give me a great excuse to do a morning jog in the park."
 
 # game/UpdateScript0.02.rpy:749## # translate crowdin sidneysleepswithryan_6804784c:
-msgid "S "Promise not to tell."
-    S "Promise not to tell."
+msgid "[S] Promise not to tell."
+msgstr "[S] Promise not to tell."
 
 # game/UpdateScript0.02.rpy:750## # translate crowdin sidneysleepswithryan_8eeb8580:
 msgid "[R] Ok, I can do that."
@@ -1383,16 +1383,16 @@ msgid "[RT] {i}It looks like she's pretty out of it, I'd better make some noise 
 msgstr "[RT] {i}It looks like she's pretty out of it, I'd better make some noise to wake her up.{/i}"
 
 # game/UpdateScript0.02.rpy:776## # translate crowdin getsidneyoffthecouch_8603b2a3:
-msgid "S "[ryan]? Why are you making so much noise..."
-    S "[ryan]? Why are you making so much noise..."
+msgid "[S] [ryan]? Why are you making so much noise..."
+msgstr "[S] [ryan]? Why are you making so much noise..."
 
 # game/UpdateScript0.02.rpy:777## # translate crowdin getsidneyoffthecouch_e22c6c77:
-msgid "S "And why do you have a bat in your hands?"
-    S "And why do you have a bat in your hands?"
+msgid "[S] And why do you have a bat in your hands?"
+msgstr "[S] And why do you have a bat in your hands?"
 
 # game/UpdateScript0.02.rpy:778## # translate crowdin getsidneyoffthecouch_3230ad47:
-msgid "S "Are you here to kill me?"
-    S "Are you here to kill me?"
+msgid "[S] Are you here to kill me?"
+msgstr "[S] Are you here to kill me?"
 
 # game/UpdateScript0.02.rpy:779## # translate crowdin getsidneyoffthecouch_032216cf:
 msgid "[R] Oh, haha.... sorry to wake you, I didn't mean to drop my bat."
@@ -1407,8 +1407,8 @@ msgid "[R] I heard some noises around the house like someone was sneaking around
 msgstr "[R] I heard some noises around the house like someone was sneaking around."
 
 # game/UpdateScript0.02.rpy:782## # translate crowdin getsidneyoffthecouch_b7784451:
-msgid "S "It was probably just Mom or Lauren using the bathroom."
-    S "It was probably just Mom or Lauren using the bathroom."
+msgid "[S] It was probably just Mom or Lauren using the bathroom."
+msgstr "[S] It was probably just Mom or Lauren using the bathroom."
 
 # game/UpdateScript0.02.rpy:783## # translate crowdin getsidneyoffthecouch_7dcbd9c7:
 msgid "[R] It wasn't, I already checked on them."
@@ -1423,8 +1423,8 @@ msgid "[R] Did you see or hear anything?"
 msgstr "[R] Did you see or hear anything?"
 
 # game/UpdateScript0.02.rpy:786## # translate crowdin getsidneyoffthecouch_fe3ad1d5:
-msgid "S "No, are you sure you heard these noises?"
-    S "No, are you sure you heard these noises?"
+msgid "[S] No, are you sure you heard these noises?"
+msgstr "[S] No, are you sure you heard these noises?"
 
 # game/UpdateScript0.02.rpy:787## # translate crowdin getsidneyoffthecouch_f5928a3b:
 msgid "[R] Not completely, but with everything that's going on with the Mafia and the FBI, I thought it's very possible for either of them to be sneaking around in here."
@@ -1435,24 +1435,24 @@ msgid "[R] Just the thought of them sneaking around and spying on us in our unde
 msgstr "[R] Just the thought of them sneaking around and spying on us in our underwear as we sleep motivated me to grab a bat and come check things out."
 
 # game/UpdateScript0.02.rpy:789## # translate crowdin getsidneyoffthecouch_7b04cafc:
-msgid "S "Well, go back to sleep, I'm sure you were just imagining things."
-    S "Well, go back to sleep, I'm sure you were just imagining things."
+msgid "[S] Well, go back to sleep, I'm sure you were just imagining things."
+msgstr "[S] Well, go back to sleep, I'm sure you were just imagining things."
 
 # game/UpdateScript0.02.rpy:790## # translate crowdin getsidneyoffthecouch_f26ad90f:
 msgid "[R] Ok, but if you hear anything, come and tell me, ok?"
 msgstr "[R] Ok, but if you hear anything, come and tell me, ok?"
 
 # game/UpdateScript0.02.rpy:791## # translate crowdin getsidneyoffthecouch_0839905c:
-msgid "S "Yeah right, I think I'd go tell Mom she's probably stronger than you."
-    S "Yeah right, I think I'd go tell Mom she's probably stronger than you."
+msgid "[S] Yeah right, I think I'd go tell Mom she's probably stronger than you."
+msgstr "[S] Yeah right, I think I'd go tell Mom she's probably stronger than you."
 
 # game/UpdateScript0.02.rpy:792## # translate crowdin getsidneyoffthecouch_e6619df8:
 msgid "[R] No, she's not!"
 msgstr "[R] No, she's not!"
 
 # game/UpdateScript0.02.rpy:793## # translate crowdin getsidneyoffthecouch_92db5806:
-msgid "S "Ok whatever, just go back to sleep."
-    S "Ok whatever, just go back to sleep."
+msgid "[S] Ok whatever, just go back to sleep."
+msgstr "[S] Ok whatever, just go back to sleep."
 
 # game/UpdateScript0.02.rpy:794## # translate crowdin getsidneyoffthecouch_5d602c8a:
 msgid "[R] Ok, goodnight."
@@ -1495,16 +1495,16 @@ msgid "[RT] {i}Well, I've got a few more tricks up my sleeve.{/i}"
 msgstr "[RT] {i}Well, I've got a few more tricks up my sleeve.{/i}"
 
 # game/UpdateScript0.02.rpy:820## # translate crowdin givesidneymoneyforcosplay_53a5049c:
-msgid "S "Hey [ryan], what can I do for you?"
-    S "Hey [ryan], what can I do for you?"
+msgid "[S] Hey [ryan], what can I do for you?"
+msgstr "[S] Hey [ryan], what can I do for you?"
 
 # game/UpdateScript0.02.rpy:821## # translate crowdin givesidneymoneyforcosplay_e2069dcd:
 msgid "[R] I've got the money for Lauren's cosplay outfit."
 msgstr "[R] I've got the money for Lauren's cosplay outfit."
 
 # game/UpdateScript0.02.rpy:824## # translate crowdin givesidneymoneyforcosplay_1a471edc:
-msgid "S "Are you sure? Aren't you supposed to be saving up to pay the DeCapos at the end of the week?"
-    S "Are you sure? Aren't you supposed to be saving up to pay the DeCapos at the end of the week?"
+msgid "[S] Are you sure? Aren't you supposed to be saving up to pay the DeCapos at the end of the week?"
+msgstr "[S] Are you sure? Aren't you supposed to be saving up to pay the DeCapos at the end of the week?"
 
 # game/UpdateScript0.02.rpy:827## # translate crowdin givesidneymoneyforcosplay_98c19aa7:
 msgid "[R] I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
@@ -1515,8 +1515,8 @@ msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:830## # translate crowdin givesidneymoneyforcosplay_a42a11cc:
-msgid "S "Good for you little brother! Keep it up and maybe we will be able to get along without Dad."
-    S "Good for you little brother! Keep it up and maybe we will be able to get along without Dad."
+msgid "[S] Good for you little brother! Keep it up and maybe we will be able to get along without Dad."
+msgstr "[S] Good for you little brother! Keep it up and maybe we will be able to get along without Dad."
 
 # game/UpdateScript0.02.rpy:831## # translate crowdin givesidneymoneyforcosplay_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
@@ -1527,8 +1527,8 @@ msgid "[R] Why should I be the one responsible to pay off the debt every week, M
 msgstr "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
 
 # game/UpdateScript0.02.rpy:835## # translate crowdin givesidneymoneyforcosplay_25d608c0:
-msgid "S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
-    S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
+msgid "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
+msgstr "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
 
 # game/UpdateScript0.02.rpy:836## # translate crowdin givesidneymoneyforcosplay_13b30cdc:
 msgid "[R] Oh please, our mom isn't in any danger."
@@ -1543,28 +1543,28 @@ msgid "[R] So, how long will it take to finish?"
 msgstr "[R] So, how long will it take to finish?"
 
 # game/UpdateScript0.02.rpy:845## # translate crowdin givesidneymoneyforcosplay_9c41c972:
-msgid "S "Give me a couple days and then I'll have it ready for fitting on Lauren."
-    S "Give me a couple days and then I'll have it ready for fitting on Lauren."
+msgid "[S] Give me a couple days and then I'll have it ready for fitting on Lauren."
+msgstr "[S] Give me a couple days and then I'll have it ready for fitting on Lauren."
 
 # game/UpdateScript0.02.rpy:847## # translate crowdin givesidneymoneyforcosplay_49b61397:
 msgid "[R] Awesome, I can't wait!"
 msgstr "[R] Awesome, I can't wait!"
 
 # game/UpdateScript0.02.rpy:850## # translate crowdin givesidneymoneyforcosplay_3300138e:
-msgid "S "Haha, I'll bet you can't."
-    S "Haha, I'll bet you can't."
+msgid "[S] Haha, I'll bet you can't."
+msgstr "[S] Haha, I'll bet you can't."
 
 # game/UpdateScript0.02.rpy:851## # translate crowdin givesidneymoneyforcosplay_0e82cd39:
 msgid "[R] What's that supposed to mean?"
 msgstr "[R] What's that supposed to mean?"
 
 # game/UpdateScript0.02.rpy:854## # translate crowdin givesidneymoneyforcosplay_9948524c:
-msgid "S "Oh, I think you know."
-    S "Oh, I think you know."
+msgid "[S] Oh, I think you know."
+msgstr "[S] Oh, I think you know."
 
 # game/UpdateScript0.02.rpy:855## # translate crowdin givesidneymoneyforcosplay_df01dfcc:
-msgid "S "I don't believe your motives are entirely altruistic."
-    S "I don't believe your motives are entirely altruistic."
+msgid "[S] I don't believe your motives are entirely altruistic."
+msgstr "[S] I don't believe your motives are entirely altruistic."
 
 # game/UpdateScript0.02.rpy:856## # translate crowdin givesidneymoneyforcosplay_bf87ec39:
 msgid "[RT] {i}She's flashing me again!{/i}"
@@ -1611,8 +1611,8 @@ msgid "[R] Why didn't you tell me the outfits were done?"
 msgstr "[R] Why didn't you tell me the outfits were done?"
 
 # game/UpdateScript0.02.rpy:875## # translate crowdin kitchencosplayfitting_d76846e9:
-msgid "S "I was going to get them all fitted and then come and find you."
-    S "I was going to get them all fitted and then come and find you."
+msgid "[S] I was going to get them all fitted and then come and find you."
+msgstr "[S] I was going to get them all fitted and then come and find you."
 
 # game/UpdateScript0.02.rpy:876## # translate crowdin kitchencosplayfitting_8795c0d6:
 msgid "[R] They look great!"
@@ -1623,8 +1623,8 @@ msgid "[L] Why do you care that our outfits are done?"
 msgstr "[L] Why do you care that our outfits are done?"
 
 # game/UpdateScript0.02.rpy:878## # translate crowdin kitchencosplayfitting_ac715182:
-msgid "S "Didn't [ryan] tell you, he's the one who paid for your outfit, Lauren."
-    S "Didn't [ryan] tell you, he's the one who paid for your outfit, Lauren."
+msgid "[S] Didn't [ryan] tell you, he's the one who paid for your outfit, Lauren."
+msgstr "[S] Didn't [ryan] tell you, he's the one who paid for your outfit, Lauren."
 
 # game/UpdateScript0.02.rpy:879## # translate crowdin kitchencosplayfitting_8b85503e:
 msgid "[L] Really? Why did you do that?"
@@ -1635,12 +1635,12 @@ msgid "[R] Because it's what Dad would have done."
 msgstr "[R] Because it's what Dad would have done."
 
 # game/UpdateScript0.02.rpy:881## # translate crowdin kitchencosplayfitting_0c9dd8fb:
-msgid "S "I think it's because he wanted to see your ass in it."
-    S "I think it's because he wanted to see your ass in it."
+msgid "[S] I think it's because he wanted to see your ass in it."
+msgstr "[S] I think it's because he wanted to see your ass in it."
 
 # game/UpdateScript0.02.rpy:884## # translate crowdin kitchencosplayfitting_8d6b2034:
-msgid "S "Hey don't move, I'm not done yet."
-    S "Hey don't move, I'm not done yet."
+msgid "[S] Hey don't move, I'm not done yet."
+msgstr "[S] Hey don't move, I'm not done yet."
 
 # game/UpdateScript0.02.rpy:885## # translate crowdin kitchencosplayfitting_b86b6d08:
 msgid "ST "{i}Wow, she really does have a great ass.{/i}"
@@ -1663,8 +1663,8 @@ msgid "[R] And even if she'd told me, Penny's outfit on the show doesn't quite s
 msgstr "[R] And even if she'd told me, Penny's outfit on the show doesn't quite show off her ass like that."
 
 # game/UpdateScript0.02.rpy:891## # translate crowdin kitchencosplayfitting_a6d94eb3:
-msgid "S "Ok, and all done."
-    S "Ok, and all done."
+msgid "[S] Ok, and all done."
+msgstr "[S] Ok, and all done."
 
 # game/UpdateScript0.02.rpy:894## # translate crowdin kitchencosplayfitting_b8ad242e:
 msgid "[L] Ok, so how does it look from the front?"
@@ -1675,12 +1675,12 @@ msgid "[R] Ummmm.... uuhh.... really great!"
 msgstr "[R] Ummmm.... uuhh.... really great!"
 
 # game/UpdateScript0.02.rpy:904## # translate crowdin kitchencosplayfitting_3b8d8dcc:
-msgid "S "Haha.... I can tell by your face that you love it."
-    S "Haha.... I can tell by your face that you love it."
+msgid "[S] Haha.... I can tell by your face that you love it."
+msgstr "[S] Haha.... I can tell by your face that you love it."
 
 # game/UpdateScript0.02.rpy:905## # translate crowdin kitchencosplayfitting_415a8b5b:
-msgid "S "And it's a good thing too. I've worked my ass off to get it ready for this convention."
-    S "And it's a good thing too. I've worked my ass off to get it ready for this convention."
+msgid "[S] And it's a good thing too. I've worked my ass off to get it ready for this convention."
+msgstr "[S] And it's a good thing too. I've worked my ass off to get it ready for this convention."
 
 # game/UpdateScript0.02.rpy:906## # translate crowdin kitchencosplayfitting_1253ab35:
 msgid "[L] I know.... thank you so much.... but we really need to get going. We've already missed a ton of it!"
@@ -1759,8 +1759,8 @@ msgid "[R] Really sexy, but Sidney should have made your shorts as revealing as 
 msgstr "[R] Really sexy, but Sidney should have made your shorts as revealing as Lauren's."
 
 # game/UpdateScript0.02.rpy:939## # translate crowdin kitchencosplayfitting_674f011e:
-msgid "S "Actually, those shorts are adjustable, they can be modified to show some cheeks."
-    S "Actually, those shorts are adjustable, they can be modified to show some cheeks."
+msgid "[S] Actually, those shorts are adjustable, they can be modified to show some cheeks."
+msgstr "[S] Actually, those shorts are adjustable, they can be modified to show some cheeks."
 
 # game/UpdateScript0.02.rpy:940## # translate crowdin kitchencosplayfitting_e676e659:
 msgid "[R] Oh awesome, let's see that!"
@@ -3371,40 +3371,40 @@ msgid "[M] What in the world?.... Sidney wake up! What are you doing in my room?
 msgstr "[M] What in the world?.... Sidney wake up! What are you doing in my room?"
 
 # game/UpdateScript0.02.rpy:2191## # translate crowdin mominbedwithsidney_337a0f87:
-msgid "S "Huh.... what's going on?"
-    S "Huh.... what's going on?"
+msgid "[S] Huh.... what's going on?"
+msgstr "[S] Huh.... what's going on?"
 
 # game/UpdateScript0.02.rpy:2192## # translate crowdin mominbedwithsidney_388cb1d2:
 msgid "[M] Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
 msgstr "[M] Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
 
 # game/UpdateScript0.02.rpy:2193## # translate crowdin mominbedwithsidney_8ca7f3c6:
-msgid "S "Oh, no! What did I do this time?"
-    S "Oh, no! What did I do this time?"
+msgid "[S] Oh, no! What did I do this time?"
+msgstr "[S] Oh, no! What did I do this time?"
 
 # game/UpdateScript0.02.rpy:2194## # translate crowdin mominbedwithsidney_fa6e718e:
 msgid "[M] You pulled my shirt down and pinched my nipple!"
 msgstr "[M] You pulled my shirt down and pinched my nipple!"
 
 # game/UpdateScript0.02.rpy:2195## # translate crowdin mominbedwithsidney_d9d2f789:
-msgid "S "Really? I did it again? Goddammit!"
-    S "Really? I did it again? Goddammit!"
+msgid "[S] Really? I did it again? Goddammit!"
+msgstr "[S] Really? I did it again? Goddammit!"
 
 # game/UpdateScript0.02.rpy:2196## # translate crowdin mominbedwithsidney_6d190f60:
 msgid "[M] Language, honey!"
 msgstr "[M] Language, honey!"
 
 # game/UpdateScript0.02.rpy:2197## # translate crowdin mominbedwithsidney_b4f4b4c6:
-msgid "S "Sorry..."
-    S "Sorry..."
+msgid "[S] Sorry..."
+msgstr "[S] Sorry..."
 
 # game/UpdateScript0.02.rpy:2198## # translate crowdin mominbedwithsidney_15efadcf:
 msgid "[M] I need you to go back out there and sleep on the couch."
 msgstr "[M] I need you to go back out there and sleep on the couch."
 
 # game/UpdateScript0.02.rpy:2199## # translate crowdin mominbedwithsidney_11de3744:
-msgid "S "But Mom, I heard creepy noises out there, and so did [ryan]!"
-    S "But Mom, I heard creepy noises out there, and so did [ryan]!"
+msgid "[S] But Mom, I heard creepy noises out there, and so did [ryan]!"
+msgstr "[S] But Mom, I heard creepy noises out there, and so did [ryan]!"
 
 # game/UpdateScript0.02.rpy:2202## # translate crowdin mominbedwithsidney_e179710b:
 msgid "[M] Oh, you're just imagining things. The doors and windows are locked. You're perfectly safe."
@@ -3415,8 +3415,8 @@ msgid "[M] Now, get out!"
 msgstr "[M] Now, get out!"
 
 # game/UpdateScript0.02.rpy:2204## # translate crowdin mominbedwithsidney_5d4cf589:
-msgid "S "But, Mom!"
-    S "But, Mom!"
+msgid "[S] But, Mom!"
+msgstr "[S] But, Mom!"
 
 # game/UpdateScript0.02.rpy:2205## # translate crowdin mominbedwithsidney_16a20e59:
 msgid "[M] Go!"

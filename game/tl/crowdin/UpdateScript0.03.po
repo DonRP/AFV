@@ -147,12 +147,12 @@ msgid "[R] Who in the hell?"
 msgstr "[R] Who in the hell?"
 
 # game/UpdateScript0.03.rpy:570## # translate crowdin diazvisit_5beee9ea:
-msgid "S "It's only six in the morning!"
-    S "It's only six in the morning!"
+msgid "[S] It's only six in the morning!"
+msgstr "[S] It's only six in the morning!"
 
 # game/UpdateScript0.03.rpy:571## # translate crowdin diazvisit_02e1ece4:
-msgid "S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-    S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
+msgid "[S] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
+msgstr "[S] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
 
 # game/UpdateScript0.03.rpy:572## # translate crowdin diazvisit_f21c2334:
 msgid "[RT] {i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
@@ -691,12 +691,12 @@ msgid "[R] Shit!.... I know who that is..."
 msgstr "[R] Shit!.... I know who that is..."
 
 # game/UpdateScript0.03.rpy:783## # translate crowdin diazvisit_5beee9ea_1:
-msgid "S "It's only six in the morning!"
-    S "It's only six in the morning!"
+msgid "[S] It's only six in the morning!"
+msgstr "[S] It's only six in the morning!"
 
 # game/UpdateScript0.03.rpy:784## # translate crowdin diazvisit_02e1ece4_1:
-msgid "S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-    S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
+msgid "[S] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
+msgstr "[S] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
 
 # game/UpdateScript0.03.rpy:785## # translate crowdin diazvisit_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
@@ -1291,20 +1291,20 @@ msgid "[M] Once again that's a creepy thing to buy your mother.... why don't you
 msgstr "[M] Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
 
 # game/UpdateScript0.03.rpy:1075## # translate crowdin commissionsecondoutfit_53a5049c:
-msgid "S "Hey [ryan], what can I do for you?"
-    S "Hey [ryan], what can I do for you?"
+msgid "[S] Hey [ryan], what can I do for you?"
+msgstr "[S] Hey [ryan], what can I do for you?"
 
 # game/UpdateScript0.03.rpy:1076## # translate crowdin commissionsecondoutfit_9e830674:
 msgid "[R] Nothing, just felt like talking with you."
 msgstr "[R] Nothing, just felt like talking with you."
 
 # game/UpdateScript0.03.rpy:1079## # translate crowdin commissionsecondoutfit_27e47e05:
-msgid "S "Sorry little brother, but right now I'm really busy trying to finish up some designs."
-    S "Sorry little brother, but right now I'm really busy trying to finish up some designs."
+msgid "[S] Sorry little brother, but right now I'm really busy trying to finish up some designs."
+msgstr "[S] Sorry little brother, but right now I'm really busy trying to finish up some designs."
 
 # game/UpdateScript0.03.rpy:1080## # translate crowdin commissionsecondoutfit_f2dd77c3:
-msgid "S "Come find me again when I'm not so busy."
-    S "Come find me again when I'm not so busy."
+msgid "[S] Come find me again when I'm not so busy."
+msgstr "[S] Come find me again when I'm not so busy."
 
 # game/UpdateScript0.03.rpy:1081## # translate crowdin commissionsecondoutfit_bf87ec39:
 msgid "[RT] {i}She's flashing me again!{/i}"
@@ -1323,32 +1323,32 @@ msgid "[R] Ok, I'll find you again soon."
 msgstr "[R] Ok, I'll find you again soon."
 
 # game/UpdateScript0.03.rpy:1093## # translate crowdin commissionsecondoutfit_53a5049c_1:
-msgid "S "Hey [ryan], what can I do for you?"
-    S "Hey [ryan], what can I do for you?"
+msgid "[S] Hey [ryan], what can I do for you?"
+msgstr "[S] Hey [ryan], what can I do for you?"
 
 # game/UpdateScript0.03.rpy:1094## # translate crowdin commissionsecondoutfit_630302f5:
 msgid "[R] I need you to make another cosplay outfit for Lauren."
 msgstr "[R] I need you to make another cosplay outfit for Lauren."
 
 # game/UpdateScript0.03.rpy:1097## # translate crowdin commissionsecondoutfit_25e54232:
-msgid "S "Really? There's not another convention for another 6 months. What's the occasion?"
-    S "Really? There's not another convention for another 6 months. What's the occasion?"
+msgid "[S] Really? There's not another convention for another 6 months. What's the occasion?"
+msgstr "[S] Really? There's not another convention for another 6 months. What's the occasion?"
 
 # game/UpdateScript0.03.rpy:1098## # translate crowdin commissionsecondoutfit_494c1fd5:
 msgid "[R] Lauren asked me to take pictures of her and Mandy in their outfits, and I posted them online."
 msgstr "[R] Lauren asked me to take pictures of her and Mandy in their outfits, and I posted them online."
 
 # game/UpdateScript0.03.rpy:1101## # translate crowdin commissionsecondoutfit_2df5f36d:
-msgid "S "That sounds rather pervy!"
-    S "That sounds rather pervy!"
+msgid "[S] That sounds rather pervy!"
+msgstr "[S] That sounds rather pervy!"
 
 # game/UpdateScript0.03.rpy:1102## # translate crowdin commissionsecondoutfit_ed61a154:
 msgid "[R] No.... they asked me to!"
 msgstr "[R] No.... they asked me to!"
 
 # game/UpdateScript0.03.rpy:1103## # translate crowdin commissionsecondoutfit_713f403f:
-msgid "S "Uh huh.... sure."
-    S "Uh huh.... sure."
+msgid "[S] Uh huh.... sure."
+msgstr "[S] Uh huh.... sure."
 
 # game/UpdateScript0.03.rpy:1104## # translate crowdin commissionsecondoutfit_c2fb0929:
 msgid "[R] Well anyways, their pictures got a ton of likes, and so sponsors are posting on their profile, and so basically, these pictures are making us a little money."
@@ -1363,72 +1363,72 @@ msgid "[R] They're offering more money if they don't wash them after wearing the
 msgstr "[R] They're offering more money if they don't wash them after wearing them for some reason."
 
 # game/UpdateScript0.03.rpy:1107## # translate crowdin commissionsecondoutfit_f95984d9:
-msgid "S "Uhhh.... that's because.... never mind."
-    S "Uhhh.... that's because.... never mind."
+msgid "[S] Uhhh.... that's because.... never mind."
+msgstr "[S] Uhhh.... that's because.... never mind."
 
 # game/UpdateScript0.03.rpy:1108## # translate crowdin commissionsecondoutfit_781ec2a0:
 msgid "[RT] {i}Haha.... she thinks I really don't know.{/i}"
 msgstr "[RT] {i}Haha.... she thinks I really don't know.{/i}"
 
 # game/UpdateScript0.03.rpy:1111## # translate crowdin commissionsecondoutfit_d455752f:
-msgid "S "And obviously Lauren and Mandy are happy because they are getting attention online."
-    S "And obviously Lauren and Mandy are happy because they are getting attention online."
+msgid "[S] And obviously Lauren and Mandy are happy because they are getting attention online."
+msgstr "[S] And obviously Lauren and Mandy are happy because they are getting attention online."
 
 # game/UpdateScript0.03.rpy:1112## # translate crowdin commissionsecondoutfit_9b5ff321:
 msgid "[R] Yep, they're on their way to achieving their dreams of getting internet famous."
 msgstr "[R] Yep, they're on their way to achieving their dreams of getting internet famous."
 
 # game/UpdateScript0.03.rpy:1115## # translate crowdin commissionsecondoutfit_77e8b877:
-msgid "S "Hahah..."
-    S "Hahah..."
+msgid "[S] Hahah..."
+msgstr "[S] Hahah..."
 
 # game/UpdateScript0.03.rpy:1116## # translate crowdin commissionsecondoutfit_6598779c:
-msgid "S "And how much are you paying them?"
-    S "And how much are you paying them?"
+msgid "[S] And how much are you paying them?"
+msgstr "[S] And how much are you paying them?"
 
 # game/UpdateScript0.03.rpy:1117## # translate crowdin commissionsecondoutfit_c010bcc1:
 msgid "[R] I'm not. All the money is going to pay Mom's Mafia debt each week."
 msgstr "[R] I'm not. All the money is going to pay Mom's Mafia debt each week."
 
 # game/UpdateScript0.03.rpy:1120## # translate crowdin commissionsecondoutfit_3158159c:
-msgid "S "Does Mom know about this money?"
-    S "Does Mom know about this money?"
+msgid "[S] Does Mom know about this money?"
+msgstr "[S] Does Mom know about this money?"
 
 # game/UpdateScript0.03.rpy:1121## # translate crowdin commissionsecondoutfit_6a183bc8:
 msgid "[R] Not yet, but don't tell her. I don't want to get her hopes up until we are doing better."
 msgstr "[R] Not yet, but don't tell her. I don't want to get her hopes up until we are doing better."
 
 # game/UpdateScript0.03.rpy:1122## # translate crowdin commissionsecondoutfit_04aea389:
-msgid "S "More like you don't want Mom to shut you down when she realizes you're posting sexy pictures of her daughter online."
-    S "More like you don't want Mom to shut you down when she realizes you're posting sexy pictures of her daughter online."
+msgid "[S] More like you don't want Mom to shut you down when she realizes you're posting sexy pictures of her daughter online."
+msgstr "[S] More like you don't want Mom to shut you down when she realizes you're posting sexy pictures of her daughter online."
 
 # game/UpdateScript0.03.rpy:1123## # translate crowdin commissionsecondoutfit_7ab08fdb:
 msgid "[R] Lauren is legally an adult. She can make that decision for herself."
 msgstr "[R] Lauren is legally an adult. She can make that decision for herself."
 
 # game/UpdateScript0.03.rpy:1124## # translate crowdin commissionsecondoutfit_aead51b7:
-msgid "S "Ok, well sounds like you know what you're doing, and as long as I get paid, you can do whatever you want with these outfits."
-    S "Ok, well sounds like you know what you're doing, and as long as I get paid, you can do whatever you want with these outfits."
+msgid "[S] Ok, well sounds like you know what you're doing, and as long as I get paid, you can do whatever you want with these outfits."
+msgstr "[S] Ok, well sounds like you know what you're doing, and as long as I get paid, you can do whatever you want with these outfits."
 
 # game/UpdateScript0.03.rpy:1125## # translate crowdin commissionsecondoutfit_e1ccf503:
-msgid "S "I'll charge you my standard rate."
-    S "I'll charge you my standard rate."
+msgid "[S] I'll charge you my standard rate."
+msgstr "[S] I'll charge you my standard rate."
 
 # game/UpdateScript0.03.rpy:1126## # translate crowdin commissionsecondoutfit_c05f5686:
-msgid "S "And what cosplay do you want?"
-    S "And what cosplay do you want?"
+msgid "[S] And what cosplay do you want?"
+msgstr "[S] And what cosplay do you want?"
 
 # game/UpdateScript0.03.rpy:1127## # translate crowdin commissionsecondoutfit_04c179bb:
 msgid "[R] I'll let you and Lauren work that out.... but it needs to be sexy!"
 msgstr "[R] I'll let you and Lauren work that out.... but it needs to be sexy!"
 
 # game/UpdateScript0.03.rpy:1128## # translate crowdin commissionsecondoutfit_56b422f2:
-msgid "S "Ok..."
-    S "Ok..."
+msgid "[S] Ok..."
+msgstr "[S] Ok..."
 
 # game/UpdateScript0.03.rpy:1129## # translate crowdin commissionsecondoutfit_8b37b799:
-msgid "S "Oh, and you'll still be able to pay Mom's Mafia debt this week?"
-    S "Oh, and you'll still be able to pay Mom's Mafia debt this week?"
+msgid "[S] Oh, and you'll still be able to pay Mom's Mafia debt this week?"
+msgstr "[S] Oh, and you'll still be able to pay Mom's Mafia debt this week?"
 
 # game/UpdateScript0.03.rpy:1132## # translate crowdin commissionsecondoutfit_98c19aa7:
 msgid "[R] I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
@@ -1439,8 +1439,8 @@ msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1135## # translate crowdin commissionsecondoutfit_bfd8516a:
-msgid "S "Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
-    S "Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
+msgid "[S] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
+msgstr "[S] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
 
 # game/UpdateScript0.03.rpy:1136## # translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
@@ -1451,8 +1451,8 @@ msgid "[R] Why should I be the one responsible to pay off the debt every week, M
 msgstr "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
 
 # game/UpdateScript0.03.rpy:1140## # translate crowdin commissionsecondoutfit_25d608c0:
-msgid "S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
-    S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
+msgid "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
+msgstr "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
 
 # game/UpdateScript0.03.rpy:1141## # translate crowdin commissionsecondoutfit_81c09fc9:
 msgid "[R] Oh please, Mom's not in any danger."
@@ -1467,28 +1467,28 @@ msgid "[R] So, how long will it take to finish?"
 msgstr "[R] So, how long will it take to finish?"
 
 # game/UpdateScript0.03.rpy:1150## # translate crowdin commissionsecondoutfit_9c41c972:
-msgid "S "Give me a couple days and then I'll have it ready for fitting on Lauren."
-    S "Give me a couple days and then I'll have it ready for fitting on Lauren."
+msgid "[S] Give me a couple days and then I'll have it ready for fitting on Lauren."
+msgstr "[S] Give me a couple days and then I'll have it ready for fitting on Lauren."
 
 # game/UpdateScript0.03.rpy:1152## # translate crowdin commissionsecondoutfit_49b61397:
 msgid "[R] Awesome, I can't wait!"
 msgstr "[R] Awesome, I can't wait!"
 
 # game/UpdateScript0.03.rpy:1155## # translate crowdin commissionsecondoutfit_3300138e:
-msgid "S "Haha, I'll bet you can't."
-    S "Haha, I'll bet you can't."
+msgid "[S] Haha, I'll bet you can't."
+msgstr "[S] Haha, I'll bet you can't."
 
 # game/UpdateScript0.03.rpy:1156## # translate crowdin commissionsecondoutfit_0e82cd39:
 msgid "[R] What's that supposed to mean?"
 msgstr "[R] What's that supposed to mean?"
 
 # game/UpdateScript0.03.rpy:1159## # translate crowdin commissionsecondoutfit_9948524c:
-msgid "S "Oh, I think you know."
-    S "Oh, I think you know."
+msgid "[S] Oh, I think you know."
+msgstr "[S] Oh, I think you know."
 
 # game/UpdateScript0.03.rpy:1160## # translate crowdin commissionsecondoutfit_96c31d7d:
-msgid "S "I think you're enjoying more than the money from this little venture."
-    S "I think you're enjoying more than the money from this little venture."
+msgid "[S] I think you're enjoying more than the money from this little venture."
+msgstr "[S] I think you're enjoying more than the money from this little venture."
 
 # game/UpdateScript0.03.rpy:1161## # translate crowdin commissionsecondoutfit_bf87ec39_1:
 msgid "[RT] {i}She's flashing me again!{/i}"
@@ -1523,36 +1523,36 @@ msgid "[R] Yeah, but isn't that character a little young to be doing a sexy cosp
 msgstr "[R] Yeah, but isn't that character a little young to be doing a sexy cosplay of her?"
 
 # game/UpdateScript0.03.rpy:1184## # translate crowdin secondcosplayfitting_6280fd03:
-msgid "S "That's only in the first two movies, in the third movie Arsetrid is old enough that it shouldn't be weird."
-    S "That's only in the first two movies, in the third movie Arsetrid is old enough that it shouldn't be weird."
+msgid "[S] That's only in the first two movies, in the third movie Arsetrid is old enough that it shouldn't be weird."
+msgstr "[S] That's only in the first two movies, in the third movie Arsetrid is old enough that it shouldn't be weird."
 
 # game/UpdateScript0.03.rpy:1185## # translate crowdin secondcosplayfitting_d324678d:
 msgid "[R] You sure know a lot about a kids movie series for a girl in college."
 msgstr "[R] You sure know a lot about a kids movie series for a girl in college."
 
 # game/UpdateScript0.03.rpy:1188## # translate crowdin secondcosplayfitting_6f915ce7:
-msgid "S "Oh, haha.... I'll have you know that almost half the audience of these animated movies are adults."
-    S "Oh, haha.... I'll have you know that almost half the audience of these animated movies are adults."
+msgid "[S] Oh, haha.... I'll have you know that almost half the audience of these animated movies are adults."
+msgstr "[S] Oh, haha.... I'll have you know that almost half the audience of these animated movies are adults."
 
 # game/UpdateScript0.03.rpy:1189## # translate crowdin secondcosplayfitting_551269e3:
 msgid "[R] Or are you just bumping the statistics by watching it over and over and over?"
 msgstr "[R] Or are you just bumping the statistics by watching it over and over and over?"
 
 # game/UpdateScript0.03.rpy:1190## # translate crowdin secondcosplayfitting_971a98df:
-msgid "S "..."
-    S "..."
+msgid "[S] ..."
+msgstr "[S] ..."
 
 # game/UpdateScript0.03.rpy:1191## # translate crowdin secondcosplayfitting_ce9c3fd8:
 msgid "[R] Ok then.... how close is it to being ready?"
 msgstr "[R] Ok then.... how close is it to being ready?"
 
 # game/UpdateScript0.03.rpy:1194## # translate crowdin secondcosplayfitting_1a55bd80:
-msgid "S "Hmmm.... I'll have all the sizing done for the adjustments in about 10 minutes, and then I'll finish up all the sewing late tonight."
-    S "Hmmm.... I'll have all the sizing done for the adjustments in about 10 minutes, and then I'll finish up all the sewing late tonight."
+msgid "[S] Hmmm.... I'll have all the sizing done for the adjustments in about 10 minutes, and then I'll finish up all the sewing late tonight."
+msgstr "[S] Hmmm.... I'll have all the sizing done for the adjustments in about 10 minutes, and then I'll finish up all the sewing late tonight."
 
 # game/UpdateScript0.03.rpy:1195## # translate crowdin secondcosplayfitting_e5cd7b66:
-msgid "S "So, you can probably take it anytime tomorrow."
-    S "So, you can probably take it anytime tomorrow."
+msgid "[S] So, you can probably take it anytime tomorrow."
+msgstr "[S] So, you can probably take it anytime tomorrow."
 
 # game/UpdateScript0.03.rpy:1198## # translate crowdin secondcosplayfitting_827b36b7:
 msgid "[R] Nice! Does tomorrow work for you Lauren?"
@@ -1603,24 +1603,24 @@ msgid "[R] So, Sidney?"
 msgstr "[R] So, Sidney?"
 
 # game/UpdateScript0.03.rpy:1210## # translate crowdin secondcosplayfitting_f3f04389:
-msgid "S "Yeah?"
-    S "Yeah?"
+msgid "[S] Yeah?"
+msgstr "[S] Yeah?"
 
 # game/UpdateScript0.03.rpy:1211## # translate crowdin secondcosplayfitting_e56c6f41:
 msgid "[R] How easy is it to make adjustments to this outfit?"
 msgstr "[R] How easy is it to make adjustments to this outfit?"
 
 # game/UpdateScript0.03.rpy:1212## # translate crowdin secondcosplayfitting_73635b59:
-msgid "S "Do you mean how easy is it to strip this down into a skimpy whore outfit?"
-    S "Do you mean how easy is it to strip this down into a skimpy whore outfit?"
+msgid "[S] Do you mean how easy is it to strip this down into a skimpy whore outfit?"
+msgstr "[S] Do you mean how easy is it to strip this down into a skimpy whore outfit?"
 
 # game/UpdateScript0.03.rpy:1213## # translate crowdin secondcosplayfitting_8d8b6106:
 msgid "[R] .... Basically.... yeah..."
 msgstr "[R] .... Basically.... yeah..."
 
 # game/UpdateScript0.03.rpy:1216## # translate crowdin secondcosplayfitting_0f0cc50a:
-msgid "S "Don't forget that it's your little sister you're taking pictures of please!"
-    S "Don't forget that it's your little sister you're taking pictures of please!"
+msgid "[S] Don't forget that it's your little sister you're taking pictures of please!"
+msgstr "[S] Don't forget that it's your little sister you're taking pictures of please!"
 
 # game/UpdateScript0.03.rpy:1218## # translate crowdin secondcosplayfitting_8214c44c:
 msgid "[RT] {i}Says the girl jerking off her brother when she thinks he's sleeping.{/i}"
@@ -1631,8 +1631,8 @@ msgid "[R] Yeah, yeah.... I'll have you know I'm very respectful. I'm basically 
 msgstr "[R] Yeah, yeah.... I'll have you know I'm very respectful. I'm basically a feminist. This has been all Lauren's idea, and I'm just trying to help her feel empowered."
 
 # game/UpdateScript0.03.rpy:1220## # translate crowdin secondcosplayfitting_0374442e:
-msgid "S "{i}(sarcastically){/i} Wow!.... What a champion of women's rights!"
-    S "{i}(sarcastically){/i} Wow!.... What a champion of women's rights!"
+msgid "[S] {i}(sarcastically){/i} Wow!.... What a champion of women's rights!"
+msgstr "[S] {i}(sarcastically){/i} Wow!.... What a champion of women's rights!"
 
 # game/UpdateScript0.03.rpy:1221## # translate crowdin secondcosplayfitting_cd107386:
 msgid "[L] Hahah..."

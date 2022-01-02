@@ -583,8 +583,8 @@ msgid "[M] Oh, my day was fine. Did you finish the extra homework on Oedipus I g
 msgstr "[M] Oh, my day was fine. Did you finish the extra homework on Oedipus I gave you___"
 
 # game/script.rpy:1597## # translate crowdin sleep_287d118c:
-msgid "S "AAHHAAHHAHHHEMMMMM..."
-    S "AAHHAAHHAHHHEMMMMM..."
+msgid "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:1600## # translate crowdin sleep_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -595,8 +595,8 @@ msgid "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like
 msgstr "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
 
 # game/script.rpy:1603## # translate crowdin sleep_287d118c_1:
-msgid "S "AAHHAAHHAHHHEMMMMM..."
-    S "AAHHAAHHAHHHEMMMMM..."
+msgid "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:1622## # translate crowdin sleep_9746c724:
 msgid "[RT] {i}I hope Lauren was ok on her own, I should just go check on her before I go to bed.{/i}"
@@ -2531,8 +2531,8 @@ msgid "[M] Oh, my day was fine. How did you think my lesson on Oedipu___"
 msgstr "[M] Oh, my day was fine. How did you think my lesson on Oedipu___"
 
 # game/script.rpy:4044## # translate crowdin sidneycomeshome_287d118c:
-msgid "S "AAHHAAHHAHHHEMMMMM..."
-    S "AAHHAAHHAHHHEMMMMM..."
+msgid "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:4047## # translate crowdin sidneycomeshome_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2543,8 +2543,8 @@ msgid "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like
 msgstr "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
 
 # game/script.rpy:4050## # translate crowdin sidneycomeshome_287d118c_1:
-msgid "S "AAHHAAHHAHHHEMMMMM..."
-    S "AAHHAAHHAHHHEMMMMM..."
+msgid "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:4057## # translate crowdin sidneyenters_69bd6c2a:
 msgid "[M] Oh my God, look everyone, Sidney is home!"
@@ -2559,16 +2559,16 @@ msgid "[M] How's everything going at school?"
 msgstr "[M] How's everything going at school?"
 
 # game/script.rpy:4062## # translate crowdin sidneyenters_dfa5726b:
-msgid "S "How's everything going at school?"
-    S "How's everything going at school?"
+msgid "[S] How's everything going at school?"
+msgstr "[S] How's everything going at school?"
 
 # game/script.rpy:4063## # translate crowdin sidneyenters_3e09f216:
-msgid "S "How's everything going at school!!!?"
-    S "How's everything going at school!!!?"
+msgid "[S] How's everything going at school!!!?"
+msgstr "[S] How's everything going at school!!!?"
 
 # game/script.rpy:4064## # translate crowdin sidneyenters_53fb7bcb:
-msgid "S "If you'd answer your phone you would know how everything is going at school!"
-    S "If you'd answer your phone you would know how everything is going at school!"
+msgid "[S] If you'd answer your phone you would know how everything is going at school!"
+msgstr "[S] If you'd answer your phone you would know how everything is going at school!"
 
 # game/script.rpy:4065## # translate crowdin sidneyenters_80cb932b:
 msgid "[M] I'm sorry honey, but I've been a little indisposed!"
@@ -2583,8 +2583,8 @@ msgid "[R] {i}(whispers){/i} Lauren, shut up!"
 msgstr "[R] {i}(whispers){/i} Lauren, shut up!"
 
 # game/script.rpy:4068## # translate crowdin sidneyenters_abf50906:
-msgid "S "And what about you Lauren? Why did you keep ignoring my calls?"
-    S "And what about you Lauren? Why did you keep ignoring my calls?"
+msgid "[S] And what about you Lauren? Why did you keep ignoring my calls?"
+msgstr "[S] And what about you Lauren? Why did you keep ignoring my calls?"
 
 # game/script.rpy:4069## # translate crowdin sidneyenters_83bdf0ff:
 msgid "[L] My friend Brittney has been going through a messy breakup and has needed my support!"
@@ -2595,16 +2595,16 @@ msgid "[L] I haven't exactly had time to have any long converstations with anyon
 msgstr "[L] I haven't exactly had time to have any long converstations with anyone else."
 
 # game/script.rpy:4071## # translate crowdin sidneyenters_a3b553f9:
-msgid "S "Long conversations!? I just needed you to get Mom for me!"
-    S "Long conversations!? I just needed you to get Mom for me!"
+msgid "[S] Long conversations!? I just needed you to get Mom for me!"
+msgstr "[S] Long conversations!? I just needed you to get Mom for me!"
 
 # game/script.rpy:4072## # translate crowdin sidneyenters_71d70d32:
 msgid "[R] You could have called me."
 msgstr "[R] You could have called me."
 
 # game/script.rpy:4073## # translate crowdin sidneyenters_e0a524df:
-msgid "S "I never call you. I don't even think I have your number!"
-    S "I never call you. I don't even think I have your number!"
+msgid "[S] I never call you. I don't even think I have your number!"
+msgstr "[S] I never call you. I don't even think I have your number!"
 
 # game/script.rpy:4074## # translate crowdin sidneyenters_e4c8e9ae:
 msgid "[RT] {i}Ouch.... {/i}"
@@ -2615,36 +2615,36 @@ msgid "[M] Honey! Please just sit and try to calm down. Then you can tell us wha
 msgstr "[M] Honey! Please just sit and try to calm down. Then you can tell us what's wrong."
 
 # game/script.rpy:4078## # translate crowdin sidneyenters_eaa0af85:
-msgid "S "I've been kicked out of school!"
-    S "I've been kicked out of school!"
+msgid "[S] I've been kicked out of school!"
+msgstr "[S] I've been kicked out of school!"
 
 # game/script.rpy:4079## # translate crowdin sidneyenters_d8bf5ca9:
 msgid "[M] What?"
 msgstr "[M] What?"
 
 # game/script.rpy:4080## # translate crowdin sidneyenters_095eb3d9:
-msgid "S "They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
-    S "They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
+msgid "[S] They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
+msgstr "[S] They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
 
 # game/script.rpy:4081## # translate crowdin sidneyenters_ff118139:
-msgid "S "They kicked me out of the dorm, took away my meal plan."
-    S "They kicked me out of the dorm, took away my meal plan."
+msgid "[S] They kicked me out of the dorm, took away my meal plan."
+msgstr "[S] They kicked me out of the dorm, took away my meal plan."
 
 # game/script.rpy:4082## # translate crowdin sidneyenters_6b1513d1:
-msgid "S "It was soooo embarassing!"
-    S "It was soooo embarassing!"
+msgid "[S] It was soooo embarassing!"
+msgstr "[S] It was soooo embarassing!"
 
 # game/script.rpy:4083## # translate crowdin sidneyenters_b8b4ebc5:
-msgid "S "So, I tried to call Dad because he takes care of my tuition and housing."
-    S "So, I tried to call Dad because he takes care of my tuition and housing."
+msgid "[S] So, I tried to call Dad because he takes care of my tuition and housing."
+msgstr "[S] So, I tried to call Dad because he takes care of my tuition and housing."
 
 # game/script.rpy:4084## # translate crowdin sidneyenters_12ce0aa8:
-msgid "S "But all I get when I call Dad is a message that his phone's been disconnected.!"
-    S "But all I get when I call Dad is a message that his phone's been disconnected.!"
+msgid "[S] But all I get when I call Dad is a message that his phone's been disconnected.!"
+msgstr "[S] But all I get when I call Dad is a message that his phone's been disconnected.!"
 
 # game/script.rpy:4085## # translate crowdin sidneyenters_565f325e:
-msgid "S "Mom? Where's Dad and why can't I get a hold of him?"
-    S "Mom? Where's Dad and why can't I get a hold of him?"
+msgid "[S] Mom? Where's Dad and why can't I get a hold of him?"
+msgstr "[S] Mom? Where's Dad and why can't I get a hold of him?"
 
 # game/script.rpy:4088## # translate crowdin sidneyenters_7f9b9fdc:
 msgid "Mom tells Sidney about the events that took place over the weekend."
@@ -2655,8 +2655,8 @@ msgid "10 minutes later."
 msgstr "10 minutes later."
 
 # game/script.rpy:4092## # translate crowdin sidneyenters_072c65cc:
-msgid "S "Wow! That is unbelievable! It sounds like a bad plotline for a crappy Mafia movie, or a bad computer game!"
-    S "Wow! That is unbelievable! It sounds like a bad plotline for a crappy Mafia movie, or a bad computer game!"
+msgid "[S] Wow! That is unbelievable! It sounds like a bad plotline for a crappy Mafia movie, or a bad computer game!"
+msgstr "[S] Wow! That is unbelievable! It sounds like a bad plotline for a crappy Mafia movie, or a bad computer game!"
 
 # game/script.rpy:4093## # translate crowdin sidneyenters_7c84bc24:
 msgid "[M] Oh yes!"
@@ -2671,8 +2671,8 @@ msgid "[R] The worst!"
 msgstr "[R] The worst!"
 
 # game/script.rpy:4096## # translate crowdin sidneyenters_ff85265e:
-msgid "S "So would it help if I came and served drinks with you at your weekend Mafia jo..."
-    S "So would it help if I came and served drinks with you at your weekend Mafia jo..."
+msgid "[S] So would it help if I came and served drinks with you at your weekend Mafia jo..."
+msgstr "[S] So would it help if I came and served drinks with you at your weekend Mafia jo..."
 
 # game/script.rpy:4097## # translate crowdin sidneyenters_e58e04c6:
 msgid "[M] NOOO!.... No no.... no.... thank you. I don't want my girls around the Mafia type men."
@@ -2711,8 +2711,8 @@ msgid "[M] [ryan]! Language! Please!"
 msgstr "[M] [ryan]! Language! Please!"
 
 # game/script.rpy:4108## # translate crowdin sidneyenters_ca7862cc:
-msgid "S "So can I have my old bedroom back?"
-    S "So can I have my old bedroom back?"
+msgid "[S] So can I have my old bedroom back?"
+msgstr "[S] So can I have my old bedroom back?"
 
 # game/script.rpy:4109## # translate crowdin sidneyenters_376c40e4:
 msgid "[L] You mean my bedroom? No way! I'm not moving back in with [ryan], we're too old now. Plus I think [ryan] is kind of a pervert."
@@ -2783,40 +2783,40 @@ msgid "[RT] {i}Now I just wait for tonight to see how well it works.{/i}"
 msgstr "[RT] {i}Now I just wait for tonight to see how well it works.{/i}"
 
 # game/script.rpy:4156## # translate crowdin sidneyinthekitchen_0e7867d6:
-msgid "S "What do you want pervert?"
-    S "What do you want pervert?"
+msgid "[S] What do you want pervert?"
+msgstr "[S] What do you want pervert?"
 
 # game/script.rpy:4157## # translate crowdin sidneyinthekitchen_b5015d3a:
 msgid "[R] I just wanted to talk with you."
 msgstr "[R] I just wanted to talk with you."
 
 # game/script.rpy:4160## # translate crowdin sidneyinthekitchen_b7c68a54:
-msgid "S "Yeah, well besides me being extremely busy, I'm also still pretty pissed off at you."
-    S "Yeah, well besides me being extremely busy, I'm also still pretty pissed off at you."
+msgid "[S] Yeah, well besides me being extremely busy, I'm also still pretty pissed off at you."
+msgstr "[S] Yeah, well besides me being extremely busy, I'm also still pretty pissed off at you."
 
 # game/script.rpy:4161## # translate crowdin sidneyinthekitchen_cb411831:
-msgid "S "So why don't you just go piss up a rope."
-    S "So why don't you just go piss up a rope."
+msgid "[S] So why don't you just go piss up a rope."
+msgstr "[S] So why don't you just go piss up a rope."
 
 # game/script.rpy:4162## # translate crowdin sidneyinthekitchen_d4dadd47:
 msgid "[R] Ok, fine I'm leaving."
 msgstr "[R] Ok, fine I'm leaving."
 
 # game/script.rpy:4163## # translate crowdin sidneyinthekitchen_b336c7f9:
-msgid "S "Not soon enough!"
-    S "Not soon enough!"
+msgid "[S] Not soon enough!"
+msgstr "[S] Not soon enough!"
 
 # game/script.rpy:4191## # translate crowdin sidneyinthekitchen_dba92fde:
 msgid "[R] Hey Sidney, what's up?"
 msgstr "[R] Hey Sidney, what's up?"
 
 # game/script.rpy:4192## # translate crowdin sidneyinthekitchen_69b81ca8:
-msgid "S "Just a second, let me just finish this up.... and.... done."
-    S "Just a second, let me just finish this up.... and.... done."
+msgid "[S] Just a second, let me just finish this up.... and.... done."
+msgstr "[S] Just a second, let me just finish this up.... and.... done."
 
 # game/script.rpy:4195## # translate crowdin sidneyinthekitchen_2009bfdb:
-msgid "S "What can I do for you?"
-    S "What can I do for you?"
+msgid "[S] What can I do for you?"
+msgstr "[S] What can I do for you?"
 
 # game/script.rpy:4196## # translate crowdin sidneyinthekitchen_415f59eb:
 msgid "[RT] {i}Oh, shit.... I can see up her skirt.... {/i}"
@@ -2827,48 +2827,48 @@ msgid "[R] Oh, nothing, just wondering what you're up to."
 msgstr "[R] Oh, nothing, just wondering what you're up to."
 
 # game/script.rpy:4200## # translate crowdin sidneyinthekitchen_caa88a4b:
-msgid "S "Oh, I'm just finishing up some design work for a cosplay outfit I was going to make for Lauren."
-    S "Oh, I'm just finishing up some design work for a cosplay outfit I was going to make for Lauren."
+msgid "[S] Oh, I'm just finishing up some design work for a cosplay outfit I was going to make for Lauren."
+msgstr "[S] Oh, I'm just finishing up some design work for a cosplay outfit I was going to make for Lauren."
 
 # game/script.rpy:4201## # translate crowdin sidneyinthekitchen_8a99576f:
 msgid "[R] Cosplay?.... I didn't know Lauren was into that."
 msgstr "[R] Cosplay?.... I didn't know Lauren was into that."
 
 # game/script.rpy:4202## # translate crowdin sidneyinthekitchen_1bf94f3a:
-msgid "S "I don't think she is, but our cousin Mandy asked her to go to the Comic-Con Expo, and begged her to dress in cosplay with her."
-    S "I don't think she is, but our cousin Mandy asked her to go to the Comic-Con Expo, and begged her to dress in cosplay with her."
+msgid "[S] I don't think she is, but our cousin Mandy asked her to go to the Comic-Con Expo, and begged her to dress in cosplay with her."
+msgstr "[S] I don't think she is, but our cousin Mandy asked her to go to the Comic-Con Expo, and begged her to dress in cosplay with her."
 
 # game/script.rpy:4203## # translate crowdin sidneyinthekitchen_bd1b1d93:
 msgid "[R] I didn't know you knew how to make cosplay costumes."
 msgstr "[R] I didn't know you knew how to make cosplay costumes."
 
 # game/script.rpy:4206## # translate crowdin sidneyinthekitchen_c9db4094:
-msgid "S "Well, what do you think I've been doing at college dipshit!"
-    S "Well, what do you think I've been doing at college dipshit!"
+msgid "[S] Well, what do you think I've been doing at college dipshit!"
+msgstr "[S] Well, what do you think I've been doing at college dipshit!"
 
 # game/script.rpy:4207## # translate crowdin sidneyinthekitchen_13d86269:
 msgid "[R] I don't know, like fancy dresses and shit."
 msgstr "[R] I don't know, like fancy dresses and shit."
 
 # game/script.rpy:4210## # translate crowdin sidneyinthekitchen_51134b3f:
-msgid "S "Well, I have been doing that too, but I've also been studying all forms of fashion."
-    S "Well, I have been doing that too, but I've also been studying all forms of fashion."
+msgid "[S] Well, I have been doing that too, but I've also been studying all forms of fashion."
+msgstr "[S] Well, I have been doing that too, but I've also been studying all forms of fashion."
 
 # game/script.rpy:4211## # translate crowdin sidneyinthekitchen_09fbdd56:
-msgid "S "Designing some cosplay outfits isn't anything too out there, considering how far out some of the avant-garde styles can be."
-    S "Designing some cosplay outfits isn't anything too out there, considering how far out some of the avant-garde styles can be."
+msgid "[S] Designing some cosplay outfits isn't anything too out there, considering how far out some of the avant-garde styles can be."
+msgstr "[S] Designing some cosplay outfits isn't anything too out there, considering how far out some of the avant-garde styles can be."
 
 # game/script.rpy:4212## # translate crowdin sidneyinthekitchen_fed602a0:
 msgid "[R] I don't know what that means."
 msgstr "[R] I don't know what that means."
 
 # game/script.rpy:4213## # translate crowdin sidneyinthekitchen_6310c45e:
-msgid "S "Avant-garde is just fashion that is meant to push boundaries, or just be outside of the norm."
-    S "Avant-garde is just fashion that is meant to push boundaries, or just be outside of the norm."
+msgid "[S] Avant-garde is just fashion that is meant to push boundaries, or just be outside of the norm."
+msgstr "[S] Avant-garde is just fashion that is meant to push boundaries, or just be outside of the norm."
 
 # game/script.rpy:4214## # translate crowdin sidneyinthekitchen_9a0d6d02:
-msgid "S "You know like hmmm.... like the stuff Mugatu wears on the movie Zoolander?"
-    S "You know like hmmm.... like the stuff Mugatu wears on the movie Zoolander?"
+msgid "[S] You know like hmmm.... like the stuff Mugatu wears on the movie Zoolander?"
+msgstr "[S] You know like hmmm.... like the stuff Mugatu wears on the movie Zoolander?"
 
 # game/script.rpy:4215## # translate crowdin sidneyinthekitchen_cc1538af:
 msgid "[R] Oh right gotcha..."
@@ -2887,24 +2887,24 @@ msgid "[RT] {i}Wow! That was awesome! I don't think she noticed.{/i}"
 msgstr "[RT] {i}Wow! That was awesome! I don't think she noticed.{/i}"
 
 # game/script.rpy:4239## # translate crowdin sidneyinthekitchen_f8bade31:
-msgid "S "I'm still working on Lauren's costume. Try back again tomorrow, maybe I'll be done by then."
-    S "I'm still working on Lauren's costume. Try back again tomorrow, maybe I'll be done by then."
+msgid "[S] I'm still working on Lauren's costume. Try back again tomorrow, maybe I'll be done by then."
+msgstr "[S] I'm still working on Lauren's costume. Try back again tomorrow, maybe I'll be done by then."
 
 # game/script.rpy:4251## # translate crowdin sidneyinthekitchen_53a5049c:
-msgid "S "Hey [ryan], what can I do for you?"
-    S "Hey [ryan], what can I do for you?"
+msgid "[S] Hey [ryan], what can I do for you?"
+msgstr "[S] Hey [ryan], what can I do for you?"
 
 # game/script.rpy:4252## # translate crowdin sidneyinthekitchen_9e830674:
 msgid "[R] Nothing, just felt like talking with you."
 msgstr "[R] Nothing, just felt like talking with you."
 
 # game/script.rpy:4259## # translate crowdin sidneyinthekitchen_27e47e05:
-msgid "S "Sorry little brother, but right now I'm really busy trying to finish up some designs."
-    S "Sorry little brother, but right now I'm really busy trying to finish up some designs."
+msgid "[S] Sorry little brother, but right now I'm really busy trying to finish up some designs."
+msgstr "[S] Sorry little brother, but right now I'm really busy trying to finish up some designs."
 
 # game/script.rpy:4260## # translate crowdin sidneyinthekitchen_f2dd77c3:
-msgid "S "Come find me again when I'm not so busy."
-    S "Come find me again when I'm not so busy."
+msgid "[S] Come find me again when I'm not so busy."
+msgstr "[S] Come find me again when I'm not so busy."
 
 # game/script.rpy:4262## # translate crowdin sidneyinthekitchen_865116b8:
 msgid "[RT] {i}I can't believe she enjoys flashing me her naked pussy so much!{/i}"
@@ -2927,88 +2927,88 @@ msgid "[R] Ok, I'll find you again soon."
 msgstr "[R] Ok, I'll find you again soon."
 
 # game/script.rpy:4287## # translate crowdin sidneyinthekitchencontinued_ffe43266:
-msgid "S "I don't really know why I'm wasting my time designing it though.... It will never get made."
-    S "I don't really know why I'm wasting my time designing it though.... It will never get made."
+msgid "[S] I don't really know why I'm wasting my time designing it though.... It will never get made."
+msgstr "[S] I don't really know why I'm wasting my time designing it though.... It will never get made."
 
 # game/script.rpy:4288## # translate crowdin sidneyinthekitchencontinued_691e6526:
 msgid "[R] What?.... Why not?"
 msgstr "[R] What?.... Why not?"
 
 # game/script.rpy:4289## # translate crowdin sidneyinthekitchencontinued_2e0803ae:
-msgid "S "The kind of stuff I need for cosplay costumes are expensive."
-    S "The kind of stuff I need for cosplay costumes are expensive."
+msgid "[S] The kind of stuff I need for cosplay costumes are expensive."
+msgstr "[S] The kind of stuff I need for cosplay costumes are expensive."
 
 # game/script.rpy:4290## # translate crowdin sidneyinthekitchencontinued_e9dd4d9f:
-msgid "S "Now that I've been cut off from Dad's credit card.... I don't have a job yet, or any way to pay for the materials."
-    S "Now that I've been cut off from Dad's credit card.... I don't have a job yet, or any way to pay for the materials."
+msgid "[S] Now that I've been cut off from Dad's credit card.... I don't have a job yet, or any way to pay for the materials."
+msgstr "[S] Now that I've been cut off from Dad's credit card.... I don't have a job yet, or any way to pay for the materials."
 
 # game/script.rpy:4291## # translate crowdin sidneyinthekitchencontinued_b4a21087:
-msgid "S "Lauren's just going to have to go without a costume."
-    S "Lauren's just going to have to go without a costume."
+msgid "[S] Lauren's just going to have to go without a costume."
+msgstr "[S] Lauren's just going to have to go without a costume."
 
 # game/script.rpy:4292## # translate crowdin sidneyinthekitchencontinued_d113c2e0:
 msgid "[R] Well, how much does it cost? Maybe I could pay for it."
 msgstr "[R] Well, how much does it cost? Maybe I could pay for it."
 
 # game/script.rpy:4293## # translate crowdin sidneyinthekitchencontinued_f47f67fc:
-msgid "S "Well, I was going to charge Dad $500 for it."
-    S "Well, I was going to charge Dad $500 for it."
+msgid "[S] Well, I was going to charge Dad $500 for it."
+msgstr "[S] Well, I was going to charge Dad $500 for it."
 
 # game/script.rpy:4294## # translate crowdin sidneyinthekitchencontinued_a11eea7a:
 msgid "[R] .... Hack.... cough.... wheeze.... did you just say $500 for a costume?"
 msgstr "[R] .... Hack.... cough.... wheeze.... did you just say $500 for a costume?"
 
 # game/script.rpy:4297## # translate crowdin sidneyinthekitchencontinued_57fb53e8:
-msgid "S "Haha.... yeah, but that included my labor costs. If it was just materials it will only cost $250."
-    S "Haha.... yeah, but that included my labor costs. If it was just materials it will only cost $250."
+msgid "[S] Haha.... yeah, but that included my labor costs. If it was just materials it will only cost $250."
+msgstr "[S] Haha.... yeah, but that included my labor costs. If it was just materials it will only cost $250."
 
 # game/script.rpy:4298## # translate crowdin sidneyinthekitchencontinued_5f1e8af6:
 msgid "[R] Wow!"
 msgstr "[R] Wow!"
 
 # game/script.rpy:4299## # translate crowdin sidneyinthekitchencontinued_23ea66b8:
-msgid "S "Haha.... I know! Why do you think I wanted to get into fashion design. There is some serious money to be made if you do it right."
-    S "Haha.... I know! Why do you think I wanted to get into fashion design. There is some serious money to be made if you do it right."
+msgid "[S] Haha.... I know! Why do you think I wanted to get into fashion design. There is some serious money to be made if you do it right."
+msgstr "[S] Haha.... I know! Why do you think I wanted to get into fashion design. There is some serious money to be made if you do it right."
 
 # game/script.rpy:4302## # translate crowdin sidneyinthekitchencontinued_8c72bcce:
 msgid "[R] So, to make the outfit, you're going to need $250?"
 msgstr "[R] So, to make the outfit, you're going to need $250?"
 
 # game/script.rpy:4303## # translate crowdin sidneyinthekitchencontinued_ae166f9c:
-msgid "S "At least $400."
-    S "At least $400."
+msgid "[S] At least $400."
+msgstr "[S] At least $400."
 
 # game/script.rpy:4304## # translate crowdin sidneyinthekitchencontinued_96dfaf41:
 msgid "[R] But you said..."
 msgstr "[R] But you said..."
 
 # game/script.rpy:4305## # translate crowdin sidneyinthekitchencontinued_bb2da495:
-msgid "S "I love Lauren, but I'm not going to go to all that work just for charity."
-    S "I love Lauren, but I'm not going to go to all that work just for charity."
+msgid "[S] I love Lauren, but I'm not going to go to all that work just for charity."
+msgstr "[S] I love Lauren, but I'm not going to go to all that work just for charity."
 
 # game/script.rpy:4306## # translate crowdin sidneyinthekitchencontinued_c6d1b289:
-msgid "S "Making a costume is a really big job."
-    S "Making a costume is a really big job."
+msgid "[S] Making a costume is a really big job."
+msgstr "[S] Making a costume is a really big job."
 
 # game/script.rpy:4307## # translate crowdin sidneyinthekitchencontinued_03b3a66c:
 msgid "[R] Ok, so if I can get you $400, you will go ahead and make Lauren her costume?"
 msgstr "[R] Ok, so if I can get you $400, you will go ahead and make Lauren her costume?"
 
 # game/script.rpy:4308## # translate crowdin sidneyinthekitchencontinued_42373f17:
-msgid "S "Yeah I guess, but why are you so interested in helping Lauren?"
-    S "Yeah I guess, but why are you so interested in helping Lauren?"
+msgid "[S] Yeah I guess, but why are you so interested in helping Lauren?"
+msgstr "[S] Yeah I guess, but why are you so interested in helping Lauren?"
 
 # game/script.rpy:4309## # translate crowdin sidneyinthekitchencontinued_e789dff1:
 msgid "[R] Well.... to make her happy."
 msgstr "[R] Well.... to make her happy."
 
 # game/script.rpy:4310## # translate crowdin sidneyinthekitchencontinued_647dc8ef:
-msgid "S "Yeah.... I don't buy it. That can't be your only motivation."
-    S "Yeah.... I don't buy it. That can't be your only motivation."
+msgid "[S] Yeah.... I don't buy it. That can't be your only motivation."
+msgstr "[S] Yeah.... I don't buy it. That can't be your only motivation."
 
 # game/script.rpy:4311## # translate crowdin sidneyinthekitchencontinued_a1f999f1:
-msgid "S "What else is in it for you?"
-    S "What else is in it for you?"
+msgid "[S] What else is in it for you?"
+msgstr "[S] What else is in it for you?"
 
 # game/script.rpy:4312## # translate crowdin sidneyinthekitchencontinued_66a7c282:
 msgid "[R] Honestly?.... I guess I just want to show our family that I can take care of them..."
@@ -3023,52 +3023,52 @@ msgid "[R] Dad told me I'm the man of the house now, so I want to prove that I'm
 msgstr "[R] Dad told me I'm the man of the house now, so I want to prove that I'm up to the..."
 
 # game/script.rpy:4315## # translate crowdin sidneyinthekitchencontinued_fdaf3f38:
-msgid "S "Pffff.... pffff.... pffffffff..."
-    S "Pffff.... pffff.... pffffffff..."
+msgid "[S] Pffff.... pffff.... pffffffff..."
+msgstr "[S] Pffff.... pffff.... pffffffff..."
 
 # game/script.rpy:4316## # translate crowdin sidneyinthekitchencontinued_d62cf0ee:
 msgid "[R] What the?..."
 msgstr "[R] What the?..."
 
 # game/script.rpy:4319## # translate crowdin sidneyinthekitchencontinued_d43c4c9a:
-msgid "S "HAAHAAHAA.... hahahah!!!"
-    S "HAAHAAHAA.... hahahah!!!"
+msgid "[S] HAAHAAHAA.... hahahah!!!"
+msgstr "[S] HAAHAAHAA.... hahahah!!!"
 
 # game/script.rpy:4320## # translate crowdin sidneyinthekitchencontinued_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/script.rpy:4321## # translate crowdin sidneyinthekitchencontinued_9f0f8b41:
-msgid "S "Hahaha.... you.... think you.... can replace Dad?.... Hahaha."
-    S "Hahaha.... you.... think you.... can replace Dad?.... Hahaha."
+msgid "[S] Hahaha.... you.... think you.... can replace Dad?.... Hahaha."
+msgstr "[S] Hahaha.... you.... think you.... can replace Dad?.... Hahaha."
 
 # game/script.rpy:4322## # translate crowdin sidneyinthekitchencontinued_f39022bc:
 msgid "[R] Well, no.... but I'm going to try to..."
 msgstr "[R] Well, no.... but I'm going to try to..."
 
 # game/script.rpy:4323## # translate crowdin sidneyinthekitchencontinued_47b2cd1f:
-msgid "S "HAhahahah.... do you know how hard he's had to work to build his business?..."
-    S "HAhahahah.... do you know how hard he's had to work to build his business?..."
+msgid "[S] HAhahahah.... do you know how hard he's had to work to build his business?..."
+msgstr "[S] HAhahahah.... do you know how hard he's had to work to build his business?..."
 
 # game/script.rpy:4324## # translate crowdin sidneyinthekitchencontinued_31b7cc8c:
 msgid "[R] Well, I know it won't be easy but..."
 msgstr "[R] Well, I know it won't be easy but..."
 
 # game/script.rpy:4325## # translate crowdin sidneyinthekitchencontinued_d1cf26cf:
-msgid "S "Hahaha.... won't be easy?.... Hahahah.... you're in high school.... hahaha."
-    S "Hahaha.... won't be easy?.... Hahahah.... you're in high school.... hahaha."
+msgid "[S] Hahaha.... won't be easy?.... Hahahah.... you're in high school.... hahaha."
+msgstr "[S] Hahaha.... won't be easy?.... Hahahah.... you're in high school.... hahaha."
 
 # game/script.rpy:4326## # translate crowdin sidneyinthekitchencontinued_08347446:
 msgid "[R] Stop laughing!.... It's not that funny!"
 msgstr "[R] Stop laughing!.... It's not that funny!"
 
 # game/script.rpy:4327## # translate crowdin sidneyinthekitchencontinued_08207f65:
-msgid "S "Hahahahahahha.... I'm sorry.... hahahahha.... I can't stop thinking about you.... hahhahah..."
-    S "Hahahahahahha.... I'm sorry.... hahahahha.... I can't stop thinking about you.... hahhahah..."
+msgid "[S] Hahahahahahha.... I'm sorry.... hahahahha.... I can't stop thinking about you.... hahhahah..."
+msgstr "[S] Hahahahahahha.... I'm sorry.... hahahahha.... I can't stop thinking about you.... hahhahah..."
 
 # game/script.rpy:4328## # translate crowdin sidneyinthekitchencontinued_c0731267:
-msgid "S "I suppose you will want Lauren and me to call you daddy?!.... Hahahhahhah..."
-    S "I suppose you will want Lauren and me to call you daddy?!.... Hahahhahhah..."
+msgid "[S] I suppose you will want Lauren and me to call you daddy?!.... Hahahhahhah..."
+msgstr "[S] I suppose you will want Lauren and me to call you daddy?!.... Hahahhahhah..."
 
 # game/script.rpy:4329## # translate crowdin sidneyinthekitchencontinued_117bbf2e:
 msgid "[RT] {i}What a bitch! I was trying to bare my soul to her!{/i}"
@@ -3087,8 +3087,8 @@ msgid "[RT] {i}I should just take a look as payment for her making fun of me.{/i
 msgstr "[RT] {i}I should just take a look as payment for her making fun of me.{/i}"
 
 # game/script.rpy:4337## # translate crowdin sidneyinthekitchencontinued_8f61c541:
-msgid "S "Hahahahahha..."
-    S "Hahahahahha..."
+msgid "[S] Hahahahahha..."
+msgstr "[S] Hahahahahha..."
 
 # game/script.rpy:4338## # translate crowdin sidneyinthekitchencontinued_fa0af7fb:
 msgid "[RT] {i}If she can get so much pleasure out of me.... {/i}"
@@ -3099,40 +3099,40 @@ msgid "[RT] {i}Than I'm going to enjoy myself too.{/i}"
 msgstr "[RT] {i}Than I'm going to enjoy myself too.{/i}"
 
 # game/script.rpy:4340## # translate crowdin sidneyinthekitchencontinued_9e8f326a:
-msgid "S "Hahahahh..."
-    S "Hahahahh..."
+msgid "[S] Hahahahh..."
+msgstr "[S] Hahahahh..."
 
 # game/script.rpy:4341## # translate crowdin sidneyinthekitchencontinued_479637f6:
 msgid "{i}\"(abrubt end to laughing)\"{/i}"
 msgstr "{i}\"(abrubt end to laughing)\"{/i}"
 
 # game/script.rpy:4348## # translate crowdin sidneyinthekitchencontinued_f828770b:
-msgid "S "What were you looking at!?"
-    S "What were you looking at!?"
+msgid "[S] What were you looking at!?"
+msgstr "[S] What were you looking at!?"
 
 # game/script.rpy:4353## # translate crowdin sidneyinthekitchencontinued_eadcb891:
-msgid "S "Oh, I see, you think just because I was laughing at you, you have the right to act like a perverted asshole?"
-    S "Oh, I see, you think just because I was laughing at you, you have the right to act like a perverted asshole?"
+msgid "[S] Oh, I see, you think just because I was laughing at you, you have the right to act like a perverted asshole?"
+msgstr "[S] Oh, I see, you think just because I was laughing at you, you have the right to act like a perverted asshole?"
 
 # game/script.rpy:4354## # translate crowdin sidneyinthekitchencontinued_b1d1c4ff:
-msgid "S "That just because I didn't realize I was flashing you, you have the right to look?"
-    S "That just because I didn't realize I was flashing you, you have the right to look?"
+msgid "[S] That just because I didn't realize I was flashing you, you have the right to look?"
+msgstr "[S] That just because I didn't realize I was flashing you, you have the right to look?"
 
 # game/script.rpy:4355## # translate crowdin sidneyinthekitchencontinued_6b718239:
-msgid "S "Well, you'd better check your white male privilege you chauvinistic..."
-    S "Well, you'd better check your white male privilege you chauvinistic..."
+msgid "[S] Well, you'd better check your white male privilege you chauvinistic..."
+msgstr "[S] Well, you'd better check your white male privilege you chauvinistic..."
 
 # game/script.rpy:4356## # translate crowdin sidneyinthekitchencontinued_c6844446:
 msgid "[R] Sidney.... please don't start with the liberal arts social justice BS!"
 msgstr "[R] Sidney.... please don't start with the liberal arts social justice BS!"
 
 # game/script.rpy:4357## # translate crowdin sidneyinthekitchencontinued_ce3e087c:
-msgid "S "BS? That's exactly what a priviledged white boy from a patriarchal..."
-    S "BS? That's exactly what a priviledged white boy from a patriarchal..."
+msgid "[S] BS? That's exactly what a priviledged white boy from a patriarchal..."
+msgstr "[S] BS? That's exactly what a priviledged white boy from a patriarchal..."
 
 # game/script.rpy:4361## # translate crowdin sidneyinthekitchencontinued_247f0398:
-msgid "S "Don't you dare walk away from me while I'm trying to educate you about..."
-    S "Don't you dare walk away from me while I'm trying to educate you about..."
+msgid "[S] Don't you dare walk away from me while I'm trying to educate you about..."
+msgstr "[S] Don't you dare walk away from me while I'm trying to educate you about..."
 
 # game/script.rpy:4362## # translate crowdin sidneyinthekitchencontinued_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
@@ -3147,8 +3147,8 @@ msgid "[R] And I had just barely noticed you were flashing before you did."
 msgstr "[R] And I had just barely noticed you were flashing before you did."
 
 # game/script.rpy:4369## # translate crowdin sidneyinthekitchencontinued_e5da3742:
-msgid "S "Well, I hope that's true, because that would be pretty fucked up if you were staring at your sister's pussy!"
-    S "Well, I hope that's true, because that would be pretty fucked up if you were staring at your sister's pussy!"
+msgid "[S] Well, I hope that's true, because that would be pretty fucked up if you were staring at your sister's pussy!"
+msgstr "[S] Well, I hope that's true, because that would be pretty fucked up if you were staring at your sister's pussy!"
 
 # game/script.rpy:4370## # translate crowdin sidneyinthekitchencontinued_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
@@ -3163,12 +3163,12 @@ msgid "[R] I didn't mean to say it was lovely.... I just meant that..."
 msgstr "[R] I didn't mean to say it was lovely.... I just meant that..."
 
 # game/script.rpy:4374## # translate crowdin sidneyinthekitchencontinued_b69dfba4:
-msgid "S "[ryan], why don't you just run along and go play with your video games or something."
-    S "[ryan], why don't you just run along and go play with your video games or something."
+msgid "[S] [ryan], why don't you just run along and go play with your video games or something."
+msgstr "[S] [ryan], why don't you just run along and go play with your video games or something."
 
 # game/script.rpy:4375## # translate crowdin sidneyinthekitchencontinued_047e4eee:
-msgid "S "And let the adults actually worry about taking care of this family."
-    S "And let the adults actually worry about taking care of this family."
+msgid "[S] And let the adults actually worry about taking care of this family."
+msgstr "[S] And let the adults actually worry about taking care of this family."
 
 # game/script.rpy:4376## # translate crowdin sidneyinthekitchencontinued_17a06f70:
 msgid "{i}\"[ryan] Leaves\"{/i}"
@@ -3207,12 +3207,12 @@ msgid "{i}{b}\"Sidney's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Libido +3\"{/b}{/i}"
 
 # game/script.rpy:4395## # translate crowdin sidneyinthekitchencontinued_943e498b:
-msgid "S "Oh my.... I'm sorry.... I really am sorry for laughing."
-    S "Oh my.... I'm sorry.... I really am sorry for laughing."
+msgid "[S] Oh my.... I'm sorry.... I really am sorry for laughing."
+msgstr "[S] Oh my.... I'm sorry.... I really am sorry for laughing."
 
 # game/script.rpy:4396## # translate crowdin sidneyinthekitchencontinued_e5df8814:
-msgid "S "That just really hit my funny bone."
-    S "That just really hit my funny bone."
+msgid "[S] That just really hit my funny bone."
+msgstr "[S] That just really hit my funny bone."
 
 # game/script.rpy:4397## # translate crowdin sidneyinthekitchencontinued_75def2b9:
 msgid "[R] Yeah, well laugh all you want!"
@@ -4207,56 +4207,56 @@ msgid "[RT] {i}Her door's locked. Sidney's pretty pissed off at me.{/i}"
 msgstr "[RT] {i}Her door's locked. Sidney's pretty pissed off at me.{/i}"
 
 # game/script.rpy:5528## # translate crowdin sidneyangryroom_0e7867d6:
-msgid "S "What do you want pervert?"
-    S "What do you want pervert?"
+msgid "[S] What do you want pervert?"
+msgstr "[S] What do you want pervert?"
 
 # game/script.rpy:5534## # translate crowdin sidneyangryroom_65e3444f:
-msgid "S "You have something for me?"
-    S "You have something for me?"
+msgid "[S] You have something for me?"
+msgstr "[S] You have something for me?"
 
 # game/script.rpy:5539## # translate crowdin sidneyangryroom_89b69239:
-msgid "S "Thank you I love chocolate!"
-    S "Thank you I love chocolate!"
+msgid "[S] Thank you I love chocolate!"
+msgstr "[S] Thank you I love chocolate!"
 
 # game/script.rpy:5540## # translate crowdin sidneyangryroom_5375399e:
 msgid "{i}{b}\"Sidney's Anger -2\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger -2\"{/b}{/i}"
 
 # game/script.rpy:5547## # translate crowdin sidneyangryroom_679f998d:
-msgid "S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
-    S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
+msgid "[S] But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
+msgstr "[S] But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
 
 # game/script.rpy:5552## # translate crowdin sidneyangryroom_c12c55e1:
-msgid "S "Thank you! I can't stay mad at my sweet little brother!"
-    S "Thank you! I can't stay mad at my sweet little brother!"
+msgid "[S] Thank you! I can't stay mad at my sweet little brother!"
+msgstr "[S] Thank you! I can't stay mad at my sweet little brother!"
 
 # game/script.rpy:5559## # translate crowdin sidneyangryroom_2bf8ea0b:
-msgid "S "Thank you! I'm going to use it right now!"
-    S "Thank you! I'm going to use it right now!"
+msgid "[S] Thank you! I'm going to use it right now!"
+msgstr "[S] Thank you! I'm going to use it right now!"
 
 # game/script.rpy:5560## # translate crowdin sidneyangryroom_ee3db03c:
 msgid "{i}{b}\"Sidney's Anger -5\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger -5\"{/b}{/i}"
 
 # game/script.rpy:5567## # translate crowdin sidneyangryroom_679f998d_1:
-msgid "S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
-    S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
+msgid "[S] But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
+msgstr "[S] But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
 
 # game/script.rpy:5572## # translate crowdin sidneyangryroom_c12c55e1_1:
-msgid "S "Thank you! I can't stay mad at my sweet little brother!"
-    S "Thank you! I can't stay mad at my sweet little brother!"
+msgid "[S] Thank you! I can't stay mad at my sweet little brother!"
+msgstr "[S] Thank you! I can't stay mad at my sweet little brother!"
 
 # game/script.rpy:5580## # translate crowdin sidneyangryroom_6a174532:
-msgid "S "Why the hell do you think I would want flowers from you? You're not my boyfriend!"
-    S "Why the hell do you think I would want flowers from you? You're not my boyfriend!"
+msgid "[S] Why the hell do you think I would want flowers from you? You're not my boyfriend!"
+msgstr "[S] Why the hell do you think I would want flowers from you? You're not my boyfriend!"
 
 # game/script.rpy:5581## # translate crowdin sidneyangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
 msgstr "{i}\"Throws them in her trash\"{/i}"
 
 # game/script.rpy:5582## # translate crowdin sidneyangryroom_30332119:
-msgid "S "Maybe next time try to think of something that doesn't imply you want in my pants!"
-    S "Maybe next time try to think of something that doesn't imply you want in my pants!"
+msgid "[S] Maybe next time try to think of something that doesn't imply you want in my pants!"
+msgstr "[S] Maybe next time try to think of something that doesn't imply you want in my pants!"
 
 # game/script.rpy:5583## # translate crowdin sidneyangryroom_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -4271,16 +4271,16 @@ msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
 msgstr "{i}\"You need higher affection to gift flowers.\"{/i}"
 
 # game/script.rpy:5593## # translate crowdin sidneyangryroom_c5a8f8e5:
-msgid "S "Oh my gosh! They're beautiful!"
-    S "Oh my gosh! They're beautiful!"
+msgid "[S] Oh my gosh! They're beautiful!"
+msgstr "[S] Oh my gosh! They're beautiful!"
 
 # game/script.rpy:5594## # translate crowdin sidneyangryroom_0ef29b7a:
-msgid "S "You're such a charmer!"
-    S "You're such a charmer!"
+msgid "[S] You're such a charmer!"
+msgstr "[S] You're such a charmer!"
 
 # game/script.rpy:5595## # translate crowdin sidneyangryroom_c8b74f2e:
-msgid "S "If I didn't know any better, I would think you were trying to put the moves on me!"
-    S "If I didn't know any better, I would think you were trying to put the moves on me!"
+msgid "[S] If I didn't know any better, I would think you were trying to put the moves on me!"
+msgstr "[S] If I didn't know any better, I would think you were trying to put the moves on me!"
 
 # game/script.rpy:5598## # translate crowdin sidneyangryroom_f71426ab:
 msgid "{i}{b}\"Sidney's Anger -10\"{/b}{/i}"
@@ -4291,32 +4291,32 @@ msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
 
 # game/script.rpy:5601## # translate crowdin sidneyangryroom_38b97587:
-msgid "S "Thank you so much!"
-    S "Thank you so much!"
+msgid "[S] Thank you so much!"
+msgstr "[S] Thank you so much!"
 
 # game/script.rpy:5602## # translate crowdin sidneyangryroom_e3882901:
 msgid "[RT] {i}Oh, wow.{/i}"
 msgstr "[RT] {i}Oh, wow.{/i}"
 
 # game/script.rpy:5608## # translate crowdin sidneyangryroom_b538d921:
-msgid "S "You jerk! You made me get up for that."
-    S "You jerk! You made me get up for that."
+msgid "[S] You jerk! You made me get up for that."
+msgstr "[S] You jerk! You made me get up for that."
 
 # game/script.rpy:5609## # translate crowdin sidneyangryroom_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
 
 # game/script.rpy:5616## # translate crowdin sidneyangryroom_21960dfa:
-msgid "S "You already gave me a gift. Stop being pervy!"
-    S "You already gave me a gift. Stop being pervy!"
+msgid "[S] You already gave me a gift. Stop being pervy!"
+msgstr "[S] You already gave me a gift. Stop being pervy!"
 
 # game/script.rpy:5618## # translate crowdin sidneyangryroom_7b3429cc_1:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
 
 # game/script.rpy:5624## # translate crowdin sidneyangryroom_94deac36:
-msgid "S "Well, it's going to take more than just words for me to forgive you for what you did!"
-    S "Well, it's going to take more than just words for me to forgive you for what you did!"
+msgid "[S] Well, it's going to take more than just words for me to forgive you for what you did!"
+msgstr "[S] Well, it's going to take more than just words for me to forgive you for what you did!"
 
 # game/script.rpy:5625## # translate crowdin sidneyangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
@@ -4835,76 +4835,76 @@ msgid "[RT] {i}Maybe if I put my ear on the door I can.... {/i}"
 msgstr "[RT] {i}Maybe if I put my ear on the door I can.... {/i}"
 
 # game/script.rpy:6096## # translate crowdin caughtbysidney_f79717f2:
-msgid "S "Haa.... I knew it was you!"
-    S "Haa.... I knew it was you!"
+msgid "[S] Haa.... I knew it was you!"
+msgstr "[S] Haa.... I knew it was you!"
 
 # game/script.rpy:6097## # translate crowdin caughtbysidney_67f4000f:
-msgid "S "Why are you lurking at my door you little pervert!"
-    S "Why are you lurking at my door you little pervert!"
+msgid "[S] Why are you lurking at my door you little pervert!"
+msgstr "[S] Why are you lurking at my door you little pervert!"
 
 # game/script.rpy:6100## # translate crowdin caughtbysidney_dc427338:
 msgid "[R] I'm sorry, I just wasn't sure if you were home, and wanted to see if you were. I thought maybe we could hang out?"
 msgstr "[R] I'm sorry, I just wasn't sure if you were home, and wanted to see if you were. I thought maybe we could hang out?"
 
 # game/script.rpy:6101## # translate crowdin caughtbysidney_e961d194:
-msgid "S "Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
-    S "Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
+msgid "[S] Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
+msgstr "[S] Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
 
 # game/script.rpy:6102## # translate crowdin caughtbysidney_4a95b92b:
-msgid "S "How much did you see?"
-    S "How much did you see?"
+msgid "[S] How much did you see?"
+msgstr "[S] How much did you see?"
 
 # game/script.rpy:6105## # translate crowdin caughtbysidney_49a1d558:
 msgid "[R] Not much, you were mostly dressed when I saw you. I ran away as soon as I realized you were changing."
 msgstr "[R] Not much, you were mostly dressed when I saw you. I ran away as soon as I realized you were changing."
 
 # game/script.rpy:6106## # translate crowdin caughtbysidney_540c716a:
-msgid "S "You better not be lying!"
-    S "You better not be lying!"
+msgid "[S] You better not be lying!"
+msgstr "[S] You better not be lying!"
 
 # game/script.rpy:6107## # translate crowdin caughtbysidney_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
 
 # game/script.rpy:6109## # translate crowdin caughtbysidney_78115a4b:
-msgid "S "You know you could have just knocked."
-    S "You know you could have just knocked."
+msgid "[S] You know you could have just knocked."
+msgstr "[S] You know you could have just knocked."
 
 # game/script.rpy:6110## # translate crowdin caughtbysidney_1864a7a3:
 msgid "[R] Sorry, I'll try to do that next time."
 msgstr "[R] Sorry, I'll try to do that next time."
 
 # game/script.rpy:6111## # translate crowdin caughtbysidney_ebdd0137:
-msgid "S "Whatever!"
-    S "Whatever!"
+msgid "[S] Whatever!"
+msgstr "[S] Whatever!"
 
 # game/script.rpy:6117## # translate crowdin caughtbysidney_cca7ecd5:
 msgid "[R] I have no idea what you're talking about."
 msgstr "[R] I have no idea what you're talking about."
 
 # game/script.rpy:6118## # translate crowdin caughtbysidney_38418e96:
-msgid "S "Yeah right you little liar!"
-    S "Yeah right you little liar!"
+msgid "[S] Yeah right you little liar!"
+msgstr "[S] Yeah right you little liar!"
 
 # game/script.rpy:6119## # translate crowdin caughtbysidney_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
 msgstr "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
 
 # game/script.rpy:6121## # translate crowdin caughtbysidney_078fd5f6:
-msgid "S "If you need to talk to me, just knock on the door,"
-    S "If you need to talk to me, just knock on the door,"
+msgid "[S] If you need to talk to me, just knock on the door,"
+msgstr "[S] If you need to talk to me, just knock on the door,"
 
 # game/script.rpy:6122## # translate crowdin caughtbysidney_79367dd9:
-msgid "S "Instead of creeping around like some depraved pervert."
-    S "Instead of creeping around like some depraved pervert."
+msgid "[S] Instead of creeping around like some depraved pervert."
+msgstr "[S] Instead of creeping around like some depraved pervert."
 
 # game/script.rpy:6123## # translate crowdin caughtbysidney_1864a7a3_1:
 msgid "[R] Sorry, I'll try to do that next time."
 msgstr "[R] Sorry, I'll try to do that next time."
 
 # game/script.rpy:6124## # translate crowdin caughtbysidney_ebdd0137_1:
-msgid "S "Whatever!"
-    S "Whatever!"
+msgid "[S] Whatever!"
+msgstr "[S] Whatever!"
 
 # game/script.rpy:6136## # translate crowdin sidneylaurensneakattempt_d9a5ac9c:
 msgid "[RT] {i}Ok.... so having Sidney in bed with Lauren might complicate things just a little bit.{/i}"
@@ -4939,16 +4939,16 @@ msgid "[R] {i}(Whispering){/i} You think your brother is .... oh, shit!"
 msgstr "[R] {i}(Whispering){/i} You think your brother is .... oh, shit!"
 
 # game/script.rpy:6154## # translate crowdin sidneylaurensneakattempt_5b549de2:
-msgid "S "Hmmmmm?.... Lauren?.... Did you say something?"
-    S "Hmmmmm?.... Lauren?.... Did you say something?"
+msgid "[S] Hmmmmm?.... Lauren?.... Did you say something?"
+msgstr "[S] Hmmmmm?.... Lauren?.... Did you say something?"
 
 # game/script.rpy:6157## # translate crowdin sidneylaurensneakattempt_4cb0f6b6:
-msgid "S "Lauren.... are you asleep?"
-    S "Lauren.... are you asleep?"
+msgid "[S] Lauren.... are you asleep?"
+msgstr "[S] Lauren.... are you asleep?"
 
 # game/script.rpy:6158## # translate crowdin sidneylaurensneakattempt_ee83fde5:
-msgid "S "Ok?.... I guess it was my imagination?..."
-    S "Ok?.... I guess it was my imagination?..."
+msgid "[S] Ok?.... I guess it was my imagination?..."
+msgstr "[S] Ok?.... I guess it was my imagination?..."
 
 # game/script.rpy:6159## # translate crowdin sidneylaurensneakattempt_0a1a9f71:
 msgid "[RT] {i}Shit!! Sidney is a super light sleeper!{/i}"
@@ -5039,12 +5039,12 @@ msgid "[L] WAKE UP, WAKE UP, WAKE UP!!!!"
 msgstr "[L] WAKE UP, WAKE UP, WAKE UP!!!!"
 
 # game/script.rpy:6233## # translate crowdin sidneylaurensneakingnight_ca94a386:
-msgid "S "Lauren what the hell? Why are you freaking out?"
-    S "Lauren what the hell? Why are you freaking out?"
+msgid "[S] Lauren what the hell? Why are you freaking out?"
+msgstr "[S] Lauren what the hell? Why are you freaking out?"
 
 # game/script.rpy:6234## # translate crowdin sidneylaurensneakingnight_aa7968ee:
-msgid "S "Oh, no! Let me guess! You think I did it again?"
-    S "Oh, no! Let me guess! You think I did it again?"
+msgid "[S] Oh, no! Let me guess! You think I did it again?"
+msgstr "[S] Oh, no! Let me guess! You think I did it again?"
 
 # game/script.rpy:6235## # translate crowdin sidneylaurensneakingnight_56b5f89e:
 msgid "[L] Yes, you did it again!"
@@ -5055,8 +5055,8 @@ msgid "[L] Only this time, you were fingering my asshole!"
 msgstr "[L] Only this time, you were fingering my asshole!"
 
 # game/script.rpy:6237## # translate crowdin sidneylaurensneakingnight_474da8f2:
-msgid "S "WHAAAT?"
-    S "WHAAAT?"
+msgid "[S] WHAAAT?"
+msgstr "[S] WHAAAT?"
 
 # game/script.rpy:6240## # translate crowdin sidneylaurensneakingnight_1761a336:
 msgid "[M] Again?! You two little shits have got to be kidding me!.... I'm sorry, please excuse my language, but I'm so tired from getting woken up every night!"
@@ -5083,8 +5083,8 @@ msgid "[M] Sidney, smell your fingers, maybe you couldn't smell Lauren's pussy, 
 msgstr "[M] Sidney, smell your fingers, maybe you couldn't smell Lauren's pussy, but I'm sure you would be able to smell her butt."
 
 # game/script.rpy:6250## # translate crowdin sidneylaurensneakingnight_dbc0c2d9:
-msgid "S "Mom! Really?"
-    S "Mom! Really?"
+msgid "[S] Mom! Really?"
+msgstr "[S] Mom! Really?"
 
 # game/script.rpy:6251## # translate crowdin sidneylaurensneakingnight_a55d5fff:
 msgid "[M] NOW!"
@@ -5119,16 +5119,16 @@ msgid "[M] Well?"
 msgstr "[M] Well?"
 
 # game/script.rpy:6262## # translate crowdin sidneylaurensneakingnight_123991d4:
-msgid "S "Well.... ummmm..."
-    S "Well.... ummmm..."
+msgid "[S] Well.... ummmm..."
+msgstr "[S] Well.... ummmm..."
 
 # game/script.rpy:6263## # translate crowdin sidneylaurensneakingnight_be6db9ac:
 msgid "[M] Here, let me smell."
 msgstr "[M] Here, let me smell."
 
 # game/script.rpy:6266## # translate crowdin sidneylaurensneakingnight_c082e03e:
-msgid "S "Hey!"
-    S "Hey!"
+msgid "[S] Hey!"
+msgstr "[S] Hey!"
 
 # game/script.rpy:6267## # translate crowdin sidneylaurensneakingnight_c33f0658:
 msgid "[MT] {i}I think there is a faint smell of ass.{/i}"
@@ -5167,24 +5167,24 @@ msgid "[M] Sidney, you're going to have to start sleeping somewhere else."
 msgstr "[M] Sidney, you're going to have to start sleeping somewhere else."
 
 # game/script.rpy:6281## # translate crowdin sidneylaurensneakingnight_3d0c432c:
-msgid "S "But I just moved all my stuff in here! I just got everything unpacked!"
-    S "But I just moved all my stuff in here! I just got everything unpacked!"
+msgid "[S] But I just moved all my stuff in here! I just got everything unpacked!"
+msgstr "[S] But I just moved all my stuff in here! I just got everything unpacked!"
 
 # game/script.rpy:6282## # translate crowdin sidneylaurensneakingnight_0026e1a4:
 msgid "[M] No.... you will still keep all your stuff in here, and change your clothes in here, and all that, but at night you will just sleep elsewhere."
 msgstr "[M] No.... you will still keep all your stuff in here, and change your clothes in here, and all that, but at night you will just sleep elsewhere."
 
 # game/script.rpy:6283## # translate crowdin sidneylaurensneakingnight_6a62ac13:
-msgid "S "Where?"
-    S "Where?"
+msgid "[S] Where?"
+msgstr "[S] Where?"
 
 # game/script.rpy:6284## # translate crowdin sidneylaurensneakingnight_4bf71016:
 msgid "[M] Well, you can try my room. But I'll only give you one chance and then you'll have to sleep somewhere else!"
 msgstr "[M] Well, you can try my room. But I'll only give you one chance and then you'll have to sleep somewhere else!"
 
 # game/script.rpy:6285## # translate crowdin sidneylaurensneakingnight_63edccc1:
-msgid "S "You mean like with [ryan]?!"
-    S "You mean like with [ryan]?!"
+msgid "[S] You mean like with [ryan]?!"
+msgstr "[S] You mean like with [ryan]?!"
 
 # game/script.rpy:6286## # translate crowdin sidneylaurensneakingnight_82efe231:
 msgid "[RT] {i}Please say yes! Please say yes! Please say yes!{/i}"
@@ -5211,16 +5211,16 @@ msgid "[M] You'll just have to sleep on the couch."
 msgstr "[M] You'll just have to sleep on the couch."
 
 # game/script.rpy:6292## # translate crowdin sidneylaurensneakingnight_9cb247b5:
-msgid "S "Well, why don't I just skip a step and I'll just start sleeping there now."
-    S "Well, why don't I just skip a step and I'll just start sleeping there now."
+msgid "[S] Well, why don't I just skip a step and I'll just start sleeping there now."
+msgstr "[S] Well, why don't I just skip a step and I'll just start sleeping there now."
 
 # game/script.rpy:6293## # translate crowdin sidneylaurensneakingnight_22b4cc42:
 msgid "[M] That's a great idea. Go sleep on the couch!"
 msgstr "[M] That's a great idea. Go sleep on the couch!"
 
 # game/script.rpy:6294## # translate crowdin sidneylaurensneakingnight_c6190b95:
-msgid "S "Fine!"
-    S "Fine!"
+msgid "[S] Fine!"
+msgstr "[S] Fine!"
 
 # game/script.rpy:6295## # translate crowdin sidneylaurensneakingnight_1483271a:
 msgid "[M] Good night, girls!"
@@ -5279,16 +5279,16 @@ msgid "[L] SIDNEY DAMN YOU! Wake up!..."
 msgstr "[L] SIDNEY DAMN YOU! Wake up!..."
 
 # game/script.rpy:6349## # translate crowdin sidneylaurensneakingnight_43e6a235:
-msgid "S "Huhh?.... Why are you.... waking me up again?"
-    S "Huhh?.... Why are you.... waking me up again?"
+msgid "[S] Huhh?.... Why are you.... waking me up again?"
+msgstr "[S] Huhh?.... Why are you.... waking me up again?"
 
 # game/script.rpy:6350## # translate crowdin sidneylaurensneakingnight_407db703:
 msgid "[L] WHY? So you can kindly get your fingers out of my pussy!"
 msgstr "[L] WHY? So you can kindly get your fingers out of my pussy!"
 
 # game/script.rpy:6351## # translate crowdin sidneylaurensneakingnight_4aae275d:
-msgid "S "WHAT? Have you lost your mind?"
-    S "WHAT? Have you lost your mind?"
+msgid "[S] WHAT? Have you lost your mind?"
+msgstr "[S] WHAT? Have you lost your mind?"
 
 # game/script.rpy:6352## # translate crowdin sidneylaurensneakingnight_50a764c6:
 msgid "[L] No, I haven't lost my mind! And I wasn't dreaming either!"
@@ -5307,8 +5307,8 @@ msgid "[L] Mom she molested me in my sleep again!"
 msgstr "[L] Mom she molested me in my sleep again!"
 
 # game/script.rpy:6360## # translate crowdin sidneylaurensneakingnight_09127252:
-msgid "S "I did not, she must have been dreaming again!"
-    S "I did not, she must have been dreaming again!"
+msgid "[S] I did not, she must have been dreaming again!"
+msgstr "[S] I did not, she must have been dreaming again!"
 
 # game/script.rpy:6363## # translate crowdin sidneylaurensneakingnight_6691dd0b:
 msgid "[M] Lauren, if you're waking me up over some weird sexual dream of yours, I'm not going to be very happy with you!"
@@ -5327,12 +5327,12 @@ msgid "[L] Sidney, smell your fingers, I'll bet they smell like my pussy."
 msgstr "[L] Sidney, smell your fingers, I'll bet they smell like my pussy."
 
 # game/script.rpy:6367## # translate crowdin sidneylaurensneakingnight_e288bb00:
-msgid "S "Smell my fingers?"
-    S "Smell my fingers?"
+msgid "[S] Smell my fingers?"
+msgstr "[S] Smell my fingers?"
 
 # game/script.rpy:6368## # translate crowdin sidneylaurensneakingnight_8933a36f:
-msgid "S "This is so weird."
-    S "This is so weird."
+msgid "[S] This is so weird."
+msgstr "[S] This is so weird."
 
 # game/script.rpy:6369## # translate crowdin sidneylaurensneakingnight_e7ba104f:
 msgid "[M] Do it Sidney! Smell your fingers."
@@ -5363,8 +5363,8 @@ msgid "[M] Well, what's the verdict?"
 msgstr "[M] Well, what's the verdict?"
 
 # game/script.rpy:6379## # translate crowdin sidneylaurensneakingnight_a2e2b724:
-msgid "S "No, they don't smell like anything."
-    S "No, they don't smell like anything."
+msgid "[S] No, they don't smell like anything."
+msgstr "[S] No, they don't smell like anything."
 
 # game/script.rpy:6382## # translate crowdin sidneylaurensneakingnight_1b482e6a:
 msgid "[M] There Lauren, you see? Just some weird perverted dream."
@@ -5455,20 +5455,20 @@ msgid "[L] Sidney, what the hell?!!!"
 msgstr "[L] Sidney, what the hell?!!!"
 
 # game/script.rpy:6441## # translate crowdin sidneylaurensneakingnight_4c3516d4:
-msgid "S ".... Huh.... what?..."
-    S ".... Huh.... what?..."
+msgid "[S] .... Huh.... what?..."
+msgstr "[S] .... Huh.... what?..."
 
 # game/script.rpy:6442## # translate crowdin sidneylaurensneakingnight_dbb8d9d0:
 msgid "[L] Huh.... what?.... Why the hell was your hand exploring beneath my panties?!"
 msgstr "[L] Huh.... what?.... Why the hell was your hand exploring beneath my panties?!"
 
 # game/script.rpy:6443## # translate crowdin sidneylaurensneakingnight_af9eab70:
-msgid "S "What are you talking about?"
-    S "What are you talking about?"
+msgid "[S] What are you talking about?"
+msgstr "[S] What are you talking about?"
 
 # game/script.rpy:6444## # translate crowdin sidneylaurensneakingnight_3cc97167:
-msgid "S "I've just been sleeping this whole time. Why did you wake me up?"
-    S "I've just been sleeping this whole time. Why did you wake me up?"
+msgid "[S] I've just been sleeping this whole time. Why did you wake me up?"
+msgstr "[S] I've just been sleeping this whole time. Why did you wake me up?"
 
 # game/script.rpy:6445## # translate crowdin sidneylaurensneakingnight_a116b056:
 msgid "[L] Just sleeping huh? Well you're a pretty handsy sleeper!"
@@ -5487,8 +5487,8 @@ msgid "[L] Oh, nothing much! Sidney is just molesting me while I sleep!"
 msgstr "[L] Oh, nothing much! Sidney is just molesting me while I sleep!"
 
 # game/script.rpy:6453## # translate crowdin sidneylaurensneakingnight_42ea2883:
-msgid "S "I was not!"
-    S "I was not!"
+msgid "[S] I was not!"
+msgstr "[S] I was not!"
 
 # game/script.rpy:6456## # translate crowdin sidneylaurensneakingnight_3c5bfb11:
 msgid "[M] Lauren, I think you must have been dreaming."
@@ -5507,32 +5507,32 @@ msgid "[M] Your father is a really handsy sleeper."
 msgstr "[M] Your father is a really handsy sleeper."
 
 # game/script.rpy:6460## # translate crowdin sidneylaurensneakingnight_952b3b20:
-msgid "S "Eww Mom, TMI! And I haven't started having sex yet!"
-    S "Eww Mom, TMI! And I haven't started having sex yet!"
+msgid "[S] Eww Mom, TMI! And I haven't started having sex yet!"
+msgstr "[S] Eww Mom, TMI! And I haven't started having sex yet!"
 
 # game/script.rpy:6461## # translate crowdin sidneylaurensneakingnight_6eb2997b:
 msgid "[M] Please! I'm not stupid. You're in college."
 msgstr "[M] Please! I'm not stupid. You're in college."
 
 # game/script.rpy:6462## # translate crowdin sidneylaurensneakingnight_508d9c02:
-msgid "S "Well, I'm not a virgin, but I don't just sleep around with all the guys at school!"
-    S "Well, I'm not a virgin, but I don't just sleep around with all the guys at school!"
+msgid "[S] Well, I'm not a virgin, but I don't just sleep around with all the guys at school!"
+msgstr "[S] Well, I'm not a virgin, but I don't just sleep around with all the guys at school!"
 
 # game/script.rpy:6465## # translate crowdin sidneylaurensneakingnight_aa08804d:
 msgid "[RT] {i}Uhh.... I hope they wrap this up soon, this is getting uncomfortable.{/i}"
 msgstr "[RT] {i}Uhh.... I hope they wrap this up soon, this is getting uncomfortable.{/i}"
 
 # game/script.rpy:6466## # translate crowdin sidneylaurensneakingnight_3a902e59:
-msgid "S "My first time wasn't a good experience, and I haven't really wanted to do much since then."
-    S "My first time wasn't a good experience, and I haven't really wanted to do much since then."
+msgid "[S] My first time wasn't a good experience, and I haven't really wanted to do much since then."
+msgstr "[S] My first time wasn't a good experience, and I haven't really wanted to do much since then."
 
 # game/script.rpy:6467## # translate crowdin sidneylaurensneakingnight_58149aff:
 msgid "[M] Well, I'm sorry to hear that, then maybe you're being handsy in your sleep because of built up sexual frustration."
 msgstr "[M] Well, I'm sorry to hear that, then maybe you're being handsy in your sleep because of built up sexual frustration."
 
 # game/script.rpy:6468## # translate crowdin sidneylaurensneakingnight_470e1ff7:
-msgid "S "I'm not being handsy in my sleep!"
-    S "I'm not being handsy in my sleep!"
+msgid "[S] I'm not being handsy in my sleep!"
+msgstr "[S] I'm not being handsy in my sleep!"
 
 # game/script.rpy:6469## # translate crowdin sidneylaurensneakingnight_664bcf01:
 msgid "[M] Alright! Well, it's time for you two to shut up and go to sleep! I don't want your brother to wake up and hear about all of this!"
@@ -5547,16 +5547,16 @@ msgid "[L] Alright."
 msgstr "[L] Alright."
 
 # game/script.rpy:6472## # translate crowdin sidneylaurensneakingnight_ec40fdeb:
-msgid "S "Ok, goodnight."
-    S "Ok, goodnight."
+msgid "[S] Ok, goodnight."
+msgstr "[S] Ok, goodnight."
 
 # game/script.rpy:6475## # translate crowdin sidneylaurensneakingnight_ec9e0d36:
 msgid "[L] Try to keep your hands to yourself for the rest of the night."
 msgstr "[L] Try to keep your hands to yourself for the rest of the night."
 
 # game/script.rpy:6476## # translate crowdin sidneylaurensneakingnight_a4f4e80d:
-msgid "S "Yeah, fuck you too. Goodnight."
-    S "Yeah, fuck you too. Goodnight."
+msgid "[S] Yeah, fuck you too. Goodnight."
+msgstr "[S] Yeah, fuck you too. Goodnight."
 
 # game/script.rpy:6479## # translate crowdin sidneylaurensneakingnight_7919a2ac:
 msgid "[RT] {i}Oh, thank God, they are finally asleep again!{/i}"
