@@ -1039,28 +1039,28 @@ msgid "{i}\"(knock knock knock....)\"{/i}"
 msgstr "{i}\"(knock knock knock....)\"{/i}"
 
 # game/Phone_event_screen.rpy:1726## # translate crowdin again_tutorial_c1bfb181:
-msgid "M "{i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
-    M "{i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
+msgid "[M] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
+msgstr "[M] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
 
 # game/Phone_event_screen.rpy:1729## # translate crowdin again_tutorial_a8730e81:
 msgid "[R] No Mom!.... But I'm really busy right now!"
 msgstr "[R] No Mom!.... But I'm really busy right now!"
 
 # game/Phone_event_screen.rpy:1730## # translate crowdin again_tutorial_ecfc0255:
-msgid "M "With what?"
-    M "With what?"
+msgid "[M] With what?"
+msgstr "[M] With what?"
 
 # game/Phone_event_screen.rpy:1731## # translate crowdin again_tutorial_2f540835:
 msgid "[R] Ummm.... Homework.... of course!"
 msgstr "[R] Ummm.... Homework.... of course!"
 
 # game/Phone_event_screen.rpy:1732## # translate crowdin again_tutorial_d3cb05bf:
-msgid "M "Well, ok.... But you know, you don't need to take care of yourself, right?"
-    M "Well, ok.... But you know, you don't need to take care of yourself, right?"
+msgid "[M] Well, ok.... But you know, you don't need to take care of yourself, right?"
+msgstr "[M] Well, ok.... But you know, you don't need to take care of yourself, right?"
 
 # game/Phone_event_screen.rpy:1733## # translate crowdin again_tutorial_ef4266bd:
-msgid "M "You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
-    M "You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
+msgid "[M] You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
+msgstr "[M] You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
 
 # game/Phone_event_screen.rpy:1736## # translate crowdin again_tutorial_c8d5a1ef:
 msgid "[R] Ok!.... thanks Mom!"

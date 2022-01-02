@@ -3367,60 +3367,60 @@ msgid "[RT] {i}Ok.... how about one right on the nipple.{/i}"
 msgstr "[RT] {i}Ok.... how about one right on the nipple.{/i}"
 
 # game/UpdateScript0.02.rpy:2190## # translate crowdin mominbedwithsidney_ed5c432e:
-msgid "M "What in the world?.... Sidney wake up! What are you doing in my room?"
-    M "What in the world?.... Sidney wake up! What are you doing in my room?"
+msgid "[M] What in the world?.... Sidney wake up! What are you doing in my room?"
+msgstr "[M] What in the world?.... Sidney wake up! What are you doing in my room?"
 
 # game/UpdateScript0.02.rpy:2191## # translate crowdin mominbedwithsidney_337a0f87:
 msgid "S "Huh.... what's going on?"
     S "Huh.... what's going on?"
 
 # game/UpdateScript0.02.rpy:2192## # translate crowdin mominbedwithsidney_388cb1d2:
-msgid "M "Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
-    M "Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
+msgid "[M] Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
+msgstr "[M] Sidney, I told you that you could only sleep with me if you didn't grope me like you did your sister."
 
 # game/UpdateScript0.02.rpy:2193## # translate crowdin mominbedwithsidney_8ca7f3c6:
 msgid "S "Oh, no! What did I do this time?"
     S "Oh, no! What did I do this time?"
 
 # game/UpdateScript0.02.rpy:2194## # translate crowdin mominbedwithsidney_fa6e718e:
-msgid "M "You pulled my shirt down and pinched my nipple!"
-    M "You pulled my shirt down and pinched my nipple!"
+msgid "[M] You pulled my shirt down and pinched my nipple!"
+msgstr "[M] You pulled my shirt down and pinched my nipple!"
 
 # game/UpdateScript0.02.rpy:2195## # translate crowdin mominbedwithsidney_d9d2f789:
 msgid "S "Really? I did it again? Goddammit!"
     S "Really? I did it again? Goddammit!"
 
 # game/UpdateScript0.02.rpy:2196## # translate crowdin mominbedwithsidney_6d190f60:
-msgid "M "Language, honey!"
-    M "Language, honey!"
+msgid "[M] Language, honey!"
+msgstr "[M] Language, honey!"
 
 # game/UpdateScript0.02.rpy:2197## # translate crowdin mominbedwithsidney_b4f4b4c6:
 msgid "S "Sorry..."
     S "Sorry..."
 
 # game/UpdateScript0.02.rpy:2198## # translate crowdin mominbedwithsidney_15efadcf:
-msgid "M "I need you to go back out there and sleep on the couch."
-    M "I need you to go back out there and sleep on the couch."
+msgid "[M] I need you to go back out there and sleep on the couch."
+msgstr "[M] I need you to go back out there and sleep on the couch."
 
 # game/UpdateScript0.02.rpy:2199## # translate crowdin mominbedwithsidney_11de3744:
 msgid "S "But Mom, I heard creepy noises out there, and so did [ryan]!"
     S "But Mom, I heard creepy noises out there, and so did [ryan]!"
 
 # game/UpdateScript0.02.rpy:2202## # translate crowdin mominbedwithsidney_e179710b:
-msgid "M "Oh, you're just imagining things. The doors and windows are locked. You're perfectly safe."
-    M "Oh, you're just imagining things. The doors and windows are locked. You're perfectly safe."
+msgid "[M] Oh, you're just imagining things. The doors and windows are locked. You're perfectly safe."
+msgstr "[M] Oh, you're just imagining things. The doors and windows are locked. You're perfectly safe."
 
 # game/UpdateScript0.02.rpy:2203## # translate crowdin mominbedwithsidney_a0246f3c:
-msgid "M "Now, get out!"
-    M "Now, get out!"
+msgid "[M] Now, get out!"
+msgstr "[M] Now, get out!"
 
 # game/UpdateScript0.02.rpy:2204## # translate crowdin mominbedwithsidney_5d4cf589:
 msgid "S "But, Mom!"
     S "But, Mom!"
 
 # game/UpdateScript0.02.rpy:2205## # translate crowdin mominbedwithsidney_16a20e59:
-msgid "M "Go!"
-    M "Go!"
+msgid "[M] Go!"
+msgstr "[M] Go!"
 
 # game/UpdateScript0.02.rpy:2208## # translate crowdin mominbedwithsidney_46ab1763:
 msgid "MT "{i}Shit, what is wrong with that girl?{/i}"
@@ -3431,8 +3431,8 @@ msgid "MT "{i}She cannot keep her hands to herself in her sleep.{/i}"
     MT "{i}She cannot keep her hands to herself in her sleep.{/i}"
 
 # game/UpdateScript0.02.rpy:2210## # translate crowdin mominbedwithsidney_7c18b4e7:
-msgid "M "I mean, I guess I can't complain too much, at least her finger wasn't in my ass."
-    M "I mean, I guess I can't complain too much, at least her finger wasn't in my ass."
+msgid "[M] I mean, I guess I can't complain too much, at least her finger wasn't in my ass."
+msgstr "[M] I mean, I guess I can't complain too much, at least her finger wasn't in my ass."
 
 # game/UpdateScript0.02.rpy:2211## # translate crowdin mominbedwithsidney_65b1892d:
 msgid "MT "{i}.... although I do like things in my ass.... {/i}"
@@ -4819,56 +4819,56 @@ msgid "[R] Hey Matt, hey Megan, Miss [mom_name]? Do you have a minute to go over
 msgstr "[R] Hey Matt, hey Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
 
 # game/UpdateScript0.02.rpy:3249## # translate crowdin invitemomtooffice_e8074312:
-msgid "M "Ok [ryan], go to my office and I'll be right there."
-    M "Ok [ryan], go to my office and I'll be right there."
+msgid "[M] Ok [ryan], go to my office and I'll be right there."
+msgstr "[M] Ok [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3250## # translate crowdin invitemomtooffice_b4a078ed:
 msgid "[R] Mom!"
 msgstr "[R] Mom!"
 
 # game/UpdateScript0.02.rpy:3251## # translate crowdin invitemomtooffice_623e7626:
-msgid "M "I mean [ryan], go to my office and I'll be right there."
-    M "I mean [ryan], go to my office and I'll be right there."
+msgid "[M] I mean [ryan], go to my office and I'll be right there."
+msgstr "[M] I mean [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3258## # translate crowdin invitemomtooffice_8b7a4f81:
 msgid "[R] Hi Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
 msgstr "[R] Hi Megan, Miss [mom_name]? Do you have a minute to go over a few things with my Oedipus assignment with me?"
 
 # game/UpdateScript0.02.rpy:3259## # translate crowdin invitemomtooffice_2a03a09f:
-msgid "M "Ok, Ok, [ryan], go to my office and I'll be right there."
-    M "Ok, Ok, [ryan], go to my office and I'll be right there."
+msgid "[M] Ok, Ok, [ryan], go to my office and I'll be right there."
+msgstr "[M] Ok, Ok, [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3260## # translate crowdin invitemomtooffice_b4a078ed_1:
 msgid "[R] Mom!"
 msgstr "[R] Mom!"
 
 # game/UpdateScript0.02.rpy:3261## # translate crowdin invitemomtooffice_623e7626_1:
-msgid "M "I mean [ryan], go to my office and I'll be right there."
-    M "I mean [ryan], go to my office and I'll be right there."
+msgid "[M] I mean [ryan], go to my office and I'll be right there."
+msgstr "[M] I mean [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3268## # translate crowdin invitemomtooffice_4306af1d:
-msgid "M "Oh, hi honey."
-    M "Oh, hi honey."
+msgid "[M] Oh, hi honey."
+msgstr "[M] Oh, hi honey."
 
 # game/UpdateScript0.02.rpy:3269## # translate crowdin invitemomtooffice_8ec6149a:
 msgid "[R] Mom, remember? I don't want you to call me honey at school."
 msgstr "[R] Mom, remember? I don't want you to call me honey at school."
 
 # game/UpdateScript0.02.rpy:3270## # translate crowdin invitemomtooffice_4f38eed8:
-msgid "M "Oh right, I'm sorry I forgot, [ryan]."
-    M "Oh right, I'm sorry I forgot, [ryan]."
+msgid "[M] Oh right, I'm sorry I forgot, [ryan]."
+msgstr "[M] Oh right, I'm sorry I forgot, [ryan]."
 
 # game/UpdateScript0.02.rpy:3271## # translate crowdin invitemomtooffice_66b15a2d:
-msgid "M "But if I can't call you honey, you have to call me Miss [mom_name]."
-    M "But if I can't call you honey, you have to call me Miss [mom_name]."
+msgid "[M] But if I can't call you honey, you have to call me Miss [mom_name]."
+msgstr "[M] But if I can't call you honey, you have to call me Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3272## # translate crowdin invitemomtooffice_5a5a3f30:
 msgid "[R] Ok Miss [mom_name]."
 msgstr "[R] Ok Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3273## # translate crowdin invitemomtooffice_ae756d3c:
-msgid "M "We were all actually just talking about you."
-    M "We were all actually just talking about you."
+msgid "[M] We were all actually just talking about you."
+msgstr "[M] We were all actually just talking about you."
 
 # game/UpdateScript0.02.rpy:3274## # translate crowdin invitemomtooffice_2113744a:
 msgid "[R] Really? What about?"
@@ -4887,24 +4887,24 @@ msgid "MG "And your name is on the top of the chart."
     MG "And your name is on the top of the chart."
 
 # game/UpdateScript0.02.rpy:3278## # translate crowdin invitemomtooffice_8cc11a35:
-msgid "M "But I'm dying to know what girl you should be coupled with."
-    M "But I'm dying to know what girl you should be coupled with."
+msgid "[M] But I'm dying to know what girl you should be coupled with."
+msgstr "[M] But I'm dying to know what girl you should be coupled with."
 
 # game/UpdateScript0.02.rpy:3279## # translate crowdin invitemomtooffice_0b5ad0de:
-msgid "M "They were just about to tell me."
-    M "They were just about to tell me."
+msgid "[M] They were just about to tell me."
+msgstr "[M] They were just about to tell me."
 
 # game/UpdateScript0.02.rpy:3280## # translate crowdin invitemomtooffice_e7437c78:
 msgid "MB "Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
     MB "Actually, Miss [mom_name], you were the one the students wanted to see [ryan] coupled up with."
 
 # game/UpdateScript0.02.rpy:3283## # translate crowdin invitemomtooffice_d8bf5ca9:
-msgid "M "What?"
-    M "What?"
+msgid "[M] What?"
+msgstr "[M] What?"
 
 # game/UpdateScript0.02.rpy:3284## # translate crowdin invitemomtooffice_773f5a4f:
-msgid "M "Matt, that isn't funny!"
-    M "Matt, that isn't funny!"
+msgid "[M] Matt, that isn't funny!"
+msgstr "[M] Matt, that isn't funny!"
 
 # game/UpdateScript0.02.rpy:3285## # translate crowdin invitemomtooffice_1edbdf8e:
 msgid "MB "I'm serious!"
@@ -4927,88 +4927,88 @@ msgid "MG "You passed down your sexiest genes Miss [mom_name]!"
     MG "You passed down your sexiest genes Miss [mom_name]!"
 
 # game/UpdateScript0.02.rpy:3292## # translate crowdin invitemomtooffice_2941e037:
-msgid "M "Oh, you two!"
-    M "Oh, you two!"
+msgid "[M] Oh, you two!"
+msgstr "[M] Oh, you two!"
 
 # game/UpdateScript0.02.rpy:3293## # translate crowdin invitemomtooffice_ea10e41b:
-msgid "M "What am I going to do with you?"
-    M "What am I going to do with you?"
+msgid "[M] What am I going to do with you?"
+msgstr "[M] What am I going to do with you?"
 
 # game/UpdateScript0.02.rpy:3294## # translate crowdin invitemomtooffice_fbce5781:
 msgid "[R] Hey Miss [mom_name], do you have a minute. I really need to meet with you about the Oedipus assignment you gave us."
 msgstr "[R] Hey Miss [mom_name], do you have a minute. I really need to meet with you about the Oedipus assignment you gave us."
 
 # game/UpdateScript0.02.rpy:3295## # translate crowdin invitemomtooffice_7c4c0e04:
-msgid "M "Ok honey, go to my office and I'll be right there."
-    M "Ok honey, go to my office and I'll be right there."
+msgid "[M] Ok honey, go to my office and I'll be right there."
+msgstr "[M] Ok honey, go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3296## # translate crowdin invitemomtooffice_b4a078ed_2:
 msgid "[R] Mom!"
 msgstr "[R] Mom!"
 
 # game/UpdateScript0.02.rpy:3297## # translate crowdin invitemomtooffice_623e7626_2:
-msgid "M "I mean [ryan], go to my office and I'll be right there."
-    M "I mean [ryan], go to my office and I'll be right there."
+msgid "[M] I mean [ryan], go to my office and I'll be right there."
+msgstr "[M] I mean [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3304## # translate crowdin invitemomtooffice_4306af1d_1:
-msgid "M "Oh, hi honey."
-    M "Oh, hi honey."
+msgid "[M] Oh, hi honey."
+msgstr "[M] Oh, hi honey."
 
 # game/UpdateScript0.02.rpy:3305## # translate crowdin invitemomtooffice_8ec6149a_1:
 msgid "[R] Mom, remember? I don't want you to call me honey at school."
 msgstr "[R] Mom, remember? I don't want you to call me honey at school."
 
 # game/UpdateScript0.02.rpy:3306## # translate crowdin invitemomtooffice_4f38eed8_1:
-msgid "M "Oh right, I'm sorry I forgot, [ryan]."
-    M "Oh right, I'm sorry I forgot, [ryan]."
+msgid "[M] Oh right, I'm sorry I forgot, [ryan]."
+msgstr "[M] Oh right, I'm sorry I forgot, [ryan]."
 
 # game/UpdateScript0.02.rpy:3307## # translate crowdin invitemomtooffice_66b15a2d_1:
-msgid "M "But if I can't call you honey, you have to call me Miss [mom_name]."
-    M "But if I can't call you honey, you have to call me Miss [mom_name]."
+msgid "[M] But if I can't call you honey, you have to call me Miss [mom_name]."
+msgstr "[M] But if I can't call you honey, you have to call me Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3308## # translate crowdin invitemomtooffice_5a5a3f30_1:
 msgid "[R] Ok Miss [mom_name]."
 msgstr "[R] Ok Miss [mom_name]."
 
 # game/UpdateScript0.02.rpy:3309## # translate crowdin invitemomtooffice_aac26a50:
-msgid "M "Did you need something?"
-    M "Did you need something?"
+msgid "[M] Did you need something?"
+msgstr "[M] Did you need something?"
 
 # game/UpdateScript0.02.rpy:3310## # translate crowdin invitemomtooffice_afcedf68:
 msgid "[R] Yeah actually, I really need to meet with you about the Oedipus assignment you gave us."
 msgstr "[R] Yeah actually, I really need to meet with you about the Oedipus assignment you gave us."
 
 # game/UpdateScript0.02.rpy:3311## # translate crowdin invitemomtooffice_7c4c0e04_1:
-msgid "M "Ok honey, go to my office and I'll be right there."
-    M "Ok honey, go to my office and I'll be right there."
+msgid "[M] Ok honey, go to my office and I'll be right there."
+msgstr "[M] Ok honey, go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3312## # translate crowdin invitemomtooffice_b4a078ed_3:
 msgid "[R] Mom!"
 msgstr "[R] Mom!"
 
 # game/UpdateScript0.02.rpy:3313## # translate crowdin invitemomtooffice_623e7626_3:
-msgid "M "I mean [ryan], go to my office and I'll be right there."
-    M "I mean [ryan], go to my office and I'll be right there."
+msgid "[M] I mean [ryan], go to my office and I'll be right there."
+msgstr "[M] I mean [ryan], go to my office and I'll be right there."
 
 # game/UpdateScript0.02.rpy:3324## # translate crowdin momsoffice_7c9f259b:
-msgid "M "Ok honey, so what was it that you wanted to ask me?"
-    M "Ok honey, so what was it that you wanted to ask me?"
+msgid "[M] Ok honey, so what was it that you wanted to ask me?"
+msgstr "[M] Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3325## # translate crowdin momsoffice_79dad77f:
 msgid "[R] I was just wondering if you got a chance to play more of those games I sent you, to see if they would work for my assignment."
 msgstr "[R] I was just wondering if you got a chance to play more of those games I sent you, to see if they would work for my assignment."
 
 # game/UpdateScript0.02.rpy:3326## # translate crowdin momsoffice_426bf7f9:
-msgid "M "No I haven't quite had time yet."
-    M "No I haven't quite had time yet."
+msgid "[M] No I haven't quite had time yet."
+msgstr "[M] No I haven't quite had time yet."
 
 # game/UpdateScript0.02.rpy:3327## # translate crowdin momsoffice_6b774b6b:
 msgid "[R] Well, would you like to play a little bit more of them with me right now, to see if you can find a reason why they wouldn't work?"
 msgstr "[R] Well, would you like to play a little bit more of them with me right now, to see if you can find a reason why they wouldn't work?"
 
 # game/UpdateScript0.02.rpy:3328## # translate crowdin momsoffice_db3aade8:
-msgid "M "Sure, just scooch over a chair and I'll come sit by you so we can play together."
-    M "Sure, just scooch over a chair and I'll come sit by you so we can play together."
+msgid "[M] Sure, just scooch over a chair and I'll come sit by you so we can play together."
+msgstr "[M] Sure, just scooch over a chair and I'll come sit by you so we can play together."
 
 # game/UpdateScript0.02.rpy:3331## # translate crowdin momsoffice_ae959015:
 msgid "[R] Ok, let me just look through my F95Zone downloads."
@@ -5019,8 +5019,8 @@ msgid "[R] Oh yes, here they are."
 msgstr "[R] Oh yes, here they are."
 
 # game/UpdateScript0.02.rpy:3343## # translate crowdin momsoffice_6c23fa5f:
-msgid "M "We keep seeing the same scenes over and over."
-    M "We keep seeing the same scenes over and over."
+msgid "[M] We keep seeing the same scenes over and over."
+msgstr "[M] We keep seeing the same scenes over and over."
 
 # game/UpdateScript0.02.rpy:3344## # translate crowdin momsoffice_8bfe6000:
 msgid "[R] Yeah, that's called grinding, the best games require it to build your stats."
@@ -5031,32 +5031,32 @@ msgid "[R] It makes each scene you unlock feel even more rewarding."
 msgstr "[R] It makes each scene you unlock feel even more rewarding."
 
 # game/UpdateScript0.02.rpy:3346## # translate crowdin momsoffice_ec8a7089:
-msgid "M "That makes a lot of sense."
-    M "That makes a lot of sense."
+msgid "[M] That makes a lot of sense."
+msgstr "[M] That makes a lot of sense."
 
 # game/UpdateScript0.02.rpy:3349## # translate crowdin momsoffice_2bb50312:
 msgid "[R] So, did you see anything that would disqualify these games from my assignment?"
 msgstr "[R] So, did you see anything that would disqualify these games from my assignment?"
 
 # game/UpdateScript0.02.rpy:3350## # translate crowdin momsoffice_94a771d0:
-msgid "M "Uhhh.... no!.... Nothing obvious."
-    M "Uhhh.... no!.... Nothing obvious."
+msgid "[M] Uhhh.... no!.... Nothing obvious."
+msgstr "[M] Uhhh.... no!.... Nothing obvious."
 
 # game/UpdateScript0.02.rpy:3351## # translate crowdin momsoffice_7465acc3:
-msgid "M "I think you're on the right track. But maybe when you have some time again, come by and we can keep playing to make sure."
-    M "I think you're on the right track. But maybe when you have some time again, come by and we can keep playing to make sure."
+msgid "[M] I think you're on the right track. But maybe when you have some time again, come by and we can keep playing to make sure."
+msgstr "[M] I think you're on the right track. But maybe when you have some time again, come by and we can keep playing to make sure."
 
 # game/UpdateScript0.02.rpy:3352## # translate crowdin momsoffice_6ea6c2df:
-msgid "M "Plus I'm dying to see what happens in the new updates."
-    M "Plus I'm dying to see what happens in the new updates."
+msgid "[M] Plus I'm dying to see what happens in the new updates."
+msgstr "[M] Plus I'm dying to see what happens in the new updates."
 
 # game/UpdateScript0.02.rpy:3353## # translate crowdin momsoffice_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3355## # translate crowdin momsoffice_65dbf55c:
-msgid "M "Ok, I really need to get back to my class, I'll see you at home tonight."
-    M "Ok, I really need to get back to my class, I'll see you at home tonight."
+msgid "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
+msgstr "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3356## # translate crowdin momsoffice_0a9bc157:
 msgid "[R] Ok Mom, see you later."
@@ -5071,8 +5071,8 @@ msgid "[RT] {i}She seems to have no problem with them, in fact she seems to real
 msgstr "[RT] {i}She seems to have no problem with them, in fact she seems to really enjoy them.{/i}"
 
 # game/UpdateScript0.02.rpy:3369## # translate crowdin momsoffice_7c9f259b_1:
-msgid "M "Ok honey, so what was it that you wanted to ask me?"
-    M "Ok honey, so what was it that you wanted to ask me?"
+msgid "[M] Ok honey, so what was it that you wanted to ask me?"
+msgstr "[M] Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3370## # translate crowdin momsoffice_28e0c223:
 msgid "[R] I'm still struggling with this Oedipus assignment."
@@ -5087,8 +5087,8 @@ msgid "[R] It's another video game I found online, can you come look at it with 
 msgstr "[R] It's another video game I found online, can you come look at it with me and see what you think."
 
 # game/UpdateScript0.02.rpy:3375## # translate crowdin momsoffice_4b55c26e:
-msgid "M "Ok just scooch over a chair and I'll come sit by you so you can show me."
-    M "Ok just scooch over a chair and I'll come sit by you so you can show me."
+msgid "[M] Ok just scooch over a chair and I'll come sit by you so you can show me."
+msgstr "[M] Ok just scooch over a chair and I'll come sit by you so you can show me."
 
 # game/UpdateScript0.02.rpy:3378## # translate crowdin momsoffice_ae959015_1:
 msgid "[R] Ok, let me just look through my F95Zone downloads."
@@ -5099,48 +5099,48 @@ msgid "[R] Oh yes, here it is."
 msgstr "[R] Oh yes, here it is."
 
 # game/UpdateScript0.02.rpy:3383## # translate crowdin momsoffice_fd89a40d:
-msgid "M "Milfy City, huh?"
-    M "Milfy City, huh?"
+msgid "[M] Milfy City, huh?"
+msgstr "[M] Milfy City, huh?"
 
 # game/UpdateScript0.02.rpy:3384## # translate crowdin momsoffice_dbed3871:
-msgid "M "What on earth is a Milf?"
-    M "What on earth is a Milf?"
+msgid "[M] What on earth is a Milf?"
+msgstr "[M] What on earth is a Milf?"
 
 # game/UpdateScript0.02.rpy:3385## # translate crowdin momsoffice_e00a42df:
 msgid "[R] Just a hot mom."
 msgstr "[R] Just a hot mom."
 
 # game/UpdateScript0.02.rpy:3386## # translate crowdin momsoffice_5cbd3ce0:
-msgid "M "Ok, well let's take a look."
-    M "Ok, well let's take a look."
+msgid "[M] Ok, well let's take a look."
+msgstr "[M] Ok, well let's take a look."
 
 # game/UpdateScript0.02.rpy:3391## # translate crowdin momsoffice_7063e3cf:
-msgid "M "Wow! Somehow the mom kissing her son makes this so much more intimate than even the sex."
-    M "Wow! Somehow the mom kissing her son makes this so much more intimate than even the sex."
+msgid "[M] Wow! Somehow the mom kissing her son makes this so much more intimate than even the sex."
+msgstr "[M] Wow! Somehow the mom kissing her son makes this so much more intimate than even the sex."
 
 # game/UpdateScript0.02.rpy:3392## # translate crowdin momsoffice_b004b47d:
 msgid "[R] Yeah, it makes you kind of understand why some people get into these types of games."
 msgstr "[R] Yeah, it makes you kind of understand why some people get into these types of games."
 
 # game/UpdateScript0.02.rpy:3393## # translate crowdin momsoffice_3b2f6452:
-msgid "M "Hmmmm.... yes, well keep going."
-    M "Hmmmm.... yes, well keep going."
+msgid "[M] Hmmmm.... yes, well keep going."
+msgstr "[M] Hmmmm.... yes, well keep going."
 
 # game/UpdateScript0.02.rpy:3398## # translate crowdin momsoffice_015f3b71:
-msgid "M "This kid's dick is as big as yours."
-    M "This kid's dick is as big as yours."
+msgid "[M] This kid's dick is as big as yours."
+msgstr "[M] This kid's dick is as big as yours."
 
 # game/UpdateScript0.02.rpy:3399## # translate crowdin momsoffice_1eba9e7f:
-msgid "M "Wait! I shouldn't have said that.... I'm sorry if I made you uncomfortable."
-    M "Wait! I shouldn't have said that.... I'm sorry if I made you uncomfortable."
+msgid "[M] Wait! I shouldn't have said that.... I'm sorry if I made you uncomfortable."
+msgstr "[M] Wait! I shouldn't have said that.... I'm sorry if I made you uncomfortable."
 
 # game/UpdateScript0.02.rpy:3400## # translate crowdin momsoffice_d595540c:
 msgid "[R] It's ok, it's flattering that my dick impressed you that much."
 msgstr "[R] It's ok, it's flattering that my dick impressed you that much."
 
 # game/UpdateScript0.02.rpy:3401## # translate crowdin momsoffice_ffca2bff:
-msgid "M "Don't push it!"
-    M "Don't push it!"
+msgid "[M] Don't push it!"
+msgstr "[M] Don't push it!"
 
 # game/UpdateScript0.02.rpy:3404## # translate crowdin momsoffice_56a97f43:
 msgid "[R] So, do you think this one is good example for my paper as well?"
@@ -5151,20 +5151,20 @@ msgid "[R] Mom, are you alright?"
 msgstr "[R] Mom, are you alright?"
 
 # game/UpdateScript0.02.rpy:3406## # translate crowdin momsoffice_a6b6cd95:
-msgid "M "Uhhh.... yes!.... Of course.... just a little flustered from that game."
-    M "Uhhh.... yes!.... Of course.... just a little flustered from that game."
+msgid "[M] Uhhh.... yes!.... Of course.... just a little flustered from that game."
+msgstr "[M] Uhhh.... yes!.... Of course.... just a little flustered from that game."
 
 # game/UpdateScript0.02.rpy:3407## # translate crowdin momsoffice_9a71c8ae:
-msgid "M "But yes you're right. I think you're on the right track. Send me a link to that game as well, so I can make sure it falls completely within the umbrella of this assignment."
-    M "But yes you're right. I think you're on the right track. Send me a link to that game as well, so I can make sure it falls completely within the umbrella of this assignment."
+msgid "[M] But yes you're right. I think you're on the right track. Send me a link to that game as well, so I can make sure it falls completely within the umbrella of this assignment."
+msgstr "[M] But yes you're right. I think you're on the right track. Send me a link to that game as well, so I can make sure it falls completely within the umbrella of this assignment."
 
 # game/UpdateScript0.02.rpy:3408## # translate crowdin momsoffice_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3410## # translate crowdin momsoffice_65dbf55c_1:
-msgid "M "Ok, I really need to get back to my class, I'll see you at home tonight."
-    M "Ok, I really need to get back to my class, I'll see you at home tonight."
+msgid "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
+msgstr "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3411## # translate crowdin momsoffice_b25d89fe:
 msgid "[R] Ok, Mom, see you later."
@@ -5179,8 +5179,8 @@ msgid "[RT] {i}I'll have to show her some more of those games to see how she rea
 msgstr "[RT] {i}I'll have to show her some more of those games to see how she reacts.{/i}"
 
 # game/UpdateScript0.02.rpy:3424## # translate crowdin momsoffice_7c9f259b_2:
-msgid "M "Ok honey, so what was it that you wanted to ask me?"
-    M "Ok honey, so what was it that you wanted to ask me?"
+msgid "[M] Ok honey, so what was it that you wanted to ask me?"
+msgstr "[M] Ok honey, so what was it that you wanted to ask me?"
 
 # game/UpdateScript0.02.rpy:3425## # translate crowdin momsoffice_fe43db32:
 msgid "[R] I'm just kind of struggling with this Oedipus assignment."
@@ -5195,36 +5195,36 @@ msgid "[R] But when I search for Oedipus stuff on the internet. I find stuff tha
 msgstr "[R] But when I search for Oedipus stuff on the internet. I find stuff that is kind of porn-ish."
 
 # game/UpdateScript0.02.rpy:3428## # translate crowdin momsoffice_76190a68:
-msgid "M "Yeah, I've been worried about this assignment turning up that kind of stuff."
-    M "Yeah, I've been worried about this assignment turning up that kind of stuff."
+msgid "[M] Yeah, I've been worried about this assignment turning up that kind of stuff."
+msgstr "[M] Yeah, I've been worried about this assignment turning up that kind of stuff."
 
 # game/UpdateScript0.02.rpy:3429## # translate crowdin momsoffice_e9fcf189:
-msgid "M "In fact I hate this new curriculum."
-    M "In fact I hate this new curriculum."
+msgid "[M] In fact I hate this new curriculum."
+msgstr "[M] In fact I hate this new curriculum."
 
 # game/UpdateScript0.02.rpy:3430## # translate crowdin momsoffice_dcd0ad96:
-msgid "M "But I'm forced to teach it, because if I don't I'll be fired."
-    M "But I'm forced to teach it, because if I don't I'll be fired."
+msgid "[M] But I'm forced to teach it, because if I don't I'll be fired."
+msgstr "[M] But I'm forced to teach it, because if I don't I'll be fired."
 
 # game/UpdateScript0.02.rpy:3431## # translate crowdin momsoffice_ce3869e8:
 msgid "[R] It's not as bad as I originally thought it would be. But if you don't get to choose what you teach, who sets the curriculum?"
 msgstr "[R] It's not as bad as I originally thought it would be. But if you don't get to choose what you teach, who sets the curriculum?"
 
 # game/UpdateScript0.02.rpy:3432## # translate crowdin momsoffice_4c526736:
-msgid "M "Some pervert on the school board named Will Tylor. He's some kind of deviant from what I can tell."
-    M "Some pervert on the school board named Will Tylor. He's some kind of deviant from what I can tell."
+msgid "[M] Some pervert on the school board named Will Tylor. He's some kind of deviant from what I can tell."
+msgstr "[M] Some pervert on the school board named Will Tylor. He's some kind of deviant from what I can tell."
 
 # game/UpdateScript0.02.rpy:3433## # translate crowdin momsoffice_40913296:
-msgid "M "I just hope he gets fired before his curriculum corrupts everyone on the school board, and in the schools."
-    M "I just hope he gets fired before his curriculum corrupts everyone on the school board, and in the schools."
+msgid "[M] I just hope he gets fired before his curriculum corrupts everyone on the school board, and in the schools."
+msgstr "[M] I just hope he gets fired before his curriculum corrupts everyone on the school board, and in the schools."
 
 # game/UpdateScript0.02.rpy:3434## # translate crowdin momsoffice_2631ca7b:
 msgid "[R] Hmmmm.... sounds like an asshole."
 msgstr "[R] Hmmmm.... sounds like an asshole."
 
 # game/UpdateScript0.02.rpy:3435## # translate crowdin momsoffice_f0871a81:
-msgid "M "He really is."
-    M "He really is."
+msgid "[M] He really is."
+msgstr "[M] He really is."
 
 # game/UpdateScript0.02.rpy:3436## # translate crowdin momsoffice_5576b4d1:
 msgid "[R] Well then, I wanted to show you something that I found on the internet, and see if it works for my Oedipus assignment."
@@ -5235,8 +5235,8 @@ msgid "[R] It's just this video game I found online, can you come look at it wit
 msgstr "[R] It's just this video game I found online, can you come look at it with me and see what you think."
 
 # game/UpdateScript0.02.rpy:3440## # translate crowdin momsoffice_a66aed00:
-msgid "M "Sure, just scooch over a chair and I'll come sit by you so you can show me."
-    M "Sure, just scooch over a chair and I'll come sit by you so you can show me."
+msgid "[M] Sure, just scooch over a chair and I'll come sit by you so you can show me."
+msgstr "[M] Sure, just scooch over a chair and I'll come sit by you so you can show me."
 
 # game/UpdateScript0.02.rpy:3443## # translate crowdin momsoffice_ae959015_2:
 msgid "[R] Ok, let me just look through my F95Zone downloads."
@@ -5247,40 +5247,40 @@ msgid "[R] Oh yes, here it is."
 msgstr "[R] Oh yes, here it is."
 
 # game/UpdateScript0.02.rpy:3448## # translate crowdin momsoffice_dd0f6dfa:
-msgid "M "Big Brother, huh?"
-    M "Big Brother, huh?"
+msgid "[M] Big Brother, huh?"
+msgstr "[M] Big Brother, huh?"
 
 # game/UpdateScript0.02.rpy:3449## # translate crowdin momsoffice_1291d6a3:
-msgid "M "Is this like that voyeuristic television show on TV?"
-    M "Is this like that voyeuristic television show on TV?"
+msgid "[M] Is this like that voyeuristic television show on TV?"
+msgstr "[M] Is this like that voyeuristic television show on TV?"
 
 # game/UpdateScript0.02.rpy:3450## # translate crowdin momsoffice_4a67eccf:
 msgid "[R] No this isn't nearly that lewd."
 msgstr "[R] No this isn't nearly that lewd."
 
 # game/UpdateScript0.02.rpy:3451## # translate crowdin momsoffice_5cbd3ce0_1:
-msgid "M "Ok, well let's take a look."
-    M "Ok, well let's take a look."
+msgid "[M] Ok, well let's take a look."
+msgstr "[M] Ok, well let's take a look."
 
 # game/UpdateScript0.02.rpy:3456## # translate crowdin momsoffice_06dc1071:
-msgid "M "Uggghh.... are we really supposed to continue to believe that the mom is so stupid to believe she needs to jack off her son because he has carpal tunnel syndrome?"
-    M "Uggghh.... are we really supposed to continue to believe that the mom is so stupid to believe she needs to jack off her son because he has carpal tunnel syndrome?"
+msgid "[M] Uggghh.... are we really supposed to continue to believe that the mom is so stupid to believe she needs to jack off her son because he has carpal tunnel syndrome?"
+msgstr "[M] Uggghh.... are we really supposed to continue to believe that the mom is so stupid to believe she needs to jack off her son because he has carpal tunnel syndrome?"
 
 # game/UpdateScript0.02.rpy:3457## # translate crowdin momsoffice_b13394b9:
 msgid "[R] Mom, try to remember that it's just a game. It may be a bit ridiculous, but it's hard to make up situations where a mom would willingly enter a relationship with her son."
 msgstr "[R] Mom, try to remember that it's just a game. It may be a bit ridiculous, but it's hard to make up situations where a mom would willingly enter a relationship with her son."
 
 # game/UpdateScript0.02.rpy:3458## # translate crowdin momsoffice_44077d45:
-msgid "M "Hmmmm.... well, keep going."
-    M "Hmmmm.... well, keep going."
+msgid "[M] Hmmmm.... well, keep going."
+msgstr "[M] Hmmmm.... well, keep going."
 
 # game/UpdateScript0.02.rpy:3463## # translate crowdin momsoffice_c1d7953e:
-msgid "M "And now she's a party to the corruption of her daughter?"
-    M "And now she's a party to the corruption of her daughter?"
+msgid "[M] And now she's a party to the corruption of her daughter?"
+msgstr "[M] And now she's a party to the corruption of her daughter?"
 
 # game/UpdateScript0.02.rpy:3464## # translate crowdin momsoffice_c2c10168:
-msgid "M "I think that's all we should see for today."
-    M "I think that's all we should see for today."
+msgid "[M] I think that's all we should see for today."
+msgstr "[M] I think that's all we should see for today."
 
 # game/UpdateScript0.02.rpy:3467## # translate crowdin momsoffice_6e5e2012:
 msgid "[R] It's just fiction Mom, but there are a lot of people into these kind of games. I think it would be a good argument in my paper."
@@ -5291,20 +5291,20 @@ msgid "[R] Mom, are you alright?"
 msgstr "[R] Mom, are you alright?"
 
 # game/UpdateScript0.02.rpy:3469## # translate crowdin momsoffice_a6b6cd95_1:
-msgid "M "Uhhh.... yes!.... Of course.... just a little flustered from that game."
-    M "Uhhh.... yes!.... Of course.... just a little flustered from that game."
+msgid "[M] Uhhh.... yes!.... Of course.... just a little flustered from that game."
+msgstr "[M] Uhhh.... yes!.... Of course.... just a little flustered from that game."
 
 # game/UpdateScript0.02.rpy:3470## # translate crowdin momsoffice_e5eda73b:
-msgid "M "But yes you're right. I think you're on the right track. Send me a link to that game so I can make sure it falls completely within the umbrella of this assignment."
-    M "But yes you're right. I think you're on the right track. Send me a link to that game so I can make sure it falls completely within the umbrella of this assignment."
+msgid "[M] But yes you're right. I think you're on the right track. Send me a link to that game so I can make sure it falls completely within the umbrella of this assignment."
+msgstr "[M] But yes you're right. I think you're on the right track. Send me a link to that game so I can make sure it falls completely within the umbrella of this assignment."
 
 # game/UpdateScript0.02.rpy:3471## # translate crowdin momsoffice_3265e8ee_2:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3473## # translate crowdin momsoffice_65dbf55c_2:
-msgid "M "Ok, I really need to get back to my class, I'll see you at home tonight."
-    M "Ok, I really need to get back to my class, I'll see you at home tonight."
+msgid "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
+msgstr "[M] Ok, I really need to get back to my class, I'll see you at home tonight."
 
 # game/UpdateScript0.02.rpy:3474## # translate crowdin momsoffice_0a9bc157_1:
 msgid "[R] Ok Mom, see you later."
@@ -5959,8 +5959,8 @@ msgid "J "That's right beautiful! Let me get a good feel of those tits."
     J "That's right beautiful! Let me get a good feel of those tits."
 
 # game/UpdateScript0.02.rpy:3811## # translate crowdin ntrclub_5fcad9a3:
-msgid "M "The customer's not supposed to touch us during private dances."
-    M "The customer's not supposed to touch us during private dances."
+msgid "[M] The customer's not supposed to touch us during private dances."
+msgstr "[M] The customer's not supposed to touch us during private dances."
 
 # game/UpdateScript0.02.rpy:3812## # translate crowdin ntrclub_39abe3d8:
 msgid "J "Well, I'm not just any customer, am I?"
@@ -5971,20 +5971,20 @@ msgid "J "Now put your leg up here."
     J "Now put your leg up here."
 
 # game/UpdateScript0.02.rpy:3816## # translate crowdin ntrclub_982bd1eb:
-msgid "M "Oh my God, Joey, this is so wrong!"
-    M "Oh my God, Joey, this is so wrong!"
+msgid "[M] Oh my God, Joey, this is so wrong!"
+msgstr "[M] Oh my God, Joey, this is so wrong!"
 
 # game/UpdateScript0.02.rpy:3817## # translate crowdin ntrclub_0b65c13c:
-msgid "M "Nobody has touched me here but [dad_name] since we've been married."
-    M "Nobody has touched me here but [dad_name] since we've been married."
+msgid "[M] Nobody has touched me here but [dad_name] since we've been married."
+msgstr "[M] Nobody has touched me here but [dad_name] since we've been married."
 
 # game/UpdateScript0.02.rpy:3818## # translate crowdin ntrclub_e5723e8b:
 msgid "J "Oh, but I know you love it! My fingers are getting soaked."
     J "Oh, but I know you love it! My fingers are getting soaked."
 
 # game/UpdateScript0.02.rpy:3819## # translate crowdin ntrclub_ec1f68ea:
-msgid "M "Maybe I do just a little."
-    M "Maybe I do just a little."
+msgid "[M] Maybe I do just a little."
+msgstr "[M] Maybe I do just a little."
 
 # game/UpdateScript0.02.rpy:3820## # translate crowdin ntrclub_a0cc735a:
 msgid "[RT] {i}Dammit! I wanted to be the first since Dad!{/i}"
@@ -6003,8 +6003,8 @@ msgid "J "Why don't you come down here and give me that lap-dance now."
     J "Why don't you come down here and give me that lap-dance now."
 
 # game/UpdateScript0.02.rpy:3908## # translate crowdin ntrclub_bb26afff:
-msgid "M "Joey, what are you doing back there?"
-    M "Joey, what are you doing back there?"
+msgid "[M] Joey, what are you doing back there?"
+msgstr "[M] Joey, what are you doing back there?"
 
 # game/UpdateScript0.02.rpy:3909## # translate crowdin ntrclub_bd116ee0:
 msgid "J "Just letting \"Little Joey\" get some air."
@@ -6035,8 +6035,8 @@ msgid "J "Oh yeah, [mom_name]! That was great!"
     J "Oh yeah, [mom_name]! That was great!"
 
 # game/UpdateScript0.02.rpy:3968## # translate crowdin ntrclub_4f955fdd:
-msgid "M "Uhhh.... did you just do what I think you did?"
-    M "Uhhh.... did you just do what I think you did?"
+msgid "[M] Uhhh.... did you just do what I think you did?"
+msgstr "[M] Uhhh.... did you just do what I think you did?"
 
 # game/UpdateScript0.02.rpy:3969## # translate crowdin ntrclub_028b396f:
 msgid "J "Oh Yeah!"
@@ -6051,8 +6051,8 @@ msgid "J "I'm sure your son Ron's waiting up for you."
     J "I'm sure your son Ron's waiting up for you."
 
 # game/UpdateScript0.02.rpy:3972## # translate crowdin ntrclub_34f4d931:
-msgid "M "You mean [ryan]?"
-    M "You mean [ryan]?"
+msgid "[M] You mean [ryan]?"
+msgstr "[M] You mean [ryan]?"
 
 # game/UpdateScript0.02.rpy:3973## # translate crowdin ntrclub_adb6c13e:
 msgid "J "Whatever."

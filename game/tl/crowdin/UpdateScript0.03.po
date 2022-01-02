@@ -923,16 +923,16 @@ msgid "[R] Hey Mom, is everything ok this morning?"
 msgstr "[R] Hey Mom, is everything ok this morning?"
 
 # game/UpdateScript0.03.rpy:904## # translate crowdin firstloyaltyweekend_e8c2a5b4:
-msgid "M "Oh, good morning honey! Yeah, actually everything is great this morning!"
-    M "Oh, good morning honey! Yeah, actually everything is great this morning!"
+msgid "[M] Oh, good morning honey! Yeah, actually everything is great this morning!"
+msgstr "[M] Oh, good morning honey! Yeah, actually everything is great this morning!"
 
 # game/UpdateScript0.03.rpy:907## # translate crowdin firstloyaltyweekend_7c1a9cf7:
 msgid "[R] But isn't it a little bit early to start drinking?"
 msgstr "[R] But isn't it a little bit early to start drinking?"
 
 # game/UpdateScript0.03.rpy:910## # translate crowdin firstloyaltyweekend_5a8468be:
-msgid "M "Well, let me correct myself, everything was great, until you came around and started sticking your nose into my business."
-    M "Well, let me correct myself, everything was great, until you came around and started sticking your nose into my business."
+msgid "[M] Well, let me correct myself, everything was great, until you came around and started sticking your nose into my business."
+msgstr "[M] Well, let me correct myself, everything was great, until you came around and started sticking your nose into my business."
 
 # game/UpdateScript0.03.rpy:911## # translate crowdin firstloyaltyweekend_8fc9f793:
 msgid "[RT] {i}I'd love to stick my nose right directly into her business ;){/i}"
@@ -955,24 +955,24 @@ msgid "[R] But I can't help but feel the need to protect you."
 msgstr "[R] But I can't help but feel the need to protect you."
 
 # game/UpdateScript0.03.rpy:919## # translate crowdin firstloyaltyweekend_9881b5e8:
-msgid "M "Well, would it help your peace of mind if I told you I'm drinking in honor of you?"
-    M "Well, would it help your peace of mind if I told you I'm drinking in honor of you?"
+msgid "[M] Well, would it help your peace of mind if I told you I'm drinking in honor of you?"
+msgstr "[M] Well, would it help your peace of mind if I told you I'm drinking in honor of you?"
 
 # game/UpdateScript0.03.rpy:920## # translate crowdin firstloyaltyweekend_98fc553e:
 msgid "[R] Wait.... what?"
 msgstr "[R] Wait.... what?"
 
 # game/UpdateScript0.03.rpy:921## # translate crowdin firstloyaltyweekend_80a46cdc:
-msgid "M "Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
-    M "Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
+msgid "[M] Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
+msgstr "[M] Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
 
 # game/UpdateScript0.03.rpy:922## # translate crowdin firstloyaltyweekend_f18bcb83:
-msgid "M "And then I thought about how that is all thanks to you."
-    M "And then I thought about how that is all thanks to you."
+msgid "[M] And then I thought about how that is all thanks to you."
+msgstr "[M] And then I thought about how that is all thanks to you."
 
 # game/UpdateScript0.03.rpy:925## # translate crowdin firstloyaltyweekend_aeea6a32:
-msgid "M "I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
-    M "I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
+msgid "[M] I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
+msgstr "[M] I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
 
 # game/UpdateScript0.03.rpy:926## # translate crowdin firstloyaltyweekend_21ebdb42:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
@@ -1003,28 +1003,28 @@ msgid "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:938## # translate crowdin firstloyaltyweekend_0c178c1e:
-msgid "M "Oh, honey, you're so sweet!"
-    M "Oh, honey, you're so sweet!"
+msgid "[M] Oh, honey, you're so sweet!"
+msgstr "[M] Oh, honey, you're so sweet!"
 
 # game/UpdateScript0.03.rpy:939## # translate crowdin firstloyaltyweekend_eff831e8:
-msgid "M "Today I'm actually drinking in your honor."
-    M "Today I'm actually drinking in your honor."
+msgid "[M] Today I'm actually drinking in your honor."
+msgstr "[M] Today I'm actually drinking in your honor."
 
 # game/UpdateScript0.03.rpy:940## # translate crowdin firstloyaltyweekend_f6b51e87:
 msgid "[R] Really?"
 msgstr "[R] Really?"
 
 # game/UpdateScript0.03.rpy:941## # translate crowdin firstloyaltyweekend_80a46cdc_1:
-msgid "M "Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
-    M "Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
+msgid "[M] Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
+msgstr "[M] Yeah.... during my workout this morning, I was thinking about how grateful I am that I didn't have to go to the strip club last night, and for quite a few Saturdays now."
 
 # game/UpdateScript0.03.rpy:942## # translate crowdin firstloyaltyweekend_f18bcb83_1:
-msgid "M "And then I thought about how that is all thanks to you."
-    M "And then I thought about how that is all thanks to you."
+msgid "[M] And then I thought about how that is all thanks to you."
+msgstr "[M] And then I thought about how that is all thanks to you."
 
 # game/UpdateScript0.03.rpy:945## # translate crowdin firstloyaltyweekend_aeea6a32_1:
-msgid "M "I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
-    M "I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
+msgid "[M] I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
+msgstr "[M] I just thought stripping was going to be part of my life again until your dad gets out of prison, but now I feel so much safer now that you've shown you're capable of paying your dad's debt."
 
 # game/UpdateScript0.03.rpy:946## # translate crowdin firstloyaltyweekend_21ebdb42_1:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
@@ -1035,16 +1035,16 @@ msgid "[R] It just makes me feel really good to take care of you and make you ha
 msgstr "[R] It just makes me feel really good to take care of you and make you happy."
 
 # game/UpdateScript0.03.rpy:952## # translate crowdin firstloyaltyweekend_3e15b1a2:
-msgid "M "There has to be something I can do for my boy to thank you for everything you've done for me."
-    M "There has to be something I can do for my boy to thank you for everything you've done for me."
+msgid "[M] There has to be something I can do for my boy to thank you for everything you've done for me."
+msgstr "[M] There has to be something I can do for my boy to thank you for everything you've done for me."
 
 # game/UpdateScript0.03.rpy:953## # translate crowdin firstloyaltyweekend_01a45cb3:
 msgid "[R] Oh, you don't have to do anything for me, I'm just doing my job as the head of this household."
 msgstr "[R] Oh, you don't have to do anything for me, I'm just doing my job as the head of this household."
 
 # game/UpdateScript0.03.rpy:956## # translate crowdin firstloyaltyweekend_500162ac:
-msgid "M "I'm still head of this household, you're just the man of the house!"
-    M "I'm still head of this household, you're just the man of the house!"
+msgid "[M] I'm still head of this household, you're just the man of the house!"
+msgstr "[M] I'm still head of this household, you're just the man of the house!"
 
 # game/UpdateScript0.03.rpy:957## # translate crowdin firstloyaltyweekend_e8419ec9:
 msgid "[RT] {i}YES!!.... She just acknowledged that I'm the man of the house!{/i}"
@@ -1055,64 +1055,64 @@ msgid "MT "{i}Shit!! I just admitted to [ryan] that I think of him as the man of
     MT "{i}Shit!! I just admitted to [ryan] that I think of him as the man of the house now. That's going to give him a bigger head.... the kind above his shoulders.... not the kind.... shit.... why did my mind go there?{/i}"
 
 # game/UpdateScript0.03.rpy:961## # translate crowdin firstloyaltyweekend_5c48efb2:
-msgid "M "But really, I want to do something nice for just you to show how grateful I am to you. Isn't there anything you want to do? .... something that doesn't cost any money of course!"
-    M "But really, I want to do something nice for just you to show how grateful I am to you. Isn't there anything you want to do? .... something that doesn't cost any money of course!"
+msgid "[M] But really, I want to do something nice for just you to show how grateful I am to you. Isn't there anything you want to do? .... something that doesn't cost any money of course!"
+msgstr "[M] But really, I want to do something nice for just you to show how grateful I am to you. Isn't there anything you want to do? .... something that doesn't cost any money of course!"
 
 # game/UpdateScript0.03.rpy:962## # translate crowdin firstloyaltyweekend_b0e40590:
 msgid "[R] Hmmmm.... It's been a long time since we went swimming at the club, and we always go with Lauren and she takes all of your attention. I'd love to go with just you!"
 msgstr "[R] Hmmmm.... It's been a long time since we went swimming at the club, and we always go with Lauren and she takes all of your attention. I'd love to go with just you!"
 
 # game/UpdateScript0.03.rpy:963## # translate crowdin firstloyaltyweekend_11351eb2:
-msgid "M "I said something that doesn't cost any money, dear..."
-    M "I said something that doesn't cost any money, dear..."
+msgid "[M] I said something that doesn't cost any money, dear..."
+msgstr "[M] I said something that doesn't cost any money, dear..."
 
 # game/UpdateScript0.03.rpy:964## # translate crowdin firstloyaltyweekend_0519c1d4:
 msgid "[R] Well, haven't you already paid the annual fee for the club membership?"
 msgstr "[R] Well, haven't you already paid the annual fee for the club membership?"
 
 # game/UpdateScript0.03.rpy:965## # translate crowdin firstloyaltyweekend_e8c9b15e:
-msgid "M "Well, yeah.... I mean I guess we have.... but most of the fun is being able to eat at the club restaurant, and to be able to drink some wine and read my book while you kids swim in the pool."
-    M "Well, yeah.... I mean I guess we have.... but most of the fun is being able to eat at the club restaurant, and to be able to drink some wine and read my book while you kids swim in the pool."
+msgid "[M] Well, yeah.... I mean I guess we have.... but most of the fun is being able to eat at the club restaurant, and to be able to drink some wine and read my book while you kids swim in the pool."
+msgstr "[M] Well, yeah.... I mean I guess we have.... but most of the fun is being able to eat at the club restaurant, and to be able to drink some wine and read my book while you kids swim in the pool."
 
 # game/UpdateScript0.03.rpy:966## # translate crowdin firstloyaltyweekend_c3b30fac:
-msgid "M "I don't know how much I would enjoy spending time at the club without..."
-    M "I don't know how much I would enjoy spending time at the club without..."
+msgid "[M] I don't know how much I would enjoy spending time at the club without..."
+msgstr "[M] I don't know how much I would enjoy spending time at the club without..."
 
 # game/UpdateScript0.03.rpy:969## # translate crowdin firstloyaltyweekend_5dcb76f9:
-msgid "M "Wait.... sorry..."
-    M "Wait.... sorry..."
+msgid "[M] Wait.... sorry..."
+msgstr "[M] Wait.... sorry..."
 
 # game/UpdateScript0.03.rpy:970## # translate crowdin firstloyaltyweekend_1799d5fd:
-msgid "M "This isn't about what I want.... I want to reward you. So, if you want to go swimming at the club pool, then we'll go swimming at the club pool."
-    M "This isn't about what I want.... I want to reward you. So, if you want to go swimming at the club pool, then we'll go swimming at the club pool."
+msgid "[M] This isn't about what I want.... I want to reward you. So, if you want to go swimming at the club pool, then we'll go swimming at the club pool."
+msgstr "[M] This isn't about what I want.... I want to reward you. So, if you want to go swimming at the club pool, then we'll go swimming at the club pool."
 
 # game/UpdateScript0.03.rpy:971## # translate crowdin firstloyaltyweekend_f18defd9:
-msgid "M "Though, that's not asking much.... are you sure there's nothing else you want?"
-    M "Though, that's not asking much.... are you sure there's nothing else you want?"
+msgid "[M] Though, that's not asking much.... are you sure there's nothing else you want?"
+msgstr "[M] Though, that's not asking much.... are you sure there's nothing else you want?"
 
 # game/UpdateScript0.03.rpy:977## # translate crowdin firstloyaltyweekend_5fe9f6dd:
-msgid "M "[upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
-    M "[upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
+msgid "[M] [upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
+msgstr "[M] [upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
 
 # game/UpdateScript0.03.rpy:978## # translate crowdin firstloyaltyweekend_eaa6197a:
 msgid "[R] I know.... I'm sorry.... It's just that I've never seen a girl dance like that, and since I saw you dance at the club, and had to leave early when you saw me.... well.... I'm just really curious how a dance like that ends."
 msgstr "[R] I know.... I'm sorry.... It's just that I've never seen a girl dance like that, and since I saw you dance at the club, and had to leave early when you saw me.... well.... I'm just really curious how a dance like that ends."
 
 # game/UpdateScript0.03.rpy:981## # translate crowdin firstloyaltyweekend_3f3ff523:
-msgid "M "[ryan] it's never appropriate to ask your mom to strip for you! What are you thinking?!"
-    M "[ryan] it's never appropriate to ask your mom to strip for you! What are you thinking?!"
+msgid "[M] [ryan] it's never appropriate to ask your mom to strip for you! What are you thinking?!"
+msgstr "[M] [ryan] it's never appropriate to ask your mom to strip for you! What are you thinking?!"
 
 # game/UpdateScript0.03.rpy:982## # translate crowdin firstloyaltyweekend_5a31fb55:
 msgid "[R] Oh, no.... you misunderstood, I don't want you to strip for me, I just want to see the dance."
 msgstr "[R] Oh, no.... you misunderstood, I don't want you to strip for me, I just want to see the dance."
 
 # game/UpdateScript0.03.rpy:983## # translate crowdin firstloyaltyweekend_3b2aa433:
-msgid "M "Oh.... you just want to see the dance? To see me shake my ass? And grind myself up on the pole.... hmmmm.... let me think about it.... how 'bout NO!!"
-    M "Oh.... you just want to see the dance? To see me shake my ass? And grind myself up on the pole.... hmmmm.... let me think about it.... how 'bout NO!!"
+msgid "[M] Oh.... you just want to see the dance? To see me shake my ass? And grind myself up on the pole.... hmmmm.... let me think about it.... how 'bout NO!!"
+msgstr "[M] Oh.... you just want to see the dance? To see me shake my ass? And grind myself up on the pole.... hmmmm.... let me think about it.... how 'bout NO!!"
 
 # game/UpdateScript0.03.rpy:984## # translate crowdin firstloyaltyweekend_7c406113:
-msgid "M "Now go get your swimming stuff and meet me in the car. You're lucky I'm still even taking you after asking me something like that!"
-    M "Now go get your swimming stuff and meet me in the car. You're lucky I'm still even taking you after asking me something like that!"
+msgid "[M] Now go get your swimming stuff and meet me in the car. You're lucky I'm still even taking you after asking me something like that!"
+msgstr "[M] Now go get your swimming stuff and meet me in the car. You're lucky I'm still even taking you after asking me something like that!"
 
 # game/UpdateScript0.03.rpy:986## # translate crowdin firstloyaltyweekend_6eac641e:
 msgid "MT "{i}Oh my God, that kid is getting ballsy! To ask ask your own mom to do a strip dance?.... Do I need to do something to put an end to this?.... {/i}"
@@ -1135,68 +1135,68 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:998## # translate crowdin firstloyaltyweekend_5fe9f6dd_1:
-msgid "M "[upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
-    M "[upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
+msgid "[M] [upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
+msgstr "[M] [upper_ryan]! I can't believe you have the balls to ask your own mother something like that!"
 
 # game/UpdateScript0.03.rpy:999## # translate crowdin firstloyaltyweekend_178493d7:
 msgid "[R] Oh, no.... I think you misunderst..."
 msgstr "[R] Oh, no.... I think you misunderst..."
 
 # game/UpdateScript0.03.rpy:1000## # translate crowdin firstloyaltyweekend_dd6d5517:
-msgid "M "I don't care what you meant, there is no possible way that you could have asked that in a way that is appropriate!"
-    M "I don't care what you meant, there is no possible way that you could have asked that in a way that is appropriate!"
+msgid "[M] I don't care what you meant, there is no possible way that you could have asked that in a way that is appropriate!"
+msgstr "[M] I don't care what you meant, there is no possible way that you could have asked that in a way that is appropriate!"
 
 # game/UpdateScript0.03.rpy:1001## # translate crowdin firstloyaltyweekend_53f67a71:
-msgid "M "I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
-    M "I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
+msgid "[M] I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
+msgstr "[M] I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
 
 # game/UpdateScript0.03.rpy:1002## # translate crowdin firstloyaltyweekend_7de12081:
-msgid "M "I still very much appreciate what you've done for me, but we'll have to see if you're more deserving for a reward next Sunday."
-    M "I still very much appreciate what you've done for me, but we'll have to see if you're more deserving for a reward next Sunday."
+msgid "[M] I still very much appreciate what you've done for me, but we'll have to see if you're more deserving for a reward next Sunday."
+msgstr "[M] I still very much appreciate what you've done for me, but we'll have to see if you're more deserving for a reward next Sunday."
 
 # game/UpdateScript0.03.rpy:1003## # translate crowdin firstloyaltyweekend_c1ed24bb:
 msgid "[R] But I didn't mean..."
 msgstr "[R] But I didn't mean..."
 
 # game/UpdateScript0.03.rpy:1006## # translate crowdin firstloyaltyweekend_86ad8d0c:
-msgid "M "No butts!"
-    M "No butts!"
+msgid "[M] No butts!"
+msgstr "[M] No butts!"
 
 # game/UpdateScript0.03.rpy:1007## # translate crowdin firstloyaltyweekend_ac4f02a6:
-msgid "M "I'm out of here!"
-    M "I'm out of here!"
+msgid "[M] I'm out of here!"
+msgstr "[M] I'm out of here!"
 
 # game/UpdateScript0.03.rpy:1008## # translate crowdin firstloyaltyweekend_974a7df8:
-msgid "M "I've got to go cool down somewhere."
-    M "I've got to go cool down somewhere."
+msgid "[M] I've got to go cool down somewhere."
+msgstr "[M] I've got to go cool down somewhere."
 
 # game/UpdateScript0.03.rpy:1009## # translate crowdin firstloyaltyweekend_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1020## # translate crowdin firstloyaltyweekend_30b80105:
-msgid "M "Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
-    M "Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
+msgid "[M] Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
+msgstr "[M] Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
 
 # game/UpdateScript0.03.rpy:1021## # translate crowdin firstloyaltyweekend_ba7c1f7c:
 msgid "[R] Huh?.... What do you mean?"
 msgstr "[R] Huh?.... What do you mean?"
 
 # game/UpdateScript0.03.rpy:1024## # translate crowdin firstloyaltyweekend_3dc35fd7:
-msgid "M "I mean ever since you saw me at the club, you seem to be treating our relationship more intimate than a mother-son relationship should be."
-    M "I mean ever since you saw me at the club, you seem to be treating our relationship more intimate than a mother-son relationship should be."
+msgid "[M] I mean ever since you saw me at the club, you seem to be treating our relationship more intimate than a mother-son relationship should be."
+msgstr "[M] I mean ever since you saw me at the club, you seem to be treating our relationship more intimate than a mother-son relationship should be."
 
 # game/UpdateScript0.03.rpy:1025## # translate crowdin firstloyaltyweekend_fc70669d:
-msgid "M "And wanting to see me in my bikini just shows that you're getting brave enough to try to turn it into something it shouldn't be."
-    M "And wanting to see me in my bikini just shows that you're getting brave enough to try to turn it into something it shouldn't be."
+msgid "[M] And wanting to see me in my bikini just shows that you're getting brave enough to try to turn it into something it shouldn't be."
+msgstr "[M] And wanting to see me in my bikini just shows that you're getting brave enough to try to turn it into something it shouldn't be."
 
 # game/UpdateScript0.03.rpy:1026## # translate crowdin firstloyaltyweekend_dce9bdf0:
 msgid "[R] Mom! What are you talking about?"
 msgstr "[R] Mom! What are you talking about?"
 
 # game/UpdateScript0.03.rpy:1027## # translate crowdin firstloyaltyweekend_8c66db24:
-msgid "M "Well.... just.... the fact that you're trying to get to see a fashion show in my.... bikini..."
-    M "Well.... just.... the fact that you're trying to get to see a fashion show in my.... bikini..."
+msgid "[M] Well.... just.... the fact that you're trying to get to see a fashion show in my.... bikini..."
+msgstr "[M] Well.... just.... the fact that you're trying to get to see a fashion show in my.... bikini..."
 
 # game/UpdateScript0.03.rpy:1028## # translate crowdin firstloyaltyweekend_202f4ef5:
 msgid "[R] Oh.... hohoho.... I get it.... you thought I was wanting to stare at your body in a bikini."
@@ -1207,8 +1207,8 @@ msgid "[R] Hahah..."
 msgstr "[R] Hahah..."
 
 # game/UpdateScript0.03.rpy:1032## # translate crowdin firstloyaltyweekend_ebad2847:
-msgid "M "You aren't?"
-    M "You aren't?"
+msgid "[M] You aren't?"
+msgstr "[M] You aren't?"
 
 # game/UpdateScript0.03.rpy:1033## # translate crowdin firstloyaltyweekend_9436340d:
 msgid "[R] Mom, as beautiful as you are, I've already seen you topless, and in a much more arousing setting I might add."
@@ -1223,16 +1223,16 @@ msgid "[R] Also, no matter what swimsuit you wear, I'm going to eventually see i
 msgstr "[R] Also, no matter what swimsuit you wear, I'm going to eventually see it at the pool anyways, just like I have all of the other times we go swimming."
 
 # game/UpdateScript0.03.rpy:1038## # translate crowdin firstloyaltyweekend_0ce4da08:
-msgid "M "Ok then you smart-ass, why would you ask for a swimsuit fashion show?"
-    M "Ok then you smart-ass, why would you ask for a swimsuit fashion show?"
+msgid "[M] Ok then you smart-ass, why would you ask for a swimsuit fashion show?"
+msgstr "[M] Ok then you smart-ass, why would you ask for a swimsuit fashion show?"
 
 # game/UpdateScript0.03.rpy:1039## # translate crowdin firstloyaltyweekend_fd9dd43b:
 msgid "[R] Because I bought you a new swimming suit."
 msgstr "[R] Because I bought you a new swimming suit."
 
 # game/UpdateScript0.03.rpy:1042## # translate crowdin firstloyaltyweekend_dc80c7bb:
-msgid "M "You did what?..."
-    M "You did what?..."
+msgid "[M] You did what?..."
+msgstr "[M] You did what?..."
 
 # game/UpdateScript0.03.rpy:1043## # translate crowdin firstloyaltyweekend_57c7a874:
 msgid "[R] Yeah, I've been wanting to go to the pool, and I was worried that maybe you would say you couldn't take me because you don't have a new swimsuit to wear, you know, since the women at the club can be so judgy if they see you in the same swimsuit twice."
@@ -1255,20 +1255,20 @@ msgid "[R] And with your body, you can't help but make it sexy."
 msgstr "[R] And with your body, you can't help but make it sexy."
 
 # game/UpdateScript0.03.rpy:1050## # translate crowdin firstloyaltyweekend_42e69006:
-msgid "M "[ryan], you can be such a flatterer."
-    M "[ryan], you can be such a flatterer."
+msgid "[M] [ryan], you can be such a flatterer."
+msgstr "[M] [ryan], you can be such a flatterer."
 
 # game/UpdateScript0.03.rpy:1051## # translate crowdin firstloyaltyweekend_68f66502:
-msgid "M "You're so sweet to get me a new swimsuit, I guess we better go make sure it fits."
-    M "You're so sweet to get me a new swimsuit, I guess we better go make sure it fits."
+msgid "[M] You're so sweet to get me a new swimsuit, I guess we better go make sure it fits."
+msgstr "[M] You're so sweet to get me a new swimsuit, I guess we better go make sure it fits."
 
 # game/UpdateScript0.03.rpy:1052## # translate crowdin firstloyaltyweekend_8bc2aa52:
-msgid "M "Go get the swimsuit and meet me outside my room."
-    M "Go get the swimsuit and meet me outside my room."
+msgid "[M] Go get the swimsuit and meet me outside my room."
+msgstr "[M] Go get the swimsuit and meet me outside my room."
 
 # game/UpdateScript0.03.rpy:1057## # translate crowdin firstloyaltyweekend_ad5222bd:
-msgid "M "[ryan]! I can't tell if that was supposed to be a joke or not, but either way it was inappropriate."
-    M "[ryan]! I can't tell if that was supposed to be a joke or not, but either way it was inappropriate."
+msgid "[M] [ryan]! I can't tell if that was supposed to be a joke or not, but either way it was inappropriate."
+msgstr "[M] [ryan]! I can't tell if that was supposed to be a joke or not, but either way it was inappropriate."
 
 # game/UpdateScript0.03.rpy:1058## # translate crowdin firstloyaltyweekend_191a2b95:
 msgid "{i}\"Mom's affection -3\"{/i}"
@@ -1279,16 +1279,16 @@ msgid "[R] But Mom, I was just..."
 msgstr "[R] But Mom, I was just..."
 
 # game/UpdateScript0.03.rpy:1061## # translate crowdin firstloyaltyweekend_14cc3e75:
-msgid "M "Just nothing! Sometimes your sense of humor and your sense of what's acceptable to say, and what's just creepy is a bit off."
-    M "Just nothing! Sometimes your sense of humor and your sense of what's acceptable to say, and what's just creepy is a bit off."
+msgid "[M] Just nothing! Sometimes your sense of humor and your sense of what's acceptable to say, and what's just creepy is a bit off."
+msgstr "[M] Just nothing! Sometimes your sense of humor and your sense of what's acceptable to say, and what's just creepy is a bit off."
 
 # game/UpdateScript0.03.rpy:1062## # translate crowdin firstloyaltyweekend_e5416aff:
 msgid "[R] No.... I.... just.... well I bought you a swimsuit..."
 msgstr "[R] No.... I.... just.... well I bought you a swimsuit..."
 
 # game/UpdateScript0.03.rpy:1063## # translate crowdin firstloyaltyweekend_39a3e9f5:
-msgid "M "Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
-    M "Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
+msgid "[M] Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
+msgstr "[M] Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
 
 # game/UpdateScript0.03.rpy:1075## # translate crowdin commissionsecondoutfit_53a5049c:
 msgid "S "Hey [ryan], what can I do for you?"
@@ -1647,12 +1647,12 @@ msgid "L "K bye!"
     L "K bye!"
 
 # game/UpdateScript0.03.rpy:1235## # translate crowdin bikinishow_5a219843:
-msgid "M "Wow! I can't believe you bought me a Hyongu bikini. I know these aren't cheap!"
-    M "Wow! I can't believe you bought me a Hyongu bikini. I know these aren't cheap!"
+msgid "[M] Wow! I can't believe you bought me a Hyongu bikini. I know these aren't cheap!"
+msgstr "[M] Wow! I can't believe you bought me a Hyongu bikini. I know these aren't cheap!"
 
 # game/UpdateScript0.03.rpy:1236## # translate crowdin bikinishow_be6a153c:
-msgid "M "How did you afford it? I better not have to strip at the club on Saturday because you spent too much on this bikini!"
-    M "How did you afford it? I better not have to strip at the club on Saturday because you spent too much on this bikini!"
+msgid "[M] How did you afford it? I better not have to strip at the club on Saturday because you spent too much on this bikini!"
+msgstr "[M] How did you afford it? I better not have to strip at the club on Saturday because you spent too much on this bikini!"
 
 # game/UpdateScript0.03.rpy:1237## # translate crowdin bikinishow_a2aa9581:
 msgid "[R] Don't worry, Mom, I found a really good deal. Plus I know how judgy the women at the club can be if they see you in a cheap swimsuit."
@@ -1663,32 +1663,32 @@ msgid "[R] And I know it's the kind of thing Dad would have bought for you."
 msgstr "[R] And I know it's the kind of thing Dad would have bought for you."
 
 # game/UpdateScript0.03.rpy:1239## # translate crowdin bikinishow_c1a1bace:
-msgid "M "Well, thank you! Let me go try it on. Actually let me try on the one I've already got, and then I'll try on this new one. Then I'll let you decide which one I'm going to wear to the pool."
-    M "Well, thank you! Let me go try it on. Actually let me try on the one I've already got, and then I'll try on this new one. Then I'll let you decide which one I'm going to wear to the pool."
+msgid "[M] Well, thank you! Let me go try it on. Actually let me try on the one I've already got, and then I'll try on this new one. Then I'll let you decide which one I'm going to wear to the pool."
+msgstr "[M] Well, thank you! Let me go try it on. Actually let me try on the one I've already got, and then I'll try on this new one. Then I'll let you decide which one I'm going to wear to the pool."
 
 # game/UpdateScript0.03.rpy:1240## # translate crowdin bikinishow_2231bc8b:
 msgid "[R] Really? You're going to give me a bikini fashion show?!..."
 msgstr "[R] Really? You're going to give me a bikini fashion show?!..."
 
 # game/UpdateScript0.03.rpy:1241## # translate crowdin bikinishow_be5938a4:
-msgid "M "It's like you said, I guess.... you're going to see me in it at the pool anyways. And since you bought me this suit, I want you to decide if you like it enough for me to wear it to the club pool."
-    M "It's like you said, I guess.... you're going to see me in it at the pool anyways. And since you bought me this suit, I want you to decide if you like it enough for me to wear it to the club pool."
+msgid "[M] It's like you said, I guess.... you're going to see me in it at the pool anyways. And since you bought me this suit, I want you to decide if you like it enough for me to wear it to the club pool."
+msgstr "[M] It's like you said, I guess.... you're going to see me in it at the pool anyways. And since you bought me this suit, I want you to decide if you like it enough for me to wear it to the club pool."
 
 # game/UpdateScript0.03.rpy:1242## # translate crowdin bikinishow_05a911a8:
-msgid "M "But if there's a problem, and you can't keep \"little [ryan]\" from popping up and giving us a visit like he's been doing all too frequently lately, then the show will end, and we won't go to the pool. So, control yourself!"
-    M "But if there's a problem, and you can't keep \"little [ryan]\" from popping up and giving us a visit like he's been doing all too frequently lately, then the show will end, and we won't go to the pool. So, control yourself!"
+msgid "[M] But if there's a problem, and you can't keep \"little [ryan]\" from popping up and giving us a visit like he's been doing all too frequently lately, then the show will end, and we won't go to the pool. So, control yourself!"
+msgstr "[M] But if there's a problem, and you can't keep \"little [ryan]\" from popping up and giving us a visit like he's been doing all too frequently lately, then the show will end, and we won't go to the pool. So, control yourself!"
 
 # game/UpdateScript0.03.rpy:1243## # translate crowdin bikinishow_1269d6c5:
 msgid "[R] Of course.... I mean \"little [ryan]\" won't be visiting.... I mean.... yuck!.... Why would I react like that to my own mom?"
 msgstr "[R] Of course.... I mean \"little [ryan]\" won't be visiting.... I mean.... yuck!.... Why would I react like that to my own mom?"
 
 # game/UpdateScript0.03.rpy:1244## # translate crowdin bikinishow_f04d388d:
-msgid "M "Uh huh.... that's very reassuring."
-    M "Uh huh.... that's very reassuring."
+msgid "[M] Uh huh.... that's very reassuring."
+msgstr "[M] Uh huh.... that's very reassuring."
 
 # game/UpdateScript0.03.rpy:1245## # translate crowdin bikinishow_d2773734:
-msgid "M "Give me just a second."
-    M "Give me just a second."
+msgid "[M] Give me just a second."
+msgstr "[M] Give me just a second."
 
 # game/UpdateScript0.03.rpy:1248## # translate crowdin bikinishow_52ff0480:
 msgid "[RT] {i}I can't believe how easy it was to talk her into trying on bikinis for me.{/i}"
@@ -1703,12 +1703,12 @@ msgid "[RT] {i}Maybe something at the pool.{/i}"
 msgstr "[RT] {i}Maybe something at the pool.{/i}"
 
 # game/UpdateScript0.03.rpy:1254## # translate crowdin bikinishow_a6e1ec74:
-msgid "M "Ok, so this is the last swimsuit your father bought me before he was sent to prison."
-    M "Ok, so this is the last swimsuit your father bought me before he was sent to prison."
+msgid "[M] Ok, so this is the last swimsuit your father bought me before he was sent to prison."
+msgstr "[M] Ok, so this is the last swimsuit your father bought me before he was sent to prison."
 
 # game/UpdateScript0.03.rpy:1255## # translate crowdin bikinishow_90cddac5:
-msgid "M "What do you think?"
-    M "What do you think?"
+msgid "[M] What do you think?"
+msgstr "[M] What do you think?"
 
 # game/UpdateScript0.03.rpy:1256## # translate crowdin bikinishow_aa05ee2b:
 msgid "[R] I think Dad has good taste."
@@ -1727,16 +1727,16 @@ msgid "MT "{i}I wonder if I can get him excited. Then I wouldn't have to go to t
     MT "{i}I wonder if I can get him excited. Then I wouldn't have to go to the pool.{/i}"
 
 # game/UpdateScript0.03.rpy:1262## # translate crowdin bikinishow_8fcb330e:
-msgid "M "It doesn't quite cover up as much of my ass as I would like it to though."
-    M "It doesn't quite cover up as much of my ass as I would like it to though."
+msgid "[M] It doesn't quite cover up as much of my ass as I would like it to though."
+msgstr "[M] It doesn't quite cover up as much of my ass as I would like it to though."
 
 # game/UpdateScript0.03.rpy:1263## # translate crowdin bikinishow_e12ffb5d:
 msgid "[R] Ummm.... yeah.... I think it's not.... too.... bad..."
 msgstr "[R] Ummm.... yeah.... I think it's not.... too.... bad..."
 
 # game/UpdateScript0.03.rpy:1264## # translate crowdin bikinishow_ea91ac95:
-msgid "M "You doing ok back there [ryan]?"
-    M "You doing ok back there [ryan]?"
+msgid "[M] You doing ok back there [ryan]?"
+msgstr "[M] You doing ok back there [ryan]?"
 
 # game/UpdateScript0.03.rpy:1265## # translate crowdin bikinishow_f7d8b475:
 msgid "MT "{i}Haha.... I think I've almost got him.... {/i}"
@@ -1751,8 +1751,8 @@ msgid "MT "{i}I shouldn't be trying to tease him in this way.{/i}"
     MT "{i}I shouldn't be trying to tease him in this way.{/i}"
 
 # game/UpdateScript0.03.rpy:1268## # translate crowdin bikinishow_0d852395:
-msgid "M "Alright, I'm going to try the other one on now."
-    M "Alright, I'm going to try the other one on now."
+msgid "[M] Alright, I'm going to try the other one on now."
+msgstr "[M] Alright, I'm going to try the other one on now."
 
 # game/UpdateScript0.03.rpy:1269## # translate crowdin bikinishow_84fe7a66:
 msgid "[R] Ok.... I'll just.... wait here then..."
@@ -1787,28 +1787,28 @@ msgid "[RT] {i}Oh thank God.... that took care of it.... {/i}"
 msgstr "[RT] {i}Oh thank God.... that took care of it.... {/i}"
 
 # game/UpdateScript0.03.rpy:1281## # translate crowdin bikinishow_2e78a17a:
-msgid "M "Well?.... What do you think?"
-    M "Well?.... What do you think?"
+msgid "[M] Well?.... What do you think?"
+msgstr "[M] Well?.... What do you think?"
 
 # game/UpdateScript0.03.rpy:1282## # translate crowdin bikinishow_0d631e59:
 msgid "[R] Wow!.... The blue is really pretty with your eyes!..."
 msgstr "[R] Wow!.... The blue is really pretty with your eyes!..."
 
 # game/UpdateScript0.03.rpy:1283## # translate crowdin bikinishow_eaa98298:
-msgid "M "..."
-    M "..."
+msgid "[M] ..."
+msgstr "[M] ..."
 
 # game/UpdateScript0.03.rpy:1284## # translate crowdin bikinishow_7c264289:
 msgid "[R] Turn around, let's see the back."
 msgstr "[R] Turn around, let's see the back."
 
 # game/UpdateScript0.03.rpy:1285## # translate crowdin bikinishow_cd7cd7a9:
-msgid "M "Uhhh.... this one is too revealing in the back. I don't think I'd be comfortable wearing it in front of own son."
-    M "Uhhh.... this one is too revealing in the back. I don't think I'd be comfortable wearing it in front of own son."
+msgid "[M] Uhhh.... this one is too revealing in the back. I don't think I'd be comfortable wearing it in front of own son."
+msgstr "[M] Uhhh.... this one is too revealing in the back. I don't think I'd be comfortable wearing it in front of own son."
 
 # game/UpdateScript0.03.rpy:1286## # translate crowdin bikinishow_7adf2239:
-msgid "M "Wait!.... I have an idea.... I'll be right back."
-    M "Wait!.... I have an idea.... I'll be right back."
+msgid "[M] Wait!.... I have an idea.... I'll be right back."
+msgstr "[M] Wait!.... I have an idea.... I'll be right back."
 
 # game/UpdateScript0.03.rpy:1289## # translate crowdin bikinishow_81db1fdd:
 msgid "[R] {i}Shit! I was worried that buying a bikini with a thong bottom might be pushing it.{/i}"
@@ -1819,8 +1819,8 @@ msgid "[R] {i}I wonder if she'll even let me make a choice now.{/i}"
 msgstr "[R] {i}I wonder if she'll even let me make a choice now.{/i}"
 
 # game/UpdateScript0.03.rpy:1293## # translate crowdin bikinishow_1e0ae19b:
-msgid "M "There. I found the perfect solution. It keeps me more modest in front of my son, but allows everyone at the club to imagine what's going on underneath them."
-    M "There. I found the perfect solution. It keeps me more modest in front of my son, but allows everyone at the club to imagine what's going on underneath them."
+msgid "[M] There. I found the perfect solution. It keeps me more modest in front of my son, but allows everyone at the club to imagine what's going on underneath them."
+msgstr "[M] There. I found the perfect solution. It keeps me more modest in front of my son, but allows everyone at the club to imagine what's going on underneath them."
 
 # game/UpdateScript0.03.rpy:1294## # translate crowdin bikinishow_0a50f783:
 msgid "[RT] {i}Oh, I'm imagining all right.... shit.... I've got to stop imagining if I'm going to keep little [ryan] under control.{/i}"
@@ -1835,20 +1835,20 @@ msgid "[RT] {i}Ok.... back in control.... {/i}"
 msgstr "[RT] {i}Ok.... back in control.... {/i}"
 
 # game/UpdateScript0.03.rpy:1297## # translate crowdin bikinishow_069a93da:
-msgid "M "Well, what do you think?"
-    M "Well, what do you think?"
+msgid "[M] Well, what do you think?"
+msgstr "[M] Well, what do you think?"
 
 # game/UpdateScript0.03.rpy:1298## # translate crowdin bikinishow_b78bc140:
 msgid "[R] I think it's a great idea. You're very resourceful."
 msgstr "[R] I think it's a great idea. You're very resourceful."
 
 # game/UpdateScript0.03.rpy:1299## # translate crowdin bikinishow_95574bc0:
-msgid "M "Haha.... thanks, I guess."
-    M "Haha.... thanks, I guess."
+msgid "[M] Haha.... thanks, I guess."
+msgstr "[M] Haha.... thanks, I guess."
 
 # game/UpdateScript0.03.rpy:1302## # translate crowdin bikinishow_f0a96608:
-msgid "M "Ok, so what's it going to be? The pink one or the blue one?"
-    M "Ok, so what's it going to be? The pink one or the blue one?"
+msgid "[M] Ok, so what's it going to be? The pink one or the blue one?"
+msgstr "[M] Ok, so what's it going to be? The pink one or the blue one?"
 
 # game/UpdateScript0.03.rpy:1303## # translate crowdin bikinishow_1d957916:
 msgid "[RT] {i}Ok, well the pink one is more revealing since she's wearing the shorts. I mean I definitely get to see more of her ass.{/i}"
@@ -1867,36 +1867,36 @@ msgid "[R] Let's go with the pink one. I'm sorry about the other one, I couldn't
 msgstr "[R] Let's go with the pink one. I'm sorry about the other one, I couldn't tell from the online advertisement that it was going to be so immodest."
 
 # game/UpdateScript0.03.rpy:1310## # translate crowdin bikinishow_4ec17905:
-msgid "M "You sure? I actually do love the Hyongu bikini, I just know I can't wear it without the shorts in front of my own son."
-    M "You sure? I actually do love the Hyongu bikini, I just know I can't wear it without the shorts in front of my own son."
+msgid "[M] You sure? I actually do love the Hyongu bikini, I just know I can't wear it without the shorts in front of my own son."
+msgstr "[M] You sure? I actually do love the Hyongu bikini, I just know I can't wear it without the shorts in front of my own son."
 
 # game/UpdateScript0.03.rpy:1311## # translate crowdin bikinishow_504d3715:
 msgid "[R] Yeah, I think you'll still be more comfortable in the pink one."
 msgstr "[R] Yeah, I think you'll still be more comfortable in the pink one."
 
 # game/UpdateScript0.03.rpy:1312## # translate crowdin bikinishow_a999d2b1:
-msgid "M "The pink one it is. Why don't you run and get ready and I'll meet you in the car."
-    M "The pink one it is. Why don't you run and get ready and I'll meet you in the car."
+msgid "[M] The pink one it is. Why don't you run and get ready and I'll meet you in the car."
+msgstr "[M] The pink one it is. Why don't you run and get ready and I'll meet you in the car."
 
 # game/UpdateScript0.03.rpy:1315## # translate crowdin bikinishow_13f80fd9:
 msgid "[R] Let's go with the Hyongu. I really do love that color on you."
 msgstr "[R] Let's go with the Hyongu. I really do love that color on you."
 
 # game/UpdateScript0.03.rpy:1316## # translate crowdin bikinishow_e06c0833:
-msgid "M "So do I! Thank you so much for buying me something. I haven't been able to get anything new since the FBI cut off our discretionary spending."
-    M "So do I! Thank you so much for buying me something. I haven't been able to get anything new since the FBI cut off our discretionary spending."
+msgid "[M] So do I! Thank you so much for buying me something. I haven't been able to get anything new since the FBI cut off our discretionary spending."
+msgstr "[M] So do I! Thank you so much for buying me something. I haven't been able to get anything new since the FBI cut off our discretionary spending."
 
 # game/UpdateScript0.03.rpy:1317## # translate crowdin bikinishow_9130907e:
-msgid "M "And a Hyongu is such a stylish bikini. I'll be proud to wear this one more than once."
-    M "And a Hyongu is such a stylish bikini. I'll be proud to wear this one more than once."
+msgid "[M] And a Hyongu is such a stylish bikini. I'll be proud to wear this one more than once."
+msgstr "[M] And a Hyongu is such a stylish bikini. I'll be proud to wear this one more than once."
 
 # game/UpdateScript0.03.rpy:1318## # translate crowdin bikinishow_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1320## # translate crowdin bikinishow_886ca893:
-msgid "M "Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
-    M "Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
+msgid "[M] Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
+msgstr "[M] Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
 
 # game/UpdateScript0.03.rpy:1334## # translate crowdin diaz_and_lauren_0f057a83:
 msgid "L "And now what do you want from your toy?"
@@ -3523,52 +3523,52 @@ msgid "MG "Yay!!"
     MG "Yay!!"
 
 # game/UpdateScript0.03.rpy:2267## # translate crowdin clubpool_b57da502:
-msgid "M "Ok, the rules are the same as always. Don't be an idiot and embarass me."
-    M "Ok, the rules are the same as always. Don't be an idiot and embarass me."
+msgid "[M] Ok, the rules are the same as always. Don't be an idiot and embarass me."
+msgstr "[M] Ok, the rules are the same as always. Don't be an idiot and embarass me."
 
 # game/UpdateScript0.03.rpy:2268## # translate crowdin clubpool_61013518:
-msgid "M "Remember that the people here are unusually stuffy and stuck up, and they don't like to see horsing around."
-    M "Remember that the people here are unusually stuffy and stuck up, and they don't like to see horsing around."
+msgid "[M] Remember that the people here are unusually stuffy and stuck up, and they don't like to see horsing around."
+msgstr "[M] Remember that the people here are unusually stuffy and stuck up, and they don't like to see horsing around."
 
 # game/UpdateScript0.03.rpy:2269## # translate crowdin clubpool_131764d1:
-msgid "M "It looks like we dodged a bullet though, there's almost no one here, and definitely not anyone I know."
-    M "It looks like we dodged a bullet though, there's almost no one here, and definitely not anyone I know."
+msgid "[M] It looks like we dodged a bullet though, there's almost no one here, and definitely not anyone I know."
+msgstr "[M] It looks like we dodged a bullet though, there's almost no one here, and definitely not anyone I know."
 
 # game/UpdateScript0.03.rpy:2270## # translate crowdin clubpool_b1c91f45:
 msgid "[R] What are you talking about, there's Lauren's friend Kenzie over there hanging out with Matt from our class."
 msgstr "[R] What are you talking about, there's Lauren's friend Kenzie over there hanging out with Matt from our class."
 
 # game/UpdateScript0.03.rpy:2271## # translate crowdin clubpool_d21fb32d:
-msgid "M "I meant I don't know anyone here that matters."
-    M "I meant I don't know anyone here that matters."
+msgid "[M] I meant I don't know anyone here that matters."
+msgstr "[M] I meant I don't know anyone here that matters."
 
 # game/UpdateScript0.03.rpy:2272## # translate crowdin clubpool_449f5c93:
 msgid "[R] Now you sound stuck up."
 msgstr "[R] Now you sound stuck up."
 
 # game/UpdateScript0.03.rpy:2273## # translate crowdin clubpool_b4619c49:
-msgid "M "Oh my God! You're right, I just get so worked up at this place."
-    M "Oh my God! You're right, I just get so worked up at this place."
+msgid "[M] Oh my God! You're right, I just get so worked up at this place."
+msgstr "[M] Oh my God! You're right, I just get so worked up at this place."
 
 # game/UpdateScript0.03.rpy:2274## # translate crowdin clubpool_8db87f4d:
-msgid "M "Ok, the most important thing is that you don't order anything to eat or drink. They might let us in here, but if we buy anything, our cards on file here will definitely get declined."
-    M "Ok, the most important thing is that you don't order anything to eat or drink. They might let us in here, but if we buy anything, our cards on file here will definitely get declined."
+msgid "[M] Ok, the most important thing is that you don't order anything to eat or drink. They might let us in here, but if we buy anything, our cards on file here will definitely get declined."
+msgstr "[M] Ok, the most important thing is that you don't order anything to eat or drink. They might let us in here, but if we buy anything, our cards on file here will definitely get declined."
 
 # game/UpdateScript0.03.rpy:2275## # translate crowdin clubpool_3df65b32:
-msgid "M "That would kill me with embarrassment."
-    M "That would kill me with embarrassment."
+msgid "[M] That would kill me with embarrassment."
+msgstr "[M] That would kill me with embarrassment."
 
 # game/UpdateScript0.03.rpy:2276## # translate crowdin clubpool_05fd63fe:
-msgid "M "Oh, God. What are you doing?.... Go change in the dressing room."
-    M "Oh, God. What are you doing?.... Go change in the dressing room."
+msgid "[M] Oh, God. What are you doing?.... Go change in the dressing room."
+msgstr "[M] Oh, God. What are you doing?.... Go change in the dressing room."
 
 # game/UpdateScript0.03.rpy:2279## # translate crowdin clubpool_287b40c7:
 msgid "[R] No need, I wore my swimsuit underneath my clothes."
 msgstr "[R] No need, I wore my swimsuit underneath my clothes."
 
 # game/UpdateScript0.03.rpy:2280## # translate crowdin clubpool_9b31e96d:
-msgid "M "I'm just going to pretend I don't know you."
-    M "I'm just going to pretend I don't know you."
+msgid "[M] I'm just going to pretend I don't know you."
+msgstr "[M] I'm just going to pretend I don't know you."
 
 # game/UpdateScript0.03.rpy:2283## # translate crowdin clubpool_b71b47d0:
 msgid "[R] Wait!.... Mom!.... Over here!..."
@@ -3579,20 +3579,20 @@ msgid "[R] TAKE MY CLOTHES WITH YOU!..."
 msgstr "[R] TAKE MY CLOTHES WITH YOU!..."
 
 # game/UpdateScript0.03.rpy:2285## # translate crowdin clubpool_eaa98298:
-msgid "M "..."
-    M "..."
+msgid "[M] ..."
+msgstr "[M] ..."
 
 # game/UpdateScript0.03.rpy:2286## # translate crowdin clubpool_bf649ecd:
-msgid "M "Oh fine, just give my your goddamn clothes!"
-    M "Oh fine, just give my your goddamn clothes!"
+msgid "[M] Oh fine, just give my your goddamn clothes!"
+msgstr "[M] Oh fine, just give my your goddamn clothes!"
 
 # game/UpdateScript0.03.rpy:2287## # translate crowdin clubpool_3d99fcef:
 msgid "[R] Language, Mom!"
 msgstr "[R] Language, Mom!"
 
 # game/UpdateScript0.03.rpy:2288## # translate crowdin clubpool_c0181c41:
-msgid "M "Urrrgghhh!"
-    M "Urrrgghhh!"
+msgid "[M] Urrrgghhh!"
+msgstr "[M] Urrrgghhh!"
 
 # game/UpdateScript0.03.rpy:2297## # translate crowdin clubpool_fd266593:
 msgid "[R] Hey, what's up guys?"
@@ -3679,80 +3679,80 @@ msgid "[R] Hey, Mom!"
 msgstr "[R] Hey, Mom!"
 
 # game/UpdateScript0.03.rpy:2330## # translate crowdin clubpool_5ead32e3:
-msgid "M "Just a second, [ryan], let me finish my paragraph."
-    M "Just a second, [ryan], let me finish my paragraph."
+msgid "[M] Just a second, [ryan], let me finish my paragraph."
+msgstr "[M] Just a second, [ryan], let me finish my paragraph."
 
 # game/UpdateScript0.03.rpy:2331## # translate crowdin clubpool_c6841c25:
 msgid "[R] ..."
 msgstr "[R] ..."
 
 # game/UpdateScript0.03.rpy:2338## # translate crowdin clubpool_6d98a5ec:
-msgid "M "Ok, what is it?"
-    M "Ok, what is it?"
+msgid "[M] Ok, what is it?"
+msgstr "[M] Ok, what is it?"
 
 # game/UpdateScript0.03.rpy:2339## # translate crowdin clubpool_435f3289:
 msgid "[R] We were just wanting to play some pool games."
 msgstr "[R] We were just wanting to play some pool games."
 
 # game/UpdateScript0.03.rpy:2340## # translate crowdin clubpool_f1381bfc:
-msgid "M "Well, that's fine with me as long as you don't horse around too much..."
-    M "Well, that's fine with me as long as you don't horse around too much..."
+msgid "[M] Well, that's fine with me as long as you don't horse around too much..."
+msgstr "[M] Well, that's fine with me as long as you don't horse around too much..."
 
 # game/UpdateScript0.03.rpy:2341## # translate crowdin clubpool_85e08a26:
-msgid "M "Actually, what the heck.... horse around all you like, there's nobody here to complain."
-    M "Actually, what the heck.... horse around all you like, there's nobody here to complain."
+msgid "[M] Actually, what the heck.... horse around all you like, there's nobody here to complain."
+msgstr "[M] Actually, what the heck.... horse around all you like, there's nobody here to complain."
 
 # game/UpdateScript0.03.rpy:2342## # translate crowdin clubpool_5a0b09ec:
 msgid "[R] No.... Mom.... we want you to come play the pool games with us."
 msgstr "[R] No.... Mom.... we want you to come play the pool games with us."
 
 # game/UpdateScript0.03.rpy:2343## # translate crowdin clubpool_c02d4ce5:
-msgid "M "Oh, no.... I'm very into this book, plus I don't think it would be in good decorum to be so informal with my students."
-    M "Oh, no.... I'm very into this book, plus I don't think it would be in good decorum to be so informal with my students."
+msgid "[M] Oh, no.... I'm very into this book, plus I don't think it would be in good decorum to be so informal with my students."
+msgstr "[M] Oh, no.... I'm very into this book, plus I don't think it would be in good decorum to be so informal with my students."
 
 # game/UpdateScript0.03.rpy:2344## # translate crowdin clubpool_d2a7c08d:
 msgid "[R] Decor.... what?"
 msgstr "[R] Decor.... what?"
 
 # game/UpdateScript0.03.rpy:2345## # translate crowdin clubpool_41158392:
-msgid "M "Decorum honey, it means behaving in good taste."
-    M "Decorum honey, it means behaving in good taste."
+msgid "[M] Decorum honey, it means behaving in good taste."
+msgstr "[M] Decorum honey, it means behaving in good taste."
 
 # game/UpdateScript0.03.rpy:2346## # translate crowdin clubpool_030bfb4f:
 msgid "[R] Hmmm.... I don't see what's wrong with it."
 msgstr "[R] Hmmm.... I don't see what's wrong with it."
 
 # game/UpdateScript0.03.rpy:2347## # translate crowdin clubpool_ef19a665:
-msgid "M "Yes.... well.... some of your recent judgement hasn't been very good, has it?"
-    M "Yes.... well.... some of your recent judgement hasn't been very good, has it?"
+msgid "[M] Yes.... well.... some of your recent judgement hasn't been very good, has it?"
+msgstr "[M] Yes.... well.... some of your recent judgement hasn't been very good, has it?"
 
 # game/UpdateScript0.03.rpy:2348## # translate crowdin clubpool_b2504771:
 msgid "[R] What do you mean?"
 msgstr "[R] What do you mean?"
 
 # game/UpdateScript0.03.rpy:2349## # translate crowdin clubpool_eaa98298_1:
-msgid "M "..."
-    M "..."
+msgid "[M] ..."
+msgstr "[M] ..."
 
 # game/UpdateScript0.03.rpy:2350## # translate crowdin clubpool_eaa98298_2:
-msgid "M "..."
-    M "..."
+msgid "[M] ..."
+msgstr "[M] ..."
 
 # game/UpdateScript0.03.rpy:2351## # translate crowdin clubpool_a0770075:
 msgid "[R] Ok, well maybe I've done some dumb things, but I've done a lot of good things for you too."
 msgstr "[R] Ok, well maybe I've done some dumb things, but I've done a lot of good things for you too."
 
 # game/UpdateScript0.03.rpy:2352## # translate crowdin clubpool_8fb70242:
-msgid "M "That is true."
-    M "That is true."
+msgid "[M] That is true."
+msgstr "[M] That is true."
 
 # game/UpdateScript0.03.rpy:2353## # translate crowdin clubpool_ae82e3e9:
-msgid "M "I'll tell you what."
-    M "I'll tell you what."
+msgid "[M] I'll tell you what."
+msgstr "[M] I'll tell you what."
 
 # game/UpdateScript0.03.rpy:2354## # translate crowdin clubpool_1f224414:
-msgid "M "Give me just 10 more minutes and I'll finish this chapter, and then if I'm feeling up to it, I'll come give you some attention."
-    M "Give me just 10 more minutes and I'll finish this chapter, and then if I'm feeling up to it, I'll come give you some attention."
+msgid "[M] Give me just 10 more minutes and I'll finish this chapter, and then if I'm feeling up to it, I'll come give you some attention."
+msgstr "[M] Give me just 10 more minutes and I'll finish this chapter, and then if I'm feeling up to it, I'll come give you some attention."
 
 # game/UpdateScript0.03.rpy:2355## # translate crowdin clubpool_dc1de32d:
 msgid "[R] Ok, it's a deal."
@@ -3951,28 +3951,28 @@ msgid "W "Excuse me, ma'am."
     W "Excuse me, ma'am."
 
 # game/UpdateScript0.03.rpy:2444## # translate crowdin clubpool_515e9a6e:
-msgid "M "Yes?"
-    M "Yes?"
+msgid "[M] Yes?"
+msgstr "[M] Yes?"
 
 # game/UpdateScript0.03.rpy:2445## # translate crowdin clubpool_14aa3823:
-msgid "M "Oh, no thank you.... I don't want to buy my usual wine."
-    M "Oh, no thank you.... I don't want to buy my usual wine."
+msgid "[M] Oh, no thank you.... I don't want to buy my usual wine."
+msgstr "[M] Oh, no thank you.... I don't want to buy my usual wine."
 
 # game/UpdateScript0.03.rpy:2446## # translate crowdin clubpool_68fa4bb2:
 msgid "W "Oh, no.... well, I hope you at least want some, because it's already been paid for."
     W "Oh, no.... well, I hope you at least want some, because it's already been paid for."
 
 # game/UpdateScript0.03.rpy:2447## # translate crowdin clubpool_122c9386:
-msgid "M "What?!.... By whom?"
-    M "What?!.... By whom?"
+msgid "[M] What?!.... By whom?"
+msgstr "[M] What?!.... By whom?"
 
 # game/UpdateScript0.03.rpy:2454## # translate crowdin clubpool_476b40d6:
 msgid "W "Just a second, let me put down the wine so I can point him out."
     W "Just a second, let me put down the wine so I can point him out."
 
 # game/UpdateScript0.03.rpy:2455## # translate crowdin clubpool_86bf49e8:
-msgid "M "Him out? Well, that narrows it down to two, and neither of them are old enough to buy alcohol."
-    M "Him out? Well, that narrows it down to two, and neither of them are old enough to buy alcohol."
+msgid "[M] Him out? Well, that narrows it down to two, and neither of them are old enough to buy alcohol."
+msgstr "[M] Him out? Well, that narrows it down to two, and neither of them are old enough to buy alcohol."
 
 # game/UpdateScript0.03.rpy:2456## # translate crowdin clubpool_848ed4dc:
 msgid "W "Well, since it's not for them, and we try to treat members like gold..."
@@ -3987,20 +3987,20 @@ msgid "W "The one waving in the blue swimsuit."
     W "The one waving in the blue swimsuit."
 
 # game/UpdateScript0.03.rpy:2462## # translate crowdin clubpool_a34cbae1:
-msgid "M "Of course, buying me a $100 bottle of wine, something is definitely developing."
-    M "Of course, buying me a $100 bottle of wine, something is definitely developing."
+msgid "[M] Of course, buying me a $100 bottle of wine, something is definitely developing."
+msgstr "[M] Of course, buying me a $100 bottle of wine, something is definitely developing."
 
 # game/UpdateScript0.03.rpy:2464## # translate crowdin clubpool_b35ff7a1:
-msgid "M "Buying me a $20 glass of wine? How sweet!..."
-    M "Buying me a $20 glass of wine? How sweet!..."
+msgid "[M] Buying me a $20 glass of wine? How sweet!..."
+msgstr "[M] Buying me a $20 glass of wine? How sweet!..."
 
 # game/UpdateScript0.03.rpy:2465## # translate crowdin clubpool_a234be73:
 msgid "W "Excuse me?..."
     W "Excuse me?..."
 
 # game/UpdateScript0.03.rpy:2466## # translate crowdin clubpool_22bfa577:
-msgid "M "Oh, nothing, never mind.... thank you for your help.... I won't be needing anything else."
-    M "Oh, nothing, never mind.... thank you for your help.... I won't be needing anything else."
+msgid "[M] Oh, nothing, never mind.... thank you for your help.... I won't be needing anything else."
+msgstr "[M] Oh, nothing, never mind.... thank you for your help.... I won't be needing anything else."
 
 # game/UpdateScript0.03.rpy:2473## # translate crowdin clubpool_15789dac:
 msgid "MT "{i}Just look at that shit-eating grin on his face.{/i}"
@@ -4047,20 +4047,20 @@ msgid "[R] I hope the waitress was right. Is that the kind of wine you like?"
 msgstr "[R] I hope the waitress was right. Is that the kind of wine you like?"
 
 # game/UpdateScript0.03.rpy:2514## # translate crowdin clubpool_abb0a230:
-msgid "M "Yes, honey. Thank you so much!"
-    M "Yes, honey. Thank you so much!"
+msgid "[M] Yes, honey. Thank you so much!"
+msgstr "[M] Yes, honey. Thank you so much!"
 
 # game/UpdateScript0.03.rpy:2515## # translate crowdin clubpool_7e15ee29:
-msgid "M "That was very thoughtful."
-    M "That was very thoughtful."
+msgid "[M] That was very thoughtful."
+msgstr "[M] That was very thoughtful."
 
 # game/UpdateScript0.03.rpy:2517## # translate crowdin clubpool_2d0b301b:
-msgid "M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a hundred dollar bottle of wine?"
-    M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a hundred dollar bottle of wine?"
+msgid "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a hundred dollar bottle of wine?"
+msgstr "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a hundred dollar bottle of wine?"
 
 # game/UpdateScript0.03.rpy:2518## # translate crowdin clubpool_d5386c34:
-msgid "M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
-    M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgid "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgstr "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
 
 # game/UpdateScript0.03.rpy:2519## # translate crowdin clubpool_1e79adf7:
 msgid "[R] Don't worry, Mom, I'll keep paying that Mafia debt."
@@ -4075,8 +4075,8 @@ msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2524## # translate crowdin clubpool_d1d0eb65:
-msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
-    M "Maybe I should come work with you, you might be making more money than me, haha..."
+msgid "[M] Maybe I should come work with you, you might be making more money than me, haha..."
+msgstr "[M] Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2525## # translate crowdin clubpool_e12e9c38:
 msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
@@ -4087,12 +4087,12 @@ msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 msgstr "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2528## # translate crowdin clubpool_c6610d0d:
-msgid "M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a twenty dollar glass of wine?"
-    M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a twenty dollar glass of wine?"
+msgid "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a twenty dollar glass of wine?"
+msgstr "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a twenty dollar glass of wine?"
 
 # game/UpdateScript0.03.rpy:2529## # translate crowdin clubpool_d5386c34_1:
-msgid "M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
-    M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgid "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgstr "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
 
 # game/UpdateScript0.03.rpy:2530## # translate crowdin clubpool_1e79adf7_1:
 msgid "[R] Don't worry, Mom, I'll keep paying that Mafia debt."
@@ -4103,8 +4103,8 @@ msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2533## # translate crowdin clubpool_d1d0eb65_1:
-msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
-    M "Maybe I should come work with you, you might be making more money than me, haha..."
+msgid "[M] Maybe I should come work with you, you might be making more money than me, haha..."
+msgstr "[M] Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2534## # translate crowdin clubpool_e12e9c38_1:
 msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
@@ -4115,12 +4115,12 @@ msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 msgstr "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2537## # translate crowdin clubpool_8a52fc45:
-msgid "M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, and now a hundred dollar bottle of wine?"
-    M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, and now a hundred dollar bottle of wine?"
+msgid "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, and now a hundred dollar bottle of wine?"
+msgstr "[M] But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, and now a hundred dollar bottle of wine?"
 
 # game/UpdateScript0.03.rpy:2538## # translate crowdin clubpool_d5386c34_2:
-msgid "M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
-    M "Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgid "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
+msgstr "[M] Please don't say I have to strip on Saturday because you're trying to spoil me now!"
 
 # game/UpdateScript0.03.rpy:2539## # translate crowdin clubpool_1e79adf7_2:
 msgid "[R] Don't worry, Mom, I'll keep paying that Mafia debt."
@@ -4131,8 +4131,8 @@ msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2542## # translate crowdin clubpool_d1d0eb65_2:
-msgid "M "Maybe I should come work with you, you might be making more money than me, haha..."
-    M "Maybe I should come work with you, you might be making more money than me, haha..."
+msgid "[M] Maybe I should come work with you, you might be making more money than me, haha..."
+msgstr "[M] Maybe I should come work with you, you might be making more money than me, haha..."
 
 # game/UpdateScript0.03.rpy:2543## # translate crowdin clubpool_e12e9c38_2:
 msgid "[RT] {i}Hopefully someday you'll be working as a model for me in my photo studio.{/i}"
@@ -4143,72 +4143,72 @@ msgid "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 msgstr "[RT] {i}I'd love to see you in one of Sidney's outfits!{/i}"
 
 # game/UpdateScript0.03.rpy:2546## # translate crowdin clubpool_8bf19f1e:
-msgid "M "But I know you don't have a ton of money lying around, you don't have to go spending it all on me."
-    M "But I know you don't have a ton of money lying around, you don't have to go spending it all on me."
+msgid "[M] But I know you don't have a ton of money lying around, you don't have to go spending it all on me."
+msgstr "[M] But I know you don't have a ton of money lying around, you don't have to go spending it all on me."
 
 # game/UpdateScript0.03.rpy:2547## # translate crowdin clubpool_c8301859:
-msgid "M "So, let me finish this wine, and I'll join you in the pool."
-    M "So, let me finish this wine, and I'll join you in the pool."
+msgid "[M] So, let me finish this wine, and I'll join you in the pool."
+msgstr "[M] So, let me finish this wine, and I'll join you in the pool."
 
 # game/UpdateScript0.03.rpy:2548## # translate crowdin clubpool_88f3c36a:
 msgid "[R] Really?! That's awesome!"
 msgstr "[R] Really?! That's awesome!"
 
 # game/UpdateScript0.03.rpy:2549## # translate crowdin clubpool_c67e2eb5:
-msgid "M "Yeah, give me just a second."
-    M "Yeah, give me just a second."
+msgid "[M] Yeah, give me just a second."
+msgstr "[M] Yeah, give me just a second."
 
 # game/UpdateScript0.03.rpy:2556## # translate crowdin clubpool_1a3ff71a:
-msgid "M "Okay, just a sec, I need another glass."
-    M "Okay, just a sec, I need another glass."
+msgid "[M] Okay, just a sec, I need another glass."
+msgstr "[M] Okay, just a sec, I need another glass."
 
 # game/UpdateScript0.03.rpy:2565## # translate crowdin clubpool_3fe15a45:
-msgid "M "Ok, maybe just one more."
-    M "Ok, maybe just one more."
+msgid "[M] Ok, maybe just one more."
+msgstr "[M] Ok, maybe just one more."
 
 # game/UpdateScript0.03.rpy:2574## # translate crowdin clubpool_ad643c90:
-msgid "M "Okay, I think I'm ready."
-    M "Okay, I think I'm ready."
+msgid "[M] Okay, I think I'm ready."
+msgstr "[M] Okay, I think I'm ready."
 
 # game/UpdateScript0.03.rpy:2583## # translate crowdin clubpool_ad643c90_1:
-msgid "M "Okay, I think I'm ready."
-    M "Okay, I think I'm ready."
+msgid "[M] Okay, I think I'm ready."
+msgstr "[M] Okay, I think I'm ready."
 
 # game/UpdateScript0.03.rpy:2592## # translate crowdin clubpool_1a3ff71a_1:
-msgid "M "Okay, just a sec, I need another glass."
-    M "Okay, just a sec, I need another glass."
+msgid "[M] Okay, just a sec, I need another glass."
+msgstr "[M] Okay, just a sec, I need another glass."
 
 # game/UpdateScript0.03.rpy:2601## # translate crowdin clubpool_3fe15a45_1:
-msgid "M "Ok, maybe just one more."
-    M "Ok, maybe just one more."
+msgid "[M] Ok, maybe just one more."
+msgstr "[M] Ok, maybe just one more."
 
 # game/UpdateScript0.03.rpy:2610## # translate crowdin clubpool_ad643c90_2:
-msgid "M "Okay, I think I'm ready."
-    M "Okay, I think I'm ready."
+msgid "[M] Okay, I think I'm ready."
+msgstr "[M] Okay, I think I'm ready."
 
 # game/UpdateScript0.03.rpy:2619## # translate crowdin clubpool_ad643c90_3:
-msgid "M "Okay, I think I'm ready."
-    M "Okay, I think I'm ready."
+msgid "[M] Okay, I think I'm ready."
+msgstr "[M] Okay, I think I'm ready."
 
 # game/UpdateScript0.03.rpy:2622## # translate crowdin clubpool_b5eeb767:
 msgid "[R] Mom, is it ok to swim after drinking?"
 msgstr "[R] Mom, is it ok to swim after drinking?"
 
 # game/UpdateScript0.03.rpy:2623## # translate crowdin clubpool_436efea8:
-msgid "M "Oh, don't worry, they say you shouldn't do a lot of things after drinking, yet people do."
-    M "Oh, don't worry, they say you shouldn't do a lot of things after drinking, yet people do."
+msgid "[M] Oh, don't worry, they say you shouldn't do a lot of things after drinking, yet people do."
+msgstr "[M] Oh, don't worry, they say you shouldn't do a lot of things after drinking, yet people do."
 
 # game/UpdateScript0.03.rpy:2624## # translate crowdin clubpool_21d25d34:
 msgid "[R] But that doesn't mean they're..."
 msgstr "[R] But that doesn't mean they're..."
 
 # game/UpdateScript0.03.rpy:2625## # translate crowdin clubpool_6e0b93ff:
-msgid "M "Shhhh..."
-    M "Shhhh..."
+msgid "[M] Shhhh..."
+msgstr "[M] Shhhh..."
 
 # game/UpdateScript0.03.rpy:2629## # translate crowdin clubpool_228235e1:
-msgid "M "Don't be such a killjoy."
-    M "Don't be such a killjoy."
+msgid "[M] Don't be such a killjoy."
+msgstr "[M] Don't be such a killjoy."
 
 # game/UpdateScript0.03.rpy:2630## # translate crowdin clubpool_c3197bd3:
 msgid "[R] Oh, wait! Mom!"
@@ -4219,16 +4219,16 @@ msgid "[R] You can't go swimming in those shorts!"
 msgstr "[R] You can't go swimming in those shorts!"
 
 # game/UpdateScript0.03.rpy:2632## # translate crowdin clubpool_4b6ff6c8:
-msgid "M "What? Of course I can."
-    M "What? Of course I can."
+msgid "[M] What? Of course I can."
+msgstr "[M] What? Of course I can."
 
 # game/UpdateScript0.03.rpy:2633## # translate crowdin clubpool_f87772e1:
 msgid "[R] No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
 msgstr "[R] No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
 
 # game/UpdateScript0.03.rpy:2634## # translate crowdin clubpool_3f099d61:
-msgid "M "Yeah, and what of it?"
-    M "Yeah, and what of it?"
+msgid "[M] Yeah, and what of it?"
+msgstr "[M] Yeah, and what of it?"
 
 # game/UpdateScript0.03.rpy:2635## # translate crowdin clubpool_8fcaea50:
 msgid "[R] What if you have to go back and do a certain job?..."
@@ -4239,28 +4239,28 @@ msgid "[R] Those tan lines won't look very good, and Joey DeCapo might not be ha
 msgstr "[R] Those tan lines won't look very good, and Joey DeCapo might not be happy about it."
 
 # game/UpdateScript0.03.rpy:2637## # translate crowdin clubpool_15c37a9d:
-msgid "M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
-    M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
+msgid "[M] What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
+msgstr "[M] What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
 
 # game/UpdateScript0.03.rpy:2638## # translate crowdin clubpool_8afb5ae3:
 msgid "[R] Well, of course I'll keep trying, but what if I have an off week?"
 msgstr "[R] Well, of course I'll keep trying, but what if I have an off week?"
 
 # game/UpdateScript0.03.rpy:2639## # translate crowdin clubpool_1f73cf55:
-msgid "M "Shit! These bottoms are so revealing."
-    M "Shit! These bottoms are so revealing."
+msgid "[M] Shit! These bottoms are so revealing."
+msgstr "[M] Shit! These bottoms are so revealing."
 
 # game/UpdateScript0.03.rpy:2640## # translate crowdin clubpool_84484292:
-msgid "M "But, I think you're right."
-    M "But, I think you're right."
+msgid "[M] But, I think you're right."
+msgstr "[M] But, I think you're right."
 
 # game/UpdateScript0.03.rpy:2643## # translate crowdin clubpool_7a3af6b0:
-msgid "M "Ok, try not to look too much."
-    M "Ok, try not to look too much."
+msgid "[M] Ok, try not to look too much."
+msgstr "[M] Ok, try not to look too much."
 
 # game/UpdateScript0.03.rpy:2647## # translate crowdin clubpool_228235e1_1:
-msgid "M "Don't be such a killjoy."
-    M "Don't be such a killjoy."
+msgid "[M] Don't be such a killjoy."
+msgstr "[M] Don't be such a killjoy."
 
 # game/UpdateScript0.03.rpy:2648## # translate crowdin clubpool_c3197bd3_1:
 msgid "[R] Oh, wait! Mom!"
@@ -4271,16 +4271,16 @@ msgid "[R] You can't go swimming in those shorts!"
 msgstr "[R] You can't go swimming in those shorts!"
 
 # game/UpdateScript0.03.rpy:2650## # translate crowdin clubpool_4b6ff6c8_1:
-msgid "M "What? Of course I can."
-    M "What? Of course I can."
+msgid "[M] What? Of course I can."
+msgstr "[M] What? Of course I can."
 
 # game/UpdateScript0.03.rpy:2651## # translate crowdin clubpool_f87772e1_1:
 msgid "[R] No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
 msgstr "[R] No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
 
 # game/UpdateScript0.03.rpy:2652## # translate crowdin clubpool_3f099d61_1:
-msgid "M "Yeah, and what of it?"
-    M "Yeah, and what of it?"
+msgid "[M] Yeah, and what of it?"
+msgstr "[M] Yeah, and what of it?"
 
 # game/UpdateScript0.03.rpy:2653## # translate crowdin clubpool_8fcaea50_1:
 msgid "[R] What if you have to go back and do a certain job?..."
@@ -4291,52 +4291,52 @@ msgid "[R] Those tan lines won't look very good, and Joey DeCapo might not be ha
 msgstr "[R] Those tan lines won't look very good, and Joey DeCapo might not be happy about it."
 
 # game/UpdateScript0.03.rpy:2655## # translate crowdin clubpool_15c37a9d_1:
-msgid "M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
-    M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
+msgid "[M] What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
+msgstr "[M] What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
 
 # game/UpdateScript0.03.rpy:2656## # translate crowdin clubpool_8afb5ae3_1:
 msgid "[R] Well, of course I'll keep trying, but what if I have an off week?"
 msgstr "[R] Well, of course I'll keep trying, but what if I have an off week?"
 
 # game/UpdateScript0.03.rpy:2657## # translate crowdin clubpool_1f73cf55_1:
-msgid "M "Shit! These bottoms are so revealing."
-    M "Shit! These bottoms are so revealing."
+msgid "[M] Shit! These bottoms are so revealing."
+msgstr "[M] Shit! These bottoms are so revealing."
 
 # game/UpdateScript0.03.rpy:2658## # translate crowdin clubpool_84484292_1:
-msgid "M "But, I think you're right."
-    M "But, I think you're right."
+msgid "[M] But, I think you're right."
+msgstr "[M] But, I think you're right."
 
 # game/UpdateScript0.03.rpy:2661## # translate crowdin clubpool_7a3af6b0_1:
-msgid "M "Ok, try not to look too much."
-    M "Ok, try not to look too much."
+msgid "[M] Ok, try not to look too much."
+msgstr "[M] Ok, try not to look too much."
 
 # game/UpdateScript0.03.rpy:2663## # translate crowdin clubpool_228235e1_2:
-msgid "M "Don't be such a killjoy."
-    M "Don't be such a killjoy."
+msgid "[M] Don't be such a killjoy."
+msgstr "[M] Don't be such a killjoy."
 
 # game/UpdateScript0.03.rpy:2666## # translate crowdin clubpool_68eb73fd:
-msgid "M "And move over, I'm coming in!"
-    M "And move over, I'm coming in!"
+msgid "[M] And move over, I'm coming in!"
+msgstr "[M] And move over, I'm coming in!"
 
 # game/UpdateScript0.03.rpy:2680## # translate crowdin clubpool_d5b34837:
-msgid "M "Oh, wow! That water is refreshing!"
-    M "Oh, wow! That water is refreshing!"
+msgid "[M] Oh, wow! That water is refreshing!"
+msgstr "[M] Oh, wow! That water is refreshing!"
 
 # game/UpdateScript0.03.rpy:2681## # translate crowdin clubpool_b65d9eb4:
 msgid "[RT] {i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
 msgstr "[RT] {i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
 
 # game/UpdateScript0.03.rpy:2683## # translate crowdin clubpool_fc59f26b:
-msgid "M "Boys.... boys!..."
-    M "Boys.... boys!..."
+msgid "[M] Boys.... boys!..."
+msgstr "[M] Boys.... boys!..."
 
 # game/UpdateScript0.03.rpy:2686## # translate crowdin clubpool_6cfcc315:
-msgid "M "My eyes are up here! Stop staring at my breasts! If there's going to be a problem, I'm going to leave."
-    M "My eyes are up here! Stop staring at my breasts! If there's going to be a problem, I'm going to leave."
+msgid "[M] My eyes are up here! Stop staring at my breasts! If there's going to be a problem, I'm going to leave."
+msgstr "[M] My eyes are up here! Stop staring at my breasts! If there's going to be a problem, I'm going to leave."
 
 # game/UpdateScript0.03.rpy:2687## # translate crowdin clubpool_842b0a5d:
-msgid "M "Are we going to have a problem?"
-    M "Are we going to have a problem?"
+msgid "[M] Are we going to have a problem?"
+msgstr "[M] Are we going to have a problem?"
 
 # game/UpdateScript0.03.rpy:2688## # translate crowdin clubpool_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
@@ -4351,12 +4351,12 @@ msgid "[R] No, I wasn't even looking at your.... I mean I was looking at.... som
 msgstr "[R] No, I wasn't even looking at your.... I mean I was looking at.... something else."
 
 # game/UpdateScript0.03.rpy:2692## # translate crowdin clubpool_011c639c:
-msgid "M "Well put!"
-    M "Well put!"
+msgid "[M] Well put!"
+msgstr "[M] Well put!"
 
 # game/UpdateScript0.03.rpy:2695## # translate crowdin clubpool_d4446697:
-msgid "M "Now, as I was saying..."
-    M "Now, as I was saying..."
+msgid "[M] Now, as I was saying..."
+msgstr "[M] Now, as I was saying..."
 
 # game/UpdateScript0.03.rpy:2697## # translate crowdin clubpool_8cd35883:
 msgid "MT "{i}Oh my God! Are these little horndogs staring at my breasts?{/i}"
@@ -4391,28 +4391,28 @@ msgid "MT "{i}I think maybe I just won't say anything.{/i}"
     MT "{i}I think maybe I just won't say anything.{/i}"
 
 # game/UpdateScript0.03.rpy:2712## # translate crowdin clubpool_db4960ae:
-msgid "M "[ryan] was saying that you guys wanted to play some pool games?"
-    M "[ryan] was saying that you guys wanted to play some pool games?"
+msgid "[M] [ryan] was saying that you guys wanted to play some pool games?"
+msgstr "[M] [ryan] was saying that you guys wanted to play some pool games?"
 
 # game/UpdateScript0.03.rpy:2713## # translate crowdin clubpool_dd3a8c88:
 msgid "MB "Yeah, let's play chicken!"
     MB "Yeah, let's play chicken!"
 
 # game/UpdateScript0.03.rpy:2714## # translate crowdin clubpool_c1600ce8:
-msgid "M "Oh, no no, that one's a little too physical for me."
-    M "Oh, no no, that one's a little too physical for me."
+msgid "[M] Oh, no no, that one's a little too physical for me."
+msgstr "[M] Oh, no no, that one's a little too physical for me."
 
 # game/UpdateScript0.03.rpy:2715## # translate crowdin clubpool_de9fc5bd:
-msgid "M "Too easy to take advantage of the situation, if you know what I mean."
-    M "Too easy to take advantage of the situation, if you know what I mean."
+msgid "[M] Too easy to take advantage of the situation, if you know what I mean."
+msgstr "[M] Too easy to take advantage of the situation, if you know what I mean."
 
 # game/UpdateScript0.03.rpy:2716## # translate crowdin clubpool_11b42530:
 msgid "[RT] {i}She's probably played enough of those porn games I introduced her to, so she knows what we hope will happen in a chicken fight.{/i}"
 msgstr "[RT] {i}She's probably played enough of those porn games I introduced her to, so she knows what we hope will happen in a chicken fight.{/i}"
 
 # game/UpdateScript0.03.rpy:2717## # translate crowdin clubpool_4c0399f8:
-msgid "M "How about a game of Marco Polo."
-    M "How about a game of Marco Polo."
+msgid "[M] How about a game of Marco Polo."
+msgstr "[M] How about a game of Marco Polo."
 
 # game/UpdateScript0.03.rpy:2718## # translate crowdin clubpool_a93328ef:
 msgid "[R] But that's a kiddy game!"
@@ -4431,16 +4431,16 @@ msgid "K "How do you play Marco Polo?"
     K "How do you play Marco Polo?"
 
 # game/UpdateScript0.03.rpy:2722## # translate crowdin clubpool_6b86992b:
-msgid "M "Whoever is it, has to close their eyes, and whenever they say \"Marco\", everyone in the pool has to say \"Polo\","
-    M "Whoever is it, has to close their eyes, and whenever they say \"Marco\", everyone in the pool has to say \"Polo\","
+msgid "[M] Whoever is it, has to close their eyes, and whenever they say \"Marco\", everyone in the pool has to say \"Polo\","
+msgstr "[M] Whoever is it, has to close their eyes, and whenever they say \"Marco\", everyone in the pool has to say \"Polo\","
 
 # game/UpdateScript0.03.rpy:2723## # translate crowdin clubpool_a181da2f:
-msgid "M "And then the person who is it has to try to tag someone by only following the sound of their voice."
-    M "And then the person who is it has to try to tag someone by only following the sound of their voice."
+msgid "[M] And then the person who is it has to try to tag someone by only following the sound of their voice."
+msgstr "[M] And then the person who is it has to try to tag someone by only following the sound of their voice."
 
 # game/UpdateScript0.03.rpy:2724## # translate crowdin clubpool_86d99f8a:
-msgid "M "And when they tag someone, they have to identify them by name. If they get it wrong then they are still it."
-    M "And when they tag someone, they have to identify them by name. If they get it wrong then they are still it."
+msgid "[M] And when they tag someone, they have to identify them by name. If they get it wrong then they are still it."
+msgstr "[M] And when they tag someone, they have to identify them by name. If they get it wrong then they are still it."
 
 # game/UpdateScript0.03.rpy:2725## # translate crowdin clubpool_ccdc8c34:
 msgid "[R] Yeah, it's a kiddy game, let's do something else."
@@ -4451,8 +4451,8 @@ msgid "K "I think that sounds like it could be fun."
     K "I think that sounds like it could be fun."
 
 # game/UpdateScript0.03.rpy:2727## # translate crowdin clubpool_cf5c2317:
-msgid "M "Alright, three of us to one of you [ryan], Marco Polo it is."
-    M "Alright, three of us to one of you [ryan], Marco Polo it is."
+msgid "[M] Alright, three of us to one of you [ryan], Marco Polo it is."
+msgstr "[M] Alright, three of us to one of you [ryan], Marco Polo it is."
 
 # game/UpdateScript0.03.rpy:2728## # translate crowdin clubpool_55292f87:
 msgid "MB "And I'll be it first."
@@ -4543,12 +4543,12 @@ msgid "MT "{i}Oh.... my.... God!.... {/i}"
     MT "{i}Oh.... my.... God!.... {/i}"
 
 # game/UpdateScript0.03.rpy:2787## # translate crowdin clubpool_2a55b216:
-msgid "M "Gasp!.... OH MY GOD!!"
-    M "Gasp!.... OH MY GOD!!"
+msgid "[M] Gasp!.... OH MY GOD!!"
+msgstr "[M] Gasp!.... OH MY GOD!!"
 
 # game/UpdateScript0.03.rpy:2788## # translate crowdin clubpool_a5b0591c:
-msgid "M "[ryan]! What the hell are you doing?"
-    M "[ryan]! What the hell are you doing?"
+msgid "[M] [ryan]! What the hell are you doing?"
+msgstr "[M] [ryan]! What the hell are you doing?"
 
 # game/UpdateScript0.03.rpy:2789## # translate crowdin clubpool_3e9111e2:
 msgid "[R] What do you mean, what the hell am I doing?"
@@ -4563,8 +4563,8 @@ msgid "[R] I'm protecting your chastity!"
 msgstr "[R] I'm protecting your chastity!"
 
 # game/UpdateScript0.03.rpy:2792## # translate crowdin clubpool_34b2c2e1:
-msgid "M "By grabbing my breasts?!"
-    M "By grabbing my breasts?!"
+msgid "[M] By grabbing my breasts?!"
+msgstr "[M] By grabbing my breasts?!"
 
 # game/UpdateScript0.03.rpy:2793## # translate crowdin clubpool_8259537d:
 msgid "[R] No! By covering your breasts."
@@ -4587,8 +4587,8 @@ msgid "[RT] {i}I guess I should have expected this.{/i}"
 msgstr "[RT] {i}I guess I should have expected this.{/i}"
 
 # game/UpdateScript0.03.rpy:2822## # translate crowdin clubpool_d12fd868:
-msgid "M "Why would you think that would be a good idea?"
-    M "Why would you think that would be a good idea?"
+msgid "[M] Why would you think that would be a good idea?"
+msgstr "[M] Why would you think that would be a good idea?"
 
 # game/UpdateScript0.03.rpy:2823## # translate crowdin clubpool_f29b3672:
 msgid "[R] I'm sorry! I just could tell that Matt was about to rip your top off, so I reacted as quickly as I could."
@@ -4599,44 +4599,44 @@ msgid "[R] I can see now that maybe that wasn't the best thing to do.... I'm so 
 msgstr "[R] I can see now that maybe that wasn't the best thing to do.... I'm so sorry!"
 
 # game/UpdateScript0.03.rpy:2832## # translate crowdin clubpool_a988fe21:
-msgid "M "Oh, honey! I'm sorry if I sounded mad..."
-    M "Oh, honey! I'm sorry if I sounded mad..."
+msgid "[M] Oh, honey! I'm sorry if I sounded mad..."
+msgstr "[M] Oh, honey! I'm sorry if I sounded mad..."
 
 # game/UpdateScript0.03.rpy:2833## # translate crowdin clubpool_c3f7f635:
-msgid "M "It is so sweet the way you're always trying to protect me!"
-    M "It is so sweet the way you're always trying to protect me!"
+msgid "[M] It is so sweet the way you're always trying to protect me!"
+msgstr "[M] It is so sweet the way you're always trying to protect me!"
 
 # game/UpdateScript0.03.rpy:2834## # translate crowdin clubpool_9900315c:
-msgid "M "But this type of thing, I can do on my own."
-    M "But this type of thing, I can do on my own."
+msgid "[M] But this type of thing, I can do on my own."
+msgstr "[M] But this type of thing, I can do on my own."
 
 # game/UpdateScript0.03.rpy:2835## # translate crowdin clubpool_111b89fc:
-msgid "M "Now if you'll kindly close your eyes and remove your hands."
-    M "Now if you'll kindly close your eyes and remove your hands."
+msgid "[M] Now if you'll kindly close your eyes and remove your hands."
+msgstr "[M] Now if you'll kindly close your eyes and remove your hands."
 
 # game/UpdateScript0.03.rpy:2842## # translate crowdin clubpool_61e7f9dc:
-msgid "M "Now Matt, would you please hand me my top?"
-    M "Now Matt, would you please hand me my top?"
+msgid "[M] Now Matt, would you please hand me my top?"
+msgstr "[M] Now Matt, would you please hand me my top?"
 
 # game/UpdateScript0.03.rpy:2843## # translate crowdin clubpool_23489fd0:
-msgid "M "And I'm going to assume that was an accident?"
-    M "And I'm going to assume that was an accident?"
+msgid "[M] And I'm going to assume that was an accident?"
+msgstr "[M] And I'm going to assume that was an accident?"
 
 # game/UpdateScript0.03.rpy:2844## # translate crowdin clubpool_41bb88ed:
 msgid "MB "Of course, Miss [mom_name]. My eyes were closed, I couldn't tell what I was grabbing for."
     MB "Of course, Miss [mom_name]. My eyes were closed, I couldn't tell what I was grabbing for."
 
 # game/UpdateScript0.03.rpy:2845## # translate crowdin clubpool_d65e3fa5:
-msgid "M "Of course, that's what I suspected. I completely understand."
-    M "Of course, that's what I suspected. I completely understand."
+msgid "[M] Of course, that's what I suspected. I completely understand."
+msgstr "[M] Of course, that's what I suspected. I completely understand."
 
 # game/UpdateScript0.03.rpy:2846## # translate crowdin clubpool_e68956b8:
-msgid "M "Now, do you mind swimming away so I can get my top back on?"
-    M "Now, do you mind swimming away so I can get my top back on?"
+msgid "[M] Now, do you mind swimming away so I can get my top back on?"
+msgstr "[M] Now, do you mind swimming away so I can get my top back on?"
 
 # game/UpdateScript0.03.rpy:2847## # translate crowdin clubpool_b780b9fa:
-msgid "M "And [ryan] would you mind helping me make sure my top is fastened correctly?"
-    M "And [ryan] would you mind helping me make sure my top is fastened correctly?"
+msgid "[M] And [ryan] would you mind helping me make sure my top is fastened correctly?"
+msgstr "[M] And [ryan] would you mind helping me make sure my top is fastened correctly?"
 
 # game/UpdateScript0.03.rpy:2854## # translate crowdin clubpool_bc8d6c92:
 msgid "[R] .... Yeah!.... Of course!..."
@@ -4655,32 +4655,32 @@ msgid "[R] There you go, nice and tight."
 msgstr "[R] There you go, nice and tight."
 
 # game/UpdateScript0.03.rpy:2858## # translate crowdin clubpool_b4e9b02c:
-msgid "M "Thanks, [ryan]!"
-    M "Thanks, [ryan]!"
+msgid "[M] Thanks, [ryan]!"
+msgstr "[M] Thanks, [ryan]!"
 
 # game/UpdateScript0.03.rpy:2859## # translate crowdin clubpool_c3b4e1d0:
-msgid "M "Now I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
-    M "Now I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
+msgid "[M] Now I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
+msgstr "[M] Now I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
 
 # game/UpdateScript0.03.rpy:2860## # translate crowdin clubpool_dfde8f37:
 msgid "[R] Just a second, Mom, I need to have a quick word with Matt."
 msgstr "[R] Just a second, Mom, I need to have a quick word with Matt."
 
 # game/UpdateScript0.03.rpy:2861## # translate crowdin clubpool_b4e47036:
-msgid "M "Oh, [ryan] don't do anything stupid. It was just an accident!"
-    M "Oh, [ryan] don't do anything stupid. It was just an accident!"
+msgid "[M] Oh, [ryan] don't do anything stupid. It was just an accident!"
+msgstr "[M] Oh, [ryan] don't do anything stupid. It was just an accident!"
 
 # game/UpdateScript0.03.rpy:2862## # translate crowdin clubpool_7a57db2a:
 msgid "[R] Yeah, I intend to find that out."
 msgstr "[R] Yeah, I intend to find that out."
 
 # game/UpdateScript0.03.rpy:2864## # translate crowdin clubpool_0d754b0d:
-msgid "M "[ryan]! Don't be an idiot!"
-    M "[ryan]! Don't be an idiot!"
+msgid "[M] [ryan]! Don't be an idiot!"
+msgstr "[M] [ryan]! Don't be an idiot!"
 
 # game/UpdateScript0.03.rpy:2865## # translate crowdin clubpool_c19f85de:
-msgid "M "You don't have to protect me from everything!"
-    M "You don't have to protect me from everything!"
+msgid "[M] You don't have to protect me from everything!"
+msgstr "[M] You don't have to protect me from everything!"
 
 # game/UpdateScript0.03.rpy:2872## # translate crowdin clubpool_7d4975b1_1:
 msgid "[RT] {i}Oh my God! I'm grabbing Mom's tits!!{/i}"
@@ -4695,32 +4695,32 @@ msgid "[RT] {i}I guess I should have expected this.{/i}"
 msgstr "[RT] {i}I guess I should have expected this.{/i}"
 
 # game/UpdateScript0.03.rpy:2893## # translate crowdin clubpool_a0a0a26e:
-msgid "M "Now get your hands off my tits! I can cover them up myself."
-    M "Now get your hands off my tits! I can cover them up myself."
+msgid "[M] Now get your hands off my tits! I can cover them up myself."
+msgstr "[M] Now get your hands off my tits! I can cover them up myself."
 
 # game/UpdateScript0.03.rpy:2900## # translate crowdin clubpool_cc40996b:
-msgid "M "And you, Matt! You little pervert! Give me back my top."
-    M "And you, Matt! You little pervert! Give me back my top."
+msgid "[M] And you, Matt! You little pervert! Give me back my top."
+msgstr "[M] And you, Matt! You little pervert! Give me back my top."
 
 # game/UpdateScript0.03.rpy:2901## # translate crowdin clubpool_da08e3fe:
 msgid "MB "I'm sorry Miss [mom_name]! I swear it was an accident. I had my eyes closed and couldn't see where I was grabbing."
     MB "I'm sorry Miss [mom_name]! I swear it was an accident. I had my eyes closed and couldn't see where I was grabbing."
 
 # game/UpdateScript0.03.rpy:2902## # translate crowdin clubpool_187b03f7:
-msgid "M "Yeah, well, I guess you're innocent until proven guilty, so let's just get on with the game."
-    M "Yeah, well, I guess you're innocent until proven guilty, so let's just get on with the game."
+msgid "[M] Yeah, well, I guess you're innocent until proven guilty, so let's just get on with the game."
+msgstr "[M] Yeah, well, I guess you're innocent until proven guilty, so let's just get on with the game."
 
 # game/UpdateScript0.03.rpy:2903## # translate crowdin clubpool_542af465:
-msgid "M "I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
-    M "I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
+msgid "[M] I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
+msgstr "[M] I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
 
 # game/UpdateScript0.03.rpy:2904## # translate crowdin clubpool_dfde8f37_1:
 msgid "[R] Just a second, Mom, I need to have a quick word with Matt."
 msgstr "[R] Just a second, Mom, I need to have a quick word with Matt."
 
 # game/UpdateScript0.03.rpy:2905## # translate crowdin clubpool_b4e47036_1:
-msgid "M "Oh, [ryan] don't do anything stupid. It was just an accident!"
-    M "Oh, [ryan] don't do anything stupid. It was just an accident!"
+msgid "[M] Oh, [ryan] don't do anything stupid. It was just an accident!"
+msgstr "[M] Oh, [ryan] don't do anything stupid. It was just an accident!"
 
 # game/UpdateScript0.03.rpy:2906## # translate crowdin clubpool_7a57db2a_1:
 msgid "[R] Yeah, I intend to find that out."
@@ -4855,40 +4855,40 @@ msgid "K "Have you ladies finished your chatting over there?! My bikini is going
     K "Have you ladies finished your chatting over there?! My bikini is going out of style! Let's keep playing!"
 
 # game/UpdateScript0.03.rpy:2949## # translate crowdin clubpool_fce6955d:
-msgid "M "Kenzie's right, it's my turn to chase you all."
-    M "Kenzie's right, it's my turn to chase you all."
+msgid "[M] Kenzie's right, it's my turn to chase you all."
+msgstr "[M] Kenzie's right, it's my turn to chase you all."
 
 # game/UpdateScript0.03.rpy:2950## # translate crowdin clubpool_bf1cbbf8:
-msgid "M "I'm counting to 10."
-    M "I'm counting to 10."
+msgid "[M] I'm counting to 10."
+msgstr "[M] I'm counting to 10."
 
 # game/UpdateScript0.03.rpy:2951## # translate crowdin clubpool_0308878d:
-msgid "M "1..."
-    M "1..."
+msgid "[M] 1..."
+msgstr "[M] 1..."
 
 # game/UpdateScript0.03.rpy:2952## # translate crowdin clubpool_40636822:
-msgid "M "2..."
-    M "2..."
+msgid "[M] 2..."
+msgstr "[M] 2..."
 
 # game/UpdateScript0.03.rpy:2962## # translate crowdin clubpool_a928d094:
-msgid "M "9..."
-    M "9..."
+msgid "[M] 9..."
+msgstr "[M] 9..."
 
 # game/UpdateScript0.03.rpy:2963## # translate crowdin clubpool_465d8643:
-msgid "M "10..."
-    M "10..."
+msgid "[M] 10..."
+msgstr "[M] 10..."
 
 # game/UpdateScript0.03.rpy:2964## # translate crowdin clubpool_c3298bbf:
-msgid "M "Marco!"
-    M "Marco!"
+msgid "[M] Marco!"
+msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2965## # translate crowdin clubpool_406ff453_4:
 msgid "EBE "Polo!"
     EBE "Polo!"
 
 # game/UpdateScript0.03.rpy:2972## # translate crowdin clubpool_c3298bbf_1:
-msgid "M "Marco!"
-    M "Marco!"
+msgid "[M] Marco!"
+msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2973## # translate crowdin clubpool_406ff453_5:
 msgid "EBE "Polo!"
@@ -4903,8 +4903,8 @@ msgid "MT "{i}I'll go for [ryan], hopefully it will make his day more fun!{/i}"
     MT "{i}I'll go for [ryan], hopefully it will make his day more fun!{/i}"
 
 # game/UpdateScript0.03.rpy:2984## # translate crowdin clubpool_c3298bbf_2:
-msgid "M "Marco!"
-    M "Marco!"
+msgid "[M] Marco!"
+msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2985## # translate crowdin clubpool_406ff453_6:
 msgid "EBE "Polo!"
@@ -4919,8 +4919,8 @@ msgid "[RT] {i}Mom's a fast swimmer.{/i}"
 msgstr "[RT] {i}Mom's a fast swimmer.{/i}"
 
 # game/UpdateScript0.03.rpy:2994## # translate crowdin clubpool_9eca3b34:
-msgid "M "Marco"
-    M "Marco"
+msgid "[M] Marco"
+msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:2995## # translate crowdin clubpool_406ff453_7:
 msgid "EBE "Polo!"
@@ -4939,12 +4939,12 @@ msgid "MT "{i}Just a little bit farther.... {/i}"
     MT "{i}Just a little bit farther.... {/i}"
 
 # game/UpdateScript0.03.rpy:3004## # translate crowdin clubpool_c7e500e6:
-msgid "M "Gotcha!..."
-    M "Gotcha!..."
+msgid "[M] Gotcha!..."
+msgstr "[M] Gotcha!..."
 
 # game/UpdateScript0.03.rpy:3005## # translate crowdin clubpool_e65a43e1:
-msgid "M "But who are you?"
-    M "But who are you?"
+msgid "[M] But who are you?"
+msgstr "[M] But who are you?"
 
 # game/UpdateScript0.03.rpy:3008## # translate crowdin clubpool_2cee9f5f:
 msgid "MT "{i}I thought I was chasing [ryan], but this feels more like one of Kenzie's small wrists.{/i}"
@@ -4975,20 +4975,20 @@ msgid "[RT] {i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i
 msgstr "[RT] {i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i}"
 
 # game/UpdateScript0.03.rpy:3061## # translate crowdin clubpool_68c42e7a:
-msgid "M "Ok, I'm guessing I've caught Kenzie!"
-    M "Ok, I'm guessing I've caught Kenzie!"
+msgid "[M] Ok, I'm guessing I've caught Kenzie!"
+msgstr "[M] Ok, I'm guessing I've caught Kenzie!"
 
 # game/UpdateScript0.03.rpy:3073## # translate crowdin clubpool_6270033e:
-msgid "M "Oh my God, [ryan]!"
-    M "Oh my God, [ryan]!"
+msgid "[M] Oh my God, [ryan]!"
+msgstr "[M] Oh my God, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3074## # translate crowdin clubpool_a07fdd1e:
-msgid "M "Was I grabbing?.... Did you just?.... Why didn't you?..."
-    M "Was I grabbing?.... Did you just?.... Why didn't you?..."
+msgid "[M] Was I grabbing?.... Did you just?.... Why didn't you?..."
+msgstr "[M] Was I grabbing?.... Did you just?.... Why didn't you?..."
 
 # game/UpdateScript0.03.rpy:3075## # translate crowdin clubpool_436db77c:
-msgid "M "Oh my God, [ryan]!!"
-    M "Oh my God, [ryan]!!"
+msgid "[M] Oh my God, [ryan]!!"
+msgstr "[M] Oh my God, [ryan]!!"
 
 # game/UpdateScript0.03.rpy:3076## # translate crowdin clubpool_ca58e6c7:
 msgid "[R] I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
@@ -5003,32 +5003,32 @@ msgid "[R] I didn't know what to do..."
 msgstr "[R] I didn't know what to do..."
 
 # game/UpdateScript0.03.rpy:3079## # translate crowdin clubpool_fe9752c5:
-msgid "M "Ok just shhh..."
-    M "Ok just shhh..."
+msgid "[M] Ok just shhh..."
+msgstr "[M] Ok just shhh..."
 
 # game/UpdateScript0.03.rpy:3080## # translate crowdin clubpool_a53691f3:
 msgid "[R] I'm sorry!..."
 msgstr "[R] I'm sorry!..."
 
 # game/UpdateScript0.03.rpy:3081## # translate crowdin clubpool_9f075c1f:
-msgid "M "It's ok, just keep it down..."
-    M "It's ok, just keep it down..."
+msgid "[M] It's ok, just keep it down..."
+msgstr "[M] It's ok, just keep it down..."
 
 # game/UpdateScript0.03.rpy:3088## # translate crowdin clubpool_62e20235:
-msgid "M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-    M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
+msgid "[M] {i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
+msgstr "[M] {i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
 
 # game/UpdateScript0.03.rpy:3089## # translate crowdin clubpool_f4a57f40:
 msgid "[RT] {i}Yeah right, fat chance of that.{/i}"
 msgstr "[RT] {i}Yeah right, fat chance of that.{/i}"
 
 # game/UpdateScript0.03.rpy:3090## # translate crowdin clubpool_66725d47:
-msgid "M "I'm not mad. Accidents happen."
-    M "I'm not mad. Accidents happen."
+msgid "[M] I'm not mad. Accidents happen."
+msgstr "[M] I'm not mad. Accidents happen."
 
 # game/UpdateScript0.03.rpy:3091## # translate crowdin clubpool_f11163e1:
-msgid "M "But let's just get our stuff and hurry out to the car."
-    M "But let's just get our stuff and hurry out to the car."
+msgid "[M] But let's just get our stuff and hurry out to the car."
+msgstr "[M] But let's just get our stuff and hurry out to the car."
 
 # game/UpdateScript0.03.rpy:3092## # translate crowdin clubpool_1bfca250:
 msgid "MT "{i}Oh my God! If that didn't let his Oedipal phase develop, I don't know what will.{/i}"
@@ -5051,20 +5051,20 @@ msgid "MT "{i}We've got to get out of here.{/i}"
     MT "{i}We've got to get out of here.{/i}"
 
 # game/UpdateScript0.03.rpy:3103## # translate crowdin clubpool_68c42e7a_1:
-msgid "M "Ok, I'm guessing I've caught Kenzie!"
-    M "Ok, I'm guessing I've caught Kenzie!"
+msgid "[M] Ok, I'm guessing I've caught Kenzie!"
+msgstr "[M] Ok, I'm guessing I've caught Kenzie!"
 
 # game/UpdateScript0.03.rpy:3115## # translate crowdin clubpool_6270033e_1:
-msgid "M "Oh my God, [ryan]!"
-    M "Oh my God, [ryan]!"
+msgid "[M] Oh my God, [ryan]!"
+msgstr "[M] Oh my God, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3116## # translate crowdin clubpool_5b98881d:
-msgid "M "Was I grabbing?.... Why didn't you say something?..."
-    M "Was I grabbing?.... Why didn't you say something?..."
+msgid "[M] Was I grabbing?.... Why didn't you say something?..."
+msgstr "[M] Was I grabbing?.... Why didn't you say something?..."
 
 # game/UpdateScript0.03.rpy:3117## # translate crowdin clubpool_436db77c_1:
-msgid "M "Oh my God, [ryan]!!"
-    M "Oh my God, [ryan]!!"
+msgid "[M] Oh my God, [ryan]!!"
+msgstr "[M] Oh my God, [ryan]!!"
 
 # game/UpdateScript0.03.rpy:3118## # translate crowdin clubpool_ca58e6c7_1:
 msgid "[R] I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
@@ -5075,8 +5075,8 @@ msgid "[R] I thought if I could get away you wouldn't realize what you had grabb
 msgstr "[R] I thought if I could get away you wouldn't realize what you had grabbed!"
 
 # game/UpdateScript0.03.rpy:3120## # translate crowdin clubpool_2094e92f:
-msgid "M "But why was it out?!..."
-    M "But why was it out?!..."
+msgid "[M] But why was it out?!..."
+msgstr "[M] But why was it out?!..."
 
 # game/UpdateScript0.03.rpy:3121## # translate crowdin clubpool_bc3ef8ed:
 msgid "[R] It doesn't fit in my shorts when I'm hard..."
@@ -5087,28 +5087,28 @@ msgid "[R] And I've been hard ever since I grabbed your boobs."
 msgstr "[R] And I've been hard ever since I grabbed your boobs."
 
 # game/UpdateScript0.03.rpy:3123## # translate crowdin clubpool_6270033e_2:
-msgid "M "Oh my God, [ryan]!"
-    M "Oh my God, [ryan]!"
+msgid "[M] Oh my God, [ryan]!"
+msgstr "[M] Oh my God, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3130## # translate crowdin clubpool_62e20235_1:
-msgid "M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-    M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
+msgid "[M] {i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
+msgstr "[M] {i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
 
 # game/UpdateScript0.03.rpy:3131## # translate crowdin clubpool_f4a57f40_1:
 msgid "[RT] {i}Yeah right, fat chance of that.{/i}"
 msgstr "[RT] {i}Yeah right, fat chance of that.{/i}"
 
 # game/UpdateScript0.03.rpy:3132## # translate crowdin clubpool_1cb7a5f0:
-msgid "M "I've never been so embarrassed."
-    M "I've never been so embarrassed."
+msgid "[M] I've never been so embarrassed."
+msgstr "[M] I've never been so embarrassed."
 
 # game/UpdateScript0.03.rpy:3133## # translate crowdin clubpool_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
 msgstr "{i}\"Mom's Respect -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:3135## # translate crowdin clubpool_3a53d690:
-msgid "M "Let's just get our stuff and hurry out to the car."
-    M "Let's just get our stuff and hurry out to the car."
+msgid "[M] Let's just get our stuff and hurry out to the car."
+msgstr "[M] Let's just get our stuff and hurry out to the car."
 
 # game/UpdateScript0.03.rpy:3136## # translate crowdin clubpool_1bfca250_1:
 msgid "MT "{i}Oh my God! If that didn't let his Oedipal phase develop, I don't know what will.{/i}"
@@ -5135,8 +5135,8 @@ msgid "MT "{i}I'll go for Kenzie, she should be easy to catch, and the sooner th
     MT "{i}I'll go for Kenzie, she should be easy to catch, and the sooner this game's done, the sooner we can go home!{/i}"
 
 # game/UpdateScript0.03.rpy:3154## # translate crowdin clubpool_c3298bbf_3:
-msgid "M "Marco!"
-    M "Marco!"
+msgid "[M] Marco!"
+msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:3155## # translate crowdin clubpool_406ff453_8:
 msgid "EBE "Polo!"
@@ -5147,8 +5147,8 @@ msgid "MT "{i}I think I can hear Kenzie just ahead.{/i}"
     MT "{i}I think I can hear Kenzie just ahead.{/i}"
 
 # game/UpdateScript0.03.rpy:3163## # translate crowdin clubpool_9eca3b34_1:
-msgid "M "Marco"
-    M "Marco"
+msgid "[M] Marco"
+msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:3164## # translate crowdin clubpool_406ff453_9:
 msgid "EBE "Polo!"
@@ -5163,12 +5163,12 @@ msgid "MT "{i}Just a little bit farther.... {/i}"
     MT "{i}Just a little bit farther.... {/i}"
 
 # game/UpdateScript0.03.rpy:3172## # translate crowdin clubpool_c7e500e6_1:
-msgid "M "Gotcha!..."
-    M "Gotcha!..."
+msgid "[M] Gotcha!..."
+msgstr "[M] Gotcha!..."
 
 # game/UpdateScript0.03.rpy:3173## # translate crowdin clubpool_e65a43e1_1:
-msgid "M "But who are you?"
-    M "But who are you?"
+msgid "[M] But who are you?"
+msgstr "[M] But who are you?"
 
 # game/UpdateScript0.03.rpy:3176## # translate crowdin clubpool_a96d6688:
 msgid "MT "{i}I thought I was chasing Kenzie, but I'm really not sure what I'm grabbing.{/i}"
@@ -5203,16 +5203,16 @@ msgid "K "Ummmm.... miss [mom_name]!"
     K "Ummmm.... miss [mom_name]!"
 
 # game/UpdateScript0.03.rpy:3256## # translate crowdin clubpool_84818fec:
-msgid "M "Oh my God, Kenzie!"
-    M "Oh my God, Kenzie!"
+msgid "[M] Oh my God, Kenzie!"
+msgstr "[M] Oh my God, Kenzie!"
 
 # game/UpdateScript0.03.rpy:3257## # translate crowdin clubpool_14bc5cc1:
-msgid "M "Was I grabbing?.... Why didn't you?..."
-    M "Was I grabbing?.... Why didn't you?..."
+msgid "[M] Was I grabbing?.... Why didn't you?..."
+msgstr "[M] Was I grabbing?.... Why didn't you?..."
 
 # game/UpdateScript0.03.rpy:3258## # translate crowdin clubpool_84c18eb2:
-msgid "M "Oh my God, Kenzie! I'm so so sorry!"
-    M "Oh my God, Kenzie! I'm so so sorry!"
+msgid "[M] Oh my God, Kenzie! I'm so so sorry!"
+msgstr "[M] Oh my God, Kenzie! I'm so so sorry!"
 
 # game/UpdateScript0.03.rpy:3259## # translate crowdin clubpool_62c46228:
 msgid "K "I'm sorry!.... You just grabbed and started groping.... I was hoping you would just let go without opening your eyes."
@@ -5227,28 +5227,28 @@ msgid "K "I didn't know what to do..."
     K "I didn't know what to do..."
 
 # game/UpdateScript0.03.rpy:3262## # translate crowdin clubpool_fe9752c5_1:
-msgid "M "Ok just shhh..."
-    M "Ok just shhh..."
+msgid "[M] Ok just shhh..."
+msgstr "[M] Ok just shhh..."
 
 # game/UpdateScript0.03.rpy:3263## # translate crowdin clubpool_19d48028:
 msgid "K "I'm sorry!..."
     K "I'm sorry!..."
 
 # game/UpdateScript0.03.rpy:3264## # translate crowdin clubpool_9f075c1f_1:
-msgid "M "It's ok, just keep it down..."
-    M "It's ok, just keep it down..."
+msgid "[M] It's ok, just keep it down..."
+msgstr "[M] It's ok, just keep it down..."
 
 # game/UpdateScript0.03.rpy:3265## # translate crowdin clubpool_baa6a75f:
-msgid "M "Please don't say anything to anybody, especially Lauren."
-    M "Please don't say anything to anybody, especially Lauren."
+msgid "[M] Please don't say anything to anybody, especially Lauren."
+msgstr "[M] Please don't say anything to anybody, especially Lauren."
 
 # game/UpdateScript0.03.rpy:3266## # translate crowdin clubpool_a44c1e9c:
 msgid "K "Ok, I promise."
     K "Ok, I promise."
 
 # game/UpdateScript0.03.rpy:3273## # translate crowdin clubpool_1e6150db:
-msgid "M "{i}(whispering){/i} Could you tell what just happened?"
-    M "{i}(whispering){/i} Could you tell what just happened?"
+msgid "[M] {i}(whispering){/i} Could you tell what just happened?"
+msgstr "[M] {i}(whispering){/i} Could you tell what just happened?"
 
 # game/UpdateScript0.03.rpy:3274## # translate crowdin clubpool_27c76aa1:
 msgid "[R] What do you mean? Did you get Kenzie? Is she it now?"
@@ -5271,24 +5271,24 @@ msgid "[RT] {i}Maybe it's the alcohol.{/i}"
 msgstr "[RT] {i}Maybe it's the alcohol.{/i}"
 
 # game/UpdateScript0.03.rpy:3279## # translate crowdin clubpool_f16ffad6:
-msgid "M "No. I can't tell you what happened, but you'd probably die laughing if you saw..."
-    M "No. I can't tell you what happened, but you'd probably die laughing if you saw..."
+msgid "[M] No. I can't tell you what happened, but you'd probably die laughing if you saw..."
+msgstr "[M] No. I can't tell you what happened, but you'd probably die laughing if you saw..."
 
 # game/UpdateScript0.03.rpy:3280## # translate crowdin clubpool_4881927b:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.03.rpy:3281## # translate crowdin clubpool_d9dfd078:
-msgid "M "No.... sorry.... I can't tell you."
-    M "No.... sorry.... I can't tell you."
+msgid "[M] No.... sorry.... I can't tell you."
+msgstr "[M] No.... sorry.... I can't tell you."
 
 # game/UpdateScript0.03.rpy:3282## # translate crowdin clubpool_b95aeeda:
 msgid "[RT] {i}Mom is a lot more fun when she's drunk.{/i}"
 msgstr "[RT] {i}Mom is a lot more fun when she's drunk.{/i}"
 
 # game/UpdateScript0.03.rpy:3283## # translate crowdin clubpool_5e90e9ae:
-msgid "M "Let's just say, it might be a little awkward for Kenzie to visit Lauren in the future.... hahah..."
-    M "Let's just say, it might be a little awkward for Kenzie to visit Lauren in the future.... hahah..."
+msgid "[M] Let's just say, it might be a little awkward for Kenzie to visit Lauren in the future.... hahah..."
+msgstr "[M] Let's just say, it might be a little awkward for Kenzie to visit Lauren in the future.... hahah..."
 
 # game/UpdateScript0.03.rpy:3284## # translate crowdin clubpool_fe66232a:
 msgid "MT "{i}I can't believe I was groping her tight little pussy and ass like that.{/i}"
@@ -5303,32 +5303,32 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3288## # translate crowdin clubpool_53046692:
-msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
-    M "Come on [ryan], we've got to grab our stuff and get out of here."
+msgid "[M] Come on [ryan], we've got to grab our stuff and get out of here."
+msgstr "[M] Come on [ryan], we've got to grab our stuff and get out of here."
 
 # game/UpdateScript0.03.rpy:3289## # translate crowdin clubpool_0d78cb67:
 msgid "[R] What!?.... Why?.... What happened?..."
 msgstr "[R] What!?.... Why?.... What happened?..."
 
 # game/UpdateScript0.03.rpy:3290## # translate crowdin clubpool_0c1d2de3:
-msgid "M "Just shut up and come on!"
-    M "Just shut up and come on!"
+msgid "[M] Just shut up and come on!"
+msgstr "[M] Just shut up and come on!"
 
 # game/UpdateScript0.03.rpy:3296## # translate crowdin clubpool_68c42e7a_2:
-msgid "M "Ok, I'm guessing I've caught Kenzie!"
-    M "Ok, I'm guessing I've caught Kenzie!"
+msgid "[M] Ok, I'm guessing I've caught Kenzie!"
+msgstr "[M] Ok, I'm guessing I've caught Kenzie!"
 
 # game/UpdateScript0.03.rpy:3308## # translate crowdin clubpool_84818fec_1:
-msgid "M "Oh my God, Kenzie!"
-    M "Oh my God, Kenzie!"
+msgid "[M] Oh my God, Kenzie!"
+msgstr "[M] Oh my God, Kenzie!"
 
 # game/UpdateScript0.03.rpy:3309## # translate crowdin clubpool_14bc5cc1_1:
-msgid "M "Was I grabbing?.... Why didn't you?..."
-    M "Was I grabbing?.... Why didn't you?..."
+msgid "[M] Was I grabbing?.... Why didn't you?..."
+msgstr "[M] Was I grabbing?.... Why didn't you?..."
 
 # game/UpdateScript0.03.rpy:3310## # translate crowdin clubpool_84c18eb2_1:
-msgid "M "Oh my God, Kenzie! I'm so so sorry!"
-    M "Oh my God, Kenzie! I'm so so sorry!"
+msgid "[M] Oh my God, Kenzie! I'm so so sorry!"
+msgstr "[M] Oh my God, Kenzie! I'm so so sorry!"
 
 # game/UpdateScript0.03.rpy:3311## # translate crowdin clubpool_62c46228_1:
 msgid "K "I'm sorry!.... You just grabbed and started groping.... I was hoping you would just let go without opening your eyes."
@@ -5343,28 +5343,28 @@ msgid "K "I didn't know what to do..."
     K "I didn't know what to do..."
 
 # game/UpdateScript0.03.rpy:3314## # translate crowdin clubpool_fe9752c5_2:
-msgid "M "Ok just shhh..."
-    M "Ok just shhh..."
+msgid "[M] Ok just shhh..."
+msgstr "[M] Ok just shhh..."
 
 # game/UpdateScript0.03.rpy:3315## # translate crowdin clubpool_19d48028_1:
 msgid "K "I'm sorry!..."
     K "I'm sorry!..."
 
 # game/UpdateScript0.03.rpy:3316## # translate crowdin clubpool_9f075c1f_2:
-msgid "M "It's ok, just keep it down..."
-    M "It's ok, just keep it down..."
+msgid "[M] It's ok, just keep it down..."
+msgstr "[M] It's ok, just keep it down..."
 
 # game/UpdateScript0.03.rpy:3317## # translate crowdin clubpool_baa6a75f_1:
-msgid "M "Please don't say anything to anybody, especially Lauren."
-    M "Please don't say anything to anybody, especially Lauren."
+msgid "[M] Please don't say anything to anybody, especially Lauren."
+msgstr "[M] Please don't say anything to anybody, especially Lauren."
 
 # game/UpdateScript0.03.rpy:3318## # translate crowdin clubpool_a44c1e9c_1:
 msgid "K "Ok, I promise."
     K "Ok, I promise."
 
 # game/UpdateScript0.03.rpy:3325## # translate crowdin clubpool_1e6150db_1:
-msgid "M "{i}(whispering){/i} Could you tell what just happened?"
-    M "{i}(whispering){/i} Could you tell what just happened?"
+msgid "[M] {i}(whispering){/i} Could you tell what just happened?"
+msgstr "[M] {i}(whispering){/i} Could you tell what just happened?"
 
 # game/UpdateScript0.03.rpy:3326## # translate crowdin clubpool_27c76aa1_1:
 msgid "[R] What do you mean? Did you get Kenzie? Is she it now?"
@@ -5383,16 +5383,16 @@ msgid "[RT] {i}She looks kind of upset?{/i}"
 msgstr "[RT] {i}She looks kind of upset?{/i}"
 
 # game/UpdateScript0.03.rpy:3330## # translate crowdin clubpool_fd8cf1d5:
-msgid "M "No. Nothing happened, just forget I asked..."
-    M "No. Nothing happened, just forget I asked..."
+msgid "[M] No. Nothing happened, just forget I asked..."
+msgstr "[M] No. Nothing happened, just forget I asked..."
 
 # game/UpdateScript0.03.rpy:3331## # translate crowdin clubpool_4881927b_1:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.03.rpy:3332## # translate crowdin clubpool_d9dfd078_1:
-msgid "M "No.... sorry.... I can't tell you."
-    M "No.... sorry.... I can't tell you."
+msgid "[M] No.... sorry.... I can't tell you."
+msgstr "[M] No.... sorry.... I can't tell you."
 
 # game/UpdateScript0.03.rpy:3333## # translate crowdin clubpool_5df16283:
 msgid "[RT] {i}She looks really embarrassed.{/i}"
@@ -5407,24 +5407,24 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3337## # translate crowdin clubpool_53046692_1:
-msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
-    M "Come on [ryan], we've got to grab our stuff and get out of here."
+msgid "[M] Come on [ryan], we've got to grab our stuff and get out of here."
+msgstr "[M] Come on [ryan], we've got to grab our stuff and get out of here."
 
 # game/UpdateScript0.03.rpy:3338## # translate crowdin clubpool_0d78cb67_1:
 msgid "[R] What!?.... Why?.... What happened?..."
 msgstr "[R] What!?.... Why?.... What happened?..."
 
 # game/UpdateScript0.03.rpy:3339## # translate crowdin clubpool_0c1d2de3_1:
-msgid "M "Just shut up and come on!"
-    M "Just shut up and come on!"
+msgid "[M] Just shut up and come on!"
+msgstr "[M] Just shut up and come on!"
 
 # game/UpdateScript0.03.rpy:3345## # translate crowdin clubpool_9e88ce7d:
 msgid "MT "{i}I'll go for Matt, maybe I can get some revenge for him stripping my top off!{/i}"
     MT "{i}I'll go for Matt, maybe I can get some revenge for him stripping my top off!{/i}"
 
 # game/UpdateScript0.03.rpy:3352## # translate crowdin clubpool_c3298bbf_4:
-msgid "M "Marco!"
-    M "Marco!"
+msgid "[M] Marco!"
+msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:3353## # translate crowdin clubpool_406ff453_10:
 msgid "EBE "Polo!"
@@ -5435,8 +5435,8 @@ msgid "MT "{i}I think that's Matt just ahead!{/i}"
     MT "{i}I think that's Matt just ahead!{/i}"
 
 # game/UpdateScript0.03.rpy:3361## # translate crowdin clubpool_9eca3b34_2:
-msgid "M "Marco"
-    M "Marco"
+msgid "[M] Marco"
+msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:3362## # translate crowdin clubpool_406ff453_11:
 msgid "EBE "Polo!"
@@ -5451,12 +5451,12 @@ msgid "MBT "{i}Alright, she's getting closer. Now to see if I can make this happ
     MBT "{i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
 
 # game/UpdateScript0.03.rpy:3368## # translate crowdin clubpool_c7e500e6_2:
-msgid "M "Gotcha!..."
-    M "Gotcha!..."
+msgid "[M] Gotcha!..."
+msgstr "[M] Gotcha!..."
 
 # game/UpdateScript0.03.rpy:3369## # translate crowdin clubpool_e35924e1:
-msgid "M "But what do I have?"
-    M "But what do I have?"
+msgid "[M] But what do I have?"
+msgstr "[M] But what do I have?"
 
 # game/UpdateScript0.03.rpy:3372## # translate crowdin clubpool_5d361cf5:
 msgid "MT "{i}I thought I was chasing Matt, but this feels more like one of [ryan]'s wrists.{/i}"
@@ -5491,20 +5491,20 @@ msgid "[RT] Mom!.... Stop.... open your eyes!"
 msgstr "[RT] Mom!.... Stop.... open your eyes!"
 
 # game/UpdateScript0.03.rpy:3426## # translate crowdin clubpool_497a6ce2:
-msgid "M "Ok, I'm guessing I've caught [ryan]!"
-    M "Ok, I'm guessing I've caught [ryan]!"
+msgid "[M] Ok, I'm guessing I've caught [ryan]!"
+msgstr "[M] Ok, I'm guessing I've caught [ryan]!"
 
 # game/UpdateScript0.03.rpy:3438## # translate crowdin clubpool_d92e4254:
-msgid "M "Oh my God, Matt!"
-    M "Oh my God, Matt!"
+msgid "[M] Oh my God, Matt!"
+msgstr "[M] Oh my God, Matt!"
 
 # game/UpdateScript0.03.rpy:3439## # translate crowdin clubpool_a07fdd1e_1:
-msgid "M "Was I grabbing?.... Did you just?.... Why didn't you?..."
-    M "Was I grabbing?.... Did you just?.... Why didn't you?..."
+msgid "[M] Was I grabbing?.... Did you just?.... Why didn't you?..."
+msgstr "[M] Was I grabbing?.... Did you just?.... Why didn't you?..."
 
 # game/UpdateScript0.03.rpy:3440## # translate crowdin clubpool_9b37c0b2:
-msgid "M "Oh my God, Matt!!"
-    M "Oh my God, Matt!!"
+msgid "[M] Oh my God, Matt!!"
+msgstr "[M] Oh my God, Matt!!"
 
 # game/UpdateScript0.03.rpy:3441## # translate crowdin clubpool_88b8f7fd:
 msgid "MB "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
@@ -5519,24 +5519,24 @@ msgid "MB "I didn't know what to do..."
     MB "I didn't know what to do..."
 
 # game/UpdateScript0.03.rpy:3444## # translate crowdin clubpool_fe9752c5_3:
-msgid "M "Ok just shhh..."
-    M "Ok just shhh..."
+msgid "[M] Ok just shhh..."
+msgstr "[M] Ok just shhh..."
 
 # game/UpdateScript0.03.rpy:3445## # translate crowdin clubpool_5943c1bf:
 msgid "MB "I'm sorry!..."
     MB "I'm sorry!..."
 
 # game/UpdateScript0.03.rpy:3446## # translate crowdin clubpool_9f075c1f_3:
-msgid "M "It's ok, just keep it down..."
-    M "It's ok, just keep it down..."
+msgid "[M] It's ok, just keep it down..."
+msgstr "[M] It's ok, just keep it down..."
 
 # game/UpdateScript0.03.rpy:3447## # translate crowdin clubpool_58261433:
-msgid "M "And please don't tell anyone what happened. Especially your parents."
-    M "And please don't tell anyone what happened. Especially your parents."
+msgid "[M] And please don't tell anyone what happened. Especially your parents."
+msgstr "[M] And please don't tell anyone what happened. Especially your parents."
 
 # game/UpdateScript0.03.rpy:3454## # translate crowdin clubpool_1e6150db_2:
-msgid "M "{i}(whispering){/i} Could you tell what just happened?"
-    M "{i}(whispering){/i} Could you tell what just happened?"
+msgid "[M] {i}(whispering){/i} Could you tell what just happened?"
+msgstr "[M] {i}(whispering){/i} Could you tell what just happened?"
 
 # game/UpdateScript0.03.rpy:3455## # translate crowdin clubpool_ab3bf6db:
 msgid "[R] Yeah.... It was pretty obvious by the look on Matt's face!"
@@ -5551,32 +5551,32 @@ msgid "[R] How could you not tell you had a grip on his cock?"
 msgstr "[R] How could you not tell you had a grip on his cock?"
 
 # game/UpdateScript0.03.rpy:3458## # translate crowdin clubpool_57d0572a:
-msgid "M "Language, [ryan]! I thought I had you by the wrist."
-    M "Language, [ryan]! I thought I had you by the wrist."
+msgid "[M] Language, [ryan]! I thought I had you by the wrist."
+msgstr "[M] Language, [ryan]! I thought I had you by the wrist."
 
 # game/UpdateScript0.03.rpy:3459## # translate crowdin clubpool_a8af187f:
 msgid "[R] Me?.... By the wrist?.... Is Matt that big?"
 msgstr "[R] Me?.... By the wrist?.... Is Matt that big?"
 
 # game/UpdateScript0.03.rpy:3460## # translate crowdin clubpool_06b6f61a:
-msgid "M "Oh.... yeah.... and I thought you were big."
-    M "Oh.... yeah.... and I thought you were big."
+msgid "[M] Oh.... yeah.... and I thought you were big."
+msgstr "[M] Oh.... yeah.... and I thought you were big."
 
 # game/UpdateScript0.03.rpy:3461## # translate crowdin clubpool_4881927b_2:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.03.rpy:3462## # translate crowdin clubpool_6fd02f71:
-msgid "M "I mean.... oh heck.... I'm sorry to compare you to him."
-    M "I mean.... oh heck.... I'm sorry to compare you to him."
+msgid "[M] I mean.... oh heck.... I'm sorry to compare you to him."
+msgstr "[M] I mean.... oh heck.... I'm sorry to compare you to him."
 
 # game/UpdateScript0.03.rpy:3463## # translate crowdin clubpool_c3f41a1c:
 msgid "[RT] {i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
 msgstr "[RT] {i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
 
 # game/UpdateScript0.03.rpy:3464## # translate crowdin clubpool_615e6e69:
-msgid "M "Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
-    M "Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
+msgid "[M] Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
+msgstr "[M] Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
 
 # game/UpdateScript0.03.rpy:3465## # translate crowdin clubpool_1c91b753:
 msgid "[R] Mom!.... That's not any better!"
@@ -5591,36 +5591,36 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3469## # translate crowdin clubpool_53046692_2:
-msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
-    M "Come on [ryan], we've got to grab our stuff and get out of here."
+msgid "[M] Come on [ryan], we've got to grab our stuff and get out of here."
+msgstr "[M] Come on [ryan], we've got to grab our stuff and get out of here."
 
 # game/UpdateScript0.03.rpy:3470## # translate crowdin clubpool_a04a50cb:
 msgid "[R] What!?.... Why?..."
 msgstr "[R] What!?.... Why?..."
 
 # game/UpdateScript0.03.rpy:3471## # translate crowdin clubpool_0c1d2de3_2:
-msgid "M "Just shut up and come on!"
-    M "Just shut up and come on!"
+msgid "[M] Just shut up and come on!"
+msgstr "[M] Just shut up and come on!"
 
 # game/UpdateScript0.03.rpy:3477## # translate crowdin clubpool_edac170b:
 msgid "[R] Mom!.... Stop.... open your eyes!"
 msgstr "[R] Mom!.... Stop.... open your eyes!"
 
 # game/UpdateScript0.03.rpy:3478## # translate crowdin clubpool_497a6ce2_1:
-msgid "M "Ok, I'm guessing I've caught [ryan]!"
-    M "Ok, I'm guessing I've caught [ryan]!"
+msgid "[M] Ok, I'm guessing I've caught [ryan]!"
+msgstr "[M] Ok, I'm guessing I've caught [ryan]!"
 
 # game/UpdateScript0.03.rpy:3490## # translate crowdin clubpool_58a8fb45:
-msgid "M "Oh my God, Matt."
-    M "Oh my God, Matt."
+msgid "[M] Oh my God, Matt."
+msgstr "[M] Oh my God, Matt."
 
 # game/UpdateScript0.03.rpy:3491## # translate crowdin clubpool_5b98881d_1:
-msgid "M "Was I grabbing?.... Why didn't you say something?..."
-    M "Was I grabbing?.... Why didn't you say something?..."
+msgid "[M] Was I grabbing?.... Why didn't you say something?..."
+msgstr "[M] Was I grabbing?.... Why didn't you say something?..."
 
 # game/UpdateScript0.03.rpy:3492## # translate crowdin clubpool_9b37c0b2_1:
-msgid "M "Oh my God, Matt!!"
-    M "Oh my God, Matt!!"
+msgid "[M] Oh my God, Matt!!"
+msgstr "[M] Oh my God, Matt!!"
 
 # game/UpdateScript0.03.rpy:3493## # translate crowdin clubpool_88b8f7fd_1:
 msgid "MB "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
@@ -5631,8 +5631,8 @@ msgid "MB "I thought if I could get away you wouldn't realize what you had grabb
     MB "I thought if I could get away you wouldn't realize what you had grabbed!"
 
 # game/UpdateScript0.03.rpy:3495## # translate crowdin clubpool_2094e92f_1:
-msgid "M "But why was it out?!..."
-    M "But why was it out?!..."
+msgid "[M] But why was it out?!..."
+msgstr "[M] But why was it out?!..."
 
 # game/UpdateScript0.03.rpy:3496## # translate crowdin clubpool_b971a1d9:
 msgid "MB "It doesn't fit in my shorts when I'm hard..."
@@ -5647,16 +5647,16 @@ msgid "MT "{i}Pshhh.... accident my ass.{/i}"
     MT "{i}Pshhh.... accident my ass.{/i}"
 
 # game/UpdateScript0.03.rpy:3499## # translate crowdin clubpool_d92e4254_1:
-msgid "M "Oh my God, Matt!"
-    M "Oh my God, Matt!"
+msgid "[M] Oh my God, Matt!"
+msgstr "[M] Oh my God, Matt!"
 
 # game/UpdateScript0.03.rpy:3500## # translate crowdin clubpool_b2745287:
-msgid "M "Don't you dare say a word to anyone! Especially your parents!"
-    M "Don't you dare say a word to anyone! Especially your parents!"
+msgid "[M] Don't you dare say a word to anyone! Especially your parents!"
+msgstr "[M] Don't you dare say a word to anyone! Especially your parents!"
 
 # game/UpdateScript0.03.rpy:3507## # translate crowdin clubpool_1e6150db_3:
-msgid "M "{i}(whispering){/i} Could you tell what just happened?"
-    M "{i}(whispering){/i} Could you tell what just happened?"
+msgid "[M] {i}(whispering){/i} Could you tell what just happened?"
+msgstr "[M] {i}(whispering){/i} Could you tell what just happened?"
 
 # game/UpdateScript0.03.rpy:3508## # translate crowdin clubpool_ab3bf6db_1:
 msgid "[R] Yeah.... It was pretty obvious by the look on Matt's face!"
@@ -5671,24 +5671,24 @@ msgid "[R] How could you not tell you had a grip on his cock?"
 msgstr "[R] How could you not tell you had a grip on his cock?"
 
 # game/UpdateScript0.03.rpy:3511## # translate crowdin clubpool_57d0572a_1:
-msgid "M "Language, [ryan]! I thought I had you by the wrist."
-    M "Language, [ryan]! I thought I had you by the wrist."
+msgid "[M] Language, [ryan]! I thought I had you by the wrist."
+msgstr "[M] Language, [ryan]! I thought I had you by the wrist."
 
 # game/UpdateScript0.03.rpy:3512## # translate crowdin clubpool_a8af187f_1:
 msgid "[R] Me?.... By the wrist?.... Is Matt that big?"
 msgstr "[R] Me?.... By the wrist?.... Is Matt that big?"
 
 # game/UpdateScript0.03.rpy:3513## # translate crowdin clubpool_e43874b3:
-msgid "M "Sshhhhh.... I don't want anyone to know what we're talking about!"
-    M "Sshhhhh.... I don't want anyone to know what we're talking about!"
+msgid "[M] Sshhhhh.... I don't want anyone to know what we're talking about!"
+msgstr "[M] Sshhhhh.... I don't want anyone to know what we're talking about!"
 
 # game/UpdateScript0.03.rpy:3514## # translate crowdin clubpool_4881927b_3:
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.03.rpy:3515## # translate crowdin clubpool_9d07f398:
-msgid "M "I mean.... oh heck.... I'm sorry to make you feel inadequate."
-    M "I mean.... oh heck.... I'm sorry to make you feel inadequate."
+msgid "[M] I mean.... oh heck.... I'm sorry to make you feel inadequate."
+msgstr "[M] I mean.... oh heck.... I'm sorry to make you feel inadequate."
 
 # game/UpdateScript0.03.rpy:3516## # translate crowdin clubpool_c31bea5a:
 msgid "MT "{i}Matt just let it happen.... didn't say a word for a long time.... would he have ever stopped me, or let me make him cum?.... {/i}"
@@ -5699,16 +5699,16 @@ msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:3519## # translate crowdin clubpool_53046692_3:
-msgid "M "Come on [ryan], we've got to grab our stuff and get out of here."
-    M "Come on [ryan], we've got to grab our stuff and get out of here."
+msgid "[M] Come on [ryan], we've got to grab our stuff and get out of here."
+msgstr "[M] Come on [ryan], we've got to grab our stuff and get out of here."
 
 # game/UpdateScript0.03.rpy:3520## # translate crowdin clubpool_a04a50cb_1:
 msgid "[R] What!?.... Why?..."
 msgstr "[R] What!?.... Why?..."
 
 # game/UpdateScript0.03.rpy:3521## # translate crowdin clubpool_0c1d2de3_3:
-msgid "M "Just shut up and come on!"
-    M "Just shut up and come on!"
+msgid "[M] Just shut up and come on!"
+msgstr "[M] Just shut up and come on!"
 
 # game/UpdateScript0.03.rpy:3548## # translate crowdin photostudio_b4d99b92:
 msgid "{i}\"You will not have the option to start the Sidney photo-shoot until you have bought both the green screen and the professional lights.\"{/i}"
