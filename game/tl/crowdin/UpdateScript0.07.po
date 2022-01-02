@@ -99,8 +99,8 @@ msgid "[R] This doesn't look like Ponies."
 msgstr "[R] This doesn't look like Ponies."
 
 # game/UpdateScript0.07.rpy:1082## # translate crowdin mandy_accepted_315b2a1e:
-msgid "MD "That's because it's about the same characters in another dimension that are more human-like."
-    MD "That's because it's about the same characters in another dimension that are more human-like."
+msgid "[MD] That's because it's about the same characters in another dimension that are more human-like."
+msgstr "[MD] That's because it's about the same characters in another dimension that are more human-like."
 
 # game/UpdateScript0.07.rpy:1083## # translate crowdin mandy_accepted_12bb24ee:
 msgid "[L] But sometimes they cross dimensions and talk to the real ponies."
@@ -115,16 +115,16 @@ msgid "[L] Yeah, come sit down. I think you might like it."
 msgstr "[L] Yeah, come sit down. I think you might like it."
 
 # game/UpdateScript0.07.rpy:1086## # translate crowdin mandy_accepted_a4f436f3:
-msgid "MD "Yeah, you'd make a great \"brony\"."
-    MD "Yeah, you'd make a great \"brony\"."
+msgid "[MD] Yeah, you'd make a great \"brony\"."
+msgstr "[MD] Yeah, you'd make a great \"brony\"."
 
 # game/UpdateScript0.07.rpy:1089## # translate crowdin mandy_accepted_a3376437:
 msgid "[L] Hahaha..."
 msgstr "[L] Hahaha..."
 
 # game/UpdateScript0.07.rpy:1090## # translate crowdin mandy_accepted_f5f41a7c:
-msgid "MD "Hahaha..."
-    MD "Hahaha..."
+msgid "[MD] Hahaha..."
+msgstr "[MD] Hahaha..."
 
 # game/UpdateScript0.07.rpy:1091## # translate crowdin mandy_accepted_531045fd:
 msgid "[R] Why is the thought of me being a brony so funny to you."
@@ -151,12 +151,12 @@ msgid "[R] Is it almost over?"
 msgstr "[R] Is it almost over?"
 
 # game/UpdateScript0.07.rpy:1102## # translate crowdin mandy_accepted_459fa0c8:
-msgid "MD "There's about fifteen minutes left."
-    MD "There's about fifteen minutes left."
+msgid "[MD] There's about fifteen minutes left."
+msgstr "[MD] There's about fifteen minutes left."
 
 # game/UpdateScript0.07.rpy:1103## # translate crowdin mandy_accepted_a82bcb5b:
-msgid "MD "We'll watch an episode of Game of Thots with you when this is over, if you'll watch the rest of this show with us."
-    MD "We'll watch an episode of Game of Thots with you when this is over, if you'll watch the rest of this show with us."
+msgid "[MD] We'll watch an episode of Game of Thots with you when this is over, if you'll watch the rest of this show with us."
+msgstr "[MD] We'll watch an episode of Game of Thots with you when this is over, if you'll watch the rest of this show with us."
 
 # game/UpdateScript0.07.rpy:1104## # translate crowdin mandy_accepted_9fc09bec:
 msgid "[R] Ok... fine."
@@ -259,8 +259,8 @@ msgid "[M] So, today I got a call from the superintendent, and he told me that M
 msgstr "[M] So, today I got a call from the superintendent, and he told me that Mandy would be welcome to attend our school for free on a special employee family scholarship."
 
 # game/UpdateScript0.07.rpy:1148## # translate crowdin mandy_accepted_3efbab1c:
-msgid "MD "Oh, my God! Really?"
-    MD "Oh, my God! Really?"
+msgid "[MD] Oh, my God! Really?"
+msgstr "[MD] Oh, my God! Really?"
 
 # game/UpdateScript0.07.rpy:1150## # translate crowdin mandy_accepted_80cae64c:
 msgid "[M] You bet. You can start tomorrow if you want. They've already requested your school records from your current school."
@@ -271,16 +271,16 @@ msgid "[M] You bet. You can start Monday if you want. They've already requested 
 msgstr "[M] You bet. You can start Monday if you want. They've already requested your school records from your current school."
 
 # game/UpdateScript0.07.rpy:1153## # translate crowdin mandy_accepted_d45e88a4:
-msgid "MD "Thank you, Aunt [mom_name]! You're the best!"
-    MD "Thank you, Aunt [mom_name]! You're the best!"
+msgid "[MD] Thank you, Aunt [mom_name]! You're the best!"
+msgstr "[MD] Thank you, Aunt [mom_name]! You're the best!"
 
 # game/UpdateScript0.07.rpy:1154## # translate crowdin mandy_accepted_7b547ba8:
 msgid "[L] Yay! We'll be in the same class!"
 msgstr "[L] Yay! We'll be in the same class!"
 
 # game/UpdateScript0.07.rpy:1158## # translate crowdin mandy_accepted_eabf9451:
-msgid "MD "Now, I can help you even more with your campaign!"
-    MD "Now, I can help you even more with your campaign!"
+msgid "[MD] Now, I can help you even more with your campaign!"
+msgstr "[MD] Now, I can help you even more with your campaign!"
 
 # game/UpdateScript0.07.rpy:1161## # translate crowdin mandy_accepted_1a8006ac:
 msgid "[L] This is going to be such a fun year!"
@@ -9459,12 +9459,12 @@ msgid "[R] You had them eating out of the palm of your hand!"
 msgstr "[R] You had them eating out of the palm of your hand!"
 
 # game/UpdateScript0.07.rpy:6141## # translate crowdin actual_election_f4c4d706:
-msgid "MD "Alright, [ryan]... We're just about set up."
-    MD "Alright, [ryan]... We're just about set up."
+msgid "[MD] Alright, [ryan]... We're just about set up."
+msgstr "[MD] Alright, [ryan]... We're just about set up."
 
 # game/UpdateScript0.07.rpy:6144## # translate crowdin actual_election_fb43b700:
-msgid "MD "OMG, Lauren!... You did so awesome!"
-    MD "OMG, Lauren!... You did so awesome!"
+msgid "[MD] OMG, Lauren!... You did so awesome!"
+msgstr "[MD] OMG, Lauren!... You did so awesome!"
 
 # game/UpdateScript0.07.rpy:6147## # translate crowdin actual_election_8aaf96e2:
 msgid "[L] Oh my God, Mandy... It's so weird to see you in a cheerleading uniform."
@@ -9475,20 +9475,20 @@ msgid "[L] Sorry, it's just... Most of the campaign, the cheerleaders were worki
 msgstr "[L] Sorry, it's just... Most of the campaign, the cheerleaders were working for my enemy."
 
 # game/UpdateScript0.07.rpy:6151## # translate crowdin actual_election_a766314a:
-msgid "MD "Don't worry... They've all been quietly pushing for you ever since Megan told them to change sides."
-    MD "Don't worry... They've all been quietly pushing for you ever since Megan told them to change sides."
+msgid "[MD] Don't worry... They've all been quietly pushing for you ever since Megan told them to change sides."
+msgstr "[MD] Don't worry... They've all been quietly pushing for you ever since Megan told them to change sides."
 
 # game/UpdateScript0.07.rpy:6154## # translate crowdin actual_election_e2ba46d7:
-msgid "MD "I don't think anyone's given anything away. Matt's going to be totally caught off guard."
-    MD "I don't think anyone's given anything away. Matt's going to be totally caught off guard."
+msgid "[MD] I don't think anyone's given anything away. Matt's going to be totally caught off guard."
+msgstr "[MD] I don't think anyone's given anything away. Matt's going to be totally caught off guard."
 
 # game/UpdateScript0.07.rpy:6157## # translate crowdin actual_election_cf55d8ff:
 msgid "[R] I guess we'll know if it all worked out in a few moments."
 msgstr "[R] I guess we'll know if it all worked out in a few moments."
 
 # game/UpdateScript0.07.rpy:6158## # translate crowdin actual_election_57e0edf1:
-msgid "MD "Relax... What could go wrong now?"
-    MD "Relax... What could go wrong now?"
+msgid "[MD] Relax... What could go wrong now?"
+msgstr "[MD] Relax... What could go wrong now?"
 
 # game/UpdateScript0.07.rpy:6159## # translate crowdin actual_election_09f2e9df:
 msgid "[R] Famous last words."
@@ -10043,8 +10043,8 @@ msgid "[L] Fuck... This is not going well."
 msgstr "[L] Fuck... This is not going well."
 
 # game/UpdateScript0.07.rpy:6479## # translate crowdin actual_election_b46652d1:
-msgid "MD "Hey guys... Uhh... good speech, Lauren."
-    MD "Hey guys... Uhh... good speech, Lauren."
+msgid "[MD] Hey guys... Uhh... good speech, Lauren."
+msgstr "[MD] Hey guys... Uhh... good speech, Lauren."
 
 # game/UpdateScript0.07.rpy:6480## # translate crowdin actual_election_e53ab3ad:
 msgid "[L] Don't lie... It was awful."
@@ -10055,16 +10055,16 @@ msgid "[L] I'm sure hoping you can save me with your skit."
 msgstr "[L] I'm sure hoping you can save me with your skit."
 
 # game/UpdateScript0.07.rpy:6483## # translate crowdin actual_election_3011060e:
-msgid "MD "Yeah, about that. I'm looking for the cheerleaders. They're all supposed to be here dressed up like me, but I'm not sure where they are."
-    MD "Yeah, about that. I'm looking for the cheerleaders. They're all supposed to be here dressed up like me, but I'm not sure where they are."
+msgid "[MD] Yeah, about that. I'm looking for the cheerleaders. They're all supposed to be here dressed up like me, but I'm not sure where they are."
+msgstr "[MD] Yeah, about that. I'm looking for the cheerleaders. They're all supposed to be here dressed up like me, but I'm not sure where they are."
 
 # game/UpdateScript0.07.rpy:6484## # translate crowdin actual_election_fe398fce:
 msgid "[R] Oh, fuck... Look behind you."
 msgstr "[R] Oh, fuck... Look behind you."
 
 # game/UpdateScript0.07.rpy:6486## # translate crowdin actual_election_3131b422:
-msgid "MD "Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
-    MD "Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
+msgid "[MD] Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
+msgstr "[MD] Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
 
 # game/UpdateScript0.07.rpy:6489## # translate crowdin actual_election_85fda4b6_1:
 msgid "PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
@@ -10079,32 +10079,32 @@ msgid "[R] Well, fuck!... It looks like Megan and Matt made up."
 msgstr "[R] Well, fuck!... It looks like Megan and Matt made up."
 
 # game/UpdateScript0.07.rpy:6546## # translate crowdin actual_election_704428ad:
-msgid "MD "What am I gonna do? Those treacherous bitches tricked me!"
-    MD "What am I gonna do? Those treacherous bitches tricked me!"
+msgid "[MD] What am I gonna do? Those treacherous bitches tricked me!"
+msgstr "[MD] What am I gonna do? Those treacherous bitches tricked me!"
 
 # game/UpdateScript0.07.rpy:6548## # translate crowdin actual_election_0dce74f5:
-msgid "MD "Oh, fuck!... That was really good."
-    MD "Oh, fuck!... That was really good."
+msgid "[MD] Oh, fuck!... That was really good."
+msgstr "[MD] Oh, fuck!... That was really good."
 
 # game/UpdateScript0.07.rpy:6549## # translate crowdin actual_election_28909a31:
-msgid "MD "And those girls from the dance team are no-shows!"
-    MD "And those girls from the dance team are no-shows!"
+msgid "[MD] And those girls from the dance team are no-shows!"
+msgstr "[MD] And those girls from the dance team are no-shows!"
 
 # game/UpdateScript0.07.rpy:6552## # translate crowdin actual_election_fdcd0aeb:
-msgid "MD "I'm so sorry, Lauren... But I can't do this routine on my own."
-    MD "I'm so sorry, Lauren... But I can't do this routine on my own."
+msgid "[MD] I'm so sorry, Lauren... But I can't do this routine on my own."
+msgstr "[MD] I'm so sorry, Lauren... But I can't do this routine on my own."
 
 # game/UpdateScript0.07.rpy:6553## # translate crowdin actual_election_be989c8d:
-msgid "MD "It involves group choreography, and I'd be a laughingstock if I tried to do it on my own."
-    MD "It involves group choreography, and I'd be a laughingstock if I tried to do it on my own."
+msgid "[MD] It involves group choreography, and I'd be a laughingstock if I tried to do it on my own."
+msgstr "[MD] It involves group choreography, and I'd be a laughingstock if I tried to do it on my own."
 
 # game/UpdateScript0.07.rpy:6554## # translate crowdin actual_election_7565513f:
-msgid "MD "I love you, but I can't commit social suicide."
-    MD "I love you, but I can't commit social suicide."
+msgid "[MD] I love you, but I can't commit social suicide."
+msgstr "[MD] I love you, but I can't commit social suicide."
 
 # game/UpdateScript0.07.rpy:6555## # translate crowdin actual_election_db1ff53d:
-msgid "MD "Good luck!"
-    MD "Good luck!"
+msgid "[MD] Good luck!"
+msgstr "[MD] Good luck!"
 
 # game/UpdateScript0.07.rpy:6558## # translate crowdin actual_election_daf12aa0:
 msgid "[L] No!... Mandy!"
@@ -13747,12 +13747,12 @@ msgid "[R] So [cousin_name], how did Lauren rope you into helping with her campa
 msgstr "[R] So [cousin_name], how did Lauren rope you into helping with her campaign?"
 
 # game/UpdateScript0.07.rpy:8498## # translate crowdin hall_ambush_f2cb263c:
-msgid "MD "She promised me that she'd get me out of class to help with school events."
-    MD "She promised me that she'd get me out of class to help with school events."
+msgid "[MD] She promised me that she'd get me out of class to help with school events."
+msgstr "[MD] She promised me that she'd get me out of class to help with school events."
 
 # game/UpdateScript0.07.rpy:8499## # translate crowdin hall_ambush_6aa54313:
-msgid "MD "Honestly, that's all the motivation I needed."
-    MD "Honestly, that's all the motivation I needed."
+msgid "[MD] Honestly, that's all the motivation I needed."
+msgstr "[MD] Honestly, that's all the motivation I needed."
 
 # game/UpdateScript0.07.rpy:8500## # translate crowdin hall_ambush_81aa29d8:
 msgid "[L] Alright ladies, say goodbye. We've got a lot of work to do."
@@ -16387,8 +16387,8 @@ msgid "[LT] {i}I thought [ryan] took anatomy last year.{/i}"
 msgstr "[LT] {i}I thought [ryan] took anatomy last year.{/i}"
 
 # game/UpdateScript0.07.rpy:10014## # translate crowdin talk_to_megan_654152ec:
-msgid "MD "Bye, [ryan]"
-    MD "Bye, [ryan]"
+msgid "[MD] Bye, [ryan]"
+msgstr "[MD] Bye, [ryan]"
 
 # game/UpdateScript0.07.rpy:10015## # translate crowdin talk_to_megan_6eef4f8c:
 msgid "[MG] See ya, [ryan], maybe we'll see you soon."
@@ -17111,8 +17111,8 @@ msgid "[R] No, I thought you would have."
 msgstr "[R] No, I thought you would have."
 
 # game/UpdateScript0.07.rpy:10409## # translate crowdin talk_to_megan_d8441f16:
-msgid "MD "Tell us what?"
-    MD "Tell us what?"
+msgid "[MD] Tell us what?"
+msgstr "[MD] Tell us what?"
 
 # game/UpdateScript0.07.rpy:10410## # translate crowdin talk_to_megan_07d0a7eb:
 msgid "[L] If it's about the election, tell us at our headquarters... You don't know who could be listening here."
@@ -18831,8 +18831,8 @@ msgid "[R] Hey, Mandy, Lauren..."
 msgstr "[R] Hey, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11411## # translate crowdin campaign_headquarters_afternoon_e4625c57:
-msgid "MD "Hey, [ryan]."
-    MD "Hey, [ryan]."
+msgid "[MD] Hey, [ryan]."
+msgstr "[MD] Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:11412## # translate crowdin campaign_headquarters_afternoon_38e6ce7f:
 msgid "[L] Hi, big brother."
@@ -18947,8 +18947,8 @@ msgid "[R] Hey, Mandy, Lauren..."
 msgstr "[R] Hey, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11485## # translate crowdin campaign_headquarters_afternoon_e4625c57_1:
-msgid "MD "Hey, [ryan]."
-    MD "Hey, [ryan]."
+msgid "[MD] Hey, [ryan]."
+msgstr "[MD] Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:11486## # translate crowdin campaign_headquarters_afternoon_38e6ce7f_1:
 msgid "[L] Hi, big brother."
@@ -19011,12 +19011,12 @@ msgid "[L] Mandy? How is the final skit coming along?"
 msgstr "[L] Mandy? How is the final skit coming along?"
 
 # game/UpdateScript0.07.rpy:11524## # translate crowdin campaign_headquarters_afternoon_e78c3dca:
-msgid "MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
-    MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+msgid "[MD] Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+msgstr "[MD] Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
 
 # game/UpdateScript0.07.rpy:11525## # translate crowdin campaign_headquarters_afternoon_d5362a04:
-msgid "MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
-    MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+msgid "[MD] The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+msgstr "[MD] The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
 
 # game/UpdateScript0.07.rpy:11526## # translate crowdin campaign_headquarters_afternoon_e97b6700:
 msgid "[R] Actually, I've got some really good news for you, Mandy."
@@ -19051,12 +19051,12 @@ msgid "[R] So, Mandy, Megan is just waiting for you to contact her to make some 
 msgstr "[R] So, Mandy, Megan is just waiting for you to contact her to make some plans."
 
 # game/UpdateScript0.07.rpy:11536## # translate crowdin campaign_headquarters_afternoon_446a5d2e:
-msgid "MD "Oh, thank God!... You're the best, [ryan]! I was beginning to think I would have to perform by myself."
-    MD "Oh, thank God!... You're the best, [ryan]! I was beginning to think I would have to perform by myself."
+msgid "[MD] Oh, thank God!... You're the best, [ryan]! I was beginning to think I would have to perform by myself."
+msgstr "[MD] Oh, thank God!... You're the best, [ryan]! I was beginning to think I would have to perform by myself."
 
 # game/UpdateScript0.07.rpy:11537## # translate crowdin campaign_headquarters_afternoon_7bc3d720:
-msgid "MD "Lauren, your skit is going to be so good!"
-    MD "Lauren, your skit is going to be so good!"
+msgid "[MD] Lauren, your skit is going to be so good!"
+msgstr "[MD] Lauren, your skit is going to be so good!"
 
 # game/UpdateScript0.07.rpy:11538## # translate crowdin campaign_headquarters_afternoon_ab9f756c:
 msgid "[L] Yay!"
@@ -19087,8 +19087,8 @@ msgid "[L] It sounds like you've got your work cut out for you, Mandy."
 msgstr "[L] It sounds like you've got your work cut out for you, Mandy."
 
 # game/UpdateScript0.07.rpy:11547## # translate crowdin campaign_headquarters_afternoon_7d66a28e:
-msgid "MD "Don't worry, with coordinated girls like the cheerleaders, we'll be ready in no time."
-    MD "Don't worry, with coordinated girls like the cheerleaders, we'll be ready in no time."
+msgid "[MD] Don't worry, with coordinated girls like the cheerleaders, we'll be ready in no time."
+msgstr "[MD] Don't worry, with coordinated girls like the cheerleaders, we'll be ready in no time."
 
 # game/UpdateScript0.07.rpy:11548## # translate crowdin campaign_headquarters_afternoon_de0ecada:
 msgid "[L] I'm so excited!"
@@ -19099,16 +19099,16 @@ msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 msgstr "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11553## # translate crowdin campaign_headquarters_afternoon_f217bc5f:
-msgid "MD "It's coming together really well."
-    MD "It's coming together really well."
+msgid "[MD] It's coming together really well."
+msgstr "[MD] It's coming together really well."
 
 # game/UpdateScript0.07.rpy:11554## # translate crowdin campaign_headquarters_afternoon_ff44aa09:
-msgid "MD "All the cheerleaders are so good. I just have to show them what to do, and they can do it after just a couple tries."
-    MD "All the cheerleaders are so good. I just have to show them what to do, and they can do it after just a couple tries."
+msgid "[MD] All the cheerleaders are so good. I just have to show them what to do, and they can do it after just a couple tries."
+msgstr "[MD] All the cheerleaders are so good. I just have to show them what to do, and they can do it after just a couple tries."
 
 # game/UpdateScript0.07.rpy:11555## # translate crowdin campaign_headquarters_afternoon_aeca6506:
-msgid "MD "We've pretty much got the choreography down, now we're just perfecting it."
-    MD "We've pretty much got the choreography down, now we're just perfecting it."
+msgid "[MD] We've pretty much got the choreography down, now we're just perfecting it."
+msgstr "[MD] We've pretty much got the choreography down, now we're just perfecting it."
 
 # game/UpdateScript0.07.rpy:11556## # translate crowdin campaign_headquarters_afternoon_a09f08b8:
 msgid "[L] That's great news!"
@@ -19119,40 +19119,40 @@ msgid "[L] Thanks, Mandy!"
 msgstr "[L] Thanks, Mandy!"
 
 # game/UpdateScript0.07.rpy:11560## # translate crowdin campaign_headquarters_afternoon_e78c3dca_1:
-msgid "MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
-    MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+msgid "[MD] Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+msgstr "[MD] Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
 
 # game/UpdateScript0.07.rpy:11561## # translate crowdin campaign_headquarters_afternoon_d5362a04_1:
-msgid "MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
-    MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+msgid "[MD] The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+msgstr "[MD] The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
 
 # game/UpdateScript0.07.rpy:11562## # translate crowdin campaign_headquarters_afternoon_53b803b6:
-msgid "MD "As it is, I'm worried I'm going to have to dance alone."
-    MD "As it is, I'm worried I'm going to have to dance alone."
+msgid "[MD] As it is, I'm worried I'm going to have to dance alone."
+msgstr "[MD] As it is, I'm worried I'm going to have to dance alone."
 
 # game/UpdateScript0.07.rpy:11563## # translate crowdin campaign_headquarters_afternoon_083eecc3:
 msgid "[L] Well, keep trying, Mandy... There are a lot of girls in this school, there's got to be at least a couple that can learn your choreography."
 msgstr "[L] Well, keep trying, Mandy... There are a lot of girls in this school, there's got to be at least a couple that can learn your choreography."
 
 # game/UpdateScript0.07.rpy:11564## # translate crowdin campaign_headquarters_afternoon_bf4257b2:
-msgid "MD "Yeah, ok, I'll keep trying."
-    MD "Yeah, ok, I'll keep trying."
+msgid "[MD] Yeah, ok, I'll keep trying."
+msgstr "[MD] Yeah, ok, I'll keep trying."
 
 # game/UpdateScript0.07.rpy:11567## # translate crowdin campaign_headquarters_afternoon_a5cacc4c:
-msgid "MD "Same as last reported. I still haven't been able to find any girls that are competent enough to perform with me."
-    MD "Same as last reported. I still haven't been able to find any girls that are competent enough to perform with me."
+msgid "[MD] Same as last reported. I still haven't been able to find any girls that are competent enough to perform with me."
+msgstr "[MD] Same as last reported. I still haven't been able to find any girls that are competent enough to perform with me."
 
 # game/UpdateScript0.07.rpy:11568## # translate crowdin campaign_headquarters_afternoon_736b33ad:
-msgid "MD "At least I'm getting good at the dance, even if I'll have to dance by myself."
-    MD "At least I'm getting good at the dance, even if I'll have to dance by myself."
+msgid "[MD] At least I'm getting good at the dance, even if I'll have to dance by myself."
+msgstr "[MD] At least I'm getting good at the dance, even if I'll have to dance by myself."
 
 # game/UpdateScript0.07.rpy:11569## # translate crowdin campaign_headquarters_afternoon_b57beab7:
 msgid "[L] Well, don't give up. I know you'll be able to recruit somebody."
 msgstr "[L] Well, don't give up. I know you'll be able to recruit somebody."
 
 # game/UpdateScript0.07.rpy:11570## # translate crowdin campaign_headquarters_afternoon_0f7349fe:
-msgid "MD "Yeah, I'll keep trying."
-    MD "Yeah, I'll keep trying."
+msgid "[MD] Yeah, I'll keep trying."
+msgstr "[MD] Yeah, I'll keep trying."
 
 # game/UpdateScript0.07.rpy:11574## # translate crowdin campaign_headquarters_afternoon_14ba035a:
 msgid "[L] Let's see, next on the agenda is the final skit."
@@ -19283,8 +19283,8 @@ msgid "[L] Oh, my God!... [ryan]!... you did it!"
 msgstr "[L] Oh, my God!... [ryan]!... you did it!"
 
 # game/UpdateScript0.07.rpy:11623## # translate crowdin campaign_headquarters_afternoon_63172e85:
-msgid "MD "This will make us win for sure!"
-    MD "This will make us win for sure!"
+msgid "[MD] This will make us win for sure!"
+msgstr "[MD] This will make us win for sure!"
 
 # game/UpdateScript0.07.rpy:11624## # translate crowdin campaign_headquarters_afternoon_fcae4469:
 msgid "[L] It's more than likely, but we've still got to be vigilant and do our best."
@@ -19347,20 +19347,20 @@ msgid "[L] We could try that, but I'll bet they would make us get out of school 
 msgstr "[L] We could try that, but I'll bet they would make us get out of school ten minutes later too."
 
 # game/UpdateScript0.07.rpy:11648## # translate crowdin campaign_headquarters_afternoon_4aed32f8:
-msgid "MD "Yeah, that could make the students upset."
-    MD "Yeah, that could make the students upset."
+msgid "[MD] Yeah, that could make the students upset."
+msgstr "[MD] Yeah, that could make the students upset."
 
 # game/UpdateScript0.07.rpy:11649## # translate crowdin campaign_headquarters_afternoon_393bb715:
 msgid "[L] We'll keep the idea in mind."
 msgstr "[L] We'll keep the idea in mind."
 
 # game/UpdateScript0.07.rpy:11652## # translate crowdin campaign_headquarters_afternoon_221640a5:
-msgid "MD "Hmmm..."
-    MD "Hmmm..."
+msgid "[MD] Hmmm..."
+msgstr "[MD] Hmmm..."
 
 # game/UpdateScript0.07.rpy:11653## # translate crowdin campaign_headquarters_afternoon_3fac1aa0:
-msgid "MD "What if we made every Friday pizza day?"
-    MD "What if we made every Friday pizza day?"
+msgid "[MD] What if we made every Friday pizza day?"
+msgstr "[MD] What if we made every Friday pizza day?"
 
 # game/UpdateScript0.07.rpy:11654## # translate crowdin campaign_headquarters_afternoon_0cc1b4d3:
 msgid "[MG] And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
@@ -19439,12 +19439,12 @@ msgid "[K] And not to mention how tirelessly conservative these archaic uniforms
 msgstr "[K] And not to mention how tirelessly conservative these archaic uniforms are."
 
 # game/UpdateScript0.07.rpy:11679## # translate crowdin campaign_headquarters_afternoon_356c3ce1:
-msgid "MD "Yeah... Maybe they would let us get rid of the dress code completely."
-    MD "Yeah... Maybe they would let us get rid of the dress code completely."
+msgid "[MD] Yeah... Maybe they would let us get rid of the dress code completely."
+msgstr "[MD] Yeah... Maybe they would let us get rid of the dress code completely."
 
 # game/UpdateScript0.07.rpy:11680## # translate crowdin campaign_headquarters_afternoon_0816ba5f:
-msgid "MD "Let us wear whatever we want to school."
-    MD "Let us wear whatever we want to school."
+msgid "[MD] Let us wear whatever we want to school."
+msgstr "[MD] Let us wear whatever we want to school."
 
 # game/UpdateScript0.07.rpy:11681## # translate crowdin campaign_headquarters_afternoon_b9c9a007:
 msgid "[RT] {i}No way... I want to see sexy schoolgirl uniforms!{/i}"
@@ -19467,8 +19467,8 @@ msgid "[L] Let's vote... Who thinks the dress code idea is the best?"
 msgstr "[L] Let's vote... Who thinks the dress code idea is the best?"
 
 # game/UpdateScript0.07.rpy:11686## # translate crowdin campaign_headquarters_afternoon_3164172c:
-msgid "MD "Aye"
-    MD "Aye"
+msgid "[MD] Aye"
+msgstr "[MD] Aye"
 
 # game/UpdateScript0.07.rpy:11687## # translate crowdin campaign_headquarters_afternoon_e372f6b7:
 msgid "[K] Aye"
@@ -19695,8 +19695,8 @@ msgid "[R] Hey, Mandy, Lauren..."
 msgstr "[R] Hey, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11824## # translate crowdin campaign_headquarters_afternoon_e4625c57_2:
-msgid "MD "Hey, [ryan]."
-    MD "Hey, [ryan]."
+msgid "[MD] Hey, [ryan]."
+msgstr "[MD] Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:11825## # translate crowdin campaign_headquarters_afternoon_38e6ce7f_2:
 msgid "[L] Hi, big brother."
@@ -19851,8 +19851,8 @@ msgid "[L] Mandy?... I want you to focus all of your attention on the skit they 
 msgstr "[L] Mandy?... I want you to focus all of your attention on the skit they have us do right before we cast our votes."
 
 # game/UpdateScript0.07.rpy:11913## # translate crowdin campaign_headquarters_afternoon_425ece18:
-msgid "MD "Me?..."
-    MD "Me?..."
+msgid "[MD] Me?..."
+msgstr "[MD] Me?..."
 
 # game/UpdateScript0.07.rpy:11914## # translate crowdin campaign_headquarters_afternoon_af9bd9e0:
 msgid "[L] Yeah... You're great at theatrical stuff. You did such a good job in in that sexy dance production we came and watched last year."
@@ -19863,12 +19863,12 @@ msgid "[L] Didn't you say your teacher let you help choreograph it?"
 msgstr "[L] Didn't you say your teacher let you help choreograph it?"
 
 # game/UpdateScript0.07.rpy:11916## # translate crowdin campaign_headquarters_afternoon_b5e74e11:
-msgid "MD "Yeah, but I had a whole dance team to work with... It's not like I was performing by myself."
-    MD "Yeah, but I had a whole dance team to work with... It's not like I was performing by myself."
+msgid "[MD] Yeah, but I had a whole dance team to work with... It's not like I was performing by myself."
+msgstr "[MD] Yeah, but I had a whole dance team to work with... It's not like I was performing by myself."
 
 # game/UpdateScript0.07.rpy:11917## # translate crowdin campaign_headquarters_afternoon_88b3b977:
-msgid "MD "Maybe, if I could get the cheerleaders to help me?"
-    MD "Maybe, if I could get the cheerleaders to help me?"
+msgid "[MD] Maybe, if I could get the cheerleaders to help me?"
+msgstr "[MD] Maybe, if I could get the cheerleaders to help me?"
 
 # game/UpdateScript0.07.rpy:11918## # translate crowdin campaign_headquarters_afternoon_75c07bc4:
 msgid "[K] I wouldn't count on that... Megan's the captain, and she's Matt's girlfriend."
@@ -19891,16 +19891,16 @@ msgid "[L] And don't forget how important this task is... It's our last chance t
 msgstr "[L] And don't forget how important this task is... It's our last chance to get a good impression before the students cast their votes."
 
 # game/UpdateScript0.07.rpy:11923## # translate crowdin campaign_headquarters_afternoon_de364f73:
-msgid "MD "So... no pressure then."
-    MD "So... no pressure then."
+msgid "[MD] So... no pressure then."
+msgstr "[MD] So... no pressure then."
 
 # game/UpdateScript0.07.rpy:11924## # translate crowdin campaign_headquarters_afternoon_86e9bce4:
 msgid "[L] Mandy?"
 msgstr "[L] Mandy?"
 
 # game/UpdateScript0.07.rpy:11925## # translate crowdin campaign_headquarters_afternoon_fc423561:
-msgid "MD "Ok... I'll try my best."
-    MD "Ok... I'll try my best."
+msgid "[MD] Ok... I'll try my best."
+msgstr "[MD] Ok... I'll try my best."
 
 # game/UpdateScript0.07.rpy:11929## # translate crowdin campaign_headquarters_afternoon_3fa414d2:
 msgid "[L] Let's see... We've got the final skit we've got to plan for."
@@ -20199,8 +20199,8 @@ msgid "[R] Hey, Mandy, Lauren..."
 msgstr "[R] Hey, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:12112## # translate crowdin campaign_headquarters_afternoon_e4625c57_3:
-msgid "MD "Hey, [ryan]."
-    MD "Hey, [ryan]."
+msgid "[MD] Hey, [ryan]."
+msgstr "[MD] Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:12113## # translate crowdin campaign_headquarters_afternoon_38e6ce7f_3:
 msgid "[L] Hi, big brother."
@@ -20335,8 +20335,8 @@ msgid "[R] Hey, Mandy, Lauren..."
 msgstr "[R] Hey, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:12196## # translate crowdin campaign_headquarters_afternoon_e4625c57_4:
-msgid "MD "Hey, [ryan]."
-    MD "Hey, [ryan]."
+msgid "[MD] Hey, [ryan]."
+msgstr "[MD] Hey, [ryan]."
 
 # game/UpdateScript0.07.rpy:12197## # translate crowdin campaign_headquarters_afternoon_38e6ce7f_4:
 msgid "[L] Hi, big brother."
@@ -20467,8 +20467,8 @@ msgid "[L] And if I do, you can call me out on it."
 msgstr "[L] And if I do, you can call me out on it."
 
 # game/UpdateScript0.07.rpy:12275## # translate crowdin campaign_headquarters_afternoon_fff61acb:
-msgid "MD "Ok, yeah..."
-    MD "Ok, yeah..."
+msgid "[MD] Ok, yeah..."
+msgstr "[MD] Ok, yeah..."
 
 # game/UpdateScript0.07.rpy:12278## # translate crowdin campaign_headquarters_afternoon_aaa3c953:
 msgid "[K] That sounds great. That's a sure sign of a true leader."
@@ -20579,8 +20579,8 @@ msgid "[L] Mandy... Will you be in charge of putting together an awesome skit fo
 msgstr "[L] Mandy... Will you be in charge of putting together an awesome skit for the election assembly?"
 
 # game/UpdateScript0.07.rpy:12346## # translate crowdin campaign_headquarters_afternoon_76097cf7:
-msgid "MD "You bet!"
-    MD "You bet!"
+msgid "[MD] You bet!"
+msgstr "[MD] You bet!"
 
 # game/UpdateScript0.07.rpy:12349## # translate crowdin campaign_headquarters_afternoon_8f22d49c:
 msgid "[L] [ryan]... I need you to hang up posters."
@@ -21071,16 +21071,16 @@ msgid "[L] I love it!... You send Mandy a text, and I'll text Kenzie and tell he
 msgstr "[L] I love it!... You send Mandy a text, and I'll text Kenzie and tell her the meetings been delayed 15 minutes again."
 
 # game/UpdateScript0.07.rpy:12617## # translate crowdin best_polls_aftermath_a1e6757e:
-msgid "MD "You guys are the best!"
-    MD "You guys are the best!"
+msgid "[MD] You guys are the best!"
+msgstr "[MD] You guys are the best!"
 
 # game/UpdateScript0.07.rpy:12618## # translate crowdin best_polls_aftermath_746fc6fe:
-msgid "MD "Thank you so much for inviting me!"
-    MD "Thank you so much for inviting me!"
+msgid "[MD] Thank you so much for inviting me!"
+msgstr "[MD] Thank you so much for inviting me!"
 
 # game/UpdateScript0.07.rpy:12619## # translate crowdin best_polls_aftermath_94911942:
-msgid "MD "Now should we get down to business?"
-    MD "Now should we get down to business?"
+msgid "[MD] Now should we get down to business?"
+msgstr "[MD] Now should we get down to business?"
 
 # game/UpdateScript0.07.rpy:12620## # translate crowdin best_polls_aftermath_26deb80b:
 msgid "[L] Haha... I now bring this meeting to order."
@@ -21111,12 +21111,12 @@ msgid "MDT "{i}I'd better practice more with Mom's daddy cock dildo if I'm ever 
     MDT "{i}I'd better practice more with Mom's daddy cock dildo if I'm ever going to fit [ryan]'s' dick in my pussy.{/i}"
 
 # game/UpdateScript0.07.rpy:12631## # translate crowdin best_polls_aftermath_efbc0e66:
-msgid "MD "I want to taste it!"
-    MD "I want to taste it!"
+msgid "[MD] I want to taste it!"
+msgstr "[MD] I want to taste it!"
 
 # game/UpdateScript0.07.rpy:12632## # translate crowdin best_polls_aftermath_f2d43631:
-msgid "MD "Lauren, will you lick his cock with me?"
-    MD "Lauren, will you lick his cock with me?"
+msgid "[MD] Lauren, will you lick his cock with me?"
+msgstr "[MD] Lauren, will you lick his cock with me?"
 
 # game/UpdateScript0.07.rpy:12633## # translate crowdin best_polls_aftermath_73790629:
 msgid "[L] OWO You read my mind!"
@@ -21139,32 +21139,32 @@ msgid "[RT] {i}How did I get so lucky?{/i}"
 msgstr "[RT] {i}How did I get so lucky?{/i}"
 
 # game/UpdateScript0.07.rpy:12645## # translate crowdin best_polls_aftermath_de4ca2ea:
-msgid "MD "Hey, Lauren?"
-    MD "Hey, Lauren?"
+msgid "[MD] Hey, Lauren?"
+msgstr "[MD] Hey, Lauren?"
 
 # game/UpdateScript0.07.rpy:12646## # translate crowdin best_polls_aftermath_302eedd4:
 msgid "[L] You want to taste my ass again?"
 msgstr "[L] You want to taste my ass again?"
 
 # game/UpdateScript0.07.rpy:12647## # translate crowdin best_polls_aftermath_e7a6e7e8:
-msgid "MD "So bad."
-    MD "So bad."
+msgid "[MD] So bad."
+msgstr "[MD] So bad."
 
 # game/UpdateScript0.07.rpy:12648## # translate crowdin best_polls_aftermath_8a77158a:
 msgid "[L] Haha... good... I'd love you to lick my ass."
 msgstr "[L] Haha... good... I'd love you to lick my ass."
 
 # game/UpdateScript0.07.rpy:12651## # translate crowdin best_polls_aftermath_e0a81dc5:
-msgid "MD "Are you ready for Lauren to suck your dick?"
-    MD "Are you ready for Lauren to suck your dick?"
+msgid "[MD] Are you ready for Lauren to suck your dick?"
+msgstr "[MD] Are you ready for Lauren to suck your dick?"
 
 # game/UpdateScript0.07.rpy:12652## # translate crowdin best_polls_aftermath_0999baf9:
 msgid "[R] Always."
 msgstr "[R] Always."
 
 # game/UpdateScript0.07.rpy:12655## # translate crowdin best_polls_aftermath_2b3dfbed:
-msgid "MD "If you two are ready... Let's begin."
-    MD "If you two are ready... Let's begin."
+msgid "[MD] If you two are ready... Let's begin."
+msgstr "[MD] If you two are ready... Let's begin."
 
 # game/UpdateScript0.07.rpy:12660## # translate crowdin best_polls_aftermath_c6373157:
 msgid "[LT] {i}Oh, fuck!... Mandy's even better at licking my asshole than [ryan]!{/i}"
@@ -21191,8 +21191,8 @@ msgid "[L] Fuuuckk..."
 msgstr "[L] Fuuuckk..."
 
 # game/UpdateScript0.07.rpy:12672## # translate crowdin best_polls_aftermath_475f8833:
-msgid "MD "Oh, wow!..."
-    MD "Oh, wow!..."
+msgid "[MD] Oh, wow!..."
+msgstr "[MD] Oh, wow!..."
 
 # game/UpdateScript0.07.rpy:12673## # translate crowdin best_polls_aftermath_ea121b65:
 msgid "[L] Oooooohhhh..."
@@ -21219,16 +21219,16 @@ msgid "[L] At least, your pussy."
 msgstr "[L] At least, your pussy."
 
 # game/UpdateScript0.07.rpy:12684## # translate crowdin best_polls_aftermath_c51441c2:
-msgid "MD "I'd love that!"
-    MD "I'd love that!"
+msgid "[MD] I'd love that!"
+msgstr "[MD] I'd love that!"
 
 # game/UpdateScript0.07.rpy:12687## # translate crowdin best_polls_aftermath_255da29f:
 msgid "[L] So, are you ready for me?"
 msgstr "[L] So, are you ready for me?"
 
 # game/UpdateScript0.07.rpy:12688## # translate crowdin best_polls_aftermath_942acf0f:
-msgid "MD "I can't wait!"
-    MD "I can't wait!"
+msgid "[MD] I can't wait!"
+msgstr "[MD] I can't wait!"
 
 # game/UpdateScript0.07.rpy:12693## # translate crowdin best_polls_aftermath_c281c3fe:
 msgid "MDT "{i}Oh, my God!... I love it when Lauren licks my pussy!{/i}"
@@ -21247,16 +21247,16 @@ msgid "MDT "{i}I'm gonna!...{/i}"
     MDT "{i}I'm gonna!...{/i}"
 
 # game/UpdateScript0.07.rpy:12704## # translate crowdin best_polls_aftermath_bbcc9dd8:
-msgid "MD "Ohhh... SHIT!..."
-    MD "Ohhh... SHIT!..."
+msgid "[MD] Ohhh... SHIT!..."
+msgstr "[MD] Ohhh... SHIT!..."
 
 # game/UpdateScript0.07.rpy:12705## # translate crowdin best_polls_aftermath_c9dc24cf:
 msgid "[L] Wow!..."
 msgstr "[L] Wow!..."
 
 # game/UpdateScript0.07.rpy:12706## # translate crowdin best_polls_aftermath_b145c1c4:
-msgid "MD "Aaaahhhh...."
-    MD "Aaaahhhh...."
+msgid "[MD] Aaaahhhh...."
+msgstr "[MD] Aaaahhhh...."
 
 # game/UpdateScript0.07.rpy:12707## # translate crowdin best_polls_aftermath_36deb974:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
@@ -21267,16 +21267,16 @@ msgid "[R] Shit!... I'm gonna cum too!"
 msgstr "[R] Shit!... I'm gonna cum too!"
 
 # game/UpdateScript0.07.rpy:12712## # translate crowdin best_polls_aftermath_e59a8db4:
-msgid "MD "Wait!... Do it all over our faces again."
-    MD "Wait!... Do it all over our faces again."
+msgid "[MD] Wait!... Do it all over our faces again."
+msgstr "[MD] Wait!... Do it all over our faces again."
 
 # game/UpdateScript0.07.rpy:12715## # translate crowdin best_polls_aftermath_5b3b4a92:
-msgid "MD "Ok... We're ready!"
-    MD "Ok... We're ready!"
+msgid "[MD] Ok... We're ready!"
+msgstr "[MD] Ok... We're ready!"
 
 # game/UpdateScript0.07.rpy:12716## # translate crowdin best_polls_aftermath_d5a22c7a:
-msgid "MD "Please cum on me first!"
-    MD "Please cum on me first!"
+msgid "[MD] Please cum on me first!"
+msgstr "[MD] Please cum on me first!"
 
 # game/UpdateScript0.07.rpy:12717## # translate crowdin best_polls_aftermath_4d48d3b5:
 msgid "[L] Ahhh... you beat me to it again!"
@@ -21291,8 +21291,8 @@ msgid "[R] Oooohhh..."
 msgstr "[R] Oooohhh..."
 
 # game/UpdateScript0.07.rpy:12730## # translate crowdin best_polls_aftermath_08b17bd3:
-msgid "MD "Lauren, You always look so fucking hot covered in your brother's cum!"
-    MD "Lauren, You always look so fucking hot covered in your brother's cum!"
+msgid "[MD] Lauren, You always look so fucking hot covered in your brother's cum!"
+msgstr "[MD] Lauren, You always look so fucking hot covered in your brother's cum!"
 
 # game/UpdateScript0.07.rpy:12733## # translate crowdin best_polls_aftermath_f4aaf226:
 msgid "[L] Yeah? So do you!"
@@ -21307,8 +21307,8 @@ msgid "[L] So, did you want to lick the cum off my face again?"
 msgstr "[L] So, did you want to lick the cum off my face again?"
 
 # game/UpdateScript0.07.rpy:12736## # translate crowdin best_polls_aftermath_fb766c1e:
-msgid "MD "Yes, please."
-    MD "Yes, please."
+msgid "[MD] Yes, please."
+msgstr "[MD] Yes, please."
 
 # game/UpdateScript0.07.rpy:12739## # translate crowdin best_polls_aftermath_46ba0f34:
 msgid "[LT] {i}Whoa... I love how intimate this is.{/i}"
@@ -21323,20 +21323,20 @@ msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 msgstr "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12745## # translate crowdin best_polls_aftermath_a2a5898e:
-msgid "MD "There... All clean. Now, do you want to return the favor this time?"
-    MD "There... All clean. Now, do you want to return the favor this time?"
+msgid "[MD] There... All clean. Now, do you want to return the favor this time?"
+msgstr "[MD] There... All clean. Now, do you want to return the favor this time?"
 
 # game/UpdateScript0.07.rpy:12746## # translate crowdin best_polls_aftermath_9381051a:
 msgid "[L] Uhhh.... I think I'll pass again."
 msgstr "[L] Uhhh.... I think I'll pass again."
 
 # game/UpdateScript0.07.rpy:12749## # translate crowdin best_polls_aftermath_7c55491f:
-msgid "MD "You're missing out."
-    MD "You're missing out."
+msgid "[MD] You're missing out."
+msgstr "[MD] You're missing out."
 
 # game/UpdateScript0.07.rpy:12752## # translate crowdin best_polls_aftermath_2c08afee:
-msgid "MD "Mmmmm...."
-    MD "Mmmmm...."
+msgid "[MD] Mmmmm...."
+msgstr "[MD] Mmmmm...."
 
 # game/UpdateScript0.07.rpy:12753## # translate crowdin best_polls_aftermath_7e4defd6:
 msgid "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
@@ -21359,16 +21359,16 @@ msgid "[L] Yes, please!... And Mandy... When Kenzie gets here..."
 msgstr "[L] Yes, please!... And Mandy... When Kenzie gets here..."
 
 # game/UpdateScript0.07.rpy:12761## # translate crowdin best_polls_aftermath_bbf3cda8:
-msgid "MD "Try to act natural?"
-    MD "Try to act natural?"
+msgid "[MD] Try to act natural?"
+msgstr "[MD] Try to act natural?"
 
 # game/UpdateScript0.07.rpy:12762## # translate crowdin best_polls_aftermath_0fc83358:
 msgid "[L] Exactly."
 msgstr "[L] Exactly."
 
 # game/UpdateScript0.07.rpy:12763## # translate crowdin best_polls_aftermath_e8a445b6:
-msgid "MD "Thanks for inviting me again... You guys are the best cousins ever!"
-    MD "Thanks for inviting me again... You guys are the best cousins ever!"
+msgid "[MD] Thanks for inviting me again... You guys are the best cousins ever!"
+msgstr "[MD] Thanks for inviting me again... You guys are the best cousins ever!"
 
 # game/UpdateScript0.07.rpy:12764## # translate crowdin best_polls_aftermath_5de13750:
 msgid "[L] You too!"
@@ -21559,96 +21559,96 @@ msgid "MDT "{i}Oh... I better hurry.{/i}"
     MDT "{i}Oh... I better hurry.{/i}"
 
 # game/UpdateScript0.07.rpy:12878## # translate crowdin best_polls_aftermath_8a697675:
-msgid "MD "Ha.... I've caught you!"
-    MD "Ha.... I've caught you!"
+msgid "[MD] Ha.... I've caught you!"
+msgstr "[MD] Ha.... I've caught you!"
 
 # game/UpdateScript0.07.rpy:12882## # translate crowdin best_polls_aftermath_683071b0:
 msgid "[L] Oh, God... I'm so embarrassed."
 msgstr "[L] Oh, God... I'm so embarrassed."
 
 # game/UpdateScript0.07.rpy:12884## # translate crowdin best_polls_aftermath_1d89b0f6:
-msgid "MD "I don't know why."
-    MD "I don't know why."
+msgid "[MD] I don't know why."
+msgstr "[MD] I don't know why."
 
 # game/UpdateScript0.07.rpy:12885## # translate crowdin best_polls_aftermath_912dae0d:
-msgid "MD "After what we did to [ryan] after he saved us from Diaz, it's not like I didn't suspect that you two were doing other things as well."
-    MD "After what we did to [ryan] after he saved us from Diaz, it's not like I didn't suspect that you two were doing other things as well."
+msgid "[MD] After what we did to [ryan] after he saved us from Diaz, it's not like I didn't suspect that you two were doing other things as well."
+msgstr "[MD] After what we did to [ryan] after he saved us from Diaz, it's not like I didn't suspect that you two were doing other things as well."
 
 # game/UpdateScript0.07.rpy:12887## # translate crowdin best_polls_aftermath_16cf21e6:
-msgid "MD "The way you two act, and look at each other..."
-    MD "The way you two act, and look at each other..."
+msgid "[MD] The way you two act, and look at each other..."
+msgstr "[MD] The way you two act, and look at each other..."
 
 # game/UpdateScript0.07.rpy:12888## # translate crowdin best_polls_aftermath_37f1ae26:
-msgid "MD "I've always thought there was something there, and even suspected you two might be messing around."
-    MD "I've always thought there was something there, and even suspected you two might be messing around."
+msgid "[MD] I've always thought there was something there, and even suspected you two might be messing around."
+msgstr "[MD] I've always thought there was something there, and even suspected you two might be messing around."
 
 # game/UpdateScript0.07.rpy:12889## # translate crowdin best_polls_aftermath_94b7eaa7:
-msgid "MD "I'm just offended that you didn't invite me."
-    MD "I'm just offended that you didn't invite me."
+msgid "[MD] I'm just offended that you didn't invite me."
+msgstr "[MD] I'm just offended that you didn't invite me."
 
 # game/UpdateScript0.07.rpy:12892## # translate crowdin best_polls_aftermath_d78eea6e:
 msgid "[L] So, you don't think we are terrible, disgusting perverts?"
 msgstr "[L] So, you don't think we are terrible, disgusting perverts?"
 
 # game/UpdateScript0.07.rpy:12893## # translate crowdin best_polls_aftermath_ba520999:
-msgid "MD "Perverts for sure, but you two are in good company."
-    MD "Perverts for sure, but you two are in good company."
+msgid "[MD] Perverts for sure, but you two are in good company."
+msgstr "[MD] Perverts for sure, but you two are in good company."
 
 # game/UpdateScript0.07.rpy:12894## # translate crowdin best_polls_aftermath_e15252b0:
-msgid "MD "Sure, it's a bit taboo, but doesn't it make it that much more fun?"
-    MD "Sure, it's a bit taboo, but doesn't it make it that much more fun?"
+msgid "[MD] Sure, it's a bit taboo, but doesn't it make it that much more fun?"
+msgstr "[MD] Sure, it's a bit taboo, but doesn't it make it that much more fun?"
 
 # game/UpdateScript0.07.rpy:12895## # translate crowdin best_polls_aftermath_e2052c49:
 msgid "[L] Yes, God help me."
 msgstr "[L] Yes, God help me."
 
 # game/UpdateScript0.07.rpy:12898## # translate crowdin best_polls_aftermath_6d477e19:
-msgid "MD "Good, then do you mind if I join in on your taboo fun?"
-    MD "Good, then do you mind if I join in on your taboo fun?"
+msgid "[MD] Good, then do you mind if I join in on your taboo fun?"
+msgstr "[MD] Good, then do you mind if I join in on your taboo fun?"
 
 # game/UpdateScript0.07.rpy:12899## # translate crowdin best_polls_aftermath_09fd55d8:
 msgid "[L] Join us? Gross!"
 msgstr "[L] Join us? Gross!"
 
 # game/UpdateScript0.07.rpy:12900## # translate crowdin best_polls_aftermath_1ab0963b:
-msgid "MD "What do you mean, gross!"
-    MD "What do you mean, gross!"
+msgid "[MD] What do you mean, gross!"
+msgstr "[MD] What do you mean, gross!"
 
 # game/UpdateScript0.07.rpy:12901## # translate crowdin best_polls_aftermath_faad1ec7:
 msgid "[L] What if you and me accidentally touched or something?"
 msgstr "[L] What if you and me accidentally touched or something?"
 
 # game/UpdateScript0.07.rpy:12903## # translate crowdin best_polls_aftermath_b7369926:
-msgid "MD "Touched?... We did more than touch when [ryan] saved us from being spanked by Diaz."
-    MD "Touched?... We did more than touch when [ryan] saved us from being spanked by Diaz."
+msgid "[MD] Touched?... We did more than touch when [ryan] saved us from being spanked by Diaz."
+msgstr "[MD] Touched?... We did more than touch when [ryan] saved us from being spanked by Diaz."
 
 # game/UpdateScript0.07.rpy:12904## # translate crowdin best_polls_aftermath_2feee035:
 msgid "[L] Yeah, but it was in the heat of the moment... We got carried away."
 msgstr "[L] Yeah, but it was in the heat of the moment... We got carried away."
 
 # game/UpdateScript0.07.rpy:12905## # translate crowdin best_polls_aftermath_2bcb57e4:
-msgid "MD "Well, I'm hoping to do a little more than just touching this time."
-    MD "Well, I'm hoping to do a little more than just touching this time."
+msgid "[MD] Well, I'm hoping to do a little more than just touching this time."
+msgstr "[MD] Well, I'm hoping to do a little more than just touching this time."
 
 # game/UpdateScript0.07.rpy:12907## # translate crowdin best_polls_aftermath_b6b0f919:
-msgid "MD "Oh I plan on doing a little more than touching."
-    MD "Oh I plan on doing a little more than touching."
+msgid "[MD] Oh I plan on doing a little more than touching."
+msgstr "[MD] Oh I plan on doing a little more than touching."
 
 # game/UpdateScript0.07.rpy:12908## # translate crowdin best_polls_aftermath_d805c0f7:
 msgid "[L] But, I'm not a lesbian."
 msgstr "[L] But, I'm not a lesbian."
 
 # game/UpdateScript0.07.rpy:12909## # translate crowdin best_polls_aftermath_207450ad:
-msgid "MD "Haha... Neither am I."
-    MD "Haha... Neither am I."
+msgid "[MD] Haha... Neither am I."
+msgstr "[MD] Haha... Neither am I."
 
 # game/UpdateScript0.07.rpy:12910## # translate crowdin best_polls_aftermath_32988936:
 msgid "[L] You're also my cousin!"
 msgstr "[L] You're also my cousin!"
 
 # game/UpdateScript0.07.rpy:12911## # translate crowdin best_polls_aftermath_a81a1b61:
-msgid "MD "Says the girl who was just sucking off her brother."
-    MD "Says the girl who was just sucking off her brother."
+msgid "[MD] Says the girl who was just sucking off her brother."
+msgstr "[MD] Says the girl who was just sucking off her brother."
 
 # game/UpdateScript0.07.rpy:12912## # translate crowdin best_polls_aftermath_9c083fa4:
 msgid "[R] Try to have an open mind about it."
@@ -21675,24 +21675,24 @@ msgid "[L] Fine... I'll give it a try."
 msgstr "[L] Fine... I'll give it a try."
 
 # game/UpdateScript0.07.rpy:12918## # translate crowdin best_polls_aftermath_dd7ac41f:
-msgid "MD "Yay!... I know you'll love it!"
-    MD "Yay!... I know you'll love it!"
+msgid "[MD] Yay!... I know you'll love it!"
+msgstr "[MD] Yay!... I know you'll love it!"
 
 # game/UpdateScript0.07.rpy:12919## # translate crowdin best_polls_aftermath_d9193c1b:
-msgid "MD "Let's start by taking care of [ryan]."
-    MD "Let's start by taking care of [ryan]."
+msgid "[MD] Let's start by taking care of [ryan]."
+msgstr "[MD] Let's start by taking care of [ryan]."
 
 # game/UpdateScript0.07.rpy:12920## # translate crowdin best_polls_aftermath_e6295414:
-msgid "MD "Is that ok with you, [ryan]?"
-    MD "Is that ok with you, [ryan]?"
+msgid "[MD] Is that ok with you, [ryan]?"
+msgstr "[MD] Is that ok with you, [ryan]?"
 
 # game/UpdateScript0.07.rpy:12921## # translate crowdin best_polls_aftermath_d4d4950f:
 msgid "[R] Uhhh... Duh!"
 msgstr "[R] Uhhh... Duh!"
 
 # game/UpdateScript0.07.rpy:12922## # translate crowdin best_polls_aftermath_c6b6abfd:
-msgid "MD "Haha... Why don't you take a seat then."
-    MD "Haha... Why don't you take a seat then."
+msgid "[MD] Haha... Why don't you take a seat then."
+msgstr "[MD] Haha... Why don't you take a seat then."
 
 # game/UpdateScript0.07.rpy:12928## # translate crowdin best_polls_aftermath_86540b1c_1:
 msgid "[L] So, how does that feel?"
@@ -21719,20 +21719,20 @@ msgid "MDT "{i}I'd better practice more with Mom's daddy cock dildo if I'm ever 
     MDT "{i}I'd better practice more with Mom's daddy cock dildo if I'm ever going to fit [ryan]'s' dick in my pussy.{/i}"
 
 # game/UpdateScript0.07.rpy:12935## # translate crowdin best_polls_aftermath_efbc0e66_1:
-msgid "MD "I want to taste it!"
-    MD "I want to taste it!"
+msgid "[MD] I want to taste it!"
+msgstr "[MD] I want to taste it!"
 
 # game/UpdateScript0.07.rpy:12936## # translate crowdin best_polls_aftermath_f2d43631_1:
-msgid "MD "Lauren, will you lick his cock with me?"
-    MD "Lauren, will you lick his cock with me?"
+msgid "[MD] Lauren, will you lick his cock with me?"
+msgstr "[MD] Lauren, will you lick his cock with me?"
 
 # game/UpdateScript0.07.rpy:12937## # translate crowdin best_polls_aftermath_7aa2f44c:
 msgid "[L] Ummmm... what if our tongues touch?"
 msgstr "[L] Ummmm... what if our tongues touch?"
 
 # game/UpdateScript0.07.rpy:12938## # translate crowdin best_polls_aftermath_f0e5b116:
-msgid "MD "Think how much more fun that would be."
-    MD "Think how much more fun that would be."
+msgid "[MD] Think how much more fun that would be."
+msgstr "[MD] Think how much more fun that would be."
 
 # game/UpdateScript0.07.rpy:12939## # translate crowdin best_polls_aftermath_36a82f6a:
 msgid "[L] Ohhh..."
@@ -21771,24 +21771,24 @@ msgid "[RT] {i}How did I get so lucky?{/i}"
 msgstr "[RT] {i}How did I get so lucky?{/i}"
 
 # game/UpdateScript0.07.rpy:12955## # translate crowdin best_polls_aftermath_de4ca2ea_1:
-msgid "MD "Hey, Lauren?"
-    MD "Hey, Lauren?"
+msgid "[MD] Hey, Lauren?"
+msgstr "[MD] Hey, Lauren?"
 
 # game/UpdateScript0.07.rpy:12956## # translate crowdin best_polls_aftermath_f6bc45b8:
 msgid "[L] Yeah, Mandy?"
 msgstr "[L] Yeah, Mandy?"
 
 # game/UpdateScript0.07.rpy:12957## # translate crowdin best_polls_aftermath_b4447831:
-msgid "MD "Can I taste your pussy?"
-    MD "Can I taste your pussy?"
+msgid "[MD] Can I taste your pussy?"
+msgstr "[MD] Can I taste your pussy?"
 
 # game/UpdateScript0.07.rpy:12958## # translate crowdin best_polls_aftermath_38523c39:
 msgid "[L] What?... Are you serious?"
 msgstr "[L] What?... Are you serious?"
 
 # game/UpdateScript0.07.rpy:12959## # translate crowdin best_polls_aftermath_7196f647:
-msgid "MD "Yeah... I've never tasted another girls pussy before, and I'd really, really like to try it."
-    MD "Yeah... I've never tasted another girls pussy before, and I'd really, really like to try it."
+msgid "[MD] Yeah... I've never tasted another girls pussy before, and I'd really, really like to try it."
+msgstr "[MD] Yeah... I've never tasted another girls pussy before, and I'd really, really like to try it."
 
 # game/UpdateScript0.07.rpy:12960## # translate crowdin best_polls_aftermath_1d95ccbd:
 msgid "MDT "{i}I've never tried her pussy when she's awake... When she's unconscious at night, well... I'm glad she's a heavy sleeper.{/i}"
@@ -21799,8 +21799,8 @@ msgid "[R] You should try her ass."
 msgstr "[R] You should try her ass."
 
 # game/UpdateScript0.07.rpy:12964## # translate crowdin best_polls_aftermath_5d790750:
-msgid "MD "What!?..."
-    MD "What!?..."
+msgid "[MD] What!?..."
+msgstr "[MD] What!?..."
 
 # game/UpdateScript0.07.rpy:12965## # translate crowdin best_polls_aftermath_3be56d8a:
 msgid "[LT] {i}Shit!... I don't want Mandy knowing that I enjoy having my ass eaten.{/i}"
@@ -21827,8 +21827,8 @@ msgid "[LT] {i}Oh, God!... I've never had a girl lick my pussy!{/i}"
 msgstr "[LT] {i}Oh, God!... I've never had a girl lick my pussy!{/i}"
 
 # game/UpdateScript0.07.rpy:12972## # translate crowdin best_polls_aftermath_efe8a6ea:
-msgid "MD "Really?... You've made me so happy!"
-    MD "Really?... You've made me so happy!"
+msgid "[MD] Really?... You've made me so happy!"
+msgstr "[MD] Really?... You've made me so happy!"
 
 # game/UpdateScript0.07.rpy:12973## # translate crowdin best_polls_aftermath_a5c8ae36:
 msgid "MDT "{i}Eat her ass, huh?... Does [ryan] really do that for Lauren?{/i}"
@@ -21839,8 +21839,8 @@ msgid "MDT "{i}Now, that's something I've never done before.{/i}"
     MDT "{i}Now, that's something I've never done before.{/i}"
 
 # game/UpdateScript0.07.rpy:12977## # translate crowdin best_polls_aftermath_f3c6a87b:
-msgid "MD "And maybe Lauren can suck your cock while I'm eating her pussy."
-    MD "And maybe Lauren can suck your cock while I'm eating her pussy."
+msgid "[MD] And maybe Lauren can suck your cock while I'm eating her pussy."
+msgstr "[MD] And maybe Lauren can suck your cock while I'm eating her pussy."
 
 # game/UpdateScript0.07.rpy:12978## # translate crowdin best_polls_aftermath_2b64344e:
 msgid "MDT "{i}Have I got a surprise for her.{/i}"
@@ -21855,12 +21855,12 @@ msgid "[L] Oh, my God!... I can't believe this is happening!"
 msgstr "[L] Oh, my God!... I can't believe this is happening!"
 
 # game/UpdateScript0.07.rpy:12983## # translate crowdin best_polls_aftermath_a54498ef:
-msgid "MD "Don't worry, Lauren, you're going to love this!"
-    MD "Don't worry, Lauren, you're going to love this!"
+msgid "[MD] Don't worry, Lauren, you're going to love this!"
+msgstr "[MD] Don't worry, Lauren, you're going to love this!"
 
 # game/UpdateScript0.07.rpy:12984## # translate crowdin best_polls_aftermath_ca0fe062:
-msgid "MD "And I don't think [ryan] will complain if you throat his cock like you were doing earliar."
-    MD "And I don't think [ryan] will complain if you throat his cock like you were doing earliar."
+msgid "[MD] And I don't think [ryan] will complain if you throat his cock like you were doing earliar."
+msgstr "[MD] And I don't think [ryan] will complain if you throat his cock like you were doing earliar."
 
 # game/UpdateScript0.07.rpy:12989## # translate crowdin best_polls_aftermath_48795086:
 msgid "[LT] {i}Oh, fuck!... My cousin's licking my asshole!{/i}"
@@ -21891,16 +21891,16 @@ msgid "[L] Fuuuckk..."
 msgstr "[L] Fuuuckk..."
 
 # game/UpdateScript0.07.rpy:13002## # translate crowdin best_polls_aftermath_475f8833_1:
-msgid "MD "Oh, wow!..."
-    MD "Oh, wow!..."
+msgid "[MD] Oh, wow!..."
+msgstr "[MD] Oh, wow!..."
 
 # game/UpdateScript0.07.rpy:13003## # translate crowdin best_polls_aftermath_1581f581:
-msgid "MD "You squirt as much as I do!"
-    MD "You squirt as much as I do!"
+msgid "[MD] You squirt as much as I do!"
+msgstr "[MD] You squirt as much as I do!"
 
 # game/UpdateScript0.07.rpy:13004## # translate crowdin best_polls_aftermath_72c40505:
-msgid "MD "It must run in the family!"
-    MD "It must run in the family!"
+msgid "[MD] It must run in the family!"
+msgstr "[MD] It must run in the family!"
 
 # game/UpdateScript0.07.rpy:13005## # translate crowdin best_polls_aftermath_ea121b65_1:
 msgid "[L] Oooooohhhh..."
@@ -21915,8 +21915,8 @@ msgid "[L] Thank you, Mandy... That was amazing!"
 msgstr "[L] Thank you, Mandy... That was amazing!"
 
 # game/UpdateScript0.07.rpy:13013## # translate crowdin best_polls_aftermath_fd91cfd0:
-msgid "MD "Now, would you like to return the favor?"
-    MD "Now, would you like to return the favor?"
+msgid "[MD] Now, would you like to return the favor?"
+msgstr "[MD] Now, would you like to return the favor?"
 
 # game/UpdateScript0.07.rpy:13014## # translate crowdin best_polls_aftermath_1a76f304:
 msgid "[L] What? That's... I don't think!..."
@@ -21939,16 +21939,16 @@ msgid "[LT] {i}Fuck, but what am I to think if I do like it?{/i}"
 msgstr "[LT] {i}Fuck, but what am I to think if I do like it?{/i}"
 
 # game/UpdateScript0.07.rpy:13019## # translate crowdin best_polls_aftermath_d4d1df62:
-msgid "MD "You'll never know until you try."
-    MD "You'll never know until you try."
+msgid "[MD] You'll never know until you try."
+msgstr "[MD] You'll never know until you try."
 
 # game/UpdateScript0.07.rpy:13020## # translate crowdin best_polls_aftermath_a1791406:
 msgid "[L] I guess I do owe you after you gave me that amazing orgasm..."
 msgstr "[L] I guess I do owe you after you gave me that amazing orgasm..."
 
 # game/UpdateScript0.07.rpy:13021## # translate crowdin best_polls_aftermath_74f639b2:
-msgid "MD "If you hate it, you can stop."
-    MD "If you hate it, you can stop."
+msgid "[MD] If you hate it, you can stop."
+msgstr "[MD] If you hate it, you can stop."
 
 # game/UpdateScript0.07.rpy:13022## # translate crowdin best_polls_aftermath_15f3a5d2:
 msgid "[L] Ok... I'll try it."
@@ -21959,16 +21959,16 @@ msgid "[R] Uhh... Yeah... Lets do that... thing."
 msgstr "[R] Uhh... Yeah... Lets do that... thing."
 
 # game/UpdateScript0.07.rpy:13024## # translate crowdin best_polls_aftermath_d9434e72:
-msgid "MD "Haha... [ryan]'s almost speechless."
-    MD "Haha... [ryan]'s almost speechless."
+msgid "[MD] Haha... [ryan]'s almost speechless."
+msgstr "[MD] Haha... [ryan]'s almost speechless."
 
 # game/UpdateScript0.07.rpy:13027## # translate crowdin best_polls_aftermath_255da29f_1:
 msgid "[L] So, are you ready for me?"
 msgstr "[L] So, are you ready for me?"
 
 # game/UpdateScript0.07.rpy:13028## # translate crowdin best_polls_aftermath_942acf0f_1:
-msgid "MD "I can't wait!"
-    MD "I can't wait!"
+msgid "[MD] I can't wait!"
+msgstr "[MD] I can't wait!"
 
 # game/UpdateScript0.07.rpy:13033## # translate crowdin best_polls_aftermath_bd329ae4:
 msgid "MDT "{i}Oh, my God!... This is the first time anyone's ever licked my pussy!{/i}"
@@ -21995,16 +21995,16 @@ msgid "MDT "{i}I'm gonna!...{/i}"
     MDT "{i}I'm gonna!...{/i}"
 
 # game/UpdateScript0.07.rpy:13046## # translate crowdin best_polls_aftermath_bbcc9dd8_1:
-msgid "MD "Ohhh... SHIT!..."
-    MD "Ohhh... SHIT!..."
+msgid "[MD] Ohhh... SHIT!..."
+msgstr "[MD] Ohhh... SHIT!..."
 
 # game/UpdateScript0.07.rpy:13047## # translate crowdin best_polls_aftermath_e2d8f0b3:
 msgid "[L] Wow!... You weren't kidding!"
 msgstr "[L] Wow!... You weren't kidding!"
 
 # game/UpdateScript0.07.rpy:13048## # translate crowdin best_polls_aftermath_b145c1c4_1:
-msgid "MD "Aaaahhhh...."
-    MD "Aaaahhhh...."
+msgid "[MD] Aaaahhhh...."
+msgstr "[MD] Aaaahhhh...."
 
 # game/UpdateScript0.07.rpy:13049## # translate crowdin best_polls_aftermath_36deb974_1:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
@@ -22015,28 +22015,28 @@ msgid "[R] Shit!... I'm gonna cum too!"
 msgstr "[R] Shit!... I'm gonna cum too!"
 
 # game/UpdateScript0.07.rpy:13054## # translate crowdin best_polls_aftermath_eab9bde8:
-msgid "MD "Wait!... Do it all over our faces."
-    MD "Wait!... Do it all over our faces."
+msgid "[MD] Wait!... Do it all over our faces."
+msgstr "[MD] Wait!... Do it all over our faces."
 
 # game/UpdateScript0.07.rpy:13055## # translate crowdin best_polls_aftermath_099a2cb3:
-msgid "MD "Just like on a porno."
-    MD "Just like on a porno."
+msgid "[MD] Just like on a porno."
+msgstr "[MD] Just like on a porno."
 
 # game/UpdateScript0.07.rpy:13058## # translate crowdin best_polls_aftermath_5b3b4a92_1:
-msgid "MD "Ok... We're ready!"
-    MD "Ok... We're ready!"
+msgid "[MD] Ok... We're ready!"
+msgstr "[MD] Ok... We're ready!"
 
 # game/UpdateScript0.07.rpy:13059## # translate crowdin best_polls_aftermath_d5a22c7a_1:
-msgid "MD "Please cum on me first!"
-    MD "Please cum on me first!"
+msgid "[MD] Please cum on me first!"
+msgstr "[MD] Please cum on me first!"
 
 # game/UpdateScript0.07.rpy:13060## # translate crowdin best_polls_aftermath_60e7b99f:
 msgid "[L] No, me!"
 msgstr "[L] No, me!"
 
 # game/UpdateScript0.07.rpy:13061## # translate crowdin best_polls_aftermath_8adf4d93:
-msgid "MD "There you go Lauren!... You must have enjoyed this."
-    MD "There you go Lauren!... You must have enjoyed this."
+msgid "[MD] There you go Lauren!... You must have enjoyed this."
+msgstr "[MD] There you go Lauren!... You must have enjoyed this."
 
 # game/UpdateScript0.07.rpy:13062## # translate crowdin best_polls_aftermath_4dd83d7b:
 msgid "[L] More than I ever thought I would."
@@ -22059,8 +22059,8 @@ msgid "[R] Oooohhh..."
 msgstr "[R] Oooohhh..."
 
 # game/UpdateScript0.07.rpy:13077## # translate crowdin best_polls_aftermath_96f62460:
-msgid "MD "Wow, Lauren, You look fucking hot all covered in your brother's cum!"
-    MD "Wow, Lauren, You look fucking hot all covered in your brother's cum!"
+msgid "[MD] Wow, Lauren, You look fucking hot all covered in your brother's cum!"
+msgstr "[MD] Wow, Lauren, You look fucking hot all covered in your brother's cum!"
 
 # game/UpdateScript0.07.rpy:13080## # translate crowdin best_polls_aftermath_f4aaf226_1:
 msgid "[L] Yeah? So do you!"
@@ -22071,20 +22071,20 @@ msgid "[L] We've got to hurry and clean up though... I almost forgot about Kenzi
 msgstr "[L] We've got to hurry and clean up though... I almost forgot about Kenzie. I can't believe she hasn't walked in on us."
 
 # game/UpdateScript0.07.rpy:13082## # translate crowdin best_polls_aftermath_5a35077c:
-msgid "MD "Don't worry. I texted her and told her the meeting would be fifteen minutes later."
-    MD "Don't worry. I texted her and told her the meeting would be fifteen minutes later."
+msgid "[MD] Don't worry. I texted her and told her the meeting would be fifteen minutes later."
+msgstr "[MD] Don't worry. I texted her and told her the meeting would be fifteen minutes later."
 
 # game/UpdateScript0.07.rpy:13083## # translate crowdin best_polls_aftermath_732e5f44:
-msgid "MD "But, speaking of cleaning up... Would you mind if I licked [ryan]'s cum off your face?"
-    MD "But, speaking of cleaning up... Would you mind if I licked [ryan]'s cum off your face?"
+msgid "[MD] But, speaking of cleaning up... Would you mind if I licked [ryan]'s cum off your face?"
+msgstr "[MD] But, speaking of cleaning up... Would you mind if I licked [ryan]'s cum off your face?"
 
 # game/UpdateScript0.07.rpy:13084## # translate crowdin best_polls_aftermath_c9e3e7b7:
 msgid "[L] What?... Why?"
 msgstr "[L] What?... Why?"
 
 # game/UpdateScript0.07.rpy:13087## # translate crowdin best_polls_aftermath_3dd82f64:
-msgid "MD "Don't judge me... but, I kind of like the taste of cum."
-    MD "Don't judge me... but, I kind of like the taste of cum."
+msgid "[MD] Don't judge me... but, I kind of like the taste of cum."
+msgstr "[MD] Don't judge me... but, I kind of like the taste of cum."
 
 # game/UpdateScript0.07.rpy:13088## # translate crowdin best_polls_aftermath_8270616c:
 msgid "[L] Really?... When have you tasted cum before?"
@@ -22095,16 +22095,16 @@ msgid "MDT "{i}Oh... just when I licked all your brother's cum off your body.{/i
     MDT "{i}Oh... just when I licked all your brother's cum off your body.{/i}"
 
 # game/UpdateScript0.07.rpy:13090## # translate crowdin best_polls_aftermath_5d3e0b46:
-msgid "MD "I just have."
-    MD "I just have."
+msgid "[MD] I just have."
+msgstr "[MD] I just have."
 
 # game/UpdateScript0.07.rpy:13091## # translate crowdin best_polls_aftermath_1cb964b4:
 msgid "[L] Uhhh... ok, I guess."
 msgstr "[L] Uhhh... ok, I guess."
 
 # game/UpdateScript0.07.rpy:13092## # translate crowdin best_polls_aftermath_487bb8fb:
-msgid "MD "Yay!"
-    MD "Yay!"
+msgid "[MD] Yay!"
+msgstr "[MD] Yay!"
 
 # game/UpdateScript0.07.rpy:13095## # translate crowdin best_polls_aftermath_9923931d:
 msgid "[LT] {i}Whoa... This is actually really intimate.{/i}"
@@ -22119,20 +22119,20 @@ msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 msgstr "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13101## # translate crowdin best_polls_aftermath_645d1560:
-msgid "MD "There... All clean. Now, do you want to return the favor?"
-    MD "There... All clean. Now, do you want to return the favor?"
+msgid "[MD] There... All clean. Now, do you want to return the favor?"
+msgstr "[MD] There... All clean. Now, do you want to return the favor?"
 
 # game/UpdateScript0.07.rpy:13102## # translate crowdin best_polls_aftermath_9a138922:
 msgid "[L] Uhhh.... I think I'll pass."
 msgstr "[L] Uhhh.... I think I'll pass."
 
 # game/UpdateScript0.07.rpy:13105## # translate crowdin best_polls_aftermath_480ae94c:
-msgid "MD "Suit yourself... More for me then."
-    MD "Suit yourself... More for me then."
+msgid "[MD] Suit yourself... More for me then."
+msgstr "[MD] Suit yourself... More for me then."
 
 # game/UpdateScript0.07.rpy:13108## # translate crowdin best_polls_aftermath_2c08afee_1:
-msgid "MD "Mmmmm...."
-    MD "Mmmmm...."
+msgid "[MD] Mmmmm...."
+msgstr "[MD] Mmmmm...."
 
 # game/UpdateScript0.07.rpy:13109## # translate crowdin best_polls_aftermath_a9db7344:
 msgid "[LT] {i}Oh, my God!{/i}"
@@ -22151,12 +22151,12 @@ msgid "[L] You're like a legit cum slut!"
 msgstr "[L] You're like a legit cum slut!"
 
 # game/UpdateScript0.07.rpy:13116## # translate crowdin best_polls_aftermath_723f5e0d:
-msgid "MD "Hahah... I know..."
-    MD "Hahah... I know..."
+msgid "[MD] Hahah... I know..."
+msgstr "[MD] Hahah... I know..."
 
 # game/UpdateScript0.07.rpy:13117## # translate crowdin best_polls_aftermath_f73776b3:
-msgid "MD "Maybe you'll convert too one day."
-    MD "Maybe you'll convert too one day."
+msgid "[MD] Maybe you'll convert too one day."
+msgstr "[MD] Maybe you'll convert too one day."
 
 # game/UpdateScript0.07.rpy:13120## # translate crowdin best_polls_aftermath_8e35956c_1:
 msgid "[L] Oh my God... We'd better finish up."
@@ -22175,20 +22175,20 @@ msgid "[L] Yes, please!... And Mandy... When Kenzie gets here... Try to look lik
 msgstr "[L] Yes, please!... And Mandy... When Kenzie gets here... Try to look like what we did, didn't just happen."
 
 # game/UpdateScript0.07.rpy:13124## # translate crowdin best_polls_aftermath_30a75b93:
-msgid "MD "How do I do that?"
-    MD "How do I do that?"
+msgid "[MD] How do I do that?"
+msgstr "[MD] How do I do that?"
 
 # game/UpdateScript0.07.rpy:13125## # translate crowdin best_polls_aftermath_1ed14358:
 msgid "[L] I don't know... Just... Don't let her find out."
 msgstr "[L] I don't know... Just... Don't let her find out."
 
 # game/UpdateScript0.07.rpy:13126## # translate crowdin best_polls_aftermath_020a8f07:
-msgid "MD "Haha... Of course I'm not going to let her find out."
-    MD "Haha... Of course I'm not going to let her find out."
+msgid "[MD] Haha... Of course I'm not going to let her find out."
+msgstr "[MD] Haha... Of course I'm not going to let her find out."
 
 # game/UpdateScript0.07.rpy:13127## # translate crowdin best_polls_aftermath_57b18010:
-msgid "MD "But, If you guys are ever fooling around in here again... I want you to text me and let me know."
-    MD "But, If you guys are ever fooling around in here again... I want you to text me and let me know."
+msgid "[MD] But, If you guys are ever fooling around in here again... I want you to text me and let me know."
+msgstr "[MD] But, If you guys are ever fooling around in here again... I want you to text me and let me know."
 
 # game/UpdateScript0.07.rpy:13128## # translate crowdin best_polls_aftermath_f38e8aa7:
 msgid "[L] Ok... deal."
