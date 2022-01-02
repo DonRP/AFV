@@ -5887,7 +5887,7 @@ msgid "[R] You couldn't stop me."
 msgstr "[R] You couldn't stop me."
 
 # game/UpdateScript0.07.rpy:4319## # translate crowdin stones_classroom_f08f7dae:
-msgid "MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
+msgid "[MST] {i}Hehe... I'm sure he's been thinking about it all week.{/i}"
     MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
 
 # game/UpdateScript0.07.rpy:4320## # translate crowdin stones_classroom_a54823e4:
@@ -6123,7 +6123,7 @@ msgid "[R] How could I?"
 msgstr "[R] How could I?"
 
 # game/UpdateScript0.07.rpy:4460## # translate crowdin stones_classroom_f08f7dae_1:
-msgid "MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
+msgid "[MST] {i}Hehe... I'm sure he's been thinking about it all week.{/i}"
     MST "{i}Hehe... I'm sure he's been thinking about it all week.{/i}"
 
 # game/UpdateScript0.07.rpy:4461## # translate crowdin stones_classroom_a54823e4_1:
@@ -6287,11 +6287,11 @@ msgid "[R] Well, it does seem like money well spent, people seem to be talking a
 msgstr "[R] Well, it does seem like money well spent, people seem to be talking about Lauren more than ever around the school."
 
 # game/UpdateScript0.07.rpy:4569## # translate crowdin stones_classroom_1470132f:
-msgid "MST "{i}He's not kidding... I heard those boys in the hallway talking about what they want her to do them.{/i}"
+msgid "[MST] {i}He's not kidding... I heard those boys in the hallway talking about what they want her to do them.{/i}"
     MST "{i}He's not kidding... I heard those boys in the hallway talking about what they want her to do them.{/i}"
 
 # game/UpdateScript0.07.rpy:4570## # translate crowdin stones_classroom_893c9642:
-msgid "MST "{i}It even made me blush.{/i}"
+msgid "[MST] {i}It even made me blush.{/i}"
     MST "{i}It even made me blush.{/i}"
 
 # game/UpdateScript0.07.rpy:4571## # translate crowdin stones_classroom_42dbd507_2:
@@ -6815,11 +6815,11 @@ msgid "[MS] Not only that, I'm not on the best terms with him, or my sister, uhh
 msgstr "[MS] Not only that, I'm not on the best terms with him, or my sister, uhh... his mother I guess I should say."
 
 # game/UpdateScript0.07.rpy:4833## # translate crowdin stones_classroom_9cfef6f4:
-msgid "MST "{i}Just because she caught us fucking, didn't mean she had to cut me out of their lives.{/i}"
+msgid "[MST] {i}Just because she caught us fucking, didn't mean she had to cut me out of their lives.{/i}"
     MST "{i}Just because she caught us fucking, didn't mean she had to cut me out of their lives.{/i}"
 
 # game/UpdateScript0.07.rpy:4834## # translate crowdin stones_classroom_65248604:
-msgid "MST "{i}Now Matt just treats me like another former conquest.{/i}"
+msgid "[MST] {i}Now Matt just treats me like another former conquest.{/i}"
     MST "{i}Now Matt just treats me like another former conquest.{/i}"
 
 # game/UpdateScript0.07.rpy:4835## # translate crowdin stones_classroom_bc5047c3:
@@ -7087,7 +7087,7 @@ msgid "[R] I'll try, I promise."
 msgstr "[R] I'll try, I promise."
 
 # game/UpdateScript0.07.rpy:4939## # translate crowdin finished_painting_199dffce:
-msgid "MST "{i}I can't stop thinking about that beautiful dick... How good it felt in my ass!... How my husband will never be the wiser.{/i}"
+msgid "[MST] {i}I can't stop thinking about that beautiful dick... How good it felt in my ass!... How my husband will never be the wiser.{/i}"
     MST "{i}I can't stop thinking about that beautiful dick... How good it felt in my ass!... How my husband will never be the wiser.{/i}"
 
 # game/UpdateScript0.07.rpy:4940## # translate crowdin finished_painting_8695d6e8:
@@ -7155,7 +7155,7 @@ msgid "[MS] So, should we see if we can fit in a quick fuck, and maybe we'll hav
 msgstr "[MS] So, should we see if we can fit in a quick fuck, and maybe we'll have enough time for some painting after?"
 
 # game/UpdateScript0.07.rpy:4972## # translate crowdin finished_painting_a1c5f194:
-msgid "MST "{i}I'm sure we both know there won't be time, and it's just an excuse to keep fucking.{/i}"
+msgid "[MST] {i}I'm sure we both know there won't be time, and it's just an excuse to keep fucking.{/i}"
     MST "{i}I'm sure we both know there won't be time, and it's just an excuse to keep fucking.{/i}"
 
 # game/UpdateScript0.07.rpy:4973## # translate crowdin finished_painting_917c3f01:
@@ -7335,11 +7335,11 @@ msgid "[R] I'll try, I promise."
 msgstr "[R] I'll try, I promise."
 
 # game/UpdateScript0.07.rpy:5086## # translate crowdin finished_painting_e81c3c1d:
-msgid "MST "{i}I can't stop thinking about that dick!{/i}"
+msgid "[MST] {i}I can't stop thinking about that dick!{/i}"
     MST "{i}I can't stop thinking about that dick!{/i}"
 
 # game/UpdateScript0.07.rpy:5087## # translate crowdin finished_painting_17323868:
-msgid "MST "{i}Why did I promise my husband I wouldn't let any other students fuck me?{/i}"
+msgid "[MST] {i}Why did I promise my husband I wouldn't let any other students fuck me?{/i}"
     MST "{i}Why did I promise my husband I wouldn't let any other students fuck me?{/i}"
 
 # game/UpdateScript0.07.rpy:5088## # translate crowdin finished_painting_8695d6e8_1:
@@ -7383,7 +7383,7 @@ msgid "[MS] [ryan]?"
 msgstr "[MS] [ryan]?"
 
 # game/UpdateScript0.07.rpy:5108## # translate crowdin finished_painting_d2d96b65:
-msgid "MST "{i}This is the best part of the week!{/i}"
+msgid "[MST] {i}This is the best part of the week!{/i}"
     MST "{i}This is the best part of the week!{/i}"
 
 # game/UpdateScript0.07.rpy:5111## # translate crowdin finished_painting_7101a772_1:
@@ -7435,7 +7435,7 @@ msgid "[MS] It's just... my husband found out about those students and made me s
 msgstr "[MS] It's just... my husband found out about those students and made me swear that I would never let another student put his dick in my pussy again."
 
 # game/UpdateScript0.07.rpy:5129## # translate crowdin finished_painting_d6abd397:
-msgid "MST "...."
+msgid "[MST] ...."
     MST "...."
 
 # game/UpdateScript0.07.rpy:5130## # translate crowdin finished_painting_905e2bf6:
@@ -7455,23 +7455,23 @@ msgid "[MS] But what if?..."
 msgstr "[MS] But what if?..."
 
 # game/UpdateScript0.07.rpy:5134## # translate crowdin finished_painting_bd5cb173:
-msgid "MST "{i}Oh, my God!... Are you really thinking of letting him fuck your ass?{/i}"
+msgid "[MST] {i}Oh, my God!... Are you really thinking of letting him fuck your ass?{/i}"
     MST "{i}Oh, my God!... Are you really thinking of letting him fuck your ass?{/i}"
 
 # game/UpdateScript0.07.rpy:5135## # translate crowdin finished_painting_a69c67d6:
-msgid "MST "{i}...My husband never said...{/i}"
+msgid "[MST] {i}...My husband never said...{/i}"
     MST "{i}...My husband never said...{/i}"
 
 # game/UpdateScript0.07.rpy:5136## # translate crowdin finished_painting_12ed70b2:
-msgid "MST "{i}Don't you think it was implied?{/i}"
+msgid "[MST] {i}Don't you think it was implied?{/i}"
     MST "{i}Don't you think it was implied?{/i}"
 
 # game/UpdateScript0.07.rpy:5137## # translate crowdin finished_painting_9d87eddc:
-msgid "MST "{i}It doesn't matter... I never made any promises regarding my ass.{/i}"
+msgid "[MST] {i}It doesn't matter... I never made any promises regarding my ass.{/i}"
     MST "{i}It doesn't matter... I never made any promises regarding my ass.{/i}"
 
 # game/UpdateScript0.07.rpy:5138## # translate crowdin finished_painting_176b3fce:
-msgid "MST "{i}And besides... I don't have any plans on letting him find out.{/i}"
+msgid "[MST] {i}And besides... I don't have any plans on letting him find out.{/i}"
     MST "{i}And besides... I don't have any plans on letting him find out.{/i}"
 
 # game/UpdateScript0.07.rpy:5139## # translate crowdin finished_painting_1e0575e3:
@@ -7487,11 +7487,11 @@ msgid "[MS] Uhhh...I've got a somewhat indecent proposal to make to you."
 msgstr "[MS] Uhhh...I've got a somewhat indecent proposal to make to you."
 
 # game/UpdateScript0.07.rpy:5142## # translate crowdin finished_painting_80f00190:
-msgid "MST "{i}Don't say it!{/i}"
+msgid "[MST] {i}Don't say it!{/i}"
     MST "{i}Don't say it!{/i}"
 
 # game/UpdateScript0.07.rpy:5145## # translate crowdin finished_painting_f85b03f6:
-msgid "MST "{i}Oh... but I want it so bad!{/i}"
+msgid "[MST] {i}Oh... but I want it so bad!{/i}"
     MST "{i}Oh... but I want it so bad!{/i}"
 
 # game/UpdateScript0.07.rpy:5146## # translate crowdin finished_painting_96f093e1:
@@ -7519,7 +7519,7 @@ msgid "[MS] So would you want to?"
 msgstr "[MS] So would you want to?"
 
 # game/UpdateScript0.07.rpy:5154## # translate crowdin finished_painting_30f91d02:
-msgid "MST "{i}Oh... Please say he wants to!{/i}"
+msgid "[MST] {i}Oh... Please say he wants to!{/i}"
     MST "{i}Oh... Please say he wants to!{/i}"
 
 # game/UpdateScript0.07.rpy:5155## # translate crowdin finished_painting_26a59529:
@@ -7531,11 +7531,11 @@ msgid "[MS] Yes... I'm offering to have anal sex with you."
 msgstr "[MS] Yes... I'm offering to have anal sex with you."
 
 # game/UpdateScript0.07.rpy:5157## # translate crowdin finished_painting_2e7bfd4d:
-msgid "MST "{i}Oh, God!... I just said it... I can't take that back now!{/i}"
+msgid "[MST] {i}Oh, God!... I just said it... I can't take that back now!{/i}"
     MST "{i}Oh, God!... I just said it... I can't take that back now!{/i}"
 
 # game/UpdateScript0.07.rpy:5158## # translate crowdin finished_painting_252b582a:
-msgid "MST "{i}How's he going to react?{/i}"
+msgid "[MST] {i}How's he going to react?{/i}"
     MST "{i}How's he going to react?{/i}"
 
 # game/UpdateScript0.07.rpy:5160## # translate crowdin finished_painting_5f1fa3a7:
@@ -7723,7 +7723,7 @@ msgid "[R] I'll try, I promise."
 msgstr "[R] I'll try, I promise."
 
 # game/UpdateScript0.07.rpy:5275## # translate crowdin finished_painting_db33ab4f:
-msgid "MST "{i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
+msgid "[MST] {i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
     MST "{i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
 
 # game/UpdateScript0.07.rpy:5276## # translate crowdin finished_painting_3b3a3f14:
@@ -7771,7 +7771,7 @@ msgid "[MS] Again?... Really?"
 msgstr "[MS] Again?... Really?"
 
 # game/UpdateScript0.07.rpy:5297## # translate crowdin finished_painting_2402836c:
-msgid "MST "{i}Why does this make me so happy?{/i}"
+msgid "[MST] {i}Why does this make me so happy?{/i}"
     MST "{i}Why does this make me so happy?{/i}"
 
 # game/UpdateScript0.07.rpy:5300## # translate crowdin finished_painting_7101a772_2:
@@ -7823,11 +7823,11 @@ msgid "[MS] But, don't forget why we're doing this... I need you to try and hurr
 msgstr "[MS] But, don't forget why we're doing this... I need you to try and hurry so we can get around to finishing that painting for once."
 
 # game/UpdateScript0.07.rpy:5316## # translate crowdin finished_painting_ffb5fd4b:
-msgid "MST "{i}Because that's what this is all about.{/i}"
+msgid "[MST] {i}Because that's what this is all about.{/i}"
     MST "{i}Because that's what this is all about.{/i}"
 
 # game/UpdateScript0.07.rpy:5317## # translate crowdin finished_painting_6b0502e0:
-msgid "MST "{i}Keep telling yourself that!{/i}"
+msgid "[MST] {i}Keep telling yourself that!{/i}"
     MST "{i}Keep telling yourself that!{/i}"
 
 # game/UpdateScript0.07.rpy:5319## # translate crowdin finished_painting_82667f53:
@@ -7835,7 +7835,7 @@ msgid "[RT] {i}I was hoping for a little more, but this will still be awesome!{/
 msgstr "[RT] {i}I was hoping for a little more, but this will still be awesome!{/i}"
 
 # game/UpdateScript0.07.rpy:5320## # translate crowdin finished_painting_8ebbc94c:
-msgid "MST "{i}Just make him cum, and you can finish that painting.{/i}"
+msgid "[MST] {i}Just make him cum, and you can finish that painting.{/i}"
     MST "{i}Just make him cum, and you can finish that painting.{/i}"
 
 # game/UpdateScript0.07.rpy:5324## # translate crowdin finished_painting_91355cdd:
@@ -7847,7 +7847,7 @@ msgid "[RT] {i}Her gentle kisses are driving me crazy!{/i}"
 msgstr "[RT] {i}Her gentle kisses are driving me crazy!{/i}"
 
 # game/UpdateScript0.07.rpy:5326## # translate crowdin finished_painting_6c6b3332:
-msgid "MST "{i}Time to turn it up a little.{/i}"
+msgid "[MST] {i}Time to turn it up a little.{/i}"
     MST "{i}Time to turn it up a little.{/i}"
 
 # game/UpdateScript0.07.rpy:5330## # translate crowdin finished_painting_ce4ecd0e:
@@ -7863,11 +7863,11 @@ msgid "[RT] {i}God... It's so sensitive there.{/i}"
 msgstr "[RT] {i}God... It's so sensitive there.{/i}"
 
 # game/UpdateScript0.07.rpy:5333## # translate crowdin finished_painting_ff38d26b:
-msgid "MST "{i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
+msgid "[MST] {i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
     MST "{i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
 
 # game/UpdateScript0.07.rpy:5334## # translate crowdin finished_painting_c6c0c22f:
-msgid "MST "{i}Time to turn it up more.{/i}"
+msgid "[MST] {i}Time to turn it up more.{/i}"
     MST "{i}Time to turn it up more.{/i}"
 
 # game/UpdateScript0.07.rpy:5338## # translate crowdin finished_painting_f947584e:
@@ -7879,11 +7879,11 @@ msgid "[R] You can go so deep!"
 msgstr "[R] You can go so deep!"
 
 # game/UpdateScript0.07.rpy:5340## # translate crowdin finished_painting_111ce4d6:
-msgid "MST "{i}Haha... What a lucky kid... getting another blowjob from somebody who's practically a professional!{/i}"
+msgid "[MST] {i}Haha... What a lucky kid... getting another blowjob from somebody who's practically a professional!{/i}"
     MST "{i}Haha... What a lucky kid... getting another blowjob from somebody who's practically a professional!{/i}"
 
 # game/UpdateScript0.07.rpy:5341## # translate crowdin finished_painting_601584b4:
-msgid "MST "{i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
+msgid "[MST] {i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
     MST "{i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
 
 # game/UpdateScript0.07.rpy:5342## # translate crowdin finished_painting_778be956:
@@ -7923,11 +7923,11 @@ msgid "[R] I'll try, I promise."
 msgstr "[R] I'll try, I promise."
 
 # game/UpdateScript0.07.rpy:5366## # translate crowdin finished_painting_ec316c00:
-msgid "MST "{i}Did he grow even bigger this week?{/i}"
+msgid "[MST] {i}Did he grow even bigger this week?{/i}"
     MST "{i}Did he grow even bigger this week?{/i}"
 
 # game/UpdateScript0.07.rpy:5367## # translate crowdin finished_painting_db33ab4f_1:
-msgid "MST "{i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
+msgid "[MST] {i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
     MST "{i}I haven't been able to stop thinking about that cock since I last saw it.{/i}"
 
 # game/UpdateScript0.07.rpy:5368## # translate crowdin finished_painting_3b3a3f14_1:
@@ -7975,7 +7975,7 @@ msgid "[MS] Again?... Really?"
 msgstr "[MS] Again?... Really?"
 
 # game/UpdateScript0.07.rpy:5389## # translate crowdin finished_painting_2402836c_1:
-msgid "MST "{i}Why does this make me so happy?{/i}"
+msgid "[MST] {i}Why does this make me so happy?{/i}"
     MST "{i}Why does this make me so happy?{/i}"
 
 # game/UpdateScript0.07.rpy:5392## # translate crowdin finished_painting_7101a772_3:
@@ -8031,15 +8031,15 @@ msgid "[RT] {i}That's a lie, but I think she'll like it even more if she thinks 
 msgstr "[RT] {i}That's a lie, but I think she'll like it even more if she thinks she's my first.{/i}"
 
 # game/UpdateScript0.07.rpy:5412## # translate crowdin finished_painting_28997fb9:
-msgid "MST "{i}Oh, God!... I'm breaking his blowjob cherry!{/i}"
+msgid "[MST] {i}Oh, God!... I'm breaking his blowjob cherry!{/i}"
     MST "{i}Oh, God!... I'm breaking his blowjob cherry!{/i}"
 
 # game/UpdateScript0.07.rpy:5413## # translate crowdin finished_painting_84e31761:
-msgid "MST "{i}Why does that turn me on so much?{/i}"
+msgid "[MST] {i}Why does that turn me on so much?{/i}"
     MST "{i}Why does that turn me on so much?{/i}"
 
 # game/UpdateScript0.07.rpy:5414## # translate crowdin finished_painting_d5649e66:
-msgid "MST "{i}I should be feeling guilty... but I don't care anymore.{/i}"
+msgid "[MST] {i}I should be feeling guilty... but I don't care anymore.{/i}"
     MST "{i}I should be feeling guilty... but I don't care anymore.{/i}"
 
 # game/UpdateScript0.07.rpy:5415## # translate crowdin finished_painting_c1961024:
@@ -8047,15 +8047,15 @@ msgid "[RT] {i}Oh, my God!... I can't believe this is happening!{/i}"
 msgstr "[RT] {i}Oh, my God!... I can't believe this is happening!{/i}"
 
 # game/UpdateScript0.07.rpy:5417## # translate crowdin finished_painting_92e367e3:
-msgid "MST "{i}You're going to suck his dick?... Do you have no self-control?{/i}"
+msgid "[MST] {i}You're going to suck his dick?... Do you have no self-control?{/i}"
     MST "{i}You're going to suck his dick?... Do you have no self-control?{/i}"
 
 # game/UpdateScript0.07.rpy:5418## # translate crowdin finished_painting_1751eb99:
-msgid "MST "{i}I'm just taking care of a problem. I need him to cum fast, and what could get him off faster than a blowjob?{/i}"
+msgid "[MST] {i}I'm just taking care of a problem. I need him to cum fast, and what could get him off faster than a blowjob?{/i}"
     MST "{i}I'm just taking care of a problem. I need him to cum fast, and what could get him off faster than a blowjob?{/i}"
 
 # game/UpdateScript0.07.rpy:5419## # translate crowdin finished_painting_06c117ca:
-msgid "MST "{i}I guess I can think of a few things...{/i}"
+msgid "[MST] {i}I guess I can think of a few things...{/i}"
     MST "{i}I guess I can think of a few things...{/i}"
 
 # game/UpdateScript0.07.rpy:5423## # translate crowdin finished_painting_a35b74d5:
@@ -8067,23 +8067,23 @@ msgid "[RT] {i}Her gentle kisses are driving me crazy!{/i}"
 msgstr "[RT] {i}Her gentle kisses are driving me crazy!{/i}"
 
 # game/UpdateScript0.07.rpy:5425## # translate crowdin finished_painting_ddffc290:
-msgid "MST "{i}If my boring old husband could see me now.{/i}"
+msgid "[MST] {i}If my boring old husband could see me now.{/i}"
     MST "{i}If my boring old husband could see me now.{/i}"
 
 # game/UpdateScript0.07.rpy:5426## # translate crowdin finished_painting_7645eda4:
-msgid "MST "{i}I don't care enough about his cock to kiss it like this.{/i}"
+msgid "[MST] {i}I don't care enough about his cock to kiss it like this.{/i}"
     MST "{i}I don't care enough about his cock to kiss it like this.{/i}"
 
 # game/UpdateScript0.07.rpy:5427## # translate crowdin finished_painting_b894f0d6:
-msgid "MST "{i}Do you hear what you're saying?{/i}"
+msgid "[MST] {i}Do you hear what you're saying?{/i}"
     MST "{i}Do you hear what you're saying?{/i}"
 
 # game/UpdateScript0.07.rpy:5428## # translate crowdin finished_painting_bae1a220:
-msgid "MST "{i}Shut up, conscience, I don't care!{/i}"
+msgid "[MST] {i}Shut up, conscience, I don't care!{/i}"
     MST "{i}Shut up, conscience, I don't care!{/i}"
 
 # game/UpdateScript0.07.rpy:5429## # translate crowdin finished_painting_6c6b3332_1:
-msgid "MST "{i}Time to turn it up a little.{/i}"
+msgid "[MST] {i}Time to turn it up a little.{/i}"
     MST "{i}Time to turn it up a little.{/i}"
 
 # game/UpdateScript0.07.rpy:5433## # translate crowdin finished_painting_ce4ecd0e_1:
@@ -8099,11 +8099,11 @@ msgid "[RT] {i}God... It's so sensitive there.{/i}"
 msgstr "[RT] {i}God... It's so sensitive there.{/i}"
 
 # game/UpdateScript0.07.rpy:5436## # translate crowdin finished_painting_ff38d26b_1:
-msgid "MST "{i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
+msgid "[MST] {i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
     MST "{i}I love the way he's responding, but I can't believe he hasn't blown yet!{/i}"
 
 # game/UpdateScript0.07.rpy:5437## # translate crowdin finished_painting_c6c0c22f_1:
-msgid "MST "{i}Time to turn it up more.{/i}"
+msgid "[MST] {i}Time to turn it up more.{/i}"
     MST "{i}Time to turn it up more.{/i}"
 
 # game/UpdateScript0.07.rpy:5441## # translate crowdin finished_painting_f947584e_1:
@@ -8115,11 +8115,11 @@ msgid "[R] You can go so deep!"
 msgstr "[R] You can go so deep!"
 
 # game/UpdateScript0.07.rpy:5443## # translate crowdin finished_painting_1cd136d9:
-msgid "MST "{i}Haha... What a lucky kid... His first blowjob is done by a professional!{/i}"
+msgid "[MST] {i}Haha... What a lucky kid... His first blowjob is done by a professional!{/i}"
     MST "{i}Haha... What a lucky kid... His first blowjob is done by a professional!{/i}"
 
 # game/UpdateScript0.07.rpy:5444## # translate crowdin finished_painting_601584b4_1:
-msgid "MST "{i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
+msgid "[MST] {i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
     MST "{i}Though I probably shouldn't be so proud of that, since I've hardly ever sucked off my husband.{/i}"
 
 # game/UpdateScript0.07.rpy:5445## # translate crowdin finished_painting_778be956_1:
@@ -8151,11 +8151,11 @@ msgid "[R] I'll try, I promise."
 msgstr "[R] I'll try, I promise."
 
 # game/UpdateScript0.07.rpy:5467## # translate crowdin finished_painting_a5103710:
-msgid "MST "{i}I almost forgot how big he is.{/i}"
+msgid "[MST] {i}I almost forgot how big he is.{/i}"
     MST "{i}I almost forgot how big he is.{/i}"
 
 # game/UpdateScript0.07.rpy:5468## # translate crowdin finished_painting_1a08844c:
-msgid "MST "{i}Even though I haven't been able to stop thinking about that cock since I last saw it.{/i}"
+msgid "[MST] {i}Even though I haven't been able to stop thinking about that cock since I last saw it.{/i}"
     MST "{i}Even though I haven't been able to stop thinking about that cock since I last saw it.{/i}"
 
 # game/UpdateScript0.07.rpy:5469## # translate crowdin finished_painting_d83e1604:
@@ -8203,7 +8203,7 @@ msgid "[MS] Oh, no!... Not again?"
 msgstr "[MS] Oh, no!... Not again?"
 
 # game/UpdateScript0.07.rpy:5490## # translate crowdin finished_painting_f64f9876:
-msgid "MST "{i}Oh, yes!{/i}"
+msgid "[MST] {i}Oh, yes!{/i}"
     MST "{i}Oh, yes!{/i}"
 
 # game/UpdateScript0.07.rpy:5493## # translate crowdin finished_painting_7101a772_4:
@@ -8239,11 +8239,11 @@ msgid "[MS] So, we need to do something to make you cum faster."
 msgstr "[MS] So, we need to do something to make you cum faster."
 
 # game/UpdateScript0.07.rpy:5505## # translate crowdin finished_painting_0426831d:
-msgid "MST "{i}Don't go there!{/i}"
+msgid "[MST] {i}Don't go there!{/i}"
     MST "{i}Don't go there!{/i}"
 
 # game/UpdateScript0.07.rpy:5506## # translate crowdin finished_painting_d784d49e:
-msgid "MST "{i}Shut up, conscience!... This is only logical.{/i}"
+msgid "[MST] {i}Shut up, conscience!... This is only logical.{/i}"
     MST "{i}Shut up, conscience!... This is only logical.{/i}"
 
 # game/UpdateScript0.07.rpy:5507## # translate crowdin finished_painting_26a59529_2:
@@ -8271,15 +8271,15 @@ msgid "[RT] {i}Oh, my God!... I can't believe this is happening!{/i}"
 msgstr "[RT] {i}Oh, my God!... I can't believe this is happening!{/i}"
 
 # game/UpdateScript0.07.rpy:5514## # translate crowdin finished_painting_0412063f:
-msgid "MST "{i}You're going to let him fuck your tits!... Do you have no self-control?{/i}"
+msgid "[MST] {i}You're going to let him fuck your tits!... Do you have no self-control?{/i}"
     MST "{i}You're going to let him fuck your tits!... Do you have no self-control?{/i}"
 
 # game/UpdateScript0.07.rpy:5515## # translate crowdin finished_painting_bd9bbcd4:
-msgid "MST "{i}I'm just taking care of a problem. I need him to cum fast, and it's not my fault that young men love breasts so much.{/i}"
+msgid "[MST] {i}I'm just taking care of a problem. I need him to cum fast, and it's not my fault that young men love breasts so much.{/i}"
     MST "{i}I'm just taking care of a problem. I need him to cum fast, and it's not my fault that young men love breasts so much.{/i}"
 
 # game/UpdateScript0.07.rpy:5516## # translate crowdin finished_painting_dad5259a:
-msgid "MST "{i}If I really enjoy it too, what harm is there in that?{/i}"
+msgid "[MST] {i}If I really enjoy it too, what harm is there in that?{/i}"
     MST "{i}If I really enjoy it too, what harm is there in that?{/i}"
 
 # game/UpdateScript0.07.rpy:5520## # translate crowdin finished_painting_88865fe3:
@@ -8295,19 +8295,19 @@ msgid "[RT] {i}This feels so good!{/i}"
 msgstr "[RT] {i}This feels so good!{/i}"
 
 # game/UpdateScript0.07.rpy:5523## # translate crowdin finished_painting_ddffc290_1:
-msgid "MST "{i}If my boring old husband could see me now.{/i}"
+msgid "[MST] {i}If my boring old husband could see me now.{/i}"
     MST "{i}If my boring old husband could see me now.{/i}"
 
 # game/UpdateScript0.07.rpy:5524## # translate crowdin finished_painting_e0da1aa9:
-msgid "MST "{i}He'd be furious... but maybe it would teach him that he needs to take care of his wife, or she's gonna stray.{/i}"
+msgid "[MST] {i}He'd be furious... but maybe it would teach him that he needs to take care of his wife, or she's gonna stray.{/i}"
     MST "{i}He'd be furious... but maybe it would teach him that he needs to take care of his wife, or she's gonna stray.{/i}"
 
 # game/UpdateScript0.07.rpy:5525## # translate crowdin finished_painting_9321f19f:
-msgid "MST "{i}I thought you weren't straying... I thought you were just taking care of a problem.{/i}"
+msgid "[MST] {i}I thought you weren't straying... I thought you were just taking care of a problem.{/i}"
     MST "{i}I thought you weren't straying... I thought you were just taking care of a problem.{/i}"
 
 # game/UpdateScript0.07.rpy:5526## # translate crowdin finished_painting_02fb8501:
-msgid "MST "{i}Shut up, conscience... No one asked you.{/i}"
+msgid "[MST] {i}Shut up, conscience... No one asked you.{/i}"
     MST "{i}Shut up, conscience... No one asked you.{/i}"
 
 # game/UpdateScript0.07.rpy:5527## # translate crowdin finished_painting_b5b01221:
@@ -8343,11 +8343,11 @@ msgid "[MS] Wow!... I don't think I've ever had this much cum on my tits!"
 msgstr "[MS] Wow!... I don't think I've ever had this much cum on my tits!"
 
 # game/UpdateScript0.07.rpy:5549## # translate crowdin finished_painting_a8ce4606:
-msgid "MST "{i}You know that's a lie!{/i}"
+msgid "[MST] {i}You know that's a lie!{/i}"
     MST "{i}You know that's a lie!{/i}"
 
 # game/UpdateScript0.07.rpy:5550## # translate crowdin finished_painting_c2d24898:
-msgid "MST "{i}Well, I guess I haven't from just one guy.{/i}"
+msgid "[MST] {i}Well, I guess I haven't from just one guy.{/i}"
     MST "{i}Well, I guess I haven't from just one guy.{/i}"
 
 # game/UpdateScript0.07.rpy:5551## # translate crowdin finished_painting_e58b9eae:
@@ -8407,7 +8407,7 @@ msgid "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 msgstr "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 
 # game/UpdateScript0.07.rpy:5569## # translate crowdin finished_painting_9b5c345c:
-msgid "MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
+msgid "[MST] {i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
     MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
 
 # game/UpdateScript0.07.rpy:5570## # translate crowdin finished_painting_7069454b:
@@ -8479,11 +8479,11 @@ msgid "[MS] I'm so glad you understand! Let me grab my canvas, and I'll lock the
 msgstr "[MS] I'm so glad you understand! Let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
 
 # game/UpdateScript0.07.rpy:5602## # translate crowdin finished_painting_7a9430b5:
-msgid "MST "{i}Holy shit!... I would have never guessed [ryan] was packing anything that big.{/i}"
+msgid "[MST] {i}Holy shit!... I would have never guessed [ryan] was packing anything that big.{/i}"
     MST "{i}Holy shit!... I would have never guessed [ryan] was packing anything that big.{/i}"
 
 # game/UpdateScript0.07.rpy:5603## # translate crowdin finished_painting_212f5f46:
-msgid "MST "{i}I didn't even know white boys could get that big.{/i}"
+msgid "[MST] {i}I didn't even know white boys could get that big.{/i}"
     MST "{i}I didn't even know white boys could get that big.{/i}"
 
 # game/UpdateScript0.07.rpy:5604## # translate crowdin finished_painting_e71587fd:
@@ -8611,11 +8611,11 @@ msgid "[MS] I see... That's just what I suspected."
 msgstr "[MS] I see... That's just what I suspected."
 
 # game/UpdateScript0.07.rpy:5651## # translate crowdin finished_painting_968e1f17:
-msgid "MST "{i}Don't do it!... Your husband will be furious if he finds out you're doing this with students again!{/i}"
+msgid "[MST] {i}Don't do it!... Your husband will be furious if he finds out you're doing this with students again!{/i}"
     MST "{i}Don't do it!... Your husband will be furious if he finds out you're doing this with students again!{/i}"
 
 # game/UpdateScript0.07.rpy:5652## # translate crowdin finished_painting_1fc8fe5e:
-msgid "MST "{i}Shut up, conscience!... My husband doesn't give me nearly the attention a hyper-sexualized woman like myself needs.{/i}"
+msgid "[MST] {i}Shut up, conscience!... My husband doesn't give me nearly the attention a hyper-sexualized woman like myself needs.{/i}"
     MST "{i}Shut up, conscience!... My husband doesn't give me nearly the attention a hyper-sexualized woman like myself needs.{/i}"
 
 # game/UpdateScript0.07.rpy:5654## # translate crowdin finished_painting_77176b49:
@@ -8639,23 +8639,23 @@ msgid "[MS] I think you do."
 msgstr "[MS] I think you do."
 
 # game/UpdateScript0.07.rpy:5662## # translate crowdin finished_painting_8073c527:
-msgid "MST "{i}Ok... I'm not cheating on my husband....{/i}"
+msgid "[MST] {i}Ok... I'm not cheating on my husband....{/i}"
     MST "{i}Ok... I'm not cheating on my husband....{/i}"
 
 # game/UpdateScript0.07.rpy:5663## # translate crowdin finished_painting_83ad454d:
-msgid "MST "{i}I'm just giving [ryan] a handjob so he can finish posing for me.{/i}"
+msgid "[MST] {i}I'm just giving [ryan] a handjob so he can finish posing for me.{/i}"
     MST "{i}I'm just giving [ryan] a handjob so he can finish posing for me.{/i}"
 
 # game/UpdateScript0.07.rpy:5664## # translate crowdin finished_painting_305b00b7:
-msgid "MST "{i}It's just like how nannies used to jack off little boys so they would sleep better.{/i}"
+msgid "[MST] {i}It's just like how nannies used to jack off little boys so they would sleep better.{/i}"
     MST "{i}It's just like how nannies used to jack off little boys so they would sleep better.{/i}"
 
 # game/UpdateScript0.07.rpy:5665## # translate crowdin finished_painting_8b8c19b6:
-msgid "MST "{i}The fact that I really enjoy it is beside the point.{/i}"
+msgid "[MST] {i}The fact that I really enjoy it is beside the point.{/i}"
     MST "{i}The fact that I really enjoy it is beside the point.{/i}"
 
 # game/UpdateScript0.07.rpy:5666## # translate crowdin finished_painting_83bdd7fa:
-msgid "MST "{i}Not to mention the revitalizing skin benefits I'll get from a cum facial.{/i}"
+msgid "[MST] {i}Not to mention the revitalizing skin benefits I'll get from a cum facial.{/i}"
     MST "{i}Not to mention the revitalizing skin benefits I'll get from a cum facial.{/i}"
 
 # game/UpdateScript0.07.rpy:5667## # translate crowdin finished_painting_a69ccde4:
@@ -8747,7 +8747,7 @@ msgid "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 msgstr "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 
 # game/UpdateScript0.07.rpy:5713## # translate crowdin finished_painting_9b5c345c_1:
-msgid "MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
+msgid "[MST] {i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
     MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
 
 # game/UpdateScript0.07.rpy:5714## # translate crowdin finished_painting_7069454b_1:
@@ -8815,23 +8815,23 @@ msgid "[MS] Now, hold still while I try to capture your likeness."
 msgstr "[MS] Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5746## # translate crowdin finished_painting_eeb5ac7b:
-msgid "MST "{i}Damn!... I got him to take his pants off.{/i}"
+msgid "[MST] {i}Damn!... I got him to take his pants off.{/i}"
     MST "{i}Damn!... I got him to take his pants off.{/i}"
 
 # game/UpdateScript0.07.rpy:5747## # translate crowdin finished_painting_e9410f2f:
-msgid "MST "{i}Am I being predatory, like my husband claims I am?{/i}"
+msgid "[MST] {i}Am I being predatory, like my husband claims I am?{/i}"
     MST "{i}Am I being predatory, like my husband claims I am?{/i}"
 
 # game/UpdateScript0.07.rpy:5748## # translate crowdin finished_painting_498accc3:
-msgid "MST "{i}I wonder if I could have gotten him to take off his underwear?{/i}"
+msgid "[MST] {i}I wonder if I could have gotten him to take off his underwear?{/i}"
     MST "{i}I wonder if I could have gotten him to take off his underwear?{/i}"
 
 # game/UpdateScript0.07.rpy:5749## # translate crowdin finished_painting_5a187564:
-msgid "MST "{i}No!... Stop thinking like that.{/i}"
+msgid "[MST] {i}No!... Stop thinking like that.{/i}"
     MST "{i}No!... Stop thinking like that.{/i}"
 
 # game/UpdateScript0.07.rpy:5750## # translate crowdin finished_painting_b68fa921:
-msgid "MST "{i}Just... paint the canvas.{/i}"
+msgid "[MST] {i}Just... paint the canvas.{/i}"
     MST "{i}Just... paint the canvas.{/i}"
 
 # game/UpdateScript0.07.rpy:5753## # translate crowdin finished_painting_35776249:
@@ -8847,11 +8847,11 @@ msgid "[MS] I've got a class starting in a few minutes so, please, will you come
 msgstr "[MS] I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
 
 # game/UpdateScript0.07.rpy:5760## # translate crowdin finished_painting_82ffc676:
-msgid "MST "{i}Can I control myself and let him keep his underwear on?{/i}"
+msgid "[MST] {i}Can I control myself and let him keep his underwear on?{/i}"
     MST "{i}Can I control myself and let him keep his underwear on?{/i}"
 
 # game/UpdateScript0.07.rpy:5761## # translate crowdin finished_painting_11328cb6:
-msgid "MST "{i}Shit!... I think I know myself well enough to know that that's not going to happen.{/i}"
+msgid "[MST] {i}Shit!... I think I know myself well enough to know that that's not going to happen.{/i}"
     MST "{i}Shit!... I think I know myself well enough to know that that's not going to happen.{/i}"
 
 # game/UpdateScript0.07.rpy:5762## # translate crowdin finished_painting_b2f0cc41:
@@ -8939,23 +8939,23 @@ msgid "[MS] Now, hold still while I try to capture your likeness."
 msgstr "[MS] Now, hold still while I try to capture your likeness."
 
 # game/UpdateScript0.07.rpy:5795## # translate crowdin finished_painting_8bc08372:
-msgid "MST "{i}Damn!... I haven't had a shirtless boy in my class for a long time.{/i}"
+msgid "[MST] {i}Damn!... I haven't had a shirtless boy in my class for a long time.{/i}"
     MST "{i}Damn!... I haven't had a shirtless boy in my class for a long time.{/i}"
 
 # game/UpdateScript0.07.rpy:5796## # translate crowdin finished_painting_ca1ca96b:
-msgid "MST "{i}And I'm not going to let it progress as far as last time... He's only got his shirt off.{/i}"
+msgid "[MST] {i}And I'm not going to let it progress as far as last time... He's only got his shirt off.{/i}"
     MST "{i}And I'm not going to let it progress as far as last time... He's only got his shirt off.{/i}"
 
 # game/UpdateScript0.07.rpy:5797## # translate crowdin finished_painting_12ddf071:
-msgid "MST "{i}Should I have tried to get him down to his underwear?{/i}"
+msgid "[MST] {i}Should I have tried to get him down to his underwear?{/i}"
     MST "{i}Should I have tried to get him down to his underwear?{/i}"
 
 # game/UpdateScript0.07.rpy:5798## # translate crowdin finished_painting_5a187564_1:
-msgid "MST "{i}No!... Stop thinking like that.{/i}"
+msgid "[MST] {i}No!... Stop thinking like that.{/i}"
     MST "{i}No!... Stop thinking like that.{/i}"
 
 # game/UpdateScript0.07.rpy:5799## # translate crowdin finished_painting_b68fa921_1:
-msgid "MST "{i}Just... paint the canvas.{/i}"
+msgid "[MST] {i}Just... paint the canvas.{/i}"
     MST "{i}Just... paint the canvas.{/i}"
 
 # game/UpdateScript0.07.rpy:5802## # translate crowdin finished_painting_35776249_1:
@@ -9139,7 +9139,7 @@ msgid "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 msgstr "[R] Thanks, Mrs. Stone... I do too, now more than ever."
 
 # game/UpdateScript0.07.rpy:5962## # translate crowdin stone_bj_cum_9b5c345c:
-msgid "MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
+msgid "[MST] {i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
     MST "{i}Maybe I should keep encouraging Matt to keep tearing down Lauren's post.{/i}"
 
 # game/UpdateScript0.07.rpy:5963## # translate crowdin stone_bj_cum_7069454b:
