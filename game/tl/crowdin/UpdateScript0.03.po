@@ -4515,8 +4515,8 @@ msgid "[MB] I've almost got someone!"
 msgstr "[MB] I've almost got someone!"
 
 # game/UpdateScript0.03.rpy:2768## # translate crowdin clubpool_53e9c6e2:
-msgid "MBT "{i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
-    MBT "{i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
+msgid "[MBT] {i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
+msgstr "[MBT] {i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
 
 # game/UpdateScript0.03.rpy:2769## # translate crowdin clubpool_252d2def:
 msgid "[RT] {i}Is Matt going to do what I think he's doing?{/i}"
@@ -4535,8 +4535,8 @@ msgid "Pull.... yank..."
 msgstr "Pull.... yank..."
 
 # game/UpdateScript0.03.rpy:2779## # translate crowdin clubpool_3f2c5b41:
-msgid "MBT "{i}Yes, it worked!{/i}"
-    MBT "{i}Yes, it worked!{/i}"
+msgid "[MBT] {i}Yes, it worked!{/i}"
+msgstr "[MBT] {i}Yes, it worked!{/i}"
 
 # game/UpdateScript0.03.rpy:2780## # translate crowdin clubpool_d3e5eec1:
 msgid "[MT] {i}Oh.... my.... God!.... {/i}"
@@ -5447,8 +5447,8 @@ msgid "[MT] {i}Ha! I've almost got Matt, the star of the basketball team. Is he 
 msgstr "[MT] {i}Ha! I've almost got Matt, the star of the basketball team. Is he even trying to get away from me?{/i}"
 
 # game/UpdateScript0.03.rpy:3365## # translate crowdin clubpool_4f25de51:
-msgid "MBT "{i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
-    MBT "{i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
+msgid "[MBT] {i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
+msgstr "[MBT] {i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
 
 # game/UpdateScript0.03.rpy:3368## # translate crowdin clubpool_c7e500e6_2:
 msgid "[M] Gotcha!..."
@@ -5467,24 +5467,24 @@ msgid "[MT] {i}Who the hell is this?{/i}"
 msgstr "[MT] {i}Who the hell is this?{/i}"
 
 # game/UpdateScript0.03.rpy:3388## # translate crowdin clubpool_6152c275:
-msgid "MBT "{i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
-    MBT "{i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
+msgid "[MBT] {i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
+msgstr "[MBT] {i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
 
 # game/UpdateScript0.03.rpy:3402## # translate crowdin clubpool_08466e77:
 msgid "[MT] {i}Hmmmm.... I really think this must be [ryan], but I thought I heard his voice on the other side of the pool.{/i}"
 msgstr "[MT] {i}Hmmmm.... I really think this must be [ryan], but I thought I heard his voice on the other side of the pool.{/i}"
 
 # game/UpdateScript0.03.rpy:3417## # translate crowdin clubpool_020c76c7:
-msgid "MBT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
-    MBT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
+msgid "[MBT] {i}Oh, shit!!!.... I can't hold back any more!{/i}"
+msgstr "[MBT] {i}Oh, shit!!!.... I can't hold back any more!{/i}"
 
 # game/UpdateScript0.03.rpy:3418## # translate crowdin clubpool_603e4d07:
 msgid "[MB] Hnnnngggghhhh!!"
 msgstr "[MB] Hnnnngggghhhh!!"
 
 # game/UpdateScript0.03.rpy:3424## # translate crowdin clubpool_dae8574a:
-msgid "MBT "{i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
-    MBT "{i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
+msgid "[MBT] {i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
+msgstr "[MBT] {i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
 
 # game/UpdateScript0.03.rpy:3425## # translate crowdin clubpool_06e0c3b6:
 msgid "[RT] Mom!.... Stop.... open your eyes!"
