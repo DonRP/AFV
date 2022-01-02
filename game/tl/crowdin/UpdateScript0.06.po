@@ -767,8 +767,8 @@ msgid "KT "{i}I've got to have this!{/i}"
     KT "{i}I've got to have this!{/i}"
 
 # game/UpdateScript0.06.rpy:1040## # translate crowdin posting_ph_pics_262db61b:
-msgid "J "Well... If it isn't the lovely, lovely [mom_name]"
-    J "Well... If it isn't the lovely, lovely [mom_name]"
+msgid "[J] Well... If it isn't the lovely, lovely [mom_name]"
+msgstr "[J] Well... If it isn't the lovely, lovely [mom_name]"
 
 # game/UpdateScript0.06.rpy:1048## # translate crowdin posting_ph_pics_3e19dff1:
 msgid "S "Oh, my God!"
@@ -831,8 +831,8 @@ msgid "KT "{i}I've got to have this!{/i}"
     KT "{i}I've got to have this!{/i}"
 
 # game/UpdateScript0.06.rpy:1099## # translate crowdin posting_ph_pics_1e1e6927:
-msgid "J "Ahh... Glad to see [mom_name]'s still at it."
-    J "Ahh... Glad to see [mom_name]'s still at it."
+msgid "[J] Ahh... Glad to see [mom_name]'s still at it."
+msgstr "[J] Ahh... Glad to see [mom_name]'s still at it."
 
 # game/UpdateScript0.06.rpy:1107## # translate crowdin posting_ph_pics_de25fbaf:
 msgid "S "Not again!"
@@ -17463,84 +17463,84 @@ msgid "A "I'll run and tell him you're still here, and in the meantime, get thos
     A "I'll run and tell him you're still here, and in the meantime, get those pants back on."
 
 # game/UpdateScript0.06.rpy:10000## # translate crowdin find_sidney_4f17cecc:
-msgid "J "I'm so glad you two are still here."
-    J "I'm so glad you two are still here."
+msgid "[J] I'm so glad you two are still here."
+msgstr "[J] I'm so glad you two are still here."
 
 # game/UpdateScript0.06.rpy:10001## # translate crowdin find_sidney_a1f92dfe:
-msgid "J "I was really hoping I'd get a chance to talk to you before you went home tonight."
-    J "I was really hoping I'd get a chance to talk to you before you went home tonight."
+msgid "[J] I was really hoping I'd get a chance to talk to you before you went home tonight."
+msgstr "[J] I was really hoping I'd get a chance to talk to you before you went home tonight."
 
 # game/UpdateScript0.06.rpy:10002## # translate crowdin find_sidney_900327e1:
-msgid "J "Mostly [ryan], I want to thank you for stopping Charlie the Chin from hurting my niece and possibly killing me."
-    J "Mostly [ryan], I want to thank you for stopping Charlie the Chin from hurting my niece and possibly killing me."
+msgid "[J] Mostly [ryan], I want to thank you for stopping Charlie the Chin from hurting my niece and possibly killing me."
+msgstr "[J] Mostly [ryan], I want to thank you for stopping Charlie the Chin from hurting my niece and possibly killing me."
 
 # game/UpdateScript0.06.rpy:10003## # translate crowdin find_sidney_48e9b66d:
 msgid "[RT] {i}Fuck! What does Armani think we were up to?... Is there any way she could mistake what we were doing?{/i}"
 msgstr "[RT] {i}Fuck! What does Armani think we were up to?... Is there any way she could mistake what we were doing?{/i}"
 
 # game/UpdateScript0.06.rpy:10006## # translate crowdin find_sidney_4f648bdf:
-msgid "J "Though it's unlikely he would have ever succeeded."
-    J "Though it's unlikely he would have ever succeeded."
+msgid "[J] Though it's unlikely he would have ever succeeded."
+msgstr "[J] Though it's unlikely he would have ever succeeded."
 
 # game/UpdateScript0.06.rpy:10007## # translate crowdin find_sidney_1e219698:
 msgid "[RT] {i}Nope... Looks like she understood exactly what we were doing.{/i}"
 msgstr "[RT] {i}Nope... Looks like she understood exactly what we were doing.{/i}"
 
 # game/UpdateScript0.06.rpy:10008## # translate crowdin find_sidney_7e61961e:
-msgid "J "That idiot doesn't have two brain cells to rub together."
-    J "That idiot doesn't have two brain cells to rub together."
+msgid "[J] That idiot doesn't have two brain cells to rub together."
+msgstr "[J] That idiot doesn't have two brain cells to rub together."
 
 # game/UpdateScript0.06.rpy:10009## # translate crowdin find_sidney_f1a963c1:
-msgid "J "But it still takes a lot of courage to stand up to a Mafia goon, there's no way you could have known he's not the sharpest tool in the shed."
-    J "But it still takes a lot of courage to stand up to a Mafia goon, there's no way you could have known he's not the sharpest tool in the shed."
+msgid "[J] But it still takes a lot of courage to stand up to a Mafia goon, there's no way you could have known he's not the sharpest tool in the shed."
+msgstr "[J] But it still takes a lot of courage to stand up to a Mafia goon, there's no way you could have known he's not the sharpest tool in the shed."
 
 # game/UpdateScript0.06.rpy:10012## # translate crowdin find_sidney_cec7af28:
-msgid "J "Sidney, I'm so embarrassed that you were put in danger at your place of employment."
-    J "Sidney, I'm so embarrassed that you were put in danger at your place of employment."
+msgid "[J] Sidney, I'm so embarrassed that you were put in danger at your place of employment."
+msgstr "[J] Sidney, I'm so embarrassed that you were put in danger at your place of employment."
 
 # game/UpdateScript0.06.rpy:10013## # translate crowdin find_sidney_2b873cf3:
 msgid "[RT] {i}At least Armani doesn't seem very disturbed by it all.{/i}"
 msgstr "[RT] {i}At least Armani doesn't seem very disturbed by it all.{/i}"
 
 # game/UpdateScript0.06.rpy:10014## # translate crowdin find_sidney_6cece9ad:
-msgid "J "I would hate to lose your help over this incident, so please consider continued employment with us."
-    J "I would hate to lose your help over this incident, so please consider continued employment with us."
+msgid "[J] I would hate to lose your help over this incident, so please consider continued employment with us."
+msgstr "[J] I would hate to lose your help over this incident, so please consider continued employment with us."
 
 # game/UpdateScript0.06.rpy:10015## # translate crowdin find_sidney_f6d179a9:
-msgid "J "I'd love to give you a little pay bonus for the inconvenience."
-    J "I'd love to give you a little pay bonus for the inconvenience."
+msgid "[J] I'd love to give you a little pay bonus for the inconvenience."
+msgstr "[J] I'd love to give you a little pay bonus for the inconvenience."
 
 # game/UpdateScript0.06.rpy:10016## # translate crowdin find_sidney_95dca068:
 msgid "{i}\"Sidney's College fund + $1,000\"{/i}"
 msgstr "{i}\"Sidney's College fund + $1,000\"{/i}"
 
 # game/UpdateScript0.06.rpy:10020## # translate crowdin find_sidney_1977cd9d:
-msgid "J "Also, as a token of my appreciation, I'm going to take twenty thousand dollars off of your family's debt to us."
-    J "Also, as a token of my appreciation, I'm going to take twenty thousand dollars off of your family's debt to us."
+msgid "[J] Also, as a token of my appreciation, I'm going to take twenty thousand dollars off of your family's debt to us."
+msgstr "[J] Also, as a token of my appreciation, I'm going to take twenty thousand dollars off of your family's debt to us."
 
 # game/UpdateScript0.06.rpy:10021## # translate crowdin find_sidney_a99ede73:
 msgid "[R] Wow! That's a lot!"
 msgstr "[R] Wow! That's a lot!"
 
 # game/UpdateScript0.06.rpy:10022## # translate crowdin find_sidney_921813d2:
-msgid "J "Well, it won't affect any weekly payments or anything, but it will take a lot off the final balloon payment that's due at the end of the payment period."
-    J "Well, it won't affect any weekly payments or anything, but it will take a lot off the final balloon payment that's due at the end of the payment period."
+msgid "[J] Well, it won't affect any weekly payments or anything, but it will take a lot off the final balloon payment that's due at the end of the payment period."
+msgstr "[J] Well, it won't affect any weekly payments or anything, but it will take a lot off the final balloon payment that's due at the end of the payment period."
 
 # game/UpdateScript0.06.rpy:10023## # translate crowdin find_sidney_aa1ec1d4:
 msgid "[R] How much debt do we still owe you, and when does the payment period end?"
 msgstr "[R] How much debt do we still owe you, and when does the payment period end?"
 
 # game/UpdateScript0.06.rpy:10024## # translate crowdin find_sidney_7bfb1789:
-msgid "J "Sorry, I don't have the numbers memorised. I'll look into it, and get back to you through Agent Diaz."
-    J "Sorry, I don't have the numbers memorised. I'll look into it, and get back to you through Agent Diaz."
+msgid "[J] Sorry, I don't have the numbers memorised. I'll look into it, and get back to you through Agent Diaz."
+msgstr "[J] Sorry, I don't have the numbers memorised. I'll look into it, and get back to you through Agent Diaz."
 
 # game/UpdateScript0.06.rpy:10025## # translate crowdin find_sidney_0e7fb415:
-msgid "J "But anyways, thank you so much, and if there's anything else we can do for you within reason, let me know."
-    J "But anyways, thank you so much, and if there's anything else we can do for you within reason, let me know."
+msgid "[J] But anyways, thank you so much, and if there's anything else we can do for you within reason, let me know."
+msgstr "[J] But anyways, thank you so much, and if there's anything else we can do for you within reason, let me know."
 
 # game/UpdateScript0.06.rpy:10026## # translate crowdin find_sidney_7613e310:
-msgid "J "I'll give you a few minutes to collect yourselves, and then I'm going to need that room back. I've got a certain former disgruntled employee that I've got to do an exit interview with in that room."
-    J "I'll give you a few minutes to collect yourselves, and then I'm going to need that room back. I've got a certain former disgruntled employee that I've got to do an exit interview with in that room."
+msgid "[J] I'll give you a few minutes to collect yourselves, and then I'm going to need that room back. I've got a certain former disgruntled employee that I've got to do an exit interview with in that room."
+msgstr "[J] I'll give you a few minutes to collect yourselves, and then I'm going to need that room back. I've got a certain former disgruntled employee that I've got to do an exit interview with in that room."
 
 # game/UpdateScript0.06.rpy:10027## # translate crowdin find_sidney_cdcb54d4:
 msgid "[R] Understood."

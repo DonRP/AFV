@@ -1323,8 +1323,8 @@ msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 msgstr "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 
 # game/UpdateScript0.05.rpy:1130## # translate crowdin sidney_search_49b69b6c:
-msgid "J "Hello little boy, is your mom at home?"
-    J "Hello little boy, is your mom at home?"
+msgid "[J] Hello little boy, is your mom at home?"
+msgstr "[J] Hello little boy, is your mom at home?"
 
 # game/UpdateScript0.05.rpy:1133## # translate crowdin sidney_search_63899ea1:
 msgid "{i}\"A few minutes earlier.\"{/i}"
@@ -1407,8 +1407,8 @@ msgid "ST "{i}Shit! That's probably them. I've got to really hurry and get my cl
     ST "{i}Shit! That's probably them. I've got to really hurry and get my clubbing outfit on.{/i}"
 
 # game/UpdateScript0.05.rpy:1168## # translate crowdin sidney_search_49b69b6c_1:
-msgid "J "Hello little boy, is your mom at home?"
-    J "Hello little boy, is your mom at home?"
+msgid "[J] Hello little boy, is your mom at home?"
+msgstr "[J] Hello little boy, is your mom at home?"
 
 # game/UpdateScript0.05.rpy:1169## # translate crowdin sidney_search_907e3218:
 msgid "[RT] {i}He knows I'm an adult by now. What an asshole.{/i}"
@@ -1475,24 +1475,24 @@ msgid "[M] What? No that can't be. Let me come help you look for it."
 msgstr "[M] What? No that can't be. Let me come help you look for it."
 
 # game/UpdateScript0.05.rpy:1199## # translate crowdin sidney_search_e9f77b15:
-msgid "J "I'm sorry [mom_name], but we aren't going to just hang around at your house until you find where your son Ron misplaced his cash."
-    J "I'm sorry [mom_name], but we aren't going to just hang around at your house until you find where your son Ron misplaced his cash."
+msgid "[J] I'm sorry [mom_name], but we aren't going to just hang around at your house until you find where your son Ron misplaced his cash."
+msgstr "[J] I'm sorry [mom_name], but we aren't going to just hang around at your house until you find where your son Ron misplaced his cash."
 
 # game/UpdateScript0.05.rpy:1200## # translate crowdin sidney_search_4189a79f:
 msgid "[R] My name's [ryan], actually."
 msgstr "[R] My name's [ryan], actually."
 
 # game/UpdateScript0.05.rpy:1201## # translate crowdin sidney_search_eeddfe87:
-msgid "J "So either you've got it, or you don't."
-    J "So either you've got it, or you don't."
+msgid "[J] So either you've got it, or you don't."
+msgstr "[J] So either you've got it, or you don't."
 
 # game/UpdateScript0.05.rpy:1204## # translate crowdin sidney_search_5f829f6c:
-msgid "J "And it looks like you don't got it."
-    J "And it looks like you don't got it."
+msgid "[J] And it looks like you don't got it."
+msgstr "[J] And it looks like you don't got it."
 
 # game/UpdateScript0.05.rpy:1205## # translate crowdin sidney_search_6428a2de:
-msgid "J "So [mom_name], Why don't we go ahead and jump in the car."
-    J "So [mom_name], Why don't we go ahead and jump in the car."
+msgid "[J] So [mom_name], Why don't we go ahead and jump in the car."
+msgstr "[J] So [mom_name], Why don't we go ahead and jump in the car."
 
 # game/UpdateScript0.05.rpy:1206## # translate crowdin sidney_search_3f6e100a:
 msgid "[R] I'm so sorry Mom! I really have it. I just don't have a clue where it is right now."
@@ -1535,8 +1535,8 @@ msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
 msgstr "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1221## # translate crowdin sidney_search_5291e93d:
-msgid "J "Ok, Let's get on our way."
-    J "Ok, Let's get on our way."
+msgid "[J] Ok, Let's get on our way."
+msgstr "[J] Ok, Let's get on our way."
 
 # game/UpdateScript0.05.rpy:1224## # translate crowdin sidney_search_bb64a15e:
 msgid "[RT] {i}There she goes off to the club.{/i}"
@@ -1639,44 +1639,44 @@ msgid "ST "{i}I think it was that school board member that Mom hates. I think hi
     ST "{i}I think it was that school board member that Mom hates. I think his name is Bill, or Will Tylor, or something.{/i}"
 
 # game/UpdateScript0.05.rpy:1275## # translate crowdin sidney_search_9b66c3b0:
-msgid "J "Well, hello there young lady."
-    J "Well, hello there young lady."
+msgid "[J] Well, hello there young lady."
+msgstr "[J] Well, hello there young lady."
 
 # game/UpdateScript0.05.rpy:1276## # translate crowdin sidney_search_0aad4e90:
 msgid "S "Oh shit!.... You scared me."
     S "Oh shit!.... You scared me."
 
 # game/UpdateScript0.05.rpy:1277## # translate crowdin sidney_search_dd39d110:
-msgid "J "I'm so sorry, allow me to introduce myself."
-    J "I'm so sorry, allow me to introduce myself."
+msgid "[J] I'm so sorry, allow me to introduce myself."
+msgstr "[J] I'm so sorry, allow me to introduce myself."
 
 # game/UpdateScript0.05.rpy:1280## # translate crowdin sidney_search_ebea7511:
-msgid "J "My name is Joey DeCapo."
-    J "My name is Joey DeCapo."
+msgid "[J] My name is Joey DeCapo."
+msgstr "[J] My name is Joey DeCapo."
 
 # game/UpdateScript0.05.rpy:1281## # translate crowdin sidney_search_c5a58c93:
-msgid "J "And you must be [mom_name]'s oldest.... Sidney.... I think?"
-    J "And you must be [mom_name]'s oldest.... Sidney.... I think?"
+msgid "[J] And you must be [mom_name]'s oldest.... Sidney.... I think?"
+msgstr "[J] And you must be [mom_name]'s oldest.... Sidney.... I think?"
 
 # game/UpdateScript0.05.rpy:1282## # translate crowdin sidney_search_171494c7:
 msgid "S "Yes.... but how did you?...."
     S "Yes.... but how did you?...."
 
 # game/UpdateScript0.05.rpy:1283## # translate crowdin sidney_search_74d6ad58:
-msgid "J "I pay a lot of people a lot of money to make sure I know everything about everyone of interest to me."
-    J "I pay a lot of people a lot of money to make sure I know everything about everyone of interest to me."
+msgid "[J] I pay a lot of people a lot of money to make sure I know everything about everyone of interest to me."
+msgstr "[J] I pay a lot of people a lot of money to make sure I know everything about everyone of interest to me."
 
 # game/UpdateScript0.05.rpy:1284## # translate crowdin sidney_search_1eaae61d:
-msgid "J "And your family has been very interesting this last little while."
-    J "And your family has been very interesting this last little while."
+msgid "[J] And your family has been very interesting this last little while."
+msgstr "[J] And your family has been very interesting this last little while."
 
 # game/UpdateScript0.05.rpy:1287## # translate crowdin sidney_search_d15e5051:
-msgid "J "But I must say that you are much prettier in person."
-    J "But I must say that you are much prettier in person."
+msgid "[J] But I must say that you are much prettier in person."
+msgstr "[J] But I must say that you are much prettier in person."
 
 # game/UpdateScript0.05.rpy:1288## # translate crowdin sidney_search_396e3966:
-msgid "J "You don't look very much like your mother. Maybe you take after your dad's side of the family?"
-    J "You don't look very much like your mother. Maybe you take after your dad's side of the family?"
+msgid "[J] You don't look very much like your mother. Maybe you take after your dad's side of the family?"
+msgstr "[J] You don't look very much like your mother. Maybe you take after your dad's side of the family?"
 
 # game/UpdateScript0.05.rpy:1291## # translate crowdin sidney_search_5841f3ee:
 msgid "S "Uhhhh.... Thank you?"
@@ -1687,164 +1687,164 @@ msgid "S "And you're the guy we have to pay every week to keep our mom out of th
     S "And you're the guy we have to pay every week to keep our mom out of the club?"
 
 # game/UpdateScript0.05.rpy:1293## # translate crowdin sidney_search_3ade86f6:
-msgid "J "A very regrettable situation, but in life, all debts must be paid."
-    J "A very regrettable situation, but in life, all debts must be paid."
+msgid "[J] A very regrettable situation, but in life, all debts must be paid."
+msgstr "[J] A very regrettable situation, but in life, all debts must be paid."
 
 # game/UpdateScript0.05.rpy:1294## # translate crowdin sidney_search_831eadab:
 msgid "S "But Dad took out the loan, not us."
     S "But Dad took out the loan, not us."
 
 # game/UpdateScript0.05.rpy:1295## # translate crowdin sidney_search_c41b1e11:
-msgid "J "And when he took it out, we made sure it was very clear to him that the debt would fall on his family if anything happened to him."
-    J "And when he took it out, we made sure it was very clear to him that the debt would fall on his family if anything happened to him."
+msgid "[J] And when he took it out, we made sure it was very clear to him that the debt would fall on his family if anything happened to him."
+msgstr "[J] And when he took it out, we made sure it was very clear to him that the debt would fall on his family if anything happened to him."
 
 # game/UpdateScript0.05.rpy:1296## # translate crowdin sidney_search_9ee2623f:
-msgid "J "So, he knew the risks."
-    J "So, he knew the risks."
+msgid "[J] So, he knew the risks."
+msgstr "[J] So, he knew the risks."
 
 # game/UpdateScript0.05.rpy:1297## # translate crowdin sidney_search_6bd709d8:
 msgid "S "That asshole!"
     S "That asshole!"
 
 # game/UpdateScript0.05.rpy:1298## # translate crowdin sidney_search_20d522cf:
-msgid "J "Haha.... We can arrange for him to stay in prison for as long as you like."
-    J "Haha.... We can arrange for him to stay in prison for as long as you like."
+msgid "[J] Haha.... We can arrange for him to stay in prison for as long as you like."
+msgstr "[J] Haha.... We can arrange for him to stay in prison for as long as you like."
 
 # game/UpdateScript0.05.rpy:1299## # translate crowdin sidney_search_7adea004:
 msgid "S "We might just take you up on that offer."
     S "We might just take you up on that offer."
 
 # game/UpdateScript0.05.rpy:1300## # translate crowdin sidney_search_73fc5dd0:
-msgid "J "But where are my manners. Let's go sit down and have a drink."
-    J "But where are my manners. Let's go sit down and have a drink."
+msgid "[J] But where are my manners. Let's go sit down and have a drink."
+msgstr "[J] But where are my manners. Let's go sit down and have a drink."
 
 # game/UpdateScript0.05.rpy:1301## # translate crowdin sidney_search_d6fd8077:
-msgid "J "Come.... Follow me."
-    J "Come.... Follow me."
+msgid "[J] Come.... Follow me."
+msgstr "[J] Come.... Follow me."
 
 # game/UpdateScript0.05.rpy:1304## # translate crowdin sidney_search_2c023f61:
-msgid "J "This is the pole room, and this is our very lovely dancer Emma."
-    J "This is the pole room, and this is our very lovely dancer Emma."
+msgid "[J] This is the pole room, and this is our very lovely dancer Emma."
+msgstr "[J] This is the pole room, and this is our very lovely dancer Emma."
 
 # game/UpdateScript0.05.rpy:1305## # translate crowdin sidney_search_32d57bb1:
 msgid "S "She's very beautiful."
     S "She's very beautiful."
 
 # game/UpdateScript0.05.rpy:1306## # translate crowdin sidney_search_0a655488:
-msgid "J "Yes, she's quite popular, but not nearly as popular as your mother."
-    J "Yes, she's quite popular, but not nearly as popular as your mother."
+msgid "[J] Yes, she's quite popular, but not nearly as popular as your mother."
+msgstr "[J] Yes, she's quite popular, but not nearly as popular as your mother."
 
 # game/UpdateScript0.05.rpy:1307## # translate crowdin sidney_search_74b4f012:
 msgid "S "Oh God!.... She's here isn't she?"
     S "Oh God!.... She's here isn't she?"
 
 # game/UpdateScript0.05.rpy:1308## # translate crowdin sidney_search_4d2f3e20:
-msgid "J "Haha.... yes, she's in the dressing room, she goes on after the next dancer."
-    J "Haha.... yes, she's in the dressing room, she goes on after the next dancer."
+msgid "[J] Haha.... yes, she's in the dressing room, she goes on after the next dancer."
+msgstr "[J] Haha.... yes, she's in the dressing room, she goes on after the next dancer."
 
 # game/UpdateScript0.05.rpy:1309## # translate crowdin sidney_search_0bfd4db0:
-msgid "J "Shall we take a seat?"
-    J "Shall we take a seat?"
+msgid "[J] Shall we take a seat?"
+msgstr "[J] Shall we take a seat?"
 
 # game/UpdateScript0.05.rpy:1312## # translate crowdin sidney_search_aca9c857:
-msgid "J "I want you to know that I feel very sorry for your family's situation."
-    J "I want you to know that I feel very sorry for your family's situation."
+msgid "[J] I want you to know that I feel very sorry for your family's situation."
+msgstr "[J] I want you to know that I feel very sorry for your family's situation."
 
 # game/UpdateScript0.05.rpy:1313## # translate crowdin sidney_search_f922f6a9:
-msgid "J "And I know I'm in an awkward position to help you all out, being your creditor and all."
-    J "And I know I'm in an awkward position to help you all out, being your creditor and all."
+msgid "[J] And I know I'm in an awkward position to help you all out, being your creditor and all."
+msgstr "[J] And I know I'm in an awkward position to help you all out, being your creditor and all."
 
 # game/UpdateScript0.05.rpy:1314## # translate crowdin sidney_search_74174243:
-msgid "J "But I have a way you can help your family make the monthly payments, and maybe get you some spending money besides."
-    J "But I have a way you can help your family make the monthly payments, and maybe get you some spending money besides."
+msgid "[J] But I have a way you can help your family make the monthly payments, and maybe get you some spending money besides."
+msgstr "[J] But I have a way you can help your family make the monthly payments, and maybe get you some spending money besides."
 
 # game/UpdateScript0.05.rpy:1315## # translate crowdin sidney_search_b97cb517:
-msgid "J "I heard how the FBI cut out your discretionary spending."
-    J "I heard how the FBI cut out your discretionary spending."
+msgid "[J] I heard how the FBI cut out your discretionary spending."
+msgstr "[J] I heard how the FBI cut out your discretionary spending."
 
 # game/UpdateScript0.05.rpy:1316## # translate crowdin sidney_search_8e00f764:
 msgid "S "I'm not becomming a stripper, if that's what you're thinking."
     S "I'm not becomming a stripper, if that's what you're thinking."
 
 # game/UpdateScript0.05.rpy:1317## # translate crowdin sidney_search_1f739f57:
-msgid "J "Haha.... No of course not! We wouldn't hire you even if you wanted to."
-    J "Haha.... No of course not! We wouldn't hire you even if you wanted to."
+msgid "[J] Haha.... No of course not! We wouldn't hire you even if you wanted to."
+msgstr "[J] Haha.... No of course not! We wouldn't hire you even if you wanted to."
 
 # game/UpdateScript0.05.rpy:1318## # translate crowdin sidney_search_2edab44f:
 msgid "S "What?.... Why not?"
     S "What?.... Why not?"
 
 # game/UpdateScript0.05.rpy:1319## # translate crowdin sidney_search_b814872c:
-msgid "J "You don't have the dancing experience like your mother does."
-    J "You don't have the dancing experience like your mother does."
+msgid "[J] You don't have the dancing experience like your mother does."
+msgstr "[J] You don't have the dancing experience like your mother does."
 
 # game/UpdateScript0.05.rpy:1320## # translate crowdin sidney_search_7b7b1433:
-msgid "J "But I do have another decent paying job that doesn't take any experience to get into, and only requires a pretty face."
-    J "But I do have another decent paying job that doesn't take any experience to get into, and only requires a pretty face."
+msgid "[J] But I do have another decent paying job that doesn't take any experience to get into, and only requires a pretty face."
+msgstr "[J] But I do have another decent paying job that doesn't take any experience to get into, and only requires a pretty face."
 
 # game/UpdateScript0.05.rpy:1321## # translate crowdin sidney_search_9560318f:
 msgid "S "What would that be?"
     S "What would that be?"
 
 # game/UpdateScript0.05.rpy:1322## # translate crowdin sidney_search_64a44913:
-msgid "J "Take a look over there."
-    J "Take a look over there."
+msgid "[J] Take a look over there."
+msgstr "[J] Take a look over there."
 
 # game/UpdateScript0.05.rpy:1325## # translate crowdin sidney_search_846300ec:
-msgid "J "Do you see that girl in the tights and blue shirt serving drinks to the customers?"
-    J "Do you see that girl in the tights and blue shirt serving drinks to the customers?"
+msgid "[J] Do you see that girl in the tights and blue shirt serving drinks to the customers?"
+msgstr "[J] Do you see that girl in the tights and blue shirt serving drinks to the customers?"
 
 # game/UpdateScript0.05.rpy:1326## # translate crowdin sidney_search_afd5cbd9:
 msgid "S "Yeah."
     S "Yeah."
 
 # game/UpdateScript0.05.rpy:1327## # translate crowdin sidney_search_017c4b06:
-msgid "J "Well, she wants to be a bartender, so I'm letting her help tend the bar whenever things get a little slower."
-    J "Well, she wants to be a bartender, so I'm letting her help tend the bar whenever things get a little slower."
+msgid "[J] Well, she wants to be a bartender, so I'm letting her help tend the bar whenever things get a little slower."
+msgstr "[J] Well, she wants to be a bartender, so I'm letting her help tend the bar whenever things get a little slower."
 
 # game/UpdateScript0.05.rpy:1328## # translate crowdin sidney_search_152710b1:
-msgid "J "So, she needs some help filling her job while she's practicing her drink mixing skills."
-    J "So, she needs some help filling her job while she's practicing her drink mixing skills."
+msgid "[J] So, she needs some help filling her job while she's practicing her drink mixing skills."
+msgstr "[J] So, she needs some help filling her job while she's practicing her drink mixing skills."
 
 # game/UpdateScript0.05.rpy:1329## # translate crowdin sidney_search_7d1a995d:
-msgid "J "Let me call her over here so you can meet her."
-    J "Let me call her over here so you can meet her."
+msgid "[J] Let me call her over here so you can meet her."
+msgstr "[J] Let me call her over here so you can meet her."
 
 # game/UpdateScript0.05.rpy:1332## # translate crowdin sidney_search_68717c9c:
-msgid "J "HEY! Armani! Can I get a couple drinks?"
-    J "HEY! Armani! Can I get a couple drinks?"
+msgid "[J] HEY! Armani! Can I get a couple drinks?"
+msgstr "[J] HEY! Armani! Can I get a couple drinks?"
 
 # game/UpdateScript0.05.rpy:1335## # translate crowdin sidney_search_2abdd7c4:
 msgid "A "Hey Uncle! Do you want the usual?"
     A "Hey Uncle! Do you want the usual?"
 
 # game/UpdateScript0.05.rpy:1336## # translate crowdin sidney_search_f2eb0d18:
-msgid "J "Yes darling!, and get Sidney here whatever she wants."
-    J "Yes darling!, and get Sidney here whatever she wants."
+msgid "[J] Yes darling!, and get Sidney here whatever she wants."
+msgstr "[J] Yes darling!, and get Sidney here whatever she wants."
 
 # game/UpdateScript0.05.rpy:1337## # translate crowdin sidney_search_ad752753:
 msgid "S "I don't want anything. I'm actually not old enough to buy a drink."
     S "I don't want anything. I'm actually not old enough to buy a drink."
 
 # game/UpdateScript0.05.rpy:1338## # translate crowdin sidney_search_0c2676df:
-msgid "J "Yeah, well regular rules don't apply here."
-    J "Yeah, well regular rules don't apply here."
+msgid "[J] Yeah, well regular rules don't apply here."
+msgstr "[J] Yeah, well regular rules don't apply here."
 
 # game/UpdateScript0.05.rpy:1339## # translate crowdin sidney_search_9db52021:
 msgid "S "I'm really ok."
     S "I'm really ok."
 
 # game/UpdateScript0.05.rpy:1340## # translate crowdin sidney_search_8b77dee6:
-msgid "J "Suit yourself."
-    J "Suit yourself."
+msgid "[J] Suit yourself."
+msgstr "[J] Suit yourself."
 
 # game/UpdateScript0.05.rpy:1341## # translate crowdin sidney_search_89aa9450:
-msgid "J "Armani, this is Sidney.... She's thinking about coming here sometimes to help you serve drinks."
-    J "Armani, this is Sidney.... She's thinking about coming here sometimes to help you serve drinks."
+msgid "[J] Armani, this is Sidney.... She's thinking about coming here sometimes to help you serve drinks."
+msgstr "[J] Armani, this is Sidney.... She's thinking about coming here sometimes to help you serve drinks."
 
 # game/UpdateScript0.05.rpy:1342## # translate crowdin sidney_search_c94a1eae:
-msgid "J "Sidney, this is my neice Armani."
-    J "Sidney, this is my neice Armani."
+msgid "[J] Sidney, this is my neice Armani."
+msgstr "[J] Sidney, this is my neice Armani."
 
 # game/UpdateScript0.05.rpy:1345## # translate crowdin sidney_search_8a2d51b0:
 msgid "A "Aren't you a pretty thing?"
@@ -1855,8 +1855,8 @@ msgid "S "I wasn't really thinking about serving drinks...."
     S "I wasn't really thinking about serving drinks...."
 
 # game/UpdateScript0.05.rpy:1347## # translate crowdin sidney_search_ebabb98d:
-msgid "J "Not yet, you mean."
-    J "Not yet, you mean."
+msgid "[J] Not yet, you mean."
+msgstr "[J] Not yet, you mean."
 
 # game/UpdateScript0.05.rpy:1348## # translate crowdin sidney_search_b9d930f7:
 msgid "A "Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
@@ -1867,12 +1867,12 @@ msgid "A "So, think about it."
     A "So, think about it."
 
 # game/UpdateScript0.05.rpy:1352## # translate crowdin sidney_search_9b656435:
-msgid "J "And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
-    J "And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
+msgid "[J] And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
+msgstr "[J] And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
 
 # game/UpdateScript0.05.rpy:1353## # translate crowdin sidney_search_8d1c0bb0:
-msgid "J "Other than that, you could come in any day you want. Oh.... except Saturdays, since your mother might be here."
-    J "Other than that, you could come in any day you want. Oh.... except Saturdays, since your mother might be here."
+msgid "[J] Other than that, you could come in any day you want. Oh.... except Saturdays, since your mother might be here."
+msgstr "[J] Other than that, you could come in any day you want. Oh.... except Saturdays, since your mother might be here."
 
 # game/UpdateScript0.05.rpy:1354## # translate crowdin sidney_search_6196b8fb:
 msgid "ST "{i}That doesn't sound bad at all.{/i}"
@@ -1887,24 +1887,24 @@ msgid "S "That's a very tempting offer."
     S "That's a very tempting offer."
 
 # game/UpdateScript0.05.rpy:1357## # translate crowdin sidney_search_7815ca65:
-msgid "J "Well, then why don't you run along with Armani and she can show you the ropes. You can keep any tips you make tonight."
-    J "Well, then why don't you run along with Armani and she can show you the ropes. You can keep any tips you make tonight."
+msgid "[J] Well, then why don't you run along with Armani and she can show you the ropes. You can keep any tips you make tonight."
+msgstr "[J] Well, then why don't you run along with Armani and she can show you the ropes. You can keep any tips you make tonight."
 
 # game/UpdateScript0.05.rpy:1358## # translate crowdin sidney_search_55f2407f:
 msgid "S "Ok.... Thank you."
     S "Ok.... Thank you."
 
 # game/UpdateScript0.05.rpy:1361## # translate crowdin sidney_search_aa726d46:
-msgid "J "Oh.... and Sidney! I almost forgot."
-    J "Oh.... and Sidney! I almost forgot."
+msgid "[J] Oh.... and Sidney! I almost forgot."
+msgstr "[J] Oh.... and Sidney! I almost forgot."
 
 # game/UpdateScript0.05.rpy:1362## # translate crowdin sidney_search_e6f0339e:
-msgid "J "It would be best if your mother didn't know that you were here. If you are inclined to peek like your brother does, just don't get caught."
-    J "It would be best if your mother didn't know that you were here. If you are inclined to peek like your brother does, just don't get caught."
+msgid "[J] It would be best if your mother didn't know that you were here. If you are inclined to peek like your brother does, just don't get caught."
+msgstr "[J] It would be best if your mother didn't know that you were here. If you are inclined to peek like your brother does, just don't get caught."
 
 # game/UpdateScript0.05.rpy:1363## # translate crowdin sidney_search_804412d2:
-msgid "J "I don't even think my best \"Made Man\" could stop her from murdering me, if she knew you were here."
-    J "I don't even think my best \"Made Man\" could stop her from murdering me, if she knew you were here."
+msgid "[J] I don't even think my best \"Made Man\" could stop her from murdering me, if she knew you were here."
+msgstr "[J] I don't even think my best \"Made Man\" could stop her from murdering me, if she knew you were here."
 
 # game/UpdateScript0.05.rpy:1364## # translate crowdin sidney_search_8d3ec460:
 msgid "ST "{i}Does [ryan] regularly peek at Mom when she's stripping?{/i}"
@@ -4507,8 +4507,8 @@ msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 msgstr "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 
 # game/UpdateScript0.05.rpy:2704## # translate crowdin reward_for_payment_49b69b6c:
-msgid "J "Hello little boy, is your mom at home?"
-    J "Hello little boy, is your mom at home?"
+msgid "[J] Hello little boy, is your mom at home?"
+msgstr "[J] Hello little boy, is your mom at home?"
 
 # game/UpdateScript0.05.rpy:2705## # translate crowdin reward_for_payment_9b083f3b:
 msgid "[RT] {i}Little boy, what an asshole!{/i}"
@@ -4551,16 +4551,16 @@ msgid "[M] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
 msgstr "[M] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
 
 # game/UpdateScript0.05.rpy:2725## # translate crowdin reward_for_payment_2513f28b:
-msgid "J "Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
-    J "Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
+msgid "[J] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
+msgstr "[J] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
 
 # game/UpdateScript0.05.rpy:2726## # translate crowdin reward_for_payment_9177a126:
-msgid "J "But I enjoy your company more than I enjoy the money."
-    J "But I enjoy your company more than I enjoy the money."
+msgid "[J] But I enjoy your company more than I enjoy the money."
+msgstr "[J] But I enjoy your company more than I enjoy the money."
 
 # game/UpdateScript0.05.rpy:2727## # translate crowdin reward_for_payment_d647bd82:
-msgid "J "We'll see you next week."
-    J "We'll see you next week."
+msgid "[J] We'll see you next week."
+msgstr "[J] We'll see you next week."
 
 # game/UpdateScript0.05.rpy:2730## # translate crowdin reward_for_payment_59d44aa6:
 msgid "[M] Oh, thank you! Thank you! Thank you!!"

@@ -7135,8 +7135,8 @@ msgid "G "Hey, Boss?"
     G "Hey, Boss?"
 
 # game/script.rpy:8087## # translate crowdin dinnerfirst_5725a2e1:
-msgid "J "What is it?"
-    J "What is it?"
+msgid "[J] What is it?"
+msgstr "[J] What is it?"
 
 # game/script.rpy:8088## # translate crowdin dinnerfirst_89882103:
 msgid "G "There's some twerp following us on a little scooter."
@@ -7155,24 +7155,24 @@ msgid "[M] Oh, please do! I don't want him to see where you're making me work!"
 msgstr "[M] Oh, please do! I don't want him to see where you're making me work!"
 
 # game/script.rpy:8092## # translate crowdin dinnerfirst_8c32514f:
-msgid "J "No! Let him follow us. I want the little bastard to know what happens to his mom when they don't pay us what they owes us."
-    J "No! Let him follow us. I want the little bastard to know what happens to his mom when they don't pay us what they owes us."
+msgid "[J] No! Let him follow us. I want the little bastard to know what happens to his mom when they don't pay us what they owes us."
+msgstr "[J] No! Let him follow us. I want the little bastard to know what happens to his mom when they don't pay us what they owes us."
 
 # game/script.rpy:8093## # translate crowdin dinnerfirst_a21be36f:
 msgid "[M] No! Please!"
 msgstr "[M] No! Please!"
 
 # game/script.rpy:8094## # translate crowdin dinnerfirst_af1c0c94:
-msgid "J "Listen! You don't get to make any demands!{p}You're lucky I don't turn around and have my driver run him over."
-    J "Listen! You don't get to make any demands!{p}You're lucky I don't turn around and have my driver run him over."
+msgid "[J] Listen! You don't get to make any demands!{p}You're lucky I don't turn around and have my driver run him over."
+msgstr "[J] Listen! You don't get to make any demands!{p}You're lucky I don't turn around and have my driver run him over."
 
 # game/script.rpy:8095## # translate crowdin dinnerfirst_b27990a6:
-msgid "J "So just sit there quietly and prepare yourself mentally for what it's going to take to earn the rest of what you owe me."
-    J "So just sit there quietly and prepare yourself mentally for what it's going to take to earn the rest of what you owe me."
+msgid "[J] So just sit there quietly and prepare yourself mentally for what it's going to take to earn the rest of what you owe me."
+msgstr "[J] So just sit there quietly and prepare yourself mentally for what it's going to take to earn the rest of what you owe me."
 
 # game/script.rpy:8096## # translate crowdin dinnerfirst_e7ba0a10:
-msgid "J "You had better be as good at this job as you say you are, you've got a lot of money you have to make tonight!"
-    J "You had better be as good at this job as you say you are, you've got a lot of money you have to make tonight!"
+msgid "[J] You had better be as good at this job as you say you are, you've got a lot of money you have to make tonight!"
+msgstr "[J] You had better be as good at this job as you say you are, you've got a lot of money you have to make tonight!"
 
 # game/script.rpy:8101## # translate crowdin dinnerfirst_e75bdb21:
 msgid "[M] Well, I hope you're happy!?!"
@@ -7191,16 +7191,16 @@ msgid "[MT] {i}I'll just tell him I'm serving drinks.... or something like that.
 msgstr "[MT] {i}I'll just tell him I'm serving drinks.... or something like that.... {/i}"
 
 # game/script.rpy:8105## # translate crowdin dinnerfirst_5931954f:
-msgid "J "Yeah, yeah.... give me a break and just go get ready, will yah?"
-    J "Yeah, yeah.... give me a break and just go get ready, will yah?"
+msgid "[J] Yeah, yeah.... give me a break and just go get ready, will yah?"
+msgstr "[J] Yeah, yeah.... give me a break and just go get ready, will yah?"
 
 # game/script.rpy:8108## # translate crowdin dinnerfirst_4feef8c3:
-msgid "J "If the kid wants to come in, go ahead and let 'im."
-    J "If the kid wants to come in, go ahead and let 'im."
+msgid "[J] If the kid wants to come in, go ahead and let 'im."
+msgstr "[J] If the kid wants to come in, go ahead and let 'im."
 
 # game/script.rpy:8109## # translate crowdin dinnerfirst_32215ace:
-msgid "J "He can have a look around and see if he finds anything interesting."
-    J "He can have a look around and see if he finds anything interesting."
+msgid "[J] He can have a look around and see if he finds anything interesting."
+msgstr "[J] He can have a look around and see if he finds anything interesting."
 
 # game/script.rpy:8110## # translate crowdin dinnerfirst_0040b991:
 msgid "G "Ok, Boss!"
@@ -7571,8 +7571,8 @@ msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 msgstr "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
 
 # game/script.rpy:8310## # translate crowdin collectingpayment_49b69b6c:
-msgid "J "Hello little boy, is your mom at home?"
-    J "Hello little boy, is your mom at home?"
+msgid "[J] Hello little boy, is your mom at home?"
+msgstr "[J] Hello little boy, is your mom at home?"
 
 # game/script.rpy:8311## # translate crowdin collectingpayment_9b083f3b:
 msgid "[RT] {i}Little boy, what an asshole!{/i}"
@@ -7615,16 +7615,16 @@ msgid "[M] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
 msgstr "[M] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
 
 # game/script.rpy:8331## # translate crowdin collectingpayment_2513f28b:
-msgid "J "Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
-    J "Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
+msgid "[J] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
+msgstr "[J] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
 
 # game/script.rpy:8332## # translate crowdin collectingpayment_9177a126:
-msgid "J "But I enjoy your company more than I enjoy the money."
-    J "But I enjoy your company more than I enjoy the money."
+msgid "[J] But I enjoy your company more than I enjoy the money."
+msgstr "[J] But I enjoy your company more than I enjoy the money."
 
 # game/script.rpy:8333## # translate crowdin collectingpayment_d647bd82:
-msgid "J "We'll see you next week."
-    J "We'll see you next week."
+msgid "[J] We'll see you next week."
+msgstr "[J] We'll see you next week."
 
 # game/script.rpy:8336## # translate crowdin collectingpayment_59d44aa6:
 msgid "[M] Oh, thank you! Thank you! Thank you!!"
