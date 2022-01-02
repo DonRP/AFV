@@ -1,8 +1,7 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
 
 translate crowdin strings:
-
-    # game/Game_screens.rpy:59
+msgid "game/Game_screens.rpy:59
     old " My\nRoom"
     new " My\nRoom"
 

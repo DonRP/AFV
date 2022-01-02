@@ -1,8 +1,7 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
 
 translate crowdin strings:
-
-    # game/ForAndroid.rpy:36
+msgid "game/ForAndroid.rpy:36
     old "Quick Menu"
     new "Quick Menu"
 

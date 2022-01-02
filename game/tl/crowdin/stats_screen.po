@@ -1,8 +1,7 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48
 
 translate crowdin strings:
-
-    # game/stats_screen.rpy:28
+msgid "game/stats_screen.rpy:28
     old "{color=#42f456}Mom's:{/color}"
     new "{color=#42f456}Mom's:{/color}"
 
