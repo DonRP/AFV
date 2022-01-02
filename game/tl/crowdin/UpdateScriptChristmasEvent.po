@@ -6982,11 +6982,11 @@ msgid "game/UpdateScriptChristmasEvent.rpy:6
 msgid "Ghost of XXX-mas Past"
 msgstr "Ghost of XXX-mas Past"
 
-    # game/UpdateScriptChristmasEvent.rpy:7
+#    # game/UpdateScriptChristmasEvent.rpy:7
 msgid "Ghost of XXX-mas Present"
 msgstr "Ghost of XXX-mas Present"
 
-    # game/UpdateScriptChristmasEvent.rpy:8
+#    # game/UpdateScriptChristmasEvent.rpy:8
 msgid "Ghost of XXX-mas Future"
 msgstr "Ghost of XXX-mas Future"
 

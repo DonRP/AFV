@@ -170,15 +170,15 @@ msgid "game/images/interface_images/Roulette/RouletteGame.rpy:235
 msgid "Croupier"
 msgstr "Croupier"
 
-    # game/images/interface_images/Roulette/RouletteGame.rpy:322
+#    # game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid "Do you want to play the Roulette?"
 msgstr "Do you want to play the Roulette?"
 
-    # game/images/interface_images/Roulette/RouletteGame.rpy:340
+#    # game/images/interface_images/Roulette/RouletteGame.rpy:340
 msgid "What type of game do you want to play?"
 msgstr "What type of game do you want to play?"
 
-    # game/images/interface_images/Roulette/RouletteGame.rpy:521
+#    # game/images/interface_images/Roulette/RouletteGame.rpy:521
 msgid "Game type: [betType]\nYou bet on: [playerPiked]"
 msgstr "Game type: [betType]\nYou bet on: [playerPiked]"
 

@@ -42,35 +42,35 @@ msgid "game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid "Dealer"
 msgstr "Dealer"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:236
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
 msgstr "Place your bets!"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:244
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:244
 msgid "Do you want to bet $100 and start the game?"
 msgstr "Do you want to bet $100 and start the game?"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:252
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:252
 msgid "Do you want to bet $500 and start the game?"
 msgstr "Do you want to bet $500 and start the game?"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:260
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:260
 msgid "Do you want to bet $1000 and start the game?"
 msgstr "Do you want to bet $1000 and start the game?"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:268
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:268
 msgid "Do you want to leave the BlackJack game?"
 msgstr "Do you want to leave the BlackJack game?"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:276
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgstr "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:321
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid "Player cards: [playerScore]"
 msgstr "Player cards: [playerScore]"
 
-    # game/images/interface_images/blackjack/blackjack-DS.rpy:480
+#    # game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid "Do you want to play again?"
 msgstr "Do you want to play again?"
 

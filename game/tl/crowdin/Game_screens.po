@@ -3,27 +3,27 @@ msgid "game/Game_screens.rpy:59
 msgid " My\nRoom"
 msgstr " My\nRoom"
 
-    # game/Game_screens.rpy:77
+#    # game/Game_screens.rpy:77
 msgid "Bath"
 msgstr "Bath"
 
-    # game/Game_screens.rpy:110
+#    # game/Game_screens.rpy:110
 msgid "City"
 msgstr "City"
 
-    # game/Game_screens.rpy:125
+#    # game/Game_screens.rpy:125
 msgid "Hallway"
 msgstr "Hallway"
 
-    # game/Game_screens.rpy:134
+#    # game/Game_screens.rpy:134
 msgid "Class"
 msgstr "Class"
 
-    # game/Game_screens.rpy:152
+#    # game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 msgstr "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 
-    # game/Game_screens.rpy:208
+#    # game/Game_screens.rpy:208
 msgid "Campaign\n   HQ"
 msgstr "Campaign\n   HQ"
 

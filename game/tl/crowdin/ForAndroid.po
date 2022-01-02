@@ -3,15 +3,15 @@ msgid "game/ForAndroid.rpy:36
 msgid "Quick Menu"
 msgstr "Quick Menu"
 
-    # game/ForAndroid.rpy:70
+#    # game/ForAndroid.rpy:70
 msgid "Menu"
 msgstr "Menu"
 
-    # game/ForAndroid.rpy:112
+#    # game/ForAndroid.rpy:112
 msgid "Console"
 msgstr "Console"
 
-    # game/ForAndroid.rpy:114
+#    # game/ForAndroid.rpy:114
 msgid "Close quick menu!"
 msgstr "Close quick menu!"
 

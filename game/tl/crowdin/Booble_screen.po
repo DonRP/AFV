@@ -10,7 +10,7 @@ msgid "game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 msgstr "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
-    # game/Booble_screen.rpy:39
+#    # game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 msgstr "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 
