@@ -8,9 +8,9 @@ msgid "RT "{i}What should I do today on the internet?{/i}"
 ## # translate crowdin strings:
 msgid "game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-    new "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
+msgstr "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
     # game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
-    new "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
+msgstr "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 

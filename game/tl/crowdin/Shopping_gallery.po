@@ -600,65 +600,65 @@ msgid "RT "{i}Not right now.{/i}"
 ## # translate crowdin strings:
 msgid "game/Shopping_gallery.rpy:323
 msgid "Buy chocolate"
-    new "Buy chocolate"
+msgstr "Buy chocolate"
 
     # game/Shopping_gallery.rpy:323
 msgid "Don't buy"
-    new "Don't buy"
+msgstr "Don't buy"
 
     # game/Shopping_gallery.rpy:341
 msgid "Buy giftcard"
-    new "Buy giftcard"
+msgstr "Buy giftcard"
 
     # game/Shopping_gallery.rpy:358
 msgid "Buy Flowers"
-    new "Buy Flowers"
+msgstr "Buy Flowers"
 
     # game/Shopping_gallery.rpy:374
 msgid "Buy melatonin."
-    new "Buy melatonin."
+msgstr "Buy melatonin."
 
     # game/Shopping_gallery.rpy:400
 msgid "Buy spycam."
-    new "Buy spycam."
+msgstr "Buy spycam."
 
     # game/Shopping_gallery.rpy:417
 msgid "Buy green screen."
-    new "Buy green screen."
+msgstr "Buy green screen."
 
     # game/Shopping_gallery.rpy:435
 msgid "Buy pro lights."
-    new "Buy pro lights."
+msgstr "Buy pro lights."
 
     # game/Shopping_gallery.rpy:453
 msgid "Buy DSLR camera."
-    new "Buy DSLR camera."
+msgstr "Buy DSLR camera."
 
     # game/Shopping_gallery.rpy:470
 msgid "Buy camera accessory."
-    new "Buy camera accessory."
+msgstr "Buy camera accessory."
 
     # game/Shopping_gallery.rpy:589
 msgid "Buy camera accessory"
-    new "Buy camera accessory"
+msgstr "Buy camera accessory"
 
     # game/Shopping_gallery.rpy:607
 msgid "Buy bikini"
-    new "Buy bikini"
+msgstr "Buy bikini"
 
     # game/Shopping_gallery.rpy:628
 msgid "Buy ball gag."
-    new "Buy ball gag."
+msgstr "Buy ball gag."
 
     # game/Shopping_gallery.rpy:651
 msgid "Buy Perry Hotter Book 1."
-    new "Buy Perry Hotter Book 1."
+msgstr "Buy Perry Hotter Book 1."
 
     # game/Shopping_gallery.rpy:674
 msgid "Buy Perry Hotter Book 2."
-    new "Buy Perry Hotter Book 2."
+msgstr "Buy Perry Hotter Book 2."
 
     # game/Shopping_gallery.rpy:697
 msgid "Buy Perry Hotter Book 3."
-    new "Buy Perry Hotter Book 3."
+msgstr "Buy Perry Hotter Book 3."
 

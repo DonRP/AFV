@@ -6980,13 +6980,13 @@ msgid "RT "{i}I do feel pretty tired.{/i}"
 ## # translate crowdin strings:
 msgid "game/UpdateScriptChristmasEvent.rpy:6
 msgid "Ghost of XXX-mas Past"
-    new "Ghost of XXX-mas Past"
+msgstr "Ghost of XXX-mas Past"
 
     # game/UpdateScriptChristmasEvent.rpy:7
 msgid "Ghost of XXX-mas Present"
-    new "Ghost of XXX-mas Present"
+msgstr "Ghost of XXX-mas Present"
 
     # game/UpdateScriptChristmasEvent.rpy:8
 msgid "Ghost of XXX-mas Future"
-    new "Ghost of XXX-mas Future"
+msgstr "Ghost of XXX-mas Future"
 

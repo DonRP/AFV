@@ -1,29 +1,29 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
 msgid "game/Game_screens.rpy:59
 msgid " My\nRoom"
-    new " My\nRoom"
+msgstr " My\nRoom"
 
     # game/Game_screens.rpy:77
 msgid "Bath"
-    new "Bath"
+msgstr "Bath"
 
     # game/Game_screens.rpy:110
 msgid "City"
-    new "City"
+msgstr "City"
 
     # game/Game_screens.rpy:125
 msgid "Hallway"
-    new "Hallway"
+msgstr "Hallway"
 
     # game/Game_screens.rpy:134
 msgid "Class"
-    new "Class"
+msgstr "Class"
 
     # game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
-    new "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+msgstr "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 
     # game/Game_screens.rpy:208
 msgid "Campaign\n   HQ"
-    new "Campaign\n   HQ"
+msgstr "Campaign\n   HQ"
 

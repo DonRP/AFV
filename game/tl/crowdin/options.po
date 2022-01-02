@@ -1,5 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:
 msgid "game/options.rpy:15
 msgid "A Family Venture"
-    new "A Family Venture"
+msgstr "A Family Venture"
 
