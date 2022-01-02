@@ -9215,8 +9215,8 @@ msgid "[MB] I want to thank all of you students for being such a great support t
 msgstr "[MB] I want to thank all of you students for being such a great support to me and the team."
 
 # game/UpdateScript0.07.rpy:6018## # translate crowdin actual_election_1c72bbb1:
-msgid "X "You rule, Matt!"
-    X "You rule, Matt!"
+msgid "[X] You rule, Matt!"
+msgstr "[X] You rule, Matt!"
 
 # game/UpdateScript0.07.rpy:6021## # translate crowdin actual_election_53855cba:
 msgid "[MB] Haha... You too, Chad."
@@ -9271,12 +9271,12 @@ msgid "[R] It's nothing... Now get out there and break a leg!"
 msgstr "[R] It's nothing... Now get out there and break a leg!"
 
 # game/UpdateScript0.07.rpy:6054## # translate crowdin actual_election_1cdba709:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6057## # translate crowdin actual_election_1cdba709_1:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6061## # translate crowdin actual_election_b24cfb9e:
 msgid "[L] Thank you all so much!"
@@ -9295,8 +9295,8 @@ msgid "[L] Now, a lot of you still don't know my name, but know me as..."
 msgstr "[L] Now, a lot of you still don't know my name, but know me as..."
 
 # game/UpdateScript0.07.rpy:6065## # translate crowdin actual_election_bdac101a:
-msgid "X "Go, Cosplay Girl!!"
-    X "Go, Cosplay Girl!!"
+msgid "[X] Go, Cosplay Girl!!"
+msgstr "[X] Go, Cosplay Girl!!"
 
 # game/UpdateScript0.07.rpy:6068## # translate crowdin actual_election_0dd3d734:
 msgid "[L] Haha... yes... Cosplay Girl."
@@ -9311,8 +9311,8 @@ msgid "[L] Make sure you vote for Lauren."
 msgstr "[L] Make sure you vote for Lauren."
 
 # game/UpdateScript0.07.rpy:6071## # translate crowdin actual_election_792fa668:
-msgid "X "Marry me, Lauren!"
-    X "Marry me, Lauren!"
+msgid "[X] Marry me, Lauren!"
+msgstr "[X] Marry me, Lauren!"
 
 # game/UpdateScript0.07.rpy:6074## # translate crowdin actual_election_403f4d23:
 msgid "[L] I just want to thank all of you for your recent support."
@@ -9331,16 +9331,16 @@ msgid "[L] What better way to show me that you've got my back."
 msgstr "[L] What better way to show me that you've got my back."
 
 # game/UpdateScript0.07.rpy:6078## # translate crowdin actual_election_8ab3280a:
-msgid "X "We love you, Lauren!"
-    X "We love you, Lauren!"
+msgid "[X] We love you, Lauren!"
+msgstr "[X] We love you, Lauren!"
 
 # game/UpdateScript0.07.rpy:6081## # translate crowdin actual_election_479f49e5:
 msgid "[L] I just want you all to know, that if you elect me student body president, I will give my all to be the best dang student body president this school has ever seen!"
 msgstr "[L] I just want you all to know, that if you elect me student body president, I will give my all to be the best dang student body president this school has ever seen!"
 
 # game/UpdateScript0.07.rpy:6082## # translate crowdin actual_election_ede665a6:
-msgid "X "Go, Lauren!"
-    X "Go, Lauren!"
+msgid "[X] Go, Lauren!"
+msgstr "[X] Go, Lauren!"
 
 # game/UpdateScript0.07.rpy:6083## # translate crowdin actual_election_4d36cdde:
 msgid "[L] And to show you how much I will honor that commitment, I want to let you all in on a little perk that I've worked hard to secure for you, if you elect me."
@@ -9367,8 +9367,8 @@ msgid "[L] Think about those hot days when the air conditioner goes out. Well, c
 msgstr "[L] Think about those hot days when the air conditioner goes out. Well, class will no longer be such an awful hell with our wool sweater vests."
 
 # game/UpdateScript0.07.rpy:6093## # translate crowdin actual_election_20e22aab:
-msgid "X "Yeah!... Take it off!"
-    X "Yeah!... Take it off!"
+msgid "[X] Yeah!... Take it off!"
+msgstr "[X] Yeah!... Take it off!"
 
 # game/UpdateScript0.07.rpy:6096## # translate crowdin actual_election_cac55718:
 msgid "[L] And even better, we're allowed to open up our shirts a bit, to give our skin a chance to breathe."
@@ -9391,20 +9391,20 @@ msgid "[L] We're also allowed to hem up our skirts. I've got another skirt on un
 msgstr "[L] We're also allowed to hem up our skirts. I've got another skirt on under this one to show just how much shorter we can wear our skirts."
 
 # game/UpdateScript0.07.rpy:6105## # translate crowdin actual_election_c14a54d4:
-msgid "X "Go, Cosplay Girl!... Se-xy!"
-    X "Go, Cosplay Girl!... Se-xy!"
+msgid "[X] Go, Cosplay Girl!... Se-xy!"
+msgstr "[X] Go, Cosplay Girl!... Se-xy!"
 
 # game/UpdateScript0.07.rpy:6108## # translate crowdin actual_election_493b6611:
 msgid "[L] And that's it! What do you all think?"
 msgstr "[L] And that's it! What do you all think?"
 
 # game/UpdateScript0.07.rpy:6110## # translate crowdin actual_election_7f0fa514:
-msgid "X "Thank you, Lauren!"
-    X "Thank you, Lauren!"
+msgid "[X] Thank you, Lauren!"
+msgstr "[X] Thank you, Lauren!"
 
 # game/UpdateScript0.07.rpy:6111## # translate crowdin actual_election_1cdba709_2:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6114## # translate crowdin actual_election_8ba62ea5:
 msgid "[MT] {i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
@@ -9415,20 +9415,20 @@ msgid "[L] Oh, and let me show you how it looks from behind."
 msgstr "[L] Oh, and let me show you how it looks from behind."
 
 # game/UpdateScript0.07.rpy:6118## # translate crowdin actual_election_63f60af4:
-msgid "X "Yeah... Show dat ass!"
-    X "Yeah... Show dat ass!"
+msgid "[X] Yeah... Show dat ass!"
+msgstr "[X] Yeah... Show dat ass!"
 
 # game/UpdateScript0.07.rpy:6119## # translate crowdin actual_election_1cdba709_3:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6122## # translate crowdin actual_election_c3fcd60a:
 msgid "[L] And the boys will be able to wear shorts and more comfortable shoes!"
 msgstr "[L] And the boys will be able to wear shorts and more comfortable shoes!"
 
 # game/UpdateScript0.07.rpy:6123## # translate crowdin actual_election_60296770:
-msgid "X "You're the best, Lauren!"
-    X "You're the best, Lauren!"
+msgid "[X] You're the best, Lauren!"
+msgstr "[X] You're the best, Lauren!"
 
 # game/UpdateScript0.07.rpy:6124## # translate crowdin actual_election_de986f8e:
 msgid "[L] I love you guys!"
@@ -9443,8 +9443,8 @@ msgid "[L] Vote for Lauren, the Cosplay Girl!"
 msgstr "[L] Vote for Lauren, the Cosplay Girl!"
 
 # game/UpdateScript0.07.rpy:6133## # translate crowdin actual_election_1cdba709_4:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6136## # translate crowdin actual_election_55aebf1d:
 msgid "[L] Oh, that was so scary!"
@@ -9507,8 +9507,8 @@ msgid "PH "Now for your enjoyment, we'll have a skit by Matt, immediately follow
     PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
 
 # game/UpdateScript0.07.rpy:6168## # translate crowdin actual_election_2d02ffbd:
-msgid "X "Woo..wooo! Go Megan!"
-    X "Woo..wooo! Go Megan!"
+msgid "[X] Woo..wooo! Go Megan!"
+msgstr "[X] Woo..wooo! Go Megan!"
 
 # game/UpdateScript0.07.rpy:6171## # translate crowdin actual_election_629ebcf2:
 msgid "[MG] Hello, Students of Shagtown High."
@@ -9567,16 +9567,16 @@ msgid "[MG] Of course I'm talking about our very own cosplay girl, Lauren!"
 msgstr "[MG] Of course I'm talking about our very own cosplay girl, Lauren!"
 
 # game/UpdateScript0.07.rpy:6193## # translate crowdin actual_election_1cdba709_5:
-msgid "X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6194## # translate crowdin actual_election_71c9fe05:
 msgid "[MG] Now, please enjoy a skit we cheerleaders put together just for her!"
 msgstr "[MG] Now, please enjoy a skit we cheerleaders put together just for her!"
 
 # game/UpdateScript0.07.rpy:6247## # translate crowdin actual_election_d106e1f9:
-msgid "X "{i}(Chanting){/i} Lauren... Lauren... Lauren!!"
-    X "{i}(Chanting){/i} Lauren... Lauren... Lauren!!"
+msgid "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
+msgstr "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
 
 # game/UpdateScript0.07.rpy:6253## # translate crowdin actual_election_e7e30581:
 msgid "PH "So, it appears that Matt does not have a skit prepared, and so we'll move on to the moment you've all been waiting for."
@@ -9667,12 +9667,12 @@ msgid "PH "Congratulations, Lauren! Get on up here and say a few words!"
     PH "Congratulations, Lauren! Get on up here and say a few words!"
 
 # game/UpdateScript0.07.rpy:6304## # translate crowdin actual_election_cfdbbd8b:
-msgid "X "{i}(Chanting){/i} Cosplay girl... Cosplay girl... Cosplay girl!!"
-    X "{i}(Chanting){/i} Cosplay girl... Cosplay girl... Cosplay girl!!"
+msgid "[X] {i}(Chanting){/i} Cosplay girl... Cosplay girl... Cosplay girl!!"
+msgstr "[X] {i}(Chanting){/i} Cosplay girl... Cosplay girl... Cosplay girl!!"
 
 # game/UpdateScript0.07.rpy:6305## # translate crowdin actual_election_d106e1f9_1:
-msgid "X "{i}(Chanting){/i} Lauren... Lauren... Lauren!!"
-    X "{i}(Chanting){/i} Lauren... Lauren... Lauren!!"
+msgid "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
+msgstr "[X] {i}(Chanting){/i} Lauren... Lauren... Lauren!!"
 
 # game/UpdateScript0.07.rpy:6306## # translate crowdin actual_election_53a53d9b:
 msgid "[L] Thank you!... Thank you all!"
@@ -9831,8 +9831,8 @@ msgid "[MB] To help me, I've asked one of Shagtown High's very own, our sexy new
 msgstr "[MB] To help me, I've asked one of Shagtown High's very own, our sexy new secretary and cheerleading coach, Miss Jessica, to help me out."
 
 # game/UpdateScript0.07.rpy:6375## # translate crowdin actual_election_3c803476:
-msgid "X "Marry me, Jessica!"
-    X "Marry me, Jessica!"
+msgid "[X] Marry me, Jessica!"
+msgstr "[X] Marry me, Jessica!"
 
 # game/UpdateScript0.07.rpy:6378## # translate crowdin actual_election_f0b6ab51:
 msgid "[MB] As most of you probably know, Miss Jessica was the cheerleading captain when she attended high school here three years ago."
@@ -9883,8 +9883,8 @@ msgid "[MB] I want you girls to think about those hot days when the air conditio
 msgstr "[MB] I want you girls to think about those hot days when the air conditioner goes out. Well, class will no longer be such an awful hell with your wool sweater vests."
 
 # game/UpdateScript0.07.rpy:6395## # translate crowdin actual_election_20e22aab_1:
-msgid "X "Yeah!... Take it off!"
-    X "Yeah!... Take it off!"
+msgid "[X] Yeah!... Take it off!"
+msgstr "[X] Yeah!... Take it off!"
 
 # game/UpdateScript0.07.rpy:6398## # translate crowdin actual_election_a1ce20c2:
 msgid "[MB] And even better, you'll now be allowed to open up your shirts a bit, to give your skin a chance to breathe."
@@ -9907,40 +9907,40 @@ msgid "[MB] You'll also allowed to hem up your skirts. Jessica's got another ski
 msgstr "[MB] You'll also allowed to hem up your skirts. Jessica's got another skirt on under this one to show just how much shorter you can wear your skirts."
 
 # game/UpdateScript0.07.rpy:6407## # translate crowdin actual_election_7686dde4:
-msgid "X "Go, Miss Jessica!... Se-xy!"
-    X "Go, Miss Jessica!... Se-xy!"
+msgid "[X] Go, Miss Jessica!... Se-xy!"
+msgstr "[X] Go, Miss Jessica!... Se-xy!"
 
 # game/UpdateScript0.07.rpy:6410## # translate crowdin actual_election_2a22dc90:
 msgid "[MB] And that's it! What do you all think?"
 msgstr "[MB] And that's it! What do you all think?"
 
 # game/UpdateScript0.07.rpy:6412## # translate crowdin actual_election_4ed23004:
-msgid "X "Thank you, Matt!"
-    X "Thank you, Matt!"
+msgid "[X] Thank you, Matt!"
+msgstr "[X] Thank you, Matt!"
 
 # game/UpdateScript0.07.rpy:6413## # translate crowdin actual_election_a1f77a14:
-msgid "X "{i}(Chanting){/i} Matt... Matt... Matt!!"
-    X "{i}(Chanting){/i} Matt... Matt... Matt!!"
+msgid "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
+msgstr "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
 
 # game/UpdateScript0.07.rpy:6414## # translate crowdin actual_election_c23c06f2:
 msgid "[MB] Oh, and Miss Jessica, why don't you show them how it looks from behind."
 msgstr "[MB] Oh, and Miss Jessica, why don't you show them how it looks from behind."
 
 # game/UpdateScript0.07.rpy:6417## # translate crowdin actual_election_63f60af4_1:
-msgid "X "Yeah... Show dat ass!"
-    X "Yeah... Show dat ass!"
+msgid "[X] Yeah... Show dat ass!"
+msgstr "[X] Yeah... Show dat ass!"
 
 # game/UpdateScript0.07.rpy:6418## # translate crowdin actual_election_a1f77a14_1:
-msgid "X "{i}(Chanting){/i} Matt... Matt... Matt!!"
-    X "{i}(Chanting){/i} Matt... Matt... Matt!!"
+msgid "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
+msgstr "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
 
 # game/UpdateScript0.07.rpy:6421## # translate crowdin actual_election_9ce74c61:
 msgid "[MB] And us guys will be able to wear shorts and more comfortable shoes!"
 msgstr "[MB] And us guys will be able to wear shorts and more comfortable shoes!"
 
 # game/UpdateScript0.07.rpy:6422## # translate crowdin actual_election_64ce062e:
-msgid "X "You're the best, Matt!"
-    X "You're the best, Matt!"
+msgid "[X] You're the best, Matt!"
+msgstr "[X] You're the best, Matt!"
 
 # game/UpdateScript0.07.rpy:6423## # translate crowdin actual_election_231db1f8:
 msgid "[MB] You guys rock!"
@@ -9987,12 +9987,12 @@ msgid "[R] You've got this, Lauren."
 msgstr "[R] You've got this, Lauren."
 
 # game/UpdateScript0.07.rpy:6445## # translate crowdin actual_election_0ac2039f:
-msgid "X "Hey!... It's the girl from those sexy posters!"
-    X "Hey!... It's the girl from those sexy posters!"
+msgid "[X] Hey!... It's the girl from those sexy posters!"
+msgstr "[X] Hey!... It's the girl from those sexy posters!"
 
 # game/UpdateScript0.07.rpy:6446## # translate crowdin actual_election_effd2865:
-msgid "X "Yeah, beautiful! Show us that ass!"
-    X "Yeah, beautiful! Show us that ass!"
+msgid "[X] Yeah, beautiful! Show us that ass!"
+msgstr "[X] Yeah, beautiful! Show us that ass!"
 
 # game/UpdateScript0.07.rpy:6451## # translate crowdin actual_election_2aefe9a0:
 msgid "[L] Thank you, fellow students."
@@ -10007,16 +10007,16 @@ msgid "[L] I promise that if you elect me, I'll do my very best to work for all 
 msgstr "[L] I promise that if you elect me, I'll do my very best to work for all of you."
 
 # game/UpdateScript0.07.rpy:6454## # translate crowdin actual_election_fceaeea6:
-msgid "X "I'll vote for you, if you jack me off!"
-    X "I'll vote for you, if you jack me off!"
+msgid "[X] I'll vote for you, if you jack me off!"
+msgstr "[X] I'll vote for you, if you jack me off!"
 
 # game/UpdateScript0.07.rpy:6456## # translate crowdin actual_election_85355a1a:
-msgid "X "She already jacked me off!"
-    X "She already jacked me off!"
+msgid "[X] She already jacked me off!"
+msgstr "[X] She already jacked me off!"
 
 # game/UpdateScript0.07.rpy:6458## # translate crowdin actual_election_fa275808:
-msgid "X "Well, she already sucked me off!"
-    X "Well, she already sucked me off!"
+msgid "[X] Well, she already sucked me off!"
+msgstr "[X] Well, she already sucked me off!"
 
 # game/UpdateScript0.07.rpy:6463## # translate crowdin actual_election_06bf88b0:
 msgid "[LT] {i}Oh, fuck!... What else was I gonna say?{/i}"
@@ -10071,8 +10071,8 @@ msgid "PH "Now for your enjoyment, we'll have a skit by Matt, immediately follow
     PH "Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
 
 # game/UpdateScript0.07.rpy:6539## # translate crowdin actual_election_a1f77a14_2:
-msgid "X "{i}(Chanting){/i} Matt... Matt... Matt!!"
-    X "{i}(Chanting){/i} Matt... Matt... Matt!!"
+msgid "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
+msgstr "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
 
 # game/UpdateScript0.07.rpy:6545## # translate crowdin actual_election_3f445fb3:
 msgid "[R] Well, fuck!... It looks like Megan and Matt made up."
@@ -10195,8 +10195,8 @@ msgid "[M] Thank you!... You guys rock!"
 msgstr "[M] Thank you!... You guys rock!"
 
 # game/UpdateScript0.07.rpy:6610## # translate crowdin actual_election_a1f77a14_3:
-msgid "X "{i}(Chanting){/i} Matt... Matt... Matt!!"
-    X "{i}(Chanting){/i} Matt... Matt... Matt!!"
+msgid "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
+msgstr "[X] {i}(Chanting){/i} Matt... Matt... Matt!!"
 
 # game/UpdateScript0.07.rpy:6611## # translate crowdin actual_election_99619ed2:
 msgid "[M] First, I just want to say..."
@@ -31151,40 +31151,40 @@ msgid "[RT] {i}Ok... It says here that Will Tylor's office is on the 69th floor.
 msgstr "[RT] {i}Ok... It says here that Will Tylor's office is on the 69th floor... Nice!{/i}"
 
 # game/UpdateScript0.07.rpy:17841## # translate crowdin will_meeting_3f71197c:
-msgid "X "Hello, sir... How may I help you?"
-    X "Hello, sir... How may I help you?"
+msgid "[X] Hello, sir... How may I help you?"
+msgstr "[X] Hello, sir... How may I help you?"
 
 # game/UpdateScript0.07.rpy:17844## # translate crowdin will_meeting_6abd0892:
 msgid "[R] Hi... I'm here to see Mr. Will Tylor."
 msgstr "[R] Hi... I'm here to see Mr. Will Tylor."
 
 # game/UpdateScript0.07.rpy:17845## # translate crowdin will_meeting_7c0baa70:
-msgid "X "Okay... And what's the name for the appointment?"
-    X "Okay... And what's the name for the appointment?"
+msgid "[X] Okay... And what's the name for the appointment?"
+msgstr "[X] Okay... And what's the name for the appointment?"
 
 # game/UpdateScript0.07.rpy:17846## # translate crowdin will_meeting_8291a0d6:
 msgid "[R] Oh... I don't have an appointment, I'm a student that goes to one of the schools he's on the board for. I was hoping I could just drop in."
 msgstr "[R] Oh... I don't have an appointment, I'm a student that goes to one of the schools he's on the board for. I was hoping I could just drop in."
 
 # game/UpdateScript0.07.rpy:17847## # translate crowdin will_meeting_fddcd160:
-msgid "X "Oh, I'm very sorry, sir, but without an appointment... Wait... How do I know you?"
-    X "Oh, I'm very sorry, sir, but without an appointment... Wait... How do I know you?"
+msgid "[X] Oh, I'm very sorry, sir, but without an appointment... Wait... How do I know you?"
+msgstr "[X] Oh, I'm very sorry, sir, but without an appointment... Wait... How do I know you?"
 
 # game/UpdateScript0.07.rpy:17848## # translate crowdin will_meeting_0e099b09:
 msgid "[R] I don't know... I was thinking you look familiar, too."
 msgstr "[R] I don't know... I was thinking you look familiar, too."
 
 # game/UpdateScript0.07.rpy:17849## # translate crowdin will_meeting_746eef62:
-msgid "X "Hmmm...."
-    X "Hmmm...."
+msgid "[X] Hmmm...."
+msgstr "[X] Hmmm...."
 
 # game/UpdateScript0.07.rpy:17852## # translate crowdin will_meeting_5a692c28:
-msgid "X "Oh... I know."
-    X "Oh... I know."
+msgid "[X] Oh... I know."
+msgstr "[X] Oh... I know."
 
 # game/UpdateScript0.07.rpy:17853## # translate crowdin will_meeting_fd5a605f:
-msgid "X "I met you at the DeCapo's club."
-    X "I met you at the DeCapo's club."
+msgid "[X] I met you at the DeCapo's club."
+msgstr "[X] I met you at the DeCapo's club."
 
 # game/UpdateScript0.07.rpy:17854## # translate crowdin will_meeting_20294223:
 msgid "[R] Oh, yeah... that's right! Candy... wasn't it?"

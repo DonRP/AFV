@@ -5847,8 +5847,8 @@ msgid "VOM "Please welcome the sexy young Emma to the stage."
     VOM "Please welcome the sexy young Emma to the stage."
 
 # game/UpdateScript0.02.rpy:3766## # translate crowdin ntrclub_527ba3ef:
-msgid "X "Bring back the redhead! She didn't finish her dance!"
-    X "Bring back the redhead! She didn't finish her dance!"
+msgid "[X] Bring back the redhead! She didn't finish her dance!"
+msgstr "[X] Bring back the redhead! She didn't finish her dance!"
 
 # game/UpdateScript0.02.rpy:3767## # translate crowdin ntrclub_d15b89a2:
 msgid "G "Come back next week. If you're lucky she'll be here again."

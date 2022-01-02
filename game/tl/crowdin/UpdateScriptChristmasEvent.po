@@ -47,20 +47,20 @@ msgid "..."
 msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:274## # translate crowdin xmas_dream_03f26b44:
-msgid "X "[ryan]..."
-    X "[ryan]..."
+msgid "[X] [ryan]..."
+msgstr "[X] [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:275## # translate crowdin xmas_dream_6bb809b3:
-msgid "X "Hey [ryan]..."
-    X "Hey [ryan]..."
+msgid "[X] Hey [ryan]..."
+msgstr "[X] Hey [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:280## # translate crowdin xmas_dream_1e1e85d8:
-msgid "X "Wake up [ryan]!..."
-    X "Wake up [ryan]!..."
+msgid "[X] Wake up [ryan]!..."
+msgstr "[X] Wake up [ryan]!..."
 
 # game/UpdateScriptChristmasEvent.rpy:285## # translate crowdin xmas_dream_4231b67a:
-msgid "X "Hey [ryan]!.... Wake up!"
-    X "Hey [ryan]!.... Wake up!"
+msgid "[X] Hey [ryan]!.... Wake up!"
+msgstr "[X] Hey [ryan]!.... Wake up!"
 
 # game/UpdateScriptChristmasEvent.rpy:286## # translate crowdin xmas_dream_e3b1781d:
 msgid "[RT] {i}Huh.... what?....{/i}"
@@ -75,16 +75,16 @@ msgid "[RT] {i}What a weird dream! There's a tiny Mom on my chest{/i}"
 msgstr "[RT] {i}What a weird dream! There's a tiny Mom on my chest{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:299## # translate crowdin xmas_dream_bc20437e:
-msgid "X "[ryan].... this isn't a dream.... and I'm not a tiny Mom"
-    X "[ryan].... this isn't a dream.... and I'm not a tiny Mom"
+msgid "[X] [ryan].... this isn't a dream.... and I'm not a tiny Mom"
+msgstr "[X] [ryan].... this isn't a dream.... and I'm not a tiny Mom"
 
 # game/UpdateScriptChristmasEvent.rpy:300## # translate crowdin xmas_dream_df474a97:
 msgid "[RT] {i}You have to be a dream.... you can read my thoughts....{/i}"
 msgstr "[RT] {i}You have to be a dream.... you can read my thoughts....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:301## # translate crowdin xmas_dream_2e1d4afb:
-msgid "X "[ryan].... I'm the ghost of Christmas past."
-    X "[ryan].... I'm the ghost of Christmas past."
+msgid "[X] [ryan].... I'm the ghost of Christmas past."
+msgstr "[X] [ryan].... I'm the ghost of Christmas past."
 
 # game/UpdateScriptChristmasEvent.rpy:302## # translate crowdin xmas_dream_056794e2:
 msgid "[R] What?.... Bullshit!.... Then why do you look like a half-naked version of my mom?"
@@ -447,20 +447,20 @@ msgid "..."
 msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:434## # translate crowdin xmas_present_03f26b44:
-msgid "X "[ryan]..."
-    X "[ryan]..."
+msgid "[X] [ryan]..."
+msgstr "[X] [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:435## # translate crowdin xmas_present_6bb809b3:
-msgid "X "Hey [ryan]..."
-    X "Hey [ryan]..."
+msgid "[X] Hey [ryan]..."
+msgstr "[X] Hey [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:440## # translate crowdin xmas_present_1e1e85d8:
-msgid "X "Wake up [ryan]!..."
-    X "Wake up [ryan]!..."
+msgid "[X] Wake up [ryan]!..."
+msgstr "[X] Wake up [ryan]!..."
 
 # game/UpdateScriptChristmasEvent.rpy:445## # translate crowdin xmas_present_4231b67a:
-msgid "X "Hey [ryan]!.... Wake up!"
-    X "Hey [ryan]!.... Wake up!"
+msgid "[X] Hey [ryan]!.... Wake up!"
+msgstr "[X] Hey [ryan]!.... Wake up!"
 
 # game/UpdateScriptChristmasEvent.rpy:446## # translate crowdin xmas_present_e3b1781d:
 msgid "[RT] {i}Huh.... what?....{/i}"
@@ -471,52 +471,52 @@ msgid "[R] Lauren?..."
 msgstr "[R] Lauren?..."
 
 # game/UpdateScriptChristmasEvent.rpy:458## # translate crowdin xmas_present_203c7bd4:
-msgid "X "Guess again."
-    X "Guess again."
+msgid "[X] Guess again."
+msgstr "[X] Guess again."
 
 # game/UpdateScriptChristmasEvent.rpy:459## # translate crowdin xmas_present_e889f985:
 msgid "[R] Oh, fuck!.... I thought I was done with this dream."
 msgstr "[R] Oh, fuck!.... I thought I was done with this dream."
 
 # game/UpdateScriptChristmasEvent.rpy:460## # translate crowdin xmas_present_2d2097dd:
-msgid "X "Maybe it's not a dream."
-    X "Maybe it's not a dream."
+msgid "[X] Maybe it's not a dream."
+msgstr "[X] Maybe it's not a dream."
 
 # game/UpdateScriptChristmasEvent.rpy:461## # translate crowdin xmas_present_2c5ccf90:
 msgid "[R] Wouldn't you just tell me it's not a dream, if it weren't really a dream?"
 msgstr "[R] Wouldn't you just tell me it's not a dream, if it weren't really a dream?"
 
 # game/UpdateScriptChristmasEvent.rpy:462## # translate crowdin xmas_present_9b304d48:
-msgid "X "That wouldn't be any fun, if we took out the wonder."
-    X "That wouldn't be any fun, if we took out the wonder."
+msgid "[X] That wouldn't be any fun, if we took out the wonder."
+msgstr "[X] That wouldn't be any fun, if we took out the wonder."
 
 # game/UpdateScriptChristmasEvent.rpy:463## # translate crowdin xmas_present_7691e859:
-msgid "X "We're doing this for your welfare."
-    X "We're doing this for your welfare."
+msgid "[X] We're doing this for your welfare."
+msgstr "[X] We're doing this for your welfare."
 
 # game/UpdateScriptChristmasEvent.rpy:464## # translate crowdin xmas_present_54b995ef:
 msgid "[R] Wouldn't a night of uninterrupted sleep be better for my welfare?"
 msgstr "[R] Wouldn't a night of uninterrupted sleep be better for my welfare?"
 
 # game/UpdateScriptChristmasEvent.rpy:465## # translate crowdin xmas_present_294f5843:
-msgid "X "For your salvation then."
-    X "For your salvation then."
+msgid "[X] For your salvation then."
+msgstr "[X] For your salvation then."
 
 # game/UpdateScriptChristmasEvent.rpy:466## # translate crowdin xmas_present_ebe8af21:
 msgid "[R] Salvation from what?"
 msgstr "[R] Salvation from what?"
 
 # game/UpdateScriptChristmasEvent.rpy:467## # translate crowdin xmas_present_e32c8be5:
-msgid "X "From being such a creepy little pervert."
-    X "From being such a creepy little pervert."
+msgid "[X] From being such a creepy little pervert."
+msgstr "[X] From being such a creepy little pervert."
 
 # game/UpdateScriptChristmasEvent.rpy:468## # translate crowdin xmas_present_e7606f6b:
 msgid "[RT] {i}Hah.... good luck!{/i}"
 msgstr "[RT] {i}Hah.... good luck!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:469## # translate crowdin xmas_present_19f0bf7f:
-msgid "X "I can read thoughts."
-    X "I can read thoughts."
+msgid "[X] I can read thoughts."
+msgstr "[X] I can read thoughts."
 
 # game/UpdateScriptChristmasEvent.rpy:470## # translate crowdin xmas_present_c3a6fe17:
 msgid "[R] Oh, yeah..."
@@ -527,8 +527,8 @@ msgid "[R] So, are you \"The Leprechaun of Christmas Present\", or something?"
 msgstr "[R] So, are you \"The Leprechaun of Christmas Present\", or something?"
 
 # game/UpdateScriptChristmasEvent.rpy:474## # translate crowdin xmas_present_3661e54a:
-msgid "X "I'm the \"Ghost of Christmas Present.\""
-    X "I'm the \"Ghost of Christmas Present.\""
+msgid "[X] I'm the \"Ghost of Christmas Present.\""
+msgstr "[X] I'm the \"Ghost of Christmas Present.\""
 
 # game/UpdateScriptChristmasEvent.rpy:475## # translate crowdin xmas_present_12d923ca:
 msgid "[R] Well, of course you are."
@@ -671,32 +671,32 @@ msgid "[R] What the hell is going on?"
 msgstr "[R] What the hell is going on?"
 
 # game/UpdateScriptChristmasEvent.rpy:550## # translate crowdin xmas_future_bc53ebd9:
-msgid "X "Oh.... hey [ryan]!"
-    X "Oh.... hey [ryan]!"
+msgid "[X] Oh.... hey [ryan]!"
+msgstr "[X] Oh.... hey [ryan]!"
 
 # game/UpdateScriptChristmasEvent.rpy:551## # translate crowdin xmas_future_7477d7b3:
-msgid "X "Sorry I woke you!"
-    X "Sorry I woke you!"
+msgid "[X] Sorry I woke you!"
+msgstr "[X] Sorry I woke you!"
 
 # game/UpdateScriptChristmasEvent.rpy:552## # translate crowdin xmas_future_9795a042:
-msgid "X "My sisters both told me I had to try out the all you can eat breakfast buffet."
-    X "My sisters both told me I had to try out the all you can eat breakfast buffet."
+msgid "[X] My sisters both told me I had to try out the all you can eat breakfast buffet."
+msgstr "[X] My sisters both told me I had to try out the all you can eat breakfast buffet."
 
 # game/UpdateScriptChristmasEvent.rpy:553## # translate crowdin xmas_future_2409e36d:
-msgid "X "They said you got a little hot under the collar when they did this."
-    X "They said you got a little hot under the collar when they did this."
+msgid "[X] They said you got a little hot under the collar when they did this."
+msgstr "[X] They said you got a little hot under the collar when they did this."
 
 # game/UpdateScriptChristmasEvent.rpy:554## # translate crowdin xmas_future_344c907f:
-msgid "X "So, I thought I'd just get it out of the way before you woke up."
-    X "So, I thought I'd just get it out of the way before you woke up."
+msgid "[X] So, I thought I'd just get it out of the way before you woke up."
+msgstr "[X] So, I thought I'd just get it out of the way before you woke up."
 
 # game/UpdateScriptChristmasEvent.rpy:555## # translate crowdin xmas_future_e6436c83:
-msgid "X "But I think I've had my fill. Should we get down to business?"
-    X "But I think I've had my fill. Should we get down to business?"
+msgid "[X] But I think I've had my fill. Should we get down to business?"
+msgstr "[X] But I think I've had my fill. Should we get down to business?"
 
 # game/UpdateScriptChristmasEvent.rpy:561## # translate crowdin xmas_future_c931e5f6:
-msgid "X "Do I need to introduce myself, or do you already know who I am?"
-    X "Do I need to introduce myself, or do you already know who I am?"
+msgid "[X] Do I need to introduce myself, or do you already know who I am?"
+msgstr "[X] Do I need to introduce myself, or do you already know who I am?"
 
 # game/UpdateScriptChristmasEvent.rpy:562## # translate crowdin xmas_future_9758310c:
 msgid "[R] The ghost of Christmas Future, I presume?"

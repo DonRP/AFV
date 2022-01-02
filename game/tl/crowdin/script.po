@@ -5863,8 +5863,8 @@ msgid "[M] And so hearing all of this, Oedipus decides to solve the mystery of L
 msgstr "[M] And so hearing all of this, Oedipus decides to solve the mystery of Laius' murder..."
 
 # game/script.rpy:6828## # translate crowdin firstdayofschool_a67e5fbe:
-msgid "X "Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
-    X "Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
+msgid "[X] Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
+msgstr "[X] Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
 
 # game/script.rpy:6831## # translate crowdin firstdayofschool_2c1deb09:
 msgid "[MB] {i}(whispering){/i} Your mom has one fine ass! Don't you think?"
@@ -6091,8 +6091,8 @@ msgid "{i}\"knock knock knock\"{/i}"
 msgstr "{i}\"knock knock knock\"{/i}"
 
 # game/script.rpy:7020## # translate crowdin stallbj_cc1ba024:
-msgid "X "{i}(whispering){/i} Hey [ryan], is that you?"
-    X "{i}(whispering){/i} Hey [ryan], is that you?"
+msgid "[X] {i}(whispering){/i} Hey [ryan], is that you?"
+msgstr "[X] {i}(whispering){/i} Hey [ryan], is that you?"
 
 # game/script.rpy:7021## # translate crowdin stallbj_8b3f1614:
 msgid "[RT] {i}(whispering){/i} Yes it's me. Who's asking?"

@@ -1135,8 +1135,8 @@ msgid "[S] HELP!.... FLASHER!... HELP!"
 msgstr "[S] HELP!.... FLASHER!... HELP!"
 
 # game/UpdateScript0.05.rpy:1047## # translate crowdin sidney_morning_jog_ff56d4fd:
-msgid "X "Hey you! Stay right there!"
-    X "Hey you! Stay right there!"
+msgid "[X] Hey you! Stay right there!"
+msgstr "[X] Hey you! Stay right there!"
 
 # game/UpdateScript0.05.rpy:1048## # translate crowdin sidney_morning_jog_ec8f0b4c:
 msgid "CMT "{i}Shit!.... It's the commies!{/i}"
@@ -9347,8 +9347,8 @@ msgid "[S] So, why don't you quit worrying, and lets...."
 msgstr "[S] So, why don't you quit worrying, and lets...."
 
 # game/UpdateScript0.05.rpy:5335## # translate crowdin park_activities_3214ccc3:
-msgid "X "HELP!"
-    X "HELP!"
+msgid "[X] HELP!"
+msgstr "[X] HELP!"
 
 # game/UpdateScript0.05.rpy:5338## # translate crowdin park_activities_2038f005:
 msgid "[S] What in the?"
@@ -9751,8 +9751,8 @@ msgid "[R] ...."
 msgstr "[R] ...."
 
 # game/UpdateScript0.05.rpy:5505## # translate crowdin park_activities_7703f52e:
-msgid "X "Hey! You two on the bench"
-    X "Hey! You two on the bench"
+msgid "[X] Hey! You two on the bench"
+msgstr "[X] Hey! You two on the bench"
 
 # game/UpdateScript0.05.rpy:5511## # translate crowdin park_activities_d6c43065:
 msgid "P "I'm going to have to ask you two to tone it down."

@@ -11787,12 +11787,12 @@ msgid "[R] Mandy? Lauren? Are you there?"
 msgstr "[R] Mandy? Lauren? Are you there?"
 
 # game/UpdateScript0.06.rpy:7345## # translate crowdin diaz_is_back_3c88996d:
-msgid "X "{i}(whispering){/i} Oh, thank God... it's just [ryan]."
-    X "{i}(whispering){/i} Oh, thank God... it's just [ryan]."
+msgid "[X] {i}(whispering){/i} Oh, thank God... it's just [ryan]."
+msgstr "[X] {i}(whispering){/i} Oh, thank God... it's just [ryan]."
 
 # game/UpdateScript0.06.rpy:7346## # translate crowdin diaz_is_back_f7901d31:
-msgid "X "Come in."
-    X "Come in."
+msgid "[X] Come in."
+msgstr "[X] Come in."
 
 # game/UpdateScript0.06.rpy:7347## # translate crowdin diaz_is_back_dd87fec6:
 msgid "[RT] {i}That didn't sound like Mandy or Lauren... that sounded like...{/i}"
