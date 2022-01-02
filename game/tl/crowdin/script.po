@@ -451,8 +451,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:875## # translate crowdin myroom_7a4c9662:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:878## # translate crowdin myroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1127,8 +1127,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:2603## # translate crowdin loungeevening_7a4c9662:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:2606## # translate crowdin loungeevening_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1223,8 +1223,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:2657## # translate crowdin loungeevening_7a4c9662_1:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:2660## # translate crowdin loungeevening_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1483,8 +1483,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:2821## # translate crowdin loungeeveningweekend_7a4c9662:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:2824## # translate crowdin loungeeveningweekend_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1579,8 +1579,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:2875## # translate crowdin loungeeveningweekend_7a4c9662_1:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:2878## # translate crowdin loungeeveningweekend_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2483,8 +2483,8 @@ msgid "[R] Only because you've been told all your life it's weird."
 msgstr "[R] Only because you've been told all your life it's weird."
 
 # game/script.rpy:3986## # translate crowdin dishes_7a4c9662:
-msgid "LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
-    LT "{i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
+msgstr "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
 
 # game/script.rpy:3989## # translate crowdin dishes_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -4587,8 +4587,8 @@ msgid "L "Hey brother, just give me a sec, I've just got to finish sending this 
     L "Hey brother, just give me a sec, I've just got to finish sending this text."
 
 # game/script.rpy:5946## # translate crowdin laurenroomhang_355f7545:
-msgid "LT "{i}Ok, heart emoji, heart emoji, smiley face with heart eyes emoji, and.... send.{/i}"
-    LT "{i}Ok, heart emoji, heart emoji, smiley face with heart eyes emoji, and.... send.{/i}"
+msgid "[LT] {i}Ok, heart emoji, heart emoji, smiley face with heart eyes emoji, and.... send.{/i}"
+msgstr "[LT] {i}Ok, heart emoji, heart emoji, smiley face with heart eyes emoji, and.... send.{/i}"
 
 # game/script.rpy:5949## # translate crowdin laurenroomhang_87ce0166:
 msgid "L "So what's up?"
@@ -5019,12 +5019,12 @@ msgid "[RT] {i}Just a pinch and let's see what happens.{/i}"
 msgstr "[RT] {i}Just a pinch and let's see what happens.{/i}"
 
 # game/script.rpy:6224## # translate crowdin sidneylaurensneakingnight_d95ca18b:
-msgid "LT "{i}Yaawnn.... hmmm.... I think I really need to poop.... I should get up and.... {/i}"
-    LT "{i}Yaawnn.... hmmm.... I think I really need to poop.... I should get up and.... {/i}"
+msgid "[LT] {i}Yaawnn.... hmmm.... I think I really need to poop.... I should get up and.... {/i}"
+msgstr "[LT] {i}Yaawnn.... hmmm.... I think I really need to poop.... I should get up and.... {/i}"
 
 # game/script.rpy:6225## # translate crowdin sidneylaurensneakingnight_fd3ee39e:
-msgid "LT "{i}Wait.... my panties are pulled down again.... {/i}"
-    LT "{i}Wait.... my panties are pulled down again.... {/i}"
+msgid "[LT] {i}Wait.... my panties are pulled down again.... {/i}"
+msgstr "[LT] {i}Wait.... my panties are pulled down again.... {/i}"
 
 # game/script.rpy:6228## # translate crowdin sidneylaurensneakingnight_f40433fd:
 msgid "L "OH MY FUCKING GOSH!!!!"
@@ -5447,8 +5447,8 @@ msgid "L "Hmmm.... ouch.... what was that?..."
     L "Hmmm.... ouch.... what was that?..."
 
 # game/script.rpy:6437## # translate crowdin sidneylaurensneakingnight_c250f1e2:
-msgid "LT "{i}Is someone's hand carressing my ass?!!{/i}"
-    LT "{i}Is someone's hand carressing my ass?!!{/i}"
+msgid "[LT] {i}Is someone's hand carressing my ass?!!{/i}"
+msgstr "[LT] {i}Is someone's hand carressing my ass?!!{/i}"
 
 # game/script.rpy:6440## # translate crowdin sidneylaurensneakingnight_6b3a8b0f:
 msgid "L "Sidney, what the hell?!!!"

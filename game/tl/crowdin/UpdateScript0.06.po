@@ -3959,12 +3959,12 @@ msgid "L "Never mind... it was a stupid story."
     L "Never mind... it was a stupid story."
 
 # game/UpdateScript0.06.rpy:2916## # translate crowdin update_six_bfasts_098f7eca:
-msgid "LT "{i}I can't believe [ryan] is doing this in front of everybody!{/i}"
-    LT "{i}I can't believe [ryan] is doing this in front of everybody!{/i}"
+msgid "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
+msgstr "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
 
 # game/UpdateScript0.06.rpy:2917## # translate crowdin update_six_bfasts_fc1289f4:
-msgid "LT "{i}Ohhh... but his toes do feel good!{/i}"
-    LT "{i}Ohhh... but his toes do feel good!{/i}"
+msgid "[LT] {i}Ohhh... but his toes do feel good!{/i}"
+msgstr "[LT] {i}Ohhh... but his toes do feel good!{/i}"
 
 # game/UpdateScript0.06.rpy:2918## # translate crowdin update_six_bfasts_b6b6edb2:
 msgid "[M] You ok, Lauren? You're being unusually quiet."
@@ -4067,8 +4067,8 @@ msgid "ST "{i}Some of us have become closer than you would probably ever approve
     ST "{i}Some of us have become closer than you would probably ever approve of.{/i}"
 
 # game/UpdateScript0.06.rpy:2987## # translate crowdin update_six_bfasts_6e7a2c9b:
-msgid "LT "{i}Is that why [ryan] and I have become so close?{/i}"
-    LT "{i}Is that why [ryan] and I have become so close?{/i}"
+msgid "[LT] {i}Is that why [ryan] and I have become so close?{/i}"
+msgstr "[LT] {i}Is that why [ryan] and I have become so close?{/i}"
 
 # game/UpdateScript0.06.rpy:2988## # translate crowdin update_six_bfasts_43781a14:
 msgid "[M] Now, let's eat our breakfast before we're late for school."
@@ -4159,12 +4159,12 @@ msgid "L "Never mind... it was a stupid story."
     L "Never mind... it was a stupid story."
 
 # game/UpdateScript0.06.rpy:3079## # translate crowdin update_six_bfasts_098f7eca_1:
-msgid "LT "{i}I can't believe [ryan] is doing this in front of everybody!{/i}"
-    LT "{i}I can't believe [ryan] is doing this in front of everybody!{/i}"
+msgid "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
+msgstr "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
 
 # game/UpdateScript0.06.rpy:3080## # translate crowdin update_six_bfasts_fc1289f4_1:
-msgid "LT "{i}Ohhh... but his toes do feel good!{/i}"
-    LT "{i}Ohhh... but his toes do feel good!{/i}"
+msgid "[LT] {i}Ohhh... but his toes do feel good!{/i}"
+msgstr "[LT] {i}Ohhh... but his toes do feel good!{/i}"
 
 # game/UpdateScript0.06.rpy:3081## # translate crowdin update_six_bfasts_b6b6edb2_1:
 msgid "[M] You ok, Lauren? You're being unusually quiet."
@@ -5359,8 +5359,8 @@ msgid "L "Oh God, no!"
     L "Oh God, no!"
 
 # game/UpdateScript0.06.rpy:3994## # translate crowdin lauren_night_6619de8e:
-msgid "LT "{i}I don't need wet panties right now.{/i}"
-    LT "{i}I don't need wet panties right now.{/i}"
+msgid "[LT] {i}I don't need wet panties right now.{/i}"
+msgstr "[LT] {i}I don't need wet panties right now.{/i}"
 
 # game/UpdateScript0.06.rpy:3995## # translate crowdin lauren_night_11c95a2f:
 msgid "L "Just come sit down."
@@ -5591,8 +5591,8 @@ msgid "L "Oh, God no!"
     L "Oh, God no!"
 
 # game/UpdateScript0.06.rpy:4088## # translate crowdin lauren_night_6619de8e_1:
-msgid "LT "{i}I don't need wet panties right now.{/i}"
-    LT "{i}I don't need wet panties right now.{/i}"
+msgid "[LT] {i}I don't need wet panties right now.{/i}"
+msgstr "[LT] {i}I don't need wet panties right now.{/i}"
 
 # game/UpdateScript0.06.rpy:4089## # translate crowdin lauren_night_11c95a2f_1:
 msgid "L "Just come sit down."
@@ -5727,8 +5727,8 @@ msgid "L "Oh, God no!"
     L "Oh, God no!"
 
 # game/UpdateScript0.06.rpy:4142## # translate crowdin lauren_night_6619de8e_2:
-msgid "LT "{i}I don't need wet panties right now.{/i}"
-    LT "{i}I don't need wet panties right now.{/i}"
+msgid "[LT] {i}I don't need wet panties right now.{/i}"
+msgstr "[LT] {i}I don't need wet panties right now.{/i}"
 
 # game/UpdateScript0.06.rpy:4143## # translate crowdin lauren_night_11c95a2f_2:
 msgid "L "Just come sit down."
@@ -11971,8 +11971,8 @@ msgid "L "Yeah, that's some messed-up shit."
     L "Yeah, that's some messed-up shit."
 
 # game/UpdateScript0.06.rpy:7415## # translate crowdin diaz_is_back_d6447aae:
-msgid "LT "{i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
-    LT "{i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
+msgid "[LT] {i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
+msgstr "[LT] {i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
 
 # game/UpdateScript0.06.rpy:7416## # translate crowdin diaz_is_back_01a9fe2e:
 msgid "MDT "{i}I could have been slapping Lauren's sexy ass if [ryan] hadn't shown up.{/i}"
@@ -12219,16 +12219,16 @@ msgid "[RT] {i}Soon!{/i}"
 msgstr "[RT] {i}Soon!{/i}"
 
 # game/UpdateScript0.06.rpy:7547## # translate crowdin diaz_is_back_3447db83:
-msgid "LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
-    LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgid "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgstr "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
 
 # game/UpdateScript0.06.rpy:7548## # translate crowdin diaz_is_back_75e3d594:
-msgid "LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
-    LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgid "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgstr "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
 
 # game/UpdateScript0.06.rpy:7549## # translate crowdin diaz_is_back_651ea658:
-msgid "LT "{i}This is the hottest thing that's ever happened to me!{/i}"
-    LT "{i}This is the hottest thing that's ever happened to me!{/i}"
+msgid "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
+msgstr "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
 
 # game/UpdateScript0.06.rpy:7550## # translate crowdin diaz_is_back_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
@@ -12471,28 +12471,28 @@ msgid "[RT] {i}So, why is it making me so hard?{/i}"
 msgstr "[RT] {i}So, why is it making me so hard?{/i}"
 
 # game/UpdateScript0.06.rpy:7655## # translate crowdin diaz_is_back_f568cac0:
-msgid "LT "{i}Oww... my ass is so sensitive!{/i}"
-    LT "{i}Oww... my ass is so sensitive!{/i}"
+msgid "[LT] {i}Oww... my ass is so sensitive!{/i}"
+msgstr "[LT] {i}Oww... my ass is so sensitive!{/i}"
 
 # game/UpdateScript0.06.rpy:7656## # translate crowdin diaz_is_back_108dfcbe:
-msgid "LT "{i}This really hurts!...{/i}"
-    LT "{i}This really hurts!...{/i}"
+msgid "[LT] {i}This really hurts!...{/i}"
+msgstr "[LT] {i}This really hurts!...{/i}"
 
 # game/UpdateScript0.06.rpy:7657## # translate crowdin diaz_is_back_441351fb:
-msgid "LT "{i}So why do I kind of like it?{/i}"
-    LT "{i}So why do I kind of like it?{/i}"
+msgid "[LT] {i}So why do I kind of like it?{/i}"
+msgstr "[LT] {i}So why do I kind of like it?{/i}"
 
 # game/UpdateScript0.06.rpy:7658## # translate crowdin diaz_is_back_1ebfc38d:
-msgid "LT "...."
-    LT "...."
+msgid "[LT] ...."
+msgstr "[LT] ...."
 
 # game/UpdateScript0.06.rpy:7659## # translate crowdin diaz_is_back_f5659ad9:
-msgid "LT "{i}This is starting to make me wet!{/i}"
-    LT "{i}This is starting to make me wet!{/i}"
+msgid "[LT] {i}This is starting to make me wet!{/i}"
+msgstr "[LT] {i}This is starting to make me wet!{/i}"
 
 # game/UpdateScript0.06.rpy:7660## # translate crowdin diaz_is_back_7a502305:
-msgid "LT "{i}Fuck! Mandy is going to notice!{/i}"
-    LT "{i}Fuck! Mandy is going to notice!{/i}"
+msgid "[LT] {i}Fuck! Mandy is going to notice!{/i}"
+msgstr "[LT] {i}Fuck! Mandy is going to notice!{/i}"
 
 # game/UpdateScript0.06.rpy:7661## # translate crowdin diaz_is_back_81f2a63c:
 msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
@@ -12683,36 +12683,36 @@ msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7739## # translate crowdin diaz_is_back_6dc4a179:
-msgid "LT "{i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
-    LT "{i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
+msgid "[LT] {i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
+msgstr "[LT] {i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
 
 # game/UpdateScript0.06.rpy:7740## # translate crowdin diaz_is_back_ef059a0a:
-msgid "LT "{i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
-    LT "{i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
+msgid "[LT] {i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
+msgstr "[LT] {i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
 
 # game/UpdateScript0.06.rpy:7741## # translate crowdin diaz_is_back_1ebfc38d_1:
-msgid "LT "...."
-    LT "...."
+msgid "[LT] ...."
+msgstr "[LT] ...."
 
 # game/UpdateScript0.06.rpy:7742## # translate crowdin diaz_is_back_4f09e8b7:
-msgid "LT "{i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
-    LT "{i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
+msgid "[LT] {i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
+msgstr "[LT] {i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
 
 # game/UpdateScript0.06.rpy:7743## # translate crowdin diaz_is_back_65d9a5fb:
-msgid "LT "{i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
-    LT "{i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
+msgid "[LT] {i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
+msgstr "[LT] {i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
 
 # game/UpdateScript0.06.rpy:7744## # translate crowdin diaz_is_back_70ad59c6:
-msgid "LT "{i}Is Mandy into this?{/i}"
-    LT "{i}Is Mandy into this?{/i}"
+msgid "[LT] {i}Is Mandy into this?{/i}"
+msgstr "[LT] {i}Is Mandy into this?{/i}"
 
 # game/UpdateScript0.06.rpy:7745## # translate crowdin diaz_is_back_f75f11de:
-msgid "LT "{i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
-    LT "{i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
+msgid "[LT] {i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
+msgstr "[LT] {i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
 
 # game/UpdateScript0.06.rpy:7746## # translate crowdin diaz_is_back_a3c4c051:
-msgid "LT "{i}At least nobody can see my panties.{/i}"
-    LT "{i}At least nobody can see my panties.{/i}"
+msgid "[LT] {i}At least nobody can see my panties.{/i}"
+msgstr "[LT] {i}At least nobody can see my panties.{/i}"
 
 # game/UpdateScript0.06.rpy:7747## # translate crowdin diaz_is_back_81f2a63c_1:
 msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
@@ -12787,8 +12787,8 @@ msgid "L "Well, besides the fact that I was tied up, gagged, and was spanked raw
     L "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
 
 # game/UpdateScript0.06.rpy:7784## # translate crowdin diaz_is_back_0d24c58f:
-msgid "LT "{i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
-    LT "{i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
+msgid "[LT] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
+msgstr "[LT] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
 
 # game/UpdateScript0.06.rpy:7787## # translate crowdin diaz_is_back_5ca0c424:
 msgid "MD "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousins, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
@@ -12819,12 +12819,12 @@ msgid "L "I'm so sorry! I really didn't want to do that."
     L "I'm so sorry! I really didn't want to do that."
 
 # game/UpdateScript0.06.rpy:7798## # translate crowdin diaz_is_back_6de964e5:
-msgid "LT "{i}Fuck, why was spanking Mandy so fun?{/i}"
-    LT "{i}Fuck, why was spanking Mandy so fun?{/i}"
+msgid "[LT] {i}Fuck, why was spanking Mandy so fun?{/i}"
+msgstr "[LT] {i}Fuck, why was spanking Mandy so fun?{/i}"
 
 # game/UpdateScript0.06.rpy:7799## # translate crowdin diaz_is_back_9bdae2f8:
-msgid "LT "{i}I really need to rub one out now.{/i}"
-    LT "{i}I really need to rub one out now.{/i}"
+msgid "[LT] {i}I really need to rub one out now.{/i}"
+msgstr "[LT] {i}I really need to rub one out now.{/i}"
 
 # game/UpdateScript0.06.rpy:7800## # translate crowdin diaz_is_back_f83e6be1:
 msgid "MD "I know... it was fucking Agent Diaz!"
@@ -12851,8 +12851,8 @@ msgid "L "Oh, please do!"
     L "Oh, please do!"
 
 # game/UpdateScript0.06.rpy:7812## # translate crowdin diaz_is_back_805bc0d5:
-msgid "LT "{i}I can't let this new fetish get any stronger!{/i}"
-    LT "{i}I can't let this new fetish get any stronger!{/i}"
+msgid "[LT] {i}I can't let this new fetish get any stronger!{/i}"
+msgstr "[LT] {i}I can't let this new fetish get any stronger!{/i}"
 
 # game/UpdateScript0.06.rpy:7813## # translate crowdin diaz_is_back_53b56b66:
 msgid "MD "Yes, please try your hardest!"
@@ -12887,12 +12887,12 @@ msgid "MD "Yeah, that's some messed-up shit."
     MD "Yeah, that's some messed-up shit."
 
 # game/UpdateScript0.06.rpy:7833## # translate crowdin ryan_lauren_and_mandy_d6447aae:
-msgid "LT "{i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
-    LT "{i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
+msgid "[LT] {i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
+msgstr "[LT] {i}Why does the thought of getting spanked by Mandy kind of turn me on?{/i}"
 
 # game/UpdateScript0.06.rpy:7834## # translate crowdin ryan_lauren_and_mandy_2dbaf1c0:
-msgid "LT "{i}It would even be fun to slap her ass!{/i}"
-    LT "{i}It would even be fun to slap her ass!{/i}"
+msgid "[LT] {i}It would even be fun to slap her ass!{/i}"
+msgstr "[LT] {i}It would even be fun to slap her ass!{/i}"
 
 # game/UpdateScript0.06.rpy:7835## # translate crowdin ryan_lauren_and_mandy_01a9fe2e:
 msgid "MDT "{i}I could have been slapping Lauren's sexy ass if [ryan] hadn't shown up.{/i}"
@@ -13143,16 +13143,16 @@ msgid "[RT] {i}Soon!{/i}"
 msgstr "[RT] {i}Soon!{/i}"
 
 # game/UpdateScript0.06.rpy:7967## # translate crowdin ryan_lauren_and_mandy_3447db83:
-msgid "LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
-    LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgid "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgstr "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
 
 # game/UpdateScript0.06.rpy:7968## # translate crowdin ryan_lauren_and_mandy_75e3d594:
-msgid "LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
-    LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgid "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgstr "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
 
 # game/UpdateScript0.06.rpy:7969## # translate crowdin ryan_lauren_and_mandy_651ea658:
-msgid "LT "{i}This is the hottest thing that's ever happened to me!{/i}"
-    LT "{i}This is the hottest thing that's ever happened to me!{/i}"
+msgid "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
+msgstr "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
 
 # game/UpdateScript0.06.rpy:7970## # translate crowdin ryan_lauren_and_mandy_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
@@ -13375,16 +13375,16 @@ msgid "[RT] {i}Soon!{/i}"
 msgstr "[RT] {i}Soon!{/i}"
 
 # game/UpdateScript0.06.rpy:8108## # translate crowdin ryan_lauren_and_mandy_3447db83_1:
-msgid "LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
-    LT "{i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgid "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
+msgstr "[LT] {i}Oh, my God! My brother's huge cock is sliding up and down against my pussy and ass!{/i}"
 
 # game/UpdateScript0.06.rpy:8109## # translate crowdin ryan_lauren_and_mandy_75e3d594_1:
-msgid "LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
-    LT "{i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgid "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
+msgstr "[LT] {i}And my ass is rubbing against my cousin's skinny ass cheeks!{/i}"
 
 # game/UpdateScript0.06.rpy:8110## # translate crowdin ryan_lauren_and_mandy_651ea658_1:
-msgid "LT "{i}This is the hottest thing that's ever happened to me!{/i}"
-    LT "{i}This is the hottest thing that's ever happened to me!{/i}"
+msgid "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
+msgstr "[LT] {i}This is the hottest thing that's ever happened to me!{/i}"
 
 # game/UpdateScript0.06.rpy:8111## # translate crowdin ryan_lauren_and_mandy_81f2a63c:
 msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
@@ -13563,8 +13563,8 @@ msgid "L "We're not faking!"
     L "We're not faking!"
 
 # game/UpdateScript0.06.rpy:8198## # translate crowdin diaz_lauren_and_mandy_bfc788a0:
-msgid "LT "{i}Shit, am I really that easy to read?{/i}"
-    LT "{i}Shit, am I really that easy to read?{/i}"
+msgid "[LT] {i}Shit, am I really that easy to read?{/i}"
+msgstr "[LT] {i}Shit, am I really that easy to read?{/i}"
 
 # game/UpdateScript0.06.rpy:8199## # translate crowdin diaz_lauren_and_mandy_78bf7267:
 msgid "MDT "{i}How could she tell?{/i}"
@@ -13643,8 +13643,8 @@ msgid "[R] I choose you to be spanked."
 msgstr "[R] I choose you to be spanked."
 
 # game/UpdateScript0.06.rpy:8231## # translate crowdin diaz_lauren_and_mandy_23a69485:
-msgid "LT "{i}He chose me!?... Not that I mind being spanked so much... fuck, I kinda like it... but why would he choose me?{/i}"
-    LT "{i}He chose me!?... Not that I mind being spanked so much... fuck, I kinda like it... but why would he choose me?{/i}"
+msgid "[LT] {i}He chose me!?... Not that I mind being spanked so much... fuck, I kinda like it... but why would he choose me?{/i}"
+msgstr "[LT] {i}He chose me!?... Not that I mind being spanked so much... fuck, I kinda like it... but why would he choose me?{/i}"
 
 # game/UpdateScript0.06.rpy:8232## # translate crowdin diaz_lauren_and_mandy_c0e31f23:
 msgid "{i}{b}\"Mandy's Affection +1\"{/b}{/i}"
@@ -13751,28 +13751,28 @@ msgid "[RT] {i}And my dick's harder than diamonds... maybe I'm a sadist too?{/i}
 msgstr "[RT] {i}And my dick's harder than diamonds... maybe I'm a sadist too?{/i}"
 
 # game/UpdateScript0.06.rpy:8278## # translate crowdin diaz_lauren_and_mandy_f568cac0:
-msgid "LT "{i}Oww... my ass is so sensitive!{/i}"
-    LT "{i}Oww... my ass is so sensitive!{/i}"
+msgid "[LT] {i}Oww... my ass is so sensitive!{/i}"
+msgstr "[LT] {i}Oww... my ass is so sensitive!{/i}"
 
 # game/UpdateScript0.06.rpy:8279## # translate crowdin diaz_lauren_and_mandy_108dfcbe:
-msgid "LT "{i}This really hurts!...{/i}"
-    LT "{i}This really hurts!...{/i}"
+msgid "[LT] {i}This really hurts!...{/i}"
+msgstr "[LT] {i}This really hurts!...{/i}"
 
 # game/UpdateScript0.06.rpy:8280## # translate crowdin diaz_lauren_and_mandy_441351fb:
-msgid "LT "{i}So why do I kind of like it?{/i}"
-    LT "{i}So why do I kind of like it?{/i}"
+msgid "[LT] {i}So why do I kind of like it?{/i}"
+msgstr "[LT] {i}So why do I kind of like it?{/i}"
 
 # game/UpdateScript0.06.rpy:8281## # translate crowdin diaz_lauren_and_mandy_1ebfc38d:
-msgid "LT "...."
-    LT "...."
+msgid "[LT] ...."
+msgstr "[LT] ...."
 
 # game/UpdateScript0.06.rpy:8282## # translate crowdin diaz_lauren_and_mandy_f5659ad9:
-msgid "LT "{i}This is starting to make me wet!{/i}"
-    LT "{i}This is starting to make me wet!{/i}"
+msgid "[LT] {i}This is starting to make me wet!{/i}"
+msgstr "[LT] {i}This is starting to make me wet!{/i}"
 
 # game/UpdateScript0.06.rpy:8283## # translate crowdin diaz_lauren_and_mandy_7a502305:
-msgid "LT "{i}Fuck! Mandy is going to notice!{/i}"
-    LT "{i}Fuck! Mandy is going to notice!{/i}"
+msgid "[LT] {i}Fuck! Mandy is going to notice!{/i}"
+msgstr "[LT] {i}Fuck! Mandy is going to notice!{/i}"
 
 # game/UpdateScript0.06.rpy:8284## # translate crowdin diaz_lauren_and_mandy_81f2a63c:
 msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
@@ -14011,40 +14011,40 @@ msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 msgstr "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8382## # translate crowdin diaz_lauren_and_mandy_6dc4a179:
-msgid "LT "{i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
-    LT "{i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
+msgid "[LT] {i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
+msgstr "[LT] {i}As if my life couldn't get any weirder, now I'm being forced to spank my cousin!{/i}"
 
 # game/UpdateScript0.06.rpy:8383## # translate crowdin diaz_lauren_and_mandy_ef059a0a:
-msgid "LT "{i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
-    LT "{i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
+msgid "[LT] {i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
+msgstr "[LT] {i}I'm being blackmailed by an authoritative, dominatrix-like woman! Could this get any kinkier?{/i}"
 
 # game/UpdateScript0.06.rpy:8384## # translate crowdin diaz_lauren_and_mandy_1ebfc38d_1:
-msgid "LT "...."
-    LT "...."
+msgid "[LT] ...."
+msgstr "[LT] ...."
 
 # game/UpdateScript0.06.rpy:8386## # translate crowdin diaz_lauren_and_mandy_4f09e8b7:
-msgid "LT "{i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
-    LT "{i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
+msgid "[LT] {i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
+msgstr "[LT] {i}OH MY GOD!! Are Mandy's panties starting to get wet?{/i}"
 
 # game/UpdateScript0.06.rpy:8388## # translate crowdin diaz_lauren_and_mandy_b9b92d59:
-msgid "LT "{i}OH MY GOD!! Are Mandy's panties getting wet again?{/i}"
-    LT "{i}OH MY GOD!! Are Mandy's panties getting wet again?{/i}"
+msgid "[LT] {i}OH MY GOD!! Are Mandy's panties getting wet again?{/i}"
+msgstr "[LT] {i}OH MY GOD!! Are Mandy's panties getting wet again?{/i}"
 
 # game/UpdateScript0.06.rpy:8389## # translate crowdin diaz_lauren_and_mandy_65d9a5fb:
-msgid "LT "{i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
-    LT "{i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
+msgid "[LT] {i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
+msgstr "[LT] {i}Could she really be getting this turned on? Or is her bladder leaking from fright?{/i}"
 
 # game/UpdateScript0.06.rpy:8390## # translate crowdin diaz_lauren_and_mandy_70ad59c6:
-msgid "LT "{i}Is Mandy into this?{/i}"
-    LT "{i}Is Mandy into this?{/i}"
+msgid "[LT] {i}Is Mandy into this?{/i}"
+msgstr "[LT] {i}Is Mandy into this?{/i}"
 
 # game/UpdateScript0.06.rpy:8391## # translate crowdin diaz_lauren_and_mandy_f75f11de:
-msgid "LT "{i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
-    LT "{i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
+msgid "[LT] {i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
+msgstr "[LT] {i}If she's enjoying my hand slapping her ass cheeks... Fuck!... Now I'm super turned on!{/i}"
 
 # game/UpdateScript0.06.rpy:8392## # translate crowdin diaz_lauren_and_mandy_a3c4c051:
-msgid "LT "{i}At least nobody can see my panties.{/i}"
-    LT "{i}At least nobody can see my panties.{/i}"
+msgid "[LT] {i}At least nobody can see my panties.{/i}"
+msgstr "[LT] {i}At least nobody can see my panties.{/i}"
 
 # game/UpdateScript0.06.rpy:8393## # translate crowdin diaz_lauren_and_mandy_81f2a63c_1:
 msgid "{i}{b}\"Lauren's Libido +3\"{/b}{/i}"
@@ -14131,8 +14131,8 @@ msgid "L "Well, besides the fact that I was tied up, gagged, and was spanked raw
     L "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
 
 # game/UpdateScript0.06.rpy:8437## # translate crowdin diaz_lauren_and_mandy_0d24c58f:
-msgid "LT "{i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
-    LT "{i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
+msgid "[LT] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
+msgstr "[LT] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Mandy noticed that my panties were soaked.{/i}"
 
 # game/UpdateScript0.06.rpy:8439## # translate crowdin diaz_lauren_and_mandy_5ca0c424:
 msgid "MD "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousins, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
@@ -14163,12 +14163,12 @@ msgid "L "I'm so sorry! I really didn't want to do that."
     L "I'm so sorry! I really didn't want to do that."
 
 # game/UpdateScript0.06.rpy:8450## # translate crowdin diaz_lauren_and_mandy_6de964e5:
-msgid "LT "{i}Fuck, why was spanking Mandy so fun?{/i}"
-    LT "{i}Fuck, why was spanking Mandy so fun?{/i}"
+msgid "[LT] {i}Fuck, why was spanking Mandy so fun?{/i}"
+msgstr "[LT] {i}Fuck, why was spanking Mandy so fun?{/i}"
 
 # game/UpdateScript0.06.rpy:8451## # translate crowdin diaz_lauren_and_mandy_9bdae2f8:
-msgid "LT "{i}I really need to rub one out now.{/i}"
-    LT "{i}I really need to rub one out now.{/i}"
+msgid "[LT] {i}I really need to rub one out now.{/i}"
+msgstr "[LT] {i}I really need to rub one out now.{/i}"
 
 # game/UpdateScript0.06.rpy:8452## # translate crowdin diaz_lauren_and_mandy_f83e6be1:
 msgid "MD "I know... it was fucking Agent Diaz!"
@@ -14195,8 +14195,8 @@ msgid "L "Oh, please do!"
     L "Oh, please do!"
 
 # game/UpdateScript0.06.rpy:8464## # translate crowdin diaz_lauren_and_mandy_805bc0d5:
-msgid "LT "{i}I can't let this new fetish get any stronger!{/i}"
-    LT "{i}I can't let this new fetish get any stronger!{/i}"
+msgid "[LT] {i}I can't let this new fetish get any stronger!{/i}"
+msgstr "[LT] {i}I can't let this new fetish get any stronger!{/i}"
 
 # game/UpdateScript0.06.rpy:8465## # translate crowdin diaz_lauren_and_mandy_53b56b66:
 msgid "MD "Yes, please try your hardest!"
