@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Booble_screen.po\n"
+"X-Crowdin-File-ID: 1283\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2022-01-03 17:51\n"
+
+# TODO: Translation updated at 2022-01-02 20:48## # game/Booble_screen.rpy:51## # translate crowdin booble_search_f6ce98ce:
+msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
+msgstr ""
+
+# game/Booble_screen.rpy:67## # translate crowdin booble_search_ce876757:
+msgid "[RT] {i}What should I do today on the internet?{/i}"
+msgstr ""
+
+msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
+msgstr ""
+
+#    # game/Booble_screen.rpy:39
+msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
+msgstr ""
+
