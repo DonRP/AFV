@@ -6267,112 +6267,112 @@ msgid "[RT] {i}I wonder where he is?{/i}"
 msgstr "[RT] {i}I wonder where he is?{/i}"
 
 # game/script.rpy:7318## # translate crowdin warehouse_165aa5b6:
-msgid "B "Oh good, you're finally here!"
-    B "Oh good, you're finally here!"
+msgid "[B] Oh good, you're finally here!"
+msgstr "[B] Oh good, you're finally here!"
 
 # game/script.rpy:7319## # translate crowdin warehouse_b960ac28:
 msgid "[R] .... What in the hell is going on, Uncle Bobby?..."
 msgstr "[R] .... What in the hell is going on, Uncle Bobby?..."
 
 # game/script.rpy:7325## # translate crowdin warehouse_940322ed:
-msgid "B "Relax kid, you're out of breath, have some whisky or something."
-    B "Relax kid, you're out of breath, have some whisky or something."
+msgid "[B] Relax kid, you're out of breath, have some whisky or something."
+msgstr "[B] Relax kid, you're out of breath, have some whisky or something."
 
 # game/script.rpy:7326## # translate crowdin warehouse_5e387863:
 msgid "[R] I'm too young to drink."
 msgstr "[R] I'm too young to drink."
 
 # game/script.rpy:7327## # translate crowdin warehouse_beccd142:
-msgid "B "Ehh.... suit yourself. More for me. {p}God knows I need a few more!"
-    B "Ehh.... suit yourself. More for me. {p}God knows I need a few more!"
+msgid "[B] Ehh.... suit yourself. More for me. {p}God knows I need a few more!"
+msgstr "[B] Ehh.... suit yourself. More for me. {p}God knows I need a few more!"
 
 # game/script.rpy:7330## # translate crowdin warehouse_c3754572:
 msgid "[R] What's going on, Uncle Bobby?"
 msgstr "[R] What's going on, Uncle Bobby?"
 
 # game/script.rpy:7331## # translate crowdin warehouse_d9714301:
-msgid "B "The Feds got wise to us, is what's going on."
-    B "The Feds got wise to us, is what's going on."
+msgid "[B] The Feds got wise to us, is what's going on."
+msgstr "[B] The Feds got wise to us, is what's going on."
 
 # game/script.rpy:7332## # translate crowdin warehouse_6d663920:
 msgid "[R] The Feds got wise to what?"
 msgstr "[R] The Feds got wise to what?"
 
 # game/script.rpy:7334## # translate crowdin warehouse_51c79197:
-msgid "B "To our not so legitimate business operations."
-    B "To our not so legitimate business operations."
+msgid "[B] To our not so legitimate business operations."
+msgstr "[B] To our not so legitimate business operations."
 
 # game/script.rpy:7335## # translate crowdin warehouse_135bab17:
 msgid "[R] .... {p}..."
 msgstr "[R] .... {p}..."
 
 # game/script.rpy:7338## # translate crowdin warehouse_8edf5fea:
-msgid "B "To the fact that we have been facilitating the movement of items of questionable legality for groups of questionable reputation."
-    B "To the fact that we have been facilitating the movement of items of questionable legality for groups of questionable reputation."
+msgid "[B] To the fact that we have been facilitating the movement of items of questionable legality for groups of questionable reputation."
+msgstr "[B] To the fact that we have been facilitating the movement of items of questionable legality for groups of questionable reputation."
 
 # game/script.rpy:7339## # translate crowdin warehouse_025e06ed:
 msgid "[R] .... What?.... Dad's been breaking the law?!"
 msgstr "[R] .... What?.... Dad's been breaking the law?!"
 
 # game/script.rpy:7344## # translate crowdin warehouse_ce3db431:
-msgid "B "More like skirting the law, but the Feds don't seem to notice no distinction."
-    B "More like skirting the law, but the Feds don't seem to notice no distinction."
+msgid "[B] More like skirting the law, but the Feds don't seem to notice no distinction."
+msgstr "[B] More like skirting the law, but the Feds don't seem to notice no distinction."
 
 # game/script.rpy:7345## # translate crowdin warehouse_ae6b9e0a:
 msgid "[R] .... I.... I.... can't believe this? my father's a real-life criminal?"
 msgstr "[R] .... I.... I.... can't believe this? my father's a real-life criminal?"
 
 # game/script.rpy:7346## # translate crowdin warehouse_af6e5a84:
-msgid "B "Yeah.... well, don't think too bad of your old man. {p}Your family's been living pretty well as a result of his hard work."
-    B "Yeah.... well, don't think too bad of your old man. {p}Your family's been living pretty well as a result of his hard work."
+msgid "[B] Yeah.... well, don't think too bad of your old man. {p}Your family's been living pretty well as a result of his hard work."
+msgstr "[B] Yeah.... well, don't think too bad of your old man. {p}Your family's been living pretty well as a result of his hard work."
 
 # game/script.rpy:7347## # translate crowdin warehouse_76d9c334:
-msgid "B "He's built this business from nothing, and taken some incredible risks along the way. {p}All of which have paid off in the end."
-    B "He's built this business from nothing, and taken some incredible risks along the way. {p}All of which have paid off in the end."
+msgid "[B] He's built this business from nothing, and taken some incredible risks along the way. {p}All of which have paid off in the end."
+msgstr "[B] He's built this business from nothing, and taken some incredible risks along the way. {p}All of which have paid off in the end."
 
 # game/script.rpy:7348## # translate crowdin warehouse_cbe256b2:
 msgid "[R] Paid off!?! He's in fucking jail!"
 msgstr "[R] Paid off!?! He's in fucking jail!"
 
 # game/script.rpy:7351## # translate crowdin warehouse_82dc4be9:
-msgid "B "Yeah, well... present circumstances excluded."
-    B "Yeah, well... present circumstances excluded."
+msgid "[B] Yeah, well... present circumstances excluded."
+msgstr "[B] Yeah, well... present circumstances excluded."
 
 # game/script.rpy:7352## # translate crowdin warehouse_1fa0f073:
 msgid "[R] How did he get caught?"
 msgstr "[R] How did he get caught?"
 
 # game/script.rpy:7353## # translate crowdin warehouse_aaefc696:
-msgid "B "They busted him last night on a late delivery.{p}Luckily he wasn't in a company ride, or on company property, but now we're being heavily watched and investigated."
-    B "They busted him last night on a late delivery.{p}Luckily he wasn't in a company ride, or on company property, but now we're being heavily watched and investigated."
+msgid "[B] They busted him last night on a late delivery.{p}Luckily he wasn't in a company ride, or on company property, but now we're being heavily watched and investigated."
+msgstr "[B] They busted him last night on a late delivery.{p}Luckily he wasn't in a company ride, or on company property, but now we're being heavily watched and investigated."
 
 # game/script.rpy:7354## # translate crowdin warehouse_511162c5:
 msgid "[R] Dad said on the phone that we could be in danger, or trouble?"
 msgstr "[R] Dad said on the phone that we could be in danger, or trouble?"
 
 # game/script.rpy:7357## # translate crowdin warehouse_9681d2f8:
-msgid "B "Yes.... so that's the tricky part. {p}Your dad recently took out a sizable loan from the DeCapo crime family."
-    B "Yes.... so that's the tricky part. {p}Your dad recently took out a sizable loan from the DeCapo crime family."
+msgid "[B] Yes.... so that's the tricky part. {p}Your dad recently took out a sizable loan from the DeCapo crime family."
+msgstr "[B] Yes.... so that's the tricky part. {p}Your dad recently took out a sizable loan from the DeCapo crime family."
 
 # game/script.rpy:7358## # translate crowdin warehouse_204954ad:
-msgid "B "It's a personal handshake loan, no paper trail, so the feds have no idea about it. {p}But just because your dads going to be in prison, doesn't mean they don't expect to be paid."
-    B "It's a personal handshake loan, no paper trail, so the feds have no idea about it. {p}But just because your dads going to be in prison, doesn't mean they don't expect to be paid."
+msgid "[B] It's a personal handshake loan, no paper trail, so the feds have no idea about it. {p}But just because your dads going to be in prison, doesn't mean they don't expect to be paid."
+msgstr "[B] It's a personal handshake loan, no paper trail, so the feds have no idea about it. {p}But just because your dads going to be in prison, doesn't mean they don't expect to be paid."
 
 # game/script.rpy:7359## # translate crowdin warehouse_9929a7d0:
-msgid "B "The good news is we talked this morning, and I let 'em know about present circumstances."
-    B "The good news is we talked this morning, and I let 'em know about present circumstances."
+msgid "[B] The good news is we talked this morning, and I let 'em know about present circumstances."
+msgstr "[B] The good news is we talked this morning, and I let 'em know about present circumstances."
 
 # game/script.rpy:7360## # translate crowdin warehouse_2f13d636:
-msgid "B "As a good will gesture to [dad_name] for not ratting them out, they said they're willing to accept interest-only payments for a short while, until we can figure something else out."
-    B "As a good will gesture to [dad_name] for not ratting them out, they said they're willing to accept interest-only payments for a short while, until we can figure something else out."
+msgid "[B] As a good will gesture to [dad_name] for not ratting them out, they said they're willing to accept interest-only payments for a short while, until we can figure something else out."
+msgstr "[B] As a good will gesture to [dad_name] for not ratting them out, they said they're willing to accept interest-only payments for a short while, until we can figure something else out."
 
 # game/script.rpy:7361## # translate crowdin warehouse_78bbc9bc:
 msgid "[R] WHAT?.... We're expected to pay Dad's loan while he's in prison?..."
 msgstr "[R] WHAT?.... We're expected to pay Dad's loan while he's in prison?..."
 
 # game/script.rpy:7362## # translate crowdin warehouse_2060f60e:
-msgid "B "Well, [dad_name] used his household as collateral, and since we're dealing with the Mafia, that includes human capital. So, if you don't pay, they'll basically human traffic you into white slavery... Even you pretty boy."
-    B "Well, [dad_name] used his household as collateral, and since we're dealing with the Mafia, that includes human capital. So, if you don't pay, they'll basically human traffic you into white slavery... Even you pretty boy."
+msgid "[B] Well, [dad_name] used his household as collateral, and since we're dealing with the Mafia, that includes human capital. So, if you don't pay, they'll basically human traffic you into white slavery... Even you pretty boy."
+msgstr "[B] Well, [dad_name] used his household as collateral, and since we're dealing with the Mafia, that includes human capital. So, if you don't pay, they'll basically human traffic you into white slavery... Even you pretty boy."
 
 # game/script.rpy:7363## # translate crowdin warehouse_d9f5fd82:
 msgid "[R] Fuck!"
@@ -6383,24 +6383,24 @@ msgid "[R] Can't you?.... Or.... or.... or.... the business pay back the loan fo
 msgstr "[R] Can't you?.... Or.... or.... or.... the business pay back the loan for us?"
 
 # game/script.rpy:7367## # translate crowdin warehouse_a2b2d6a4:
-msgid "B "I'm sorry, but this is strictly off the books, and the Feds have seized all our cash, frozen all of our assets and accounts, including my personal ones."
-    B "I'm sorry, but this is strictly off the books, and the Feds have seized all our cash, frozen all of our assets and accounts, including my personal ones."
+msgid "[B] I'm sorry, but this is strictly off the books, and the Feds have seized all our cash, frozen all of our assets and accounts, including my personal ones."
+msgstr "[B] I'm sorry, but this is strictly off the books, and the Feds have seized all our cash, frozen all of our assets and accounts, including my personal ones."
 
 # game/script.rpy:7368## # translate crowdin warehouse_2e5cdc15:
-msgid "B "We have a federal accountant in our office, right now, as we speak, that will be controlling all the movement of funds until the investigation is over."
-    B "We have a federal accountant in our office, right now, as we speak, that will be controlling all the movement of funds until the investigation is over."
+msgid "[B] We have a federal accountant in our office, right now, as we speak, that will be controlling all the movement of funds until the investigation is over."
+msgstr "[B] We have a federal accountant in our office, right now, as we speak, that will be controlling all the movement of funds until the investigation is over."
 
 # game/script.rpy:7369## # translate crowdin warehouse_8879c2e3:
-msgid "B "If I had anything extra to give you, it would be yours, but I have to take care of my own wife and daughter. The Feds will only allow me enough to survive on."
-    B "If I had anything extra to give you, it would be yours, but I have to take care of my own wife and daughter. The Feds will only allow me enough to survive on."
+msgid "[B] If I had anything extra to give you, it would be yours, but I have to take care of my own wife and daughter. The Feds will only allow me enough to survive on."
+msgstr "[B] If I had anything extra to give you, it would be yours, but I have to take care of my own wife and daughter. The Feds will only allow me enough to survive on."
 
 # game/script.rpy:7370## # translate crowdin warehouse_5e9fae11:
 msgid "[R] Can't we just tell the police about the DeCapos?"
 msgstr "[R] Can't we just tell the police about the DeCapos?"
 
 # game/script.rpy:7371## # translate crowdin warehouse_0d714617:
-msgid "B "If you want the DeCapos to put a hit on your old man, they can get him in prison you know.{p}But they'll come after his wife first, to teach him a lesson.{p}They have people everywhere. The police can't protect her."
-    B "If you want the DeCapos to put a hit on your old man, they can get him in prison you know.{p}But they'll come after his wife first, to teach him a lesson.{p}They have people everywhere. The police can't protect her."
+msgid "[B] If you want the DeCapos to put a hit on your old man, they can get him in prison you know.{p}But they'll come after his wife first, to teach him a lesson.{p}They have people everywhere. The police can't protect her."
+msgstr "[B] If you want the DeCapos to put a hit on your old man, they can get him in prison you know.{p}But they'll come after his wife first, to teach him a lesson.{p}They have people everywhere. The police can't protect her."
 
 # game/script.rpy:7374## # translate crowdin warehouse_c270d39d:
 msgid "[R] Shit..."
@@ -6419,128 +6419,128 @@ msgid "[R] Well, how much are the payments?"
 msgstr "[R] Well, how much are the payments?"
 
 # game/script.rpy:7378## # translate crowdin warehouse_f02f767c:
-msgid "B "For now.... only $1,000 dollars each week."
-    B "For now.... only $1,000 dollars each week."
+msgid "[B] For now.... only $1,000 dollars each week."
+msgstr "[B] For now.... only $1,000 dollars each week."
 
 # game/script.rpy:7379## # translate crowdin warehouse_c7f3014f:
 msgid "[R] Pfft.... $1,000 DOLLARS EACH WEEK? I'm only in high school. Where am I going to come up with that kind of cash?"
 msgstr "[R] Pfft.... $1,000 DOLLARS EACH WEEK? I'm only in high school. Where am I going to come up with that kind of cash?"
 
 # game/script.rpy:7380## # translate crowdin warehouse_fa1a9a42:
-msgid "B "Just relax kid, I have a way for you to make some extra money."
-    B "Just relax kid, I have a way for you to make some extra money."
+msgid "[B] Just relax kid, I have a way for you to make some extra money."
+msgstr "[B] Just relax kid, I have a way for you to make some extra money."
 
 # game/script.rpy:7381## # translate crowdin warehouse_b153a8eb:
-msgid "B "We still have a pretty large pile of contraband in our underground warehouse, and we still have clients who expect delivery of said goods."
-    B "We still have a pretty large pile of contraband in our underground warehouse, and we still have clients who expect delivery of said goods."
+msgid "[B] We still have a pretty large pile of contraband in our underground warehouse, and we still have clients who expect delivery of said goods."
+msgstr "[B] We still have a pretty large pile of contraband in our underground warehouse, and we still have clients who expect delivery of said goods."
 
 # game/script.rpy:7382## # translate crowdin warehouse_565c411d:
-msgid "B "If you can come here during the afternoons, you can make these deliveries for us. I even have a little pizza box container we can attach right onto your scooter to carry the packages."
-    B "If you can come here during the afternoons, you can make these deliveries for us. I even have a little pizza box container we can attach right onto your scooter to carry the packages."
+msgid "[B] If you can come here during the afternoons, you can make these deliveries for us. I even have a little pizza box container we can attach right onto your scooter to carry the packages."
+msgstr "[B] If you can come here during the afternoons, you can make these deliveries for us. I even have a little pizza box container we can attach right onto your scooter to carry the packages."
 
 # game/script.rpy:7383## # translate crowdin warehouse_4f5187e9:
-msgid "B "No one will ever suspect a young pizza delivery boy."
-    B "No one will ever suspect a young pizza delivery boy."
+msgid "[B] No one will ever suspect a young pizza delivery boy."
+msgstr "[B] No one will ever suspect a young pizza delivery boy."
 
 # game/script.rpy:7384## # translate crowdin warehouse_e277ab6f:
-msgid "B "The clients will pay you directly, and you can keep the money they give you."
-    B "The clients will pay you directly, and you can keep the money they give you."
+msgid "[B] The clients will pay you directly, and you can keep the money they give you."
+msgstr "[B] The clients will pay you directly, and you can keep the money they give you."
 
 # game/script.rpy:7385## # translate crowdin warehouse_b85c8284:
-msgid "B "Some of them are fairly generous and will even give you some decent tips."
-    B "Some of them are fairly generous and will even give you some decent tips."
+msgid "[B] Some of them are fairly generous and will even give you some decent tips."
+msgstr "[B] Some of them are fairly generous and will even give you some decent tips."
 
 # game/script.rpy:7386## # translate crowdin warehouse_a7ee666b:
-msgid "B "The FBI has no reason to suspect you, so it should be relatively low risk."
-    B "The FBI has no reason to suspect you, so it should be relatively low risk."
+msgid "[B] The FBI has no reason to suspect you, so it should be relatively low risk."
+msgstr "[B] The FBI has no reason to suspect you, so it should be relatively low risk."
 
 # game/script.rpy:7389## # translate crowdin warehouse_fcfaead7:
-msgid "B "If you're not able to make the deliveries some days, or if you find a better way to make the cash, I'll just have to make the deliveries myself.{p}It will be riskier since I'm being watched, but the deliveries have to be made."
-    B "If you're not able to make the deliveries some days, or if you find a better way to make the cash, I'll just have to make the deliveries myself.{p}It will be riskier since I'm being watched, but the deliveries have to be made."
+msgid "[B] If you're not able to make the deliveries some days, or if you find a better way to make the cash, I'll just have to make the deliveries myself.{p}It will be riskier since I'm being watched, but the deliveries have to be made."
+msgstr "[B] If you're not able to make the deliveries some days, or if you find a better way to make the cash, I'll just have to make the deliveries myself.{p}It will be riskier since I'm being watched, but the deliveries have to be made."
 
 # game/script.rpy:7390## # translate crowdin warehouse_6da3d2ad:
-msgid "B "So what do you think?"
-    B "So what do you think?"
+msgid "[B] So what do you think?"
+msgstr "[B] So what do you think?"
 
 # game/script.rpy:7391## # translate crowdin warehouse_9bf309f8:
 msgid "[R] .... {p}I don't think I have a choice,{p}.... so I guess I'm in?..."
 msgstr "[R] .... {p}I don't think I have a choice,{p}.... so I guess I'm in?..."
 
 # game/script.rpy:7392## # translate crowdin warehouse_83527637:
-msgid "B "Great!.... Oh, and here's the little bit of cash I do have,"
-    B "Great!.... Oh, and here's the little bit of cash I do have,"
+msgid "[B] Great!.... Oh, and here's the little bit of cash I do have,"
+msgstr "[B] Great!.... Oh, and here's the little bit of cash I do have,"
 
 # game/script.rpy:7393## # translate crowdin warehouse_4b92a463:
 msgid "{i}Received $300 dollars.{/i}"
 msgstr "{i}Received $300 dollars.{/i}"
 
 # game/script.rpy:7395## # translate crowdin warehouse_d1956e4e:
-msgid "B "Hopefully It can help you make this week's payment."
-    B "Hopefully It can help you make this week's payment."
+msgid "[B] Hopefully It can help you make this week's payment."
+msgstr "[B] Hopefully It can help you make this week's payment."
 
 # game/script.rpy:7396## # translate crowdin warehouse_e1f2b25b:
 msgid "[R] .... Thanks.... oh, and how do I make the payments?"
 msgstr "[R] .... Thanks.... oh, and how do I make the payments?"
 
 # game/script.rpy:7397## # translate crowdin warehouse_3321e8aa:
-msgid "B "Every Saturday evening, the DeCapos will send a couple guys to your front door to pick up the money."
-    B "Every Saturday evening, the DeCapos will send a couple guys to your front door to pick up the money."
+msgid "[B] Every Saturday evening, the DeCapos will send a couple guys to your front door to pick up the money."
+msgstr "[B] Every Saturday evening, the DeCapos will send a couple guys to your front door to pick up the money."
 
 # game/script.rpy:7402## # translate crowdin warehouse_f8901a9a:
-msgid "B "You pay them the money and bada bing bada boom, they'll be on their merry way."
-    B "You pay them the money and bada bing bada boom, they'll be on their merry way."
+msgid "[B] You pay them the money and bada bing bada boom, they'll be on their merry way."
+msgstr "[B] You pay them the money and bada bing bada boom, they'll be on their merry way."
 
 # game/script.rpy:7403## # translate crowdin warehouse_2e2597b4:
 msgid "[R] Saturday!.... But that's today!!.... How will I get the money together by this evening?"
 msgstr "[R] Saturday!.... But that's today!!.... How will I get the money together by this evening?"
 
 # game/script.rpy:7404## # translate crowdin warehouse_2e40b049:
-msgid "B "With the $300 I gave you, and if you make deliveries today. And hopefully your mom has a little cash on her. Hopefully you'll have enough..."
-    B "With the $300 I gave you, and if you make deliveries today. And hopefully your mom has a little cash on her. Hopefully you'll have enough..."
+msgid "[B] With the $300 I gave you, and if you make deliveries today. And hopefully your mom has a little cash on her. Hopefully you'll have enough..."
+msgstr "[B] With the $300 I gave you, and if you make deliveries today. And hopefully your mom has a little cash on her. Hopefully you'll have enough..."
 
 # game/script.rpy:7405## # translate crowdin warehouse_5bde93f0:
-msgid "B ".... I'll be praying to the Virgin Mary that you can make it."
-    B ".... I'll be praying to the Virgin Mary that you can make it."
+msgid "[B] .... I'll be praying to the Virgin Mary that you can make it."
+msgstr "[B] .... I'll be praying to the Virgin Mary that you can make it."
 
 # game/script.rpy:7406## # translate crowdin warehouse_50e6e46b:
 msgid "[R] {i}(sarcastically){/i} Oh.... that's a relief."
 msgstr "[R] {i}(sarcastically){/i} Oh.... that's a relief."
 
 # game/script.rpy:7409## # translate crowdin warehouse_8e7b0cfd:
-msgid "B "Sorry.... I wish there was more I could do.... If there was anything else I'd do it."
-    B "Sorry.... I wish there was more I could do.... If there was anything else I'd do it."
+msgid "[B] Sorry.... I wish there was more I could do.... If there was anything else I'd do it."
+msgstr "[B] Sorry.... I wish there was more I could do.... If there was anything else I'd do it."
 
 # game/script.rpy:7410## # translate crowdin warehouse_3b7fe14e:
 msgid "[R] I know.... really.... thanks for helping us out."
 msgstr "[R] I know.... really.... thanks for helping us out."
 
 # game/script.rpy:7411## # translate crowdin warehouse_2c07c7fb:
-msgid "B "You're welcome! And be safe on your deliveries. Try to make sure no one is following you, and if they are, return here immediately."
-    B "You're welcome! And be safe on your deliveries. Try to make sure no one is following you, and if they are, return here immediately."
+msgid "[B] You're welcome! And be safe on your deliveries. Try to make sure no one is following you, and if they are, return here immediately."
+msgstr "[B] You're welcome! And be safe on your deliveries. Try to make sure no one is following you, and if they are, return here immediately."
 
 # game/script.rpy:7412## # translate crowdin warehouse_26b21b96:
 msgid "[R] Alright, I'll keep an eye out,{p}and thanks again."
 msgstr "[R] Alright, I'll keep an eye out,{p}and thanks again."
 
 # game/script.rpy:7413## # translate crowdin warehouse_bea28f61:
-msgid "B "Oh Right.... one more thing I almost forgot! If your mom asks what you're doing to make this extra money, just tell her you're doing some janitorial work for us."
-    B "Oh Right.... one more thing I almost forgot! If your mom asks what you're doing to make this extra money, just tell her you're doing some janitorial work for us."
+msgid "[B] Oh Right.... one more thing I almost forgot! If your mom asks what you're doing to make this extra money, just tell her you're doing some janitorial work for us."
+msgstr "[B] Oh Right.... one more thing I almost forgot! If your mom asks what you're doing to make this extra money, just tell her you're doing some janitorial work for us."
 
 # game/script.rpy:7414## # translate crowdin warehouse_667ccf63:
-msgid "B "I don't thinks she'd be too thrilled if she suspected you were making deliveries for your old man."
-    B "I don't thinks she'd be too thrilled if she suspected you were making deliveries for your old man."
+msgid "[B] I don't thinks she'd be too thrilled if she suspected you were making deliveries for your old man."
+msgstr "[B] I don't thinks she'd be too thrilled if she suspected you were making deliveries for your old man."
 
 # game/script.rpy:7417## # translate crowdin warehouse_ae87b134:
-msgid "B "Capisce?"
-    B "Capisce?"
+msgid "[B] Capisce?"
+msgstr "[B] Capisce?"
 
 # game/script.rpy:7418## # translate crowdin warehouse_c47d0d46:
 msgid "[R] Yeah.... I capisce."
 msgstr "[R] Yeah.... I capisce."
 
 # game/script.rpy:7419## # translate crowdin warehouse_c9fb94af:
-msgid "B "Great, now go hook that pizza box to your scooter, and go make some deliveries."
-    B "Great, now go hook that pizza box to your scooter, and go make some deliveries."
+msgid "[B] Great, now go hook that pizza box to your scooter, and go make some deliveries."
+msgstr "[B] Great, now go hook that pizza box to your scooter, and go make some deliveries."
 
 # game/script.rpy:7432## # translate crowdin warehouse_187a476b:
 msgid "{i}\"You received $200 and no tips.\"{/i}"

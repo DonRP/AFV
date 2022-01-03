@@ -791,12 +791,12 @@ msgid "[AD] This kid's going places."
 msgstr "[AD] This kid's going places."
 
 # game/UpdateScript0.06.rpy:1065## # translate crowdin posting_ph_pics_ccccbec2:
-msgid "B "Oh... No way! How'd that fucker get my sister-in-law to pose for pics like that?"
-    B "Oh... No way! How'd that fucker get my sister-in-law to pose for pics like that?"
+msgid "[B] Oh... No way! How'd that fucker get my sister-in-law to pose for pics like that?"
+msgstr "[B] Oh... No way! How'd that fucker get my sister-in-law to pose for pics like that?"
 
 # game/UpdateScript0.06.rpy:1066## # translate crowdin posting_ph_pics_bdece2c3:
-msgid "B "These pics are going into my \"Wank_Later\" folder."
-    B "These pics are going into my \"Wank_Later\" folder."
+msgid "[B] These pics are going into my \"Wank_Later\" folder."
+msgstr "[B] These pics are going into my \"Wank_Later\" folder."
 
 # game/UpdateScript0.06.rpy:1074## # translate crowdin posting_ph_pics_c99bbd82:
 msgid "WTT "{i}Well, well, well, one of our teachers is taking pictures with one of her students...{/i}"
@@ -855,12 +855,12 @@ msgid "[AD] I love this kid!"
 msgstr "[AD] I love this kid!"
 
 # game/UpdateScript0.06.rpy:1124## # translate crowdin posting_ph_pics_f910045c:
-msgid "B "YES!... Just what I was hoping for today!"
-    B "YES!... Just what I was hoping for today!"
+msgid "[B] YES!... Just what I was hoping for today!"
+msgstr "[B] YES!... Just what I was hoping for today!"
 
 # game/UpdateScript0.06.rpy:1125## # translate crowdin posting_ph_pics_bdece2c3_1:
-msgid "B "These pics are going into my \"Wank_Later\" folder."
-    B "These pics are going into my \"Wank_Later\" folder."
+msgid "[B] These pics are going into my \"Wank_Later\" folder."
+msgstr "[B] These pics are going into my \"Wank_Later\" folder."
 
 # game/UpdateScript0.06.rpy:1133## # translate crowdin posting_ph_pics_9c54902b:
 msgid "WTT "{i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"

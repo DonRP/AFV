@@ -651,8 +651,8 @@ msgid "[RT] {i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
 msgstr "[RT] {i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
 
 # game/UpdateScript0.04.rpy:603## # translate crowdin bobbytext_ef91713a:
-msgid "B "U awake?"
-    B "U awake?"
+msgid "[B] U awake?"
+msgstr "[B] U awake?"
 
 # game/UpdateScript0.04.rpy:604## # translate crowdin bobbytext_45536a8f:
 msgid "[RT] {i}Uuuhhhh.... it's from Uncle Bobby.{/i}"
@@ -667,8 +667,8 @@ msgid "[R] I.... am.... now."
 msgstr "[R] I.... am.... now."
 
 # game/UpdateScript0.04.rpy:611## # translate crowdin bobbytext_56dc8bf9:
-msgid "B "Meet me at the warehouse ASAP!! Don't ask questions."
-    B "Meet me at the warehouse ASAP!! Don't ask questions."
+msgid "[B] Meet me at the warehouse ASAP!! Don't ask questions."
+msgstr "[B] Meet me at the warehouse ASAP!! Don't ask questions."
 
 # game/UpdateScript0.04.rpy:612## # translate crowdin bobbytext_9800dbcb:
 msgid "[RT] {i}Don't ask questions!{/i}"
@@ -7695,60 +7695,60 @@ msgid "[RT] {i}I wonder where he is?{/i}"
 msgstr "[RT] {i}I wonder where he is?{/i}"
 
 # game/UpdateScript0.04.rpy:4068## # translate crowdin bye_bobby_d5f6c529:
-msgid "B "Thank God, you're finally here!"
-    B "Thank God, you're finally here!"
+msgid "[B] Thank God, you're finally here!"
+msgstr "[B] Thank God, you're finally here!"
 
 # game/UpdateScript0.04.rpy:4069## # translate crowdin bye_bobby_e4903230:
 msgid "[R] .... Is everything ok, Uncle Bobby?..."
 msgstr "[R] .... Is everything ok, Uncle Bobby?..."
 
 # game/UpdateScript0.04.rpy:4072## # translate crowdin bye_bobby_dd2ecc9d:
-msgid "B "Well, actually no, not really."
-    B "Well, actually no, not really."
+msgid "[B] Well, actually no, not really."
+msgstr "[B] Well, actually no, not really."
 
 # game/UpdateScript0.04.rpy:4073## # translate crowdin bye_bobby_1805fb81:
-msgid "B "I'm in some trouble, and I've gots to disappear."
-    B "I'm in some trouble, and I've gots to disappear."
+msgid "[B] I'm in some trouble, and I've gots to disappear."
+msgstr "[B] I'm in some trouble, and I've gots to disappear."
 
 # game/UpdateScript0.04.rpy:4074## # translate crowdin bye_bobby_fc60abf1:
 msgid "[R] Oh my God, are you serious?"
 msgstr "[R] Oh my God, are you serious?"
 
 # game/UpdateScript0.04.rpy:4077## # translate crowdin bye_bobby_9a03262f:
-msgid "B "Unfortunately, yes..."
-    B "Unfortunately, yes..."
+msgid "[B] Unfortunately, yes..."
+msgstr "[B] Unfortunately, yes..."
 
 # game/UpdateScript0.04.rpy:4078## # translate crowdin bye_bobby_67839f90:
-msgid "B "I just got a tip from our friend Agent Diaz..."
-    B "I just got a tip from our friend Agent Diaz..."
+msgid "[B] I just got a tip from our friend Agent Diaz..."
+msgstr "[B] I just got a tip from our friend Agent Diaz..."
 
 # game/UpdateScript0.04.rpy:4081## # translate crowdin bye_bobby_fbe41cb3:
-msgid "B "She says \"hi\" by the way."
-    B "She says \"hi\" by the way."
+msgid "[B] She says \"hi\" by the way."
+msgstr "[B] She says \"hi\" by the way."
 
 # game/UpdateScript0.04.rpy:4082## # translate crowdin bye_bobby_4a38abb3:
-msgid "B "And she warned me that the FBI are going to bring me in on some fucked up, trumped up charges."
-    B "And she warned me that the FBI are going to bring me in on some fucked up, trumped up charges."
+msgid "[B] And she warned me that the FBI are going to bring me in on some fucked up, trumped up charges."
+msgstr "[B] And she warned me that the FBI are going to bring me in on some fucked up, trumped up charges."
 
 # game/UpdateScript0.04.rpy:4083## # translate crowdin bye_bobby_0f38a213:
-msgid "B "They're going to threaten me with major prison time if I don't inform on the DeCapo family."
-    B "They're going to threaten me with major prison time if I don't inform on the DeCapo family."
+msgid "[B] They're going to threaten me with major prison time if I don't inform on the DeCapo family."
+msgstr "[B] They're going to threaten me with major prison time if I don't inform on the DeCapo family."
 
 # game/UpdateScript0.04.rpy:4084## # translate crowdin bye_bobby_ac6585f5:
-msgid "B "They offered the same thing to your dad, but he values his life and family enough not to take them up on it."
-    B "They offered the same thing to your dad, but he values his life and family enough not to take them up on it."
+msgid "[B] They offered the same thing to your dad, but he values his life and family enough not to take them up on it."
+msgstr "[B] They offered the same thing to your dad, but he values his life and family enough not to take them up on it."
 
 # game/UpdateScript0.04.rpy:4085## # translate crowdin bye_bobby_a94a5d93:
-msgid "B "If he'd had some warning, he could have run away too."
-    B "If he'd had some warning, he could have run away too."
+msgid "[B] If he'd had some warning, he could have run away too."
+msgstr "[B] If he'd had some warning, he could have run away too."
 
 # game/UpdateScript0.04.rpy:4086## # translate crowdin bye_bobby_7b02aed7:
 msgid "[R] Where are you going to go?"
 msgstr "[R] Where are you going to go?"
 
 # game/UpdateScript0.04.rpy:4089## # translate crowdin bye_bobby_6bd4b4c8:
-msgid "B "It's best if you don't know, kid.... all I can say is I'll be leaving the country."
-    B "It's best if you don't know, kid.... all I can say is I'll be leaving the country."
+msgid "[B] It's best if you don't know, kid.... all I can say is I'll be leaving the country."
+msgstr "[B] It's best if you don't know, kid.... all I can say is I'll be leaving the country."
 
 # game/UpdateScript0.04.rpy:4090## # translate crowdin bye_bobby_02db4b0f:
 msgid "[R] .... Wow!..."
@@ -7759,16 +7759,16 @@ msgid "[R] .... Damn.... I'll really miss hanging out with Mandy..."
 msgstr "[R] .... Damn.... I'll really miss hanging out with Mandy..."
 
 # game/UpdateScript0.04.rpy:4094## # translate crowdin bye_bobby_6a50bd15:
-msgid "B ".... Actually.... your Aunt Camille and Mandy won't be coming with me."
-    B ".... Actually.... your Aunt Camille and Mandy won't be coming with me."
+msgid "[B] .... Actually.... your Aunt Camille and Mandy won't be coming with me."
+msgstr "[B] .... Actually.... your Aunt Camille and Mandy won't be coming with me."
 
 # game/UpdateScript0.04.rpy:4095## # translate crowdin bye_bobby_0101d127:
 msgid "[R] .... What?.... You're just going to abandon them?"
 msgstr "[R] .... What?.... You're just going to abandon them?"
 
 # game/UpdateScript0.04.rpy:4096## # translate crowdin bye_bobby_c30fdbba:
-msgid "B "No.... not exactly.... and that's where I need your help."
-    B "No.... not exactly.... and that's where I need your help."
+msgid "[B] No.... not exactly.... and that's where I need your help."
+msgstr "[B] No.... not exactly.... and that's where I need your help."
 
 # game/UpdateScript0.04.rpy:4097## # translate crowdin bye_bobby_83314911:
 msgid "[R] Shit.... really?!"
@@ -7779,92 +7779,92 @@ msgid "[R] As if I don't already have enough on my plate, having to help provide
 msgstr "[R] As if I don't already have enough on my plate, having to help provide for my own family."
 
 # game/UpdateScript0.04.rpy:4102## # translate crowdin bye_bobby_b768a229:
-msgid "B "Just relax, ok..."
-    B "Just relax, ok..."
+msgid "[B] Just relax, ok..."
+msgstr "[B] Just relax, ok..."
 
 # game/UpdateScript0.04.rpy:4103## # translate crowdin bye_bobby_df346ae1:
-msgid "B "I'm not asking for much, and I'll make it worth your time."
-    B "I'm not asking for much, and I'll make it worth your time."
+msgid "[B] I'm not asking for much, and I'll make it worth your time."
+msgstr "[B] I'm not asking for much, and I'll make it worth your time."
 
 # game/UpdateScript0.04.rpy:4104## # translate crowdin bye_bobby_33f9265a:
 msgid "[R] Ok.... well, let's hear your plan."
 msgstr "[R] Ok.... well, let's hear your plan."
 
 # game/UpdateScript0.04.rpy:4107## # translate crowdin bye_bobby_b11023ea:
-msgid "B "Ok.... so I've got a pretty good amount of money that I've been able to secure in ways that I can access it, and where the FBI can't find it."
-    B "Ok.... so I've got a pretty good amount of money that I've been able to secure in ways that I can access it, and where the FBI can't find it."
+msgid "[B] Ok.... so I've got a pretty good amount of money that I've been able to secure in ways that I can access it, and where the FBI can't find it."
+msgstr "[B] Ok.... so I've got a pretty good amount of money that I've been able to secure in ways that I can access it, and where the FBI can't find it."
 
 # game/UpdateScript0.04.rpy:4108## # translate crowdin bye_bobby_1c80cc7c:
-msgid "B "Lucky for me I had some warning and was able to make some arrangements, unlike your father."
-    B "Lucky for me I had some warning and was able to make some arrangements, unlike your father."
+msgid "[B] Lucky for me I had some warning and was able to make some arrangements, unlike your father."
+msgstr "[B] Lucky for me I had some warning and was able to make some arrangements, unlike your father."
 
 # game/UpdateScript0.04.rpy:4109## # translate crowdin bye_bobby_50856c7f:
 msgid "[R] I thought you weren't able to help me with our loan to the DeCapos because you didn't have access to your money."
 msgstr "[R] I thought you weren't able to help me with our loan to the DeCapos because you didn't have access to your money."
 
 # game/UpdateScript0.04.rpy:4110## # translate crowdin bye_bobby_3c4e485a:
-msgid "B "That's true.... I didn't at the time. None of my money was liquid yet..."
-    B "That's true.... I didn't at the time. None of my money was liquid yet..."
+msgid "[B] That's true.... I didn't at the time. None of my money was liquid yet..."
+msgstr "[B] That's true.... I didn't at the time. None of my money was liquid yet..."
 
 # game/UpdateScript0.04.rpy:4111## # translate crowdin bye_bobby_fed602a0:
 msgid "[R] I don't know what that means."
 msgstr "[R] I don't know what that means."
 
 # game/UpdateScript0.04.rpy:4112## # translate crowdin bye_bobby_500670a0:
-msgid "B "It means disposable, spendable, it was all tied up in investments and assets."
-    B "It means disposable, spendable, it was all tied up in investments and assets."
+msgid "[B] It means disposable, spendable, it was all tied up in investments and assets."
+msgstr "[B] It means disposable, spendable, it was all tied up in investments and assets."
 
 # game/UpdateScript0.04.rpy:4113## # translate crowdin bye_bobby_d892218a:
-msgid "B "But now I need all my money to get out of here and take care of my family."
-    B "But now I need all my money to get out of here and take care of my family."
+msgid "[B] But now I need all my money to get out of here and take care of my family."
+msgstr "[B] But now I need all my money to get out of here and take care of my family."
 
 # game/UpdateScript0.04.rpy:4114## # translate crowdin bye_bobby_9b053bce:
-msgid "B "So, here's the deal."
-    B "So, here's the deal."
+msgid "[B] So, here's the deal."
+msgstr "[B] So, here's the deal."
 
 # game/UpdateScript0.04.rpy:4115## # translate crowdin bye_bobby_0454d4a8:
-msgid "B "I can't take Camille and Mandy with me because it would be too complicated."
-    B "I can't take Camille and Mandy with me because it would be too complicated."
+msgid "[B] I can't take Camille and Mandy with me because it would be too complicated."
+msgstr "[B] I can't take Camille and Mandy with me because it would be too complicated."
 
 # game/UpdateScript0.04.rpy:4118## # translate crowdin bye_bobby_209792b7:
-msgid "B "Plus I think they wouldn't even want to come if I gave them the choice."
-    B "Plus I think they wouldn't even want to come if I gave them the choice."
+msgid "[B] Plus I think they wouldn't even want to come if I gave them the choice."
+msgstr "[B] Plus I think they wouldn't even want to come if I gave them the choice."
 
 # game/UpdateScript0.04.rpy:4119## # translate crowdin bye_bobby_e24e1712:
-msgid "B "Mandy loves her school, Camille loves her pilates class. Going into hiding isn't the kind of lifestyle my wife and daughter could handle."
-    B "Mandy loves her school, Camille loves her pilates class. Going into hiding isn't the kind of lifestyle my wife and daughter could handle."
+msgid "[B] Mandy loves her school, Camille loves her pilates class. Going into hiding isn't the kind of lifestyle my wife and daughter could handle."
+msgstr "[B] Mandy loves her school, Camille loves her pilates class. Going into hiding isn't the kind of lifestyle my wife and daughter could handle."
 
 # game/UpdateScript0.04.rpy:4120## # translate crowdin bye_bobby_2fe8b8b7:
-msgid "B "But obviously, I can't just abandon them and leave them destitute."
-    B "But obviously, I can't just abandon them and leave them destitute."
+msgid "[B] But obviously, I can't just abandon them and leave them destitute."
+msgstr "[B] But obviously, I can't just abandon them and leave them destitute."
 
 # game/UpdateScript0.04.rpy:4121## # translate crowdin bye_bobby_d7f36097:
-msgid "B "So, somehow I need to get money to them every month to pay their expenses."
-    B "So, somehow I need to get money to them every month to pay their expenses."
+msgid "[B] So, somehow I need to get money to them every month to pay their expenses."
+msgstr "[B] So, somehow I need to get money to them every month to pay their expenses."
 
 # game/UpdateScript0.04.rpy:4122## # translate crowdin bye_bobby_44ec753f:
 msgid "[R] And what can I do to help with that?"
 msgstr "[R] And what can I do to help with that?"
 
 # game/UpdateScript0.04.rpy:4125## # translate crowdin bye_bobby_30d910bd:
-msgid "B "You've already done most of it!"
-    B "You've already done most of it!"
+msgid "[B] You've already done most of it!"
+msgstr "[B] You've already done most of it!"
 
 # game/UpdateScript0.04.rpy:4126## # translate crowdin bye_bobby_7bd0559b:
 msgid "[R] Huh?..."
 msgstr "[R] Huh?..."
 
 # game/UpdateScript0.04.rpy:4127## # translate crowdin bye_bobby_fcd35a44:
-msgid "B "With that little Cosplay Heaven account you set up."
-    B "With that little Cosplay Heaven account you set up."
+msgid "[B] With that little Cosplay Heaven account you set up."
+msgstr "[B] With that little Cosplay Heaven account you set up."
 
 # game/UpdateScript0.04.rpy:4128## # translate crowdin bye_bobby_a4009181:
-msgid "B "Through the Cosplay Heaven Subscription service, I can become one of your patrons and send you the money my family needs to pay their weekly bills in the guise of supporting your photography."
-    B "Through the Cosplay Heaven Subscription service, I can become one of your patrons and send you the money my family needs to pay their weekly bills in the guise of supporting your photography."
+msgid "[B] Through the Cosplay Heaven Subscription service, I can become one of your patrons and send you the money my family needs to pay their weekly bills in the guise of supporting your photography."
+msgstr "[B] Through the Cosplay Heaven Subscription service, I can become one of your patrons and send you the money my family needs to pay their weekly bills in the guise of supporting your photography."
 
 # game/UpdateScript0.04.rpy:4129## # translate crowdin bye_bobby_dcd6b298:
-msgid "B "I've already signed up for it.... my user name is \"BigDickBobby\"!"
-    B "I've already signed up for it.... my user name is \"BigDickBobby\"!"
+msgid "[B] I've already signed up for it.... my user name is \"BigDickBobby\"!"
+msgstr "[B] I've already signed up for it.... my user name is \"BigDickBobby\"!"
 
 # game/UpdateScript0.04.rpy:4130## # translate crowdin bye_bobby_45c0f793:
 msgid "[RT] {i}Of course it is.{/i}"
@@ -7875,36 +7875,36 @@ msgid "[R] Wait.... how the fuck do you know about my Cosplay Heaven account?"
 msgstr "[R] Wait.... how the fuck do you know about my Cosplay Heaven account?"
 
 # game/UpdateScript0.04.rpy:4132## # translate crowdin bye_bobby_33313f06:
-msgid "B "From our good friend Agent Diaz."
-    B "From our good friend Agent Diaz."
+msgid "[B] From our good friend Agent Diaz."
+msgstr "[B] From our good friend Agent Diaz."
 
 # game/UpdateScript0.04.rpy:4133## # translate crowdin bye_bobby_ba32847d:
-msgid "B "Did I tell you she sends her regards?"
-    B "Did I tell you she sends her regards?"
+msgid "[B] Did I tell you she sends her regards?"
+msgstr "[B] Did I tell you she sends her regards?"
 
 # game/UpdateScript0.04.rpy:4134## # translate crowdin bye_bobby_0818f13a:
 msgid "[RT] {i}Shit!.... If he knows about the account, he's probably seen the pictures of his daughter!{/i}"
 msgstr "[RT] {i}Shit!.... If he knows about the account, he's probably seen the pictures of his daughter!{/i}"
 
 # game/UpdateScript0.04.rpy:4135## # translate crowdin bye_bobby_bf563cdf:
-msgid "B "You ok? Your face went a little white."
-    B "You ok? Your face went a little white."
+msgid "[B] You ok? Your face went a little white."
+msgstr "[B] You ok? Your face went a little white."
 
 # game/UpdateScript0.04.rpy:4136## # translate crowdin bye_bobby_9629768e:
-msgid "B "Oh.... haha I probably know what you're thinking. You're probably worried about those pictures of my daughter you posted on there."
-    B "Oh.... haha I probably know what you're thinking. You're probably worried about those pictures of my daughter you posted on there."
+msgid "[B] Oh.... haha I probably know what you're thinking. You're probably worried about those pictures of my daughter you posted on there."
+msgstr "[B] Oh.... haha I probably know what you're thinking. You're probably worried about those pictures of my daughter you posted on there."
 
 # game/UpdateScript0.04.rpy:4137## # translate crowdin bye_bobby_18935bfb:
-msgid "B "Don't worry I'm not mad.... and I can appreciate your eye for beauty. You're a pretty damn good photographer."
-    B "Don't worry I'm not mad.... and I can appreciate your eye for beauty. You're a pretty damn good photographer."
+msgid "[B] Don't worry I'm not mad.... and I can appreciate your eye for beauty. You're a pretty damn good photographer."
+msgstr "[B] Don't worry I'm not mad.... and I can appreciate your eye for beauty. You're a pretty damn good photographer."
 
 # game/UpdateScript0.04.rpy:4139## # translate crowdin bye_bobby_be11aaf3:
-msgid "B "I also enjoyed the pictures you took of Lauren and Sidney! They're really turning into some fine pieces of ass."
-    B "I also enjoyed the pictures you took of Lauren and Sidney! They're really turning into some fine pieces of ass."
+msgid "[B] I also enjoyed the pictures you took of Lauren and Sidney! They're really turning into some fine pieces of ass."
+msgstr "[B] I also enjoyed the pictures you took of Lauren and Sidney! They're really turning into some fine pieces of ass."
 
 # game/UpdateScript0.04.rpy:4141## # translate crowdin bye_bobby_bd0b7b82:
-msgid "B "I also enjoyed the pictures you took of Lauren! She's really growing up to be a fine piece of ass."
-    B "I also enjoyed the pictures you took of Lauren! She's really growing up to be a fine piece of ass."
+msgid "[B] I also enjoyed the pictures you took of Lauren! She's really growing up to be a fine piece of ass."
+msgstr "[B] I also enjoyed the pictures you took of Lauren! She's really growing up to be a fine piece of ass."
 
 # game/UpdateScript0.04.rpy:4142## # translate crowdin bye_bobby_87b305b2:
 msgid "[RT] {i}Wow, what a creep!{/i}"
@@ -7919,48 +7919,48 @@ msgid "[R] So, do you just want me to withdraw the money and give it to Aunt Cam
 msgstr "[R] So, do you just want me to withdraw the money and give it to Aunt Camille in cash?"
 
 # game/UpdateScript0.04.rpy:4147## # translate crowdin bye_bobby_252decb4:
-msgid "B "Actually, I don't even want her to know about it."
-    B "Actually, I don't even want her to know about it."
+msgid "[B] Actually, I don't even want her to know about it."
+msgstr "[B] Actually, I don't even want her to know about it."
 
 # game/UpdateScript0.04.rpy:4148## # translate crowdin bye_bobby_4468e036:
 msgid "[R] What?.... I thought..."
 msgstr "[R] What?.... I thought..."
 
 # game/UpdateScript0.04.rpy:4149## # translate crowdin bye_bobby_bdc71c9d:
-msgid "B "I love your aunt!.... But she's a fucking shopaholic."
-    B "I love your aunt!.... But she's a fucking shopaholic."
+msgid "[B] I love your aunt!.... But she's a fucking shopaholic."
+msgstr "[B] I love your aunt!.... But she's a fucking shopaholic."
 
 # game/UpdateScript0.04.rpy:4150## # translate crowdin bye_bobby_051162f9:
-msgid "B "If she has her hands on that cash, she'll make bad choices and spend it on handbags instead of bills."
-    B "If she has her hands on that cash, she'll make bad choices and spend it on handbags instead of bills."
+msgid "[B] If she has her hands on that cash, she'll make bad choices and spend it on handbags instead of bills."
+msgstr "[B] If she has her hands on that cash, she'll make bad choices and spend it on handbags instead of bills."
 
 # game/UpdateScript0.04.rpy:4151## # translate crowdin bye_bobby_48e51662:
-msgid "B "So, I'm going to email you a spread-sheet of all her expenses, and instructions to pay all of her bills each week, and you use the money I send you to do just that."
-    B "So, I'm going to email you a spread-sheet of all her expenses, and instructions to pay all of her bills each week, and you use the money I send you to do just that."
+msgid "[B] So, I'm going to email you a spread-sheet of all her expenses, and instructions to pay all of her bills each week, and you use the money I send you to do just that."
+msgstr "[B] So, I'm going to email you a spread-sheet of all her expenses, and instructions to pay all of her bills each week, and you use the money I send you to do just that."
 
 # game/UpdateScript0.04.rpy:4152## # translate crowdin bye_bobby_a52711ac:
-msgid "B "In my goodbye letter to her, I'll tell her to rely on you to take care of her financially."
-    B "In my goodbye letter to her, I'll tell her to rely on you to take care of her financially."
+msgid "[B] In my goodbye letter to her, I'll tell her to rely on you to take care of her financially."
+msgstr "[B] In my goodbye letter to her, I'll tell her to rely on you to take care of her financially."
 
 # game/UpdateScript0.04.rpy:4155## # translate crowdin bye_bobby_856c6b5b:
-msgid "B "I'll only be sending enough money to take care of her bills, plus an extra $200 a week to pay you for your trouble."
-    B "I'll only be sending enough money to take care of her bills, plus an extra $200 a week to pay you for your trouble."
+msgid "[B] I'll only be sending enough money to take care of her bills, plus an extra $200 a week to pay you for your trouble."
+msgstr "[B] I'll only be sending enough money to take care of her bills, plus an extra $200 a week to pay you for your trouble."
 
 # game/UpdateScript0.04.rpy:4156## # translate crowdin bye_bobby_3ecce00c:
-msgid "B "If Camille needs more money than that.... she can get a fucking job..."
-    B "If Camille needs more money than that.... she can get a fucking job..."
+msgid "[B] If Camille needs more money than that.... she can get a fucking job..."
+msgstr "[B] If Camille needs more money than that.... she can get a fucking job..."
 
 # game/UpdateScript0.04.rpy:4157## # translate crowdin bye_bobby_2a2d47aa:
-msgid "B "Lord knows it would probably be good for her.... I shouldn't have spoiled her so badly..."
-    B "Lord knows it would probably be good for her.... I shouldn't have spoiled her so badly..."
+msgid "[B] Lord knows it would probably be good for her.... I shouldn't have spoiled her so badly..."
+msgstr "[B] Lord knows it would probably be good for her.... I shouldn't have spoiled her so badly..."
 
 # game/UpdateScript0.04.rpy:4158## # translate crowdin bye_bobby_d9409be0:
-msgid "B "I mean look how hard your mom works!.... Sometimes I can't even believe they're sisters."
-    B "I mean look how hard your mom works!.... Sometimes I can't even believe they're sisters."
+msgid "[B] I mean look how hard your mom works!.... Sometimes I can't even believe they're sisters."
+msgstr "[B] I mean look how hard your mom works!.... Sometimes I can't even believe they're sisters."
 
 # game/UpdateScript0.04.rpy:4159## # translate crowdin bye_bobby_f1cd976d:
-msgid "B "So, just pay the bills once a week, like every Saturday morning or something, and I'll just keep sending money to your Cosplay Heaven account."
-    B "So, just pay the bills once a week, like every Saturday morning or something, and I'll just keep sending money to your Cosplay Heaven account."
+msgid "[B] So, just pay the bills once a week, like every Saturday morning or something, and I'll just keep sending money to your Cosplay Heaven account."
+msgstr "[B] So, just pay the bills once a week, like every Saturday morning or something, and I'll just keep sending money to your Cosplay Heaven account."
 
 # game/UpdateScript0.04.rpy:4160## # translate crowdin bye_bobby_44f80b47:
 msgid "[R] Ok, Uncle Bobby, I promise I'll take care of it..."
@@ -7975,60 +7975,60 @@ msgid "[R] And I'm sorry you have to leave your family and be completely alone."
 msgstr "[R] And I'm sorry you have to leave your family and be completely alone."
 
 # game/UpdateScript0.04.rpy:4167## # translate crowdin bye_bobby_eae0f3dc:
-msgid "B "Actually.... I won't be completely alone..."
-    B "Actually.... I won't be completely alone..."
+msgid "[B] Actually.... I won't be completely alone..."
+msgstr "[B] Actually.... I won't be completely alone..."
 
 # game/UpdateScript0.04.rpy:4168## # translate crowdin bye_bobby_c557d6eb:
-msgid "B "Mandy's old nanny.... do you remember Cindy?..."
-    B "Mandy's old nanny.... do you remember Cindy?..."
+msgid "[B] Mandy's old nanny.... do you remember Cindy?..."
+msgstr "[B] Mandy's old nanny.... do you remember Cindy?..."
 
 # game/UpdateScript0.04.rpy:4169## # translate crowdin bye_bobby_d3241d60:
 msgid "[R] Uhhh.... yeah.... I do..."
 msgstr "[R] Uhhh.... yeah.... I do..."
 
 # game/UpdateScript0.04.rpy:4170## # translate crowdin bye_bobby_5f8432c8:
-msgid "B "She's going to go with me.... she's always wanted to travel, and she's up for a big adventure, so she's coming."
-    B "She's going to go with me.... she's always wanted to travel, and she's up for a big adventure, so she's coming."
+msgid "[B] She's going to go with me.... she's always wanted to travel, and she's up for a big adventure, so she's coming."
+msgstr "[B] She's going to go with me.... she's always wanted to travel, and she's up for a big adventure, so she's coming."
 
 # game/UpdateScript0.04.rpy:4171## # translate crowdin bye_bobby_92d649d7:
-msgid "B "Plus, it will give the illusion that I'm running away because of an affair, rather than being tipped off."
-    B "Plus, it will give the illusion that I'm running away because of an affair, rather than being tipped off."
+msgid "[B] Plus, it will give the illusion that I'm running away because of an affair, rather than being tipped off."
+msgstr "[B] Plus, it will give the illusion that I'm running away because of an affair, rather than being tipped off."
 
 # game/UpdateScript0.04.rpy:4172## # translate crowdin bye_bobby_180e7337:
 msgid "[RT] {i}Illusion my ass.{/i}"
 msgstr "[RT] {i}Illusion my ass.{/i}"
 
 # game/UpdateScript0.04.rpy:4173## # translate crowdin bye_bobby_8b1a3f20:
-msgid "B "That should help keep the heat off Agent Diaz."
-    B "That should help keep the heat off Agent Diaz."
+msgid "[B] That should help keep the heat off Agent Diaz."
+msgstr "[B] That should help keep the heat off Agent Diaz."
 
 # game/UpdateScript0.04.rpy:4174## # translate crowdin bye_bobby_61c6e06a:
-msgid "B "..."
-    B "..."
+msgid "[B] ..."
+msgstr "[B] ..."
 
 # game/UpdateScript0.04.rpy:4175## # translate crowdin bye_bobby_e6367015:
-msgid "B "So, good luck taking care of everything here!"
-    B "So, good luck taking care of everything here!"
+msgid "[B] So, good luck taking care of everything here!"
+msgstr "[B] So, good luck taking care of everything here!"
 
 # game/UpdateScript0.04.rpy:4176## # translate crowdin bye_bobby_ee81b9af:
 msgid "[R] Wait!.... What about the daily deliveries? Will I still be able to make money making deliveries?"
 msgstr "[R] Wait!.... What about the daily deliveries? Will I still be able to make money making deliveries?"
 
 # game/UpdateScript0.04.rpy:4179## # translate crowdin bye_bobby_394b84e7:
-msgid "B "Oh.... right!"
-    B "Oh.... right!"
+msgid "[B] Oh.... right!"
+msgstr "[B] Oh.... right!"
 
 # game/UpdateScript0.04.rpy:4180## # translate crowdin bye_bobby_9f599a06:
-msgid "B "Yes, of course.... I let the foreman Charlie know you'll be coming by, and to have the packages all ready for you to deliver."
-    B "Yes, of course.... I let the foreman Charlie know you'll be coming by, and to have the packages all ready for you to deliver."
+msgid "[B] Yes, of course.... I let the foreman Charlie know you'll be coming by, and to have the packages all ready for you to deliver."
+msgstr "[B] Yes, of course.... I let the foreman Charlie know you'll be coming by, and to have the packages all ready for you to deliver."
 
 # game/UpdateScript0.04.rpy:4181## # translate crowdin bye_bobby_107f05d0:
-msgid "B "Now, I've really got to run.... there's still a lot I have to take care of before I pull off my disappearing trick."
-    B "Now, I've really got to run.... there's still a lot I have to take care of before I pull off my disappearing trick."
+msgid "[B] Now, I've really got to run.... there's still a lot I have to take care of before I pull off my disappearing trick."
+msgstr "[B] Now, I've really got to run.... there's still a lot I have to take care of before I pull off my disappearing trick."
 
 # game/UpdateScript0.04.rpy:4182## # translate crowdin bye_bobby_3450a524:
-msgid "B "Good luck with everything! I know it feels overwhelming, but all of this extra responsibility will do you a lot of good."
-    B "Good luck with everything! I know it feels overwhelming, but all of this extra responsibility will do you a lot of good."
+msgid "[B] Good luck with everything! I know it feels overwhelming, but all of this extra responsibility will do you a lot of good."
+msgstr "[B] Good luck with everything! I know it feels overwhelming, but all of this extra responsibility will do you a lot of good."
 
 # game/UpdateScript0.04.rpy:4185## # translate crowdin bye_bobby_b7f172ec:
 msgid "[RT] {i}Holy shit!.... {/i}"
