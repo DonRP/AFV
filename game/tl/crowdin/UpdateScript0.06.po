@@ -75,36 +75,36 @@ msgid "[AD] Hahaha... Relax... They're just helping me move a few things... haha
 msgstr "[AD] Hahaha... Relax... They're just helping me move a few things... hahaha... you should see the look on your face!"
 
 # game/UpdateScript0.06.rpy:746## # translate crowdin move_in_day_5d4c2117:
-msgid "SG "Hey, Diaz!"
-    SG "Hey, Diaz!"
+msgid "[SG] Hey, Diaz!"
+msgstr "[SG] Hey, Diaz!"
 
 # game/UpdateScript0.06.rpy:749## # translate crowdin move_in_day_43fe6a89:
 msgid "[AD] What?"
 msgstr "[AD] What?"
 
 # game/UpdateScript0.06.rpy:750## # translate crowdin move_in_day_e845f259:
-msgid "SG "You gonna come help us unload all of this shit, or what?"
-    SG "You gonna come help us unload all of this shit, or what?"
+msgid "[SG] You gonna come help us unload all of this shit, or what?"
+msgstr "[SG] You gonna come help us unload all of this shit, or what?"
 
 # game/UpdateScript0.06.rpy:751## # translate crowdin move_in_day_39253adf:
 msgid "[AD] No! Why do you think I brought all of you strong guys along?"
 msgstr "[AD] No! Why do you think I brought all of you strong guys along?"
 
 # game/UpdateScript0.06.rpy:754## # translate crowdin move_in_day_e1434066:
-msgid "SG "Well, don't forget our deal!"
-    SG "Well, don't forget our deal!"
+msgid "[SG] Well, don't forget our deal!"
+msgstr "[SG] Well, don't forget our deal!"
 
 # game/UpdateScript0.06.rpy:755## # translate crowdin move_in_day_eabff927:
-msgid "SG "The Chief wouldn't be happy if he knew we were using our training time to help you."
-    SG "The Chief wouldn't be happy if he knew we were using our training time to help you."
+msgid "[SG] The Chief wouldn't be happy if he knew we were using our training time to help you."
+msgstr "[SG] The Chief wouldn't be happy if he knew we were using our training time to help you."
 
 # game/UpdateScript0.06.rpy:756## # translate crowdin move_in_day_361e10fb:
 msgid "[AD] Well, I'm making it worth your time."
 msgstr "[AD] Well, I'm making it worth your time."
 
 # game/UpdateScript0.06.rpy:757## # translate crowdin move_in_day_f2950b76:
-msgid "SG "O'Brien said you promised us each ten minutes, and if we can last that long, we all get a go at you at the same time."
-    SG "O'Brien said you promised us each ten minutes, and if we can last that long, we all get a go at you at the same time."
+msgid "[SG] O'Brien said you promised us each ten minutes, and if we can last that long, we all get a go at you at the same time."
+msgstr "[SG] O'Brien said you promised us each ten minutes, and if we can last that long, we all get a go at you at the same time."
 
 # game/UpdateScript0.06.rpy:758## # translate crowdin move_in_day_1fdf66bb:
 msgid "[AD] Would you shut the hell up? Can't you see we're in front of a little boy?"
@@ -32147,12 +32147,12 @@ msgid  "[PM] That's better! Edgy and sexy!"
 msgstr "[PM] That's better! Edgy and sexy!"
 
 # game/UpdateScript0.06.rpy:16738## # translate crowdin ph_recap_end_fb95c1b9:
-msgid "PMT "{i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
-    PMT "{i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
+msgid  "[PMT] {i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
+msgstr "[PMT] {i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
 
 # game/UpdateScript0.06.rpy:16739## # translate crowdin ph_recap_end_bf6fbd90:
-msgid "PMT "{i}She won't know what hit her.{/i}"
-    PMT "{i}She won't know what hit her.{/i}"
+msgid  "[PMT] {i}She won't know what hit her.{/i}"
+msgstr "[PMT] {i}She won't know what hit her.{/i}"
 
 # game/UpdateScript0.06.rpy:16740## # translate crowdin ph_recap_end_305c01b5:
 msgid  "[PM] Alright, you slutty flea-bottom mudblood!"
@@ -32171,16 +32171,16 @@ msgid  "[PM] Call me Mistress, and lick those boots clean while you're down ther
 msgstr "[PM] Call me Mistress, and lick those boots clean while you're down there."
 
 # game/UpdateScript0.06.rpy:16746## # translate crowdin ph_recap_end_4a6b42fc:
-msgid "PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
-    PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
+msgid  "[PMT] {i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
+msgstr "[PMT] {i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
 
 # game/UpdateScript0.06.rpy:16747## # translate crowdin ph_recap_end_e55a72ff:
 msgid  "[PM] That's right, get them clean!"
 msgstr "[PM] That's right, get them clean!"
 
 # game/UpdateScript0.06.rpy:16748## # translate crowdin ph_recap_end_40985106:
-msgid "PMT "{i}Now it's time to see just how obedient she will be.{/i}"
-    PMT "{i}Now it's time to see just how obedient she will be.{/i}"
+msgid  "[PMT] {i}Now it's time to see just how obedient she will be.{/i}"
+msgstr "[PMT] {i}Now it's time to see just how obedient she will be.{/i}"
 
 # game/UpdateScript0.06.rpy:16749## # translate crowdin ph_recap_end_9ba09f4b:
 msgid  "[PM] Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
@@ -32243,8 +32243,8 @@ msgid  "[PM] That's right bitch, now if you know what's good for you, you'll com
 msgstr "[PM] That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
 
 # game/UpdateScript0.06.rpy:16784## # translate crowdin ph_recap_end_18466d96:
-msgid "PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
-    PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
+msgid  "[PMT] {i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
+msgstr "[PMT] {i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
 
 # game/UpdateScript0.06.rpy:16785## # translate crowdin ph_recap_end_e8e683c0:
 msgid  "[PM] Let's just test your obedience my little pet bitch."
