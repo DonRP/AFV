@@ -14791,8 +14791,8 @@ msgid "[R] What?.... No.... don't get a mental image!.... There's nothing to get
 msgstr "[R] What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
 
 # game/UpdateScript0.07.rpy:8941## # translate crowdin new_jacky_caught_office_2c78093e:
-msgid "MGT "{i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
-    MGT "{i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
+msgid "[MGT] {i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
+msgstr "[MGT] {i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
 
 # game/UpdateScript0.07.rpy:8942## # translate crowdin new_jacky_caught_office_9b07cf0a:
 msgid "[MG] ...."
@@ -14823,8 +14823,8 @@ msgid "[MB] Fine... I'm going to have to figure out something else."
 msgstr "[MB] Fine... I'm going to have to figure out something else."
 
 # game/UpdateScript0.07.rpy:8949## # translate crowdin new_jacky_caught_office_b35dd043:
-msgid "MGT "{i}Fucker's probably going to look for Jessica.{/i}"
-    MGT "{i}Fucker's probably going to look for Jessica.{/i}"
+msgid "[MGT] {i}Fucker's probably going to look for Jessica.{/i}"
+msgstr "[MGT] {i}Fucker's probably going to look for Jessica.{/i}"
 
 # game/UpdateScript0.07.rpy:8952## # translate crowdin new_jacky_caught_office_81cd0d7c:
 msgid "[RT] {i}Ok, Mom's probably in her office.{/i}"
@@ -16543,16 +16543,16 @@ msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_cou
 msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10113## # translate crowdin talk_to_megan_74289b2f:
-msgid "MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
-    MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+msgid "[MGT] {i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+msgstr "[MGT] {i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
 
 # game/UpdateScript0.07.rpy:10114## # translate crowdin talk_to_megan_fc7d8356:
-msgid "MGT "{i}God, I hope I've got more of those pills.{/i}"
-    MGT "{i}God, I hope I've got more of those pills.{/i}"
+msgid "[MGT] {i}God, I hope I've got more of those pills.{/i}"
+msgstr "[MGT] {i}God, I hope I've got more of those pills.{/i}"
 
 # game/UpdateScript0.07.rpy:10115## # translate crowdin talk_to_megan_13ee63ef:
-msgid "MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
-    MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
+msgid "[MGT] {i}I can't forget to run to the pharmacy and get some more.{/i}"
+msgstr "[MGT] {i}I can't forget to run to the pharmacy and get some more.{/i}"
 
 # game/UpdateScript0.07.rpy:10117## # translate crowdin talk_to_megan_498a55bb:
 msgid "[R] I'm cumming!"
@@ -16627,8 +16627,8 @@ msgid "[MG] Haha... You idiot!"
 msgstr "[MG] Haha... You idiot!"
 
 # game/UpdateScript0.07.rpy:10165## # translate crowdin talk_to_megan_55c12ede:
-msgid "MGT "{i}I really did.{/i}"
-    MGT "{i}I really did.{/i}"
+msgid "[MGT] {i}I really did.{/i}"
+msgstr "[MGT] {i}I really did.{/i}"
 
 # game/UpdateScript0.07.rpy:10166## # translate crowdin talk_to_megan_869e72b8:
 msgid "[MG] I'm out of here. I try not to spend too much time in boys' bathrooms."
@@ -16679,8 +16679,8 @@ msgid "[R] I'll tell you when we're in the stall."
 msgstr "[R] I'll tell you when we're in the stall."
 
 # game/UpdateScript0.07.rpy:10195## # translate crowdin talk_to_megan_185aeb79:
-msgid "MGT "{i}Oh, boy!... I can guess where this is going.{/i}"
-    MGT "{i}Oh, boy!... I can guess where this is going.{/i}"
+msgid "[MGT] {i}Oh, boy!... I can guess where this is going.{/i}"
+msgstr "[MGT] {i}Oh, boy!... I can guess where this is going.{/i}"
 
 # game/UpdateScript0.07.rpy:10198## # translate crowdin talk_to_megan_45c32234:
 msgid "[R] So, how is the skit coming along?"
@@ -16943,16 +16943,16 @@ msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_cou
 msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10319## # translate crowdin talk_to_megan_74289b2f_1:
-msgid "MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
-    MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+msgid "[MGT] {i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+msgstr "[MGT] {i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
 
 # game/UpdateScript0.07.rpy:10320## # translate crowdin talk_to_megan_fc7d8356_1:
-msgid "MGT "{i}God, I hope I've got more of those pills.{/i}"
-    MGT "{i}God, I hope I've got more of those pills.{/i}"
+msgid "[MGT] {i}God, I hope I've got more of those pills.{/i}"
+msgstr "[MGT] {i}God, I hope I've got more of those pills.{/i}"
 
 # game/UpdateScript0.07.rpy:10321## # translate crowdin talk_to_megan_13ee63ef_1:
-msgid "MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
-    MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
+msgid "[MGT] {i}I can't forget to run to the pharmacy and get some more.{/i}"
+msgstr "[MGT] {i}I can't forget to run to the pharmacy and get some more.{/i}"
 
 # game/UpdateScript0.07.rpy:10323## # translate crowdin talk_to_megan_498a55bb_1:
 msgid "[R] I'm cumming!"
@@ -17591,20 +17591,20 @@ msgid "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_cou
 msgstr "{i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10642## # translate crowdin talk_to_megan_b3dea31d:
-msgid "MGT "{i}Oh God, that's a baby making load for sure...{/i}"
-    MGT "{i}Oh God, that's a baby making load for sure...{/i}"
+msgid "[MGT] {i}Oh God, that's a baby making load for sure...{/i}"
+msgstr "[MGT] {i}Oh God, that's a baby making load for sure...{/i}"
 
 # game/UpdateScript0.07.rpy:10643## # translate crowdin talk_to_megan_cd326b84:
-msgid "MGT "{i}An explosion with that much power probably forced dozens of sperms into my egg against its will.{/i}"
-    MGT "{i}An explosion with that much power probably forced dozens of sperms into my egg against its will.{/i}"
+msgid "[MGT] {i}An explosion with that much power probably forced dozens of sperms into my egg against its will.{/i}"
+msgstr "[MGT] {i}An explosion with that much power probably forced dozens of sperms into my egg against its will.{/i}"
 
 # game/UpdateScript0.07.rpy:10644## # translate crowdin talk_to_megan_aeeab911:
-msgid "MGT "{i}I might birth a whole litter of little [ryan]'s...{/i}"
-    MGT "{i}I might birth a whole litter of little [ryan]'s...{/i}"
+msgid "[MGT] {i}I might birth a whole litter of little [ryan]'s...{/i}"
+msgstr "[MGT] {i}I might birth a whole litter of little [ryan]'s...{/i}"
 
 # game/UpdateScript0.07.rpy:10645## # translate crowdin talk_to_megan_ed443a4c:
-msgid "MGT "{i}Oh God, I'd better not forget to take a morning-after pill... maybe a few even.{/i}"
-    MGT "{i}Oh God, I'd better not forget to take a morning-after pill... maybe a few even.{/i}"
+msgid "[MGT] {i}Oh God, I'd better not forget to take a morning-after pill... maybe a few even.{/i}"
+msgstr "[MGT] {i}Oh God, I'd better not forget to take a morning-after pill... maybe a few even.{/i}"
 
 # game/UpdateScript0.07.rpy:10646## # translate crowdin talk_to_megan_4f66d7f1_2:
 msgid "[R] Ohhh... Megan!.... Fuck!"
