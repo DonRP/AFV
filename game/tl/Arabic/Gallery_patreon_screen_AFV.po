@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.po\n"
+"X-Crowdin-File-ID: 1303\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2022-01-03 17:50\n"
+
+# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
+msgid "                          Supporter's gallery"
+msgstr ""
+
+#    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
+msgid "                               Supporter's gallery $10"
+msgstr ""
+
+#    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
+msgid "            Patreon/Subscribestar Commissions"
+msgstr ""
+
