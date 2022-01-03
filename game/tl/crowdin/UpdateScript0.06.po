@@ -14435,24 +14435,24 @@ msgid "{i}\"Would you like to take this opportunity to turn off the NTR content?
 msgstr "{i}\"Would you like to take this opportunity to turn off the NTR content?]\"{/i}"
 
 # game/UpdateScript0.06.rpy:8596## # translate crowdin both_caught_5c6c89ab:
-msgid "P1 "How the fuck did that get turned on?"
-    P1 "How the fuck did that get turned on?"
+msgid "[P1] How the fuck did that get turned on?"
+msgstr "[P1] How the fuck did that get turned on?"
 
 # game/UpdateScript0.06.rpy:8597## # translate crowdin both_caught_614bc51e:
-msgid "P1 "I swear I wasn't experimenting with any new kinks!"
-    P1 "I swear I wasn't experimenting with any new kinks!"
+msgid "[P1] I swear I wasn't experimenting with any new kinks!"
+msgstr "[P1] I swear I wasn't experimenting with any new kinks!"
 
 # game/UpdateScript0.06.rpy:8598## # translate crowdin both_caught_464ba197:
 msgid "{i}\"(NTR Content turned off)\"{/i}"
 msgstr "{i}\"(NTR Content turned off)\"{/i}"
 
 # game/UpdateScript0.06.rpy:8601## # translate crowdin both_caught_2f107d88:
-msgid "P1 "Fucking babies, that are always complaining about NTR content..."
-    P1 "Fucking babies, that are always complaining about NTR content..."
+msgid "[P1] Fucking babies, that are always complaining about NTR content..."
+msgstr "[P1] Fucking babies, that are always complaining about NTR content..."
 
 # game/UpdateScript0.06.rpy:8602## # translate crowdin both_caught_ce1f446e:
-msgid "P1 "can't let a developer make a game without pasting NTR warnings everywhere!"
-    P1 "can't let a developer make a game without pasting NTR warnings everywhere!"
+msgid "[P1] can't let a developer make a game without pasting NTR warnings everywhere!"
+msgstr "[P1] can't let a developer make a game without pasting NTR warnings everywhere!"
 
 # game/UpdateScript0.06.rpy:8603## # translate crowdin both_caught_65783f37:
 msgid "{i}\"(NTR Content will remain turned on)\"{/i}"

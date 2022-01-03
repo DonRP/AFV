@@ -24503,11 +24503,11 @@ msgid "[R] Zack!"
 msgstr "[R] Zack!"
 
 # game/UpdateScript0.07.rpy:14314## # translate crowdin bad_polls_aftermath_1da663ea:
-msgstr "[Z] Well, it was worth a try!"
+msgid "[Z] Well, it was worth a try!"
 msgstr "[Z] Well, it was worth a try!"
 
 # game/UpdateScript0.07.rpy:14315## # translate crowdin bad_polls_aftermath_f769713c:
-msgstr "[Z] Maybe you won't show up one of these weeks."
+msgid "[Z] Maybe you won't show up one of these weeks."
 msgstr "[Z] Maybe you won't show up one of these weeks."
 
 # game/UpdateScript0.07.rpy:14318## # translate crowdin bad_polls_aftermath_7ce28a9b:
@@ -24735,7 +24735,7 @@ msgid "[R] Zack!"
 msgstr "[R] Zack!"
 
 # game/UpdateScript0.07.rpy:14455## # translate crowdin bad_polls_aftermath_618670d9:
-msgstr "[Z] But [ryan]!... Blowjobs!... From Lauren!"
+msgid "[Z] But [ryan]!... Blowjobs!... From Lauren!"
 msgstr "[Z] But [ryan]!... Blowjobs!... From Lauren!"
 
 # game/UpdateScript0.07.rpy:14456## # translate crowdin bad_polls_aftermath_dc7a84b6:
@@ -24743,7 +24743,7 @@ msgid "[R] ...."
 msgstr "[R] ...."
 
 # game/UpdateScript0.07.rpy:14457## # translate crowdin bad_polls_aftermath_ae619a76:
-msgstr "[Z] Fine... I'm going."
+msgid "[Z] Fine... I'm going."
 msgstr "[Z] Fine... I'm going."
 
 # game/UpdateScript0.07.rpy:14460## # translate crowdin bad_polls_aftermath_b08cc79a:
@@ -25103,15 +25103,15 @@ msgid "[R] Zack! I thought I told you nothing is happening between you and Laure
 msgstr "[R] Zack! I thought I told you nothing is happening between you and Lauren!"
 
 # game/UpdateScript0.07.rpy:14641## # translate crowdin bad_polls_aftermath_c8a1cee8:
-msgstr "[Z] No, [ryan]!... Just hear me out!"
+msgid "[Z] No, [ryan]!... Just hear me out!"
 msgstr "[Z] No, [ryan]!... Just hear me out!"
 
 # game/UpdateScript0.07.rpy:14642## # translate crowdin bad_polls_aftermath_d56526de:
-msgstr "[Z] Lauren's giving blowjobs now!"
+msgid "[Z] Lauren's giving blowjobs now!"
 msgstr "[Z] Lauren's giving blowjobs now!"
 
 # game/UpdateScript0.07.rpy:14643## # translate crowdin bad_polls_aftermath_6b2bde60:
-msgstr "[Z] I've never had one! Please, please! You've got to let me stay!"
+msgid "[Z] I've never had one! Please, please! You've got to let me stay!"
 msgstr "[Z] I've never had one! Please, please! You've got to let me stay!"
 
 # game/UpdateScript0.07.rpy:14644## # translate crowdin bad_polls_aftermath_6fd0126b:
@@ -25123,7 +25123,7 @@ msgid "[R] Where did you hear that?"
 msgstr "[R] Where did you hear that?"
 
 # game/UpdateScript0.07.rpy:14646## # translate crowdin bad_polls_aftermath_c7144b9b:
-msgstr "[Z] The word's traveled back from the front of the line."
+msgid "[Z] The word's traveled back from the front of the line."
 msgstr "[Z] The word's traveled back from the front of the line."
 
 # game/UpdateScript0.07.rpy:14647## # translate crowdin bad_polls_aftermath_251047d2:
@@ -25131,11 +25131,11 @@ msgid "[R] What makes you think I'd let you get a blowjob from Lauren, if I won'
 msgstr "[R] What makes you think I'd let you get a blowjob from Lauren, if I won't let her jack you off?"
 
 # game/UpdateScript0.07.rpy:14648## # translate crowdin bad_polls_aftermath_36be9a24:
-msgstr "[Z] I just need you to look the other way."
+msgid "[Z] I just need you to look the other way."
 msgstr "[Z] I just need you to look the other way."
 
 # game/UpdateScript0.07.rpy:14649## # translate crowdin bad_polls_aftermath_9cc7eb13:
-msgstr "[Z] Like I said, I've never had one, and while I can jerk myself off, I can't suck myself off."
+msgid "[Z] Like I said, I've never had one, and while I can jerk myself off, I can't suck myself off."
 msgstr "[Z] Like I said, I've never had one, and while I can jerk myself off, I can't suck myself off."
 
 # game/UpdateScript0.07.rpy:14650## # translate crowdin bad_polls_aftermath_8c8345c4:
@@ -25147,7 +25147,7 @@ msgid "[R] And get the fuck out of here!"
 msgstr "[R] And get the fuck out of here!"
 
 # game/UpdateScript0.07.rpy:14654## # translate crowdin bad_polls_aftermath_a7fb550f:
-msgstr "[Z] You should have a brother's back!"
+msgid "[Z] You should have a brother's back!"
 msgstr "[Z] You should have a brother's back!"
 
 # game/UpdateScript0.07.rpy:14655## # translate crowdin bad_polls_aftermath_cc11e05e:
@@ -25375,7 +25375,7 @@ msgid "[R] Zack! I thought I told you nothing is happening between you and Laure
 msgstr "[R] Zack! I thought I told you nothing is happening between you and Lauren!"
 
 # game/UpdateScript0.07.rpy:14767## # translate crowdin bad_polls_aftermath_0a3e9e97:
-msgstr "[Z] Oh... come on, don't be like that!"
+msgid "[Z] Oh... come on, don't be like that!"
 msgstr "[Z] Oh... come on, don't be like that!"
 
 # game/UpdateScript0.07.rpy:14768## # translate crowdin bad_polls_aftermath_a6cc30ed:
@@ -25387,7 +25387,7 @@ msgid "[R] Fuck no, you're too young!"
 msgstr "[R] Fuck no, you're too young!"
 
 # game/UpdateScript0.07.rpy:14772## # translate crowdin bad_polls_aftermath_a0ed0f57:
-msgstr "[Z] That's not fair!"
+msgid "[Z] That's not fair!"
 msgstr "[Z] That's not fair!"
 
 # game/UpdateScript0.07.rpy:14773## # translate crowdin bad_polls_aftermath_15c06b91:
@@ -25635,11 +25635,11 @@ msgid "[R] Zack? What the hell is going on here?"
 msgstr "[R] Zack? What the hell is going on here?"
 
 # game/UpdateScript0.07.rpy:14882## # translate crowdin bad_polls_aftermath_d19c0754:
-msgstr "[Z] Oh, you didn't hear?... Lauren is giving handys to anyone who will pledge to vote for her!"
+msgid "[Z] Oh, you didn't hear?... Lauren is giving handys to anyone who will pledge to vote for her!"
 msgstr "[Z] Oh, you didn't hear?... Lauren is giving handys to anyone who will pledge to vote for her!"
 
 # game/UpdateScript0.07.rpy:14883## # translate crowdin bad_polls_aftermath_0f42b95d:
-msgstr "[Z] But don't even think about budging. I got here as fast as I could, and I'm still in the back of the line."
+msgid "[Z] But don't even think about budging. I got here as fast as I could, and I'm still in the back of the line."
 msgstr "[Z] But don't even think about budging. I got here as fast as I could, and I'm still in the back of the line."
 
 # game/UpdateScript0.07.rpy:14884## # translate crowdin bad_polls_aftermath_1691d450:
@@ -25651,15 +25651,15 @@ msgid "[RT] {i}There's no way that's what he means.{/i}"
 msgstr "[RT] {i}There's no way that's what he means.{/i}"
 
 # game/UpdateScript0.07.rpy:14886## # translate crowdin bad_polls_aftermath_0901141a:
-msgstr "[Z] Yeah, you just have to make a verbal pledge and she'll pull your dick till you cum."
+msgid "[Z] Yeah, you just have to make a verbal pledge and she'll pull your dick till you cum."
 msgstr "[Z] Yeah, you just have to make a verbal pledge and she'll pull your dick till you cum."
 
 # game/UpdateScript0.07.rpy:14887## # translate crowdin bad_polls_aftermath_cc07ba8d:
-msgstr "[Z] I hope you're willing to miss our next class. Where we are in line, it's going to take a while."
+msgid "[Z] I hope you're willing to miss our next class. Where we are in line, it's going to take a while."
 msgstr "[Z] I hope you're willing to miss our next class. Where we are in line, it's going to take a while."
 
 # game/UpdateScript0.07.rpy:14890## # translate crowdin bad_polls_aftermath_8a7dbbc1:
-msgstr "[Z] Oh, wait!... Isn't Lauren your sister?... So you probably don't want..."
+msgid "[Z] Oh, wait!... Isn't Lauren your sister?... So you probably don't want..."
 msgstr "[Z] Oh, wait!... Isn't Lauren your sister?... So you probably don't want..."
 
 # game/UpdateScript0.07.rpy:14891## # translate crowdin bad_polls_aftermath_1f8860ac:
@@ -25667,7 +25667,7 @@ msgid "[R] No!... I don't... And I don't want you to get one from her either!"
 msgstr "[R] No!... I don't... And I don't want you to get one from her either!"
 
 # game/UpdateScript0.07.rpy:14894## # translate crowdin bad_polls_aftermath_d47fe8fa:
-msgstr "[Z] What!?... You can't stop me!"
+msgid "[Z] What!?... You can't stop me!"
 msgstr "[Z] What!?... You can't stop me!"
 
 # game/UpdateScript0.07.rpy:14895## # translate crowdin bad_polls_aftermath_c876a52d:
@@ -25675,7 +25675,7 @@ msgid "[R] Yes I can!... You're only a junior, which means you can only be sixte
 msgstr "[R] Yes I can!... You're only a junior, which means you can only be sixteen or seventeen years old!"
 
 # game/UpdateScript0.07.rpy:14896## # translate crowdin bad_polls_aftermath_ba4e3eab:
-msgstr "[Z] I'm seventeen... What of it?"
+msgid "[Z] I'm seventeen... What of it?"
 msgstr "[Z] I'm seventeen... What of it?"
 
 # game/UpdateScript0.07.rpy:14897## # translate crowdin bad_polls_aftermath_d8d245d3:
@@ -25683,7 +25683,7 @@ msgid "[R] That's what I thought... Your not a legally consenting adult, so if y
 msgstr "[R] That's what I thought... Your not a legally consenting adult, so if you did anything with Lauren you could both get kicked out of school!"
 
 # game/UpdateScript0.07.rpy:14898## # translate crowdin bad_polls_aftermath_e7dc7c4f:
-msgstr "[Z] But... I'm almost 18!"
+msgid "[Z] But... I'm almost 18!"
 msgstr "[Z] But... I'm almost 18!"
 
 # game/UpdateScript0.07.rpy:14899## # translate crowdin bad_polls_aftermath_4350e6b2:
@@ -25691,7 +25691,7 @@ msgid "[R] Get out of here, before I kick your ass!"
 msgstr "[R] Get out of here, before I kick your ass!"
 
 # game/UpdateScript0.07.rpy:14900## # translate crowdin bad_polls_aftermath_031c2b79:
-msgstr "[Z] But!..."
+msgid "[Z] But!..."
 msgstr "[Z] But!..."
 
 # game/UpdateScript0.07.rpy:14901## # translate crowdin bad_polls_aftermath_3c166cb9:
@@ -25699,7 +25699,7 @@ msgid "[R] It won't matter anyways, I'm going to shut this whole thing down."
 msgstr "[R] It won't matter anyways, I'm going to shut this whole thing down."
 
 # game/UpdateScript0.07.rpy:14902## # translate crowdin bad_polls_aftermath_416f0a53:
-msgstr "[Z] You're no fucking fun!"
+msgid "[Z] You're no fucking fun!"
 msgstr "[Z] You're no fucking fun!"
 
 # game/UpdateScript0.07.rpy:14905## # translate crowdin bad_polls_aftermath_92b87c0f:
