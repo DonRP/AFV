@@ -191,8 +191,8 @@ msgid "[M] I've got an exciting announcement for all of you."
 msgstr "[M] I've got an exciting announcement for all of you."
 
 # game/UpdateScript0.07.rpy:1122## # translate crowdin mandy_accepted_8f379911:
-msgid "C "What's so important that you had to interrupt my workout?"
-    C "What's so important that you had to interrupt my workout?"
+msgid  "[C] What's so important that you had to interrupt my workout?"
+msgstr "[C] What's so important that you had to interrupt my workout?"
 
 # game/UpdateScript0.07.rpy:1123## # translate crowdin mandy_accepted_29e62776:
 msgid "[M] Like I said, I've got some exciting news."
