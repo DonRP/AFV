@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Phone_interface.po\n"
+"X-Crowdin-File-ID: 1313\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2022-01-03 17:52\n"
+
+# TODO: Translation updated at 2022-01-02 20:48## # game/Phone_interface.rpy:265## # translate crowdin mafia_warning_f561667c:
+msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:270## # translate crowdin night_warning_48ae09e0:
+msgid "[RT] {i}It's night, I should go to sleep.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:275## # translate crowdin school_warning_1afbbf5b:
+msgid "[RT] {i}Right now I'm at School, I must first go home to advance time.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:280## # translate crowdin campaign_warning_88e99dc5:
+msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:477## # translate crowdin memes_time_skip_e011db0e:
+msgid "[RT] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:485## # translate crowdin memes_time_skip_e011db0e_1:
+msgid "[RT] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:491## # translate crowdin memes_time_skip_e011db0e_2:
+msgid "[RT] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:497## # translate crowdin memes_time_skip_e011db0e_3:
+msgid "[RT] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:510## # translate crowdin memes_time_skip_e011db0e_4:
+msgid "[RT] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
