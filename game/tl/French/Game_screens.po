@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Game_screens.po\n"
+"X-Crowdin-File-ID: 1297\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-01-03 17:52\n"
+
+# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Game_screens.rpy:59
+msgid " My\n"
+"Room"
+msgstr ""
+
+#    # game/Game_screens.rpy:77
+msgid "Bath"
+msgstr ""
+
+#    # game/Game_screens.rpy:110
+msgid "City"
+msgstr ""
+
+#    # game/Game_screens.rpy:125
+msgid "Hallway"
+msgstr ""
+
+#    # game/Game_screens.rpy:134
+msgid "Class"
+msgstr ""
+
+#    # game/Game_screens.rpy:152
+msgid "{size=29} {/size}Girls\n"
+"Locker\n"
+"{size=25} {/size}Room"
+msgstr ""
+
+#    # game/Game_screens.rpy:208
+msgid "Campaign\n"
+"   HQ"
+msgstr ""
+
