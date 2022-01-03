@@ -1023,100 +1023,100 @@ msgid "[ST] {i}I can't even see [ryan]. I really kicked his ass.{/i}"
 msgstr "[ST] {i}I can't even see [ryan]. I really kicked his ass.{/i}"
 
 # game/UpdateScript0.05.rpy:1001## # translate crowdin sidney_morning_jog_1768012b:
-msgid "CMT "{i}Shit!....{/i}"
-    CMT "{i}Shit!....{/i}"
+msgid "[CMT] {i}Shit!....{/i}"
+msgstr "[CMT] {i}Shit!....{/i}"
 
 # game/UpdateScript0.05.rpy:1002## # translate crowdin sidney_morning_jog_1245bda0:
-msgid "CMT "{i}Fuck!....{/i}"
-    CMT "{i}Fuck!....{/i}"
+msgid "[CMT] {i}Fuck!....{/i}"
+msgstr "[CMT] {i}Fuck!....{/i}"
 
 # game/UpdateScript0.05.rpy:1003## # translate crowdin sidney_morning_jog_4f12adf8:
-msgid "CMT "{i}How did I get separated from my unit?{/i}"
-    CMT "{i}How did I get separated from my unit?{/i}"
+msgid "[CMT] {i}How did I get separated from my unit?{/i}"
+msgstr "[CMT] {i}How did I get separated from my unit?{/i}"
 
 # game/UpdateScript0.05.rpy:1006## # translate crowdin sidney_morning_jog_ea3a8e8f:
-msgid "CMT "{i}Ok... I must have been knocked unconscious.{/i}"
-    CMT "{i}Ok... I must have been knocked unconscious.{/i}"
+msgid "[CMT] {i}Ok... I must have been knocked unconscious.{/i}"
+msgstr "[CMT] {i}Ok... I must have been knocked unconscious.{/i}"
 
 # game/UpdateScript0.05.rpy:1007## # translate crowdin sidney_morning_jog_ff9695f7:
-msgid "CMT "{i}Because I don't remember how I got here.{/i}"
-    CMT "{i}Because I don't remember how I got here.{/i}"
+msgid "[CMT] {i}Because I don't remember how I got here.{/i}"
+msgstr "[CMT] {i}Because I don't remember how I got here.{/i}"
 
 # game/UpdateScript0.05.rpy:1008## # translate crowdin sidney_morning_jog_b3ac0158:
-msgid "CMT "{i}At least I don't have any other wounds.{/i}"
-    CMT "{i}At least I don't have any other wounds.{/i}"
+msgid "[CMT] {i}At least I don't have any other wounds.{/i}"
+msgstr "[CMT] {i}At least I don't have any other wounds.{/i}"
 
 # game/UpdateScript0.05.rpy:1011## # translate crowdin sidney_morning_jog_d17dc7e9:
-msgid "CMT "{i}How did I lose my rifle? Well, at least I still have my trusty sidearm.{/i}"
-    CMT "{i}How did I lose my rifle? Well, at least I still have my trusty sidearm.{/i}"
+msgid "[CMT] {i}How did I lose my rifle? Well, at least I still have my trusty sidearm.{/i}"
+msgstr "[CMT] {i}How did I lose my rifle? Well, at least I still have my trusty sidearm.{/i}"
 
 # game/UpdateScript0.05.rpy:1012## # translate crowdin sidney_morning_jog_ba71eb03:
-msgid "CMT "{i}I just hope the other boys from the unit are ok.{/i}"
-    CMT "{i}I just hope the other boys from the unit are ok.{/i}"
+msgid "[CMT] {i}I just hope the other boys from the unit are ok.{/i}"
+msgstr "[CMT] {i}I just hope the other boys from the unit are ok.{/i}"
 
 # game/UpdateScript0.05.rpy:1015## # translate crowdin sidney_morning_jog_df9facfc:
-msgid "CMT "{i}It looks like I'm coming up onto a clearing.{/i}"
-    CMT "{i}It looks like I'm coming up onto a clearing.{/i}"
+msgid "[CMT] {i}It looks like I'm coming up onto a clearing.{/i}"
+msgstr "[CMT] {i}It looks like I'm coming up onto a clearing.{/i}"
 
 # game/UpdateScript0.05.rpy:1016## # translate crowdin sidney_morning_jog_2c9a6e2f:
-msgid "CMT "{i}There must be a village nearby.{/i}"
-    CMT "{i}There must be a village nearby.{/i}"
+msgid "[CMT] {i}There must be a village nearby.{/i}"
+msgstr "[CMT] {i}There must be a village nearby.{/i}"
 
 # game/UpdateScript0.05.rpy:1017## # translate crowdin sidney_morning_jog_653f58c6:
-msgid "CMT "{i}I just hope they're friendlies.{/i}"
-    CMT "{i}I just hope they're friendlies.{/i}"
+msgid "[CMT] {i}I just hope they're friendlies.{/i}"
+msgstr "[CMT] {i}I just hope they're friendlies.{/i}"
 
 # game/UpdateScript0.05.rpy:1018## # translate crowdin sidney_morning_jog_166eb0f2:
-msgid "CMT "{i}Oh... what do we have here?{/i}"
-    CMT "{i}Oh... what do we have here?{/i}"
+msgid "[CMT] {i}Oh... what do we have here?{/i}"
+msgstr "[CMT] {i}Oh... what do we have here?{/i}"
 
 # game/UpdateScript0.05.rpy:1021## # translate crowdin sidney_morning_jog_d8a0377d:
-msgid "CMT "{i}Looks like the village prostitute is out peddling her wares.{/i}"
-    CMT "{i}Looks like the village prostitute is out peddling her wares.{/i}"
+msgid "[CMT] {i}Looks like the village prostitute is out peddling her wares.{/i}"
+msgstr "[CMT] {i}Looks like the village prostitute is out peddling her wares.{/i}"
 
 # game/UpdateScript0.05.rpy:1022## # translate crowdin sidney_morning_jog_928e01e2:
-msgid "CMT "{i}She looks like she's all alone.{/i}"
-    CMT "{i}She looks like she's all alone.{/i}"
+msgid "[CMT] {i}She looks like she's all alone.{/i}"
+msgstr "[CMT] {i}She looks like she's all alone.{/i}"
 
 # game/UpdateScript0.05.rpy:1023## # translate crowdin sidney_morning_jog_4aeedbb9:
-msgid "CMT "{i}I'm going to have to go get me some of that.{/i}"
-    CMT "{i}I'm going to have to go get me some of that.{/i}"
+msgid "[CMT] {i}I'm going to have to go get me some of that.{/i}"
+msgstr "[CMT] {i}I'm going to have to go get me some of that.{/i}"
 
 # game/UpdateScript0.05.rpy:1024## # translate crowdin sidney_morning_jog_51b1265d:
-msgid "CMT "{i}Even if she is on the enemy side, I'm sure she wouldn't say no to a few dollars.{/i}"
-    CMT "{i}Even if she is on the enemy side, I'm sure she wouldn't say no to a few dollars.{/i}"
+msgid "[CMT] {i}Even if she is on the enemy side, I'm sure she wouldn't say no to a few dollars.{/i}"
+msgstr "[CMT] {i}Even if she is on the enemy side, I'm sure she wouldn't say no to a few dollars.{/i}"
 
 # game/UpdateScript0.05.rpy:1029## # translate crowdin sidney_morning_jog_a1b85b5a:
 msgid "[ST] {i}Urgggghhh.... He must have given up and gone home.{/i}"
 msgstr "[ST] {i}Urgggghhh.... He must have given up and gone home.{/i}"
 
 # game/UpdateScript0.05.rpy:1030## # translate crowdin sidney_morning_jog_06312834:
-msgid "CM "Well, hello there pretty thing!"
-    CM "Well, hello there pretty thing!"
+msgid "[CM] Well, hello there pretty thing!"
+msgstr "[CM] Well, hello there pretty thing!"
 
 # game/UpdateScript0.05.rpy:1033## # translate crowdin sidney_morning_jog_670ac3ac:
 msgid "[S] Who... who are you?"
 msgstr "[S] Who... who are you?"
 
 # game/UpdateScript0.05.rpy:1034## # translate crowdin sidney_morning_jog_c07d51a5:
-msgid "CM "Oh that doesn't matter now, does it? I'm just a paying customer."
-    CM "Oh that doesn't matter now, does it? I'm just a paying customer."
+msgid "[CM] Oh that doesn't matter now, does it? I'm just a paying customer."
+msgstr "[CM] Oh that doesn't matter now, does it? I'm just a paying customer."
 
 # game/UpdateScript0.05.rpy:1035## # translate crowdin sidney_morning_jog_dc8dbeba:
 msgid "[S] A paying customer? What.... does that mean?"
 msgstr "[S] A paying customer? What.... does that mean?"
 
 # game/UpdateScript0.05.rpy:1036## # translate crowdin sidney_morning_jog_8fd0c7d5:
-msgid "CM "And I pay in dollars, which are a lot more valuable than your currency."
-    CM "And I pay in dollars, which are a lot more valuable than your currency."
+msgid "[CM] And I pay in dollars, which are a lot more valuable than your currency."
+msgstr "[CM] And I pay in dollars, which are a lot more valuable than your currency."
 
 # game/UpdateScript0.05.rpy:1037## # translate crowdin sidney_morning_jog_56c70b5a:
 msgid "[S] What in the hell are you talking about?"
 msgstr "[S] What in the hell are you talking about?"
 
 # game/UpdateScript0.05.rpy:1038## # translate crowdin sidney_morning_jog_756aa3de:
-msgid "CM "Plus, I think you'll like what I've got right down here."
-    CM "Plus, I think you'll like what I've got right down here."
+msgid "[CM] Plus, I think you'll like what I've got right down here."
+msgstr "[CM] Plus, I think you'll like what I've got right down here."
 
 # game/UpdateScript0.05.rpy:1041## # translate crowdin sidney_morning_jog_39511a1c:
 msgid "[ST] {i}Oh.... my.... God!...{/i}"
@@ -1139,12 +1139,12 @@ msgid "[X] Hey you! Stay right there!"
 msgstr "[X] Hey you! Stay right there!"
 
 # game/UpdateScript0.05.rpy:1048## # translate crowdin sidney_morning_jog_ec8f0b4c:
-msgid "CMT "{i}Shit!.... It's the commies!{/i}"
-    CMT "{i}Shit!.... It's the commies!{/i}"
+msgid "[CMT] {i}Shit!.... It's the commies!{/i}"
+msgstr "[CMT] {i}Shit!.... It's the commies!{/i}"
 
 # game/UpdateScript0.05.rpy:1051## # translate crowdin sidney_morning_jog_897a6ad0:
-msgid "CM "You'll never catch me alive, you commie bastard!"
-    CM "You'll never catch me alive, you commie bastard!"
+msgid "[CM] You'll never catch me alive, you commie bastard!"
+msgstr "[CM] You'll never catch me alive, you commie bastard!"
 
 # game/UpdateScript0.05.rpy:1052## # translate crowdin sidney_morning_jog_e2a3b9de:
 msgid "[S] HELP!.... FLASHER!... Please! Someone catch him!"
@@ -1155,8 +1155,8 @@ msgid "[P] Mr. Peterson!.... Please stop!.... Your family is worried about you!"
 msgstr "[P] Mr. Peterson!.... Please stop!.... Your family is worried about you!"
 
 # game/UpdateScript0.05.rpy:1056## # translate crowdin sidney_morning_jog_c4a7be3a:
-msgid "CM "You commie bastards will thank us one day after we win this war!"
-    CM "You commie bastards will thank us one day after we win this war!"
+msgid "[CM] You commie bastards will thank us one day after we win this war!"
+msgstr "[CM] You commie bastards will thank us one day after we win this war!"
 
 # game/UpdateScript0.05.rpy:1057## # translate crowdin sidney_morning_jog_25d720e5:
 msgid "[P] No! Please stop!"

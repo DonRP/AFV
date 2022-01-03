@@ -18575,8 +18575,8 @@ msgid "[CD] Oooo... I can't wait!"
 msgstr "[CD] Oooo... I can't wait!"
 
 # game/UpdateScript0.06.rpy:10679## # translate crowdin candy_danced_again_6546cd1f:
-msgid "CDT "{i}I can definitely wait!{/i}"
-    CDT "{i}I can definitely wait!{/i}"
+msgid "[CDT] {i}I can definitely wait!{/i}"
+msgstr "[CDT] {i}I can definitely wait!{/i}"
 
 # game/UpdateScript0.06.rpy:10690## # translate crowdin casino_exit_454d50f6:
 msgid "[RT] {i}This place is dangerous... I shouldn't spend any more time here.{/i}"
