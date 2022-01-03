@@ -10,55 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 18:10\n"
+"PO-Revision-Date: 2022-01-03 21:28\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Phone_event_screen.rpy:859## # translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei andare prima al ritratto della famiglia per ricordare.{/i}"
 
 # game/Phone_event_screen.rpy:861## # translate crowdin event_info_02_f0ec2643:
 msgid "[RT] {i}I need to go talk to Uncle Bobby at the warehouse. I can get there by looking at the city map.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di andare a parlare con lo zio Bobby al magazzino. Posso arrivare lì guardando la mappa della città.{/i}"
 
 # game/Phone_event_screen.rpy:867## # translate crowdin event_info_03_5e0c9bb1:
 msgid "[RT] {i}I need to complete event 2 before I can even start event 3.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 2 prima di poter anche iniziare l'evento 3.{/i}"
 
 # game/Phone_event_screen.rpy:869## # translate crowdin event_info_03_c3b1ca7a:
 msgid "[RT] {i}I need to go to my house and talk to Mom. She should be in the kitchen.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di andare a casa mia e parlare con la mamma. Dovrebbe essere in cucina.{/i}"
 
 # game/Phone_event_screen.rpy:875## # translate crowdin event_info_04_0796bb88:
 msgid "[RT] {i}I need to complete event 3 before I can even start event 4.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 3 prima di poter anche iniziare l'evento 4.{/i}"
 
 # game/Phone_event_screen.rpy:877## # translate crowdin event_info_04_d8815923:
 msgid "[RT] {i}I think Mom's probably pretty shook up. I should go check on her in her room.{/i}"
-msgstr ""
+msgstr "[RT] {i}Penso che probabilmente la mamma sia piuttosto scossa. Dovrei andare a controllarla nella sua stanza.{/i}"
 
 # game/Phone_event_screen.rpy:883## # translate crowdin event_info_05_e3b3be92:
 msgid "[RT] {i}I need to complete event 4 before I can even start event 5.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 4 prima di poter anche iniziare l'evento 5.{/i}"
 
 # game/Phone_event_screen.rpy:885## # translate crowdin event_info_05_9f6b4bbd:
 msgid "[RT] {i}Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lauren ama uscire in salotto la sera. Forse dovrei andare a vederla.{/i}"
 
 # game/Phone_event_screen.rpy:891## # translate crowdin event_info_06_b3234975:
 msgid "[RT] {i}I need to finish event 5 before I can even start event 6.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 5 prima di poter anche iniziare l'evento 6.{/i}"
 
 # game/Phone_event_screen.rpy:893## # translate crowdin event_info_06_b69019fb:
 msgid "[RT] {i}I should go to the kitchen in the evening for family dinner.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei andare in cucina la sera per la cena in famiglia.{/i}"
 
 # game/Phone_event_screen.rpy:899## # translate crowdin event_info_07_ba6340d4:
 msgid "[RT] {i}I need to complete event 4 before I can even start event 7.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 4 prima di poter anche iniziare l'evento 7.{/i}"
 
 # game/Phone_event_screen.rpy:901## # translate crowdin event_info_07_97177a83:
 msgid "[RT] {i}I need to go to school in the late morning or afternoon.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di andare a scuola nel tardo mattino o pomeriggio.{/i}"
 
 # game/Phone_event_screen.rpy:903## # translate crowdin event_info_07_5fd67134:
 msgid "[RT] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
