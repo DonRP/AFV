@@ -5795,19 +5795,19 @@ msgid "[GP] So, let's look around and see if we can find your parents."
 msgstr "[GP] So, let's look around and see if we can find your parents."
 
 # game/UpdateScriptChristmasEvent.rpy:2640## # translate crowdin christmas_club_51c2ee90:
-msgstr "[VOM] Let's welcome to the stage the only one of our dancers desperate enough to come in on Christmas, to perform for a single patron, Oh, I guess there's two of you now.... I didn't see you come in."
+msgid "[VOM] Let's welcome to the stage the only one of our dancers desperate enough to come in on Christmas, to perform for a single patron, Oh, I guess there's two of you now.... I didn't see you come in."
 msgstr "[VOM] Let's welcome to the stage the only one of our dancers desperate enough to come in on Christmas, to perform for a single patron, Oh, I guess there's two of you now.... I didn't see you come in."
 
 # game/UpdateScriptChristmasEvent.rpy:2641## # translate crowdin christmas_club_e15e5f72:
-msgstr "[VOM] {i}(Whispering over mic){/i} Honestly Bill, it was a terrible idea to be open on Christmas."
+msgid "[VOM] {i}(Whispering over mic){/i} Honestly Bill, it was a terrible idea to be open on Christmas."
 msgstr "[VOM] {i}(Whispering over mic){/i} Honestly Bill, it was a terrible idea to be open on Christmas."
 
 # game/UpdateScriptChristmasEvent.rpy:2642## # translate crowdin christmas_club_2e1c5d62:
-msgstr "[VOM] {i}(Other muffled voice){/i} Ssshhhh.... they can hear you over the mic!"
+msgid "[VOM] {i}(Other muffled voice){/i} Ssshhhh.... they can hear you over the mic!"
 msgstr "[VOM] {i}(Other muffled voice){/i} Ssshhhh.... they can hear you over the mic!"
 
 # game/UpdateScriptChristmasEvent.rpy:2643## # translate crowdin christmas_club_25f6bcb9:
-msgstr "[VOM] Once again! Let's welcome to the stage, Santa's sexy helper, the one and only, [mom_name]!"
+msgid "[VOM] Once again! Let's welcome to the stage, Santa's sexy helper, the one and only, [mom_name]!"
 msgstr "[VOM] Once again! Let's welcome to the stage, Santa's sexy helper, the one and only, [mom_name]!"
 
 # game/UpdateScriptChristmasEvent.rpy:2646## # translate crowdin christmas_club_d39dd80c:
