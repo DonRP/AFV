@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 17:50\n"
+"PO-Revision-Date: 2022-01-03 21:26\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Patreon_$5_Gallery/D.S.Mod.rpy:2324## # translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
@@ -334,69 +334,69 @@ msgstr "{image=iconS} {color=#E60000}Sidney{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Rispetto:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Affetto:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[sidneyanger]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
 msgid "{image=iconA} {color=#E60000}[Auntie]{/color}"
-msgstr ""
+msgstr "{image=iconA} {color=#E60000}[Auntie]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[auntrespect]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[auntaffection]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Invia:{/color} {color=#1DDB16}[auntsubmission]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[cousinrespect]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[cousinaffection]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Invia:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
 
 #    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
 msgid "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
-msgstr ""
+msgstr "Vuoi cambiare il tuo nome? Il nome predefinito è: {color=#0000CC}Ryan{/color}"
 
