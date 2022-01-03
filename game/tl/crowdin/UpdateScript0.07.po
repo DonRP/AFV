@@ -18007,8 +18007,8 @@ msgid "[RT] {i}Shit!... I've got to get out of here!{/i}"
 msgstr "[RT] {i}Shit!... I've got to get out of here!{/i}"
 
 # game/UpdateScript0.07.rpy:10892## # translate crowdin bad_shower_caught_f39af27f:
-msgid "BR "AAAHHHhhhh!...."
-    BR "AAAHHHhhhh!...."
+msgid "[BR] AAAHHHhhhh!...."
+msgstr "[BR] AAAHHHhhhh!...."
 
 # game/UpdateScript0.07.rpy:10893## # translate crowdin bad_shower_caught_96d141bf:
 msgid "[R] Shhhh..."
@@ -18027,8 +18027,8 @@ msgid "[R] Yeah, right away!"
 msgstr "[R] Yeah, right away!"
 
 # game/UpdateScript0.07.rpy:10906## # translate crowdin bad_shower_caught_f39af27f_1:
-msgid "BR "AAAHHHhhhh!...."
-    BR "AAAHHHhhhh!...."
+msgid "[BR] AAAHHHhhhh!...."
+msgstr "[BR] AAAHHHhhhh!...."
 
 # game/UpdateScript0.07.rpy:10907## # translate crowdin bad_shower_caught_96d141bf_1:
 msgid "[R] Shhhh..."
