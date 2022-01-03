@@ -799,28 +799,28 @@ msgid "[B] These pics are going into my \"Wank_Later\" folder."
 msgstr "[B] These pics are going into my \"Wank_Later\" folder."
 
 # game/UpdateScript0.06.rpy:1074## # translate crowdin posting_ph_pics_c99bbd82:
-msgid "WTT "{i}Well, well, well, one of our teachers is taking pictures with one of her students...{/i}"
-    WTT "{i}Well, well, well, one of our teachers is taking pictures with one of her students...{/i}"
+msgid "[WTT] {i}Well, well, well, one of our teachers is taking pictures with one of her students...{/i}"
+msgstr "[WTT] {i}Well, well, well, one of our teachers is taking pictures with one of her students...{/i}"
 
 # game/UpdateScript0.06.rpy:1075## # translate crowdin posting_ph_pics_4b006be6:
-msgid "WTT "{i}I sincerely hope that student is an adult.{/i}"
-    WTT "{i}I sincerely hope that student is an adult.{/i}"
+msgid "[WTT] {i}I sincerely hope that student is an adult.{/i}"
+msgstr "[WTT] {i}I sincerely hope that student is an adult.{/i}"
 
 # game/UpdateScript0.06.rpy:1076## # translate crowdin posting_ph_pics_7a3b7351:
-msgid "WTT "{i}I'd hate for there to be a hearing in front of the schoolboard.{/i}"
-    WTT "{i}I'd hate for there to be a hearing in front of the schoolboard.{/i}"
+msgid "[WTT] {i}I'd hate for there to be a hearing in front of the schoolboard.{/i}"
+msgstr "[WTT] {i}I'd hate for there to be a hearing in front of the schoolboard.{/i}"
 
 # game/UpdateScript0.06.rpy:1077## # translate crowdin posting_ph_pics_a19e7c91:
-msgid "WTT "{i}This is the kind of teacher that this district needs more of.{/i}"
-    WTT "{i}This is the kind of teacher that this district needs more of.{/i}"
+msgid "[WTT] {i}This is the kind of teacher that this district needs more of.{/i}"
+msgstr "[WTT] {i}This is the kind of teacher that this district needs more of.{/i}"
 
 # game/UpdateScript0.06.rpy:1078## # translate crowdin posting_ph_pics_0f44428e:
-msgid "WTT "{i}The kind of teacher that goes out of her way to help a student persue extracurricular activities.{/i}"
-    WTT "{i}The kind of teacher that goes out of her way to help a student persue extracurricular activities.{/i}"
+msgid "[WTT] {i}The kind of teacher that goes out of her way to help a student persue extracurricular activities.{/i}"
+msgstr "[WTT] {i}The kind of teacher that goes out of her way to help a student persue extracurricular activities.{/i}"
 
 # game/UpdateScript0.06.rpy:1079## # translate crowdin posting_ph_pics_d994316e:
-msgid "WTT "{i}I'll do whatever I can to defend a teacher like this.{/i}"
-    WTT "{i}I'll do whatever I can to defend a teacher like this.{/i}"
+msgid "[WTT] {i}I'll do whatever I can to defend a teacher like this.{/i}"
+msgstr "[WTT] {i}I'll do whatever I can to defend a teacher like this.{/i}"
 
 # game/UpdateScript0.06.rpy:1090## # translate crowdin posting_ph_pics_cc3ecee5:
 msgid "[KT] {i}More pics of Megan and Miss [mom_name]?{/i}"
@@ -863,28 +863,28 @@ msgid "[B] These pics are going into my \"Wank_Later\" folder."
 msgstr "[B] These pics are going into my \"Wank_Later\" folder."
 
 # game/UpdateScript0.06.rpy:1133## # translate crowdin posting_ph_pics_9c54902b:
-msgid "WTT "{i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"
-    WTT "{i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"
+msgid "[WTT] {i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"
+msgstr "[WTT] {i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"
 
 # game/UpdateScript0.06.rpy:1134## # translate crowdin posting_ph_pics_cbe3261f:
-msgid "WTT "{i}I was so glad to find that Megan is an adult.{/i}"
-    WTT "{i}I was so glad to find that Megan is an adult.{/i}"
+msgid "[WTT] {i}I was so glad to find that Megan is an adult.{/i}"
+msgstr "[WTT] {i}I was so glad to find that Megan is an adult.{/i}"
 
 # game/UpdateScript0.06.rpy:1135## # translate crowdin posting_ph_pics_2fe56de2:
-msgid "WTT "{i}Now we won't need to do any kind of investigation and Megan is free to pursue her desired extracurricular activities.{/i}"
-    WTT "{i}Now we won't need to do any kind of investigation and Megan is free to pursue her desired extracurricular activities.{/i}"
+msgid "[WTT] {i}Now we won't need to do any kind of investigation and Megan is free to pursue her desired extracurricular activities.{/i}"
+msgstr "[WTT] {i}Now we won't need to do any kind of investigation and Megan is free to pursue her desired extracurricular activities.{/i}"
 
 # game/UpdateScript0.06.rpy:1136## # translate crowdin posting_ph_pics_a7c958e9:
-msgid "WTT "{i}I hope I get to meet this dedicated teacher soon.{/i}"
-    WTT "{i}I hope I get to meet this dedicated teacher soon.{/i}"
+msgid "[WTT] {i}I hope I get to meet this dedicated teacher soon.{/i}"
+msgstr "[WTT] {i}I hope I get to meet this dedicated teacher soon.{/i}"
 
 # game/UpdateScript0.06.rpy:1137## # translate crowdin posting_ph_pics_f8e6dae8:
-msgid "WTT "{i}She might be in line for some kind of promotion soon.{/i}"
-    WTT "{i}She might be in line for some kind of promotion soon.{/i}"
+msgid "[WTT] {i}She might be in line for some kind of promotion soon.{/i}"
+msgstr "[WTT] {i}She might be in line for some kind of promotion soon.{/i}"
 
 # game/UpdateScript0.06.rpy:1138## # translate crowdin posting_ph_pics_8136d7e1:
-msgid "WTT "{i}Maybe she can help me identify other great teachers in the district who can help our school progress out of the tired old ways of the past.{/i}"
-    WTT "{i}Maybe she can help me identify other great teachers in the district who can help our school progress out of the tired old ways of the past.{/i}"
+msgid "[WTT] {i}Maybe she can help me identify other great teachers in the district who can help our school progress out of the tired old ways of the past.{/i}"
+msgstr "[WTT] {i}Maybe she can help me identify other great teachers in the district who can help our school progress out of the tired old ways of the past.{/i}"
 
 # game/UpdateScript0.06.rpy:1166## # translate crowdin fapmandy_a30f8075:
 msgid "[RT] {i}What is wrong with me?{/i}"

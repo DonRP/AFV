@@ -14855,8 +14855,8 @@ msgid "[M] Okay class, let's talk more about your final projects for the Oedipal
 msgstr "[M] Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show modern applications and examples of the Oedipus tragedy in our modern society."
 
 # game/UpdateScript0.07.rpy:9021## # translate crowdin new_classroom_morning_f279b660:
-msgid "IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
-    IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgid "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgstr "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
 
 # game/UpdateScript0.07.rpy:9028## # translate crowdin new_classroom_morning_b7632dc1:
 msgid "[M] Alright class, everybody pay attention to the TV, please."
@@ -15867,8 +15867,8 @@ msgid "[M] Don't worry about it, Kenzie. Just focus on your own paper."
 msgstr "[M] Don't worry about it, Kenzie. Just focus on your own paper."
 
 # game/UpdateScript0.07.rpy:9652## # translate crowdin election_announcement_f279b660:
-msgid "IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
-    IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgid "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgstr "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
 
 # game/UpdateScript0.07.rpy:9659## # translate crowdin election_announcement_b7632dc1:
 msgid "[M] Alright class, everybody pay attention to the TV, please."
@@ -16079,8 +16079,8 @@ msgid "[RT] {i}I envy Lauren. She's got presidential duties to get her out of th
 msgstr "[RT] {i}I envy Lauren. She's got presidential duties to get her out of this boring class.{/i}"
 
 # game/UpdateScript0.07.rpy:9792## # translate crowdin morning_announcements_f279b660:
-msgid "IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
-    IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgid "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+msgstr "[IV] Good morning, students and teachers. Please turn on your TVs for the morning announcements."
 
 # game/UpdateScript0.07.rpy:9802## # translate crowdin morning_announcements_00783680:
 msgid "[RT] {i}The morning announcements are much better now that Lauren gets to read them.{/i}"
@@ -31503,12 +31503,12 @@ msgid "[WT] Yes, there she is."
 msgstr "[WT] Yes, there she is."
 
 # game/UpdateScript0.07.rpy:17982## # translate crowdin will_meeting_6993091d:
-msgid "WTT "{i}Oh, yes... The extremely beautiful and talented Miss [mom_name].{/i}"
-    WTT "{i}Oh, yes... The extremely beautiful and talented Miss [mom_name].{/i}"
+msgid "[WTT] {i}Oh, yes... The extremely beautiful and talented Miss [mom_name].{/i}"
+msgstr "[WTT] {i}Oh, yes... The extremely beautiful and talented Miss [mom_name].{/i}"
 
 # game/UpdateScript0.07.rpy:17983## # translate crowdin will_meeting_e8609c46:
-msgid "WTT "{i}Which means this young man must be the photographer who set up the Cosplay Heaven page.{/i}"
-    WTT "{i}Which means this young man must be the photographer who set up the Cosplay Heaven page.{/i}"
+msgid "[WTT] {i}Which means this young man must be the photographer who set up the Cosplay Heaven page.{/i}"
+msgstr "[WTT] {i}Which means this young man must be the photographer who set up the Cosplay Heaven page.{/i}"
 
 # game/UpdateScript0.07.rpy:17984## # translate crowdin will_meeting_e9850bcc:
 msgid "[WT] I believe I recently met your mom when I last visited your school."
@@ -31531,8 +31531,8 @@ msgid "[R] Anyways, I just wanted to say I think your book is really interesting
 msgstr "[R] Anyways, I just wanted to say I think your book is really interesting, and I'm getting a lot of good information out of it for my upcoming presentation."
 
 # game/UpdateScript0.07.rpy:17989## # translate crowdin will_meeting_cfeaf4bd:
-msgid "WTT "{i}This kid is buttering me up for something.{/i}"
-    WTT "{i}This kid is buttering me up for something.{/i}"
+msgid "[WTT] {i}This kid is buttering me up for something.{/i}"
+msgstr "[WTT] {i}This kid is buttering me up for something.{/i}"
 
 # game/UpdateScript0.07.rpy:17990## # translate crowdin will_meeting_f40905e7:
 msgid "[WT] Well, let me return the compliment. As I understand it, you are somewhat of an amateur photographer?"
@@ -31651,12 +31651,12 @@ msgid "[R] Oh... you didn't kn...fuck!"
 msgstr "[R] Oh... you didn't kn...fuck!"
 
 # game/UpdateScript0.07.rpy:18025## # translate crowdin will_meeting_6338184e:
-msgid "WTT "{i}My God! This kid is the living embodiment of all my theories.{/i}"
-    WTT "{i}My God! This kid is the living embodiment of all my theories.{/i}"
+msgid "[WTT] {i}My God! This kid is the living embodiment of all my theories.{/i}"
+msgstr "[WTT] {i}My God! This kid is the living embodiment of all my theories.{/i}"
 
 # game/UpdateScript0.07.rpy:18026## # translate crowdin will_meeting_dab33bbb:
-msgid "WTT "{i}I need to study him and his family!{/i}"
-    WTT "{i}I need to study him and his family!{/i}"
+msgid "[WTT] {i}I need to study him and his family!{/i}"
+msgstr "[WTT] {i}I need to study him and his family!{/i}"
 
 # game/UpdateScript0.07.rpy:18027## # translate crowdin will_meeting_22a058c8:
 msgid "[WT] Don't worry, I'll keep that a secret, too."
@@ -31759,8 +31759,8 @@ msgid "[WT] I definitely hold some influence over the board, so I think there's 
 msgstr "[WT] I definitely hold some influence over the board, so I think there's a good chance I'll be able to sway them."
 
 # game/UpdateScript0.07.rpy:18058## # translate crowdin will_meeting_1b854cdc:
-msgid "WTT "{i}Thanks to Joey DeCapo. I had to pay a lot for dirt on all of them, but it's been more than worth it.{/i}"
-    WTT "{i}Thanks to Joey DeCapo. I had to pay a lot for dirt on all of them, but it's been more than worth it.{/i}"
+msgid "[WTT] {i}Thanks to Joey DeCapo. I had to pay a lot for dirt on all of them, but it's been more than worth it.{/i}"
+msgstr "[WTT] {i}Thanks to Joey DeCapo. I had to pay a lot for dirt on all of them, but it's been more than worth it.{/i}"
 
 # game/UpdateScript0.07.rpy:18061## # translate crowdin will_meeting_76d0150a:
 msgid "[WT] I'd say there's a good chance."
@@ -31807,16 +31807,16 @@ msgid "[RT] {i}Yeah... and I'm sure you'd want nothing in return.{/i}"
 msgstr "[RT] {i}Yeah... and I'm sure you'd want nothing in return.{/i}"
 
 # game/UpdateScript0.07.rpy:18074## # translate crowdin will_meeting_007e6635:
-msgid "WTT "{i}I've got to get closer to this woman... I could probably write a follow-up book on this family alone.{/i}"
-    WTT "{i}I've got to get closer to this woman... I could probably write a follow-up book on this family alone.{/i}"
+msgid "[WTT] {i}I've got to get closer to this woman... I could probably write a follow-up book on this family alone.{/i}"
+msgstr "[WTT] {i}I've got to get closer to this woman... I could probably write a follow-up book on this family alone.{/i}"
 
 # game/UpdateScript0.07.rpy:18075## # translate crowdin will_meeting_af76eeef:
-msgid "WTT "{i}What is it about her parenting style that's produced a young man with such a strong Oedipal complex?{/i}"
-    WTT "{i}What is it about her parenting style that's produced a young man with such a strong Oedipal complex?{/i}"
+msgid "[WTT] {i}What is it about her parenting style that's produced a young man with such a strong Oedipal complex?{/i}"
+msgstr "[WTT] {i}What is it about her parenting style that's produced a young man with such a strong Oedipal complex?{/i}"
 
 # game/UpdateScript0.07.rpy:18076## # translate crowdin will_meeting_a239a61b:
-msgid "WTT "{i}Is it possible that she could have a Jocasta complex as well?{/i}"
-    WTT "{i}Is it possible that she could have a Jocasta complex as well?{/i}"
+msgid "[WTT] {i}Is it possible that she could have a Jocasta complex as well?{/i}"
+msgstr "[WTT] {i}Is it possible that she could have a Jocasta complex as well?{/i}"
 
 # game/UpdateScript0.07.rpy:18079## # translate crowdin will_meeting_3defe1d9:
 msgid "[WT] Well?... What do you say?"
