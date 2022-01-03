@@ -17975,32 +17975,32 @@ msgid "[RT] {i}She seems to be pretty focused on getting dressed... Maybe I can 
 msgstr "[RT] {i}She seems to be pretty focused on getting dressed... Maybe I can sneak past her?{/i}"
 
 # game/UpdateScript0.07.rpy:10869## # translate crowdin bad_shower_caught_3860f167:
-msgid "LRG "AAAAAaaaahhhh!..."
-    LRG "AAAAAaaaahhhh!..."
+msgid "[LRG] AAAAAaaaahhhh!..."
+msgstr "[LRG] AAAAAaaaahhhh!..."
 
 # game/UpdateScript0.07.rpy:10870## # translate crowdin bad_shower_caught_acc29326:
 msgid "[R] No!... Shhhhh..."
 msgstr "[R] No!... Shhhhh..."
 
 # game/UpdateScript0.07.rpy:10871## # translate crowdin bad_shower_caught_a716b9cf:
-msgid "LRG "BOY IN THE GIRLS' LOCKER ROOM AGAIN!!"
-    LRG "BOY IN THE GIRLS' LOCKER ROOM AGAIN!!"
+msgid "[LRG] BOY IN THE GIRLS' LOCKER ROOM AGAIN!!"
+msgstr "[LRG] BOY IN THE GIRLS' LOCKER ROOM AGAIN!!"
 
 # game/UpdateScript0.07.rpy:10872## # translate crowdin bad_shower_caught_b1fa5806:
 msgid "[RT] {i}Shit!... I've got to get out of here!{/i}"
 msgstr "[RT] {i}Shit!... I've got to get out of here!{/i}"
 
 # game/UpdateScript0.07.rpy:10880## # translate crowdin bad_shower_caught_3860f167_1:
-msgid "LRG "AAAAAaaaahhhh!..."
-    LRG "AAAAAaaaahhhh!..."
+msgid "[LRG] AAAAAaaaahhhh!..."
+msgstr "[LRG] AAAAAaaaahhhh!..."
 
 # game/UpdateScript0.07.rpy:10881## # translate crowdin bad_shower_caught_acc29326_1:
 msgid "[R] No!... Shhhhh..."
 msgstr "[R] No!... Shhhhh..."
 
 # game/UpdateScript0.07.rpy:10882## # translate crowdin bad_shower_caught_0e207ae3:
-msgid "LRG "BOY IN THE GIRLS' LOCKER ROOM!!"
-    LRG "BOY IN THE GIRLS' LOCKER ROOM!!"
+msgid "[LRG] BOY IN THE GIRLS' LOCKER ROOM!!"
+msgstr "[LRG] BOY IN THE GIRLS' LOCKER ROOM!!"
 
 # game/UpdateScript0.07.rpy:10883## # translate crowdin bad_shower_caught_b1fa5806_1:
 msgid "[RT] {i}Shit!... I've got to get out of here!{/i}"
@@ -18019,8 +18019,8 @@ msgid "[MG] Again, [ryan]? What the hell?"
 msgstr "[MG] Again, [ryan]? What the hell?"
 
 # game/UpdateScript0.07.rpy:10897## # translate crowdin bad_shower_caught_bcc59973:
-msgid "SY "You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
-    SY "You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
+msgid "[SY] You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
+msgstr "[SY] You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
 
 # game/UpdateScript0.07.rpy:10898## # translate crowdin bad_shower_caught_0057f906:
 msgid "[R] Yeah, right away!"
@@ -18039,8 +18039,8 @@ msgid "[MG] [ryan]! What the hell are you doing in here?"
 msgstr "[MG] [ryan]! What the hell are you doing in here?"
 
 # game/UpdateScript0.07.rpy:10911## # translate crowdin bad_shower_caught_e1fef729:
-msgid "SY "You'd better get out of here right now, or I'm really going to start screaming!"
-    SY "You'd better get out of here right now, or I'm really going to start screaming!"
+msgid "[SY] You'd better get out of here right now, or I'm really going to start screaming!"
+msgstr "[SY] You'd better get out of here right now, or I'm really going to start screaming!"
 
 # game/UpdateScript0.07.rpy:10912## # translate crowdin bad_shower_caught_0057f906_1:
 msgid "[R] Yeah, right away!"
@@ -24603,24 +24603,24 @@ msgid "[R] Whoah... Stacy?... You're back?"
 msgstr "[R] Whoah... Stacy?... You're back?"
 
 # game/UpdateScript0.07.rpy:14370## # translate crowdin bad_polls_aftermath_d7f39b74:
-msgid "SY "Yeah, all the guys let me cut the line agian."
-    SY "Yeah, all the guys let me cut the line agian."
+msgid "[SY] Yeah, all the guys let me cut the line agian."
+msgstr "[SY] Yeah, all the guys let me cut the line agian."
 
 # game/UpdateScript0.07.rpy:14371## # translate crowdin bad_polls_aftermath_e1bb8df8:
-msgid "SY "I think they enjoyed imagining what was going on behind that stall door."
-    SY "I think they enjoyed imagining what was going on behind that stall door."
+msgid "[SY] I think they enjoyed imagining what was going on behind that stall door."
+msgstr "[SY] I think they enjoyed imagining what was going on behind that stall door."
 
 # game/UpdateScript0.07.rpy:14374## # translate crowdin bad_polls_aftermath_aaeed943:
-msgid "SY "And how are you doing, Little Miss Cummy Face?"
-    SY "And how are you doing, Little Miss Cummy Face?"
+msgid "[SY] And how are you doing, Little Miss Cummy Face?"
+msgstr "[SY] And how are you doing, Little Miss Cummy Face?"
 
 # game/UpdateScript0.07.rpy:14377## # translate crowdin bad_polls_aftermath_ae8eb8d9:
 msgid "[L] Haha... That nickname better not stick."
 msgstr "[L] Haha... That nickname better not stick."
 
 # game/UpdateScript0.07.rpy:14380## # translate crowdin bad_polls_aftermath_6a6c4b21:
-msgid "SY "So, are you up for another round?"
-    SY "So, are you up for another round?"
+msgid "[SY] So, are you up for another round?"
+msgstr "[SY] So, are you up for another round?"
 
 # game/UpdateScript0.07.rpy:14381## # translate crowdin bad_polls_aftermath_27f5a460:
 msgid "[L] Happy to serve my electorate!"
@@ -24631,8 +24631,8 @@ msgid "[L] Would you shut the door please, [ryan]?"
 msgstr "[L] Would you shut the door please, [ryan]?"
 
 # game/UpdateScript0.07.rpy:14385## # translate crowdin bad_polls_aftermath_1b069f94:
-msgid "SY "I got it."
-    SY "I got it."
+msgid "[SY] I got it."
+msgstr "[SY] I got it."
 
 # game/UpdateScript0.07.rpy:14389## # translate crowdin bad_polls_aftermath_7e3cce04:
 msgid "[R] Can't we leave it open this time?"
@@ -24643,8 +24643,8 @@ msgid "[UB] Yeah! We want to watch!"
 msgstr "[UB] Yeah! We want to watch!"
 
 # game/UpdateScript0.07.rpy:14391## # translate crowdin bad_polls_aftermath_432b47e9:
-msgid "SY "Sorry, boys."
-    SY "Sorry, boys."
+msgid "[SY] Sorry, boys."
+msgstr "[SY] Sorry, boys."
 
 # game/UpdateScript0.07.rpy:14395## # translate crowdin bad_polls_aftermath_28f2c893:
 msgid "[RT] {i}Oh, wow!... That does sound so hot.{/i}"
@@ -24663,32 +24663,32 @@ msgid "[RT] {i}God, I wish I could see Stacy grinding on Lauren's face!{/i}"
 msgstr "[RT] {i}God, I wish I could see Stacy grinding on Lauren's face!{/i}"
 
 # game/UpdateScript0.07.rpy:14411## # translate crowdin bad_polls_aftermath_8eeb0abe:
-msgid "SY "That was amazing Lauren, I won't be changing my vote anytime soon."
-    SY "That was amazing Lauren, I won't be changing my vote anytime soon."
+msgid "[SY] That was amazing Lauren, I won't be changing my vote anytime soon."
+msgstr "[SY] That was amazing Lauren, I won't be changing my vote anytime soon."
 
 # game/UpdateScript0.07.rpy:14412## # translate crowdin bad_polls_aftermath_c56a6794:
-msgid "SY "I know some girls from both the cheer and dance teams will be over very soon."
-    SY "I know some girls from both the cheer and dance teams will be over very soon."
+msgid "[SY] I know some girls from both the cheer and dance teams will be over very soon."
+msgstr "[SY] I know some girls from both the cheer and dance teams will be over very soon."
 
 # game/UpdateScript0.07.rpy:14413## # translate crowdin bad_polls_aftermath_87d13cf8:
-msgid "SY "Keep up the good work, and you'll have all the women's vote soon."
-    SY "Keep up the good work, and you'll have all the women's vote soon."
+msgid "[SY] Keep up the good work, and you'll have all the women's vote soon."
+msgstr "[SY] Keep up the good work, and you'll have all the women's vote soon."
 
 # game/UpdateScript0.07.rpy:14416## # translate crowdin bad_polls_aftermath_72b6c0cf:
-msgid "SY "Later, Lauren."
-    SY "Later, Lauren."
+msgid "[SY] Later, Lauren."
+msgstr "[SY] Later, Lauren."
 
 # game/UpdateScript0.07.rpy:14417## # translate crowdin bad_polls_aftermath_645b6cd2:
-msgid "SY "Bye, cuck..."
-    SY "Bye, cuck..."
+msgid "[SY] Bye, cuck..."
+msgstr "[SY] Bye, cuck..."
 
 # game/UpdateScript0.07.rpy:14418## # translate crowdin bad_polls_aftermath_35994f06:
 msgid "[RT] Lauren's not my girlfriend... I'm not a cuck!"
 msgstr "[RT] Lauren's not my girlfriend... I'm not a cuck!"
 
 # game/UpdateScript0.07.rpy:14419## # translate crowdin bad_polls_aftermath_94742db5:
-msgid "SY "Keep telling yourself that."
-    SY "Keep telling yourself that."
+msgid "[SY] Keep telling yourself that."
+msgstr "[SY] Keep telling yourself that."
 
 # game/UpdateScript0.07.rpy:14421## # translate crowdin bad_polls_aftermath_84b57361:
 msgid "[L] [ryan]...Would you leave?... You're bad for business."
@@ -24879,20 +24879,20 @@ msgid "[R] Whoah... Stacy?... Where did you come from?"
 msgstr "[R] Whoah... Stacy?... Where did you come from?"
 
 # game/UpdateScript0.07.rpy:14527## # translate crowdin bad_polls_aftermath_34c56f5f:
-msgid "SY "All they guys let me cut the line."
-    SY "All they guys let me cut the line."
+msgid "[SY] All they guys let me cut the line."
+msgstr "[SY] All they guys let me cut the line."
 
 # game/UpdateScript0.07.rpy:14528## # translate crowdin bad_polls_aftermath_e74cae99:
 msgid "[R] And what are you doing here?"
 msgstr "[R] And what are you doing here?"
 
 # game/UpdateScript0.07.rpy:14529## # translate crowdin bad_polls_aftermath_74c20d75:
-msgid "SY "What do you think?... The same thing everyone else is doing here."
-    SY "What do you think?... The same thing everyone else is doing here."
+msgid "[SY] What do you think?... The same thing everyone else is doing here."
+msgstr "[SY] What do you think?... The same thing everyone else is doing here."
 
 # game/UpdateScript0.07.rpy:14532## # translate crowdin bad_polls_aftermath_6b76b928:
-msgid "SY "That is if Little Miss Cummy Face doesn't mind."
-    SY "That is if Little Miss Cummy Face doesn't mind."
+msgid "[SY] That is if Little Miss Cummy Face doesn't mind."
+msgstr "[SY] That is if Little Miss Cummy Face doesn't mind."
 
 # game/UpdateScript0.07.rpy:14535## # translate crowdin bad_polls_aftermath_b3bcfc8e:
 msgid "[L] Haha... Let me clean up a little."
@@ -24903,48 +24903,48 @@ msgid "[R] The only thing, Stacy, is that Lauren's not a lesbian."
 msgstr "[R] The only thing, Stacy, is that Lauren's not a lesbian."
 
 # game/UpdateScript0.07.rpy:14539## # translate crowdin bad_polls_aftermath_953ebedd:
-msgid "SY "What, are you her pimp?"
-    SY "What, are you her pimp?"
+msgid "[SY] What, are you her pimp?"
+msgstr "[SY] What, are you her pimp?"
 
 # game/UpdateScript0.07.rpy:14540## # translate crowdin bad_polls_aftermath_834c0907:
-msgid "SY "I'm not a lesbian either, but I'm not going to say no to a free pussy licking... Especially by someone as cute as Lauren."
-    SY "I'm not a lesbian either, but I'm not going to say no to a free pussy licking... Especially by someone as cute as Lauren."
+msgid "[SY] I'm not a lesbian either, but I'm not going to say no to a free pussy licking... Especially by someone as cute as Lauren."
+msgstr "[SY] I'm not a lesbian either, but I'm not going to say no to a free pussy licking... Especially by someone as cute as Lauren."
 
 # game/UpdateScript0.07.rpy:14541## # translate crowdin bad_polls_aftermath_ce3671a4:
-msgid "SY "So hurry up and take your turn so I can go next."
-    SY "So hurry up and take your turn so I can go next."
+msgid "[SY] So hurry up and take your turn so I can go next."
+msgstr "[SY] So hurry up and take your turn so I can go next."
 
 # game/UpdateScript0.07.rpy:14542## # translate crowdin bad_polls_aftermath_494ab5db:
 msgid "[R] But, I'm her brother!"
 msgstr "[R] But, I'm her brother!"
 
 # game/UpdateScript0.07.rpy:14543## # translate crowdin bad_polls_aftermath_d8abcf8b:
-msgid "SY "From the way you were staring at her sucking those dicks, I'd guess that doesn't really matter between you two."
-    SY "From the way you were staring at her sucking those dicks, I'd guess that doesn't really matter between you two."
+msgid "[SY] From the way you were staring at her sucking those dicks, I'd guess that doesn't really matter between you two."
+msgstr "[SY] From the way you were staring at her sucking those dicks, I'd guess that doesn't really matter between you two."
 
 # game/UpdateScript0.07.rpy:14544## # translate crowdin bad_polls_aftermath_b9014da4:
 msgid "[L] Well, it does, and this lazy ass doesn't get a turn."
 msgstr "[L] Well, it does, and this lazy ass doesn't get a turn."
 
 # game/UpdateScript0.07.rpy:14545## # translate crowdin bad_polls_aftermath_95d75dd6:
-msgid "SY "Oh, great!"
-    SY "Oh, great!"
+msgid "[SY] Oh, great!"
+msgstr "[SY] Oh, great!"
 
 # game/UpdateScript0.07.rpy:14548## # translate crowdin bad_polls_aftermath_ba3d602f:
-msgid "SY "So what do you say?... Are you up for it?"
-    SY "So what do you say?... Are you up for it?"
+msgid "[SY] So what do you say?... Are you up for it?"
+msgstr "[SY] So what do you say?... Are you up for it?"
 
 # game/UpdateScript0.07.rpy:14549## # translate crowdin bad_polls_aftermath_ea94fbe2:
 msgid "[L] I hadn't really thought about... doing... that."
 msgstr "[L] I hadn't really thought about... doing... that."
 
 # game/UpdateScript0.07.rpy:14550## # translate crowdin bad_polls_aftermath_33687017:
-msgid "SY "You should... You're basically ignoring fifty percent of the voters as it is."
-    SY "You should... You're basically ignoring fifty percent of the voters as it is."
+msgid "[SY] You should... You're basically ignoring fifty percent of the voters as it is."
+msgstr "[SY] You should... You're basically ignoring fifty percent of the voters as it is."
 
 # game/UpdateScript0.07.rpy:14551## # translate crowdin bad_polls_aftermath_4f1681cb:
-msgid "SY "I think this is a great idea to win votes, and I could send a whole bunch of female voters your way."
-    SY "I think this is a great idea to win votes, and I could send a whole bunch of female voters your way."
+msgid "[SY] I think this is a great idea to win votes, and I could send a whole bunch of female voters your way."
+msgstr "[SY] I think this is a great idea to win votes, and I could send a whole bunch of female voters your way."
 
 # game/UpdateScript0.07.rpy:14553## # translate crowdin bad_polls_aftermath_00794e98:
 msgid "[L] It's just that I've never... done... that... before."
@@ -24955,16 +24955,16 @@ msgid "[L] It's just that I don't really have much experience doing that."
 msgstr "[L] It's just that I don't really have much experience doing that."
 
 # game/UpdateScript0.07.rpy:14556## # translate crowdin bad_polls_aftermath_c80cdd54:
-msgid "SY "Have you ever licked an ice cream?"
-    SY "Have you ever licked an ice cream?"
+msgid "[SY] Have you ever licked an ice cream?"
+msgstr "[SY] Have you ever licked an ice cream?"
 
 # game/UpdateScript0.07.rpy:14557## # translate crowdin bad_polls_aftermath_d75cf13e:
 msgid "[L] Yeah..."
 msgstr "[L] Yeah..."
 
 # game/UpdateScript0.07.rpy:14558## # translate crowdin bad_polls_aftermath_f3abb1a5:
-msgid "SY "It's kinda like that."
-    SY "It's kinda like that."
+msgid "[SY] It's kinda like that."
+msgstr "[SY] It's kinda like that."
 
 # game/UpdateScript0.07.rpy:14561## # translate crowdin bad_polls_aftermath_fa725a66:
 msgid "[L] Yeah... I think I can do that."
@@ -24979,20 +24979,20 @@ msgid "[R] This is something I actually wouldn't mind watching."
 msgstr "[R] This is something I actually wouldn't mind watching."
 
 # game/UpdateScript0.07.rpy:14564## # translate crowdin bad_polls_aftermath_acecec06:
-msgid "SY "Can we shut the stall door?"
-    SY "Can we shut the stall door?"
+msgid "[SY] Can we shut the stall door?"
+msgstr "[SY] Can we shut the stall door?"
 
 # game/UpdateScript0.07.rpy:14565## # translate crowdin bad_polls_aftermath_ec1c6871:
-msgid "SY "I'm not super comfortable with [ryan] and all of these guys staring at us."
-    SY "I'm not super comfortable with [ryan] and all of these guys staring at us."
+msgid "[SY] I'm not super comfortable with [ryan] and all of these guys staring at us."
+msgstr "[SY] I'm not super comfortable with [ryan] and all of these guys staring at us."
 
 # game/UpdateScript0.07.rpy:14566## # translate crowdin bad_polls_aftermath_0848cd2d:
 msgid "[L] Shut the door, [ryan]."
 msgstr "[L] Shut the door, [ryan]."
 
 # game/UpdateScript0.07.rpy:14567## # translate crowdin bad_polls_aftermath_1b069f94_1:
-msgid "SY "I got it."
-    SY "I got it."
+msgid "[SY] I got it."
+msgstr "[SY] I got it."
 
 # game/UpdateScript0.07.rpy:14571## # translate crowdin bad_polls_aftermath_b9327a2f:
 msgid "[R] Goddammit."
@@ -25003,8 +25003,8 @@ msgid "[UB] Yeah! We want to watch!"
 msgstr "[UB] Yeah! We want to watch!"
 
 # game/UpdateScript0.07.rpy:14573## # translate crowdin bad_polls_aftermath_432b47e9_1:
-msgid "SY "Sorry, boys."
-    SY "Sorry, boys."
+msgid "[SY] Sorry, boys."
+msgstr "[SY] Sorry, boys."
 
 # game/UpdateScript0.07.rpy:14577## # translate crowdin bad_polls_aftermath_095e1205:
 msgid "[RT] {i}What the hell?... She lets me watch her suck a couple dicks, but I can't watch her eat out a girl?{/i}"
@@ -25027,20 +25027,20 @@ msgid "[RT] {i}God, I wish I could see Stacy grinding on Lauren's face!{/i}"
 msgstr "[RT] {i}God, I wish I could see Stacy grinding on Lauren's face!{/i}"
 
 # game/UpdateScript0.07.rpy:14594## # translate crowdin bad_polls_aftermath_b63017d9:
-msgid "SY "That was amazing, Lauren, you've definitely won my vote."
-    SY "That was amazing, Lauren, you've definitely won my vote."
+msgid "[SY] That was amazing, Lauren, you've definitely won my vote."
+msgstr "[SY] That was amazing, Lauren, you've definitely won my vote."
 
 # game/UpdateScript0.07.rpy:14595## # translate crowdin bad_polls_aftermath_daf77176:
-msgid "SY "I'll be sure to send over some more girls, I know a few on the cheer squad that will jump at a chance like this."
-    SY "I'll be sure to send over some more girls, I know a few on the cheer squad that will jump at a chance like this."
+msgid "[SY] I'll be sure to send over some more girls, I know a few on the cheer squad that will jump at a chance like this."
+msgstr "[SY] I'll be sure to send over some more girls, I know a few on the cheer squad that will jump at a chance like this."
 
 # game/UpdateScript0.07.rpy:14598## # translate crowdin bad_polls_aftermath_72b6c0cf_1:
-msgid "SY "Later, Lauren."
-    SY "Later, Lauren."
+msgid "[SY] Later, Lauren."
+msgstr "[SY] Later, Lauren."
 
 # game/UpdateScript0.07.rpy:14599## # translate crowdin bad_polls_aftermath_475e8f80:
-msgid "SY "I'm done with her, she's all yours."
-    SY "I'm done with her, she's all yours."
+msgid "[SY] I'm done with her, she's all yours."
+msgstr "[SY] I'm done with her, she's all yours."
 
 # game/UpdateScript0.07.rpy:14602## # translate crowdin bad_polls_aftermath_02d2bc19:
 msgid "[L] He wishes... He doesn't get a thing, since he refuses to do anything to help me."
