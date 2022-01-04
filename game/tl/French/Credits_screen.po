@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-03 17:51\n"
+"PO-Revision-Date: 2022-01-04 21:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Credits_screen.rpy:57
 msgid "                               Credits"
-msgstr ""
+msgstr "                               Crédits"
 
 #    # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Nous tenons à remercier tous les développeurs de jeux qui ont accepté de nous laisser utiliser certaines de leurs créations dans notre jeu, nous aimerions également remercier nos supporters souscripteurs/patreon qui rendent ce jeu possible."
 
 #    # game/Credits_screen.rpy:69
 msgid "Game developers"
-msgstr ""
+msgstr "Développeurs du jeu"
 
 #    # game/Credits_screen.rpy:147
 msgid "Subscribers/Patrons"
@@ -31,16 +31,18 @@ msgstr ""
 #    # game/Credits_screen.rpy:157
 msgid "\n"
 "{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru : {/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgstr ""
+msgstr "{a=https://www.patreon.com/DS_sama} {image=icon_patreon} D.S.-Sama{/a}"
 
 #    # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Éditeur d'orthographe et de grammaire:{/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:163
 msgid "lapdragon"
@@ -49,7 +51,8 @@ msgstr ""
 #    # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Editeur de jeux, Coder, Images, Animations:{/i}{/b } \n"
 
 #    # game/Credits_screen.rpy:167
 msgid "Will Tylor"
@@ -58,7 +61,8 @@ msgstr ""
 #    # game/Credits_screen.rpy:169
 msgid "\n"
 "{b}{i}Ghost Writer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Auteur des fantasmes:{/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:171
 msgid "Strenif"
@@ -67,7 +71,8 @@ msgstr ""
 #    # game/Credits_screen.rpy:173
 msgid "\n"
 "{b}{i}My Family with Benefits:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Ma famille avec des avantages :{/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:175
 msgid "Frayed80"
@@ -84,7 +89,8 @@ msgstr ""
 #    # game/Credits_screen.rpy:179
 msgid "\n"
 "{b}{i}My Family:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Ma famille:{/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:181
 msgid "Bremen"
@@ -137,7 +143,8 @@ msgstr ""
 #    # game/Credits_screen.rpy:194
 msgid "\n"
 "{b}{i}My BFFS:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Mes BFFS:{/i}{/b} \n"
 
 #    # game/Credits_screen.rpy:196
 msgid "Adam"
