@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-03 17:52\n"
+"PO-Revision-Date: 2022-01-04 21:26\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/character.rpy:43
 msgid "[ryan]'s Thoughts"
-msgstr ""
+msgstr "Les pensées de [ryan]"
 
 #    # game/character.rpy:45
 msgid "Mom's Thoughts"
-msgstr ""
+msgstr "Les pensées de maman"
 
 #    # game/character.rpy:46
 msgid "Dad"
-msgstr ""
+msgstr "Papa"
 
 #    # game/character.rpy:49
 msgid "Lauren's Thoughts"
-msgstr ""
+msgstr "Les pensées de Lauren"
 
 #    # game/character.rpy:50
 msgid "Joey"
@@ -34,11 +34,11 @@ msgstr ""
 
 #    # game/character.rpy:51
 msgid "Mafia Goon"
-msgstr ""
+msgstr "Mafieux"
 
 #    # game/character.rpy:52
 msgid "Voice over Microphone"
-msgstr ""
+msgstr "Voix par le micro"
 
 #    # game/character.rpy:53
 msgid "?????"
@@ -46,7 +46,7 @@ msgstr ""
 
 #    # game/character.rpy:56
 msgid "Sidney's Thoughts"
-msgstr ""
+msgstr "Les pensées de Sidney"
 
 #    # game/character.rpy:57
 msgid "Megan"
@@ -54,13 +54,13 @@ msgstr ""
 
 #    # game/character.rpy:59
 msgid "Mandy's Thoughts"
-msgstr ""
+msgstr "Les pensées de Mandy"
 
 #    # game/character.rpy:60
 msgid "Aunt Camille"
-msgstr ""
+msgstr "Tante Camille"
 
 #    # game/character.rpy:61
 msgid "Aunt Camille's Thoughts"
-msgstr ""
+msgstr "Les pensées de tante Camille"
 
