@@ -11,125 +11,125 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-03 17:53\n"
+"PO-Revision-Date: 2022-01-04 21:26\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{color=#42f456}Maman :{/color}"
 
 #    # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Respect..............[momrespect]{/color}"
 
 #    # game/stats_screen.rpy:30
 msgid "{color=#000000}Affection............[momaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affection............[momaffection]{/color}"
 
 #    # game/stats_screen.rpy:31
 msgid "{color=#000000}Libido................[momlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido................[momlibido]{/color}"
 
 #    # game/stats_screen.rpy:32
 msgid "{color=#000000}Submission........[momsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Soumission........[momsubmission]{/color}"
 
 #    # game/stats_screen.rpy:33
 msgid "{color=#000000}Anger..................[momanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Colère..................[momanger]{/color}"
 
 #    # game/stats_screen.rpy:35
 msgid "{color=#f442d9}Lauren's:{/color}"
-msgstr ""
+msgstr "{color=#f442d9}Lauren :{/color}"
 
 #    # game/stats_screen.rpy:36
 msgid "{color=#000000}Respect............[laurenrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Respect............[laurenrespect]{/color}"
 
 #    # game/stats_screen.rpy:37
 msgid "{color=#000000}Affection.........[laurenaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affection.........[laurenaffection]{/color}"
 
 #    # game/stats_screen.rpy:38
 msgid "{color=#000000}Libido.............[laurenlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[laurenlibido]{/color}"
 
 #    # game/stats_screen.rpy:39
 msgid "{color=#000000}Submission....[laurensubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Soumission....[laurensubmission]{/color}"
 
 #    # game/stats_screen.rpy:40
 msgid "{color=#000000}Anger..............[laurenanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Colère..............[laurenanger]{/color}"
 
 #    # game/stats_screen.rpy:42
 msgid "{color=#006600}Sidney's:{/color}"
-msgstr ""
+msgstr "{color=#006600}Sidney :{/color}"
 
 #    # game/stats_screen.rpy:43
 msgid "{color=#000000}Respect............[sidneyrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Respect............[sidneyrespect]{/color}"
 
 #    # game/stats_screen.rpy:44
 msgid "{color=#000000}Affection.........[sidneyaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affection.........[sidneyaffection]{/color}"
 
 #    # game/stats_screen.rpy:45
 msgid "{color=#000000}Libido.............[sidneylibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[sidneylibido]{/color}"
 
 #    # game/stats_screen.rpy:46
 msgid "{color=#000000}Submission.....[sidneysubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Soumission.....[sidneysubmission]{/color}"
 
 #    # game/stats_screen.rpy:47
 msgid "{color=#000000}Anger...............[sidneyanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Colère...............[sidneyanger]{/color}"
 
 #    # game/stats_screen.rpy:49
 msgid "{color=#9966FF}Aunt Camille's:{/color}"
-msgstr ""
+msgstr "{couleur=#9966FF}Tante Camille:{/couleur}"
 
 #    # game/stats_screen.rpy:50
 msgid "{color=#000000}Respect............[auntrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Respect............[auntrespect]{/color}"
 
 #    # game/stats_screen.rpy:51
 msgid "{color=#000000}Affection.........[auntaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affection.........[auntaffection]{/color}"
 
 #    # game/stats_screen.rpy:52
 msgid "{color=#000000}Libido.............[auntlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[auntlibido]{/color}"
 
 #    # game/stats_screen.rpy:53
 msgid "{color=#000000}Submission.....[auntsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Soumission.....[auntsubmission]{/color}"
 
 #    # game/stats_screen.rpy:54
 msgid "{color=#000000}Anger...............[auntanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Colère...............[auntanger]{/color}"
 
 #    # game/stats_screen.rpy:56
 msgid "{color=#85c1e9}Mandy's:{/color}"
-msgstr ""
+msgstr "{color=#85c1e9}Mandy :{/color}"
 
 #    # game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Respect............[cousinrespect]{/color}"
 
 #    # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affection.........[cousinaffection]{/color}"
 
 #    # game/stats_screen.rpy:59
 msgid "{color=#000000}Libido.............[cousinlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[cousinlibido]{/color}"
 
 #    # game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Soumission.....[cousinsubmission]{/color}"
 
 #    # game/stats_screen.rpy:61
 msgid "{color=#000000}Anger...............[cousinanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Colère...............[cousinanger]{/color}"
 
