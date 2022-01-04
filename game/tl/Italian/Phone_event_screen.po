@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 21:28\n"
+"PO-Revision-Date: 2022-01-04 21:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Phone_event_screen.rpy:859## # translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -62,203 +62,203 @@ msgstr "[RT] {i}Ho bisogno di andare a scuola nel tardo mattino o pomeriggio.{/i
 
 # game/Phone_event_screen.rpy:903## # translate crowdin event_info_07_5fd67134:
 msgid "[RT] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di visitare la prima bancarella nel bagno della scuola nel pomeriggio.{/i}"
 
 # game/Phone_event_screen.rpy:905## # translate crowdin event_info_07_bb2914ce:
 msgid "[RT] {i}Weird.... I can't finish this event until after I finish event 27.... Must be because I told Matt I didn't want his help seducing Mom.{/i}"
-msgstr ""
+msgstr "[RT] {i}Strano... Non posso finire questo evento fino a quando non finirò l'evento 27... Deve essere perché ho detto a Matt che non volevo il suo aiuto sedurre la mamma.{/i}"
 
 # game/Phone_event_screen.rpy:907## # translate crowdin event_info_07_f2f2499a:
 msgid "[RT] {i}I need to go to school and hang out in the hallway in the late morning.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di andare a scuola e uscire nel corridoio alla tarda mattina.{/i}"
 
 # game/Phone_event_screen.rpy:913## # translate crowdin event_info_08_64f81887:
 msgid "[RT] {i}I need to complete event 4 before I can even start event 8.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 4 prima di poter anche iniziare l'evento 8.{/i}"
 
 # game/Phone_event_screen.rpy:915## # translate crowdin event_info_08_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mamma lavora davvero duramente per tutta la settimana. Dovrei aiutarla con i lavori intorno a casa il fine settimana mattina. Di solito inizia a pulire nel salone.{/i}"
 
 # game/Phone_event_screen.rpy:921## # translate crowdin event_info_09_600b427f:
 msgid "[RT] {i}I need to complete event 6 before I can even start event 9.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 6 prima di poter anche iniziare l'evento 9.{/i}"
 
 # game/Phone_event_screen.rpy:923## # translate crowdin event_info_09_48bf4440:
 msgid "[RT] {i}I need to sneak into Lauren's room at night and see if I can use subliminal messages on the girls.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di entrare nella stanza di Lauren di notte e vedere se posso usare i messaggi subliminali sulle ragazze.{/i}"
 
 # game/Phone_event_screen.rpy:925## # translate crowdin event_info_09_b310ccef:
 msgid "[RT] {i}I need to buy some melatonin from the online store on my laptop in my bedroom and spike the tea in the kitchen.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di acquistare un po 'di melatonina dal negozio online sul mio computer portatile nella mia camera da letto e picchiare il tè in cucina.{/i}"
 
 # game/Phone_event_screen.rpy:927## # translate crowdin event_info_09_40c65cba:
 msgid "[RT] {i}The girls should be sleeping deeper at night. I should go pay them another visit.{/i}"
-msgstr ""
+msgstr "[RT] {i}Le ragazze dovrebbero dormire più a fondo la notte. Dovrei andare a pagare un'altra visita.{/i}"
 
 # game/Phone_event_screen.rpy:929## # translate crowdin event_info_09_fb75c678:
 msgid "[RT] {i}I need to keep sneaking into the girls room at night until I complete this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare ad entrare nella stanza delle ragazze di notte fino a quando non ho completato questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:935## # translate crowdin event_info_10_026b4497:
 msgid "[RT] {i}I should keep running with Sidney during the early morning to complete this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei continuare a correre con Sidney durante la mattina presto per completare questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:938## # translate crowdin event_info_10_57ba7153:
 msgid "[RT] {i}I should go see Sidney during the early morning in the lounge and see if she needs a running buddy.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei andare a vedere Sidney la mattina presto nella lounge e vedere se ha bisogno di un amico in corso.{/i}"
 
 # game/Phone_event_screen.rpy:941## # translate crowdin event_info_10_4c372eab:
 msgid "[RT] {i}I should see if I can scare Sidney in the lounge at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei vedere se posso spaventare Sidney nella lounge di notte.{/i}"
 
 # game/Phone_event_screen.rpy:944## # translate crowdin event_info_10_1804cb0d:
 msgid "[RT] {i}I need to complete event 9 before I can start event 10.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 9 prima di poter iniziare l'evento 10.{/i}"
 
 # game/Phone_event_screen.rpy:949## # translate crowdin event_info_11_e5f646d5:
 msgid "[RT] {i}I should go to sleep and talk to Lauren and Cousin Mandy in the morning.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei andare a dormire e parlare con Lauren e Cousin Mandy al mattino.{/i}"
 
 # game/Phone_event_screen.rpy:951## # translate crowdin event_info_11_9e99a5a5:
 msgid "[RT] {i}I should keep visiting the kitchen in the evening until Sidney is done with the cosplay costumes.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei continuare a visitare la cucina la sera fino a quando Sidney sarà fatto con i costumi cosplay.{/i}"
 
 # game/Phone_event_screen.rpy:953## # translate crowdin event_info_11_a1e3928e:
 msgid "[RT] {i}I need to visit Sidney in the evening and commission a cosplay outfit for Lauren.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di visitare Sidney la sera e commissionare un outfit cosplay per Lauren.{/i}"
 
 # game/Phone_event_screen.rpy:955## # translate crowdin event_info_11_515ddd4c:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 11.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 11.{/i}"
 
 # game/Phone_event_screen.rpy:961## # translate crowdin event_info_12_613b46ad:
 msgid "[RT] {i}I need to keep whispering subliminal messages in Mom's ear at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a sussurrare i messaggi subliminali nell'orecchio di mamma di notte.{/i}"
 
 # game/Phone_event_screen.rpy:963## # translate crowdin event_info_12_454d1251:
 msgid "[RT] {i}I should go have breakfast with my family early in the morning and see if Mom's wearing her bathrobe.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei fare colazione con la mia famiglia la mattina presto e vedere se la mamma indossa il suo accappatoio.{/i}"
 
 # game/Phone_event_screen.rpy:964## # translate crowdin event_info_12_50531b10:
 msgid "[RT] {i}I wonder what she would wear if the bathrobe were to suddenly dissapear.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mi chiedo cosa indosserebbe se l'accappatoio dovesse improvvisamente dissaporire.{/i}"
 
 # game/Phone_event_screen.rpy:966## # translate crowdin event_info_12_8876d34d:
 msgid "[RT] {i}I need to find and hide Mom's bathrobe. Most likely spot would be in her room.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di trovare e nascondere l'accappatoio della mamma. Molto probabilmente il posto sarebbe nella sua stanza.{/i}"
 
 # game/Phone_event_screen.rpy:971## # translate crowdin event_info_13_5d37785f:
 msgid "[RT] {i}I need to complete event 12 before I can begin working on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 12 prima di poter iniziare l'evento.{/i}"
 
 # game/Phone_event_screen.rpy:973## # translate crowdin event_info_13_0c499352:
 msgid "[RT] {i}I should keep visiting Mom at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei continuare a visitare la mamma di notte.{/i}"
 
 # game/Phone_event_screen.rpy:979## # translate crowdin event_info_14_4b734fbf:
 msgid "[RT] {i}I need to keep whispering subliminal messages in Lauren's ear at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a sussurrare messaggi subliminali nell'orecchio di Lauren di notte.{/i}"
 
 # game/Phone_event_screen.rpy:981## # translate crowdin event_info_14_2941cfc4:
 msgid "[RT] {i}I should keep visiting Lauren at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei continuare a visitare Lauren di notte.{/i}"
 
 # game/Phone_event_screen.rpy:987## # translate crowdin event_info_15_74e46a31:
 msgid "[RT] {i}I need to complete event 4 before I can begin event 15.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 4 prima di poter iniziare l'evento 15.{/i}"
 
 # game/Phone_event_screen.rpy:990## # translate crowdin event_info_15_4c6c0b4b:
 msgid "[RT] {i}If I don't pay the Mafia for more than 3 weeks in a row, I might just complete this NTR event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Se non pago la mafia per più di 3 settimane consecutive, potrei solo completare questo evento NTR.{/i}"
 
 # game/Phone_event_screen.rpy:993## # translate crowdin event_info_15_5f29faef:
 msgid "[RT] {i}When Mom goes to the club, I need to go check on her to see how she's doing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Quando la mamma va al club, devo andare a controllarla per vedere come sta facendo.{/i}"
 
 # game/Phone_event_screen.rpy:999## # translate crowdin event_info_16_43d71896:
 msgid "[RT] {i}I need to complete event 8 before I can begin event 16.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 8 prima di poter iniziare l'evento 16.{/i}"
 
 # game/Phone_event_screen.rpy:1002## # translate crowdin event_info_16_84d22cbc:
 msgid "[RT] {i}I need to get mom to loosen up a little more. Maybe I can corrupt her with our Oedipus assignment at school.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di ottenere la mamma per sciogliere un po 'di più. Forse posso corrompere lei con il nostro incarico Oedipus a scuola.{/i}"
 
 # game/Phone_event_screen.rpy:1005## # translate crowdin event_info_16_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mamma lavora davvero duramente per tutta la settimana. Dovrei aiutarla con i lavori intorno a casa il fine settimana mattina. Di solito inizia a pulire nel salone.{/i}"
 
 # game/Phone_event_screen.rpy:1011## # translate crowdin event_info_17_5f3dd9c0:
 msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam in bagno. Ora ho solo bisogno di catturare la mamma lì quando la sua libido è più alta (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1013## # translate crowdin event_info_17_c5e375e6:
 msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e metterla in bagno quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1015## # translate crowdin event_info_17_d41be065:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 17.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 17.{/i}"
 
 # game/Phone_event_screen.rpy:1021## # translate crowdin event_info_18_2cff7759:
 msgid "[RT] {i}I've placed the spycam in Mom's bedroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam nella camera da letto della mamma. Ora ho solo bisogno di catturare la mamma lì quando la sua libido è più alta (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1023## # translate crowdin event_info_18_f693ae09:
 msgid "[RT] {i}I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e posizionarla nella camera da letto della mamma quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1025## # translate crowdin event_info_18_e3b5b646:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 18.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 18.{/i}"
 
 # game/Phone_event_screen.rpy:1031## # translate crowdin event_info_19_4b775fb3:
 msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam in bagno. Ora ho solo bisogno di catturare Lauren lì quando la sua libido è al massimo (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1033## # translate crowdin event_info_19_c5e375e6:
 msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e metterla in bagno quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1035## # translate crowdin event_info_19_77d79ef8:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 19.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 19.{/i}"
 
 # game/Phone_event_screen.rpy:1041## # translate crowdin event_info_20_0c3965e8:
 msgid "[RT] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam nella camera da letto di Lauren. Ora ho solo bisogno di catturare Lauren lì quando la sua libido è al massimo (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1043## # translate crowdin event_info_20_2d973a36:
 msgid "[RT] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e posizionarla nella camera da letto di Lauren quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1045## # translate crowdin event_info_20_79f0399b:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 20.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 20.{/i}"
 
 # game/Phone_event_screen.rpy:1051## # translate crowdin event_info_21_4cbfb321:
 msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam in bagno. Ora ho solo bisogno di prendere Sidney in là quando la sua libido è al massimo (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1053## # translate crowdin event_info_21_c5e375e6:
 msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e metterla in bagno quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1055## # translate crowdin event_info_21_90330b75:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 21.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 21.{/i}"
 
 # game/Phone_event_screen.rpy:1061## # translate crowdin event_info_22_678e43f0:
 msgid "[RT] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho piazzato lo spycam nella camera da letto di Lauren. Ora ho solo bisogno di prendere Sidney in là quando la sua libido è al massimo (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1063## # translate crowdin event_info_22_2d973a36:
 msgid "[RT] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di comprare una spy-cam e posizionarla nella camera da letto di Lauren quando nessuno è in giro.{/i}"
 
 # game/Phone_event_screen.rpy:1065## # translate crowdin event_info_22_91ca5144:
 msgid "[RT] {i}I need to start working on event 8 before I can start working on event 22.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di iniziare a lavorare all'evento 8 prima di poter iniziare a lavorare all'evento 22.{/i}"
 
 # game/Phone_event_screen.rpy:1071## # translate crowdin event_info_23_484257b4:
 msgid "[RT] {i}I need to complete event 4 before I can begin event 23.{/i}"
@@ -462,107 +462,107 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1251## # translate crowdin event_info_42_49415960:
 msgid "[RT] {i}I need to complete event 39 before I can start on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 39 prima di poter iniziare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1254## # translate crowdin event_info_42_47e170e9:
 msgid "[RT] {i}I need to keep visiting Diaz in her van until I complete this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a visitare Diaz nel suo furgoncino fino al completamento di questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1259## # translate crowdin event_info_43_cfa0cbf7:
 msgid "[RT] {i}I need to complete event 31 before I can start on this NTR event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 31 prima di poter iniziare su questo evento NTR.{/i}"
 
 # game/Phone_event_screen.rpy:1262## # translate crowdin event_info_43_84f4ff15:
 msgid "[RT] {i}I need to complete event 37 before I can finish this NTR event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 37 prima di poter finire questo evento NTR.{/i}"
 
 # game/Phone_event_screen.rpy:1265## # translate crowdin event_info_43_91105538:
 msgid "[RT] {i}If I don't help Lauren do well on her weekly poll numbers, I might not like the consequences.{/i}"
-msgstr ""
+msgstr "[RT] {i}Se non aiutassi Lauren a fare bene sui numeri del sondaggio settimanale, potrebbe non piacermi le conseguenze.{/i}"
 
 # game/Phone_event_screen.rpy:1270## # translate crowdin event_info_44_29774d59:
 msgid "[RT] {i}I need to complete event 34 before I can start on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 34 prima di poter iniziare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1273## # translate crowdin event_info_44_9637dc6e:
 msgid "[RT] {i}Same thing every weekend. Pay the Mafia, hug Mom, get a boner, and throw her on the floor.{/i}"
-msgstr ""
+msgstr "[RT] {i}Stessa cosa ogni fine settimana. Paga la mafia, abbraccia la mamma, ottieni un'erezione e lanciala sul pavimento.{/i}"
 
 # game/Phone_event_screen.rpy:1274## # translate crowdin event_info_44_58b13184:
 msgid "[RT] {i}Hopefully something will be different the next time I pay the Mafia debt.{/i}"
-msgstr ""
+msgstr "[RT] {i}Si spera che qualcosa sarà diverso la prossima volta che pago il debito mafioso.{/i}"
 
 # game/Phone_event_screen.rpy:1279## # translate crowdin event_info_45_7a1ea729:
 msgid "[RT] {i}I need to keep visiting Mom in her school office.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a visitare la mamma nel suo ufficio scolastico.{/i}"
 
 # game/Phone_event_screen.rpy:1282## # translate crowdin event_info_45_7a1ea729_1:
 msgid "[RT] {i}I need to keep visiting Mom in her school office.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a visitare la mamma nel suo ufficio scolastico.{/i}"
 
 # game/Phone_event_screen.rpy:1285## # translate crowdin event_info_45_f554d8f6:
 msgid "[RT] {i}I need to complete events 7, 40, and 44 before I can start on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare gli eventi 7, 40 e 44 prima di poter iniziare questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1288## # translate crowdin event_info_45_f554d8f6_1:
 msgid "[RT] {i}I need to complete events 7, 40, and 44 before I can start on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare gli eventi 7, 40 e 44 prima di poter iniziare questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1294## # translate crowdin event_info_46_33b26b3b:
 msgid "[RT] {i}I should start the photshoot with Mom and Megan by going to the warehouse on a weekday evening.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei iniziare il servizio fotografico con Mamma e Megan andando al magazzino in una serata di un giorno della settimana.{/i}"
 
 # game/Phone_event_screen.rpy:1297## # translate crowdin event_info_46_33b26b3b_1:
 msgid "[RT] {i}I should start the photshoot with Mom and Megan by going to the warehouse on a weekday evening.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei iniziare il servizio fotografico con Mamma e Megan andando al magazzino in una serata di un giorno della settimana.{/i}"
 
 # game/Phone_event_screen.rpy:1300## # translate crowdin event_info_46_9a9c83a7:
 msgid "[RT] {i}I need to get a ball gag from somewhere.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di avere un bavaglio da qualche parte.{/i}"
 
 # game/Phone_event_screen.rpy:1303## # translate crowdin event_info_46_9a9c83a7_1:
 msgid "[RT] {i}I need to get a ball gag from somewhere.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di avere un bavaglio da qualche parte.{/i}"
 
 # game/Phone_event_screen.rpy:1306## # translate crowdin event_info_46_f47e1f1e:
 msgid "[RT] {i}I need to complete event 45 before I can start working on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 45 prima di poter iniziare a lavorare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1311## # translate crowdin event_info_47_df9eb61d:
 msgid "[RT] {i}I need to complete event 46 before I can start working on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 46 prima di poter iniziare a lavorare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1313## # translate crowdin event_info_47_c788e25d:
 msgid "[RT] {i}I should keep building Mom's submission by pushing her to do new things at the photoshoot.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dovrei continuare a costruire la sottomissione della mamma spingendola a fare nuove cose al photoshoot.{/i}"
 
 # game/Phone_event_screen.rpy:1319## # translate crowdin event_info_48_881f6cce:
 msgid "[RT] {i}I need to complete events 10 and 40 before I can start working on event 48.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare gli eventi 10 e 40 prima di poter iniziare a lavorare all'evento 48.{/i}"
 
 # game/Phone_event_screen.rpy:1322## # translate crowdin event_info_48_af3b6ce1:
 msgid "[RT] {i}I need to complete event 40 before I can start working on event 48.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 40 prima di poter iniziare a lavorare sull'evento 48.{/i}"
 
 # game/Phone_event_screen.rpy:1325## # translate crowdin event_info_48_852ffa9d:
 msgid "[RT] {i}I need to complete event 10 before I can start working on event 48.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 10 prima di poter iniziare a lavorare sull'evento 48.{/i}"
 
 # game/Phone_event_screen.rpy:1328## # translate crowdin event_info_48_dd1778fe:
 msgid "[RT] {i}I need to keep running with Sidney during the early morning in the park to complete this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di continuare a correre con Sidney durante la mattina presto nel parco per completare questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1333## # translate crowdin event_info_49_1eddf451:
 msgid "[RT] {i}I need to complete event 40 before I can start working on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 40 prima di poter iniziare a lavorare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1336## # translate crowdin event_info_49_db295b3d:
 msgid "[RT] {i}Sidney was acting funny when I told her about Mom. I'd better keep an eye on her this weekend when the Mafia comes for their weekly payment.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sidney si comportava divertente quando le dissi di mamma. Farei meglio a tenerla d'occhio questo fine settimana quando la mafia viene per il loro pagamento settimanale.{/i}"
 
 # game/Phone_event_screen.rpy:1341## # translate crowdin event_info_50_d1ba1b49:
 msgid "[RT] {i}I need to finish event 48 before I can start working on this event.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ho bisogno di completare l'evento 48 prima di poter iniziare a lavorare su questo evento.{/i}"
 
 # game/Phone_event_screen.rpy:1344## # translate crowdin event_info_50_df590c99:
 msgid "[RT] {i}I need to visit Sidney while she's working at the club, maybe she'll have some time for a little more fun.{/i}"
