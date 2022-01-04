@@ -11,31 +11,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 17:53\n"
+"PO-Revision-Date: 2022-01-04 21:26\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{color=#42f456} Mamma: {/colore}"
 
 #    # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Rispetto..............[momrespect]{/color}"
 
 #    # game/stats_screen.rpy:30
 msgid "{color=#000000}Affection............[momaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affezione............[momaffection]{/color}"
 
 #    # game/stats_screen.rpy:31
 msgid "{color=#000000}Libido................[momlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido................[momlibido]{/color}"
 
 #    # game/stats_screen.rpy:32
 msgid "{color=#000000}Submission........[momsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Rabbia........[momsubmission]{/color}"
 
 #    # game/stats_screen.rpy:33
 msgid "{color=#000000}Anger..................[momanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Rabbia..................[momanger]{/color}"
 
 #    # game/stats_screen.rpy:35
 msgid "{color=#f442d9}Lauren's:{/color}"
