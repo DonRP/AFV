@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-03 18:48\n"
+"PO-Revision-Date: 2022-01-05 22:01\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
-msgstr ""
+msgstr "Si c’est la première fois que vous jouez à ce jeu, nous vous recommandons vivement de regarder le didacticiel."
 
 # game/script.rpy:315## # translate crowdin skip_game_5e5fdd92:
 msgid "Good luck! I sure hope you know what you're doing."
-msgstr ""
+msgstr "Bonne chance! J’espère vraiment que vous savez ce que vous faites."
 
 # game/script.rpy:316## # translate crowdin skip_game_90ec90e7:
 msgid "For players who have already played AFV, we offer the option to skip the game's introduction. This includes the events that set the premise of the game in motion."
-msgstr ""
+msgstr "Pour les joueurs qui ont déjà joué à AFV, nous offrons la possibilité de sauter l’introduction du jeu. Cela inclut les événements qui ont mis en mouvement les prémisses du jeu."
 
 # game/script.rpy:657## # translate crowdin gamestart_13f9152e:
 msgid "[M] [ryan], wake up!"
-msgstr ""
+msgstr "[M] [ryan], réveille-toi!"
 
 # game/script.rpy:662## # translate crowdin gamestart_b13eed11:
 msgid "[M] [upper_ryan], WAKE UP!"
-msgstr ""
+msgstr "[M] [upper_ryan], RÉVEILLE-TOI!"
 
 # game/script.rpy:667## # translate crowdin gamestart_f18185f2:
 msgid "[M] WAKE UP!!!"
-msgstr ""
+msgstr "[M] RÉVEILLE-TOI!!!"
 
 # game/script.rpy:672## # translate crowdin gamestart_6288b353:
 msgid "[R] Huh..."
-msgstr ""
+msgstr "[R] Hein..."
 
 # game/script.rpy:673## # translate crowdin gamestart_96cb3bb4:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/script.rpy:674## # translate crowdin gamestart_a5cfeafc:
 msgid "[R] What is it?..."
-msgstr ""
+msgstr "[R] Qu’est-ce que c’est?..."
 
 # game/script.rpy:677## # translate crowdin gamestart_7e6f9074:
 msgid "[R] What time is it?"
-msgstr ""
+msgstr "[R] Quelle heure est-il ?"
 
 # game/script.rpy:678## # translate crowdin gamestart_e9062642:
 msgid "[M] It's only 5:30 AM.... sorry to wake you so early."
-msgstr ""
+msgstr "[M] Il n’est que 5h30 du matin.... désolé de te réveiller si tôt."
 
 # game/script.rpy:679## # translate crowdin gamestart_6b505fac:
 msgid "[R] Uhhh.... Isn't is Saturday?..."
-msgstr ""
+msgstr "[R] Euhhh... N’est-ce pas samedi?..."
 
 # game/script.rpy:680## # translate crowdin gamestart_2542c765:
 msgid "[M] I know honey, but your no account, worthless father is on the phone for you..."
-msgstr ""
+msgstr "[M] je sais chérie, mais ton père sans argent, sans valeur est au téléphone pour toi..."
 
 # game/script.rpy:683## # translate crowdin gamestart_bbfbe0f1:
 msgid "[M] It's pretty important..."
-msgstr ""
+msgstr "[M] C’est assez important..."
 
 # game/script.rpy:684## # translate crowdin gamestart_c5f760e5:
 msgid "[M] He's calling from jail!"
-msgstr ""
+msgstr "[M] Il appelle depuis la prison!"
 
 # game/script.rpy:685## # translate crowdin gamestart_94b40fc4:
 msgid "[R] WHAT?!"
-msgstr ""
+msgstr "[R] QUOI?!"
 
 # game/script.rpy:686## # translate crowdin gamestart_ccab4082:
 msgid "[M] Oh, and honey?"
-msgstr ""
+msgstr "[M] Oh, et chéri?"
 
 # game/script.rpy:687## # translate crowdin gamestart_1e2aa3d3:
 msgid "[R] .... Yeah?..."
-msgstr ""
+msgstr "[R] .... oui?..."
 
 # game/script.rpy:688## # translate crowdin gamestart_98431b9a:
 msgid "[M] .... Could you maybe wear more to bed?..."
-msgstr ""
+msgstr "[M] .... Tu pourrais peut-être t'habiller plus pour aller au lit?..."
 
 # game/script.rpy:689## # translate crowdin gamestart_1205034a:
 msgid "[M] Or at least cover yourself while I'm in here..."
-msgstr ""
+msgstr "[M] Ou au moins couvre toi pendant que je suis ici..."
 
 # game/script.rpy:692## # translate crowdin gamestart_c96ea14a:
 msgid "[M] I know it's just morning wood..."
-msgstr ""
+msgstr "[M] je sais que c’est juste la trique matinal..."
 
 # game/script.rpy:693## # translate crowdin gamestart_b068f8f2:
 msgid "[M] But what if one of your sisters walked in on you like this?"
-msgstr ""
+msgstr "[M] Mais que se passerait-il si l’une de tes sœurs entrait et te vois comme ça?"
 
 # game/script.rpy:694## # translate crowdin gamestart_6d94f86d:
 msgid "[R] I'd tell them to get the fuck out of my room!"
-msgstr ""
+msgstr "[R] merde, je leur disais de sortir de ma chambre!"
 
 # game/script.rpy:697## # translate crowdin gamestart_882cacf9:
 msgid "[M] Language please!"
-msgstr ""
+msgstr "[M] Langage s’il te plaît!"
 
 # game/script.rpy:698## # translate crowdin gamestart_3a2c90f7:
 msgid "[R] Sorry!"
-msgstr ""
+msgstr "[R] Désolé !"
 
 # game/script.rpy:699## # translate crowdin gamestart_9eabc2a7:
 msgid "[M] Here.... talk to Dad!"
-msgstr ""
+msgstr "[M] Là.... parle à papa!"
 
 # game/script.rpy:711## # translate crowdin peek_6154c2f9:
 msgid "[RT] {i}Why is she telling me to cover up?.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Pourquoi me dit-elle de me couvrir ?.... {/i}"
 
 # game/script.rpy:712## # translate crowdin peek_d37f126e:
 msgid "[RT] {i}Mom's boobs are practically bursting out of her robe.... {/i}"
-msgstr ""
+msgstr "[RT] {i}les seins de maman sortent pratiquement de sa robe.... {/i}"
 
 # game/script.rpy:713## # translate crowdin peek_def1be11:
 msgid "[RT] {i}Good thing I don't think of her like that.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Heureusement que je ne pense pas à elle comme ça.... {/i}"
 
 # game/script.rpy:714## # translate crowdin peek_5d9672a4:
 msgid "[RT] {i}.... hmmm.... {/i}"
-msgstr ""
+msgstr "[RT] {i}.... hmmm.... {/i}"
 
 # game/script.rpy:715## # translate crowdin peek_3341b692:
 msgid "[RT] {i}.... aAAHH! Get out of my head Satan!{/i}"
-msgstr ""
+msgstr "[RT] {i}.... aAAHH! Sors de ma tête Satan!{/i}"
 
 # game/script.rpy:717## # translate crowdin peek_5a1372bb:
 msgid "[MT] {i}Did my boy just look down my robe?.... {/i}"
-msgstr ""
+msgstr "[MT] {i}Mon garçon n'a-t-il pas regardé sous ma robe?.... {/i}"
 
 # game/script.rpy:718## # translate crowdin peek_7c440bee:
 msgid "[MT] {i}Here I am lecturing him to cover up himself while my tits are halfway out.... {/i}"
-msgstr ""
+msgstr "[MT] {i} je lui fais la leçon pour qu’il se couvre alors que mes seins sont prêt à sortir.... {/i}"
 
 # game/script.rpy:719## # translate crowdin peek_bc09f959:
 msgid "[MT] {i}.... hmmm.... {p}I wonder if he'd have gotten hard if he wasn't already?.... {/i}"
-msgstr ""
+msgstr "[MT] {i}.... hmmm... {p}je me demande si il aurait un une trique dur s’il ne l’avait pas déjà été?.... {/i}"
 
 # game/script.rpy:721## # translate crowdin peek_56be8171:
 msgid "[MT] {i}He is pretty well endowed... {/i}{p}{i}He doesn't take after his father... {/i}{p}{i}He must take after my dad... {/i}"
-msgstr ""
+msgstr "[MT] {i}Il est plutôt bien doté par la nature... {/i}{p}{i}Il ne l'a pas pris de son père... {/i}{p}{i}Il doit avoir les gènes de mon père... {/i}"
 
 # game/script.rpy:723## # translate crowdin peek_20b13604:
 msgid "[MT] {i}.... hmmm.... {/i}"
-msgstr ""
+msgstr "[MT] {i}.... hmmm.... {/i}"
 
 # game/script.rpy:725## # translate crowdin peek_0560b83b:
 msgid "[MT] {i}.... AAAHH!{p} Why am I thinking about my dads and sons penises?{p} Get out of my head Satan!.... {/i}"
-msgstr ""
+msgstr "[MT] {i}.... AAAHH!{p} Pourquoi est-ce que je pense aux pénis de mon père et de mon fils?{p} Sors de ma tête satan!.... {/i}"
 
 # game/script.rpy:729## # translate crowdin peek_47a97a8c:
 msgid "[M] Uhhh.... I'm going to go. Bring me my phone to the kitchen when you're done."
-msgstr ""
+msgstr "[M] Euhhh... Je vais y aller. Apporte-moi mon téléphone à la cuisine quand tu as terminé."
 
 # game/script.rpy:730## # translate crowdin peek_1d3e080d:
 msgid "[RT] {i}SHIT! She saw me staring!{p} That was stupid.... {p} I need to go to church!{/i}"
-msgstr ""
+msgstr "[RT] {i}MERDE! Elle m’a vu la regarder fixement!{p} C’était stupide... {p} j’ai besoin d’aller à l’église ! {/i}"
 
 # game/script.rpy:731## # translate crowdin peek_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}« Libido de maman +1\"{/b}{/i}"
 
 # game/script.rpy:732## # translate crowdin peek_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}« L’affection de maman -1\"{/b}{/i}"
 
 # game/script.rpy:741## # translate crowdin gross_2702cdee:
 msgid "[M] Ok, well I'm going to go.{p} Bring my phone to the kitchen when you're done."
-msgstr ""
+msgstr "[M] Ok, eh bien je vais y aller.{p} Apportes mon téléphone à la cuisine quand tu as terminé."
 
 # game/script.rpy:747## # translate crowdin main_48550dd5:
 msgid "[R] Dad! Are you ok? Why are you in jail?!"
-msgstr ""
+msgstr "[R] papa! Tu vas bien? Pourquoi es-tu en prison?!"
 
 # game/script.rpy:748## # translate crowdin main_e424ec5d:
 msgid "[D] Listen to me carefully son, I don't have a lot of time and this is my one phone call."
-msgstr ""
+msgstr "[D] Écoute-moi attentivement mon fils, je n’ai pas beaucoup de temps et c’est mon seul appel téléphonique."
 
 # game/script.rpy:749## # translate crowdin main_7d94ec04:
 msgid "[R] Shouldn't you have called your lawyer?"
-msgstr ""
+msgstr "[R] n’aurais-tu pas dû appeler ton avocat?"
 
 # game/script.rpy:750## # translate crowdin main_8c30da8a:
 msgid "[D] JUST SHUT UP AND LISTEN!..."
-msgstr ""
+msgstr "[D] TAIS-TOI ET ÉCOUTE!..."
 
 # game/script.rpy:751## # translate crowdin main_99bf2a41:
 msgid "[D] I need you to go to my warehouse this morning. Uncle Bobby is going to be there, and he's going to tell you everything you need to know..."
-msgstr ""
+msgstr "[D] j’ai besoin que tu allies à mon entrepôt ce matin. Oncle Bobby va être là, et il va te dire tout ce que tu dois savoir..."
 
 # game/script.rpy:752## # translate crowdin main_8d239059:
 msgid "[D] Now I can't stress to you how important it is that you go and see him, and do exactly what he tells you to do..."
-msgstr ""
+msgstr "[D] Maintenant je n'ai pas te dire à quel point il est important que tu allies le voir et que tu fasses exactement ce qu’il te dit de faire..."
 
 # game/script.rpy:753## # translate crowdin main_ca6de268:
 msgid "[D] Our family could be in some really bad trouble if you don't take care of this for me."
-msgstr ""
+msgstr "[D] Notre famille pourrait avoir de très mauvais problèmes si tu ne t'en occupes pas pour moi."
 
 # game/script.rpy:756## # translate crowdin main_dd502651:
 msgid "[R] Don't worry Dad, I'll go over there as soon as I can."
-msgstr ""
+msgstr "[R] Ne t’inquiète pas papa, j’irai là-bas dès que je le pourrais."
 
 # game/script.rpy:757## # translate crowdin main_c3c55ed3:
 msgid "[D] Thank you for this son!"
@@ -414,203 +414,203 @@ msgstr ""
 
 # game/script.rpy:854## # translate crowdin myroom_c159b699:
 msgid "[R] No I've just seen the first episode."
-msgstr ""
+msgstr "[R] Non je viens juste de voir le premier épisode."
 
 # game/script.rpy:857## # translate crowdin myroom_38aeb115:
 msgid "[L] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[L] génial! Nous pouvons regarder la série ensemble!"
 
 # game/script.rpy:858## # translate crowdin myroom_7adbd6b0:
 msgid "[L] All my friends love it!"
-msgstr ""
+msgstr "[L] Tous mes amis l’adorent!"
 
 # game/script.rpy:861## # translate crowdin myroom_9f0e138b:
 msgid "[RT] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[RT] {i}je me demande si c’est un peu trop explicite pour Lauren ? {/i}"
 
 # game/script.rpy:864## # translate crowdin myroom_76a42199:
 msgid "[RT] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow ! Je ne peux plus croire à ce qu'ils peuvent faire sur la télé ! C'est génial !{/i}"
 
 # game/script.rpy:867## # translate crowdin myroom_d1131d9d:
 msgid "[R] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[R] Man, cet épisode était intense ! Lauren ça va? tu as un peu rougi."
 
 # game/script.rpy:868## # translate crowdin myroom_2a1cef1c:
 msgid "[L] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[L] Oh oui, je vais bien. J’ai juste été un peu surprise par cette scène de sexe frère-sœur."
 
 # game/script.rpy:869## # translate crowdin myroom_085cecfc:
 msgid "[L] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[L] Ce spectacle rend presque l’inceste normal, comme si ce n’était pas grave ou quelque chose comme ça."
 
 # game/script.rpy:870## # translate crowdin myroom_2eaca672:
 msgid "[R] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[R] oui, eh bien l’inceste n’est mauvais que lorsque la société dit que c'est mauvais. Il y a eu beaucoup de fois dans l’histoire où cela a été parfaitement accepté."
 
 # game/script.rpy:871## # translate crowdin myroom_c704fd66:
 msgid "[L] I wouldn't say lots of times."
-msgstr ""
+msgstr "[L] Je ne dirais pas trop."
 
 # game/script.rpy:872## # translate crowdin myroom_108c8ff2:
 msgid "[R] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[R] Eh bien, je ne veux pas en faire des tonnes, mais pour moi, c’est comme être gay. Si deux personnes sont amoureuses l’une de l’autre, pourquoi les gens pensent-ils qu’ils ont le droit de leur dire qu’ils ne peuvent pas être amoureux?"
 
 # game/script.rpy:873## # translate crowdin myroom_db032bf2:
 msgid "[L] I don't know it just seems really weird."
-msgstr ""
+msgstr "[L] je ne sais pas, ça semble vraiment bizarre."
 
 # game/script.rpy:874## # translate crowdin myroom_9501adbf:
 msgid "[R] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[R] Seulement parce qu’on t'a dit toute ta vie que c’est bizarre."
 
 # game/script.rpy:875## # translate crowdin myroom_7a4c9662:
 msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[LT] {i}Hmmmm.... Il va falloir que je réfléchisse à ça... {/i}"
 
 # game/script.rpy:878## # translate crowdin myroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
 
 # game/script.rpy:879## # translate crowdin myroom_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/script.rpy:963## # translate crowdin myroomnight_9fb415aa:
 msgid "[RT] {i}My bed looks lonely without Sidney in it.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mon lit a l’air vide sans Sidney dedans. {/i}"
 
 # game/script.rpy:964## # translate crowdin myroomnight_e18f44fe:
 msgid "[RT] {i}I hope she's ok at the club tonight.{/i}"
-msgstr ""
+msgstr "[RT] {i}j’espère qu’elle va bien au club ce soir. {/i}"
 
 # game/script.rpy:1009## # translate crowdin computer_306f7f3e:
 msgid "[RT] {i}WOW! We reached 1000 likes.... {p}And CosplayHeaven just gave us access to a new feature.{/i}"
-msgstr ""
+msgstr "[RT] {i}WOW! Nous avons atteint 1000 j'aime... {p}Et CosplayHeaven vient de nous donner accès à une nouvelle fonctionnalité.{/i}"
 
 # game/script.rpy:1010## # translate crowdin computer_408fc709:
 msgid "[RT] {i}It seems that we can increase our revenues if people decide to become our supporters and we'll get $[var_earnings_per_supporters] for each one.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il semble que nous puissions augmenter nos revenus si les gens décident de devenir nos supporters et nous obtiendrons [var_earnings_per_supporters]$ pour chacun. {/i}"
 
 # game/script.rpy:1011## # translate crowdin computer_487f4ba7:
 msgid "[RT] {i}Now it's the perfect time to use those lewd pictures I took of Lauren.{/i}"
-msgstr ""
+msgstr "[RT] {i}Maintenant, c’est le moment idéal pour utiliser ces photos obscènes que j’ai prises de Lauren. {/i}"
 
 # game/script.rpy:1012## # translate crowdin computer_8d472543:
 msgid "[RT] {i}To bad that this is a monthly income, but still we can get more money and maybe I can use this to corrupt Lauren more.{/i}"
-msgstr ""
+msgstr "[RT] {i}dommage que ce soit un revenu mensuel, mais je peux quand même obtenir plus d’argent et peut-être que je peux l’utiliser pour corrompre davantage Lauren. {/i}"
 
 # game/script.rpy:1013## # translate crowdin computer_45e1eea6:
 msgid "[RT] {i}Let's start uploading those pictures now.... {p}and click submit.... {p}and now we just wait to see if anyone likes them so much that they'll become our supporter.{/i}"
-msgstr ""
+msgstr "[RT] {i}Commençons à télécharger ces photos maintenant... {p}et cliquer sur soumettre.... {p}et maintenant j'attends de voir si quelqu’un les aime tellement qu’ils deviendront nos supporters. {/i}"
 
 # game/script.rpy:1014## # translate crowdin computer_39027316:
 msgid "[RT] {i}Hmmm.... let me see how the page turned out before I go.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... regardons voir comment la page se comporte avant de partir. {/i}"
 
 # game/script.rpy:1015## # translate crowdin computer_55e11975:
 msgid "[RT] {i}Click.... {p}click.... {p}click.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Clic.... {p}clic.... {p}clic.... {/i}"
 
 # game/script.rpy:1028## # translate crowdin computer_71767b4b:
 msgid "[RT] {i}I must enter my password to Login!{/i}"
-msgstr ""
+msgstr "[RT] {i}je dois entrer mon mot de passe pour me connecter! {/i}"
 
 # game/script.rpy:1029## # translate crowdin computer_14341bf8:
 msgid "[RT] {i}Ha ha its \"B00Bies123.\"{/i}"
-msgstr ""
+msgstr "[RT] {i}Ha ha c'est «B00Bies123».{/i}"
 
 # game/script.rpy:1053## # translate crowdin bed_f561667c:
 msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[RT] {i}je ne peux pas perdre de temps en ce moment, les DeCapos seront là d'un moment à l'autre.{/i}"
 
 # game/script.rpy:1061## # translate crowdin bed_0ba776cf:
 msgid "[RT] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille avec l'élection estudiantine.{/i}"
 
 # game/script.rpy:1294## # translate crowdin bed_0ba776cf_1:
 msgid "[RT] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille avec l'élection estudiantine.{/i}"
 
 # game/script.rpy:1302## # translate crowdin bed_0ba776cf_2:
 msgid "[RT] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille avec l'élection estudiantine.{/i}"
 
 # game/script.rpy:1536## # translate crowdin bed_0ba776cf_3:
 msgid "[RT] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille avec l'élection estudiantine.{/i}"
 
 # game/script.rpy:1561## # translate crowdin sleep_18955b89:
 msgid "[RT] {i}Shit, I have a ton of homework Mom gave me because of all the school I've been missing to work. I better get up.{/i}"
-msgstr ""
+msgstr "[RT] {i}merde, j’ai une tonne de devoirs que maman m’a donnés à cause de toute l’école que j'ai loupé pour travailler. Je ferais mieux de me lever. {/i}"
 
 # game/script.rpy:1564## # translate crowdin sleep_7bb40fd2:
 msgid "[RT] {i}Oh man, I'm so tired, I am not looking forward to this.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh mec, je suis tellement fatigué, je n’ai pas hâte d’y être. {/i}"
 
 # game/script.rpy:1565## # translate crowdin sleep_7209e146:
 msgid "[RT] {i}Well, I better get going, so I don't have to spend the entire day doing homework.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, je ferais mieux de commencer, donc je n’ai pas à passer toute la journée à faire mes devoirs. {/i}"
 
 # game/script.rpy:1568## # translate crowdin sleep_381607be:
 msgid "[RT] {i}Ok, so the assignment is to write a paper on how the Greek play Oedipus Rex influenced Sigmund Freud's theory on the Oedipal complex.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, donc la tâche est d’écrire un article sur la façon dont la pièce grecque Œdipe Rex a influencé la théorie de Sigmund Freud sur le complexe œdipien. {/i}"
 
 # game/script.rpy:1569## # translate crowdin sleep_ec9d2129:
 msgid "[RT] {i}What the hell is an Oedipal complex? Guess I better get reading.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu’est-ce qu’un complexe œdipien ? Je suppose que je ferais mieux de le lire. {/i}"
 
 # game/script.rpy:1570## # translate crowdin sleep_99a9cce0:
 msgid "[RT] {i}Ok, here's the cliffnotes version.... so the premise of the Greek play Oedipus Rex is that .... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, voici la version courte.... donc le sujet de la pièce grecque Oedipus Rex est que.... {/i}"
 
 # game/script.rpy:1573## # translate crowdin sleep_dc2698d5:
 msgid "[RT] {i}.... {/i}"
-msgstr ""
+msgstr "[RT] {i}.... {/i}"
 
 # game/script.rpy:1576## # translate crowdin sleep_fdc9ee88:
 msgid "[M] [ryan]!.... Hey, [ryan].... are you in you in your room?"
-msgstr ""
+msgstr "[M] [ryan]!.... Hé, [ryan].... es-tu dans ta chambre?"
 
 # game/script.rpy:1579## # translate crowdin sleep_143af89a:
 msgid "[M] Honey, come down and eat with us."
-msgstr ""
+msgstr "[M] Chéri, descends et mange avec nous."
 
 # game/script.rpy:1582## # translate crowdin sleep_0cd4adc5:
 msgid "[R] Ok Mom, I'll be right there."
-msgstr ""
+msgstr "[R] Ok maman, je viens tout de suite."
 
 # game/script.rpy:1585## # translate crowdin sleep_4511b51d:
 msgid "[M] Honey, come sit down. We're having pizza for dinner."
-msgstr ""
+msgstr "[M] Chéri, viens t’asseoir. Nous mangeons une pizza pour le dîner."
 
 # game/script.rpy:1590## # translate crowdin sleep_9e491a79:
 msgid "[M] I hope you guys are hungry."
-msgstr ""
+msgstr "[M] j’espère que tu as faim."
 
 # game/script.rpy:1594## # translate crowdin sleep_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de maman +1»{/b}{/i}"
 
 # game/script.rpy:1596## # translate crowdin sleep_aaa3e661:
 msgid "[M] Oh, my day was fine. Did you finish the extra homework on Oedipus I gave you___"
-msgstr ""
+msgstr "[M] Oh, ma journée s’est bien passée. As-tu terminé les devoirs supplémentaires sur Œdipe que je t’ai donné___"
 
 # game/script.rpy:1597## # translate crowdin sleep_287d118c:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr ""
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:1600## # translate crowdin sleep_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
 
 # game/script.rpy:1602## # translate crowdin sleep_a3c2b612:
 msgid "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
-msgstr ""
+msgstr "[L] Mon dieu! [ryan].... alors Kenzie était si drôle aujourd’hui après le sport elle était comme___"
 
 # game/script.rpy:1603## # translate crowdin sleep_287d118c_1:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr ""
+msgstr "[S] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:1622## # translate crowdin sleep_9746c724:
 msgid "[RT] {i}I hope Lauren was ok on her own, I should just go check on her before I go to bed.{/i}"
@@ -814,203 +814,203 @@ msgstr ""
 
 # game/script.rpy:2225## # translate crowdin wakeupryan_20a9275a:
 msgid "[L] Ok.... whatever.... you're the one with a penis."
-msgstr ""
+msgstr "[L] D’accord. quoi que.... tu es celui qui a un pénis."
 
 # game/script.rpy:2226## # translate crowdin wakeupryan_4e55ccea:
 msgid "[L] Aren't you going to cover him up?"
-msgstr ""
+msgstr "[L] Ne vas tu pas le couvrir ?"
 
 # game/script.rpy:2231## # translate crowdin wakeupryan_1f2168ba:
 msgid "[L] You're actually bigger than I dreamt you were last ni.... I mean than I imagined you were."
-msgstr ""
+msgstr "[L] Tu es en fait plus grand que je n’aurais rêvé que tu sois.... Je veux dire que je l’imaginais."
 
 # game/script.rpy:2232## # translate crowdin wakeupryan_b7ab1c17:
 msgid "[L] I mean, I've never seen one in real life, just in porn..."
-msgstr ""
+msgstr "[L] je veux dire, je n’en ai jamais vu dans la vraie vie, juste dans les porno..."
 
 # game/script.rpy:2233## # translate crowdin wakeupryan_4a0656c8:
 msgid "[L] And you're as big as they are."
-msgstr ""
+msgstr "[L] Et tu es aussi grand que dans ceux-ci."
 
 # game/script.rpy:2236## # translate crowdin wakeupryan_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/script.rpy:2237## # translate crowdin wakeupryan_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
 
 # game/script.rpy:2238## # translate crowdin wakeupryan_fb7fef67:
 msgid "[RT] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Alors elle a rêvé de moi hier soir. Je vais devoir continuer à murmurer des suggestions la nuit. {/i}"
 
 # game/script.rpy:2239## # translate crowdin wakeupryan_98cbe481:
 msgid "[R] Thanks.... I guess."
-msgstr ""
+msgstr "[R] Merci .... Je suppose."
 
 # game/script.rpy:2240## # translate crowdin wakeupryan_1c3f3c2f:
 msgid "[L] Anyways.... I should go and let you take care of that, or get dressed, or whatever you do to hide your boner."
-msgstr ""
+msgstr "[L] en tout cas.... Je devrais aller et te laisser t'occuper de cela, ou t'habiller, ou quoi que tu fasses pour cacher ton bâton."
 
 # game/script.rpy:2241## # translate crowdin wakeupryan_5b11e247:
 msgid "[R] Ok, see you later I guess."
-msgstr ""
+msgstr "[R] Ok, à plus tard je suppose."
 
 # game/script.rpy:2249## # translate crowdin wakeupryan_97ccfaa4:
 msgid "[R] You're the one in my room uninvited."
-msgstr ""
+msgstr "[R] C’est toi qui es dans ma chambre sans y être invité."
 
 # game/script.rpy:2250## # translate crowdin wakeupryan_b0f6b89f:
 msgid "[L] Weird flex, but ok."
-msgstr ""
+msgstr "[L] Flex bizarre, mais ok."
 
 # game/script.rpy:2251## # translate crowdin wakeupryan_1f2168ba_1:
 msgid "[L] You're actually bigger than I dreamt you were last ni.... I mean than I imagined you were."
-msgstr ""
+msgstr "[L] Tu es en fait plus grand que je n’aurais rêvé que tu sois.... Je veux dire que je l’imaginais."
 
 # game/script.rpy:2252## # translate crowdin wakeupryan_b7ab1c17_1:
 msgid "[L] I mean, I've never seen one in real life, just in porn..."
-msgstr ""
+msgstr "[L] je veux dire, je n’en ai jamais vu dans la vraie vie, juste dans les porno..."
 
 # game/script.rpy:2253## # translate crowdin wakeupryan_4a0656c8_1:
 msgid "[L] And you're as big as they are."
-msgstr ""
+msgstr "[L] Et tu es aussi grand que dans ceux-ci."
 
 # game/script.rpy:2255## # translate crowdin wakeupryan_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +5»{/b}{/i}"
 
 # game/script.rpy:2256## # translate crowdin wakeupryan_fb7fef67_1:
 msgid "[RT] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
-msgstr ""
+msgstr "[RT] {i}Alors elle a rêvé de moi hier soir. Je vais devoir continuer à murmurer des suggestions la nuit. {/i}"
 
 # game/script.rpy:2257## # translate crowdin wakeupryan_98cbe481_1:
 msgid "[R] Thanks.... I guess."
-msgstr ""
+msgstr "[R] Merci .... Je suppose."
 
 # game/script.rpy:2258## # translate crowdin wakeupryan_e09ad2e4:
 msgid "[L] Do you mind me looking?"
-msgstr ""
+msgstr "[L] Cela te dérange-t-il que je regarde?"
 
 # game/script.rpy:2259## # translate crowdin wakeupryan_b6c63cc8:
 msgid "[R] No, not really. I know you're just curious."
-msgstr ""
+msgstr "[R] Non, pas vraiment. Je sais que tu es simplement curieuse."
 
 # game/script.rpy:2260## # translate crowdin wakeupryan_0f27c02f:
 msgid "[R] I get curious too sometimes. Maybe you can show me something as well."
-msgstr ""
+msgstr "[R] je deviens curieux aussi parfois. Peut-être que tu peux aussi me montrer quelque chose."
 
 # game/script.rpy:2263## # translate crowdin wakeupryan_5d1d5f2e:
 msgid "[L] Ohh! You Pervert!"
-msgstr ""
+msgstr "[L] Ohh! Pervers!"
 
 # game/script.rpy:2264## # translate crowdin wakeupryan_7a73494d:
 msgid "[L] I should have known better then to talk about anything sexual with you!"
-msgstr ""
+msgstr "[L] j’aurais dû savoir mieux que de parler de tout ce qui est sexuel avec toi!"
 
 # game/script.rpy:2265## # translate crowdin wakeupryan_c5e37f93:
 msgid "[L] I'm leaving so you can take care of your little morning wood problem however you want!"
-msgstr ""
+msgstr "[L] je pars pour que tu puisses t'occuper de ton petit problème d'érection matinale comme tu le souhaites!"
 
 # game/script.rpy:2266## # translate crowdin wakeupryan_9743e504:
 msgid "{i}{b}\"Lauren's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +10»{/b}{/i}"
 
 # game/script.rpy:2316## # translate crowdin fapmom_65539ed6:
 msgid "[RT] {i}If only it was the real thing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Si seulement la chose était réelle.{/i}"
 
 # game/script.rpy:2353## # translate crowdin faplauren_65539ed6:
 msgid "[RT] {i}If only it was the real thing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Si seulement la chose était réelle.{/i}"
 
 # game/script.rpy:2390## # translate crowdin fapsidney_a30f8075:
 msgid "[RT] {i}What is wrong with me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu’est-ce qui ne va pas chez moi? {/i}"
 
 # game/script.rpy:2506## # translate crowdin loungeevening_3959ba15:
 msgid "[RT] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je viens de faire? C'est comme si maman et Lauren essayaient délibérément de taquiner des bites ces derniers temps.{/i}"
 
 # game/script.rpy:2507## # translate crowdin loungeevening_3219b135:
 msgid "[RT] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Est-ce que ça toujours été comme ça, et que maintenant je commence à le remarquer? Je suis sûr que j'imagine beaucoup plus de choses que je ne le devrais.{/i}"
 
 # game/script.rpy:2513## # translate crowdin loungeevening_af1bc791:
 msgid "[L] I'm looking for the TV remote."
-msgstr ""
+msgstr "[L] je cherche la télécommande TV."
 
 # game/script.rpy:2514## # translate crowdin loungeevening_e7d0e6d5:
 msgid "[L] Do you know where it is?"
-msgstr ""
+msgstr "[L] Sais-tu où elle se trouve?"
 
 # game/script.rpy:2515## # translate crowdin loungeevening_a569424d:
 msgid "[R] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[R] Je suis désolé, je ne l'ai pas vu."
 
 # game/script.rpy:2517## # translate crowdin loungeevening_be92b71f:
 msgid "[L] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[L] Eh bien, tu étais le dernier à regarder la télévision, donc tu dois être celui qui l’a perdue."
 
 # game/script.rpy:2518## # translate crowdin loungeevening_0173ae5f:
 msgid "[L] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[L] Le moins que tu puisses faire est de m’aider à la trouver. Bouge de là et aide-moi à regarder."
 
 # game/script.rpy:2521## # translate crowdin loungeevening_5ab2d65a:
 msgid "[RT] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[RT] {i}Chercher la télécommande? {/i}"
 
 # game/script.rpy:2522## # translate crowdin loungeevening_c6572b27:
 msgid "[RT] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Comment suis-je censé me concentrer sur autre chose que cette vue juste devant moi? {/i}"
 
 # game/script.rpy:2523## # translate crowdin loungeevening_032d3494:
 msgid "[RT] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... Je me demande.... {/i}"
 
 # game/script.rpy:2526## # translate crowdin loungeevening_28607e4c:
 msgid "[RT] {i}Oh my God, I can!{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh mon dieu, je peux! {/i}"
 
 # game/script.rpy:2527## # translate crowdin loungeevening_2141e536:
 msgid "[RT] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[RT] {i}je peux sentir sa chatte de si près. {/i}"
 
 # game/script.rpy:2528## # translate crowdin loungeevening_5f9b570a:
 msgid "[RT] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[RT] {i}je n’ai jamais senti une chatte auparavant, j’aime un plutôt ça. {/i}"
 
 # game/script.rpy:2529## # translate crowdin loungeevening_f6c129df:
 msgid "[RT] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[RT] {i}je dois me rapprocher. {/i}"
 
 # game/script.rpy:2532## # translate crowdin loungeevening_6b4f781d:
 msgid "[RT] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[RT] {i}Waouh ! Ça sent incroyable ! {/i}"
 
 # game/script.rpy:2533## # translate crowdin loungeevening_ce5f0a99:
 msgid "[RT] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[RT] {i}j’aimerais pouvoir y goûter. {/i}"
 
 # game/script.rpy:2534## # translate crowdin loungeevening_647b8d0a:
 msgid "[RT] {i}It just turns me on so much!{/i}"
-msgstr ""
+msgstr "[RT] {i}Ça m’excite tellement ! {/i}"
 
 # game/script.rpy:2535## # translate crowdin loungeevening_be7ee987:
 msgid "[L] Well, I don't see the remote in this corner, I'm coming back."
-msgstr ""
+msgstr "[L] Eh bien, je ne vois pas la télécommande dans ce coin, je reviens."
 
 # game/script.rpy:2536## # translate crowdin loungeevening_14af55a0:
 msgid "[R] Wait!"
-msgstr ""
+msgstr "[R] Attends!"
 
 # game/script.rpy:2540## # translate crowdin loungeevening_ce1279a8:
 msgid "[R] Mmphh..."
-msgstr ""
+msgstr "[R] Mmphh..."
 
 # game/script.rpy:2547## # translate crowdin loungeevening_6f8632c2:
 msgid "[L] [ryan]?.... Is that your face in my ass?"
-msgstr ""
+msgstr "[L] [ryan]?.... Est-ce que c’est ton visage dans mon cul?"
 
 # game/script.rpy:2548## # translate crowdin loungeevening_46fa7af0:
 msgid "[L] [ryan]?..."
@@ -1214,39 +1214,39 @@ msgstr ""
 
 # game/script.rpy:2651## # translate crowdin loungeevening_085cecfc_1:
 msgid "[L] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[L] Ce spectacle rend presque l’inceste normal, comme si ce n’était pas grave ou quelque chose comme ça."
 
 # game/script.rpy:2652## # translate crowdin loungeevening_2eaca672_1:
 msgid "[R] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[R] oui, eh bien l’inceste n’est mauvais que lorsque la société dit que c'est mauvais. Il y a eu beaucoup de fois dans l’histoire où cela a été parfaitement accepté."
 
 # game/script.rpy:2653## # translate crowdin loungeevening_c704fd66_1:
 msgid "[L] I wouldn't say lots of times."
-msgstr ""
+msgstr "[L] Je ne dirais pas trop."
 
 # game/script.rpy:2654## # translate crowdin loungeevening_108c8ff2:
 msgid "[R] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[R] Eh bien, je ne veux pas en faire des tonnes, mais pour moi, c’est comme être gay. Si deux personnes sont amoureuses l’une de l’autre, pourquoi les gens pensent-ils qu’ils ont le droit de leur dire qu’ils ne peuvent pas être amoureux?"
 
 # game/script.rpy:2655## # translate crowdin loungeevening_db032bf2_1:
 msgid "[L] I don't know it just seems really weird."
-msgstr ""
+msgstr "[L] je ne sais pas, ça semble vraiment bizarre."
 
 # game/script.rpy:2656## # translate crowdin loungeevening_9501adbf_1:
 msgid "[R] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[R] Seulement parce qu’on t'a dit toute ta vie que c’est bizarre."
 
 # game/script.rpy:2657## # translate crowdin loungeevening_7a4c9662_1:
 msgid "[LT] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[LT] {i}Hmmmm.... Il va falloir que je réfléchisse à ça... {/i}"
 
 # game/script.rpy:2660## # translate crowdin loungeevening_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
 
 # game/script.rpy:2661## # translate crowdin loungeevening_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/script.rpy:2671## # translate crowdin loungeevening_ec117b46:
 msgid "[RT] {i}I wonder If Lauren would mind if I joined her?{/i}"
