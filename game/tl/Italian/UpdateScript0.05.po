@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 21:33\n"
+"PO-Revision-Date: 2022-01-05 22:02\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -9482,7 +9482,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5388## # translate crowdin park_activities_f75be925:
 msgid "[MS] Oh my God! [ryan]!.... You're my hero!"
-msgstr ""
+msgstr "[MS] Oh mio Dio! [ryan]!.... Sei il mio eroe!"
 
 # game/UpdateScript0.05.rpy:5389## # translate crowdin park_activities_232c6572:
 msgid "[MS] Let me just help you up, and give you a great big hug!"
