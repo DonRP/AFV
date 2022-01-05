@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 21:26\n"
+"PO-Revision-Date: 2022-01-05 22:01\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/screens.rpy:256
 msgid "History"
@@ -70,48 +70,49 @@ msgstr "Informazioni"
 
 #    # game/screens.rpy:334
 msgid "Credits"
-msgstr ""
+msgstr "Crediti"
 
 #    # game/screens.rpy:339
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #    # game/screens.rpy:342
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 #    # game/screens.rpy:496
 msgid "Return"
-msgstr ""
+msgstr "Indietro"
 
 #    # game/screens.rpy:580
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Versione [config.version!t]\n"
 
 #    # game/screens.rpy:586
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 #    # game/screens.rpy:626
 msgid "Page {}"
-msgstr ""
+msgstr "Pagina {}"
 
 #    # game/screens.rpy:626
 msgid "Automatic saves"
-msgstr ""
+msgstr "Salvataggi automatici"
 
 #    # game/screens.rpy:626
 msgid "Quick saves"
-msgstr ""
+msgstr "Salvataggi rapidi"
 
 #    # game/screens.rpy:668
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 #    # game/screens.rpy:668
 msgid "empty slot"
-msgstr ""
+msgstr "slot vuoto"
 
 #    # game/screens.rpy:694
 msgid "<"
@@ -119,11 +120,11 @@ msgstr ""
 
 #    # game/screens.rpy:697
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 #    # game/screens.rpy:700
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}R"
 
 #    # game/screens.rpy:706
 msgid ">"
@@ -131,103 +132,103 @@ msgstr ""
 
 #    # game/screens.rpy:763
 msgid "Display"
-msgstr ""
+msgstr "Display"
 
 #    # game/screens.rpy:764
 msgid "Window"
-msgstr ""
+msgstr "Finestra"
 
 #    # game/screens.rpy:765
 msgid "Fullscreen"
-msgstr ""
+msgstr "Schermo Intero"
 
 #    # game/screens.rpy:769
 msgid "Rollback Side"
-msgstr ""
+msgstr "Lato Di Rollback"
 
 #    # game/screens.rpy:770
 msgid "Disable"
-msgstr ""
+msgstr "Disabilita"
 
 #    # game/screens.rpy:771
 msgid "Left"
-msgstr ""
+msgstr "Sinistro"
 
 #    # game/screens.rpy:772
 msgid "Right"
-msgstr ""
+msgstr "Destro"
 
 #    # game/screens.rpy:777
 msgid "Unseen Text"
-msgstr ""
+msgstr "Testo non visto"
 
 #    # game/screens.rpy:778
 msgid "After Choices"
-msgstr ""
+msgstr "Dopo Le Scelte"
 
 #    # game/screens.rpy:779
 msgid "Transitions"
-msgstr ""
+msgstr "Transizioni"
 
 #    # game/screens.rpy:783
 msgid "Navigation settings"
-msgstr ""
+msgstr "Impostazioni di navigazione"
 
 #    # game/screens.rpy:790
 msgid "Language"
-msgstr ""
+msgstr "Linguaggio"
 
 #    # game/screens.rpy:847
 msgid "Text Speed"
-msgstr ""
+msgstr "Velocità Testo"
 
 #    # game/screens.rpy:851
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Tempo Di Auto-Inoltro"
 
 #    # game/screens.rpy:858
 msgid "Music Volume"
-msgstr ""
+msgstr "Volume della musica"
 
 #    # game/screens.rpy:865
 msgid "Sound Volume"
-msgstr ""
+msgstr "Volume dei suoni"
 
 #    # game/screens.rpy:871
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #    # game/screens.rpy:875
 msgid "Voice Volume"
-msgstr ""
+msgstr "Volume Voce"
 
 #    # game/screens.rpy:886
 msgid "Mute All"
-msgstr ""
+msgstr "Silenzia tutto"
 
 #    # game/screens.rpy:1014
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "La storia del dialogo è vuota."
 
 #    # game/screens.rpy:1084
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastiera"
 
 #    # game/screens.rpy:1085
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 #    # game/screens.rpy:1088
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #    # game/screens.rpy:1101
 msgid "Enter"
-msgstr ""
+msgstr "Invio"
 
 #    # game/screens.rpy:1102
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Avanza il dialogo e attiva l'interfaccia."
 
 #    # game/screens.rpy:1105
 msgid "Space"
