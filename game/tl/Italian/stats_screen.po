@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 22:01\n"
+"PO-Revision-Date: 2022-01-06 22:00\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
@@ -111,25 +111,25 @@ msgstr "{color=#000000}Rabbia...............[auntanger]{/color}"
 
 #    # game/stats_screen.rpy:56
 msgid "{color=#85c1e9}Mandy's:{/color}"
-msgstr ""
+msgstr "{color=#85c1e9}di Mandy:{/color}"
 
 #    # game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Rispetto............[cousinrespect]{/color}"
 
 #    # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Affetto.........[cousinaffection]{/colore}"
 
 #    # game/stats_screen.rpy:59
 msgid "{color=#000000}Libido.............[cousinlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[cousinlibido]{/color}"
 
 #    # game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Sottomissione.....[cousinsubmission]{/color}"
 
 #    # game/stats_screen.rpy:61
 msgid "{color=#000000}Anger...............[cousinanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Rabbia...............[cousinanger]{/colore}"
 
