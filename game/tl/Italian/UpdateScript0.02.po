@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 18:48\n"
+"PO-Revision-Date: 2022-01-09 12:24\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.02.rpy:10## # translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
-msgstr ""
+msgstr "[L] Vedi, è così quasi ogni mattina."
 
 # game/UpdateScript0.02.rpy:15## # translate crowdin cosplaywakeme_0dd15f00:
 msgid "[MD] I've never seen one before. That's about average size right?"
