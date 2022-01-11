@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-05 22:01\n"
+"PO-Revision-Date: 2022-01-11 21:38\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -214,23 +214,23 @@ msgstr "[R] Ne t’inquiète pas papa, j’irai là-bas dès que je le pourrais.
 
 # game/script.rpy:757## # translate crowdin main_c3c55ed3:
 msgid "[D] Thank you for this son!"
-msgstr ""
+msgstr "[D] Merci pour ce fils!"
 
 # game/script.rpy:758## # translate crowdin main_1b795747:
 msgid "[R] Of course Dad! Are you going to be ok?"
-msgstr ""
+msgstr "[R] Bien sûr Papa! Ça va aller ?"
 
 # game/script.rpy:759## # translate crowdin main_29fe1190:
 msgid "[D] .... I might have to spend a good while in prison..."
-msgstr ""
+msgstr "[D] .... Je devrais passer un bon moment en prison..."
 
 # game/script.rpy:760## # translate crowdin main_00c45d2d:
 msgid "[D] I need you to take care of this for me..."
-msgstr ""
+msgstr "[D] J'ai besoin que tu t'occupes de ça pour moi..."
 
 # game/script.rpy:761## # translate crowdin main_2a4dfaa8:
 msgid "[D] You're the man of the house now..."
-msgstr ""
+msgstr "[D] Tu es l'homme de la maison maintenant..."
 
 # game/script.rpy:762## # translate crowdin main_ae51af36:
 msgid "[D] I know this is a lot to take in, but you've got to step up..."
