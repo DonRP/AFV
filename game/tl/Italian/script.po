@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-06 22:01\n"
+"PO-Revision-Date: 2022-01-13 21:47\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -1942,15 +1942,15 @@ msgstr ""
 
 # game/script.rpy:3489## # translate crowdin bathevening_c0f221e9:
 msgid "[RT] {i}Mom must be getting ready for bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mamma deve prepararsi per il letto.{/i}"
 
 # game/script.rpy:3518## # translate crowdin momhornybathroom_189d137d:
 msgid "[RT] {i}Mom is taking her after school shower. Wait.... did I just hear some moaning? Let's just take a quick look.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mamma la sta prendendo dopo la doccia scolastica. Aspetta.... ho appena sentito un po' di gemere? Prendiamo solo uno sguardo veloce.{/i}"
 
 # game/script.rpy:3524## # translate crowdin momhornybathroom_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido della mamma -5\"{/b}{/i}"
 
 # game/script.rpy:3533## # translate crowdin momhornybathroom_32595272:
 msgid "[RT] {i}That must be Mom in the shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
