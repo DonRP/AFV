@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 22:02\n"
+"PO-Revision-Date: 2022-01-15 21:59\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
-msgstr ""
+msgstr "{i}(Passi morbidi e porta che scricchiola.){/i}"
 
 # game/UpdateScript0.05.rpy:476## # translate crowdin sidneys_home_late_bacad9cc:
 msgid "[R] {i}(whispering){/i} Oh.... Hey Sidney."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:482## # translate crowdin sidneys_home_late_1490106d:
 msgid "{i}\"Money + $100\"{/i}"
-msgstr ""
+msgstr "{i}\"Soldi + 100$\"{/i}"
 
 # game/UpdateScript0.05.rpy:488## # translate crowdin sidneys_home_late_63defa7e:
 msgid "[R] Thank you so much! This will help out a lot!"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1133## # translate crowdin sidney_search_63899ea1:
 msgid "{i}\"A few minutes earlier.\"{/i}"
-msgstr ""
+msgstr "{i}\"Qualche minuto prima.\"{/i}"
 
 # game/UpdateScript0.05.rpy:1136## # translate crowdin sidney_search_376519e8:
 msgid "[ST] {i}I don't have much time. I've got to make this fast.{/i}"
@@ -1522,11 +1522,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1209## # translate crowdin sidney_search_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto della mamma -5\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1210## # translate crowdin sidney_search_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Rispetto della mamma -1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1214## # translate crowdin sidney_search_65b14a51:
 msgid "[R] Sorry, Mom! I wasn't able to get enough money together this week."
@@ -2366,7 +2366,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1542## # translate crowdin sidney_search_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido di mamma +3\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1561## # translate crowdin tv_together_e85188a6:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
@@ -2858,7 +2858,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1837## # translate crowdin tv_together_57fce0be:
 msgid "{i}{b}\"Mom's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido di mamma +10\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1839## # translate crowdin tv_together_a7a46777:
 msgid "[L] Did I get it?"
@@ -3358,7 +3358,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2059## # translate crowdin tv_together_c0076926:
 msgid "{i}\"Mom's respect +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Il rispetto della mamma +1\"{/i}."
 
 # game/UpdateScript0.05.rpy:2061## # translate crowdin tv_together_02355f63:
 msgid "[MT] {i}And for daring to use such a sexually charged suggestion.{/i}"
@@ -3366,7 +3366,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2062## # translate crowdin tv_together_bfe9b99f:
 msgid "{i}\"Mom's Libido +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Libido di mamma +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:2065## # translate crowdin tv_together_9aa1866f:
 msgid "[M] [ryan].... That wasn't funny, and it was a very inappropriate thing to say to your own mother."
@@ -3374,7 +3374,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2066## # translate crowdin tv_together_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"La rabbia di mamma +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2068## # translate crowdin tv_together_ba74cc91:
 msgid "[R] Ok.... sorry Mom, I'll just run grab a towel from the kitchen then."
@@ -3742,7 +3742,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2236## # translate crowdin tv_together_c816878d:
 msgid "{i}\"Mom's Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}\"La rabbia di mamma +3\"{/i}"
 
 # game/UpdateScript0.05.rpy:2238## # translate crowdin tv_together_ab71dd5b:
 msgid "[M] You were jacking off to that dragon show, weren't you?"
@@ -3822,11 +3822,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2262## # translate crowdin tv_together_c12ee42a:
 msgid "{i}\"Mom's Anger +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Rabbia della mamma +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:2263## # translate crowdin tv_together_3b3d118b:
 msgid "{i}\"Mom's Libido +2\"{/i}"
-msgstr ""
+msgstr "{i}\"Libido di mamma +2\"{/i}"
 
 # game/UpdateScript0.05.rpy:2268## # translate crowdin tv_together_eaa48105:
 msgid "[RT] {i}Oh.... Thank God Lauren ran off when she did!{/i}"
@@ -4034,7 +4034,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2366## # translate crowdin tv_together_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Il rispetto di Lauren +1\"{/b}{/i}."
 
 # game/UpdateScript0.05.rpy:2369## # translate crowdin tv_together_e08c7d89:
 msgid "[R] That shouldn't concern you! Sidney doesn't ever look up from her computer when she's working."
@@ -4058,7 +4058,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2374## # translate crowdin tv_together_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sottomissione di Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2376## # translate crowdin tv_together_444ae30c:
 msgid "[L] Ok.... I trust you."
@@ -4554,7 +4554,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2717## # translate crowdin reward_for_payment_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
-msgstr ""
+msgstr "{i}\"Soldi -$1.000\"{/i}"
 
 # game/UpdateScript0.05.rpy:2723## # translate crowdin reward_for_payment_1b50618c:
 msgid "[M] Oh, my little man!"
@@ -4582,11 +4582,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2731## # translate crowdin reward_for_payment_e8aca4c4:
 msgid "{i}{b}\"Mom's Affection +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto della mamma +10\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2732## # translate crowdin reward_for_payment_de090f2d:
 msgid "{i}{b}\"Mom's Anger =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Rabbia della mamma =0\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2735## # translate crowdin reward_for_payment_c9ba28b5:
 msgid "[M] I am so relieved I don't have to go shake my ass for them tonight!"
@@ -4714,7 +4714,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2784## # translate crowdin reward_for_payment_2e1c4340:
 msgid "{i}\"A few minutes later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Qualche minuto dopo.\"{/i}"
 
 # game/UpdateScript0.05.rpy:2787## # translate crowdin reward_for_payment_3316e2cf:
 msgid "[M] I'm going to lock the doors, just in case the girls come back for something."
@@ -5038,7 +5038,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2908## # translate crowdin reward_for_payment_85047c5d:
 msgid "{i}\"Mom's affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"L'affetto della mamma -1\"{/i}."
 
 # game/UpdateScript0.05.rpy:2910## # translate crowdin reward_for_payment_f3a1df96:
 msgid "[RT] {i}Hmmmm.... Let's see if I can make this a little more enjoyable.{/i}"
@@ -5126,7 +5126,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2947## # translate crowdin reward_for_payment_0d313082:
 msgid "{i}\"Mom's Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Affetto della mamma -1\"{/i}"
 
 # game/UpdateScript0.05.rpy:2949## # translate crowdin reward_for_payment_9a1b613b:
 msgid "[M] Shit!.... Your sisters are going to be home soon!"
@@ -5166,11 +5166,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2963## # translate crowdin reward_for_payment_1d55fc06:
 msgid "{i}\"Mom's Affection +5\"{/i}"
-msgstr ""
+msgstr "{i}\"Affetto della mamma +5\"{/i}"
 
 # game/UpdateScript0.05.rpy:2964## # translate crowdin reward_for_payment_5f707b55:
 msgid "{i}\"Mom's Libido +5\"{/i}"
-msgstr ""
+msgstr "{i}\"Libido di mamma +5\"{/i}"
 
 # game/UpdateScript0.05.rpy:2967## # translate crowdin reward_for_payment_2f6a6165:
 msgid "[R] Oh, fuck Mom! That did it!"
@@ -5866,7 +5866,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3288## # translate crowdin fix_sink_4ae6efcc:
 msgid "{i}I wonder if I could request a sexy one.{/i}"
-msgstr ""
+msgstr "{i}Mi chiedo se posso richiederne uno sexy."
 
 # game/UpdateScript0.05.rpy:3291## # translate crowdin fix_sink_912f5e73:
 msgid "[R] Don't be silly. I've got it this time."
@@ -5970,7 +5970,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3334## # translate crowdin fix_sink_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido di Lauren +5\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3338## # translate crowdin fix_sink_d0a98316:
 msgid "[M] UUuuurrrgggghhhhh.... I can't even believe you got me again!"
@@ -6122,7 +6122,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3392## # translate crowdin fix_sink_1df14e34:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next week.\"{/i}"
-msgstr ""
+msgstr "{i}\"Questo evento finisce in modo leggermente diverso con una libido più alta. Fai salire la libido di mamma (8+) e riprova la prossima settimana\"{/i}."
 
 # game/UpdateScript0.05.rpy:3404## # translate crowdin fix_sink_81328084:
 msgid "[RT] {i}Shorter shorts.... Nice open tank top.... No bra!.... {/i}"
@@ -6242,7 +6242,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3445## # translate crowdin fix_sink_d0df26bc:
 msgid "{i}\"One YourTube tutorial, and 10 minutes later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Un tutorial su YourTube e 10 minuti dopo\"{/i}."
 
 # game/UpdateScript0.05.rpy:3448## # translate crowdin fix_sink_62526c82:
 msgid "[M] So, do you think you can fix it?"
@@ -6438,7 +6438,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3526## # translate crowdin fix_sink_1cec7336:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next weekend.\"{/i}"
-msgstr ""
+msgstr "{i}\"Questo evento finisce in modo leggermente diverso con una libido più alta. Fai salire la libido di mamma (8+) e riprova il prossimo fine settimana\"{/i}."
 
 # game/UpdateScript0.05.rpy:3539## # translate crowdin please_go_work_fb18626f:
 msgid "[R] Hey Sidney!"
@@ -6694,7 +6694,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3753## # translate crowdin breakfast_events_7a3bc720:
 msgid "{i}\"Mom's Respect +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Il rispetto della mamma +1\"{/i}."
 
 # game/UpdateScript0.05.rpy:3755## # translate crowdin breakfast_events_21f05e4c:
 msgid "[R] Entre pre what now?"
@@ -6926,7 +6926,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3934## # translate crowdin breakfast_events_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Il rispetto della mamma -1\"{/i}."
 
 # game/UpdateScript0.05.rpy:3947## # translate crowdin breakfast_events_8d9a4b12_7:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7466,7 +7466,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4390## # translate crowdin breakfast_events_db936861:
 msgid "{i}\"You enjoy an uneventful breakfast with Mom and Lauren.\"{/i}"
-msgstr ""
+msgstr "{i}\"Ti godi una colazione tranquilla con mamma e Lauren\"{/i}."
 
 # game/UpdateScript0.05.rpy:4399## # translate crowdin breakfast_events_8d9a4b12_11:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7474,7 +7474,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4408## # translate crowdin breakfast_events_b7cfc540:
 msgid "{i}\"You enjoy an uneventful breakfast with your family.\"{/i}"
-msgstr ""
+msgstr "{i}\"Ti godi una colazione tranquilla con la tua famiglia\"{/i}."
 
 # game/UpdateScript0.05.rpy:4421## # translate crowdin fix_washer_2ee69f22:
 msgid "[RT] {i}Mom's at it again. Doing her best to keep our house functioning like a normal home should.{/i}"
@@ -8030,7 +8030,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4671## # translate crowdin fix_washer_c318e1af:
 msgid "{i}\"Raise her libido and try again next weekend.\"{/i}"
-msgstr ""
+msgstr "{i}\"Aumenta la sua libido e riprova il prossimo fine settimana\"{/i}."
 
 # game/UpdateScript0.05.rpy:4681## # translate crowdin fix_washer_cdef383e:
 msgid "[RT] {i}Wow! Where did she get those shorts!?.... Sexy pink crop top.... I like the direction this is going!.... {/i}"
@@ -8170,11 +8170,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4731## # translate crowdin fix_washer_839440d8:
 msgid "{i}\"A few YourTube videos later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Qualche video su YourTube più tardi.\"{/i}"
 
 # game/UpdateScript0.05.rpy:4736## # translate crowdin fix_washer_4d8f55a2:
 msgid "Ok Mom I think I'm ready. Why don't you show me what the problem is."
-msgstr ""
+msgstr "Ok mamma penso di essere pronto. Perché non mi mostri qual è il problema."
 
 # game/UpdateScript0.05.rpy:4739## # translate crowdin fix_washer_83c8a731:
 msgid "[M] You're sure you can do this?"
@@ -9646,7 +9646,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5454## # translate crowdin park_activities_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"L'affetto di Sidney -2\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5457## # translate crowdin park_activities_4b2ab474:
 msgid "[R] I'm over her. I've got another girl in mind."
@@ -9666,7 +9666,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5461## # translate crowdin park_activities_d5f9a310:
 msgid "{i}{b}\"Sidney's Affection +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto di Sidney +2\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5463## # translate crowdin park_activities_c00317dc:
 msgid "[S] Well, the park will be a lot less interesting with Mr. Peterson gone."
@@ -9910,7 +9910,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5566## # translate crowdin park_activities_132514ad:
 msgid "{i}(rustling sound in bushes){/i}"
-msgstr ""
+msgstr "{i}(fruscio nei cespugli){/i}"
 
 # game/UpdateScript0.05.rpy:5569## # translate crowdin park_activities_f43a4354:
 msgid "[S] Oh, shit! I'm pretty sure I heard something."
@@ -10054,7 +10054,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5663## # translate crowdin park_menu_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido di Sidney +2\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5664## # translate crowdin park_menu_7041d6bf:
 msgid "[R] Sorry, I'll try to remember next time."
@@ -10242,7 +10242,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5762## # translate crowdin park_menu_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto di Sidney +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5763## # translate crowdin park_menu_6be6e73d_1:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
@@ -10258,7 +10258,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5770## # translate crowdin park_menu_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sottomissione di Sidney +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:5771## # translate crowdin park_menu_6be6e73d_2:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
@@ -10290,7 +10290,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5800## # translate crowdin park_menu_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Rabbia di Sidney +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5802## # translate crowdin park_menu_f48dd4d5:
 msgid "[S] Now I have to smell and taste your cum most of the day! It takes a long time for it to drain completely out of my sinuses!"
@@ -10482,7 +10482,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5970## # translate crowdin first_club_cum_996c2ac9:
 msgid "{i}{b}\"Sidney's Respect +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Il rispetto di Sidney +3\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5974## # translate crowdin first_club_cum_a64736f3:
 msgid "[S] Oh no [ryan]! I was worried you were going to say that."
@@ -10514,7 +10514,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5983## # translate crowdin first_club_cum_a8c4f248:
 msgid "{i}{b}\"Sidney's Affection +8\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto di Sidney +8\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5986## # translate crowdin first_club_cum_87155201:
 msgid "[S] Shit [ryan]! I just got done talking about how we need to be more careful about doing sexual stuff."
@@ -10538,7 +10538,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5991## # translate crowdin first_club_cum_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Rabbia di Sidney +5\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5992## # translate crowdin first_club_cum_5e762f88:
 msgid "[S] Alright, Mom's going to be done stripping in a few minutes. We'd better get out of here before she sees either of us."
@@ -11002,7 +11002,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6231## # translate crowdin mafia_chat_238e9410:
 msgid "{i}\"This storyline will be continued in future updates.\"{/i}"
-msgstr ""
+msgstr "{i}\"Questa trama continuerà nei futuri aggiornamenti.\"{/i}"
 
 # game/UpdateScript0.05.rpy:6232## # translate crowdin mafia_chat_efcb44dc_1:
 msgid "[S] Was there something else you wanted?"
@@ -11134,7 +11134,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6331## # translate crowdin club_fun_852315bd:
 msgid "{i}\"Sidney's libido must be at least 7+ to have fun with Sidney.\"{/i}"
-msgstr ""
+msgstr "{i}\"La libido di Sidney deve essere almeno 7+ per divertirsi con Sidney.\"{/i}"
 
 # game/UpdateScript0.05.rpy:6332## # translate crowdin club_fun_b754a6cb:
 msgid "[R] Fine.... I'm already here anyways.... I might as well go watch the stripshow."
@@ -11541,27 +11541,27 @@ msgid "[S] So, was there anything else you wanted to talk to me about?"
 msgstr ""
 
 msgid "Crazy Old Man"
-msgstr ""
+msgstr "Vecchio pazzo"
 
 #    # game/UpdateScript0.05.rpy:8
 msgid "Crazy Old Man's Thoughts"
-msgstr ""
+msgstr "Pensieri del Vecchio Pazzo"
 
 #    # game/UpdateScript0.05.rpy:9
 msgid "Mr. Peterson"
-msgstr ""
+msgstr "Signor Peterson"
 
 #    # game/UpdateScript0.05.rpy:10
 msgid "Mr. Peterson's Thoughts"
-msgstr ""
+msgstr "Pensieri del signor Peterson"
 
 #    # game/UpdateScript0.05.rpy:11
 msgid "Policeman"
-msgstr ""
+msgstr "Poliziotto"
 
 #    # game/UpdateScript0.05.rpy:12
 msgid "Mrs. Stone"
-msgstr ""
+msgstr "Signora Stone"
 
 #    # game/UpdateScript0.05.rpy:13
 msgid "Armani"
@@ -11569,165 +11569,165 @@ msgstr ""
 
 #    # game/UpdateScript0.05.rpy:509
 msgid "I'm not going to miss this opportunity."
-msgstr ""
+msgstr "Non ho intenzione di perdere questa opportunità."
 
 #    # game/UpdateScript0.05.rpy:509
 msgid "Just go to sleep."
-msgstr ""
+msgstr "Vai a dormire."
 
 #    # game/UpdateScript0.05.rpy:574
 msgid "Help Mom."
-msgstr ""
+msgstr "Aiuta la mamma."
 
 #    # game/UpdateScript0.05.rpy:574
 msgid "Don't help Mom."
-msgstr ""
+msgstr "Non aiutare la mamma."
 
 #    # game/UpdateScript0.05.rpy:865
 msgid "Run to the park"
-msgstr ""
+msgstr "Corri al parco"
 
 #    # game/UpdateScript0.05.rpy:865
 msgid "I don't feel like running today."
-msgstr ""
+msgstr "Non ho voglia di correre oggi."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "You should go to the indoor track."
-msgstr ""
+msgstr "Dovresti andare alla pista interna."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "I'll go to the park myself and see if it's safe."
-msgstr ""
+msgstr "Andrò io stesso al parco per vedere se è sicuro."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "Let's go jogging in the park together. I'll keep you safe. (Light NTR Warning)"
-msgstr ""
+msgstr "Andiamo a correre nel parco insieme. Ti terrò al sicuro. (Leggero avvertimento NTR)"
 
 #    # game/UpdateScript0.05.rpy:1671
 msgid "Can I get a handjob?"
-msgstr ""
+msgstr "Posso avere una sega?"
 
 #    # game/UpdateScript0.05.rpy:1671
 msgid "Do you want me to finger you again?"
-msgstr ""
+msgstr "Vuoi che ti faccia un altro ditalino?"
 
 #    # game/UpdateScript0.05.rpy:1671
 msgid "How about another blowjob?"
-msgstr ""
+msgstr "Che ne dici di un altro pompino?"
 
 #    # game/UpdateScript0.05.rpy:2610
 msgid "Deep"
-msgstr ""
+msgstr "Profondo"
 
 #    # game/UpdateScript0.05.rpy:2900
 msgid "Hold the line!"
-msgstr ""
+msgstr "Tieni la linea!"
 
 #    # game/UpdateScript0.05.rpy:2938
 msgid "Hold strong.... Hold strong.... Hold strong...."
-msgstr ""
+msgstr "Tieni duro.... Tieni duro.... Tieni duro...."
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Mom"
-msgstr ""
+msgstr "Prendi in giro la mamma"
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Lauren"
-msgstr ""
+msgstr "Stuzzicare Lauren"
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Sidney"
-msgstr ""
+msgstr "Stuzzicare Sidney"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Public Fingering"
-msgstr ""
+msgstr "Ditalino pubblico"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Ditalino pubblico{/s} {i}(Sidney's Libido 8+){/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Public Handjob"
-msgstr ""
+msgstr "Masturbazione pubblica"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Eat Pussy"
-msgstr ""
+msgstr "Mangiare la figa"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Eat Pussy{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Mangia la figa{/s} {i}(Sidney's Libido 8+){/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Blowjob"
-msgstr ""
+msgstr "Pompino"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Sex {i}(Bonus){/i}"
-msgstr ""
+msgstr "Sesso {i}(Bonus){/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Sesso{/s} {i}(Sidney's Libido 8+){/i}"
 
 #    # game/UpdateScript0.05.rpy:5758
 msgid "That feels so good!"
-msgstr ""
+msgstr "Che bella sensazione!"
 
 #    # game/UpdateScript0.05.rpy:5758
 msgid "Yeah, suck it whore!"
-msgstr ""
+msgstr "Sì, succhialo, puttana!"
 
 #    # game/UpdateScript0.05.rpy:5777
 msgid "Cum down her throat."
-msgstr ""
+msgstr "Sborrale in gola."
 
 #    # game/UpdateScript0.05.rpy:5777
 msgid "Cum all over her face."
-msgstr ""
+msgstr "Sborrale su tutta la faccia."
 
 #    # game/UpdateScript0.05.rpy:5856
 msgid "Finish"
-msgstr ""
+msgstr "Finisci"
 
 #    # game/UpdateScript0.05.rpy:6096
 msgid "Yes!.... Peek!"
-msgstr ""
+msgstr "Sì! .... Sbircia!"
 
 #    # game/UpdateScript0.05.rpy:6096
 msgid "No!.... Don't risk it."
-msgstr ""
+msgstr "No!.... Non rischiare."
 
 #    # game/UpdateScript0.05.rpy:6136
 msgid "Working for the Mafia"
-msgstr ""
+msgstr "Lavorare per la Mafia"
 
 #    # game/UpdateScript0.05.rpy:6136
 msgid "Are you making good money?"
-msgstr ""
+msgstr "Stai guadagnando bene?"
 
 #    # game/UpdateScript0.05.rpy:6136
 msgid "Can we?.... You know...."
-msgstr ""
+msgstr "Possiamo? .... Lo sai...."
 
 #    # game/UpdateScript0.05.rpy:6200
 msgid "Joey (NTR Warning)"
-msgstr ""
+msgstr "Joey (Avviso NTR)"
 
 #    # game/UpdateScript0.05.rpy:6215
 msgid "That's all for tonight."
-msgstr ""
+msgstr "Questo è tutto per stasera."
 
 #    # game/UpdateScript0.05.rpy:6256
 msgid "Working for the Mafia."
-msgstr ""
+msgstr "Lavorare per la Mafia."
 
 #    # game/UpdateScript0.05.rpy:6256
 msgid "Can we?.... you know...."
-msgstr ""
+msgstr "Possiamo? .... sai...."
 
 #    # game/UpdateScript0.05.rpy:6294
 msgid "Sex"
-msgstr ""
+msgstr "Sesso"
 
