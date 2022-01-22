@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-21 11:26\n"
+"PO-Revision-Date: 2022-01-22 11:23\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Game_screens.rpy:59
 msgid " My\n"
@@ -24,7 +24,7 @@ msgstr "Baignoire"
 
 #    # game/Game_screens.rpy:110
 msgid "City"
-msgstr "[RT] {i}Elle vit toujours ici dans la ville,{p}mais elle voulait être seule pendant qu'elle fréquentait l'université.{/i}"
+msgstr "Ville "
 
 #    # game/Game_screens.rpy:125
 msgid "Hallway"
