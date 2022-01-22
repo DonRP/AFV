@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-21 11:26\n"
+"PO-Revision-Date: 2022-01-22 11:23\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -278,7 +278,7 @@ msgstr "[L] Eh bien, tu étais le dernier à regarder la télévision, donc tu d
 
 # game/script.rpy:790## # translate crowdin myroom_0173ae5f:
 msgid "[L] The least you can do is help me find it. Bend down here and help me look."
-msgstr "[L] Le moins que tu puisses faire est de m’aider à la trouver. Bouges de là et aides-moi à la trouver."
+msgstr "[L] Le moins que tu puisses faire est de m’aider à la trouver. Bouge de là et aide-moi à regarder."
 
 # game/script.rpy:793## # translate crowdin myroom_5ab2d65a:
 msgid "[RT] {i}Look for the remote?{/i}"
@@ -650,7 +650,7 @@ msgstr "{i}{b}«Affection de maman +10»{/b}{/i}"
 
 # game/script.rpy:2005## # translate crowdin sleep_45dacdc9:
 msgid "{i}{b}\"Mom's Anger = 0\"{/b}{/i}"
-msgstr "{i}{b}'Colère de maman = 0'{/b}{/i}"
+msgstr "{i}{b}«Colère de maman = 0»{/b}{/i}"
 
 # game/script.rpy:2007## # translate crowdin sleep_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -2150,7 +2150,7 @@ msgstr "[R] Eh bien, ne pas avoir de coma hétilique serait un bon début!"
 
 # game/script.rpy:3803## # translate crowdin kitcheneveningweekend_d7e0ea0a:
 msgid "[M] Like I said, it's not any of your business, but since you feel you need to intrude into my business, I'm only drinking a little so my hangover won't be so bad."
-msgstr ""
+msgstr "[M] Comme je l'ai dit, ce n'est pas ton affaire, mais puisque tu sens que tu as besoin de t'immiscer dans mes affaires, je ne bois qu'un peu pour que ma gueule de bois ne soit pas si mauvaise."
 
 # game/script.rpy:3804## # translate crowdin kitcheneveningweekend_477ea929_1:
 msgid "[R] Is putting more of what caused your hangover into your body really the best way to treat a hangover?"
@@ -2158,23 +2158,23 @@ msgstr "[R] Est-ce que mettre plus de ce qui a causé ta gueule de bois dans ton
 
 # game/script.rpy:3805## # translate crowdin kitcheneveningweekend_614a2de6:
 msgid "[M] It's not a great method, but it seems to have some effect."
-msgstr ""
+msgstr "[M] Ce n'est pas une bonne méthode, mais cela semble avoir un certain effet."
 
 # game/script.rpy:3806## # translate crowdin kitcheneveningweekend_a8f7c1a7:
 msgid "[M] It's called the hair of the dog remedy, or something like that."
-msgstr "[M] Haha.... oui, ça s'appelle un remède de cheval."
+msgstr "[M] C'est ce qu'on appelle le remède de cheval, ou quelque chose comme ça."
 
 # game/script.rpy:3807## # translate crowdin kitcheneveningweekend_2bbbbd28:
 msgid "[R] Hmmm.... well do you promise me you won't drink anymore today?"
-msgstr ""
+msgstr "[R] Hmmm.... tu me promets de ne plus boire aujourd'hui ?"
 
 # game/script.rpy:3808## # translate crowdin kitcheneveningweekend_dc7637dc:
 msgid "[M] I don't have to promise you anything!"
-msgstr ""
+msgstr "[M] Je n'ai pas à te promettre quoi que ce soit !"
 
 # game/script.rpy:3809## # translate crowdin kitcheneveningweekend_11b22abf:
 msgid "[R] Mom! I'm just really worried about you! I know you're under a lot of stress."
-msgstr ""
+msgstr "[R] Maman! Je suis vraiment inquiet pour toi! Je sais que tu es stressée."
 
 # game/script.rpy:3810## # translate crowdin kitcheneveningweekend_2edef69a:
 msgid "[R] That's why I'm going to help make everything be ok."
@@ -2194,83 +2194,83 @@ msgstr ""
 
 # game/script.rpy:3817## # translate crowdin kitcheneveningweekend_ccd3cd5d_1:
 msgid "[M] You really are such a good boy."
-msgstr "[M] Tu es vraiment un si bon garçon."
+msgstr ""
 
 # game/script.rpy:3818## # translate crowdin kitcheneveningweekend_473a6fdc:
 msgid "[M] You're already working at your dad's warehouse to help pay the weekly Mafia bill."
-msgstr "[M] Tu travailles déjà à l'entrepôt de papa pour aider à payer la facture hebdomadaire de la Mafia."
+msgstr ""
 
 # game/script.rpy:3819## # translate crowdin kitcheneveningweekend_c7a6212a_1:
 msgid "[M] And I don't want you missing any more school than you have to. You have to graduate this year!"
-msgstr "[M] Et je ne veux pas que tu manques plus d'école que tu n'en as besoin. Tu dois obtenir ton diplôme cette année!"
+msgstr ""
 
 # game/script.rpy:3820## # translate crowdin kitcheneveningweekend_d6fb2d4f_1:
 msgid "[R] You really can't think of anything else I could do to be helpful?"
-msgstr "[R] Tu ne peux vraiment pas penser à autre chose que je pourrais faire pour être utile?"
+msgstr ""
 
 # game/script.rpy:3821## # translate crowdin kitcheneveningweekend_e73793ee_1:
 msgid "[M] Well.... If you really want to, you could make sure the dishes get done in the evening."
-msgstr "[M] Bien.... Si tu le souhaites vraiment, tu peux t'assurer que les plats sont préparés le soir."
+msgstr ""
 
 # game/script.rpy:3822## # translate crowdin kitcheneveningweekend_f996f697_1:
 msgid "[M] If I didn't have to worry about cleaning the dinner mess, I could have more time for grading papers and getting my lessons ready."
-msgstr "[M] Si je n'avais pas à me soucier de nettoyer le désordre du dîner, je pourrais avoir plus de temps pour classer les papiers et préparer mes leçons."
+msgstr ""
 
 # game/script.rpy:3823## # translate crowdin kitcheneveningweekend_1d039d69_1:
 msgid "[R] Sure, I can do that."
-msgstr "[R] Bien sûr, je peux le faire."
+msgstr ""
 
 # game/script.rpy:3824## # translate crowdin kitcheneveningweekend_591993a9_1:
 msgid "[M] That would be so great!"
-msgstr "[M] Ce serait tellement génial!"
+msgstr ""
 
 # game/script.rpy:3825## # translate crowdin kitcheneveningweekend_a709ac89_1:
 msgid "[M] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
-msgstr "[M] Mais ne stresses pas trop si tu n'as pas le temps, je m'en occuperais si tu es trop occupé."
+msgstr ""
 
 # game/script.rpy:3826## # translate crowdin kitcheneveningweekend_ccd70784_1:
 msgid "[R] Ok, Mom."
-msgstr "[R] D'accord, Maman."
+msgstr ""
 
 # game/script.rpy:3829## # translate crowdin kitcheneveningweekend_fd6fd931_1:
 msgid "[M] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
-msgstr "[M] Peux-tu trouver quelque chose à manger ce soir? Je n'ai tout simplement pas l'énergie en moi pour préparer le dîner."
+msgstr ""
 
 # game/script.rpy:3830## # translate crowdin kitcheneveningweekend_4e5a4cd5_1:
 msgid "[R] Sure, Mom."
-msgstr "[R] Bien sûr, Maman."
+msgstr ""
 
 # game/script.rpy:3831## # translate crowdin kitcheneveningweekend_c4043b20_1:
 msgid "[M] Thanks, honey. I'm going to go to bed early tonight."
-msgstr "[M] Merci, chéri. Je vais me coucher tôt ce soir."
+msgstr ""
 
 # game/script.rpy:3832## # translate crowdin kitcheneveningweekend_bb8e8edd_1:
 msgid "[M] Good night sweety. See you in the morning."
-msgstr "[M] Bonne nuit chéri. À demain matin."
+msgstr ""
 
 # game/script.rpy:3833## # translate crowdin kitcheneveningweekend_95b548c7_1:
 msgid "[RT] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr "[RT] {i}Oh Mec! Je ne pense pas avoir jamais vu maman aussi stressée. Elle essaie de mettre un visage fort, mais je peux voir l'inquiétude dans ses yeux.{/i}"
+msgstr ""
 
 # game/script.rpy:3834## # translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[RT] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
-msgstr "[RT] {i}Si je peux remplacer toutes les choses que papa a faites pour elle, je pense qu'elle serait à nouveau détendue et heureuse.{/i}"
+msgstr ""
 
 # game/script.rpy:3835## # translate crowdin kitcheneveningweekend_b197fc26:
 msgid "[RT] {i}All I have to do is get the cash flowing into our household. Which will be no easy thing.{/i}"
-msgstr "[RT] {i}Tout ce que j'ai à faire, c'est de faire rentrer l'argent dans le ménage. Ce qui ne sera pas chose facile.{/i}"
+msgstr ""
 
 # game/script.rpy:3836## # translate crowdin kitcheneveningweekend_5993cc82_1:
 msgid "[RT] {i}But that seems to be the only contribution he was making.{/i}"
-msgstr "[RT] {i}Mais cela semble être la seule contribution que j'apportais.{/i}"
+msgstr ""
 
 # game/script.rpy:3837## # translate crowdin kitcheneveningweekend_6e7e6b0d_1:
 msgid "[RT] {i}He and Mom hardly even talk to each other anymore.{/i}"
-msgstr "[RT] {i}Lui et maman ne se parlent même plus.{/i}"
+msgstr ""
 
 # game/script.rpy:3838## # translate crowdin kitcheneveningweekend_290c28ab_1:
 msgid "[RT] {i}So maybe I can be everything to her that he wasn't.{/i}"
-msgstr "[RT] {i}Alors peut-être que je peux être tout pour elle ce qu'il n'était pas. {/i}"
+msgstr ""
 
 # game/script.rpy:3876## # translate crowdin dishes_db8ab9cc:
 msgid "[RT] {i}No dishes to do right now.{/i}"
@@ -2278,75 +2278,75 @@ msgstr "[RT] {i}Pas de vaisselle à faire en ce moment.{/i}"
 
 # game/script.rpy:3881## # translate crowdin dishes_931b4267:
 msgid "[RT] {i}It's too late to do dishes right now.{/i}"
-msgstr "[RT] {i}Pas de vaisselle à faire en ce moment.{/i}"
+msgstr ""
 
 # game/script.rpy:3885## # translate crowdin dishes_2f8227a2:
 msgid "[L] [ryan] can you come in to the lounge and help me!"
-msgstr "[L] [ryan] peux-tu venir au salon et m'aider!"
+msgstr ""
 
 # game/script.rpy:3889## # translate crowdin dishes_3959ba15:
 msgid "[RT] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr "[RT] {i}Qu'est-ce que je viens de faire? C'est comme si maman et Lauren essayaient délibérément de taquiner des bites ces derniers temps.{/i}"
+msgstr ""
 
 # game/script.rpy:3890## # translate crowdin dishes_3219b135:
 msgid "[RT] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr "[RT] {i}Est-ce que ça toujours été comme ça, et que maintenant je commence à le remarquer? Je suis sûr que j'imagine beaucoup plus de choses que je ne le devrais.{/i}"
+msgstr ""
 
 # game/script.rpy:3896## # translate crowdin dishes_af1bc791:
 msgid "[L] I'm looking for the TV remote."
-msgstr "[L] je cherche la télécommande TV."
+msgstr ""
 
 # game/script.rpy:3897## # translate crowdin dishes_e7d0e6d5:
 msgid "[L] Do you know where it is?"
-msgstr "[L] Sais-tu où elle se trouve?"
+msgstr ""
 
 # game/script.rpy:3898## # translate crowdin dishes_a569424d:
 msgid "[R] I'm sorry I haven't seen it."
-msgstr "[R] Je suis désolé, je ne l'ai pas vu."
+msgstr ""
 
 # game/script.rpy:3900## # translate crowdin dishes_be92b71f:
 msgid "[L] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr "[L] Eh bien, tu étais le dernier à regarder la télévision, donc tu dois être celui qui l’a perdue."
+msgstr ""
 
 # game/script.rpy:3901## # translate crowdin dishes_0173ae5f:
 msgid "[L] The least you can do is help me find it. Bend down here and help me look."
-msgstr "[L] Le moins que tu puisses faire est de m’aider à la trouver. Bouge de là et aide-moi à regarder."
+msgstr ""
 
 # game/script.rpy:3904## # translate crowdin dishes_5ab2d65a:
 msgid "[RT] {i}Look for the remote?{/i}"
-msgstr "[RT] {i}Chercher la télécommande? {/i}"
+msgstr ""
 
 # game/script.rpy:3905## # translate crowdin dishes_c6572b27:
 msgid "[RT] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr "[RT] {i}Comment suis-je censé me concentrer sur autre chose que cette vue juste devant moi? {/i}"
+msgstr ""
 
 # game/script.rpy:3906## # translate crowdin dishes_032d3494:
 msgid "[RT] {i}Hmmm.... I wonder.... {/i}"
-msgstr "[RT] {i}Hmmm.... Je me demande.... {/i}"
+msgstr ""
 
 # game/script.rpy:3909## # translate crowdin dishes_28607e4c:
 msgid "[RT] {i}Oh my God, I can!{/i}"
-msgstr "[RT] {i}Oh mon dieu, je peux! {/i}"
+msgstr ""
 
 # game/script.rpy:3910## # translate crowdin dishes_2141e536:
 msgid "[RT] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr "[RT] {i}je peux sentir sa chatte de si près. {/i}"
+msgstr ""
 
 # game/script.rpy:3911## # translate crowdin dishes_5f9b570a:
 msgid "[RT] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr "[RT] {i}je n’ai jamais senti une chatte auparavant, j’aime un plutôt ça. {/i}"
+msgstr ""
 
 # game/script.rpy:3912## # translate crowdin dishes_f6c129df:
 msgid "[RT] {i}I've got to get closer.{/i}"
-msgstr "[RT] {i}je dois me rapprocher. {/i}"
+msgstr ""
 
 # game/script.rpy:3915## # translate crowdin dishes_6b4f781d:
 msgid "[RT] {i}Wow! That smells incredible!{/i}"
-msgstr "[RT] {i}Waouh ! Ça sent incroyable ! {/i}"
+msgstr ""
 
 # game/script.rpy:3916## # translate crowdin dishes_ce5f0a99:
 msgid "[RT] {i}I wish I could taste it.{/i}"
-msgstr "[RT] {i}j’aimerais pouvoir y goûter. {/i}"
+msgstr ""
 
 # game/script.rpy:3917## # translate crowdin dishes_647b8d0a:
 msgid "[RT] {i}It just turns me on so much!{/i}"
@@ -3022,7 +3022,7 @@ msgstr ""
 
 # game/script.rpy:4311## # translate crowdin sidneyinthekitchencontinued_a1f999f1:
 msgid "[S] What else is in it for you?"
-msgstr "[S] Que puis-je faire pour toi?"
+msgstr ""
 
 # game/script.rpy:4312## # translate crowdin sidneyinthekitchencontinued_66a7c282:
 msgid "[R] Honestly?.... I guess I just want to show our family that I can take care of them..."
@@ -3042,7 +3042,7 @@ msgstr ""
 
 # game/script.rpy:4316## # translate crowdin sidneyinthekitchencontinued_d62cf0ee:
 msgid "[R] What the?..."
-msgstr "[R] Qu’est-ce que c’est?..."
+msgstr ""
 
 # game/script.rpy:4319## # translate crowdin sidneyinthekitchencontinued_d43c4c9a:
 msgid "[S] HAAHAAHAA.... hahahah!!!"
@@ -3050,7 +3050,7 @@ msgstr "[S] HAAHAAHAA.... hahahah!!!"
 
 # game/script.rpy:4320## # translate crowdin sidneyinthekitchencontinued_4881927b:
 msgid "[R] What?"
-msgstr "[R] QUOI?!"
+msgstr "[R] Quoi?"
 
 # game/script.rpy:4321## # translate crowdin sidneyinthekitchencontinued_9f0f8b41:
 msgid "[S] Hahaha.... you.... think you.... can replace Dad?.... Hahaha."
@@ -3150,7 +3150,7 @@ msgstr ""
 
 # game/script.rpy:4362## # translate crowdin sidneyinthekitchencontinued_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr "{i}{b}«Colère de Lauren +10»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:4367## # translate crowdin sidneyinthekitchencontinued_9dc4e7d3:
 msgid "[R] I'm sorry, I was just looking down because your laughing embarassed me."
@@ -3586,7 +3586,7 @@ msgstr ""
 
 # game/script.rpy:4587## # translate crowdin mommorningweekend_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}« Libido de maman +1\"{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:4591## # translate crowdin mommorningweekend_74f1049d:
 msgid "[M] Ok [ryan], why don't you run along."
@@ -3674,7 +3674,7 @@ msgstr ""
 
 # game/script.rpy:4751## # translate crowdin momsneakingnight_0cecc919:
 msgid "10 minutes later."
-msgstr "10 min plus tard."
+msgstr ""
 
 # game/script.rpy:4752## # translate crowdin momsneakingnight_d45198c3_1:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
@@ -3702,7 +3702,7 @@ msgstr ""
 
 # game/script.rpy:4790## # translate crowdin momsneakingnight_0cecc919_1:
 msgid "10 minutes later."
-msgstr "10 min plus tard."
+msgstr ""
 
 # game/script.rpy:4791## # translate crowdin momsneakingnight_d45198c3_3:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
@@ -4002,7 +4002,7 @@ msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/script.rpy:5307## # translate crowdin laurenhornybedroom_56c769da_2:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
-msgstr "[RT] {i}Hmmm.... Je me demande pourquoi la porte est verrouillée?{/i}"
+msgstr ""
 
 # game/script.rpy:5308## # translate crowdin laurenhornybedroom_11192726:
 msgid "[RT] {i}Wait.... is that Lauren moaning? I've got to figure out a way to see in there!{/i}"
@@ -4010,11 +4010,11 @@ msgstr ""
 
 # game/script.rpy:5310## # translate crowdin laurenhornybedroom_de144e4d_2:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5318## # translate crowdin laurenhornybedroom_56c769da_3:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
-msgstr "[RT] {i}Hmmm.... Je me demande pourquoi la porte est verrouillée?{/i}"
+msgstr ""
 
 # game/script.rpy:5319## # translate crowdin laurenhornybedroom_8a120d1d:
 msgid "[RT] {i}Wait.... is that Lauren moaning?.... Sidney is in there too!! What could they be doing? I've got to figure out a way to see in there!{/i}"
@@ -4022,7 +4022,7 @@ msgstr ""
 
 # game/script.rpy:5321## # translate crowdin laurenhornybedroom_de144e4d_3:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5329## # translate crowdin laurenhornybedroom_3f915308:
 msgid "[RT] {i}The door's locked, she must be getting dressed. {p}Wait, is that moaning I hear?{p}I'm pretty sure that's moaning.{/i}"
@@ -4030,7 +4030,7 @@ msgstr ""
 
 # game/script.rpy:5330## # translate crowdin laurenhornybedroom_de144e4d_4:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5332## # translate crowdin laurenhornybedroom_3306ead2:
 msgid "[RT] {i}I've got to figure out a way to spy on her.{/i}"
@@ -4046,15 +4046,15 @@ msgstr "[RT] {i}Attends.... c'est Sindey qui gémit ?{/i}"
 
 # game/script.rpy:5344## # translate crowdin sidneyhornybedroom_36ea6fd8:
 msgid "[RT] {i}I should check it out.{/i}"
-msgstr "[RT] {i}Je devrais le vérifier.{/i}"
+msgstr ""
 
 # game/script.rpy:5349## # translate crowdin sidneyhornybedroom_ed954916:
 msgid "[RT] {i}Sounds like things are winding down. I'm probably too late to see anything good.{/i}"
-msgstr "[RT] {i}Il semble que les choses se terminent. Je suis probablement trop tard pour voir quelque chose de bien.{/i}"
+msgstr ""
 
 # game/script.rpy:5351## # translate crowdin sidneyhornybedroom_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5359## # translate crowdin sidneyhornybedroom_9e37090d:
 msgid "[RT] {i}The door's locked, Sidney must be getting dressed. {p}Wait, is that moaning I hear? {p}I'm pretty sure that's moaning.{/i}"
@@ -4062,7 +4062,7 @@ msgstr ""
 
 # game/script.rpy:5360## # translate crowdin sidneyhornybedroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5362## # translate crowdin sidneyhornybedroom_3306ead2:
 msgid "[RT] {i}I've got to figure out a way to spy on her.{/i}"
@@ -4074,7 +4074,7 @@ msgstr ""
 
 # game/script.rpy:5370## # translate crowdin peeklaurenroom_1f9b78ce:
 msgid "[RT] {i}I should just turn her lights back off and let her get a few more minutes of sleep.{/i}"
-msgstr "[RT] {i}Je devrais juste éteindre les lumières et la laisser dormir quelques minutes de plus.{/i}"
+msgstr ""
 
 # game/script.rpy:5380## # translate crowdin laurenangryroom_8c91e43b:
 msgid "[RT] {i}She locked her door! Lauren must still be pissed off.{/i}"
@@ -4134,7 +4134,7 @@ msgstr ""
 
 # game/script.rpy:5453## # translate crowdin laurenangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
-msgstr "{i}'Les jetter dans sa poubelle'{/i}"
+msgstr ""
 
 # game/script.rpy:5454## # translate crowdin laurenangryroom_9fa5814f:
 msgid "[L] Thanks, I hate it!"
@@ -4154,7 +4154,7 @@ msgstr "{i}{b}«Colère de lauren +2»{/b}{/i}"
 
 # game/script.rpy:5458## # translate crowdin laurenangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr "{i}'Vous avez besoin d'une plus grande affection pour offrir des fleurs.'{/i}"
+msgstr ""
 
 # game/script.rpy:5466## # translate crowdin laurenangryroom_bb49b59c:
 msgid "[L] Oh my gosh! I love them!"
@@ -4166,7 +4166,7 @@ msgstr "[L] Tu es tellement charmeur!"
 
 # game/script.rpy:5468## # translate crowdin laurenangryroom_c456cef1:
 msgid "[L] If I didn't know any better, I would think you were trying to put the moves on me!"
-msgstr "[M] Si je ne te connaissais pas mieux, je penserais que tu essaies de me provoquer!"
+msgstr ""
 
 # game/script.rpy:5471## # translate crowdin laurenangryroom_c5b1d46a:
 msgid "{i}{b}\"Lauren's Anger -10\"{/b}{/i}"
@@ -4174,7 +4174,7 @@ msgstr "{i}{b}«Colère de Lauren -10»{/b}{/i}"
 
 # game/script.rpy:5472## # translate crowdin laurenangryroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:5474## # translate crowdin laurenangryroom_6e20e2d8:
 msgid "[L] Thank you so much!"
@@ -4182,7 +4182,7 @@ msgstr "[L] Merci beaucoup!"
 
 # game/script.rpy:5475## # translate crowdin laurenangryroom_e3882901:
 msgid "[RT] {i}Oh, wow.{/i}"
-msgstr "[RT] {i}Oh, wow.{/i}"
+msgstr ""
 
 # game/script.rpy:5481## # translate crowdin laurenangryroom_420fb78b:
 msgid "[L] OMG! You made me get up for that."
@@ -4206,7 +4206,7 @@ msgstr "[L] Eh bien, il va falloir plus que des mots pour que je te pardonne ce 
 
 # game/script.rpy:5498## # translate crowdin laurenangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr "[RT] {i}Je suppose que je ferais mieux de lui donner du temps, ou peut-être que je peux lui offrir un cadeau pour qu'elle ne soit pas si en colère.{/i}"
+msgstr ""
 
 # game/script.rpy:5511## # translate crowdin sidneyangryroom_21c2ffba:
 msgid "[RT] {i}She locked her door! Sidney must still be pissed off. I guess I better just let her sleep.{/i}"
@@ -4222,7 +4222,7 @@ msgstr ""
 
 # game/script.rpy:5528## # translate crowdin sidneyangryroom_0e7867d6:
 msgid "[S] What do you want pervert?"
-msgstr "[S] Que veux-tu pervers?"
+msgstr ""
 
 # game/script.rpy:5534## # translate crowdin sidneyangryroom_65e3444f:
 msgid "[S] You have something for me?"
@@ -4266,7 +4266,7 @@ msgstr ""
 
 # game/script.rpy:5581## # translate crowdin sidneyangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
-msgstr "{i}'Les jetter dans sa poubelle'{/i}"
+msgstr ""
 
 # game/script.rpy:5582## # translate crowdin sidneyangryroom_30332119:
 msgid "[S] Maybe next time try to think of something that doesn't imply you want in my pants!"
@@ -4282,7 +4282,7 @@ msgstr "{i}{b}«Colère de Sidney +2»{/b}{/i}"
 
 # game/script.rpy:5585## # translate crowdin sidneyangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr "{i}'Vous avez besoin d'une plus grande affection pour offrir des fleurs.'{/i}"
+msgstr ""
 
 # game/script.rpy:5593## # translate crowdin sidneyangryroom_c5a8f8e5:
 msgid "[S] Oh my gosh! They're beautiful!"
@@ -4294,7 +4294,7 @@ msgstr "[S] Tu es tellement charmeur!"
 
 # game/script.rpy:5595## # translate crowdin sidneyangryroom_c8b74f2e:
 msgid "[S] If I didn't know any better, I would think you were trying to put the moves on me!"
-msgstr "[M] Si je ne te connaissais pas mieux, je penserais que tu essaies de me provoquer!"
+msgstr ""
 
 # game/script.rpy:5598## # translate crowdin sidneyangryroom_f71426ab:
 msgid "{i}{b}\"Sidney's Anger -10\"{/b}{/i}"
@@ -4306,11 +4306,11 @@ msgstr "{i}{b}«Affection du Sidney +1»{/b}{/i}"
 
 # game/script.rpy:5601## # translate crowdin sidneyangryroom_38b97587:
 msgid "[S] Thank you so much!"
-msgstr "[M] Merci beaucoup!"
+msgstr ""
 
 # game/script.rpy:5602## # translate crowdin sidneyangryroom_e3882901:
 msgid "[RT] {i}Oh, wow.{/i}"
-msgstr "[RT] {i}Oh, wow.{/i}"
+msgstr ""
 
 # game/script.rpy:5608## # translate crowdin sidneyangryroom_b538d921:
 msgid "[S] You jerk! You made me get up for that."
@@ -4330,11 +4330,11 @@ msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/script.rpy:5624## # translate crowdin sidneyangryroom_94deac36:
 msgid "[S] Well, it's going to take more than just words for me to forgive you for what you did!"
-msgstr "[M] Eh bien, il va falloir plus que des mots pour que je te pardonne ce que tu as fait!"
+msgstr ""
 
 # game/script.rpy:5625## # translate crowdin sidneyangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr "[RT] {i}Je suppose que je ferais mieux de lui donner du temps, ou peut-être que je peux lui offrir un cadeau pour qu'elle ne soit pas si en colère.{/i}"
+msgstr ""
 
 # game/script.rpy:5647## # translate crowdin laurendresser_6e1f3452:
 msgid "[RT] {i}Why would I go through her stuff?{/i}"
@@ -4546,7 +4546,7 @@ msgstr ""
 
 # game/script.rpy:5881## # translate crowdin laurensneakingnight_0cecc919:
 msgid "10 minutes later."
-msgstr "10 min plus tard."
+msgstr ""
 
 # game/script.rpy:5882## # translate crowdin laurensneakingnight_279026a1_1:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
@@ -4574,7 +4574,7 @@ msgstr ""
 
 # game/script.rpy:5915## # translate crowdin laurensneakingnight_0cecc919_1:
 msgid "10 minutes later."
-msgstr "10 min plus tard."
+msgstr ""
 
 # game/script.rpy:5916## # translate crowdin laurensneakingnight_279026a1_3:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
@@ -4826,7 +4826,7 @@ msgstr ""
 
 # game/script.rpy:6070## # translate crowdin sidneychanging_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6075## # translate crowdin sidneychanging_5bd59466:
 msgid "[RT] {i}Holy shit, that was close, but I don't think she saw me.{/i}"
@@ -4878,7 +4878,7 @@ msgstr "[S] Tu ferais mieux de ne pas mentir!"
 
 # game/script.rpy:6107## # translate crowdin caughtbysidney_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
-msgstr "{i}{b}«Colère de Sidney +5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6109## # translate crowdin caughtbysidney_78115a4b:
 msgid "[S] You know you could have just knocked."
@@ -4902,7 +4902,7 @@ msgstr ""
 
 # game/script.rpy:6119## # translate crowdin caughtbysidney_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr "{i}{b}«Colère de Lauren +10»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6121## # translate crowdin caughtbysidney_078fd5f6:
 msgid "[S] If you need to talk to me, just knock on the door,"
@@ -4994,11 +4994,11 @@ msgstr ""
 
 # game/script.rpy:6181## # translate crowdin sidneylaurensneakingnight_03188596:
 msgid "[RT] {i}I better not push it any further tonight.{/i}"
-msgstr "[RT] {i}Je ferais mieux de ne pas pousser plus loin ce soir.{/i}"
+msgstr ""
 
 # game/script.rpy:6187## # translate crowdin sidneylaurensneakingnight_03188596_1:
 msgid "[RT] {i}I better not push it any further tonight.{/i}"
-msgstr "[RT] {i}Je ferais mieux de ne pas pousser plus loin ce soir.{/i}"
+msgstr ""
 
 # game/script.rpy:6193## # translate crowdin sidneylaurensneakingnight_d376848f:
 msgid "[RT] {i}They should be sleeping pretty soundly. They both have a habit of drinking tea before bed.{/i}"
@@ -5126,7 +5126,7 @@ msgstr "[ST] {i}Pourquoi je ferais ça ?.... {/i}"
 
 # game/script.rpy:6259## # translate crowdin sidneylaurensneakingnight_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6261## # translate crowdin sidneylaurensneakingnight_88fdacc0:
 msgid "[M] Well?"
@@ -5162,7 +5162,7 @@ msgstr ""
 
 # game/script.rpy:6271## # translate crowdin sidneylaurensneakingnight_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}« Libido de maman +1\"{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6273## # translate crowdin sidneylaurensneakingnight_64e35c18:
 msgid "[L] Well?!"
@@ -5366,7 +5366,7 @@ msgstr ""
 
 # game/script.rpy:6375## # translate crowdin sidneylaurensneakingnight_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:6377## # translate crowdin sidneylaurensneakingnight_353d424e:
 msgid "[ST] {i}Shit! I can't admit to this!{/i}"
@@ -6054,7 +6054,7 @@ msgstr ""
 
 # game/script.rpy:6913## # translate crowdin classlecture_0287fbcc:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr "{i}{b}«Respect de maman +1\"{/b}{/i}"
+msgstr "{i}{b}«Resperct de maman +1»{/b}{/i}"
 
 # game/script.rpy:6928## # translate crowdin classlecture_74868d9f_1:
 msgid "[RT] {i}So boring, how am I going to stay focused?{/i}"
@@ -6174,7 +6174,7 @@ msgstr "[R] Aaahhhh!!!..."
 
 # game/script.rpy:7131## # translate crowdin megan_cum_ntr_9f2e863d:
 msgid "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
 
 # game/script.rpy:7139## # translate crowdin megan_cum_ntr_9f2e863d_1:
 msgid "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
@@ -6194,7 +6194,7 @@ msgstr ""
 
 # game/script.rpy:7151## # translate crowdin megan_cum_ntr_41f3cfec:
 msgid "[MG] {i}\"Glurp.... glurp.... \"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Glurp.... glurp.... \"{/i}"
 
 # game/script.rpy:7162## # translate crowdin megan_cum_ntr_1207d4fe_1:
 msgid "[R] Aaahhhh!!!..."
@@ -6882,7 +6882,7 @@ msgstr ""
 
 # game/script.rpy:7970## # translate crowdin dinnerfirst_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr "{i}{b}«Affection de maman +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:7971## # translate crowdin dinnerfirst_44a3be13:
 msgid "[M] Oh, honey, it was just terrible.... men from the FBI were here all day, going through our things, digging through our garbage, making copies of all our computer drives."
@@ -6906,7 +6906,7 @@ msgstr "{i}10 minutes plus tard... {/i}"
 
 # game/script.rpy:7985## # translate crowdin dinnerfirst_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr "{i}{b}«Affection du Lauren +1»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:7986## # translate crowdin dinnerfirst_23a6c031:
 msgid "[L] OMG [ryan], you missed everything! A bunch of hunky FBI guys were here digging through all our junk, combing through our trash. They even copied everything on my phone and our computers! I better not find any of my selfies on the internet!"
@@ -6978,7 +6978,7 @@ msgstr ""
 
 # game/script.rpy:8025## # translate crowdin dinnerfirst_24dceb8c:
 msgid "{i}\"Money = $0\"{/i}"
-msgstr "{i}'Argent = $0'{/i}"
+msgstr "{i}'Argent = 0$'{/i}"
 
 # game/script.rpy:8027## # translate crowdin dinnerfirst_0fc8e420:
 msgid "[M] Lauren, you and [ryan] go into the kitchen and do the dishes while I go talk to the gentlemen at the door."
@@ -7450,7 +7450,7 @@ msgstr ""
 
 # game/script.rpy:8223## # translate crowdin dinnerfirst_93d5a6a1:
 msgid "[RT] {i}NNNNyyyyhhhhhaaaaa.... !!{/i}"
-msgstr "[RT] {i}NNNNNyyyyhhhhhaaaaa.... !!{/i}"
+msgstr "[RT] {i}NNNNyyyyhhhhhaaaaa .... ! ! {/i}"
 
 # game/script.rpy:8229## # translate crowdin dinnerfirst_a20cefa7:
 msgid "..."
@@ -7478,11 +7478,11 @@ msgstr ""
 
 # game/script.rpy:8239## # translate crowdin dinnerfirst_2907c73e:
 msgid "{i}{b}\"Mom's Libido -3\"{/b}{/i}"
-msgstr "{i}{b}«Libido de maman +3»{/b}{/i}"
+msgstr "{i}{b}«Libido de maman -3»{/b}{/i}"
 
 # game/script.rpy:8240## # translate crowdin dinnerfirst_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
-msgstr "{i}{b}«Affection de maman -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8241## # translate crowdin dinnerfirst_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
@@ -7618,7 +7618,7 @@ msgstr ""
 
 # game/script.rpy:8323## # translate crowdin collectingpayment_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
-msgstr "{i}'Argent -1'000$'{/i}"
+msgstr ""
 
 # game/script.rpy:8329## # translate crowdin collectingpayment_fb27af2b:
 msgid "[M] Oh, my little guy!"
@@ -7646,11 +7646,11 @@ msgstr "[M] Oh, merci! Merci! Merci!!"
 
 # game/script.rpy:8337## # translate crowdin collectingpayment_e8aca4c4:
 msgid "{i}{b}\"Mom's Affection +10\"{/b}{/i}"
-msgstr "{i}{b}«Affection de maman +10»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8338## # translate crowdin collectingpayment_de090f2d:
 msgid "{i}{b}\"Mom's Anger =0\"{/b}{/i}"
-msgstr "{i}{b}'Colère de maman = 0'{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8340## # translate crowdin collectingpayment_c9ba28b5:
 msgid "[M] I am so relieved I don't have to go shake my ass for them tonight!"
@@ -7734,7 +7734,7 @@ msgstr ""
 
 # game/script.rpy:8370## # translate crowdin collectingpayment_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}« Libido de maman +1\"{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8385## # translate crowdin momdissapointed_65b14a51:
 msgid "[R] Sorry, Mom! I wasn't able to get enough money together this week."
@@ -7750,7 +7750,7 @@ msgstr ""
 
 # game/script.rpy:8388## # translate crowdin momdissapointed_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
-msgstr "{i}{b}«Affection de maman -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8394## # translate crowdin momdissapointed_bb64a15e:
 msgid "[RT] {i}There she goes off to the club.{/i}"
@@ -7882,7 +7882,7 @@ msgstr "{i}{b}«Libido de maman -3»{/b}{/i}"
 
 # game/script.rpy:8476## # translate crowdin nightclubbing_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
-msgstr "{i}{b}«Affection de maman -5»{/b}{/i}"
+msgstr ""
 
 # game/script.rpy:8477## # translate crowdin nightclubbing_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
