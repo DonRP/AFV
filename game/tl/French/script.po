@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-22 11:23\n"
+"PO-Revision-Date: 2022-01-23 11:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2178,7 +2178,7 @@ msgstr "[R] Maman! Je suis vraiment inquiet pour toi! Je sais que tu es stressé
 
 # game/script.rpy:3810## # translate crowdin kitcheneveningweekend_2edef69a:
 msgid "[R] That's why I'm going to help make everything be ok."
-msgstr ""
+msgstr "[R] C'est pourquoi je vais aider à ce que tout soit ok."
 
 # game/script.rpy:3812## # translate crowdin kitcheneveningweekend_fbc81cf8:
 msgid "{i}{b}\"Mom's Submission +2\"{/b}{/i}"
@@ -2186,91 +2186,91 @@ msgstr "{i}{b}«Soumission de maman +2»{/b}{/i}"
 
 # game/script.rpy:3815## # translate crowdin kitcheneveningweekend_1a4b1221:
 msgid "[M] Oh, honey! You don't need to take that kind of responsibility on yourself."
-msgstr ""
+msgstr "[M] Oh, chéri! Tu n'as pas besoin de prendre ce genre de responsabilité sur toi-même."
 
 # game/script.rpy:3816## # translate crowdin kitcheneveningweekend_43185564:
 msgid "[R] I really want to help make all of these changes easier on you!"
-msgstr ""
+msgstr "[R] Je veux vraiment aider à te faciliter tous ces changements!"
 
 # game/script.rpy:3817## # translate crowdin kitcheneveningweekend_ccd3cd5d_1:
 msgid "[M] You really are such a good boy."
-msgstr ""
+msgstr "[M] Tu es vraiment un si bon garçon."
 
 # game/script.rpy:3818## # translate crowdin kitcheneveningweekend_473a6fdc:
 msgid "[M] You're already working at your dad's warehouse to help pay the weekly Mafia bill."
-msgstr ""
+msgstr "[M] Tu travailles déjà dans l'entrepôt de ton père pour aider à payer la facture hebdomadaire pour la Mafia."
 
 # game/script.rpy:3819## # translate crowdin kitcheneveningweekend_c7a6212a_1:
 msgid "[M] And I don't want you missing any more school than you have to. You have to graduate this year!"
-msgstr ""
+msgstr "[M] Et je ne veux pas que tu manques plus d'école que tu n'en as besoin. Tu dois obtenir ton diplôme cette année!"
 
 # game/script.rpy:3820## # translate crowdin kitcheneveningweekend_d6fb2d4f_1:
 msgid "[R] You really can't think of anything else I could do to be helpful?"
-msgstr ""
+msgstr "[R] Tu ne peux vraiment pas penser à autre chose que je pourrais faire pour être utile?"
 
 # game/script.rpy:3821## # translate crowdin kitcheneveningweekend_e73793ee_1:
 msgid "[M] Well.... If you really want to, you could make sure the dishes get done in the evening."
-msgstr ""
+msgstr "[M] Bien.... Si tu le souhaites vraiment, tu peux t'assurer que les plats sont préparés le soir."
 
 # game/script.rpy:3822## # translate crowdin kitcheneveningweekend_f996f697_1:
 msgid "[M] If I didn't have to worry about cleaning the dinner mess, I could have more time for grading papers and getting my lessons ready."
-msgstr ""
+msgstr "[M] Si je n'avais pas à me soucier de nettoyer le désordre du dîner, je pourrais avoir plus de temps pour classer les papiers et préparer mes leçons."
 
 # game/script.rpy:3823## # translate crowdin kitcheneveningweekend_1d039d69_1:
 msgid "[R] Sure, I can do that."
-msgstr ""
+msgstr "[R] Bien sûr, je peux le faire."
 
 # game/script.rpy:3824## # translate crowdin kitcheneveningweekend_591993a9_1:
 msgid "[M] That would be so great!"
-msgstr ""
+msgstr "[M] Ce serait tellement génial!"
 
 # game/script.rpy:3825## # translate crowdin kitcheneveningweekend_a709ac89_1:
 msgid "[M] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
-msgstr ""
+msgstr "[M] Mais ne stresses pas trop si tu n'as pas le temps, je m'en occuperais si tu es trop occupé."
 
 # game/script.rpy:3826## # translate crowdin kitcheneveningweekend_ccd70784_1:
 msgid "[R] Ok, Mom."
-msgstr ""
+msgstr "[R] D'accord, Maman."
 
 # game/script.rpy:3829## # translate crowdin kitcheneveningweekend_fd6fd931_1:
 msgid "[M] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
-msgstr ""
+msgstr "[M] Peux-tu trouver quelque chose à manger ce soir? Je n'ai tout simplement pas l'énergie en moi pour préparer le dîner."
 
 # game/script.rpy:3830## # translate crowdin kitcheneveningweekend_4e5a4cd5_1:
 msgid "[R] Sure, Mom."
-msgstr ""
+msgstr "[R] Bien sûr, Maman."
 
 # game/script.rpy:3831## # translate crowdin kitcheneveningweekend_c4043b20_1:
 msgid "[M] Thanks, honey. I'm going to go to bed early tonight."
-msgstr ""
+msgstr "[M] Merci, chéri. Je vais me coucher tôt ce soir."
 
 # game/script.rpy:3832## # translate crowdin kitcheneveningweekend_bb8e8edd_1:
 msgid "[M] Good night sweety. See you in the morning."
-msgstr ""
+msgstr "[M] Bonne nuit chéri. À demain matin."
 
 # game/script.rpy:3833## # translate crowdin kitcheneveningweekend_95b548c7_1:
 msgid "[RT] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh Mec! Je ne pense pas avoir jamais vu maman aussi stressée. Elle essaie de mettre un visage fort, mais je peux voir l'inquiétude dans ses yeux.{/i}"
 
 # game/script.rpy:3834## # translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[RT] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Si je peux remplacer toutes les choses que mon père a faites pour elle, je pense qu'elle serait à nouveau détendue et heureuse.{/i}"
 
 # game/script.rpy:3835## # translate crowdin kitcheneveningweekend_b197fc26:
 msgid "[RT] {i}All I have to do is get the cash flowing into our household. Which will be no easy thing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tout ce que j'ai à faire, c'est de faire rentrer l'argent dans notre ménage. Ce qui ne sera pas chose facile.{/i}"
 
 # game/script.rpy:3836## # translate crowdin kitcheneveningweekend_5993cc82_1:
 msgid "[RT] {i}But that seems to be the only contribution he was making.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mais cela semble être la seule contribution que j'apportais.{/i}"
 
 # game/script.rpy:3837## # translate crowdin kitcheneveningweekend_6e7e6b0d_1:
 msgid "[RT] {i}He and Mom hardly even talk to each other anymore.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lui et maman ne se parlent même plus.{/i}"
 
 # game/script.rpy:3838## # translate crowdin kitcheneveningweekend_290c28ab_1:
 msgid "[RT] {i}So maybe I can be everything to her that he wasn't.{/i}"
-msgstr ""
+msgstr "[RT] {i}Alors peut-être que je peux être tout pour elle ce qu'il n'était pas. {/i}"
 
 # game/script.rpy:3876## # translate crowdin dishes_db8ab9cc:
 msgid "[RT] {i}No dishes to do right now.{/i}"
@@ -2278,75 +2278,75 @@ msgstr "[RT] {i}Pas de vaisselle à faire en ce moment.{/i}"
 
 # game/script.rpy:3881## # translate crowdin dishes_931b4267:
 msgid "[RT] {i}It's too late to do dishes right now.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il est trop tard pour faire la vaisselle en ce moment.{/i}"
 
 # game/script.rpy:3885## # translate crowdin dishes_2f8227a2:
 msgid "[L] [ryan] can you come in to the lounge and help me!"
-msgstr ""
+msgstr "[L] [ryan] peux-tu venir au salon et m'aider!"
 
 # game/script.rpy:3889## # translate crowdin dishes_3959ba15:
 msgid "[RT] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je viens de faire? C'est comme si maman et Lauren essayaient délibérément de taquiner des bites ces derniers temps.{/i}"
 
 # game/script.rpy:3890## # translate crowdin dishes_3219b135:
 msgid "[RT] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Est-ce que ça toujours été comme ça, et que maintenant je commence à le remarquer? Je suis sûr que j'imagine beaucoup plus de choses que je ne le devrais.{/i}"
 
 # game/script.rpy:3896## # translate crowdin dishes_af1bc791:
 msgid "[L] I'm looking for the TV remote."
-msgstr ""
+msgstr "[L] je cherche la télécommande TV."
 
 # game/script.rpy:3897## # translate crowdin dishes_e7d0e6d5:
 msgid "[L] Do you know where it is?"
-msgstr ""
+msgstr "[L] Sais-tu où elle se trouve?"
 
 # game/script.rpy:3898## # translate crowdin dishes_a569424d:
 msgid "[R] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[R] Je suis désolé, je ne l'ai pas vu."
 
 # game/script.rpy:3900## # translate crowdin dishes_be92b71f:
 msgid "[L] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[L] Eh bien, tu étais le dernier à regarder la télévision, donc tu dois être celui qui l’a perdue."
 
 # game/script.rpy:3901## # translate crowdin dishes_0173ae5f:
 msgid "[L] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[L] Le moins que tu puisses faire est de m’aider à la trouver. Bouge de là et aide-moi à regarder."
 
 # game/script.rpy:3904## # translate crowdin dishes_5ab2d65a:
 msgid "[RT] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[RT] {i}Chercher la télécommande? {/i}"
 
 # game/script.rpy:3905## # translate crowdin dishes_c6572b27:
 msgid "[RT] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Comment suis-je censé me concentrer sur autre chose que cette vue juste devant moi? {/i}"
 
 # game/script.rpy:3906## # translate crowdin dishes_032d3494:
 msgid "[RT] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... Je me demande.... {/i}"
 
 # game/script.rpy:3909## # translate crowdin dishes_28607e4c:
 msgid "[RT] {i}Oh my God, I can!{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh mon dieu, je peux! {/i}"
 
 # game/script.rpy:3910## # translate crowdin dishes_2141e536:
 msgid "[RT] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[RT] {i}je peux sentir sa chatte de si près. {/i}"
 
 # game/script.rpy:3911## # translate crowdin dishes_5f9b570a:
 msgid "[RT] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[RT] {i}je n’ai jamais senti une chatte auparavant, j’aime un plutôt ça. {/i}"
 
 # game/script.rpy:3912## # translate crowdin dishes_f6c129df:
 msgid "[RT] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[RT] {i}je dois me rapprocher. {/i}"
 
 # game/script.rpy:3915## # translate crowdin dishes_6b4f781d:
 msgid "[RT] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[RT] {i}Waouh ! Ça sent incroyable ! {/i}"
 
 # game/script.rpy:3916## # translate crowdin dishes_ce5f0a99:
 msgid "[RT] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[RT] {i}j’aimerais pouvoir y goûter. {/i}"
 
 # game/script.rpy:3917## # translate crowdin dishes_647b8d0a:
 msgid "[RT] {i}It just turns me on so much!{/i}"
@@ -2958,11 +2958,11 @@ msgstr "[S] Maintenant que j'ai été coupé de la carte de crédit de papa.... 
 
 # game/script.rpy:4291## # translate crowdin sidneyinthekitchencontinued_b4a21087:
 msgid "[S] Lauren's just going to have to go without a costume."
-msgstr ""
+msgstr "[S] Lauren va juste devoir partir sans costume."
 
 # game/script.rpy:4292## # translate crowdin sidneyinthekitchencontinued_d113c2e0:
 msgid "[R] Well, how much does it cost? Maybe I could pay for it."
-msgstr ""
+msgstr "[R] Eh bien, combien ça coûte? Je pourrais peut-être payer pour ça."
 
 # game/script.rpy:4293## # translate crowdin sidneyinthekitchencontinued_f47f67fc:
 msgid "[S] Well, I was going to charge Dad $500 for it."
@@ -3566,7 +3566,7 @@ msgstr ""
 
 # game/script.rpy:4578## # translate crowdin mommorningweekend_06cfa132:
 msgid "[R] Well, I think you would have made an amazing model."
-msgstr ""
+msgstr "[R] Eh bien, je pense que tu aurais fait un modèle incroyable."
 
 # game/script.rpy:4581## # translate crowdin mommorningweekend_d55809bf:
 msgid "[M] You are just the sweetest boy in the world."
