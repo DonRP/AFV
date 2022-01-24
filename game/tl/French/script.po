@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-23 11:19\n"
+"PO-Revision-Date: 2022-01-24 12:58\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2966,27 +2966,27 @@ msgstr "[R] Eh bien, combien ça coûte? Je pourrais peut-être payer pour ça."
 
 # game/script.rpy:4293## # translate crowdin sidneyinthekitchencontinued_f47f67fc:
 msgid "[S] Well, I was going to charge Dad $500 for it."
-msgstr ""
+msgstr "[S] Eh bien, j'allais facturer à Papa 500 $ pour cela."
 
 # game/script.rpy:4294## # translate crowdin sidneyinthekitchencontinued_a11eea7a:
 msgid "[R] .... Hack.... cough.... wheeze.... did you just say $500 for a costume?"
-msgstr ""
+msgstr "[R] .... Herm.... (toux).... Fuiiiii.... tu viens de dire 500 $ pour un costume ?"
 
 # game/script.rpy:4297## # translate crowdin sidneyinthekitchencontinued_57fb53e8:
 msgid "[S] Haha.... yeah, but that included my labor costs. If it was just materials it will only cost $250."
-msgstr ""
+msgstr "[S] Haha.... oui, mais ça comprenait mes frais de main-d'œuvre. S'il ne s'agissait que de matériaux, cela ne coûterait que 250 $."
 
 # game/script.rpy:4298## # translate crowdin sidneyinthekitchencontinued_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/script.rpy:4299## # translate crowdin sidneyinthekitchencontinued_23ea66b8:
 msgid "[S] Haha.... I know! Why do you think I wanted to get into fashion design. There is some serious money to be made if you do it right."
-msgstr ""
+msgstr "[S] Haha.... Je sais ! Pourquoi penses-tu que je voulais me lancer dans le design de mode. Il y a beacoup d'argent à gagner si vous le faites correctement."
 
 # game/script.rpy:4302## # translate crowdin sidneyinthekitchencontinued_8c72bcce:
 msgid "[R] So, to make the outfit, you're going to need $250?"
-msgstr ""
+msgstr "[R] Donc, pour faire la tenue, vous allez avoir besoin de 250 $?"
 
 # game/script.rpy:4303## # translate crowdin sidneyinthekitchencontinued_ae166f9c:
 msgid "[S] At least $400."
@@ -2994,27 +2994,27 @@ msgstr "[S] Au moins 400 $."
 
 # game/script.rpy:4304## # translate crowdin sidneyinthekitchencontinued_96dfaf41:
 msgid "[R] But you said..."
-msgstr ""
+msgstr "[R] Mais tu as dit..."
 
 # game/script.rpy:4305## # translate crowdin sidneyinthekitchencontinued_bb2da495:
 msgid "[S] I love Lauren, but I'm not going to go to all that work just for charity."
-msgstr ""
+msgstr "[S] J'aime Lauren, mais je ne vais pas faire tout ce travail juste par charité."
 
 # game/script.rpy:4306## # translate crowdin sidneyinthekitchencontinued_c6d1b289:
 msgid "[S] Making a costume is a really big job."
-msgstr ""
+msgstr "[S] Faire un costume est un travail très important."
 
 # game/script.rpy:4307## # translate crowdin sidneyinthekitchencontinued_03b3a66c:
 msgid "[R] Ok, so if I can get you $400, you will go ahead and make Lauren her costume?"
-msgstr ""
+msgstr "[R] Ok, donc si je peux t'obtenir 400 $, tu vas aller de l'avant et faire son costume à Lauren?"
 
 # game/script.rpy:4308## # translate crowdin sidneyinthekitchencontinued_42373f17:
 msgid "[S] Yeah I guess, but why are you so interested in helping Lauren?"
-msgstr ""
+msgstr "[S] Oui, je suppose, mais pourquoi es-tu si intéressé à aider Lauren?"
 
 # game/script.rpy:4309## # translate crowdin sidneyinthekitchencontinued_e789dff1:
 msgid "[R] Well.... to make her happy."
-msgstr ""
+msgstr "[R] Bien.... pour la rendre heureuse."
 
 # game/script.rpy:4310## # translate crowdin sidneyinthekitchencontinued_647dc8ef:
 msgid "[S] Yeah.... I don't buy it. That can't be your only motivation."
