@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-22 11:23\n"
+"PO-Revision-Date: 2022-01-25 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.07.rpy:1024## # translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -694,7 +694,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1340## # translate crowdin ntr_lounge_sex_7062ba0b:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Soumission de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1346## # translate crowdin ntr_lounge_sex_bd7b2186:
 msgid "[L] Alright Matt... I'm ready to get fucked!"
@@ -790,7 +790,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1383## # translate crowdin ntr_lounge_sex_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1385## # translate crowdin ntr_lounge_sex_71645e30:
 msgid "[LT] {i}But, he doesn't deserve me.{/i}"
@@ -978,7 +978,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1471## # translate crowdin ntr_lounge_sex_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1473## # translate crowdin ntr_lounge_sex_f4d57e44:
 msgid "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
@@ -1210,7 +1210,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1568## # translate crowdin ntr_lounge_sex_7c691781:
 msgid "{b}{i}\"Sidney's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1572## # translate crowdin ntr_lounge_sex_e2369e03:
 msgid "[S] Society would never accept what we're doing."
@@ -1246,7 +1246,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1585## # translate crowdin ntr_lounge_sex_7450ba28:
 msgid "{b}{i}\"Sidney's Affection -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1589## # translate crowdin ntr_lounge_sex_be7b9ec7:
 msgid "[ST] {i}I really should start trying to make an effort to meet other guys... Too bad Matt's already taken... I wonder how his big brother's doing?{/i}"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1680## # translate crowdin ntr_lounge_sex_7062ba0b_1:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Soumission de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1686## # translate crowdin ntr_lounge_sex_535b19b9:
 msgid "[L] Alright, Matt... I'm ready to get fucked!"
@@ -1594,7 +1594,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1739## # translate crowdin ntr_lounge_sex_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1745## # translate crowdin ntr_lounge_sex_b8e3c35a_1:
 msgid "[MB] Oh yeah, Lauren, I'm about to explode!"
@@ -1810,7 +1810,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1831## # translate crowdin ntr_lounge_sex_1e246541:
 msgid "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de maman +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1833## # translate crowdin ntr_lounge_sex_f4d57e44_1:
 msgid "[MT] {i}Fuck!... I need to get myself off... but I can't even take care of myself with my sister sleeping in the room with me.{/i}"
@@ -1986,7 +1986,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1915## # translate crowdin lounge_sex_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +2»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:1934## # translate crowdin lounge_sex_e85188a6_1:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2090## # translate crowdin lounge_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2094## # translate crowdin lounge_sex_0b8cdb83:
 msgid "[L] Holy shit!... My pussy is so full, but I can actually feel that there's pressure built up in my womb!"
@@ -2546,7 +2546,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2268## # translate crowdin lounge_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2272## # translate crowdin lounge_sex_0b8cdb83_1:
 msgid "[L] Holy shit!... My pussy is so full, but I can actually feel that there's pressure built up in my womb!"
@@ -2738,7 +2738,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2403## # translate crowdin lauren_bath_alone_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2409## # translate crowdin lauren_bath_alone_c671eda2_1:
 msgid "[RT] {i}But that doesn't mean I can't at least take a peek at her in the shower.{/i}"
@@ -3202,7 +3202,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2712## # translate crowdin lauren_bath_fuck_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2719## # translate crowdin lauren_bath_fuck_d1b94c5f:
 msgid "[L] Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -3234,7 +3234,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2729## # translate crowdin lauren_bath_fuck_53665c57:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2744## # translate crowdin lauren_bath_fuck_fa70a26c:
 msgid "[R] Fffuuuck!"
@@ -3246,7 +3246,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:2753## # translate crowdin lauren_bath_fuck_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2760## # translate crowdin lauren_bath_fuck_cdbadf80:
 msgid "[L] God... I can't believe we fucked on the bathroom floor again!"
@@ -3678,7 +3678,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3012## # translate crowdin lauren_bath_fuck_058ef1c2_2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3019## # translate crowdin lauren_bath_fuck_d1b94c5f_1:
 msgid "[L] Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -3710,7 +3710,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3029## # translate crowdin lauren_bath_fuck_53665c57_1:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3044## # translate crowdin lauren_bath_fuck_fa70a26c_1:
 msgid "[R] Fffuuuck!"
@@ -3722,7 +3722,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3053## # translate crowdin lauren_bath_fuck_058ef1c2_3:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3060## # translate crowdin lauren_bath_fuck_cdbadf80_1:
 msgid "[L] God... I can't believe we fucked on the bathroom floor again!"
@@ -4322,7 +4322,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3391## # translate crowdin lauren_bath_fuck_058ef1c2_4:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3398## # translate crowdin lauren_bath_fuck_d1b94c5f_2:
 msgid "[L] Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -4354,7 +4354,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3408## # translate crowdin lauren_bath_fuck_53665c57_2:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3423## # translate crowdin lauren_bath_fuck_fa70a26c_2:
 msgid "[R] Fffuuuck!"
@@ -4366,7 +4366,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3432## # translate crowdin lauren_bath_fuck_058ef1c2_5:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3439## # translate crowdin lauren_bath_fuck_91004442:
 msgid "[L] God... I can't believe we fucked on the bathroom floor!"
@@ -4850,7 +4850,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3718## # translate crowdin lauren_bath_fuck_058ef1c2_6:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3725## # translate crowdin lauren_bath_fuck_d1b94c5f_3:
 msgid "[L] Goddamn!... That's gonna be leaking out of there for days! I still don't understand how you can cum so much!"
@@ -4882,7 +4882,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3735## # translate crowdin lauren_bath_fuck_53665c57_3:
 msgid "{b}{i}\"Lauren's Affection -1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3750## # translate crowdin lauren_bath_fuck_fa70a26c_3:
 msgid "[R] Fffuuuck!"
@@ -4894,7 +4894,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3759## # translate crowdin lauren_bath_fuck_058ef1c2_7:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3766## # translate crowdin lauren_bath_fuck_91004442_1:
 msgid "[L] God... I can't believe we fucked on the bathroom floor!"
@@ -5186,7 +5186,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3941## # translate crowdin breakfast_for_will_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3943## # translate crowdin breakfast_for_will_aab5479a:
 msgid "[R] Thanks, Mom!"
@@ -5242,7 +5242,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:3996## # translate crowdin breakfast_for_will_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:4007## # translate crowdin breakfast_for_will_c7c8695b:
 msgid "[RT] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -5302,7 +5302,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:4027## # translate crowdin breakfast_for_will_6e0dab43:
 msgid "{b}{i}\"Sidney's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:4038## # translate crowdin mandy_school_breakfast_8d9a4b12:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -11174,7 +11174,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:7086## # translate crowdin exclusive_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7093## # translate crowdin exclusive_sex_6e36278c:
 msgid "[L] Goddammit, [ryan]!"
@@ -11390,7 +11390,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:7188## # translate crowdin exclusive_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7190## # translate crowdin exclusive_sex_dcc7b8c8:
 msgid "[L] Do I look sexy covered in your cum?"
@@ -12602,7 +12602,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:7776## # translate crowdin shared_sex_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7783## # translate crowdin shared_sex_6e36278c:
 msgid "[L] Goddammit, [ryan]!"
@@ -12778,7 +12778,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:7866## # translate crowdin shared_sex_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7868## # translate crowdin shared_sex_3ba57db3:
 msgid "[R] God! You look SO sexy!"
@@ -12898,7 +12898,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8006## # translate crowdin lauren_cum_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8013## # translate crowdin lauren_cum_6e36278c:
 msgid "[L] Goddammit, [ryan]!"
@@ -13054,7 +13054,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8085## # translate crowdin lauren_cum_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8087## # translate crowdin lauren_cum_dcc7b8c8:
 msgid "[L] Do I look sexy covered in your cum?"
@@ -13154,7 +13154,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8137## # translate crowdin lauren_cum_058ef1c2_2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8144## # translate crowdin lauren_cum_6e36278c_1:
 msgid "[L] Goddammit, [ryan]!"
@@ -13282,7 +13282,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8209## # translate crowdin lauren_cum_058ef1c2_3:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8211## # translate crowdin lauren_cum_dcc7b8c8_1:
 msgid "[L] Do I look sexy covered in your cum?"
@@ -13558,11 +13558,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8414## # translate crowdin hall_ambush_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8416## # translate crowdin hall_ambush_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8423## # translate crowdin hall_ambush_5e70b181:
 msgid "[L] What the fuck, [ryan]?"
@@ -13570,7 +13570,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8424## # translate crowdin hall_ambush_d81f1d8a:
 msgid "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +10»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8426## # translate crowdin hall_ambush_e941368e:
 msgid "[L] This is something I've wanted since I started high school, and you can't have my back on this?"
@@ -13618,7 +13618,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8439## # translate crowdin hall_ambush_f4af3eda:
 msgid "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8441## # translate crowdin hall_ambush_11e51dc2:
 msgid "[R] Like I had any other choice."
@@ -13630,7 +13630,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8446## # translate crowdin hall_ambush_d81f1d8a_1:
 msgid "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +10»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8448## # translate crowdin hall_ambush_e941368e_1:
 msgid "[L] This is something I've wanted since I started high school, and you can't have my back on this?"
@@ -13714,7 +13714,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8474## # translate crowdin hall_ambush_f4af3eda_1:
 msgid "{b}{i}\"Lauren's Anger -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8476## # translate crowdin hall_ambush_11e51dc2_1:
 msgid "[R] Like I had any other choice."
@@ -13938,7 +13938,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8567## # translate crowdin hall_ambush_29387bb4:
 msgid "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8569## # translate crowdin hall_ambush_1a548d37:
 msgid "[R] Well..."
@@ -14066,7 +14066,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8608## # translate crowdin hall_ambush_f6a86c35_1:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8612## # translate crowdin hall_ambush_300895cc:
 msgid "[L] Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -14170,11 +14170,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8645## # translate crowdin hall_ambush_f6a86c35_2:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8646## # translate crowdin hall_ambush_59e472a0_1:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8651## # translate crowdin hall_ambush_300895cc_1:
 msgid "[L] Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -14286,11 +14286,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8686## # translate crowdin hall_ambush_9ae7a281:
 msgid "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +2»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8687## # translate crowdin hall_ambush_59e472a0_2:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8692## # translate crowdin hall_ambush_300895cc_2:
 msgid "[L] Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
@@ -15050,7 +15050,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9180## # translate crowdin new_classroom_afternoon_df39ee72:
 msgid "{i}\"Lauren's libido needs to be at 8 or above.\"{/i}"
-msgstr ""
+msgstr "{i}'La libido de Lauren doit être à 8 ou plus.'{/i}"
 
 # game/UpdateScript0.07.rpy:9194## # translate crowdin new_classroom_afternoon_4756c8dd:
 msgid "[L] Yeah... I'd be up for that."
@@ -18486,7 +18486,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:11165## # translate crowdin good_shower_end_46f8d9b2:
 msgid "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:11167## # translate crowdin good_shower_end_60bf26cb:
 msgid "[R] Right... Where was I?"
@@ -19110,7 +19110,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:11549## # translate crowdin campaign_headquarters_afternoon_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:11553## # translate crowdin campaign_headquarters_afternoon_f217bc5f:
 msgid "[MD] It's coming together really well."
@@ -19242,7 +19242,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:11594## # translate crowdin campaign_headquarters_afternoon_f6a86c35_1:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:11598## # translate crowdin campaign_headquarters_afternoon_e8ce76b3:
 msgid "[L] I know my cousin Mandy has been meeting with Megan and the cheerleaders, and I think the skit is coming together pretty well."
@@ -19642,7 +19642,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:11768## # translate crowdin campaign_headquarters_afternoon_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:11771## # translate crowdin campaign_headquarters_afternoon_3c997abd:
 msgid "[L] And with that... I think this meeting is adjourned."
@@ -20018,7 +20018,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:11997## # translate crowdin campaign_headquarters_afternoon_59e472a0_1:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12006## # translate crowdin campaign_headquarters_afternoon_14691a0a:
 msgid "[L] Alright, the last task on my list is for you, [ryan]."
@@ -20458,11 +20458,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12255## # translate crowdin campaign_headquarters_afternoon_59e472a0_2:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12256## # translate crowdin campaign_headquarters_afternoon_921fd515:
 msgid "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Soumission de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12265## # translate crowdin campaign_headquarters_afternoon_c8bd723e:
 msgid "[L] Kenzie."
@@ -20518,7 +20518,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12299## # translate crowdin campaign_headquarters_afternoon_f6a86c35_2:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12301## # translate crowdin campaign_headquarters_afternoon_e788b678:
 msgid "[R] And speaking of whores..."
@@ -20798,7 +20798,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12465## # translate crowdin best_polls_aftermath_4a8bf424:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12467## # translate crowdin best_polls_aftermath_b516cf76:
 msgid "[L] Ok... where did I put those panties?"
@@ -21142,7 +21142,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12638## # translate crowdin best_polls_aftermath_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12640## # translate crowdin best_polls_aftermath_7e5940b2_1:
 msgid "[R] Aaahhh..."
@@ -21214,7 +21214,7 @@ msgstr "[L] Oooooohhhh..."
 
 # game/UpdateScript0.07.rpy:12674## # translate crowdin best_polls_aftermath_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12680## # translate crowdin best_polls_aftermath_0e19b85f:
 msgid "[L] Thank you, Mandy... That was amazing!"
@@ -21274,7 +21274,7 @@ msgstr "[MD] Aaaahhhh...."
 
 # game/UpdateScript0.07.rpy:12707## # translate crowdin best_polls_aftermath_36deb974:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de Mandy -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12711## # translate crowdin best_polls_aftermath_01f7b3fd:
 msgid "[R] Shit!... I'm gonna cum too!"
@@ -21334,7 +21334,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12741## # translate crowdin best_polls_aftermath_23bbdde1:
 msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12745## # translate crowdin best_polls_aftermath_a2a5898e:
 msgid "[MD] There... All clean. Now, do you want to return the favor this time?"
@@ -21354,7 +21354,7 @@ msgstr "[MD] Mmmmm...."
 
 # game/UpdateScript0.07.rpy:12753## # translate crowdin best_polls_aftermath_7e4defd6:
 msgid "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de Mandy +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12757## # translate crowdin best_polls_aftermath_8e35956c:
 msgid "[L] Oh my God... We'd better finish up."
@@ -21774,7 +21774,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:12948## # translate crowdin best_polls_aftermath_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:12950## # translate crowdin best_polls_aftermath_7e5940b2_2:
 msgid "[R] Aaahhh..."
@@ -21922,7 +21922,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13006## # translate crowdin best_polls_aftermath_058ef1c2_1:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13012## # translate crowdin best_polls_aftermath_0e19b85f_1:
 msgid "[L] Thank you, Mandy... That was amazing!"
@@ -22022,7 +22022,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13049## # translate crowdin best_polls_aftermath_36deb974_1:
 msgid "{b}{i}\"Mandy's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de Mandy -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13053## # translate crowdin best_polls_aftermath_01f7b3fd_1:
 msgid "[R] Shit!... I'm gonna cum too!"
@@ -22130,7 +22130,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13097## # translate crowdin best_polls_aftermath_23bbdde1_1:
 msgid "{b}{i}\"Lauren's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13101## # translate crowdin best_polls_aftermath_645d1560:
 msgid "[MD] There... All clean. Now, do you want to return the favor?"
@@ -22158,7 +22158,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13111## # translate crowdin best_polls_aftermath_7e4defd6_1:
 msgid "{b}{i}\"Mandy's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}«Libido de Mandy +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13113## # translate crowdin best_polls_aftermath_657e14cc:
 msgid "[L] You're like a legit cum slut!"
@@ -22294,7 +22294,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13199## # translate crowdin best_polls_aftermath_4a8bf424_1:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13201## # translate crowdin best_polls_aftermath_b516cf76_1:
 msgid "[L] Ok... where did I put those panties?"
@@ -22926,7 +22926,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13593## # translate crowdin best_polls_aftermath_4a8bf424_2:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13595## # translate crowdin best_polls_aftermath_b516cf76_2:
 msgid "[L] Ok... where did I put those panties?"
@@ -23218,7 +23218,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13763## # translate crowdin best_polls_aftermath_4a8bf424_3:
 msgid "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13765## # translate crowdin best_polls_aftermath_8c9850a2:
 msgid "[L] Do you think you could help me find my panties?"
@@ -23462,7 +23462,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13890## # translate crowdin best_polls_aftermath_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13894## # translate crowdin best_polls_aftermath_f0cde651:
 msgid "[L] Are you ok with just doing this for fun?..."
@@ -23566,11 +23566,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:13932## # translate crowdin best_polls_aftermath_9ae7a281:
 msgid "{b}{i}\"Lauren's Affection +2\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +2»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13934## # translate crowdin best_polls_aftermath_59e472a0:
 msgid "{b}{i}\"Lauren's Respect +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13936## # translate crowdin best_polls_aftermath_066bc887:
 msgid "[L] I still can't believe we did so good in the polls today."
@@ -23762,7 +23762,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14030## # translate crowdin bad_polls_aftermath_13736541:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14034## # translate crowdin bad_polls_aftermath_cd1aef1e:
 msgid "[L] Maybe I could actually accomplish something, if the people I love just believed in me!"
@@ -23810,7 +23810,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14055## # translate crowdin bad_polls_aftermath_e4849e56:
 msgid "{b}{i}\"Lauren's Anger -2\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren -2»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14056## # translate crowdin bad_polls_aftermath_bdd4a99a:
 msgid "[R] Hey, don't laugh!"
@@ -23858,7 +23858,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14076## # translate crowdin bad_polls_aftermath_f6a86c35:
 msgid "{b}{i}\"Lauren's Affection +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14077## # translate crowdin bad_polls_aftermath_bdd4a99a_1:
 msgid "[R] Hey, don't laugh!"
@@ -24038,7 +24038,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14135## # translate crowdin bad_polls_aftermath_921fd515:
 msgid "{b}{i}\"Lauren's Submission +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Soumission de Lauren -1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14139## # translate crowdin bad_polls_aftermath_6f0c2e11:
 msgid "[L] You're right."
@@ -24574,7 +24574,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14348## # translate crowdin bad_polls_aftermath_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14350## # translate crowdin bad_polls_aftermath_95fb1a56:
 msgid "[AUB] I'm cumming, too!"
@@ -24590,7 +24590,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14356## # translate crowdin bad_polls_aftermath_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14358## # translate crowdin bad_polls_aftermath_067e6e4f:
 msgid "[RT] {i}I can't even believe what she's becoming!{/i}"
@@ -24838,7 +24838,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14502## # translate crowdin bad_polls_aftermath_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14504## # translate crowdin bad_polls_aftermath_95fb1a56_1:
 msgid "[AUB] I'm cumming, too!"
@@ -24854,7 +24854,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14510## # translate crowdin bad_polls_aftermath_657dc9c8_3:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14512## # translate crowdin bad_polls_aftermath_067e6e4f_1:
 msgid "[RT] {i}I can't even believe what she's becoming!{/i}"
@@ -26106,7 +26106,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15060## # translate crowdin bad_polls_aftermath_13736541_1:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15062## # translate crowdin bad_polls_aftermath_1c262ca5:
 msgid "[L] If I lose this election because you were too busy with other people's shit, I'm going to... well, I don't know... but you're not going to like it!"
@@ -26134,7 +26134,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15071## # translate crowdin bad_polls_aftermath_13736541_2:
 msgid "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +3»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15073## # translate crowdin bad_polls_aftermath_246ff479:
 msgid "[L] If I lose this election because you're wasting your money on other girls, even if they're family... I'm going to...well, I don't know... but you're not going to like it!"
@@ -26150,7 +26150,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15077## # translate crowdin bad_polls_aftermath_46f8d9b2:
 msgid "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Colère de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15079## # translate crowdin bad_polls_aftermath_e5e7230a:
 msgid "[L] I'm working as hard as I possibly can, so if I lose this election because you didn't do your part, I'm going to... well, I don't know... but you're not going to like it!"
@@ -26442,7 +26442,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15281## # translate crowdin htbyd_cum_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15283## # translate crowdin htbyd_cum_555b9634:
 msgid "[L] But I don't think I have time, or room in my stomach, for another round. I'd better get back to school."
@@ -26486,7 +26486,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15299## # translate crowdin htbyd_cum_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15301## # translate crowdin htbyd_cum_8a31f80a_1:
 msgid "[L] Thanks for lunch... I'm gonna go get dressed. I'll see you at home."
@@ -26522,7 +26522,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15330## # translate crowdin htbyd_cum_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15332## # translate crowdin htbyd_cum_0dc36566:
 msgid "[L] I'm gonna run and clean up and get dressed. I'll see you at home."
@@ -26578,7 +26578,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15351## # translate crowdin htbyd_cum_657dc9c8_3:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15353## # translate crowdin htbyd_cum_0dc36566_1:
 msgid "[L] I'm gonna run and clean up and get dressed. I'll see you at home."
@@ -26846,7 +26846,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15499## # translate crowdin htbyd_fuck_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15501## # translate crowdin htbyd_fuck_09589f47:
 msgid "[R] Good God, Lauren!... Do I have to hear about this again?"
@@ -27350,7 +27350,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15725## # translate crowdin htbyd_fuck_657dc9c8_1:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15727## # translate crowdin htbyd_fuck_b1b2adcc:
 msgid "[R] Good God, Lauren!... Can you hear yourself?"
@@ -27474,7 +27474,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:15775## # translate crowdin htbyd_fuck_657dc9c8_2:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:15779## # translate crowdin htbyd_fuck_79ef3f51:
 msgid "[L] Uhhh...I've gotta go."
@@ -27834,7 +27834,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:16032## # translate crowdin dragon_cum_058ef1c2:
 msgid "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:16040## # translate crowdin dragon_cum_2ca0bc1e:
 msgid "[L] Are you kidding me?"
