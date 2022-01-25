@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-22 11:23\n"
+"PO-Revision-Date: 2022-01-25 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1522,7 +1522,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1163## # translate crowdin nightly_sixtynine_68b3cf58:
 msgid "{i}\"Sidney's Libido needs to be at least 8 points at the beginning of their conversation to want to do another sixty-nine.\"{/i}"
-msgstr ""
+msgstr "{i}'La libido de Sidney doit être d'au moins 8 points au début de leur conversation pour pouloir faire encore un soixante-neuf.'{/i}"
 
 # game/UpdateScript0.04.rpy:1164## # translate crowdin nightly_sixtynine_a9a75359:
 msgid "[S] Good night [ryan]."
@@ -5230,7 +5230,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2826## # translate crowdin aunt_clean_kitchen_a41ff547:
 msgid "{i}{b}\"Aunt Camille's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de tante Camille +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:2829## # translate crowdin aunt_clean_kitchen_64c1656e:
 msgid "[R] Yeah, for sure!.... I'll try to meet you here again tomorrow morning."
@@ -7266,7 +7266,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3867## # translate crowdin jacky_at_Laptop_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:3871## # translate crowdin jacky_at_Laptop_0c7fb8a2:
 msgid "[R] So, what happens next?"
@@ -7282,7 +7282,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3874## # translate crowdin jacky_at_Laptop_3265e8ee_2:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:3876## # translate crowdin jacky_at_Laptop_e257f4d1:
 msgid "[MT] {i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
@@ -8450,7 +8450,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4387## # translate crowdin wrshoot_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4389## # translate crowdin wrshoot_ba939bc2:
 msgid "[S] I can cover myself in the picture though right?"
@@ -8538,7 +8538,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4428## # translate crowdin wrshoot_1d59362d_1:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4430## # translate crowdin wrshoot_a97ff5d6:
 msgid "[S] So, you just want my breasts free and swinging in the wind?"
@@ -8654,7 +8654,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4477## # translate crowdin wrshoot_1d59362d_2:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4479## # translate crowdin wrshoot_c915a412:
 msgid "[S] So, how do you want me to pose?"
@@ -8710,11 +8710,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4500## # translate crowdin wrshoot_aaf7869e:
 msgid "{i}{b}\"Sidney's Anger +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +3»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4502## # translate crowdin wrshoot_0f7267a3_1:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4504## # translate crowdin wrshoot_fd78028d_2:
 msgid "[S] I'm out of here.... call me again when you're ready to act a little more professional."
@@ -8766,7 +8766,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4525## # translate crowdin wrshoot_1d59362d_3:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4527## # translate crowdin wrshoot_6b0a6f0c:
 msgid "[S] So, do you want me to just sit on the floor spread eagle?.... Or what?"
@@ -8810,7 +8810,7 @@ msgstr "{i}{b}«Colère de Sidney +5»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4546## # translate crowdin wrshoot_0f7267a3_2:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4548## # translate crowdin wrshoot_fd78028d_3:
 msgid "[S] I'm out of here.... call me again when you're ready to act a little more professional."
@@ -8862,7 +8862,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4569## # translate crowdin wrshoot_1d59362d_4:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4571## # translate crowdin wrshoot_71e2b765:
 msgid "[S] I can't believe I've let this photosession get to this point."
@@ -8906,11 +8906,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4589## # translate crowdin wrshoot_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +10»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4591## # translate crowdin wrshoot_eb2dca28:
 msgid "{i}{b}\"Sidney's Affection -3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -3»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4593## # translate crowdin wrshoot_7741d900:
 msgid "[S] I'm out of here.... don't you dare call me for a while!"
@@ -8950,7 +8950,7 @@ msgstr "{i}{b}«Affection du Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4610## # translate crowdin wrshoot_45c15935:
 msgid "{i}{b}\"Sidney's Libido +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +5»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4613## # translate crowdin wrshoot_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -9014,7 +9014,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4635## # translate crowdin removeshorts_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4643## # translate crowdin removeshorts_ded9ffaf:
 msgid "[S] Now what do you think?"
@@ -9166,7 +9166,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4704## # translate crowdin removeshorts_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4706## # translate crowdin removeshorts_069c51e3:
 msgid "[R] Ok.... I understand. I'll give you a call the next time I'm ready."
@@ -9246,7 +9246,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4735## # translate crowdin removeshorts_1d59362d_1:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4746## # translate crowdin removeshorts_96cb3bb4_3:
 msgid "[R] What?..."
@@ -9294,7 +9294,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4757## # translate crowdin removeshorts_7b3429cc_1:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4759## # translate crowdin removeshorts_e144b947:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've cooled your tits."
@@ -9378,7 +9378,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4789## # translate crowdin removeshorts_1d59362d_2:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4800## # translate crowdin removeshorts_96cb3bb4_5:
 msgid "[R] What?..."
@@ -9426,11 +9426,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4811## # translate crowdin removeshorts_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4813## # translate crowdin removeshorts_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4815## # translate crowdin removeshorts_e144b947_1:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've cooled your tits."
@@ -9510,7 +9510,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4844## # translate crowdin removeshorts_1d59362d_3:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4855## # translate crowdin removeshorts_96cb3bb4_7:
 msgid "[R] What?..."
@@ -9558,11 +9558,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4866## # translate crowdin removeshorts_aaf7869e:
 msgid "{i}{b}\"Sidney's Anger +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +3»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4868## # translate crowdin removeshorts_0f7267a3_1:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4870## # translate crowdin removeshorts_e144b947_2:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've cooled your tits."
@@ -9670,7 +9670,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4906## # translate crowdin removeshorts_1d59362d_4:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4917## # translate crowdin removeshorts_96cb3bb4_9:
 msgid "[R] What?..."
@@ -9718,11 +9718,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4928## # translate crowdin removeshorts_2b74f483:
 msgid "{i}{b}\"Sidney's Anger +8\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +8»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4930## # translate crowdin removeshorts_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4932## # translate crowdin removeshorts_e144b947_3:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've cooled your tits."
@@ -9758,11 +9758,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4948## # translate crowdin removeshorts_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4949## # translate crowdin removeshorts_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4952## # translate crowdin removeshorts_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -9786,7 +9786,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4964## # translate crowdin removeshirt_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4972## # translate crowdin removeshirt_9f022a3f:
 msgid "[R] Awesome! I like the sassy look as you pretend to put on your gloves."
@@ -9970,7 +9970,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5044## # translate crowdin removeshirt_1d59362d_1:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5052## # translate crowdin removeshirt_df2d5584_1:
 msgid "[S] What kind of hole are you talking about? Like a small hole in the butt cheek?"
@@ -10022,7 +10022,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5064## # translate crowdin removeshirt_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5066## # translate crowdin removeshirt_cbbea894:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've hakuna'd your tatas."
@@ -10090,7 +10090,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5089## # translate crowdin removeshirt_1d59362d_2:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5097## # translate crowdin removeshirt_835b0445_1:
 msgid "[S] What?!"
@@ -10142,11 +10142,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5109## # translate crowdin removeshirt_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5111## # translate crowdin removeshirt_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5113## # translate crowdin removeshirt_cbbea894_1:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've hakuna'd your tatas."
@@ -10226,7 +10226,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5139## # translate crowdin removeshirt_1d59362d_3:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5147## # translate crowdin removeshirt_7ba2f472_1:
 msgid "[S] Excuse me.... what!?..."
@@ -10298,11 +10298,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5164## # translate crowdin removeshirt_31a82d0b:
 msgid "{i}{b}\"Sidney's Anger +7\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +7»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5166## # translate crowdin removeshirt_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5168## # translate crowdin removeshirt_cbbea894_2:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've hakuna'd your tatas."
@@ -10338,7 +10338,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5184## # translate crowdin removeshirt_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5185## # translate crowdin removeshirt_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
@@ -10386,11 +10386,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5204## # translate crowdin removeshirt_d42e829d_1:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5205## # translate crowdin removeshirt_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5208## # translate crowdin removeshirt_f914686b_1:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -10490,7 +10490,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5260## # translate crowdin showsidneytitties_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5262## # translate crowdin showsidneytitties_4ae9f4ac:
 msgid "[R] Now.... I'd say it's about time to expose a little more skin."
@@ -10606,7 +10606,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5301## # translate crowdin showsidneytitties_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5303## # translate crowdin showsidneytitties_4117dcd7:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've soothed your boobs."
@@ -10674,7 +10674,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5326## # translate crowdin showsidneytitties_1d59362d_1:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5334## # translate crowdin showsidneytitties_835b0445_1:
 msgid "[S] What?!"
@@ -10726,11 +10726,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5346## # translate crowdin showsidneytitties_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5348## # translate crowdin showsidneytitties_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5350## # translate crowdin showsidneytitties_cbbea894:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've hakuna'd your tatas."
@@ -10810,7 +10810,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5376## # translate crowdin showsidneytitties_1d59362d_2:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5384## # translate crowdin showsidneytitties_7ba2f472_1:
 msgid "[S] Excuse me.... what!?..."
@@ -10882,11 +10882,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5401## # translate crowdin showsidneytitties_aa9fa7ed:
 msgid "{i}{b}\"Sidney's Anger +6\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +6»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5403## # translate crowdin showsidneytitties_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5405## # translate crowdin showsidneytitties_cbbea894_1:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've hakuna'd your tatas."
@@ -10922,11 +10922,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5421## # translate crowdin showsidneytitties_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5422## # translate crowdin showsidneytitties_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5425## # translate crowdin showsidneytitties_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -10982,7 +10982,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5466## # translate crowdin rippedundies_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5472## # translate crowdin rippedundies_32f5bbf3:
 msgid "[RT] {i}Oh my God! What a heavenly ass my sister has!{/i}"
@@ -11314,7 +11314,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5603## # translate crowdin rippedundies_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5605## # translate crowdin rippedundies_4117dcd7:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've soothed your boobs."
@@ -11394,7 +11394,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5631## # translate crowdin rippedundies_1d59362d_1:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5639## # translate crowdin rippedundies_7ba2f472_1:
 msgid "[S] Excuse me.... what!?..."
@@ -11466,11 +11466,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5656## # translate crowdin rippedundies_aa9fa7ed:
 msgid "{i}{b}\"Sidney's Anger +6\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +6»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5658## # translate crowdin rippedundies_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5660## # translate crowdin rippedundies_4117dcd7_1:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've soothed your boobs."
@@ -11506,11 +11506,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5676## # translate crowdin rippedundies_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5677## # translate crowdin rippedundies_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5680## # translate crowdin rippedundies_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -11550,7 +11550,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5700## # translate crowdin wr_closeups_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5711## # translate crowdin wr_closeups_400263d4:
 msgid "[R] I have a feeling this picture is going to get a lot of attention."
@@ -11682,11 +11682,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5752## # translate crowdin wr_closeups_aa9fa7ed:
 msgid "{i}{b}\"Sidney's Anger +6\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +6»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5754## # translate crowdin wr_closeups_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5756## # translate crowdin wr_closeups_e3e63506:
 msgid "[R] Alright.... take some time.... I'll call you again later, after you've de-stressed your breasts."
@@ -11718,11 +11718,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5769## # translate crowdin wr_closeups_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5770## # translate crowdin wr_closeups_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5773## # translate crowdin wr_closeups_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -11774,7 +11774,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5797## # translate crowdin wr_gape_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:5803## # translate crowdin wr_gape_8739ac4e:
 msgid "[R] Wow, Sidney! If you weren't my sister..."
@@ -12226,7 +12226,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:6069## # translate crowdin wr_gape_ac922b67:
 msgid "{i}{b}\"Sidney's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +10»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:6071## # translate crowdin wr_gape_a852d75a:
 msgid "[R] Yeah.... that was impressive!..."
@@ -12622,7 +12622,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:6300## # translate crowdin wr_gape_ac922b67_1:
 msgid "{i}{b}\"Sidney's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +10»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:6302## # translate crowdin wr_gape_c2f46784:
 msgid "[R] Yep.... It's my new favorite tradition..."
