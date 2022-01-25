@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-22 11:23\n"
+"PO-Revision-Date: 2022-01-25 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:696## # translate crowdin fix_bulb_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:700## # translate crowdin fix_bulb_6580be01:
 msgid "[M] Alright, well let's start out right here in the lounge."
@@ -526,7 +526,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:733## # translate crowdin fix_bulb_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:737## # translate crowdin fix_bulb_221be1d4:
 msgid "[MT] {i}I wonder if....{/i}"
@@ -810,7 +810,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:901## # translate crowdin sidney_morning_jog_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:903## # translate crowdin sidney_morning_jog_1bef7fd5:
 msgid "[S] I'd really appreciate that."
@@ -1526,7 +1526,7 @@ msgstr "{i}{b}«Affection de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1210## # translate crowdin sidney_search_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de maman -1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1214## # translate crowdin sidney_search_65b14a51:
 msgid "[R] Sorry, Mom! I wasn't able to get enough money together this week."
@@ -1542,11 +1542,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1217## # translate crowdin sidney_search_24b07823_1:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1218## # translate crowdin sidney_search_a0525bab_1:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de maman -1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1221## # translate crowdin sidney_search_5291e93d:
 msgid "[J] Ok, Let's get on our way."
@@ -2506,7 +2506,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1620## # translate crowdin tv_together_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1639## # translate crowdin tv_together_e85188a6_1:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1833## # translate crowdin tv_together_05947e83_1:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1835## # translate crowdin tv_together_20669975:
 msgid "[MT] {i}Oh, fuck!.... That looked like Lauren was licking cum off her lips{/i}"
@@ -2858,7 +2858,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1837## # translate crowdin tv_together_57fce0be:
 msgid "{i}{b}\"Mom's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +10»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1839## # translate crowdin tv_together_a7a46777:
 msgid "[L] Did I get it?"
@@ -3358,7 +3358,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2059## # translate crowdin tv_together_c0076926:
 msgid "{i}\"Mom's respect +1\"{/i}"
-msgstr ""
+msgstr "{i}«Respect de maman +1»{/i}"
 
 # game/UpdateScript0.05.rpy:2061## # translate crowdin tv_together_02355f63:
 msgid "[MT] {i}And for daring to use such a sexually charged suggestion.{/i}"
@@ -3366,7 +3366,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2062## # translate crowdin tv_together_bfe9b99f:
 msgid "{i}\"Mom's Libido +1\"{/i}"
-msgstr ""
+msgstr "{i}«Libido de maman +1»{/i}"
 
 # game/UpdateScript0.05.rpy:2065## # translate crowdin tv_together_9aa1866f:
 msgid "[M] [ryan].... That wasn't funny, and it was a very inappropriate thing to say to your own mother."
@@ -3742,7 +3742,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2236## # translate crowdin tv_together_c816878d:
 msgid "{i}\"Mom's Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}«Colère de maman +3»{/i}"
 
 # game/UpdateScript0.05.rpy:2238## # translate crowdin tv_together_ab71dd5b:
 msgid "[M] You were jacking off to that dragon show, weren't you?"
@@ -3822,11 +3822,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2262## # translate crowdin tv_together_c12ee42a:
 msgid "{i}\"Mom's Anger +1\"{/i}"
-msgstr ""
+msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.05.rpy:2263## # translate crowdin tv_together_3b3d118b:
 msgid "{i}\"Mom's Libido +2\"{/i}"
-msgstr ""
+msgstr "{i}«Libido de maman +2»{/i}"
 
 # game/UpdateScript0.05.rpy:2268## # translate crowdin tv_together_eaa48105:
 msgid "[RT] {i}Oh.... Thank God Lauren ran off when she did!{/i}"
@@ -4034,7 +4034,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2366## # translate crowdin tv_together_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2369## # translate crowdin tv_together_e08c7d89:
 msgid "[R] That shouldn't concern you! Sidney doesn't ever look up from her computer when she's working."
@@ -4130,7 +4130,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2410## # translate crowdin tv_together_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2415## # translate crowdin tv_together_d98df879:
 msgid "[L] Oh, shit!.... Mom's shower just turned off!"
@@ -4254,7 +4254,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2472## # translate crowdin lounge_hj_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2479## # translate crowdin lounge_hj_2cbffccf:
 msgid "[LT] {i}Wow!{/i}"
@@ -4382,7 +4382,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2561## # translate crowdin lounge_finger_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2563## # translate crowdin lounge_finger_cf6c1d76:
 msgid "[R] Haha.... I'll run and get a towel to clean up this mess!"
@@ -4586,7 +4586,7 @@ msgstr "{i}{b}«Affection de maman +10»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2732## # translate crowdin reward_for_payment_de090f2d:
 msgid "{i}{b}\"Mom's Anger =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de maman =0»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2735## # translate crowdin reward_for_payment_c9ba28b5:
 msgid "[M] I am so relieved I don't have to go shake my ass for them tonight!"
@@ -5038,7 +5038,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2908## # translate crowdin reward_for_payment_85047c5d:
 msgid "{i}\"Mom's affection -1\"{/i}"
-msgstr ""
+msgstr "{i}«Affection de maman -1»{/i}"
 
 # game/UpdateScript0.05.rpy:2910## # translate crowdin reward_for_payment_f3a1df96:
 msgid "[RT] {i}Hmmmm.... Let's see if I can make this a little more enjoyable.{/i}"
@@ -5126,7 +5126,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2947## # translate crowdin reward_for_payment_0d313082:
 msgid "{i}\"Mom's Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}«Affection de maman -1»{/i}"
 
 # game/UpdateScript0.05.rpy:2949## # translate crowdin reward_for_payment_9a1b613b:
 msgid "[M] Shit!.... Your sisters are going to be home soon!"
@@ -5166,11 +5166,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2963## # translate crowdin reward_for_payment_1d55fc06:
 msgid "{i}\"Mom's Affection +5\"{/i}"
-msgstr ""
+msgstr "{i}«Affection de maman +5»{/i}"
 
 # game/UpdateScript0.05.rpy:2964## # translate crowdin reward_for_payment_5f707b55:
 msgid "{i}\"Mom's Libido +5\"{/i}"
-msgstr ""
+msgstr "{i}«Libido de maman +5»{/i}"
 
 # game/UpdateScript0.05.rpy:2967## # translate crowdin reward_for_payment_2f6a6165:
 msgid "[R] Oh, fuck Mom! That did it!"
@@ -5318,7 +5318,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3035## # translate crowdin reward_for_payment_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3037## # translate crowdin reward_for_payment_4e5c35c3_1:
 msgid "[M] Please! I need my big strong boy to shoot his load all over my face!"
@@ -5594,7 +5594,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3181## # translate crowdin fix_sink_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3183## # translate crowdin fix_sink_9040f0a8:
 msgid "[M] ...."
@@ -5786,7 +5786,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3248## # translate crowdin fix_sink_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3250## # translate crowdin fix_sink_9040f0a8_1:
 msgid "[M] ...."
@@ -6054,11 +6054,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3366## # translate crowdin fix_sink_3265e8ee_2:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}« Libido de maman +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3367## # translate crowdin fix_sink_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3370## # translate crowdin fix_sink_8c1d690b:
 msgid "[M] And I appreciate your kind words, I just need to stop you before it gets too weird."
@@ -6122,7 +6122,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3392## # translate crowdin fix_sink_1df14e34:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next week.\"{/i}"
-msgstr ""
+msgstr "{i}'Cet événement se termine légèrement différemment avec une libido plus élevée. Augmentez la libido de maman (8+) et réessayez la semaine prochaine.'{/i}"
 
 # game/UpdateScript0.05.rpy:3404## # translate crowdin fix_sink_81328084:
 msgid "[RT] {i}Shorter shorts.... Nice open tank top.... No bra!.... {/i}"
@@ -6374,7 +6374,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3502## # translate crowdin fix_sink_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3504## # translate crowdin fix_sink_7be0a053:
 msgid "[M] Well, be that as it may, I think it's time to call it a day. Thanks for your help today!"
@@ -6438,7 +6438,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3526## # translate crowdin fix_sink_1cec7336:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next weekend.\"{/i}"
-msgstr ""
+msgstr "{i}'Cet événement se termine légèrement différemment avec une libido plus élevée. Augmentez la libido de maman (8+) et réessayez le week-end prochain.'{/i}"
 
 # game/UpdateScript0.05.rpy:3539## # translate crowdin please_go_work_fb18626f:
 msgid "[R] Hey Sidney!"
@@ -6694,7 +6694,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3753## # translate crowdin breakfast_events_7a3bc720:
 msgid "{i}\"Mom's Respect +1\"{/i}"
-msgstr ""
+msgstr "{i}«Respect de maman +1»{/i}"
 
 # game/UpdateScript0.05.rpy:3755## # translate crowdin breakfast_events_21f05e4c:
 msgid "[R] Entre pre what now?"
@@ -6926,7 +6926,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3934## # translate crowdin breakfast_events_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
-msgstr ""
+msgstr "{i}«Respect de maman -1»{/i}"
 
 # game/UpdateScript0.05.rpy:3947## # translate crowdin breakfast_events_8d9a4b12_7:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7122,7 +7122,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4110## # translate crowdin breakfast_events_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4112## # translate crowdin breakfast_events_aab5479a:
 msgid "[R] Thanks, Mom!"
@@ -7178,7 +7178,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4165## # translate crowdin breakfast_events_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4176## # translate crowdin breakfast_events_c7c8695b:
 msgid "[RT] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -7342,7 +7342,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4286## # translate crowdin breakfast_events_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4288## # translate crowdin breakfast_events_aab5479a_1:
 msgid "[R] Thanks, Mom!"
@@ -7398,7 +7398,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4341## # translate crowdin breakfast_events_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4352## # translate crowdin breakfast_events_c7c8695b_1:
 msgid "[RT] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -7458,7 +7458,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4372## # translate crowdin breakfast_events_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4385## # translate crowdin breakfast_events_8d9a4b12_10:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7918,7 +7918,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4623## # translate crowdin fix_washer_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4627## # translate crowdin fix_washer_1eef93e0:
 msgid "[MT] {i}Huh?.... What's this?{/i}"
@@ -8026,7 +8026,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4670## # translate crowdin fix_washer_9c3357db:
 msgid "{i}\"The ending to this event is different if Mom's libido is higher (+8).\"{/i}"
-msgstr ""
+msgstr "{i}'La fin de cet événement est différente si la libido de maman est plus élevée (+8).'{/i}"
 
 # game/UpdateScript0.05.rpy:4671## # translate crowdin fix_washer_c318e1af:
 msgid "{i}\"Raise her libido and try again next weekend.\"{/i}"
@@ -8522,7 +8522,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4904## # translate crowdin fix_washer_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4908## # translate crowdin fix_washer_1eef93e0_1:
 msgid "[MT] {i}Huh?.... What's this?{/i}"
@@ -8622,7 +8622,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4945## # translate crowdin fix_washer_9c3357db_1:
 msgid "{i}\"The ending to this event is different if Mom's libido is higher (+8).\"{/i}"
-msgstr ""
+msgstr "{i}'La fin de cet événement est différente si la libido de maman est plus élevée (+8).'{/i}"
 
 # game/UpdateScript0.05.rpy:4946## # translate crowdin fix_washer_c318e1af_1:
 msgid "{i}\"Raise her libido and try again next weekend.\"{/i}"
@@ -9646,7 +9646,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5454## # translate crowdin park_activities_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney -2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5457## # translate crowdin park_activities_4b2ab474:
 msgid "[R] I'm over her. I've got another girl in mind."
@@ -9666,7 +9666,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5461## # translate crowdin park_activities_d5f9a310:
 msgid "{i}{b}\"Sidney's Affection +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5463## # translate crowdin park_activities_c00317dc:
 msgid "[S] Well, the park will be a lot less interesting with Mr. Peterson gone."
@@ -9902,7 +9902,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5563## # translate crowdin park_activities_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5565## # translate crowdin park_activities_64db5d4c:
 msgid "[RT] {i}Oh my God! Is my sister going to kiss me?{/i}"
@@ -9962,7 +9962,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5607## # translate crowdin park_menu_ee7c9f38:
 msgid "{i}{b}\"Sidney's Libido -3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -3»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5609## # translate crowdin park_menu_d5f12490:
 msgid "[S] It's a good thing I've got that shirt I can tie around my waist."
@@ -10054,7 +10054,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5663## # translate crowdin park_menu_6be6e73d:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5664## # translate crowdin park_menu_7041d6bf:
 msgid "[R] Sorry, I'll try to remember next time."
@@ -10150,7 +10150,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5713## # translate crowdin park_menu_ee7c9f38_1:
 msgid "{i}{b}\"Sidney's Libido -3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -3»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5718## # translate crowdin park_menu_18633eb2:
 msgid "[S] Wow! You just gave me one of the best orgasms I've ever had!"
@@ -10246,7 +10246,7 @@ msgstr "{i}{b}«Affection du Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5763## # translate crowdin park_menu_6be6e73d_1:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5768## # translate crowdin park_menu_fa6d99e4:
 msgid "[ST] {i}Did he just call me a whore?{/i}"
@@ -10262,7 +10262,7 @@ msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.05.rpy:5771## # translate crowdin park_menu_6be6e73d_2:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +2»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5775## # translate crowdin park_menu_fbbf5c06:
 msgid "[R] Oh.... I'm going to cum!"
@@ -10482,7 +10482,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5970## # translate crowdin first_club_cum_996c2ac9:
 msgid "{i}{b}\"Sidney's Respect +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de Sidney +3»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5974## # translate crowdin first_club_cum_a64736f3:
 msgid "[S] Oh no [ryan]! I was worried you were going to say that."
@@ -10514,7 +10514,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5983## # translate crowdin first_club_cum_a8c4f248:
 msgid "{i}{b}\"Sidney's Affection +8\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +8»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5986## # translate crowdin first_club_cum_87155201:
 msgid "[S] Shit [ryan]! I just got done talking about how we need to be more careful about doing sexual stuff."
@@ -10674,7 +10674,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6059## # translate crowdin sid_working_club_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6061## # translate crowdin sid_working_club_24d24dd1:
 msgid "[R] It makes sense, we don't even have to move in together, since we already live with each other."
@@ -10766,7 +10766,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6093## # translate crowdin sid_working_club_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6095## # translate crowdin sid_working_club_2c439995:
 msgid "[RT] {i}Aaahhh!.... Should I just risk a peek?{/i}"
@@ -10798,7 +10798,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6109## # translate crowdin sid_working_club_d42e829d_1:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6114## # translate crowdin sid_working_club_32703153_1:
 msgid "[S] See something you like down there?"
@@ -10826,7 +10826,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6120## # translate crowdin sid_working_club_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Colère de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6125## # translate crowdin sid_working_club_e3b01298:
 msgid "[ST] {i}Look at him trying so hard not to take a peek at my cameltoe.{/i}"
@@ -10838,7 +10838,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6127## # translate crowdin sid_working_club_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Respect de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6133## # translate crowdin sid_working_club_9cf1104a:
 msgid "[S] So, was there something you wanted to talk to me about?"
@@ -11118,7 +11118,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6316## # translate crowdin club_fun_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6328## # translate crowdin club_fun_cf5f45d7:
 msgid "[S] Yeah, that's a big no for me."
@@ -11134,7 +11134,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6331## # translate crowdin club_fun_852315bd:
 msgid "{i}\"Sidney's libido must be at least 7+ to have fun with Sidney.\"{/i}"
-msgstr ""
+msgstr "{i}'La libido de Sidney doit être d'au moins 7 et plus pour s'amuser avec Sidney.\"{/i}"
 
 # game/UpdateScript0.05.rpy:6332## # translate crowdin club_fun_b754a6cb:
 msgid "[R] Fine.... I'm already here anyways.... I might as well go watch the stripshow."
@@ -11645,7 +11645,7 @@ msgstr ""
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Doigté Sindney en public{/s} {i}(La libido de Sidney 8+){/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Public Handjob"
@@ -11657,7 +11657,7 @@ msgstr ""
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Eat Pussy{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Manger sa chatte{/s} {i}(La Libido de Sidney 8+) {/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Blowjob"
@@ -11669,7 +11669,7 @@ msgstr ""
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr ""
+msgstr "{s}Sexe avec elle{/s} {i}(La libido de Sidney 8+) {/i}"
 
 #    # game/UpdateScript0.05.rpy:5758
 msgid "That feels so good!"
