@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-22 11:23\n"
+"PO-Revision-Date: 2022-01-25 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.02.rpy:10## # translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -62,7 +62,7 @@ msgstr "[R] D'accord.... Ok.... Relaxe-toi.... Je plaisantais."
 
 # game/UpdateScript0.02.rpy:35## # translate crowdin cosplaywakeme_cb4d38d7:
 msgid "[RT] {i}Not joking.{/i}"
-msgstr "[RT] {i}Ne plaisante pas.{/je}"
+msgstr "[RT] {i}Ne plaisante pas.{/i}"
 
 # game/UpdateScript0.02.rpy:36## # translate crowdin cosplaywakeme_f80a1c78:
 msgid "[R] But couldn't this have waited until later?"
@@ -322,7 +322,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:131## # translate crowdin cosplaywakeme_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:133## # translate crowdin cosplaywakeme_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
@@ -354,7 +354,7 @@ msgstr "{i}'Un peu plus tard'{/i}"
 
 # game/UpdateScript0.02.rpy:154## # translate crowdin postingthepics_0e17d439:
 msgid "[RT] {i}Well, this looks promising.{/i}"
-msgstr "[RT] {i}Eh bien, cela semble prometteur.{/je}"
+msgstr "[RT] {i}Eh bien, cela semble prometteur.{/i}"
 
 # game/UpdateScript0.02.rpy:155## # translate crowdin postingthepics_cb0e516e:
 msgid "[RT] {i}A website to post cosplay photos, get paid for likes through their advertisers, and even sell the costumes.{/i}"
@@ -362,7 +362,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:156## # translate crowdin postingthepics_eda1c181:
 msgid "[RT] {i}That's perfect.{/i}"
-msgstr "[RT] {i}C'est parfait.{/je}"
+msgstr "[RT] {i}C'est parfait.{/i}"
 
 # game/UpdateScript0.02.rpy:157## # translate crowdin postingthepics_1ec43bb1:
 msgid "[RT] {i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
@@ -502,7 +502,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:254## # translate crowdin sidneysleepswithryan_ea35b12a:
 msgid "[ST] {i}Why can't I get enough of this?{/i}"
-msgstr "[ST] {i}Pourquoi ne puis-je pas en avoir assez?{/je}"
+msgstr "[ST] {i}Pourquoi ne puis-je pas en avoir assez?{/i}"
 
 # game/UpdateScript0.02.rpy:261## # translate crowdin sidneysleepswithryan_95ace776:
 msgid "[ST] {i}Time to take the cum shower precaution again.{/i}"
@@ -562,7 +562,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:290## # translate crowdin sidneysleepswithryan_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:292## # translate crowdin sidneysleepswithryan_f8218074:
 msgid "[RT] {i}My sister's wearing her panties with her own brother's cum on them! Shit, I'm cumming again in my own underwear!{/i}"
@@ -674,7 +674,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:372## # translate crowdin sidneysleepswithryan_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:374## # translate crowdin sidneysleepswithryan_70fd47ef_1:
 msgid "[ST] {i}Now to get rid of the evidence.{/i}"
@@ -850,7 +850,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:487## # translate crowdin sidneysleepswithryan_5bd31dc0_2:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:489## # translate crowdin sidneysleepswithryan_5673d77a:
 msgid "[RT] {i}OH MY GOD that felt so good! I think I nutted a lot.{/i}"
@@ -1006,7 +1006,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:579## # translate crowdin sidneysleepswithryan_5bd31dc0_3:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:581## # translate crowdin sidneysleepswithryan_3e9497cb:
 msgid "[ST] {i}Shit, Sidney! Think of something else, of something that's not sexy. Not like your brother's penis!{/i}"
@@ -1166,7 +1166,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:672## # translate crowdin sidneysleepswithryan_5bd31dc0_4:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:674## # translate crowdin sidneysleepswithryan_0a8df8f2:
 msgid "[ST] {i}Shit, Sidney! Stop thinking about your brother's penis!{/i}"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:721## # translate crowdin sidneysleepswithryan_fd3d2a9a:
 msgid "[RT] {i}Hehehehe.... {/i}"
-msgstr "[RT] {i}Hehehehe.... {/je}"
+msgstr "[RT] {i}Hehehehe.... {/i}"
 
 # game/UpdateScript0.02.rpy:722## # translate crowdin sidneysleepswithryan_89f8223e:
 msgid "[S] .... Umm.... I uh.... just feel safer with you."
@@ -1662,7 +1662,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:886## # translate crowdin kitchencosplayfitting_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:888## # translate crowdin kitchencosplayfitting_5c0879f5:
 msgid "[L] Haha, did you really just want to check out my ass?"
@@ -1754,7 +1754,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:930## # translate crowdin kitchencosplayfitting_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:931## # translate crowdin kitchencosplayfitting_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
@@ -1830,7 +1830,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:981## # translate crowdin spycambath_5f00d363:
 msgid "[RT] {i}Dammit!.... That hurt!.... {/i}"
-msgstr "[RT] {i}Bon sang!.... Ça fait mal!.... {/je}"
+msgstr "[RT] {i}Bon sang!.... Ça fait mal!.... {/i}"
 
 # game/UpdateScript0.02.rpy:982## # translate crowdin spycambath_7171c896:
 msgid "[RT] {i}You stupid goddamn piece of shit! Open up.{/i}"
@@ -1878,7 +1878,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1021## # translate crowdin laurenbathspycam_5e95ce5e:
 msgid "[RT] {i}Nice! It's time for a show!{/i}"
-msgstr "[RT] {i}Joli! C'est l'heure du spectacle !{/je}"
+msgstr "[RT] {i}Joli! C'est l'heure du spectacle !{/i}"
 
 # game/UpdateScript0.02.rpy:1022## # translate crowdin laurenbathspycam_f730ff02:
 msgid "[RT] {i}Best thousand dollars I've ever spent.{/i}"
@@ -2006,7 +2006,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1117## # translate crowdin laurenfingerselfbathcontinued_48af735f:
 msgid "[RT] {i}Oh!.... I think she's about there!{/i}"
-msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/je}"
+msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/i}"
 
 # game/UpdateScript0.02.rpy:1122## # translate crowdin laurenfingerselfbathcontinued_744c96ef:
 msgid "[RT] {i}Holy shit!.... She's trying to give the shower head some competition!{/i}"
@@ -2022,11 +2022,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1127## # translate crowdin laurenfingerselfbathcontinued_d3b3d9e0:
 msgid "[RT] {i}Thanks for the show Lauren!{/i}"
-msgstr "[RT] {i}Merci pour le spectacle Lauren!{/je}"
+msgstr "[RT] {i}Merci pour le spectacle Lauren!{/i}"
 
 # game/UpdateScript0.02.rpy:1128## # translate crowdin laurenfingerselfbathcontinued_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1148## # translate crowdin sidneybathspycam_534206cc:
 msgid "[RT] {i}Sidney must be taking a shower. Mom and Lauren don't seem to be around.{/i}"
@@ -2034,7 +2034,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1150## # translate crowdin sidneybathspycam_3b6e563f:
 msgid "[RT] {i}Sidney must be taking a shower. Mom and Lauren are already at school.{/i}"
-msgstr "[RT] {i}Sidney doit prendre une douche. Maman et Lauren sont déjà à l'école.{/je}"
+msgstr "[RT] {i}Sidney doit prendre une douche. Maman et Lauren sont déjà à l'école.{/i}"
 
 # game/UpdateScript0.02.rpy:1151## # translate crowdin sidneybathspycam_ae8eb73c:
 msgid "[RT] {i}Thanks to my new spy-cam, I can take a peek and see.{/i}"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1261## # translate crowdin sidneyfingerselfbathcontinued_48af735f:
 msgid "[RT] {i}Oh!.... I think she's about there!{/i}"
-msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/je}"
+msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/i}"
 
 # game/UpdateScript0.02.rpy:1266## # translate crowdin sidneyfingerselfbathcontinued_4ab05f5b:
 msgid "[RT] {i}Holy shit!.... This is like shower-ception!{/i}"
@@ -2202,7 +2202,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1272## # translate crowdin sidneyfingerselfbathcontinued_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1291## # translate crowdin mombathspycam_aa45da92:
 msgid "[RT] {i}Mom's taking her after school shower. Thanks to my new spy-cam, I can take a peek.{/i}"
@@ -2354,7 +2354,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1402## # translate crowdin momfingerselfbathcontinued_48af735f:
 msgid "[RT] {i}Oh!.... I think she's about there!{/i}"
-msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/je}"
+msgstr "[RT] {i}Oh!.... Je crois qu'elle est là !{/i}"
 
 # game/UpdateScript0.02.rpy:1407## # translate crowdin momfingerselfbathcontinued_caf9963f:
 msgid "[RT] {i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camara!{/i}"
@@ -2370,7 +2370,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1412## # translate crowdin momfingerselfbathcontinued_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1441## # translate crowdin spycammomroom_90724d57:
 msgid "[RT] {i}So, the instructions on the spy-cam say that I can link my phone to the live video feed.{/i}"
@@ -2398,7 +2398,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1449## # translate crowdin spycammomroom_0e00cf13:
 msgid "[RT] {i}Ouch.... dammit!.... That hurt!.... {/i}"
-msgstr "[RT] {i}Aïe.... bon sang !.... Ça fait mal!.... {/je}"
+msgstr "[RT] {i}Aïe.... bon sang !.... Ça fait mal!.... {/i}"
 
 # game/UpdateScript0.02.rpy:1450## # translate crowdin spycammomroom_2adaba05:
 msgid "[RT] {i}You cunt sucking douche mouth!{/i}"
@@ -2450,7 +2450,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1487## # translate crowdin momhornybedroom_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1495## # translate crowdin momhornybedroom_56c769da_1:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -2470,7 +2470,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1504## # translate crowdin momhornybedroom_7a379bd5_1:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1512## # translate crowdin momhornybedroom_56c769da_2:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -2482,7 +2482,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1515## # translate crowdin momhornybedroom_7a379bd5_2:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1523## # translate crowdin momhornybedroom_3f915308:
 msgid "[RT] {i}The door's locked, she must be getting dressed. {p}Wait, is that moaning I hear?{p}I'm pretty sure that's moaning.{/i}"
@@ -2490,7 +2490,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1524## # translate crowdin momhornybedroom_7a379bd5_3:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1526## # translate crowdin momhornybedroom_3306ead2:
 msgid "[RT] {i}I've got to figure out a way to spy on her.{/i}"
@@ -2510,7 +2510,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1555## # translate crowdin momspycamroom_590f6f50:
 msgid "[RT] {i}Just.... wow.... what a body!{/i}"
-msgstr "[RT] {i}Juste.... wow.... quel corps!{/je}"
+msgstr "[RT] {i}Juste.... wow.... quel corps!{/i}"
 
 # game/UpdateScript0.02.rpy:1558## # translate crowdin momspycamroom_a26be530:
 msgid "{i}\"A little while later.\"{/i}"
@@ -2646,11 +2646,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1657## # translate crowdin momspycamroomhorny_47bb6ec2:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1658## # translate crowdin momspycamroomhorny_d812643e:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1660## # translate crowdin momspycamroomhorny_6db34e19:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -2666,11 +2666,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1663## # translate crowdin momspycamroomhorny_07634fed:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1664## # translate crowdin momspycamroomhorny_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1665## # translate crowdin momspycamroomhorny_16d37eb8:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -2738,11 +2738,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1718## # translate crowdin momspycamroomhorny_47bb6ec2_1:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1719## # translate crowdin momspycamroomhorny_d812643e_1:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1721## # translate crowdin momspycamroomhorny_6db34e19_1:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -2758,11 +2758,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1724## # translate crowdin momspycamroomhorny_07634fed_1:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1725## # translate crowdin momspycamroomhorny_7a379bd5_1:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1726## # translate crowdin momspycamroomhorny_16d37eb8_1:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -2834,11 +2834,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1780## # translate crowdin momspycamroomhorny_47bb6ec2_2:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1781## # translate crowdin momspycamroomhorny_d812643e_2:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1783## # translate crowdin momspycamroomhorny_6db34e19_2:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1786## # translate crowdin momspycamroomhorny_07634fed_2:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1787## # translate crowdin momspycamroomhorny_7a379bd5_2:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1788## # translate crowdin momspycamroomhorny_16d37eb8_2:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -2930,11 +2930,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1842## # translate crowdin momspycamroomhorny_47bb6ec2_3:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1843## # translate crowdin momspycamroomhorny_d812643e_3:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1845## # translate crowdin momspycamroomhorny_6db34e19_3:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -2950,11 +2950,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1848## # translate crowdin momspycamroomhorny_07634fed_3:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1849## # translate crowdin momspycamroomhorny_7a379bd5_3:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1850## # translate crowdin momspycamroomhorny_16d37eb8_3:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3022,11 +3022,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1903## # translate crowdin momspycamroomhorny_47bb6ec2_4:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1904## # translate crowdin momspycamroomhorny_d812643e_4:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1906## # translate crowdin momspycamroomhorny_6db34e19_4:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -3042,11 +3042,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1909## # translate crowdin momspycamroomhorny_07634fed_4:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1910## # translate crowdin momspycamroomhorny_7a379bd5_4:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1911## # translate crowdin momspycamroomhorny_16d37eb8_4:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3114,11 +3114,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1964## # translate crowdin momspycamroomhorny_47bb6ec2_5:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:1965## # translate crowdin momspycamroomhorny_d812643e_5:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:1967## # translate crowdin momspycamroomhorny_6db34e19_5:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -3134,11 +3134,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:1970## # translate crowdin momspycamroomhorny_07634fed_5:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:1971## # translate crowdin momspycamroomhorny_7a379bd5_5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1972## # translate crowdin momspycamroomhorny_16d37eb8_5:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3290,11 +3290,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2115## # translate crowdin momspycamroomhorny_47bb6ec2_6:
 msgid "[RT] {i}Wow! Mom's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Maman est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2116## # translate crowdin momspycamroomhorny_d812643e_6:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2118## # translate crowdin momspycamroomhorny_6db34e19_6:
 msgid "[RT] {i}Oh my God! Mom just squirted all over her bed!{/i}"
@@ -3310,11 +3310,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2121## # translate crowdin momspycamroomhorny_07634fed_6:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2122## # translate crowdin momspycamroomhorny_7a379bd5_6:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2123## # translate crowdin momspycamroomhorny_16d37eb8_6:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3482,7 +3482,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2234## # translate crowdin spycamlaurenroom_5f00d363:
 msgid "[RT] {i}Dammit!.... That hurt!.... {/i}"
-msgstr "[RT] {i}Bon sang!.... Ça fait mal!.... {/je}"
+msgstr "[RT] {i}Bon sang!.... Ça fait mal!.... {/i}"
 
 # game/UpdateScript0.02.rpy:2235## # translate crowdin spycamlaurenroom_b8cce6af:
 msgid "[RT] {i}You cock nosed boner face! Open up.{/i}"
@@ -3670,7 +3670,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2383## # translate crowdin laurenspycamroomhorny_d812643e:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2385## # translate crowdin laurenspycamroomhorny_6e554fd7:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -3686,11 +3686,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2388## # translate crowdin laurenspycamroomhorny_07634fed:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2389## # translate crowdin laurenspycamroomhorny_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2390## # translate crowdin laurenspycamroomhorny_16d37eb8:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3770,7 +3770,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2452## # translate crowdin laurenspycamroomhorny_d812643e_1:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2454## # translate crowdin laurenspycamroomhorny_6e554fd7_1:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -3786,11 +3786,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2457## # translate crowdin laurenspycamroomhorny_07634fed_1:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2458## # translate crowdin laurenspycamroomhorny_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2459## # translate crowdin laurenspycamroomhorny_16d37eb8_1:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3862,7 +3862,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2519## # translate crowdin laurenspycamroomhorny_d812643e_2:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2521## # translate crowdin laurenspycamroomhorny_6e554fd7_2:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -3878,11 +3878,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2524## # translate crowdin laurenspycamroomhorny_07634fed_2:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2525## # translate crowdin laurenspycamroomhorny_de144e4d_2:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2526## # translate crowdin laurenspycamroomhorny_16d37eb8_2:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -3958,7 +3958,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2587## # translate crowdin laurenspycamroomhorny_d812643e_3:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2589## # translate crowdin laurenspycamroomhorny_6e554fd7_3:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -3974,11 +3974,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2592## # translate crowdin laurenspycamroomhorny_07634fed_3:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2593## # translate crowdin laurenspycamroomhorny_de144e4d_3:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2594## # translate crowdin laurenspycamroomhorny_16d37eb8_3:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4054,7 +4054,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2655## # translate crowdin laurenspycamroomhorny_d812643e_4:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2657## # translate crowdin laurenspycamroomhorny_6e554fd7_4:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -4070,11 +4070,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2660## # translate crowdin laurenspycamroomhorny_07634fed_4:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2661## # translate crowdin laurenspycamroomhorny_de144e4d_4:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2662## # translate crowdin laurenspycamroomhorny_16d37eb8_4:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4110,7 +4110,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2754## # translate crowdin laurenspycamroomhorny_9f57fb05:
 msgid "[RT] {i}I've got to get a picture of this!{/i}"
-msgstr "[RT] {i}Je dois prendre une photo de ça!{/je}"
+msgstr "[RT] {i}Je dois prendre une photo de ça!{/i}"
 
 # game/UpdateScript0.02.rpy:2771## # translate crowdin laurenspycamroomhorny_7a67ddeb_5:
 msgid "[LT] {i}Oh SHIIIIIT!!!{/i}"
@@ -4178,7 +4178,7 @@ msgstr "[RT] {i}Wow! Lauren est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2797## # translate crowdin laurenspycamroomhorny_d812643e_5:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2799## # translate crowdin laurenspycamroomhorny_6e554fd7_5:
 msgid "[RT] {i}Oh my God! Lauren just squirted all over her bed!{/i}"
@@ -4194,11 +4194,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2802## # translate crowdin laurenspycamroomhorny_07634fed_5:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2803## # translate crowdin laurenspycamroomhorny_de144e4d_5:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Lauren -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2804## # translate crowdin laurenspycamroomhorny_16d37eb8_5:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4254,11 +4254,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2866## # translate crowdin sidneyspycamroomhorny_93230fe9:
 msgid "[RT] {i}Nooieeesh!.... She's going for it!{/i}"
-msgstr "[RT] {i}Wheeeeesh!.... Elle y va !{/je}"
+msgstr "[RT] {i}Wheeeeesh!.... Elle y va !{/i}"
 
 # game/UpdateScript0.02.rpy:2868## # translate crowdin sidneyspycamroomhorny_ef0c7085:
 msgid "[RT] {i}I've got to get a picture of this.{/i}"
-msgstr "[RT] {i}Je dois prendre une photo de cela.{/je}"
+msgstr "[RT] {i}Je dois prendre une photo de cela.{/i}"
 
 # game/UpdateScript0.02.rpy:2877## # translate crowdin sidneyspycamroomhorny_770c7431:
 msgid "[RT] {i}I wonder what Sidney thinks about when she's buttering her muffin?{/i}"
@@ -4314,11 +4314,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2913## # translate crowdin sidneyspycamroomhorny_79bf771e:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2914## # translate crowdin sidneyspycamroomhorny_d812643e:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2916## # translate crowdin sidneyspycamroomhorny_f34004ea:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4334,11 +4334,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2919## # translate crowdin sidneyspycamroomhorny_07634fed:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2920## # translate crowdin sidneyspycamroomhorny_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2921## # translate crowdin sidneyspycamroomhorny_16d37eb8:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4398,11 +4398,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2962## # translate crowdin sidneyspycamroomhorny_79bf771e_1:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:2963## # translate crowdin sidneyspycamroomhorny_d812643e_1:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:2965## # translate crowdin sidneyspycamroomhorny_f34004ea_1:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4418,11 +4418,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:2968## # translate crowdin sidneyspycamroomhorny_07634fed_1:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:2969## # translate crowdin sidneyspycamroomhorny_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:2970## # translate crowdin sidneyspycamroomhorny_16d37eb8_1:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4482,11 +4482,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3011## # translate crowdin sidneyspycamroomhorny_79bf771e_2:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:3012## # translate crowdin sidneyspycamroomhorny_d812643e_2:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:3014## # translate crowdin sidneyspycamroomhorny_f34004ea_2:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4502,11 +4502,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3017## # translate crowdin sidneyspycamroomhorny_07634fed_2:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:3018## # translate crowdin sidneyspycamroomhorny_445042f6_2:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3019## # translate crowdin sidneyspycamroomhorny_16d37eb8_2:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4566,11 +4566,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3060## # translate crowdin sidneyspycamroomhorny_79bf771e_3:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:3061## # translate crowdin sidneyspycamroomhorny_d812643e_3:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:3063## # translate crowdin sidneyspycamroomhorny_f34004ea_3:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4586,11 +4586,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3066## # translate crowdin sidneyspycamroomhorny_07634fed_3:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:3067## # translate crowdin sidneyspycamroomhorny_445042f6_3:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3068## # translate crowdin sidneyspycamroomhorny_16d37eb8_3:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4658,11 +4658,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3113## # translate crowdin sidneyspycamroomhorny_79bf771e_4:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:3114## # translate crowdin sidneyspycamroomhorny_d812643e_4:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:3116## # translate crowdin sidneyspycamroomhorny_f34004ea_4:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4678,11 +4678,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3119## # translate crowdin sidneyspycamroomhorny_07634fed_4:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:3120## # translate crowdin sidneyspycamroomhorny_445042f6_4:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3121## # translate crowdin sidneyspycamroomhorny_16d37eb8_4:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -4694,7 +4694,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3130## # translate crowdin sidneyspycamroomhorny_ae0468d0:
 msgid "[ST] {i}What is wrong with me lately.{/i}"
-msgstr "[ST] {i}Qu'est-ce qui ne va pas avec moi ces derniers temps.{/je}"
+msgstr "[ST] {i}Qu'est-ce qui ne va pas avec moi ces derniers temps.{/i}"
 
 # game/UpdateScript0.02.rpy:3131## # translate crowdin sidneyspycamroomhorny_323ccd53:
 msgid "[ST] {i}I'm just so horny all the time.{/i}"
@@ -4770,7 +4770,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3209## # translate crowdin sidneyspycamroomhorny_9dd5f8cf_5:
 msgid "[ST] {i}What's wrong with me.{/i}"
-msgstr "[ST] {i}Qu'est-ce qui ne va pas avec moi.{/je}"
+msgstr "[ST] {i}Qu'est-ce qui ne va pas avec moi.{/i}"
 
 # game/UpdateScript0.02.rpy:3210## # translate crowdin sidneyspycamroomhorny_0375956e_1:
 msgid "[ST] {i}It doesn't help that I'm sharing his bed.{/i}"
@@ -4786,7 +4786,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3215## # translate crowdin sidneyspycamroomhorny_1346ff7c_5:
 msgid "[RT] {i}And that makes 3 for 3.{/i}"
-msgstr "[RT] {i}Et cela fait 3 pour 3.{/je}"
+msgstr "[RT] {i}Et cela fait 3 pour 3.{/i}"
 
 # game/UpdateScript0.02.rpy:3216## # translate crowdin sidneyspycamroomhorny_42be0526_5:
 msgid "[RT] {i}Is it something Mom's feeding them?{/i}"
@@ -4794,11 +4794,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3218## # translate crowdin sidneyspycamroomhorny_79bf771e_5:
 msgid "[RT] {i}Wow! Sidney's a squirter too.{/i}"
-msgstr ""
+msgstr "[RT] {i}Wow! Sidney est aussi une femme fontaine.{/i}"
 
 # game/UpdateScript0.02.rpy:3219## # translate crowdin sidneyspycamroomhorny_d812643e_5:
 msgid "[RT] {i}Maybe it's a family thing.{/i}"
-msgstr "[RT] {i}C'est peut-être une histoire de famille.{/je}"
+msgstr "[RT] {i}C'est peut-être une histoire de famille.{/i}"
 
 # game/UpdateScript0.02.rpy:3221## # translate crowdin sidneyspycamroomhorny_f34004ea_5:
 msgid "[RT] {i}Oh my God! Sidney just squirted all over her bed!{/i}"
@@ -4814,11 +4814,11 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3224## # translate crowdin sidneyspycamroomhorny_07634fed_5:
 msgid "[RT] {i}Just.... wow!{/i}"
-msgstr "[RT] {i}Juste.... Ça alors!{/je}"
+msgstr "[RT] {i}Juste.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:3225## # translate crowdin sidneyspycamroomhorny_445042f6_5:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3226## # translate crowdin sidneyspycamroomhorny_16d37eb8_5:
 msgid "[RT] {i}I might need to go back to my room to take care of something myself.{/i}"
@@ -5798,7 +5798,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3727## # translate crowdin ntrclub_abbc4049:
 msgid "[RT] {i}I've got to get a picture.{/i}"
-msgstr "[RT] {i}Je dois prendre une photo.{/je}"
+msgstr "[RT] {i}Je dois prendre une photo.{/i}"
 
 # game/UpdateScript0.02.rpy:3733## # translate crowdin ntrclub_2e886a70:
 msgid "[RT] {i}That will be a nice addition to the collection.{/i}"
@@ -5850,7 +5850,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3761## # translate crowdin ntrclub_8218ca44:
 msgid "[RT] {i}Shit, she looks worried.{/i}"
-msgstr "[RT] {i}Merde, elle a l'air inquiète.{/je}"
+msgstr "[RT] {i}Merde, elle a l'air inquiète.{/i}"
 
 # game/UpdateScript0.02.rpy:3764## # translate crowdin ntrclub_8e9a804a:
 msgid "[VOM] Next up we have a hot little cowgirl who's ready to ride the pole like you wish she'd ride your pole."
