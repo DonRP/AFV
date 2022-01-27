@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-25 13:19\n"
+"PO-Revision-Date: 2022-01-27 12:55\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.03.rpy:466## # translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'ai enfin terminé le travail Zad 3D et la retouche photo.{/i}"
 
 # game/UpdateScript0.03.rpy:467## # translate crowdin posting_the_htbyd_pics_b5e1a766:
 msgid "[RT] {i}They turned out pretty damn hot if I do say so myself.{/i}"
-msgstr ""
+msgstr "[RT] {i}Elles se sont révélées sacrément chaudes si je le dis moi-même.{/i}"
 
 # game/UpdateScript0.03.rpy:468## # translate crowdin posting_the_htbyd_pics_1ec43bb1:
 msgid "[RT] {i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
-msgstr ""
+msgstr "[RT] {i}Télécharger les photos maintenant.... et cliquer sur Soumettre.... et maintenant, j'attends de voir si quelqu'un les aime.{/i}"
 
 # game/UpdateScript0.03.rpy:469## # translate crowdin posting_the_htbyd_pics_6e5a373c:
 msgid "[RT] {i}I've got to be sure to check the website sometime tomorrow.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois vérifier le site Web demain.{/i}"
 
 # game/UpdateScript0.03.rpy:484## # translate crowdin check_for_htbyd_likes_b47e0d22:
 msgid "[RT] {i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, je dois juste me connecter avec mon nom d'utilisateur avec mon mot de passe et je verrais si quelqu'un a aimé les photos des filles.{/i}"
 
 # game/UpdateScript0.03.rpy:491## # translate crowdin check_for_htbyd_likes_213638a4:
 msgid "[R] Oh, hey Lauren, what's up?"
@@ -166,11 +166,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:571## # translate crowdin diazvisit_02e1ece4:
 msgid "[S] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-msgstr ""
+msgstr "[S] Sors [ryan], je suis trop fatiguée.... pas habillée.... en culotte.... {i}ronflement{/i}..."
 
 # game/UpdateScript0.03.rpy:572## # translate crowdin diazvisit_f21c2334:
 msgid "[RT] {i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
-msgstr ""
+msgstr "[RT] {i}Quiconque sonne à la porte si tôt, ne peut pas être ici avec de bonnes nouvelles.{/je}"
 
 # game/UpdateScript0.03.rpy:577## # translate crowdin diazvisit_80cae6de:
 msgid "[AD] Well, good morning [ryan]!"
@@ -242,7 +242,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:601## # translate crowdin diazvisit_f5e057fd:
 msgid "[RT] {i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh mon Dieu.... de quoi s'agit-il ?.... J'espère que je n'ai rien fait pour que Lauren ait des ennuis.{/je}"
 
 # game/UpdateScript0.03.rpy:604## # translate crowdin diazvisit_2bd18c71:
 msgid "[AD] Good morning Lauren, I hope you slept well."
