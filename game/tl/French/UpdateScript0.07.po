@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-25 13:19\n"
+"PO-Revision-Date: 2022-01-28 13:03\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.07.rpy:1024## # translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -5858,7 +5858,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:4301## # translate crowdin stones_classroom_89c7c530:
 msgid "[MS] {i}(Whispering){/i} But we probably will."
-msgstr ""
+msgstr "[MS] {i}(murmure){/i} Mais nous le ferons probablement."
 
 # game/UpdateScript0.07.rpy:4304## # translate crowdin stones_classroom_fa25cb80:
 msgid "[MS] So, are we looking at 20 more posters?"
@@ -15958,7 +15958,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9701## # translate crowdin election_announcement_c3d1331b:
 msgid "[PH] {i}(Whispering){/i} Oh, shit!..."
-msgstr ""
+msgstr "[PH] {i}(murmure){/i} Oh, merde!..."
 
 # game/UpdateScript0.07.rpy:9702## # translate crowdin election_announcement_9b23fc7e:
 msgid "[MG] Hey! She used to be my cheerleading captain when I was a freshman!"
@@ -15982,11 +15982,11 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9711## # translate crowdin election_announcement_77b958e5:
 msgid "[PH] {i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
-msgstr ""
+msgstr "[PH] {i}(murmure en colère){/i} Tu veux être tranquille!... Nous allons le diffuser dans toute l'école!"
 
 # game/UpdateScript0.07.rpy:9712## # translate crowdin election_announcement_6df3498f:
 msgid "[MJ] {i}(whispering){/i} Sorry..."
-msgstr ""
+msgstr "[MJ] {i}(murmure){/i} désolé..."
 
 # game/UpdateScript0.07.rpy:9715## # translate crowdin election_announcement_4afa93cf:
 msgid "[PH] This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
@@ -16678,7 +16678,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:10186## # translate crowdin talk_to_megan_db3f955c:
 msgid "[MG] Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
-msgstr ""
+msgstr "[MG] Chut... {i}(murmure){/i} Pas si fort... Il est juste de l'autre côté de la pièce à parler à ta mère."
 
 # game/UpdateScript0.07.rpy:10187## # translate crowdin talk_to_megan_9e7dc4ab:
 msgid "[MG] You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
@@ -17458,7 +17458,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:10554## # translate crowdin talk_to_megan_4de4f45b:
 msgid "[MG] {i}(whispering){/i} Hurry... flip the image and wave, so he can see you."
-msgstr ""
+msgstr "[MG] {i}(murmure){/i} Dépêches-toi... retournes l'image et agites la pour qu'il puisse te voir."
 
 # game/UpdateScript0.07.rpy:10557## # translate crowdin talk_to_megan_da8e5f7a:
 msgid "[MG] That's right... Your good friend, [ryan]."
@@ -31002,7 +31002,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:17721## # translate crowdin diaz_cum_96fb7f7c:
 msgid "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
-msgstr ""
+msgstr "[AD] Ohhrr Moonn Grdiieeuuu!... {i}glup glup{/i}"
 
 # game/UpdateScript0.07.rpy:17724## # translate crowdin diaz_cum_ead3c4ef:
 msgid "[AD] You covered me again!"
@@ -31078,7 +31078,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:17790## # translate crowdin diaz_cum_96fb7f7c_1:
 msgid "[AD] Ohhrr Mrry Grod!... {i}gurgle gurgle{/i}"
-msgstr ""
+msgstr "[AD] Ohhrr Moonn Grdiieeuuu!... {i}glup glup{/i}"
 
 # game/UpdateScript0.07.rpy:17793## # translate crowdin diaz_cum_af993942:
 msgid "[AD] You covered me!"
