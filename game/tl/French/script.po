@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-27 12:55\n"
+"PO-Revision-Date: 2022-01-28 13:03\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3670,7 +3670,7 @@ msgstr "[RT] {i}Ok, ici rien ne va.{/je}"
 
 # game/script.rpy:4742## # translate crowdin momsneakingnight_d45198c3:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
-msgstr "[R] {i}(Chuchotement){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
+msgstr "[R] {i}(murmure){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
 
 # game/script.rpy:4751## # translate crowdin momsneakingnight_0cecc919:
 msgid "10 minutes later."
@@ -3678,7 +3678,7 @@ msgstr "10 min plus tard."
 
 # game/script.rpy:4752## # translate crowdin momsneakingnight_d45198c3_1:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
-msgstr "[R] {i}(Chuchotement){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
+msgstr "[R] {i}(murmure){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
 
 # game/script.rpy:4753## # translate crowdin momsneakingnight_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
@@ -3698,7 +3698,7 @@ msgstr "[RT] {i}Ok, essayons à nouveau les messages subliminaux.{/i}"
 
 # game/script.rpy:4781## # translate crowdin momsneakingnight_d45198c3_2:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
-msgstr "[R] {i}(Chuchotement){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
+msgstr "[R] {i}(murmure){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
 
 # game/script.rpy:4790## # translate crowdin momsneakingnight_0cecc919_1:
 msgid "10 minutes later."
@@ -3706,7 +3706,7 @@ msgstr "10 min plus tard."
 
 # game/script.rpy:4791## # translate crowdin momsneakingnight_d45198c3_3:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
-msgstr "[R] {i}(Chuchotement){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
+msgstr "[R] {i}(murmure){/i} '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....' '[ryan] devrait être l'homme de la maison....'"
 
 # game/script.rpy:4792## # translate crowdin momsneakingnight_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
@@ -4542,7 +4542,7 @@ msgstr ""
 
 # game/script.rpy:5872## # translate crowdin laurensneakingnight_279026a1:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Tu penses que ton frère est sexy.... tu penses que ton frère est sexy.... tu penses que ton frère est sexy..."
 
 # game/script.rpy:5881## # translate crowdin laurensneakingnight_0cecc919:
 msgid "10 minutes later."
@@ -4550,7 +4550,7 @@ msgstr ""
 
 # game/script.rpy:5882## # translate crowdin laurensneakingnight_279026a1_1:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Tu penses que ton frère est sexy.... tu penses que ton frère est sexy.... tu penses que ton frère est sexy..."
 
 # game/script.rpy:5883## # translate crowdin laurensneakingnight_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
@@ -4570,7 +4570,7 @@ msgstr ""
 
 # game/script.rpy:5906## # translate crowdin laurensneakingnight_279026a1_2:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Tu penses que ton frère est sexy.... tu penses que ton frère est sexy.... tu penses que ton frère est sexy..."
 
 # game/script.rpy:5915## # translate crowdin laurensneakingnight_0cecc919_1:
 msgid "10 minutes later."
@@ -4578,7 +4578,7 @@ msgstr ""
 
 # game/script.rpy:5916## # translate crowdin laurensneakingnight_279026a1_3:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy.... you think your brother is sexy..."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Tu penses que ton frère est sexy.... tu penses que ton frère est sexy.... tu penses que ton frère est sexy..."
 
 # game/script.rpy:5917## # translate crowdin laurensneakingnight_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
@@ -4946,11 +4946,11 @@ msgstr ""
 
 # game/script.rpy:6150## # translate crowdin sidneylaurensneakattempt_4f336118:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy..."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Tu penses que ton frère est sexy.... tu penses que ton frère est sexy..."
 
 # game/script.rpy:6151## # translate crowdin sidneylaurensneakattempt_22b514b4:
 msgid "[R] {i}(Whispering){/i} You think your brother is .... oh, shit!"
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Tu penses que ton frère est.... oh, merde!"
 
 # game/script.rpy:6154## # translate crowdin sidneylaurensneakattempt_5b549de2:
 msgid "[S] Hmmmmm?.... Lauren?.... Did you say something?"
@@ -5418,7 +5418,7 @@ msgstr ""
 
 # game/script.rpy:6413## # translate crowdin sidneylaurensneakingnight_89808008:
 msgid "[RT] {i}So far so good.... If they really are in a deep sleep, I should be able to get away with more than just whispering in their ears.{/i}"
-msgstr ""
+msgstr "[RT] {i}Jusqu'à présent tout va bien.... Si elles sont vraiment dans un sommeil profond, je devrais pouvoir m'en tirer avec plus que des chuchotements dans leurs oreilles.{/i}"
 
 # game/script.rpy:6414## # translate crowdin sidneylaurensneakingnight_a82af8f5:
 msgid "[RT] {i}It's always going to be hard for me to get away with much if they are in the same bed.{/i}"
@@ -5882,47 +5882,47 @@ msgstr ""
 
 # game/script.rpy:6831## # translate crowdin firstdayofschool_2c1deb09:
 msgid "[MB] {i}(whispering){/i} Your mom has one fine ass! Don't you think?"
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Ta mère a un beau cul! Tu ne crois pas?"
 
 # game/script.rpy:6832## # translate crowdin firstdayofschool_417bd2bc:
 msgid "[R] {i}(whispering desperately){/i}.... what, are you crazy! She's my mom! I would never think of her like that!"
-msgstr ""
+msgstr "[R] {i}(murmure désespéré) {/i}.... quoi, tu es fou! C'est ma mère! Je ne penserais jamais à elle comme ça!"
 
 # game/script.rpy:6833## # translate crowdin firstdayofschool_a32b3195:
 msgid "[MB] {i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} ouais d'accord, et c'est juste le cirque sous ton pantalon."
 
 # game/script.rpy:6834## # translate crowdin firstdayofschool_b132699b:
 msgid "[MB] {i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Je connais la faim qui est dans ton expression quand tu la regardes."
 
 # game/script.rpy:6837## # translate crowdin firstdayofschool_63d0dbc1:
 msgid "[MB] {i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Détends-toi cependant.... Je ne juge pas, et je ne t'en veux pas."
 
 # game/script.rpy:6838## # translate crowdin firstdayofschool_65406bbc:
 msgid "[MB] {i}(whispering){/i} In fact, I can help you get what you want."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} En fait, je peux t'aider à obtenir ce que tu veux."
 
 # game/script.rpy:6841## # translate crowdin firstdayofschool_c4388d21:
 msgid "[R] {i}(whispering){/i} What do you mean?"
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Que veux-tu dire?"
 
 # game/script.rpy:6842## # translate crowdin firstdayofschool_96aab6bf:
 msgid "[MB] {i}(whispering){/i} I mean I can help you conquer your mom."
-msgstr ""
+msgstr "[MB] {i}(murmure){/i} Je veux dire que je peux t'aider à conquérir ta mère."
 
 # game/script.rpy:6843## # translate crowdin firstdayofschool_e974b93b:
 msgid "[R] {i}(whispering){/i} Ha.... yeah right."
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Ha.... oui, d'accord."
 
 # game/script.rpy:6844## # translate crowdin firstdayofschool_b93009a4:
 msgid "[MB] {i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Je suis sérieux, tout ce que je voudrais en retour, c'est aller la voir moi-même."
 
 # game/script.rpy:6845## # translate crowdin firstdayofschool_6ba66b7f:
 msgid "[MB] {i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Et si tu es prêt à partager, je serais prêt à partager ce que j'ai avec toi."
 
 # game/script.rpy:6848## # translate crowdin firstdayofschool_98ba60a2:
 msgid "[RT] {i}If anyone could help me seduce Mom, it would probably be Matt.{/i}"
@@ -5950,15 +5950,15 @@ msgstr ""
 
 # game/script.rpy:6859## # translate crowdin firstdayofschool_d8a5a8e7:
 msgid "[R] {i}(whispering){/i} Ok, but the deal is that I get her first. After I've \"conquered\" her, then you can have a go at her."
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Ok, mais le marché est que je l'ai en premier. Une fois que je l'ai 'conquise', tu peux l'essayer."
 
 # game/script.rpy:6860## # translate crowdin firstdayofschool_26269138:
 msgid "[MB] {i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Ha.... Je savais que tu étais un pervers comme moi ! Laisses-moi un peu de temps et je trouverais quelque chose."
 
 # game/script.rpy:6861## # translate crowdin firstdayofschool_e1e11780:
 msgid "[MB] {i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Et pour te montrer à quel point je suis engagé, allez dans la première cabine de toilette de la salle de bain des garçons pendant l'après-midi et je t'enverrais une surprise."
 
 # game/script.rpy:6862## # translate crowdin firstdayofschool_e7813929:
 msgid "[RT] {i}Hmmmm.... I wonder what the surprise could be.{/i}"
@@ -5974,31 +5974,31 @@ msgstr ""
 
 # game/script.rpy:6872## # translate crowdin firstdayofschool_617c3dec:
 msgid "[R] {i}(whispering){/i} You're a sick fuck. Did you know that?"
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Tu es un putain de malade. Le sais-tu ?"
 
 # game/script.rpy:6873## # translate crowdin firstdayofschool_c5f44577:
 msgid "[R] {i}(whispering){/i} I don't know what your perverted imagination is coming up with, but I don't want to fuck my own mother!"
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Je ne sais pas ce que ton imagination perverse va inventer, mais je ne veux pas baiser ma propre mère!"
 
 # game/script.rpy:6874## # translate crowdin firstdayofschool_f81d6bfa:
 msgid "[MB] {i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} ouais, eh bien tu es clairement dans le déni, et puisque tu fais semblant de ne pas être intéressé, je pense que je vais juste essayer de l'avoir de toute façon."
 
 # game/script.rpy:6875## # translate crowdin firstdayofschool_cd568da7:
 msgid "[R] {i}(whispering){/i} Don't you dare!"
-msgstr ""
+msgstr "[R] {i}(murmure){/i} N'y penses même pas!"
 
 # game/script.rpy:6876## # translate crowdin firstdayofschool_ec175fd2:
 msgid "[MB] {i}(whispering){/i} Ah ha.... I knew it!"
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Ah ha.... Je le savais !"
 
 # game/script.rpy:6877## # translate crowdin firstdayofschool_71cc99e1:
 msgid "[MB] {i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
-msgstr ""
+msgstr "[MB] {i}(murmure) {/i} Ne t'inquiètes pas, je ne le dirais à personne, et je ne la poursuivrais pas, mais si elle vient renifler ici, je ne pourrais pas résister."
 
 # game/script.rpy:6878## # translate crowdin firstdayofschool_18af3a96:
 msgid "[R] {i}(whispering){/i} Yeah, right.... like that would ever happen."
-msgstr ""
+msgstr "[R] {i}(murmure) {/i} Ouais, c'est ça.... comme si ça arriverait un jour."
 
 # game/script.rpy:6879## # translate crowdin firstdayofschool_c732ef60:
 msgid "[RT] {i}Would that ever happen?{/i}"
@@ -6106,11 +6106,11 @@ msgstr ""
 
 # game/script.rpy:7020## # translate crowdin stallbj_cc1ba024:
 msgid "[X] {i}(whispering){/i} Hey [ryan], is that you?"
-msgstr "[X] {i}(chuchotement){/i} Hé [ryan], c'est toi?"
+msgstr "[X] {i}(murmure) {/i} Hé [ryan], c'est toi?"
 
 # game/script.rpy:7021## # translate crowdin stallbj_8b3f1614:
 msgid "[RT] {i}(whispering){/i} Yes it's me. Who's asking?"
-msgstr ""
+msgstr "[RT] {i}(murmure) {/i} Oui c'est moi. Qui me demande?"
 
 # game/script.rpy:7025## # translate crowdin stallbj_8bffdbfc:
 msgid "[MG] Hey there, stud. Are you ready to get your knob polished?"
