@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-25 13:19\n"
+"PO-Revision-Date: 2022-01-28 13:03\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:476## # translate crowdin sidneys_home_late_bacad9cc:
 msgid "[R] {i}(whispering){/i} Oh.... Hey Sidney."
-msgstr ""
+msgstr "[R] {i}(murmure){/i} Oh .... Hé Sidney."
 
 # game/UpdateScript0.05.rpy:477## # translate crowdin sidneys_home_late_246eb5ce:
 msgid "[S] Oh.... I'm sorry I woke you.... I was trying to be as quiet as I can."
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:500## # translate crowdin sidneys_home_late_bca1ed1b:
 msgid "[R] {i}(whispering loudly){/i} Sidney!.... Go change your clothes!"
-msgstr ""
+msgstr "[R] {i}(murmure fort){/i} Sidney!.... Vas te changer !"
 
 # game/UpdateScript0.05.rpy:501## # translate crowdin sidneys_home_late_0b7e00d7:
 msgid "[R] Pssst.... Sidney!"
@@ -1042,11 +1042,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1002## # translate crowdin sidney_morning_jog_1245bda0:
 msgid "[CMT] {i}Fuck!....{/i}"
-msgstr ""
+msgstr "[CMT] {i}Putain!....{/i}"
 
 # game/UpdateScript0.05.rpy:1003## # translate crowdin sidney_morning_jog_4f12adf8:
 msgid "[CMT] {i}How did I get separated from my unit?{/i}"
-msgstr ""
+msgstr "[CMT] {i}Comment ai-je été séparé de mon unité?{/je}"
 
 # game/UpdateScript0.05.rpy:1006## # translate crowdin sidney_morning_jog_ea3a8e8f:
 msgid "[CMT] {i}Ok... I must have been knocked unconscious.{/i}"
@@ -1054,23 +1054,23 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1007## # translate crowdin sidney_morning_jog_ff9695f7:
 msgid "[CMT] {i}Because I don't remember how I got here.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Parce que je ne me souviens pas comment je suis arrivé ici.{/je}"
 
 # game/UpdateScript0.05.rpy:1008## # translate crowdin sidney_morning_jog_b3ac0158:
 msgid "[CMT] {i}At least I don't have any other wounds.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Au moins je n'ai aucune autre blessure.{/i}"
 
 # game/UpdateScript0.05.rpy:1011## # translate crowdin sidney_morning_jog_d17dc7e9:
 msgid "[CMT] {i}How did I lose my rifle? Well, at least I still have my trusty sidearm.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Comment ai-je perdu mon fusil? Au moins, j'ai toujours ma fidèle arme de poing.{/je}"
 
 # game/UpdateScript0.05.rpy:1012## # translate crowdin sidney_morning_jog_ba71eb03:
 msgid "[CMT] {i}I just hope the other boys from the unit are ok.{/i}"
-msgstr ""
+msgstr "[CMT] {i}J'espère juste que les autres hommes de l'unité vont bien.{/je}"
 
 # game/UpdateScript0.05.rpy:1015## # translate crowdin sidney_morning_jog_df9facfc:
 msgid "[CMT] {i}It looks like I'm coming up onto a clearing.{/i}"
-msgstr ""
+msgstr "[CMT] {i}On dirait que j'arrive sur une clairière.{/je}"
 
 # game/UpdateScript0.05.rpy:1016## # translate crowdin sidney_morning_jog_2c9a6e2f:
 msgid "[CMT] {i}There must be a village nearby.{/i}"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1017## # translate crowdin sidney_morning_jog_653f58c6:
 msgid "[CMT] {i}I just hope they're friendlies.{/i}"
-msgstr ""
+msgstr "[CMT] {i}J'espère juste que ce sont des unitée amies.{/i}"
 
 # game/UpdateScript0.05.rpy:1018## # translate crowdin sidney_morning_jog_166eb0f2:
 msgid "[CMT] {i}Oh... what do we have here?{/i}"
@@ -1094,11 +1094,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1023## # translate crowdin sidney_morning_jog_4aeedbb9:
 msgid "[CMT] {i}I'm going to have to go get me some of that.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Je vais devoir aller me chercher une partie de ça.{/je}"
 
 # game/UpdateScript0.05.rpy:1024## # translate crowdin sidney_morning_jog_51b1265d:
 msgid "[CMT] {i}Even if she is on the enemy side, I'm sure she wouldn't say no to a few dollars.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Même si elle est du côté ennemi, je suis sûr qu'elle ne dirait pas non à quelques dollars.{/je}"
 
 # game/UpdateScript0.05.rpy:1029## # translate crowdin sidney_morning_jog_a1b85b5a:
 msgid "[ST] {i}Urgggghhh.... He must have given up and gone home.{/i}"
@@ -6566,7 +6566,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3634## # translate crowdin breakfast_events_e7adda95:
 msgid "[M] {i}(whispering){/i} Anytime that your brother isn't around!"
-msgstr ""
+msgstr "[M] {i}(murmure){/i} Chaque fois que ton frère n'est pas là!"
 
 # game/UpdateScript0.05.rpy:3637## # translate crowdin breakfast_events_507c726a:
 msgid "[R] Wait! What's going on?"
@@ -11665,7 +11665,7 @@ msgstr ""
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Sex {i}(Bonus){/i}"
-msgstr ""
+msgstr "Sexe {i}(Bonus) {/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
