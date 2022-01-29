@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-28 13:03\n"
+"PO-Revision-Date: 2022-01-29 13:11\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -1038,7 +1038,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1001## # translate crowdin sidney_morning_jog_1768012b:
 msgid "[CMT] {i}Shit!....{/i}"
-msgstr ""
+msgstr "[CMT] {i}Merde!...{/i}"
 
 # game/UpdateScript0.05.rpy:1002## # translate crowdin sidney_morning_jog_1245bda0:
 msgid "[CMT] {i}Fuck!....{/i}"
@@ -1050,7 +1050,7 @@ msgstr "[CMT] {i}Comment ai-je été séparé de mon unité?{/je}"
 
 # game/UpdateScript0.05.rpy:1006## # translate crowdin sidney_morning_jog_ea3a8e8f:
 msgid "[CMT] {i}Ok... I must have been knocked unconscious.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Ok... J'ai dû être assommé.{/je}"
 
 # game/UpdateScript0.05.rpy:1007## # translate crowdin sidney_morning_jog_ff9695f7:
 msgid "[CMT] {i}Because I don't remember how I got here.{/i}"
@@ -1074,7 +1074,7 @@ msgstr "[CMT] {i}On dirait que j'arrive sur une clairière.{/je}"
 
 # game/UpdateScript0.05.rpy:1016## # translate crowdin sidney_morning_jog_2c9a6e2f:
 msgid "[CMT] {i}There must be a village nearby.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Il doit y avoir un village à proximité.{/je}"
 
 # game/UpdateScript0.05.rpy:1017## # translate crowdin sidney_morning_jog_653f58c6:
 msgid "[CMT] {i}I just hope they're friendlies.{/i}"
@@ -1082,15 +1082,15 @@ msgstr "[CMT] {i}J'espère juste que ce sont des unitée amies.{/i}"
 
 # game/UpdateScript0.05.rpy:1018## # translate crowdin sidney_morning_jog_166eb0f2:
 msgid "[CMT] {i}Oh... what do we have here?{/i}"
-msgstr ""
+msgstr "[CMT] {i}Oh... qu'avons-nous ici?{/je}"
 
 # game/UpdateScript0.05.rpy:1021## # translate crowdin sidney_morning_jog_d8a0377d:
 msgid "[CMT] {i}Looks like the village prostitute is out peddling her wares.{/i}"
-msgstr ""
+msgstr "[CMT] {i}On dirait que la prostituée du village a sorti ses marchandises.{/i}"
 
 # game/UpdateScript0.05.rpy:1022## # translate crowdin sidney_morning_jog_928e01e2:
 msgid "[CMT] {i}She looks like she's all alone.{/i}"
-msgstr ""
+msgstr "[CMT] {i}Elle a l'air d'être toute seule.{/je}"
 
 # game/UpdateScript0.05.rpy:1023## # translate crowdin sidney_morning_jog_4aeedbb9:
 msgid "[CMT] {i}I'm going to have to go get me some of that.{/i}"
@@ -1154,7 +1154,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1048## # translate crowdin sidney_morning_jog_ec8f0b4c:
 msgid "[CMT] {i}Shit!.... It's the commies!{/i}"
-msgstr ""
+msgstr "[CMT] {i}Merde!.... C'est quoi cette bande!{/i}"
 
 # game/UpdateScript0.05.rpy:1051## # translate crowdin sidney_morning_jog_897a6ad0:
 msgid "[CM] You'll never catch me alive, you commie bastard!"
@@ -2486,11 +2486,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1615## # translate crowdin tv_together_f99745f4:
 msgid "[LT] {i}I can't believe [ryan] caught me rubbing myself.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'arrive pas à croire que [ryan] m'ait surprise à me caresser.{/i}"
 
 # game/UpdateScript0.05.rpy:1616## # translate crowdin tv_together_f6aad67d:
 msgid "[LT] {i}I was doing it right next to him.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je le faisais juste à côté de lui.{/je}"
 
 # game/UpdateScript0.05.rpy:1617## # translate crowdin tv_together_81640f51:
 msgid "[LT] {i}While watching a TV show about a woman blowing her brother.{/i}"
@@ -2498,7 +2498,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1618## # translate crowdin tv_together_abe0cc32:
 msgid "[LT] {i}How many blowjobs is Cersei going to give her brother this season anyways?{/i}"
-msgstr ""
+msgstr "[LT] {i}Combien de fellations Cersei va-t-elle donner à son frère cette saison de toute façon?{/je}"
 
 # game/UpdateScript0.05.rpy:1619## # translate crowdin tv_together_1a22ccbc:
 msgid "[LT] {i}Where's my self-control?{/i}"
@@ -2706,7 +2706,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1758## # translate crowdin tv_together_2eb9ffe8:
 msgid "[LT] {i}How am I going to get it down my throat?{/i}"
-msgstr ""
+msgstr "[LT] {i}Comment vais-je l'avoir dans la gorge?{/je}"
 
 # game/UpdateScript0.05.rpy:1760## # translate crowdin tv_together_1cabcfd8:
 msgid "[R] That's great, Lauren!.... You should see if you can go a little deeper."
@@ -2714,7 +2714,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1768## # translate crowdin tv_together_37849139:
 msgid "[LT] {i}Oh my God!.... Don't gag, don't gag, don't gag!{/i}"
-msgstr ""
+msgstr "[LT] {i}Oh mon Dieu!.... Pas de bâillon, pas de bâillon, pas de bâillon!{/i}"
 
 # game/UpdateScript0.05.rpy:1769## # translate crowdin tv_together_f24b6048:
 msgid "[R] Oh, God!...."
@@ -2726,11 +2726,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1777## # translate crowdin tv_together_add1ebf6:
 msgid "[LT] {i}I'm doing it?.... Holy shit, I'm swallowing his hog!{/i}"
-msgstr ""
+msgstr "[LT] {i}Je le fais?.... Merde, j'avale sa queue!{/i}"
 
 # game/UpdateScript0.05.rpy:1778## # translate crowdin tv_together_5c2fb945:
 msgid "[LT] {i}I guess all that practice with my dildo paid off.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je suppose que toute cette pratique avec mon gode a porté ses fruits.{/je}"
 
 # game/UpdateScript0.05.rpy:1779## # translate crowdin tv_together_d420ebfc:
 msgid "[R] Oh my God, Lauren! How are you so good for your first time?"
@@ -2842,7 +2842,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1832## # translate crowdin tv_together_0cb64da0:
 msgid "[LT] {i}Holy shit!.... I just licked up my brother's cum in front of our mom!{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde!.... Je viens de lécher le sperme de mon frère devant notre mère!{/je}"
 
 # game/UpdateScript0.05.rpy:1833## # translate crowdin tv_together_05947e83_1:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
@@ -3222,11 +3222,11 @@ msgstr "[L] Ça fait tellement du bien !"
 
 # game/UpdateScript0.05.rpy:1998## # translate crowdin tv_together_661b7ef7:
 msgid "[LT] {i}Holy shit! I can feel an orgasm coming on!{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde! Je peux sentir un orgasme arriver!{/je}"
 
 # game/UpdateScript0.05.rpy:1999## # translate crowdin tv_together_e7c4f12b:
 msgid "[LT] {i}It's feeling like it's going to be a big one!{/i}"
-msgstr ""
+msgstr "[LT] {i}On a l'impression que ça va être un gros!{/je}"
 
 # game/UpdateScript0.05.rpy:2001## # translate crowdin tv_together_9e0f9773:
 msgid "[L] Ohhh.... Fuuuck!"
@@ -3574,11 +3574,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2164## # translate crowdin tv_together_83ecea81:
 msgid "[LT] {i}Holy shit!.... I'm jacking off my brother!....{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde!.... Je branle mon frère !....{/i}"
 
 # game/UpdateScript0.05.rpy:2165## # translate crowdin tv_together_ee33828b:
 msgid "[LT] {i}I've never even looked at a cock this close before, and now.... I'm jacking off my brother?{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'ai jamais regardé une queue d'aussi près auparavant, et maintenant.... Je me tape mon frère ?{/i}"
 
 # game/UpdateScript0.05.rpy:2166## # translate crowdin tv_together_3ec820c7:
 msgid "[LT] {i}Well.... I hope hell is nice.{/i}"
@@ -3586,11 +3586,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2167## # translate crowdin tv_together_a3bafcf7:
 msgid "[LT] {i}.... This might all be fucking worth it though.{/i}"
-msgstr ""
+msgstr "[LT] {i}.... Tout cela pourrait en valoir la peine.{/je}"
 
 # game/UpdateScript0.05.rpy:2168## # translate crowdin tv_together_2e98dcd5:
 msgid "[LT] {i}I've never felt so much happiness and excitement in my whole life before [ryan] and I started messing around.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'ai jamais ressenti autant de bonheur et d'excitation de toute ma vie avant [ryan] et j'ai commencé à déconner.{/i}"
 
 # game/UpdateScript0.05.rpy:2169## # translate crowdin tv_together_c39b38ac:
 msgid "[R] Ohh.... Shit, Lauren!.... I'm about to cum!"
@@ -3602,7 +3602,7 @@ msgstr "[L] Ohhh, putain ouais!...."
 
 # game/UpdateScript0.05.rpy:2171## # translate crowdin tv_together_7d85e55d:
 msgid "[LT] {i}I've only ever seen a cock cum on a porno. I can't wait to see it in real life!{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'ai jamais vu une bite jouir sur un porno. J'ai hâte de le voir dans la vraie vie!{/je}"
 
 # game/UpdateScript0.05.rpy:2177## # translate crowdin tv_together_2cbffccf:
 msgid "[LT] {i}Wow!{/i}"
@@ -3610,7 +3610,7 @@ msgstr "[LT] {i}Wow!{/i}"
 
 # game/UpdateScript0.05.rpy:2182## # translate crowdin tv_together_31f60458:
 msgid "[LT] {i}Holy shit!.... There's even more!{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde!.... Il y en a encore plus !{/je}"
 
 # game/UpdateScript0.05.rpy:2183## # translate crowdin tv_together_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -4102,11 +4102,11 @@ msgstr "[L] Oh, c'est ça!...."
 
 # game/UpdateScript0.05.rpy:2397## # translate crowdin tv_together_32607071:
 msgid "[LT] {i}My own brother is touching my pussy!{/i}"
-msgstr ""
+msgstr "[LT] {i}Mon propre frère me touche la chatte!{/je}"
 
 # game/UpdateScript0.05.rpy:2398## # translate crowdin tv_together_8be84f23:
 msgid "[LT] {i}How did we ever let it get this far?{/i}"
-msgstr ""
+msgstr "[LT] {i}Comment avons-nous pu aller aussi loin?{/je}"
 
 # game/UpdateScript0.05.rpy:2403## # translate crowdin tv_together_abfac76e:
 msgid "[L] Oh fuck, [ryan].... that feels good!"
@@ -4122,11 +4122,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2408## # translate crowdin tv_together_abb4b061:
 msgid "[LT] {i}Goddamnit! Why am I so attracted to the forbidden?{/i}"
-msgstr ""
+msgstr "[LT] {i}Putain! Pourquoi suis-je si attirée par l'interdit?{/i}"
 
 # game/UpdateScript0.05.rpy:2409## # translate crowdin tv_together_7b0421a0:
 msgid "[LT] {i}I know this is wrong! But it makes me want it even more!{/i}"
-msgstr ""
+msgstr "[LT] {i}Je sais que c'est faux! Mais ça me donne encore plus envie !{/je}"
 
 # game/UpdateScript0.05.rpy:2410## # translate crowdin tv_together_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -4234,11 +4234,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2467## # translate crowdin lounge_hj_dda90ee9:
 msgid "[LT] {i}Holy shit!.... I'm jacking off my brother again!....{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde!.... Je vais encore branler mon frère !....{/je}"
 
 # game/UpdateScript0.05.rpy:2468## # translate crowdin lounge_hj_891d34eb:
 msgid "[LT] {i}How can just stroking a shaft back and forth be so fun?{/i}"
-msgstr ""
+msgstr "[LT] {i}Comment caresser un arbre d'avant en arrière peut-il être si amusant?{/je}"
 
 # game/UpdateScript0.05.rpy:2469## # translate crowdin lounge_hj_c39b38ac:
 msgid "[R] Ohh.... Shit, Lauren!.... I'm about to cum!"
@@ -4250,7 +4250,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2471## # translate crowdin lounge_hj_bdf9bcbb:
 msgid "[LT] {i}I love having a front row seat to [ryan] cumming!{/i}"
-msgstr ""
+msgstr "[LT] {i}J'adore avoir un siège au premier rang pour voir [ryan] jouir!{/i}"
 
 # game/UpdateScript0.05.rpy:2472## # translate crowdin lounge_hj_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -4262,7 +4262,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2484## # translate crowdin lounge_hj_31f60458:
 msgid "[LT] {i}Holy shit!.... There's even more!{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde!.... Il y en a encore plus !{/je}"
 
 # game/UpdateScript0.05.rpy:2485## # translate crowdin lounge_hj_f29cf2d1:
 msgid "[L] I'll run and get a towel to clean up this mess."
@@ -4362,11 +4362,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2548## # translate crowdin lounge_finger_661b7ef7:
 msgid "[LT] {i}Holy shit! I can feel an orgasm coming on!{/i}"
-msgstr ""
+msgstr "[LT] {i}Merde! Je peux sentir un orgasme arriver!{/je}"
 
 # game/UpdateScript0.05.rpy:2549## # translate crowdin lounge_finger_e7c4f12b:
 msgid "[LT] {i}It's feeling like it's going to be a big one!{/i}"
-msgstr ""
+msgstr "[LT] {i}On a l'impression que ça va être un gros!{/je}"
 
 # game/UpdateScript0.05.rpy:2551## # translate crowdin lounge_finger_9e0f9773:
 msgid "[L] Ohhh.... Fuuuck!"
@@ -4450,7 +4450,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2606## # translate crowdin lounge_bj_c2ef5c96:
 msgid "[LT] {i}I wonder if I can get it even deeper this time.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je me demande si je peux approfondir encore cette fois.{/je}"
 
 # game/UpdateScript0.05.rpy:2653## # translate crowdin lounge_finish_d4415005:
 msgid "[R] Oh, fuck!.... Here it comes!"
@@ -5922,7 +5922,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3313## # translate crowdin fix_sink_24ceca0d:
 msgid "[LT] {i}I wonder where Mom is.... I need some help on my Oedipus assignment.{/i}"
-msgstr ""
+msgstr "[LT] {i}Je me demande où est maman.... J'ai besoin d'aide pour mon devoir d'Œdipe.{/je}"
 
 # game/UpdateScript0.05.rpy:3317## # translate crowdin fix_sink_50c36c87:
 msgid "[M] Aaaaahhhh.... [ryan]!.... What did you do?"
@@ -7162,7 +7162,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4161## # translate crowdin breakfast_events_098f7eca:
 msgid "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'arrive pas à croire que [ryan] fasse ça devant tout le monde!{/je}"
 
 # game/UpdateScript0.05.rpy:4162## # translate crowdin breakfast_events_5697a950:
 msgid "[LT] {i}Ohhh.... but his toes do feel good!{/i}"
@@ -7382,7 +7382,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4337## # translate crowdin breakfast_events_098f7eca_1:
 msgid "[LT] {i}I can't believe [ryan] is doing this in front of everybody!{/i}"
-msgstr ""
+msgstr "[LT] {i}Je n'arrive pas à croire que [ryan] fasse ça devant tout le monde!{/je}"
 
 # game/UpdateScript0.05.rpy:4338## # translate crowdin breakfast_events_5697a950_1:
 msgid "[LT] {i}Ohhh.... but his toes do feel good!{/i}"
