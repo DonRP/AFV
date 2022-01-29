@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-28 13:03\n"
+"PO-Revision-Date: 2022-01-29 13:11\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -2866,7 +2866,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1751## # translate crowdin aunt_clean_lounge_1675971d_1:
 msgid "[CT] {i}Oh my God.... I can't believe I flashed him again!{/i}"
-msgstr ""
+msgstr "[CT] {i}Oh mon Dieu.... Je n'arrive pas à croire que j'ai encore vu son intimité!{/i}"
 
 # game/UpdateScript0.04.rpy:1752## # translate crowdin aunt_clean_lounge_c4c231a7_2:
 msgid "[CT] {i}What is wrong with me?{/i}"
@@ -2874,7 +2874,7 @@ msgstr "[CT] {i}Qu’est-ce qui ne va pas chez moi? {/i}"
 
 # game/UpdateScript0.04.rpy:1753## # translate crowdin aunt_clean_lounge_7846b730_1:
 msgid "[CT] {i}Am I really so addicted to shopping that just the enticement of it will make me flash my own nephew for $150 dollars?{/i}"
-msgstr ""
+msgstr "[CT] {i}Suis-je vraiment tellement accro au shopping que juste l'attrait de celui-ci me fera exposé mon intimité à mon propre neveu pour 150 dollars?{/i}"
 
 # game/UpdateScript0.04.rpy:1754## # translate crowdin aunt_clean_lounge_36c1f8a6_1:
 msgid "[CT] {i}I've lost the moral high ground to [mom_name].... {/i}"
@@ -2882,7 +2882,7 @@ msgstr "[CT] {i}J'ai perdu le haut niveau moral envers [mom_name].... {/i}"
 
 # game/UpdateScript0.04.rpy:1755## # translate crowdin aunt_clean_lounge_f2c09324_1:
 msgid "[CT] {i}That is, if she ever finds out about it.... {/i}"
-msgstr ""
+msgstr "[CT] {i}C'est-à-dire, si jamais elle le découvre.... {/je}"
 
 # game/UpdateScript0.04.rpy:1756## # translate crowdin aunt_clean_lounge_7a194bf6_1:
 msgid "[CT] {i}I better remember to warn that pervert to keep his mouth shut!{/i}"
@@ -2890,7 +2890,7 @@ msgstr "[CT] {i}Je ferais mieux de me rappeler d'avertir ce pervers de garder sa
 
 # game/UpdateScript0.04.rpy:1757## # translate crowdin aunt_clean_lounge_84cdd57e_1:
 msgid "[CT] {i}Oh.... what is wrong with me?.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Oh.... Qu'est-ce qui ne va pas avec moi ?.... {/i}"
 
 # game/UpdateScript0.04.rpy:1758## # translate crowdin aunt_clean_lounge_5a5fdfd1_1:
 msgid "[CT] {i}I'm becoming a stupid whore.... {/i}"
@@ -2926,11 +2926,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1776## # translate crowdin aunt_clean_lounge_a2208f1f_1:
 msgid "[CT] {i}Stupid pervert playing mind games with me.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Pervers stupide jouant à des jeux d'esprit avec moi.... {/je}"
 
 # game/UpdateScript0.04.rpy:1777## # translate crowdin aunt_clean_lounge_035cf935_1:
 msgid "[CT] {i}Did I actually agree to do that?.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Ai-je réellement accepté de le faire?.... {/je}"
 
 # game/UpdateScript0.04.rpy:1778## # translate crowdin aunt_clean_lounge_c4c231a7_3:
 msgid "[CT] {i}What is wrong with me?{/i}"
@@ -3086,15 +3086,15 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1844## # translate crowdin aunt_clean_lounge_1675971d_2:
 msgid "[CT] {i}Oh my God.... I can't believe I flashed him again!{/i}"
-msgstr ""
+msgstr "[CT] {i}Oh mon Dieu.... Je n'arrive pas à croire que j'ai encore vu son intimité!{/i}"
 
 # game/UpdateScript0.04.rpy:1845## # translate crowdin aunt_clean_lounge_0451b43b:
 msgid "[CT] {i}And I did it so casually.{/i}"
-msgstr ""
+msgstr "[CT] {i}Et je l'ai fait avec désinvolture.{/je}"
 
 # game/UpdateScript0.04.rpy:1846## # translate crowdin aunt_clean_lounge_7846b730_2:
 msgid "[CT] {i}Am I really so addicted to shopping that just the enticement of it will make me flash my own nephew for $150 dollars?{/i}"
-msgstr ""
+msgstr "[CT] {i}Suis-je vraiment tellement accro au shopping que juste l'attrait de celui-ci me fera exposé mon intimité à mon propre neveu pour 150 dollars?{/i}"
 
 # game/UpdateScript0.04.rpy:1847## # translate crowdin aunt_clean_lounge_cce4399c:
 msgid "[CT] I've lost the moral high ground to [mom_name]..."
@@ -3138,11 +3138,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1867## # translate crowdin aunt_clean_lounge_a2208f1f_2:
 msgid "[CT] {i}Stupid pervert playing mind games with me.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Pervers stupide jouant à des jeux d'esprit avec moi.... {/je}"
 
 # game/UpdateScript0.04.rpy:1868## # translate crowdin aunt_clean_lounge_035cf935_2:
 msgid "[CT] {i}Did I actually agree to do that?.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Ai-je réellement accepté de le faire?.... {/je}"
 
 # game/UpdateScript0.04.rpy:1869## # translate crowdin aunt_clean_lounge_c4c231a7_4:
 msgid "[CT] {i}What is wrong with me?{/i}"
@@ -3266,15 +3266,15 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1919## # translate crowdin aunt_clean_lounge_1675971d_3:
 msgid "[CT] {i}Oh my God.... I can't believe I flashed him again!{/i}"
-msgstr ""
+msgstr "[CT] {i}Oh mon Dieu.... Je n'arrive pas à croire que j'ai encore vu son intimité!{/i}"
 
 # game/UpdateScript0.04.rpy:1920## # translate crowdin aunt_clean_lounge_0451b43b_1:
 msgid "[CT] {i}And I did it so casually.{/i}"
-msgstr ""
+msgstr "[CT] {i}Et je l'ai fait avec désinvolture.{/je}"
 
 # game/UpdateScript0.04.rpy:1921## # translate crowdin aunt_clean_lounge_7846b730_3:
 msgid "[CT] {i}Am I really so addicted to shopping that just the enticement of it will make me flash my own nephew for $150 dollars?{/i}"
-msgstr ""
+msgstr "[CT] {i}Suis-je vraiment tellement accro au shopping que juste l'attrait de celui-ci me fera exposé mon intimité à mon propre neveu pour 150 dollars?{/i}"
 
 # game/UpdateScript0.04.rpy:1922## # translate crowdin aunt_clean_lounge_cce4399c_1:
 msgid "[CT] I've lost the moral high ground to [mom_name]..."
@@ -3318,11 +3318,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1942## # translate crowdin aunt_clean_lounge_a2208f1f_3:
 msgid "[CT] {i}Stupid pervert playing mind games with me.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Pervers stupide jouant à des jeux d'esprit avec moi.... {/je}"
 
 # game/UpdateScript0.04.rpy:1943## # translate crowdin aunt_clean_lounge_035cf935_3:
 msgid "[CT] {i}Did I actually agree to do that?.... {/i}"
-msgstr ""
+msgstr "[CT] {i}Ai-je réellement accepté de le faire?.... {/je}"
 
 # game/UpdateScript0.04.rpy:1944## # translate crowdin aunt_clean_lounge_c4c231a7_5:
 msgid "[CT] {i}What is wrong with me?{/i}"
