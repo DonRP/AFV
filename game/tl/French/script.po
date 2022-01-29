@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-28 13:03\n"
+"PO-Revision-Date: 2022-01-29 13:10\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4506,11 +4506,11 @@ msgstr "[RT] {i}Et je ne la forcerais pas à faire quoi que ce soit contre sa vo
 
 # game/script.rpy:5853## # translate crowdin laurensneakingnight_0704f803:
 msgid "[RT] {i}I'd just help her realize that she wants this as badly as I do.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je l'aiderais juste à réaliser qu'elle le veut aussi comme moi.{/i}"
 
 # game/script.rpy:5854## # translate crowdin laurensneakingnight_5b91b6f3:
 msgid "[RT] {i}Should I add her to my \"expedition to conquer Mom party?\"{/i}"
-msgstr ""
+msgstr "[RT] {i}Dois-je l'ajouter à mon 'expédition pour conquérir maman?'{/i}"
 
 # game/script.rpy:5859## # translate crowdin laurensneakingnight_ccf9373e:
 msgid "[RT] {i}I mean look at that ass! I can't believe I've never been tempted by it before! Then again, I was never tempted by Mom's ass either, {p}till I saw her polishing the stripper pole with it.{/i}"
@@ -5462,7 +5462,7 @@ msgstr "[L] Hmmm.... ouh... qu'est-ce que c'était?..."
 
 # game/script.rpy:6437## # translate crowdin sidneylaurensneakingnight_c250f1e2:
 msgid "[LT] {i}Is someone's hand carressing my ass?!!{/i}"
-msgstr ""
+msgstr "[LT] {i}La main de quelqu'un me caresse-t-elle le cul?!!{/je}"
 
 # game/script.rpy:6440## # translate crowdin sidneylaurensneakingnight_6b3a8b0f:
 msgid "[L] Sidney, what the hell?!!!"
