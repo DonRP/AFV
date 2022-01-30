@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-29 13:11\n"
+"PO-Revision-Date: 2022-01-30 18:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScriptChristmasEvent.rpy:247## # translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -3086,7 +3086,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1621## # translate crowdin christmas_shoot_3cbdde6e:
 msgid "[LT] {i}Ohh.... that's sweet.... except for the fact that he's ogling us like a creep.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ohh.... c'est gentil.... sauf qu'il nous regarde comme un sale type.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1622## # translate crowdin christmas_shoot_46632c48:
 msgid "[S] Thanks, These were actually pretty technical. The stitching took forever!"
@@ -3150,7 +3150,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1642## # translate crowdin christmas_shoot_89aee8da:
 msgid "[LT] {i}Only fucking reason he could get me here on Christmas Eve, I hate how he uses money to control us.{/i}"
-msgstr ""
+msgstr "[LT] {i}Seule putain de raison pour laquelle il pourrait me faire venir ici la veille de Noël, je déteste comment il utilise l'argent pour nous contrôler.{/je}"
 
 # game/UpdateScriptChristmasEvent.rpy:1643## # translate crowdin christmas_shoot_6f7f0b30:
 msgid "[RT] {i}Wow! You're right! They really do have a lot of negative feelings towards me.{/i}"
