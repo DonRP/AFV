@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-29 13:10\n"
+"PO-Revision-Date: 2022-01-30 18:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4602,7 +4602,7 @@ msgstr ""
 
 # game/script.rpy:5946## # translate crowdin laurenroomhang_355f7545:
 msgid "[LT] {i}Ok, heart emoji, heart emoji, smiley face with heart eyes emoji, and.... send.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok, emoji cœur, emoji cœur, visage souriant avec emoji yeux cœur, et.... envoyer.{/je}"
 
 # game/script.rpy:5949## # translate crowdin laurenroomhang_87ce0166:
 msgid "[L] So what's up?"
