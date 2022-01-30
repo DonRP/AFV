@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-29 13:11\n"
+"PO-Revision-Date: 2022-01-30 18:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.07.rpy:1024## # translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -2942,7 +2942,7 @@ msgstr "[LT] {i}Encore!?{/i}"
 
 # game/UpdateScript0.07.rpy:2545## # translate crowdin lauren_bath_fuck_91f227c2:
 msgid "[LT] {i}Ok... swallow.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... avaler. {/i}"
 
 # game/UpdateScript0.07.rpy:2549## # translate crowdin lauren_bath_fuck_7ef15337:
 msgid "[LT] {i}I'll get it all this time.{/i}"
@@ -2950,7 +2950,7 @@ msgstr "[LT] {i}Je l'aurai tout ce temps.{/je}"
 
 # game/UpdateScript0.07.rpy:2554## # translate crowdin lauren_bath_fuck_081f6b34:
 msgid "[LT] {i}Ok... I knew that was coming.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... Je savais que ça allait arriver.{/je}"
 
 # game/UpdateScript0.07.rpy:2555## # translate crowdin lauren_bath_fuck_b5659967:
 msgid "[LT] {i}And swallow.{/i}"
@@ -3442,7 +3442,7 @@ msgstr "[LT] {i}Encore!?{/i}"
 
 # game/UpdateScript0.07.rpy:2851## # translate crowdin lauren_bath_fuck_91f227c2_1:
 msgid "[LT] {i}Ok... swallow.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... avaler. {/i}"
 
 # game/UpdateScript0.07.rpy:2855## # translate crowdin lauren_bath_fuck_7ef15337_1:
 msgid "[LT] {i}I'll get it all this time.{/i}"
@@ -3450,7 +3450,7 @@ msgstr "[LT] {i}Je l'aurai tout ce temps.{/je}"
 
 # game/UpdateScript0.07.rpy:2860## # translate crowdin lauren_bath_fuck_081f6b34_1:
 msgid "[LT] {i}Ok... I knew that was coming.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... Je savais que ça allait arriver.{/je}"
 
 # game/UpdateScript0.07.rpy:2861## # translate crowdin lauren_bath_fuck_b5659967_2:
 msgid "[LT] {i}And swallow.{/i}"
@@ -4074,7 +4074,7 @@ msgstr "[LT] {i}Encore!?{/i}"
 
 # game/UpdateScript0.07.rpy:3227## # translate crowdin lauren_bath_fuck_91f227c2_2:
 msgid "[LT] {i}Ok... swallow.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... avaler. {/i}"
 
 # game/UpdateScript0.07.rpy:3231## # translate crowdin lauren_bath_fuck_a6d666e2:
 msgid "[LT] {i}I got it all!{/i}"
@@ -4082,7 +4082,7 @@ msgstr "[LT] {i}J'ai tout!{/je}"
 
 # game/UpdateScript0.07.rpy:3236## # translate crowdin lauren_bath_fuck_081f6b34_2:
 msgid "[LT] {i}Ok... I knew that was coming.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... Je savais que ça allait arriver.{/je}"
 
 # game/UpdateScript0.07.rpy:3237## # translate crowdin lauren_bath_fuck_b5659967_4:
 msgid "[LT] {i}And swallow.{/i}"
@@ -4626,7 +4626,7 @@ msgstr "[LT] {i}Encore!?{/i}"
 
 # game/UpdateScript0.07.rpy:3560## # translate crowdin lauren_bath_fuck_91f227c2_3:
 msgid "[LT] {i}Ok... swallow.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... avaler. {/i}"
 
 # game/UpdateScript0.07.rpy:3564## # translate crowdin lauren_bath_fuck_a6d666e2_1:
 msgid "[LT] {i}I got it all!{/i}"
@@ -4634,7 +4634,7 @@ msgstr "[LT] {i}J'ai tout!{/je}"
 
 # game/UpdateScript0.07.rpy:3569## # translate crowdin lauren_bath_fuck_081f6b34_3:
 msgid "[LT] {i}Ok... I knew that was coming.{/i}"
-msgstr ""
+msgstr "[LT] {i}Ok... Je savais que ça allait arriver.{/je}"
 
 # game/UpdateScript0.07.rpy:3570## # translate crowdin lauren_bath_fuck_b5659967_6:
 msgid "[LT] {i}And swallow.{/i}"
@@ -5230,7 +5230,7 @@ msgstr "[LT] {i}Je n'arrive pas à croire que [ryan] fasse ça devant tout le mo
 
 # game/UpdateScript0.07.rpy:3993## # translate crowdin breakfast_for_will_fc1289f4:
 msgid "[LT] {i}Ohhh... but his toes do feel good!{/i}"
-msgstr ""
+msgstr "[LT] {i}Ohhh... mais ses orteils se sentent bien!{/i}"
 
 # game/UpdateScript0.07.rpy:3994## # translate crowdin breakfast_for_will_b6b6edb2:
 msgid "[M] You ok, Lauren? You're being unusually quiet."
@@ -21186,7 +21186,7 @@ msgstr "[LT] {i}Oh, putain!... Mandy est encore meilleure pour lécher mon trou 
 
 # game/UpdateScript0.07.rpy:12661## # translate crowdin best_polls_aftermath_e6e17e2a:
 msgid "[LT] {i}Ohhhh... it feels so good!{/i}"
-msgstr ""
+msgstr "[LT] {i}Ohhhh ... c'est si bon ! {/i}"
 
 # game/UpdateScript0.07.rpy:12662## # translate crowdin best_polls_aftermath_58e05f70:
 msgid "[MDT] {i}Lauren's got the cutest, tastiest little asshole ever!{/i}"
@@ -21762,7 +21762,7 @@ msgstr "[LT] {i}Si je suis prudente, ma langue ne touchera pas celle de Mandy. {
 
 # game/UpdateScript0.07.rpy:12945## # translate crowdin best_polls_aftermath_ab9531a1:
 msgid "[LT] {i}Ohhh... but what if it did?{/i}"
-msgstr ""
+msgstr "[LT] {i}Ohhh ... mais si c'était le cas? { /i }"
 
 # game/UpdateScript0.07.rpy:12946## # translate crowdin best_polls_aftermath_f5a90713:
 msgid "[LT] {i}It's kind of awkward having our faces so close together, with our tongues just centimeters apart.{/i}"
@@ -21886,7 +21886,7 @@ msgstr "[LT] {i}Quelle honte!{/je}"
 
 # game/UpdateScript0.07.rpy:12991## # translate crowdin best_polls_aftermath_41dce5b9:
 msgid "[LT] {i}Ohhhh... but it feels so good!{/i}"
-msgstr ""
+msgstr "[LT] {i}Ohhhh ... mais c'est si bon ! {/i}"
 
 # game/UpdateScript0.07.rpy:12992## # translate crowdin best_polls_aftermath_5228c3de:
 msgid "[MDT] {i}That's one clean, cute little asshole.{/i}"
