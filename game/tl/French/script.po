@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-30 18:19\n"
+"PO-Revision-Date: 2022-01-31 18:18\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5034,11 +5034,11 @@ msgstr ""
 
 # game/script.rpy:6224## # translate crowdin sidneylaurensneakingnight_d95ca18b:
 msgid "[LT] {i}Yaawnn.... hmmm.... I think I really need to poop.... I should get up and.... {/i}"
-msgstr ""
+msgstr "[LT] {i}Yaawnn.... hmmm.... Je pense que j'ai vraiment besoin de faire caca.... Je devrais me lever et.... {/je}"
 
 # game/script.rpy:6225## # translate crowdin sidneylaurensneakingnight_fd3ee39e:
 msgid "[LT] {i}Wait.... my panties are pulled down again.... {/i}"
-msgstr ""
+msgstr "[LT] {i}Attends.... ma culotte est à nouveau abaissée.... {/i}"
 
 # game/script.rpy:6228## # translate crowdin sidneylaurensneakingnight_f40433fd:
 msgid "[L] OH MY FUCKING GOSH!!!!"
@@ -6178,7 +6178,7 @@ msgstr "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
 
 # game/script.rpy:7139## # translate crowdin megan_cum_ntr_9f2e863d_1:
 msgid "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Glurp.... glurp.... glurp.... \"{/i}"
 
 # game/script.rpy:7148## # translate crowdin megan_cum_ntr_4b972541:
 msgid "[MG] Oohh Mry Groshh!! Thrat wras sro mruch crumm!!"
