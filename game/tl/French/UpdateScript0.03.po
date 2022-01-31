@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-29 13:10\n"
+"PO-Revision-Date: 2022-01-31 18:18\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.03.rpy:466## # translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -5462,7 +5462,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3365## # translate crowdin clubpool_4f25de51:
 msgid "[MBT] {i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
-msgstr ""
+msgstr "[MBT] {i}D'accord, elle se rapproche. Maintenant à voir si je peux faire en sorte que cela se passe correctement{/i}"
 
 # game/UpdateScript0.03.rpy:3368## # translate crowdin clubpool_c7e500e6_2:
 msgid "[M] Gotcha!..."
@@ -5482,7 +5482,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3388## # translate crowdin clubpool_6152c275:
 msgid "[MBT] {i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
-msgstr ""
+msgstr "[MBT] {i}Oh mon Dieu, oh mon Dieu, oh mon Dieu!!!.... Est-ce que madame [mom_name] sait qu'elle me branle?{/i}"
 
 # game/UpdateScript0.03.rpy:3402## # translate crowdin clubpool_08466e77:
 msgid "[MT] {i}Hmmmm.... I really think this must be [ryan], but I thought I heard his voice on the other side of the pool.{/i}"
@@ -5490,7 +5490,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3417## # translate crowdin clubpool_020c76c7:
 msgid "[MBT] {i}Oh, shit!!!.... I can't hold back any more!{/i}"
-msgstr ""
+msgstr "[MBT] {i}Oh, merde!!!.... Je ne peux plus me retenir!{/je}"
 
 # game/UpdateScript0.03.rpy:3418## # translate crowdin clubpool_603e4d07:
 msgid "[MB] Hnnnngggghhhh!!"
@@ -5498,7 +5498,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3424## # translate crowdin clubpool_dae8574a:
 msgid "[MBT] {i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
-msgstr ""
+msgstr "[MBT] {i}Putain de merde!!.... madame [mom_name] vient de me faire du jouir dans la piscine!!{/i}"
 
 # game/UpdateScript0.03.rpy:3425## # translate crowdin clubpool_06e0c3b6:
 msgid "[RT] Mom!.... Stop.... open your eyes!"
@@ -8730,7 +8730,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5179## # translate crowdin removethong_428697b9:
 msgid "[L] .... {i}(talking quietly){/i} To be internet famous."
-msgstr "[L] .... {i}(discrètement){/i} Pour être célèbre sur Internet."
+msgstr "[L] .... {i}(en parlant doucement){/i} Pour être célèbre sur Internet."
 
 # game/UpdateScript0.03.rpy:5180## # translate crowdin removethong_72e74472:
 msgid "[R] What was that?..."
