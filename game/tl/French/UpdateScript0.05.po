@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-30 18:19\n"
+"PO-Revision-Date: 2022-01-31 18:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -2494,7 +2494,7 @@ msgstr "[LT] {i}Je le faisais juste à côté de lui.{/je}"
 
 # game/UpdateScript0.05.rpy:1617## # translate crowdin tv_together_81640f51:
 msgid "[LT] {i}While watching a TV show about a woman blowing her brother.{/i}"
-msgstr ""
+msgstr "[LT] {i}En regardant une émission de télévision sur une femme branlant son frère.{/i}"
 
 # game/UpdateScript0.05.rpy:1618## # translate crowdin tv_together_abe0cc32:
 msgid "[LT] {i}How many blowjobs is Cersei going to give her brother this season anyways?{/i}"
@@ -2502,7 +2502,7 @@ msgstr "[LT] {i}Combien de fellations Cersei va-t-elle donner à son frère cett
 
 # game/UpdateScript0.05.rpy:1619## # translate crowdin tv_together_1a22ccbc:
 msgid "[LT] {i}Where's my self-control?{/i}"
-msgstr ""
+msgstr "[LT] {i}Où est ma maîtrise de soi ?{/i}"
 
 # game/UpdateScript0.05.rpy:1620## # translate crowdin tv_together_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
@@ -2702,7 +2702,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1757## # translate crowdin tv_together_0a3d847b:
 msgid "[LT] {i}Wow, it's so big, I can barely get my mouth around it.{/i}"
-msgstr ""
+msgstr "[LT] {i}Wow, c'est tellement gros, je peux à peine prendre ma bouche.{/i}"
 
 # game/UpdateScript0.05.rpy:1758## # translate crowdin tv_together_2eb9ffe8:
 msgid "[LT] {i}How am I going to get it down my throat?{/i}"
@@ -2738,7 +2738,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1780## # translate crowdin tv_together_4d89b547:
 msgid "[LT] {i}Yay!.... He likes it!{/i}"
-msgstr ""
+msgstr "[LT] {i}Ouais!.... Il aime ça !{/je}"
 
 # game/UpdateScript0.05.rpy:1782## # translate crowdin tv_together_7820ac89:
 msgid "[R] Oh fuck, Lauren! I'm getting close!"
@@ -3182,7 +3182,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1981## # translate crowdin tv_together_78d3ce1d:
 msgid "[L] Fine! {i}(mumbling){/i} I'm a dirty girl."
-msgstr ""
+msgstr "[L] Bien! {i}(en marmonnant){/i} Je suis une méchante fille."
 
 # game/UpdateScript0.05.rpy:1982## # translate crowdin tv_together_3c4f1d17:
 msgid "[R] Oh, come on Lauren! Like you believe it!"
@@ -3582,7 +3582,7 @@ msgstr "[LT] {i}Je n'ai jamais regardé une queue d'aussi près auparavant, et m
 
 # game/UpdateScript0.05.rpy:2166## # translate crowdin tv_together_3ec820c7:
 msgid "[LT] {i}Well.... I hope hell is nice.{/i}"
-msgstr ""
+msgstr "[LT] {i}Eh bien.... J'espère que l'enfer est sympa. {/i}"
 
 # game/UpdateScript0.05.rpy:2167## # translate crowdin tv_together_a3bafcf7:
 msgid "[LT] {i}.... This might all be fucking worth it though.{/i}"
@@ -4258,7 +4258,7 @@ msgstr "{i}{b}«Libido de Lauren +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2479## # translate crowdin lounge_hj_2cbffccf:
 msgid "[LT] {i}Wow!{/i}"
-msgstr ""
+msgstr "[LT] {i}Wow!{/i}"
 
 # game/UpdateScript0.05.rpy:2484## # translate crowdin lounge_hj_31f60458:
 msgid "[LT] {i}Holy shit!.... There's even more!{/i}"
@@ -4446,7 +4446,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2605## # translate crowdin lounge_bj_0a3d847b:
 msgid "[LT] {i}Wow, it's so big, I can barely get my mouth around it.{/i}"
-msgstr ""
+msgstr "[LT] {i}Wow, c'est tellement gros, je peux à peine prendre ma bouche.{/i}"
 
 # game/UpdateScript0.05.rpy:2606## # translate crowdin lounge_bj_c2ef5c96:
 msgid "[LT] {i}I wonder if I can get it even deeper this time.{/i}"
@@ -6778,7 +6778,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3825## # translate crowdin breakfast_events_d1f5e8c4:
 msgid "[LT] {i}She told me all the details, but I'd like to see Mom squirm a little.{/i}"
-msgstr ""
+msgstr "[LT] {i}Elle m'a dit tous les détails, mais j'aimerais voir maman se tortiller un peu.{/i}"
 
 # game/UpdateScript0.05.rpy:3832## # translate crowdin breakfast_events_5780dd7a:
 msgid "[MT] {i}Oh, shit!.... Does the whole school know?{/i}"
@@ -8878,27 +8878,27 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5090## # translate crowdin not_fit_enough_f4ca417c:
 msgid "[MPT] {i}Well, would you look at that.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Eh bien, voulez-vous regarder cela.{/je}"
 
 # game/UpdateScript0.05.rpy:5093## # translate crowdin not_fit_enough_485ee4b8:
 msgid "[MPT] {i}The saucy little whore who keeps getting away from me.{/i}"
-msgstr ""
+msgstr "[MPT] {i}La petite pute coquine qui ne cesse de s'éloigner de moi.{/je}"
 
 # game/UpdateScript0.05.rpy:5094## # translate crowdin not_fit_enough_cc4fe2d8:
 msgid "[MPT] {i}I need some pussy so bad! If I could even get a taste of it, I'd be happy.{/i}"
-msgstr ""
+msgstr "[MPT] {i}J'ai tellement besoin de chatte! Si je pouvais même y goûter, je serais heureux.{/je}"
 
 # game/UpdateScript0.05.rpy:5095## # translate crowdin not_fit_enough_c578c216:
 msgid "[MPT] {i}She must not speak English very well. She didn't seem to understand I was trying to pay her.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Elle ne doit pas très bien parler anglais. Elle ne semblait pas comprendre que j'essayais de la payer.{/je}"
 
 # game/UpdateScript0.05.rpy:5096## # translate crowdin not_fit_enough_8a572ffa:
 msgid "[MPT] {i}She must have thought I was trying to kidnap her.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Elle a dû penser que j'essayais de la kidnapper.{/i}"
 
 # game/UpdateScript0.05.rpy:5097## # translate crowdin not_fit_enough_b15a93b7:
 msgid "[MPT] {i}I need to sneak in there again and take her by surprise. I think she'll understand what I'm after if I'm a little more direct.{/i}"
-msgstr ""
+msgstr "[MPT] {i}J'ai besoin de me faufiler là-bas et de la prendre par surprise. Je pense qu'elle comprendra ce que je cherche si je suis un peu plus direct.{/je}"
 
 # game/UpdateScript0.05.rpy:5100## # translate crowdin not_fit_enough_81772745:
 msgid "[ST] {i}Typical, [ryan]'s nowhere to be seen. I need to rest a little more before I take off for home.{/i}"
@@ -8930,11 +8930,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5125## # translate crowdin not_fit_enough_2f96bff5:
 msgid "[MPT] {i}Oh yeah! What a sweet smelling pussy!{/i}"
-msgstr ""
+msgstr "[MPT] {i}Oh oui! Quelle chatte qui sent bon!{/je}"
 
 # game/UpdateScript0.05.rpy:5126## # translate crowdin not_fit_enough_48194a2a:
 msgid "[MPT] {i}It should be pretty clear to her what I'm after now. Hopefully she'll take my money.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Il devrait être assez clair pour elle ce que je recherche maintenant. J'espère qu'elle prendra mon argent.{/je}"
 
 # game/UpdateScript0.05.rpy:5129## # translate crowdin not_fit_enough_83808de1:
 msgid "[S] YOU.... DIRTY.... OLD.... PERVERT! Let go.... of my legs.... and get your face.... out of my pussy!"
@@ -9078,27 +9078,27 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5198## # translate crowdin not_fit_enough_f4ca417c_1:
 msgid "[MPT] {i}Well, would you look at that.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Eh bien, voulez-vous regarder cela.{/je}"
 
 # game/UpdateScript0.05.rpy:5199## # translate crowdin not_fit_enough_9472213a:
 msgid "[MPT] {i}That shriekin' hooker is back.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Cette prostituée qui crie est de retour.{/je}"
 
 # game/UpdateScript0.05.rpy:5202## # translate crowdin not_fit_enough_95863104:
 msgid "[MPT] {i}She must be a hooker for the commies then.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Elle doit alors être une prostituée pour les cocos.{/i}"
 
 # game/UpdateScript0.05.rpy:5203## # translate crowdin not_fit_enough_edc738a3:
 msgid "[MPT] {i}Why else would she have screamed like she did?{/i}"
-msgstr ""
+msgstr "[MPT] {i}Sinon pourquoi aurait-elle crié comme elle l'a fait?{/je}"
 
 # game/UpdateScript0.05.rpy:5204## # translate crowdin not_fit_enough_fc99e2ad:
 msgid "[MPT] {i}I need to help her realize that my money is just as good as her commie compatriots, even better actually.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Je dois l'aider à réaliser que mon argent est aussi bon que ses compatriotes, encore mieux en fait.{/je}"
 
 # game/UpdateScript0.05.rpy:5205## # translate crowdin not_fit_enough_e3cf3179:
 msgid "[MPT] {i}I need to sneak in there without her seeing me so that she doesn't alert the commie MP's.{/i}"
-msgstr ""
+msgstr "[MPT] {i}J'ai besoin de me faufiler là-dedans sans qu'elle me voie pour qu'elle n'alerte pas les vigiles.{/i}"
 
 # game/UpdateScript0.05.rpy:5208## # translate crowdin not_fit_enough_8f6f87ba:
 msgid "[ST] {i}Shit! I wish [ryan] would hurry.{/i}"
@@ -9702,15 +9702,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5484## # translate crowdin park_activities_ef64b173:
 msgid "[MPT] {i}Damnit! The prostitute already has a customer!{/i}"
-msgstr ""
+msgstr "[MPT] {i}Bon sang! La prostituée a déjà un client!{/je}"
 
 # game/UpdateScript0.05.rpy:5485## # translate crowdin park_activities_78d6fac0:
 msgid "[MPT] {i}I wish I could just snap that commie's scrawny neck and take that whore in the bushes, but I can't risk bringing the wrath and scrutiny of the enemy army on me while I'm all alone out here.{/i}"
-msgstr ""
+msgstr "[MPT] {i}J'aimerais pouvoir casser le cou dégarni de cette poulette et prendre cette pute dans les buissons, mais je ne peux pas risquer de m'attirer la colère et l'attention de l'armée ennemie pendant que je suis tout seul ici.{/i}"
 
 # game/UpdateScript0.05.rpy:5486## # translate crowdin park_activities_b3d32739:
 msgid "[MPT] {i}God, I hope my unit finds me soon.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Dieu, j'espère que mon unité me trouvera bientôt.{/je}"
 
 # game/UpdateScript0.05.rpy:5487## # translate crowdin park_activities_2ec64077:
 msgid "[RT] {i}Damn, Sidney's tits look incredible all covered in sweat and glistening in the sunlight.{/i}"
@@ -9878,15 +9878,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5555## # translate crowdin park_activities_ef64b173_1:
 msgid "[MPT] {i}Damnit! The prostitute already has a customer!{/i}"
-msgstr ""
+msgstr "[MPT] {i}Bon sang! La prostituée a déjà un client!{/je}"
 
 # game/UpdateScript0.05.rpy:5556## # translate crowdin park_activities_78d6fac0_1:
 msgid "[MPT] {i}I wish I could just snap that commie's scrawny neck and take that whore in the bushes, but I can't risk bringing the wrath and scrutiny of the enemy army on me while I'm all alone out here.{/i}"
-msgstr ""
+msgstr "[MPT] {i}J'aimerais pouvoir casser le cou dégarni de cette poulette et prendre cette pute dans les buissons, mais je ne peux pas risquer de m'attirer la colère et l'attention de l'armée ennemie pendant que je suis tout seul ici.{/i}"
 
 # game/UpdateScript0.05.rpy:5557## # translate crowdin park_activities_b3d32739_1:
 msgid "[MPT] {i}God, I hope my unit finds me soon.{/i}"
-msgstr ""
+msgstr "[MPT] {i}Dieu, j'espère que mon unité me trouvera bientôt.{/je}"
 
 # game/UpdateScript0.05.rpy:5558## # translate crowdin park_activities_7200ab2d:
 msgid "[RT] {i}Damn, my sister's tits look incredible all covered in sweat and glistening in the sunlight.{/i}"
