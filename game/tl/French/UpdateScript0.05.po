@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-31 18:19\n"
+"PO-Revision-Date: 2022-02-01 18:14\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -226,7 +226,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:604## # translate crowdin fix_bulb_6fb550ee:
 msgid "[MT] {i}Except that a huge penis bulge was screaming for my attention, right in front of my face.{/i}"
-msgstr ""
+msgstr "[MT] {i}Sauf qu'un énorme renflement du pénis demande mon attention, juste devant mon visage.{/i}"
 
 # game/UpdateScript0.05.rpy:607## # translate crowdin fix_bulb_13cc0967:
 msgid "[RT] {i}Ok.... carefully.... I don't want to fall again.{/i}"
@@ -266,11 +266,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:627## # translate crowdin fix_bulb_83d52da7:
 msgid "[MT] {i}Even when he's flaccid, he's still *so* big!{/i}"
-msgstr ""
+msgstr "[MT] {i}Même quand il est flasque, il est toujours si gros!{/je}"
 
 # game/UpdateScript0.05.rpy:628## # translate crowdin fix_bulb_48f95227:
 msgid "[MT] {i}For his own sake, I'm so glad he didn't inherit his father's penis.{/i}"
-msgstr ""
+msgstr "[MT] {i}Pour son propre bien, je suis tellement content qu'il n'ait pas hérité du pénis de son père.{/je}"
 
 # game/UpdateScript0.05.rpy:629## # translate crowdin fix_bulb_49c10bd4:
 msgid "[MT] {i}My dad would be proud to know he passed his size down to [ryan].{/i}"
@@ -278,7 +278,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:630## # translate crowdin fix_bulb_b5d2d706:
 msgid "[MT] {i}But how on earth would I ever bring that up to him?{/i}"
-msgstr ""
+msgstr "[MT] {i}Mais comment diable pourrais-je lui apporter cela ?{/je}"
 
 # game/UpdateScript0.05.rpy:631## # translate crowdin fix_bulb_41dbffcc:
 msgid "[MT] {i}Well, at least there was one benefit to [dad_name] being on the small side.{/i}"
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:632## # translate crowdin fix_bulb_0ac17800:
 msgid "[MT] {i}Anal sex isn't nearly as painful as it could be....{/i}"
-msgstr ""
+msgstr "[MT] {i}Le sexe anal n'est pas aussi douloureux qu'il pourrait l'être....{/je}"
 
 # game/UpdateScript0.05.rpy:633## # translate crowdin fix_bulb_3b671755:
 msgid "[MT] {i}I'm pretty sure I'd never be able to stuff [ryan]'s penis in my ass.{/i}"
@@ -510,7 +510,7 @@ msgstr "[MT] {i}Oh mon Dieu!.... C'est ça ?....{/i}"
 
 # game/UpdateScript0.05.rpy:729## # translate crowdin fix_bulb_984e19de:
 msgid "[MT] {i}Holy shit.... I think that's his dick bulge.{/i}"
-msgstr ""
+msgstr "[MT] {i}Merde... Je pense que c'est le renflement de sa bite.{/i}"
 
 # game/UpdateScript0.05.rpy:730## # translate crowdin fix_bulb_b25a1d30:
 msgid "[MT] {i}Or is it just a fold in the fabric of his shorts?{/i}"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1537## # translate crowdin sidney_search_6110a8cb:
 msgid "[MT] {i}Holy shit! Is that waitress giving that guy over there a blowjob in the middle of my dance?{/i}"
-msgstr ""
+msgstr "[MT] {i}Merde! Est-ce que cette serveuse fait une fellation à ce type là-bas au milieu de ma danse?{/je}"
 
 # game/UpdateScript0.05.rpy:1538## # translate crowdin sidney_search_8da2bd7a:
 msgid "[MT] {i}What a couple of filthy degenerates!{/i}"
@@ -2358,11 +2358,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1540## # translate crowdin sidney_search_e03e4698:
 msgid "[MT] {i}Did watching my dance just make them so excited they couldn't control themselves?{/i}"
-msgstr ""
+msgstr "[MT] {i}Est-ce que regarder ma danse les a tellement excités qu'ils ne pouvaient pas se contrôler?{/je}"
 
 # game/UpdateScript0.05.rpy:1541## # translate crowdin sidney_search_e330dd5b:
 msgid "[MT] {i}Fuck!.... I'm getting turned on again!.... I hope I don't make the pole too slippery for the rest of my dance.{/i}"
-msgstr ""
+msgstr "[MT] {i}Merde !.... Je suis à nouveau excitée !.... J'espère ne pas rendre la barre trop glissante pour le reste de ma danse.{/i}"
 
 # game/UpdateScript0.05.rpy:1542## # translate crowdin sidney_search_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
@@ -3362,7 +3362,7 @@ msgstr "{i}«Respect de maman +1»{/i}"
 
 # game/UpdateScript0.05.rpy:2061## # translate crowdin tv_together_02355f63:
 msgid "[MT] {i}And for daring to use such a sexually charged suggestion.{/i}"
-msgstr ""
+msgstr "[MT] {i}Et pour avoir osé utiliser une telle suggestion sexuelle.{/i}"
 
 # game/UpdateScript0.05.rpy:2062## # translate crowdin tv_together_bfe9b99f:
 msgid "{i}\"Mom's Libido +1\"{/i}"
@@ -3670,7 +3670,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2208## # translate crowdin tv_together_f58b360c:
 msgid "[MT] {i}Don't look, don't look.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ne regarde pas, ne regarde pas.{/je}"
 
 # game/UpdateScript0.05.rpy:2211## # translate crowdin tv_together_fe8fe2c7:
 msgid "[R] What was the question?"
@@ -4978,7 +4978,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2880## # translate crowdin reward_for_payment_35e234e8:
 msgid "[MT] {i}Holy God!.... I almost forgot how big my little man is!{/i}"
-msgstr ""
+msgstr "[MT] {i}Mon Dieu !.... J'ai presque oublié la taille de mon petit homme!{/i}"
 
 # game/UpdateScript0.05.rpy:2883## # translate crowdin reward_for_payment_699a431d:
 msgid "[MT] {i}I need to see if Will Tylor has written a book about how to treat a Jocasta complex....{/i}"
@@ -4986,7 +4986,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2884## # translate crowdin reward_for_payment_7818dec8:
 msgid "[MT] {i}....Because I am having some strong feelings about his cock right now!{/i}"
-msgstr ""
+msgstr "[MT] {i}....Parce que j'ai des sentiments forts à propos de sa bite en ce moment!{/je}"
 
 # game/UpdateScript0.05.rpy:2885## # translate crowdin reward_for_payment_7dd770a3:
 msgid "[M] Uuummm.... So, are you ready?...."
@@ -5110,7 +5110,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2934## # translate crowdin reward_for_payment_e1a6a2d6:
 msgid "[MT] {i}But that seems like it could have some really bad consequences.{/i}"
-msgstr ""
+msgstr "[MT] {i}Mais cela semble avoir de très mauvaises conséquences.{/je}"
 
 # game/UpdateScript0.05.rpy:2936## # translate crowdin reward_for_payment_4b31337d:
 msgid "[MT] {i}Shit.... This is taking too long.... The girls will be home soon, and I'll still be in here, jacking off their brother.{/i}"
@@ -5254,7 +5254,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3008## # translate crowdin reward_for_payment_97db6a7f:
 msgid "[MT] {i}Holy God!.... My little man is so big!{/i}"
-msgstr ""
+msgstr "[MT] {i}Mon Dieu !.... Mon petit homme est si grand!{/i}"
 
 # game/UpdateScript0.05.rpy:3011## # translate crowdin reward_for_payment_c0b721cc:
 msgid "[MT] {i}I still need to find some literature about how to treat a Jocasta complex....{/i}"
@@ -5262,7 +5262,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3012## # translate crowdin reward_for_payment_d2999e88:
 msgid "[MT] {i}....Because I am still having strong feelings about his cock right now!{/i}"
-msgstr ""
+msgstr "[MT] {i}....Parce que j'ai toujours des sentiments forts à propos de sa bite en ce moment!{/je}"
 
 # game/UpdateScript0.05.rpy:3013## # translate crowdin reward_for_payment_7dd770a3_1:
 msgid "[M] Uuummm.... So, are you ready?...."
@@ -6214,7 +6214,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3435## # translate crowdin fix_sink_5f91b30d:
 msgid "[MT] {i}Damn.... I've been getting a little bored. Working another night in the club sounded exciting.{/i}"
-msgstr ""
+msgstr "[MT] {i}Merde.... Je m'ennuie un peu. Travailler une autre nuit dans le club semblait excitant.{/je}"
 
 # game/UpdateScript0.05.rpy:3436## # translate crowdin fix_sink_49497f1d:
 msgid "[MT] {i}Plus, I've seen some pretty good movies about plumbers and lonely housewives.{/i}"
@@ -6222,7 +6222,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3437## # translate crowdin fix_sink_5ed6d7d7:
 msgid "[MT] {i}But this seems important to [ryan], to feel like the man of the house, so I'll just let him do it.{/i}"
-msgstr ""
+msgstr "[MT] {i}Mais cela semble important pour [ryan], de se sentir comme l'homme de la maison, alors je vais juste le laisser faire.{/je}"
 
 # game/UpdateScript0.05.rpy:3439## # translate crowdin fix_sink_1f5abf56:
 msgid "[MT] {i}I love it when [ryan] tries so hard to protect me.{/i}"
@@ -6230,7 +6230,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3440## # translate crowdin fix_sink_1ba0a055:
 msgid "[MT] {i}He really is growing up to be a hard working little man.{/i}"
-msgstr ""
+msgstr "[MT] {i}Il grandit vraiment pour devenir un petit homme qui travaille dur.{/je}"
 
 # game/UpdateScript0.05.rpy:3441## # translate crowdin fix_sink_a6aef9bf:
 msgid "[M] Ok, Let's see if you can fix it."
@@ -7286,7 +7286,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4245## # translate crowdin breakfast_events_8807eab4:
 msgid "[MT] {i}Did I just say cum?.... Wait, that doesn't make any sense.{/i}"
-msgstr ""
+msgstr "[MT] {i}Est-ce que je viens de dire sperme ?.... Attends, ça n'a aucun sens.{/i}"
 
 # game/UpdateScript0.05.rpy:4246## # translate crowdin breakfast_events_3942c0ae:
 msgid "[MT] {i}Why do I have so many of these thoughts.... Do I need to make a run to the prison for a conjugal visit?{/i}"
@@ -7702,7 +7702,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4516## # translate crowdin fix_washer_270b92c1:
 msgid "[MT] {i}Hmmmm.... So far so good, it seems.{/i}"
-msgstr ""
+msgstr "[MT] {i}Hmmmm.... Jusqu'à présent, tout va bien, semble-t-il.{/je}"
 
 # game/UpdateScript0.05.rpy:4519## # translate crowdin fix_washer_35d42553:
 msgid "[R] Don't worry Mom. My penis is as soft as can be."
@@ -7810,7 +7810,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4586## # translate crowdin fix_washer_138cfcbf:
 msgid "[MT] {i}He must finally be done.{/i}"
-msgstr ""
+msgstr "[MT] {i}Il doit enfin avoir fini.{/i}"
 
 # game/UpdateScript0.05.rpy:4587## # translate crowdin fix_washer_99c1f390:
 msgid "[M] I don't care if you're done or not.... My knees are killing me, and I've got to get out of here."
@@ -7914,7 +7914,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4622## # translate crowdin fix_washer_e91b7983:
 msgid "[MT] {i}.... \"You would make even a burka look sexy.\".... What a smooth little charmer.{/i}"
-msgstr ""
+msgstr "[MT] {i}.... 'Tu rendrais même une burka sexy.'.... Quel petit doux charmeur.{/i}"
 
 # game/UpdateScript0.05.rpy:4623## # translate crowdin fix_washer_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -7922,7 +7922,7 @@ msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4627## # translate crowdin fix_washer_1eef93e0:
 msgid "[MT] {i}Huh?.... What's this?{/i}"
-msgstr ""
+msgstr "[MT] {i}Hein ?.... C'est quoi ça ?{/je}"
 
 # game/UpdateScript0.05.rpy:4631## # translate crowdin fix_washer_f819a9f3:
 msgid "[MT] {i}Oh, shit!.... I completely forgot.{/i}"
@@ -8414,7 +8414,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4867## # translate crowdin fix_washer_138cfcbf_1:
 msgid "[MT] {i}He must finally be done.{/i}"
-msgstr ""
+msgstr "[MT] {i}Il doit enfin avoir fini.{/i}"
 
 # game/UpdateScript0.05.rpy:4868## # translate crowdin fix_washer_1824d7cc:
 msgid "[M] I don't care if you're done, or not.... My knees are killing me, and I've got to get out of here."
@@ -8518,7 +8518,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4903## # translate crowdin fix_washer_dad9b8b2:
 msgid "[MT] {i}.... And why do I get butterflies when he compliments my ass?{/i}"
-msgstr ""
+msgstr "[MT] {i}.... Et pourquoi ai-je des papillons quand il me complimente le cul?{/je}"
 
 # game/UpdateScript0.05.rpy:4904## # translate crowdin fix_washer_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -8526,7 +8526,7 @@ msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4908## # translate crowdin fix_washer_1eef93e0_1:
 msgid "[MT] {i}Huh?.... What's this?{/i}"
-msgstr ""
+msgstr "[MT] {i}Hein ?.... C'est quoi ça ?{/je}"
 
 # game/UpdateScript0.05.rpy:4911## # translate crowdin fix_washer_99cff3d9_1:
 msgid "[MT] {i}Is that?.... Oh, shit....{/i}"
