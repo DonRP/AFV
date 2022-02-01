@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-29 13:11\n"
+"PO-Revision-Date: 2022-02-01 18:14\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1566,7 +1566,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1236## # translate crowdin camille_tells_a32b3507:
 msgid "[MT] {i}Except when you need something from us!{/i}"
-msgstr ""
+msgstr "[MT] {i}Sauf lorsque tu as besoin de quelque chose de ma part!{/i}"
 
 # game/UpdateScript0.04.rpy:1237## # translate crowdin camille_tells_8724faaa:
 msgid "[C] Well, I've been super busy training for the triathlon in October, and all the other mom things I have to do to take care of Mandy take up the rest of my time."
@@ -7566,7 +7566,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3967## # translate crowdin jacky_at_Laptop_663c9218:
 msgid "[MT] {i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ha je le savais, je peux le voir se masturber aussi du coin de l'œil.{/je}"
 
 # game/UpdateScript0.04.rpy:3970## # translate crowdin jacky_at_Laptop_d5b33f9b:
 msgid "[MT] {i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
@@ -7574,7 +7574,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3971## # translate crowdin jacky_at_Laptop_f03db5d4:
 msgid "[MT] {i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
-msgstr ""
+msgstr "[MT] {i}Bon sang.... gardes le contrôle, [mom_name]!.... Ne laisse pas cela t'exciter autant!{/i}"
 
 # game/UpdateScript0.04.rpy:3972## # translate crowdin jacky_at_Laptop_62b6dd03:
 msgid "[MT] {i}Ahhhh.... fuck it!{/i}"
@@ -7586,7 +7586,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3988## # translate crowdin jacky_at_Laptop_cde0c7df:
 msgid "[MT] {i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
-msgstr ""
+msgstr "[MT] {i}Est-ce que je viens de faire ça devant mon propre fils?!.... Il ne détourne pas le regard !{/je}"
 
 # game/UpdateScript0.04.rpy:3992## # translate crowdin jacky_at_Laptop_89650ace:
 msgid "[MT] {i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
@@ -7678,7 +7678,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4032## # translate crowdin jacky_at_Laptop_b6e32b91:
 msgid "[MT] {i}How could I let myself get carried away like that?{/i}"
-msgstr ""
+msgstr "[MT] {i}Comment pourrais-je me laisser emporter comme ça?{/je}"
 
 # game/UpdateScript0.04.rpy:4033## # translate crowdin jacky_at_Laptop_2abe5a62:
 msgid "[MT] {i}I was just so horny!{/i}"
