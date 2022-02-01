@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-31 18:19\n"
+"PO-Revision-Date: 2022-02-01 18:14\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScriptChristmasEvent.rpy:247## # translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -6778,7 +6778,7 @@ msgstr "[M] Hmmmm..."
 
 # game/UpdateScriptChristmasEvent.rpy:2987## # translate crowdin christmas_club_edfc1ee0:
 msgid "[MT] {i}Holy shit, [mom_name]! What are you thinking?....{/i}"
-msgstr ""
+msgstr "[MT] {i}Merde, [mom_name]! À quoi penses-tu ?....{/je}"
 
 # game/UpdateScriptChristmasEvent.rpy:2988## # translate crowdin christmas_club_9c747162:
 msgid "[MT] {i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
@@ -6786,7 +6786,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2989## # translate crowdin christmas_club_35a9edeb:
 msgid "[MT] {i}But I never dreamt one guy would offer me $4,000 dollars in one night!{/i}"
-msgstr ""
+msgstr "[MT] {i}Mais je n'ai jamais rêvé qu'un gars m'offrirait 4'000 $ pour une nuit!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2990## # translate crowdin christmas_club_98c490cc:
 msgid "[MT] {i}I'll have enough to pay for a semester of modeling school.{/i}"
@@ -6798,7 +6798,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2992## # translate crowdin christmas_club_f518ee6d:
 msgid "[MT] {i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
-msgstr ""
+msgstr "[MT] {i}Et je n'aurais plus jamais à revenir dans ce trou sordide {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2993## # translate crowdin christmas_club_e717013e:
 msgid "[MT] {i}It's worth it!{/i}"
@@ -6810,7 +6810,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2995## # translate crowdin christmas_club_23ca0433:
 msgid "[MT] {i}Even if he does look like he could be your brother.{/i}"
-msgstr ""
+msgstr "[MT] {i}Même s'il a l'air d'être ton frère.{/je}"
 
 # game/UpdateScriptChristmasEvent.rpy:2996## # translate crowdin christmas_club_7c39d5bc:
 msgid "[M] Take your pants off!"
@@ -6830,7 +6830,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3003## # translate crowdin christmas_club_8168fb5e:
 msgid "[MT] {i}He's as big as the men in my family!{/i}"
-msgstr ""
+msgstr "[MT] {i}Il est aussi grand que les hommes de ma famille!{/je}"
 
 # game/UpdateScriptChristmasEvent.rpy:3007## # translate crowdin christmas_club_5d6d2490:
 msgid "[RT] {i}Holy shit! Mom's sucking my cock!{/i}"
