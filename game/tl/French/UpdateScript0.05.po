@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-02 18:18\n"
+"PO-Revision-Date: 2022-02-03 18:15\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:507## # translate crowdin sidneys_home_late_a7954efe:
 msgid "[RT] {i}But I am pretty tired.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mais je suis assez fatigué.{/je}"
 
 # game/UpdateScript0.05.rpy:512## # translate crowdin sidneys_home_late_d0239d4c:
 msgid "[RT] {i}Alright!.... Off come my shorts.{/i}"
@@ -118,11 +118,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:541## # translate crowdin sidneys_home_late_e1575e02:
 msgid "[RT] {i}God that felt good!.... What a mess.{/i}"
-msgstr ""
+msgstr "[RT] {i}Dieu que c'était bien!.... Quel gâchis.{/je}"
 
 # game/UpdateScript0.05.rpy:542## # translate crowdin sidneys_home_late_b5d52250:
 msgid "[RT] {i}Hopefully I can just rub this in, and she won't notice.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'espère que je peux juste malaxer cela, et elle ne le remarquera pas.{/je}"
 
 # game/UpdateScript0.05.rpy:543## # translate crowdin sidneys_home_late_bf11afd4:
 msgid "[RT] {i}I've heard cum is good for the skin.{/i}"
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:601## # translate crowdin fix_bulb_13d40842:
 msgid "[RT] {i}Ha...That's what she said!{/i}"
-msgstr ""
+msgstr "[RT] {i}Ha...C'est ce qu'elle a dit !{/je}"
 
 # game/UpdateScript0.05.rpy:602## # translate crowdin fix_bulb_4411cc07:
 msgid "[R] Do you promise not to let go this time.... or surprise me like you did before?"
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:646## # translate crowdin fix_bulb_93850dd1:
 msgid "[RT] {i}Could she be unscrewing it on purpose, so she can look at my penis?{/i}"
-msgstr ""
+msgstr "[RT] {i}Pourrait-elle l'enlever exprès pour qu'elle puisse regarder mon pénis ?{/je}"
 
 # game/UpdateScript0.05.rpy:647## # translate crowdin fix_bulb_357189aa:
 msgid "[RT] {i}That's just wishful thinking. There is no way she would do that.{/i}"
@@ -366,7 +366,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:657## # translate crowdin fix_bulb_9b74cd7b:
 msgid "[RT] {i}Did Mom just give me a congratulatory butt slap?{/i}"
-msgstr ""
+msgstr "[RT] {i}Maman m'a-t-elle donné une gifle de félicitations?{/je}"
 
 # game/UpdateScript0.05.rpy:660## # translate crowdin fix_bulb_499681b1:
 msgid "[MT] {i}Oh God, [mom_name].... Did you just slap [ryan]'s butt?....{/i}"
@@ -1314,7 +1314,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1109## # translate crowdin sidney_morning_jog_e7945460:
 msgid "[RT] {i}Haha.... He thought Sidney was a prostitute.... I know I'd pay for a piece of that ass.{/i}"
-msgstr ""
+msgstr "[RT] {i}Haha.... Il pensait que Sidney était une prostituée.... Je sais que je paierais pour un bout de ce cul.{/je}"
 
 # game/UpdateScript0.05.rpy:1111## # translate crowdin sidney_morning_jog_240de9ed:
 msgid "[RT] {i}I need to get myself into better shape though, if I want to run with Sidney every morning.{/i}"
@@ -1426,7 +1426,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1169## # translate crowdin sidney_search_907e3218:
 msgid "[RT] {i}He knows I'm an adult by now. What an asshole.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il sait que je suis maintenant adulte. Quel connard.{/je}"
 
 # game/UpdateScript0.05.rpy:1170## # translate crowdin sidney_search_cf1fab13:
 msgid "[R] Just a second."
@@ -1470,15 +1470,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1190## # translate crowdin sidney_search_7e5dbab6:
 msgid "[RT] {i}Did I leave it at the warehouse or something?{/i}"
-msgstr ""
+msgstr "[RT] {i}Est-ce que je l'ai laissé à l'entrepôt ou quelque chose comme ça?{/je}"
 
 # game/UpdateScript0.05.rpy:1191## # translate crowdin sidney_search_f0c31955:
 msgid "[RT] {i}Fuck!.... The DeCapos aren't going to sit around while I look for it.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde !... Les DéCapos ne vont pas rester assis pendant que je la cherche.{/je}"
 
 # game/UpdateScript0.05.rpy:1192## # translate crowdin sidney_search_6a591152:
 msgid "[RT] {i}How am I going to break the news to Mom?{/i}"
-msgstr ""
+msgstr "[RT] {i}Comment vais-je annoncer la nouvelle à maman?{/je}"
 
 # game/UpdateScript0.05.rpy:1197## # translate crowdin sidney_search_82b413ae:
 msgid "[R] So, it turns out that I can't find my cash."
@@ -1986,7 +1986,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1398## # translate crowdin sidney_search_9dba7459:
 msgid "[RT] {i}How are her tits so perky? Did she even breastfeed us at all? Mmmm.... I wish I could remember that.{/i}"
-msgstr ""
+msgstr "[RT] {i}Comme ses seins sont si beaux ? Nous a-t-elle même allaités ? Mmmm.... J'aimerais pouvoir m'en souvenir.{/je}"
 
 # game/UpdateScript0.05.rpy:1399## # translate crowdin sidney_search_54f0310e:
 msgid "[RT] {i}And that's about all the self control I have.{/i}"
@@ -2086,7 +2086,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1450## # translate crowdin sidney_search_e8d0ed78:
 msgid "[RT] {i}Fuck!.... She's gonna freak out, she's going to tell Mom! My life is over!{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde !... Elle va paniquer, elle va le dire à maman ! Ma vie est finie !{/je}"
 
 # game/UpdateScript0.05.rpy:1451## # translate crowdin sidney_search_a8c9fa77:
 msgid "[S] What the actual fuck, [ryan]?"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1669## # translate crowdin tv_together_3b18b3aa:
 msgid "[RT] {i}Haha.... She can't stop now!{/i}"
-msgstr ""
+msgstr "[RT] {i}Haha.... Elle ne peut pas s'arrêter maintenant!{/je}"
 
 # game/UpdateScript0.05.rpy:1670## # translate crowdin tv_together_2dc5b6cd:
 msgid "[L] So, what should we do?"
@@ -2838,7 +2838,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1831## # translate crowdin tv_together_abd64d9b:
 msgid "[RT] {i}Holy shit!.... My boner's back!{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!.... Ma trique est de retour!{/je}"
 
 # game/UpdateScript0.05.rpy:1832## # translate crowdin tv_together_0cb64da0:
 msgid "[LT] {i}Holy shit!.... I just licked up my brother's cum in front of our mom!{/i}"
@@ -4946,7 +4946,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2867## # translate crowdin reward_for_payment_190a465f:
 msgid "[RT] {i}Except for hundreds of times a day.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sauf des centaines de fois par jour.{/je}"
 
 # game/UpdateScript0.05.rpy:2868## # translate crowdin reward_for_payment_c4852743:
 msgid "[M] Well, you better not have your hopes set on anything like that, because that won't happen in a million years."
@@ -5030,7 +5030,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2899## # translate crowdin reward_for_payment_6fa02354:
 msgid "[RT] {i}Come on [ryan]! This is what you've been training for everyday since you started puberty!{/i}"
-msgstr ""
+msgstr "[RT] {i}Allez [ryan]! C'est ce pour quoi tu t'entraînes tous les jours depuis que tu as commencé la puberté!{/i}"
 
 # game/UpdateScript0.05.rpy:2907## # translate crowdin reward_for_payment_43656978:
 msgid "[M] Is something wrong [ryan]? I thought for sure you would have ejaculated by now!"
@@ -5042,7 +5042,7 @@ msgstr "{i}«Affection de maman -1»{/i}"
 
 # game/UpdateScript0.05.rpy:2910## # translate crowdin reward_for_payment_f3a1df96:
 msgid "[RT] {i}Hmmmm.... Let's see if I can make this a little more enjoyable.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmmm.... Voyons si je peux rendre ça un peu plus agréable.{/je}"
 
 # game/UpdateScript0.05.rpy:2911## # translate crowdin reward_for_payment_598ffddb:
 msgid "[R] I think it's just about the way we're going about this.... It's just not very sexy."
@@ -6130,11 +6130,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3405## # translate crowdin fix_sink_7906e50c:
 msgid "[RT] {i}Dad wouldn't have ever let Mom wear anything like that around the house.{/i}"
-msgstr ""
+msgstr "[RT] {i}Papa n'aurait jamais laissé maman porter quelque chose comme ça à la maison.{/i}"
 
 # game/UpdateScript0.05.rpy:3406## # translate crowdin fix_sink_ce983c29:
 msgid "[RT] {i}He's such an asshole!.... I'm so glad to see Mom opening up more, and being herself.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est un connard !.... Je suis tellement content de voir Maman s'ouvrir davantage et être elle-même.{/je}"
 
 # game/UpdateScript0.05.rpy:3407## # translate crowdin fix_sink_2f3c4995:
 msgid "[RT] {i}She always had to walk on eggshells around him.{/i}"
@@ -6578,7 +6578,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3639## # translate crowdin breakfast_events_ec49f372:
 msgid "[RT] {i}Damn, Sidney looks miserable.... Am I going too far with my night shenanigans?{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde, Sidney a l'air misérable.... Est-ce que je vais trop loin avec mes manigances nocturnes?{/je}"
 
 # game/UpdateScript0.05.rpy:3640## # translate crowdin breakfast_events_235ae9e6:
 msgid "[RT] {i}I've just got to remember, the ends justify the means.{/i}"
@@ -7070,7 +7070,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4062## # translate crowdin breakfast_events_ff4012c7:
 msgid "[RT] {i}Haha.... She couldn't help but throw that one in.{/i}"
-msgstr ""
+msgstr "[RT] {i}Haha.... Elle n'a pas pu s'empêcher de jeter celui-là.{/je}"
 
 # game/UpdateScript0.05.rpy:4071## # translate crowdin breakfast_events_4afaf000:
 msgid "[M] Oh.... Ok, that makes sense."
@@ -7590,7 +7590,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4468## # translate crowdin fix_washer_e1016a1d:
 msgid "[RT] {i}But I'd still follow that ass anywhere.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mais je suivrais toujours ce cul n'importe où.{/je}"
 
 # game/UpdateScript0.05.rpy:4471## # translate crowdin fix_washer_d971f64b:
 msgid "[RT] {i}Oh that's beautiful!{/i}"
@@ -7690,7 +7690,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4510## # translate crowdin fix_washer_7f33639f:
 msgid "[RT] {i}Haha.... I'll be the one trying to hold back a nut.{/i}"
-msgstr ""
+msgstr "[RT] {i}Haha.... Je vais être celui qui essaye de retenir une noix. {/i}"
 
 # game/UpdateScript0.05.rpy:4511## # translate crowdin fix_washer_0d8f15d1:
 msgid "[RT] {i}Once again, Mom's pretty much stuck in there.... I don't think she could turn around if she wanted to.{/i}"
@@ -7770,7 +7770,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4549## # translate crowdin fix_washer_d3ae4369:
 msgid "[RT] {i}Haha.... I've already fixed it again.... but I want to get the same 5 star user experience as last time.{/i}"
-msgstr ""
+msgstr "[RT] {i}Haha.... Je l'ai déjà réparé.... mais je veux obtenir la même expérience utilisateur 5 étoiles que la dernière fois.{/je}"
 
 # game/UpdateScript0.05.rpy:4551## # translate crowdin fix_washer_07563daf:
 msgid "[RT] {i}It's all fixed actually.... but I don't want this to end just yet.{/i}"
@@ -7802,7 +7802,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4571## # translate crowdin fix_washer_7974d5e5:
 msgid "[RT] {i}Hnnnngggghhhh..........{/i}"
-msgstr ""
+msgstr "[RT] {i}Hnnnngggghhhh..........{/i}"
 
 # game/UpdateScript0.05.rpy:4585## # translate crowdin fix_washer_fc752e6d:
 msgid "[MT] {i}Oh good! I don't feel [ryan] pressing against my ass anymore.{/i}"
@@ -8042,7 +8042,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4683## # translate crowdin fix_washer_ce983c29:
 msgid "[RT] {i}He's such an asshole!.... I'm so glad to see Mom opening up more, and being herself.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est un connard !.... Je suis tellement content de voir Maman s'ouvrir davantage et être elle-même.{/je}"
 
 # game/UpdateScript0.05.rpy:4684## # translate crowdin fix_washer_9942ab9a:
 msgid "[RT] {i}I've got to make her see how much better her life can be without him.{/i}"
@@ -8194,7 +8194,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4748## # translate crowdin fix_washer_f6ecc227:
 msgid "[RT] {i}But I'd follow that ass anywhere.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mais je suivrais ce cul n'importe où.{/je}"
 
 # game/UpdateScript0.05.rpy:4749## # translate crowdin fix_washer_f1ed9471:
 msgid "[RT] {i}In fact, now's a great opportunity to add another pic to my collection.{/i}"
@@ -8210,7 +8210,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4761## # translate crowdin fix_washer_bc1dd7eb:
 msgid "[RT] {i}Got it!{/i}"
-msgstr ""
+msgstr "[RT] {i}Compris!{/je}"
 
 # game/UpdateScript0.05.rpy:4767## # translate crowdin fix_washer_0dc23196:
 msgid "[M] So, the washing machine keeps quitting in the middle of the cycle."
@@ -8298,11 +8298,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4796## # translate crowdin fix_washer_c575b229:
 msgid "[RT] {i}Holy shit!.... Mom's pretty much stuck in there.... I don't think she could turn around if she wanted to.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!.... Maman est à peu près coincée là-dedans.... Je ne pense pas qu'elle pourrait se retourner si elle le voulait.{/je}"
 
 # game/UpdateScript0.05.rpy:4797## # translate crowdin fix_washer_b2ea0305:
 msgid "[RT] {i}How am I going to take advantage of this situation?{/i}"
-msgstr ""
+msgstr "[RT] {i}Comment vais-je profiter de cette situation?{/je}"
 
 # game/UpdateScript0.05.rpy:4798## # translate crowdin fix_washer_93fab24b:
 msgid "[RT] {i}Oh yeah.... I have an idea.{/i}"
@@ -8406,7 +8406,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4852## # translate crowdin fix_washer_7974d5e5_1:
 msgid "[RT] {i}Hnnnngggghhhh..........{/i}"
-msgstr ""
+msgstr "[RT] {i}Hnnnngggghhhh..........{/i}"
 
 # game/UpdateScript0.05.rpy:4866## # translate crowdin fix_washer_fc752e6d_1:
 msgid "[MT] {i}Oh good! I don't feel [ryan] pressing against my ass anymore.{/i}"
@@ -9146,7 +9146,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5241## # translate crowdin not_fit_enough_aec4b66d:
 msgid "[RT] {i}Holy shit!{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!{/i}"
 
 # game/UpdateScript0.05.rpy:5242## # translate crowdin not_fit_enough_330cef42:
 msgid "[RT] {i}Mr. Peterson's grabbing Sidney!{/i}"
@@ -9186,11 +9186,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5261## # translate crowdin not_fit_enough_ced5a59e:
 msgid "[RT] {i}How in the hell is that old man so fast?{/i}"
-msgstr ""
+msgstr "[RT] {i}Comment ce vieillard est-il si rapide ?{/i}"
 
 # game/UpdateScript0.05.rpy:5264## # translate crowdin not_fit_enough_f13b7cf5:
 msgid "[RT] {i}Holy hell! My lungs are going to explode!{/i}"
-msgstr ""
+msgstr "[RT] {i}Enfer! Mes poumons vont exploser !{/i}"
 
 # game/UpdateScript0.05.rpy:5265## # translate crowdin not_fit_enough_d83399ed_1:
 msgid "{i}\"[ryan]'s physical fitness +1\"{/i}"
@@ -9318,7 +9318,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5322## # translate crowdin park_activities_2e3bb482:
 msgid "[RT] {i}Holy shit! I think some kind of switch has gone off in Sidney's brain.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde! Je pense qu'une sorte d'interrupteur s'est déclenché dans le cerveau de Sidney.{/je}"
 
 # game/UpdateScript0.05.rpy:5323## # translate crowdin park_activities_93ccd2f3:
 msgid "[S] So, do you see the policeman?"
@@ -9570,7 +9570,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5429## # translate crowdin park_activities_7b635169:
 msgid "[RT] {i}Holy shit! Is she implying what I think she's implying?{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde! Est-ce qu'elle sous-entend ce que je pense qu'elle sous-entend?{/je}"
 
 # game/UpdateScript0.05.rpy:5430## # translate crowdin park_activities_b8a93b4f:
 msgid "[S] And I think I'm going to be sick. [ryan], let's go home."
@@ -9642,7 +9642,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5453## # translate crowdin park_activities_01e83a86:
 msgid "[RT] {i}Could Sidney be right? Could I really have a chance with Mrs. Stone?{/i}"
-msgstr ""
+msgstr "[RT] {i}Sidney aurait-il raison ? Pourrais-je vraiment avoir une chance avec Mme Stone?{/je}"
 
 # game/UpdateScript0.05.rpy:5454## # translate crowdin park_activities_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
@@ -9662,7 +9662,7 @@ msgstr "[RT] {i}En fait plusieurs, mais Sidney pensera que je ne parle que d'ell
 
 # game/UpdateScript0.05.rpy:5460## # translate crowdin park_activities_93e19acf:
 msgid "[RT] {i}At least I'm pretty sure that's what she wants to hear.{/i}"
-msgstr ""
+msgstr "[RT] {i}Au moins, je suis presque sûr que c'est ce qu'elle veut entendre.{/je}"
 
 # game/UpdateScript0.05.rpy:5461## # translate crowdin park_activities_d5f9a310:
 msgid "{i}{b}\"Sidney's Affection +2\"{/b}{/i}"
@@ -9714,7 +9714,7 @@ msgstr "[MPT] {i}Dieu, j'espère que mon unité me trouvera bientôt.{/je}"
 
 # game/UpdateScript0.05.rpy:5487## # translate crowdin park_activities_2ec64077:
 msgid "[RT] {i}Damn, Sidney's tits look incredible all covered in sweat and glistening in the sunlight.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bon sang, les seins de Sidney sont incroyables, tous recouverts de sueur et scintillants au soleil.{/je}"
 
 # game/UpdateScript0.05.rpy:5491## # translate crowdin park_activities_28f3d932:
 msgid "[R] Oh, wow! What's that for?"
@@ -9890,7 +9890,7 @@ msgstr "[MPT] {i}Dieu, j'espère que mon unité me trouvera bientôt.{/je}"
 
 # game/UpdateScript0.05.rpy:5558## # translate crowdin park_activities_7200ab2d:
 msgid "[RT] {i}Damn, my sister's tits look incredible all covered in sweat and glistening in the sunlight.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bon sang, les seins de ma sœur sont incroyables, tous recouverts de sueur et scintillants au soleil.{/je}"
 
 # game/UpdateScript0.05.rpy:5561## # translate crowdin park_activities_f059f59f:
 msgid "[R] Oh wow! What's that for?"
@@ -9922,7 +9922,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5571## # translate crowdin park_activities_effcbfff:
 msgid "[RT] {i}Damnit! Cock-blocked by Mr. Peterson.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bon sang! Bite bloquée par M. Peterson.{/je}"
 
 # game/UpdateScript0.05.rpy:5572## # translate crowdin park_activities_02ef2b40:
 msgid "[R] Ok, let's go."
@@ -10722,7 +10722,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6076## # translate crowdin sid_working_club_4862ebea:
 msgid "[RT] {i}Holy shit! Those pantyhose are trying to get as far up Sidney's pussy as they can!{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde ! Ces collants essaient d'aller aussi loin que possible dans la chatte de Sidney!{/je}"
 
 # game/UpdateScript0.05.rpy:6077## # translate crowdin sid_working_club_c049e3cd:
 msgid "[R] Uhhhh.... Not much.... I just wanted to come check on you on your first day of work."
@@ -10774,7 +10774,7 @@ msgstr "[RT] {i}Aaahhh!.... Devrais-je juste risquer un coup d'oeil?{/je}"
 
 # game/UpdateScript0.05.rpy:6100## # translate crowdin sid_working_club_7a441bdb:
 msgid "[RT] {i}Holy Fuck! That leaves very little to the imagination.{/i}"
-msgstr ""
+msgstr "[RT] {i}Putain ! Cela laisse très peu de place à l'imagination.{/je}"
 
 # game/UpdateScript0.05.rpy:6101## # translate crowdin sid_working_club_b809864b:
 msgid "[S] Huh Hemm...."
@@ -11218,7 +11218,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6365## # translate crowdin club_fun_5a70f80d:
 msgid "[RT] {i}Diaz sure is brazenly unashamed about her relationship with the DeCapos, maybe I could record a conversation with her where she reveals something more incriminating.{/i}"
-msgstr ""
+msgstr "[RT] {i}Diaz est bien sûr effrontément sans honte à propos de sa relation avec les DéCapos, peut-être que je pourrais enregistrer une conversation avec elle où elle révèle quelque chose de plus incriminant.{/je}"
 
 # game/UpdateScript0.05.rpy:6366## # translate crowdin club_fun_5f53c871:
 msgid "[AD] So, are you excited for my next visit on Thursday?"
@@ -11406,7 +11406,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6486## # translate crowdin club_fun_5a70f80d_1:
 msgid "[RT] {i}Diaz sure is brazenly unashamed about her relationship with the DeCapos, maybe I could record a conversation with her where she reveals something more incriminating.{/i}"
-msgstr ""
+msgstr "[RT] {i}Diaz est bien sûr effrontément sans honte à propos de sa relation avec les DéCapos, peut-être que je pourrais enregistrer une conversation avec elle où elle révèle quelque chose de plus incriminant.{/je}"
 
 # game/UpdateScript0.05.rpy:6487## # translate crowdin club_fun_5f53c871_1:
 msgid "[AD] So, are you excited for my next visit on Thursday?"
