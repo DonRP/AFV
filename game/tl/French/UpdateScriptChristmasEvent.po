@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-04 18:12\n"
+"PO-Revision-Date: 2022-02-07 09:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScriptChristmasEvent.rpy:247## # translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -6074,7 +6074,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2732## # translate crowdin christmas_club_aecdea9b:
 msgid "[RT] {i}I've got an endless supply of money in my pocket.... how on earth would I be able to resist tipping that sexy minx?{/i}"
-msgstr ""
+msgstr "[RT] {i}J'ai une réserve infinie d'argent dans ma poche.... comment diable pourrais-je résister à faire basculer cette sexy coquine ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2733## # translate crowdin christmas_club_73b0404b:
 msgid "[GP] Don't forget why we're here!"
@@ -6890,7 +6890,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3044## # translate crowdin christmas_club_531604e5:
 msgid "[RT] {i}I'm....{/i}"
-msgstr ""
+msgstr "[RT] {i}Je suis....{/je}"
 
 # game/UpdateScriptChristmasEvent.rpy:3049## # translate crowdin christmas_club_a89b9863:
 msgid "[RT] {i}Cuuuumming!{/i}"
