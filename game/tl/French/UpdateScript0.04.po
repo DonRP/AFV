@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-04 18:12\n"
+"PO-Revision-Date: 2022-02-07 09:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -6754,7 +6754,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3573## # translate crowdin jacky_caught_office_3a0216b2:
 msgid "[RT] {i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois trouver un moyen de plaire à Matt au lieu de lui offrir Maman.{/je}"
 
 # game/UpdateScript0.04.rpy:3574## # translate crowdin jacky_caught_office_877702ea:
 msgid "[RT] {i}Speaking of, I better get out of here and go see her in her office.{/i}"
@@ -6894,7 +6894,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3642## # translate crowdin jacky_caught_office_3a0216b2_1:
 msgid "[RT] {i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois trouver un moyen de plaire à Matt au lieu de lui offrir Maman.{/je}"
 
 # game/UpdateScript0.04.rpy:3643## # translate crowdin jacky_caught_office_877702ea_1:
 msgid "[RT] {i}Speaking of, I better get out of here and go see her in her office.{/i}"
