@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-04 18:12\n"
+"PO-Revision-Date: 2022-02-07 09:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4738,7 +4738,7 @@ msgstr ""
 
 # game/script.rpy:6011## # translate crowdin sidneychanging_8c20c921:
 msgid "[RT] {i}I've got to get a spy cam in there or something.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois avoir une caméra espion là-dedans ou quelque chose comme ça.{/je}"
 
 # game/script.rpy:6024## # translate crowdin sidneychanging_bae89064:
 msgid "[RT] {i}Oh no! Hello temptation my old friend.{/i}"
@@ -5426,7 +5426,7 @@ msgstr ""
 
 # game/script.rpy:6415## # translate crowdin sidneylaurensneakingnight_f00d32cc:
 msgid "[RT] {i}I've got to come up with a way to get them sleeping in separate rooms.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois trouver un moyen de les faire dormir dans des pièces séparées.{/je}"
 
 # game/script.rpy:6416## # translate crowdin sidneylaurensneakingnight_722472b6:
 msgid "[RT] {i}And I think I've got the perfect idea.{/i}"
@@ -6230,7 +6230,7 @@ msgstr ""
 
 # game/script.rpy:7246## # translate crowdin stripclub_518b6bbd:
 msgid "[RT] {i}I've already been there tonight.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'y suis déjà allé ce soir.{/je}"
 
 # game/script.rpy:7251## # translate crowdin stripclub_59d55d64:
 msgid "[RT] {i}I better not try to push my luck anymore tonight.{/i}"
