@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-04 18:12\n"
+"PO-Revision-Date: 2022-02-07 09:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -390,7 +390,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:675## # translate crowdin fix_bulb_ee17bf3e:
 msgid "[RT] {i}I've got more than enough on my plate too, but should I take some time to see if she needs help?{/i}"
-msgstr ""
+msgstr "[RT] {i}J'en ai aussi plus qu'assez dans mon assiette, mais devrais-je prendre le temps de voir si elle a besoin d'aide?{/je}"
 
 # game/UpdateScript0.05.rpy:678## # translate crowdin fix_bulb_373d7162:
 msgid "[R] Hey, Mom! Working hard, or hardly working?"
@@ -6870,7 +6870,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3886## # translate crowdin breakfast_events_caaf4888:
 msgid "[RT] {i}I've got to get her in front of my camera!{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois la mettre devant ma caméra!{/je}"
 
 # game/UpdateScript0.05.rpy:3898## # translate crowdin breakfast_events_8d9a4b12_6:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7830,7 +7830,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4595## # translate crowdin fix_washer_8a8c67d6:
 msgid "[RT] {i}I've got to get my pants back up!{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois remonter mon pantalon! {/je}"
 
 # game/UpdateScript0.05.rpy:4598## # translate crowdin fix_washer_36d6d486:
 msgid "[RT] {i}Pheww.... That was close.{/i}"
@@ -7950,7 +7950,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4649## # translate crowdin fix_washer_9bb18023:
 msgid "[RT] {i}I've got to get my pants back up! {/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois remonter mon pantalon! {/je}"
 
 # game/UpdateScript0.05.rpy:4652## # translate crowdin fix_washer_36d6d486_1:
 msgid "[RT] {i}Pheww.... That was close.{/i}"
@@ -8434,7 +8434,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4876## # translate crowdin fix_washer_8a8c67d6_1:
 msgid "[RT] {i}I've got to get my pants back up!{/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois remonter mon pantalon! {/je}"
 
 # game/UpdateScript0.05.rpy:4879## # translate crowdin fix_washer_36d6d486_2:
 msgid "[RT] {i}Pheww.... That was close.{/i}"
@@ -8546,7 +8546,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4924## # translate crowdin fix_washer_9bb18023_1:
 msgid "[RT] {i}I've got to get my pants back up! {/i}"
-msgstr ""
+msgstr "[RT] {i}Je dois remonter mon pantalon! {/je}"
 
 # game/UpdateScript0.05.rpy:4927## # translate crowdin fix_washer_36d6d486_3:
 msgid "[RT] {i}Pheww.... That was close.{/i}"
@@ -10570,7 +10570,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6006## # translate crowdin sid_working_club_4beb5906:
 msgid "[RT] {i}I've already talked to her tonight... she might get in trouble if I don't let her keep working.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je lui ai déjà parlé ce soir... elle pourrait avoir des ennuis si je ne la laisse pas continuer à travailler.{/je}"
 
 # game/UpdateScript0.05.rpy:6015## # translate crowdin sid_working_club_55f1e56f:
 msgid "[RT] {i}I've got to keep my eye out for Sidney. If I don't see her, I'm sure I can just wait for her to turn up at the bar.{/i}"
