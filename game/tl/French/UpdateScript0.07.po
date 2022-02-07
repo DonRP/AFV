@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-04 18:12\n"
+"PO-Revision-Date: 2022-02-07 09:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.07.rpy:1024## # translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1051## # translate crowdin receive_will_email_87377db2:
 msgid "[RT] {i}I've got a new email from Will Tylor.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'ai reçu un nouvel e-mail de Will Tylor.{/i}"
 
 # game/UpdateScript0.07.rpy:1052## # translate crowdin receive_will_email_b4c30673:
 msgid "[WT] Thank you for facilitating a professional work dinner between myself and your mother. I'll be contacting her very soon to arrange a date and time."
@@ -562,7 +562,7 @@ msgstr "[RT] {i}Je n'arrive tout simplement pas à croire que Lauren m'ait compl
 
 # game/UpdateScript0.07.rpy:1275## # translate crowdin ntr_lounge_sex_c1dce0db:
 msgid "[RT] {i}I'm sure I can't do anything to stop them from fooling around again... But chances are probably greater if I'm not there.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je suis sûr que je ne peux rien faire pour les empêcher de s'amuser à nouveau... Mais les chances sont probablement plus grandes si je ne suis pas là.{/je}"
 
 # game/UpdateScript0.07.rpy:1278## # translate crowdin ntr_lounge_sex_4f20439e:
 msgid "[R] You're watching \"Game of Thots\" without me again?"
@@ -10750,7 +10750,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:6855## # translate crowdin election_finale_f703c72d:
 msgid "[RT] {i}I'm sure Matt likes what he sees, but I've got the better view. Of all the girls in my family, Lauren has the cutest ass.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je suis sûr que Matt aime ce qu'il voit, mais j'ai la meilleure vue. De toutes les filles de ma famille, Lauren a le cul le plus mignon.{/je}"
 
 # game/UpdateScript0.07.rpy:6856## # translate crowdin election_finale_203e5cf2:
 msgid "[L] Get those clothes off. I want that cock in my mouth!"
@@ -28718,7 +28718,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:16578## # translate crowdin diaz_help_8ce0b883:
 msgid "[RT] {i}I've already bough influence this week, I wonder if there's anything else Diaz can do to help the campaign.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'ai déjà eu de l'influence cette semaine, je me demande s'il y a autre chose que Diaz peut faire pour aider la campagne.{/je}"
 
 # game/UpdateScript0.07.rpy:16581## # translate crowdin diaz_help_a9009371_2:
 msgid "{b}{i}\"Knock, knock, knock...\"{/i}{/b}"
@@ -28970,7 +28970,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:16728## # translate crowdin diaz_help_6d8f0ea4:
 msgid "[RT] {i}I've finally got that bitch sucking my cock.{/i}"
-msgstr ""
+msgstr "[RT] {i}J'ai enfin cette chienne qui suce ma bite.{/je}"
 
 # game/UpdateScript0.07.rpy:16729## # translate crowdin diaz_help_865ea4cd:
 msgid "[RT] {i}So what if it costs me a small fortune.{/i}"
@@ -31930,7 +31930,7 @@ msgstr "[RT] {i}Je ne pourrais pas donner de bonnes nouvelles à Lauren sur le c
 
 # game/UpdateScript0.07.rpy:18116## # translate crowdin will_meeting_9eae2a19:
 msgid "[RT] {i}I'm sure Lauren wouldn't want to put Mom in that kind of danger just to win an election.{/i}"
-msgstr ""
+msgstr "[RT] {i}Je suis sûr que Lauren ne voudrait pas mettre Maman dans ce genre de danger juste pour gagner une élection.{/je}"
 
 # game/UpdateScript0.07.rpy:18117## # translate crowdin will_meeting_2f554b67:
 msgid "[RT] {i}Yeah, right.{/i}"
