@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-07 09:27\n"
+"PO-Revision-Date: 2022-02-08 09:34\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -322,7 +322,7 @@ msgstr "[RT] {i}Je ne veux vraiment pas la forcer à quoi que ce soit.... Je pen
 
 # game/UpdateScript0.04.rpy:451## # translate crowdin get_sidney_modeling_5498c840:
 msgid "[RT] {i}It looks like she needs a little more corrupting.... but how.... {/i}"
-msgstr ""
+msgstr "[RT] {i}On dirait qu'elle a besoin d'un peu plus de corruption.... mais comment.... {/je}"
 
 # game/UpdateScript0.04.rpy:452## # translate crowdin get_sidney_modeling_53c9e526:
 msgid "[RT] {i}I'm having a lot of success with corrupting Lauren with the cosplay photoshoots.... maybe I could get Sidney to be a model too.... {/i}"
@@ -1798,7 +1798,7 @@ msgstr "[RT] {i}Je suppose que tante Camille l'a trop énervée pour que maman p
 
 # game/UpdateScript0.04.rpy:1319## # translate crowdin camille_tells_ecfc5948:
 msgid "[RT] {i}It was surprising that Mom wasn't upset about me taking those kinds of pictures of my sister and cousin though.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il était surprenant que maman n'ait pas été contrariée par le fait que je prenne ce genre de photos de ma sœur et de ma cousine.{/je}"
 
 # game/UpdateScript0.04.rpy:1320## # translate crowdin camille_tells_ad09455b:
 msgid "[RT] {i}With everything else that's going on, she probably just doesn't have the emotional energy to deal with it.{/i}"
@@ -4530,7 +4530,7 @@ msgstr "[RT] {i}J'aimerais assigner une corvée à tante Cami, mais je dois alle
 
 # game/UpdateScript0.04.rpy:2520## # translate crowdin assign_chores_eab8991e:
 msgid "[RT] {i}Looks like Aunt Cami's done working out, I should hurry and get her going on her chores so I can make it to school today.{/i}"
-msgstr ""
+msgstr "[RT] {i}On dirait que tante Camille a fini de s'entraîner, je devrais me dépêcher de la faire faire ses corvées pour que je puisse aller à l'école aujourd'hui.{/je}"
 
 # game/UpdateScript0.04.rpy:2521## # translate crowdin assign_chores_e21de33e:
 msgid "[RT] {i}And is she really drinking this early in the morning?{/i}"
@@ -4818,7 +4818,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2637## # translate crowdin assign_chores_5339f093:
 msgid "[RT] {i}Looks like Aunt Cami's done working out.{/i}"
-msgstr ""
+msgstr "[RT] {i}On dirait que tante Camille a fini de travailler.{/je}"
 
 # game/UpdateScript0.04.rpy:2640## # translate crowdin assign_chores_505857f0:
 msgid "[RT] {i}I should hurry and get her going on her chores so I can make it to school today.{/i}"
@@ -5134,7 +5134,7 @@ msgstr "[RT] {i}Je suppose que je pourrais toujours essayer de faufiler mon tél
 
 # game/UpdateScript0.04.rpy:2774## # translate crowdin aunt_clean_kitchen_291192a6:
 msgid "[RT] {i}It's always worth it, it's just super risky.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ça en vaut toujours la peine, c'est juste super risqué.... {/je}"
 
 # game/UpdateScript0.04.rpy:2775## # translate crowdin aunt_clean_kitchen_1610f59c:
 msgid "[RT] {i}.... alright.... horniness wins.... let's do this!{/i}"
@@ -6538,7 +6538,7 @@ msgstr "[RT] {i}Ahhh.... si seulement tante Camille changeait de vêtements avec
 
 # game/UpdateScript0.04.rpy:3460## # translate crowdin yoga_with_aunt_590f6f50:
 msgid "[RT] {i}Just.... wow.... what a body!{/i}"
-msgstr ""
+msgstr "[RT] {i}Juste.... wow.... quel corps!{/i}"
 
 # game/UpdateScript0.04.rpy:3463## # translate crowdin yoga_with_aunt_a26be530:
 msgid "{i}\"A little while later.\"{/i}"
@@ -6546,7 +6546,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3466## # translate crowdin yoga_with_aunt_4af2d87c:
 msgid "[RT] {i}Looks like she's about done.{/i}"
-msgstr ""
+msgstr "[RT] {i}On dirait qu'elle a fini.{/je}"
 
 # game/UpdateScript0.04.rpy:3485## # translate crowdin jacky_caught_office_4c90c24b:
 msgid "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
@@ -6602,7 +6602,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3502## # translate crowdin jacky_caught_office_338ce48a:
 msgid "[RT] {i}Just a few weeks ago, I would have considered spying on Matt and Megan super creepy, but with some of the choices I've made lately, it seems pretty mild.... what am I becoming?{/i}"
-msgstr ""
+msgstr "[RT] {i}Il y a quelques semaines à peine, j'aurais envisagé d'espionner Matt et Megan, mais avec certains des choix que j'ai faits dernièrement, cela semble assez doux.... que suis-je en train de devenir ?{/je}"
 
 # game/UpdateScript0.04.rpy:3508## # translate crowdin jacky_caught_office_efc84d67:
 msgid "[RT] {i}Huh.... no feet under the stalls.... I thought for sure they'd be here. After all this is where Matt sent Megan to come service me.{/i}"
@@ -6730,7 +6730,7 @@ msgstr "[RT] {i}Merde... ces deux-là sont dans toutes les intrigues !{/i}"
 
 # game/UpdateScript0.04.rpy:3566## # translate crowdin jacky_caught_office_a688357a:
 msgid "[RT] {i}Matt thinks he can use his girlfriend to get to Mom{/i}"
-msgstr ""
+msgstr "[RT] {i}Matt pense qu'il peut utiliser sa petite amie pour aller voir maman {/i}"
 
 # game/UpdateScript0.04.rpy:3567## # translate crowdin jacky_caught_office_f722b5d6:
 msgid "[RT] {i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
@@ -6742,7 +6742,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3570## # translate crowdin jacky_caught_office_a8e6354c:
 msgid "[RT] {i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est bien de voir que Matt fait de son mieux pour que maman et moi soyons ensemble.{/je}"
 
 # game/UpdateScript0.04.rpy:3571## # translate crowdin jacky_caught_office_d9ccd511:
 msgid "[RT] {i}And having Megan around will be nice too. I hope I can get another blowjob, or maybe even more from her as long as she's hanging around.{/i}"
@@ -6870,7 +6870,7 @@ msgstr "[RT] {i}Merde... ces deux-là sont dans toutes les intrigues !{/i}"
 
 # game/UpdateScript0.04.rpy:3635## # translate crowdin jacky_caught_office_a688357a_1:
 msgid "[RT] {i}Matt thinks he can use his girlfriend to get to Mom{/i}"
-msgstr ""
+msgstr "[RT] {i}Matt pense qu'il peut utiliser sa petite amie pour aller voir maman {/i}"
 
 # game/UpdateScript0.04.rpy:3636## # translate crowdin jacky_caught_office_f722b5d6_1:
 msgid "[RT] {i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
@@ -6882,7 +6882,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3639## # translate crowdin jacky_caught_office_a8e6354c_1:
 msgid "[RT] {i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est bien de voir que Matt fait de son mieux pour que maman et moi soyons ensemble.{/je}"
 
 # game/UpdateScript0.04.rpy:3640## # translate crowdin jacky_caught_office_d9ccd511_1:
 msgid "[RT] {i}And having Megan around will be nice too. I hope I can get another blowjob, or maybe even more from her as long as she's hanging around.{/i}"
@@ -8010,7 +8010,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4172## # translate crowdin bye_bobby_180e7337:
 msgid "[RT] {i}Illusion my ass.{/i}"
-msgstr ""
+msgstr "[RT] {i}Illusion mon cul.{/je}"
 
 # game/UpdateScript0.04.rpy:4173## # translate crowdin bye_bobby_8b1a3f20:
 msgid "[B] That should help keep the heat off Agent Diaz."
@@ -8062,7 +8062,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4189## # translate crowdin bye_bobby_6434c3a3:
 msgid "[RT] {i}If I'm taking care of them all, I should be compensated for it, after all.{/i}"
-msgstr ""
+msgstr "[RT] {i}Si je m'occupe d'eux tous, je devrais être récompensé pour cela, après tout.{/je}"
 
 # game/UpdateScript0.04.rpy:4190## # translate crowdin bye_bobby_08e7ec28:
 msgid "[RT] {i}Now, I just have to convince all of them to see it that way.{/i}"
@@ -10990,7 +10990,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5474## # translate crowdin rippedundies_9384963a:
 msgid "[RT] {i}Luckily she can't see me pitching a tent from there.{/i}"
-msgstr ""
+msgstr "[RT] {i}Heureusement, elle ne peut pas me voir monter une tente à partir de là.{/i}"
 
 # game/UpdateScript0.04.rpy:5477## # translate crowdin rippedundies_d2f3d71a:
 msgid "[S] Did you get a good look? You were back there for long enough."
@@ -11034,7 +11034,7 @@ msgstr "[RT] {i}Hmmmmm.... ce que je veux faire ensuite, elle n'acceptera jamais
 
 # game/UpdateScript0.04.rpy:5487## # translate crowdin rippedundies_9a8c9f85:
 msgid "[RT] {i}Let's see if I'm clever enough to make this work out.{/i}"
-msgstr ""
+msgstr "[RT] {i}Voyons si je suis assez intelligent pour que cela fonctionne.{/je}"
 
 # game/UpdateScript0.04.rpy:5488## # translate crowdin rippedundies_b751b20b:
 msgid "[R] Alright.... we're done with the wolf scene, now I want you to pretend you're crawling through a tunnel ful of cobwebs..."
