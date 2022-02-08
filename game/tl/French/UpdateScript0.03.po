@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-03 18:14\n"
+"PO-Revision-Date: 2022-02-08 09:34\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.03.rpy:466## # translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -5586,7 +5586,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3463## # translate crowdin clubpool_c3f41a1c:
 msgid "[RT] {i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
-msgstr ""
+msgstr "[RT] {i}Maman est une sorte de pouffiasse quand elle est ivre. Je n'arrive pas à croire que Matt ait déjà eu le meilleur et pas moi ! Je dois m'investir pour elle à fond !{/je}"
 
 # game/UpdateScript0.03.rpy:3464## # translate crowdin clubpool_615e6e69:
 msgid "[M] Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
