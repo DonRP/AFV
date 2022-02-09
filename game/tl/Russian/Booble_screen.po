@@ -10,20 +10,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-01-03 17:51\n"
+"PO-Revision-Date: 2022-02-09 09:32\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Booble_screen.rpy:51## # translate crowdin booble_search_f6ce98ce:
 msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
-msgstr ""
+msgstr "[RT] {i}Я должен поискать на booble.com, чтобы найти способ купить то, что мне нужно, чтобы ФБР не спросило меня, откуда у меня деньги.{/i}"
 
 # game/Booble_screen.rpy:67## # translate crowdin booble_search_ce876757:
 msgid "[RT] {i}What should I do today on the internet?{/i}"
-msgstr ""
+msgstr "[RT] {i}Что мне сегодня делать в Интернете?{/i}"
 
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}интернет-магазины hardnlong.dong{/b}{/цвет}"
 
 #    # game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b} косплей - сайт cosplayheaven.cos{/b}{/цвет}"
 
