@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-09 09:31\n"
+"PO-Revision-Date: 2022-02-10 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -6622,7 +6622,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3694## # translate crowdin breakfast_events_748678dc:
 msgid "[RT] {i}Oh, shoot!.... looks like the memory card in the camera is going to have to get damaged before I get a chance to download them onto my computer, and post them online.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, zut !.... on dirait que la carte mémoire de l'appareil photo va devoir être endommagée avant que j'aie la chance de les télécharger sur mon ordinateur et de les publier en ligne.{/je}"
 
 # game/UpdateScript0.05.rpy:3695## # translate crowdin breakfast_events_1cf37310:
 msgid "[RT] {i}As long as Mom isn't a closet cosplay fan, with a secret Cosplay Heaven account, I think we'll be alright.{/i}"
