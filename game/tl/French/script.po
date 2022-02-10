@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-09 09:31\n"
+"PO-Revision-Date: 2022-02-10 13:19\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -6890,7 +6890,7 @@ msgstr ""
 
 # game/script.rpy:7972## # translate crowdin dinnerfirst_c611c3b9:
 msgid "[RT] {i}Oh, shit.... well, I guess they're going to find my porn collection. Hopefully they don't know what kind of games \"Milfy City\" and \"Big Brother\" are.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, merde.... eh bien, je suppose qu'ils vont trouver ma collection de porno. J'espère qu'ils ne savent pas quel genre de jeux 'Milfy City' et 'Big Brother' sont.{/je}"
 
 # game/script.rpy:7973## # translate crowdin dinnerfirst_553dd13a:
 msgid "[M] Having your privacy invaded like that makes me feel so vulnerable. Almost naked, you know?"
@@ -6914,7 +6914,7 @@ msgstr ""
 
 # game/script.rpy:7987## # translate crowdin dinnerfirst_c611c3b9_1:
 msgid "[RT] {i}Oh, shit.... well, I guess they're going to find my porn collection. Hopefully they don't know what kind of games \"Milfy City\" and \"Big Brother\" are.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, merde.... eh bien, je suppose qu'ils vont trouver ma collection de porno. J'espère qu'ils ne savent pas quel genre de jeux 'Milfy City' et 'Big Brother' sont.{/je}"
 
 # game/script.rpy:7988## # translate crowdin dinnerfirst_a9921d27:
 msgid "[L] One of the agents kept staring at my ass. She really gave me the creeps!"
