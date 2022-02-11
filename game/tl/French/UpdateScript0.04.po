@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-09 09:31\n"
+"PO-Revision-Date: 2022-02-11 13:33\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, je pense que j'ai eu assez de mains, il est temps d'augmenter les choses d'un cran.{/je}"
 
 # game/UpdateScript0.04.rpy:327## # translate crowdin get_sidney_modeling_55ee820d:
 msgid "[RT] {i}Ok, she looks like she's asleep, but let's find out if the predator is ready to strike again.{/i}"
-msgstr ""
+msgstr "[RT] {i}D'accord, elle a l'air de dormir, mais voyons si le prédateur est prêt à frapper à nouveau.{/je}"
 
 # game/UpdateScript0.04.rpy:328## # translate crowdin get_sidney_modeling_609ec708:
 msgid "[RT] {i}Hmmmm.... {/i}"
@@ -1242,7 +1242,7 @@ msgstr "[RT] {i}Je suppose que je peux être assez influent quand je veux l'êtr
 
 # game/UpdateScript0.04.rpy:965## # translate crowdin nightly_sixtynine_24fbc039:
 msgid "[RT] {i}Should I see if she's up for it again tonight?{/i}"
-msgstr ""
+msgstr "[RT] {i}Devrais-je voir si elle est à nouveau prête ce soir?{/je}"
 
 # game/UpdateScript0.04.rpy:971## # translate crowdin nightly_sixtynine_8e3ee23b_1:
 msgid "[R] Psssssst.... {i}(whispering){/i} Hey, Sidney.... are you awake?"
@@ -2106,7 +2106,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1431## # translate crowdin hire_a_maid_e5d64728:
 msgid "[RT] {i}Oh.... my.... God!.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Oh.... mon.... Dieu !....{/i}"
 
 # game/UpdateScript0.04.rpy:1432## # translate crowdin hire_a_maid_3da3185b:
 msgid "[RT] {i}Did that just happen?{/i}"
@@ -5102,15 +5102,15 @@ msgstr "[RT] {i}J'espère qu'elle pourra le comprendre par elle-même.{/je}"
 
 # game/UpdateScript0.04.rpy:2761## # translate crowdin aunt_clean_kitchen_f3b10a59:
 msgid "[RT] {i}Ok.... ok.... ok.... what is the pythagorean theorem again?{/i}"
-msgstr ""
+msgstr "[RT] {i}Ok.... ok.... ok.... qu'est-ce que le théorème de Pythagore ?{/je}"
 
 # game/UpdateScript0.04.rpy:2762## # translate crowdin aunt_clean_kitchen_8bfada64:
 msgid "[RT] {i}Ok, so if \"a\" squared is 16.... and \"b\" squared.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, donc si 'a' au carré vaut 16.... et 'b' au carré.... {/je}"
 
 # game/UpdateScript0.04.rpy:2765## # translate crowdin aunt_clean_kitchen_fa2480ff:
 msgid "[RT] {i}Ooohhhh.... man.... maybe Sidney made that uniform too sexy!.... I can't focus on anything else.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ooohhhh.... mec.... peut-être que Sidney a rendu cet uniforme trop sexy!.... Je ne peux pas me concentrer sur autre chose.... {/je}"
 
 # game/UpdateScript0.04.rpy:2766## # translate crowdin aunt_clean_kitchen_dfa259e8:
 msgid "[RT] {i}I'm going to fail my senior year again!.... {/i}"
@@ -5142,7 +5142,7 @@ msgstr "[RT] {i}.... D'accord.... la folie gagne.... faisons ça!{/je}"
 
 # game/UpdateScript0.04.rpy:2778## # translate crowdin aunt_clean_kitchen_2f97d51a:
 msgid "[RT] {i}Ok, [ryan].... quietly.... slide that under.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, [ryan].... tranquillement.... glissez ça dessous.... {/je}"
 
 # game/UpdateScript0.04.rpy:2781## # translate crowdin aunt_clean_kitchen_800335f5:
 msgid "[RT] {i}Oh my God!.... I can't believe how close my camera is to her ass!{/i}"
@@ -6598,7 +6598,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3499## # translate crowdin jacky_caught_office_8d6de886:
 msgid "[RT] {i}Ok, Mom's probably in her office. I could go talk to her, or should I maybe look around and see if I can tell where Matt and Megan went.... maybe I can sneak a peek.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Ok, maman est probablement dans son bureau. Je pourrais aller lui parler, ou devrais-je regarder autour de moi et voir si je peux dire où Matt et Megan sont allés.... je peux peut-être jeter un coup d'œil.... {/je}"
 
 # game/UpdateScript0.04.rpy:3502## # translate crowdin jacky_caught_office_338ce48a:
 msgid "[RT] {i}Just a few weeks ago, I would have considered spying on Matt and Megan super creepy, but with some of the choices I've made lately, it seems pretty mild.... what am I becoming?{/i}"
@@ -6750,7 +6750,7 @@ msgstr "[RT] {i}Et avoir Megan autour sera agréable aussi. J'espère pouvoir ob
 
 # game/UpdateScript0.04.rpy:3572## # translate crowdin jacky_caught_office_497b95a0:
 msgid "[RT] {i}Shit!.... But why did I tell him he could have Mom after I've had her. I don't want to share her.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!.... Mais pourquoi lui ai-je dit qu'il pourrait avoir maman après l'avoir eu. Je ne veux pas la partager.... {/je}"
 
 # game/UpdateScript0.04.rpy:3573## # translate crowdin jacky_caught_office_3a0216b2:
 msgid "[RT] {i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
@@ -6890,7 +6890,7 @@ msgstr "[RT] {i}Et avoir Megan autour sera agréable aussi. J'espère pouvoir ob
 
 # game/UpdateScript0.04.rpy:3641## # translate crowdin jacky_caught_office_497b95a0_1:
 msgid "[RT] {i}Shit!.... But why did I tell him he could have Mom after I've had her. I don't want to share her.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!.... Mais pourquoi lui ai-je dit qu'il pourrait avoir maman après l'avoir eu. Je ne veux pas la partager.... {/je}"
 
 # game/UpdateScript0.04.rpy:3642## # translate crowdin jacky_caught_office_3a0216b2_1:
 msgid "[RT] {i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
@@ -7582,7 +7582,7 @@ msgstr "[MT] {i}Ahhhh... Merde! {/i}"
 
 # game/UpdateScript0.04.rpy:3987## # translate crowdin jacky_at_Laptop_ba38ff93:
 msgid "[RT] {i}She's rubbing herself right in front of me!.... Should I do the same?{/i}"
-msgstr ""
+msgstr "[RT] {i}Elle se caresse devant moi!.... Devrais-je faire la même chose?{/je}"
 
 # game/UpdateScript0.04.rpy:3988## # translate crowdin jacky_at_Laptop_cde0c7df:
 msgid "[MT] {i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
@@ -7598,7 +7598,7 @@ msgstr "[MT] {i}Oh, Dieu !.... {/i}"
 
 # game/UpdateScript0.04.rpy:3995## # translate crowdin jacky_at_Laptop_a820e4c6_1:
 msgid "[RT] {i}Oh.... fuck.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Oh.... merde.... {/i}"
 
 # game/UpdateScript0.04.rpy:4009## # translate crowdin jacky_at_Laptop_357fc127:
 msgid "[RT] {i}Oh, shit.... I might have gone too far.{/i}"
@@ -7898,7 +7898,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4134## # translate crowdin bye_bobby_0818f13a:
 msgid "[RT] {i}Shit!.... If he knows about the account, he's probably seen the pictures of his daughter!{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde!.... S'il est au courant du compte, il a probablement vu les photos de sa fille!{/je}"
 
 # game/UpdateScript0.04.rpy:4135## # translate crowdin bye_bobby_bf563cdf:
 msgid "[B] You ok? Your face went a little white."
@@ -11006,7 +11006,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5480## # translate crowdin rippedundies_aa3b04b8:
 msgid "[RT] {i}Shit.... she noticed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde.... elle l'a remarqué.{/je}"
 
 # game/UpdateScript0.04.rpy:5481## # translate crowdin rippedundies_cc596cde:
 msgid "[R] I'm not proud of that.... but I think it's a pretty natural reaction to what I was just looking at.... sister or not."
