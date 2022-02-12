@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-11 13:33\n"
+"PO-Revision-Date: 2022-02-12 13:29\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -90,7 +90,7 @@ msgstr "[RT] {i}D'accord!.... Enlève mon short.{/je}"
 
 # game/UpdateScript0.05.rpy:515## # translate crowdin sidneys_home_late_45979faa:
 msgid "[RT] {i}That is one sexy ass!{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est un cul sexy!{/je}"
 
 # game/UpdateScript0.05.rpy:516## # translate crowdin sidneys_home_late_6a4f0f91:
 msgid "[RT] {i}I could probably get these pantyhose off, but I don't think I could get them back on without waking her.{/i}"
@@ -98,15 +98,15 @@ msgstr "[RT] {i}Je pourrais probablement enlever ces collants, mais je ne pense 
 
 # game/UpdateScript0.05.rpy:519## # translate crowdin sidneys_home_late_1f6f27ef:
 msgid "[RT] {i}This is going to be amazing anyways.{/i}"
-msgstr ""
+msgstr "[RT] {i}Cela va être incroyable de toute façon.{/je}"
 
 # game/UpdateScript0.05.rpy:522## # translate crowdin sidneys_home_late_05eceabe:
 msgid "[RT] {i}That is one muscular ass! All that running is paying off.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est un cul musclé! Toute cette course porte ses fruits.{/je}"
 
 # game/UpdateScript0.05.rpy:523## # translate crowdin sidneys_home_late_985fd1ae:
 msgid "[RT] {i}This is going to feel amazing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Cela va être incroyable.{/je}"
 
 # game/UpdateScript0.05.rpy:528## # translate crowdin sidneys_home_late_c11da9aa:
 msgid "[RT] {i}Ooohhh.... I'm almost there!{/i}"
@@ -134,7 +134,7 @@ msgstr "[RT] {i}Je vais devoir demander à Sidney si son dos est très hydraté 
 
 # game/UpdateScript0.05.rpy:547## # translate crowdin sidneys_home_late_bdb70735:
 msgid "[RT] {i}There.... As soon as the cum on her pantyhose dries, she won't even be able to tell.{/i}"
-msgstr ""
+msgstr "[RT] {i}Là.... Dès que le sperme sur ses collants sèche, elle ne pourra même pas le dire.{/je}"
 
 # game/UpdateScript0.05.rpy:548## # translate crowdin sidneys_home_late_635d8dfc:
 msgid "[RT] {i}And now, I'm going to sleep well tonight.{/i}"
@@ -334,7 +334,7 @@ msgstr "[RT] {i}Pourrait-elle l'enlever exprès pour qu'elle puisse regarder mon
 
 # game/UpdateScript0.05.rpy:647## # translate crowdin fix_bulb_357189aa:
 msgid "[RT] {i}That's just wishful thinking. There is no way she would do that.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est juste un vœu pieux. Il n'y a aucun moyen qu'elle fasse ça.{/je}"
 
 # game/UpdateScript0.05.rpy:648## # translate crowdin fix_bulb_0c2a4d91:
 msgid "[R] Well, hopefully we took care of it for good that time."
@@ -498,7 +498,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:722## # translate crowdin fix_bulb_7eb35e60:
 msgid "[RT] {i}They better not.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ils ne vaudront pas mieux. {/i}"
 
 # game/UpdateScript0.05.rpy:725## # translate crowdin fix_bulb_5d7bc0da:
 msgid "[MT] {i}Psshhhh.... (sarcastically) Well, this is a nice view.{/i}"
@@ -674,7 +674,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:828## # translate crowdin sidney_morning_jog_aed139c8:
 msgid "[RT] {i}Sidney's about ready to go running.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sidney est prête à courir.{/je}"
 
 # game/UpdateScript0.05.rpy:829## # translate crowdin sidney_morning_jog_60878d09:
 msgid "[RT] {i}I wonder if she needs my protection in the park today.{/i}"
@@ -722,7 +722,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:853## # translate crowdin sidney_morning_jog_6247429b:
 msgid "[RT] {i}Sidney's about ready for another run. I've always been impressed with her ability to stick with things. Even after her experiences in the park.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sidney est à peu près prête pour une autre course. J'ai toujours été impressionné par sa capacité à rester calme avec les choses. Même après ses expériences dans le parc.{/je}"
 
 # game/UpdateScript0.05.rpy:856## # translate crowdin sidney_morning_jog_f8adcf49:
 msgid "[R] Hey Sidney. Are you off to the indoor track?"
@@ -1334,7 +1334,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1124## # translate crowdin sidney_search_47a6f8a0:
 msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est la sonnette. Je suis sûr de savoir qui c'est.{/je}"
 
 # game/UpdateScript0.05.rpy:1130## # translate crowdin sidney_search_49b69b6c:
 msgid "[J] Hello little boy, is your mom at home?"
@@ -4518,7 +4518,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2699## # translate crowdin reward_for_payment_47a6f8a0:
 msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est la sonnette. Je suis sûr de savoir qui c'est.{/je}"
 
 # game/UpdateScript0.05.rpy:2704## # translate crowdin reward_for_payment_49b69b6c:
 msgid "[J] Hello little boy, is your mom at home?"
@@ -6990,7 +6990,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4003## # translate crowdin breakfast_events_e513a5a2:
 msgid "[RT] {i}Two more women in the house.... This could get interesting.{/i}"
-msgstr ""
+msgstr "[RT] {i}Deux autres femmes dans la maison.... Cela pourrait devenir intéressant.{/je}"
 
 # game/UpdateScript0.05.rpy:4017## # translate crowdin breakfast_events_8d9a4b12_8:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7586,7 +7586,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4467## # translate crowdin fix_washer_e91cb4db:
 msgid "[RT] {i}Uugghh.... Back to the creepy basement!{/i}"
-msgstr ""
+msgstr "[RT] {i}Uugghh.... Retour au sous-sol effrayant!{/je}"
 
 # game/UpdateScript0.05.rpy:4468## # translate crowdin fix_washer_e1016a1d:
 msgid "[RT] {i}But I'd still follow that ass anywhere.{/i}"
@@ -7698,7 +7698,7 @@ msgstr "[RT] {i}Encore une fois, maman est à peu près coincée là-dedans.... 
 
 # game/UpdateScript0.05.rpy:4512## # translate crowdin fix_washer_d5c311e3:
 msgid "[RT] {i}So, it's time to take advantage of the situation.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il est donc temps de profiter de la situation.{/je}"
 
 # game/UpdateScript0.05.rpy:4516## # translate crowdin fix_washer_270b92c1:
 msgid "[MT] {i}Hmmmm.... So far so good, it seems.{/i}"
@@ -8050,7 +8050,7 @@ msgstr "[RT] {i}Je dois lui faire voir à quel point sa vie peut être meilleure
 
 # game/UpdateScript0.05.rpy:4685## # translate crowdin fix_washer_bf861604:
 msgid "[RT] {i}Time to show her I can take his place in her life.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il est temps de lui montrer que je peux prendre sa place dans sa vie.{/je}"
 
 # game/UpdateScript0.05.rpy:4686## # translate crowdin fix_washer_f98d596c:
 msgid "[RT] {i}Maybe there's something else I can do to help her around the house.{/i}"
@@ -8190,7 +8190,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4747## # translate crowdin fix_washer_5ebdc40c:
 msgid "[RT] {i}Uugghh.... I've always hated this basement!{/i}"
-msgstr ""
+msgstr "[RT] {i}Uugghh.... J'ai toujours détesté ce sous-sol !{/je}"
 
 # game/UpdateScript0.05.rpy:4748## # translate crowdin fix_washer_f6ecc227:
 msgid "[RT] {i}But I'd follow that ass anywhere.{/i}"
@@ -8642,11 +8642,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4969## # translate crowdin run_training_1f243903:
 msgid "[RT] {i}Well, at least I should be able to keep up with Sidney now.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, au moins je devrais pouvoir suivre Sidney maintenant.{/je}"
 
 # game/UpdateScript0.05.rpy:4970## # translate crowdin run_training_f6878e03:
 msgid "[RT] {i}So, I should be able to bring her to the park now, without her having to be afraid of poor Mr. Peterson.{/i}"
-msgstr ""
+msgstr "[RT] {i}Donc, je devrais pouvoir l'amener au parc maintenant, sans qu'elle ait à avoir peur du pauvre M. Peterson.{/je}"
 
 # game/UpdateScript0.05.rpy:4971## # translate crowdin run_training_45c78bb8:
 msgid "[RT] {i}I still don't see any sign of him though.{/i}"
@@ -8742,7 +8742,7 @@ msgstr "[RT] {i}Et aucun signe de M. Peterson.{/je}"
 
 # game/UpdateScript0.05.rpy:5017## # translate crowdin run_training_b6be7e3b:
 msgid "[RT] {i}There's still no way I could keep up with Sidney. I should probably keep training.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il n'y a toujours aucun moyen que je puisse suivre Sidney. Je devrais probablement continuer à m'entraîner.{/je}"
 
 # game/UpdateScript0.05.rpy:5018## # translate crowdin run_training_4bcf3691:
 msgid "[RT] {i}If she gets here before me, she could be at risk of running into Mr. Peterson while she's all alone.{/i}"
@@ -8858,7 +8858,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5075## # translate crowdin not_fit_enough_135e9a00:
 msgid "[RT] {i}Uugghh.... I pushed it too hard again trying to keep up with her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Uugghh.... J'ai encore trop poussé pour la suivre.{/je}"
 
 # game/UpdateScript0.05.rpy:5078## # translate crowdin not_fit_enough_5fd7b03e:
 msgid "[RT] {i}I just need to take a minute to rest.{/i}"
@@ -9058,7 +9058,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5183## # translate crowdin not_fit_enough_135e9a00_1:
 msgid "[RT] {i}Uugghh.... I pushed it too hard again trying to keep up with her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Uugghh.... J'ai encore trop poussé pour la suivre.{/je}"
 
 # game/UpdateScript0.05.rpy:5186## # translate crowdin not_fit_enough_5fd7b03e_1:
 msgid "[RT] {i}I just need to take a minute to rest.{/i}"
@@ -9198,7 +9198,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5267## # translate crowdin not_fit_enough_83e64ffc:
 msgid "[RT] {i}Spritely old fucker.{/i}"
-msgstr ""
+msgstr "[RT] {i}Vieux baiseur.{/je}"
 
 # game/UpdateScript0.05.rpy:5268## # translate crowdin not_fit_enough_1cf47a17:
 msgid "[RT] {i}I'd better go check on Sidney.{/i}"
@@ -10630,7 +10630,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6044## # translate crowdin sid_working_club_0dd5383c:
 msgid "[RT] {i}There's Sidney. Wow!, and she's working with another extremely sexy waitress.{/i}"
-msgstr ""
+msgstr "[RT] {i}Il y a Sidney. Ça alors!, et elle travaille avec une autre serveuse extrêmement sexy.{/je}"
 
 # game/UpdateScript0.05.rpy:6045## # translate crowdin sid_working_club_fb18626f:
 msgid "[R] Hey Sidney!"
