@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-11 13:33\n"
+"PO-Revision-Date: 2022-02-12 13:29\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1224## # translate crowdin aunts_financials_c1af27fe:
 msgid "[RT] {i}There, and after paying that last bill, that should leave me with $200.{/i}"
-msgstr ""
+msgstr "[RT] {i}Là, et après avoir payé cette dernière facture, cela devrait me laisser 200$.{/je}"
 
 # game/UpdateScript0.04.rpy:1225## # translate crowdin aunts_financials_d1bb1473:
 msgid "{i}\"Money +200\"{/i}"
@@ -6646,11 +6646,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3529## # translate crowdin jacky_caught_office_5fa743d2:
 msgid "[RT] {i}They're going at it again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Elles recommencent.{/je}"
 
 # game/UpdateScript0.04.rpy:3530## # translate crowdin jacky_caught_office_4ee92848:
 msgid "[RT] {i}Still fucking.... and still scheming.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde encore... et encore en train de comploter.{/i}"
 
 # game/UpdateScript0.04.rpy:3531## # translate crowdin jacky_caught_office_ff845141:
 msgid "[RT] {i}I'd better go find Mom.{/i}"
@@ -6734,11 +6734,11 @@ msgstr "[RT] {i}Matt pense qu'il peut utiliser sa petite amie pour aller voir ma
 
 # game/UpdateScript0.04.rpy:3567## # translate crowdin jacky_caught_office_f722b5d6:
 msgid "[RT] {i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
-msgstr ""
+msgstr "[RT] {i}D'une manière ou d'une autre, je dois trouver comment lui prendre Megan à la place.{/je}"
 
 # game/UpdateScript0.04.rpy:3568## # translate crowdin jacky_caught_office_5f606d9b:
 msgid "[RT] {i}That will show that arrogant jock.{/i}"
-msgstr ""
+msgstr "[RT] {i}Cela montrera ce jarret arrogant. {/i}"
 
 # game/UpdateScript0.04.rpy:3570## # translate crowdin jacky_caught_office_a8e6354c:
 msgid "[RT] {i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
@@ -6758,7 +6758,7 @@ msgstr "[RT] {i}Je dois trouver un moyen de plaire à Matt au lieu de lui offrir
 
 # game/UpdateScript0.04.rpy:3574## # translate crowdin jacky_caught_office_877702ea:
 msgid "[RT] {i}Speaking of, I better get out of here and go see her in her office.{/i}"
-msgstr ""
+msgstr "[RT] {i}En parlant de ça, je ferais mieux de sortir d'ici et d'aller la voir dans son bureau.{/je}"
 
 # game/UpdateScript0.04.rpy:3592## # translate crowdin jacky_caught_office_8338c75e_2:
 msgid "[RT] {i}Oh, shit.... there they are.... {/i}"
@@ -6786,11 +6786,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3598## # translate crowdin jacky_caught_office_5fa743d2_1:
 msgid "[RT] {i}They're going at it again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Elles recommencent.{/je}"
 
 # game/UpdateScript0.04.rpy:3599## # translate crowdin jacky_caught_office_4ee92848_1:
 msgid "[RT] {i}Still fucking.... and still scheming.{/i}"
-msgstr ""
+msgstr "[RT] {i}Merde encore... et encore en train de comploter.{/i}"
 
 # game/UpdateScript0.04.rpy:3600## # translate crowdin jacky_caught_office_ff845141_1:
 msgid "[RT] {i}I'd better go find Mom.{/i}"
@@ -6874,11 +6874,11 @@ msgstr "[RT] {i}Matt pense qu'il peut utiliser sa petite amie pour aller voir ma
 
 # game/UpdateScript0.04.rpy:3636## # translate crowdin jacky_caught_office_f722b5d6_1:
 msgid "[RT] {i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
-msgstr ""
+msgstr "[RT] {i}D'une manière ou d'une autre, je dois trouver comment lui prendre Megan à la place.{/je}"
 
 # game/UpdateScript0.04.rpy:3637## # translate crowdin jacky_caught_office_5f606d9b_1:
 msgid "[RT] {i}That will show that arrogant jock.{/i}"
-msgstr ""
+msgstr "[RT] {i}Cela montrera ce jarret arrogant. {/i}"
 
 # game/UpdateScript0.04.rpy:3639## # translate crowdin jacky_caught_office_a8e6354c_1:
 msgid "[RT] {i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
@@ -6898,7 +6898,7 @@ msgstr "[RT] {i}Je dois trouver un moyen de plaire à Matt au lieu de lui offrir
 
 # game/UpdateScript0.04.rpy:3643## # translate crowdin jacky_caught_office_877702ea_1:
 msgid "[RT] {i}Speaking of, I better get out of here and go see her in her office.{/i}"
-msgstr ""
+msgstr "[RT] {i}En parlant de ça, je ferais mieux de sortir d'ici et d'aller la voir dans son bureau.{/je}"
 
 # game/UpdateScript0.04.rpy:3663## # translate crowdin jacky_at_Laptop_4934e3ff:
 msgid "[RT] {i}Dammit, I took too long. I'm sure she's probably back in class getting ready to start her next lesson.{/i}"
@@ -8438,7 +8438,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4383## # translate crowdin wrshoot_3c849595:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4384## # translate crowdin wrshoot_d0aced3c:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally."
@@ -8526,7 +8526,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4424## # translate crowdin wrshoot_3c849595_1:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4425## # translate crowdin wrshoot_d0aced3c_1:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally."
@@ -8642,7 +8642,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4473## # translate crowdin wrshoot_3c849595_2:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4474## # translate crowdin wrshoot_d0aced3c_2:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally."
@@ -8754,7 +8754,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4521## # translate crowdin wrshoot_3c849595_3:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4522## # translate crowdin wrshoot_d0aced3c_3:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally."
@@ -8850,7 +8850,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4565## # translate crowdin wrshoot_3c849595_4:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4566## # translate crowdin wrshoot_d0aced3c_4:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally."
@@ -9002,7 +9002,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4631## # translate crowdin removeshorts_3c849595:
 msgid "[RT] {i}That's right.... let's see how Sidney responds to some sibling rivalry.{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est vrai.... voyons comment Sidney réagit à une rivalité fraternelle.{/je}"
 
 # game/UpdateScript0.04.rpy:4632## # translate crowdin removeshorts_287014eb:
 msgid "[R] So, let's just call it a day, we can try again after you've better prepared yourself mentally, or if you can't, we'll give the outfit to Lauren."
@@ -11174,7 +11174,7 @@ msgstr "[RT] {i}Je ne sais pas si je peux m'en tirer avec l'affichage de celui-c
 
 # game/UpdateScript0.04.rpy:5559## # translate crowdin rippedundies_37e2513f:
 msgid "[RT] {i}Then again, it would get a ton of likes.... hmmmmm.... I'll just have to decide later.{/i}"
-msgstr ""
+msgstr "[RT] {i}Là encore, il obtiendrait une tonne de likes.... hmmmmm.... Je devrais décider de ça plus tard.{/je}"
 
 # game/UpdateScript0.04.rpy:5564## # translate crowdin rippedundies_5a074414:
 msgid "[S] You aren't thinking about shopping dicks in my mouth and hand are you?"
