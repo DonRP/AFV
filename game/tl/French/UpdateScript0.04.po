@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-12 13:29\n"
+"PO-Revision-Date: 2022-02-14 10:28\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -2990,7 +2990,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1804## # translate crowdin aunt_clean_lounge_02aad63a:
 msgid "[RT] {i}Well, that could have gone better.... I better take off before she cuts my balls off.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, cela aurait pu mieux se passer.... Je ferais mieux de partir avant qu'elle me coupe les couilles.{/je}"
 
 # game/UpdateScript0.04.rpy:1805## # translate crowdin aunt_clean_lounge_7f19d15e:
 msgid "{i}\"To get Aunt Camille to flash you, she needs to have already flashed you in the bathroom. Also you need either Camille's libido or submission to be at 10 points.\"{/i}"
@@ -6918,7 +6918,7 @@ msgstr "[RT] {i}Haha.... oui !.... Elle doit vraiment manquer à papa pour essay
 
 # game/UpdateScript0.04.rpy:3679## # translate crowdin jacky_at_Laptop_48d09da9:
 msgid "[RT] {i}Well, I've never been one to want to be left out.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, je n'ai jamais été du genre à vouloir être laissé de côté.{/je}"
 
 # game/UpdateScript0.04.rpy:3694## # translate crowdin jacky_at_Laptop_4b38c491:
 msgid "[RT] {i}Now looks like a good time.{/i}"
@@ -8058,7 +8058,7 @@ msgstr "[RT] {i}Je suis comme un naufragé dans une mer d'œstrogènes.{/je}"
 
 # game/UpdateScript0.04.rpy:4188## # translate crowdin bye_bobby_10a824eb:
 msgid "[RT] {i}Well, those fuckers can't complain when I take them all for myself.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, ces enfoirés ne peuvent pas se plaindre quand je les prends tous pour moi.{/je}"
 
 # game/UpdateScript0.04.rpy:4189## # translate crowdin bye_bobby_6434c3a3:
 msgid "[RT] {i}If I'm taking care of them all, I should be compensated for it, after all.{/i}"
