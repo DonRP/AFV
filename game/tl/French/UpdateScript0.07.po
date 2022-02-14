@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-12 13:29\n"
+"PO-Revision-Date: 2022-02-14 10:28\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.07.rpy:1024## # translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -678,7 +678,7 @@ msgstr "[RT] {i}Merde... Je ne peux pas laisser Lauren tirer les ficelles comme 
 
 # game/UpdateScript0.07.rpy:1331## # translate crowdin ntr_lounge_sex_d4e89452:
 msgid "[RT] {i}What am I going to do?{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je vais faire?{/je}"
 
 # game/UpdateScript0.07.rpy:1334## # translate crowdin ntr_lounge_sex_e3fe64f6:
 msgid "[RT] {i}Fuck it... I want a taste!{/i}"
@@ -5054,7 +5054,7 @@ msgstr "[RT] {i}Il n'y a aucun moyen que maman laisse quelque chose comme ça ar
 
 # game/UpdateScript0.07.rpy:3835## # translate crowdin breakfast_for_will_3ad23a44:
 msgid "[RT] {i}What should I do?{/i}"
-msgstr ""
+msgstr "[RT] {i}Que dois-je faire ?{/je}"
 
 # game/UpdateScript0.07.rpy:3849## # translate crowdin breakfast_for_will_02d640b5:
 msgid "[R] So, I got to meet school board member Will Tylor the other day."
@@ -5778,7 +5778,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:4249## # translate crowdin meeting_miss_jessica_62049fcc:
 msgid "[RT] {i}Well, Jessica's reputation as a bitch was well earned.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, la réputation de salope de Jessica était bien méritée.{/je}"
 
 # game/UpdateScript0.07.rpy:4250## # translate crowdin meeting_miss_jessica_78620396:
 msgid "[RT] {i}But she is one sexy bitch.{/i}"
@@ -9866,7 +9866,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:6383## # translate crowdin actual_election_37b29f95:
 msgid "[RT] {i}What the fuck?{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est quoi ce bordel ?{/je}"
 
 # game/UpdateScript0.07.rpy:6384## # translate crowdin actual_election_7aa3a0c5:
 msgid "[RT] {i}Did Will Tylor betray us?{/i}"
@@ -10718,7 +10718,7 @@ msgstr "[RT] {i}Je n'arrive pas à croire que le pari m'ait obligé à regarder.
 
 # game/UpdateScript0.07.rpy:6843## # translate crowdin election_finale_6af99b52:
 msgid "[RT] {i}What kind of fucked up pervert makes someone watch them fuck their sister?{/i}"
-msgstr ""
+msgstr "[RT] {i}Quel genre de pervers de merde est-ce pour que quelqu'un les regarde baiser sa sœur?{/je}"
 
 # game/UpdateScript0.07.rpy:6844## # translate crowdin election_finale_464025d5:
 msgid "[L] Let's see your legendary cock."
@@ -14382,7 +14382,7 @@ msgstr "[RT] {i}Ce connard de Matt pense qu'il peut simplement démolir les affi
 
 # game/UpdateScript0.07.rpy:8744## # translate crowdin hang_the_posters_c2c67a2e:
 msgid "[RT] {i}Well, it's time to return the favor.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, il est temps de rendre la pareille.{/je}"
 
 # game/UpdateScript0.07.rpy:8747## # translate crowdin hang_the_posters_36056a64:
 msgid "[RT] {i}Voting Matt is a slam dunk for our school.{/i}"
@@ -17894,7 +17894,7 @@ msgstr "[RT] {i}Et qui avons-nous ici?{/je}"
 
 # game/UpdateScript0.07.rpy:10780## # translate crowdin new_girls_lockers_morning_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/je}"
 
 # game/UpdateScript0.07.rpy:10788## # translate crowdin new_girls_lockers_afternoon_a9698c3b:
 msgid "[RT] {i}Why in the hell did I come back here?{/i}"
@@ -17918,7 +17918,7 @@ msgstr "[RT] {i}Et qui avons-nous ici?{/je}"
 
 # game/UpdateScript0.07.rpy:10812## # translate crowdin new_girls_lockers_afternoon_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/je}"
 
 # game/UpdateScript0.07.rpy:10820## # translate crowdin locker_room_run_0d8531d7:
 msgid "{i}\"It looks like your struggling with the shower run game. Would you like to skip this game?\"{/i}"
@@ -17982,7 +17982,7 @@ msgstr "[RT] {i}Merde!... Il y a une fille qui se change ici.{/je}"
 
 # game/UpdateScript0.07.rpy:10860## # translate crowdin locker_room_run_79311aeb:
 msgid "[RT] {i}What is she doing here so early in the morning?{/i}"
-msgstr ""
+msgstr "[RT] {i}Que fait-elle ici si tôt le matin?{/je}"
 
 # game/UpdateScript0.07.rpy:10861## # translate crowdin locker_room_run_d32b8e15:
 msgid "[RT] {i}She seems to be pretty focused on getting dressed... Maybe I can sneak past her?{/i}"
@@ -18398,7 +18398,7 @@ msgstr "[RT] {i}Dieu merci, maman m'a sorti de là ! {/i}"
 
 # game/UpdateScript0.07.rpy:11112## # translate crowdin bad_shower_end_c3ec5448:
 msgid "[RT] {i}What should I do next?{/i}"
-msgstr ""
+msgstr "[RT] {i}Que dois-je faire ensuite?{/je}"
 
 # game/UpdateScript0.07.rpy:11121## # translate crowdin good_shower_end_6a9755e2:
 msgid "[RT] {i}Almost there!{/i}"
@@ -18754,11 +18754,11 @@ msgstr "[RT] {i}Merde!... Je dois y aller maintenant ou je me ferais prendre à 
 
 # game/UpdateScript0.07.rpy:11291## # translate crowdin girls_locker_spycam_0f49ef11:
 msgid "[RT] {i}What luck!... It's the swim team.{/i}"
-msgstr ""
+msgstr "[RT] {i}Quelle chance!... C'est l'équipe de natation.{/je}"
 
 # game/UpdateScript0.07.rpy:11296## # translate crowdin girls_locker_spycam_0305f72b:
 msgid "[RT] {i}What amazing bodies!{/i}"
-msgstr ""
+msgstr "[RT] {i}Quels corps merveilleux!{/je}"
 
 # game/UpdateScript0.07.rpy:11298## # translate crowdin girls_locker_spycam_9823572b_1:
 msgid "[RT] {i}Shit!... I need to go now or I'll get caught for sure.{/i}"
@@ -24762,7 +24762,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14460## # translate crowdin bad_polls_aftermath_b08cc79a:
 msgid "[RT] {i}Well, I have nobody else but myself to blame for this.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, je n'ai personne d'autre que moi à blâmer pour cela.{/je}"
 
 # game/UpdateScript0.07.rpy:14461## # translate crowdin bad_polls_aftermath_5e8f890c:
 msgid "[RT] {i}But, I might as well still see if there's something I can do to stop this.{/i}"
@@ -25022,7 +25022,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14577## # translate crowdin bad_polls_aftermath_095e1205:
 msgid "[RT] {i}What the hell?... She lets me watch her suck a couple dicks, but I can't watch her eat out a girl?{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est quoi ce bordel?... Elle me laisse la regarder sucer quelques bites, mais je ne peux pas la regarder manger la chatte d'une fille?{/je}"
 
 # game/UpdateScript0.07.rpy:14578## # translate crowdin bad_polls_aftermath_0fb9186e:
 msgid "[RT] {i}Oh, wow!... That sounds so hot.{/i}"
@@ -31850,7 +31850,7 @@ msgstr "[RT] {i}D'autre part, ce paysan, est évidemment un con.{/je}"
 
 # game/UpdateScript0.07.rpy:18083## # translate crowdin will_meeting_9118b38c:
 msgid "[RT] {i}What could be his real intentions for my mom?{/i}"
-msgstr ""
+msgstr "[RT] {i}Quelles pourraient être ses intentions réelles pour ma mère?{/je}"
 
 # game/UpdateScript0.07.rpy:18084## # translate crowdin will_meeting_c2601a53:
 msgid "[RT] {i}If Lauren looses the election because I don't get Mr. Tyler to change the dress code, she'll have to fuck Matt, and she'll probably never forgive me.{/i}"
@@ -31866,7 +31866,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:18089## # translate crowdin will_meeting_d08349dc:
 msgid "[RT] {i}What harm could a dinner with Mr. Tylor have on Mom anyways?{/i}"
-msgstr ""
+msgstr "[RT] {i}Quel mal un dîner avec M. Tylor pourrait-il produire pour maman de toute façon?{/je}"
 
 # game/UpdateScript0.07.rpy:18090## # translate crowdin will_meeting_b34ee478:
 msgid "[RT] {i}The way she talks about him, I can tell she despises him.{/i}"
