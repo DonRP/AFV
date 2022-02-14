@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-12 13:29\n"
+"PO-Revision-Date: 2022-02-14 10:28\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -1458,7 +1458,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1187## # translate crowdin sidney_search_b897a39c:
 msgid "[RT] {i}What in the hell?!{/i}"
-msgstr ""
+msgstr "[RT] {i}Que diable?!{/je}"
 
 # game/UpdateScript0.05.rpy:1188## # translate crowdin sidney_search_cbd3f10d:
 msgid "[RT] {i}Where is my Goddamned money?{/i}"
@@ -2206,7 +2206,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1486## # translate crowdin sidney_search_03a76a4d:
 msgid "[RT] {i}Well, we'll see.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, nous verrons.{/je}"
 
 # game/UpdateScript0.05.rpy:1487## # translate crowdin sidney_search_d7f32768:
 msgid "[S] And I'm sure it will pass quickly."
@@ -2314,7 +2314,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1523## # translate crowdin sidney_search_99cbc916:
 msgid "[RT] {i}What just happened?....{/i}"
-msgstr ""
+msgstr "[RT] {i}Que vient-il de se passer ?....{/je}"
 
 # game/UpdateScript0.05.rpy:1524## # translate crowdin sidney_search_5fdb4092:
 msgid "[RT] {i}When Sidney caught me, I thought it would be game over.{/i}"
@@ -8942,7 +8942,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5132## # translate crowdin not_fit_enough_cfc9079c:
 msgid "[RT] {i}What the hell?{/i}"
-msgstr ""
+msgstr "[RT] {i}C'est quoi ce bordel?{/je}"
 
 # game/UpdateScript0.05.rpy:5133## # translate crowdin not_fit_enough_b0868d40:
 msgid "[R] Sidney! Are you ok?"
@@ -11018,7 +11018,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6249## # translate crowdin money_chat_8143b8be:
 msgid "[RT] {i}Well.... I can guarantee that at least one person at the FBI will know about it.... Fuck.... Agent Diaz will have leverage over Sidney now too. Hopefully she's only into redheads.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien.... Je peux garantir qu'au moins une personne du FBI le saura.... Merde.... L'agent Diaz aura un effet de levier sur Sidney maintenant aussi. J'espère qu'elle n'aime que les rousses.{/je}"
 
 # game/UpdateScript0.05.rpy:6250## # translate crowdin money_chat_08b3e3c9:
 msgid "[S] I want to keep the money for college, but it will also be a good emergency fund, just in case our family gets into some trouble."
