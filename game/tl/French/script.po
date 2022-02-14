@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-12 13:28\n"
+"PO-Revision-Date: 2022-02-14 10:27\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4770,7 +4770,7 @@ msgstr "[RT] {i}Là, j'ai plus de matériel pour plus tard.{/i}"
 
 # game/script.rpy:6046## # translate crowdin sidneychanging_d6f9596f:
 msgid "[RT] {i}Well, I guess all good things must come to an end.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, je suppose que toutes les bonnes choses ont une fin.{/je}"
 
 # game/script.rpy:6049## # translate crowdin sidneychanging_dd9deb7f:
 msgid "[ST] {i}I love this outfit, it looks so cute on me!{/i}"
@@ -6218,11 +6218,11 @@ msgstr ""
 
 # game/script.rpy:7191## # translate crowdin girlslockersmorning_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/je}"
 
 # game/script.rpy:7198## # translate crowdin girlslockersafternoon_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/je}"
 
 # game/script.rpy:7210## # translate crowdin girllocker_2a7e8ad1:
 msgid "[RT] {i}Nothing in here.{/i}"
@@ -7234,7 +7234,7 @@ msgstr "[RT] {i}Donc je me demande si maman va servir des boissons ou quelque ch
 
 # game/script.rpy:8121## # translate crowdin dinnerfirst_515d5c27:
 msgid "[RT] {i}Well, she's not by the bar, I wonder if she's serving the people in the casino?{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, elle n'est pas au bar, je me demande si elle sert les gens du casino?{/je}"
 
 # game/script.rpy:8122## # translate crowdin dinnerfirst_ba0d4c8c:
 msgid "[RT] {i}Maybe they have her working a blackjack table or something.{/i}"
@@ -7302,7 +7302,7 @@ msgstr "[RT] {i}Oh, wow! Elle enlève sa chemise! Je suppose que cela va être p
 
 # game/script.rpy:8149## # translate crowdin dinnerfirst_1caa2f2d:
 msgid "[RT] {i}What is wrong with me? Why can't I look away?{/i}"
-msgstr ""
+msgstr "[RT] {i}Qu'est-ce qui ne va pas chez moi? Pourquoi je ne peux pas détourner le regard ?{/je}"
 
 # game/script.rpy:8150## # translate crowdin dinnerfirst_c2f1388b:
 msgid "[MT] {i}Oh.... I am a terrible person. I thought I put this kind of thing behind me when I got married!{/i}"
@@ -8134,7 +8134,7 @@ msgstr "[MT] {i}Mais s'il ne l'a pas fait, je pourrais vraiment avoir un problè
 
 # game/script.rpy:8565## # translate crowdin nightclubbing_a5bec0c4:
 msgid "[RT] {i}Well, I guess I should get one more peek for the road.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eh bien, je suppose que je devrais encore jeter un coup d'œil sur la route.{/i}"
 
 # game/script.rpy:8568## # translate crowdin nightclubbing_61863850:
 msgid "[M] [ryan]! It's time for you to leave!"
