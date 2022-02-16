@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-15 10:44\n"
+"PO-Revision-Date: 2022-02-16 11:15\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScriptChristmasEvent.rpy:247## # translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:248## # translate crowdin xmas_dream_fbb90359:
 msgid "Do not choose an NTR option if it offends you, only to complain about it later on some online forum!!"
-msgstr ""
+msgstr "Ne choisissez pas une option NTR (trahison / inceste), si elle vous offense, pour vous en plaindre plus tard sur un forum en ligne!!"
 
 # game/UpdateScriptChristmasEvent.rpy:249## # translate crowdin xmas_dream_074aaa65:
 msgid "This event also has pregnancy content."
@@ -30,27 +30,27 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:266## # translate crowdin xmas_dream_64c08e3f:
 msgid "{i}A tribute to Charles Dickens and his timeless classic, \"A Christmas Carol.\"{/i}"
-msgstr ""
+msgstr "{i}Un hommage à Charles Dickens et à son classique intemporel, 'A Christmas Carol.'{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:267## # translate crowdin xmas_dream_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:268## # translate crowdin xmas_dream_41c1aef9:
 msgid "[RT] {i}Thank God the Christmas break is coming! I'm so tired of school.{/i}"
-msgstr "[RT] {i}Dieu merci, les vacances de Noël arrivent! J'en ai marre de l'école.{/je}"
+msgstr "[RT] {i}Dieu merci, les vacances de Noël arrivent! J'en ai marre de l'école.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:269## # translate crowdin xmas_dream_93bf0873:
 msgid "[RT] {i}Now I'll have even more time to work on seducing the girls.{/i}"
-msgstr "[RT] {i}Maintenant, j'aurai encore plus de temps pour séduire les filles.{/je}"
+msgstr "[RT] {i}Maintenant, j'aurai encore plus de temps pour séduire les filles.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:270## # translate crowdin xmas_dream_0c80fdb1:
 msgid "[RT] {i}I've got to really work hard if I want to unwrap those beautiful boxes for the holidays.{/i}"
-msgstr "[RT] {i}Je dois vraiment travailler dur si je veux déballer ces belles boîtes pour les vacances.{/je}"
+msgstr "[RT] {i}Je dois vraiment travailler dur si je veux déballer ces belles boîtes pour les vacances.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:271## # translate crowdin xmas_dream_7c3c9a34:
 msgid "[RT] {i}And those are some great mental images to fall asleep to.... zzzzzz.... {/i}"
-msgstr "[RT] {i}Et ce sont de grandes images mentales sur lesquelles s'endormir.... zzzzz.... {/je}"
+msgstr "[RT] {i}Et ce sont de grandes images mentales sur lesquelles s'endormir.... zzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:272## # translate crowdin xmas_dream_e27ce5cd:
 msgid "[RT] {i}zzzzzzz.... {/i}"
@@ -58,7 +58,7 @@ msgstr "[RT] {i}zzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:273## # translate crowdin xmas_dream_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:274## # translate crowdin xmas_dream_03f26b44:
 msgid "[X] [ryan]..."
@@ -82,7 +82,7 @@ msgstr "[RT] {i}Huh.... quoi ?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:297## # translate crowdin xmas_dream_cfc9079c:
 msgid "[RT] {i}What the hell?{/i}"
-msgstr "[RT] {i}C'est quoi ce bordel?{/je}"
+msgstr "[RT] {i}C'est quoi ce bordel?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:298## # translate crowdin xmas_dream_beca06f1:
 msgid "[RT] {i}What a weird dream! There's a tiny Mom on my chest{/i}"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:300## # translate crowdin xmas_dream_df474a97:
 msgid "[RT] {i}You have to be a dream.... you can read my thoughts....{/i}"
-msgstr "[RT] {i}Tu devines que c'est un rêve.... Tu peux lire mes pensées....{/je}"
+msgstr "[RT] {i}Tu devines que c'est un rêve.... Tu peux lire mes pensées....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:301## # translate crowdin xmas_dream_2e1d4afb:
 msgid "[X] [ryan].... I'm the ghost of Christmas past."
@@ -210,7 +210,7 @@ msgstr "[R] Ok, promis !"
 
 # game/UpdateScriptChristmasEvent.rpy:341## # translate crowdin xmas_dream_69db1379:
 msgid "[RT] {i}I wonder if I could capture her in a jar or something.{/i}"
-msgstr "[RT] {i}Je me demande si je pourrais la capturer dans un bocal ou quelque chose comme ça.{/je}"
+msgstr "[RT] {i}Je me demande si je pourrais la capturer dans un bocal ou quelque chose comme ça.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:342## # translate crowdin xmas_dream_58b351f3:
 msgid "[GP] [ryan]! I can hear your thoughts, remember? And no, I'd just disappear out of a jar."
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:394## # translate crowdin xmas_dream_50ff98c2:
 msgid "[RT] {i}Holy shit.... I know that's not really Mom licking Sidney, but that's actually pretty hot!{/i}"
-msgstr "[RT] {i}Merde... Je sais que ce n'est pas vraiment Maman qui lèche Sidney, mais c'est en fait assez chaud!{/je}"
+msgstr "[RT] {i}Merde... Je sais que ce n'est pas vraiment Maman qui lèche Sidney, mais c'est en fait assez chaud!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:395## # translate crowdin xmas_dream_3d4820cb:
 msgid "[GP] Mmmppphhh.... haha.... remrembrere rhat I cran strill hear your throts..."
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:425## # translate crowdin xmas_dream_cb7d94ff:
 msgid "[RT] {i}Ahhhh!.... Where the hell am I?{/i}"
-msgstr "[RT] {i}Ahhhh!.... Où suis-je, bordel ?{/je}"
+msgstr "[RT] {i}Ahhhh!.... Où suis-je, bordel ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:426## # translate crowdin xmas_dream_de5d1b43:
 msgid "[GP] You're dissolving through the wormholes of time."
@@ -458,7 +458,7 @@ msgstr "[RT] {i}zzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:433## # translate crowdin xmas_present_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:434## # translate crowdin xmas_present_03f26b44:
 msgid "[X] [ryan]..."
@@ -478,7 +478,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:446## # translate crowdin xmas_present_e3b1781d:
 msgid "[RT] {i}Huh.... what?....{/i}"
-msgstr "[RT] {i}Hein.... Quoi?....{/je}"
+msgstr "[RT] {i}Hein.... Quoi?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:457## # translate crowdin xmas_present_f34a6aa1:
 msgid "[R] Lauren?..."
@@ -526,7 +526,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:468## # translate crowdin xmas_present_e7606f6b:
 msgid "[RT] {i}Hah.... good luck!{/i}"
-msgstr "[RT] {i}Hah.... Bonne chance!{/je}"
+msgstr "[RT] {i}Hah.... Bonne chance!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:469## # translate crowdin xmas_present_19f0bf7f:
 msgid "[X] I can read thoughts."
@@ -666,7 +666,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:533## # translate crowdin xmas_future_d71f5f49:
 msgid "[RT] {i}What is that noise?{/i}"
-msgstr "[RT] {i}Quel est ce bruit?{/je}"
+msgstr "[RT] {i}Quel est ce bruit?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:538## # translate crowdin xmas_future_aa2b5fee:
 msgid "Shlurp, shlirrk, shmork"
@@ -866,7 +866,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:612## # translate crowdin xmas_future_1b3e2c8f:
 msgid "[RT] {i}What the.... I'm still in bed.... I don't think I've even moved.... these dreams are getting weird.{/i}"
-msgstr "[RT] {i}C'est quoi ce.... Je suis toujours au lit.... Je ne pense même pas avoir déménagé.... ces rêves deviennent bizarres.{/je}"
+msgstr "[RT] {i}C'est quoi ce.... Je suis toujours au lit.... Je ne pense même pas avoir déménagé.... ces rêves deviennent bizarres.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:613## # translate crowdin xmas_future_8a905434:
 msgid "[M] Wake up [ryan]!.... It's Christmas!"
@@ -894,15 +894,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:624## # translate crowdin xmas_future_dd65c4b4:
 msgid "[RT] {i}Ok.... Mom's giving me a morning handy!.... I'm definitely in the future.{/i}"
-msgstr "[RT] {i}Ok.... Maman me rend le matin agréable!.... Je suis définitivement dans le futur.{/je}"
+msgstr "[RT] {i}Ok.... Maman me rend le matin agréable!.... Je suis définitivement dans le futur.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:625## # translate crowdin xmas_future_4fbfbc43:
 msgid "[RT] {i}What the hell? If I get to wake up to this in the morning, why would I want to change anything?{/i}"
-msgstr "[RT] {i}Qu'est-ce que l'enfer? Si je me réveille le matin, pourquoi voudrais-je changer quelque chose?{/je}"
+msgstr "[RT] {i}Qu'est-ce que l'enfer? Si je me réveille le matin, pourquoi voudrais-je changer quelque chose?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:626## # translate crowdin xmas_future_c7938b4c:
 msgid "[RT] {i}Ohhh.... that feels so good!{/i}"
-msgstr "[RT] {i}Ohhh.... ça fait tellement de bien !{/je}"
+msgstr "[RT] {i}Ohhh.... ça fait tellement de bien !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:627## # translate crowdin xmas_future_720f8f02:
 msgid "[RT] {i}And the fact that Mom is doing it is a dream come true. I wonder what else we do together in the future.{/i}"
@@ -918,11 +918,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:630## # translate crowdin xmas_future_be5faabb:
 msgid "[RT] {i}Ohhh.... she knows how to talk sexy too.{/i}"
-msgstr "[RT] {i}Ohhh.... elle sait aussi parler sale.{/je}"
+msgstr "[RT] {i}Ohhh.... elle sait aussi parler sale.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:631## # translate crowdin xmas_future_d9a992fd:
 msgid "[RT] {i}I shouldn't be surprised, I guess. {/i}"
-msgstr "[RT] {i}Je ne devrais pas être surpris, je suppose. {/je}"
+msgstr "[RT] {i}Je ne devrais pas être surpris, je suppose. {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:632## # translate crowdin xmas_future_55041951:
 msgid "[M] Are you going to blow your huge load all over my face?"
@@ -962,11 +962,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:646## # translate crowdin xmas_future_1c538c65:
 msgid "[RT] {i}What in the!....{/i}"
-msgstr "[RT] {i}Quoi dans le!....{/je}"
+msgstr "[RT] {i}Quoi dans le!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:647## # translate crowdin xmas_future_8f597427:
 msgid "[RT] {i}Holy shit!....{/i}"
-msgstr "[RT] {i}Merde!.... {/je}"
+msgstr "[RT] {i}Merde!.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:648## # translate crowdin xmas_future_9c45fea9:
 msgid "[RT] {i}Is Mom?....{/i}"
@@ -982,7 +982,7 @@ msgstr "[RT] {i}Uhhh .... Ça ressemble à ça ! {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:654## # translate crowdin xmas_future_02153a21:
 msgid "[RT] {i}Unless she ate a really big breakfast burrito.{/i}"
-msgstr "[RT] {i}À moins qu'elle ait mangé un très gros burrito au petit déjeuner.{/je}"
+msgstr "[RT] {i}À moins qu'elle ait mangé un très gros burrito au petit déjeuner.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:655## # translate crowdin xmas_future_8e3e9946:
 msgid "[GF] Holy shit! I wonder if it's yours!"
@@ -990,7 +990,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:656## # translate crowdin xmas_future_76daf13f:
 msgid "[RT] {i}Could I have knocked up my own mother?{/i}"
-msgstr "[RT] {i}Aurais-je pu assommer ma propre mère?{/je}"
+msgstr "[RT] {i}Aurais-je pu assommer ma propre mère?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:657## # translate crowdin xmas_future_ca17a601:
 msgid "[GF] That would be fucking legendary!"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:695## # translate crowdin xmas_future_351d154a:
 msgid "[RT] {i}Oh Thank God?{/i}"
-msgstr "[RT] {i}Oh Dieu Merci?{/je}"
+msgstr "[RT] {i}Oh Dieu Merci?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:696## # translate crowdin xmas_future_60b6e8f7:
 msgid "[R] So, how did you get pregnant?"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:700## # translate crowdin xmas_future_5bd81822:
 msgid "[RT] {i}You've got to be fucking kidding me!{/i}"
-msgstr "[RT] {i}Tu te moques de moi !{/je}"
+msgstr "[RT] {i}Tu te moques de moi !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:701## # translate crowdin xmas_future_e44df2e7:
 msgid "[GF] Oh man, and you're going to have to support his kid financially! You totally got cucked!"
@@ -1138,7 +1138,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:702## # translate crowdin xmas_future_3e57b230:
 msgid "[RT] {i}Oh shit! I can't believe this is happening!{/i}"
-msgstr "[RT] {i}Oh merde! Je n'arrive pas à croire que ça arrive!{/je}"
+msgstr "[RT] {i}Oh merde! Je n'arrive pas à croire que ça arrive!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:703## # translate crowdin xmas_future_99a3b605:
 msgid "[GF] Hey, don't sweat it too bad! This hasn't happened yet. Now you can take steps to prevent this."
@@ -1154,7 +1154,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:706## # translate crowdin xmas_future_f7d1b00c:
 msgid "[RT] {i}Yeah, you're right! Oh Thank Futa God!{/i}"
-msgstr "[RT] {i}Ouais, tu as raison! Oh merci mon Dieu!{/je}"
+msgstr "[RT] {i}Ouais, tu as raison! Oh merci mon Dieu!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:707## # translate crowdin xmas_future_780bae4c:
 msgid "[M] Don't worry! You'll be the best surrogate dad!"
@@ -1210,7 +1210,7 @@ msgstr "[R] Tout va bien se passer !"
 
 # game/UpdateScriptChristmasEvent.rpy:725## # translate crowdin xmas_future_f962aa48:
 msgid "[RT] {i}Holy shit!.... I'm going to be a daddy!{/i}"
-msgstr "[RT] {i}Merde!.... Je vais être papa!{/je}"
+msgstr "[RT] {i}Merde!.... Je vais être papa!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:726## # translate crowdin xmas_future_20596f70:
 msgid "[GF] Sure! If that's the way you want it.... that's the beauty of this gift you're receiving from us."
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:729## # translate crowdin xmas_future_e8a946e5:
 msgid "[RT] {i}Thank you! That is a pretty sweet gift.{/i}"
-msgstr "[RT] {i}Merci! C'est un joli cadeau.{/je}"
+msgstr "[RT] {i}Merci! C'est un joli cadeau.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:730## # translate crowdin xmas_future_b696d066:
 msgid "[M] Thanks for the pep talk honey!"
@@ -1358,11 +1358,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:789## # translate crowdin xmas_goodbye_a244e88f:
 msgid "[RT] {i}Holy shit!.... Dream or not, I don't want to ever forget that experience.{/i}"
-msgstr "[RT] {i}Merde!.... Rêve ou pas, je ne veux jamais oublier cette expérience.{/je}"
+msgstr "[RT] {i}Merde!.... Rêve ou pas, je ne veux jamais oublier cette expérience.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:790## # translate crowdin xmas_goodbye_97bb1701:
 msgid "[RT] {i}Oh Futa God.... I'm so tired now.... but will I even remember this dream when I wake up?{/i}"
-msgstr "[RT] {i}Oh mon Dieu.... Je suis tellement fatiguée maintenant.... mais vais-je me souvenir de ce rêve quand je me réveillerais ?{/je}"
+msgstr "[RT] {i}Oh mon Dieu.... Je suis tellement fatiguée maintenant.... mais vais-je me souvenir de ce rêve quand je me réveillerais ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:807## # translate crowdin tutorial_c287fc63:
 msgid "[R] Testing.... testing.... ok.... It looks like it's recording."
@@ -1718,7 +1718,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1014## # translate crowdin sidney_prego_too_f27d2943:
 msgid "[RT] {i}Huh?....{/i}"
-msgstr "[RT] {i}Hein ?....{/je}"
+msgstr "[RT] {i}Hein ?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1015## # translate crowdin sidney_prego_too_bda134b9:
 msgid "[GF] Never mind."
@@ -1750,15 +1750,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1026## # translate crowdin sidney_prego_too_27b52a67:
 msgid "[RT] {i}I think I'm starting to understand why guys get pregnancy fetishes.{/i}"
-msgstr "[RT] {i}Je pense que je commence à comprendre pourquoi les gars ont des fétiches sur la grossesse.{/je}"
+msgstr "[RT] {i}Je pense que je commence à comprendre pourquoi les gars ont des fétiches sur la grossesse.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1027## # translate crowdin sidney_prego_too_fe30230a:
 msgid "[RT] {i}Every single one of the girls still looks sexy as hell, even with their huge baby bumps.{/i}"
-msgstr "[RT] {i}Chacune des filles a toujours l'air sexy, même avec leurs énormes bébés.{/je}"
+msgstr "[RT] {i}Chacune des filles a toujours l'air sexy, même avec leurs énormes bébés.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1028## # translate crowdin sidney_prego_too_f8f7bca8:
 msgid "[RT] {i}I guess I should just add this fetish to the list.{/i}"
-msgstr "[RT] {i}Je suppose que je devrais simplement ajouter ce fétiche à la liste.{/je}"
+msgstr "[RT] {i}Je suppose que je devrais simplement ajouter ce fétiche à la liste.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1029## # translate crowdin sidney_prego_too_7deaa026:
 msgid "[GF] They should hand out fetish merit badges. You'd be one of the most decorated perverts out there."
@@ -1766,7 +1766,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1030## # translate crowdin sidney_prego_too_6d0a575f:
 msgid "[RT] {i}And to think, I was a totally normal kid, not too long ago.{/i}"
-msgstr "[RT] {i}Et à penser, j'étais un enfant tout à fait normal, il n'y a pas si longtemps.{/je}"
+msgstr "[RT] {i}Et à penser, j'étais un enfant tout à fait normal, il n'y a pas si longtemps.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1031## # translate crowdin sidney_prego_too_5c1dc3f6:
 msgid "[GF] Well, every pervert's got to start somewhere."
@@ -1842,11 +1842,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1054## # translate crowdin sidney_prego_too_1cb0423e:
 msgid "[RT] {i}Trust me, I'm keeping a mental list of things I need to change.{/i}"
-msgstr "[RT] {i}Crois-moi, je garde une liste mentale de choses que je dois changer.{/je}"
+msgstr "[RT] {i}Crois-moi, je garde une liste mentale de choses que je dois changer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1055## # translate crowdin sidney_prego_too_b8544f5a:
 msgid "[RT] {i}Though they're not the kind of changes your sisters would want me to make.{/i}"
-msgstr "[RT] {i}Bien qu'ils ne soient pas le genre de changements que vos sœurs voudraient que je fasse.{/je}"
+msgstr "[RT] {i}Bien qu'ils ne soient pas le genre de changements que vos sœurs voudraient que je fasse.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1056## # translate crowdin sidney_prego_too_f580bdf7:
 msgid "[GF] Ahhh.... Fuck 'em."
@@ -1854,7 +1854,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1057## # translate crowdin sidney_prego_too_76068caa:
 msgid "[RT] {i}They're too small.{/i}"
-msgstr "[RT] {i}Ils sont trop petits.{/je}"
+msgstr "[RT] {i}Ils sont trop petits.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1058## # translate crowdin sidney_prego_too_91c29a5d:
 msgid "[GF] Hahaha.... you'd be surprised at how much they can stretch."
@@ -1914,11 +1914,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1076## # translate crowdin sidney_prego_too_cef13795:
 msgid "[RT] {i}Shit.... I've ruined her life. And now she's apologizing to me, for something I made her do.{/i}"
-msgstr "[RT] {i}Merde.... J'ai ruiné sa vie. Et maintenant, elle s'excuse auprès de moi, pour quelque chose que je lui ai fait faire.{/je}"
+msgstr "[RT] {i}Merde.... J'ai ruiné sa vie. Et maintenant, elle s'excuse auprès de moi, pour quelque chose que je lui ai fait faire.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1077## # translate crowdin sidney_prego_too_e3e1083b:
 msgid "[RT] {i}Fuck! I'm ready to go back right now, and try to fix some things.{/i}"
-msgstr "[RT] {i}Merde ! Je suis prêt à y retourner maintenant, et à essayer de réparer certaines choses.{/je}"
+msgstr "[RT] {i}Merde ! Je suis prêt à y retourner maintenant, et à essayer de réparer certaines choses.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1078## # translate crowdin sidney_prego_too_fd2c6cb5:
 msgid "[GF] Well, you know how this works. We've got to wait in the future until our time is up. While you're waiting, go look around and maybe you can find something that will cheer you up."
@@ -2190,7 +2190,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1195## # translate crowdin mom_xmas_fuck_5a51504a:
 msgid "[RT] {i}This might just be a dream, but to fuck Mom in the ass, makes it the best dream I've ever had.{/i}"
-msgstr "[RT] {i}C'est peut-être juste un rêve, mais baiser maman dans le cul, en fait le meilleur rêve que j'ai jamais eu.{/je}"
+msgstr "[RT] {i}C'est peut-être juste un rêve, mais baiser maman dans le cul, en fait le meilleur rêve que j'ai jamais eu.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1196## # translate crowdin mom_xmas_fuck_ffd1e9d3:
 msgid "[S] Wow Mom! You need to teach us to take a cock in the ass like that!"
@@ -2202,7 +2202,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1227## # translate crowdin sidney_xmas_fuck_98ff4791:
 msgid "[RT] {i}Wow! I would be fine if this dream never ended.{/i}"
-msgstr "[RT] {i}Wow! Je serais bien si ce rêve ne se terminait jamais.{/je}"
+msgstr "[RT] {i}Wow! Je serais bien si ce rêve ne se terminait jamais.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1228## # translate crowdin sidney_xmas_fuck_18f6021b:
 msgid "[GF] Or is it a dream?"
@@ -2218,7 +2218,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1260## # translate crowdin lauren_xmas_fuck_cf793d87:
 msgid "[RT] {i}Well, if this is a dream, I have a feeling it's going to be a wet one.{/i}"
-msgstr "[RT] {i}Eh bien, si c'est un rêve, j'ai l'impression que ça va être humide.{/je}"
+msgstr "[RT] {i}Eh bien, si c'est un rêve, j'ai l'impression que ça va être humide.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1261## # translate crowdin lauren_xmas_fuck_8617aaf9:
 msgid "[S] Lauren, you've got the cutest little asshole!"
@@ -2266,7 +2266,7 @@ msgstr "[RT] {i}Elle se moque de moi ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1305## # translate crowdin xmas_facial_301d1a51:
 msgid "[RT] {i}I've never cum so much in my life.{/i}"
-msgstr "[RT] {i}Je n'ai jamais autant joui de ma vie.{/je}"
+msgstr "[RT] {i}Je n'ai jamais autant joui de ma vie.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1306## # translate crowdin xmas_facial_fe1249c7:
 msgid "[M] Now, are you ready to watch us make out, and lick all of this cum off each other?"
@@ -2298,7 +2298,7 @@ msgstr "[GF] 3.... 2..."
 
 # game/UpdateScriptChristmasEvent.rpy:1313## # translate crowdin xmas_facial_5685aaa9:
 msgid "[RT] {i}Goodbye, my beauties! We'll continue this in the future!{/i}"
-msgstr "[RT] {i}Au revoir, mes beautés ! Nous continuerons cela plus tard!{/je}"
+msgstr "[RT] {i}Au revoir, mes beautés ! Nous continuerons cela plus tard!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1314## # translate crowdin xmas_facial_c8f267f6:
 msgid "[GF] 1.... 0..."
@@ -2334,7 +2334,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1348## # translate crowdin cookies_in_oven_ce90d005:
 msgid "[RT] {i}No.... Fucking.... way!{/i}"
-msgstr "[RT] {i}Non.... Putain.... de manière!{/je}"
+msgstr "[RT] {i}Non.... Putain.... de manière!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1352## # translate crowdin cookies_in_oven_b897173c:
 msgid "[GF] Hahaha.... unbelievable!"
@@ -2342,11 +2342,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1353## # translate crowdin cookies_in_oven_64eb836e:
 msgid "[RT] {i}You're telling me!{/i}"
-msgstr "[RT] {i}Tu me le dis !{/je}"
+msgstr "[RT] {i}Tu me le dis !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1354## # translate crowdin cookies_in_oven_8bc1e794:
 msgid "[RT] {i}I've.... I've got to be the father of this one, I'm sure!{/i}"
-msgstr "[RT] {i}J'ai.... Je dois être le père ici, j'en suis sûr !{/je}"
+msgstr "[RT] {i}J'ai.... Je dois être le père ici, j'en suis sûr !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1355## # translate crowdin cookies_in_oven_0e567838:
 msgid "[GF] Ohhhh.... I don't know.... I'd tread lightly here."
@@ -2646,11 +2646,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1454## # translate crowdin cookies_in_oven_c61a17a1:
 msgid "[RT] {i}No shit!.... Once I go back to the present, I've got to remember to get that toxic woman out of our lives.{/i}"
-msgstr "[RT] {i}Pas de connerie !.... Une fois revenu au présent, je dois me souvenir de sortir cette femme toxique de nos vies.{/je}"
+msgstr "[RT] {i}Pas de connerie !.... Une fois revenu au présent, je dois me souvenir de sortir cette femme toxique de nos vies.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1455## # translate crowdin cookies_in_oven_b3c9e61a:
 msgid "[RT] {i}What the hell? Screwing the entire Diaz family?.... I'm pretty sure she's still a virgin in the present.... hmmmm.... I wonder if....{/i}"
-msgstr "[RT] {i}C'est quoi ce bordel? Baiser toute la famille de Diaz?.... Je suis presque sûr qu'elle est encore vierge dans le présent.... hmmmm.... Je me demande si....{/je}"
+msgstr "[RT] {i}C'est quoi ce bordel? Baiser toute la famille de Diaz?.... Je suis presque sûr qu'elle est encore vierge dans le présent.... hmmmm.... Je me demande si....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1456## # translate crowdin cookies_in_oven_bc24cf93:
 msgid "[R] So.... since you got married. Are we ever.... you know..."
@@ -2714,7 +2714,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1473## # translate crowdin cookies_in_oven_10017616:
 msgid "DING"
-msgstr ""
+msgstr "DING"
 
 # game/UpdateScriptChristmasEvent.rpy:1474## # translate crowdin cookies_in_oven_58552e0f:
 msgid "[L] Oh, there goes the cookies. Why don't you run and see if Sidney's almost ready for the gift exchange, and I'll get the cookies ready, and bring them out when I'm done."
@@ -2734,11 +2734,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1480## # translate crowdin cookies_in_oven_8a9f9b57:
 msgid "[RT] {i}Shit!.... I can't even believe what Lauren just told me!{/i}"
-msgstr "[RT] {i}Merde!.... Je n'arrive même pas à croire ce que Lauren vient de me dire !{/je}"
+msgstr "[RT] {i}Merde!.... Je n'arrive même pas à croire ce que Lauren vient de me dire !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1481## # translate crowdin cookies_in_oven_42abb657:
 msgid "[RT] {i}How am I going to get rid of that woman, before she can do that much damage? She's got my balls in a vice as it is! I've got to search for some kind of opportunity.{/i}"
-msgstr "[RT] {i}Comment vais-je me débarrasser de cette femme, avant qu'elle puisse faire autant de dégâts? Elle me met les couilles dans un étau en faisant ça ! Je dois chercher une opportunité.{/je}"
+msgstr "[RT] {i}Comment vais-je me débarrasser de cette femme, avant qu'elle puisse faire autant de dégâts? Elle me met les couilles dans un étau en faisant ça ! Je dois chercher une opportunité.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1482## # translate crowdin cookies_in_oven_e634a1eb:
 msgid "[GF] Or at least help Lauren see how evil she is."
@@ -2746,7 +2746,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1485## # translate crowdin cookies_in_oven_fa3c1d20:
 msgid "[RT] {i}That's definitely something from the future that has to change!{/i}"
-msgstr "[RT] {i}C'est certainement quelque chose du futur qui doit changer!{/je}"
+msgstr "[RT] {i}C'est certainement quelque chose du futur qui doit changer!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1486## # translate crowdin cookies_in_oven_579b2ef2:
 msgid "[GF] Yeah that sucks!.... Should we go see what the damage is with Sidney?"
@@ -2754,7 +2754,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1489## # translate crowdin cookies_in_oven_37224b02:
 msgid "[RT] {i}Yeah, although at this point, I'm almost afraid to ask.{/i}"
-msgstr "[RT] {i}Oui, bien qu'à ce stade, j'ai presque peur de demander.{/je}"
+msgstr "[RT] {i}Oui, bien qu'à ce stade, j'ai presque peur de demander.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1494## # translate crowdin cookies_in_oven_65847b74:
 msgid "[L] Father, you weirdo!"
@@ -2830,7 +2830,7 @@ msgstr "[RT] {i}Merde!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1514## # translate crowdin cookies_in_oven_3b7568b2:
 msgid "[RT] {i}It sure would be helpful to know how I'm going to finally nail that bitch!{/i}"
-msgstr "[RT] {i}Il serait certainement utile de savoir comment je vais enfin épingler cette chienne!{/je}"
+msgstr "[RT] {i}Il serait certainement utile de savoir comment je vais enfin épingler cette chienne!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1515## # translate crowdin cookies_in_oven_223c0f55:
 msgid "[GF] Well, it looks like you were able to figure it out on your own, so when you go back to the present, just keep an eye out for that opportunity."
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1520## # translate crowdin cookies_in_oven_fb009ddb:
 msgid "[RT] {i}Oh.... I want to know so bad!{/i}"
-msgstr "[RT] {i}Oh.... Je veux tellement savoir!{/je}"
+msgstr "[RT] {i}Oh.... Je veux tellement savoir!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1521## # translate crowdin cookies_in_oven_74ebcc85:
 msgid "[R] So, did you get pregnant on purpose?"
@@ -2902,7 +2902,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1544## # translate crowdin cookies_in_oven_10017616_1:
 msgid "DING"
-msgstr ""
+msgstr "DING"
 
 # game/UpdateScriptChristmasEvent.rpy:1545## # translate crowdin cookies_in_oven_58552e0f_1:
 msgid "[L] Oh, there goes the cookies. Why don't you run and see if Sidney's almost ready for the gift exchange, and I'll get the cookies ready, and bring them out when I'm done."
@@ -2922,11 +2922,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1552## # translate crowdin cookies_in_oven_5f995f3c:
 msgid "[RT] {i}I don't know how I feel about taking care of two babies, but so far, this future is looking pretty awesome.{/i}"
-msgstr "[RT] {i}Je ne sais pas ce que je pense de prendre soin de deux bébés, mais jusqu'à présent, cet avenir s'annonce plutôt génial.{/je}"
+msgstr "[RT] {i}Je ne sais pas ce que je pense de prendre soin de deux bébés, mais jusqu'à présent, cet avenir s'annonce plutôt génial.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1554## # translate crowdin cookies_in_oven_2b1600b8:
 msgid "[RT] {i}I'm not super excited about Mom being pregnant by Dad, but so far this future doesn't seem too bad.{/i}"
-msgstr "[RT] {i}Je ne suis pas super excité à l'idée que maman soit enceinte de papa, mais jusqu'à présent, cet avenir ne semble pas trop mauvais.{/je}"
+msgstr "[RT] {i}Je ne suis pas super excité à l'idée que maman soit enceinte de papa, mais jusqu'à présent, cet avenir ne semble pas trop mauvais.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1555## # translate crowdin cookies_in_oven_0a589716:
 msgid "[GF] Yeah, and if you're not super jazzed about taking care of babies, you can always just get a vasectomy when you're back to the present."
@@ -2938,7 +2938,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1559## # translate crowdin cookies_in_oven_93b36a9a:
 msgid "[RT] {i}Yeah, I wonder what my future has in store with her.{/i}"
-msgstr "[RT] {i}Oui, je me demande ce que mon avenir lui réserve.{/je}"
+msgstr "[RT] {i}Oui, je me demande ce que mon avenir lui réserve.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1575## # translate crowdin christmas_shoot_7e5940b2:
 msgid "[R] Aaahhh..."
@@ -3054,7 +3054,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1611## # translate crowdin christmas_shoot_691ba193:
 msgid "[ST] {i}Yep.... what a simple-minded idiot!{/i}"
-msgstr ""
+msgstr "[ST] {i}Oui.... quel idiot simple d'esprit!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1612## # translate crowdin christmas_shoot_2f3e4124:
 msgid "[R] What did you call me?"
@@ -3106,15 +3106,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1626## # translate crowdin christmas_shoot_16b5bfbc:
 msgid "[ST] {i}I know that cheapskate's making more money off of us then he's telling us, and he's still complaining every time I tell him the price of an outfit!{/i}"
-msgstr "[ST] {i}Je sais que cheapskate gagne plus d'argent avec nous qu'il nous le dit, et il se plaint toujours chaque fois que je lui dis le prix d'une tenue!{/je}"
+msgstr "[ST] {i}Je sais que cheapskate gagne plus d'argent avec nous qu'il nous le dit, et il se plaint toujours chaque fois que je lui dis le prix d'une tenue!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1627## # translate crowdin christmas_shoot_38e04ef1:
 msgid "[ST] {i}I can tell he doesn't trust or appreciate me.{/i}"
-msgstr "[ST] {i}Je peux dire qu'il ne me fait pas confiance ni ne m'apprécie.{/je}"
+msgstr "[ST] {i}Je peux dire qu'il ne me fait pas confiance ni ne m'apprécie.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1628## # translate crowdin christmas_shoot_9435aa1c:
 msgid "[RT] {i}She's right.... I do make a big deal every time I have to pay for an outfit. I need to change that.{/i}"
-msgstr "[RT] {i}Elle a raison.... Je fais beaucoup d'effort chaque fois que je dois payer pour un costume. Je dois changer ça.{/je}"
+msgstr "[RT] {i}Elle a raison.... Je fais beaucoup d'effort chaque fois que je dois payer pour un costume. Je dois changer ça.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1629## # translate crowdin christmas_shoot_3e5308b4:
 msgid "[R] I'm sorry, Sidney. I shouldn't have made such a big deal about that.... looking at you both in these outfits, I realize they were worth every penny."
@@ -3130,7 +3130,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1637## # translate crowdin christmas_shoot_826e6d9a:
 msgid "[ST] {i}It's almost like he read my mind!{/i}"
-msgstr ""
+msgstr "[ST] {i}C'est presque comme s'il lisait dans mes pensées!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1638## # translate crowdin christmas_shoot_5dad9b80:
 msgid "[GCP] Yeah.... be careful.... If you always talk about what they are thinking, they'll get pretty weirded out."
@@ -3150,11 +3150,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1642## # translate crowdin christmas_shoot_89aee8da:
 msgid "[LT] {i}Only fucking reason he could get me here on Christmas Eve, I hate how he uses money to control us.{/i}"
-msgstr "[LT] {i}Seule putain de raison pour laquelle il pourrait me faire venir ici la veille de Noël, je déteste comment il utilise l'argent pour nous contrôler.{/je}"
+msgstr "[LT] {i}Seule putain de raison pour laquelle il pourrait me faire venir ici la veille de Noël, je déteste comment il utilise l'argent pour nous contrôler.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1643## # translate crowdin christmas_shoot_6f7f0b30:
 msgid "[RT] {i}Wow! You're right! They really do have a lot of negative feelings towards me.{/i}"
-msgstr "[RT] {i}Wow! Tu as raison ! Ils ont vraiment beaucoup de sentiments négatifs envers moi.{/je}"
+msgstr "[RT] {i}Wow! Tu as raison ! Ils ont vraiment beaucoup de sentiments négatifs envers moi.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1644## # translate crowdin christmas_shoot_8203bd83:
 msgid "[GCP] Yep. I told ya. Now all you have to do is give them the day off, and for good measure, you could throw in those gift cards as Christmas gifts."
@@ -3166,7 +3166,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1646## # translate crowdin christmas_shoot_71d37fda:
 msgid "[RT] {i}Alright, I'll give it a try.{/i}"
-msgstr "[RT] {i}D'accord, je vais essayer.{/je}"
+msgstr "[RT] {i}D'accord, je vais essayer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1647## # translate crowdin christmas_shoot_42d71c1f:
 msgid "[RT] ..."
@@ -3202,11 +3202,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1662## # translate crowdin christmas_shoot_15d12944:
 msgid "[ST] {i}Well, I can't let this outfit go to waste.... I know.... I can wear it for [ryan] tonight in bed.{/i}"
-msgstr ""
+msgstr "[ST] {i}Eh bien, je ne peux pas laisser cette tenue se perdre.... Je sais.... Je peux la porter pour [ryan] ce soir au lit.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1663## # translate crowdin christmas_shoot_f1c07e1b:
 msgid "[RT] {i}Oh my.... spirit?.... Can I please see that part of the \"Christmas Present\" timeline?{/i}"
-msgstr "[RT] {i}Oh mon dieu.... esprit ?.... Puis-je voir cette partie de la chronologie du 'Cadeau de Noël'?{/je}"
+msgstr "[RT] {i}Oh mon dieu.... esprit ?.... Puis-je voir cette partie de la chronologie du 'Cadeau de Noël'?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1664## # translate crowdin christmas_shoot_83ecc93d:
 msgid "[GCP] No you cannot! What a hussy! No wonder you're struggling so much with this!"
@@ -3226,11 +3226,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1671## # translate crowdin christmas_shoot_097d0070:
 msgid "[RT] {i}She's an FBI agent that has been extorting us for money.{/i}"
-msgstr "[RT] {i}C'est un agent du FBI qui nous extorque de l'argent.{/je}"
+msgstr "[RT] {i}C'est un agent du FBI qui nous extorque de l'argent.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1672## # translate crowdin christmas_shoot_c689c401:
 msgid "[RT] {i}I think I've learned my lesson. Can we just disappear now?{/i}"
-msgstr "[RT] {i}Je pense avoir appris ma leçon. Puis-je disparaître maintenant ?{/je}"
+msgstr "[RT] {i}Je pense avoir appris ma leçon. Puis-je disparaître maintenant ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1673## # translate crowdin christmas_shoot_34e0a31a:
 msgid "[GCP] No.... remember. Just like in the past, We're stuck here for a certain amount of time."
@@ -3306,7 +3306,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1698## # translate crowdin christmas_shoot_34fe4869:
 msgid "{i}\"Offer only valid in the Christmas present.\"{/i}"
-msgstr ""
+msgstr "{i}'Offre valable uniquement dans le cadeau de Noël.'{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1699## # translate crowdin christmas_shoot_39d647c5:
 msgid "[AD] So, what do you say?"
@@ -3318,7 +3318,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1701## # translate crowdin christmas_shoot_89d19b30:
 msgid "[RT] {i}Why is she making you so nervous?{/i}"
-msgstr "[RT] {i}Pourquoi te rend-elle si nerveuse?{/je}"
+msgstr "[RT] {i}Pourquoi te rend-elle si nerveuse?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1702## # translate crowdin christmas_shoot_669676e0:
 msgid "[GCP] Because she's an unknown entity. I have no idea what will happen if she meddles."
@@ -3370,7 +3370,7 @@ msgstr "[L] Ouais.... eh bien, pas tous les détails."
 
 # game/UpdateScriptChristmasEvent.rpy:1721## # translate crowdin christmas_shoot_7505507d:
 msgid "[LT] {i}I didn't tell her that I'm mostly scared that I kind of like it.{/i}"
-msgstr "[LT] {i}Je ne lui ai pas dit que j'avais surtout peur d'aimer ça.{/je}"
+msgstr "[LT] {i}Je ne lui ai pas dit que j'avais surtout peur d'aimer ça.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1722## # translate crowdin christmas_shoot_fec7dbda:
 msgid "[RT] {i}Whoa! What was that?{/i}"
@@ -3406,7 +3406,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1730## # translate crowdin christmas_shoot_d87e8231:
 msgid "[ST] {i}Now that's a real man!{/i}"
-msgstr ""
+msgstr "[ST] {i}Maintenant c'est un vrai homme!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1731## # translate crowdin christmas_shoot_176235aa:
 msgid "[RT] {i}That's so nice!{/i}"
@@ -3446,7 +3446,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1742## # translate crowdin christmas_shoot_88823a4a:
 msgid "[LT] {i}It's not everyday I get to spend time with my sister. At least not dressed like total sluts. Damn, she looks hot!{/i}"
-msgstr "[LT] {i}Ce n'est pas tous les jours que je passe du temps avec ma sœur. Du moins pas habillées comme des salopes totales. Putain, elle a l'air sexy!{/je}"
+msgstr "[LT] {i}Ce n'est pas tous les jours que je passe du temps avec ma sœur. Du moins pas habillées comme des salopes totales. Putain, elle a l'air sexy!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1743## # translate crowdin christmas_shoot_a44b827d:
 msgid "[GCP] You degenerates!"
@@ -3454,7 +3454,7 @@ msgstr "[GCP] Tu dégénères !"
 
 # game/UpdateScriptChristmasEvent.rpy:1744## # translate crowdin christmas_shoot_173b0be5:
 msgid "[RT] {i}What's the matter? This is awesome! They now love and respect me more, and they're going to do the photo shoot without having to be manipulated.{/i}"
-msgstr "[RT] {i}Quel est le problème? C'est génial! Maintenant, ils m'aiment et me respectent davantage, et elles vont faire la séance photo sans avoir à être manipulées.{/je}"
+msgstr "[RT] {i}Quel est le problème? C'est génial! Maintenant, ils m'aiment et me respectent davantage, et elles vont faire la séance photo sans avoir à être manipulées.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1745## # translate crowdin christmas_shoot_68b67806:
 msgid "[RT] {i}Isn't this what you wanted?{/i}"
@@ -3482,7 +3482,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1755## # translate crowdin christmas_shoot_57b367f6:
 msgid "[RT] {i}Shoot! I made another ghost disappointed.{/i}"
-msgstr "[RT] {i}Merde! J'ai déçu un autre fantôme.{/je}"
+msgstr "[RT] {i}Merde! J'ai déçu un autre fantôme.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1758## # translate crowdin christmas_shoot_aeef8a08:
 msgid "[L] So, are you ready to shoot us in sexy poses?"
@@ -3542,15 +3542,15 @@ msgstr "[R] Magnifique!"
 
 # game/UpdateScriptChristmasEvent.rpy:1786## # translate crowdin christmas_shoot_f97248a9:
 msgid "[LT] {i}It's kind of fun posing with my sister.{/i}"
-msgstr "[LT] {i}C'est un peu amusant de poser avec ma sœur.{/je}"
+msgstr "[LT] {i}C'est un peu amusant de poser avec ma sœur.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1787## # translate crowdin christmas_shoot_2bd1e168:
 msgid "[ST] {i}My sister looks sexy as hell in that costume I made for her.{/i}"
-msgstr ""
+msgstr "[ST] {i}Ma sœur a l'air sexy comme l'enfer dans ce costume que j'ai fait pour elle.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1788## # translate crowdin christmas_shoot_40b9edd3:
 msgid "[RT] {i}This is awesome! I wish I could read minds all the time.{/i}"
-msgstr "[RT] {i}C'est génial! J'aimerais pouvoir lire dans les pensées tout le temps.{/je}"
+msgstr "[RT] {i}C'est génial! J'aimerais pouvoir lire dans les pensées tout le temps.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1789## # translate crowdin christmas_shoot_6c71cc26:
 msgid "[R] Ok.... moving on.... I think I see some prop presents against the wall."
@@ -3606,11 +3606,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1816## # translate crowdin christmas_shoot_eab0694d:
 msgid "[ST] {i}I can't wait to get home and try it.{/i}"
-msgstr "[ST] {i}J'ai hâte de rentrer à la maison et de l'essayer.{/je}"
+msgstr "[ST] {i}J'ai hâte de rentrer à la maison et de l'essayer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1817## # translate crowdin christmas_shoot_43d804d1:
 msgid "[LT] {i}I wish I could try this right now!{/i}"
-msgstr "[LT] {i}J'aimerais pouvoir essayer cela maintenant!{/je}"
+msgstr "[LT] {i}J'aimerais pouvoir essayer cela maintenant!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1818## # translate crowdin christmas_shoot_b4af2796:
 msgid "[R] Alright.... why don't you thank each other with a passionate kiss."
@@ -3686,15 +3686,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1842## # translate crowdin christmas_shoot_4deb5453:
 msgid "[ST] {i}Before my pussy betrays me and leaves a puddle on the floor!{/i}"
-msgstr "[ST] {i}Avant que ma chatte ne me trahisse et ne laisse une flaque d'eau sur le sol!{/je}"
+msgstr "[ST] {i}Avant que ma chatte ne me trahisse et ne laisse une flaque d'eau sur le sol!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1843## # translate crowdin christmas_shoot_843e7d14:
 msgid "[ST] {i}This is so wrong!{/i}"
-msgstr "[ST] {i}C'est tellement faux!{/i}"
+msgstr "[ST] {i}C'est tellement mal!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1844## # translate crowdin christmas_shoot_4cb66561:
 msgid "[ST] {i}Why is it making my pussy tingle so much?{/i}"
-msgstr ""
+msgstr "[ST] {i}Pourquoi fait-il tant picoter ma chatte?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1845## # translate crowdin christmas_shoot_19da5e64:
 msgid "[LT] {i}Why does this turn me on so bad?{/i}"
@@ -3702,23 +3702,23 @@ msgstr "[LT] {i}Pourquoi est-ce si mauvais d'être excitée par ça?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1846## # translate crowdin christmas_shoot_61919a30:
 msgid "[LT] {i}I've already been having confusing thoughts about women, but now I'm getting turned on by my sister?{/i}"
-msgstr "[LT] {i}J'ai déjà eu des pensées confuses sur les femmes, mais maintenant je suis excitée par ma sœur?{/je}"
+msgstr "[LT] {i}J'ai déjà eu des pensées confuses sur les femmes, mais maintenant je suis excitée par ma sœur?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1847## # translate crowdin christmas_shoot_a9761b3c:
 msgid "[LT] {i}God, I hope I don't drip all over her lap.{/i}"
-msgstr "[LT] {i}Dieu, j'espère que je ne dégouline pas sur ses genoux.{/je}"
+msgstr "[LT] {i}Dieu, j'espère que je ne dégouline pas sur ses genoux.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1848## # translate crowdin christmas_shoot_38a2ac68:
 msgid "[LT] {i}I can't believe she made a costume that doesn't include panties.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire qu'elle ait fait un costume qui n'inclut pas de culotte.{/je}"
+msgstr "[LT] {i}Je n'arrive pas à croire qu'elle ait fait un costume qui n'inclut pas de culotte.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1849## # translate crowdin christmas_shoot_9d6d529c:
 msgid "[RT] {i}Wow! They're kind of into each other.{/i}"
-msgstr "[RT] {i}Wow! Ils sont en quelque sorte l'un dans l'autre.{/je}"
+msgstr "[RT] {i}Wow! Ils sont en quelque sorte l'un dans l'autre.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1850## # translate crowdin christmas_shoot_bf987008:
 msgid "[RT] {i}It sounds like they just need a little persuading.{/i}"
-msgstr "[RT] {i}On dirait qu'ils ont juste besoin d'un peu de persuasion.{/je}"
+msgstr "[RT] {i}On dirait qu'ils ont juste besoin d'un peu de persuasion.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1855## # translate crowdin christmas_shoot_c4a8ef7a:
 msgid "[R] I think we're ready for the next pose."
@@ -3746,11 +3746,11 @@ msgstr "[LT] {i}Oh mon dieu.... il veut qu'on se gode.... Merde!.... Je crois qu
 
 # game/UpdateScriptChristmasEvent.rpy:1864## # translate crowdin christmas_shoot_64458996:
 msgid "[LT] {i}I hope she doesn't notice.{/i}"
-msgstr "[LT] {i}J'espère qu'elle ne le remarque pas.{/je}"
+msgstr "[LT] {i}J'espère qu'elle ne le remarque pas.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1865## # translate crowdin christmas_shoot_7dcc4672:
 msgid "[ST] {i}Holy shit!.... I think Lauren just leaked onto my leg!.... Does the thought of us playing with toys together get her excited?{/i}"
-msgstr "[ST] {i}Merde!.... Je pense que Lauren vient de jouir sur ma jambe!.... Est-ce que l'idée de jouer avec des jouets ensemble l'a excitée?{/je}"
+msgstr "[ST] {i}Merde!.... Je pense que Lauren vient de jouir sur ma jambe!.... Est-ce que l'idée de jouer avec des jouets ensemble l'a excitée?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1866## # translate crowdin christmas_shoot_ace84175:
 msgid "[R] Haha.... I'm not expecting you to screw each other with your new dildos."
@@ -3758,7 +3758,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1867## # translate crowdin christmas_shoot_c50482e5:
 msgid "[RT] {i}These girls are going to make me nut in my pants!{/i}"
-msgstr "[RT] {i}Ces filles vont me rendre fou dans mon pantalon!{/je}"
+msgstr "[RT] {i}Ces filles vont me rendre fou dans mon pantalon!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1868## # translate crowdin christmas_shoot_d644fc26:
 msgid "[R] Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
@@ -3810,15 +3810,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1889## # translate crowdin christmas_shoot_1979dd13:
 msgid "[ST] {i}Hmmmm.... I think I should use this opportunity to tease Lauren.{/i}"
-msgstr "[ST] {i}Hmmmm.... Je pense que je devrais profiter de cette occasion pour taquiner Lauren.{/je}"
+msgstr "[ST] {i}Hmmmm.... Je pense que je devrais profiter de cette occasion pour taquiner Lauren.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1890## # translate crowdin christmas_shoot_3584c134:
 msgid "[ST] {i}After all, she did let her pussy leak her naughty juices all over my leg.{/i}"
-msgstr "[ST] {i}Après tout, elle a laissé sa chatte couler sur ma jambe.{/je}"
+msgstr "[ST] {i}Après tout, elle a laissé sa chatte couler sur ma jambe.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1891## # translate crowdin christmas_shoot_9c1aca6d:
 msgid "[RT] {i}Oh, no way!.... I always thought Sidney was too much of a prude to do anything like that to her own sister!{/i}"
-msgstr "[RT] {i}Oh, pas question!.... J'ai toujours pensé que Sidney était trop prude pour faire quelque chose comme ça à sa propre sœur!{/je}"
+msgstr "[RT] {i}Oh, pas question!.... J'ai toujours pensé que Sidney était trop prude pour faire quelque chose comme ça à sa propre sœur!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1892## # translate crowdin christmas_shoot_e7e3fc50:
 msgid "[RT] {i}I wonder what she'll do to her.{/i}"
@@ -3830,27 +3830,27 @@ msgstr "[LT] {i}Oh.... mon.... Dieu !....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1896## # translate crowdin christmas_shoot_564f8cf1:
 msgid "[LT] {i}What the hell is Sidney thinking?{/i}"
-msgstr "[LT] {i}À quoi pense Sidney ?{/je}"
+msgstr "[LT] {i}À quoi pense Sidney ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1897## # translate crowdin christmas_shoot_0fbb788f:
 msgid "[LT] {i}Where does she get the balls to do this to her own sister?{/i}"
-msgstr "[LT] {i}Où trouve-t-elle les couilles pour faire ça à sa propre sœur?{/je}"
+msgstr "[LT] {i}Où trouve-t-elle les couilles pour faire ça à sa propre sœur?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1898## # translate crowdin christmas_shoot_0e1f9820:
 msgid "[LT] {i}Keep quiet.... not a sound.... that would be so embarassing if [ryan] knew!{/i}"
-msgstr "[LT] {i}Gardez le silence.... pas un bruit.... ce serait tellement embarrassant si [ryan] savait!{/je}"
+msgstr "[LT] {i}Gardez le silence.... pas un bruit.... ce serait tellement embarrassant si [ryan] savait!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1901## # translate crowdin christmas_shoot_044435c0:
 msgid "[ST] {i}Haha.... look at her squirm.... this is driving her crazy!{/i}"
-msgstr "[ST] {i}Haha.... regarde-la se tortiller.... ça la rend folle !{/je}"
+msgstr "[ST] {i}Haha.... regarde-la se tortiller.... ça la rend folle !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1902## # translate crowdin christmas_shoot_39b98dee:
 msgid "[RT] {i}Damn, from this angle I can't see what she's doing.{/i}"
-msgstr "[RT] {i}Merde, sous cet angle, je ne vois pas ce qu'elle fait.{/je}"
+msgstr "[RT] {i}Merde, sous cet angle, je ne vois pas ce qu'elle fait.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1905## # translate crowdin christmas_shoot_70c5ab8d:
 msgid "[RT] {i}I can only imagine what's going on back there.{/i}"
-msgstr "[RT] {i}Je ne peux qu'imaginer ce qui se passe là-bas.{/je}"
+msgstr "[RT] {i}Je ne peux qu'imaginer ce qui se passe là-bas.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1907## # translate crowdin christmas_shoot_89c32e02:
 msgid "[LT] {i}Why does it feel so much better when Sidney does that to me, then when I do it to myself?{/i}"
@@ -3858,7 +3858,7 @@ msgstr "[LT] {i}Pourquoi se sent-il tellement mieux quand Sidney me fait ça, pl
 
 # game/UpdateScriptChristmasEvent.rpy:1908## # translate crowdin christmas_shoot_d1bccbfc:
 msgid "[LT] {i}It's really starting to feel good!{/i}"
-msgstr "[LT] {i}Ça commence vraiment à faire du bien !{/je}"
+msgstr "[LT] {i}Ça commence vraiment à faire du bien !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1910## # translate crowdin christmas_shoot_428b441f:
 msgid "[LT] {i}Oh God!.... This is driving me crazy!.... What if that ho gives me an orgasm, right here in front of [ryan]?{/i}"
@@ -3878,7 +3878,7 @@ msgstr "[S] (murmure) Oui, j'ai vu!.... Et maintenant, je vais le faire jusqu'à
 
 # game/UpdateScriptChristmasEvent.rpy:1914## # translate crowdin christmas_shoot_115cb496:
 msgid "[RT] {i}Whatever Sidney is doing to Lauren, I should let it continue for a little while.{/i}"
-msgstr "[RT] {i}Quoi que Sidney fasse à Lauren, je devrais la laisser continuer un petit moment.{/je}"
+msgstr "[RT] {i}Quoi que Sidney fasse à Lauren, je devrais la laisser continuer un petit moment.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1915## # translate crowdin christmas_shoot_a13aaded:
 msgid "[R] Can you girls keep holding that pose for a bit? There's something funny going on with this camera, just hold that until I get it working."
@@ -3886,7 +3886,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1918## # translate crowdin christmas_shoot_fadaf516:
 msgid "[LT] {i}You've got to be kidding me!{/i}"
-msgstr "[LT] {i}Tu dois te moquer de moi!{/je}"
+msgstr "[LT] {i}Tu dois te moquer de moi!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1919## # translate crowdin christmas_shoot_c46e5f40:
 msgid "[S] (whispering) Oh my God Sidney!.... Today is your lucky day."
@@ -3922,7 +3922,7 @@ msgstr "[S] (murmure) hmmm.... Bien.... dernièrement, il s'est passé des chose
 
 # game/UpdateScriptChristmasEvent.rpy:1928## # translate crowdin christmas_shoot_4502d900:
 msgid "[ST] {i}Thank you [ryan].{/i}"
-msgstr ""
+msgstr "[ST] {i}Merci [ryan].{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1929## # translate crowdin christmas_shoot_08befc3a:
 msgid "[L] (whispering) You mean like molesting me in my sleep?"
@@ -3950,7 +3950,7 @@ msgstr "[S] (murmure) Peut-être que cela t'aiderait à être un peu plus aventu
 
 # game/UpdateScriptChristmasEvent.rpy:1935## # translate crowdin christmas_shoot_2a3d9838:
 msgid "[LT] {i}She has no idea!{/i}"
-msgstr "[LT] {i}Elle n'en a aucune idée!{/je}"
+msgstr "[LT] {i}Elle n'en a aucune idée!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1936## # translate crowdin christmas_shoot_cbfe314c:
 msgid "[LT] {i}She would probably think I'm such a dirty pervert if she knew that I've been dry humping my own brother.{/i}"
@@ -3958,11 +3958,11 @@ msgstr "[LT] {i}Elle penserait probablement que je suis une sale perverese si el
 
 # game/UpdateScriptChristmasEvent.rpy:1937## # translate crowdin christmas_shoot_94dccf8b:
 msgid "[LT] {i}Oh I wish it was his cock rubbing against my pussy!{/i}"
-msgstr "[LT] {i}Oh j'aimerais que ce soit sa bite qui se frotte contre ma chatte!{/je}"
+msgstr "[LT] {i}Oh j'aimerais que ce soit sa bite qui se frotte contre ma chatte!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1938## # translate crowdin christmas_shoot_0598d82b:
 msgid "[RT] {i}Holy shit!.... If this isn't a dream, I could really ramp things up between the two of them.{/i}"
-msgstr "[RT] {i}Merde!.... Si ce n'est pas un rêve, je pourrais vraiment accélérer les choses entre eux deux.{/je}"
+msgstr "[RT] {i}Merde!.... Si ce n'est pas un rêve, je pourrais vraiment accélérer les choses entre eux deux.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1939## # translate crowdin christmas_shoot_949d8bde:
 msgid "[RT] {i}But how will I ever be sure?{/i}"
@@ -4038,7 +4038,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1968## # translate crowdin christmas_shoot_59b848b0:
 msgid "[RT] {i}Holy Futa God!.... Sidney penetrated Lauren before I got to!{/i}"
-msgstr "[RT] {i}Sainte mère de Dieu !.... Sidney a pénétré Lauren avant que je n'arrive!{/je}"
+msgstr "[RT] {i}Sainte mère de Dieu !.... Sidney a pénétré Lauren avant que je n'arrive!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1969## # translate crowdin christmas_shoot_b525f35e:
 msgid "[RT] {i}I'm kind of jealous!{/i}"
@@ -4046,15 +4046,15 @@ msgstr "[RT] {i}Je suis un peu jaloux!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1970## # translate crowdin christmas_shoot_cdd27b77:
 msgid "[RT] {i}But at the same time.... that's pretty fucking hot!{/i}"
-msgstr "[RT] {i}Mais en même temps.... c'est assez chaud !{/je}"
+msgstr "[RT] {i}Mais en même temps.... c'est assez chaud !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1973## # translate crowdin christmas_shoot_233f0c3f:
 msgid "[LT] {i}Holy fuck!.... My sister is fucking me.... right in front of my brother.... and he has no idea!....{/i}"
-msgstr "[LT] {i}Putain!.... Ma soeur me baise.... juste devant mon frère.... et il n'en a aucune idée !....{/je}"
+msgstr "[LT] {i}Putain!.... Ma soeur me baise.... juste devant mon frère.... et il n'en a aucune idée !....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1974## # translate crowdin christmas_shoot_da540a13:
 msgid "[RT] {i}Well, maybe more than you think.{/i}"
-msgstr "[RT] {i}Eh bien, peut-être plus que tu ne le penses.{/je}"
+msgstr "[RT] {i}Eh bien, peut-être plus que tu ne le penses.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1975## # translate crowdin christmas_shoot_f604a0b5:
 msgid "[LT] {i}I've never been more turned on in my life!{/i}"
@@ -4062,7 +4062,7 @@ msgstr "[LT] {i}Je n'ai jamais été aussi excitée de ma vie!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1976## # translate crowdin christmas_shoot_1ba4d501:
 msgid "[LT] {i}Oh....no.... what if I cum?.... It will be so obvious if I squirt all over the green screen!{/i}"
-msgstr "[LT] {i}Oh....no .... et si je jouis?.... Ce sera tellement évident si je gicle partout sur l'écran vert!{/je}"
+msgstr "[LT] {i}Oh....no .... et si je jouis?.... Ce sera tellement évident si je gicle partout sur l'écran vert!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1977## # translate crowdin christmas_shoot_bc81d670:
 msgid "[LT] {i}Fuck!.... What will.... [ryan] think?....{/i}"
@@ -4070,11 +4070,11 @@ msgstr "[LT] {i}Merde!.... Qu'est-ce qui.... que [ryan] en pensent?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1980## # translate crowdin christmas_shoot_2f5d577e:
 msgid "[LT] {i}I can't believe Sidney is into this!.... Now we have a secret together.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire que Sidney soit dans ce domaine!.... Maintenant, nous avons un secret ensemble.{/je}"
+msgstr "[LT] {i}Je n'arrive pas à croire que Sidney soit dans ce domaine!.... Maintenant, nous avons un secret ensemble.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1981## # translate crowdin christmas_shoot_2da5c7c2:
 msgid "[LT] {i}Now we can do some real sisterly bonding in the future!{/i}"
-msgstr "[LT] {i}Maintenant, nous pouvons créer de véritables liens fraternels à l'avenir!{/je}"
+msgstr "[LT] {i}Maintenant, nous pouvons créer de véritables liens fraternels à l'avenir!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1982## # translate crowdin christmas_shoot_e87aa4e7:
 msgid "[LT] {i}I wonder if she'll be up for using Mr. Snuggles' strap-on?{/i}"
@@ -4086,59 +4086,59 @@ msgstr "[LT] {i}Merde! .... Je peux juste imaginer qu'elle me pousse à partir d
 
 # game/UpdateScriptChristmasEvent.rpy:1986## # translate crowdin christmas_shoot_138222af:
 msgid "[ST] {i}Why am I enjoying this so much?{/i}"
-msgstr ""
+msgstr "[ST] {i}Pourquoi est-ce que j'apprécie autant cela?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1987## # translate crowdin christmas_shoot_d7137e18:
 msgid "[ST] {i}It's not like it's my pussy that's getting all the attention.{/i}"
-msgstr ""
+msgstr "[ST] {i}Ce n'est pas comme si c'était ma chatte qui attirait toute l'attention.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1988## # translate crowdin christmas_shoot_fafcd75b:
 msgid "[ST] {i}Good God!.... I can't believe this is happening!{/i}"
-msgstr "[ST] {i}Mon Dieu!... Je n'arrive pas à croire que ça arrive!{/je}"
+msgstr "[ST] {i}Mon Dieu!... Je n'arrive pas à croire que ça arrive!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1989## # translate crowdin christmas_shoot_f9c59704:
 msgid "[ST] {i}One day I'm sucking my brother's dick, and the next day I'm pounding my sister's pussy!{/i}"
-msgstr ""
+msgstr "[ST] {i}Un jour, je suce la bite de mon frère et le lendemain, je lèche la chatte de ma sœur!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1992## # translate crowdin christmas_shoot_507659a1:
 msgid "[ST] {i}This is so bad!{/i}"
-msgstr "[ST] {i}C'est tellement mauvais!{/i}"
+msgstr "[ST] {i}C'est tellement mal!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1993## # translate crowdin christmas_shoot_fe968288:
 msgid "[ST] {i}I'm not supposed to be turned on by my siblings!{/i}"
-msgstr "[ST] {i}Je ne suis pas censé être allumée par mes frères et sœurs!{/je}"
+msgstr "[ST] {i}Je ne suis pas censé être allumée par mes frères et sœurs!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1994## # translate crowdin christmas_shoot_afd65054:
 msgid "[ST] {i}What's next? Fantasies about my mom?{/i}"
-msgstr ""
+msgstr "[ST] {i}Et maintenant ? Des fantasmes à propos de ma mère ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1995## # translate crowdin christmas_shoot_c47b528a:
 msgid "[ST] {i}Shit, Sidney!.... Don't even go there!{/i}"
-msgstr ""
+msgstr "[ST] {i}Merde, Sidney!.... N'y vas pas !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1996## # translate crowdin christmas_shoot_0b6cd0f2:
 msgid "[ST] {i}With her perfect ass and titties!{/i}"
-msgstr ""
+msgstr "[ST] {i}Avec son cul et ses nichons parfaits!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1999## # translate crowdin christmas_shoot_8df0d47b:
 msgid "[ST] {i}Aaahhh.... maybe I should just embrace my perversions.{/i}"
-msgstr "[ST] {i}Aaahhh.... je devrais peut-être assumer mes perversions.{/je}"
+msgstr "[ST] {i}Aaahhh.... je devrais peut-être assumer mes perversions.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2000## # translate crowdin christmas_shoot_424bd220:
 msgid "[ST] {i}[ryan] doesn't seem to follow any kind of code of ethics.{/i}"
-msgstr ""
+msgstr "[ST] {i}[ryan] ne semble suivre aucune sorte de code d'éthique.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2001## # translate crowdin christmas_shoot_2c23660a:
 msgid "[RT] {i}Ouch!.... Yeah.... I kind of let those ethics die the night I saw Mom at the club.... and started letting my cock do all my thinking.{/i}"
-msgstr "[RT] {i}Aïe!.... Ouais.... J'ai un peu laissé mourir cette éthique la nuit où j'ai vu maman au club.... et j'ai commencé à laisser ma bite faire toute ma réflexion.{/je}"
+msgstr "[RT] {i}Aïe!.... Ouais.... J'ai un peu laissé mourir cette éthique la nuit où j'ai vu maman au club.... et j'ai commencé à laisser ma bite faire toute ma réflexion.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2004## # translate crowdin christmas_shoot_c9b33e31:
 msgid "[RT] {i}Maybe poor self control is a weakness in our genetics.{/i}"
-msgstr "[RT] {i}Peut-être qu'une mauvaise maîtrise de soi est une faiblesse de notre lignée génétique.{/je}"
+msgstr "[RT] {i}Peut-être qu'une mauvaise maîtrise de soi est une faiblesse de notre lignée génétique.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2005## # translate crowdin christmas_shoot_9e99cc58:
 msgid "[RT] {i}Hmmmm.... maybe a weakness that I can take advantage of.{/i}"
-msgstr "[RT] {i}Hmmmm.... peut-être une faiblesse dont je peux profiter.{/je}"
+msgstr "[RT] {i}Hmmmm.... peut-être une faiblesse dont je peux profiter.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2007## # translate crowdin christmas_shoot_3cb6a5d9:
 msgid "[LT] {i}Fuck.... Fuck.... Fuck.... Fuck....{/i}"
@@ -4154,7 +4154,7 @@ msgstr "[LT] {i}Merde.... Merde.... Merde.... Merde....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2011## # translate crowdin christmas_shoot_677c960b:
 msgid "[LT] {i}What am I going to do?{/i}"
-msgstr "[LT] {i}Qu'est-ce que je vais faire?{/je}"
+msgstr "[LT] {i}Qu'est-ce que je vais faire?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2012## # translate crowdin christmas_shoot_db3f8241:
 msgid "[LT] {i}I can't control if I squirt or not!{/i}"
@@ -4166,7 +4166,7 @@ msgstr "[LT] {i}Et aussi ouverte que je le suis, c'est fondamentalement une bonn
 
 # game/UpdateScriptChristmasEvent.rpy:2014## # translate crowdin christmas_shoot_94a71be6:
 msgid "[RT] {i}I should stop her before she makes a mess!.... Plus if she's not allowed a release, maybe she'll be dying to do something with me later.{/i}"
-msgstr "[RT] {i}Je devrais l'arrêter avant qu'elle ne fasse une connerie !.... De plus, si elle n'a pas le droit à jouir, elle mourra peut-être d'envie de faire quelque chose avec moi plus tard.{/je}"
+msgstr "[RT] {i}Je devrais l'arrêter avant qu'elle ne fasse une connerie !.... De plus, si elle n'a pas le droit à jouir, elle mourra peut-être d'envie de faire quelque chose avec moi plus tard.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2015## # translate crowdin christmas_shoot_28515740:
 msgid "[R] I got the camera working! Good job girls! That's a very convincing pose."
@@ -4178,11 +4178,11 @@ msgstr "[LT] {i}Merde.... J'étais si proche d'arriver!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2023## # translate crowdin christmas_shoot_05e9429f:
 msgid "[LT] {i}Oh, thank God he stopped her!{/i}"
-msgstr "[LT] {i}Oh, Dieu merci, il l'a arrêtée!{/je}"
+msgstr "[LT] {i}Oh, Dieu merci, il l'a arrêtée!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2024## # translate crowdin christmas_shoot_dd0d8bf5:
 msgid "[LT] {i}As much as I wanted that.... that would have been a disaster.{/i}"
-msgstr "[LT] {i}Autant que je le voulais.... ça aurait été un désastre.{/je}"
+msgstr "[LT] {i}Autant que je le voulais.... ça aurait été un désastre.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2027## # translate crowdin christmas_shoot_891a3d24:
 msgid "[LT] {i}But now I really need to get off! How am I going to take care of this?{/i}"
@@ -4214,7 +4214,7 @@ msgstr "[L] (murmure) Non!.... Je suis tellement excitée en ce moment!"
 
 # game/UpdateScriptChristmasEvent.rpy:2041## # translate crowdin christmas_shoot_63557893:
 msgid "[RT] {i}I'll help her take care of that.{/i}"
-msgstr "[RT] {i}Je vais l'aider à s'en occuper.{/je}"
+msgstr "[RT] {i}Je vais l'aider à s'en occuper.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2044## # translate crowdin christmas_shoot_2796dcfe:
 msgid "[S] (whispering) When we go to the storage shed to change, I'll finish what I started.... I can't leave my own sister in such pain."
@@ -4242,7 +4242,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2054## # translate crowdin christmas_shoot_d0a99d8c:
 msgid "[RT] {i}Yeah.... sure you are.... at least that storage shed has so many holes in it, it will be easy to spy on them.{/i}"
-msgstr "[RT] {i}Ouais.... bien sûr que tu l'es.... au moins ce hangar de stockage a tellement de trous dedans, il sera facile de les espionner.{/je}"
+msgstr "[RT] {i}Ouais.... bien sûr que tu l'es.... au moins ce hangar de stockage a tellement de trous dedans, il sera facile de les espionner.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2055## # translate crowdin christmas_shoot_33f13380:
 msgid "[R] Alright.... I understand. I'll take care of it myself. Go ahead and get changed."
@@ -4250,7 +4250,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2058## # translate crowdin christmas_shoot_3336f244:
 msgid "{i}\"Sound of girls giggling as they run off.\"{/i}"
-msgstr ""
+msgstr "{i}'Bruit de filles qui ricanent alors qu'elles s'enfuient.'{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2059## # translate crowdin christmas_shoot_744aca6f:
 msgid "[RT] {i}Dammit!.... Sidney cock-blocked me!{/i}"
@@ -4370,7 +4370,7 @@ msgstr "[GCP] 2.... 1..."
 
 # game/UpdateScriptChristmasEvent.rpy:2097## # translate crowdin christmas_shoot_cca4618a:
 msgid "[RT] {i}Oh Futa God.... I'm back in my bed?.... Another weird dream?{/i}"
-msgstr "[RT] {i}Oh mon Dieu.... Je suis de retour dans mon lit ?.... Un autre rêve bizarre ?{/je}"
+msgstr "[RT] {i}Oh mon Dieu.... Je suis de retour dans mon lit ?.... Un autre rêve bizarre ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2098## # translate crowdin christmas_shoot_636f2d5c:
 msgid "[RT] {i}At least, I think they were dreams!{/i}"
@@ -4378,15 +4378,15 @@ msgstr "[RT] {i}Au moins, je pense que c’étaient des rêves ! {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2099## # translate crowdin christmas_shoot_4ac6c243:
 msgid "[RT] {i}They were both just so vivid! Huh.... {/i}"
-msgstr "[RT] {i}Ils étaient tous les deux si vifs! Huh.... {/je}"
+msgstr "[RT] {i}Ils étaient tous les deux si vifs! Huh.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2100## # translate crowdin christmas_shoot_91c22639:
 msgid "[RT] {i}I guess I'll have to wait till three o'clock to find out.{/i}"
-msgstr "[RT] {i}Je devrais attendre jusqu'à trois heures pour le savoir.{/je}"
+msgstr "[RT] {i}Je devrais attendre jusqu'à trois heures pour le savoir.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2101## # translate crowdin christmas_shoot_e44c0b82:
 msgid "[RT] {i}Ohhh.... so tired.... zzzzzzz....{/i}"
-msgstr "[RT] {i}Ohhh.... tellement fatigué.... zzzzzzz....{/je}"
+msgstr "[RT] {i}Ohhh.... tellement fatigué.... zzzzzzz....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2107## # translate crowdin christmas_shoot_9ecfe47e:
 msgid "[R] Yeah, I don't think so! I'm going to pay you the $500, and then you can take your broom and fly away."
@@ -4394,11 +4394,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2110## # translate crowdin christmas_shoot_6c3b1d98:
 msgid "[RT] {i}I'll just pull it out of my magic pockets.... shit!.... It's not working!{/i}"
-msgstr "[RT] {i}Je vais juste le sortir de mes poches magiques.... Merde!.... Ça ne marche pas !{/je}"
+msgstr "[RT] {i}Je vais juste le sortir de mes poches magiques.... Merde!.... Ça ne marche pas !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2111## # translate crowdin christmas_shoot_4fa69d6c:
 msgid "[RT] {i}Ghost of Christmas Present! Why aren't my magic pockets working?{/i}"
-msgstr "[RT] {i}Cadeau Fantôme de Noël! Pourquoi mes poches magiques ne fonctionnent-elles pas ?{/je}"
+msgstr "[RT] {i}Cadeau Fantôme de Noël! Pourquoi mes poches magiques ne fonctionnent-elles pas ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2112## # translate crowdin christmas_shoot_b56a3418:
 msgid "[GCP] Magic Pockets?"
@@ -4406,7 +4406,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2113## # translate crowdin christmas_shoot_e9599707:
 msgid "[RT] {i}Yeah, in the past, I could just think about what I needed, and then I could pull it out of my pockets.{/i}"
-msgstr "[RT] {i}Ouais, dans le passé, je pouvais juste penser à ce dont j'avais besoin, et ensuite je l'avais.{/je}"
+msgstr "[RT] {i}Ouais, dans le passé, je pouvais juste penser à ce dont j'avais besoin, et ensuite je l'avais.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2114## # translate crowdin christmas_shoot_1909b358:
 msgid "[GCP] Oh, right!"
@@ -4538,7 +4538,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2154## # translate crowdin christmas_shoot_93462efb:
 msgid "[L] {i}I hate this bitch!{/i}"
-msgstr "[L] {i}Je déteste cette salope!{/je}"
+msgstr "[L] {i}Je déteste cette salope!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2155## # translate crowdin christmas_shoot_c3fe2f78:
 msgid "[GCP] I wish God was as vengeful to the wicked as she used to be. Turn her into a pillar of salt or better yet, a puddle of cum."
@@ -4562,19 +4562,19 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2168## # translate crowdin christmas_shoot_22415c11:
 msgid "[RT] {i}Wow, She really seems sad.{/i}"
-msgstr "[RT] {i}Wow, Elle semble vraiment triste.{/je}"
+msgstr "[RT] {i}Wow, Elle semble vraiment triste.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2169## # translate crowdin christmas_shoot_9c06a9ee:
 msgid "[RT] {i}I hope Futa God isn't too hard on her.{/i}"
-msgstr "[RT] {i}J'espère que Dieu n'est pas trop dur avec elle.{/je}"
+msgstr "[RT] {i}J'espère que Dieu n'est pas trop dur avec elle.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2170## # translate crowdin christmas_shoot_88c2bc9c:
 msgid "[RT] {i}Haha....Futa God.... hard....{/i}"
-msgstr "[RT] {i}Haha....Putain de Dieu.... dur....{/je}"
+msgstr "[RT] {i}Haha....Putain de Dieu.... dur....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2171## # translate crowdin christmas_shoot_cc7297a3:
 msgid "[RT] {i}Too bad she left. That joke would have cheered her up.{/i}"
-msgstr "[RT] {i}Dommage qu'elle soit partie. Cette blague l'aurait encouragée.{/je}"
+msgstr "[RT] {i}Dommage qu'elle soit partie. Cette blague l'aurait encouragée.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2172## # translate crowdin christmas_shoot_9f1f2c39:
 msgid "[L] Ok, We're back!"
@@ -4638,11 +4638,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2198## # translate crowdin christmas_shoot_a571aeb3:
 msgid "[ST] {i}Agent Diaz has a terrible disposition for a photographer.{/i}"
-msgstr "[ST] {i}L'agent Diaz a une disposition terrible pour un photographe.{/je}"
+msgstr "[ST] {i}L'agent Diaz a une disposition terrible pour un photographe.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2199## # translate crowdin christmas_shoot_31a2129a:
 msgid "[ST] {i}I miss how professional [ryan] is.{/i}"
-msgstr "[ST] {i}Ça me manque le professionnalisme de [ryan].{/je}"
+msgstr "[ST] {i}Ça me manque le professionnalisme de [ryan].{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2202## # translate crowdin christmas_shoot_6b544093:
 msgid "[AD] Nice! That looks super hot!"
@@ -4654,15 +4654,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2208## # translate crowdin christmas_shoot_af9dc667:
 msgid "[LT] {i}It's kind of fun posing with my sister, and Agent Diaz dominating this photo shoot is kind of turning me on.{/i}"
-msgstr "[LT] {i}C'est un peu amusant de poser avec ma sœur, et l'agent Diaz qui domine cette séance photo m'excite un peu.{/je}"
+msgstr "[LT] {i}C'est un peu amusant de poser avec ma sœur, et l'agent Diaz qui domine cette séance photo m'excite un peu.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2209## # translate crowdin christmas_shoot_8820a540:
 msgid "[ST] {i}My sister looks sexy as hell in that costume I made for her. Plus, it's kind of turning me on to pose in front of someone else besides [ryan].{/i}"
-msgstr ""
+msgstr "[ST] {i}Ma sœur a l'air sexy comme l'enfer dans ce costume que j'ai fait pour elle. De plus, ça m'excite de poser devant quelqu'un d'autre que [ryan].{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2210## # translate crowdin christmas_shoot_b9f19b8d:
 msgid "[RT] {i}This is insightful! I wish I could read minds all the time.{/i}"
-msgstr "[RT] {i}C'est perspicace! J'aimerais pouvoir lire dans les pensées tout le temps.{/je}"
+msgstr "[RT] {i}C'est perspicace! J'aimerais pouvoir lire dans les pensées tout le temps.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2211## # translate crowdin christmas_shoot_9e8995e1:
 msgid "[AD] Ok.... enough of that!.... I think it's time to pull out the presents I brought."
@@ -4694,7 +4694,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2226## # translate crowdin christmas_shoot_47cc17c7:
 msgid "[ST] {i}Oh God!.... Of course they're dildos{/i}"
-msgstr ""
+msgstr "[ST] {i}Oh Mon Dieu!.... Bien sûr, ce sont des godes {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2227## # translate crowdin christmas_shoot_27149ef4:
 msgid "[LT] {i}What a predatory pervert!{/i}"
@@ -4706,7 +4706,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2233## # translate crowdin christmas_shoot_b6cdebda:
 msgid "[ST] {i}If she offers to screw me with it, I'm going home!{/i}"
-msgstr "[ST] {i}Si elle me propose de me baiser avec ça, je rentre à la maison!{/je}"
+msgstr "[ST] {i}Si elle me propose de me baiser avec ça, je rentre à la maison!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2234## # translate crowdin christmas_shoot_8088d980:
 msgid "[LT] {i}What if she makes us use them?{/i}"
@@ -4794,15 +4794,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2261## # translate crowdin christmas_shoot_4deb5453_1:
 msgid "[ST] {i}Before my pussy betrays me and leaves a puddle on the floor!{/i}"
-msgstr "[ST] {i}Avant que ma chatte ne me trahisse et ne laisse une flaque d'eau sur le sol!{/je}"
+msgstr "[ST] {i}Avant que ma chatte ne me trahisse et ne laisse une flaque d'eau sur le sol!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2262## # translate crowdin christmas_shoot_843e7d14_1:
 msgid "[ST] {i}This is so wrong!{/i}"
-msgstr ""
+msgstr "[ST] {i}C'est tellement mal!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2263## # translate crowdin christmas_shoot_4cb66561_1:
 msgid "[ST] {i}Why is it making my pussy tingle so much?{/i}"
-msgstr ""
+msgstr "[ST] {i}Pourquoi fait-il tant picoter ma chatte?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2264## # translate crowdin christmas_shoot_19da5e64_1:
 msgid "[LT] {i}Why does this turn me on so bad?{/i}"
@@ -4814,19 +4814,19 @@ msgstr "[LT] {i}J'ai déjà eu des pensées confuses sur les femmes, grâce à l
 
 # game/UpdateScriptChristmasEvent.rpy:2266## # translate crowdin christmas_shoot_a9761b3c_1:
 msgid "[LT] {i}God, I hope I don't drip all over her lap.{/i}"
-msgstr "[LT] {i}Dieu, j'espère que je ne dégouline pas sur ses genoux.{/je}"
+msgstr "[LT] {i}Dieu, j'espère que je ne dégouline pas sur ses genoux.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2267## # translate crowdin christmas_shoot_38a2ac68_1:
 msgid "[LT] {i}I can't believe she made a costume that doesn't include panties.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire qu'elle ait fait un costume qui n'inclut pas de culotte.{/je}"
+msgstr "[LT] {i}Je n'arrive pas à croire qu'elle ait fait un costume qui n'inclut pas de culotte.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2268## # translate crowdin christmas_shoot_9d6d529c_1:
 msgid "[RT] {i}Wow! They're kind of into each other.{/i}"
-msgstr "[RT] {i}Wow! Ils sont en quelque sorte l'un dans l'autre.{/je}"
+msgstr "[RT] {i}Wow! Ils sont en quelque sorte l'un dans l'autre.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2269## # translate crowdin christmas_shoot_bf987008_1:
 msgid "[RT] {i}It sounds like they just need a little persuading.{/i}"
-msgstr "[RT] {i}On dirait qu'ils ont juste besoin d'un peu de persuasion.{/je}"
+msgstr "[RT] {i}On dirait qu'ils ont juste besoin d'un peu de persuasion.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2274## # translate crowdin christmas_shoot_7ff41c1e:
 msgid "[AD] Great! I think we're ready for the next pose."
@@ -4854,11 +4854,11 @@ msgstr "[LT] {i}Oh mon dieu.... elle veut qu'on se gode.... Merde!.... Je crois 
 
 # game/UpdateScriptChristmasEvent.rpy:2282## # translate crowdin christmas_shoot_64458996_1:
 msgid "[LT] {i}I hope she doesn't notice.{/i}"
-msgstr "[LT] {i}J'espère qu'elle ne le remarque pas.{/je}"
+msgstr "[LT] {i}J'espère qu'elle ne le remarque pas.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2283## # translate crowdin christmas_shoot_7dcc4672_1:
 msgid "[ST] {i}Holy shit!.... I think Lauren just leaked onto my leg!.... Does the thought of us playing with toys together get her excited?{/i}"
-msgstr "[ST] {i}Merde!.... Je pense que Lauren vient de jouir sur ma jambe!.... Est-ce que l'idée de jouer avec des jouets ensemble l'a excitée?{/je}"
+msgstr "[ST] {i}Merde!.... Je pense que Lauren vient de jouir sur ma jambe!.... Est-ce que l'idée de jouer avec des jouets ensemble l'a excitée?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2284## # translate crowdin christmas_shoot_02c43815:
 msgid "[AD] Haha.... I'm not expecting you to screw each other with your new dildos."
@@ -4866,7 +4866,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2285## # translate crowdin christmas_shoot_c50482e5_1:
 msgid "[RT] {i}These girls are going to make me nut in my pants!{/i}"
-msgstr "[RT] {i}Ces filles vont me rendre fou dans mon pantalon!{/je}"
+msgstr "[RT] {i}Ces filles vont me rendre fou dans mon pantalon!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2286## # translate crowdin christmas_shoot_ce6a3b67:
 msgid "[AD] Just get into a position so it looks like Sidney is penetrating Lauren with the dildo."
@@ -4918,15 +4918,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2307## # translate crowdin christmas_shoot_b11b5772:
 msgid "[ST] {i}Hmmmm.... I think I should use this opportunity to punish Lauren for not telling me about Agent Diaz. This might not have been so shocking, had I been warned.{/i}"
-msgstr "[ST] {i}Hmmmm.... Je pense que je devrais profiter de cette occasion pour punir Lauren de ne pas m'avoir parlé de l'agent Diaz. Cela n'aurait peut-être pas été si choquant, si j'avais été prévenue.{/je}"
+msgstr "[ST] {i}Hmmmm.... Je pense que je devrais profiter de cette occasion pour punir Lauren de ne pas m'avoir parlé de l'agent Diaz. Cela n'aurait peut-être pas été si choquant, si j'avais été prévenue.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2308## # translate crowdin christmas_shoot_43df5642:
 msgid "[ST] {i}Not only that, but she did let her pussy leak her naughty juices all over my leg.{/i}"
-msgstr ""
+msgstr "[ST] {i}Non seulement cela, mais elle a laissé sa chatte couler sur ma jambe.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2309## # translate crowdin christmas_shoot_9c1aca6d_1:
 msgid "[RT] {i}Oh, no way!.... I always thought Sidney was too much of a prude to do anything like that to her own sister!{/i}"
-msgstr "[RT] {i}Oh, pas question!.... J'ai toujours pensé que Sidney était trop prude pour faire quelque chose comme ça à sa propre sœur!{/je}"
+msgstr "[RT] {i}Oh, pas question!.... J'ai toujours pensé que Sidney était trop prude pour faire quelque chose comme ça à sa propre sœur!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2310## # translate crowdin christmas_shoot_e7e3fc50_1:
 msgid "[RT] {i}I wonder what she'll do to her.{/i}"
@@ -4938,27 +4938,27 @@ msgstr "[LT] {i}Oh.... mon.... Dieu !....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2314## # translate crowdin christmas_shoot_564f8cf1_1:
 msgid "[LT] {i}What the hell is Sidney thinking?{/i}"
-msgstr "[LT] {i}À quoi pense Sidney ?{/je}"
+msgstr "[LT] {i}À quoi pense Sidney ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2315## # translate crowdin christmas_shoot_0fbb788f_1:
 msgid "[LT] {i}Where does she get the balls to do this to her own sister?{/i}"
-msgstr "[LT] {i}Où trouve-t-elle les couilles pour faire ça à sa propre sœur?{/je}"
+msgstr "[LT] {i}Où trouve-t-elle les couilles pour faire ça à sa propre sœur?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2316## # translate crowdin christmas_shoot_65ec1b87:
 msgid "[LT] {i}Keep quiet.... not a sound.... that would be so embarassing if [ryan] and Agent Diaz knew!{/i}"
-msgstr "[LT] {i}Gardez le silence.... pas un bruit.... ce serait tellement embarrassant si [ryan] et l'agent Diaz savaient!{/je}"
+msgstr "[LT] {i}Gardez le silence.... pas un bruit.... ce serait tellement embarrassant si [ryan] et l'agent Diaz savaient!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2319## # translate crowdin christmas_shoot_044435c0_1:
 msgid "[ST] {i}Haha.... look at her squirm.... this is driving her crazy!{/i}"
-msgstr "[ST] {i}Haha.... regarde-la se tortiller.... ça la rend folle !{/je}"
+msgstr "[ST] {i}Haha.... regarde-la se tortiller.... ça la rend folle !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2320## # translate crowdin christmas_shoot_39b98dee_1:
 msgid "[RT] {i}Damn, from this angle I can't see what she's doing.{/i}"
-msgstr "[RT] {i}Merde, sous cet angle, je ne vois pas ce qu'elle fait.{/je}"
+msgstr "[RT] {i}Merde, sous cet angle, je ne vois pas ce qu'elle fait.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2323## # translate crowdin christmas_shoot_70c5ab8d_1:
 msgid "[RT] {i}I can only imagine what's going on back there.{/i}"
-msgstr "[RT] {i}Je ne peux qu'imaginer ce qui se passe là-bas.{/je}"
+msgstr "[RT] {i}Je ne peux qu'imaginer ce qui se passe là-bas.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2325## # translate crowdin christmas_shoot_89c32e02_1:
 msgid "[LT] {i}Why does it feel so much better when Sidney does that to me, then when I do it to myself?{/i}"
@@ -4966,7 +4966,7 @@ msgstr "[LT] {i}Pourquoi se sent-il tellement mieux quand Sidney me fait ça, pl
 
 # game/UpdateScriptChristmasEvent.rpy:2326## # translate crowdin christmas_shoot_d1bccbfc_1:
 msgid "[LT] {i}It's really starting to feel good!{/i}"
-msgstr "[LT] {i}Ça commence vraiment à faire du bien !{/je}"
+msgstr "[LT] {i}Ça commence vraiment à faire du bien !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2328## # translate crowdin christmas_shoot_a3d29c7f:
 msgid "[LT] {i}Oh God!.... This is driving me crazy!.... What if that ho gives me an orgasm, right here in front of [ryan] and Agent Diaz?{/i}"
@@ -4986,7 +4986,7 @@ msgstr "[S] (murmure) Oui, j'ai vu!.... Et maintenant, je vais le faire jusqu'à
 
 # game/UpdateScriptChristmasEvent.rpy:2332## # translate crowdin christmas_shoot_6d31b345:
 msgid "[RT] {i}Whatever Sidney is doing to Lauren, I should help it continue for a little while.{/i}"
-msgstr "[RT] {i}Quoi que Sidney fasse à Lauren, je devrais l'aider à continuer pendant un petit moment.{/je}"
+msgstr "[RT] {i}Quoi que Sidney fasse à Lauren, je devrais l'aider à continuer pendant un petit moment.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2333## # translate crowdin christmas_shoot_7cc22acc:
 msgid "[R] Agent Diaz? Can I quickly show you a couple of settings on that camera that will make the shots even better?"
@@ -5002,7 +5002,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2338## # translate crowdin christmas_shoot_fadaf516_1:
 msgid "[LT] {i}You've got to be kidding me!{/i}"
-msgstr "[LT] {i}Tu dois te moquer de moi!{/je}"
+msgstr "[LT] {i}Tu dois te moquer de moi!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2339## # translate crowdin christmas_shoot_c46e5f40_1:
 msgid "[S] (whispering) Oh my God Sidney!.... Today is your lucky day."
@@ -5038,7 +5038,7 @@ msgstr "[S] (murmure) hmmm.... Bien.... dernièrement, il s'est passé des chose
 
 # game/UpdateScriptChristmasEvent.rpy:2348## # translate crowdin christmas_shoot_4502d900_1:
 msgid "[ST] {i}Thank you [ryan].{/i}"
-msgstr ""
+msgstr "[ST] {i}Merci [ryan].{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2349## # translate crowdin christmas_shoot_08befc3a_1:
 msgid "[L] (whispering) You mean like molesting me in my sleep?"
@@ -5066,7 +5066,7 @@ msgstr "[S] (murmure) Peut-être que cela t'aiderait à être un peu plus aventu
 
 # game/UpdateScriptChristmasEvent.rpy:2355## # translate crowdin christmas_shoot_2a3d9838_1:
 msgid "[LT] {i}She has no idea!{/i}"
-msgstr "[LT] {i}Elle n'en a aucune idée!{/je}"
+msgstr "[LT] {i}Elle n'en a aucune idée!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2356## # translate crowdin christmas_shoot_cbfe314c_1:
 msgid "[LT] {i}She would probably think I'm such a dirty pervert if she knew that I've been dry humping my own brother.{/i}"
@@ -5074,11 +5074,11 @@ msgstr "[LT] {i}Elle penserait probablement que je suis une sale perverese si el
 
 # game/UpdateScriptChristmasEvent.rpy:2357## # translate crowdin christmas_shoot_94dccf8b_1:
 msgid "[LT] {i}Oh I wish it was his cock rubbing against my pussy!{/i}"
-msgstr "[LT] {i}Oh j'aimerais que ce soit sa bite qui se frotte contre ma chatte!{/je}"
+msgstr "[LT] {i}Oh j'aimerais que ce soit sa bite qui se frotte contre ma chatte!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2358## # translate crowdin christmas_shoot_0598d82b_1:
 msgid "[RT] {i}Holy shit!.... If this isn't a dream, I could really ramp things up between the two of them.{/i}"
-msgstr "[RT] {i}Merde!.... Si ce n'est pas un rêve, je pourrais vraiment accélérer les choses entre eux deux.{/je}"
+msgstr "[RT] {i}Merde!.... Si ce n'est pas un rêve, je pourrais vraiment accélérer les choses entre eux deux.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2359## # translate crowdin christmas_shoot_949d8bde_1:
 msgid "[RT] {i}But how will I ever be sure?{/i}"
@@ -5154,7 +5154,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2388## # translate crowdin christmas_shoot_59b848b0_1:
 msgid "[RT] {i}Holy Futa God!.... Sidney penetrated Lauren before I got to!{/i}"
-msgstr "[RT] {i}Sainte mère de Dieu !.... Sidney a pénétré Lauren avant que je n'arrive!{/je}"
+msgstr "[RT] {i}Sainte mère de Dieu !.... Sidney a pénétré Lauren avant que je n'arrive!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2389## # translate crowdin christmas_shoot_b525f35e_1:
 msgid "[RT] {i}I'm kind of jealous!{/i}"
@@ -5162,15 +5162,15 @@ msgstr "[RT] {i}Je suis un peu jaloux!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2390## # translate crowdin christmas_shoot_cdd27b77_1:
 msgid "[RT] {i}But at the same time.... that's pretty fucking hot!{/i}"
-msgstr "[RT] {i}Mais en même temps.... c'est assez chaud !{/je}"
+msgstr "[RT] {i}Mais en même temps.... c'est assez chaud !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2393## # translate crowdin christmas_shoot_d8807eb0:
 msgid "[LT] {i}Holy fuck!.... My sister is fucking me.... right in front of my brother and this perverted woman.... and they have no idea!....{/i}"
-msgstr "[LT] {i}Putain!.... Ma soeur me baise.... juste devant mon frère et cette femme perverse.... et ils n'en ont aucune idée !....{/je}"
+msgstr "[LT] {i}Putain!.... Ma soeur me baise.... juste devant mon frère et cette femme perverse.... et ils n'en ont aucune idée !....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2394## # translate crowdin christmas_shoot_da540a13_1:
 msgid "[RT] {i}Well, maybe more than you think.{/i}"
-msgstr "[RT] {i}Eh bien, peut-être plus que tu ne le penses.{/je}"
+msgstr "[RT] {i}Eh bien, peut-être plus que tu ne le penses.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2395## # translate crowdin christmas_shoot_f604a0b5_1:
 msgid "[LT] {i}I've never been more turned on in my life!{/i}"
@@ -5178,7 +5178,7 @@ msgstr "[LT] {i}Je n'ai jamais été aussi excitée de ma vie!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2396## # translate crowdin christmas_shoot_1ba4d501_1:
 msgid "[LT] {i}Oh....no.... what if I cum?.... It will be so obvious if I squirt all over the green screen!{/i}"
-msgstr "[LT] {i}Oh....no .... et si je jouis?.... Ce sera tellement évident si je gicle partout sur l'écran vert!{/je}"
+msgstr "[LT] {i}Oh....no .... et si je jouis?.... Ce sera tellement évident si je gicle partout sur l'écran vert!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2397## # translate crowdin christmas_shoot_92fae9a0:
 msgid "[LT] {i}Fuck!.... What will.... they think?....{/i}"
@@ -5186,11 +5186,11 @@ msgstr "[LT] {i}Merde!.... Qu'est-ce qui.... qu'ils en pensent?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2400## # translate crowdin christmas_shoot_2f5d577e_1:
 msgid "[LT] {i}I can't believe Sidney is into this!.... Now we have a secret together.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire que Sidney soit dans ce domaine!.... Maintenant, nous avons un secret ensemble.{/je}"
+msgstr "[LT] {i}Je n'arrive pas à croire que Sidney soit dans ce domaine!.... Maintenant, nous avons un secret ensemble.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2401## # translate crowdin christmas_shoot_2da5c7c2_1:
 msgid "[LT] {i}Now we can do some real sisterly bonding in the future!{/i}"
-msgstr "[LT] {i}Maintenant, nous pouvons créer de véritables liens fraternels à l'avenir!{/je}"
+msgstr "[LT] {i}Maintenant, nous pouvons créer de véritables liens fraternels à l'avenir!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2402## # translate crowdin christmas_shoot_e87aa4e7_1:
 msgid "[LT] {i}I wonder if she'll be up for using Mr. Snuggles' strap-on?{/i}"
@@ -5202,59 +5202,59 @@ msgstr "[LT] {i}Merde! .... Je peux juste imaginer qu'elle me pousse à partir d
 
 # game/UpdateScriptChristmasEvent.rpy:2406## # translate crowdin christmas_shoot_138222af_1:
 msgid "[ST] {i}Why am I enjoying this so much?{/i}"
-msgstr ""
+msgstr "[ST] {i}Pourquoi est-ce que j'apprécie autant cela?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2407## # translate crowdin christmas_shoot_d7137e18_1:
 msgid "[ST] {i}It's not like it's my pussy that's getting all the attention.{/i}"
-msgstr ""
+msgstr "[ST] {i}Ce n'est pas comme si c'était ma chatte qui attirait toute l'attention.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2408## # translate crowdin christmas_shoot_fafcd75b_1:
 msgid "[ST] {i}Good God!.... I can't believe this is happening!{/i}"
-msgstr "[ST] {i}Mon Dieu!... Je n'arrive pas à croire que ça arrive!{/je}"
+msgstr "[ST] {i}Mon Dieu!... Je n'arrive pas à croire que ça arrive!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2409## # translate crowdin christmas_shoot_f9c59704_1:
 msgid "[ST] {i}One day I'm sucking my brother's dick, and the next day I'm pounding my sister's pussy!{/i}"
-msgstr ""
+msgstr "[ST] {i}Un jour, je suce la bite de mon frère et le lendemain, je lèche la chatte de ma sœur!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2412## # translate crowdin christmas_shoot_507659a1_1:
 msgid "[ST] {i}This is so bad!{/i}"
-msgstr ""
+msgstr "[ST] {i}C'est tellement mal!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2413## # translate crowdin christmas_shoot_fe968288_1:
 msgid "[ST] {i}I'm not supposed to be turned on by my siblings!{/i}"
-msgstr "[ST] {i}Je ne suis pas censé être allumée par mes frères et sœurs!{/je}"
+msgstr "[ST] {i}Je ne suis pas censé être allumée par mes frères et sœurs!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2414## # translate crowdin christmas_shoot_afd65054_1:
 msgid "[ST] {i}What's next? Fantasies about my mom?{/i}"
-msgstr ""
+msgstr "[ST] {i}Et maintenant ? Des fantasmes à propos de ma mère ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2415## # translate crowdin christmas_shoot_c47b528a_1:
 msgid "[ST] {i}Shit, Sidney!.... Don't even go there!{/i}"
-msgstr ""
+msgstr "[ST] {i}Merde, Sidney!.... N'y vas pas !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2416## # translate crowdin christmas_shoot_0b6cd0f2_1:
 msgid "[ST] {i}With her perfect ass and titties!{/i}"
-msgstr ""
+msgstr "[ST] {i}Avec son cul et ses nichons parfaits!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2419## # translate crowdin christmas_shoot_8df0d47b_1:
 msgid "[ST] {i}Aaahhh.... maybe I should just embrace my perversions.{/i}"
-msgstr "[ST] {i}Aaahhh.... je devrais peut-être assumer mes perversions.{/je}"
+msgstr "[ST] {i}Aaahhh.... je devrais peut-être assumer mes perversions.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2420## # translate crowdin christmas_shoot_424bd220_1:
 msgid "[ST] {i}[ryan] doesn't seem to follow any kind of code of ethics.{/i}"
-msgstr ""
+msgstr "[ST] {i}[ryan] ne semble suivre aucune sorte de code d'éthique.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2421## # translate crowdin christmas_shoot_2c23660a_1:
 msgid "[RT] {i}Ouch!.... Yeah.... I kind of let those ethics die the night I saw Mom at the club.... and started letting my cock do all my thinking.{/i}"
-msgstr "[RT] {i}Aïe!.... Ouais.... J'ai un peu laissé mourir cette éthique la nuit où j'ai vu maman au club.... et j'ai commencé à laisser ma bite faire toute ma réflexion.{/je}"
+msgstr "[RT] {i}Aïe!.... Ouais.... J'ai un peu laissé mourir cette éthique la nuit où j'ai vu maman au club.... et j'ai commencé à laisser ma bite faire toute ma réflexion.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2424## # translate crowdin christmas_shoot_c9b33e31_1:
 msgid "[RT] {i}Maybe poor self control is a weakness in our genetics.{/i}"
-msgstr "[RT] {i}Peut-être qu'une mauvaise maîtrise de soi est une faiblesse de notre lignée génétique.{/je}"
+msgstr "[RT] {i}Peut-être qu'une mauvaise maîtrise de soi est une faiblesse de notre lignée génétique.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2425## # translate crowdin christmas_shoot_9e99cc58_1:
 msgid "[RT] {i}Hmmmm.... maybe a weakness that I can take advantage of.{/i}"
-msgstr "[RT] {i}Hmmmm.... peut-être une faiblesse dont je peux profiter.{/je}"
+msgstr "[RT] {i}Hmmmm.... peut-être une faiblesse dont je peux profiter.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2427## # translate crowdin christmas_shoot_3cb6a5d9_2:
 msgid "[LT] {i}Fuck.... Fuck.... Fuck.... Fuck....{/i}"
@@ -5270,7 +5270,7 @@ msgstr "[LT] {i}Merde.... Merde.... Merde.... Merde....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2431## # translate crowdin christmas_shoot_677c960b_1:
 msgid "[LT] {i}What am I going to do?{/i}"
-msgstr "[LT] {i}Qu'est-ce que je vais faire?{/je}"
+msgstr "[LT] {i}Qu'est-ce que je vais faire?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2432## # translate crowdin christmas_shoot_db3f8241_1:
 msgid "[LT] {i}I can't control if I squirt or not!{/i}"
@@ -5282,7 +5282,7 @@ msgstr "[LT] {i}Et aussi ouverte que je le suis, c'est fondamentalement une bonn
 
 # game/UpdateScriptChristmasEvent.rpy:2434## # translate crowdin christmas_shoot_1f301d67:
 msgid "[RT] {i}I should stop her before she makes a mess!.... I don't even want to know what Agent Diaz would do. Probably make Sidney lick it up.{/i}"
-msgstr "[RT] {i}Je devrais l'arrêter avant qu'elle ne fasse une connerie !.... Je ne veux même pas savoir ce que ferait l'agent Diaz. Je vais probablement lui faire lécher Sidney.{/je}"
+msgstr "[RT] {i}Je devrais l'arrêter avant qu'elle ne fasse une connerie !.... Je ne veux même pas savoir ce que ferait l'agent Diaz. Je vais probablement lui faire lécher Sidney.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2435## # translate crowdin christmas_shoot_4e274397:
 msgid "[R] So that should be all! I think that will improve your pictures a lot!"
@@ -5302,11 +5302,11 @@ msgstr "[LT] {i}Merde.... J'étais si proche d'arriver!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2445## # translate crowdin christmas_shoot_745fbcfb:
 msgid "[LT] {i}Oh Thank God she stopped her!{/i}"
-msgstr "[LT] {i}Oh Dieu merci, elle l'a arrêtée!{/je}"
+msgstr "[LT] {i}Oh Dieu merci, elle l'a arrêtée!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2446## # translate crowdin christmas_shoot_dd0d8bf5_1:
 msgid "[LT] {i}As much as I wanted that.... that would have been a disaster.{/i}"
-msgstr "[LT] {i}Autant que je le voulais.... ça aurait été un désastre.{/je}"
+msgstr "[LT] {i}Autant que je le voulais.... ça aurait été un désastre.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2449## # translate crowdin christmas_shoot_891a3d24_1:
 msgid "[LT] {i}But now I really need to get off! How am I going to take care of this?{/i}"
@@ -5326,11 +5326,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2456## # translate crowdin christmas_shoot_59dfa5fb:
 msgid "[RT] {i}Holy shit! Diaz is going to pose with them! I'll have pictures that will force the FBI to fire her.{/i}"
-msgstr "[RT] {i}Merde! Diaz va poser avec eux! J'aurai des photos qui forceront le FBI à la virer.{/je}"
+msgstr "[RT] {i}Merde! Diaz va poser avec eux! J'aurai des photos qui forceront le FBI à la virer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2457## # translate crowdin christmas_shoot_c8ff139b:
 msgid "[RT] {i}That is, assuming this isn't just a dream.... and.... shit, even if it isn't, this isn't happening right now, on my timeline.{/i}"
-msgstr "[RT] {i}C'est-à-dire, en supposant que ce n'est pas seulement un rêve.... et.... merde, même si ce n'est pas le cas, ça n'arrive pas en ce moment, sur mon calendrier.{/je}"
+msgstr "[RT] {i}C'est-à-dire, en supposant que ce n'est pas seulement un rêve.... et.... merde, même si ce n'est pas le cas, ça n'arrive pas en ce moment, sur mon calendrier.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2458## # translate crowdin christmas_shoot_12862598:
 msgid "[RT] {i}Dammit!{/i}"
@@ -5346,7 +5346,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2461## # translate crowdin christmas_shoot_aa5db449:
 msgid "[LT] {i}She does have really sexy breasts.{/i}"
-msgstr "[LT] {i}Elle a des seins vraiment sexy.{/je}"
+msgstr "[LT] {i}Elle a des seins vraiment sexy.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2464## # translate crowdin christmas_shoot_9b564d73:
 msgid "[AD] Alright ladies. I want you to both get into a kneeling position, and then I want a shot where it looks like one of you is licking my crotch from the front, and one is licking my ass from behind."
@@ -5358,7 +5358,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2466## # translate crowdin christmas_shoot_238ab466:
 msgid "[RT] {i}Oh my God!....{/i}"
-msgstr "[RT] {i}Oh mon Dieu!....{/je}"
+msgstr "[RT] {i}Oh mon Dieu!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2467## # translate crowdin christmas_shoot_f42ddd1b:
 msgid "[AD] If you complain too much, I'll take off the panties too."
@@ -5414,19 +5414,19 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2482## # translate crowdin christmas_shoot_cf853d49:
 msgid "[ST] {i}How long do I have to hold this pose? Luckily it doesn't smell too much like ass. Mostly just sweat.{/i}"
-msgstr "[ST] {i}Combien de temps dois-je tenir cette pose? Heureusement, ça ne sent pas trop le cul. Surtout juste de la sueur.{/je}"
+msgstr "[ST] {i}Combien de temps dois-je tenir cette pose? Heureusement, ça ne sent pas trop le cul. Surtout juste de la sueur.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2483## # translate crowdin christmas_shoot_28047363:
 msgid "[ST] {i}I guess it could be worse.{/i}"
-msgstr "[ST] {i}Je suppose que ça pourrait être pire.{/je}"
+msgstr "[ST] {i}Je suppose que ça pourrait être pire.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2484## # translate crowdin christmas_shoot_92bdfad0:
 msgid "[LT] {i}This is the closest I've ever been to another girl's pussy.{/i}"
-msgstr "[LT] {i}C'est le plus proche que j'ai jamais été de la chatte d'une autre fille.{/je}"
+msgstr "[LT] {i}C'est le plus proche que j'ai jamais été de la chatte d'une autre fille.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2485## # translate crowdin christmas_shoot_3503e6fe:
 msgid "[LT] {i}Her scent is different than mine, but still sweet, and.... sexy.{/i}"
-msgstr "[LT] {i}Son parfum est différent du mien, mais toujours doux, et.... sexy.{/je}"
+msgstr "[LT] {i}Son parfum est différent du mien, mais toujours doux, et.... sexy.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2486## # translate crowdin christmas_shoot_f887ab92:
 msgid "[LT] {i}Oh God!.... I feel like I'm going to squirt, and I'm not even getting my pussy played with.{/i}"
@@ -5522,7 +5522,7 @@ msgstr "[L] (murmure) Non!.... Je suis tellement excitée en ce moment!"
 
 # game/UpdateScriptChristmasEvent.rpy:2525## # translate crowdin christmas_shoot_63557893_1:
 msgid "[RT] {i}I'll help her take care of that.{/i}"
-msgstr "[RT] {i}Je vais l'aider à s'en occuper.{/je}"
+msgstr "[RT] {i}Je vais l'aider à s'en occuper.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2528## # translate crowdin christmas_shoot_2796dcfe_1:
 msgid "[S] (whispering) When we go to the storage shed to change, I'll finish what I started.... I can't leave my own sister in such pain."
@@ -5550,7 +5550,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2538## # translate crowdin christmas_shoot_d0a99d8c_1:
 msgid "[RT] {i}Yeah.... sure you are.... at least that storage shed has so many holes in it, it will be easy to spy on them.{/i}"
-msgstr "[RT] {i}Ouais.... bien sûr que tu l'es.... au moins ce hangar de stockage a tellement de trous dedans, il sera facile de les espionner.{/je}"
+msgstr "[RT] {i}Ouais.... bien sûr que tu l'es.... au moins ce hangar de stockage a tellement de trous dedans, il sera facile de les espionner.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2539## # translate crowdin christmas_shoot_33f13380_1:
 msgid "[R] Alright.... I understand. I'll take care of it myself. Go ahead and get changed."
@@ -5558,23 +5558,23 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2542## # translate crowdin christmas_shoot_3336f244_1:
 msgid "{i}\"Sound of girls giggling as they run off.\"{/i}"
-msgstr ""
+msgstr "{i}'Bruit de filles qui ricanent alors qu'elles s'enfuient.'{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2543## # translate crowdin christmas_shoot_52d98b53:
 msgid "[RT] {i}Holy hell!.... I can't believe that all just happened.{/i}"
-msgstr "[RT] {i}Enfer sacré!.... Je n'arrive pas à croire que tout s'est passé.{/je}"
+msgstr "[RT] {i}Enfer sacré!.... Je n'arrive pas à croire que tout s'est passé.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2544## # translate crowdin christmas_shoot_655f4f83:
 msgid "[RT] {i}Agent Diaz is even more unhinged than I thought!{/i}"
-msgstr "[RT] {i}L'agent Diaz est encore plus déstabilisé que je ne le pensais!{/je}"
+msgstr "[RT] {i}L'agent Diaz est encore plus déstabilisé que je ne le pensais!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2545## # translate crowdin christmas_shoot_d7ab120b:
 msgid "[RT] {i}Maybe even more so than me.{/i}"
-msgstr "[RT] {i}Peut-être encore plus que moi.{/je}"
+msgstr "[RT] {i}Peut-être encore plus que moi.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2546## # translate crowdin christmas_shoot_6e55db9b:
 msgid "[RT] {i}And what's the deal with Sidney cock-blocking me?{/i}"
-msgstr "[RT] {i}Et quel est le problème avec Sidney qui me bloque?{/je}"
+msgstr "[RT] {i}Et quel est le problème avec Sidney qui me bloque?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2547## # translate crowdin christmas_shoot_80665c37_1:
 msgid "[RT] {i}I'll give them just a second, and then I'm definitely spying on them.{/i}"
@@ -5702,7 +5702,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2587## # translate crowdin christmas_shoot_cca4618a_1:
 msgid "[RT] {i}Oh Futa God.... I'm back in my bed?.... Another weird dream?{/i}"
-msgstr "[RT] {i}Oh mon Dieu.... Je suis de retour dans mon lit ?.... Un autre rêve bizarre ?{/je}"
+msgstr "[RT] {i}Oh mon Dieu.... Je suis de retour dans mon lit ?.... Un autre rêve bizarre ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2588## # translate crowdin christmas_shoot_636f2d5c_1:
 msgid "[RT] {i}At least, I think they were dreams!{/i}"
@@ -5710,19 +5710,19 @@ msgstr "[RT] {i}Au moins, je pense que c’étaient des rêves ! {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2589## # translate crowdin christmas_shoot_4ac6c243_1:
 msgid "[RT] {i}They were both just so vivid! Huh.... {/i}"
-msgstr "[RT] {i}Ils étaient tous les deux si vifs! Huh.... {/je}"
+msgstr "[RT] {i}Ils étaient tous les deux si vifs! Huh.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2590## # translate crowdin christmas_shoot_91c22639_1:
 msgid "[RT] {i}I guess I'll have to wait till three o'clock to find out.{/i}"
-msgstr "[RT] {i}Je devrais attendre jusqu'à trois heures pour le savoir.{/je}"
+msgstr "[RT] {i}Je devrais attendre jusqu'à trois heures pour le savoir.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2591## # translate crowdin christmas_shoot_e44c0b82_1:
 msgid "[RT] {i}Ohhh.... so tired.... zzzzzzz....{/i}"
-msgstr "[RT] {i}Ohhh.... tellement fatigué.... zzzzzzz....{/je}"
+msgstr "[RT] {i}Ohhh.... tellement fatigué.... zzzzzzz....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2614## # translate crowdin christmas_club_c46a683d:
 msgid "[RT] {i}Holy shit!.... I think I'm going to puke!{/i}"
-msgstr "[RT] {i}Merde!.... Je pense que je vais vomir!{/je}"
+msgstr "[RT] {i}Merde!.... Je pense que je vais vomir!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2615## # translate crowdin christmas_club_2e99b96e:
 msgid "[GP] Just hold it in for a second.... the feeling wears off really quick."
@@ -5738,11 +5738,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2620## # translate crowdin christmas_club_de7f40e6:
 msgid "[RT] {i}I have gone loony!.... I'm talking to a ten inch version of my own mom!{/i}"
-msgstr "[RT] {i}Je suis devenu fou !.... Je parle à une version de dix pouces de ma propre mère!{/je}"
+msgstr "[RT] {i}Je suis devenu fou !.... Je parle à une version de dix pouces de ma propre mère!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2621## # translate crowdin christmas_club_0b621abc:
 msgid "[RT] {i}And now I'm just thinking at her!{/i}"
-msgstr "[RT] {i}Et maintenant je pense juste à elle!{/je}"
+msgstr "[RT] {i}Et maintenant je pense juste à elle!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2622## # translate crowdin christmas_club_91fb80ea:
 msgid "[RT] {i}And I assume that I'm the only one who can see or hear you?{/i}"
@@ -5754,7 +5754,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2624## # translate crowdin christmas_club_ce658f9d:
 msgid "[RT] {i}So, where the fuck are we?{/i}"
-msgstr "[RT] {i}Alors, où sommes-nous, bordel ?{/je}"
+msgstr "[RT] {i}Alors, où sommes-nous, bordel ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2625## # translate crowdin christmas_club_91aa5921:
 msgid "[GP] The more appropriate question would be, \"When are we?\""
@@ -5762,7 +5762,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2626## # translate crowdin christmas_club_664de4a3:
 msgid "[RT] {i}Ok.... I'll bite.... when are we?{/i}"
-msgstr "[RT] {i}Ok.... J'en meurs d'envie.... Quelle heure est-il?{/je}"
+msgstr "[RT] {i}Ok.... J'en meurs d'envie.... Quelle heure est-il?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2627## # translate crowdin christmas_club_8ad24c45:
 msgid "[GP] So glad you asked.... we have gone back to a Christmas 20 years ago."
@@ -5774,7 +5774,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2629## # translate crowdin christmas_club_d7557e14:
 msgid "[RT] {i}Really?.... Cuz Mom told me that they met when she was working at a strip club.{/i}"
-msgstr "[RT] {i}Vraiment?.... Parce que maman m'a dit qu'ils se sont rencontrés quand elle travaillait dans un club de strip-tease.{/je}"
+msgstr "[RT] {i}Vraiment?.... Parce que maman m'a dit qu'ils se sont rencontrés quand elle travaillait dans un club de strip-tease.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2630## # translate crowdin christmas_club_deee0347:
 msgid "[GP] Oh, shit!.... Is that true?.... Dammit.... I knew I should have read your whole file."
@@ -5790,7 +5790,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2635## # translate crowdin christmas_club_885e830c:
 msgid "[RT] {i}You do realize that my infatuation with my mom and sisters started because I saw my mom stripping at a strip club, right?{/i}"
-msgstr "[RT] {i}Tu te rends compte que mon engouement pour ma mère et mes sœurs a commencé parce que j'ai vu ma mère se déshabiller dans un club de strip-tease, n'est-ce pas?{/je}"
+msgstr "[RT] {i}Tu te rends compte que mon engouement pour ma mère et mes sœurs a commencé parce que j'ai vu ma mère se déshabiller dans un club de strip-tease, n'est-ce pas?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2636## # translate crowdin christmas_club_8094107c:
 msgid "[GP] Well, the first time was traumatic, so hopefully this time will be therapeutic."
@@ -5798,7 +5798,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2637## # translate crowdin christmas_club_a0151bed:
 msgid "[RT] {i}Where is everybody? The club seems empty.{/i}"
-msgstr "[RT] {i}Où est tout le monde? Le club semble vide.{/je}"
+msgstr "[RT] {i}Où est tout le monde? Le club semble vide.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2638## # translate crowdin christmas_club_dede6874:
 msgid "[GP] Well, it's Christmas! All the men should be home with their families."
@@ -5818,7 +5818,7 @@ msgstr "[VOM] {i}(murmure au micro){/i} Honnêtement Bill, c'était une idée te
 
 # game/UpdateScriptChristmasEvent.rpy:2642## # translate crowdin christmas_club_2e1c5d62:
 msgid "[VOM] {i}(Other muffled voice){/i} Ssshhhh.... they can hear you over the mic!"
-msgstr ""
+msgstr "[VOM] {i}(Autre voix étouffée) {/i} Ssshhhh.... ils peuvent vous entendre au micro!"
 
 # game/UpdateScriptChristmasEvent.rpy:2643## # translate crowdin christmas_club_25f6bcb9:
 msgid "[VOM] Once again! Let's welcome to the stage, Santa's sexy helper, the one and only, [mom_name]!"
@@ -5834,7 +5834,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2650## # translate crowdin christmas_club_602fffc1:
 msgid "[RT] {i}We did go through time.... that's my mom!.... Only.... much younger.{/i}"
-msgstr "[RT] {i}Nous avons traversé le temps.... c'est ma mère!.... Seulement.... beaucoup plus jeune.{/je}"
+msgstr "[RT] {i}Nous avons traversé le temps.... c'est ma mère!.... Seulement.... beaucoup plus jeune.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2651## # translate crowdin christmas_club_cf684800:
 msgid "[RT] {i}She looks incredible!{/i}"
@@ -5846,7 +5846,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2653## # translate crowdin christmas_club_cdf0b438:
 msgid "[RT] {i}Why are we here again?{/i}"
-msgstr "[RT] {i}Pourquoi sommes-nous à nouveau ici?{/je}"
+msgstr "[RT] {i}Pourquoi sommes-nous à nouveau ici?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2654## # translate crowdin christmas_club_078ff073:
 msgid "[GP] So you can see your parents fall in love! I'm pretty sure If you see the moment they fall in love, you wouldn't possibly want to do anything to ruin their marriage."
@@ -5866,11 +5866,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2660## # translate crowdin christmas_club_6ac5ee2f:
 msgid "[RT] {i}Holy shit.... yeah.... only way younger and thinner.{/i}"
-msgstr "[RT] {i}Merde.... ouais.... seulement en plus jeune et plus mince.{/je}"
+msgstr "[RT] {i}Merde.... ouais.... seulement en plus jeune et plus mince.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2661## # translate crowdin christmas_club_783a7c63:
 msgid "[RT] {i}I wonder if he's as much of a douche in the past, as he is in the present.{/i}"
-msgstr "[RT] {i}Je me demande s'il était autant un crétin dans le passé qu'il l'est dans le présent.{/je}"
+msgstr "[RT] {i}Je me demande s'il était autant un crétin dans le passé qu'il l'est dans le présent.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2662## # translate crowdin christmas_club_ad24f4d6:
 msgid "[GP] Well.... let's watch and find out."
@@ -5882,7 +5882,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2666## # translate crowdin christmas_club_1667a823:
 msgid "[RT] {i}You think tipping a stripper is sweet?.... Angels have a strange moral code.{/i}"
-msgstr "[RT] {i}Tu penses que le pourboire d'une strip-teaseuse est agréable?.... Les anges ont un code moral étrange.{/je}"
+msgstr "[RT] {i}Tu penses que le pourboire d'une strip-teaseuse est agréable?.... Les anges ont un code moral étrange.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2667## # translate crowdin christmas_club_b32a7574:
 msgid "[GP] I'm not an angel, I'm a ghost.... and it's sweet because it's going to lead to them falling in love!"
@@ -5890,7 +5890,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2668## # translate crowdin christmas_club_2e5bac34:
 msgid "[RT] {i}Well, I know seeing Mom strip made me fall in love.... that is, I already loved her, but now I want to bang her.{/i}"
-msgstr "[RT] {i}Eh bien, je sais que voir le strip-tease de maman m'a fait tomber amoureux.... autrement dit, je l'aimais déjà, mais maintenant je veux la baiser.{/je}"
+msgstr "[RT] {i}Eh bien, je sais que voir le strip-tease de maman m'a fait tomber amoureux.... autrement dit, je l'aimais déjà, mais maintenant je veux la baiser.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2669## # translate crowdin christmas_club_49d996c3:
 msgid "[GP] Oh, stop thinking with your cock, and try to appreciate this moment. You're about to see them fall in love!"
@@ -5934,7 +5934,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2681## # translate crowdin christmas_club_db059cc9:
 msgid "[RT] {i}Why?.... Is it like the movie \"Back to the Future\", where I'll stop existing if my parents don't fall in love?{/i}"
-msgstr "[RT] {i}Pourquoi?.... Est-ce comme le film 'Retour vers le futur', où j'arrêterais d'exister si mes parents ne tombent pas amoureux?{/je}"
+msgstr "[RT] {i}Pourquoi?.... Est-ce comme le film 'Retour vers le futur', où j'arrêterais d'exister si mes parents ne tombent pas amoureux?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2682## # translate crowdin christmas_club_f2ca3f91:
 msgid "[GP] No.... It's nothing like that! There isn't anything we can do here that will change the future. The past is already written."
@@ -5946,7 +5946,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2684## # translate crowdin christmas_club_4f5cab17:
 msgid "[RT] {i}Well, what can go wrong then?{/i}"
-msgstr "[RT] {i}Eh bien, qu'est-ce qui peut mal tourner alors?{/je}"
+msgstr "[RT] {i}Eh bien, qu'est-ce qui peut mal tourner alors?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2685## # translate crowdin christmas_club_df2b6619:
 msgid "[GP] Well, you might not learn the lesson that I'm trying to teach you!"
@@ -5970,7 +5970,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2692## # translate crowdin christmas_club_8e37c225:
 msgid "[RT] {i}Wow!.... Look at her!.... And you're trying to teach me that I shouldn't get a hard-on when I look at that?{/i}"
-msgstr "[RT] {i}Wow!.... Regarde-la!.... Et tu essaies de m'apprendre que je ne devrais pas bander quand je regarde ça?{/je}"
+msgstr "[RT] {i}Wow!.... Regarde-la!.... Et tu essaies de m'apprendre que je ne devrais pas bander quand je regarde ça?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2693## # translate crowdin christmas_club_8ff37729:
 msgid "[GP] Well, there's a big difference in getting a hard-on and actually trying to fuck her!"
@@ -5978,7 +5978,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2694## # translate crowdin christmas_club_c4d84850:
 msgid "[RT] {i}You're right.... I should try to fuck her!....{/i}"
-msgstr "[RT] {i}Tu as raison.... Je devrais essayer de la baiser!....{/je}"
+msgstr "[RT] {i}Tu as raison.... Je devrais essayer de la baiser!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2697## # translate crowdin christmas_club_818b12ce:
 msgid "[GP] Dammit!.... No!"
@@ -6014,7 +6014,7 @@ msgstr "[RT] {i}Merde ! Je suis jaloux de la vue qu'il a!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2713## # translate crowdin christmas_club_b5c102c1:
 msgid "[RT] {i}So, I'm assuming that if I were to win the tip war, you wouldn't let me stay and enjoy it. You'd just zap me back to my room, right?{/i}"
-msgstr "[RT] {i}Donc, je suppose que si je devais gagner la guerre, tu ne me laisserais pas rester en profiter. Tu voudrais juste me virer dans ma chambre, non?{/je}"
+msgstr "[RT] {i}Donc, je suppose que si je devais gagner la guerre, tu ne me laisserais pas rester en profiter. Tu voudrais juste me virer dans ma chambre, non?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2714## # translate crowdin christmas_club_fd06f5a1:
 msgid "[GP] Well..."
@@ -6030,7 +6030,7 @@ msgstr "[GP] Biieennnn..."
 
 # game/UpdateScriptChristmasEvent.rpy:2717## # translate crowdin christmas_club_0dde8a6e:
 msgid "[RT] {i}What is it you don't want to tell me?{/i}"
-msgstr "[RT] {i}Qu'est-ce que tu ne veux pas me dire?{/je}"
+msgstr "[RT] {i}Qu'est-ce que tu ne veux pas me dire?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2718## # translate crowdin christmas_club_96d7cac7:
 msgid "[GP] Urrrrgggghhhh!.... We're not allowed to lie to our clients, otherwise I damn well would right now."
@@ -6050,7 +6050,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2722## # translate crowdin christmas_club_dcb0f90b:
 msgid "[RT] {i}I'm not old enough to buy alcohol.{/i}"
-msgstr "[RT] {i}Je ne suis pas assez vieux pour acheter de l'alcool.{/je}"
+msgstr "[RT] {i}Je ne suis pas assez vieux pour acheter de l'alcool.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2723## # translate crowdin christmas_club_8cf9748d:
 msgid "[GP] You'd just have to think about an ID hard enough, and then you could pull it out of your pocket."
@@ -6062,7 +6062,7 @@ msgstr "[RT] {i}Haha....Oui, c'est vrai !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2725## # translate crowdin christmas_club_6d223fbe:
 msgid "[RT] {i}Hmmmm.... you know what? Let's just play it by ear.{/i}"
-msgstr "[RT] {i}Hmmmm.... tu sais quoi ? Jouons.{/je}"
+msgstr "[RT] {i}Hmmmm.... tu sais quoi ? Jouons.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2726## # translate crowdin christmas_club_e3a2579b:
 msgid "[GP] Shit!!.... I don't like the sound of that."
@@ -6086,7 +6086,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2735## # translate crowdin christmas_club_382aac6e:
 msgid "[RT] {i}Alright, I promise I'll try!{/i}"
-msgstr "[RT] {i}D'accord, je promets que je vais essayer!{/je}"
+msgstr "[RT] {i}D'accord, je promets que je vais essayer!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2738## # translate crowdin christmas_club_a63a1621:
 msgid "[RT] {i}But the look in those eyes!{/i}"
@@ -6098,7 +6098,7 @@ msgstr "[RT] {i}Et ces seins parfaits!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2742## # translate crowdin christmas_club_8106ad46:
 msgid "[RT] {i}Oh, God.... I think the only thing you've succeeded in doing is making me fall deeper in love with Mom.{/i}"
-msgstr "[RT] {i}Oh, mon Dieu.... Je pense que la seule chose que tu as réussi à faire est de me faire tomber plus profondément amoureux de maman.{/je}"
+msgstr "[RT] {i}Oh, mon Dieu.... Je pense que la seule chose que tu as réussi à faire est de me faire tomber plus profondément amoureux de maman.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2743## # translate crowdin christmas_club_2ce15aec:
 msgid "[GP] Dammit [ryan]! Show some self-restraint, for God's sake!"
@@ -6194,7 +6194,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2774## # translate crowdin christmas_club_7365feb5:
 msgid "[RT] {i}Who said I'm going to let him win?{/i}"
-msgstr "[RT] {i}Qui a dit que je vais le laisser gagner?{/je}"
+msgstr "[RT] {i}Qui a dit que je vais le laisser gagner?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2775## # translate crowdin christmas_club_07254025:
 msgid "[GP] Oh no, please, [ryan]! It's too perfect! Please!.... Just let it play out from here!"
@@ -6226,7 +6226,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2786## # translate crowdin christmas_club_16fc3473:
 msgid "[RT] {i}Dammit! If he even knew, that he stole that chance from me!....{/i}"
-msgstr "[RT] {i}Bon sang! S'il savait même qu'il m'avait volé cette chance !....{/je}"
+msgstr "[RT] {i}Bon sang! S'il savait même qu'il m'avait volé cette chance !....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2787## # translate crowdin christmas_club_88904fc6:
 msgid "[GP] He didn't steal that chance! You weren't even born yet, you idiot!"
@@ -6234,7 +6234,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2788## # translate crowdin christmas_club_00abae6b:
 msgid "[RT] {i}UUURRRGGGHHHH.... I still hate to lose to that asshat!{/i}"
-msgstr "[RT] {i}UUURRRGGGHHHH.... Je déteste toujours perdre contre ce trou du cul!{/je}"
+msgstr "[RT] {i}UUURRRGGGHHHH.... Je déteste toujours perdre contre ce trou du cul!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2789## # translate crowdin christmas_club_85b61c14:
 msgid "[GP] Well, just remember.... If he didn't fuck your mom, you wouldn't have been born."
@@ -6246,7 +6246,7 @@ msgstr "[GP] Bieeeennn..."
 
 # game/UpdateScriptChristmasEvent.rpy:2793## # translate crowdin christmas_club_34121dbf:
 msgid "[RT] {i}And there goes that beautiful ass! I wish I was following it!{/i}"
-msgstr "[RT] {i}Et voilà ce beau cul! J'aimerais le suivre !{/je}"
+msgstr "[RT] {i}Et voilà ce beau cul! J'aimerais le suivre !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2796## # translate crowdin christmas_club_c15147df:
 msgid "[D] Get one good last look, loser! Because that ass is going to be rubbing all over my lap tonight!"
@@ -6258,7 +6258,7 @@ msgstr "[RT] {i}Ugghh.... quel connard !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2800## # translate crowdin christmas_club_fa6435fe:
 msgid "[RT] {i}How did Mom ever fall in love with that jerk?{/i}"
-msgstr "[RT] {i}Comment maman est-elle tombée amoureuse de ce crétin?{/je}"
+msgstr "[RT] {i}Comment maman est-elle tombée amoureuse de ce crétin?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2803## # translate crowdin christmas_club_b7680d41:
 msgid "[GP] Well?..."
@@ -6274,7 +6274,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2806## # translate crowdin christmas_club_d99d6a09:
 msgid "[RT] {i}No!.... If anything, it makes me even more convinced that Mom shouldn't stay together with Dad, and that she would be happier with me.{/i}"
-msgstr "[RT] {i}Non !.... Au contraire, cela me rend encore plus convaincu que maman ne devrait pas rester avec papa et qu'elle serait plus heureuse avec moi.{/je}"
+msgstr "[RT] {i}Non !.... Au contraire, cela me rend encore plus convaincu que maman ne devrait pas rester avec papa et qu'elle serait plus heureuse avec moi.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2807## # translate crowdin christmas_club_beb3c6c9:
 msgid "[GP] No!.... That's not right!"
@@ -6298,7 +6298,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2812## # translate crowdin christmas_club_c39ddeda:
 msgid "[RT] {i}I don't want to see my mom giving my dad a lapdance!{/i}"
-msgstr "[RT] {i}Je ne veux pas voir ma mère donner une lapdance à mon père!{/je}"
+msgstr "[RT] {i}Je ne veux pas voir ma mère donner une lapdance à mon père!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2813## # translate crowdin christmas_club_78f6791d:
 msgid "[GP] Well, tough shit!"
@@ -6318,7 +6318,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2819## # translate crowdin christmas_club_b6c233ab:
 msgid "[RT] {i}It's locked.{/i}"
-msgstr "[RT] {i}C'est verrouillé.{/je}"
+msgstr "[RT] {i}C'est verrouillé.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2820## # translate crowdin christmas_club_0d750640:
 msgid "[GP] Hmmmm..."
@@ -6334,7 +6334,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2825## # translate crowdin christmas_club_c88832fc:
 msgid "[RT] {i}Once again.... I don't want to see their lapdance, and I'm not invisible like you.{/i}"
-msgstr "[RT] {i}Encore une fois.... Je ne veux pas voir leur lap-dance, et je ne suis pas invisible.{/je}"
+msgstr "[RT] {i}Encore une fois.... Je ne veux pas voir leur lap-dance, et je ne suis pas invisible.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2826## # translate crowdin christmas_club_0efa089c:
 msgid "[GP] You're right, that's why I'm going to let you see through my eyes."
@@ -6354,7 +6354,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2836## # translate crowdin christmas_club_671ccd9c:
 msgid "[RT] {i}I can only see white!{/i}"
-msgstr "[RT] {i}Je ne vois que du blanc!{/je}"
+msgstr "[RT] {i}Je ne vois que du blanc!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2837## # translate crowdin christmas_club_fcb26b9e:
 msgid "[GP] OK, give it just another second."
@@ -6362,11 +6362,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2842## # translate crowdin christmas_club_39c9b5e8:
 msgid "[RT] {i}Oh what the hell?{/i}"
-msgstr "[RT] {i}Oh que diable?{/je}"
+msgstr "[RT] {i}Oh que diable?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2843## # translate crowdin christmas_club_d1de4048:
 msgid "[RT] {i}I thought Mom was just going to give him a lap dance.{/i}"
-msgstr "[RT] {i}Je pensais que maman allait juste faire une lap-danse.{/je}"
+msgstr "[RT] {i}Je pensais que maman allait juste faire une lap-danse.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2844## # translate crowdin christmas_club_30c05914:
 msgid "[GP] Well, he did just tip her $1,500. Your little competition raised the stakes."
@@ -6386,11 +6386,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2848## # translate crowdin christmas_club_fa491e3e:
 msgid "[RT] {i}Goddammit, Ghost of Christmas Past! I don't want to watch this.{/i}"
-msgstr "[RT] {i}Putain, Fantôme de Noël passé ! Je ne veux pas regarder ça.{/je}"
+msgstr "[RT] {i}Putain, Fantôme de Noël passé ! Je ne veux pas regarder ça.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2849## # translate crowdin christmas_club_b07661a4:
 msgid "[RT] {i}Ahhh.... I can't look away or close my eyes!{/i}"
-msgstr "[RT] {i}Ahhh.... Je ne peux pas détourner le regard ou fermer les yeux!{/je}"
+msgstr "[RT] {i}Ahhh.... Je ne peux pas détourner le regard ou fermer les yeux!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2850## # translate crowdin christmas_club_a3155621:
 msgid "[GP] That's because you can only see what I can see."
@@ -6398,7 +6398,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2851## # translate crowdin christmas_club_f2dcc471:
 msgid "[RT] {i}Well, look the hell away then!{/i}"
-msgstr "[RT] {i}Eh bien, regarde plus loin alors!{/je}"
+msgstr "[RT] {i}Eh bien, regarde plus loin alors!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2852## # translate crowdin christmas_club_864bec3c:
 msgid "[GP] Just a little longer."
@@ -6414,7 +6414,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2855## # translate crowdin christmas_club_fc45fbf1:
 msgid "[RT] {i}Yuck!.... Do you realize I'm going to need to see a psychologist after you're done helping me?{/i}"
-msgstr "[RT] {i}Beurk!.... Tu te rends compte que je vais avoir besoin de voir un psychologue une fois que tu auras fini de m'aider?{/je}"
+msgstr "[RT] {i}Beurk!.... Tu te rends compte que je vais avoir besoin de voir un psychologue une fois que tu auras fini de m'aider?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2856## # translate crowdin christmas_club_34046993:
 msgid "[GP] Just shut up and watch."
@@ -6426,11 +6426,11 @@ msgstr "[RT] {i}Papa est plutôt petit. {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2858## # translate crowdin christmas_club_2a44c374:
 msgid "[RT] {i}Too bad his penis isn't as big as his tip.{/i}"
-msgstr "[RT] {i}Dommage que son pénis ne soit pas aussi gros que son extrémité.{/je}"
+msgstr "[RT] {i}Dommage que son pénis ne soit pas aussi gros que son extrémité.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2859## # translate crowdin christmas_club_c41507b5:
 msgid "[RT] {i}No wonder Mom seems so impressed when she gets a look at me.{/i}"
-msgstr "[RT] {i}Pas étonnant que maman semble si impressionnée quand elle me regarde.{/je}"
+msgstr "[RT] {i}Pas étonnant que maman semble si impressionnée quand elle me regarde.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2860## # translate crowdin christmas_club_de9021cd:
 msgid "[GP] It's not about size."
@@ -6450,11 +6450,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2866## # translate crowdin christmas_club_f12e2c7d:
 msgid "[RT] {i}Yeah.... she really looks like she can't wait.{/i}"
-msgstr "[RT] {i}Ouais.... elle a vraiment l'air d'avoir hâte.{/je}"
+msgstr "[RT] {i}Ouais.... elle a vraiment l'air d'avoir hâte.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2867## # translate crowdin christmas_club_c3d8d8b1:
 msgid "[RT] {i}Shit.... I am going to have to see her fall in love with him.{/i}"
-msgstr "[RT] {i}Merde.... Je vais devoir la voir tomber amoureuse de lui.{/je}"
+msgstr "[RT] {i}Merde.... Je vais devoir la voir tomber amoureuse de lui.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2871## # translate crowdin christmas_club_ecc316d7:
 msgid "[RT] {i}Oh.... haha!.... Look at how small that was.{/i}"
@@ -6462,11 +6462,11 @@ msgstr "[RT] {i}Oh.... haha!.... Regardez à quel point c'était petit.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2874## # translate crowdin christmas_club_a76a1a56:
 msgid "[RT] {i}Look at how disappointed Mom looks!{/i}"
-msgstr "[RT] {i}Regarde à quel point Maman a l'air déçue!{/je}"
+msgstr "[RT] {i}Regarde à quel point Maman a l'air déçue!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2875## # translate crowdin christmas_club_c56b939e:
 msgid "[RT] {i}Haha!.... He really should have let her fall in love with him before he showed her his little cock!{/i}"
-msgstr "[RT] {i}Haha!.... Il aurait vraiment dû la laisser tomber amoureuse de lui avant qu'il ne lui montre sa petite queue!{/je}"
+msgstr "[RT] {i}Haha!.... Il aurait vraiment dû la laisser tomber amoureuse de lui avant qu'il ne lui montre sa petite queue!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2876## # translate crowdin christmas_club_a02d1b7e:
 msgid "[GP] It's not that little! It's just little compared to yours."
@@ -6490,7 +6490,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2887## # translate crowdin christmas_club_6fcfaed5:
 msgid "[RT] {i}Wings? I thought you were a ghost, not an angel?{/i}"
-msgstr "[RT] {i}Ailes? Je pensais que tu étais un fantôme, pas un ange ?{/je}"
+msgstr "[RT] {i}Ailes? Je pensais que tu étais un fantôme, pas un ange ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2888## # translate crowdin christmas_club_8a168ed9:
 msgid "[GP] Ghosts can get wings too.... you really don't know anything about ghosts."
@@ -6498,7 +6498,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2889## # translate crowdin christmas_club_0eac5d99:
 msgid "[RT] {i}Yeah, I've never really claimed to, either.{/i}"
-msgstr "[RT] {i}Oui, je n'ai jamais vraiment prétendu le faire non plus.{/je}"
+msgstr "[RT] {i}Oui, je n'ai jamais vraiment prétendu le faire non plus.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2890## # translate crowdin christmas_club_65f048e2:
 msgid "[GP] Well, the only thing you need to know about them right now is that you should expect the next ghost when the bell tolls two."
@@ -6506,7 +6506,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2891## # translate crowdin christmas_club_f39bd6d2:
 msgid "[RT] {i}What bell?{/i}"
-msgstr "[RT] {i}Quelle cloche?{/je}"
+msgstr "[RT] {i}Quelle cloche?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2892## # translate crowdin christmas_club_b8d56e34:
 msgid "[GP] You know.... like the bell in the clock tower."
@@ -6514,7 +6514,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2893## # translate crowdin christmas_club_cd8d1862:
 msgid "[RT] {i}Our town doesn't have a clock tower.{/i}"
-msgstr "[RT] {i}Notre ville n'a pas de tour d'horloge.{/je}"
+msgstr "[RT] {i}Notre ville n'a pas de tour d'horloge.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2894## # translate crowdin christmas_club_251a6ba5:
 msgid "[GP] Well.... shit!"
@@ -6534,7 +6534,7 @@ msgstr "[RT] {i}Mais attends!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2902## # translate crowdin christmas_club_318acb32:
 msgid "[RT] {i}What the hell?.... I'm back in my bed?.... Was that just a dream?{/i}"
-msgstr "[RT] {i}C'est quoi ce bordel?.... Je suis de retour dans mon lit ?.... C'était juste un rêve ?{/je}"
+msgstr "[RT] {i}C'est quoi ce bordel?.... Je suis de retour dans mon lit ?.... C'était juste un rêve ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2903## # translate crowdin christmas_club_d6567244:
 msgid "[RT] {i}Maybe Sidney's getting revenge and spiking my tea with LSD.{/i}"
@@ -6546,7 +6546,7 @@ msgstr "[RT] {i}C'était un rêve tellement fou.... C'était si réel.... puis e
 
 # game/UpdateScriptChristmasEvent.rpy:2905## # translate crowdin christmas_club_2ded6d39:
 msgid "[RT] {i}I do feel pretty tired.{/i}"
-msgstr "[RT] {i}Je me sens assez fatigué.{/je}"
+msgstr "[RT] {i}Je me sens assez fatigué.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2913## # translate crowdin christmas_club_2a436b9c:
 msgid "[R] Well played!.... That is quite the grand gesture."
@@ -6630,15 +6630,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2939## # translate crowdin christmas_club_f8a63d31:
 msgid "[RT] {i}Oh yeah! I'd follow that ass anywhere!{/i}"
-msgstr "[RT] {i}Oh oui! Je suivrais ce cul n'importe où !{/je}"
+msgstr "[RT] {i}Oh oui! Je suivrais ce cul n'importe où !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2942## # translate crowdin christmas_club_cd63c020:
 msgid "[RT] {i}Ahhh...Holy shit! You scared me!{/i}"
-msgstr "[RT] {i}Ahhh...Putain de merde! Tu m'as fait peur !{/je}"
+msgstr "[RT] {i}Ahhh...Putain de merde! Tu m'as fait peur !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2943## # translate crowdin christmas_club_5b419665:
 msgid "[RT] {i}Hey.... are you ok?{/i}"
-msgstr "[RT] {i}Salut.... Est-ce que tu vas bien?{/je}"
+msgstr "[RT] {i}Salut.... Est-ce que tu vas bien?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2944## # translate crowdin christmas_club_66a89c68:
 msgid "[GP] Yeah.... not really."
@@ -6658,7 +6658,7 @@ msgstr "[RT] {i}Ne te blâme pas!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2948## # translate crowdin christmas_club_ccb2066b:
 msgid "[RT] {i}It's not your fault that I can't stop thinking with my cock.{/i}"
-msgstr "[RT] {i}Ce n'est pas de ta faute si je ne peux pas arrêter de penser avec ma bite.{/je}"
+msgstr "[RT] {i}Ce n'est pas de ta faute si je ne peux pas arrêter de penser avec ma bite.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2949## # translate crowdin christmas_club_6702bf57:
 msgid "[GP] Yeah, well.... I don't really have a desire to watch you enjoy my failure, so I'm going to go and see if I can steal some booze from the bar while you get a lap dance."
@@ -6666,7 +6666,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2950## # translate crowdin christmas_club_7ad0d7ee:
 msgid "[RT] {i}Damn!.... You're making me feel really bad for what I just did.{/i}"
-msgstr "[RT] {i}Merde!.... Tu me fais vraiment mal pour ce que je viens de faire.{/je}"
+msgstr "[RT] {i}Merde!.... Tu me fais vraiment mal pour ce que je viens de faire.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2954## # translate crowdin christmas_club_9d100de1:
 msgid "[M] Are you coming?"
@@ -6778,7 +6778,7 @@ msgstr "[M] Hmmmm..."
 
 # game/UpdateScriptChristmasEvent.rpy:2987## # translate crowdin christmas_club_edfc1ee0:
 msgid "[MT] {i}Holy shit, [mom_name]! What are you thinking?....{/i}"
-msgstr "[MT] {i}Merde, [mom_name]! À quoi penses-tu ?....{/je}"
+msgstr "[MT] {i}Merde, [mom_name]! À quoi penses-tu ?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2988## # translate crowdin christmas_club_9c747162:
 msgid "[MT] {i}You swore you would never do anything like this if you became an exotic dancer.{/i}"
@@ -6790,11 +6790,11 @@ msgstr "[MT] {i}Mais je n'ai jamais rêvé qu'un gars m'offrirait 4'000 $ pour u
 
 # game/UpdateScriptChristmasEvent.rpy:2990## # translate crowdin christmas_club_98c490cc:
 msgid "[MT] {i}I'll have enough to pay for a semester of modeling school.{/i}"
-msgstr "[MT] {i}J'aurai assez pour payer un semestre d'école de mannequinat.{/je}"
+msgstr "[MT] {i}J'aurai assez pour payer un semestre d'école de mannequinat.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2991## # translate crowdin christmas_club_c0e48b39:
 msgid "[MT] {i}That could be enough for me to get my start in the industry.{/i}"
-msgstr "[MT] {i}Cela pourrait me suffire pour démarrer dans l'industrie.{/je}"
+msgstr "[MT] {i}Cela pourrait me suffire pour démarrer dans l'industrie.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2992## # translate crowdin christmas_club_f518ee6d:
 msgid "[MT] {i}And I wouldn't ever have to come back to this sleaze hole again{/i}"
@@ -6802,15 +6802,15 @@ msgstr "[MT] {i}Et je n'aurais plus jamais à revenir dans ce trou sordide {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2993## # translate crowdin christmas_club_e717013e:
 msgid "[MT] {i}It's worth it!{/i}"
-msgstr "[MT] {i}Ça vaut le coup!{/je}"
+msgstr "[MT] {i}Ça vaut le coup!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2994## # translate crowdin christmas_club_10128fa1:
 msgid "[MT] {i}Plus, he's cute!{/i}"
-msgstr "[MT] {i}De plus, il est mignon!{/je}"
+msgstr "[MT] {i}De plus, il est mignon!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2995## # translate crowdin christmas_club_23ca0433:
 msgid "[MT] {i}Even if he does look like he could be your brother.{/i}"
-msgstr "[MT] {i}Même s'il a l'air d'être ton frère.{/je}"
+msgstr "[MT] {i}Même s'il a l'air d'être ton frère.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2996## # translate crowdin christmas_club_7c39d5bc:
 msgid "[M] Take your pants off!"
@@ -6830,27 +6830,27 @@ msgstr "[MT] {i}Wow ! Regarde la taille de cette bite !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3003## # translate crowdin christmas_club_8168fb5e:
 msgid "[MT] {i}He's as big as the men in my family!{/i}"
-msgstr "[MT] {i}Il est aussi grand que les hommes de ma famille!{/je}"
+msgstr "[MT] {i}Il est aussi grand que les hommes de ma famille!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3007## # translate crowdin christmas_club_5d6d2490:
 msgid "[RT] {i}Holy shit! Mom's sucking my cock!{/i}"
-msgstr "[RT] {i}Merde! Maman suce ma bite!{/je}"
+msgstr "[RT] {i}Merde! Maman suce ma bite!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3008## # translate crowdin christmas_club_b82c20d7:
 msgid "[RT] {i}It might just be a dream, but what an amazing dream!{/i}"
-msgstr "[RT] {i}C'est peut-être juste un rêve, mais quel rêve incroyable!{/je}"
+msgstr "[RT] {i}C'est peut-être juste un rêve, mais quel rêve incroyable!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3009## # translate crowdin christmas_club_01e9d6b7:
 msgid "[MT] {i}Shit! This is so weird!{/i}"
-msgstr "[MT] {i}Merde! C'est tellement bizarre !{/je}"
+msgstr "[MT] {i}Merde! C'est tellement bizarre !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3010## # translate crowdin christmas_club_66e98a77:
 msgid "[MT] {i}Why does it feel like I'm giving a blowjob to my brother?{/i}"
-msgstr "[MT] {i}Pourquoi ai-je l'impression de faire une fellation à mon frère?{/je}"
+msgstr "[MT] {i}Pourquoi ai-je l'impression de faire une fellation à mon frère?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3011## # translate crowdin christmas_club_ab3ce303:
 msgid "[MT] {i}Shit, [mom_name]! Stop thinking so much about your brother!{/i}"
-msgstr "[MT] {i}Merde, [mom_name]! Arrête de penser à ton frère !{/je}"
+msgstr "[MT] {i}Merde, [mom_name]! Arrête de penser à ton frère !{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3019## # translate crowdin christmas_club_9d6cd058:
 msgid "[GP] Oh, hey.... I'm done drinking, and I wanted to tell you that it's almost time to go!"
@@ -6858,7 +6858,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3020## # translate crowdin christmas_club_1f713dd5:
 msgid "[RT] {i}Not now I'm almost done!{/i}"
-msgstr "[RT] {i}Pas maintenant j'ai presque fini!{/je}"
+msgstr "[RT] {i}Pas maintenant j'ai presque fini!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3021## # translate crowdin christmas_club_4df355ad:
 msgid "[GP] Oh, sorry. I didn't know you would still be busy.... I'll just let you get on with it."
@@ -6866,11 +6866,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3029## # translate crowdin christmas_club_bdf00d39:
 msgid "[RT] {i}I'm so close!{/i}"
-msgstr "[RT] {i}Je suis si proche!{/je}"
+msgstr "[RT] {i}Je suis si proche!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3030## # translate crowdin christmas_club_973c525a:
 msgid "[RT] {i}Oh my God!.... I'm going to explode down my mom's throat!{/i}"
-msgstr "[RT] {i}Oh mon Dieu!.... Je vais exploser dans la gorge de ma mère!{/je}"
+msgstr "[RT] {i}Oh mon Dieu!.... Je vais exploser dans la gorge de ma mère!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3038## # translate crowdin christmas_club_bc12f2a8:
 msgid "[GP] Wait! What the hell are you doing! You were just supposed to get a lap dance! Not let your own mother suck your cock!"
@@ -6886,11 +6886,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3043## # translate crowdin christmas_club_f6b249ac:
 msgid "[RT] {i}No not yet! I'm sooooo close!{/i}"
-msgstr "[RT] {i}Non pas encore ! Je suis telllllemmmmennnnt proche d'arriver!{/je}"
+msgstr "[RT] {i}Non pas encore ! Je suis telllllemmmmennnnt proche d'arriver!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3044## # translate crowdin christmas_club_531604e5:
 msgid "[RT] {i}I'm....{/i}"
-msgstr "[RT] {i}Je suis....{/je}"
+msgstr "[RT] {i}Je suis....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3049## # translate crowdin christmas_club_a89b9863:
 msgid "[RT] {i}Cuuuumming!{/i}"
@@ -6926,7 +6926,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3063## # translate crowdin christmas_club_6fcfaed5_1:
 msgid "[RT] {i}Wings? I thought you were a ghost, not an angel?{/i}"
-msgstr "[RT] {i}Ailes? Je pensais que tu étais un fantôme, pas un ange ?{/je}"
+msgstr "[RT] {i}Ailes? Je pensais que tu étais un fantôme, pas un ange ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3064## # translate crowdin christmas_club_8a168ed9_1:
 msgid "[GP] Ghosts can get wings too.... you really don't know anything about ghosts."
@@ -6934,7 +6934,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3065## # translate crowdin christmas_club_0eac5d99_1:
 msgid "[RT] {i}Yeah, I've never really claimed to, either.{/i}"
-msgstr "[RT] {i}Oui, je n'ai jamais vraiment prétendu le faire non plus.{/je}"
+msgstr "[RT] {i}Oui, je n'ai jamais vraiment prétendu le faire non plus.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3066## # translate crowdin christmas_club_65f048e2_1:
 msgid "[GP] Well, the only thing you need to know about them right now is that you should expect the next ghost when the bell tolls two."
@@ -6942,7 +6942,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3067## # translate crowdin christmas_club_f39bd6d2_1:
 msgid "[RT] {i}What bell?{/i}"
-msgstr "[RT] {i}Quelle cloche?{/je}"
+msgstr "[RT] {i}Quelle cloche?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3068## # translate crowdin christmas_club_b8d56e34_1:
 msgid "[GP] You know.... like the bell in the clock tower."
@@ -6950,7 +6950,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:3069## # translate crowdin christmas_club_cd8d1862_1:
 msgid "[RT] {i}Our town doesn't have a clock tower.{/i}"
-msgstr "[RT] {i}Notre ville n'a pas de tour d'horloge.{/je}"
+msgstr "[RT] {i}Notre ville n'a pas de tour d'horloge.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3070## # translate crowdin christmas_club_251a6ba5_1:
 msgid "[GP] Well.... shit!"
@@ -6978,7 +6978,7 @@ msgstr "[RT] {i}Mais attends!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3080## # translate crowdin christmas_club_e4811f54:
 msgid "[RT] {i}What the hell?.... She's gone!.... Was that just a dream?{/i}"
-msgstr "[RT] {i}C'est quoi ce bordel?.... Elle est partie !.... C'était juste un rêve ?{/je}"
+msgstr "[RT] {i}C'est quoi ce bordel?.... Elle est partie !.... C'était juste un rêve ?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:3081## # translate crowdin christmas_club_d6567244_1:
 msgid "[RT] {i}Maybe Sidney's getting revenge and spiking my tea with LSD.{/i}"
@@ -6990,16 +6990,16 @@ msgstr "[RT] {i}C'était un rêve tellement fou.... C'était si réel.... puis e
 
 # game/UpdateScriptChristmasEvent.rpy:3083## # translate crowdin christmas_club_2ded6d39_1:
 msgid "[RT] {i}I do feel pretty tired.{/i}"
-msgstr "[RT] {i}Je me sens assez fatigué.{/je}"
+msgstr "[RT] {i}Je me sens assez fatigué.{/i}"
 
 msgid "Ghost of XXX-mas Past"
-msgstr ""
+msgstr "Fantôme du Noël x du passé"
 
 #    # game/UpdateScriptChristmasEvent.rpy:7
 msgid "Ghost of XXX-mas Present"
-msgstr ""
+msgstr "Fantôme du Noël x du présent"
 
 #    # game/UpdateScriptChristmasEvent.rpy:8
 msgid "Ghost of XXX-mas Future"
-msgstr ""
+msgstr "Fantôme du Noël x du futur"
 
