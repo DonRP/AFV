@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-16 11:15\n"
+"PO-Revision-Date: 2022-02-17 11:20\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.04.rpy:319## # translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -4254,7 +4254,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2389## # translate crowdin wr_cosplayfitting_0e590868:
 msgid "Ooooffff."
-msgstr ""
+msgstr "Ooooffff."
 
 # game/UpdateScript0.04.rpy:2390## # translate crowdin wr_cosplayfitting_63d506b0:
 msgid "[R] Now this really looks like a scene from one of my favorite pornos."
@@ -4790,7 +4790,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2623## # translate crowdin assign_chores_c719a343:
 msgid "Let's start off easy with the Lounge area. Mostly just dusting, scrubbing, and sweeping the floor."
-msgstr ""
+msgstr "Commençons doucement avec le salon. La plupart du temps, il suffit de dépoussiérer, de frotter et de balayer le sol."
 
 # game/UpdateScript0.04.rpy:2624## # translate crowdin assign_chores_264a9a46_2:
 msgid "[C] Alright.... whatever you say."
@@ -5046,7 +5046,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2735## # translate crowdin assign_chores_baf30cd6:
 msgid "Let's start off easy with the Lounge area. Mostyly just dusting, scrubbing, and sweeping the floor."
-msgstr ""
+msgstr "Commençons doucement avec le salon. La plupart du temps, il suffit de dépoussiérer, de frotter et de balayer le sol."
 
 # game/UpdateScript0.04.rpy:2737## # translate crowdin assign_chores_55cb817f_2:
 msgid "[C] Yes.... sir."
@@ -8070,23 +8070,23 @@ msgstr "[RT] {i}Maintenant, je dois juste les convaincre tous de voir les choses
 
 # game/UpdateScript0.04.rpy:4204## # translate crowdin wrshoot_adffdf16:
 msgid "Sidney is only available to take pictures in the afternoon."
-msgstr ""
+msgstr "Sidney n'est disponible pour prendre des photos que l'après-midi."
 
 # game/UpdateScript0.04.rpy:4208## # translate crowdin wrshoot_0782ab8b:
 msgid "You have completed this photo session with Sidney entirely."
-msgstr ""
+msgstr "Vous avez entièrement terminé cette séance photo avec Sidney."
 
 # game/UpdateScript0.04.rpy:4209## # translate crowdin wrshoot_e5187978:
 msgid "You can still play through the event, but you will not be able to increase Sidney's stats, or be able to generate any more likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Vous pouvez toujours participer à l'événement, mais vous ne pourrez pas augmenter les statistiques de Sidney, ni générer plus de likes pour le site Web Cosplay Heaven."
 
 # game/UpdateScript0.04.rpy:4212## # translate crowdin wrshoot_5c00a2d4:
 msgid "You have already done this photo session with Sidney this week."
-msgstr ""
+msgstr "Vous avez déjà fait cette séance photo avec Sidney cette semaine."
 
 # game/UpdateScript0.04.rpy:4213## # translate crowdin wrshoot_d4d19752:
 msgid "You will still be able to increase Sidney's stats and progress through this scene,"
-msgstr ""
+msgstr "Vous serez toujours en mesure d'augmenter les statistiques de Sidney et de progresser sur cette scène,"
 
 # game/UpdateScript0.04.rpy:4214## # translate crowdin wrshoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
@@ -8406,7 +8406,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4369## # translate crowdin wrshoot_b07e76b4:
 msgid "To get Sidney to take her shorts off you must have her submission at 5 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Sidney enlève son short, vous devez avoir sa soumission à 5 points ou sa libido à 9 points."
 
 # game/UpdateScript0.04.rpy:4376## # translate crowdin wrshoot_6860cb7d_1:
 msgid "[S] What!?.... Already?"
@@ -8494,7 +8494,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4410## # translate crowdin wrshoot_e296d061:
 msgid "To get Sidney to take her shirt off you must have her submission at 7 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Sidney enlève sa chemise, vous devez avoir sa soumission à 7 points ou sa libido à 9 points."
 
 # game/UpdateScript0.04.rpy:4417## # translate crowdin wrshoot_6860cb7d_3:
 msgid "[S] What!?.... Already?"
@@ -8610,7 +8610,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4459## # translate crowdin wrshoot_82d4f94a:
 msgid "To get Sidney to show her titties, you need to have her submission at 10 points, or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Sidney montre ses seins, vous devez avoir sa soumission à 10 points, ou sa libido à 10 points."
 
 # game/UpdateScript0.04.rpy:4466## # translate crowdin wrshoot_6860cb7d_5:
 msgid "[S] What!?.... Already?"
@@ -8722,7 +8722,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4507## # translate crowdin wrshoot_931b81a5:
 msgid "To get Sidney to let you rip her underwear, you need to have her submission points at 14."
-msgstr ""
+msgstr "Pour que Sidney vous laisse déchirer ses sous-vêtements, vous devez avoir ses points de soumission à 14."
 
 # game/UpdateScript0.04.rpy:4514## # translate crowdin wrshoot_6860cb7d_7:
 msgid "[S] What!?.... Already?"
@@ -8818,7 +8818,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4551## # translate crowdin wrshoot_473fc3b2:
 msgid "To get Sidney to let you take close-ups, you need to have her submission points at 19."
-msgstr ""
+msgstr "Pour que Sidney vous laisse faire des gros plans, vous devez avoir ses points de soumission à 19."
 
 # game/UpdateScript0.04.rpy:4558## # translate crowdin wrshoot_2efe051c:
 msgid "[S] What!?.... You've got to be shitting me!?"
@@ -8918,7 +8918,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4596## # translate crowdin wrshoot_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:4602## # translate crowdin wrshoot_886fda56:
 msgid "[R] I don't think we need to take any more pics today."
@@ -9174,7 +9174,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4709## # translate crowdin removeshorts_e296d061:
 msgid "To get Sidney to take her shirt off you must have her submission at 7 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Sidney enlève sa chemise, vous devez avoir sa soumission à 7 points ou sa libido à 9 points."
 
 # game/UpdateScript0.04.rpy:4717## # translate crowdin removeshorts_96cb3bb4_2:
 msgid "[R] What?..."
@@ -9302,7 +9302,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4762## # translate crowdin removeshorts_82d4f94a:
 msgid "To get Sidney to show her titties, you need to have her submission at 10 points, or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Sidney montre ses seins, vous devez avoir sa soumission à 10 points, ou sa libido à 10 points."
 
 # game/UpdateScript0.04.rpy:4770## # translate crowdin removeshorts_96cb3bb4_4:
 msgid "[R] What?..."
@@ -9438,7 +9438,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4818## # translate crowdin removeshorts_931b81a5:
 msgid "To get Sidney to let you rip her underwear, you need to have her submission points at 14."
-msgstr ""
+msgstr "Pour que Sidney vous laisse déchirer ses sous-vêtements, vous devez avoir ses points de soumission à 14."
 
 # game/UpdateScript0.04.rpy:4826## # translate crowdin removeshorts_96cb3bb4_6:
 msgid "[R] What?..."
@@ -9570,7 +9570,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4873## # translate crowdin removeshorts_473fc3b2:
 msgid "To get Sidney to let you take close-ups, you need to have her submission points at 19."
-msgstr ""
+msgstr "Pour que Sidney vous laisse faire des gros plans, vous devez avoir ses points de soumission à 19."
 
 # game/UpdateScript0.04.rpy:4881## # translate crowdin removeshorts_96cb3bb4_8:
 msgid "[R] What?..."
@@ -9730,7 +9730,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4935## # translate crowdin removeshorts_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:4941## # translate crowdin removeshorts_886fda56:
 msgid "[R] I don't think we need to take any more pics today."
@@ -9910,7 +9910,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5022## # translate crowdin removeshirt_82d4f94a:
 msgid "To get Sidney to show her titties, you need to have her submission at 10 points, or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Sidney montre ses seins, vous devez avoir sa soumission à 10 points, ou sa libido à 10 points."
 
 # game/UpdateScript0.04.rpy:5026## # translate crowdin removeshirt_60de193e:
 msgid "[R] For the next shot I think we should..."
@@ -10030,7 +10030,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5069## # translate crowdin removeshirt_931b81a5:
 msgid "To get Sidney to let you rip her underwear, you need to have her submission points at 14."
-msgstr ""
+msgstr "Pour que Sidney vous laisse déchirer ses sous-vêtements, vous devez avoir ses points de soumission à 14."
 
 # game/UpdateScript0.04.rpy:5074## # translate crowdin removeshirt_835b0445:
 msgid "[S] What?!"
@@ -10154,7 +10154,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5116## # translate crowdin removeshirt_43f46b1d:
 msgid "To get Sidney to let you take explicit close-ups, you need to have her submission points at 19."
-msgstr ""
+msgstr "Pour que Sidney vous laisse prendre des gros plans explicites, vous devez avoir ses points de soumission à 19."
 
 # game/UpdateScript0.04.rpy:5121## # translate crowdin removeshirt_7ba2f472:
 msgid "[S] Excuse me.... what!?..."
@@ -10310,7 +10310,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5171## # translate crowdin removeshirt_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:5177## # translate crowdin removeshirt_886fda56:
 msgid "[R] I don't think we need to take any more pics today."
@@ -10614,7 +10614,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5306## # translate crowdin showsidneytitties_931b81a5:
 msgid "To get Sidney to let you rip her underwear, you need to have her submission points at 14."
-msgstr ""
+msgstr "Pour que Sidney vous laisse déchirer ses sous-vêtements, vous devez avoir ses points de soumission à 14."
 
 # game/UpdateScript0.04.rpy:5311## # translate crowdin showsidneytitties_835b0445:
 msgid "[S] What?!"
@@ -10738,7 +10738,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5353## # translate crowdin showsidneytitties_43f46b1d:
 msgid "To get Sidney to let you take explicit close-ups, you need to have her submission points at 19."
-msgstr ""
+msgstr "Pour que Sidney vous laisse prendre des gros plans explicites, vous devez avoir ses points de soumission à 19."
 
 # game/UpdateScript0.04.rpy:5358## # translate crowdin showsidneytitties_7ba2f472:
 msgid "[S] Excuse me.... what!?..."
@@ -10894,7 +10894,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5408## # translate crowdin showsidneytitties_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:5414## # translate crowdin showsidneytitties_886fda56:
 msgid "[R] I don't think we need to take any more pics today."
@@ -11322,7 +11322,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5608## # translate crowdin rippedundies_43f46b1d:
 msgid "To get Sidney to let you take explicit close-ups, you need to have her submission points at 19."
-msgstr ""
+msgstr "Pour que Sidney vous laisse prendre des gros plans explicites, vous devez avoir ses points de soumission à 19."
 
 # game/UpdateScript0.04.rpy:5613## # translate crowdin rippedundies_7ba2f472:
 msgid "[S] Excuse me.... what!?..."
@@ -11478,7 +11478,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5663## # translate crowdin rippedundies_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:5669## # translate crowdin rippedundies_886fda56:
 msgid "[R] I don't think we need to take any more pics today."
@@ -11694,7 +11694,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5759## # translate crowdin wr_closeups_3c6ff5a6:
 msgid "To get Sidney to let you take a gape-shot, you need to have her submission points at 25."
-msgstr ""
+msgstr "Pour que Sidney vous laisse lui donner un coup de fouet, vous devez avoir ses points de soumission à 25."
 
 # game/UpdateScript0.04.rpy:5763## # translate crowdin wr_closeups_5ecc3193:
 msgid "[S] Really? So, we don't need any more for this shoot?"
@@ -12689,31 +12689,31 @@ msgid "[S] See ya later brother!"
 msgstr ""
 
 msgid "Just leave her alone."
-msgstr ""
+msgstr "La laisser tranquille."
 
 #    # game/UpdateScript0.04.rpy:623
 msgid "Wake Sidney for a chat."
-msgstr ""
+msgstr "Réveiller Sidney pour discuter."
 
 #    # game/UpdateScript0.04.rpy:633
 msgid "I wonder what she'll do now."
-msgstr ""
+msgstr "Je me demande ce qu'elle va faire maintenant."
 
 #    # game/UpdateScript0.04.rpy:706
 msgid "Let her sleep."
-msgstr ""
+msgstr "La laisser dormir."
 
 #    # game/UpdateScript0.04.rpy:966
 msgid "Let's just see if she's up for it."
-msgstr ""
+msgstr "Voyons si elle est prête."
 
 #    # game/UpdateScript0.04.rpy:1630
 msgid "No Deal"
-msgstr ""
+msgstr "Pas d'accord conclu"
 
 #    # game/UpdateScript0.04.rpy:2093
 msgid "No Deal."
-msgstr ""
+msgstr "Pas d'accord conclu."
 
 #    # game/UpdateScript0.04.rpy:2316
 msgid "And actually, I have the $200 right here."
@@ -12721,11 +12721,11 @@ msgstr "Et en fait, j'ai les 200$ juste ici."
 
 #    # game/UpdateScript0.04.rpy:2316
 msgid "So, I'll get you the money soon."
-msgstr ""
+msgstr "Alors, je vais bientôt t'obtenir de l'argent."
 
 #    # game/UpdateScript0.04.rpy:2638
 msgid "Let her choose one herself."
-msgstr ""
+msgstr "La laisser choisir elle-même."
 
 #    # game/UpdateScript0.04.rpy:4351
 msgid "We need those shorts to come off. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
@@ -12777,7 +12777,7 @@ msgstr "Essayer quelque chose d'assez fou! Je pense à un coup d'ouverture anale
 
 #    # game/UpdateScript0.04.rpy:4671
 msgid "Just call it a day."
-msgstr ""
+msgstr "L'appeler simplement un jour."
 
 #    # game/UpdateScript0.04.rpy:4993
 msgid "Wow! Are you a mind reader? {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
@@ -12785,7 +12785,7 @@ msgstr "Ça alors! As-tu lu dans mon esprit? {i}(soumission +10 {b}{color=#0000f
 
 #    # game/UpdateScript0.04.rpy:4993
 msgid "No, let's just call it a day."
-msgstr ""
+msgstr "Non, appelons-le un autre jour."
 
 #    # game/UpdateScript0.04.rpy:5027
 msgid "Rip a hole in your panties. {i}(submission 14+){/i}"
@@ -12809,5 +12809,5 @@ msgstr "Je pense que nous devrions tout de même y aller. {i}(soumission 25+){/i
 
 #    # game/UpdateScript0.04.rpy:5717
 msgid "I think we should call it quits for today."
-msgstr ""
+msgstr "Je pense que nous devrions arrêter pour aujourd'hui."
 
