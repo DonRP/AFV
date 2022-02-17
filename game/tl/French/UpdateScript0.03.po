@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-16 11:15\n"
+"PO-Revision-Date: 2022-02-17 11:20\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.03.rpy:466## # translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -190,7 +190,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:582## # translate crowdin diazvisit_f392b75e:
 msgid "[AD] Aren't you going to invite me in?"
-msgstr ""
+msgstr "[AD] Ne veux-tu pas m'inviter ?"
 
 # game/UpdateScript0.03.rpy:583## # translate crowdin diazvisit_0cfeb5d2:
 msgid "[R] Uhhhh.... It's 6 in the morning.... do you have a warrant?"
@@ -298,11 +298,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:621## # translate crowdin diazvisit_09797b50:
 msgid "[AD] Are you aware how easy it is to track your activity on the internet?"
-msgstr ""
+msgstr "[AD] Sais-tu à quel point il est facile de suivre ton activité sur Internet?"
 
 # game/UpdateScript0.03.rpy:622## # translate crowdin diazvisit_20dacfb6:
 msgid "[AD] Are you aware how easy it is to follow teens on their bikes and mopeds?"
-msgstr ""
+msgstr "[AD] Sais-tu à quel point il est facile de suivre les adolescents sur leurs vélos et leurs cyclomoteurs?"
 
 # game/UpdateScript0.03.rpy:623## # translate crowdin diazvisit_a11847bd:
 msgid "[RT] {i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:630## # translate crowdin diazvisit_58d10a0f:
 msgid "[AD] And that's not even mentioning the money you're getting under the table from your uncle Bobby to help you pay off your weekly debt to the DeCapos."
-msgstr ""
+msgstr "[AD] Et cela ne mentionne même pas l'argent que tu reçois sous la table de ton oncle Bobby pour t'aider à rembourser ta dette hebdomadaire envers les DéCapos."
 
 # game/UpdateScript0.03.rpy:631## # translate crowdin diazvisit_c6841c25:
 msgid "[R] ..."
@@ -342,7 +342,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:636## # translate crowdin diazvisit_603e7276:
 msgid "[AD] And I know they're making your mom strip if they don't get their payment each week."
-msgstr ""
+msgstr "[AD] Et je sais qu'ils obligent ta mère à un strip-tease s'ils ne reçoivent pas leur paiement chaque semaine."
 
 # game/UpdateScript0.03.rpy:639## # translate crowdin diazvisit_8bfbbc86:
 msgid "[L] What?.... Mom's not serving drinks at Joey's club? She's actually stripping?"
@@ -494,7 +494,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:688## # translate crowdin diazvisit_6d8a13bb:
 msgid "[AD] And I promise I won't take it too far. Haha.... unless you ask me to."
-msgstr ""
+msgstr "[AD] Et je promets de ne pas aller trop loin. Haha.... sauf si tu me le demandes."
 
 # game/UpdateScript0.03.rpy:689## # translate crowdin diazvisit_783b8425:
 msgid "[AD] Oh, and you can't tell your mom about this at all."
@@ -586,7 +586,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:725## # translate crowdin diazvisit_7e923b39:
 msgid "[AD] And just so you know, I know exactly what's going on in this house. I know about the inappropriate gifts you buy on Hardnlong, and the little surveillance state you've got going on here."
-msgstr ""
+msgstr "[AD] Et pour que tu le saches, je sais exactement ce qui se passe dans cette maison. Je sais pour les cadeaux inappropriés que tu achètes sur Hardnlong, et le peu d'état de surveillance que tu as ici."
 
 # game/UpdateScript0.03.rpy:726## # translate crowdin diazvisit_19a346c4:
 msgid "[AD] So, you'd better be willing to play ball, or your life is going to get pretty uncomfortable."
@@ -606,7 +606,7 @@ msgstr "[RT] {i}Je ne suis pas en difficulté pour ainsi dire, et on dirait que 
 
 # game/UpdateScript0.03.rpy:732## # translate crowdin diazvisit_da2f7287:
 msgid "[AD] And just between you and me, I, just like Joey, wouldn't mind even a little bit if you had to miss a payment here and there."
-msgstr ""
+msgstr "[AD] Et juste entre toi et moi, tout comme Joey, ça ne me dérangerait même pas un peu si tu devais manquer un paiement par-ci et par-là."
 
 # game/UpdateScript0.03.rpy:733## # translate crowdin diazvisit_6396e249:
 msgid "[R] I'll take that into consideration. Goodbye!"
@@ -714,11 +714,11 @@ msgstr "[S] Sors [ryan], je suis trop fatiguée.... pas habillée.... en culotte
 
 # game/UpdateScript0.03.rpy:785## # translate crowdin diazvisit_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
-msgstr ""
+msgstr "C'est l'heure de l'événement hebdomadaire Agent Diaz, voulez-vous l'ignorer cette semaine?"
 
 # game/UpdateScript0.03.rpy:788## # translate crowdin diazvisit_60fc04c7:
 msgid "Ok... I get it... You've got other events to complete."
-msgstr ""
+msgstr "Ok... Je comprends... Tu as d'autres événements à faire."
 
 # game/UpdateScript0.03.rpy:789## # translate crowdin diazvisit_5305e469:
 msgid "But are you going to protect Lauren and pay the $500 this week, or will you let Lauren pay Diaz in favors?"
@@ -1994,7 +1994,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1361## # translate crowdin diaz_and_lauren_2e11533d:
 msgid "[AD] .... Just.... wow!..."
-msgstr ""
+msgstr "[AD] .... Juste.... wow!..."
 
 # game/UpdateScript0.03.rpy:1364## # translate crowdin diaz_and_lauren_46a5da4a:
 msgid "[RT] {i}I've got to see this!{/i}"
@@ -2034,7 +2034,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1382## # translate crowdin diaz_and_lauren_0fb487f2:
 msgid "[AD] All right Lauren, let's see you move that body!"
-msgstr ""
+msgstr "[AD] Très bien Lauren, voyons comment tu bouges ton corps!"
 
 # game/UpdateScript0.03.rpy:1383## # translate crowdin diaz_and_lauren_ebf09af2:
 msgid "[AD] Lauren..."
@@ -2126,7 +2126,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1418## # translate crowdin diaz_and_lauren_7a7c8f01:
 msgid "[AD] And now it's time to teach you what you are."
-msgstr ""
+msgstr "[AD] Et maintenant il est temps de t'apprendre ce que tu es."
 
 # game/UpdateScript0.03.rpy:1421## # translate crowdin diaz_and_lauren_f39e067a:
 msgid "[AD] Tell me that \"you\" are my toy."
@@ -2234,7 +2234,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1495## # translate crowdin diaz_and_lauren_f65e6d78:
 msgid "[AD] And just to give you a little incentive, if your relationship with your sister gets a little more advanced,"
-msgstr ""
+msgstr "[AD] Et juste pour te donner un peu de motivation, si ta relation avec ta sœur devient un peu plus avancée,"
 
 # game/UpdateScript0.03.rpy:1496## # translate crowdin diaz_and_lauren_75d6c08b:
 msgid "[AD] I just might start to include you in these little games of ours."
@@ -2354,7 +2354,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1540## # translate crowdin diaz_and_lauren_79ee4d13:
 msgid "[AD] And you're one sexy toy!"
-msgstr ""
+msgstr "[AD] Et tu es un jouet sexy!"
 
 # game/UpdateScript0.03.rpy:1544## # translate crowdin diaz_and_lauren_7fd557f4:
 msgid "[L] You stopped the music!"
@@ -2426,7 +2426,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1567## # translate crowdin diaz_and_lauren_eb6c3d46:
 msgid "[AD] And now it's time to remind you what you are."
-msgstr ""
+msgstr "[AD] Et maintenant il est temps de te rappeler ce que tu es."
 
 # game/UpdateScript0.03.rpy:1570## # translate crowdin diaz_and_lauren_f39e067a_1:
 msgid "[AD] Tell me that \"you\" are my toy."
@@ -2486,7 +2486,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1614## # translate crowdin diaz_and_lauren_89ad44e3:
 msgid "[AD] And just to remind you. If your relationship with your sister gets a little more advanced,"
-msgstr ""
+msgstr "[AD] Et juste pour te le rappeler. Si ta relation avec ta sœur devient un peu plus avancée,"
 
 # game/UpdateScript0.03.rpy:1615## # translate crowdin diaz_and_lauren_75d6c08b_1:
 msgid "[AD] I just might start to include you in these little games of ours."
@@ -4546,7 +4546,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2772## # translate crowdin clubpool_1919f423:
 msgid "Pull.... yank..."
-msgstr ""
+msgstr "Tirrr.... rrer..."
 
 # game/UpdateScript0.03.rpy:2779## # translate crowdin clubpool_3f2c5b41:
 msgid "[MBT] {i}Yes, it worked!{/i}"
@@ -5738,43 +5738,43 @@ msgstr "{i}'Vous n'aurez pas la possibilité de démarrer la séance photo de Si
 
 # game/UpdateScript0.03.rpy:3583## # translate crowdin htbydshoot_1b47bdc8:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren n'est disponible pour prendre des photos qu'en fin de matinée."
 
 # game/UpdateScript0.03.rpy:3587## # translate crowdin htbydshoot_1b47bdc8_1:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren n'est disponible pour prendre des photos qu'en fin de matinée."
 
 # game/UpdateScript0.03.rpy:3591## # translate crowdin htbydshoot_1b47bdc8_2:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren n'est disponible pour prendre des photos qu'en fin de matinée."
 
 # game/UpdateScript0.03.rpy:3595## # translate crowdin htbydshoot_1b47bdc8_3:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren n'est disponible pour prendre des photos qu'en fin de matinée."
 
 # game/UpdateScript0.03.rpy:3599## # translate crowdin htbydshoot_fba0da7d:
 msgid "You have completed this photo session with Lauren entirely."
-msgstr ""
+msgstr "Vous avez entièrement terminé cette séance photo avec Lauren."
 
 # game/UpdateScript0.03.rpy:3600## # translate crowdin htbydshoot_a411d86b:
 msgid "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Vous pouvez toujours participer à l'événement, mais vous ne pourrez pas augmenter les statistiques de Lauren, ni générer plus de likes pour le site Web Cosplay Heaven."
 
 # game/UpdateScript0.03.rpy:3603## # translate crowdin htbydshoot_fba0da7d_1:
 msgid "You have completed this photo session with Lauren entirely."
-msgstr ""
+msgstr "Vous avez entièrement terminé cette séance photo avec Lauren."
 
 # game/UpdateScript0.03.rpy:3604## # translate crowdin htbydshoot_a411d86b_1:
 msgid "You can still play through the event, but you will not be able to increase Lauren's stats, or be able to generate any more likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Vous pouvez toujours participer à l'événement, mais vous ne pourrez pas augmenter les statistiques de Lauren, ni générer plus de likes pour le site Web Cosplay Heaven."
 
 # game/UpdateScript0.03.rpy:3607## # translate crowdin htbydshoot_4e3273ee:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Vous avez déjà fait cette séance photo avec Lauren cette semaine."
 
 # game/UpdateScript0.03.rpy:3608## # translate crowdin htbydshoot_704bd7a7:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Vous pourrez toujours augmenter les statistiques de Lauren et progresser dans cette scène,"
 
 # game/UpdateScript0.03.rpy:3609## # translate crowdin htbydshoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
@@ -5782,11 +5782,11 @@ msgstr "Mais seule la première partie de cet événement chaque semaine génér
 
 # game/UpdateScript0.03.rpy:3612## # translate crowdin htbydshoot_4e3273ee_1:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Vous avez déjà fait cette séance photo avec Lauren cette semaine."
 
 # game/UpdateScript0.03.rpy:3613## # translate crowdin htbydshoot_704bd7a7_1:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Vous pourrez toujours augmenter les statistiques de Lauren et progresser dans cette scène,"
 
 # game/UpdateScript0.03.rpy:3614## # translate crowdin htbydshoot_d2e00a31_1:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
@@ -5794,11 +5794,11 @@ msgstr "Mais seule la première partie de cet événement chaque semaine génér
 
 # game/UpdateScript0.03.rpy:3617## # translate crowdin htbydshoot_4e3273ee_2:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Vous avez déjà fait cette séance photo avec Lauren cette semaine."
 
 # game/UpdateScript0.03.rpy:3618## # translate crowdin htbydshoot_704bd7a7_2:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Vous pourrez toujours augmenter les statistiques de Lauren et progresser dans cette scène,"
 
 # game/UpdateScript0.03.rpy:3619## # translate crowdin htbydshoot_d2e00a31_2:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
@@ -5806,11 +5806,11 @@ msgstr "Mais seule la première partie de cet événement chaque semaine génér
 
 # game/UpdateScript0.03.rpy:3622## # translate crowdin htbydshoot_4e3273ee_3:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Vous avez déjà fait cette séance photo avec Lauren cette semaine."
 
 # game/UpdateScript0.03.rpy:3623## # translate crowdin htbydshoot_704bd7a7_3:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Vous pourrez toujours augmenter les statistiques de Lauren et progresser dans cette scène,"
 
 # game/UpdateScript0.03.rpy:3624## # translate crowdin htbydshoot_d2e00a31_3:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
@@ -6130,7 +6130,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3838## # translate crowdin htbydshoot_87757bf4:
 msgid "To get Lauren to take her skirt off you must have her submission at 5 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Lauren enlève sa jupe, vous devez avoir sa soumission à 5 points ou sa libido à 9 points."
 
 # game/UpdateScript0.03.rpy:3843## # translate crowdin htbydshoot_5dbf032d:
 msgid "[R] How about we make that outfit even more sexy."
@@ -6222,7 +6222,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3891## # translate crowdin htbydshoot_0f2352d6:
 msgid "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Lauren enlève sa jupe et vous montre son string, vous devez avoir sa soumission à 7 points ou sa libido à 9 points."
 
 # game/UpdateScript0.03.rpy:3896## # translate crowdin htbydshoot_5dbf032d_1:
 msgid "[R] How about we make that outfit even more sexy."
@@ -6314,7 +6314,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3942## # translate crowdin htbydshoot_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge, vous devez avoir sa soumission à 10 points ou sa libido à 10 points."
 
 # game/UpdateScript0.03.rpy:3947## # translate crowdin htbydshoot_27706357:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6418,7 +6418,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3991## # translate crowdin htbydshoot_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge et montre ses seins, vous devez avoir sa soumission à 14 points."
 
 # game/UpdateScript0.03.rpy:3996## # translate crowdin htbydshoot_27706357_1:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6522,7 +6522,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4040## # translate crowdin htbydshoot_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-msgstr ""
+msgstr "Pour que Lauren puisse tout enlever, vous devez avoir sa soumission à 19 points."
 
 # game/UpdateScript0.03.rpy:4045## # translate crowdin htbydshoot_27706357_2:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6642,7 +6642,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4093## # translate crowdin htbydshoot_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:4097## # translate crowdin htbydshoot_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -6866,7 +6866,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4223## # translate crowdin removeskirt_0f2352d6:
 msgid "To get Lauren to take her skirt off and show off her thong, you must have her submission at 7 points or her libido at 9 points."
-msgstr ""
+msgstr "Pour que Lauren enlève sa jupe et vous montre son string, vous devez avoir sa soumission à 7 points ou sa libido à 9 points."
 
 # game/UpdateScript0.03.rpy:4228## # translate crowdin removeskirt_ed2d2668_1:
 msgid "[R] Let's see what we can do to that outfit to sexy it up even more."
@@ -6958,7 +6958,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4274## # translate crowdin removeskirt_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge, vous devez avoir sa soumission à 10 points ou sa libido à 10 points."
 
 # game/UpdateScript0.03.rpy:4279## # translate crowdin removeskirt_27706357:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7062,7 +7062,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4323## # translate crowdin removeskirt_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge et montre ses seins, vous devez avoir sa soumission à 14 points."
 
 # game/UpdateScript0.03.rpy:4328## # translate crowdin removeskirt_27706357_1:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7166,7 +7166,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4372## # translate crowdin removeskirt_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-msgstr ""
+msgstr "Pour que Lauren puisse tout enlever, vous devez avoir sa soumission à 19 points."
 
 # game/UpdateScript0.03.rpy:4377## # translate crowdin removeskirt_27706357_2:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7286,7 +7286,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4425## # translate crowdin removeskirt_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:4429## # translate crowdin removeskirt_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -7470,7 +7470,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4537## # translate crowdin thongtime_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge, vous devez avoir sa soumission à 10 points ou sa libido à 10 points."
 
 # game/UpdateScript0.03.rpy:4542## # translate crowdin thongtime_27706357:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7574,7 +7574,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4586## # translate crowdin thongtime_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Pour que Lauren puisse prendre son soutien-gorge et montrer ses seins, vous devez avoir son exposé à 14 points."
 
 # game/UpdateScript0.03.rpy:4591## # translate crowdin thongtime_27706357_1:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7678,7 +7678,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4635## # translate crowdin thongtime_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-msgstr ""
+msgstr "Pour que Lauren puisse tout enlever, vous devez avoir sa soumission à 19 points."
 
 # game/UpdateScript0.03.rpy:4640## # translate crowdin thongtime_27706357_2:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7798,7 +7798,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4688## # translate crowdin thongtime_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:4692## # translate crowdin thongtime_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -8006,7 +8006,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4801## # translate crowdin removebra_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Pour que Lauren enlève son soutien-gorge et montre ses seins, vous devez avoir sa soumission à 14 points."
 
 # game/UpdateScript0.03.rpy:4806## # translate crowdin removebra_27706357_1:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -8110,7 +8110,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4850## # translate crowdin removebra_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-msgstr ""
+msgstr "Pour que Lauren puisse tout enlever, vous devez avoir sa soumission à 19 points."
 
 # game/UpdateScript0.03.rpy:4855## # translate crowdin removebra_27706357_2:
 msgid "[R] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -8230,7 +8230,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4903## # translate crowdin removebra_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:4907## # translate crowdin removebra_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -8558,7 +8558,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5097## # translate crowdin showtitties_c77833a7:
 msgid "To get Lauren to take everything off you must have her submission at 19 points."
-msgstr ""
+msgstr "Pour que Lauren puisse tout enlever, vous devez avoir sa soumission à 19 points."
 
 # game/UpdateScript0.03.rpy:5102## # translate crowdin showtitties_e51ecde2:
 msgid "[R] Ok, how bout we take this shoot to a whole different level."
@@ -8666,7 +8666,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5148## # translate crowdin showtitties_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:5154## # translate crowdin showtitties_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -8926,7 +8926,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5266## # translate crowdin removethong_ab8b9b94:
 msgid "To get Lauren to take explicit photos, submission must be at 25 points."
-msgstr ""
+msgstr "Pour que Lauren prenne des photos explicites, la soumission doit être à 25 points."
 
 # game/UpdateScript0.03.rpy:5272## # translate crowdin removethong_e4287853:
 msgid "[R] I think we've got all the pics we need for now."
@@ -9445,11 +9445,11 @@ msgid "[RT] {i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check t
 msgstr "[RT] {i}Hein ? Oh, mec ! J'adorerais voir maman là-dedans ! Je devrais peut-être aller voir au magasin et en obtenir pour elle. Je suis sûr que je peux trouver un moyen de la faire le porter.{/i}"
 
 msgid "Kenzie's Thoughts"
-msgstr ""
+msgstr "Les pensées de Kenzie"
 
 #    # game/UpdateScript0.03.rpy:12
 msgid "Waitress"
-msgstr ""
+msgstr "Serveuse"
 
 #    # game/UpdateScript0.03.rpy:13
 msgid "Everybody Else"
@@ -9457,7 +9457,7 @@ msgstr "Tout les autres"
 
 #    # game/UpdateScript0.03.rpy:14
 msgid "Matt's Thoughts"
-msgstr ""
+msgstr "Les pensées de Matt"
 
 #    # game/UpdateScript0.03.rpy:15
 msgid "Agent Diaz"
@@ -9469,19 +9469,19 @@ msgstr "Pensées de l'Agent Diaz"
 
 #    # game/UpdateScript0.03.rpy:790
 msgid "Of course I'll protect Lauren!"
-msgstr ""
+msgstr "Bien sûr que je protégerai Lauren!"
 
 #    # game/UpdateScript0.03.rpy:790
 msgid "Shit!.... I don't have the money to protect her this week!"
-msgstr ""
+msgstr "Merde!.... Je n'ai pas l'argent pour la protéger cette semaine !"
 
 #    # game/UpdateScript0.03.rpy:790
 msgid "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
-msgstr ""
+msgstr "J'ai besoin de cet argent pour autre chose.... Le cul de Lauren devra payer la facture cette semaine."
 
 #    # game/UpdateScript0.03.rpy:897
 msgid "Just Leave her alone."
-msgstr ""
+msgstr "La laisser tranquille."
 
 #    # game/UpdateScript0.03.rpy:1071
 msgid "Commission a new cosplay outfit."
