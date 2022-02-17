@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-16 11:15\n"
+"PO-Revision-Date: 2022-02-17 11:21\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -8174,7 +8174,7 @@ msgstr "{i}'Quelques vidéos de YourTube plus tard.'{/i}"
 
 # game/UpdateScript0.05.rpy:4736## # translate crowdin fix_washer_4d8f55a2:
 msgid "Ok Mom I think I'm ready. Why don't you show me what the problem is."
-msgstr ""
+msgstr "Ok Maman Je pense que je suis prêt. Montres-moi quel est le problème."
 
 # game/UpdateScript0.05.rpy:4739## # translate crowdin fix_washer_83c8a731:
 msgid "[M] You're sure you can do this?"
@@ -11182,7 +11182,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6356## # translate crowdin club_fun_41834f1e:
 msgid "[AD] Ahh.... Everybody knows me here. There's no sense in trying to hide anything."
-msgstr ""
+msgstr "[AD] Ahh.... Tout le monde me connaît ici. Il n'y a aucun sens à essayer de cacher quoi que ce soit."
 
 # game/UpdateScript0.05.rpy:6357## # translate crowdin club_fun_e3b9c45d:
 msgid "[R] What about the FBI?"
@@ -11194,7 +11194,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6359## # translate crowdin club_fun_7b51caaf:
 msgid "[AD] And the DeCapos give me some small time criminals from outside the family from time to time."
-msgstr ""
+msgstr "[AD] Et les DeCapos me donnent de temps en temps quelques criminels de l'extérieur de ta famille."
 
 # game/UpdateScript0.05.rpy:6360## # translate crowdin club_fun_53fab5ae:
 msgid "[AD] Then I just tell the FBI they are part of the DeCapo family, and they are pleased as can be."
@@ -11214,7 +11214,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6364## # translate crowdin club_fun_30e134bc:
 msgid "[AD] And if he wants to stay alive, he'll keep his mouth shut. But he already knows that."
-msgstr ""
+msgstr "[AD] Et s'il veut rester en vie, il gardera sa bouche fermée. Mais il le sait déjà."
 
 # game/UpdateScript0.05.rpy:6365## # translate crowdin club_fun_5a70f80d:
 msgid "[RT] {i}Diaz sure is brazenly unashamed about her relationship with the DeCapos, maybe I could record a conversation with her where she reveals something more incriminating.{/i}"
@@ -11370,7 +11370,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6477## # translate crowdin club_fun_41834f1e_1:
 msgid "[AD] Ahh.... Everybody knows me here. There's no sense in trying to hide anything."
-msgstr ""
+msgstr "[AD] Ahh.... Tout le monde me connaît ici. Il n'y a aucun sens à essayer de cacher quoi que ce soit."
 
 # game/UpdateScript0.05.rpy:6478## # translate crowdin club_fun_e3b9c45d_1:
 msgid "[R] What about the FBI?"
@@ -11382,7 +11382,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6480## # translate crowdin club_fun_7b51caaf_1:
 msgid "[AD] And the DeCapos give me some small time criminals from outside the family from time to time."
-msgstr ""
+msgstr "[AD] Et les DeCapos me donnent de temps en temps quelques criminels de l'extérieur de ta famille."
 
 # game/UpdateScript0.05.rpy:6481## # translate crowdin club_fun_53fab5ae_1:
 msgid "[AD] Then I just tell the FBI they are part of the DeCapo family, and they are pleased as can be."
@@ -11402,7 +11402,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6485## # translate crowdin club_fun_30e134bc_1:
 msgid "[AD] And if he wants to stay alive, he'll keep his mouth shut. But he already knows that."
-msgstr ""
+msgstr "[AD] Et s'il veut rester en vie, il gardera sa bouche fermée. Mais il le sait déjà."
 
 # game/UpdateScript0.05.rpy:6486## # translate crowdin club_fun_5a70f80d_1:
 msgid "[RT] {i}Diaz sure is brazenly unashamed about her relationship with the DeCapos, maybe I could record a conversation with her where she reveals something more incriminating.{/i}"
@@ -11549,19 +11549,19 @@ msgstr "Pensées du vieil homme fou"
 
 #    # game/UpdateScript0.05.rpy:9
 msgid "Mr. Peterson"
-msgstr ""
+msgstr "M. Peterson"
 
 #    # game/UpdateScript0.05.rpy:10
 msgid "Mr. Peterson's Thoughts"
-msgstr ""
+msgstr "Pensées de M. Peterson"
 
 #    # game/UpdateScript0.05.rpy:11
 msgid "Policeman"
-msgstr ""
+msgstr "Policier"
 
 #    # game/UpdateScript0.05.rpy:12
 msgid "Mrs. Stone"
-msgstr ""
+msgstr "Mme Stone"
 
 #    # game/UpdateScript0.05.rpy:13
 msgid "Armani"
@@ -11569,11 +11569,11 @@ msgstr "Armani"
 
 #    # game/UpdateScript0.05.rpy:509
 msgid "I'm not going to miss this opportunity."
-msgstr ""
+msgstr "Je ne vais pas rater cette occasion."
 
 #    # game/UpdateScript0.05.rpy:509
 msgid "Just go to sleep."
-msgstr ""
+msgstr "Aller juste dormir."
 
 #    # game/UpdateScript0.05.rpy:574
 msgid "Help Mom."
@@ -11585,23 +11585,23 @@ msgstr "Ne pas aider maman."
 
 #    # game/UpdateScript0.05.rpy:865
 msgid "Run to the park"
-msgstr ""
+msgstr "Courir au parc"
 
 #    # game/UpdateScript0.05.rpy:865
 msgid "I don't feel like running today."
-msgstr ""
+msgstr "Je n'ai pas envie de courir aujourd'hui."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "You should go to the indoor track."
-msgstr ""
+msgstr "Vous devriez aller sur la piste intérieure."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "I'll go to the park myself and see if it's safe."
-msgstr ""
+msgstr "Je vais aller au parc moi-même et voir si c'est sûr."
 
 #    # game/UpdateScript0.05.rpy:885
 msgid "Let's go jogging in the park together. I'll keep you safe. (Light NTR Warning)"
-msgstr ""
+msgstr "Allons faire du jogging dans le parc ensemble. Je te protégerai. (Avertissement NTR léger)"
 
 #    # game/UpdateScript0.05.rpy:1671
 msgid "Can I get a handjob?"
@@ -11629,19 +11629,19 @@ msgstr "Tiens bon.... Tiens bon.... Tiens bon...."
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Mom"
-msgstr ""
+msgstr "Taquiner maman"
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Lauren"
-msgstr ""
+msgstr "Taquiner Lauren"
 
 #    # game/UpdateScript0.05.rpy:4072
 msgid "Tease Sidney"
-msgstr ""
+msgstr "Taquiner Sidney"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Public Fingering"
-msgstr ""
+msgstr "Doigté en public"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
@@ -11649,7 +11649,7 @@ msgstr "{s}Doigté Sindney en public{/s} {i}(La libido de Sidney 8+){/i}"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Public Handjob"
-msgstr ""
+msgstr "Branlette en publique"
 
 #    # game/UpdateScript0.05.rpy:5584
 msgid "Eat Pussy"
@@ -11673,11 +11673,11 @@ msgstr "{s}Sexe avec elle{/s} {i}(La libido de Sidney 8+) {/i}"
 
 #    # game/UpdateScript0.05.rpy:5758
 msgid "That feels so good!"
-msgstr ""
+msgstr "Ça fait tellement de bien !"
 
 #    # game/UpdateScript0.05.rpy:5758
 msgid "Yeah, suck it whore!"
-msgstr ""
+msgstr "Ouais, suces-la, pute!"
 
 #    # game/UpdateScript0.05.rpy:5777
 msgid "Cum down her throat."
@@ -11693,15 +11693,15 @@ msgstr "Terminer"
 
 #    # game/UpdateScript0.05.rpy:6096
 msgid "Yes!.... Peek!"
-msgstr ""
+msgstr "Oui!.... Jeter un coup d'œil!"
 
 #    # game/UpdateScript0.05.rpy:6096
 msgid "No!.... Don't risk it."
-msgstr ""
+msgstr "Non!.... Ne prends pas le risque."
 
 #    # game/UpdateScript0.05.rpy:6136
 msgid "Working for the Mafia"
-msgstr ""
+msgstr "Travailler pour la Mafia"
 
 #    # game/UpdateScript0.05.rpy:6136
 msgid "Are you making good money?"
@@ -11713,15 +11713,15 @@ msgstr "On peut ?.... Tu sais...."
 
 #    # game/UpdateScript0.05.rpy:6200
 msgid "Joey (NTR Warning)"
-msgstr ""
+msgstr "Joey (Avertissement NTR)"
 
 #    # game/UpdateScript0.05.rpy:6215
 msgid "That's all for tonight."
-msgstr ""
+msgstr "C'est tout pour ce soir."
 
 #    # game/UpdateScript0.05.rpy:6256
 msgid "Working for the Mafia."
-msgstr ""
+msgstr "Travailler pour la Mafia."
 
 #    # game/UpdateScript0.05.rpy:6256
 msgid "Can we?.... you know...."
@@ -11729,5 +11729,5 @@ msgstr "On peut ?.... Tu sais...."
 
 #    # game/UpdateScript0.05.rpy:6294
 msgid "Sex"
-msgstr ""
+msgstr "Sexe"
 
