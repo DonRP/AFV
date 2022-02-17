@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-16 11:15\n"
+"PO-Revision-Date: 2022-02-17 11:20\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5586,11 +5586,11 @@ msgstr "[RT] {i}Je pense que je vais devoir essayer encore.{/i}"
 
 # game/script.rpy:6523## # translate crowdin schoolearlymorning_2b37c98f:
 msgid "It's too early to go to school."
-msgstr ""
+msgstr "Il est trop tôt pour aller à l'école."
 
 # game/script.rpy:6529## # translate crowdin schoolearlymorningweekend_aa22f048:
 msgid "There's no school on the weekend."
-msgstr ""
+msgstr "Il n'y a pas d'école le week-end."
 
 # game/script.rpy:6541## # translate crowdin schoolhallwaymorning_d5337759:
 msgid "[RT] {i}I'm going to be late for class if I don't hurry.{/i}"
@@ -5598,7 +5598,7 @@ msgstr "[RT] {i}Je vais être en retard pour les cours si je ne me dépêche pas
 
 # game/script.rpy:6547## # translate crowdin schoolmorningweekend_aa22f048:
 msgid "There's no school on the weekend."
-msgstr ""
+msgstr "Il n'y a pas d'école le week-end."
 
 # game/script.rpy:6557## # translate crowdin schoolhallwayafternoon_379aa1ba:
 msgid "[RT] {i}Should I sit through another class, or find something else to do?{/i}"
@@ -5606,7 +5606,7 @@ msgstr "[RT] {i}Dois-je suivre une autre classe ou trouver autre chose à faire?
 
 # game/script.rpy:6563## # translate crowdin schoolafternoonweekend_aa22f048:
 msgid "There's no school on the weekend."
-msgstr ""
+msgstr "Il n'y a pas d'école le week-end."
 
 # game/script.rpy:6572## # translate crowdin schoolevening_0f1df5ef:
 msgid "School's over for the day."
@@ -5614,15 +5614,15 @@ msgstr "L'école est finie pour la journée."
 
 # game/script.rpy:6578## # translate crowdin schooleveningweekend_368c6f79:
 msgid "No school on the weekend."
-msgstr ""
+msgstr "Pas d'école le week-end."
 
 # game/script.rpy:6587## # translate crowdin schoolnight_1681a2b6:
 msgid "It's too late to go to school."
-msgstr ""
+msgstr "Il est trop tard pour aller à l'école."
 
 # game/script.rpy:6593## # translate crowdin schoolnightweekend_368c6f79:
 msgid "No school on the weekend."
-msgstr ""
+msgstr "Pas d'école le week-end."
 
 # game/script.rpy:6604## # translate crowdin mylocker_b8641e84:
 msgid "[RT] {i}I don't need anything out of there right now.{/i}"
@@ -7506,15 +7506,15 @@ msgstr "[RT] {i}Je dois sortir d'ici tout de suite!{/i}"
 
 # game/script.rpy:8256## # translate crowdin dinnerfirst_1aca3ccd:
 msgid "You picked a boring option! What, you didn't want to take any risks?"
-msgstr ""
+msgstr "Vous avez choisi une option ennuyeuse! Quoi, vous ne vouliez prendre aucun risque ?"
 
 # game/script.rpy:8257## # translate crowdin dinnerfirst_ee7eae16:
 msgid "You were able to make enough deliveries to keep making the payments."
-msgstr ""
+msgstr "Vous avez pu effectuer suffisamment de livraisons pour continuer à effectuer les paiements."
 
 # game/script.rpy:8258## # translate crowdin dinnerfirst_e04df85e:
 msgid "Your dad soon got out of jail and took back over as man of the house and emotionally abusive asshole."
-msgstr ""
+msgstr "Votre papa est rapidement sorti de prison et a repris le poste d'homme de la maison et a été un gros trou du cul."
 
 # game/script.rpy:8259## # translate crowdin dinnerfirst_34d41d86:
 msgid "Everything went back to the way it was, except that you can't get these images out of your head."
@@ -7530,35 +7530,35 @@ msgstr "Fin de la partie"
 
 # game/script.rpy:8276## # translate crowdin dinnerfirst_0412baff:
 msgid "You might want to roll back now."
-msgstr ""
+msgstr "Vous voudrez peut-être revenir en arrière maintenant."
 
 # game/script.rpy:8277## # translate crowdin dinnerfirst_e485e7a2:
 msgid "Seriously, one more click and you'll be back to the game menu."
-msgstr ""
+msgstr "Sérieusement, un clic de plus et vous serez de retour au menu du jeu."
 
 # game/script.rpy:8282## # translate crowdin dinnerfirst_e87222a7:
 msgid "You picked the most boring option! What, you didn't want to take any risks?"
-msgstr ""
+msgstr "Vous avez choisi l'option la plus ennuyeuse! Quoi, vous ne vouliez prendre aucun risque ?"
 
 # game/script.rpy:8283## # translate crowdin dinnerfirst_ee7eae16_1:
 msgid "You were able to make enough deliveries to keep making the payments."
-msgstr ""
+msgstr "Vous avez pu effectuer suffisamment de livraisons pour continuer à effectuer les paiements."
 
 # game/script.rpy:8284## # translate crowdin dinnerfirst_e04df85e_1:
 msgid "Your dad soon got out of jail and took back over as man of the house and emotionally abusive asshole."
-msgstr ""
+msgstr "Votre papa est rapidement sorti de prison et a repris le poste d'homme de la maison et a été un gros trou du cul."
 
 # game/script.rpy:8285## # translate crowdin dinnerfirst_0e392134:
 msgid "You went on to live a completely normal, unremarkable life."
-msgstr ""
+msgstr "Vous avez continué à vivre une vie tout à fait normale et banale."
 
 # game/script.rpy:8286## # translate crowdin dinnerfirst_d6a35b75:
 msgid "You married a normal boring girl."
-msgstr ""
+msgstr "Vous avez épousé une fille normale et ennuyeuse."
 
 # game/script.rpy:8287## # translate crowdin dinnerfirst_9316253b:
 msgid "Your love life is almost non-existant, except for birthdays and anniversaries, the only action you get is from your hand while looking at a computer."
-msgstr ""
+msgstr "Votre vie amoureuse est presque inexistante, sauf pour les anniversaires, la seule action que vous obtenez est de votre main en regardant votre ordinateur."
 
 # game/script.rpy:8290## # translate crowdin dinnerfirst_7ca1b4e1_1:
 msgid "Game Over"
@@ -7566,11 +7566,11 @@ msgstr "Fin de la partie"
 
 # game/script.rpy:8291## # translate crowdin dinnerfirst_0412baff_1:
 msgid "You might want to roll back now."
-msgstr ""
+msgstr "Vous voudrez peut-être revenir en arrière maintenant."
 
 # game/script.rpy:8292## # translate crowdin dinnerfirst_e485e7a2_1:
 msgid "Seriously, one more click and you'll be back to the game menu."
-msgstr ""
+msgstr "Sérieusement, un clic de plus et vous serez de retour au menu du jeu."
 
 # game/script.rpy:8303## # translate crowdin collectingpayment_34a9d44a:
 msgid "[RT] {i}Looks like Lauren's watching her ponies show again.{/i}"
@@ -8257,7 +8257,7 @@ msgid "[RT] {i}Now I better get out of here before she notices me.{/i}"
 msgstr "[RT] {i}Maintenant, je ferais mieux de sortir d'ici avant qu'elle ne me remarque.{/i}"
 
 msgid "Would you like to see the tutorial?"
-msgstr ""
+msgstr "Voulez-vous voir le tutoriel?"
 
 #    # game/script.rpy:310
 msgid "Yes."
@@ -8265,11 +8265,11 @@ msgstr "Oui."
 
 #    # game/script.rpy:310
 msgid "No."
-msgstr ""
+msgstr "Non."
 
 #    # game/script.rpy:317
 msgid "Skip to the end of v0.01b"
-msgstr ""
+msgstr "Passer à la fin de la version 0.01b"
 
 #    # game/script.rpy:317
 msgid "Don't skip the game"
@@ -8281,11 +8281,11 @@ msgstr "Choisissez votre itinéraire!"
 
 #    # game/script.rpy:319
 msgid "Loyalty route"
-msgstr ""
+msgstr "Voie de la fidélité"
 
 #    # game/script.rpy:319
 msgid "NTR route"
-msgstr ""
+msgstr "Voie NTR"
 
 #    # game/script.rpy:319
 msgid "Back"
@@ -8293,7 +8293,7 @@ msgstr "Retour"
 
 #    # game/script.rpy:700
 msgid "Peek down her robe"
-msgstr ""
+msgstr "Jetez un coup d'œil sous sa robe"
 
 #    # game/script.rpy:700
 msgid "Gross!! That's just weird!"
@@ -8309,7 +8309,7 @@ msgstr "Dormir"
 
 #    # game/script.rpy:1043
 msgid "Never mind"
-msgstr ""
+msgstr "Peu importe"
 
 #    # game/script.rpy:1058
 msgid "Memes (Advances time)"
@@ -8333,27 +8333,27 @@ msgstr "Oui"
 
 #    # game/script.rpy:1869
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #    # game/script.rpy:1993
 msgid "Skip event and sleep till tomorrow"
-msgstr ""
+msgstr "Sauter l'événement et dormir jusqu'à demain"
 
 #    # game/script.rpy:1993
 msgid "Jump to Mafia payment event."
-msgstr ""
+msgstr "Aller à l'événement de paiement de la mafia."
 
 #    # game/script.rpy:1998
 msgid "I'll pay them $1,000."
-msgstr ""
+msgstr "Je leur paierais 1'000$."
 
 #    # game/script.rpy:1998
 msgid "Shit!... I don't have enough money to pay the Mafia."
-msgstr ""
+msgstr "Merde!... Je n'ai pas assez d'argent pour payer la Mafia."
 
 #    # game/script.rpy:1998
 msgid "Let Mom use her \"ass\"ets to pay the debt this week."
-msgstr ""
+msgstr "Laisser maman utiliser sa carte 'cul' pour payer la dette de cette semaine."
 
 #    # game/script.rpy:2194
 msgid "Look down"
@@ -8373,7 +8373,7 @@ msgstr "'Pourquoi devrais-je?'"
 
 #    # game/script.rpy:2669
 msgid "Watch TV with Lauren"
-msgstr ""
+msgstr "Regarder la télévision avec Lauren"
 
 #    # game/script.rpy:3346
 msgid "Look."
@@ -8381,11 +8381,11 @@ msgstr "Regarder."
 
 #    # game/script.rpy:3346
 msgid "Never mind."
-msgstr ""
+msgstr "Peu importe."
 
 #    # game/script.rpy:3634
 msgid "Peek"
-msgstr ""
+msgstr "Coup d’oeil"
 
 #    # game/script.rpy:3731
 msgid "Have Dinner"
@@ -8401,7 +8401,7 @@ msgstr "Tu bois encore ?!"
 
 #    # game/script.rpy:4132
 msgid "Look around"
-msgstr ""
+msgstr "Regarder aux alentours"
 
 #    # game/script.rpy:4152
 msgid "Talk to Sidney"
@@ -8409,11 +8409,11 @@ msgstr "Parler à Sidney"
 
 #    # game/script.rpy:4197
 msgid "Try to keep eye contact"
-msgstr ""
+msgstr "Essayer de garder un contact visuel"
 
 #    # game/script.rpy:4218
 msgid "Just a really quick peek"
-msgstr ""
+msgstr "Juste un coup d’œil très rapide"
 
 #    # game/script.rpy:4218
 msgid "Don't risk it"
@@ -8433,7 +8433,7 @@ msgstr "Jeter un coup d'oeil"
 
 #    # game/script.rpy:4333
 msgid "Stay Strong"
-msgstr ""
+msgstr "Rester Fort"
 
 #    # game/script.rpy:4349
 msgid "What do you think, slut?!"
@@ -8445,23 +8445,23 @@ msgstr "Rien !"
 
 #    # game/script.rpy:4358
 msgid "Just walk away"
-msgstr ""
+msgstr "Juste à pied"
 
 #    # game/script.rpy:4489
 msgid "Knock on her door"
-msgstr ""
+msgstr "Frapper à sa porte"
 
 #    # game/script.rpy:4721
 msgid "Look closer."
-msgstr ""
+msgstr "Regarder de plus près."
 
 #    # game/script.rpy:4737
 msgid "Try using subliminal messages"
-msgstr ""
+msgstr "Essayer d'utiliser des messages subliminaux"
 
 #    # game/script.rpy:4737
 msgid "Just leave her alone, she's had a rough few days."
-msgstr ""
+msgstr "La laisser tranquille, elle a eu quelques jours difficiles."
 
 #    # game/script.rpy:4776
 msgid "Subliminal messages"
@@ -8469,23 +8469,23 @@ msgstr "Messages subliminaux"
 
 #    # game/script.rpy:4818
 msgid "Peek through the spy-cam."
-msgstr ""
+msgstr "Coup d’œil à travers la camera espion."
 
 #    # game/script.rpy:4818
 msgid "Nah, she's probably just sleeping."
-msgstr ""
+msgstr "Non, elle dort probablement."
 
 #    # game/script.rpy:4835
 msgid "Knock"
-msgstr ""
+msgstr "Toquer"
 
 #    # game/script.rpy:4835
 msgid "Peek through spy-cam"
-msgstr ""
+msgstr "Coup d’œil à travers la camera espion"
 
 #    # game/script.rpy:4835
 msgid "I'm just going to give her some time to cool down"
-msgstr ""
+msgstr "Je vais juste lui laisser le temps de se calmer"
 
 #    # game/script.rpy:4841
 msgid "Give her a gift"
@@ -8513,11 +8513,11 @@ msgstr "Regarder de plus près"
 
 #    # game/script.rpy:5091
 msgid "Why would I even think of looking?"
-msgstr ""
+msgstr "Pourquoi devrais-je même penser à regarder?"
 
 #    # game/script.rpy:5275
 msgid "Use spy-cam."
-msgstr ""
+msgstr "Utiliser une caméra espion."
 
 #    # game/script.rpy:5275
 msgid "Not right now."
@@ -8525,19 +8525,19 @@ msgstr "Pas pour le moment."
 
 #    # game/script.rpy:5381
 msgid "Take a peek."
-msgstr ""
+msgstr "Jeter un coup d’œil."
 
 #    # game/script.rpy:5396
 msgid "Let's just take a peek at what she's doing."
-msgstr ""
+msgstr "Jetons un coup d'œil à ce qu'elle fait."
 
 #    # game/script.rpy:5855
 msgid "Yes, I need an ally"
-msgstr ""
+msgstr "Oui, j'ai besoin d'un allié"
 
 #    # game/script.rpy:5899
 msgid "More subliminal messages!"
-msgstr ""
+msgstr "Plus de messages subliminaux!"
 
 #    # game/script.rpy:5899
 msgid "Not tonight."
@@ -8545,7 +8545,7 @@ msgstr "Pas ce soir."
 
 #    # game/script.rpy:6017
 msgid "Spy on Sidney"
-msgstr ""
+msgstr "Espionner Sidney"
 
 #    # game/script.rpy:6017
 msgid "Keep looking around"
@@ -8577,11 +8577,11 @@ msgstr "Participer à la classe"
 
 #    # game/script.rpy:6621
 msgid "Start Election Campaign Storyline"
-msgstr ""
+msgstr "Début de la campagne électorale"
 
 #    # game/script.rpy:6673
 msgid "Talk to Mom about Oedipus assignment"
-msgstr ""
+msgstr "Parler à maman au sujet de l'affectation d'Œdipe"
 
 #    # game/script.rpy:6854
 msgid "Accept Matt's help (\"WARNING\" future NTR content)"
@@ -8589,15 +8589,15 @@ msgstr "Accepter l'aide de Matt ('AVERTISSEMENT' futur contenu NTR)"
 
 #    # game/script.rpy:6854
 msgid "Tell Matt to go fuck himself"
-msgstr ""
+msgstr "Dire à Matt d'aller se faire foutre"
 
 #    # game/script.rpy:7054
 msgid "Just the tip"
-msgstr ""
+msgstr "Juste le pourboire"
 
 #    # game/script.rpy:7054
 msgid "Throat Fuck"
-msgstr ""
+msgstr "Baise en gorge profonde"
 
 #    # game/script.rpy:7065
 msgid "Deeper"
@@ -8617,7 +8617,7 @@ msgstr "Sur son visage"
 
 #    # game/script.rpy:7422
 msgid "Make Deliveries"
-msgstr ""
+msgstr "Faire des livraisons"
 
 #    # game/script.rpy:7479
 msgid "Pick up Items"
@@ -8629,19 +8629,19 @@ msgstr "Aller dans studio photo."
 
 #    # game/script.rpy:7479
 msgid "Return to Map"
-msgstr ""
+msgstr "Retour à la carte"
 
 #    # game/script.rpy:7975
 msgid "Tell them about the conversation with Uncle Bobby"
-msgstr ""
+msgstr "Leur parler de la conversation avec Oncle Bobby"
 
 #    # game/script.rpy:7990
 msgid "Tell them about visit with Uncle Bobby"
-msgstr ""
+msgstr "Leur parler de la visite avec Oncle Bobby"
 
 #    # game/script.rpy:8135
 msgid "Stay and Watch"
-msgstr ""
+msgstr "Rester et regarder"
 
 #    # game/script.rpy:8135
 msgid "Go home"
@@ -8649,7 +8649,7 @@ msgstr "Rentrer chez moi"
 
 #    # game/script.rpy:8167
 msgid "Keep Watching"
-msgstr ""
+msgstr "Continuer à regarder"
 
 #    # game/script.rpy:8306
 msgid "Go answer the door"
@@ -8657,5 +8657,5 @@ msgstr "Aller répondre à la porte"
 
 #    # game/script.rpy:8320
 msgid "No (lie)"
-msgstr ""
+msgstr "Non (mensonge)"
 
