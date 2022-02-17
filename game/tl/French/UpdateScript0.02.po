@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-16 11:15\n"
+"PO-Revision-Date: 2022-02-17 11:20\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.02.rpy:10## # translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -6077,7 +6077,7 @@ msgid "[R] Shit, she's done, I'd better make myself scarce."
 msgstr ""
 
 msgid "What will she do?"
-msgstr ""
+msgstr "Que fera-t-elle ?"
 
 #    # game/UpdateScript0.02.rpy:233
 msgid "Skip event."
@@ -6085,19 +6085,19 @@ msgstr "Sauter l'événement."
 
 #    # game/UpdateScript0.02.rpy:316
 msgid "Let's keep things going with Sidney."
-msgstr ""
+msgstr "Continuons avec Sidney."
 
 #    # game/UpdateScript0.02.rpy:316
 msgid "Just sleep."
-msgstr ""
+msgstr "Juste dormir."
 
 #    # game/UpdateScript0.02.rpy:766
 msgid "Try to make it better."
-msgstr ""
+msgstr "Essayer de l'améliorer."
 
 #    # game/UpdateScript0.02.rpy:766
 msgid "Just leave her alone, you've tortured her enough."
-msgstr ""
+msgstr "La laisser tranquille, tu l'as assez torturée."
 
 #    # game/UpdateScript0.02.rpy:772
 msgid "Bang your metal bat on the floor"
@@ -6105,15 +6105,15 @@ msgstr "Frapper votre batte de métal sur le sol"
 
 #    # game/UpdateScript0.02.rpy:802
 msgid "Make some creepy noises"
-msgstr ""
+msgstr "Faire des bruits effrayants"
 
 #    # game/UpdateScript0.02.rpy:825
 msgid "You're right, I should save up a little more money first."
-msgstr ""
+msgstr "Tu as raison, je devrais d'abord économiser un peu plus d'argent."
 
 #    # game/UpdateScript0.02.rpy:913
 msgid "Now let's see how you pose when they ask you to take pics from behind."
-msgstr ""
+msgstr "Voyons maintenant comment tu poses quand ils te demandent de prendre des photos par derrière."
 
 #    # game/UpdateScript0.02.rpy:913
 msgid "Have a good time at the convention!"
@@ -6121,15 +6121,15 @@ msgstr "Passer un bon moment à la convention!"
 
 #    # game/UpdateScript0.02.rpy:969
 msgid "Set up new spy-cam."
-msgstr ""
+msgstr "Installer une nouvelle caméra espion."
 
 #    # game/UpdateScript0.02.rpy:1538
 msgid "Peek through spy-cam."
-msgstr ""
+msgstr "Coup d’œil à travers la camera espion."
 
 #    # game/UpdateScript0.02.rpy:2186
 msgid "Pinch."
-msgstr ""
+msgstr "Pincer."
 
 #    # game/UpdateScript0.02.rpy:2261
 msgid "Not now."
