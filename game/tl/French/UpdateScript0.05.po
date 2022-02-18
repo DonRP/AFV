@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-17 11:21\n"
+"PO-Revision-Date: 2022-02-18 12:03\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/UpdateScript0.05.rpy:473## # translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -11142,7 +11142,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6338## # translate crowdin club_fun_39c40c23:
 msgid "[AD] Well, There's a face I recognize."
-msgstr ""
+msgstr "[AD] Eh bien, il y a un visage que je reconnais."
 
 # game/UpdateScript0.05.rpy:6341## # translate crowdin club_fun_1fff4d87:
 msgid "[R] Oh!.... Holy shit! Agent Diaz?"
@@ -11154,11 +11154,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6345## # translate crowdin club_fun_bda03f89:
 msgid "[AD] Haha.... I'm sure it was."
-msgstr ""
+msgstr "[AD] Haha.... J'en suis sûre."
 
 # game/UpdateScript0.05.rpy:6346## # translate crowdin club_fun_139165bf:
 msgid "[AD] So, you decided to come watch a stripshow from somewhere else besides behind the corner?"
-msgstr ""
+msgstr "[AD] Alors, tu as décidé de venir regarder un strip-tease ailleurs que derrière ?"
 
 # game/UpdateScript0.05.rpy:6347## # translate crowdin club_fun_e3e1969b:
 msgid "[R] How did you know?...."
@@ -11166,7 +11166,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6348## # translate crowdin club_fun_f5b4e4a7:
 msgid "[AD] I know the cleaning lady pretty well, and she's no fan of yours, and everyone here just assumes it was you, and now you just confirmed it."
-msgstr ""
+msgstr "[AD] Je connais assez bien la femme de ménage, et elle n'est pas toi, et tout le monde ici supposait que c'était toi, et maintenant tu viens de le confirmer."
 
 # game/UpdateScript0.05.rpy:6349## # translate crowdin club_fun_5947ed88:
 msgid "[R] Shit!...."
@@ -11174,7 +11174,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6352## # translate crowdin club_fun_e9fde76c:
 msgid "[AD] Hahaha.... Don't worry about it! This is a strip club, they see all kinds of weird shit."
-msgstr ""
+msgstr "[AD] Hahaha.... Ne t'en fais pas ! C'est un club de strip-tease, ils voient toutes sortes de trucs bizarres."
 
 # game/UpdateScript0.05.rpy:6353## # translate crowdin club_fun_bb49c78f:
 msgid "[R] I'm really surprised to see you here with your badge on display."
@@ -11190,7 +11190,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6358## # translate crowdin club_fun_6b49bcf8:
 msgid "[AD] They just assume I'm working an informant."
-msgstr ""
+msgstr "[AD] Ils supposent simplement que je travaille comme informateur."
 
 # game/UpdateScript0.05.rpy:6359## # translate crowdin club_fun_7b51caaf:
 msgid "[AD] And the DeCapos give me some small time criminals from outside the family from time to time."
@@ -11198,11 +11198,11 @@ msgstr "[AD] Et les DeCapos me donnent de temps en temps quelques criminels de l
 
 # game/UpdateScript0.05.rpy:6360## # translate crowdin club_fun_53fab5ae:
 msgid "[AD] Then I just tell the FBI they are part of the DeCapo family, and they are pleased as can be."
-msgstr ""
+msgstr "[AD] Ensuite, je dis simplement au FBI qu'ils font partie de la famille DeCapo, et ils sont heureux comme ils peuvent l'être."
 
 # game/UpdateScript0.05.rpy:6361## # translate crowdin club_fun_3bcced45:
 msgid "[AD] The DeCapos further their interests, and I get promoted."
-msgstr ""
+msgstr "[AD] Les DeCapos poursuivent leurs intérêts, et je suis promu."
 
 # game/UpdateScript0.05.rpy:6362## # translate crowdin club_fun_8f1aa7ce:
 msgid "[R] Do you mean small time criminals like my dad?"
@@ -11210,7 +11210,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6363## # translate crowdin club_fun_8f5ea312:
 msgid "[AD] Exactly.... Only we weren't responsible for that one. We wouldn't purposefully incarcerate your dad. He knows too much about the DeCapos."
-msgstr ""
+msgstr "[AD] Exactement.... Seulement, nous n'étions pas responsables de cela. On n'emprisonnerait pas ton père. Il en sait trop sur les DéCapos."
 
 # game/UpdateScript0.05.rpy:6364## # translate crowdin club_fun_30e134bc:
 msgid "[AD] And if he wants to stay alive, he'll keep his mouth shut. But he already knows that."
@@ -11222,11 +11222,11 @@ msgstr "[RT] {i}Diaz est bien sûr effrontément sans honte à propos de sa rela
 
 # game/UpdateScript0.05.rpy:6366## # translate crowdin club_fun_5f53c871:
 msgid "[AD] So, are you excited for my next visit on Thursday?"
-msgstr ""
+msgstr "[AD] Alors, es-tu excité de ma prochaine visite jeudi?"
 
 # game/UpdateScript0.05.rpy:6368## # translate crowdin club_fun_f724470a:
 msgid "[AD] Maybe if you stop paying me, and let me get a better shot at Lauren, I'll start involving you in her punishments."
-msgstr ""
+msgstr "[AD] Peut-être que si tu arrêtes de me payer et que tu me laisses Lauren, je commencerai à t'impliquer dans ses punitions."
 
 # game/UpdateScript0.05.rpy:6369## # translate crowdin club_fun_ecd528bf:
 msgid "[R] I don't care what I have to do to get the money by Thursday every week! There is no way you'll get a shot at Lauren!"
@@ -11238,7 +11238,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6374## # translate crowdin club_fun_62ddddbe:
 msgid "[AD] I'd think you'd have all kinds of money since you're not using it to save your sister. Thanks for giving me a shot at her though."
-msgstr ""
+msgstr "[AD] Je pense que tu auras toutes sortes d'argent puisque tu ne l'utilises pas pour sauver ta sœur. Merci de m'avoir tiré dessus."
 
 # game/UpdateScript0.05.rpy:6375## # translate crowdin club_fun_1bc8234d:
 msgid "[R] I've only ever let you have a shot at Lauren because I didn't have the money, or I needed it elsewhere!"
@@ -11250,7 +11250,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6377## # translate crowdin club_fun_bb9adf12:
 msgid "[AD] Well, good luck with that! Much better men and women than you have tried."
-msgstr ""
+msgstr "[AD] Eh bien, bonne chance avec ça! Des hommes et des femmes bien meilleurs que toi on déjà essayés."
 
 # game/UpdateScript0.05.rpy:6378## # translate crowdin club_fun_41fe950b:
 msgid "[R] Well, Fuck you very much too, and now I'd like to watch the show."
@@ -11258,7 +11258,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6381## # translate crowdin club_fun_a3e0b05b:
 msgid "[AD] Back again I see."
-msgstr ""
+msgstr "[AD] De retour, je vois."
 
 # game/UpdateScript0.05.rpy:6384## # translate crowdin club_fun_2f70893e:
 msgid "[R] Ahhh.... Agent Diaz.... I thought I smelled brimstone!"
@@ -11266,7 +11266,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6387## # translate crowdin club_fun_93660b2a:
 msgid "[AD] Nice to see you too. How's Lauren? Is she asking about me?"
-msgstr ""
+msgstr "[AD] Ravi de te voir aussi. Comment va Lauren ? Elle pose des questions sur moi ?"
 
 # game/UpdateScript0.05.rpy:6388## # translate crowdin club_fun_41fe950b_1:
 msgid "[R] Well, Fuck you very much too, and now I'd like to watch the show."
@@ -11330,7 +11330,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6459## # translate crowdin club_fun_39c40c23_1:
 msgid "[AD] Well, There's a face I recognize."
-msgstr ""
+msgstr "[AD] Eh bien, il y a un visage que je reconnais."
 
 # game/UpdateScript0.05.rpy:6462## # translate crowdin club_fun_1fff4d87_1:
 msgid "[R] Oh!.... Holy shit! Agent Diaz?"
@@ -11342,11 +11342,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6466## # translate crowdin club_fun_bda03f89_1:
 msgid "[AD] Haha.... I'm sure it was."
-msgstr ""
+msgstr "[AD] Haha.... J'en suis sûre."
 
 # game/UpdateScript0.05.rpy:6467## # translate crowdin club_fun_139165bf_1:
 msgid "[AD] So, you decided to come watch a stripshow from somewhere else besides behind the corner?"
-msgstr ""
+msgstr "[AD] Alors, tu as décidé de venir regarder un strip-tease ailleurs que derrière ?"
 
 # game/UpdateScript0.05.rpy:6468## # translate crowdin club_fun_e3e1969b_1:
 msgid "[R] How did you know?...."
@@ -11354,7 +11354,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6469## # translate crowdin club_fun_f5b4e4a7_1:
 msgid "[AD] I know the cleaning lady pretty well, and she's no fan of yours, and everyone here just assumes it was you, and now you just confirmed it."
-msgstr ""
+msgstr "[AD] Je connais assez bien la femme de ménage, et elle n'est pas toi, et tout le monde ici supposait que c'était toi, et maintenant tu viens de le confirmer."
 
 # game/UpdateScript0.05.rpy:6470## # translate crowdin club_fun_5947ed88_1:
 msgid "[R] Shit!...."
@@ -11362,7 +11362,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6473## # translate crowdin club_fun_e9fde76c_1:
 msgid "[AD] Hahaha.... Don't worry about it! This is a strip club, they see all kinds of weird shit."
-msgstr ""
+msgstr "[AD] Hahaha.... Ne t'en fais pas ! C'est un club de strip-tease, ils voient toutes sortes de trucs bizarres."
 
 # game/UpdateScript0.05.rpy:6474## # translate crowdin club_fun_b903ac7a:
 msgid "[R] I'm really surprised to see you here with badge on display."
@@ -11378,7 +11378,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6479## # translate crowdin club_fun_6b49bcf8_1:
 msgid "[AD] They just assume I'm working an informant."
-msgstr ""
+msgstr "[AD] Ils supposent simplement que je travaille comme informateur."
 
 # game/UpdateScript0.05.rpy:6480## # translate crowdin club_fun_7b51caaf_1:
 msgid "[AD] And the DeCapos give me some small time criminals from outside the family from time to time."
@@ -11386,11 +11386,11 @@ msgstr "[AD] Et les DeCapos me donnent de temps en temps quelques criminels de l
 
 # game/UpdateScript0.05.rpy:6481## # translate crowdin club_fun_53fab5ae_1:
 msgid "[AD] Then I just tell the FBI they are part of the DeCapo family, and they are pleased as can be."
-msgstr ""
+msgstr "[AD] Ensuite, je dis simplement au FBI qu'ils font partie de la famille DeCapo, et ils sont heureux comme ils peuvent l'être."
 
 # game/UpdateScript0.05.rpy:6482## # translate crowdin club_fun_3bcced45_1:
 msgid "[AD] The DeCapos further their interests, and I get promoted."
-msgstr ""
+msgstr "[AD] Les DeCapos poursuivent leurs intérêts, et je suis promu."
 
 # game/UpdateScript0.05.rpy:6483## # translate crowdin club_fun_8f1aa7ce_1:
 msgid "[R] Do you mean small time criminals like my dad?"
@@ -11398,7 +11398,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6484## # translate crowdin club_fun_8f5ea312_1:
 msgid "[AD] Exactly.... Only we weren't responsible for that one. We wouldn't purposefully incarcerate your dad. He knows too much about the DeCapos."
-msgstr ""
+msgstr "[AD] Exactement.... Seulement, nous n'étions pas responsables de cela. On n'emprisonnerait pas ton père. Il en sait trop sur les DéCapos."
 
 # game/UpdateScript0.05.rpy:6485## # translate crowdin club_fun_30e134bc_1:
 msgid "[AD] And if he wants to stay alive, he'll keep his mouth shut. But he already knows that."
@@ -11410,11 +11410,11 @@ msgstr "[RT] {i}Diaz est bien sûr effrontément sans honte à propos de sa rela
 
 # game/UpdateScript0.05.rpy:6487## # translate crowdin club_fun_5f53c871_1:
 msgid "[AD] So, are you excited for my next visit on Thursday?"
-msgstr ""
+msgstr "[AD] Alors, es-tu excité de ma prochaine visite jeudi?"
 
 # game/UpdateScript0.05.rpy:6488## # translate crowdin club_fun_f724470a_1:
 msgid "[AD] Maybe if you stop paying me, and let me get a better shot at Lauren, I'll start involving you in her punishments."
-msgstr ""
+msgstr "[AD] Peut-être que si tu arrêtes de me payer et que tu me laisses Lauren, je commencerai à t'impliquer dans ses punitions."
 
 # game/UpdateScript0.05.rpy:6490## # translate crowdin club_fun_ecd528bf_1:
 msgid "[R] I don't care what I have to do to get the money by Thursday every week! There is no way you'll get a shot at Lauren!"
@@ -11434,7 +11434,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6497## # translate crowdin club_fun_bb9adf12_1:
 msgid "[AD] Well, good luck with that! Much better men and women than you have tried."
-msgstr ""
+msgstr "[AD] Eh bien, bonne chance avec ça! Des hommes et des femmes bien meilleurs que toi on déjà essayés."
 
 # game/UpdateScript0.05.rpy:6498## # translate crowdin club_fun_41fe950b_2:
 msgid "[R] Well, Fuck you very much too, and now I'd like to watch the show."
@@ -11442,7 +11442,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6501## # translate crowdin club_fun_a3e0b05b_1:
 msgid "[AD] Back again I see."
-msgstr ""
+msgstr "[AD] De retour, je vois."
 
 # game/UpdateScript0.05.rpy:6504## # translate crowdin club_fun_cfcd0266:
 msgid "[R] Ahhh.... Agent Diaz.... I thought I smelled sulfur!"
@@ -11450,7 +11450,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6507## # translate crowdin club_fun_93660b2a_1:
 msgid "[AD] Nice to see you too. How's Lauren? Is she asking about me?"
-msgstr ""
+msgstr "[AD] Ravi de te voir aussi. Comment va Lauren ? Elle pose des questions sur moi ?"
 
 # game/UpdateScript0.05.rpy:6508## # translate crowdin club_fun_41fe950b_3:
 msgid "[R] Well, Fuck you very much too, and now I'd like to watch the show."
