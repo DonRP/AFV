@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-05 22:01\n"
+"PO-Revision-Date: 2022-02-19 12:06\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Phone_event_screen.rpy:859## # translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -434,7 +434,7 @@ msgstr "[RT] {i}je dois terminer l’événement 29 ou 30 avant de pouvoir comme
 
 # game/Phone_event_screen.rpy:1224## # translate crowdin event_info_39_e4bb07c4:
 msgid "[RT] {i}I need to keep meeting with the campaign team in the girls bathroom in the afternoon. Lauren is sure to come up with some good strategies.{/i}"
-msgstr "[RT] {i}J'ai besoin de rencontrer l'équipe de campagne dans les toilettes des filles dans l'après-midi. Lauren va surement trouver de bonnes stratégies. { /i }"
+msgstr "[RT] {i}J'ai besoin de rencontrer l'équipe de campagne dans les toilettes des filles dans l'après-midi. Lauren va surement trouver de bonnes stratégies. {/i}"
 
 # game/Phone_event_screen.rpy:1227## # translate crowdin event_info_39_6d1efae0:
 msgid "[RT] {i}We decided it would be good to visit Diaz and see if she can dig up some dirt on Matt. I can probably find her van on my map on a weekday evening.{/i}"
@@ -574,7 +574,7 @@ msgstr "[RT] {i}je dois terminer l’événement 11 avant de pouvoir commencer �
 
 # game/Phone_event_screen.rpy:1351## # translate crowdin event_info_51_89d7214a:
 msgid "[RT] {i}I'll bet Aunt Cami will be angry about the pictures I took of Cousin Mandy. I should just wait for her visit.{/i}"
-msgstr "[RT] {i}je parie que tante Cami sera en colère contre les photos que j’ai prises de la cousine Mandy. Je devrais juste attendre sa visite. {/i}"
+msgstr "[RT] {i}je parie que tante Camille sera en colère contre les photos que j’ai prises de la cousine Mandy. Je devrais juste attendre sa visite. {/i}"
 
 # game/Phone_event_screen.rpy:1353## # translate crowdin event_info_51_0fdc3e88:
 msgid "[RT] {i}I've heard rumor that there's been some heat on Uncle Bobby I wonder if I'll hear from him soon.{/i}"
@@ -590,7 +590,7 @@ msgstr "[RT] {i}je dois terminer l’événement 51 avant de pouvoir commencer �
 
 # game/Phone_event_screen.rpy:1363## # translate crowdin event_info_52_7b8ce07a:
 msgid "[RT] {i}I should keep visiting Sidney in the evenings until Aunt Cami comes to visit again.{/i}"
-msgstr "[RT] {i}je devrais continuer à rendre visite à Sidney le soir jusqu’à ce que tante Cami vienne lui rendre visite à nouveau. {/i}"
+msgstr "[RT] {i}je devrais continuer à rendre visite à Sidney le soir jusqu’à ce que tante Camille vienne lui rendre visite à nouveau. {/i}"
 
 # game/Phone_event_screen.rpy:1369## # translate crowdin event_info_53_e449431f:
 msgid "[RT] {i}I need to complete event 52 before I can begin working on event 53.{/i}"
@@ -602,11 +602,11 @@ msgstr "[RT] {i}je devrais continuer à visiter le salon en fin de matinée jusq
 
 # game/Phone_event_screen.rpy:1373## # translate crowdin event_info_53_a21fc395:
 msgid "[RT] {i}I should keep going to the kitchen in the late morning until I can assign Aunt Cami a chore to work on.{/i}"
-msgstr "[RT] {i}je devrais continuer à aller à la cuisine en fin de matinée jusqu’à ce que je puisse assigner à tante Cami une corvée pour la faire travailler. {/i}"
+msgstr "[RT] {i}je devrais continuer à aller à la cuisine en fin de matinée jusqu’à ce que je puisse assigner à tante Camille une corvée pour la faire travailler. {/i}"
 
 # game/Phone_event_screen.rpy:1375## # translate crowdin event_info_53_2f25f546:
 msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can do something even more mischievous to her in the bathroom.{/i}"
-msgstr "[RT] {i}j’ai besoin de développer la libido ou la soumission de tante Cami afin de pouvoir lui faire quelque chose d’encore plus vicieux dans la salle de bain. {/i}"
+msgstr "[RT] {i}j’ai besoin de développer la libido ou la soumission de tante Camille afin de pouvoir lui faire quelque chose d’encore plus vicieux dans la salle de bain. {/i}"
 
 # game/Phone_event_screen.rpy:1381## # translate crowdin event_info_54_fbd675dc:
 msgid "[RT] {i}I need to start working of event 53 before I can begin working on event 54.{/i}"
@@ -614,7 +614,7 @@ msgstr "[RT] {i}je dois commencer à travailler sur l’événement 53 avant de 
 
 # game/Phone_event_screen.rpy:1383## # translate crowdin event_info_54_730ba105:
 msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can make a deal with her in the lounge.{/i}"
-msgstr "[RT] {i}je dois développer la libido ou la soumission de tante Cami afin de pouvoir conclure un accord avec elle dans le salon. {/i}"
+msgstr "[RT] {i}je dois développer la libido ou la soumission de tante Camille afin de pouvoir conclure un accord avec elle dans le salon. {/i}"
 
 # game/Phone_event_screen.rpy:1389## # translate crowdin event_info_55_ca299051:
 msgid "[RT] {i}I need to start working of event 53 before I can begin working on event 55.{/i}"
@@ -622,7 +622,7 @@ msgstr "[RT] {i}je dois commencer à travailler sur l’événement 53 avant de 
 
 # game/Phone_event_screen.rpy:1391## # translate crowdin event_info_55_9c0e2742:
 msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can make a deal with her in the kitchen.{/i}"
-msgstr "[RT] {i}j’ai besoin de développer la libido ou la soumission de tante Cami afin de pouvoir conclure un accord avec elle dans la cuisine. {/i}"
+msgstr "[RT] {i}j’ai besoin de développer la libido ou la soumission de tante Camille afin de pouvoir conclure un accord avec elle dans la cuisine. {/i}"
 
 # game/Phone_event_screen.rpy:1397## # translate crowdin event_info_56_e559f0b3:
 msgid "[RT] {i}I need to complete either event 29 or 30 before I can start on this event.{/i}"
@@ -746,7 +746,7 @@ msgstr "[RT] {i}je dois terminer l’événement 58 avant de pouvoir commencer c
 
 # game/Phone_event_screen.rpy:1495## # translate crowdin event_info_65_1a28dd4a:
 msgid "[RT] {i}Aunt Cami always showers in the afternoon, I wonder what I'll see if I spy on her when her libido is full.{/i}"
-msgstr "[RT] {i}Tante Cami prend toujours une douche l’après-midi, je me demande ce que je vais voir si je l’espionne quand sa libido est au max. {/i}"
+msgstr "[RT] {i}tante Camilleprend toujours une douche l’après-midi, je me demande ce que je vais voir si je l’espionne quand sa libido est au max. {/i}"
 
 # game/Phone_event_screen.rpy:1500## # translate crowdin event_info_66_7b791f8b:
 msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
@@ -754,7 +754,7 @@ msgstr "[RT] {i}je dois terminer l’événement 58 avant de pouvoir commencer c
 
 # game/Phone_event_screen.rpy:1502## # translate crowdin event_info_66_87fe1c2d:
 msgid "[RT] {i}Aunt Cami's always alone in Mom's room in the evening. I wonder what I'll see if her libido is full.{/i}"
-msgstr "[RT] {i}tante Cami est toujours seule dans la chambre de maman le soir. Je me demande ce que je vais voir si sa libido est au max. {/i}"
+msgstr "[RT] {i}tante Camille est toujours seule dans la chambre de maman le soir. Je me demande ce que je vais voir si sa libido est au max. {/i}"
 
 # game/Phone_event_screen.rpy:1507## # translate crowdin event_info_67_7b791f8b:
 msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
