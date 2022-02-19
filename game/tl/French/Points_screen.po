@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-04 21:26\n"
+"PO-Revision-Date: 2022-02-19 12:05\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Points_screen.rpy:115
 msgid "Mom's stats:"
@@ -87,23 +87,23 @@ msgstr ""
 
 #    # game/Points_screen.rpy:188
 msgid "[auntaffection]"
-msgstr ""
+msgstr "[auntaffection]"
 
 #    # game/Points_screen.rpy:189
 msgid "[auntrespect]"
-msgstr ""
+msgstr "[auntrespect]"
 
 #    # game/Points_screen.rpy:190
 msgid "[auntlibido]"
-msgstr ""
+msgstr "[auntlibido]"
 
 #    # game/Points_screen.rpy:191
 msgid "[auntsubmission]"
-msgstr ""
+msgstr "[auntsubmission]"
 
 #    # game/Points_screen.rpy:192
 msgid "[auntanger]"
-msgstr ""
+msgstr "[auntanger]"
 
 #    # game/Points_screen.rpy:202
 msgid "Mandy's stats:"
@@ -131,9 +131,9 @@ msgstr ""
 
 #    # game/Points_screen.rpy:217
 msgid "<<"
-msgstr ""
+msgstr "<<"
 
 #    # game/Points_screen.rpy:228
 msgid ">>"
-msgstr ""
+msgstr ">>"
 
