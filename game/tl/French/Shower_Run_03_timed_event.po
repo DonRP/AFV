@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-04 21:27\n"
+"PO-Revision-Date: 2022-02-19 12:06\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125## # translate crowdin Shower_Run03_game_start_lbl_3033e668:
 msgid "[RT] {i}I can't even believe my luck.{/i}"
@@ -22,7 +22,7 @@ msgstr "[RT] {i}Dieu merci!... Je l’ai fait!... Et le chemin est libre vers la
 
 # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:142## # translate crowdin Shower_Run03_game_end_lbl_e6a7c3df:
 msgid "[RT] {i}Those swimmers have sexy bodies... I wish Kenzie had her suit off.{/i}"
-msgstr "[RT] {i}Ces nageuses ont des corps sexy ... J'aimerais que Kenzie enlève son costume. { /i }"
+msgstr "[RT] {i}Ces nageuses ont des corps sexy ... J'aimerais que Kenzie enlève son costume. {/i}"
 
 # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:143## # translate crowdin Shower_Run03_game_end_lbl_7844f44d:
 msgid "[RT] {i}I've got to stop staring and focus on getting past them.{/i}"
