@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-04 21:26\n"
+"PO-Revision-Date: 2022-02-19 12:05\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## # game/Shopping_gallery.rpy:253## # translate crowdin online_shopping_d0d5deb3:
 msgid "[RT] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -502,7 +502,7 @@ msgstr "[RT] {i}je ne sais pas à quoi je vais l’utiliser, mais ça ne fait ja
 
 # game/Shopping_gallery.rpy:635## # translate crowdin buying_label_ee2b767d_17:
 msgid "[RT] {i}Not right now.{/i}"
-msgstr "[RT] {i}Pas maintenant. { /i }"
+msgstr "[RT] {i}Pas maintenant. {/i}"
 
 # game/Shopping_gallery.rpy:637## # translate crowdin buying_label_6b949452:
 msgid "[RT] {i}Here we go... Perry Hotter and the Sorceror's Bone.{/i}"
