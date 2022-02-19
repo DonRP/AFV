@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-04 21:26\n"
+"PO-Revision-Date: 2022-02-19 12:05\n"
 
 # TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/character.rpy:43
 msgid "[ryan]'s Thoughts"
@@ -30,7 +30,7 @@ msgstr "Les pensées de Lauren"
 
 #    # game/character.rpy:50
 msgid "Joey"
-msgstr ""
+msgstr "Joey"
 
 #    # game/character.rpy:51
 msgid "Mafia Goon"
@@ -42,7 +42,7 @@ msgstr "Voix par le micro"
 
 #    # game/character.rpy:53
 msgid "?????"
-msgstr ""
+msgstr "?????"
 
 #    # game/character.rpy:56
 msgid "Sidney's Thoughts"
@@ -50,7 +50,7 @@ msgstr "Les pensées de Sidney"
 
 #    # game/character.rpy:57
 msgid "Megan"
-msgstr ""
+msgstr "Megan"
 
 #    # game/character.rpy:59
 msgid "Mandy's Thoughts"
