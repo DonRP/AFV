@@ -15,6 +15,7 @@ msgid \"""",
     """    old \"""": """msgid  \"""",
     """    new \"""": """msgstr  \"""",
     """\" nointeract""": """ [nointeract]\"""",
+    """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """    """: """msgstr \"""",
     # ch
     """ \"RT \"""": """ \"[RT] """,
@@ -39,6 +40,23 @@ msgid \"""",
     """ \"VOM \"""": """ \"[VOM] """,
     """ \"MD \"""": """ \"[MD] """,
     """ \"G \"""": """ \"[G] """,
+    """ \"HGT \"""": """ \"[HGT] """,
+    """ \"LT \"""": """ \"[LT] """,
+    """ \"EV \"""": """ \"[EV] """,
+    """ \"MB \"""": """ \"[MB] """,
+    """ \"MGT \"""": """ \"[MGT] """,
+    """ \"WTT \"""": """ \"[WTT] """,
+    """ \"MST \"""": """ \"[MST] """,
+    """ \"CMT \"""": """ \"[CMT] """,
+    """ \"MS \"""": """ \"[MS] """,
+    """ \"DS \"""": """ \"[DS] """,
+    """ \"RLT_dealer \"""": """ \"[RLT_dealer] """,
+    """ \"WT \"""": """ \"[WT] """,
+    """ \"GF \"""": """ \"[GF] """,
+    """ \"GP \"""": """ \"[GP] """,
+    """ \"GCP \"""": """ \"[GCP] """,
+    """ \"D \"""": """ \"[D] """,
+
     """
  ## translate crowdin strings:
 
@@ -46,6 +64,12 @@ msgid \"""",
 
 #@@translate crowdin strings:@@
 """,
+
+
+    # date
+    """12:36
+
+# game""": """HH:HH# game""",
 }
 
 
@@ -81,11 +105,6 @@ def getListFiles():
     # Get the list of all files and directories
     path = "tl/"
     dir_list = glob(path + "/**/*.po", recursive=True)
-
-    print("Files and directories in '", path, "' :")
-
-    # prints all files
-    print(dir_list)
     return dir_list
 
 
