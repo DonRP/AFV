@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-20 15:03\n"
+"PO-Revision-Date: 2022-02-20 17:51\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1
+# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2
+# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3
+# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
