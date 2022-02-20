@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-02-20 15:04\n"
+"PO-Revision-Date: 2022-02-20 17:52\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
 msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:270 ## translate crowdin night_warning_48ae09e0
+# game/Phone_interface.rpy:270 ## translate crowdin night_warning_48ae09e0:
 msgid "[RT] {i}It's night, I should go to sleep.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:275 ## translate crowdin school_warning_1afbbf5b
+# game/Phone_interface.rpy:275 ## translate crowdin school_warning_1afbbf5b:
 msgid "[RT] {i}Right now I'm at School, I must first go home to advance time.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:280 ## translate crowdin campaign_warning_88e99dc5
+# game/Phone_interface.rpy:280 ## translate crowdin campaign_warning_88e99dc5:
 msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:477 ## translate crowdin memes_time_skip_e011db0e
+# game/Phone_interface.rpy:477 ## translate crowdin memes_time_skip_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:485 ## translate crowdin memes_time_skip_e011db0e_1
+# game/Phone_interface.rpy:485 ## translate crowdin memes_time_skip_e011db0e_1:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:491 ## translate crowdin memes_time_skip_e011db0e_2
+# game/Phone_interface.rpy:491 ## translate crowdin memes_time_skip_e011db0e_2:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:497 ## translate crowdin memes_time_skip_e011db0e_3
+# game/Phone_interface.rpy:497 ## translate crowdin memes_time_skip_e011db0e_3:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
-# game/Phone_interface.rpy:510 ## translate crowdin memes_time_skip_e011db0e_4
+# game/Phone_interface.rpy:510 ## translate crowdin memes_time_skip_e011db0e_4:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr ""
 
