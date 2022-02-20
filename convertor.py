@@ -141,7 +141,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 
 def getListFiles():
     # Get the list of all files and directories
-    path = "tl/"
+    path = "tl/game/"
     dir_list = glob(path + "/**/*.rpy", recursive=True)
     return dir_list
 
