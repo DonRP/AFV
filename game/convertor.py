@@ -57,6 +57,15 @@ msgid \"""",
     """ \"GCP \"""": """ \"[GCP] """,
     """ \"D \"""": """ \"[D] """,
 
+    # Fix
+    """msgstr \"\"[""": """msgstr \"[@""",
+    """msgid \"\"[""": """msgid \"[@""",
+
+
+
+    """:@@
+##@## game""": """:@@##@## game""",
+
     """
  ## translate crowdin strings:
 
