@@ -28,9 +28,11 @@ msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
 msgid "You lose!"
 msgstr "Vous avez perdu !"
 
+# XX## game/Brain_game.rpy:519
 msgid "YOU WON!!!"
 msgstr "VOUS AVEZ GAGNÉ !!!"
 

@@ -10,33 +10,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-02-20 15:03\n"
+"PO-Revision-Date: 2022-02-20 18:56\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Gallery_AFV_v0.2.rpy:225
 msgid "Mom's gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:393
 msgid "Lauren's gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:521
 msgid "Sidney's gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:667
 msgid "Aunt Camille's gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:756
 msgid "Mandy's gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:838
 msgid "Harem \n"
 "     gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:941
 msgid "Other girls gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:1037
 msgid "NTR gallery"
 msgstr ""
 
+# XX## game/Gallery_AFV_v0.2.rpy:1158
 msgid "Cosplay gallery"
 msgstr ""
 

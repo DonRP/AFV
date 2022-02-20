@@ -10,29 +10,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2022-02-20 15:03\n"
+"PO-Revision-Date: 2022-02-20 18:56\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid " My\n"
 "Room"
 msgstr ""
 
+# XX## game/Game_screens.rpy:77
 msgid "Bath"
 msgstr ""
 
+# XX## game/Game_screens.rpy:110
 msgid "City"
 msgstr ""
 
+# XX## game/Game_screens.rpy:125
 msgid "Hallway"
 msgstr ""
 
+# XX## game/Game_screens.rpy:134
 msgid "Class"
 msgstr ""
 
+# XX## game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
 msgstr ""
 
+# XX## game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
 msgstr ""

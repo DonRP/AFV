@@ -1236,20 +1236,25 @@ msgstr "[R] ...."
 msgid "End of tutorial."
 msgstr "Fin du tutoriel."
 
+# XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
 msgstr "[event_num]:"
 
+# XX## game/Phone_event_screen.rpy:40
 msgid "???"
 msgstr "???"
 
+# XX## game/Phone_event_screen.rpy:802
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
 msgstr "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n"
 "             indices!"
 
+# XX## game/Phone_event_screen.rpy:805
 msgid "Watch the tutorial again!"
 msgstr "Regardez le tutoriel à nouveau!"
 
+# XX## game/Phone_event_screen.rpy:811
 msgid "{color=#E60000}-------------------------------------{/color}"
 msgstr "{color=#E60000}-------------------------------------{/color}"
 

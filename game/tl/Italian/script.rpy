@@ -8256,306 +8256,407 @@ msgstr ""
 msgid "[RT] {i}Now I better get out of here before she notices me.{/i}"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/script.rpy:310
 msgid "Would you like to see the tutorial?"
 msgstr "Vuoi vedere il tutorial?"
 
+# XX## game/script.rpy:310
 msgid "Yes."
 msgstr "Sì."
 
+# XX## game/script.rpy:310
 msgid "No."
 msgstr ""
 
+# XX## game/script.rpy:317
 msgid "Skip to the end of v0.01b"
 msgstr "Salta alla fine della v0.01b"
 
+# XX## game/script.rpy:317
 msgid "Don't skip the game"
 msgstr "Non saltare il gioco"
 
+# XX## game/script.rpy:319
 msgid "Chose your route!"
 msgstr "Scegli il tuo percorso!"
 
+# XX## game/script.rpy:319
 msgid "Loyalty route"
 msgstr "Percorso della lealtà"
 
+# XX## game/script.rpy:319
 msgid "NTR route"
 msgstr "Percorso NTR"
 
+# XX## game/script.rpy:319
 msgid "Back"
 msgstr "Torna"
 
+# XX## game/script.rpy:700
 msgid "Peek down her robe"
 msgstr "Sbircia sotto la sua vestaglia"
 
+# XX## game/script.rpy:700
 msgid "Gross!! That's just weird!"
 msgstr "Che schifo! Questo è proprio strano!"
 
+# XX## game/script.rpy:780
 msgid "Lauren, what the hell are you doing?"
 msgstr "Lauren, che diavolo stai facendo?"
 
+# XX## game/script.rpy:1043
 msgid "Sleep"
 msgstr "Dormi"
 
+# XX## game/script.rpy:1043
 msgid "Never mind"
 msgstr "Non importa"
 
+# XX## game/script.rpy:1058
 msgid "Memes (Advances time)"
 msgstr "Memes (tempo di avanzamento)"
 
+# XX## game/script.rpy:1586
 msgid "Go sit down"
 msgstr "Vai a sederti"
 
+# XX## game/script.rpy:1592
 msgid "Ask Mom about her day"
 msgstr "Chiedi alla mamma della sua giornata"
 
+# XX## game/script.rpy:1592
 msgid "Ask Lauren about her day"
 msgstr "Chiedi a Lauren della sua giornata"
 
+# XX## game/script.rpy:1869
 msgid "Yes"
 msgstr "Sì"
 
+# XX## game/script.rpy:1869
 msgid "No"
 msgstr ""
 
+# XX## game/script.rpy:1993
 msgid "Skip event and sleep till tomorrow"
 msgstr "Salta l'evento e dormi fino a domani"
 
+# XX## game/script.rpy:1993
 msgid "Jump to Mafia payment event."
 msgstr "Salta l'evento del pagamento della mafia."
 
+# XX## game/script.rpy:1998
 msgid "I'll pay them $1,000."
 msgstr "Li pagherò 1.000 dollari."
 
+# XX## game/script.rpy:1998
 msgid "Shit!... I don't have enough money to pay the Mafia."
 msgstr "Merda!... Non ho abbastanza soldi per pagare la Mafia."
 
+# XX## game/script.rpy:1998
 msgid "Let Mom use her \"ass\"ets to pay the debt this week."
 msgstr "Lascia che la mamma usi le sue \"chiappe\" per pagare il debito di questa settimana."
 
+# XX## game/script.rpy:2194
 msgid "Look down"
 msgstr "Guarda in basso"
 
+# XX## game/script.rpy:2203
 msgid "Look up"
 msgstr "Guardare in alto"
 
+# XX## game/script.rpy:2227
 msgid "Cover up"
 msgstr "Coprire"
 
+# XX## game/script.rpy:2227
 msgid "\"Why should I?\""
 msgstr "\"Perché dovrei?\""
 
+# XX## game/script.rpy:2669
 msgid "Watch TV with Lauren"
 msgstr "Guarda la TV con Lauren"
 
+# XX## game/script.rpy:3346
 msgid "Look."
 msgstr "Guarda."
 
+# XX## game/script.rpy:3346
 msgid "Never mind."
 msgstr "Non importa."
 
+# XX## game/script.rpy:3634
 msgid "Peek"
 msgstr "Sbirciare"
 
+# XX## game/script.rpy:3731
 msgid "Have Dinner"
 msgstr "Cenare"
 
+# XX## game/script.rpy:3748
 msgid "Hey Mom, it's good to see you up and about!"
 msgstr "Ehi mamma, è bello vederti in piedi!"
 
+# XX## game/script.rpy:3748
 msgid "Are you drinking again?!"
 msgstr "Stai bevendo di nuovo?!"
 
+# XX## game/script.rpy:4132
 msgid "Look around"
 msgstr "Guardati intorno"
 
+# XX## game/script.rpy:4152
 msgid "Talk to Sidney"
 msgstr "Parla con Sidney"
 
+# XX## game/script.rpy:4197
 msgid "Try to keep eye contact"
 msgstr "Cerca di mantenere il contatto visivo"
 
+# XX## game/script.rpy:4218
 msgid "Just a really quick peek"
 msgstr "Solo un'occhiata veloce"
 
+# XX## game/script.rpy:4218
 msgid "Don't risk it"
 msgstr "Non rischiare"
 
+# XX## game/script.rpy:4247
 msgid "Give her money for Lauren's cosplay outfit."
 msgstr "Dalle dei soldi per il vestito da cosplay di Lauren."
 
+# XX## game/script.rpy:4247
 msgid "Ask her to work at club."
 msgstr "Chiedile di lavorare al club."
 
+# XX## game/script.rpy:4333
 msgid "Take a look"
 msgstr "Dai un'occhiata"
 
+# XX## game/script.rpy:4333
 msgid "Stay Strong"
 msgstr "Rimani forte"
 
+# XX## game/script.rpy:4349
 msgid "What do you think, slut?!"
 msgstr "Cosa ne pensi, puttana?!"
 
+# XX## game/script.rpy:4349
 msgid "Nothing!"
 msgstr "Niente!"
 
+# XX## game/script.rpy:4358
 msgid "Just walk away"
 msgstr "Vai via e basta"
 
+# XX## game/script.rpy:4489
 msgid "Knock on her door"
 msgstr "Bussa alla sua porta"
 
+# XX## game/script.rpy:4721
 msgid "Look closer."
 msgstr "Guarda più da vicino."
 
+# XX## game/script.rpy:4737
 msgid "Try using subliminal messages"
 msgstr "Prova ad usare messaggi subliminali"
 
+# XX## game/script.rpy:4737
 msgid "Just leave her alone, she's had a rough few days."
 msgstr "Lasciala in pace, ha avuto un paio di giorni difficili."
 
+# XX## game/script.rpy:4776
 msgid "Subliminal messages"
 msgstr "Messaggi subliminali"
 
+# XX## game/script.rpy:4818
 msgid "Peek through the spy-cam."
 msgstr "Sbircia attraverso la spy-cam."
 
+# XX## game/script.rpy:4818
 msgid "Nah, she's probably just sleeping."
 msgstr "No, probabilmente sta solo dormendo."
 
+# XX## game/script.rpy:4835
 msgid "Knock"
 msgstr "Bussare"
 
+# XX## game/script.rpy:4835
 msgid "Peek through spy-cam"
 msgstr "Sbircia attraverso la spy-cam"
 
+# XX## game/script.rpy:4835
 msgid "I'm just going to give her some time to cool down"
 msgstr "Le darò un pò di tempo per calmarsi"
 
+# XX## game/script.rpy:4841
 msgid "Give her a gift"
 msgstr "Dalle un regalo"
 
+# XX## game/script.rpy:4841
 msgid "I just wanted to apologize"
 msgstr "Volevo solo scusarmi"
 
+# XX## game/script.rpy:4847
 msgid "Give her a chocolate bar"
 msgstr "Dalle una barretta di cioccolato"
 
+# XX## game/script.rpy:4847
 msgid "Give her Hardnlong gift card"
 msgstr "Dalle una carta regalo Hardnlong"
 
+# XX## game/script.rpy:4847
 msgid "Give her flowers"
 msgstr "Dalle dei fiori"
 
+# XX## game/script.rpy:5091
 msgid "Get a closer look"
 msgstr "Guardare più da vicino"
 
+# XX## game/script.rpy:5091
 msgid "Why would I even think of looking?"
 msgstr "Perché dovrei anche solo pensare di guardare?"
 
+# XX## game/script.rpy:5275
 msgid "Use spy-cam."
 msgstr "Usa la spy-cam."
 
+# XX## game/script.rpy:5275
 msgid "Not right now."
 msgstr "Non in questo momento."
 
+# XX## game/script.rpy:5381
 msgid "Take a peek."
 msgstr "Dai una sbirciata."
 
+# XX## game/script.rpy:5396
 msgid "Let's just take a peek at what she's doing."
 msgstr "Diamo una sbirciata a quello che sta facendo."
 
+# XX## game/script.rpy:5855
 msgid "Yes, I need an ally"
 msgstr "Sì, ho bisogno di un alleato"
 
+# XX## game/script.rpy:5899
 msgid "More subliminal messages!"
 msgstr "Altri messaggi subliminali!"
 
+# XX## game/script.rpy:5899
 msgid "Not tonight."
 msgstr "Non stasera."
 
+# XX## game/script.rpy:6017
 msgid "Spy on Sidney"
 msgstr "Spiare Sidney"
 
+# XX## game/script.rpy:6017
 msgid "Keep looking around"
 msgstr "Continua a guardarsi intorno"
 
+# XX## game/script.rpy:6103
 msgid "Just a little bit"
 msgstr "Solo un pochino"
 
+# XX## game/script.rpy:6103
 msgid "Nothing"
 msgstr "Niente"
 
+# XX## game/script.rpy:6140
 msgid "Of course!"
 msgstr "Ma certo!"
 
+# XX## game/script.rpy:6197
 msgid "Continue sneaking"
 msgstr "Continua a spiare di nascosto"
 
+# XX## game/script.rpy:6197
 msgid "Leave"
 msgstr "Lascia"
 
+# XX## game/script.rpy:6621
 msgid "Attend Class"
 msgstr "Frequentare la lezione"
 
+# XX## game/script.rpy:6621
 msgid "Start Election Campaign Storyline"
 msgstr "Iniziare la storyline della campagna elettorale"
 
+# XX## game/script.rpy:6673
 msgid "Talk to Mom about Oedipus assignment"
 msgstr "Parla alla mamma del compito di Edipo"
 
+# XX## game/script.rpy:6854
 msgid "Accept Matt's help (\"WARNING\" future NTR content)"
 msgstr "Accettare l'aiuto di Matt (\"ATTENZIONE\" futuro contenuto NTR)"
 
+# XX## game/script.rpy:6854
 msgid "Tell Matt to go fuck himself"
 msgstr "Dire a Matt di andare a farsi fottere"
 
+# XX## game/script.rpy:7054
 msgid "Just the tip"
 msgstr "Solo la punta"
 
+# XX## game/script.rpy:7054
 msgid "Throat Fuck"
 msgstr "Scopare la gola"
 
+# XX## game/script.rpy:7065
 msgid "Deeper"
 msgstr "Più profondo"
 
+# XX## game/script.rpy:7065
 msgid "Cum"
 msgstr "Sborra"
 
+# XX## game/script.rpy:7114
 msgid "Down Megan's throat"
 msgstr "Nella gola di Megan"
 
+# XX## game/script.rpy:7114
 msgid "All over her face"
 msgstr "Su tutta la sua faccia"
 
+# XX## game/script.rpy:7422
 msgid "Make Deliveries"
 msgstr "Fare consegne"
 
+# XX## game/script.rpy:7479
 msgid "Pick up Items"
 msgstr "Raccogliere oggetti"
 
+# XX## game/script.rpy:7479
 msgid "Go to Photo Studio."
 msgstr "Vai allo Studio fotografico."
 
+# XX## game/script.rpy:7479
 msgid "Return to Map"
 msgstr "Ritorna alla mappa"
 
+# XX## game/script.rpy:7975
 msgid "Tell them about the conversation with Uncle Bobby"
 msgstr "Raccontagli della conversazione con lo zio Bobby"
 
+# XX## game/script.rpy:7990
 msgid "Tell them about visit with Uncle Bobby"
 msgstr "Raccontagli della visita con lo zio Bobby"
 
+# XX## game/script.rpy:8135
 msgid "Stay and Watch"
 msgstr "Resta a guardare"
 
+# XX## game/script.rpy:8135
 msgid "Go home"
 msgstr "Torna a casa"
 
+# XX## game/script.rpy:8167
 msgid "Keep Watching"
 msgstr "Continua a guardare"
 
+# XX## game/script.rpy:8306
 msgid "Go answer the door"
 msgstr "Vai a rispondere alla porta"
 
+# XX## game/script.rpy:8320
 msgid "No (lie)"
 msgstr "No (bugia)"
 

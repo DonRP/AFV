@@ -33256,321 +33256,427 @@ msgstr ""
 msgid "[R] Sidney, wait!"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.06.rpy:6
 msgid "SWAT Guy"
 msgstr "Ragazzo della SWAT"
 
+# XX## game/UpdateScript0.06.rpy:7
 msgid "Charlie the Chin"
 msgstr "Charlie il mento"
 
+# XX## game/UpdateScript0.06.rpy:8
 msgid "Voice on Phone"
 msgstr "Voce al telefono"
 
+# XX## game/UpdateScript0.06.rpy:9
 msgid "Stripper"
 msgstr "Spogliatore"
 
+# XX## game/UpdateScript0.06.rpy:10
 msgid "Stripper's Thoughts"
 msgstr "Pensieri di una spogliarellista"
 
+# XX## game/UpdateScript0.06.rpy:11
 msgid "Candy"
 msgstr "Caramella"
 
+# XX## game/UpdateScript0.06.rpy:12
 msgid "Candy's Thoughts"
 msgstr "Pensieri di Candy"
 
+# XX## game/UpdateScript0.06.rpy:13
 msgid "Player 1"
 msgstr "Giocatore 1"
 
+# XX## game/UpdateScript0.06.rpy:14
 msgid "Hermione Bang'er"
 msgstr "Hermione Bang'er"
 
+# XX## game/UpdateScript0.06.rpy:15
 msgid "Hermione's Thoughts"
 msgstr "I pensieri di Hermione"
 
+# XX## game/UpdateScript0.06.rpy:16
 msgid "Professor McGargleCum"
 msgstr "Professore McGargleCum"
 
+# XX## game/UpdateScript0.06.rpy:17
 msgid "Professor McGargleCum's Thoughts"
 msgstr "I pensieri del professor McGargleCum"
 
+# XX## game/UpdateScript0.06.rpy:18
 msgid "Eerie Voice"
 msgstr "Voce inquietante"
 
+# XX## game/UpdateScript0.06.rpy:19
 msgid "Megan's Thoughts"
 msgstr "I pensieri di Megan"
 
+# XX## game/UpdateScript0.06.rpy:20
 msgid "Will Tylor's Thoughts"
 msgstr "I pensieri di Will Tylor"
 
+# XX## game/UpdateScript0.06.rpy:767
 msgid "If I can watch what happens in the van later, I will."
 msgstr "Se posso guardare cosa succede nel furgone più tardi, lo farò."
 
+# XX## game/UpdateScript0.06.rpy:767
 msgid "Alright... anything to get that image of Diaz in the van out of my head."
 msgstr "Va bene... qualsiasi cosa per togliermi dalla testa l'immagine di Diaz nel furgone."
 
+# XX## game/UpdateScript0.06.rpy:991
 msgid "I'm in!"
 msgstr "Ci sto!"
 
+# XX## game/UpdateScript0.06.rpy:991
 msgid "Only if Aunt Cami does."
 msgstr "Solo se lo fa la zia Cami."
 
+# XX## game/UpdateScript0.06.rpy:1174
 msgid "Mess around."
 msgstr "Fare casino in giro."
 
+# XX## game/UpdateScript0.06.rpy:1174
 msgid "Go to sleep."
 msgstr "Vai a dormire."
 
+# XX## game/UpdateScript0.06.rpy:1191
 msgid "Sixty nine."
 msgstr "Sessantanove."
 
+# XX## game/UpdateScript0.06.rpy:1191
 msgid "Have sex!"
 msgstr "Fate sesso!"
 
+# XX## game/UpdateScript0.06.rpy:1777
 msgid "NO"
 msgstr "NO"
 
+# XX## game/UpdateScript0.06.rpy:2497
 msgid "Peek up her skirt."
 msgstr "Sbirciare sotto la sua gonna."
 
+# XX## game/UpdateScript0.06.rpy:2497
 msgid "Better Not."
 msgstr "Meglio di no."
 
+# XX## game/UpdateScript0.06.rpy:3151
 msgid "I should leave."
 msgstr "Dovrei andarmene."
 
+# XX## game/UpdateScript0.06.rpy:3198
 msgid "look closer"
 msgstr "guarda più da vicino"
 
+# XX## game/UpdateScript0.06.rpy:3198
 msgid "Resist and say hi"
 msgstr "Resistere e salutare"
 
+# XX## game/UpdateScript0.06.rpy:3441
 msgid "Footjob."
 msgstr "Pompino."
 
+# XX## game/UpdateScript0.06.rpy:3441
 msgid "Hotdog her ass."
 msgstr "Hotdog il suo culo."
 
+# XX## game/UpdateScript0.06.rpy:3537
 msgid "Take off her panties."
 msgstr "Toglierle le mutandine."
 
+# XX## game/UpdateScript0.06.rpy:3602
 msgid "Take off her bra."
 msgstr "Toglierle il reggiseno."
 
+# XX## game/UpdateScript0.06.rpy:3613
 msgid "How about a foot job?"
 msgstr "Che ne dici di un lavoro ai piedi?"
 
+# XX## game/UpdateScript0.06.rpy:3674
 msgid "Check spycam."
 msgstr "Controlla la spycam."
 
+# XX## game/UpdateScript0.06.rpy:3674
 msgid "Who cares?"
 msgstr "Chi se ne frega?"
 
+# XX## game/UpdateScript0.06.rpy:3980
 msgid "Knock."
 msgstr "Bussare."
 
+# XX## game/UpdateScript0.06.rpy:4061
 msgid "Fuck Lauren's thighs"
 msgstr "Scopare le cosce di Lauren"
 
+# XX## game/UpdateScript0.06.rpy:4249
 msgid "knock"
 msgstr "bussare"
 
+# XX## game/UpdateScript0.06.rpy:4249
 msgid "Leave them alone tonight."
 msgstr "Lasciateli in pace stasera."
 
+# XX## game/UpdateScript0.06.rpy:4263
 msgid "Flash them."
 msgstr "Fagli un flash."
 
+# XX## game/UpdateScript0.06.rpy:4339
 msgid "Truth"
 msgstr "Verità"
 
+# XX## game/UpdateScript0.06.rpy:4339
 msgid "Dare"
 msgstr "Osare"
 
+# XX## game/UpdateScript0.06.rpy:4351
 msgid "Aunt Cami"
 msgstr "Zia Cami"
 
+# XX## game/UpdateScript0.06.rpy:4351
 msgid "Uncle Bobby"
 msgstr "Zio Bobby"
 
+# XX## game/UpdateScript0.06.rpy:4659
 msgid "Take a look."
 msgstr "Andiamo a dare un'occhiata ai vestiti."
 
+# XX## game/UpdateScript0.06.rpy:4659
 msgid "I don't feel like it."
 msgstr "Non ne ho voglia."
 
+# XX## game/UpdateScript0.06.rpy:4682
 msgid "Mischief with Lauren"
 msgstr "Maldicenze con Lauren"
 
+# XX## game/UpdateScript0.06.rpy:4682
 msgid "Not tonight"
 msgstr "Non stasera"
 
+# XX## game/UpdateScript0.06.rpy:4697
 msgid "Lift her shirt"
 msgstr "Sollevare la sua camicia"
 
+# XX## game/UpdateScript0.06.rpy:4702
 msgid "Use Lauren's hand."
 msgstr "Usa la mano di Lauren."
 
+# XX## game/UpdateScript0.06.rpy:4702
 msgid "Use Lauren's feet."
 msgstr "Usa i piedi di Lauren."
 
+# XX## game/UpdateScript0.06.rpy:4792
 msgid "lift her shirt"
 msgstr "sollevare la sua camicia"
 
+# XX## game/UpdateScript0.06.rpy:4915
 msgid "Truth (always a safe bet)"
 msgstr "Verità (sempre una scommessa sicura)"
 
+# XX## game/UpdateScript0.06.rpy:4915
 msgid "Safe dare ({i}Submission {b}5 {color=#0000ff}or{/color}{/b} Libido {b}8{/b}{/i} )"
 msgstr "Obbligo sicuro ({i}Sottomissione {b}5 {color=#0000ff}o{/color}{/b} Libido {b}8{/b}{/i} )"
 
+# XX## game/UpdateScript0.06.rpy:4915
 msgid "Slightly risky dare ({i}Submission {b}8 {color=#0000ff}or{/color}{/b} Libido {b}9{/b}{/i} )"
 msgstr "Obbligo leggermente rischioso ({i}Sottomissione {b}8 {color=#0000ff}o{/color}{/b} Libido {b}9{/b}{/i} )"
 
+# XX## game/UpdateScript0.06.rpy:4915
 msgid "Risky dare ({i}Submission {b}12{/b}{/i} )"
 msgstr "Osare rischioso ({i}Presentazione {b}12 {/b} {/i} )"
 
+# XX## game/UpdateScript0.06.rpy:4915
 msgid "Very risky dare ({i}Submission {b}17{/b}{/i})"
 msgstr "Obbligo molto rischioso ({i}Sottomissione {b}17{/b}{/i})"
 
+# XX## game/UpdateScript0.06.rpy:4944
 msgid "Missionary"
 msgstr "Missionario"
 
+# XX## game/UpdateScript0.06.rpy:4944
 msgid "Doggy"
 msgstr "Cagnolino"
 
+# XX## game/UpdateScript0.06.rpy:4944
 msgid "Cowgirl"
 msgstr "Cowgirl"
 
+# XX## game/UpdateScript0.06.rpy:4944
 msgid "Doesn't matter, as long as it's anal."
 msgstr "Non importa, basta che sia anale."
 
+# XX## game/UpdateScript0.06.rpy:6364
 msgid "Mandy Handjob"
 msgstr "Mandy Sega"
 
+# XX## game/UpdateScript0.06.rpy:6823
 msgid "Take a closer look."
 msgstr "Date un'occhiata più da vicino."
 
+# XX## game/UpdateScript0.06.rpy:7105
 msgid "Of course I'll protect them!"
 msgstr "Certo che li proteggerò!"
 
+# XX## game/UpdateScript0.06.rpy:7105
 msgid "Shit!.... I don't have the money to protect them this week!"
 msgstr "Merda! .... Non ho i soldi per proteggerli questa settimana!"
 
+# XX## game/UpdateScript0.06.rpy:7105
 msgid "I need that money elsewhere.... their asses will have to pay the bill this week."
 msgstr "Ho bisogno di quei soldi altrove.... i loro culi dovranno pagare il conto questa settimana."
 
+# XX## game/UpdateScript0.06.rpy:7189
 msgid "Pay her $1,000."
 msgstr "Pagatele 1.000 dollari."
 
+# XX## game/UpdateScript0.06.rpy:7189
 msgid "Let Lauren and Mandy pay in favors"
 msgstr "Lascia che Lauren e Mandy paghino in favori"
 
+# XX## game/UpdateScript0.06.rpy:8594
 msgid "Yes! I don't want to see any NTR shit!"
 msgstr "Sì, non voglio vedere nessuna merda di NTR!"
 
+# XX## game/UpdateScript0.06.rpy:8594
 msgid "No, for fucks sake! Stop asking. Let me enjoy my punishment."
 msgstr "No, per carità! Smettila di chiedere. Lasciami godere la mia punizione."
 
+# XX## game/UpdateScript0.06.rpy:9327
 msgid "Please... I don't have time for this!"
 msgstr "Per favore... Non ho tempo per questo!"
 
+# XX## game/UpdateScript0.06.rpy:9327
 msgid "I don't have enough money."
 msgstr "Non ho abbastanza soldi."
 
+# XX## game/UpdateScript0.06.rpy:9379
 msgid "Please... I've got to run!"
 msgstr "Per favore... Devo scappare!"
 
+# XX## game/UpdateScript0.06.rpy:9423
 msgid "I'm out of cash"
 msgstr "Sono senza soldi"
 
+# XX## game/UpdateScript0.06.rpy:9867
 msgid "Fill her pussy! {i}(Best if Sidney's affection is 10 or greater.){/i}"
 msgstr "Riempile la figa! {i}(Meglio se l'affetto di Sidney è 10 o superiore.){/i}"
 
+# XX## game/UpdateScript0.06.rpy:10089
 msgid "Can we?... You know...."
 msgstr "Possiamo?... Lo sai...."
 
+# XX## game/UpdateScript0.06.rpy:10455
 msgid "Buy a lapdance. ($50)"
 msgstr "Comprare una lapdance. ($50)"
 
+# XX## game/UpdateScript0.06.rpy:10455
 msgid "I'm too poor!"
 msgstr "Sono troppo povero!"
 
+# XX## game/UpdateScript0.06.rpy:10455
 msgid "Sorry, not today."
 msgstr "Spiacente, non oggi."
 
+# XX## game/UpdateScript0.06.rpy:10455
 msgid "Get to know Candy."
 msgstr "Conosci Candy."
 
+# XX## game/UpdateScript0.06.rpy:10755
 msgid "A) Obviously to kill baby Moldevort."
 msgstr "A) Ovviamente per uccidere il piccolo Moldevort."
 
+# XX## game/UpdateScript0.06.rpy:10755
 msgid "B) To stop the dementors gangbang with Hermione"
 msgstr "B) Per fermare la gangbang dei dissennatori con Hermione"
 
+# XX## game/UpdateScript0.06.rpy:10755
 msgid "C) To save Hermione's new love interest, Blackbeak."
 msgstr "C) Per salvare il nuovo interesse amoroso di Hermione, Blackbeak."
 
+# XX## game/UpdateScript0.06.rpy:10803
 msgid "A) Secret sex dungeon?"
 msgstr "A) Segreto dungeon del sesso?"
 
+# XX## game/UpdateScript0.06.rpy:10803
 msgid "B) Aren't they just metephors for a girls vagina and asshole?"
 msgstr "B) Non sono solo metefore per la vagina e il buco del culo delle ragazze?"
 
+# XX## game/UpdateScript0.06.rpy:10803
 msgid "C) For sexual awakening?"
 msgstr "C) Per il risveglio sessuale?"
 
+# XX## game/UpdateScript0.06.rpy:10846
 msgid "A) The boy who jizzed?"
 msgstr "A) Il ragazzo che sborrava?"
 
+# XX## game/UpdateScript0.06.rpy:10846
 msgid "B) The boy with the golden snatch?"
 msgstr "B) Il ragazzo con la fregatura d'oro?"
 
+# XX## game/UpdateScript0.06.rpy:10846
 msgid "C) The boy who cockblocked Moldevort?"
 msgstr "C) Il ragazzo che ha bloccato Moldevort?"
 
+# XX## game/UpdateScript0.06.rpy:10941
 msgid "Watch recap"
 msgstr "Guarda il riassunto"
 
+# XX## game/UpdateScript0.06.rpy:10941
 msgid "Jump to the photo shoot."
 msgstr "Salta al servizio fotografico."
 
+# XX## game/UpdateScript0.06.rpy:11799
 msgid "Stay in story mode."
 msgstr "Resta in modalità storia."
 
+# XX## game/UpdateScript0.06.rpy:11799
 msgid "In photo shoot mode."
 msgstr "In modalità di ripresa fotografica."
 
+# XX## game/UpdateScript0.06.rpy:11799
 msgid "Skip to the end."
 msgstr "Salta alla fine."
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Megan lick Mom's boot. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Fai leccare lo stivale della mamma a Megan. {i}(sottomissione 5+ {b}{color=#0000ff} o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Mom rip open Megan's shirt. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Fai aprire alla mamma la camicia di Megan. {i}(sottomissione 7+ {b}{color=#0000ff} o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Mom tie Megan up and humiliate her. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgstr "Fai in modo che la mamma leghi Megan e la umili. {i}(sottomissione 10+ {b}{color=#0000ff} o{/color}{/b} libido 10){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Mom expose her breasts and gag Megan. {i}(submission 14+){/i}"
 msgstr "Fai esporre i seni alla mamma e imbavagliare Megan. {i}(presentazione 14+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Mom remove Megan's panties and spank her. {i}(submission 19+){/i}"
 msgstr "Fai togliere alla mamma le mutandine di Megan e sculacciala. {i}(sottomissione 19+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Have Mom remove her panties and pose with Megan. {i}(submission 25+){/i}"
 msgstr "Fai togliere alla mamma le mutandine e mettiti in posa con Megan. {i}(presentazione 25+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:11894
 msgid "Maybe we should end the shoot for today."
 msgstr "Forse dovremmo terminare le riprese per oggi."
 
+# XX## game/UpdateScript0.06.rpy:14265
 msgid "Megan needs a gag in her mouth. {i}(submission 14+){/i}"
 msgstr "Megan ha bisogno di un bavaglio in bocca. {i}(presentazione 14+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:14265
 msgid "Megan needs her bare ass spanked. {i}(submission 19+){/i}"
 msgstr "Megan ha bisogno di essere sculacciata a culo nudo. {i}(presentazione 19+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:14265
 msgid "We need a really good full nudity pose. {i}(submission 25+){/i}"
 msgstr "Abbiamo bisogno di una bella posa di nudo integrale. {i}(presentazione 25+){/i}"
 
+# XX## game/UpdateScript0.06.rpy:15507
 msgid "We need a really good full nudity shot. {i}(submission 25+){/i}"
 msgstr "Abbiamo bisogno di una bella foto di nudo integrale. {i}(presentazione 25+){/i}"
 

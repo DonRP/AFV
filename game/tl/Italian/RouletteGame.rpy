@@ -180,15 +180,19 @@ msgstr "[RLT_dealer] La vincita è da 1 a 1, quindi hai vinto $[payout]!{w=3.0}{
 msgid "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 msgstr "[RLT_dealer] Hai perso! Il numero che ha rotolato è [theRoll] ed è [theRollOddOrEven_text], il colore è [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 
+# XXtranslate crowdin strings:XX# XX## game/images/interface_images/Roulette/RouletteGame.rpy:235
 msgid "Croupier"
 msgstr "Croupier"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid "Do you want to play the Roulette?"
 msgstr "Vuoi suonare la Roulette?"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:340
 msgid "What type of game do you want to play?"
 msgstr "Che tipo di gioco vuoi giocare?"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:521
 msgid "Game type: [betType]\n"
 "You bet on: [playerPiked]"
 msgstr "Tipo di gioco: [betType]\n"

@@ -12,12 +12,15 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 17:12\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
 msgid "                          Supporter's gallery"
 msgstr "                          Galerie des fans"
 
+# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
 msgid "                               Supporter's gallery $10"
 msgstr "                               Galerie de fan à 10$"
 
+# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
 msgid "            Patreon/Subscribestar Commissions"
 msgstr "            Patreon/Inscription des fans"
 

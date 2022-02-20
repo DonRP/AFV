@@ -52,30 +52,39 @@ msgstr "[BJ_dealer] Le croupier a aussi [computerScore], donc c’est un coup nu
 msgid "[BJ_dealer] Sorry! You don't have enough money!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Désolé ! Vous n’avez pas assez d’argent! {w=2.0}{nw}"
 
+# XXtranslate crowdin strings:XX# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid "Dealer"
 msgstr "Croupier"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
 msgstr "Placez vos mises!"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:244
 msgid "Do you want to bet $100 and start the game?"
 msgstr "Voulez-vous miser 100 $ et commencer la partie ?"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:252
 msgid "Do you want to bet $500 and start the game?"
 msgstr "Voulez-vous miser 500$ et commencer le jeu?"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:260
 msgid "Do you want to bet $1000 and start the game?"
 msgstr "Voulez-vous miser 1000 $ et commencer la partie?"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:268
 msgid "Do you want to leave the BlackJack game?"
 msgstr "Voulez-vous quitter la partie de BlackJack ?"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgstr "Parties gagnées : [persistent.playerWin] / parties perdues : [persistent.computerWin]"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid "Player cards: [playerScore]"
 msgstr "Cartes du joueur : [playerScore]"
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid "Do you want to play again?"
 msgstr "Voulez-vous jouer de nouveau ?"
 

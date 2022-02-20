@@ -12,6 +12,7 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Phone_games.rpy:31
 msgid "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
 msgstr "{image=images/interface_images/phone_screen_images/Games_small.webp} Jeux"
 

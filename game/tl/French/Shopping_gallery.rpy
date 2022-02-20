@@ -612,51 +612,67 @@ msgstr "[RT] {i}je ne peux admettre à personne que j’aime ces histoires. {/i}
 msgid "[RT] {i}Not right now.{/i}"
 msgstr "[RT] {i}Pas pour l'instant.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/Shopping_gallery.rpy:323
 msgid "Buy chocolate"
 msgstr "Acheter du chocolat"
 
+# XX## game/Shopping_gallery.rpy:323
 msgid "Don't buy"
 msgstr "Ne pas acheter"
 
+# XX## game/Shopping_gallery.rpy:341
 msgid "Buy giftcard"
 msgstr "Acheter une carte cadeau"
 
+# XX## game/Shopping_gallery.rpy:358
 msgid "Buy Flowers"
 msgstr "Acheter des Fleurs"
 
+# XX## game/Shopping_gallery.rpy:374
 msgid "Buy melatonin."
 msgstr "Acheter de la mélatonine."
 
+# XX## game/Shopping_gallery.rpy:400
 msgid "Buy spycam."
 msgstr "Acheter une caméra espion."
 
+# XX## game/Shopping_gallery.rpy:417
 msgid "Buy green screen."
 msgstr "Acheter un fond vert."
 
+# XX## game/Shopping_gallery.rpy:435
 msgid "Buy pro lights."
 msgstr "Acheter des projecteurs pro."
 
+# XX## game/Shopping_gallery.rpy:453
 msgid "Buy DSLR camera."
 msgstr "Achetez un appareil photo reflex numérique."
 
+# XX## game/Shopping_gallery.rpy:470
 msgid "Buy camera accessory."
 msgstr "Acheter un accessoire de l'appareil photo."
 
+# XX## game/Shopping_gallery.rpy:589
 msgid "Buy camera accessory"
 msgstr "Acheter un accessoire de l'appareil photo"
 
+# XX## game/Shopping_gallery.rpy:607
 msgid "Buy bikini"
 msgstr "Acheter un bikini"
 
+# XX## game/Shopping_gallery.rpy:628
 msgid "Buy ball gag."
 msgstr "Acheter ball gag."
 
+# XX## game/Shopping_gallery.rpy:651
 msgid "Buy Perry Hotter Book 1."
 msgstr "Acheter Perry Hotter Livre 1."
 
+# XX## game/Shopping_gallery.rpy:674
 msgid "Buy Perry Hotter Book 2."
 msgstr "Achetez Perry Hotter livre 2."
 
+# XX## game/Shopping_gallery.rpy:697
 msgid "Buy Perry Hotter Book 3."
 msgstr "Achetez Perry Hotter livre 3."
 

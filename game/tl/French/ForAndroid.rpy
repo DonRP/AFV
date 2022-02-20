@@ -12,15 +12,19 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
+# XXtranslate crowdin strings:XX# XX## game/ForAndroid.rpy:36
 msgid "Quick Menu"
 msgstr "Menu rapide"
 
+# XX## game/ForAndroid.rpy:70
 msgid "Menu"
 msgstr "Menu"
 
+# XX## game/ForAndroid.rpy:112
 msgid "Console"
 msgstr "Console"
 
+# XX## game/ForAndroid.rpy:114
 msgid "Close quick menu!"
 msgstr "Fermer le menu rapide!"
 

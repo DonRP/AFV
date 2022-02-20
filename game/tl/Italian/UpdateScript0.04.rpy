@@ -12688,96 +12688,127 @@ msgstr ""
 msgid "[S] See ya later brother!"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.04.rpy:320
 msgid "Just leave her alone."
 msgstr "Lasciala in pace."
 
+# XX## game/UpdateScript0.04.rpy:623
 msgid "Wake Sidney for a chat."
 msgstr "Sveglia Sidney per una chiacchierata."
 
+# XX## game/UpdateScript0.04.rpy:633
 msgid "I wonder what she'll do now."
 msgstr "Mi chiedo cosa farà adesso."
 
+# XX## game/UpdateScript0.04.rpy:706
 msgid "Let her sleep."
 msgstr "Lasciala dormire."
 
+# XX## game/UpdateScript0.04.rpy:966
 msgid "Let's just see if she's up for it."
 msgstr "Vediamo se se la sente."
 
+# XX## game/UpdateScript0.04.rpy:1630
 msgid "No Deal"
 msgstr "Nessun accordo"
 
+# XX## game/UpdateScript0.04.rpy:2093
 msgid "No Deal."
 msgstr ""
 
+# XX## game/UpdateScript0.04.rpy:2316
 msgid "And actually, I have the $200 right here."
 msgstr "E in realtà, ho i 200 dollari proprio qui."
 
+# XX## game/UpdateScript0.04.rpy:2316
 msgid "So, I'll get you the money soon."
 msgstr "Quindi, le porterò i soldi al più presto."
 
+# XX## game/UpdateScript0.04.rpy:2638
 msgid "Let her choose one herself."
 msgstr "Lascia che ne scelga uno da sola."
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "We need those shorts to come off. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Abbiamo bisogno di togliere quei pantaloncini. {i}(sottomissione 5+ {b}{color=#0000ff}o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just move onto taking off your shirt, but keeping the nips covered. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Passiamo a toglierti la maglietta, ma tenendo i capezzoli coperti. {i}(sottomissione 7+ {b}{color=#0000ff}o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just jump into some scenes where you show off your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgstr "Saltiamo a qualche scena in cui mostri le tue tette. {i}(sottomissione 10+ {b}{color=#0000ff}o{/color}{/b} libido 10){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Your ass will look better in ripped underwear. {i}(submission 14+){/i}"
 msgstr "Il tuo culo sarà più bello con le mutande strappate. {i}(sottomissione 14+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just jump into some explicit close-ups {i}(submission 19+){/i}"
 msgstr "Saltiamo in alcuni primi piani espliciti {i}(submission 19+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Have you ever heard of anal gaping? {i}(submission 25+){/i}"
 msgstr "Hai mai sentito parlare di gaping anale? {i}(Sottomissione 25+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4351
 msgid "Actually, let's call it a day."
 msgstr "A dire il vero, lasciamo perdere."
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Remove the shirt, but hide the nips. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Togli la camicia, ma nascondi i capezzoli. {i}(sottomissione 7+ {b}{color=#0000ff}o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Take some action shots where we can see your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgstr "Fai qualche scatto d'azione dove possiamo vedere le tue tette. {i}(sottomissione 10+ {b}{color=#0000ff}o{/color}{/b} libido 10){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Get rid of the shirt, and rip a revealing hole in your panties. {i}(submission 14+){/i}"
 msgstr "Sbarazzati della maglietta e fai un buco rivelatore nelle tue mutandine. {i}(sottomissione 14+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Jump straight into some explicit close-ups {i}(submission 19+){/i}"
 msgstr "Salta direttamente in alcuni primi piani espliciti {i}(sottomissione 19+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Try something pretty crazy! I'm thinking an anal gape shot? {i}(submission 25+){/i}"
 msgstr "Prova qualcosa di abbastanza folle! Sto pensando ad una ripresa anale a bocca aperta? {i}(Sottomissione 25+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4671
 msgid "Just call it a day."
 msgstr "Basta che la finisci qui."
 
+# XX## game/UpdateScript0.04.rpy:4993
 msgid "Wow! Are you a mind reader? {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgstr "Wow! Sei uno che legge nel pensiero? {i}(sottomissione 10+ {b}{color=#0000ff}o{/color}{/b} libido 10){/i}"
 
+# XX## game/UpdateScript0.04.rpy:4993
 msgid "No, let's just call it a day."
 msgstr "No, lasciamo perdere."
 
+# XX## game/UpdateScript0.04.rpy:5027
 msgid "Rip a hole in your panties. {i}(submission 14+){/i}"
 msgstr "Fai un buco nelle tue mutandine. {i}(sottomissione 14+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:5027
 msgid "Get some explicit close-ups. {i}(submission 19+){/i}"
 msgstr "Fai dei primi piani espliciti. {i}(Sottomissione 19+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:5027
 msgid "Try a pose where you do a small anal gape. {i}(submission 25+){/i}"
 msgstr "Prova una posa in cui fai una piccola apertura anale. {i}(Sottomissione 25+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:5271
 msgid "Rip a hole in those panties. {i}(submission 14+){/i}"
 msgstr "Fai un buco in quelle mutandine. {i}(sottomissione 14+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:5717
 msgid "I think we should go for it anyways. {i}(submission 25+){/i}"
 msgstr "Penso che dovremmo farlo comunque. {i}(sottomissione 25+){/i}"
 
+# XX## game/UpdateScript0.04.rpy:5717
 msgid "I think we should call it quits for today."
 msgstr "Penso che dovremmo smettere per oggi."
 

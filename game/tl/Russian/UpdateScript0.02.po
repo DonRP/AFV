@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-02-20 17:53\n"
+"PO-Revision-Date: 2022-02-20 18:58\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.02.rpy:10 ## translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -6076,51 +6076,67 @@ msgstr ""
 msgid "[R] Shit, she's done, I'd better make myself scarce."
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.02.rpy:233
 msgid "What will she do?"
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:233
 msgid "Skip event."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:316
 msgid "Let's keep things going with Sidney."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:316
 msgid "Just sleep."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:766
 msgid "Try to make it better."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:766
 msgid "Just leave her alone, you've tortured her enough."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:772
 msgid "Bang your metal bat on the floor"
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:802
 msgid "Make some creepy noises"
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:825
 msgid "You're right, I should save up a little more money first."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:913
 msgid "Now let's see how you pose when they ask you to take pics from behind."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:913
 msgid "Have a good time at the convention!"
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:969
 msgid "Set up new spy-cam."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:1538
 msgid "Peek through spy-cam."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:2186
 msgid "Pinch."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:2261
 msgid "Not now."
 msgstr ""
 
+# XX## game/UpdateScript0.02.rpy:2832
 msgid "Look through spy-cam"
 msgstr ""
 

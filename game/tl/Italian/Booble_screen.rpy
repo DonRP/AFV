@@ -20,9 +20,11 @@ msgstr "[RT] {i}Dovrei fare una ricerca su booble. om per trovare un modo per co
 msgid "[RT] {i}What should I do today on the internet?{/i}"
 msgstr "[RT] {i}Cosa devo fare oggi su internet?{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 msgstr "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
+# XX## game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 msgstr "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 

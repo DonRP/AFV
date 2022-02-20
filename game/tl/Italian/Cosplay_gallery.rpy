@@ -76,37 +76,47 @@ msgstr "[RT] {i} Il primo vestito di cosplay che [outfit_nfo_name] indossava sul
 msgid "[RT] {i}I hope we can sell more of them.{/i}"
 msgstr "[RT] {i}Spero che possiamo venderne di più.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
 msgstr "{color=#ffffff}{b}Sostenitori{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:566
 msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
 msgstr "{color=#ffffff}{b}Pubblicità{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:570
 msgid "{color=#ffffff}{b}Images\n"
 "Videos{/b}{/color}"
 msgstr "{color=#ffffff}{b}Immagini\n"
 "Video{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:575
 msgid "{color=#ffffff}{b}Outfits{/b}{/color}"
 msgstr "{color=#ffffff}{b}Outfits{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 msgstr "{color=#000000}{b}Mi piace: [total_likes]{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
 msgstr "{color=#ffffff}{b}Premi per cambiare \n"
 " mi piace denaro{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
 msgstr "{color=#000000}{b}Sell{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
 msgstr "{color=#000000}{b}outfits{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 msgstr "{color=#ff0000}{b}Sostenitori: [var_total_supporters]{/b}{/color}"
 
+# XX## game/Cosplay_gallery.rpy:1084
 msgid " {b}{color=#ffffff}Press to receive\n"
 "{size=18} monthly earnings:{/size}\n"
 "{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"

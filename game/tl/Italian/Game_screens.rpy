@@ -12,23 +12,29 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-02-20 15:04\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid " My\n"
 "Room"
 msgstr " La mia\n"
 "stanza"
 
+# XX## game/Game_screens.rpy:77
 msgid "Bath"
 msgstr "Bagno"
 
+# XX## game/Game_screens.rpy:110
 msgid "City"
 msgstr "Città"
 
+# XX## game/Game_screens.rpy:125
 msgid "Hallway"
 msgstr "Corridoio"
 
+# XX## game/Game_screens.rpy:134
 msgid "Class"
 msgstr "Classe"
 
+# XX## game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
@@ -36,6 +42,7 @@ msgstr "{size=29} {/size}Armadietto\n"
 "Delle Ragazze\n"
 "{size=25} {/size}Stanza"
 
+# XX## game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
 msgstr "Campagna\n"

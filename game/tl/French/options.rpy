@@ -12,6 +12,7 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
+# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid "A Family Venture"
 msgstr "Une aventure en famille"
 

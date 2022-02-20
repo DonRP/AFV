@@ -6992,12 +6992,15 @@ msgstr "[RT] {i}Questo era un sogno così pazzo.... Si sentiva così reale.... p
 msgid "[RT] {i}I do feel pretty tired.{/i}"
 msgstr "[RT] {i}Mi sento piuttosto stanco.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScriptChristmasEvent.rpy:6
 msgid "Ghost of XXX-mas Past"
 msgstr "Fantasma del passato XXX-mas"
 
+# XX## game/UpdateScriptChristmasEvent.rpy:7
 msgid "Ghost of XXX-mas Present"
 msgstr "Fantasma del Regalo XXX-mas"
 
+# XX## game/UpdateScriptChristmasEvent.rpy:8
 msgid "Ghost of XXX-mas Future"
 msgstr "Fantasma del futuro XXX-mas"
 
