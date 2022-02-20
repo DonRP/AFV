@@ -4,6 +4,15 @@ import os
 
 # ATTENTION: there must not be 2 equal key or value
 dict = {
+    # potorpy only
+    """    new \"[""": """    [""",
+    """""": """\"
+\"""",
+    """""": """\"\n\"""",
+    """""": """\"\n\"""",
+    """    old \"""": """msgid \"""",
+    """    new \"""": """    \"""",
+
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
@@ -12,8 +21,6 @@ translate crowdin""": """ ## translate crowdin""",
 
     # """: """:
 msgid \"""",
-    """    old \"""": """msgid  \"""",
-    """    new \"""": """msgstr  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
@@ -94,7 +101,7 @@ msgid \"""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
     """HH:HH\n\n# game""": """HH:HH# game""",
-
+    # potorpy only
     """msgstr \"[""": """msgstr \"\"[""",
     """msgstr \"\"""": """msgstr \"""",
     """""": """msgstr \"\"""",
