@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:53\n"
+"PO-Revision-Date: 2022-02-20 18:57\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -9444,54 +9444,71 @@ msgstr "[RT] {i}Oh amico, è solo un avviso via e-mail. Compri una cosa alla Har
 msgid "[RT] {i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
 msgstr "[RT] {i}Huh? Oh, cavolo! Mi piacerebbe vedere mamma con questo! Forse dovrei controllare il negozio e prenderglielo. Sono sicuro di poter pensare a qualche modo per farglielo indossare.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.03.rpy:11
 msgid "Kenzie's Thoughts"
 msgstr "I pensieri di Kenzie"
 
+# XX## game/UpdateScript0.03.rpy:12
 msgid "Waitress"
 msgstr "Cameriera"
 
+# XX## game/UpdateScript0.03.rpy:13
 msgid "Everybody Else"
 msgstr "Tutti gli altri"
 
+# XX## game/UpdateScript0.03.rpy:14
 msgid "Matt's Thoughts"
 msgstr "Pensieri di Matt"
 
+# XX## game/UpdateScript0.03.rpy:15
 msgid "Agent Diaz"
 msgstr "Agente Diaz"
 
+# XX## game/UpdateScript0.03.rpy:16
 msgid "Agent Diaz's Thoughts"
 msgstr "Pensieri dell'agente Diaz"
 
+# XX## game/UpdateScript0.03.rpy:790
 msgid "Of course I'll protect Lauren!"
 msgstr "Certo che proteggerò Lauren!"
 
+# XX## game/UpdateScript0.03.rpy:790
 msgid "Shit!.... I don't have the money to protect her this week!"
 msgstr "Merda! .... Non ho i soldi per proteggerla questa settimana!"
 
+# XX## game/UpdateScript0.03.rpy:790
 msgid "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
 msgstr "Ho bisogno di quei soldi altrove.... Il culo di Lauren dovrà pagare il conto questa settimana."
 
+# XX## game/UpdateScript0.03.rpy:897
 msgid "Just Leave her alone."
 msgstr "Lasciala in pace."
 
+# XX## game/UpdateScript0.03.rpy:1071
 msgid "Commission a new cosplay outfit."
 msgstr "Commissionale un nuovo vestito da cosplay."
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Chiedile di togliersi la gonna. {i}(sottomissione 5+ {b}{color=#0000ff}o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgstr "Chiedile di mostrare il suo perizoma di pelle di daino da dietro. {i}(sottomissione 7+ {b}{color=#0000ff}o{/color}{/b} libido 9+){/i}"
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgstr "Chiedile di togliersi il reggiseno di pelle di daino. {i}(sottomissione 10+ {b}{color=#0000ff}o{/color}{/b} libido 10){/i}"
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her titties. {i}(submission 14+){/i}"
 msgstr "Chiedile di mostrare le tette. {i}(sottomissione 14+){/i}"
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
 msgstr "Chiedile di togliersi il perizoma di pelle di daino. {i}(sottomissione 19+){/i}"
 
+# XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her for explicit close-ups. {i}(submission 25+){/i}"
 msgstr "Chiedile dei primi piani espliciti. {i}(Sottomissione 25+){/i}"
 
