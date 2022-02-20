@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-02-20 18:53\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
 msgid "[@betPickVar]"
@@ -180,15 +180,19 @@ msgstr "[RLT_dealer] Le gain est de 1 contre 1, vous avez donc gagné [payout]$ 
 msgid "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 msgstr "[RLT_dealer] Vous avez perdu ! Le nombre que vous auriez dû sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 
+# XXtranslate crowdin strings:XX# XX## game/images/interface_images/Roulette/RouletteGame.rpy:235
 msgid "Croupier"
 msgstr "Croupier"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid "Do you want to play the Roulette?"
 msgstr "Voulez-vous jouer à la roulette?"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:340
 msgid "What type of game do you want to play?"
 msgstr "À quel type de jeu voulez-vous jouer ?"
 
+# XX## game/images/interface_images/Roulette/RouletteGame.rpy:521
 msgid "Game type: [betType]\n"
 "You bet on: [playerPiked]"
 msgstr "Type de jeu : [betType]\n"
