@@ -8241,407 +8241,408 @@ msgstr "[RT] {i}I'm out of control.... maybe I should get help?.... Nah this is 
 # game/script.rpy:8641 ## translate crowdin nightclubbing_6468df67_1
 msgid "[RT] {i}Now I better get out of here before she notices me.{/i}"
 msgstr "[RT] {i}Now I better get out of here before she notices me.{/i}"
-## # translate crowdin strings:##    # game/script.rpy:310
-msgid "Would you like to see the tutorial?"
-msgstr "Would you like to see the tutorial?"
-
-#    # game/script.rpy:310
-msgid "Yes."
-msgstr "Yes."
-
-#    # game/script.rpy:310
-msgid "No."
-msgstr "No."
-
-#    # game/script.rpy:317
-msgid "Skip to the end of v0.01b"
-msgstr "Skip to the end of v0.01b"
-
-#    # game/script.rpy:317
-msgid "Don't skip the game"
-msgstr "Don't skip the game"
-
-#    # game/script.rpy:319
-msgid "Chose your route!"
-msgstr "Chose your route!"
-
-#    # game/script.rpy:319
-msgid "Loyalty route"
-msgstr "Loyalty route"
-
-#    # game/script.rpy:319
-msgid "NTR route"
-msgstr "NTR route"
-
-#    # game/script.rpy:319
-msgid "Back"
-msgstr "Back"
-
-#    # game/script.rpy:700
-msgid "Peek down her robe"
-msgstr "Peek down her robe"
-
-#    # game/script.rpy:700
-msgid "Gross!! That's just weird!"
-msgstr "Gross!! That's just weird!"
-
-#    # game/script.rpy:780
-msgid "Lauren, what the hell are you doing?"
-msgstr "Lauren, what the hell are you doing?"
-
-#    # game/script.rpy:1043
-msgid "Sleep"
-msgstr "Sleep"
-
-#    # game/script.rpy:1043
-msgid "Never mind"
-msgstr "Never mind"
-
-#    # game/script.rpy:1058
-msgid "Memes (Advances time)"
-msgstr "Memes (Advances time)"
-
-#    # game/script.rpy:1586
-msgid "Go sit down"
-msgstr "Go sit down"
-
-#    # game/script.rpy:1592
-msgid "Ask Mom about her day"
-msgstr "Ask Mom about her day"
-
-#    # game/script.rpy:1592
-msgid "Ask Lauren about her day"
-msgstr "Ask Lauren about her day"
-
-#    # game/script.rpy:1869
-msgid "Yes"
-msgstr "Yes"
-
-#    # game/script.rpy:1869
-msgid "No"
-msgstr "No"
-
-#    # game/script.rpy:1993
-msgid "Skip event and sleep till tomorrow"
-msgstr "Skip event and sleep till tomorrow"
-
-#    # game/script.rpy:1993
-msgid "Jump to Mafia payment event."
-msgstr "Jump to Mafia payment event."
-
-#    # game/script.rpy:1998
-msgid "I'll pay them $1,000."
-msgstr "I'll pay them $1,000."
-
-#    # game/script.rpy:1998
-msgid "Shit!... I don't have enough money to pay the Mafia."
-msgstr "Shit!... I don't have enough money to pay the Mafia."
-
-#    # game/script.rpy:1998
-msgid "Let Mom use her \"ass\"ets to pay the debt this week."
-msgstr "Let Mom use her \"ass\"ets to pay the debt this week."
-
-#    # game/script.rpy:2194
-msgid "Look down"
-msgstr "Look down"
-
-#    # game/script.rpy:2203
-msgid "Look up"
-msgstr "Look up"
-
-#    # game/script.rpy:2227
-msgid "Cover up"
-msgstr "Cover up"
-
-#    # game/script.rpy:2227
-msgid "\"Why should I?\""
-msgstr "\"Why should I?\""
-
-#    # game/script.rpy:2669
-msgid "Watch TV with Lauren"
-msgstr "Watch TV with Lauren"
-
-#    # game/script.rpy:3346
-msgid "Look."
-msgstr "Look."
-
-#    # game/script.rpy:3346
-msgid "Never mind."
-msgstr "Never mind."
-
-#    # game/script.rpy:3634
-msgid "Peek"
-msgstr "Peek"
-
-#    # game/script.rpy:3731
-msgid "Have Dinner"
-msgstr "Have Dinner"
-
-#    # game/script.rpy:3748
-msgid "Hey Mom, it's good to see you up and about!"
-msgstr "Hey Mom, it's good to see you up and about!"
-
-#    # game/script.rpy:3748
-msgid "Are you drinking again?!"
-msgstr "Are you drinking again?!"
-
-#    # game/script.rpy:4132
-msgid "Look around"
-msgstr "Look around"
-
-#    # game/script.rpy:4152
-msgid "Talk to Sidney"
-msgstr "Talk to Sidney"
-
-#    # game/script.rpy:4197
-msgid "Try to keep eye contact"
-msgstr "Try to keep eye contact"
-
-#    # game/script.rpy:4218
-msgid "Just a really quick peek"
-msgstr "Just a really quick peek"
-
-#    # game/script.rpy:4218
-msgid "Don't risk it"
-msgstr "Don't risk it"
-
-#    # game/script.rpy:4247
-msgid "Give her money for Lauren's cosplay outfit."
-msgstr "Give her money for Lauren's cosplay outfit."
-
-#    # game/script.rpy:4247
-msgid "Ask her to work at club."
-msgstr "Ask her to work at club."
-
-#    # game/script.rpy:4333
-msgid "Take a look"
-msgstr "Take a look"
-
-#    # game/script.rpy:4333
-msgid "Stay Strong"
-msgstr "Stay Strong"
-
-#    # game/script.rpy:4349
-msgid "What do you think, slut?!"
-msgstr "What do you think, slut?!"
-
-#    # game/script.rpy:4349
-msgid "Nothing!"
-msgstr "Nothing!"
-
-#    # game/script.rpy:4358
-msgid "Just walk away"
-msgstr "Just walk away"
-
-#    # game/script.rpy:4489
-msgid "Knock on her door"
-msgstr "Knock on her door"
-
-#    # game/script.rpy:4721
-msgid "Look closer."
-msgstr "Look closer."
-
-#    # game/script.rpy:4737
-msgid "Try using subliminal messages"
-msgstr "Try using subliminal messages"
-
-#    # game/script.rpy:4737
-msgid "Just leave her alone, she's had a rough few days."
-msgstr "Just leave her alone, she's had a rough few days."
-
-#    # game/script.rpy:4776
-msgid "Subliminal messages"
-msgstr "Subliminal messages"
-
-#    # game/script.rpy:4818
-msgid "Peek through the spy-cam."
-msgstr "Peek through the spy-cam."
-
-#    # game/script.rpy:4818
-msgid "Nah, she's probably just sleeping."
-msgstr "Nah, she's probably just sleeping."
-
-#    # game/script.rpy:4835
-msgid "Knock"
-msgstr "Knock"
-
-#    # game/script.rpy:4835
-msgid "Peek through spy-cam"
-msgstr "Peek through spy-cam"
-
-#    # game/script.rpy:4835
-msgid "I'm just going to give her some time to cool down"
-msgstr "I'm just going to give her some time to cool down"
-
-#    # game/script.rpy:4841
-msgid "Give her a gift"
-msgstr "Give her a gift"
-
-#    # game/script.rpy:4841
-msgid "I just wanted to apologize"
-msgstr "I just wanted to apologize"
-
-#    # game/script.rpy:4847
-msgid "Give her a chocolate bar"
-msgstr "Give her a chocolate bar"
-
-#    # game/script.rpy:4847
-msgid "Give her Hardnlong gift card"
-msgstr "Give her Hardnlong gift card"
-
-#    # game/script.rpy:4847
-msgid "Give her flowers"
-msgstr "Give her flowers"
-
-#    # game/script.rpy:5091
-msgid "Get a closer look"
-msgstr "Get a closer look"
-
-#    # game/script.rpy:5091
-msgid "Why would I even think of looking?"
-msgstr "Why would I even think of looking?"
-
-#    # game/script.rpy:5275
-msgid "Use spy-cam."
-msgstr "Use spy-cam."
-
-#    # game/script.rpy:5275
-msgid "Not right now."
-msgstr "Not right now."
-
-#    # game/script.rpy:5381
-msgid "Take a peek."
-msgstr "Take a peek."
-
-#    # game/script.rpy:5396
-msgid "Let's just take a peek at what she's doing."
-msgstr "Let's just take a peek at what she's doing."
-
-#    # game/script.rpy:5855
-msgid "Yes, I need an ally"
-msgstr "Yes, I need an ally"
-
-#    # game/script.rpy:5899
-msgid "More subliminal messages!"
-msgstr "More subliminal messages!"
-
-#    # game/script.rpy:5899
-msgid "Not tonight."
-msgstr "Not tonight."
-
-#    # game/script.rpy:6017
-msgid "Spy on Sidney"
-msgstr "Spy on Sidney"
-
-#    # game/script.rpy:6017
-msgid "Keep looking around"
-msgstr "Keep looking around"
-
-#    # game/script.rpy:6103
-msgid "Just a little bit"
-msgstr "Just a little bit"
-
-#    # game/script.rpy:6103
-msgid "Nothing"
-msgstr "Nothing"
-
-#    # game/script.rpy:6140
-msgid "Of course!"
-msgstr "Of course!"
-
-#    # game/script.rpy:6197
-msgid "Continue sneaking"
-msgstr "Continue sneaking"
-
-#    # game/script.rpy:6197
-msgid "Leave"
-msgstr "Leave"
-
-#    # game/script.rpy:6621
-msgid "Attend Class"
-msgstr "Attend Class"
-
-#    # game/script.rpy:6621
-msgid "Start Election Campaign Storyline"
-msgstr "Start Election Campaign Storyline"
-
-#    # game/script.rpy:6673
-msgid "Talk to Mom about Oedipus assignment"
-msgstr "Talk to Mom about Oedipus assignment"
-
-#    # game/script.rpy:6854
-msgid "Accept Matt's help (\"WARNING\" future NTR content)"
-msgstr "Accept Matt's help (\"WARNING\" future NTR content)"
-
-#    # game/script.rpy:6854
-msgid "Tell Matt to go fuck himself"
-msgstr "Tell Matt to go fuck himself"
-
-#    # game/script.rpy:7054
-msgid "Just the tip"
-msgstr "Just the tip"
-
-#    # game/script.rpy:7054
-msgid "Throat Fuck"
-msgstr "Throat Fuck"
-
-#    # game/script.rpy:7065
-msgid "Deeper"
-msgstr "Deeper"
-
-#    # game/script.rpy:7065
-msgid "Cum"
-msgstr "Cum"
-
-#    # game/script.rpy:7114
-msgid "Down Megan's throat"
-msgstr "Down Megan's throat"
-
-#    # game/script.rpy:7114
-msgid "All over her face"
-msgstr "All over her face"
-
-#    # game/script.rpy:7422
-msgid "Make Deliveries"
-msgstr "Make Deliveries"
-
-#    # game/script.rpy:7479
-msgid "Pick up Items"
-msgstr "Pick up Items"
-
-#    # game/script.rpy:7479
-msgid "Go to Photo Studio."
-msgstr "Go to Photo Studio."
-
-#    # game/script.rpy:7479
-msgid "Return to Map"
-msgstr "Return to Map"
-
-#    # game/script.rpy:7975
-msgid "Tell them about the conversation with Uncle Bobby"
-msgstr "Tell them about the conversation with Uncle Bobby"
-
-#    # game/script.rpy:7990
-msgid "Tell them about visit with Uncle Bobby"
-msgstr "Tell them about visit with Uncle Bobby"
-
-#    # game/script.rpy:8135
-msgid "Stay and Watch"
-msgstr "Stay and Watch"
-
-#    # game/script.rpy:8135
-msgid "Go home"
-msgstr "Go home"
-
-#    # game/script.rpy:8167
-msgid "Keep Watching"
-msgstr "Keep Watching"
-
-#    # game/script.rpy:8306
-msgid "Go answer the door"
-msgstr "Go answer the door"
-
-#    # game/script.rpy:8320
-msgid "No (lie)"
-msgstr "No (lie)"
+
+#@@translate crowdin strings:@@##@## game/script.rpy:310
+msgid  "Would you like to see the tutorial?"
+msgstr  "Would you like to see the tutorial?"
+
+##@## game/script.rpy:310
+msgid  "Yes."
+msgstr  "Yes."
+
+##@## game/script.rpy:310
+msgid  "No."
+msgstr  "No."
+
+##@## game/script.rpy:317
+msgid  "Skip to the end of v0.01b"
+msgstr  "Skip to the end of v0.01b"
+
+##@## game/script.rpy:317
+msgid  "Don't skip the game"
+msgstr  "Don't skip the game"
+
+##@## game/script.rpy:319
+msgid  "Chose your route!"
+msgstr  "Chose your route!"
+
+##@## game/script.rpy:319
+msgid  "Loyalty route"
+msgstr  "Loyalty route"
+
+##@## game/script.rpy:319
+msgid  "NTR route"
+msgstr  "NTR route"
+
+##@## game/script.rpy:319
+msgid  "Back"
+msgstr  "Back"
+
+##@## game/script.rpy:700
+msgid  "Peek down her robe"
+msgstr  "Peek down her robe"
+
+##@## game/script.rpy:700
+msgid  "Gross!! That's just weird!"
+msgstr  "Gross!! That's just weird!"
+
+##@## game/script.rpy:780
+msgid  "Lauren, what the hell are you doing?"
+msgstr  "Lauren, what the hell are you doing?"
+
+##@## game/script.rpy:1043
+msgid  "Sleep"
+msgstr  "Sleep"
+
+##@## game/script.rpy:1043
+msgid  "Never mind"
+msgstr  "Never mind"
+
+##@## game/script.rpy:1058
+msgid  "Memes (Advances time)"
+msgstr  "Memes (Advances time)"
+
+##@## game/script.rpy:1586
+msgid  "Go sit down"
+msgstr  "Go sit down"
+
+##@## game/script.rpy:1592
+msgid  "Ask Mom about her day"
+msgstr  "Ask Mom about her day"
+
+##@## game/script.rpy:1592
+msgid  "Ask Lauren about her day"
+msgstr  "Ask Lauren about her day"
+
+##@## game/script.rpy:1869
+msgid  "Yes"
+msgstr  "Yes"
+
+##@## game/script.rpy:1869
+msgid  "No"
+msgstr  "No"
+
+##@## game/script.rpy:1993
+msgid  "Skip event and sleep till tomorrow"
+msgstr  "Skip event and sleep till tomorrow"
+
+##@## game/script.rpy:1993
+msgid  "Jump to Mafia payment event."
+msgstr  "Jump to Mafia payment event."
+
+##@## game/script.rpy:1998
+msgid  "I'll pay them $1,000."
+msgstr  "I'll pay them $1,000."
+
+##@## game/script.rpy:1998
+msgid  "Shit!... I don't have enough money to pay the Mafia."
+msgstr  "Shit!... I don't have enough money to pay the Mafia."
+
+##@## game/script.rpy:1998
+msgid  "Let Mom use her \"ass\"ets to pay the debt this week."
+msgstr  "Let Mom use her \"ass\"ets to pay the debt this week."
+
+##@## game/script.rpy:2194
+msgid  "Look down"
+msgstr  "Look down"
+
+##@## game/script.rpy:2203
+msgid  "Look up"
+msgstr  "Look up"
+
+##@## game/script.rpy:2227
+msgid  "Cover up"
+msgstr  "Cover up"
+
+##@## game/script.rpy:2227
+msgid  "\"Why should I?\""
+msgstr  "\"Why should I?\""
+
+##@## game/script.rpy:2669
+msgid  "Watch TV with Lauren"
+msgstr  "Watch TV with Lauren"
+
+##@## game/script.rpy:3346
+msgid  "Look."
+msgstr  "Look."
+
+##@## game/script.rpy:3346
+msgid  "Never mind."
+msgstr  "Never mind."
+
+##@## game/script.rpy:3634
+msgid  "Peek"
+msgstr  "Peek"
+
+##@## game/script.rpy:3731
+msgid  "Have Dinner"
+msgstr  "Have Dinner"
+
+##@## game/script.rpy:3748
+msgid  "Hey Mom, it's good to see you up and about!"
+msgstr  "Hey Mom, it's good to see you up and about!"
+
+##@## game/script.rpy:3748
+msgid  "Are you drinking again?!"
+msgstr  "Are you drinking again?!"
+
+##@## game/script.rpy:4132
+msgid  "Look around"
+msgstr  "Look around"
+
+##@## game/script.rpy:4152
+msgid  "Talk to Sidney"
+msgstr  "Talk to Sidney"
+
+##@## game/script.rpy:4197
+msgid  "Try to keep eye contact"
+msgstr  "Try to keep eye contact"
+
+##@## game/script.rpy:4218
+msgid  "Just a really quick peek"
+msgstr  "Just a really quick peek"
+
+##@## game/script.rpy:4218
+msgid  "Don't risk it"
+msgstr  "Don't risk it"
+
+##@## game/script.rpy:4247
+msgid  "Give her money for Lauren's cosplay outfit."
+msgstr  "Give her money for Lauren's cosplay outfit."
+
+##@## game/script.rpy:4247
+msgid  "Ask her to work at club."
+msgstr  "Ask her to work at club."
+
+##@## game/script.rpy:4333
+msgid  "Take a look"
+msgstr  "Take a look"
+
+##@## game/script.rpy:4333
+msgid  "Stay Strong"
+msgstr  "Stay Strong"
+
+##@## game/script.rpy:4349
+msgid  "What do you think, slut?!"
+msgstr  "What do you think, slut?!"
+
+##@## game/script.rpy:4349
+msgid  "Nothing!"
+msgstr  "Nothing!"
+
+##@## game/script.rpy:4358
+msgid  "Just walk away"
+msgstr  "Just walk away"
+
+##@## game/script.rpy:4489
+msgid  "Knock on her door"
+msgstr  "Knock on her door"
+
+##@## game/script.rpy:4721
+msgid  "Look closer."
+msgstr  "Look closer."
+
+##@## game/script.rpy:4737
+msgid  "Try using subliminal messages"
+msgstr  "Try using subliminal messages"
+
+##@## game/script.rpy:4737
+msgid  "Just leave her alone, she's had a rough few days."
+msgstr  "Just leave her alone, she's had a rough few days."
+
+##@## game/script.rpy:4776
+msgid  "Subliminal messages"
+msgstr  "Subliminal messages"
+
+##@## game/script.rpy:4818
+msgid  "Peek through the spy-cam."
+msgstr  "Peek through the spy-cam."
+
+##@## game/script.rpy:4818
+msgid  "Nah, she's probably just sleeping."
+msgstr  "Nah, she's probably just sleeping."
+
+##@## game/script.rpy:4835
+msgid  "Knock"
+msgstr  "Knock"
+
+##@## game/script.rpy:4835
+msgid  "Peek through spy-cam"
+msgstr  "Peek through spy-cam"
+
+##@## game/script.rpy:4835
+msgid  "I'm just going to give her some time to cool down"
+msgstr  "I'm just going to give her some time to cool down"
+
+##@## game/script.rpy:4841
+msgid  "Give her a gift"
+msgstr  "Give her a gift"
+
+##@## game/script.rpy:4841
+msgid  "I just wanted to apologize"
+msgstr  "I just wanted to apologize"
+
+##@## game/script.rpy:4847
+msgid  "Give her a chocolate bar"
+msgstr  "Give her a chocolate bar"
+
+##@## game/script.rpy:4847
+msgid  "Give her Hardnlong gift card"
+msgstr  "Give her Hardnlong gift card"
+
+##@## game/script.rpy:4847
+msgid  "Give her flowers"
+msgstr  "Give her flowers"
+
+##@## game/script.rpy:5091
+msgid  "Get a closer look"
+msgstr  "Get a closer look"
+
+##@## game/script.rpy:5091
+msgid  "Why would I even think of looking?"
+msgstr  "Why would I even think of looking?"
+
+##@## game/script.rpy:5275
+msgid  "Use spy-cam."
+msgstr  "Use spy-cam."
+
+##@## game/script.rpy:5275
+msgid  "Not right now."
+msgstr  "Not right now."
+
+##@## game/script.rpy:5381
+msgid  "Take a peek."
+msgstr  "Take a peek."
+
+##@## game/script.rpy:5396
+msgid  "Let's just take a peek at what she's doing."
+msgstr  "Let's just take a peek at what she's doing."
+
+##@## game/script.rpy:5855
+msgid  "Yes, I need an ally"
+msgstr  "Yes, I need an ally"
+
+##@## game/script.rpy:5899
+msgid  "More subliminal messages!"
+msgstr  "More subliminal messages!"
+
+##@## game/script.rpy:5899
+msgid  "Not tonight."
+msgstr  "Not tonight."
+
+##@## game/script.rpy:6017
+msgid  "Spy on Sidney"
+msgstr  "Spy on Sidney"
+
+##@## game/script.rpy:6017
+msgid  "Keep looking around"
+msgstr  "Keep looking around"
+
+##@## game/script.rpy:6103
+msgid  "Just a little bit"
+msgstr  "Just a little bit"
+
+##@## game/script.rpy:6103
+msgid  "Nothing"
+msgstr  "Nothing"
+
+##@## game/script.rpy:6140
+msgid  "Of course!"
+msgstr  "Of course!"
+
+##@## game/script.rpy:6197
+msgid  "Continue sneaking"
+msgstr  "Continue sneaking"
+
+##@## game/script.rpy:6197
+msgid  "Leave"
+msgstr  "Leave"
+
+##@## game/script.rpy:6621
+msgid  "Attend Class"
+msgstr  "Attend Class"
+
+##@## game/script.rpy:6621
+msgid  "Start Election Campaign Storyline"
+msgstr  "Start Election Campaign Storyline"
+
+##@## game/script.rpy:6673
+msgid  "Talk to Mom about Oedipus assignment"
+msgstr  "Talk to Mom about Oedipus assignment"
+
+##@## game/script.rpy:6854
+msgid  "Accept Matt's help (\"WARNING\" future NTR content)"
+msgstr  "Accept Matt's help (\"WARNING\" future NTR content)"
+
+##@## game/script.rpy:6854
+msgid  "Tell Matt to go fuck himself"
+msgstr  "Tell Matt to go fuck himself"
+
+##@## game/script.rpy:7054
+msgid  "Just the tip"
+msgstr  "Just the tip"
+
+##@## game/script.rpy:7054
+msgid  "Throat Fuck"
+msgstr  "Throat Fuck"
+
+##@## game/script.rpy:7065
+msgid  "Deeper"
+msgstr  "Deeper"
+
+##@## game/script.rpy:7065
+msgid  "Cum"
+msgstr  "Cum"
+
+##@## game/script.rpy:7114
+msgid  "Down Megan's throat"
+msgstr  "Down Megan's throat"
+
+##@## game/script.rpy:7114
+msgid  "All over her face"
+msgstr  "All over her face"
+
+##@## game/script.rpy:7422
+msgid  "Make Deliveries"
+msgstr  "Make Deliveries"
+
+##@## game/script.rpy:7479
+msgid  "Pick up Items"
+msgstr  "Pick up Items"
+
+##@## game/script.rpy:7479
+msgid  "Go to Photo Studio."
+msgstr  "Go to Photo Studio."
+
+##@## game/script.rpy:7479
+msgid  "Return to Map"
+msgstr  "Return to Map"
+
+##@## game/script.rpy:7975
+msgid  "Tell them about the conversation with Uncle Bobby"
+msgstr  "Tell them about the conversation with Uncle Bobby"
+
+##@## game/script.rpy:7990
+msgid  "Tell them about visit with Uncle Bobby"
+msgstr  "Tell them about visit with Uncle Bobby"
+
+##@## game/script.rpy:8135
+msgid  "Stay and Watch"
+msgstr  "Stay and Watch"
+
+##@## game/script.rpy:8135
+msgid  "Go home"
+msgstr  "Go home"
+
+##@## game/script.rpy:8167
+msgid  "Keep Watching"
+msgstr  "Keep Watching"
+
+##@## game/script.rpy:8306
+msgid  "Go answer the door"
+msgstr  "Go answer the door"
+
+##@## game/script.rpy:8320
+msgid  "No (lie)"
+msgstr  "No (lie)"
 
