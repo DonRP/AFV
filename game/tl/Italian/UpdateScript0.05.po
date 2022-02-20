@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-02-20 18:53\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -11540,147 +11540,195 @@ msgstr ""
 msgid "[S] So, was there anything else you wanted to talk to me about?"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.05.rpy:7
 msgid "Crazy Old Man"
 msgstr "Vecchio pazzo"
 
+# XX## game/UpdateScript0.05.rpy:8
 msgid "Crazy Old Man's Thoughts"
 msgstr "Pensieri del Vecchio Pazzo"
 
+# XX## game/UpdateScript0.05.rpy:9
 msgid "Mr. Peterson"
 msgstr "Signor Peterson"
 
+# XX## game/UpdateScript0.05.rpy:10
 msgid "Mr. Peterson's Thoughts"
 msgstr "Pensieri del signor Peterson"
 
+# XX## game/UpdateScript0.05.rpy:11
 msgid "Policeman"
 msgstr "Poliziotto"
 
+# XX## game/UpdateScript0.05.rpy:12
 msgid "Mrs. Stone"
 msgstr "Signora Stone"
 
+# XX## game/UpdateScript0.05.rpy:13
 msgid "Armani"
 msgstr ""
 
+# XX## game/UpdateScript0.05.rpy:509
 msgid "I'm not going to miss this opportunity."
 msgstr "Non ho intenzione di perdere questa opportunità."
 
+# XX## game/UpdateScript0.05.rpy:509
 msgid "Just go to sleep."
 msgstr "Vai a dormire."
 
+# XX## game/UpdateScript0.05.rpy:574
 msgid "Help Mom."
 msgstr "Aiuta la mamma."
 
+# XX## game/UpdateScript0.05.rpy:574
 msgid "Don't help Mom."
 msgstr "Non aiutare la mamma."
 
+# XX## game/UpdateScript0.05.rpy:865
 msgid "Run to the park"
 msgstr "Corri al parco"
 
+# XX## game/UpdateScript0.05.rpy:865
 msgid "I don't feel like running today."
 msgstr "Non ho voglia di correre oggi."
 
+# XX## game/UpdateScript0.05.rpy:885
 msgid "You should go to the indoor track."
 msgstr "Dovresti andare alla pista interna."
 
+# XX## game/UpdateScript0.05.rpy:885
 msgid "I'll go to the park myself and see if it's safe."
 msgstr "Andrò io stesso al parco per vedere se è sicuro."
 
+# XX## game/UpdateScript0.05.rpy:885
 msgid "Let's go jogging in the park together. I'll keep you safe. (Light NTR Warning)"
 msgstr "Andiamo a correre nel parco insieme. Ti terrò al sicuro. (Leggero avvertimento NTR)"
 
+# XX## game/UpdateScript0.05.rpy:1671
 msgid "Can I get a handjob?"
 msgstr "Posso avere una sega?"
 
+# XX## game/UpdateScript0.05.rpy:1671
 msgid "Do you want me to finger you again?"
 msgstr "Vuoi che ti faccia un altro ditalino?"
 
+# XX## game/UpdateScript0.05.rpy:1671
 msgid "How about another blowjob?"
 msgstr "Che ne dici di un altro pompino?"
 
+# XX## game/UpdateScript0.05.rpy:2610
 msgid "Deep"
 msgstr "Profondo"
 
+# XX## game/UpdateScript0.05.rpy:2900
 msgid "Hold the line!"
 msgstr "Tieni la linea!"
 
+# XX## game/UpdateScript0.05.rpy:2938
 msgid "Hold strong.... Hold strong.... Hold strong...."
 msgstr "Tieni duro.... Tieni duro.... Tieni duro...."
 
+# XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Mom"
 msgstr "Prendi in giro la mamma"
 
+# XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Lauren"
 msgstr "Stuzzicare Lauren"
 
+# XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Sidney"
 msgstr "Stuzzicare Sidney"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "Public Fingering"
 msgstr "Ditalino pubblico"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
 msgstr "{s}Ditalino pubblico{/s} {i}(Sidney's Libido 8+){/i}"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "Public Handjob"
 msgstr "Masturbazione pubblica"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "Eat Pussy"
 msgstr "Mangiare la figa"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Eat Pussy{/s} {i}(Sidney's Libido 8+){/i}"
 msgstr "{s}Mangia la figa{/s} {i}(Sidney's Libido 8+){/i}"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "Blowjob"
 msgstr "Pompino"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "Sex {i}(Bonus){/i}"
 msgstr "Sesso {i}(Bonus){/i}"
 
+# XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
 msgstr "{s}Sesso{/s} {i}(Sidney's Libido 8+){/i}"
 
+# XX## game/UpdateScript0.05.rpy:5758
 msgid "That feels so good!"
 msgstr "Che bella sensazione!"
 
+# XX## game/UpdateScript0.05.rpy:5758
 msgid "Yeah, suck it whore!"
 msgstr "Sì, succhialo, puttana!"
 
+# XX## game/UpdateScript0.05.rpy:5777
 msgid "Cum down her throat."
 msgstr "Sborrale in gola."
 
+# XX## game/UpdateScript0.05.rpy:5777
 msgid "Cum all over her face."
 msgstr "Sborrale su tutta la faccia."
 
+# XX## game/UpdateScript0.05.rpy:5856
 msgid "Finish"
 msgstr "Finisci"
 
+# XX## game/UpdateScript0.05.rpy:6096
 msgid "Yes!.... Peek!"
 msgstr "Sì! .... Sbircia!"
 
+# XX## game/UpdateScript0.05.rpy:6096
 msgid "No!.... Don't risk it."
 msgstr "No!.... Non rischiare."
 
+# XX## game/UpdateScript0.05.rpy:6136
 msgid "Working for the Mafia"
 msgstr "Lavorare per la Mafia"
 
+# XX## game/UpdateScript0.05.rpy:6136
 msgid "Are you making good money?"
 msgstr "Stai guadagnando bene?"
 
+# XX## game/UpdateScript0.05.rpy:6136
 msgid "Can we?.... You know...."
 msgstr "Possiamo? .... Lo sai...."
 
+# XX## game/UpdateScript0.05.rpy:6200
 msgid "Joey (NTR Warning)"
 msgstr "Joey (Avviso NTR)"
 
+# XX## game/UpdateScript0.05.rpy:6215
 msgid "That's all for tonight."
 msgstr "Questo è tutto per stasera."
 
+# XX## game/UpdateScript0.05.rpy:6256
 msgid "Working for the Mafia."
 msgstr "Lavorare per la Mafia."
 
+# XX## game/UpdateScript0.05.rpy:6256
 msgid "Can we?.... you know...."
 msgstr "Possiamo? .... sai...."
 
+# XX## game/UpdateScript0.05.rpy:6294
 msgid "Sex"
 msgstr "Sesso"
 
