@@ -94,6 +94,10 @@ msgid \"""",
     """:XX\n#XX## game""": """:XX#XX## game""",
     # date
     """HH:HH\n\n# game""": """HH:HH# game""",
+
+    """msgstr \"[""": """msgstr \"\"[""",
+    """msgstr \"\"""": """msgstr \"""",
+    """""": """msgstr \"\"""",
 }
 
 
