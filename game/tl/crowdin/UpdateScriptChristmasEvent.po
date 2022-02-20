@@ -6978,15 +6978,15 @@ msgstr "[RT] {i}That was such a crazy dream.... It felt so real.... then again, 
 msgid "[RT] {i}I do feel pretty tired.{/i}"
 msgstr "[RT] {i}I do feel pretty tired.{/i}"
 
-#XXtranslate crowdin strings:XX##X## game/UpdateScriptChristmasEvent.rpy:6
+#XXtranslate crowdin strings:XX#XX## game/UpdateScriptChristmasEvent.rpy:6
 msgid  "Ghost of XXX-mas Past"
 msgstr  "Ghost of XXX-mas Past"
 
-##X## game/UpdateScriptChristmasEvent.rpy:7
+#XX## game/UpdateScriptChristmasEvent.rpy:7
 msgid  "Ghost of XXX-mas Present"
 msgstr  "Ghost of XXX-mas Present"
 
-##X## game/UpdateScriptChristmasEvent.rpy:8
+#XX## game/UpdateScriptChristmasEvent.rpy:8
 msgid  "Ghost of XXX-mas Future"
 msgstr  "Ghost of XXX-mas Future"
 

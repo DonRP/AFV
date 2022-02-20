@@ -38,39 +38,39 @@ msgstr "[BJ_dealer] The dealer also has [computerScore], so it's a push! You get
 msgid "[BJ_dealer] Sorry! You don't have enough money!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Sorry! You don't have enough money!{w=2.0}{nw}"
 
-#XXtranslate crowdin strings:XX##X## game/images/interface_images/blackjack/blackjack-DS.rpy:198
+#XXtranslate crowdin strings:XX#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid  "Dealer"
 msgstr  "Dealer"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:236
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid  "Place your bets!"
 msgstr  "Place your bets!"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:244
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:244
 msgid  "Do you want to bet $100 and start the game?"
 msgstr  "Do you want to bet $100 and start the game?"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:252
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:252
 msgid  "Do you want to bet $500 and start the game?"
 msgstr  "Do you want to bet $500 and start the game?"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:260
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:260
 msgid  "Do you want to bet $1000 and start the game?"
 msgstr  "Do you want to bet $1000 and start the game?"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:268
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:268
 msgid  "Do you want to leave the BlackJack game?"
 msgstr  "Do you want to leave the BlackJack game?"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:276
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid  "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgstr  "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:321
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid  "Player cards: [playerScore]"
 msgstr  "Player cards: [playerScore]"
 
-##X## game/images/interface_images/blackjack/blackjack-DS.rpy:480
+#XX## game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid  "Do you want to play again?"
 msgstr  "Do you want to play again?"
 

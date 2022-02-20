@@ -166,19 +166,19 @@ msgstr "[RLT_dealer] The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw} [wit
 msgid "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 msgstr "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 
-#XXtranslate crowdin strings:XX##X## game/images/interface_images/Roulette/RouletteGame.rpy:235
+#XXtranslate crowdin strings:XX#XX## game/images/interface_images/Roulette/RouletteGame.rpy:235
 msgid  "Croupier"
 msgstr  "Croupier"
 
-##X## game/images/interface_images/Roulette/RouletteGame.rpy:322
+#XX## game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid  "Do you want to play the Roulette?"
 msgstr  "Do you want to play the Roulette?"
 
-##X## game/images/interface_images/Roulette/RouletteGame.rpy:340
+#XX## game/images/interface_images/Roulette/RouletteGame.rpy:340
 msgid  "What type of game do you want to play?"
 msgstr  "What type of game do you want to play?"
 
-##X## game/images/interface_images/Roulette/RouletteGame.rpy:521
+#XX## game/images/interface_images/Roulette/RouletteGame.rpy:521
 msgid  "Game type: [betType]\nYou bet on: [playerPiked]"
 msgstr  "Game type: [betType]\nYou bet on: [playerPiked]"
 

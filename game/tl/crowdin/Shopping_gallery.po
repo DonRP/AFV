@@ -598,67 +598,67 @@ msgstr "[RT] {i}I can't admit to anyone that I kind of like these stories.{/i}"
 msgid "[RT] {i}Not right now.{/i}"
 msgstr "[RT] {i}Not right now.{/i}"
 
-#XXtranslate crowdin strings:XX##X## game/Shopping_gallery.rpy:323
+#XXtranslate crowdin strings:XX#XX## game/Shopping_gallery.rpy:323
 msgid  "Buy chocolate"
 msgstr  "Buy chocolate"
 
-##X## game/Shopping_gallery.rpy:323
+#XX## game/Shopping_gallery.rpy:323
 msgid  "Don't buy"
 msgstr  "Don't buy"
 
-##X## game/Shopping_gallery.rpy:341
+#XX## game/Shopping_gallery.rpy:341
 msgid  "Buy giftcard"
 msgstr  "Buy giftcard"
 
-##X## game/Shopping_gallery.rpy:358
+#XX## game/Shopping_gallery.rpy:358
 msgid  "Buy Flowers"
 msgstr  "Buy Flowers"
 
-##X## game/Shopping_gallery.rpy:374
+#XX## game/Shopping_gallery.rpy:374
 msgid  "Buy melatonin."
 msgstr  "Buy melatonin."
 
-##X## game/Shopping_gallery.rpy:400
+#XX## game/Shopping_gallery.rpy:400
 msgid  "Buy spycam."
 msgstr  "Buy spycam."
 
-##X## game/Shopping_gallery.rpy:417
+#XX## game/Shopping_gallery.rpy:417
 msgid  "Buy green screen."
 msgstr  "Buy green screen."
 
-##X## game/Shopping_gallery.rpy:435
+#XX## game/Shopping_gallery.rpy:435
 msgid  "Buy pro lights."
 msgstr  "Buy pro lights."
 
-##X## game/Shopping_gallery.rpy:453
+#XX## game/Shopping_gallery.rpy:453
 msgid  "Buy DSLR camera."
 msgstr  "Buy DSLR camera."
 
-##X## game/Shopping_gallery.rpy:470
+#XX## game/Shopping_gallery.rpy:470
 msgid  "Buy camera accessory."
 msgstr  "Buy camera accessory."
 
-##X## game/Shopping_gallery.rpy:589
+#XX## game/Shopping_gallery.rpy:589
 msgid  "Buy camera accessory"
 msgstr  "Buy camera accessory"
 
-##X## game/Shopping_gallery.rpy:607
+#XX## game/Shopping_gallery.rpy:607
 msgid  "Buy bikini"
 msgstr  "Buy bikini"
 
-##X## game/Shopping_gallery.rpy:628
+#XX## game/Shopping_gallery.rpy:628
 msgid  "Buy ball gag."
 msgstr  "Buy ball gag."
 
-##X## game/Shopping_gallery.rpy:651
+#XX## game/Shopping_gallery.rpy:651
 msgid  "Buy Perry Hotter Book 1."
 msgstr  "Buy Perry Hotter Book 1."
 
-##X## game/Shopping_gallery.rpy:674
+#XX## game/Shopping_gallery.rpy:674
 msgid  "Buy Perry Hotter Book 2."
 msgstr  "Buy Perry Hotter Book 2."
 
-##X## game/Shopping_gallery.rpy:697
+#XX## game/Shopping_gallery.rpy:697
 msgid  "Buy Perry Hotter Book 3."
 msgstr  "Buy Perry Hotter Book 3."
 
