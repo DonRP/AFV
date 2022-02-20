@@ -6062,67 +6062,67 @@ msgstr "[J] Whatever."
 msgid "[R] Shit, she's done, I'd better make myself scarce."
 msgstr "[R] Shit, she's done, I'd better make myself scarce."
 
-#XXtranslate crowdin strings:XX#XX## game/UpdateScript0.02.rpy:233
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.02.rpy:233
 msgid  "What will she do?"
 msgstr  "What will she do?"
 
-#XX## game/UpdateScript0.02.rpy:233
+# XX## game/UpdateScript0.02.rpy:233
 msgid  "Skip event."
 msgstr  "Skip event."
 
-#XX## game/UpdateScript0.02.rpy:316
+# XX## game/UpdateScript0.02.rpy:316
 msgid  "Let's keep things going with Sidney."
 msgstr  "Let's keep things going with Sidney."
 
-#XX## game/UpdateScript0.02.rpy:316
+# XX## game/UpdateScript0.02.rpy:316
 msgid  "Just sleep."
 msgstr  "Just sleep."
 
-#XX## game/UpdateScript0.02.rpy:766
+# XX## game/UpdateScript0.02.rpy:766
 msgid  "Try to make it better."
 msgstr  "Try to make it better."
 
-#XX## game/UpdateScript0.02.rpy:766
+# XX## game/UpdateScript0.02.rpy:766
 msgid  "Just leave her alone, you've tortured her enough."
 msgstr  "Just leave her alone, you've tortured her enough."
 
-#XX## game/UpdateScript0.02.rpy:772
+# XX## game/UpdateScript0.02.rpy:772
 msgid  "Bang your metal bat on the floor"
 msgstr  "Bang your metal bat on the floor"
 
-#XX## game/UpdateScript0.02.rpy:802
+# XX## game/UpdateScript0.02.rpy:802
 msgid  "Make some creepy noises"
 msgstr  "Make some creepy noises"
 
-#XX## game/UpdateScript0.02.rpy:825
+# XX## game/UpdateScript0.02.rpy:825
 msgid  "You're right, I should save up a little more money first."
 msgstr  "You're right, I should save up a little more money first."
 
-#XX## game/UpdateScript0.02.rpy:913
+# XX## game/UpdateScript0.02.rpy:913
 msgid  "Now let's see how you pose when they ask you to take pics from behind."
 msgstr  "Now let's see how you pose when they ask you to take pics from behind."
 
-#XX## game/UpdateScript0.02.rpy:913
+# XX## game/UpdateScript0.02.rpy:913
 msgid  "Have a good time at the convention!"
 msgstr  "Have a good time at the convention!"
 
-#XX## game/UpdateScript0.02.rpy:969
+# XX## game/UpdateScript0.02.rpy:969
 msgid  "Set up new spy-cam."
 msgstr  "Set up new spy-cam."
 
-#XX## game/UpdateScript0.02.rpy:1538
+# XX## game/UpdateScript0.02.rpy:1538
 msgid  "Peek through spy-cam."
 msgstr  "Peek through spy-cam."
 
-#XX## game/UpdateScript0.02.rpy:2186
+# XX## game/UpdateScript0.02.rpy:2186
 msgid  "Pinch."
 msgstr  "Pinch."
 
-#XX## game/UpdateScript0.02.rpy:2261
+# XX## game/UpdateScript0.02.rpy:2261
 msgid  "Not now."
 msgstr  "Not now."
 
-#XX## game/UpdateScript0.02.rpy:2832
+# XX## game/UpdateScript0.02.rpy:2832
 msgid  "Look through spy-cam"
 msgstr  "Look through spy-cam"
 

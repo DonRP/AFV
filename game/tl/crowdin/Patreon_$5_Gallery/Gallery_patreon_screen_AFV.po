@@ -1,14 +1,14 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#XXtranslate crowdin strings:XX#XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
+# XXtranslate crowdin strings:XX# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
 msgid  "                          Supporter's gallery"
 msgstr  "                          Supporter's gallery"
 
-#XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
+# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
 msgid  "                               Supporter's gallery $10"
 msgstr  "                               Supporter's gallery $10"
 
-#XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
+# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
 msgid  "            Patreon/Subscribestar Commissions"
 msgstr  "            Patreon/Subscribestar Commissions"
 

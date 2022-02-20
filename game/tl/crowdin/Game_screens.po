@@ -1,30 +1,30 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#XXtranslate crowdin strings:XX#XX## game/Game_screens.rpy:59
+# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid  " My\nRoom"
 msgstr  " My\nRoom"
 
-#XX## game/Game_screens.rpy:77
+# XX## game/Game_screens.rpy:77
 msgid  "Bath"
 msgstr  "Bath"
 
-#XX## game/Game_screens.rpy:110
+# XX## game/Game_screens.rpy:110
 msgid  "City"
 msgstr  "City"
 
-#XX## game/Game_screens.rpy:125
+# XX## game/Game_screens.rpy:125
 msgid  "Hallway"
 msgstr  "Hallway"
 
-#XX## game/Game_screens.rpy:134
+# XX## game/Game_screens.rpy:134
 msgid  "Class"
 msgstr  "Class"
 
-#XX## game/Game_screens.rpy:152
+# XX## game/Game_screens.rpy:152
 msgid  "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 msgstr  "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 
-#XX## game/Game_screens.rpy:208
+# XX## game/Game_screens.rpy:208
 msgid  "Campaign\n   HQ"
 msgstr  "Campaign\n   HQ"
 

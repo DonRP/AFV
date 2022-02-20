@@ -1,54 +1,54 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#XXtranslate crowdin strings:XX#XX## game/character.rpy:43
+# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid  "[ryan]'s Thoughts"
 msgstr  "[ryan]'s Thoughts"
 
-#XX## game/character.rpy:45
+# XX## game/character.rpy:45
 msgid  "Mom's Thoughts"
 msgstr  "Mom's Thoughts"
 
-#XX## game/character.rpy:46
+# XX## game/character.rpy:46
 msgid  "Dad"
 msgstr  "Dad"
 
-#XX## game/character.rpy:49
+# XX## game/character.rpy:49
 msgid  "Lauren's Thoughts"
 msgstr  "Lauren's Thoughts"
 
-#XX## game/character.rpy:50
+# XX## game/character.rpy:50
 msgid  "Joey"
 msgstr  "Joey"
 
-#XX## game/character.rpy:51
+# XX## game/character.rpy:51
 msgid  "Mafia Goon"
 msgstr  "Mafia Goon"
 
-#XX## game/character.rpy:52
+# XX## game/character.rpy:52
 msgid  "Voice over Microphone"
 msgstr  "Voice over Microphone"
 
-#XX## game/character.rpy:53
+# XX## game/character.rpy:53
 msgid  "?????"
 msgstr  "?????"
 
-#XX## game/character.rpy:56
+# XX## game/character.rpy:56
 msgid  "Sidney's Thoughts"
 msgstr  "Sidney's Thoughts"
 
-#XX## game/character.rpy:57
+# XX## game/character.rpy:57
 msgid  "Megan"
 msgstr  "Megan"
 
-#XX## game/character.rpy:59
+# XX## game/character.rpy:59
 msgid  "Mandy's Thoughts"
 msgstr  "Mandy's Thoughts"
 
-#XX## game/character.rpy:60
+# XX## game/character.rpy:60
 msgid  "Aunt Camille"
 msgstr  "Aunt Camille"
 
-#XX## game/character.rpy:61
+# XX## game/character.rpy:61
 msgid  "Aunt Camille's Thoughts"
 msgstr  "Aunt Camille's Thoughts"
 
