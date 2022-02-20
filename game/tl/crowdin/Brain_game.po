@@ -13,11 +13,12 @@ msgstr "[RT] {i}School has ended, I must return home.{/i}"
 # game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}School has ended, I must return home.{/i}"
-## # translate crowdin strings:##    # game/Brain_game.rpy:497
-msgid "You lose!"
-msgstr "You lose!"
 
-#    # game/Brain_game.rpy:519
-msgid "YOU WON!!!"
-msgstr "YOU WON!!!"
+#@@translate crowdin strings:@@##@## game/Brain_game.rpy:497
+msgid  "You lose!"
+msgstr  "You lose!"
+
+##@## game/Brain_game.rpy:519
+msgid  "YOU WON!!!"
+msgstr  "YOU WON!!!"
 
