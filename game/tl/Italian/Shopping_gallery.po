@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 15:31\n"
+"PO-Revision-Date: 2022-02-20 17:14\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/Shopping_gallery.rpy:253 ## translate crowdin online_shopping_d0d5deb3
 msgid "[RT] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -615,63 +615,48 @@ msgstr "[RT] {i}Non in questo momento.{/i}"
 msgid "Buy chocolate"
 msgstr "Acquista cioccolato"
 
-#    # game/Shopping_gallery.rpy:323
 msgid "Don't buy"
 msgstr "Non comprare"
 
-#    # game/Shopping_gallery.rpy:341
 msgid "Buy giftcard"
 msgstr "Acquista carta regalo"
 
-#    # game/Shopping_gallery.rpy:358
 msgid "Buy Flowers"
 msgstr "Acquista Fiori"
 
-#    # game/Shopping_gallery.rpy:374
 msgid "Buy melatonin."
 msgstr "Compra melatonina."
 
-#    # game/Shopping_gallery.rpy:400
 msgid "Buy spycam."
 msgstr "Compra spycam."
 
-#    # game/Shopping_gallery.rpy:417
 msgid "Buy green screen."
 msgstr "Acquista schermo verde."
 
-#    # game/Shopping_gallery.rpy:435
 msgid "Buy pro lights."
 msgstr "Compra luci professionali."
 
-#    # game/Shopping_gallery.rpy:453
 msgid "Buy DSLR camera."
 msgstr "Acquista fotocamera DSLR."
 
-#    # game/Shopping_gallery.rpy:470
 msgid "Buy camera accessory."
 msgstr "Acquista l'accessorio della fotocamera."
 
-#    # game/Shopping_gallery.rpy:589
 msgid "Buy camera accessory"
 msgstr "Acquista l'accessorio della fotocamera"
 
-#    # game/Shopping_gallery.rpy:607
 msgid "Buy bikini"
 msgstr "Acquista bikini"
 
-#    # game/Shopping_gallery.rpy:628
 msgid "Buy ball gag."
 msgstr "Compra palla gag."
 
-#    # game/Shopping_gallery.rpy:651
 msgid "Buy Perry Hotter Book 1."
 msgstr "Acquista Perry Hotter Book 1."
 
-#    # game/Shopping_gallery.rpy:674
 msgid "Buy Perry Hotter Book 2."
 msgstr "Acquista Perry Hotter Book 2."
 
-#    # game/Shopping_gallery.rpy:697
 msgid "Buy Perry Hotter Book 3."
 msgstr "Acquista Perry Hotter Book 3."
 
