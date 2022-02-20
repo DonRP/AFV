@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 15:01\n"
+"PO-Revision-Date: 2022-02-20 17:49\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
 msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
 msgstr "[RT] {i}Je devrais faire une recherche sur booble.com pour trouver un moyen d’acheter les choses dont j’ai besoin afin que le FBI ne me demande pas d’où j’ai obtenu de l’argent. {/i}"
 
-# game/Booble_screen.rpy:67 ## translate crowdin booble_search_ce876757
+# game/Booble_screen.rpy:67 ## translate crowdin booble_search_ce876757:
 msgid "[RT] {i}What should I do today on the internet?{/i}"
 msgstr "[RT] {i}Que dois-je faire aujourd’hui sur Internet ? {/i}"
 
