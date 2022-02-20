@@ -94,9 +94,6 @@ msgid \"""",
     """:XX\n#XX## game""": """:XX#XX## game""",
     # date
     """12:36\n\n# game""": """HH:HH# game""",
-    # only rpytopo
-    """msgid \"\"""": """msgid \"""",
-    """msgstr \"\"""": """msgstr \"""",
 }
 
 
@@ -131,7 +128,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 def getListFiles():
     # Get the list of all files and directories
     path = "tl/"
-    dir_list = glob(path + "/**/*.po", recursive=True)
+    dir_list = glob(path + "/**/*.rpy", recursive=True)
     return dir_list
 
 
