@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:52\n"
+"PO-Revision-Date: 2022-02-20 18:57\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.02.rpy:10 ## translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -6076,51 +6076,67 @@ msgstr "[J] Come vuoi."
 msgid "[R] Shit, she's done, I'd better make myself scarce."
 msgstr "[R] Merda, ha finito, farei meglio a sparire."
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.02.rpy:233
 msgid "What will she do?"
 msgstr "Cosa farà?"
 
+# XX## game/UpdateScript0.02.rpy:233
 msgid "Skip event."
 msgstr "Salta l'evento."
 
+# XX## game/UpdateScript0.02.rpy:316
 msgid "Let's keep things going with Sidney."
 msgstr "Continuiamo le cose con Sidney."
 
+# XX## game/UpdateScript0.02.rpy:316
 msgid "Just sleep."
 msgstr "Dormi e basta."
 
+# XX## game/UpdateScript0.02.rpy:766
 msgid "Try to make it better."
 msgstr "Cerca di farla stare meglio."
 
+# XX## game/UpdateScript0.02.rpy:766
 msgid "Just leave her alone, you've tortured her enough."
 msgstr "Lasciala in pace, l'hai torturata abbastanza."
 
+# XX## game/UpdateScript0.02.rpy:772
 msgid "Bang your metal bat on the floor"
 msgstr "Batti la tua mazza di metallo sul pavimento"
 
+# XX## game/UpdateScript0.02.rpy:802
 msgid "Make some creepy noises"
 msgstr "Fai dei rumori inquietanti"
 
+# XX## game/UpdateScript0.02.rpy:825
 msgid "You're right, I should save up a little more money first."
 msgstr "Hai ragione, dovrei risparmiare un pò di soldi prima."
 
+# XX## game/UpdateScript0.02.rpy:913
 msgid "Now let's see how you pose when they ask you to take pics from behind."
 msgstr "Ora vediamo come ti metti in posa quando ti chiedono di fare foto da dietro."
 
+# XX## game/UpdateScript0.02.rpy:913
 msgid "Have a good time at the convention!"
 msgstr "Divertiti alla convention!"
 
+# XX## game/UpdateScript0.02.rpy:969
 msgid "Set up new spy-cam."
 msgstr "Imposta la nuova spy-cam."
 
+# XX## game/UpdateScript0.02.rpy:1538
 msgid "Peek through spy-cam."
 msgstr "Sbircia attraverso la spy-cam."
 
+# XX## game/UpdateScript0.02.rpy:2186
 msgid "Pinch."
 msgstr "Pizzica."
 
+# XX## game/UpdateScript0.02.rpy:2261
 msgid "Not now."
 msgstr "Non ora."
 
+# XX## game/UpdateScript0.02.rpy:2832
 msgid "Look through spy-cam"
 msgstr "Guarda attraverso la spy-cam"
 
