@@ -4,6 +4,18 @@ import os
 
 # ATTENTION: there must not be 2 equal key or value
 dict = {
+    # potorpy only
+    # not traslate
+    """\n# game""": """    new \"\"\n\n# game""",
+    # accapo
+    """    new \"[""": """    [""",
+    """""": """\"
+\"""",
+    """""": """\"\n\"""",
+    """""": """\"\n\"""",
+    """    old \"""": """msgid \"""",
+    """    new \"""": """    \"""",
+
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
@@ -12,8 +24,6 @@ translate crowdin""": """ ## translate crowdin""",
 
     # """: """:
 msgid \"""",
-    """    old \"""": """msgid  \"""",
-    """    new \"""": """msgstr  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
@@ -89,14 +99,15 @@ msgid \"""",
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
-    #Final
+    # Final
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
-    """12:36\n\n# game""": """HH:HH# game""",
-    # only rpytopo
-    """msgid \"\"""": """msgid \"""",
+    """HH:HH\n\n# game""": """HH:HH# game""",
+    # potorpy only
+    """msgstr \"[""": """msgstr \"\"[""",
     """msgstr \"\"""": """msgstr \"""",
+    """""": """msgstr \"\"""",
 }
 
 
