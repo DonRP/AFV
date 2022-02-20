@@ -5,6 +5,9 @@ import os
 # ATTENTION: there must not be 2 equal key or value
 dict = {
     # potorpy only
+    # not traslate
+    """\n# game""": """    new \"\"\n\n# game""",
+    # accapo
     """    new \"[""": """    [""",
     """""": """\"
 \"""",
@@ -96,7 +99,7 @@ msgid \"""",
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
-    #Final
+    # Final
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
