@@ -7,7 +7,7 @@ dict = {
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
-    """    # game""": """##@## game""",
+    """    # game""": """##X## game""",
     """:
 
     # """: """
@@ -55,6 +55,9 @@ msgid \"""",
     """ \"MP \"""": """ \"[MP] """,
     """ \"SG \"""": """ \"[SG] """,
     """ \"MJ \"""": """ \"[MJ] """,
+    """ \"CC \"""": """ \"[CC] """,
+    """ \"VP \"""": """ \"[VP] """,
+    """ \"IV \"""": """ \"[IV] """,
     """ \"MBT \"""": """ \"[MBT] """,
     """ \"ADT \"""": """ \"[ADT] """,
     """ \"MPT \"""": """ \"[MPT] """,
@@ -74,9 +77,8 @@ msgid \"""",
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
     #Final
-    """\n ## translate crowdin strings:\n\n""": """\n\n#@@translate crowdin strings:@@\n""",
-    """:@@
-##@## game""": """:@@##@## game""",
+    """\n ## translate crowdin strings:\n\n""": """\n\n#XXtranslate crowdin strings:XX\n""",
+    """:XX\n##X## game""": """:XX##X## game""",
     # date
     """12:36\n\n# game""": """HH:HH# game""",
     # only rpytopo
