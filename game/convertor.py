@@ -1,4 +1,5 @@
 from fileinput import FileInput
+from glob import glob
 import os
 
 # ATTENTION: there must not be 2 equal key or value
@@ -6,24 +7,45 @@ dict = {
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
+    """    # game""": """##@## game""",
     """:
 
     # """: """
 msgid \"""",
     """    old \"""": """msgid  \"""",
     """    new \"""": """msgstr  \"""",
-    """    # """: """##@## """,
     """\" nointeract""": """ [nointeract]\"""",
     """    """: """msgstr \"""",
     # ch
-    # """ \"Max_00 \"""": """ \"[Max_00]""",
-#     """
-#  ## translate crowdin strings:
+    """ \"RT \"""": """ \"[RT] """,
+    """ \"MT \"""": """ \"[MT] """,
+    """ \"R \"""": """ \"[R] """,
+    """ \"M \"""": """ \"[M] """,
+    """ \"KT \"""": """ \"[KT] """,
+    """ \"L \"""": """ \"[L] """,
+    """ \"ST \"""": """ \"[ST] """,
+    """ \"X \"""": """ \"[X] """,
+    """ \"A \"""": """ \"[A] """,
+    """ \"S \"""": """ \"[S] """,
+    """ \"CT \"""": """ \"[CT] """,
+    """ \"C \"""": """ \"[C] """,
+    """ \"AD \"""": """ \"[AD] """,
+    """ \"MG \"""": """ \"[MG] """,
+    """ \"MBT \"""": """ \"[MBT] """,
+    """ \"ADT \"""": """ \"[ADT] """,
+    """ \"MPT \"""": """ \"[MPT] """,
+    """ \"SRT \"""": """ \"[SRT] """,
+    """ \"MDT \"""": """ \"[MDT] """,
+    """ \"VOM \"""": """ \"[VOM] """,
+    """ \"MD \"""": """ \"[MD] """,
+    """ \"G \"""": """ \"[G] """,
+    """
+ ## translate crowdin strings:
 
-# """: """
+""": """
 
-# #@@translate crowdin strings:@@
-# """,
+#@@translate crowdin strings:@@
+""",
 }
 
 
@@ -58,7 +80,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 def getListFiles():
     # Get the list of all files and directories
     path = "tl/"
-    dir_list = os.listdir(path)
+    dir_list = glob(path + "/**/*.po", recursive=True)
 
     print("Files and directories in '", path, "' :")
 
@@ -69,13 +91,12 @@ def getListFiles():
 
 def rpytopo():
     for path in getListFiles():
-        replaceDictionary("tl/"+path, dict=dict)
+        replaceDictionary(path, dict=dict)
 
 
 def potorpy():
     for path in getListFiles():
-        replaceDictionary("tl/"+path, dict=dict, reverse=True)
+        replaceDictionary(path, dict=dict, reverse=True)
 
 
 rpytopo()
-potorpy()
