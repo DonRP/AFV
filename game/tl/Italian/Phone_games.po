@@ -10,9 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-03 17:52\n"
+"PO-Revision-Date: 2022-02-20 15:04\n"
 
-# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/Phone_games.rpy:31
 msgid "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
 msgstr "{image=images/interface_images/phone_screen_images/Games_small.webp} Giochi"
 
