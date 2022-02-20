@@ -93,7 +93,7 @@ msgid \"""",
     """\n ## translate crowdin strings:\n\n""": """\n\n#XXtranslate crowdin strings:XX\n""",
     """:XX\n#XX## game""": """:XX#XX## game""",
     # date
-    """12:36\n\n# game""": """HH:HH# game""",
+    """HH:HH\n\n# game""": """HH:HH# game""",
 }
 
 
