@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:10\n"
+"PO-Revision-Date: 2022-02-20 18:54\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -31980,318 +31980,423 @@ msgstr "[RT] {i}Merde!... La seule façon de changer le code vestimentaire est d
 msgid "[RT] {i}If I do decide to set them up, It would probably best to speak to Mom at breakfast. I'm pretty sure she despises Will Tylor, so she'd probably be more open to it in the morning.{/i}"
 msgstr "[RT] {i}Si je décide de les mettre en place, Il serait probablement préférable de parler à maman au petit déjeuner. Je suis presque sûr qu'elle méprise Will Tylor, alors elle serait probablement plus ouverte à ça le matin.{/i}"
 
+# XXtranslate crowdin strings:XX# XX## game/UpdateScript0.07.rpy:17
 msgid "Voice over intercom"
 msgstr "Voix à travers l'interphone"
 
+# XX## game/UpdateScript0.07.rpy:18
 msgid "Principal Hardun"
 msgstr "Monsieur le principal Hardun"
 
+# XX## game/UpdateScript0.07.rpy:19
 msgid "Miss Jessica"
 msgstr "Mme Jessica"
 
+# XX## game/UpdateScript0.07.rpy:20
 msgid "Zack"
 msgstr "Zack"
 
+# XX## game/UpdateScript0.07.rpy:21
 msgid "Unknown Boy"
 msgstr "Garçon Inconnu"
 
+# XX## game/UpdateScript0.07.rpy:22
 msgid "Another Unknown Boy"
 msgstr "Un Autre garçon Inconnu"
 
+# XX## game/UpdateScript0.07.rpy:23
 msgid "Stacy"
 msgstr "Stacy"
 
+# XX## game/UpdateScript0.07.rpy:24
 msgid "Mrs. Stone's Thoughts"
 msgstr "Pensées de Mme Stone"
 
+# XX## game/UpdateScript0.07.rpy:25
 msgid "Locker Room Girl"
 msgstr "Fille du vestiaire"
 
+# XX## game/UpdateScript0.07.rpy:26
 msgid "Brooke"
 msgstr "Brooke"
 
+# XX## game/UpdateScript0.07.rpy:27
 msgid "Reagan"
 msgstr "Reagan"
 
+# XX## game/UpdateScript0.07.rpy:28
 msgid "Haylee"
 msgstr "Haylee"
 
+# XX## game/UpdateScript0.07.rpy:1332
 msgid "Lick that clit!"
 msgstr "Lécher ce clitoris!"
 
+# XX## game/UpdateScript0.07.rpy:1332
 msgid "Where's your pride, man?"
 msgstr "Où est ta fierté, mec ?"
 
+# XX## game/UpdateScript0.07.rpy:1561
 msgid "I think our relationship is more than that."
 msgstr "Je pense que notre relation est plus que cela."
 
+# XX## game/UpdateScript0.07.rpy:1561
 msgid "Say nothing."
 msgstr "Ne rien dire."
 
+# XX## game/UpdateScript0.07.rpy:1672
 msgid "Take what you can get!"
 msgstr "Prends ce que tu veux obtenir!"
 
+# XX## game/UpdateScript0.07.rpy:1672
 msgid "I can't let her think I'm that desperate."
 msgstr "Je ne peux pas la laisser croire que je suis si désespéré."
 
+# XX## game/UpdateScript0.07.rpy:1966
 msgid "Lets go to pound town."
 msgstr "Allons à pound town."
 
+# XX## game/UpdateScript0.07.rpy:2044
 msgid "Pull out!"
 msgstr "Retirer!"
 
+# XX## game/UpdateScript0.07.rpy:2044
 msgid "Creampie!"
 msgstr "Éjaculation interne!"
 
+# XX## game/UpdateScript0.07.rpy:2330
 msgid "Leave her alone"
 msgstr "La laisser tranquille"
 
+# XX## game/UpdateScript0.07.rpy:2536
 msgid "Cover her face"
 msgstr "Couvrir son visage"
 
+# XX## game/UpdateScript0.07.rpy:3064
 msgid "Suggest Anal sex"
 msgstr "Suggérer le sexe anal"
 
+# XX## game/UpdateScript0.07.rpy:3064
 msgid "Don't bring up anal"
 msgstr "Ne pas faire mention de l'anal"
 
+# XX## game/UpdateScript0.07.rpy:3836
 msgid "Stay strong, don't arrange the date."
 msgstr "Rester fort, ne pas organiser de rdv."
 
+# XX## game/UpdateScript0.07.rpy:3836
 msgid "Lauren's election is too important, arrange the date."
 msgstr "L'élection de Lauren est trop importante, planifier la date."
 
+# XX## game/UpdateScript0.07.rpy:4140
 msgid "Interrupt."
 msgstr "Interrompre."
 
+# XX## game/UpdateScript0.07.rpy:4140
 msgid "Continue to wait."
 msgstr "Continuer à attendre."
 
+# XX## game/UpdateScript0.07.rpy:4164
 msgid "Cough loudly."
 msgstr "Tousser fort."
 
+# XX## game/UpdateScript0.07.rpy:4269
 msgid "Get her attention."
 msgstr "Attirer son attention."
 
+# XX## game/UpdateScript0.07.rpy:4309
 msgid "Pay for posters ($200)"
 msgstr "Payer pour les affiches (200$)"
 
+# XX## game/UpdateScript0.07.rpy:4309
 msgid "I don't have that much money."
 msgstr "Je n'ai pas beaucoup d'argent."
 
+# XX## game/UpdateScript0.07.rpy:4309
 msgid "I'm not spending that much on posters!"
 msgstr "Je ne dépense pas beaucoup en affiches !"
 
+# XX## game/UpdateScript0.07.rpy:4325
 msgid "Skip Mini-Game."
 msgstr "Ignorer le mini-jeu."
 
+# XX## game/UpdateScript0.07.rpy:4325
 msgid "Play Mini-Game"
 msgstr "Jouer au mini-jeu"
 
+# XX## game/UpdateScript0.07.rpy:4442
 msgid "Pay for posters ($300)"
 msgstr "Payer pour les affiches (300$)"
 
+# XX## game/UpdateScript0.07.rpy:6932
 msgid "Standing doggy"
 msgstr "Chien debout"
 
+# XX## game/UpdateScript0.07.rpy:7364
 msgid "Ok, fine!"
 msgstr "Ok, bien!"
 
+# XX## game/UpdateScript0.07.rpy:7364
 msgid "No way!"
 msgstr "Pas question !"
 
+# XX## game/UpdateScript0.07.rpy:7368
 msgid "Lick her pussy"
 msgstr "Lécher sa chatte"
 
+# XX## game/UpdateScript0.07.rpy:7368
 msgid "Get a blowjob"
 msgstr "Obtenir une pipe"
 
+# XX## game/UpdateScript0.07.rpy:7368
 msgid "Fuck her missionary style"
 msgstr "Baiser en style missionnaire"
 
+# XX## game/UpdateScript0.07.rpy:7368
 msgid "Fuck her standing doggystyle"
 msgstr "Baiser debout en levrette"
 
+# XX## game/UpdateScript0.07.rpy:7897
 msgid "Standing Doggy"
 msgstr "Chien Debout"
 
+# XX## game/UpdateScript0.07.rpy:7910
 msgid "Lick her pussy."
 msgstr "Lécher sa chatte."
 
+# XX## game/UpdateScript0.07.rpy:7936
 msgid "Lauren squirt"
 msgstr "Lauren gicle"
 
+# XX## game/UpdateScript0.07.rpy:8408
 msgid "Ok, I'll bankroll you."
 msgstr "Ok, je vais te financer."
 
+# XX## game/UpdateScript0.07.rpy:8408
 msgid "I can't afford another losing campaign."
 msgstr "Je ne peux pas me permettre une autre campagne perdue."
 
+# XX## game/UpdateScript0.07.rpy:8408
 msgid "Sorry, I've got to protect Mom at all costs."
 msgstr "Désolé, je dois protéger maman à tout prix."
 
+# XX## game/UpdateScript0.07.rpy:8551
 msgid "I don't have enough money this week."
 msgstr "Je n'ai pas assez d'argent cette semaine."
 
+# XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $100"
 msgstr "Lui donner 100$"
 
+# XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $250"
 msgstr "Lui donner 250$"
 
+# XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $500"
 msgstr "Lui donner 500$"
 
+# XX## game/UpdateScript0.07.rpy:8953
 msgid "Go see Mom"
 msgstr "Aller voir maman"
 
+# XX## game/UpdateScript0.07.rpy:9119
 msgid "Talk to Megan"
 msgstr "Parler à Megan"
 
+# XX## game/UpdateScript0.07.rpy:9145
 msgid "Get Lauren's Attention"
 msgstr "Attirer l'attention de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:9765
 msgid "sneak out of class"
 msgstr "se faufiler hors de la classe"
 
+# XX## game/UpdateScript0.07.rpy:9780
 msgid "Sneak out of class"
 msgstr "Se faufiler hors de la classe"
 
+# XX## game/UpdateScript0.07.rpy:10033
 msgid "Yes ($300)"
 msgstr "Oui (300$)"
 
+# XX## game/UpdateScript0.07.rpy:10082
 msgid "Cum inside"
 msgstr "Sperme à l'intérieur"
 
+# XX## game/UpdateScript0.07.rpy:10082
 msgid "Cum on her ass"
 msgstr "Sperme sur son cul"
 
+# XX## game/UpdateScript0.07.rpy:10766
 msgid "I should get our of here."
 msgstr "Je devrais prendre ma part."
 
+# XX## game/UpdateScript0.07.rpy:10824
 msgid "Yes, let's go back in time."
 msgstr "Oui, remontons le temps."
 
+# XX## game/UpdateScript0.07.rpy:10824
 msgid "No, I'll keep the consequences of losing."
 msgstr "Non, j'assumerai les conséquences de perdre."
 
+# XX## game/UpdateScript0.07.rpy:11422
 msgid "$100"
 msgstr "100$"
 
+# XX## game/UpdateScript0.07.rpy:11422
 msgid "$300"
 msgstr "300$"
 
+# XX## game/UpdateScript0.07.rpy:11422
 msgid "$500"
 msgstr "500$"
 
+# XX## game/UpdateScript0.07.rpy:11715
 msgid "Sorry, no money right now."
 msgstr "Désolé, pas d'argent pour le moment."
 
+# XX## game/UpdateScript0.07.rpy:12221
 msgid "Lauren, you sound a little bit crazy."
 msgstr "Lauren, tu as l'air un peu énervée."
 
+# XX## game/UpdateScript0.07.rpy:12221
 msgid "Lauren, I think you might be on to something."
 msgstr "Lauren, je pense que tu tiens peut-être sur quelque chose."
 
+# XX## game/UpdateScript0.07.rpy:12438
 msgid "Lick Lauren's ass"
 msgstr "Lécher le cul de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:12438
 msgid "Get a blowjob from Lauren"
 msgstr "Obtenir une pipe de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:12438
 msgid "Invite Mandy"
 msgstr "Inviter Mandy"
 
+# XX## game/UpdateScript0.07.rpy:12483
 msgid "Go see Mrs. Stone."
 msgstr "Aller voir Mme Stone."
 
+# XX## game/UpdateScript0.07.rpy:12483
 msgid "I'll go another time."
 msgstr "J'irais une autre fois."
 
+# XX## game/UpdateScript0.07.rpy:12515
 msgid "Down Lauren's throat"
 msgstr "Dans la gorge de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:12515
 msgid "All over Lauren's Face"
 msgstr "Sur le visage de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:13172
 msgid "Lick your ass!"
 msgstr "Lèche ton cul!"
 
+# XX## game/UpdateScript0.07.rpy:13172
 msgid "I'd love another blowjob!"
 msgstr "J'adorerais une autre pipe!"
 
+# XX## game/UpdateScript0.07.rpy:13873
 msgid "Maybe..."
 msgstr "Peut-être..."
 
+# XX## game/UpdateScript0.07.rpy:14019
 msgid "Put this dream out of it's misery."
 msgstr "Sortir ce rêve de la misère."
 
+# XX## game/UpdateScript0.07.rpy:14019
 msgid "Encourage her to keep going."
 msgstr "L'encourager à continuer."
 
+# XX## game/UpdateScript0.07.rpy:15052
 msgid "I was busy."
 msgstr "J'étais occupé."
 
+# XX## game/UpdateScript0.07.rpy:15052
 msgid "I didn't have the money."
 msgstr "Je n’ai pas d'argent."
 
+# XX## game/UpdateScript0.07.rpy:15052
 msgid "I don't know... I'm really sorry."
 msgstr "Je ne sais pas... Je suis vraiment désolé."
 
+# XX## game/UpdateScript0.07.rpy:15244
 msgid "In Lauren's mouth"
 msgstr "Dans la bouche de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:15244
 msgid "On Lauren's face"
 msgstr "Sur le visage de Lauren"
 
+# XX## game/UpdateScript0.07.rpy:15862
 msgid "Missionary Position"
 msgstr "Position du missionnaire"
 
+# XX## game/UpdateScript0.07.rpy:15965
 msgid "Reverse Cowgirl"
 msgstr "Cover-girl inversé"
 
+# XX## game/UpdateScript0.07.rpy:15990
 msgid "Pull Out"
 msgstr "Retirer"
 
+# XX## game/UpdateScript0.07.rpy:16050
 msgid "Suggest Anal Sex"
 msgstr "Suggérer le sexe anal"
 
+# XX## game/UpdateScript0.07.rpy:16050
 msgid "Keep Quiet"
 msgstr "Garder le silence"
 
+# XX## game/UpdateScript0.07.rpy:16131
 msgid "Uhh... Never mind... It wasn't a good idea."
 msgstr "Euhh... Ça ne fait rien... Ce n'était pas une bonne idée."
 
+# XX## game/UpdateScript0.07.rpy:16235
 msgid "Suggest Anal Sex."
 msgstr "Suggérer le sexe anal."
 
+# XX## game/UpdateScript0.07.rpy:16235
 msgid "Wait! Bad idea."
 msgstr "Attends! Mauvaise idée."
 
+# XX## game/UpdateScript0.07.rpy:16383
 msgid "Go visit Will Tylor"
 msgstr "Aller visiter Will Tylor"
 
+# XX## game/UpdateScript0.07.rpy:16383
 msgid "Maybe another time."
 msgstr "Peut-être une autre fois."
 
+# XX## game/UpdateScript0.07.rpy:16399
 msgid "Check out the van."
 msgstr "Regarder dans la fourgonnette."
 
+# XX## game/UpdateScript0.07.rpy:16399
 msgid "Maybe later."
 msgstr "Peut-être plus tard."
 
+# XX## game/UpdateScript0.07.rpy:16503
 msgid "Yes ($500)"
 msgstr "Oui (500$)"
 
+# XX## game/UpdateScript0.07.rpy:17141
 msgid "Buy School Influence ($500)"
 msgstr "Acheter Influence scolaire (500$)"
 
+# XX## game/UpdateScript0.07.rpy:17141
 msgid "Nothing else."
 msgstr "Rien d'autre."
 
+# XX## game/UpdateScript0.07.rpy:17890
 msgid "Yeah, why not?"
 msgstr "Ouais, pourquoi pas?"
 
+# XX## game/UpdateScript0.07.rpy:17890
 msgid "No, that's too expensive."
 msgstr "Non, c'est trop cher."
 
