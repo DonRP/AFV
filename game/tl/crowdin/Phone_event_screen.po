@@ -914,107 +914,107 @@ msgstr "[R] But probably the kind of tv series you could only see on HBO."
 msgid "[R] Please God, just don't let anybody make a crappy H-game out of this."
 msgstr "[R] Please God, just don't let anybody make a crappy H-game out of this."
 
-# game/Phone_event_screen.rpy:1654## # translate crowdin again_tutorial_29d73646:
+# game/Phone_event_screen.rpy:1654 ## translate crowdin again_tutorial_29d73646
 msgid "[WT] Ummm.... Hi!"
 msgstr "[WT] Ummm.... Hi!"
 
-# game/Phone_event_screen.rpy:1655## # translate crowdin again_tutorial_327b2971:
+# game/Phone_event_screen.rpy:1655 ## translate crowdin again_tutorial_327b2971
 msgid "[WT] Sorry to interrupt."
 msgstr "[WT] Sorry to interrupt."
 
-# game/Phone_event_screen.rpy:1656## # translate crowdin again_tutorial_3f364fff:
+# game/Phone_event_screen.rpy:1656 ## translate crowdin again_tutorial_3f364fff
 msgid "[WT] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
 msgstr "[WT] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
 
-# game/Phone_event_screen.rpy:1657## # translate crowdin again_tutorial_6be1bbb5:
+# game/Phone_event_screen.rpy:1657 ## translate crowdin again_tutorial_6be1bbb5
 msgid "[WT] Back to you [ryan]."
 msgstr "[WT] Back to you [ryan]."
 
-# game/Phone_event_screen.rpy:1662## # translate crowdin again_tutorial_9888c663:
+# game/Phone_event_screen.rpy:1662 ## translate crowdin again_tutorial_9888c663
 msgid "[R] I wanted to record my version of the remarkable events that have occured over the last little while."
 msgstr "[R] I wanted to record my version of the remarkable events that have occured over the last little while."
 
-# game/Phone_event_screen.rpy:1663## # translate crowdin again_tutorial_f9858483:
+# game/Phone_event_screen.rpy:1663 ## translate crowdin again_tutorial_f9858483
 msgid "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
 msgstr "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
 
-# game/Phone_event_screen.rpy:1664## # translate crowdin again_tutorial_15e2c4a9:
+# game/Phone_event_screen.rpy:1664 ## translate crowdin again_tutorial_15e2c4a9
 msgid "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
 msgstr "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
 
-# game/Phone_event_screen.rpy:1667## # translate crowdin again_tutorial_7be5f7b4:
+# game/Phone_event_screen.rpy:1667 ## translate crowdin again_tutorial_7be5f7b4
 msgid "[WT] Thanks [ryan]. Let me do a little explaining from here."
 msgstr "[WT] Thanks [ryan]. Let me do a little explaining from here."
 
-# game/Phone_event_screen.rpy:1670## # translate crowdin again_tutorial_cf17643b:
+# game/Phone_event_screen.rpy:1670 ## translate crowdin again_tutorial_cf17643b
 msgid "[WT] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
 msgstr "[WT] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
 
-# game/Phone_event_screen.rpy:1673## # translate crowdin again_tutorial_c3f79235:
+# game/Phone_event_screen.rpy:1673 ## translate crowdin again_tutorial_c3f79235
 msgid "[WT] You can keep track of the items you acquire by clicking on this blue backpack."
 msgstr "[WT] You can keep track of the items you acquire by clicking on this blue backpack."
 
-# game/Phone_event_screen.rpy:1676## # translate crowdin again_tutorial_0556842f:
+# game/Phone_event_screen.rpy:1676 ## translate crowdin again_tutorial_0556842f
 msgid "[WT] This will open up your inventory,"
 msgstr "[WT] This will open up your inventory,"
 
-# game/Phone_event_screen.rpy:1679## # translate crowdin again_tutorial_d644837a:
+# game/Phone_event_screen.rpy:1679 ## translate crowdin again_tutorial_d644837a
 msgid "[WT] where you will be able to see how much money you have earned,"
 msgstr "[WT] where you will be able to see how much money you have earned,"
 
-# game/Phone_event_screen.rpy:1682## # translate crowdin again_tutorial_25ecef9b:
+# game/Phone_event_screen.rpy:1682 ## translate crowdin again_tutorial_25ecef9b
 msgid "[WT] and what items you have acquired."
 msgstr "[WT] and what items you have acquired."
 
-# game/Phone_event_screen.rpy:1685## # translate crowdin again_tutorial_48f3259e:
+# game/Phone_event_screen.rpy:1685 ## translate crowdin again_tutorial_48f3259e
 msgid "[WT] There are several other important items on the game screen I'd like to draw your attention to."
 msgstr "[WT] There are several other important items on the game screen I'd like to draw your attention to."
 
-# game/Phone_event_screen.rpy:1688## # translate crowdin again_tutorial_25fc2c00:
+# game/Phone_event_screen.rpy:1688 ## translate crowdin again_tutorial_25fc2c00
 msgid "[WT] This symbol shows you what day of the week it is,"
 msgstr "[WT] This symbol shows you what day of the week it is,"
 
-# game/Phone_event_screen.rpy:1691## # translate crowdin again_tutorial_0665f6d0:
+# game/Phone_event_screen.rpy:1691 ## translate crowdin again_tutorial_0665f6d0
 msgid "[WT] while this symbol show you the time of day."
 msgstr "[WT] while this symbol show you the time of day."
 
-# game/Phone_event_screen.rpy:1694## # translate crowdin again_tutorial_2c6857c0:
+# game/Phone_event_screen.rpy:1694 ## translate crowdin again_tutorial_2c6857c0
 msgid "[WT] I'll let you get back to [ryan] again."
 msgstr "[WT] I'll let you get back to [ryan] again."
 
-# game/Phone_event_screen.rpy:1697## # translate crowdin again_tutorial_4f74ea21:
+# game/Phone_event_screen.rpy:1697 ## translate crowdin again_tutorial_4f74ea21
 msgid "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
 msgstr "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
 
-# game/Phone_event_screen.rpy:1700## # translate crowdin again_tutorial_88c4b13a:
+# game/Phone_event_screen.rpy:1700 ## translate crowdin again_tutorial_88c4b13a
 msgid "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
 msgstr "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
 
-# game/Phone_event_screen.rpy:1703## # translate crowdin again_tutorial_33df29b8:
+# game/Phone_event_screen.rpy:1703 ## translate crowdin again_tutorial_33df29b8
 msgid "[WT] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
 msgstr "[WT] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
 
-# game/Phone_event_screen.rpy:1704## # translate crowdin again_tutorial_c69197d0:
+# game/Phone_event_screen.rpy:1704 ## translate crowdin again_tutorial_c69197d0
 msgid "[WT] You will find that navigation is very important in this type of game, so let me just show you how that's done."
 msgstr "[WT] You will find that navigation is very important in this type of game, so let me just show you how that's done."
 
-# game/Phone_event_screen.rpy:1707## # translate crowdin again_tutorial_850d20d8:
+# game/Phone_event_screen.rpy:1707 ## translate crowdin again_tutorial_850d20d8
 msgid "[WT] On the game map, you can get around to many locations by using the travel buttons."
 msgstr "[WT] On the game map, you can get around to many locations by using the travel buttons."
 
-# game/Phone_event_screen.rpy:1710## # translate crowdin again_tutorial_6bfbd2da:
+# game/Phone_event_screen.rpy:1710 ## translate crowdin again_tutorial_6bfbd2da
 msgid "[WT] This button right here will open up a map of the house, where you can pick any room you would like to go to."
 msgstr "[WT] This button right here will open up a map of the house, where you can pick any room you would like to go to."
 
-# game/Phone_event_screen.rpy:1713## # translate crowdin again_tutorial_1e2916f7:
+# game/Phone_event_screen.rpy:1713 ## translate crowdin again_tutorial_1e2916f7
 msgid "[WT] You can also hover your cursor over this button, to open up the quick travel options."
 msgstr "[WT] You can also hover your cursor over this button, to open up the quick travel options."
 
-# game/Phone_event_screen.rpy:1714## # translate crowdin again_tutorial_65da6e59:
+# game/Phone_event_screen.rpy:1714 ## translate crowdin again_tutorial_65da6e59
 msgid "[WT] These buttons will take you to any room in the house, as well as the world map."
 msgstr "[WT] These buttons will take you to any room in the house, as well as the world map."
 
-# game/Phone_event_screen.rpy:1715## # translate crowdin again_tutorial_82d216eb:
+# game/Phone_event_screen.rpy:1715 ## translate crowdin again_tutorial_82d216eb
 msgid "[WT] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
 msgstr "[WT] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
 
