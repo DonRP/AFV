@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-02-20 17:50\n"
+"PO-Revision-Date: 2022-02-20 18:55\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
@@ -52,30 +52,39 @@ msgstr ""
 msgid "[BJ_dealer] Sorry! You don't have enough money!{w=2.0}{nw}"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid "Dealer"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:244
 msgid "Do you want to bet $100 and start the game?"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:252
 msgid "Do you want to bet $500 and start the game?"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:260
 msgid "Do you want to bet $1000 and start the game?"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:268
 msgid "Do you want to leave the BlackJack game?"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid "Player cards: [playerScore]"
 msgstr ""
 
+# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid "Do you want to play again?"
 msgstr ""
 
