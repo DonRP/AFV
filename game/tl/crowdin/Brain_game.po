@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e
+﻿# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}School has ended, I must return home.{/i}"
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1
+# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}School has ended, I must return home.{/i}"
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2
+# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}School has ended, I must return home.{/i}"
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3
+# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}School has ended, I must return home.{/i}"
 

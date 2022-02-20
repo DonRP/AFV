@@ -10,7 +10,7 @@ translate crowdin""": """ ## translate crowdin""",
     """    # game""": """##X## game""",
     """:
 
-    # """: """
+    # """: """:
 msgid \"""",
     """    old \"""": """msgid  \"""",
     """    new \"""": """msgstr  \"""",
