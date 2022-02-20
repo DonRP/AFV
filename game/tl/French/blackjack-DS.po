@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 15:00\n"
+"PO-Revision-Date: 2022-02-20 17:49\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e
+# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
 msgstr "[BJ_dealer] je vais commencer à distribuer les cartes! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:397 ## translate crowdin handCheckLabel_b72f4071
+# game/images/interface_images/blackjack/blackjack-DS.rpy:397 ## translate crowdin handCheckLabel_b72f4071:
 msgid "[BJ_dealer] Dealer Bust, you won $[betWin]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Le croupier perd, vous avez gagné [betWin]$ ! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:408 ## translate crowdin handCheckLabel_1a74bd53
+# game/images/interface_images/blackjack/blackjack-DS.rpy:408 ## translate crowdin handCheckLabel_1a74bd53:
 msgid "[BJ_dealer] You bust! You lost $[betSum]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Vous perdez! Vous avez perdu[betSum]$ !{w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:418 ## translate crowdin handCheckLabel_f74531ea
+# game/images/interface_images/blackjack/blackjack-DS.rpy:418 ## translate crowdin handCheckLabel_f74531ea:
 msgid "[BJ_dealer] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Blackjack! Le croupier a aussi blackjack, donc c’est une match nul! Vous récupérez votre mise de [betSum] $! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:428 ## translate crowdin handCheckLabel_4cc764d5
+# game/images/interface_images/blackjack/blackjack-DS.rpy:428 ## translate crowdin handCheckLabel_4cc764d5:
 msgid "[BJ_dealer] Blackjack! You won the game and $[betWin]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Blackjack ! Vous avez gagné la partie et [betWin]$ ! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:439 ## translate crowdin handCheckLabel_1d95a20c
+# game/images/interface_images/blackjack/blackjack-DS.rpy:439 ## translate crowdin handCheckLabel_1d95a20c:
 msgid "[BJ_dealer] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Le croupier a blackjack! Vous perdez la partie et [betSum]$ ! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:449 ## translate crowdin handCheckLabel_57a41165
+# game/images/interface_images/blackjack/blackjack-DS.rpy:449 ## translate crowdin handCheckLabel_57a41165:
 msgid "[BJ_dealer] You won the game and $[betWin]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Vous avez gagné la partie et [betWin]$ ! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:460 ## translate crowdin handCheckLabel_e4d35a85
+# game/images/interface_images/blackjack/blackjack-DS.rpy:460 ## translate crowdin handCheckLabel_e4d35a85:
 msgid "[BJ_dealer] You lost the game and $[betSum]!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Vous avez perdu la partie et [betSum]$ ! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:470 ## translate crowdin handCheckLabel_3615550f
+# game/images/interface_images/blackjack/blackjack-DS.rpy:470 ## translate crowdin handCheckLabel_3615550f:
 msgid "[BJ_dealer] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Le croupier a aussi [computerScore], donc c’est un coup nul! Vous récupérez votre mise de [betSum] $! {w=2.0}{nw}"
 
-# game/images/interface_images/blackjack/blackjack-DS.rpy:488 ## translate crowdin noMoney_9706b720
+# game/images/interface_images/blackjack/blackjack-DS.rpy:488 ## translate crowdin noMoney_9706b720:
 msgid "[BJ_dealer] Sorry! You don't have enough money!{w=2.0}{nw}"
 msgstr "[BJ_dealer] Désolé ! Vous n’avez pas assez d’argent! {w=2.0}{nw}"
 
