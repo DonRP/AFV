@@ -18575,8 +18575,8 @@ msgid "[CD] Oooo... I can't wait!"
 msgstr "[CD] Oooo... I can't wait!"
 
 # game/UpdateScript0.06.rpy:10679 ## translate crowdin candy_danced_again_6546cd1f:
-msgid "CDT "{i}I can definitely wait!{/i}"
-msgstr "CDT "{i}I can definitely wait!{/i}"
+msgid "[CDT] {i}I can definitely wait!{/i}"
+msgstr "[CDT] {i}I can definitely wait!{/i}"
 
 # game/UpdateScript0.06.rpy:10690 ## translate crowdin casino_exit_454d50f6:
 msgid "[RT] {i}This place is dangerous... I shouldn't spend any more time here.{/i}"
@@ -32147,12 +32147,12 @@ msgid "[PM] That's better! Edgy and sexy!"
 msgstr "[PM] That's better! Edgy and sexy!"
 
 # game/UpdateScript0.06.rpy:16738 ## translate crowdin ph_recap_end_fb95c1b9:
-msgid "PMT "{i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
-msgstr "PMT "{i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
+msgid "[PMT] {i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
+msgstr "[PMT] {i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
 
 # game/UpdateScript0.06.rpy:16739 ## translate crowdin ph_recap_end_bf6fbd90:
-msgid "PMT "{i}She won't know what hit her.{/i}"
-msgstr "PMT "{i}She won't know what hit her.{/i}"
+msgid "[PMT] {i}She won't know what hit her.{/i}"
+msgstr "[PMT] {i}She won't know what hit her.{/i}"
 
 # game/UpdateScript0.06.rpy:16740 ## translate crowdin ph_recap_end_305c01b5:
 msgid "[PM] Alright, you slutty flea-bottom mudblood!"
@@ -32171,16 +32171,16 @@ msgid "[PM] Call me Mistress, and lick those boots clean while you're down there
 msgstr "[PM] Call me Mistress, and lick those boots clean while you're down there."
 
 # game/UpdateScript0.06.rpy:16746 ## translate crowdin ph_recap_end_4a6b42fc:
-msgid "PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
-msgstr "PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
+msgid "[PMT] {i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
+msgstr "[PMT] {i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
 
 # game/UpdateScript0.06.rpy:16747 ## translate crowdin ph_recap_end_e55a72ff:
 msgid "[PM] That's right, get them clean!"
 msgstr "[PM] That's right, get them clean!"
 
 # game/UpdateScript0.06.rpy:16748 ## translate crowdin ph_recap_end_40985106:
-msgid "PMT "{i}Now it's time to see just how obedient she will be.{/i}"
-msgstr "PMT "{i}Now it's time to see just how obedient she will be.{/i}"
+msgid "[PMT] {i}Now it's time to see just how obedient she will be.{/i}"
+msgstr "[PMT] {i}Now it's time to see just how obedient she will be.{/i}"
 
 # game/UpdateScript0.06.rpy:16749 ## translate crowdin ph_recap_end_9ba09f4b:
 msgid "[PM] Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
@@ -32243,8 +32243,8 @@ msgid "[PM] That's right bitch, now if you know what's good for you, you'll come
 msgstr "[PM] That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
 
 # game/UpdateScript0.06.rpy:16784 ## translate crowdin ph_recap_end_18466d96:
-msgid "PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
-msgstr "PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
+msgid "[PMT] {i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
+msgstr "[PMT] {i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
 
 # game/UpdateScript0.06.rpy:16785 ## translate crowdin ph_recap_end_e8e683c0:
 msgid "[PM] Let's just test your obedience my little pet bitch."
