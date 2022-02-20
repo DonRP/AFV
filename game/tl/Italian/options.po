@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 15:04\n"
+"PO-Revision-Date: 2022-02-20 18:56\n"
 
+# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid "A Family Venture"
 msgstr "Una Venture di famiglia"
 
