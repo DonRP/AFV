@@ -1,162 +1,162 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#@@translate crowdin strings:@@##@## game/Phone_stats_screen.rpy:70
+#XXtranslate crowdin strings:XX##X## game/Phone_stats_screen.rpy:70
 msgid  "Girls stats"
 msgstr  "Girls stats"
 
-##@## game/Phone_stats_screen.rpy:73
+##X## game/Phone_stats_screen.rpy:73
 msgid  "{color=#E60000}---------------------------------------{/color}"
 msgstr  "{color=#E60000}---------------------------------------{/color}"
 
-##@## game/Phone_stats_screen.rpy:83
+##X## game/Phone_stats_screen.rpy:83
 msgid  "{image=iconM} {color=#42f456}Mom's:{/color}"
 msgstr  "{image=iconM} {color=#42f456}Mom's:{/color}"
 
-##@## game/Phone_stats_screen.rpy:85
+##X## game/Phone_stats_screen.rpy:85
 msgid  "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
 msgstr  "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
 
-##@## game/Phone_stats_screen.rpy:86
+##X## game/Phone_stats_screen.rpy:86
 msgid  "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
 msgstr  "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
 
-##@## game/Phone_stats_screen.rpy:87
+##X## game/Phone_stats_screen.rpy:87
 msgid  "{image=libido}{color=#000000} Libido..................[momlibido]{/color}"
 msgstr  "{image=libido}{color=#000000} Libido..................[momlibido]{/color}"
 
-##@## game/Phone_stats_screen.rpy:88
+##X## game/Phone_stats_screen.rpy:88
 msgid  "{image=submission}{color=#000000} Submission........[momsubmission]{/color}"
 msgstr  "{image=submission}{color=#000000} Submission........[momsubmission]{/color}"
 
-##@## game/Phone_stats_screen.rpy:89
+##X## game/Phone_stats_screen.rpy:89
 msgid  "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
 msgstr  "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
 
-##@## game/Phone_stats_screen.rpy:91
+##X## game/Phone_stats_screen.rpy:91
 msgid  "{image=iconL} {color=#f442d9}Lauren's:{/color}"
 msgstr  "{image=iconL} {color=#f442d9}Lauren's:{/color}"
 
-##@## game/Phone_stats_screen.rpy:93
+##X## game/Phone_stats_screen.rpy:93
 msgid  "{image=respect}{color=#000000} Respect..............[laurenrespect]{/color}"
 msgstr  "{image=respect}{color=#000000} Respect..............[laurenrespect]{/color}"
 
-##@## game/Phone_stats_screen.rpy:94
+##X## game/Phone_stats_screen.rpy:94
 msgid  "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
 msgstr  "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
 
-##@## game/Phone_stats_screen.rpy:95
+##X## game/Phone_stats_screen.rpy:95
 msgid  "{image=libido}{color=#000000} Libido..................[laurenlibido]{/color}"
 msgstr  "{image=libido}{color=#000000} Libido..................[laurenlibido]{/color}"
 
-##@## game/Phone_stats_screen.rpy:96
+##X## game/Phone_stats_screen.rpy:96
 msgid  "{image=submission}{color=#000000} Submission........[laurensubmission]{/color}"
 msgstr  "{image=submission}{color=#000000} Submission........[laurensubmission]{/color}"
 
-##@## game/Phone_stats_screen.rpy:97
+##X## game/Phone_stats_screen.rpy:97
 msgid  "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
 msgstr  "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
 
-##@## game/Phone_stats_screen.rpy:99
+##X## game/Phone_stats_screen.rpy:99
 msgid  "{image=election}{color=#000000} School influence.[school_influence]{/color}"
 msgstr  "{image=election}{color=#000000} School influence.[school_influence]{/color}"
 
-##@## game/Phone_stats_screen.rpy:101
+##X## game/Phone_stats_screen.rpy:101
 msgid  "{image=iconS} {color=#006600}Sidney's:{/color}"
 msgstr  "{image=iconS} {color=#006600}Sidney's:{/color}"
 
-##@## game/Phone_stats_screen.rpy:103
+##X## game/Phone_stats_screen.rpy:103
 msgid  "{image=respect}{color=#000000} Respect..............[sidneyrespect]{/color}"
 msgstr  "{image=respect}{color=#000000} Respect..............[sidneyrespect]{/color}"
 
-##@## game/Phone_stats_screen.rpy:104
+##X## game/Phone_stats_screen.rpy:104
 msgid  "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
 msgstr  "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
 
-##@## game/Phone_stats_screen.rpy:105
+##X## game/Phone_stats_screen.rpy:105
 msgid  "{image=libido}{color=#000000} Libido..................[sidneylibido]{/color}"
 msgstr  "{image=libido}{color=#000000} Libido..................[sidneylibido]{/color}"
 
-##@## game/Phone_stats_screen.rpy:106
+##X## game/Phone_stats_screen.rpy:106
 msgid  "{image=submission}{color=#000000} Submission........[sidneysubmission]{/color}"
 msgstr  "{image=submission}{color=#000000} Submission........[sidneysubmission]{/color}"
 
-##@## game/Phone_stats_screen.rpy:107
+##X## game/Phone_stats_screen.rpy:107
 msgid  "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
 msgstr  "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
 
-##@## game/Phone_stats_screen.rpy:110
+##X## game/Phone_stats_screen.rpy:110
 msgid  "{image=iconC} {color=#85c1e9}Cousin Mandy's:{/color}"
 msgstr  "{image=iconC} {color=#85c1e9}Cousin Mandy's:{/color}"
 
-##@## game/Phone_stats_screen.rpy:112
+##X## game/Phone_stats_screen.rpy:112
 msgid  "{image=respect}{color=#000000} Respect..............[cousinrespect]{/color}"
 msgstr  "{image=respect}{color=#000000} Respect..............[cousinrespect]{/color}"
 
-##@## game/Phone_stats_screen.rpy:113
+##X## game/Phone_stats_screen.rpy:113
 msgid  "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
 msgstr  "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
 
-##@## game/Phone_stats_screen.rpy:114
+##X## game/Phone_stats_screen.rpy:114
 msgid  "{image=libido}{color=#000000} Libido..................[cousinlibido]{/color}"
 msgstr  "{image=libido}{color=#000000} Libido..................[cousinlibido]{/color}"
 
-##@## game/Phone_stats_screen.rpy:115
+##X## game/Phone_stats_screen.rpy:115
 msgid  "{image=submission}{color=#000000} Submission........[cousinsubmission]{/color}"
 msgstr  "{image=submission}{color=#000000} Submission........[cousinsubmission]{/color}"
 
-##@## game/Phone_stats_screen.rpy:116
+##X## game/Phone_stats_screen.rpy:116
 msgid  "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
 msgstr  "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
 
-##@## game/Phone_stats_screen.rpy:118
+##X## game/Phone_stats_screen.rpy:118
 msgid  "{image=iconA} {color=#9966FF}Aunt Camille's:{/color}"
 msgstr  "{image=iconA} {color=#9966FF}Aunt Camille's:{/color}"
 
-##@## game/Phone_stats_screen.rpy:120
+##X## game/Phone_stats_screen.rpy:120
 msgid  "{image=respect}{color=#000000} Respect..............[auntrespect]{/color}"
 msgstr  "{image=respect}{color=#000000} Respect..............[auntrespect]{/color}"
 
-##@## game/Phone_stats_screen.rpy:121
+##X## game/Phone_stats_screen.rpy:121
 msgid  "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
 msgstr  "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
 
-##@## game/Phone_stats_screen.rpy:122
+##X## game/Phone_stats_screen.rpy:122
 msgid  "{image=libido}{color=#000000} Libido..................[auntlibido]{/color}"
 msgstr  "{image=libido}{color=#000000} Libido..................[auntlibido]{/color}"
 
-##@## game/Phone_stats_screen.rpy:123
+##X## game/Phone_stats_screen.rpy:123
 msgid  "{image=submission}{color=#000000} Submission........[auntsubmission]{/color}"
 msgstr  "{image=submission}{color=#000000} Submission........[auntsubmission]{/color}"
 
-##@## game/Phone_stats_screen.rpy:124
+##X## game/Phone_stats_screen.rpy:124
 msgid  "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
 msgstr  "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
 
-##@## game/Phone_stats_screen.rpy:183
+##X## game/Phone_stats_screen.rpy:183
 msgid  "  Loads counter {image=load_counter}"
 msgstr  "  Loads counter {image=load_counter}"
 
-##@## game/Phone_stats_screen.rpy:196
+##X## game/Phone_stats_screen.rpy:196
 msgid  "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
 msgstr  "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
 
-##@## game/Phone_stats_screen.rpy:199
+##X## game/Phone_stats_screen.rpy:199
 msgid  "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
 msgstr  "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
 
-##@## game/Phone_stats_screen.rpy:200
+##X## game/Phone_stats_screen.rpy:200
 msgid  "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
 msgstr  "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
 
-##@## game/Phone_stats_screen.rpy:203
+##X## game/Phone_stats_screen.rpy:203
 msgid  "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
 msgstr  "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
 
-##@## game/Phone_stats_screen.rpy:208
+##X## game/Phone_stats_screen.rpy:208
 msgid  "{image=iconMT} {color=#993300} By Matt:{/color}"
 msgstr  "{image=iconMT} {color=#993300} By Matt:{/color}"
 
-##@## game/Phone_stats_screen.rpy:211
+##X## game/Phone_stats_screen.rpy:211
 msgid  "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
 msgstr  "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
 

@@ -6,11 +6,11 @@ msgstr "[RT] {i}I should do a search on booble.com to find a way to buy the stuf
 msgid "[RT] {i}What should I do today on the internet?{/i}"
 msgstr "[RT] {i}What should I do today on the internet?{/i}"
 
-#@@translate crowdin strings:@@##@## game/Booble_screen.rpy:33
+#XXtranslate crowdin strings:XX##X## game/Booble_screen.rpy:33
 msgid  "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 msgstr  "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
-##@## game/Booble_screen.rpy:39
+##X## game/Booble_screen.rpy:39
 msgid  "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 msgstr  "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
 

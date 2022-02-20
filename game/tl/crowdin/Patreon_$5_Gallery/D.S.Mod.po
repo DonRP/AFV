@@ -46,339 +46,339 @@ msgstr "[RT] {i}School has ended, I must return home{/i}"
 msgid "[RT] {i}School has ended, I must return home{/i}"
 msgstr "[RT] {i}School has ended, I must return home{/i}"
 
-#@@translate crowdin strings:@@##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:160
+#XXtranslate crowdin strings:XX##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:160
 msgid  "label name: [store.current_label]"
 msgstr  "label name: [store.current_label]"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:161
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:161
 msgid  "iPatch: [persistent.patreonsafe]"
 msgstr  "iPatch: [persistent.patreonsafe]"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:356
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:356
 msgid  "[screen_on]"
 msgstr  "[screen_on]"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:459
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:459
 msgid  "Mod Info!"
 msgstr  "Mod Info!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:508
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:508
 msgid  "{color=#00589E}Name_changes------------------{/color}"
 msgstr  "{color=#00589E}Name_changes------------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:510
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:510
 msgid  "Change your name. \n{color=#1DDB16}(Current name is: [ryan]){/color}"
 msgstr  "Change your name. \n{color=#1DDB16}(Current name is: [ryan]){/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:523
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:523
 msgid  "{color=#00589E}Points_and_items--------------{/color}"
 msgstr  "{color=#00589E}Points_and_items--------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:525
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:525
 msgid  "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
 msgstr  "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:555
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:555
 msgid  "Change girls stats"
 msgstr  "Change girls stats"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:621
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:621
 msgid  "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
 msgstr  "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:623
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:623
 msgid  " Press to jump to the right\n                   time!"
 msgstr  " Press to jump to the right\n                   time!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:629
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:629
 msgid  "Advance Time"
 msgstr  "Advance Time"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:644
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:644
 msgid  "Regress Time"
 msgstr  "Regress Time"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:658
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:658
 msgid  "Set week day"
 msgstr  "Set week day"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:684
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:684
 msgid  "{color=#00589E}Money:[money]----------------------{/color}"
 msgstr  "{color=#00589E}Money:[money]----------------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:686
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:686
 msgid  "Add $1000"
 msgstr  "Add $1000"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:690
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:690
 msgid  "Remove $1000"
 msgstr  "Remove $1000"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:699
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:699
 msgid  "Input money"
 msgstr  "Input money"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:703
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:703
 msgid  "{color=#00589E}Gallery unlocker-----------------{/color}"
 msgstr  "{color=#00589E}Gallery unlocker-----------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:750
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:750
 msgid  "{color=#E60000}Add/Remove items{/color}"
 msgstr  "{color=#E60000}Add/Remove items{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:782
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:782
 msgid  "{color=#000000}-------------------------------------{/color}"
 msgstr  "{color=#000000}-------------------------------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:792
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:792
 msgid  "Add!"
 msgstr  "Add!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:799
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:799
 msgid  "Remove!"
 msgstr  "Remove!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1123
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1123
 msgid  "{color=#E60000}Day of the week:{/color}"
 msgstr  "{color=#E60000}Day of the week:{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1124
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1124
 msgid  "{color=#E60000}[day]{/color}"
 msgstr  "{color=#E60000}[day]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1127
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1127
 msgid  "{color=#000000}------------------------------------------{/color}"
 msgstr  "{color=#000000}------------------------------------------{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
 msgid  "Monday!"
 msgstr  "Monday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1138
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1138
 msgid  "Tuesday!"
 msgstr  "Tuesday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1147
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1147
 msgid  "Wednesday!"
 msgstr  "Wednesday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1156
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1156
 msgid  "Thursday!"
 msgstr  "Thursday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1165
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1165
 msgid  "Friday!"
 msgstr  "Friday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1175
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1175
 msgid  "Saturday!"
 msgstr  "Saturday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1184
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1184
 msgid  "Sunday!"
 msgstr  "Sunday!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1257
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1257
 msgid  "{color=#E60000}Change girls stats{/color}"
 msgstr  "{color=#E60000}Change girls stats{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1261
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1261
 msgid  "Reset all girls anger lvl!"
 msgstr  "Reset all girls anger lvl!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1271
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1271
 msgid  "Set all girls libido lvl to max!"
 msgstr  "Set all girls libido lvl to max!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1290
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1290
 msgid  "{image=iconM} [Mom]"
 msgstr  "{image=iconM} [Mom]"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1306
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1306
 msgid  "{image=iconL} Lauren"
 msgstr  "{image=iconL} Lauren"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1322
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1322
 msgid  "{image=iconS} Sidney"
 msgstr  "{image=iconS} Sidney"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
 msgid  "{image=iconA} [Auntie]"
 msgstr  "{image=iconA} [Auntie]"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
 msgid  "{image=iconM} {color=#E60000}[Mom]{/color}"
 msgstr  "{image=iconM} {color=#E60000}[Mom]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
 msgid  "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
 msgstr  "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
 msgid  "Increase respect!"
 msgstr  "Increase respect!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
 msgid  "Decrease respect!"
 msgstr  "Decrease respect!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
 msgid  "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
 msgstr  "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
 msgid  "Increase affection!"
 msgstr  "Increase affection!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1478
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1478
 msgid  "Decrease affection!"
 msgstr  "Decrease affection!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1489
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1489
 msgid  "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
 msgstr  "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1493
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1493
 msgid  "Increase libido!"
 msgstr  "Increase libido!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1502
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1502
 msgid  "Decrease libido!"
 msgstr  "Decrease libido!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1513
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1513
 msgid  "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
 msgstr  "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1517
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1517
 msgid  "Increase submission!"
 msgstr  "Increase submission!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1526
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1526
 msgid  "Decrease submission!"
 msgstr  "Decrease submission!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1537
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1537
 msgid  "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
 msgstr  "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1541
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1541
 msgid  "Reset anger!"
 msgstr  "Reset anger!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
 msgid  "Increase anger!"
 msgstr  "Increase anger!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
 msgid  "Decrease anger!"
 msgstr  "Decrease anger!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1602
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1602
 msgid  "{image=iconL} {color=#E60000}Lauren{/color}"
 msgstr  "{image=iconL} {color=#E60000}Lauren{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
 msgid  "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
 msgstr  "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
 msgid  "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
 msgstr  "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1659
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1659
 msgid  "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
 msgstr  "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
 msgid  "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
 msgstr  "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1707
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1707
 msgid  "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
 msgstr  "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1738
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1738
 msgid  "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
 msgstr  "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
 msgid  "Increase influence!"
 msgstr  "Increase influence!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
 msgid  "Decrease influence!"
 msgstr  "Decrease influence!"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1797
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1797
 msgid  "{image=iconS} {color=#E60000}Sidney{/color}"
 msgstr  "{image=iconS} {color=#E60000}Sidney{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
 msgid  "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
 msgstr  "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
 msgid  "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
 msgstr  "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
 msgid  "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
 msgstr  "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
 msgid  "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
 msgstr  "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
 msgid  "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
 msgstr  "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
 msgid  "{image=iconA} {color=#E60000}[Auntie]{/color}"
 msgstr  "{image=iconA} {color=#E60000}[Auntie]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
 msgid  "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
 msgstr  "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
 msgid  "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
 msgstr  "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
 msgid  "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
 msgstr  "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
 msgid  "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
 msgstr  "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
 msgid  "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
 msgstr  "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
 msgid  "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
 msgstr  "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
 msgid  "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
 msgstr  "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
 msgid  "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
 msgstr  "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
 msgid  "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
 msgstr  "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
 msgid  "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
 msgstr  "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
 
-##@## game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
+##X## game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
 msgid  "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
 msgstr  "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
 

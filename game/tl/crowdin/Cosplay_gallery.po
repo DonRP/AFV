@@ -62,43 +62,43 @@ msgstr "[RT] {i} The first cosplay outfit that [outfit_nfo_name] wore on our fir
 msgid "[RT] {i}I hope we can sell more of them.{/i}"
 msgstr "[RT] {i}I hope we can sell more of them.{/i}"
 
-#@@translate crowdin strings:@@##@## game/Cosplay_gallery.rpy:562
+#XXtranslate crowdin strings:XX##X## game/Cosplay_gallery.rpy:562
 msgid  "{color=#ffffff}{b}Supporters{/b}{/color}"
 msgstr  "{color=#ffffff}{b}Supporters{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:566
+##X## game/Cosplay_gallery.rpy:566
 msgid  "{color=#ffffff}{b}Advertising{/b}{/color}"
 msgstr  "{color=#ffffff}{b}Advertising{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:570
+##X## game/Cosplay_gallery.rpy:570
 msgid  "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
 msgstr  "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:575
+##X## game/Cosplay_gallery.rpy:575
 msgid  "{color=#ffffff}{b}Outfits{/b}{/color}"
 msgstr  "{color=#ffffff}{b}Outfits{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:581
+##X## game/Cosplay_gallery.rpy:581
 msgid  "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 msgstr  "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:582
+##X## game/Cosplay_gallery.rpy:582
 msgid  "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
 msgstr  "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:709
+##X## game/Cosplay_gallery.rpy:709
 msgid  "{color=#000000}{b}Sell{/b}{/color}"
 msgstr  "{color=#000000}{b}Sell{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:710
+##X## game/Cosplay_gallery.rpy:710
 msgid  "{color=#000000}{b}outfits{/b}{/color}"
 msgstr  "{color=#000000}{b}outfits{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:1077
+##X## game/Cosplay_gallery.rpy:1077
 msgid  "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 msgstr  "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 
-##@## game/Cosplay_gallery.rpy:1084
+##X## game/Cosplay_gallery.rpy:1084
 msgid  " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 msgstr  " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 

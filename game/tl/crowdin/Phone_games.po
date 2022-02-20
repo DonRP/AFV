@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#@@translate crowdin strings:@@##@## game/Phone_games.rpy:31
+#XXtranslate crowdin strings:XX##X## game/Phone_games.rpy:31
 msgid  "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
 msgstr  "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
 

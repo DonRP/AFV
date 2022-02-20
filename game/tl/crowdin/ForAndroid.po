@@ -1,18 +1,18 @@
 ﻿# TODO: Translation updated at 2022-02-20 12:36
 
-#@@translate crowdin strings:@@##@## game/ForAndroid.rpy:36
+#XXtranslate crowdin strings:XX##X## game/ForAndroid.rpy:36
 msgid  "Quick Menu"
 msgstr  "Quick Menu"
 
-##@## game/ForAndroid.rpy:70
+##X## game/ForAndroid.rpy:70
 msgid  "Menu"
 msgstr  "Menu"
 
-##@## game/ForAndroid.rpy:112
+##X## game/ForAndroid.rpy:112
 msgid  "Console"
 msgstr  "Console"
 
-##@## game/ForAndroid.rpy:114
+##X## game/ForAndroid.rpy:114
 msgid  "Close quick menu!"
 msgstr  "Close quick menu!"
 
