@@ -7,7 +7,7 @@ dict = {
     # search_text : replace_text
     """
 translate crowdin""": """ ## translate crowdin""",
-    """    # game""": """##X## game""",
+    """    # game""": """#XX## game""",
     """:
 
     # """: """:
@@ -91,7 +91,7 @@ msgid \"""",
     """msgid \"\"[""": """msgid \"[@""",
     #Final
     """\n ## translate crowdin strings:\n\n""": """\n\n#XXtranslate crowdin strings:XX\n""",
-    """:XX\n##X## game""": """:XX##X## game""",
+    """:XX\n#XX## game""": """:XX#XX## game""",
     # date
     """12:36\n\n# game""": """HH:HH# game""",
     # only rpytopo
