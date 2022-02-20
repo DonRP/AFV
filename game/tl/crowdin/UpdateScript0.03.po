@@ -4483,32 +4483,32 @@ msgid "[MB] Marco!"
 msgstr "[MB] Marco!"
 
 # game/UpdateScript0.03.rpy:2747 ## translate crowdin clubpool_406ff453
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2748 ## translate crowdin clubpool_37c063ae_1
 msgid "[MB] Marco!"
 msgstr "[MB] Marco!"
 
 # game/UpdateScript0.03.rpy:2749 ## translate crowdin clubpool_406ff453_1
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2756 ## translate crowdin clubpool_37c063ae_2
 msgid "[MB] Marco!"
 msgstr "[MB] Marco!"
 
 # game/UpdateScript0.03.rpy:2757 ## translate crowdin clubpool_406ff453_2
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2758 ## translate crowdin clubpool_37c063ae_3
 msgid "[MB] Marco!"
 msgstr "[MB] Marco!"
 
 # game/UpdateScript0.03.rpy:2759 ## translate crowdin clubpool_406ff453_3
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2767 ## translate crowdin clubpool_97606a25
 msgid "[MB] I've almost got someone!"
@@ -4883,16 +4883,16 @@ msgid "[M] Marco!"
 msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2965 ## translate crowdin clubpool_406ff453_4
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2972 ## translate crowdin clubpool_c3298bbf_1
 msgid "[M] Marco!"
 msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2973 ## translate crowdin clubpool_406ff453_5
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2974 ## translate crowdin clubpool_f87c6e31
 msgid "[MT] {i}Hmmm.... who should I go for?{/i}"
@@ -4907,8 +4907,8 @@ msgid "[M] Marco!"
 msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:2985 ## translate crowdin clubpool_406ff453_6
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2986 ## translate crowdin clubpool_aec4b66d
 msgid "[RT] {i}Holy shit!{/i}"
@@ -4923,8 +4923,8 @@ msgid "[M] Marco"
 msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:2995 ## translate crowdin clubpool_406ff453_7
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:2997 ## translate crowdin clubpool_420394b3
 msgid "[MT] {i}Ha! I've almost got someone, but I'm not positive it's [ryan].{/i}"
@@ -5139,8 +5139,8 @@ msgid "[M] Marco!"
 msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:3155 ## translate crowdin clubpool_406ff453_8
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:3156 ## translate crowdin clubpool_87b073a2
 msgid "[MT] {i}I think I can hear Kenzie just ahead.{/i}"
@@ -5151,8 +5151,8 @@ msgid "[M] Marco"
 msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:3164 ## translate crowdin clubpool_406ff453_9
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:3166 ## translate crowdin clubpool_962626c1
 msgid "[MT] {i}Ha! I've almost got someone, but I'm not positive it's Kenzie.{/i}"
@@ -5427,8 +5427,8 @@ msgid "[M] Marco!"
 msgstr "[M] Marco!"
 
 # game/UpdateScript0.03.rpy:3353 ## translate crowdin clubpool_406ff453_10
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:3354 ## translate crowdin clubpool_21d53beb
 msgid "[MT] {i}I think that's Matt just ahead!{/i}"
@@ -5439,8 +5439,8 @@ msgid "[M] Marco"
 msgstr "[M] Marco"
 
 # game/UpdateScript0.03.rpy:3362 ## translate crowdin clubpool_406ff453_11
-msgid "EBE "Polo!"
-msgstr "EBE "Polo!"
+msgid "[EBE] Polo!"
+msgstr "[EBE] Polo!"
 
 # game/UpdateScript0.03.rpy:3364 ## translate crowdin clubpool_6c8ed13b
 msgid "[MT] {i}Ha! I've almost got Matt, the star of the basketball team. Is he even trying to get away from me?{/i}"

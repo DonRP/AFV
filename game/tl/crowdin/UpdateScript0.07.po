@@ -5415,8 +5415,8 @@ msgid "[R] Uhhh... Excuse me... Miss Jessica.... Can I speak with you for just a
 msgstr "[R] Uhhh... Excuse me... Miss Jessica.... Can I speak with you for just a moment?"
 
 # game/UpdateScript0.07.rpy:4133 ## translate crowdin meeting_miss_jessica_06ad10f0
-msgid "MJ "Give me just a second."
-msgstr "MJ "Give me just a second."
+msgid "[MJ] Give me just a second."
+msgstr "[MJ] Give me just a second."
 
 # game/UpdateScript0.07.rpy:4134 ## translate crowdin meeting_miss_jessica_e492cef9_2
 msgid "{i}(Keyboard clacking sounds){/i}"
@@ -5463,8 +5463,8 @@ msgid "[R] Miss Jessica!"
 msgstr "[R] Miss Jessica!"
 
 # game/UpdateScript0.07.rpy:4149 ## translate crowdin meeting_miss_jessica_7992ca59
-msgid "MJ "Alright fine!... What's so important that you had to interrupt my messenger chat with my ex-boyfriend?"
-msgstr "MJ "Alright fine!... What's so important that you had to interrupt my messenger chat with my ex-boyfriend?"
+msgid "[MJ] Alright fine!... What's so important that you had to interrupt my messenger chat with my ex-boyfriend?"
+msgstr "[MJ] Alright fine!... What's so important that you had to interrupt my messenger chat with my ex-boyfriend?"
 
 # game/UpdateScript0.07.rpy:4150 ## translate crowdin meeting_miss_jessica_20b091d3
 msgid "[RT] {i}Ex-boyfriend? She's on the market!{/i}"
@@ -5475,20 +5475,20 @@ msgid "[R] Ex-boyfriend, huh?"
 msgstr "[R] Ex-boyfriend, huh?"
 
 # game/UpdateScript0.07.rpy:4152 ## translate crowdin meeting_miss_jessica_a80c8f4e
-msgid "MJ "Yeah... Stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
-msgstr "MJ "Yeah... Stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+msgid "[MJ] Yeah... Stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+msgstr "[MJ] Yeah... Stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
 
 # game/UpdateScript0.07.rpy:4153 ## translate crowdin meeting_miss_jessica_7977fc9b
-msgid "MJ "She took my spot as head cheerleader after I injured myself doing a keg stand."
-msgstr "MJ "She took my spot as head cheerleader after I injured myself doing a keg stand."
+msgid "[MJ] She took my spot as head cheerleader after I injured myself doing a keg stand."
+msgstr "[MJ] She took my spot as head cheerleader after I injured myself doing a keg stand."
 
 # game/UpdateScript0.07.rpy:4154 ## translate crowdin meeting_miss_jessica_d7a77659
-msgid "MJ "...Why am I telling you all this?..."
-msgstr "MJ "...Why am I telling you all this?..."
+msgid "[MJ] ...Why am I telling you all this?..."
+msgstr "[MJ] ...Why am I telling you all this?..."
 
 # game/UpdateScript0.07.rpy:4155 ## translate crowdin meeting_miss_jessica_b0789edd
-msgid "MJ "Is there something you need?"
-msgstr "MJ "Is there something you need?"
+msgid "[MJ] Is there something you need?"
+msgstr "[MJ] Is there something you need?"
 
 # game/UpdateScript0.07.rpy:4158 ## translate crowdin meeting_miss_jessica_e492cef9_5
 msgid "{i}(Keyboard clacking sounds){/i}"
@@ -5515,24 +5515,24 @@ msgid "[R] ...."
 msgstr "[R] ...."
 
 # game/UpdateScript0.07.rpy:4168 ## translate crowdin meeting_miss_jessica_f138a509
-msgid "MJ "Alright fine!... What's so important that you can't wait for me to finish my messenger chat with my ex-boyfriend?"
-msgstr "MJ "Alright fine!... What's so important that you can't wait for me to finish my messenger chat with my ex-boyfriend?"
+msgid "[MJ] Alright fine!... What's so important that you can't wait for me to finish my messenger chat with my ex-boyfriend?"
+msgstr "[MJ] Alright fine!... What's so important that you can't wait for me to finish my messenger chat with my ex-boyfriend?"
 
 # game/UpdateScript0.07.rpy:4169 ## translate crowdin meeting_miss_jessica_7aa7f11c
-msgid "MJ "The stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
-msgstr "MJ "The stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+msgid "[MJ] The stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+msgstr "[MJ] The stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
 
 # game/UpdateScript0.07.rpy:4170 ## translate crowdin meeting_miss_jessica_7977fc9b_1
-msgid "MJ "She took my spot as head cheerleader after I injured myself doing a keg stand."
-msgstr "MJ "She took my spot as head cheerleader after I injured myself doing a keg stand."
+msgid "[MJ] She took my spot as head cheerleader after I injured myself doing a keg stand."
+msgstr "[MJ] She took my spot as head cheerleader after I injured myself doing a keg stand."
 
 # game/UpdateScript0.07.rpy:4171 ## translate crowdin meeting_miss_jessica_d7a77659_1
-msgid "MJ "...Why am I telling you all this?..."
-msgstr "MJ "...Why am I telling you all this?..."
+msgid "[MJ] ...Why am I telling you all this?..."
+msgstr "[MJ] ...Why am I telling you all this?..."
 
 # game/UpdateScript0.07.rpy:4172 ## translate crowdin meeting_miss_jessica_b0789edd_1
-msgid "MJ "Is there something you need?"
-msgstr "MJ "Is there something you need?"
+msgid "[MJ] Is there something you need?"
+msgstr "[MJ] Is there something you need?"
 
 # game/UpdateScript0.07.rpy:4174 ## translate crowdin meeting_miss_jessica_e492cef9_7
 msgid "{i}(Keyboard clacking sounds){/i}"
@@ -5559,28 +5559,28 @@ msgid "[R] ...."
 msgstr "[R] ...."
 
 # game/UpdateScript0.07.rpy:4182 ## translate crowdin meeting_miss_jessica_b6d6cfcd
-msgid "MJ "You're still here?"
-msgstr "MJ "You're still here?"
+msgid "[MJ] You're still here?"
+msgstr "[MJ] You're still here?"
 
 # game/UpdateScript0.07.rpy:4183 ## translate crowdin meeting_miss_jessica_b0789edd_2
-msgid "MJ "Is there something you need?"
-msgstr "MJ "Is there something you need?"
+msgid "[MJ] Is there something you need?"
+msgstr "[MJ] Is there something you need?"
 
 # game/UpdateScript0.07.rpy:4184 ## translate crowdin meeting_miss_jessica_a92a55da
 msgid "[R] Yeah... My name is [ryan]... Maybe you remember me from when I was a freshman?"
 msgstr "[R] Yeah... My name is [ryan]... Maybe you remember me from when I was a freshman?"
 
 # game/UpdateScript0.07.rpy:4185 ## translate crowdin meeting_miss_jessica_18ee7ba8
-msgid "MJ "Were you on the varsity basketball team?"
-msgstr "MJ "Were you on the varsity basketball team?"
+msgid "[MJ] Were you on the varsity basketball team?"
+msgstr "[MJ] Were you on the varsity basketball team?"
 
 # game/UpdateScript0.07.rpy:4186 ## translate crowdin meeting_miss_jessica_7821daab
 msgid "[R] No... But I was on the freshman team."
 msgstr "[R] No... But I was on the freshman team."
 
 # game/UpdateScript0.07.rpy:4187 ## translate crowdin meeting_miss_jessica_746fe613
-msgid "MJ "And I'm guessing from your height, that you didn't make it any further?"
-msgstr "MJ "And I'm guessing from your height, that you didn't make it any further?"
+msgid "[MJ] And I'm guessing from your height, that you didn't make it any further?"
+msgstr "[MJ] And I'm guessing from your height, that you didn't make it any further?"
 
 # game/UpdateScript0.07.rpy:4188 ## translate crowdin meeting_miss_jessica_e3b57d2b
 msgid "[RT] {i}Ouch!{/i}"
@@ -5591,12 +5591,12 @@ msgid "[R] Yeah... no... I didn't."
 msgstr "[R] Yeah... no... I didn't."
 
 # game/UpdateScript0.07.rpy:4190 ## translate crowdin meeting_miss_jessica_168fd88b
-msgid "MJ "Yeah, no... I don't remember you."
-msgstr "MJ "Yeah, no... I don't remember you."
+msgid "[MJ] Yeah, no... I don't remember you."
+msgstr "[MJ] Yeah, no... I don't remember you."
 
 # game/UpdateScript0.07.rpy:4191 ## translate crowdin meeting_miss_jessica_094bb375
-msgid "MJ "Did you just come to chat with me?"
-msgstr "MJ "Did you just come to chat with me?"
+msgid "[MJ] Did you just come to chat with me?"
+msgstr "[MJ] Did you just come to chat with me?"
 
 # game/UpdateScript0.07.rpy:4192 ## translate crowdin meeting_miss_jessica_162a65ad
 msgid "[R] Umm... no... actually..."
@@ -5607,20 +5607,20 @@ msgid "[R] I need to turn in this application to run for student body president.
 msgstr "[R] I need to turn in this application to run for student body president."
 
 # game/UpdateScript0.07.rpy:4196 ## translate crowdin meeting_miss_jessica_7181b388
-msgid "MJ "Hmmm... Really?"
-msgstr "MJ "Hmmm... Really?"
+msgid "[MJ] Hmmm... Really?"
+msgstr "[MJ] Hmmm... Really?"
 
 # game/UpdateScript0.07.rpy:4197 ## translate crowdin meeting_miss_jessica_8d1b3294
-msgid "MJ "You want to run for student body president?"
-msgstr "MJ "You want to run for student body president?"
+msgid "[MJ] You want to run for student body president?"
+msgstr "[MJ] You want to run for student body president?"
 
 # game/UpdateScript0.07.rpy:4198 ## translate crowdin meeting_miss_jessica_754bc4d1
 msgid "[R] No... Actually, the application is for my sister, Lauren."
 msgstr "[R] No... Actually, the application is for my sister, Lauren."
 
 # game/UpdateScript0.07.rpy:4201 ## translate crowdin meeting_miss_jessica_3575a107
-msgid "MJ "Oh good!... Is she super cute and popular?"
-msgstr "MJ "Oh good!... Is she super cute and popular?"
+msgid "[MJ] Oh good!... Is she super cute and popular?"
+msgstr "[MJ] Oh good!... Is she super cute and popular?"
 
 # game/UpdateScript0.07.rpy:4202 ## translate crowdin meeting_miss_jessica_ba316268
 msgid "[R] Well, she's super cute!"
@@ -5631,44 +5631,44 @@ msgid "[R] I mean... as far as a guy can think his sister is cute."
 msgstr "[R] I mean... as far as a guy can think his sister is cute."
 
 # game/UpdateScript0.07.rpy:4204 ## translate crowdin meeting_miss_jessica_28b8aa56
-msgid "MJ "...."
-msgstr "MJ "...."
+msgid "[MJ] ...."
+msgstr "[MJ] ...."
 
 # game/UpdateScript0.07.rpy:4205 ## translate crowdin meeting_miss_jessica_27124a3e
 msgid "[R] And she's kind of popular... but not super popular."
 msgstr "[R] And she's kind of popular... but not super popular."
 
 # game/UpdateScript0.07.rpy:4208 ## translate crowdin meeting_miss_jessica_9e0e906a
-msgid "MJ "Huh..."
-msgstr "MJ "Huh..."
+msgid "[MJ] Huh..."
+msgstr "[MJ] Huh..."
 
 # game/UpdateScript0.07.rpy:4209 ## translate crowdin meeting_miss_jessica_ec254416
 msgid "[R] Huh...what?"
 msgstr "[R] Huh...what?"
 
 # game/UpdateScript0.07.rpy:4210 ## translate crowdin meeting_miss_jessica_7d157f04
-msgid "MJ "It's just... maybe you should do her a favor, and tell her not to run for student body president."
-msgstr "MJ "It's just... maybe you should do her a favor, and tell her not to run for student body president."
+msgid "[MJ] It's just... maybe you should do her a favor, and tell her not to run for student body president."
+msgstr "[MJ] It's just... maybe you should do her a favor, and tell her not to run for student body president."
 
 # game/UpdateScript0.07.rpy:4211 ## translate crowdin meeting_miss_jessica_4881927b
 msgid "[R] What?"
 msgstr "[R] What?"
 
 # game/UpdateScript0.07.rpy:4214 ## translate crowdin meeting_miss_jessica_1c3328f5
-msgid "MJ "Just to spare her feelings."
-msgstr "MJ "Just to spare her feelings."
+msgid "[MJ] Just to spare her feelings."
+msgstr "[MJ] Just to spare her feelings."
 
 # game/UpdateScript0.07.rpy:4215 ## translate crowdin meeting_miss_jessica_7bd0559b
 msgid "[R] Huh?..."
 msgstr "[R] Huh?..."
 
 # game/UpdateScript0.07.rpy:4216 ## translate crowdin meeting_miss_jessica_f5877e62
-msgid "MJ "You do know that Matt is running for student body president, right?"
-msgstr "MJ "You do know that Matt is running for student body president, right?"
+msgid "[MJ] You do know that Matt is running for student body president, right?"
+msgstr "[MJ] You do know that Matt is running for student body president, right?"
 
 # game/UpdateScript0.07.rpy:4217 ## translate crowdin meeting_miss_jessica_548689f1
-msgid "MJ "As in Matt, the captain of the basketball team."
-msgstr "MJ "As in Matt, the captain of the basketball team."
+msgid "[MJ] As in Matt, the captain of the basketball team."
+msgstr "[MJ] As in Matt, the captain of the basketball team."
 
 # game/UpdateScript0.07.rpy:4218 ## translate crowdin meeting_miss_jessica_dc7a84b6_13
 msgid "[R] ...."
@@ -5679,24 +5679,24 @@ msgid "[R] Fuck!"
 msgstr "[R] Fuck!"
 
 # game/UpdateScript0.07.rpy:4220 ## translate crowdin meeting_miss_jessica_31de464c
-msgid "MJ "Yeah, fuck... That kid's a bull. He's one of the only students I remember from when I was here."
-msgstr "MJ "Yeah, fuck... That kid's a bull. He's one of the only students I remember from when I was here."
+msgid "[MJ] Yeah, fuck... That kid's a bull. He's one of the only students I remember from when I was here."
+msgstr "[MJ] Yeah, fuck... That kid's a bull. He's one of the only students I remember from when I was here."
 
 # game/UpdateScript0.07.rpy:4221 ## translate crowdin meeting_miss_jessica_4373b40a
-msgid "MJ "He was on the varsity basketball team as a freshman."
-msgstr "MJ "He was on the varsity basketball team as a freshman."
+msgid "[MJ] He was on the varsity basketball team as a freshman."
+msgstr "[MJ] He was on the varsity basketball team as a freshman."
 
 # game/UpdateScript0.07.rpy:4222 ## translate crowdin meeting_miss_jessica_26b31381
-msgid "MJ "Do you know how rare that is?"
-msgstr "MJ "Do you know how rare that is?"
+msgid "[MJ] Do you know how rare that is?"
+msgstr "[MJ] Do you know how rare that is?"
 
 # game/UpdateScript0.07.rpy:4223 ## translate crowdin meeting_miss_jessica_2127c793
-msgid "MJ "I would say he's almost unbeatable."
-msgstr "MJ "I would say he's almost unbeatable."
+msgid "[MJ] I would say he's almost unbeatable."
+msgstr "[MJ] I would say he's almost unbeatable."
 
 # game/UpdateScript0.07.rpy:4224 ## translate crowdin meeting_miss_jessica_06e2f458
-msgid "MJ "Are you sure your sister wants to waste her time on a lost cause?"
-msgstr "MJ "Are you sure your sister wants to waste her time on a lost cause?"
+msgid "[MJ] Are you sure your sister wants to waste her time on a lost cause?"
+msgstr "[MJ] Are you sure your sister wants to waste her time on a lost cause?"
 
 # game/UpdateScript0.07.rpy:4225 ## translate crowdin meeting_miss_jessica_58819765
 msgid "[R] Unfortunately, I doubt that will discourage her."
@@ -5707,8 +5707,8 @@ msgid "[R] She's got it in her mind that she'll do anything to be student body p
 msgstr "[R] She's got it in her mind that she'll do anything to be student body president, and I don't think I could convince her otherwise."
 
 # game/UpdateScript0.07.rpy:4229 ## translate crowdin meeting_miss_jessica_969d1977
-msgid "MJ "Well I hope she doesn't take it too hard when she loses."
-msgstr "MJ "Well I hope she doesn't take it too hard when she loses."
+msgid "[MJ] Well I hope she doesn't take it too hard when she loses."
+msgstr "[MJ] Well I hope she doesn't take it too hard when she loses."
 
 # game/UpdateScript0.07.rpy:4230 ## translate crowdin meeting_miss_jessica_3a963dd0
 msgid "[R] You mean if she loses."
@@ -5719,44 +5719,44 @@ msgid "[R] You don't know that she'll lose yet."
 msgstr "[R] You don't know that she'll lose yet."
 
 # game/UpdateScript0.07.rpy:4232 ## translate crowdin meeting_miss_jessica_6e267d2f
-msgid "MJ "Come on... We both know how this is going to end."
-msgstr "MJ "Come on... We both know how this is going to end."
+msgid "[MJ] Come on... We both know how this is going to end."
+msgstr "[MJ] Come on... We both know how this is going to end."
 
 # game/UpdateScript0.07.rpy:4233 ## translate crowdin meeting_miss_jessica_393648a0
 msgid "[R] Well, probably, but as a school employee, don't you think you should pretend to be more impartial?"
 msgstr "[R] Well, probably, but as a school employee, don't you think you should pretend to be more impartial?"
 
 # game/UpdateScript0.07.rpy:4234 ## translate crowdin meeting_miss_jessica_69e1b15b
-msgid "MJ "Ehh... I just call it as I see it."
-msgstr "MJ "Ehh... I just call it as I see it."
+msgid "[MJ] Ehh... I just call it as I see it."
+msgstr "[MJ] Ehh... I just call it as I see it."
 
 # game/UpdateScript0.07.rpy:4235 ## translate crowdin meeting_miss_jessica_88938c19
 msgid "[R] Well, thanks for your vote of confidence. I've got to go help my sister win an election."
 msgstr "[R] Well, thanks for your vote of confidence. I've got to go help my sister win an election."
 
 # game/UpdateScript0.07.rpy:4236 ## translate crowdin meeting_miss_jessica_336476d1
-msgid "MJ "Well, don't say I didn't warn you."
-msgstr "MJ "Well, don't say I didn't warn you."
+msgid "[MJ] Well, don't say I didn't warn you."
+msgstr "[MJ] Well, don't say I didn't warn you."
 
 # game/UpdateScript0.07.rpy:4237 ## translate crowdin meeting_miss_jessica_4ecd5748
-msgid "MJ "Oh, and you've still got to pay the application fee."
-msgstr "MJ "Oh, and you've still got to pay the application fee."
+msgid "[MJ] Oh, and you've still got to pay the application fee."
+msgstr "[MJ] Oh, and you've still got to pay the application fee."
 
 # game/UpdateScript0.07.rpy:4238 ## translate crowdin meeting_miss_jessica_b17d081d
 msgid "[R] Oh right... fifty dollars, right?"
 msgstr "[R] Oh right... fifty dollars, right?"
 
 # game/UpdateScript0.07.rpy:4239 ## translate crowdin meeting_miss_jessica_e034217f
-msgid "MJ "Correct."
-msgstr "MJ "Correct."
+msgid "[MJ] Correct."
+msgstr "[MJ] Correct."
 
 # game/UpdateScript0.07.rpy:4240 ## translate crowdin meeting_miss_jessica_113b5580
 msgid "{b}{i}\"Money - $50\"{/i}{/b}"
 msgstr "{b}{i}\"Money - $50\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4242 ## translate crowdin meeting_miss_jessica_b840de8f
-msgid "MJ "I hate to see you waste your money like this."
-msgstr "MJ "I hate to see you waste your money like this."
+msgid "[MJ] I hate to see you waste your money like this."
+msgstr "[MJ] I hate to see you waste your money like this."
 
 # game/UpdateScript0.07.rpy:4243 ## translate crowdin meeting_miss_jessica_217f112b
 msgid "[R] Yeah? You just let me worry about that."
@@ -15939,8 +15939,8 @@ msgid "[PH] Please bring your completed form to the main office and give it to o
 msgstr "[PH] Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
 
 # game/UpdateScript0.07.rpy:9698 ## translate crowdin election_announcement_bba316d6
-msgid "MJ "Did you say my name? Is it time to introduce myself?"
-msgstr "MJ "Did you say my name? Is it time to introduce myself?"
+msgid "[MJ] Did you say my name? Is it time to introduce myself?"
+msgstr "[MJ] Did you say my name? Is it time to introduce myself?"
 
 # game/UpdateScript0.07.rpy:9701 ## translate crowdin election_announcement_c3d1331b
 msgid "[PH] {i}(Whispering){/i} Oh, shit!..."
@@ -15963,16 +15963,16 @@ msgid "[PH] Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me
 msgstr "[PH] Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
 
 # game/UpdateScript0.07.rpy:9710 ## translate crowdin election_announcement_e7256888
-msgid "MJ "You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
-msgstr "MJ "You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
+msgid "[MJ] You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
+msgstr "[MJ] You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
 
 # game/UpdateScript0.07.rpy:9711 ## translate crowdin election_announcement_77b958e5
 msgid "[PH] {i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
 msgstr "[PH] {i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
 
 # game/UpdateScript0.07.rpy:9712 ## translate crowdin election_announcement_6df3498f
-msgid "MJ "{i}(whispering){/i} Sorry..."
-msgstr "MJ "{i}(whispering){/i} Sorry..."
+msgid "[MJ] {i}(whispering){/i} Sorry..."
+msgstr "[MJ] {i}(whispering){/i} Sorry..."
 
 # game/UpdateScript0.07.rpy:9715 ## translate crowdin election_announcement_4afa93cf
 msgid "[PH] This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
@@ -16003,8 +16003,8 @@ msgid "[M] Settle down, Megan."
 msgstr "[M] Settle down, Megan."
 
 # game/UpdateScript0.07.rpy:9724 ## translate crowdin election_announcement_5ae86d08
-msgid "MJ "I'm so excited to be back at this school. It's so hard to find work in the current job market, so I'm so greateful to Principal Hardun for giving me a way to earn a position here."
-msgstr "MJ "I'm so excited to be back at this school. It's so hard to find work in the current job market, so I'm so greateful to Principal Hardun for giving me a way to earn a position here."
+msgid "[MJ] I'm so excited to be back at this school. It's so hard to find work in the current job market, so I'm so greateful to Principal Hardun for giving me a way to earn a position here."
+msgstr "[MJ] I'm so excited to be back at this school. It's so hard to find work in the current job market, so I'm so greateful to Principal Hardun for giving me a way to earn a position here."
 
 # game/UpdateScript0.07.rpy:9725 ## translate crowdin election_announcement_734abb14_2
 msgid "{i}\"class giggling\"{/i}"
@@ -16015,8 +16015,8 @@ msgid "[PH] Ok, I think you shouldn't say anaything else..."
 msgstr "[PH] Ok, I think you shouldn't say anaything else..."
 
 # game/UpdateScript0.07.rpy:9729 ## translate crowdin election_announcement_9b81d85a
-msgid "MJ "But I'm only trying to..."
-msgstr "MJ "But I'm only trying to..."
+msgid "[MJ] But I'm only trying to..."
+msgstr "[MJ] But I'm only trying to..."
 
 # game/UpdateScript0.07.rpy:9742 ## translate crowdin election_announcement_e2a42c4e
 msgid "[M] Well, that was weird..."
@@ -29183,52 +29183,52 @@ msgid "[AD] Now, watch closely, and I hope you enjoy it as much as I did."
 msgstr "[AD] Now, watch closely, and I hope you enjoy it as much as I did."
 
 # game/UpdateScript0.07.rpy:16847 ## translate crowdin diaz_help_cb16e400
-msgid "MJ "Come on... Why are you dragging your feet?"
-msgstr "MJ "Come on... Why are you dragging your feet?"
+msgid "[MJ] Come on... Why are you dragging your feet?"
+msgstr "[MJ] Come on... Why are you dragging your feet?"
 
 # game/UpdateScript0.07.rpy:16848 ## translate crowdin diaz_help_6cf5b643
 msgid "[MB] It's just that I don't know what you're up to."
 msgstr "[MB] It's just that I don't know what you're up to."
 
 # game/UpdateScript0.07.rpy:16851 ## translate crowdin diaz_help_23862573
-msgid "MJ "Well, we're here."
-msgstr "MJ "Well, we're here."
+msgid "[MJ] Well, we're here."
+msgstr "[MJ] Well, we're here."
 
 # game/UpdateScript0.07.rpy:16852 ## translate crowdin diaz_help_0e6b9aa5
 msgid "[MB] Why are we in the girl's showers?"
 msgstr "[MB] Why are we in the girl's showers?"
 
 # game/UpdateScript0.07.rpy:16853 ## translate crowdin diaz_help_176bc49b
-msgid "MJ "I thought it was obvious."
-msgstr "MJ "I thought it was obvious."
+msgid "[MJ] I thought it was obvious."
+msgstr "[MJ] I thought it was obvious."
 
 # game/UpdateScript0.07.rpy:16854 ## translate crowdin diaz_help_c5a04092
-msgid "MJ "If you need more of a hint..."
-msgstr "MJ "If you need more of a hint..."
+msgid "[MJ] If you need more of a hint..."
+msgstr "[MJ] If you need more of a hint..."
 
 # game/UpdateScript0.07.rpy:16857 ## translate crowdin diaz_help_56603cf6
-msgid "MJ "Am I starting to make myself more clear?"
-msgstr "MJ "Am I starting to make myself more clear?"
+msgid "[MJ] Am I starting to make myself more clear?"
+msgstr "[MJ] Am I starting to make myself more clear?"
 
 # game/UpdateScript0.07.rpy:16860 ## translate crowdin diaz_help_e67e9b26
 msgid "[MB] Oh my God, Jessica... Please don't."
 msgstr "[MB] Oh my God, Jessica... Please don't."
 
 # game/UpdateScript0.07.rpy:16861 ## translate crowdin diaz_help_f21b1d29
-msgid "MJ "Why?... Ever since I started working here, you've been trying to get in my pants."
-msgstr "MJ "Why?... Ever since I started working here, you've been trying to get in my pants."
+msgid "[MJ] Why?... Ever since I started working here, you've been trying to get in my pants."
+msgstr "[MJ] Why?... Ever since I started working here, you've been trying to get in my pants."
 
 # game/UpdateScript0.07.rpy:16864 ## translate crowdin diaz_help_16a29b5a
-msgid "MJ "Don't tell me you've had a change of heart."
-msgstr "MJ "Don't tell me you've had a change of heart."
+msgid "[MJ] Don't tell me you've had a change of heart."
+msgstr "[MJ] Don't tell me you've had a change of heart."
 
 # game/UpdateScript0.07.rpy:16865 ## translate crowdin diaz_help_c988e6fa
 msgid "[MB] It's just... My girlfriend."
 msgstr "[MB] It's just... My girlfriend."
 
 # game/UpdateScript0.07.rpy:16866 ## translate crowdin diaz_help_153a32d0
-msgid "MJ "Ohhh... She doesn't like to share?"
-msgstr "MJ "Ohhh... She doesn't like to share?"
+msgid "[MJ] Ohhh... She doesn't like to share?"
+msgstr "[MJ] Ohhh... She doesn't like to share?"
 
 # game/UpdateScript0.07.rpy:16867 ## translate crowdin diaz_help_bf8caa58
 msgid "[MB] She's actually really good about sharing... It's just..."
@@ -29239,60 +29239,60 @@ msgid "[MB] She doesn't want to share me with you."
 msgstr "[MB] She doesn't want to share me with you."
 
 # game/UpdateScript0.07.rpy:16869 ## translate crowdin diaz_help_d3468f26
-msgid "MJ "Here... Let's make you more comfortable and you can tell me all about it."
-msgstr "MJ "Here... Let's make you more comfortable and you can tell me all about it."
+msgid "[MJ] Here... Let's make you more comfortable and you can tell me all about it."
+msgstr "[MJ] Here... Let's make you more comfortable and you can tell me all about it."
 
 # game/UpdateScript0.07.rpy:16872 ## translate crowdin diaz_help_7d053ce9
 msgid "[MB] Oh, God..."
 msgstr "[MB] Oh, God..."
 
 # game/UpdateScript0.07.rpy:16873 ## translate crowdin diaz_help_d8ccd565
-msgid "MJ "So why doesn't your girlfriend like me?"
-msgstr "MJ "So why doesn't your girlfriend like me?"
+msgid "[MJ] So why doesn't your girlfriend like me?"
+msgstr "[MJ] So why doesn't your girlfriend like me?"
 
 # game/UpdateScript0.07.rpy:16874 ## translate crowdin diaz_help_815c6315
 msgid "[MB] I guess... hnnn... you used to be her cheerleading captain when she was a freshman on the cheer squad."
 msgstr "[MB] I guess... hnnn... you used to be her cheerleading captain when she was a freshman on the cheer squad."
 
 # game/UpdateScript0.07.rpy:16875 ## translate crowdin diaz_help_e360416d
-msgid "MJ "Is your girlfriend Megan, by chance?"
-msgstr "MJ "Is your girlfriend Megan, by chance?"
+msgid "[MJ] Is your girlfriend Megan, by chance?"
+msgstr "[MJ] Is your girlfriend Megan, by chance?"
 
 # game/UpdateScript0.07.rpy:16876 ## translate crowdin diaz_help_9f16a3cb
 msgid "[MB] MMmmmm...Hmmm..."
 msgstr "[MB] MMmmmm...Hmmm..."
 
 # game/UpdateScript0.07.rpy:16877 ## translate crowdin diaz_help_5b14f1ce
-msgid "MJ "So, that's why she's been such a little bitch to me."
-msgstr "MJ "So, that's why she's been such a little bitch to me."
+msgid "[MJ] So, that's why she's been such a little bitch to me."
+msgstr "[MJ] So, that's why she's been such a little bitch to me."
 
 # game/UpdateScript0.07.rpy:16878 ## translate crowdin diaz_help_545e9f84
-msgid "MJ "I threatened to demote her as captain, but she's the only one that's good enough, and she knows it."
-msgstr "MJ "I threatened to demote her as captain, but she's the only one that's good enough, and she knows it."
+msgid "[MJ] I threatened to demote her as captain, but she's the only one that's good enough, and she knows it."
+msgstr "[MJ] I threatened to demote her as captain, but she's the only one that's good enough, and she knows it."
 
 # game/UpdateScript0.07.rpy:16879 ## translate crowdin diaz_help_4a0036ed
-msgid "MJ "She's come a long way. I never thought she'd stay on the team when she was a freshman, let alone become the best."
-msgstr "MJ "She's come a long way. I never thought she'd stay on the team when she was a freshman, let alone become the best."
+msgid "[MJ] She's come a long way. I never thought she'd stay on the team when she was a freshman, let alone become the best."
+msgstr "[MJ] She's come a long way. I never thought she'd stay on the team when she was a freshman, let alone become the best."
 
 # game/UpdateScript0.07.rpy:16880 ## translate crowdin diaz_help_f2a23dde
-msgid "MJ "You're going to fuck me, and it's going to serve the little bitch right."
-msgstr "MJ "You're going to fuck me, and it's going to serve the little bitch right."
+msgid "[MJ] You're going to fuck me, and it's going to serve the little bitch right."
+msgstr "[MJ] You're going to fuck me, and it's going to serve the little bitch right."
 
 # game/UpdateScript0.07.rpy:16881 ## translate crowdin diaz_help_922fac24
 msgid "[MB] No Jessica!... I'm not going to."
 msgstr "[MB] No Jessica!... I'm not going to."
 
 # game/UpdateScript0.07.rpy:16882 ## translate crowdin diaz_help_c6287367
-msgid "MJ "What if I let you fuck my ass?"
-msgstr "MJ "What if I let you fuck my ass?"
+msgid "[MJ] What if I let you fuck my ass?"
+msgstr "[MJ] What if I let you fuck my ass?"
 
 # game/UpdateScript0.07.rpy:16883 ## translate crowdin diaz_help_ba01d206
 msgid "[MB] What?"
 msgstr "[MB] What?"
 
 # game/UpdateScript0.07.rpy:16884 ## translate crowdin diaz_help_06b49a65
-msgid "MJ "You heard me."
-msgstr "MJ "You heard me."
+msgid "[MJ] You heard me."
+msgstr "[MJ] You heard me."
 
 # game/UpdateScript0.07.rpy:16885 ## translate crowdin diaz_help_657b9aca
 msgid "[MB] I've... never fucked anyone's ass before..."
@@ -29303,8 +29303,8 @@ msgid "[MB] I'm too big... No one has ever let me."
 msgstr "[MB] I'm too big... No one has ever let me."
 
 # game/UpdateScript0.07.rpy:16887 ## translate crowdin diaz_help_f52646f2
-msgid "MJ "Trust me. I can take it."
-msgstr "MJ "Trust me. I can take it."
+msgid "[MJ] Trust me. I can take it."
+msgstr "[MJ] Trust me. I can take it."
 
 # game/UpdateScript0.07.rpy:16888 ## translate crowdin diaz_help_f3e1f9f8
 msgid "[MB] Oh, fuck!... How do I say no to that?"
@@ -29315,12 +29315,12 @@ msgid "[MB] But you have to swear that you won't tell Megan anything."
 msgstr "[MB] But you have to swear that you won't tell Megan anything."
 
 # game/UpdateScript0.07.rpy:16890 ## translate crowdin diaz_help_6c4d83cf
-msgid "MJ "Ohh... fine... cross my heart."
-msgstr "MJ "Ohh... fine... cross my heart."
+msgid "[MJ] Ohh... fine... cross my heart."
+msgstr "[MJ] Ohh... fine... cross my heart."
 
 # game/UpdateScript0.07.rpy:16891 ## translate crowdin diaz_help_06476cc7
-msgid "MJ "Here, let me get you nice and wet."
-msgstr "MJ "Here, let me get you nice and wet."
+msgid "[MJ] Here, let me get you nice and wet."
+msgstr "[MJ] Here, let me get you nice and wet."
 
 # game/UpdateScript0.07.rpy:16896 ## translate crowdin diaz_help_aa89c769
 msgid "[MB] Oh... fuck..."
@@ -29331,12 +29331,12 @@ msgid "[MB] Here, let me return the favor."
 msgstr "[MB] Here, let me return the favor."
 
 # game/UpdateScript0.07.rpy:16901 ## translate crowdin diaz_help_00d805a9
-msgid "MJ "MMMmmmm..."
-msgstr "MJ "MMMmmmm..."
+msgid "[MJ] MMMmmmm..."
+msgstr "[MJ] MMMmmmm..."
 
 # game/UpdateScript0.07.rpy:16905 ## translate crowdin diaz_help_628d26cf
-msgid "MJ "Alright... I think you're lubed up enough."
-msgstr "MJ "Alright... I think you're lubed up enough."
+msgid "[MJ] Alright... I think you're lubed up enough."
+msgstr "[MJ] Alright... I think you're lubed up enough."
 
 # game/UpdateScript0.07.rpy:16910 ## translate crowdin diaz_help_9c4c1bf4
 msgid "[R] Oh, my God! How can she take a cock that big in her ass?"
@@ -29347,8 +29347,8 @@ msgid "[AD] You'd be surprised how much an ass can stretch with enough practice.
 msgstr "[AD] You'd be surprised how much an ass can stretch with enough practice."
 
 # game/UpdateScript0.07.rpy:16914 ## translate crowdin diaz_help_3abdf03a
-msgid "MJ "Matt!... You're... splitting me... in half!..."
-msgstr "MJ "Matt!... You're... splitting me... in half!..."
+msgid "[MJ] Matt!... You're... splitting me... in half!..."
+msgstr "[MJ] Matt!... You're... splitting me... in half!..."
 
 # game/UpdateScript0.07.rpy:16920 ## translate crowdin diaz_help_d0c2c244
 msgid "[RT] {i}Then there's hope for my girls to be able to take me someday.{/i}"
