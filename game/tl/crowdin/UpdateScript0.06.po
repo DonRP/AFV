@@ -14435,24 +14435,24 @@ msgid "{i}\"Would you like to take this opportunity to turn off the NTR content?
 msgstr "{i}\"Would you like to take this opportunity to turn off the NTR content?]\"{/i}"
 
 # game/UpdateScript0.06.rpy:8596 ## translate crowdin both_caught_5c6c89ab
-msgid "P1 "How the fuck did that get turned on?"
-msgstr "P1 "How the fuck did that get turned on?"
+msgid "[P1] How the fuck did that get turned on?"
+msgstr "[P1] How the fuck did that get turned on?"
 
 # game/UpdateScript0.06.rpy:8597 ## translate crowdin both_caught_614bc51e
-msgid "P1 "I swear I wasn't experimenting with any new kinks!"
-msgstr "P1 "I swear I wasn't experimenting with any new kinks!"
+msgid "[P1] I swear I wasn't experimenting with any new kinks!"
+msgstr "[P1] I swear I wasn't experimenting with any new kinks!"
 
 # game/UpdateScript0.06.rpy:8598 ## translate crowdin both_caught_464ba197
 msgid "{i}\"(NTR Content turned off)\"{/i}"
 msgstr "{i}\"(NTR Content turned off)\"{/i}"
 
 # game/UpdateScript0.06.rpy:8601 ## translate crowdin both_caught_2f107d88
-msgid "P1 "Fucking babies, that are always complaining about NTR content..."
-msgstr "P1 "Fucking babies, that are always complaining about NTR content..."
+msgid "[P1] Fucking babies, that are always complaining about NTR content..."
+msgstr "[P1] Fucking babies, that are always complaining about NTR content..."
 
 # game/UpdateScript0.06.rpy:8602 ## translate crowdin both_caught_ce1f446e
-msgid "P1 "can't let a developer make a game without pasting NTR warnings everywhere!"
-msgstr "P1 "can't let a developer make a game without pasting NTR warnings everywhere!"
+msgid "[P1] can't let a developer make a game without pasting NTR warnings everywhere!"
+msgstr "[P1] can't let a developer make a game without pasting NTR warnings everywhere!"
 
 # game/UpdateScript0.06.rpy:8603 ## translate crowdin both_caught_65783f37
 msgid "{i}\"(NTR Content will remain turned on)\"{/i}"
@@ -15839,16 +15839,16 @@ msgid "[AD] Where's Armani and Sidney?"
 msgstr "[AD] Where's Armani and Sidney?"
 
 # game/UpdateScript0.06.rpy:9205 ## translate crowdin sid_sex_event_357a1b86
-msgid "SR "I don't know... I just saw Armani and another girl, followed by Charlie going towards the back hallway where I'm not allowed to go."
-msgstr "SR "I don't know... I just saw Armani and another girl, followed by Charlie going towards the back hallway where I'm not allowed to go."
+msgid "[SR] I don't know... I just saw Armani and another girl, followed by Charlie going towards the back hallway where I'm not allowed to go."
+msgstr "[SR] I don't know... I just saw Armani and another girl, followed by Charlie going towards the back hallway where I'm not allowed to go."
 
 # game/UpdateScript0.06.rpy:9206 ## translate crowdin sid_sex_event_d8c32d44
 msgid "[AD] Shit! Something doesn't feel right about this."
 msgstr "[AD] Shit! Something doesn't feel right about this."
 
 # game/UpdateScript0.06.rpy:9209 ## translate crowdin sid_sex_event_d18dea30
-msgid "SR "Where are you going in such a hurry?"
-msgstr "SR "Where are you going in such a hurry?"
+msgid "[SR] Where are you going in such a hurry?"
+msgstr "[SR] Where are you going in such a hurry?"
 
 # game/UpdateScript0.06.rpy:9210 ## translate crowdin sid_sex_event_bdd3f8f2
 msgid "[AD] ...."
@@ -16083,8 +16083,8 @@ msgid "[RT] {i}Oh, good!... I was beginning to think the DeCapos had packed up a
 msgstr "[RT] {i}Oh, good!... I was beginning to think the DeCapos had packed up and left town... Actually that would probably be a good thing.{/i}"
 
 # game/UpdateScript0.06.rpy:9304 ## translate crowdin sid_sex_event_02789e58
-msgid "SR "Oh, finally! A customer!"
-msgstr "SR "Oh, finally! A customer!"
+msgid "[SR] Oh, finally! A customer!"
+msgstr "[SR] Oh, finally! A customer!"
 
 # game/UpdateScript0.06.rpy:9307 ## translate crowdin sid_sex_event_9621cfc2
 msgid "[R] Oh no... Actually... I'm just looking for my sister, Sidney."
@@ -16095,84 +16095,84 @@ msgid "[R] Have you seen her? She's always waitressing here on Mondays?"
 msgstr "[R] Have you seen her? She's always waitressing here on Mondays?"
 
 # game/UpdateScript0.06.rpy:9311 ## translate crowdin sid_sex_event_f1bd8369
-msgid "SR "Ohhh... You're the waitress's little brother. I've heard of you."
-msgstr "SR "Ohhh... You're the waitress's little brother. I've heard of you."
+msgid "[SR] Ohhh... You're the waitress's little brother. I've heard of you."
+msgstr "[SR] Ohhh... You're the waitress's little brother. I've heard of you."
 
 # game/UpdateScript0.06.rpy:9312 ## translate crowdin sid_sex_event_6ab79430
 msgid "[R] Oh, really? From who?"
 msgstr "[R] Oh, really? From who?"
 
 # game/UpdateScript0.06.rpy:9313 ## translate crowdin sid_sex_event_9a45e8e5
-msgid "SR "Emma... One of the other dancers."
-msgstr "SR "Emma... One of the other dancers."
+msgid "[SR] Emma... One of the other dancers."
+msgstr "[SR] Emma... One of the other dancers."
 
 # game/UpdateScript0.06.rpy:9314 ## translate crowdin sid_sex_event_44725893
 msgid "[R] Yeah... I know who that is... I hope she said good things."
 msgstr "[R] Yeah... I know who that is... I hope she said good things."
 
 # game/UpdateScript0.06.rpy:9315 ## translate crowdin sid_sex_event_c378e4f2
-msgid "SR "She was telling all of us about the waitress's younger brother, who looks far too young to be in a strip club, who sits there with a raging hard-on, and never gives any tips."
-msgstr "SR "She was telling all of us about the waitress's younger brother, who looks far too young to be in a strip club, who sits there with a raging hard-on, and never gives any tips."
+msgid "[SR] She was telling all of us about the waitress's younger brother, who looks far too young to be in a strip club, who sits there with a raging hard-on, and never gives any tips."
+msgstr "[SR] She was telling all of us about the waitress's younger brother, who looks far too young to be in a strip club, who sits there with a raging hard-on, and never gives any tips."
 
 # game/UpdateScript0.06.rpy:9316 ## translate crowdin sid_sex_event_2978837a
 msgid "[R] Ouch..."
 msgstr "[R] Ouch..."
 
 # game/UpdateScript0.06.rpy:9317 ## translate crowdin sid_sex_event_e7b108ae
-msgid "SR "You're not just here to waste my time are you?"
-msgstr "SR "You're not just here to waste my time are you?"
+msgid "[SR] You're not just here to waste my time are you?"
+msgstr "[SR] You're not just here to waste my time are you?"
 
 # game/UpdateScript0.06.rpy:9318 ## translate crowdin sid_sex_event_71ff11cd
 msgid "[R] Well... kind of, I guess... I'm just here to find my sister."
 msgstr "[R] Well... kind of, I guess... I'm just here to find my sister."
 
 # game/UpdateScript0.06.rpy:9321 ## translate crowdin sid_sex_event_671c4c30
-msgid "SR "I'll tell you what... I'm having a terrible night... And I really need to make some money."
-msgstr "SR "I'll tell you what... I'm having a terrible night... And I really need to make some money."
+msgid "[SR] I'll tell you what... I'm having a terrible night... And I really need to make some money."
+msgstr "[SR] I'll tell you what... I'm having a terrible night... And I really need to make some money."
 
 # game/UpdateScript0.06.rpy:9322 ## translate crowdin sid_sex_event_72f87c69
-msgid "SR "If you'll pay me double for a lapdance... I'll tell you where your sister and Armani went."
-msgstr "SR "If you'll pay me double for a lapdance... I'll tell you where your sister and Armani went."
+msgid "[SR] If you'll pay me double for a lapdance... I'll tell you where your sister and Armani went."
+msgstr "[SR] If you'll pay me double for a lapdance... I'll tell you where your sister and Armani went."
 
 # game/UpdateScript0.06.rpy:9323 ## translate crowdin sid_sex_event_1d73978a
-msgid "SR "I'll also let the girls know what a good customer and tipper you are, and maybe raise your status here at the club a little bit."
-msgstr "SR "I'll also let the girls know what a good customer and tipper you are, and maybe raise your status here at the club a little bit."
+msgid "[SR] I'll also let the girls know what a good customer and tipper you are, and maybe raise your status here at the club a little bit."
+msgstr "[SR] I'll also let the girls know what a good customer and tipper you are, and maybe raise your status here at the club a little bit."
 
 # game/UpdateScript0.06.rpy:9324 ## translate crowdin sid_sex_event_0c41be88
 msgid "[R] How much is a lapdance?"
 msgstr "[R] How much is a lapdance?"
 
 # game/UpdateScript0.06.rpy:9325 ## translate crowdin sid_sex_event_8f1106e6
-msgid "SR "Nomally twenty five dollars, but I really need at least fifty tonight."
-msgstr "SR "Nomally twenty five dollars, but I really need at least fifty tonight."
+msgid "[SR] Nomally twenty five dollars, but I really need at least fifty tonight."
+msgstr "[SR] Nomally twenty five dollars, but I really need at least fifty tonight."
 
 # game/UpdateScript0.06.rpy:9326 ## translate crowdin sid_sex_event_5149a9ef
-msgid "SR "What do you say?"
-msgstr "SR "What do you say?"
+msgid "[SR] What do you say?"
+msgstr "[SR] What do you say?"
 
 # game/UpdateScript0.06.rpy:9342 ## translate crowdin candy_story_cbe8584f
-msgid "SR "You want to know about me?"
-msgstr "SR "You want to know about me?"
+msgid "[SR] You want to know about me?"
+msgstr "[SR] You want to know about me?"
 
 # game/UpdateScript0.06.rpy:9343 ## translate crowdin candy_story_8bbb86f9
 msgid "[R] Yeah... I'm just curious what your story is."
 msgstr "[R] Yeah... I'm just curious what your story is."
 
 # game/UpdateScript0.06.rpy:9344 ## translate crowdin candy_story_e674bde0
-msgid "SR "You mean, do I have an interesting backstory like your mom does?"
-msgstr "SR "You mean, do I have an interesting backstory like your mom does?"
+msgid "[SR] You mean, do I have an interesting backstory like your mom does?"
+msgstr "[SR] You mean, do I have an interesting backstory like your mom does?"
 
 # game/UpdateScript0.06.rpy:9345 ## translate crowdin candy_story_3a0a756e
 msgid "[R] Yeah... kind of... I guess..."
 msgstr "[R] Yeah... kind of... I guess..."
 
 # game/UpdateScript0.06.rpy:9348 ## translate crowdin candy_story_fe9394a3
-msgid "SR "Well, it turns out that I do."
-msgstr "SR "Well, it turns out that I do."
+msgid "[SR] Well, it turns out that I do."
+msgstr "[SR] Well, it turns out that I do."
 
 # game/UpdateScript0.06.rpy:9349 ## translate crowdin candy_story_f63d1fbc
-msgid "SR "My name is Candy, by the way."
-msgstr "SR "My name is Candy, by the way."
+msgid "[SR] My name is Candy, by the way."
+msgstr "[SR] My name is Candy, by the way."
 
 # game/UpdateScript0.06.rpy:9350 ## translate crowdin candy_story_594d03af
 msgid "[R] Candy?... How sweet!"
@@ -16259,8 +16259,8 @@ msgid "{i}\"Money -$50\"{/i}"
 msgstr "{i}\"Money -$50\"{/i}"
 
 # game/UpdateScript0.06.rpy:9393 ## translate crowdin candy_strip_show_c234d9dc
-msgid "SR "My name is Candy, by the way! Just thought you should know the name of the dancer that's grinding on your dick."
-msgstr "SR "My name is Candy, by the way! Just thought you should know the name of the dancer that's grinding on your dick."
+msgid "[SR] My name is Candy, by the way! Just thought you should know the name of the dancer that's grinding on your dick."
+msgstr "[SR] My name is Candy, by the way! Just thought you should know the name of the dancer that's grinding on your dick."
 
 # game/UpdateScript0.06.rpy:9394 ## translate crowdin candy_strip_show_594d03af
 msgid "[R] Candy?... How sweet!"
@@ -16483,36 +16483,36 @@ msgid "[CD] I really hope you do become a VIP member. I can tell that cock is so
 msgstr "[CD] I really hope you do become a VIP member. I can tell that cock is so much bigger than my husband Jack's."
 
 # game/UpdateScript0.06.rpy:9521 ## translate crowdin find_sidney_2a54eb45
-msgid "SR "Urrggghh... Fine!... it was worth a try."
-msgstr "SR "Urrggghh... Fine!... it was worth a try."
+msgid "[SR] Urrggghh... Fine!... it was worth a try."
+msgstr "[SR] Urrggghh... Fine!... it was worth a try."
 
 # game/UpdateScript0.06.rpy:9522 ## translate crowdin find_sidney_29c0aacf
-msgid "SR "This is the worst fucking night ever."
-msgstr "SR "This is the worst fucking night ever."
+msgid "[SR] This is the worst fucking night ever."
+msgstr "[SR] This is the worst fucking night ever."
 
 # game/UpdateScript0.06.rpy:9523 ## translate crowdin find_sidney_133c1c54
-msgid "SR "I saw your sister go down the hallway that leads to the VIP room."
-msgstr "SR "I saw your sister go down the hallway that leads to the VIP room."
+msgid "[SR] I saw your sister go down the hallway that leads to the VIP room."
+msgstr "[SR] I saw your sister go down the hallway that leads to the VIP room."
 
 # game/UpdateScript0.06.rpy:9524 ## translate crowdin find_sidney_370b2b7b
-msgid "SR "She was with Armani and tonight's guard Charlie."
-msgstr "SR "She was with Armani and tonight's guard Charlie."
+msgid "[SR] She was with Armani and tonight's guard Charlie."
+msgstr "[SR] She was with Armani and tonight's guard Charlie."
 
 # game/UpdateScript0.06.rpy:9525 ## translate crowdin find_sidney_c439ae76
-msgid "SR "There must have been some sort of staff meeting or something."
-msgstr "SR "There must have been some sort of staff meeting or something."
+msgid "[SR] There must have been some sort of staff meeting or something."
+msgstr "[SR] There must have been some sort of staff meeting or something."
 
 # game/UpdateScript0.06.rpy:9526 ## translate crowdin find_sidney_014abc82
-msgid "SR "And the fuckers must not have thought I was important enough to attend."
-msgstr "SR "And the fuckers must not have thought I was important enough to attend."
+msgid "[SR] And the fuckers must not have thought I was important enough to attend."
+msgstr "[SR] And the fuckers must not have thought I was important enough to attend."
 
 # game/UpdateScript0.06.rpy:9527 ## translate crowdin find_sidney_9528431b
 msgid "[R] So just down the hallway, behind the stage, and to the right?"
 msgstr "[R] So just down the hallway, behind the stage, and to the right?"
 
 # game/UpdateScript0.06.rpy:9528 ## translate crowdin find_sidney_c22a923e
-msgid "SR "Yeah, but be careful. I've been warned that I'm not allowed to go any further down that hallway than the VIP room."
-msgstr "SR "Yeah, but be careful. I've been warned that I'm not allowed to go any further down that hallway than the VIP room."
+msgid "[SR] Yeah, but be careful. I've been warned that I'm not allowed to go any further down that hallway than the VIP room."
+msgstr "[SR] Yeah, but be careful. I've been warned that I'm not allowed to go any further down that hallway than the VIP room."
 
 # game/UpdateScript0.06.rpy:9529 ## translate crowdin find_sidney_877adc8d
 msgid "[R] Alright, thanks! I'd better run."
@@ -16527,8 +16527,8 @@ msgid "[CD] This is the worst fucking night ever."
 msgstr "[CD] This is the worst fucking night ever."
 
 # game/UpdateScript0.06.rpy:9535 ## translate crowdin find_sidney_133c1c54_1
-msgid "SR "I saw your sister go down the hallway that leads to the VIP room."
-msgstr "SR "I saw your sister go down the hallway that leads to the VIP room."
+msgid "[SR] I saw your sister go down the hallway that leads to the VIP room."
+msgstr "[SR] I saw your sister go down the hallway that leads to the VIP room."
 
 # game/UpdateScript0.06.rpy:9536 ## translate crowdin find_sidney_d4c98334
 msgid "[CD] She was with Armani and tonight's guard, Charlie."
@@ -16559,8 +16559,8 @@ msgid "[CD] Alright, a deal's a deal."
 msgstr "[CD] Alright, a deal's a deal."
 
 # game/UpdateScript0.06.rpy:9546 ## translate crowdin find_sidney_133c1c54_2
-msgid "SR "I saw your sister go down the hallway that leads to the VIP room."
-msgstr "SR "I saw your sister go down the hallway that leads to the VIP room."
+msgid "[SR] I saw your sister go down the hallway that leads to the VIP room."
+msgstr "[SR] I saw your sister go down the hallway that leads to the VIP room."
 
 # game/UpdateScript0.06.rpy:9547 ## translate crowdin find_sidney_d4c98334_1
 msgid "[CD] She was with Armani and tonight's guard, Charlie."
@@ -18211,24 +18211,24 @@ msgid "[RT] {i}Hopefully there will be some girls dancing later.{/i}"
 msgstr "[RT] {i}Hopefully there will be some girls dancing later.{/i}"
 
 # game/UpdateScript0.06.rpy:10492 ## translate crowdin candy_story_again_cbe8584f
-msgid "SR "You want to know about me?"
-msgstr "SR "You want to know about me?"
+msgid "[SR] You want to know about me?"
+msgstr "[SR] You want to know about me?"
 
 # game/UpdateScript0.06.rpy:10493 ## translate crowdin candy_story_again_8bbb86f9
 msgid "[R] Yeah... I'm just curious what your story is."
 msgstr "[R] Yeah... I'm just curious what your story is."
 
 # game/UpdateScript0.06.rpy:10494 ## translate crowdin candy_story_again_e674bde0
-msgid "SR "You mean, do I have an interesting backstory like your mom does?"
-msgstr "SR "You mean, do I have an interesting backstory like your mom does?"
+msgid "[SR] You mean, do I have an interesting backstory like your mom does?"
+msgstr "[SR] You mean, do I have an interesting backstory like your mom does?"
 
 # game/UpdateScript0.06.rpy:10495 ## translate crowdin candy_story_again_3a0a756e
 msgid "[R] Yeah... kind of... I guess..."
 msgstr "[R] Yeah... kind of... I guess..."
 
 # game/UpdateScript0.06.rpy:10498 ## translate crowdin candy_story_again_fe9394a3
-msgid "SR "Well, it turns out that I do."
-msgstr "SR "Well, it turns out that I do."
+msgid "[SR] Well, it turns out that I do."
+msgstr "[SR] Well, it turns out that I do."
 
 # game/UpdateScript0.06.rpy:10501 ## translate crowdin candy_story_again_93f9ebe3
 msgid "[CD] So, my story starts on my honeymoon, with my new husband, Jack."
@@ -20463,8 +20463,8 @@ msgid "[EV] {i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
 msgstr "[EV] {i}(Rasping){/i} Perdidi nasum, sed penis maior possedi!"
 
 # game/UpdateScript0.06.rpy:11702 ## translate crowdin ph_recap_beginning_c9a8a19b
-msgid "HG "Yes master, but until I see it, I will cause mischief in your name."
-msgstr "HG "Yes master, but until I see it, I will cause mischief in your name."
+msgid "[HG] Yes master, but until I see it, I will cause mischief in your name."
+msgstr "[HG] Yes master, but until I see it, I will cause mischief in your name."
 
 # game/UpdateScript0.06.rpy:11705 ## translate crowdin ph_recap_beginning_be783808
 msgid "[HGT] {i}First I need to do something about these drabby clothes.{/i}"
@@ -20479,8 +20479,8 @@ msgid "[HGT] {i}I know!{/i}"
 msgstr "[HGT] {i}I know!{/i}"
 
 # game/UpdateScript0.06.rpy:11721 ## translate crowdin ph_recap_beginning_bc3da7cc
-msgid "HG "Accio Firebolt!"
-msgstr "HG "Accio Firebolt!"
+msgid "[HG] Accio Firebolt!"
+msgstr "[HG] Accio Firebolt!"
 
 # game/UpdateScript0.06.rpy:11724 ## translate crowdin ph_recap_beginning_e03fa56c
 msgid "[HGT] {i}And now for some fun.{/i}"
@@ -20495,44 +20495,44 @@ msgid "[HGT] {i}Let's make some mischief for her.{/i}"
 msgstr "[HGT] {i}Let's make some mischief for her.{/i}"
 
 # game/UpdateScript0.06.rpy:11743 ## translate crowdin ph_recap_beginning_ca674706
-msgid "PM "Hermione Bang'er! Get back here at once!"
-msgstr "PM "Hermione Bang'er! Get back here at once!"
+msgid "[PM] Hermione Bang'er! Get back here at once!"
+msgstr "[PM] Hermione Bang'er! Get back here at once!"
 
 # game/UpdateScript0.06.rpy:11746 ## translate crowdin ph_recap_beginning_106c3338
-msgid "PM "What has gotten into you!"
-msgstr "PM "What has gotten into you!"
+msgid "[PM] What has gotten into you!"
+msgstr "[PM] What has gotten into you!"
 
 # game/UpdateScript0.06.rpy:11749 ## translate crowdin ph_recap_beginning_caca9a46
-msgid "PM "That is it!"
-msgstr "PM "That is it!"
+msgid "[PM] That is it!"
+msgstr "[PM] That is it!"
 
 # game/UpdateScript0.06.rpy:11752 ## translate crowdin ph_recap_beginning_f3db4a98
-msgid "PM "Stupify!"
-msgstr "PM "Stupify!"
+msgid "[PM] Stupify!"
+msgstr "[PM] Stupify!"
 
 # game/UpdateScript0.06.rpy:11755 ## translate crowdin ph_recap_beginning_0017ece1
-msgid "HG "OOOHHFFF!"
-msgstr "HG "OOOHHFFF!"
+msgid "[HG] OOOHHFFF!"
+msgstr "[HG] OOOHHFFF!"
 
 # game/UpdateScript0.06.rpy:11758 ## translate crowdin ph_recap_beginning_31851142
-msgid "PM "Well, well, well..."
-msgstr "PM "Well, well, well..."
+msgid "[PM] Well, well, well..."
+msgstr "[PM] Well, well, well..."
 
 # game/UpdateScript0.06.rpy:11759 ## translate crowdin ph_recap_beginning_fdc54846
-msgid "PM "Miss Bang'er."
-msgstr "PM "Miss Bang'er."
+msgid "[PM] Miss Bang'er."
+msgstr "[PM] Miss Bang'er."
 
 # game/UpdateScript0.06.rpy:11760 ## translate crowdin ph_recap_beginning_144df28b
-msgid "PM "I never thought I'd see the day! What has come over you!"
-msgstr "PM "I never thought I'd see the day! What has come over you!"
+msgid "[PM] I never thought I'd see the day! What has come over you!"
+msgstr "[PM] I never thought I'd see the day! What has come over you!"
 
 # game/UpdateScript0.06.rpy:11761 ## translate crowdin ph_recap_beginning_38f91f0c
-msgid "PM "One hundred points from Griffendor for causing mischief, and another one hundred points for dressing like a common Slytherin whore."
-msgstr "PM "One hundred points from Griffendor for causing mischief, and another one hundred points for dressing like a common Slytherin whore."
+msgid "[PM] One hundred points from Griffendor for causing mischief, and another one hundred points for dressing like a common Slytherin whore."
+msgstr "[PM] One hundred points from Griffendor for causing mischief, and another one hundred points for dressing like a common Slytherin whore."
 
 # game/UpdateScript0.06.rpy:11762 ## translate crowdin ph_recap_beginning_4ac9a22c
-msgid "PM "You will now follow me to detention for the next two hours."
-msgstr "PM "You will now follow me to detention for the next two hours."
+msgid "[PM] You will now follow me to detention for the next two hours."
+msgstr "[PM] You will now follow me to detention for the next two hours."
 
 # game/UpdateScript0.06.rpy:11768 ## translate crowdin ph_recap_beginning_ec72c158
 msgid "[HGT] {i}Uuucchhh... How am I supposed to cause mischief in detention?{/i}"
@@ -20547,36 +20547,36 @@ msgid "[HGT] {i}That's it!{/i}"
 msgstr "[HGT] {i}That's it!{/i}"
 
 # game/UpdateScript0.06.rpy:11777 ## translate crowdin ph_recap_beginning_875299b6
-msgid "HG "Professor McGargleCum, can you help me with something I read in this book that I don't understand."
-msgstr "HG "Professor McGargleCum, can you help me with something I read in this book that I don't understand."
+msgid "[HG] Professor McGargleCum, can you help me with something I read in this book that I don't understand."
+msgstr "[HG] Professor McGargleCum, can you help me with something I read in this book that I don't understand."
 
 # game/UpdateScript0.06.rpy:11778 ## translate crowdin ph_recap_beginning_ae75ac3b
-msgid "PM "It it homework for a class?"
-msgstr "PM "It it homework for a class?"
+msgid "[PM] It it homework for a class?"
+msgstr "[PM] It it homework for a class?"
 
 # game/UpdateScript0.06.rpy:11779 ## translate crowdin ph_recap_beginning_f5b55427
-msgid "HG "Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
-msgstr "HG "Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
+msgid "[HG] Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
+msgstr "[HG] Yes, it's something I was hoping to use in my paper for my history of Hagwarts class."
 
 # game/UpdateScript0.06.rpy:11781 ## translate crowdin ph_recap_beginning_3ff12c9d
-msgid "PM "Ron Tiddles diary? But where did you find that?"
-msgstr "PM "Ron Tiddles diary? But where did you find that?"
+msgid "[PM] Ron Tiddles diary? But where did you find that?"
+msgstr "[PM] Ron Tiddles diary? But where did you find that?"
 
 # game/UpdateScript0.06.rpy:11784 ## translate crowdin ph_recap_beginning_8b4ab4be
-msgid "PM "Oh no!..."
-msgstr "PM "Oh no!..."
+msgid "[PM] Oh no!..."
+msgstr "[PM] Oh no!..."
 
 # game/UpdateScript0.06.rpy:11785 ## translate crowdin ph_recap_beginning_4a753da3
 msgid "[EV] {i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
 msgstr "[EV] {i}(Raspy growl){/i} Perdidi nasum, sed penis maior possedi!"
 
 # game/UpdateScript0.06.rpy:11788 ## translate crowdin ph_recap_beginning_a1e8b137
-msgid "PM "Yes master, but until I see it, I will cause mischief in your name."
-msgstr "PM "Yes master, but until I see it, I will cause mischief in your name."
+msgid "[PM] Yes master, but until I see it, I will cause mischief in your name."
+msgstr "[PM] Yes master, but until I see it, I will cause mischief in your name."
 
 # game/UpdateScript0.06.rpy:11791 ## translate crowdin ph_recap_beginning_fe22f664
-msgid "PM "But why am I in such a prudish dress?"
-msgstr "PM "But why am I in such a prudish dress?"
+msgid "[PM] But why am I in such a prudish dress?"
+msgstr "[PM] But why am I in such a prudish dress?"
 
 # game/UpdateScript0.06.rpy:11798 ## translate crowdin advanced_ph_shoot_e35ac4a2
 msgid "{i}\"How would you like to see the rest of this photo shoot?\"{/i}"
@@ -32139,12 +32139,12 @@ msgid "[MG] Let's go jump on that shitty scooter, and you can take me home."
 msgstr "[MG] Let's go jump on that shitty scooter, and you can take me home."
 
 # game/UpdateScript0.06.rpy:16732 ## translate crowdin ph_recap_end_c03489e8
-msgid "PM "I've got to do something about this!"
-msgstr "PM "I've got to do something about this!"
+msgid "[PM] I've got to do something about this!"
+msgstr "[PM] I've got to do something about this!"
 
 # game/UpdateScript0.06.rpy:16735 ## translate crowdin ph_recap_end_e2e94c18
-msgid "PM "That's better! Edgy and sexy!"
-msgstr "PM "That's better! Edgy and sexy!"
+msgid "[PM] That's better! Edgy and sexy!"
+msgstr "[PM] That's better! Edgy and sexy!"
 
 # game/UpdateScript0.06.rpy:16738 ## translate crowdin ph_recap_end_fb95c1b9
 msgid "PMT "{i}So she thinks she's Moldy's top minion? I'll show her.{/i}"
@@ -32155,128 +32155,128 @@ msgid "PMT "{i}She won't know what hit her.{/i}"
 msgstr "PMT "{i}She won't know what hit her.{/i}"
 
 # game/UpdateScript0.06.rpy:16740 ## translate crowdin ph_recap_end_305c01b5
-msgid "PM "Alright, you slutty flea-bottom mudblood!"
-msgstr "PM "Alright, you slutty flea-bottom mudblood!"
+msgid "[PM] Alright, you slutty flea-bottom mudblood!"
+msgstr "[PM] Alright, you slutty flea-bottom mudblood!"
 
 # game/UpdateScript0.06.rpy:16741 ## translate crowdin ph_recap_end_5aa35932
-msgid "PM "Get on the floor and show me some respect before I {i}Avada Kedavra{/i} you into next week."
-msgstr "PM "Get on the floor and show me some respect before I {i}Avada Kedavra{/i} you into next week."
+msgid "[PM] Get on the floor and show me some respect before I {i}Avada Kedavra{/i} you into next week."
+msgstr "[PM] Get on the floor and show me some respect before I {i}Avada Kedavra{/i} you into next week."
 
 # game/UpdateScript0.06.rpy:16742 ## translate crowdin ph_recap_end_0b37f215
-msgid "HG "Uhhh... Yes... Professor."
-msgstr "HG "Uhhh... Yes... Professor."
+msgid "[HG] Uhhh... Yes... Professor."
+msgstr "[HG] Uhhh... Yes... Professor."
 
 # game/UpdateScript0.06.rpy:16743 ## translate crowdin ph_recap_end_2ddda78c
-msgid "PM "Call me Mistress, and lick those boots clean while you're down there."
-msgstr "PM "Call me Mistress, and lick those boots clean while you're down there."
+msgid "[PM] Call me Mistress, and lick those boots clean while you're down there."
+msgstr "[PM] Call me Mistress, and lick those boots clean while you're down there."
 
 # game/UpdateScript0.06.rpy:16746 ## translate crowdin ph_recap_end_4a6b42fc
 msgid "PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
 msgstr "PMT "{i}That was easier than I thought it would be... Maybe Hermione is a natural submissive.{/i}"
 
 # game/UpdateScript0.06.rpy:16747 ## translate crowdin ph_recap_end_e55a72ff
-msgid "PM "That's right, get them clean!"
-msgstr "PM "That's right, get them clean!"
+msgid "[PM] That's right, get them clean!"
+msgstr "[PM] That's right, get them clean!"
 
 # game/UpdateScript0.06.rpy:16748 ## translate crowdin ph_recap_end_40985106
 msgid "PMT "{i}Now it's time to see just how obedient she will be.{/i}"
 msgstr "PMT "{i}Now it's time to see just how obedient she will be.{/i}"
 
 # game/UpdateScript0.06.rpy:16749 ## translate crowdin ph_recap_end_9ba09f4b
-msgid "PM "Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
-msgstr "PM "Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
+msgid "[PM] Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
+msgstr "[PM] Do you really think that uniform is to standard? That slutty shirt will get you two hundred points from Griffendor."
 
 # game/UpdateScript0.06.rpy:16752 ## translate crowdin ph_recap_end_14718d5f
-msgid "PM "You like dressing like a slut, do you?"
-msgstr "PM "You like dressing like a slut, do you?"
+msgid "[PM] You like dressing like a slut, do you?"
+msgstr "[PM] You like dressing like a slut, do you?"
 
 # game/UpdateScript0.06.rpy:16753 ## translate crowdin ph_recap_end_398441db
-msgid "PM "Then why not do it right?"
-msgstr "PM "Then why not do it right?"
+msgid "[PM] Then why not do it right?"
+msgstr "[PM] Then why not do it right?"
 
 # game/UpdateScript0.06.rpy:16754 ## translate crowdin ph_recap_end_e4d46750
-msgid "PM "And just so the lesson sinks in..."
-msgstr "PM "And just so the lesson sinks in..."
+msgid "[PM] And just so the lesson sinks in..."
+msgstr "[PM] And just so the lesson sinks in..."
 
 # game/UpdateScript0.06.rpy:16757 ## translate crowdin ph_recap_end_bb2cb72b
-msgid "PM "And now you will write lines until I tell you to stop."
-msgstr "PM "And now you will write lines until I tell you to stop."
+msgid "[PM] And now you will write lines until I tell you to stop."
+msgstr "[PM] And now you will write lines until I tell you to stop."
 
 # game/UpdateScript0.06.rpy:16758 ## translate crowdin ph_recap_end_b9210d1b
-msgid "HG "But, how can I write lines with my hands tied?"
-msgstr "HG "But, how can I write lines with my hands tied?"
+msgid "[HG] But, how can I write lines with my hands tied?"
+msgstr "[HG] But, how can I write lines with my hands tied?"
 
 # game/UpdateScript0.06.rpy:16763 ## translate crowdin ph_recap_end_5dc8bcf3
-msgid "PM "That's right! I want you to write \"I will not dress slutty.\" one hundred times!"
-msgstr "PM "That's right! I want you to write \"I will not dress slutty.\" one hundred times!"
+msgid "[PM] That's right! I want you to write \"I will not dress slutty.\" one hundred times!"
+msgstr "[PM] That's right! I want you to write \"I will not dress slutty.\" one hundred times!"
 
 # game/UpdateScript0.06.rpy:16766 ## translate crowdin ph_recap_end_d3febf5e
-msgid "PM "And while you're doing that... I think I'll help myself to some eye candy."
-msgstr "PM "And while you're doing that... I think I'll help myself to some eye candy."
+msgid "[PM] And while you're doing that... I think I'll help myself to some eye candy."
+msgstr "[PM] And while you're doing that... I think I'll help myself to some eye candy."
 
 # game/UpdateScript0.06.rpy:16769 ## translate crowdin ph_recap_end_9c70221f
-msgid "HG "You perverted bitch! Get your hands off my dress!"
-msgstr "HG "You perverted bitch! Get your hands off my dress!"
+msgid "[HG] You perverted bitch! Get your hands off my dress!"
+msgstr "[HG] You perverted bitch! Get your hands off my dress!"
 
 # game/UpdateScript0.06.rpy:16770 ## translate crowdin ph_recap_end_0aaeeec4
-msgid "PM "Oh... You think it's ok to talk to your professor like that?"
-msgstr "PM "Oh... You think it's ok to talk to your professor like that?"
+msgid "[PM] Oh... You think it's ok to talk to your professor like that?"
+msgstr "[PM] Oh... You think it's ok to talk to your professor like that?"
 
 # game/UpdateScript0.06.rpy:16771 ## translate crowdin ph_recap_end_1002f6e2
-msgid "HG "I'll talk to you however I want, you STD encrusted flobberworm!"
-msgstr "HG "I'll talk to you however I want, you STD encrusted flobberworm!"
+msgid "[HG] I'll talk to you however I want, you STD encrusted flobberworm!"
+msgstr "[HG] I'll talk to you however I want, you STD encrusted flobberworm!"
 
 # game/UpdateScript0.06.rpy:16774 ## translate crowdin ph_recap_end_a9e04457
-msgid "HG "You ugly... Aaahhh!"
-msgstr "HG "You ugly... Aaahhh!"
+msgid "[HG] You ugly... Aaahhh!"
+msgstr "[HG] You ugly... Aaahhh!"
 
 # game/UpdateScript0.06.rpy:16778 ## translate crowdin ph_recap_end_c89b346d
-msgid "HG "MMMmmmmmrrrmmmpphhh!..."
-msgstr "HG "MMMmmmmmrrrmmmpphhh!..."
+msgid "[HG] MMMmmmmmrrrmmmpphhh!..."
+msgstr "[HG] MMMmmmmmrrrmmmpphhh!..."
 
 # game/UpdateScript0.06.rpy:16780 ## translate crowdin ph_recap_end_9f12e788
 msgid "[HGT] {i}Oh, shit! What have I done?{/i}"
 msgstr "[HGT] {i}Oh, shit! What have I done?{/i}"
 
 # game/UpdateScript0.06.rpy:16781 ## translate crowdin ph_recap_end_ecbc3212
-msgid "PM "That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
-msgstr "PM "That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
+msgid "[PM] That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
+msgstr "[PM] That's right bitch, now if you know what's good for you, you'll come sit on the floor at my feet like the bitch you are."
 
 # game/UpdateScript0.06.rpy:16784 ## translate crowdin ph_recap_end_18466d96
 msgid "PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
 msgstr "PMT "{i}Hahaha... I think I've got her to where she'll do whatever I say.{/i}"
 
 # game/UpdateScript0.06.rpy:16785 ## translate crowdin ph_recap_end_e8e683c0
-msgid "PM "Let's just test your obedience my little pet bitch."
-msgstr "PM "Let's just test your obedience my little pet bitch."
+msgid "[PM] Let's just test your obedience my little pet bitch."
+msgstr "[PM] Let's just test your obedience my little pet bitch."
 
 # game/UpdateScript0.06.rpy:16786 ## translate crowdin ph_recap_end_e0522ded
-msgid "PM "Come bend over the desk."
-msgstr "PM "Come bend over the desk."
+msgid "[PM] Come bend over the desk."
+msgstr "[PM] Come bend over the desk."
 
 # game/UpdateScript0.06.rpy:16789 ## translate crowdin ph_recap_end_22be4bdf
-msgid "PM "Ohhh... That is a pretty little ass."
-msgstr "PM "Ohhh... That is a pretty little ass."
+msgid "[PM] Ohhh... That is a pretty little ass."
+msgstr "[PM] Ohhh... That is a pretty little ass."
 
 # game/UpdateScript0.06.rpy:16792 ## translate crowdin ph_recap_end_8b0e376b
-msgid "PM "But these are getting in the way."
-msgstr "PM "But these are getting in the way."
+msgid "[PM] But these are getting in the way."
+msgstr "[PM] But these are getting in the way."
 
 # game/UpdateScript0.06.rpy:16795 ## translate crowdin ph_recap_end_b16958c4
-msgid "PM "Oh, my!... You've been a good little girl."
-msgstr "PM "Oh, my!... You've been a good little girl."
+msgid "[PM] Oh, my!... You've been a good little girl."
+msgstr "[PM] Oh, my!... You've been a good little girl."
 
 # game/UpdateScript0.06.rpy:16796 ## translate crowdin ph_recap_end_c141711b
-msgid "PM "Not a single whipping mark."
-msgstr "PM "Not a single whipping mark."
+msgid "[PM] Not a single whipping mark."
+msgstr "[PM] Not a single whipping mark."
 
 # game/UpdateScript0.06.rpy:16799 ## translate crowdin ph_recap_end_0efe130a
-msgid "PM "Well, that's about to change."
-msgstr "PM "Well, that's about to change."
+msgid "[PM] Well, that's about to change."
+msgstr "[PM] Well, that's about to change."
 
 # game/UpdateScript0.06.rpy:16826 ## translate crowdin ph_recap_end_7332956e
-msgid "PM "And now, you'll be completely obedient to your mistress, won't you?"
-msgstr "PM "And now, you'll be completely obedient to your mistress, won't you?"
+msgid "[PM] And now, you'll be completely obedient to your mistress, won't you?"
+msgstr "[PM] And now, you'll be completely obedient to your mistress, won't you?"
 
 # game/UpdateScript0.06.rpy:16831 ## translate crowdin ph_recap_end_0b243e4b
 msgid "[MG] And that's where we left off."
