@@ -10,21 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-03 17:52\n"
+"PO-Revision-Date: 2022-02-20 15:03\n"
 
-# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/ForAndroid.rpy:36
 msgid "Quick Menu"
 msgstr ""
 
-#    # game/ForAndroid.rpy:70
 msgid "Menu"
 msgstr ""
 
-#    # game/ForAndroid.rpy:112
 msgid "Console"
 msgstr ""
 
-#    # game/ForAndroid.rpy:114
 msgid "Close quick menu!"
 msgstr ""
 
