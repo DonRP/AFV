@@ -10,9 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-01-03 17:52\n"
+"PO-Revision-Date: 2022-02-20 15:04\n"
 
-# TODO: Translation updated at 2022-01-02 20:48## ## # translate crowdin strings:##    # game/options.rpy:15
 msgid "A Family Venture"
 msgstr ""
 
