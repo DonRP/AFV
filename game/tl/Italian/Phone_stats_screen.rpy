@@ -10,125 +10,165 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 15:04\n"
+"PO-Revision-Date: 2022-02-20 18:56\n"
 
+# XXtranslate crowdin strings:XX# XX## game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
 msgstr "Statistiche ragazze"
 
+# XX## game/Phone_stats_screen.rpy:73
 msgid "{color=#E60000}---------------------------------------{/color}"
 msgstr "{color=#E60000}-------------------------------{/color}"
 
+# XX## game/Phone_stats_screen.rpy:83
 msgid "{image=iconM} {color=#42f456}Mom's:{/color}"
 msgstr "{image=iconM} {color=#42f456}Mom's:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:85
 msgid "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
 msgstr "{image=respect}{color=#000000} Rispetto..............[momrespect]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:86
 msgid "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
 msgstr "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:87
 msgid "{image=libido}{color=#000000} Libido..................[momlibido]{/color}"
 msgstr "{image=libido}{color=#000000} Libido..................[momlibido]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:88
 msgid "{image=submission}{color=#000000} Submission........[momsubmission]{/color}"
 msgstr "{image=submission}{color=#000000} Invio........[momsubmission]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:89
 msgid "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
 msgstr "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:91
 msgid "{image=iconL} {color=#f442d9}Lauren's:{/color}"
 msgstr "{image=iconL} {color=#f442d9}Lauren's:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:93
 msgid "{image=respect}{color=#000000} Respect..............[laurenrespect]{/color}"
 msgstr "{image=respect}{color=#000000} Rispetto..............[laurenrespect]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:94
 msgid "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
 msgstr "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:95
 msgid "{image=libido}{color=#000000} Libido..................[laurenlibido]{/color}"
 msgstr "{image=libido}{color=#000000} Libido..................[laurenlibido]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:96
 msgid "{image=submission}{color=#000000} Submission........[laurensubmission]{/color}"
 msgstr "{image=submission}{color=#000000} Invio........[laurensubmission]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:97
 msgid "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
 msgstr "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:99
 msgid "{image=election}{color=#000000} School influence.[school_influence]{/color}"
 msgstr "{image=election}{color=#000000} Influenza scolastica.[school_influence]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:101
 msgid "{image=iconS} {color=#006600}Sidney's:{/color}"
 msgstr "{image=iconS} {color=#006600}Sidney's:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:103
 msgid "{image=respect}{color=#000000} Respect..............[sidneyrespect]{/color}"
 msgstr "{image=respect}{color=#000000} Rispetto..............[sidneyrespect]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:104
 msgid "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
 msgstr "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:105
 msgid "{image=libido}{color=#000000} Libido..................[sidneylibido]{/color}"
 msgstr "{image=libido}{color=#000000} Libido..................[sidneylibido]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:106
 msgid "{image=submission}{color=#000000} Submission........[sidneysubmission]{/color}"
 msgstr "{image=submission}{color=#000000} Invio........[sidneysubmission]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:107
 msgid "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
 msgstr "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:110
 msgid "{image=iconC} {color=#85c1e9}Cousin Mandy's:{/color}"
 msgstr "{image=iconC} {color=#85c1e9}Cousin Mandy's:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:112
 msgid "{image=respect}{color=#000000} Respect..............[cousinrespect]{/color}"
 msgstr "{image=respect}{color=#000000} Rispetto..............[cousinrespect]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:113
 msgid "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
 msgstr "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:114
 msgid "{image=libido}{color=#000000} Libido..................[cousinlibido]{/color}"
 msgstr "{image=libido}{color=#000000} Libido..................[cousinlibido]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:115
 msgid "{image=submission}{color=#000000} Submission........[cousinsubmission]{/color}"
 msgstr "{image=submission}{color=#000000} Invio........[cousinsubmission]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:116
 msgid "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
 msgstr "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:118
 msgid "{image=iconA} {color=#9966FF}Aunt Camille's:{/color}"
 msgstr "{image=iconA} {color=#9966FF}zia Camille's:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:120
 msgid "{image=respect}{color=#000000} Respect..............[auntrespect]{/color}"
 msgstr "{image=respect}{color=#000000} Rispetto..............[auntrespect]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:121
 msgid "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
 msgstr "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:122
 msgid "{image=libido}{color=#000000} Libido..................[auntlibido]{/color}"
 msgstr "{image=libido}{color=#000000} Libido..................[auntlibido]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:123
 msgid "{image=submission}{color=#000000} Submission........[auntsubmission]{/color}"
 msgstr "{image=submission}{color=#000000} Invio........[auntsubmission]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:124
 msgid "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
 msgstr "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:183
 msgid "  Loads counter {image=load_counter}"
 msgstr "  Contatore di carichi {image=load_counter}"
 
+# XX## game/Phone_stats_screen.rpy:196
 msgid "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
 msgstr "{image=iconR} {color=#0000CC} Da [ryan]:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:199
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
 msgstr "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:200
 msgid "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
 msgstr "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:203
 msgid "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
 msgstr "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
 
+# XX## game/Phone_stats_screen.rpy:208
 msgid "{image=iconMT} {color=#993300} By Matt:{/color}"
 msgstr "{image=iconMT} {color=#993300} Per Matt:{/color}"
 
+# XX## game/Phone_stats_screen.rpy:211
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
 msgstr "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
 

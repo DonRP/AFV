@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:52\n"
+"PO-Revision-Date: 2022-02-20 18:57\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1236,20 +1236,25 @@ msgstr ""
 msgid "End of tutorial."
 msgstr "Fine del tutorial."
 
+# XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
 msgstr ""
 
+# XX## game/Phone_event_screen.rpy:40
 msgid "???"
 msgstr ""
 
+# XX## game/Phone_event_screen.rpy:802
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
 msgstr "Premi \"{color=#E60000}???{/color}\" per vedere \n"
 "             suggerimenti!"
 
+# XX## game/Phone_event_screen.rpy:805
 msgid "Watch the tutorial again!"
 msgstr "Guarda di nuovo il tutorial!"
 
+# XX## game/Phone_event_screen.rpy:811
 msgid "{color=#E60000}-------------------------------------{/color}"
 msgstr ""
 

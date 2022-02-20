@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-20 17:51\n"
+"PO-Revision-Date: 2022-02-20 18:56\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/Shopping_gallery.rpy:253 ## translate crowdin online_shopping_d0d5deb3:
 msgid "[RT] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -612,51 +612,67 @@ msgstr ""
 msgid "[RT] {i}Not right now.{/i}"
 msgstr ""
 
+# XXtranslate crowdin strings:XX# XX## game/Shopping_gallery.rpy:323
 msgid "Buy chocolate"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:323
 msgid "Don't buy"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:341
 msgid "Buy giftcard"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:358
 msgid "Buy Flowers"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:374
 msgid "Buy melatonin."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:400
 msgid "Buy spycam."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:417
 msgid "Buy green screen."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:435
 msgid "Buy pro lights."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:453
 msgid "Buy DSLR camera."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:470
 msgid "Buy camera accessory."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:589
 msgid "Buy camera accessory"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:607
 msgid "Buy bikini"
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:628
 msgid "Buy ball gag."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:651
 msgid "Buy Perry Hotter Book 1."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:674
 msgid "Buy Perry Hotter Book 2."
 msgstr ""
 
+# XX## game/Shopping_gallery.rpy:697
 msgid "Buy Perry Hotter Book 3."
 msgstr ""
 
