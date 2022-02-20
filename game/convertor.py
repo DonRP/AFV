@@ -64,8 +64,6 @@ msgid \"""",
 
 
 
-    """:@@
-##@## game""": """:@@##@## game""",
 
     """
  ## translate crowdin strings:
@@ -74,6 +72,8 @@ msgid \"""",
 
 #@@translate crowdin strings:@@
 """,
+    """:@@
+##@## game""": """:@@##@## game""",
 
 
     # date
