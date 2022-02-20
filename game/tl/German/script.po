@@ -10,161 +10,161 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-01-03 18:48\n"
+"PO-Revision-Date: 2022-02-20 15:07\n"
 
-# TODO: Translation updated at 2022-01-02 20:48## # game/script.rpy:309## # translate crowdin skip_game_e704ed97:
+# TODO: Translation updated at 2022-02-20 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
 msgstr ""
 
-# game/script.rpy:315## # translate crowdin skip_game_5e5fdd92:
+# game/script.rpy:315 ## translate crowdin skip_game_5e5fdd92
 msgid "Good luck! I sure hope you know what you're doing."
 msgstr ""
 
-# game/script.rpy:316## # translate crowdin skip_game_90ec90e7:
+# game/script.rpy:316 ## translate crowdin skip_game_90ec90e7
 msgid "For players who have already played AFV, we offer the option to skip the game's introduction. This includes the events that set the premise of the game in motion."
 msgstr ""
 
-# game/script.rpy:657## # translate crowdin gamestart_13f9152e:
+# game/script.rpy:657 ## translate crowdin gamestart_13f9152e
 msgid "[M] [ryan], wake up!"
 msgstr ""
 
-# game/script.rpy:662## # translate crowdin gamestart_b13eed11:
+# game/script.rpy:662 ## translate crowdin gamestart_b13eed11
 msgid "[M] [upper_ryan], WAKE UP!"
 msgstr ""
 
-# game/script.rpy:667## # translate crowdin gamestart_f18185f2:
+# game/script.rpy:667 ## translate crowdin gamestart_f18185f2
 msgid "[M] WAKE UP!!!"
 msgstr ""
 
-# game/script.rpy:672## # translate crowdin gamestart_6288b353:
+# game/script.rpy:672 ## translate crowdin gamestart_6288b353
 msgid "[R] Huh..."
 msgstr ""
 
-# game/script.rpy:673## # translate crowdin gamestart_96cb3bb4:
+# game/script.rpy:673 ## translate crowdin gamestart_96cb3bb4
 msgid "[R] What?..."
 msgstr ""
 
-# game/script.rpy:674## # translate crowdin gamestart_a5cfeafc:
+# game/script.rpy:674 ## translate crowdin gamestart_a5cfeafc
 msgid "[R] What is it?..."
 msgstr ""
 
-# game/script.rpy:677## # translate crowdin gamestart_7e6f9074:
+# game/script.rpy:677 ## translate crowdin gamestart_7e6f9074
 msgid "[R] What time is it?"
 msgstr ""
 
-# game/script.rpy:678## # translate crowdin gamestart_e9062642:
+# game/script.rpy:678 ## translate crowdin gamestart_e9062642
 msgid "[M] It's only 5:30 AM.... sorry to wake you so early."
 msgstr ""
 
-# game/script.rpy:679## # translate crowdin gamestart_6b505fac:
+# game/script.rpy:679 ## translate crowdin gamestart_6b505fac
 msgid "[R] Uhhh.... Isn't is Saturday?..."
 msgstr ""
 
-# game/script.rpy:680## # translate crowdin gamestart_2542c765:
+# game/script.rpy:680 ## translate crowdin gamestart_2542c765
 msgid "[M] I know honey, but your no account, worthless father is on the phone for you..."
 msgstr ""
 
-# game/script.rpy:683## # translate crowdin gamestart_bbfbe0f1:
+# game/script.rpy:683 ## translate crowdin gamestart_bbfbe0f1
 msgid "[M] It's pretty important..."
 msgstr ""
 
-# game/script.rpy:684## # translate crowdin gamestart_c5f760e5:
+# game/script.rpy:684 ## translate crowdin gamestart_c5f760e5
 msgid "[M] He's calling from jail!"
 msgstr ""
 
-# game/script.rpy:685## # translate crowdin gamestart_94b40fc4:
+# game/script.rpy:685 ## translate crowdin gamestart_94b40fc4
 msgid "[R] WHAT?!"
 msgstr ""
 
-# game/script.rpy:686## # translate crowdin gamestart_ccab4082:
+# game/script.rpy:686 ## translate crowdin gamestart_ccab4082
 msgid "[M] Oh, and honey?"
 msgstr ""
 
-# game/script.rpy:687## # translate crowdin gamestart_1e2aa3d3:
+# game/script.rpy:687 ## translate crowdin gamestart_1e2aa3d3
 msgid "[R] .... Yeah?..."
 msgstr ""
 
-# game/script.rpy:688## # translate crowdin gamestart_98431b9a:
+# game/script.rpy:688 ## translate crowdin gamestart_98431b9a
 msgid "[M] .... Could you maybe wear more to bed?..."
 msgstr ""
 
-# game/script.rpy:689## # translate crowdin gamestart_1205034a:
+# game/script.rpy:689 ## translate crowdin gamestart_1205034a
 msgid "[M] Or at least cover yourself while I'm in here..."
 msgstr ""
 
-# game/script.rpy:692## # translate crowdin gamestart_c96ea14a:
+# game/script.rpy:692 ## translate crowdin gamestart_c96ea14a
 msgid "[M] I know it's just morning wood..."
 msgstr ""
 
-# game/script.rpy:693## # translate crowdin gamestart_b068f8f2:
+# game/script.rpy:693 ## translate crowdin gamestart_b068f8f2
 msgid "[M] But what if one of your sisters walked in on you like this?"
 msgstr ""
 
-# game/script.rpy:694## # translate crowdin gamestart_6d94f86d:
+# game/script.rpy:694 ## translate crowdin gamestart_6d94f86d
 msgid "[R] I'd tell them to get the fuck out of my room!"
 msgstr ""
 
-# game/script.rpy:697## # translate crowdin gamestart_882cacf9:
+# game/script.rpy:697 ## translate crowdin gamestart_882cacf9
 msgid "[M] Language please!"
 msgstr ""
 
-# game/script.rpy:698## # translate crowdin gamestart_3a2c90f7:
+# game/script.rpy:698 ## translate crowdin gamestart_3a2c90f7
 msgid "[R] Sorry!"
 msgstr ""
 
-# game/script.rpy:699## # translate crowdin gamestart_9eabc2a7:
+# game/script.rpy:699 ## translate crowdin gamestart_9eabc2a7
 msgid "[M] Here.... talk to Dad!"
 msgstr ""
 
-# game/script.rpy:711## # translate crowdin peek_6154c2f9:
+# game/script.rpy:711 ## translate crowdin peek_6154c2f9
 msgid "[RT] {i}Why is she telling me to cover up?.... {/i}"
 msgstr ""
 
-# game/script.rpy:712## # translate crowdin peek_d37f126e:
+# game/script.rpy:712 ## translate crowdin peek_d37f126e
 msgid "[RT] {i}Mom's boobs are practically bursting out of her robe.... {/i}"
 msgstr ""
 
-# game/script.rpy:713## # translate crowdin peek_def1be11:
+# game/script.rpy:713 ## translate crowdin peek_def1be11
 msgid "[RT] {i}Good thing I don't think of her like that.... {/i}"
 msgstr ""
 
-# game/script.rpy:714## # translate crowdin peek_5d9672a4:
+# game/script.rpy:714 ## translate crowdin peek_5d9672a4
 msgid "[RT] {i}.... hmmm.... {/i}"
 msgstr ""
 
-# game/script.rpy:715## # translate crowdin peek_3341b692:
+# game/script.rpy:715 ## translate crowdin peek_3341b692
 msgid "[RT] {i}.... aAAHH! Get out of my head Satan!{/i}"
 msgstr ""
 
-# game/script.rpy:717## # translate crowdin peek_5a1372bb:
+# game/script.rpy:717 ## translate crowdin peek_5a1372bb
 msgid "[MT] {i}Did my boy just look down my robe?.... {/i}"
 msgstr ""
 
-# game/script.rpy:718## # translate crowdin peek_7c440bee:
+# game/script.rpy:718 ## translate crowdin peek_7c440bee
 msgid "[MT] {i}Here I am lecturing him to cover up himself while my tits are halfway out.... {/i}"
 msgstr ""
 
-# game/script.rpy:719## # translate crowdin peek_bc09f959:
+# game/script.rpy:719 ## translate crowdin peek_bc09f959
 msgid "[MT] {i}.... hmmm.... {p}I wonder if he'd have gotten hard if he wasn't already?.... {/i}"
 msgstr ""
 
-# game/script.rpy:721## # translate crowdin peek_56be8171:
+# game/script.rpy:721 ## translate crowdin peek_56be8171
 msgid "[MT] {i}He is pretty well endowed... {/i}{p}{i}He doesn't take after his father... {/i}{p}{i}He must take after my dad... {/i}"
 msgstr ""
 
-# game/script.rpy:723## # translate crowdin peek_20b13604:
+# game/script.rpy:723 ## translate crowdin peek_20b13604
 msgid "[MT] {i}.... hmmm.... {/i}"
 msgstr ""
 
-# game/script.rpy:725## # translate crowdin peek_0560b83b:
+# game/script.rpy:725 ## translate crowdin peek_0560b83b
 msgid "[MT] {i}.... AAAHH!{p} Why am I thinking about my dads and sons penises?{p} Get out of my head Satan!.... {/i}"
 msgstr ""
 
-# game/script.rpy:729## # translate crowdin peek_47a97a8c:
+# game/script.rpy:729 ## translate crowdin peek_47a97a8c
 msgid "[M] Uhhh.... I'm going to go. Bring me my phone to the kitchen when you're done."
 msgstr ""
 
-# game/script.rpy:730## # translate crowdin peek_1d3e080d:
+# game/script.rpy:730 ## translate crowdin peek_1d3e080d
 msgid "[RT] {i}SHIT! She saw me staring!{p} That was stupid.... {p} I need to go to church!{/i}"
 msgstr ""
 
