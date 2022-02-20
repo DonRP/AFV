@@ -18047,12 +18047,12 @@ msgid "[R] Yeah, right away!"
 msgstr "[R] Yeah, right away!"
 
 # game/UpdateScript0.07.rpy:10922 ## translate crowdin bad_shower_caught_a5f7052b:
-msgid "RG "AAAhhh!!!!"
-msgstr "RG "AAAhhh!!!!"
+msgid "[RG] AAAhhh!!!!"
+msgstr "[RG] AAAhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10923 ## translate crowdin bad_shower_caught_09ef5abe:
-msgid "H "AAAAHHHHhhh!!!!"
-msgstr "H "AAAAHHHHhhh!!!!"
+msgid "[H] AAAAHHHHhhh!!!!"
+msgstr "[H] AAAAHHHHhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10924 ## translate crowdin bad_shower_caught_388abc2e:
 msgid "[K] Spying on us again?! You really are a pervert!"
@@ -18067,24 +18067,24 @@ msgid "[K] Yeah, right!"
 msgstr "[K] Yeah, right!"
 
 # game/UpdateScript0.07.rpy:10929 ## translate crowdin bad_shower_caught_603ff0a4:
-msgid "RG "Didn't get enough last time?"
-msgstr "RG "Didn't get enough last time?"
+msgid "[RG] Didn't get enough last time?"
+msgstr "[RG] Didn't get enough last time?"
 
 # game/UpdateScript0.07.rpy:10930 ## translate crowdin bad_shower_caught_6ada0e74:
-msgid "H "Get out of here!"
-msgstr "H "Get out of here!"
+msgid "[H] Get out of here!"
+msgstr "[H] Get out of here!"
 
 # game/UpdateScript0.07.rpy:10931 ## translate crowdin bad_shower_caught_e7c7c9eb:
 msgid "[R] I'm going!"
 msgstr "[R] I'm going!"
 
 # game/UpdateScript0.07.rpy:10939 ## translate crowdin bad_shower_caught_a5f7052b_1:
-msgid "RG "AAAhhh!!!!"
-msgstr "RG "AAAhhh!!!!"
+msgid "[RG] AAAhhh!!!!"
+msgstr "[RG] AAAhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10940 ## translate crowdin bad_shower_caught_09ef5abe_1:
-msgid "H "AAAAHHHHhhh!!!!"
-msgstr "H "AAAAHHHHhhh!!!!"
+msgid "[H] AAAAHHHHhhh!!!!"
+msgstr "[H] AAAAHHHHhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10941 ## translate crowdin bad_shower_caught_f9ae76ce:
 msgid "[K] [ryan]! Why are you spying on us?"
@@ -18099,12 +18099,12 @@ msgid "[K] Yeah, right!"
 msgstr "[K] Yeah, right!"
 
 # game/UpdateScript0.07.rpy:10946 ## translate crowdin bad_shower_caught_450feb41:
-msgid "RG "Hope you enjoyed the show, you pervert."
-msgstr "RG "Hope you enjoyed the show, you pervert."
+msgid "[RG] Hope you enjoyed the show, you pervert."
+msgstr "[RG] Hope you enjoyed the show, you pervert."
 
 # game/UpdateScript0.07.rpy:10947 ## translate crowdin bad_shower_caught_6ada0e74_1:
-msgid "H "Get out of here!"
-msgstr "H "Get out of here!"
+msgid "[H] Get out of here!"
+msgstr "[H] Get out of here!"
 
 # game/UpdateScript0.07.rpy:10948 ## translate crowdin bad_shower_caught_e7c7c9eb_1:
 msgid "[R] I'm going!"
