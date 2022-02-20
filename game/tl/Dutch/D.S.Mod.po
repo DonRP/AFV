@@ -11,53 +11,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2022-02-20 15:02\n"
+"PO-Revision-Date: 2022-02-20 17:50\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2362 ## translate crowdin change_names_34819df8
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2362 ## translate crowdin change_names_34819df8:
 msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2387 ## translate crowdin ds_change_name_mom_2e923a8a
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2387 ## translate crowdin ds_change_name_mom_2e923a8a:
 msgid "[DS] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2403 ## translate crowdin ds_change_name_Ryan_602ad794
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2403 ## translate crowdin ds_change_name_Ryan_602ad794:
 msgid "[DS] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2408 ## translate crowdin ds_mod_info_3abf1dee
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2408 ## translate crowdin ds_mod_info_3abf1dee:
 msgid "[DS] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2413 ## translate crowdin ds_anger_reset_nfo_47ed8249
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2413 ## translate crowdin ds_anger_reset_nfo_47ed8249:
 msgid "[DS] You have reset the anger lvl for all girls!"
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2418 ## translate crowdin ds_libido_2max_nfo_04ab0d4c
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2418 ## translate crowdin ds_libido_2max_nfo_04ab0d4c:
 msgid "[DS] You have set the libido lvl to max for all girls!"
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2423 ## translate crowdin info_spy_cams_4be81734
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2423 ## translate crowdin info_spy_cams_4be81734:
 msgid "[DS] To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2496 ## translate crowdin adv_rest_jump_24ddb230
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2496 ## translate crowdin adv_rest_jump_24ddb230:
 msgid "[RT] {i}School has ended, I must return home{/i}"
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2504 ## translate crowdin adv_rest_jump_24ddb230_1
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2504 ## translate crowdin adv_rest_jump_24ddb230_1:
 msgid "[RT] {i}School has ended, I must return home{/i}"
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2510 ## translate crowdin adv_rest_jump_24ddb230_2
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2510 ## translate crowdin adv_rest_jump_24ddb230_2:
 msgid "[RT] {i}School has ended, I must return home{/i}"
 msgstr ""
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2516 ## translate crowdin adv_rest_jump_24ddb230_3
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2516 ## translate crowdin adv_rest_jump_24ddb230_3:
 msgid "[RT] {i}School has ended, I must return home{/i}"
 msgstr ""
 
