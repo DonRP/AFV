@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2022-01-02 20:48## # game/images/interface_images/Roulette/RouletteGame.rpy:537## # translate crowdin test_feb4bc5b:
-msgid "[betPickVar]"
-msgstr "[betPickVar]"
+﻿# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b
+msgid "[@betPickVar]"
+msgstr "[@betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:547 ## translate crowdin gameTypeErrorCheck_be76e8b9
 msgid "[RLT_dealer] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve(2.0)]"
@@ -165,19 +165,20 @@ msgstr "[RLT_dealer] The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw} [wit
 # game/images/interface_images/Roulette/RouletteGame.rpy:795 ## translate crowdin lblCheckRoll_bf9f0393_8
 msgid "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 msgstr "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
-## # translate crowdin strings:##    # game/images/interface_images/Roulette/RouletteGame.rpy:235
-msgid "Croupier"
-msgstr "Croupier"
 
-#    # game/images/interface_images/Roulette/RouletteGame.rpy:322
-msgid "Do you want to play the Roulette?"
-msgstr "Do you want to play the Roulette?"
+#@@translate crowdin strings:@@##@## game/images/interface_images/Roulette/RouletteGame.rpy:235
+msgid  "Croupier"
+msgstr  "Croupier"
 
-#    # game/images/interface_images/Roulette/RouletteGame.rpy:340
-msgid "What type of game do you want to play?"
-msgstr "What type of game do you want to play?"
+##@## game/images/interface_images/Roulette/RouletteGame.rpy:322
+msgid  "Do you want to play the Roulette?"
+msgstr  "Do you want to play the Roulette?"
 
-#    # game/images/interface_images/Roulette/RouletteGame.rpy:521
-msgid "Game type: [betType]\nYou bet on: [playerPiked]"
-msgstr "Game type: [betType]\nYou bet on: [playerPiked]"
+##@## game/images/interface_images/Roulette/RouletteGame.rpy:340
+msgid  "What type of game do you want to play?"
+msgstr  "What type of game do you want to play?"
+
+##@## game/images/interface_images/Roulette/RouletteGame.rpy:521
+msgid  "Game type: [betType]\nYou bet on: [playerPiked]"
+msgstr  "Game type: [betType]\nYou bet on: [playerPiked]"
 
