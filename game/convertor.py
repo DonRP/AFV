@@ -16,7 +16,7 @@ msgid \"""",
     """    new \"""": """msgstr  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
-    """    """: """msgstr \"""",
+    """\n    """: """\nmsgstr \"""",
     # ch
     """ \"RT \"""": """ \"[RT] """,
     """ \"MT \"""": """ \"[MT] """,
@@ -67,29 +67,18 @@ msgid \"""",
     """ \"K \"""": """ \"[K] """,
     """ \"W \"""": """ \"[W] """,
     """ \"BJ_dealer \"""": """ \"[BJ_dealer] """,
-
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
-
-
-
-
-    """
- ## translate crowdin strings:
-
-""": """
-
-#@@translate crowdin strings:@@
-""",
+    #Final
+    """\n ## translate crowdin strings:\n\n""": """\n\n#@@translate crowdin strings:@@\n""",
     """:@@
 ##@## game""": """:@@##@## game""",
-
-
     # date
-    """12:36
-
-# game""": """HH:HH# game""",
+    """12:36\n\n# game""": """HH:HH# game""",
+    # only rpytopo
+    """msgid \"\"""": """msgid \"""",
+    """msgstr \"\"""": """msgstr \"""",
 }
 
 
