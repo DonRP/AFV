@@ -8054,11 +8054,11 @@ msgstr "[M] Est-ce exact?"
 
 # game/script.rpy:8541 ## translate crowdin nightclubbing_2e057405:
 msgid "[R] I'm just here to keep you safe."
-msgstr ""
+msgstr "[R] Je suis juste là pour te protéger."
 
 # game/script.rpy:8542 ## translate crowdin nightclubbing_e37a45ea:
 msgid "[M] Ha! You're here to keep me safe?"
-msgstr ""
+msgstr "[M] Ha! Tu es là pour me protéger ?"
 
 # game/script.rpy:8543 ## translate crowdin nightclubbing_efa35aee:
 msgid "[R] Well, yeah.... to protect you."
