@@ -14,7 +14,7 @@ msgstr "You were sponsored by a total of [var_total_supporters] supporters and e
 msgid "You have already withdrawn the money that you have earned this month!"
 msgstr "You have already withdrawn the money that you have earned this month!"
 
-# game/Cosplay_gallery.rpy:1803## # translate crowdin supporters_income_photoshoot_ed87ddab:
+# game/Cosplay_gallery.rpy:1803 ## translate crowdin supporters_income_photoshoot_ed87ddab
 msgid "[RT] {i}I must wait until the end of the month to withdraw my funds.{/i}"
 msgstr "[RT] {i}I must wait until the end of the month to withdraw my funds.{/i}"
 
