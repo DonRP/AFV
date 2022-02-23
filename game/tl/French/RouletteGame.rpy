@@ -280,8 +280,6 @@ translate crowdin strings:
     new "À quel type de jeu voulez-vous jouer ?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:521
-    old "Game type: [betType]\n"
-"You bet on: [playerPiked]"
-    new "Type de jeu : [betType]\n"
-"Vous avez misé sur: [playerPiked]"
+    old "Game type: [betType]\nYou bet on: [playerPiked]"
+    new "Type de jeu : [betType]\nVous avez misé sur: [playerPiked]"
 

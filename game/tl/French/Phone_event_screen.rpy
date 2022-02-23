@@ -1861,10 +1861,8 @@ translate crowdin strings:
     new "???"
 
     # game/Phone_event_screen.rpy:802
-    old "Press the \"{color=#E60000}???{/color}\" to see \n"
-"             hints!"
-    new "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n"
-"             indices!"
+    old "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
+    new "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n             indices!"
 
     # game/Phone_event_screen.rpy:805
     old "Watch the tutorial again!"

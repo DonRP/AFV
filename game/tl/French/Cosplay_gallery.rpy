@@ -121,10 +121,8 @@ translate crowdin strings:
     new "{color=#ffffff}Publicité{b}{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:570
-    old "{color=#ffffff}{b}Images\n"
-"Videos{/b}{/color}"
-    new "{color=#ffffff}{b}Images\n"
-"Vidéos{/b}{/color}"
+    old "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
+    new " "{color=#ffffff}{b}Images\nVidéos{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:575
     old "{color=#ffffff}{b}Outfits{/b}{/color}"
@@ -135,10 +133,8 @@ translate crowdin strings:
     new "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:582
-    old "{color=#ffffff}{b}Press to change \n"
-" likes to money{/b}{/color}"
-    new "{color=#ffffff}{b}Appuyez sur pour changer \n"
-" j'aime l'argent{/b}{/color}"
+    old "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
+    new "{color=#ffffff}{b}Appuyez sur pour changer \n j'aime l'argent{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:709
     old "{color=#000000}{b}Sell{/b}{/color}"
@@ -153,10 +149,6 @@ translate crowdin strings:
     new "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:1084
-    old " {b}{color=#ffffff}Press to receive\n"
-"{size=18} monthly earnings:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-    new " {b}{color=#ffffff}Cliquez pour recevoir\n"
-"{size=18} gains mensuels:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+    old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+    new " " {b}{color=#ffffff}Cliquez{size=18} gains mensuels:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 

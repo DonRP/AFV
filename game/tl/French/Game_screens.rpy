@@ -15,10 +15,8 @@
 translate crowdin strings:
 
     # game/Game_screens.rpy:59
-    old " My\n"
-"Room"
-    new " Ma\n"
-"chambre"
+    old " My\nRoom"
+    new " Ma\nchambre"
 
     # game/Game_screens.rpy:77
     old "Bath"
@@ -37,16 +35,10 @@ translate crowdin strings:
     new "Classe"
 
     # game/Game_screens.rpy:152
-    old "{size=29} {/size}Girls\n"
-"Locker\n"
-"{size=25} {/size}Room"
-    new "{size=29} {/size} Filles\n"
-"Casier\n"
-"{size=25} {/size} Salle"
+    old "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+    new "Casier\n{size=25} {/size} Salle"
 
     # game/Game_screens.rpy:208
-    old "Campaign\n"
-"   HQ"
-    new "Campagne\n"
-"   HQ"
+    old "Campaign\n   HQ"
+    new "Campagne\n   HQ"
 

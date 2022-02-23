@@ -31,50 +31,40 @@ translate crowdin strings:
     new ""
 
     # game/Credits_screen.rpy:157
-    old "\n"
-"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-    new "\n"
-"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
+    old "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
+    new "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:159
     old "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
     new "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 
     # game/Credits_screen.rpy:161
-    old "\n"
-"{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-    new "\n"
-"{b}{i}Editor Ortografico e Grammatica:{/i}{/b} \n"
+    old "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
+    new "\n{b}{i}Editor Ortografico e Grammatica:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:163
     old "lapdragon"
     new ""
 
     # game/Credits_screen.rpy:165
-    old "\n"
-"{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-    new "\n"
-"{b}{i}Scrittore di gioco, Coder, Immagini, Animazioni:{/i}{/b} \n"
+    old "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
+    new "\n{b}{i}Scrittore di gioco, Coder, Immagini, Animazioni:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:167
     old "Will Tylor"
     new ""
 
     # game/Credits_screen.rpy:169
-    old "\n"
-"{b}{i}Ghost Writer:{/i}{/b} \n"
-    new "\n"
-"{b}{i}Scrittore Fantasma:{/i}{/b} \n"
+    old "\n{b}{i}Ghost Writer:{/i}{/b} \n"
+    new "\n{b}{i}Scrittore Fantasma:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:171
     old "Strenif"
     new ""
 
     # game/Credits_screen.rpy:173
-    old "\n"
-"{b}{i}My Family with Benefits:{/i}{/b} \n"
-    new "\n"
-"{b}{i}La mia famiglia con vantaggi:{/i}{/b} \n"
+    old "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
+    new "\n{b}{i}La mia famiglia con vantaggi:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:175
     old "Frayed80"
@@ -89,10 +79,8 @@ translate crowdin strings:
     new ""
 
     # game/Credits_screen.rpy:179
-    old "\n"
-"{b}{i}My Family:{/i}{/b} \n"
-    new "\n"
-"{b}{i}La mia famiglia:{/i}{/b} \n"
+    old "\n{b}{i}My Family:{/i}{/b} \n"
+    new "\n{b}{i}La mia famiglia:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:181
     old "Bremen"
@@ -143,10 +131,8 @@ translate crowdin strings:
     new ""
 
     # game/Credits_screen.rpy:194
-    old "\n"
-"{b}{i}My BFFS:{/i}{/b} \n"
-    new "\n"
-"{b}{i}Il mio BFFS:{/i}{/b} \n"
+    old "\n{b}{i}My BFFS:{/i}{/b} \n"
+    new "\n{b}{i}Il mio BFFS:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:196
     old "Adam"

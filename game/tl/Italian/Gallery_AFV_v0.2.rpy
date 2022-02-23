@@ -35,10 +35,8 @@ translate crowdin strings:
     new "Galleria di Mandy"
 
     # game/Gallery_AFV_v0.2.rpy:838
-    old "Harem \n"
-"     gallery"
-    new "Harem \n"
-"     galleria"
+    old "Harem \n     gallery"
+    new "Harem \n     galleria"
 
     # game/Gallery_AFV_v0.2.rpy:941
     old "Other girls gallery"

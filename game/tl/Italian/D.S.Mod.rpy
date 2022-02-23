@@ -110,10 +110,8 @@ translate crowdin strings:
     new "{color=#00589E}Name_changes------------------{/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:510
-    old "Change your name. \n"
-"{color=#1DDB16}(Current name is: [ryan]){/color}"
-    new "Cambia il tuo nome. \n"
-"{color=#1DDB16}(Il nome attuale è: [ryan]){/color}"
+    old "Change your name. \n{color=#1DDB16}(Current name is: [ryan]){/color}"
+    new "Cambia il tuo nome. \n{color=#1DDB16}(Il nome attuale è: [ryan]){/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:523
     old "{color=#00589E}Points_and_items--------------{/color}"
@@ -132,10 +130,8 @@ translate crowdin strings:
     new "{color=#00589E}Orario:[timeofdaycounter]---------------------{/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:623
-    old " Press to jump to the right\n"
-"                   time!"
-    new " Premi per saltare al giusto\n"
-"                   tempo!"
+    old " Press to jump to the right\n                   time!"
+    new " Premi per saltare al giusto\n                   tempo!"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:629
     old "Advance Time"
