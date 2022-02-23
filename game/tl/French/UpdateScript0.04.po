@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:54\n"
+"PO-Revision-Date: 2022-02-23 19:21\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1418,7 +1418,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1116 ## translate crowdin nightly_sixtynine_195aac2d_1:
 msgid "[R] Goodnight, Sidney."
-msgstr ""
+msgstr "[R] Bonne nuit, Sidney."
 
 # game/UpdateScript0.04.rpy:1117 ## translate crowdin nightly_sixtynine_0312799c:
 msgid "[S] Goodnight, [ryan]!"
@@ -3886,7 +3886,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2205 ## translate crowdin aunt_clean_bath_ba57da46_1:
 msgid "[C] You're such a pervert!"
-msgstr ""
+msgstr "[C] Tu es un pervers !"
 
 # game/UpdateScript0.04.rpy:2206 ## translate crowdin aunt_clean_bath_4788f63b_1:
 msgid "[R] No, it's going to help me get over my stage fright."
@@ -3894,7 +3894,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2207 ## translate crowdin aunt_clean_bath_fea2d71d_1:
 msgid "[C] My ass!"
-msgstr ""
+msgstr "[C] Mon cul!"
 
 # game/UpdateScript0.04.rpy:2208 ## translate crowdin aunt_clean_bath_78f9a3f8_1:
 msgid "[R] You can press that on the glass too if you want."
@@ -3938,7 +3938,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2226 ## translate crowdin aunt_clean_bath_ddfddc1b_1:
 msgid "[R] Well, yeah.... It is your job!"
-msgstr ""
+msgstr "[R] Eh bien, oui ... C'est ton boulot !"
 
 # game/UpdateScript0.04.rpy:2227 ## translate crowdin aunt_clean_bath_6ded6d10_1:
 msgid "[C] Fine, just get the fuck out of here so I can finish cleaning."
@@ -4006,7 +4006,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2254 ## translate crowdin aunt_clean_bath_4298156e_1:
 msgid "[R] Fine."
-msgstr ""
+msgstr "[R] Bien."
 
 # game/UpdateScript0.04.rpy:2259 ## translate crowdin aunt_clean_bath_72425f39_1:
 msgid "[R] Actually, that's not going to work.... mom would kill me if I let you off work tomorrow."
@@ -4458,15 +4458,15 @@ msgstr "[RT] {i}Bon sang.... Je me demande dans quelle mesure je vais avoir des 
 
 # game/UpdateScript0.04.rpy:2476 ## translate crowdin sad_aunt_dba92fde:
 msgid "[R] Hey Sidney, what's up?"
-msgstr ""
+msgstr "[R] Hé Sidney, quoi de neuf?"
 
 # game/UpdateScript0.04.rpy:2477 ## translate crowdin sad_aunt_69b81ca8:
 msgid "[S] Just a second, let me just finish this up.... and.... done."
-msgstr ""
+msgstr "[S] Juste une seconde, laissez-moi finir ça.... et.... terminé."
 
 # game/UpdateScript0.04.rpy:2480 ## translate crowdin sad_aunt_2009bfdb:
 msgid "[S] What can I do for you?"
-msgstr ""
+msgstr "[S] Que puis-je faire pour toi?"
 
 # game/UpdateScript0.04.rpy:2481 ## translate crowdin sad_aunt_415f59eb:
 msgid "[RT] {i}Oh, shit.... I can see up her skirt.... {/i}"
@@ -5874,7 +5874,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3141 ## translate crowdin aunt_clean_kitchen_68aa67a5_1:
 msgid "[C] What is the matter with you?"
-msgstr ""
+msgstr "[C] Quel est le problème avec toi?"
 
 # game/UpdateScript0.04.rpy:3142 ## translate crowdin aunt_clean_kitchen_3303aa02_1:
 msgid "[C] How are you ok with perving on your own aunt?"
@@ -5926,7 +5926,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3158 ## translate crowdin aunt_clean_kitchen_69a0f28d_1:
 msgid "[R] Yeah.... exactly!"
-msgstr ""
+msgstr "[R] Ouais.... Exactement!"
 
 # game/UpdateScript0.04.rpy:3159 ## translate crowdin aunt_clean_kitchen_8e4fb2de_1:
 msgid "[C] Flashing you one more time won't change anything..."
@@ -5938,7 +5938,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3161 ## translate crowdin aunt_clean_kitchen_d72f1a5e_1:
 msgid "[C] What do you mean?"
-msgstr ""
+msgstr "[C] Que veux-tu dire?"
 
 # game/UpdateScript0.04.rpy:3162 ## translate crowdin aunt_clean_kitchen_491733de_1:
 msgid "[R] It needs to be a little bit humiliating."
@@ -5970,7 +5970,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3169 ## translate crowdin aunt_clean_kitchen_844210d3_1:
 msgid "[R] It's kind of self explanatory."
-msgstr ""
+msgstr "[R] C'est un peu explicite."
 
 # game/UpdateScript0.04.rpy:3172 ## translate crowdin aunt_clean_kitchen_b0eb8e35_1:
 msgid "[C] So, you want me to put my tits on a platter.... and what?.... Present them to you?"
@@ -6058,7 +6058,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3201 ## translate crowdin aunt_clean_kitchen_8be80c68_1:
 msgid "[R] Right of course!"
-msgstr ""
+msgstr "[R] Bien sûr!"
 
 # game/UpdateScript0.04.rpy:3204 ## translate crowdin aunt_clean_kitchen_85f9191f_1:
 msgid "[C] Ok.... start doing your homework.... or adult work.... and I'll get ready."
@@ -6150,11 +6150,11 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3248 ## translate crowdin aunt_clean_kitchen_f8c2d47c_1:
 msgid "[R] Still not yet!"
-msgstr ""
+msgstr "[R] Toujours pas!"
 
 # game/UpdateScript0.04.rpy:3256 ## translate crowdin aunt_clean_kitchen_c81ccaf3_1:
 msgid "[C] Alright, I'm calling it!"
-msgstr ""
+msgstr "[C] D'accord, je l'appelle!"
 
 # game/UpdateScript0.04.rpy:3257 ## translate crowdin aunt_clean_kitchen_1b9e2ec7_1:
 msgid "[R] No.... yeah.... I mean that's good enough.... you're excused, Fanny!..."
@@ -6278,7 +6278,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3326 ## translate crowdin aunt_clean_kitchen_beda3045_1:
 msgid "[C] Are we good?"
-msgstr ""
+msgstr "[C] Sommes-nous bons?"
 
 # game/UpdateScript0.04.rpy:3327 ## translate crowdin aunt_clean_kitchen_b56fd265_1:
 msgid "[R] Yep.... we're good!"
@@ -9142,7 +9142,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4698 ## translate crowdin removeshorts_96cb3bb4_1:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4699 ## translate crowdin removeshorts_c1872696_1:
 msgid "[R] You had to know this was the next step..."
@@ -9178,7 +9178,7 @@ msgstr "Pour que Sidney enlève sa chemise, vous devez avoir sa soumission à 7 
 
 # game/UpdateScript0.04.rpy:4717 ## translate crowdin removeshorts_96cb3bb4_2:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4718 ## translate crowdin removeshorts_9c717dda:
 msgid "[R] You had to know this kind of thing was coming eventually.... let's just jump right in."
@@ -9250,7 +9250,7 @@ msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4746 ## translate crowdin removeshorts_96cb3bb4_3:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4747 ## translate crowdin removeshorts_8ec53f50:
 msgid "[R] You had to know something like this was coming eventually..."
@@ -9306,7 +9306,7 @@ msgstr "Pour que Sidney montre ses seins, vous devez avoir sa soumission à 10 p
 
 # game/UpdateScript0.04.rpy:4770 ## translate crowdin removeshorts_96cb3bb4_4:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4771 ## translate crowdin removeshorts_9c717dda_1:
 msgid "[R] You had to know this kind of thing was coming eventually.... let's just jump right in."
@@ -9382,7 +9382,7 @@ msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4800 ## translate crowdin removeshorts_96cb3bb4_5:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4801 ## translate crowdin removeshorts_8ec53f50_1:
 msgid "[R] You had to know something like this was coming eventually..."
@@ -9442,7 +9442,7 @@ msgstr "Pour que Sidney vous laisse déchirer ses sous-vêtements, vous devez av
 
 # game/UpdateScript0.04.rpy:4826 ## translate crowdin removeshorts_96cb3bb4_6:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4827 ## translate crowdin removeshorts_9c717dda_2:
 msgid "[R] You had to know this kind of thing was coming eventually.... let's just jump right in."
@@ -9514,7 +9514,7 @@ msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4855 ## translate crowdin removeshorts_96cb3bb4_7:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4856 ## translate crowdin removeshorts_8ec53f50_2:
 msgid "[R] You had to know something like this was coming eventually..."
@@ -9574,7 +9574,7 @@ msgstr "Pour que Sidney vous laisse faire des gros plans, vous devez avoir ses p
 
 # game/UpdateScript0.04.rpy:4881 ## translate crowdin removeshorts_96cb3bb4_8:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4882 ## translate crowdin removeshorts_9c717dda_3:
 msgid "[R] You had to know this kind of thing was coming eventually.... let's just jump right in."
@@ -9674,7 +9674,7 @@ msgstr "{i}«Soumission de Sidney +1»{/i}"
 
 # game/UpdateScript0.04.rpy:4917 ## translate crowdin removeshorts_96cb3bb4_9:
 msgid "[R] What?..."
-msgstr ""
+msgstr "[R] Quoi?..."
 
 # game/UpdateScript0.04.rpy:4918 ## translate crowdin removeshorts_8ec53f50_3:
 msgid "[R] You had to know something like this was coming eventually..."
@@ -11754,7 +11754,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5787 ## translate crowdin wr_gape_88877bdd:
 msgid "[S] Is this ok?"
-msgstr ""
+msgstr "[S] Est-ce correct?"
 
 # game/UpdateScript0.04.rpy:5788 ## translate crowdin wr_gape_13497052:
 msgid "[R] Wow, you did it first try!"
