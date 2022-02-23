@@ -7,5 +7,5 @@ Developer: [WillTylor](https://www.patreon.com/user?u=865554)
 My Parteon: [DRincs](https://www.patreon.com/DRincs)
 
 ### Translators
-- French: [yoyortx13](https://crowdin.com/profile/yoyortx13)
+- French: [yoyortx13](https://crowdin.com/profile/yoyortx13) - [Patreon](https://www.patreon.com/yoyortx) - [f95](https://f95zone.to/members/yoyortx.391827/)
 - Italian: [DonRP](https://crowdin.com/profile/DonRP) - [Patreon](https://www.patreon.com/DRincs)
