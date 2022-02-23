@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,19 +12,21 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
-# XXtranslate crowdin strings:XX# XX## game/ForAndroid.rpy:36
-msgid "Quick Menu"
-msgstr "Menu rapide"
+translate crowdin strings:
 
-# XX## game/ForAndroid.rpy:70
-msgid "Menu"
-msgstr "Menu"
+    # game/ForAndroid.rpy:36
+    old "Quick Menu"
+    new "Menu rapide"
 
-# XX## game/ForAndroid.rpy:112
-msgid "Console"
-msgstr "Console"
+    # game/ForAndroid.rpy:70
+    old "Menu"
+    new "Menu"
 
-# XX## game/ForAndroid.rpy:114
-msgid "Close quick menu!"
-msgstr "Fermer le menu rapide!"
+    # game/ForAndroid.rpy:112
+    old "Console"
+    new "Console"
+
+    # game/ForAndroid.rpy:114
+    old "Close quick menu!"
+    new "Fermer le menu rapide!"
 

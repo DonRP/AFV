@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,55 +12,57 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
-# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
-msgid "[ryan]'s Thoughts"
-msgstr "Les pensées de [ryan]"
+translate crowdin strings:
 
-# XX## game/character.rpy:45
-msgid "Mom's Thoughts"
-msgstr "Les pensées de maman"
+    # game/character.rpy:43
+    old "[ryan]'s Thoughts"
+    new "Les pensées de [ryan]"
 
-# XX## game/character.rpy:46
-msgid "Dad"
-msgstr "Papa"
+    # game/character.rpy:45
+    old "Mom's Thoughts"
+    new "Les pensées de maman"
 
-# XX## game/character.rpy:49
-msgid "Lauren's Thoughts"
-msgstr "Les pensées de Lauren"
+    # game/character.rpy:46
+    old "Dad"
+    new "Papa"
 
-# XX## game/character.rpy:50
-msgid "Joey"
-msgstr "Joey"
+    # game/character.rpy:49
+    old "Lauren's Thoughts"
+    new "Les pensées de Lauren"
 
-# XX## game/character.rpy:51
-msgid "Mafia Goon"
-msgstr "Mafieux"
+    # game/character.rpy:50
+    old "Joey"
+    new "Joey"
 
-# XX## game/character.rpy:52
-msgid "Voice over Microphone"
-msgstr "Voix par le micro"
+    # game/character.rpy:51
+    old "Mafia Goon"
+    new "Mafieux"
 
-# XX## game/character.rpy:53
-msgid "?????"
-msgstr "?????"
+    # game/character.rpy:52
+    old "Voice over Microphone"
+    new "Voix par le micro"
 
-# XX## game/character.rpy:56
-msgid "Sidney's Thoughts"
-msgstr "Les pensées de Sidney"
+    # game/character.rpy:53
+    old "?????"
+    new "?????"
 
-# XX## game/character.rpy:57
-msgid "Megan"
-msgstr "Megan"
+    # game/character.rpy:56
+    old "Sidney's Thoughts"
+    new "Les pensées de Sidney"
 
-# XX## game/character.rpy:59
-msgid "Mandy's Thoughts"
-msgstr "Les pensées de Mandy"
+    # game/character.rpy:57
+    old "Megan"
+    new "Megan"
 
-# XX## game/character.rpy:60
-msgid "Aunt Camille"
-msgstr "Tante Camille"
+    # game/character.rpy:59
+    old "Mandy's Thoughts"
+    new "Les pensées de Mandy"
 
-# XX## game/character.rpy:61
-msgid "Aunt Camille's Thoughts"
-msgstr "Les pensées de tante Camille"
+    # game/character.rpy:60
+    old "Aunt Camille"
+    new "Tante Camille"
+
+    # game/character.rpy:61
+    old "Aunt Camille's Thoughts"
+    new "Les pensées de tante Camille"
 

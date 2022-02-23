@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Mom's stats:\n"
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
@@ -13,127 +13,129 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-02-20 15:04\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Points_screen.rpy:115
-msgid "Mom's stats:"
-msgstr "Statistiche della mamma:"
+translate crowdin strings:
 
-# XX## game/Points_screen.rpy:125
-msgid "[momaffection]"
-msgstr ""
+    # game/Points_screen.rpy:115
+    old "Mom's stats:"
+    new "Statistiche della mamma:"
 
-# XX## game/Points_screen.rpy:126
-msgid "[momrespect]"
-msgstr ""
+    # game/Points_screen.rpy:125
+    old "[momaffection]"
+    new ""
 
-# XX## game/Points_screen.rpy:127
-msgid "[momlibido]"
-msgstr ""
+    # game/Points_screen.rpy:126
+    old "[momrespect]"
+    new ""
 
-# XX## game/Points_screen.rpy:128
-msgid "[momsubmission]"
-msgstr ""
+    # game/Points_screen.rpy:127
+    old "[momlibido]"
+    new ""
 
-# XX## game/Points_screen.rpy:129
-msgid "[momanger]"
-msgstr ""
+    # game/Points_screen.rpy:128
+    old "[momsubmission]"
+    new ""
 
-# XX## game/Points_screen.rpy:136
-msgid "Lauren's stats:"
-msgstr "Le statistiche di Lauren:"
+    # game/Points_screen.rpy:129
+    old "[momanger]"
+    new ""
 
-# XX## game/Points_screen.rpy:145
-msgid "[laurenaffection]"
-msgstr ""
+    # game/Points_screen.rpy:136
+    old "Lauren's stats:"
+    new "Le statistiche di Lauren:"
 
-# XX## game/Points_screen.rpy:146
-msgid "[laurenrespect]"
-msgstr ""
+    # game/Points_screen.rpy:145
+    old "[laurenaffection]"
+    new ""
 
-# XX## game/Points_screen.rpy:147
-msgid "[laurenlibido]"
-msgstr ""
+    # game/Points_screen.rpy:146
+    old "[laurenrespect]"
+    new ""
 
-# XX## game/Points_screen.rpy:148
-msgid "[laurensubmission]"
-msgstr ""
+    # game/Points_screen.rpy:147
+    old "[laurenlibido]"
+    new ""
 
-# XX## game/Points_screen.rpy:149
-msgid "[laurenanger]"
-msgstr ""
+    # game/Points_screen.rpy:148
+    old "[laurensubmission]"
+    new ""
 
-# XX## game/Points_screen.rpy:156
-msgid "Sidney's stats:"
-msgstr "Le statistiche di Sidney:"
+    # game/Points_screen.rpy:149
+    old "[laurenanger]"
+    new ""
 
-# XX## game/Points_screen.rpy:165
-msgid "[sidneyaffection]"
-msgstr ""
+    # game/Points_screen.rpy:156
+    old "Sidney's stats:"
+    new "Le statistiche di Sidney:"
 
-# XX## game/Points_screen.rpy:166
-msgid "[sidneyrespect]"
-msgstr ""
+    # game/Points_screen.rpy:165
+    old "[sidneyaffection]"
+    new ""
 
-# XX## game/Points_screen.rpy:167
-msgid "[sidneylibido]"
-msgstr ""
+    # game/Points_screen.rpy:166
+    old "[sidneyrespect]"
+    new ""
 
-# XX## game/Points_screen.rpy:168
-msgid "[sidneysubmission]"
-msgstr ""
+    # game/Points_screen.rpy:167
+    old "[sidneylibido]"
+    new ""
 
-# XX## game/Points_screen.rpy:169
-msgid "[sidneyanger]"
-msgstr ""
+    # game/Points_screen.rpy:168
+    old "[sidneysubmission]"
+    new ""
 
-# XX## game/Points_screen.rpy:188
-msgid "[auntaffection]"
-msgstr ""
+    # game/Points_screen.rpy:169
+    old "[sidneyanger]"
+    new ""
 
-# XX## game/Points_screen.rpy:189
-msgid "[auntrespect]"
-msgstr ""
+    # game/Points_screen.rpy:188
+    old "[auntaffection]"
+    new ""
 
-# XX## game/Points_screen.rpy:190
-msgid "[auntlibido]"
-msgstr ""
+    # game/Points_screen.rpy:189
+    old "[auntrespect]"
+    new ""
 
-# XX## game/Points_screen.rpy:191
-msgid "[auntsubmission]"
-msgstr ""
+    # game/Points_screen.rpy:190
+    old "[auntlibido]"
+    new ""
 
-# XX## game/Points_screen.rpy:192
-msgid "[auntanger]"
-msgstr ""
+    # game/Points_screen.rpy:191
+    old "[auntsubmission]"
+    new ""
 
-# XX## game/Points_screen.rpy:202
-msgid "Mandy's stats:"
-msgstr "Le statistiche di Mandy:"
+    # game/Points_screen.rpy:192
+    old "[auntanger]"
+    new ""
 
-# XX## game/Points_screen.rpy:211
-msgid "[cousinaffection]"
-msgstr ""
+    # game/Points_screen.rpy:202
+    old "Mandy's stats:"
+    new "Le statistiche di Mandy:"
 
-# XX## game/Points_screen.rpy:212
-msgid "[cousinrespect]"
-msgstr ""
+    # game/Points_screen.rpy:211
+    old "[cousinaffection]"
+    new ""
 
-# XX## game/Points_screen.rpy:213
-msgid "[cousinlibido]"
-msgstr ""
+    # game/Points_screen.rpy:212
+    old "[cousinrespect]"
+    new ""
 
-# XX## game/Points_screen.rpy:214
-msgid "[cousinsubmission]"
-msgstr ""
+    # game/Points_screen.rpy:213
+    old "[cousinlibido]"
+    new ""
 
-# XX## game/Points_screen.rpy:215
-msgid "[cousinanger]"
-msgstr ""
+    # game/Points_screen.rpy:214
+    old "[cousinsubmission]"
+    new ""
 
-# XX## game/Points_screen.rpy:217
-msgid "<<"
-msgstr ""
+    # game/Points_screen.rpy:215
+    old "[cousinanger]"
+    new ""
 
-# XX## game/Points_screen.rpy:228
-msgid ">>"
-msgstr ""
+    # game/Points_screen.rpy:217
+    old "<<"
+    new ""
+
+    # game/Points_screen.rpy:228
+    old ">>"
+    new ""
 

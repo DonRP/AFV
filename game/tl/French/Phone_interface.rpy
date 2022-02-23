@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,39 +12,59 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 17:49\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
-msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}je ne peux pas perdre de temps en ce moment, les DeCapos seront là d'un moment à l'autre.{/i}"
+# TODO: Translation updated at 2022-02-20 HH:HH
 
-# game/Phone_interface.rpy:270 ## translate crowdin night_warning_48ae09e0:
-msgid "[RT] {i}It's night, I should go to sleep.{/i}"
-msgstr "[RT] {i}Il fait nuit, je devrais dormir.{/i}"
+# game/Phone_interface.rpy:265
+translate crowdin mafia_warning_f561667c:
 
-# game/Phone_interface.rpy:275 ## translate crowdin school_warning_1afbbf5b:
-msgid "[RT] {i}Right now I'm at School, I must first go home to advance time.{/i}"
-msgstr "[RT] {i}En ce moment je suis à l’école, je dois d’abord rentrer à la maison pour avancer dans le temps.{/i}"
+    # RT "{i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
+    RT "{i}je ne peux pas perdre de temps en ce moment, les DeCapos seront là d'un moment à l'autre.{/i}"
 
-# game/Phone_interface.rpy:280 ## translate crowdin campaign_warning_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}je ne peux pas perdre de temps. J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille pour l'élection par le corps estudiantin. {/i}"
+# game/Phone_interface.rpy:270
+translate crowdin night_warning_48ae09e0:
 
-# game/Phone_interface.rpy:477 ## translate crowdin memes_time_skip_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+    # RT "{i}It's night, I should go to sleep.{/i}"
+    RT "{i}Il fait nuit, je devrais dormir.{/i}"
 
-# game/Phone_interface.rpy:485 ## translate crowdin memes_time_skip_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Phone_interface.rpy:275
+translate crowdin school_warning_1afbbf5b:
 
-# game/Phone_interface.rpy:491 ## translate crowdin memes_time_skip_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+    # RT "{i}Right now I'm at School, I must first go home to advance time.{/i}"
+    RT "{i}En ce moment je suis à l’école, je dois d’abord rentrer à la maison pour avancer dans le temps.{/i}"
 
-# game/Phone_interface.rpy:497 ## translate crowdin memes_time_skip_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Phone_interface.rpy:280
+translate crowdin campaign_warning_88e99dc5:
 
-# game/Phone_interface.rpy:510 ## translate crowdin memes_time_skip_e011db0e_4:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+    # RT "{i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+    RT "{i}je ne peux pas perdre de temps. J’ai besoin d’aller à l’école et de voir comment Lauren se débrouille pour l'élection par le corps estudiantin. {/i}"
+
+# game/Phone_interface.rpy:477
+translate crowdin memes_time_skip_e011db0e:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Phone_interface.rpy:485
+translate crowdin memes_time_skip_e011db0e_1:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Phone_interface.rpy:491
+translate crowdin memes_time_skip_e011db0e_2:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Phone_interface.rpy:497
+translate crowdin memes_time_skip_e011db0e_3:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Phone_interface.rpy:510
+translate crowdin memes_time_skip_e011db0e_4:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
 

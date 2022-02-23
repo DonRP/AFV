@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,27 +12,39 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 17:49\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# TODO: Translation updated at 2022-02-20 HH:HH
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Brain_game.rpy:599
+translate crowdin map_location_e011db0e:
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Brain_game.rpy:607
+translate crowdin map_location_e011db0e_1:
 
-# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
-msgid "You lose!"
-msgstr "Vous avez perdu !"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
-# XX## game/Brain_game.rpy:519
-msgid "YOU WON!!!"
-msgstr "VOUS AVEZ GAGNÉ !!!"
+# game/Brain_game.rpy:613
+translate crowdin map_location_e011db0e_2:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Brain_game.rpy:619
+translate crowdin map_location_e011db0e_3:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+translate crowdin strings:
+
+    # game/Brain_game.rpy:497
+    old "You lose!"
+    new "Vous avez perdu !"
+
+    # game/Brain_game.rpy:519
+    old "YOU WON!!!"
+    new "VOUS AVEZ GAGNÉ !!!"
 

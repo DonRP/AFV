@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,347 +12,349 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
-# XXtranslate crowdin strings:XX# XX## game/screens.rpy:256
-msgid "History"
-msgstr "Historique"
+translate crowdin strings:
 
-# XX## game/screens.rpy:257
-msgid "Skip"
-msgstr "Ignorer"
+    # game/screens.rpy:256
+    old "History"
+    new "Historique"
 
-# XX## game/screens.rpy:258
-msgid "Auto"
-msgstr "Auto"
+    # game/screens.rpy:257
+    old "Skip"
+    new "Ignorer"
 
-# XX## game/screens.rpy:259
-msgid "Save"
-msgstr "Sauvegarder"
+    # game/screens.rpy:258
+    old "Auto"
+    new "Auto"
 
-# XX## game/screens.rpy:260
-msgid "Load"
-msgstr "Charger"
+    # game/screens.rpy:259
+    old "Save"
+    new "Sauvegarder"
 
-# XX## game/screens.rpy:261
-msgid "Q.Save"
-msgstr "Q.Enregistrer"
+    # game/screens.rpy:260
+    old "Load"
+    new "Charger"
 
-# XX## game/screens.rpy:262
-msgid "Q.Load"
-msgstr "Q.Charger"
+    # game/screens.rpy:261
+    old "Q.Save"
+    new "Q.Enregistrer"
 
-# XX## game/screens.rpy:263
-msgid "Prefs"
-msgstr "Préf"
+    # game/screens.rpy:262
+    old "Q.Load"
+    new "Q.Charger"
 
-# XX## game/screens.rpy:308
-msgid "Start"
-msgstr "Commencer"
+    # game/screens.rpy:263
+    old "Prefs"
+    new "Préf"
 
-# XX## game/screens.rpy:319
-msgid "Gallery"
-msgstr "Galerie"
+    # game/screens.rpy:308
+    old "Start"
+    new "Commencer"
 
-# XX## game/screens.rpy:321
-msgid "Preferences"
-msgstr "Préférences"
+    # game/screens.rpy:319
+    old "Gallery"
+    new "Galerie"
 
-# XX## game/screens.rpy:325
-msgid "End Replay"
-msgstr "Terminer le replay"
+    # game/screens.rpy:321
+    old "Preferences"
+    new "Préférences"
 
-# XX## game/screens.rpy:329
-msgid "Main Menu"
-msgstr "Menu Principal"
+    # game/screens.rpy:325
+    old "End Replay"
+    new "Terminer le replay"
 
-# XX## game/screens.rpy:331
-msgid "About"
-msgstr "À propos"
+    # game/screens.rpy:329
+    old "Main Menu"
+    new "Menu Principal"
 
-# XX## game/screens.rpy:334
-msgid "Credits"
-msgstr "Crédits"
+    # game/screens.rpy:331
+    old "About"
+    new "À propos"
 
-# XX## game/screens.rpy:339
-msgid "Help"
-msgstr "Aide"
+    # game/screens.rpy:334
+    old "Credits"
+    new "Crédits"
 
-# XX## game/screens.rpy:342
-msgid "Quit"
-msgstr "Quitter"
+    # game/screens.rpy:339
+    old "Help"
+    new "Aide"
 
-# XX## game/screens.rpy:496
-msgid "Return"
-msgstr "Retour"
+    # game/screens.rpy:342
+    old "Quit"
+    new "Quitter"
 
-# XX## game/screens.rpy:580
-msgid "Version [config.version!t]\n"
-msgstr "Version [config.version!t]\n"
+    # game/screens.rpy:496
+    old "Return"
+    new "Retour"
 
-# XX## game/screens.rpy:586
-msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+    # game/screens.rpy:580
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # game/screens.rpy:586
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+    new "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 
-# XX## game/screens.rpy:626
-msgid "Page {}"
-msgstr "Page {}"
+    # game/screens.rpy:626
+    old "Page {}"
+    new "Page {}"
 
-# XX## game/screens.rpy:626
-msgid "Automatic saves"
-msgstr "Sauvegardes automatiques"
+    # game/screens.rpy:626
+    old "Automatic saves"
+    new "Sauvegardes automatiques"
 
-# XX## game/screens.rpy:626
-msgid "Quick saves"
-msgstr "Enregistrements rapides"
+    # game/screens.rpy:626
+    old "Quick saves"
+    new "Enregistrements rapides"
 
-# XX## game/screens.rpy:668
-msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+    # game/screens.rpy:668
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
-# XX## game/screens.rpy:668
-msgid "empty slot"
-msgstr "emplacement vide"
+    # game/screens.rpy:668
+    old "empty slot"
+    new "emplacement vide"
 
-# XX## game/screens.rpy:694
-msgid "<"
-msgstr "<"
+    # game/screens.rpy:694
+    old "<"
+    new "<"
 
-# XX## game/screens.rpy:697
-msgid "{#auto_page}A"
-msgstr "{#auto_page}A"
+    # game/screens.rpy:697
+    old "{#auto_page}A"
+    new "{#auto_page}A"
 
-# XX## game/screens.rpy:700
-msgid "{#quick_page}Q"
-msgstr "{#quick_page}Q"
+    # game/screens.rpy:700
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
 
-# XX## game/screens.rpy:706
-msgid ">"
-msgstr ">"
+    # game/screens.rpy:706
+    old ">"
+    new ">"
 
-# XX## game/screens.rpy:763
-msgid "Display"
-msgstr "Affichage"
+    # game/screens.rpy:763
+    old "Display"
+    new "Affichage"
 
-# XX## game/screens.rpy:764
-msgid "Window"
-msgstr "Fenêtre"
+    # game/screens.rpy:764
+    old "Window"
+    new "Fenêtre"
 
-# XX## game/screens.rpy:765
-msgid "Fullscreen"
-msgstr "Plein écran"
+    # game/screens.rpy:765
+    old "Fullscreen"
+    new "Plein écran"
 
-# XX## game/screens.rpy:769
-msgid "Rollback Side"
-msgstr "Revenir"
+    # game/screens.rpy:769
+    old "Rollback Side"
+    new "Revenir"
 
-# XX## game/screens.rpy:770
-msgid "Disable"
-msgstr "Désactiver"
+    # game/screens.rpy:770
+    old "Disable"
+    new "Désactiver"
 
-# XX## game/screens.rpy:771
-msgid "Left"
-msgstr "Gauche"
+    # game/screens.rpy:771
+    old "Left"
+    new "Gauche"
 
-# XX## game/screens.rpy:772
-msgid "Right"
-msgstr "Droite"
+    # game/screens.rpy:772
+    old "Right"
+    new "Droite"
 
-# XX## game/screens.rpy:777
-msgid "Unseen Text"
-msgstr "Texte invisible"
+    # game/screens.rpy:777
+    old "Unseen Text"
+    new "Texte invisible"
 
-# XX## game/screens.rpy:778
-msgid "After Choices"
-msgstr "Après les choix"
+    # game/screens.rpy:778
+    old "After Choices"
+    new "Après les choix"
 
-# XX## game/screens.rpy:779
-msgid "Transitions"
-msgstr "Transitions"
+    # game/screens.rpy:779
+    old "Transitions"
+    new "Transitions"
 
-# XX## game/screens.rpy:783
-msgid "Navigation settings"
-msgstr "Paramètres de navigation"
+    # game/screens.rpy:783
+    old "Navigation settings"
+    new "Paramètres de navigation"
 
-# XX## game/screens.rpy:790
-msgid "Language"
-msgstr "Langue"
+    # game/screens.rpy:790
+    old "Language"
+    new "Langue"
 
-# XX## game/screens.rpy:847
-msgid "Text Speed"
-msgstr "Vitesse du texte"
+    # game/screens.rpy:847
+    old "Text Speed"
+    new "Vitesse du texte"
 
-# XX## game/screens.rpy:851
-msgid "Auto-Forward Time"
-msgstr "Délai d'avancement automatique"
+    # game/screens.rpy:851
+    old "Auto-Forward Time"
+    new "Délai d'avancement automatique"
 
-# XX## game/screens.rpy:858
-msgid "Music Volume"
-msgstr "Volume Musique"
+    # game/screens.rpy:858
+    old "Music Volume"
+    new "Volume Musique"
 
-# XX## game/screens.rpy:865
-msgid "Sound Volume"
-msgstr "Volume du son"
+    # game/screens.rpy:865
+    old "Sound Volume"
+    new "Volume du son"
 
-# XX## game/screens.rpy:871
-msgid "Test"
-msgstr "Test"
+    # game/screens.rpy:871
+    old "Test"
+    new "Test"
 
-# XX## game/screens.rpy:875
-msgid "Voice Volume"
-msgstr "Volume des voix"
+    # game/screens.rpy:875
+    old "Voice Volume"
+    new "Volume des voix"
 
-# XX## game/screens.rpy:886
-msgid "Mute All"
-msgstr "Tous muets"
+    # game/screens.rpy:886
+    old "Mute All"
+    new "Tous muets"
 
-# XX## game/screens.rpy:1014
-msgid "The dialogue history is empty."
-msgstr "L’histoire du dialogue est vide."
+    # game/screens.rpy:1014
+    old "The dialogue history is empty."
+    new "L’histoire du dialogue est vide."
 
-# XX## game/screens.rpy:1084
-msgid "Keyboard"
-msgstr "Clavier"
+    # game/screens.rpy:1084
+    old "Keyboard"
+    new "Clavier"
 
-# XX## game/screens.rpy:1085
-msgid "Mouse"
-msgstr "Souris"
+    # game/screens.rpy:1085
+    old "Mouse"
+    new "Souris"
 
-# XX## game/screens.rpy:1088
-msgid "Gamepad"
-msgstr "Manette de jeu"
+    # game/screens.rpy:1088
+    old "Gamepad"
+    new "Manette de jeu"
 
-# XX## game/screens.rpy:1101
-msgid "Enter"
-msgstr "Entrer"
+    # game/screens.rpy:1101
+    old "Enter"
+    new "Entrer"
 
-# XX## game/screens.rpy:1102
-msgid "Advances dialogue and activates the interface."
-msgstr "Permet de faire avancer le dialogue et d'activer l'interface."
+    # game/screens.rpy:1102
+    old "Advances dialogue and activates the interface."
+    new "Permet de faire avancer le dialogue et d'activer l'interface."
 
-# XX## game/screens.rpy:1105
-msgid "Space"
-msgstr "Espace"
+    # game/screens.rpy:1105
+    old "Space"
+    new "Espace"
 
-# XX## game/screens.rpy:1106
-msgid "Advances dialogue without selecting choices."
-msgstr "Fait avancer le dialogue sans sélectionner de choix."
+    # game/screens.rpy:1106
+    old "Advances dialogue without selecting choices."
+    new "Fait avancer le dialogue sans sélectionner de choix."
 
-# XX## game/screens.rpy:1109
-msgid "Arrow Keys"
-msgstr "Touches de direction"
+    # game/screens.rpy:1109
+    old "Arrow Keys"
+    new "Touches de direction"
 
-# XX## game/screens.rpy:1110
-msgid "Navigate the interface."
-msgstr "Naviguer dans l'interface."
+    # game/screens.rpy:1110
+    old "Navigate the interface."
+    new "Naviguer dans l'interface."
 
-# XX## game/screens.rpy:1113
-msgid "Escape"
-msgstr "Echap"
+    # game/screens.rpy:1113
+    old "Escape"
+    new "Echap"
 
-# XX## game/screens.rpy:1114
-msgid "Accesses the game menu."
-msgstr "Accéder au menu du jeu."
+    # game/screens.rpy:1114
+    old "Accesses the game menu."
+    new "Accéder au menu du jeu."
 
-# XX## game/screens.rpy:1117
-msgid "Ctrl"
-msgstr "Ctrl"
+    # game/screens.rpy:1117
+    old "Ctrl"
+    new "Ctrl"
 
-# XX## game/screens.rpy:1118
-msgid "Skips dialogue while held down."
-msgstr "Ignorer le dialogue pendant qu'il est maintenu."
+    # game/screens.rpy:1118
+    old "Skips dialogue while held down."
+    new "Ignorer le dialogue pendant qu'il est maintenu."
 
-# XX## game/screens.rpy:1121
-msgid "Tab"
-msgstr "Tabulation"
+    # game/screens.rpy:1121
+    old "Tab"
+    new "Tabulation"
 
-# XX## game/screens.rpy:1122
-msgid "Toggles dialogue skipping."
-msgstr "Active ou désactive le dialogue."
+    # game/screens.rpy:1122
+    old "Toggles dialogue skipping."
+    new "Active ou désactive le dialogue."
 
-# XX## game/screens.rpy:1125
-msgid "Page Up"
-msgstr "Page haut"
+    # game/screens.rpy:1125
+    old "Page Up"
+    new "Page haut"
 
-# XX## game/screens.rpy:1126
-msgid "Rolls back to earlier dialogue."
-msgstr "Revient au dialogue précédent."
+    # game/screens.rpy:1126
+    old "Rolls back to earlier dialogue."
+    new "Revient au dialogue précédent."
 
-# XX## game/screens.rpy:1129
-msgid "Page Down"
-msgstr "Page bas"
+    # game/screens.rpy:1129
+    old "Page Down"
+    new "Page bas"
 
-# XX## game/screens.rpy:1130
-msgid "Rolls forward to later dialogue."
-msgstr "Passe au dialogue suivant."
+    # game/screens.rpy:1130
+    old "Rolls forward to later dialogue."
+    new "Passe au dialogue suivant."
 
-# XX## game/screens.rpy:1134
-msgid "Hides the user interface."
-msgstr "Masque l'interface utilisateur."
+    # game/screens.rpy:1134
+    old "Hides the user interface."
+    new "Masque l'interface utilisateur."
 
-# XX## game/screens.rpy:1138
-msgid "Takes a screenshot."
-msgstr "Prend une capture d'écran."
+    # game/screens.rpy:1138
+    old "Takes a screenshot."
+    new "Prend une capture d'écran."
 
-# XX## game/screens.rpy:1142
-msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "Active/désactive l'assistance {a=https://www.renpy.org/l/voicing}voix automatique{/a}."
+    # game/screens.rpy:1142
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Active/désactive l'assistance {a=https://www.renpy.org/l/voicing}voix automatique{/a}."
 
-# XX## game/screens.rpy:1148
-msgid "Left Click"
-msgstr "Clic gauche"
+    # game/screens.rpy:1148
+    old "Left Click"
+    new "Clic gauche"
 
-# XX## game/screens.rpy:1152
-msgid "Middle Click"
-msgstr "Click molette"
+    # game/screens.rpy:1152
+    old "Middle Click"
+    new "Click molette"
 
-# XX## game/screens.rpy:1156
-msgid "Right Click"
-msgstr "Clic droit"
+    # game/screens.rpy:1156
+    old "Right Click"
+    new "Clic droit"
 
-# XX## game/screens.rpy:1160
-msgid "Mouse Wheel Up\n"
+    # game/screens.rpy:1160
+    old "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr "Molette de la souris vers le haut\n"
+    new "Molette de la souris vers le haut\n"
 "cliquez sur le côté"
 
-# XX## game/screens.rpy:1164
-msgid "Mouse Wheel Down"
-msgstr "Roulette de la souris vers le bas"
+    # game/screens.rpy:1164
+    old "Mouse Wheel Down"
+    new "Roulette de la souris vers le bas"
 
-# XX## game/screens.rpy:1171
-msgid "Right Trigger\n"
+    # game/screens.rpy:1171
+    old "Right Trigger\n"
 "A/Bottom Button"
-msgstr "Déclencheur droit\n"
+    new "Déclencheur droit\n"
 "A/Bouton en bas"
 
-# XX## game/screens.rpy:1175
-msgid "Left Trigger\n"
+    # game/screens.rpy:1175
+    old "Left Trigger\n"
 "Left Shoulder"
-msgstr "Déclencheur de gauche\n"
+    new "Déclencheur de gauche\n"
 "bouton de gauche"
 
-# XX## game/screens.rpy:1179
-msgid "Right Shoulder"
-msgstr "Bouton de droite"
+    # game/screens.rpy:1179
+    old "Right Shoulder"
+    new "Bouton de droite"
 
-# XX## game/screens.rpy:1184
-msgid "D-Pad, Sticks"
-msgstr "D-Pad, Sticks"
+    # game/screens.rpy:1184
+    old "D-Pad, Sticks"
+    new "D-Pad, Sticks"
 
-# XX## game/screens.rpy:1188
-msgid "Start, Guide"
-msgstr "Démarrer, tutoriel"
+    # game/screens.rpy:1188
+    old "Start, Guide"
+    new "Démarrer, tutoriel"
 
-# XX## game/screens.rpy:1192
-msgid "Y/Top Button"
-msgstr "Y/Bouton du haut"
+    # game/screens.rpy:1192
+    old "Y/Top Button"
+    new "Y/Bouton du haut"
 
-# XX## game/screens.rpy:1195
-msgid "Calibrate"
-msgstr "Calibrer"
+    # game/screens.rpy:1195
+    old "Calibrate"
+    new "Calibrer"
 
-# XX## game/screens.rpy:1307
-msgid "Skipping"
-msgstr "Ignorer"
+    # game/screens.rpy:1307
+    old "Skipping"
+    new "Ignorer"
 

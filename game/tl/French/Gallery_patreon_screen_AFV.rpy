@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,15 +12,17 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 17:12\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
-msgid "                          Supporter's gallery"
-msgstr "                          Galerie des fans"
+translate crowdin strings:
 
-# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
-msgid "                               Supporter's gallery $10"
-msgstr "                               Galerie de fan à 10$"
+    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:22
+    old "                          Supporter's gallery"
+    new "                          Galerie des fans"
 
-# XX## game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
-msgid "            Patreon/Subscribestar Commissions"
-msgstr "            Patreon/Inscription des fans"
+    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:131
+    old "                               Supporter's gallery $10"
+    new "                               Galerie de fan à 10$"
+
+    # game/Patreon_$5_Gallery/Gallery_patreon_screen_AFV.rpy:200
+    old "            Patreon/Subscribestar Commissions"
+    new "            Patreon/Inscription des fans"
 

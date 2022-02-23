@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,7 +12,9 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-02-20 15:04\n"
 
-# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
-msgid "A Family Venture"
-msgstr "Una Venture di famiglia"
+translate crowdin strings:
+
+    # game/options.rpy:15
+    old "A Family Venture"
+    new "Una Venture di famiglia"
 

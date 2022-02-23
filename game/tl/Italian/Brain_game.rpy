@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,27 +12,39 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-02-20 17:50\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# TODO: Translation updated at 2022-02-20 HH:HH
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# game/Brain_game.rpy:599
+translate crowdin map_location_e011db0e:
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# game/Brain_game.rpy:607
+translate crowdin map_location_e011db0e_1:
 
-# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
-msgid "You lose!"
-msgstr "Hai perso!"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
 
-# XX## game/Brain_game.rpy:519
-msgid "YOU WON!!!"
-msgstr "HAI VINTO!!!"
+# game/Brain_game.rpy:613
+translate crowdin map_location_e011db0e_2:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
+
+# game/Brain_game.rpy:619
+translate crowdin map_location_e011db0e_3:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
+
+translate crowdin strings:
+
+    # game/Brain_game.rpy:497
+    old "You lose!"
+    new "Hai perso!"
+
+    # game/Brain_game.rpy:519
+    old "YOU WON!!!"
+    new "HAI VINTO!!!"
 

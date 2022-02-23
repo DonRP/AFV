@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -12,39 +12,41 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-02-20 15:01\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
-msgid " My\n"
+translate crowdin strings:
+
+    # game/Game_screens.rpy:59
+    old " My\n"
 "Room"
-msgstr " Ma\n"
+    new " Ma\n"
 "chambre"
 
-# XX## game/Game_screens.rpy:77
-msgid "Bath"
-msgstr "Baignoire"
+    # game/Game_screens.rpy:77
+    old "Bath"
+    new "Baignoire"
 
-# XX## game/Game_screens.rpy:110
-msgid "City"
-msgstr "Ville "
+    # game/Game_screens.rpy:110
+    old "City"
+    new "Ville "
 
-# XX## game/Game_screens.rpy:125
-msgid "Hallway"
-msgstr "Hall"
+    # game/Game_screens.rpy:125
+    old "Hallway"
+    new "Hall"
 
-# XX## game/Game_screens.rpy:134
-msgid "Class"
-msgstr "Classe"
+    # game/Game_screens.rpy:134
+    old "Class"
+    new "Classe"
 
-# XX## game/Game_screens.rpy:152
-msgid "{size=29} {/size}Girls\n"
+    # game/Game_screens.rpy:152
+    old "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr "{size=29} {/size} Filles\n"
+    new "{size=29} {/size} Filles\n"
 "Casier\n"
 "{size=25} {/size} Salle"
 
-# XX## game/Game_screens.rpy:208
-msgid "Campaign\n"
+    # game/Game_screens.rpy:208
+    old "Campaign\n"
 "   HQ"
-msgstr "Campagne\n"
+    new "Campagne\n"
 "   HQ"
 
