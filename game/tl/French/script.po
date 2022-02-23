@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 20:37\n"
+"PO-Revision-Date: 2022-02-23 19:21\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -338,7 +338,7 @@ msgstr "[L] [ryan]?.... Est-ce que c’est ton visage dans mon cul?"
 
 # game/script.rpy:820 ## translate crowdin myroom_46fa7af0:
 msgid "[L] [ryan]?..."
-msgstr ""
+msgstr "[L] [ryan]?..."
 
 # game/script.rpy:821 ## translate crowdin myroom_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -2370,7 +2370,7 @@ msgstr "[L] [ryan]?.... Est-ce que c’est ton visage dans mon cul?"
 
 # game/script.rpy:3931 ## translate crowdin dishes_46fa7af0:
 msgid "[L] [ryan]?..."
-msgstr ""
+msgstr "[L] [ryan]?..."
 
 # game/script.rpy:3932 ## translate crowdin dishes_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -8066,27 +8066,27 @@ msgstr "[R] Eh bien, oui.... pour te protéger."
 
 # game/script.rpy:8544 ## translate crowdin nightclubbing_de1413fb:
 msgid "[R] I mean.... this is a rough side of town.... there are men of questionable motives here."
-msgstr ""
+msgstr "[R] Je veux dire.... c'est un côté malfamé de la ville ici.... il y a des hommes aux motivations douteuses ici."
 
 # game/script.rpy:8545 ## translate crowdin nightclubbing_9b87946c:
 msgid "[R] What if someone tries to grab you or something?"
-msgstr ""
+msgstr "[R] Que se passe-t-il si quelqu'un essaie de t'attraper ou quelque chose comme ça?"
 
 # game/script.rpy:8548 ## translate crowdin nightclubbing_82484a6f:
 msgid "[M] [ryan]! That's why they have bouncers!"
-msgstr ""
+msgstr "[M] [ryan]! C'est pour ça qu'ils ont des videurs!"
 
 # game/script.rpy:8549 ## translate crowdin nightclubbing_eb2d78e3:
 msgid "[M] Joey gives me an escort both here and back home again."
-msgstr ""
+msgstr "[M] Joey m'escorte pour venir ici et aller à la maison."
 
 # game/script.rpy:8550 ## translate crowdin nightclubbing_a81ef688:
 msgid "[M] I'm perfectly safe here without you!"
-msgstr ""
+msgstr "[M] Je suis parfaitement en sécurité ici sans toi!"
 
 # game/script.rpy:8551 ## translate crowdin nightclubbing_b7e38df1:
 msgid "[R] Hmmm.... well, I guess I didn't think about that."
-msgstr ""
+msgstr "[R] Hmmm.... eh bien, je suppose que je n'ai pas pensé à ça."
 
 # game/script.rpy:8552 ## translate crowdin nightclubbing_a895eda9:
 msgid "[M] Obviously not!"
@@ -8094,31 +8094,31 @@ msgstr "[M] Évidemment pas!"
 
 # game/script.rpy:8553 ## translate crowdin nightclubbing_57cbbc3e:
 msgid "[R] Sorry.... I'm just trying to do what Dad told me to do."
-msgstr ""
+msgstr "[R] Désolé.... J'essaie juste de faire ce que papa m'a dit de faire."
 
 # game/script.rpy:8554 ## translate crowdin nightclubbing_cc316cf0:
 msgid "[M] Oh, did he tell you to perv out on your mom while he's gone?"
-msgstr ""
+msgstr "[M] Oh, t'a-t-il dit de pervertir ta mère pendant qu'il est parti?"
 
 # game/script.rpy:8555 ## translate crowdin nightclubbing_08e0fbe2:
 msgid "[R] No!, just.... he told me to keep my family safe."
-msgstr ""
+msgstr "[R] Non!, juste.... il m'a dit de protéger ma famille."
 
 # game/script.rpy:8556 ## translate crowdin nightclubbing_b1892cb2:
 msgid "[M] Well, I'm perfectly safe, so just.... just.... get your ass home and keep your mouth shut about what I do here."
-msgstr ""
+msgstr "[M] Eh bien, je suis parfaitement en sécurité, donc juste.... juste.... ramène ton cul à la maison et ferme ta bouche à propos de ce que je fais ici."
 
 # game/script.rpy:8557 ## translate crowdin nightclubbing_936aa089:
 msgid "[M] And just to make it clear! This.... this right here.... this isn't normal!.... Sons aren't supposed to see so much skin from their moms!"
-msgstr ""
+msgstr "[M] Et juste pour être clair! Ce.... c'est ici.... ce n'est pas normal !.... Les fils ne sont pas censés voir autant de peau de leurs mères!"
 
 # game/script.rpy:8558 ## translate crowdin nightclubbing_33eade1f:
 msgid "[M] This isn't the kind of example I want to set for your sisters."
-msgstr ""
+msgstr "[M] Ce n'est pas le genre d'exemple que je veux donner à tes sœurs."
 
 # game/script.rpy:8561 ## translate crowdin nightclubbing_e15aa845:
 msgid "[RT] {i}Hmmm.... that's not a bad idea. Maybe they would be a little less prudish if they saw what Mom does on the weekends.{/i}"
-msgstr "[RT] {i}Hmmm.... ce n'est pas une mauvaise idée. Peut-être qu'ils seraient un peu moins prudents s'ils voyaient ce que maman fait le week-end.{/i}"
+msgstr "[RT] {i}Hmmm.... ce n'est pas une mauvaise idée. Peut-être qu'ils seraient un peu moins prudes s'ils voyaient ce que maman fait le week-end.{/i}"
 
 # game/script.rpy:8562 ## translate crowdin nightclubbing_ca2fdc86:
 msgid "[MT] {i}Did he really come here with good intentions?{/i}"
@@ -8130,7 +8130,7 @@ msgstr "[MT] {i}S'il l'a fait, je me sens vraiment mal de lui crier dessus.{/i}"
 
 # game/script.rpy:8564 ## translate crowdin nightclubbing_856a266a:
 msgid "[MT] {i}But if he didn't, I might really have a growing problem on my hands.{/i}"
-msgstr "[MT] {i}Mais s'il ne l'a pas fait, je pourrais vraiment avoir un problème de plus en plus important sur mes mains.{/i}"
+msgstr "[MT] {i}Mais s'il ne l'a pas fait, je pourrais vraiment avoir un problème de plus en plus important sur les mains.{/i}"
 
 # game/script.rpy:8565 ## translate crowdin nightclubbing_a5bec0c4:
 msgid "[RT] {i}Well, I guess I should get one more peek for the road.{/i}"
@@ -8142,15 +8142,15 @@ msgstr "[M] [ryan]! Il est temps pour toi de partir!"
 
 # game/script.rpy:8569 ## translate crowdin nightclubbing_87da0846:
 msgid "[R] Of course, I'm leaving right now."
-msgstr ""
+msgstr "[R] Bien sûr, je pars maintenant."
 
 # game/script.rpy:8570 ## translate crowdin nightclubbing_ff80b6a4:
 msgid "[R] I love you, mom!"
-msgstr ""
+msgstr "[R] Je t'aime, maman!"
 
 # game/script.rpy:8571 ## translate crowdin nightclubbing_50561a35:
 msgid "[M] I know.... I'll see you tomorrow."
-msgstr ""
+msgstr "[M] Je sais.... À demain."
 
 # game/script.rpy:8581 ## translate crowdin nightclubbing_7be50221_1:
 msgid "[MT] {i}This is actually pretty exhilarating!{/i}"
@@ -8606,7 +8606,7 @@ msgstr "Plus profond"
 
 # XX## game/script.rpy:7065
 msgid "Cum"
-msgstr "Ejaculation"
+msgstr "Jouir"
 
 # XX## game/script.rpy:7114
 msgid "Down Megan's throat"
