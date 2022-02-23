@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:53\n"
+"PO-Revision-Date: 2022-02-23 19:21\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -1338,7 +1338,7 @@ msgstr "[R] Ok, je reviendrais bientôt."
 
 # game/UpdateScript0.03.rpy:1093 ## translate crowdin commissionsecondoutfit_53a5049c_1:
 msgid "[S] Hey [ryan], what can I do for you?"
-msgstr ""
+msgstr "[S] Hé [ryan], que puis-je faire pour toi?"
 
 # game/UpdateScript0.03.rpy:1094 ## translate crowdin commissionsecondoutfit_630302f5:
 msgid "[R] I need you to make another cosplay outfit for Lauren."
