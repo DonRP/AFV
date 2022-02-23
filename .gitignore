@@ -149,3 +149,9 @@ game/core
 *.TTF
 *.otf
 *.png
+*.rpa
+renpy
+*.exe
+AFamilyVenture.py
+AFamilyVenture.sh
+game/script_version.txt
