@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-02-24 19:52\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -10742,7 +10742,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:6853 ## translate crowdin election_finale_9843f293:
 msgid "[L] Well, what do you think?"
-msgstr ""
+msgstr "[L] Eh bien, qu'en penses-tu?"
 
 # game/UpdateScript0.07.rpy:6854 ## translate crowdin election_finale_85839557:
 msgid "[MB] Wow, so sexy!"
