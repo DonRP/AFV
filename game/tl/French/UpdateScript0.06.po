@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-02-25 19:48\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -20098,7 +20098,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11477 ## translate crowdin ph_shoot_d8bf5ca9_1:
 msgid "[M] What?"
-msgstr ""
+msgstr "[M] Quoi?"
 
 # game/UpdateScript0.06.rpy:11478 ## translate crowdin ph_shoot_f38778cf_1:
 msgid "[R] What can we do to get the dresscode at school to be more like that?"
@@ -30946,7 +30946,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16230 ## translate crowdin no_panties_shot_d8bf5ca9:
 msgid "[M] What?"
-msgstr ""
+msgstr "[M] Quoi?"
 
 # game/UpdateScript0.06.rpy:16231 ## translate crowdin no_panties_shot_9d240fef:
 msgid "[R] You seemed really anxious to get rid of her."
