@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-23 19:25\n"
+"PO-Revision-Date: 2022-02-26 19:48\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -1354,7 +1354,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1482 ## translate crowdin sidney_bed_sex_e0b12ac0:
 msgid "{i}{b}\"Sidney's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido di Sidney +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:1484 ## translate crowdin sidney_bed_sex_295e0b90:
 msgid "[S] Maybe another night."
@@ -1434,7 +1434,7 @@ msgstr "[S] Beh..."
 
 # game/UpdateScript0.06.rpy:1520 ## translate crowdin sidney_bed_sex_end_0312799c:
 msgid "[S] Goodnight, [ryan]!"
-msgstr ""
+msgstr "[S] Buongiorno, [ryan]!"
 
 # game/UpdateScript0.06.rpy:1521 ## translate crowdin sidney_bed_sex_end_195aac2d:
 msgid "[R] Goodnight, Sidney."
@@ -1442,7 +1442,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1522 ## translate crowdin sidney_bed_sex_end_90fdc666:
 msgid "{i}\"Sidney Libido -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Libido di Sidney -5\"{/i}"
 
 # game/UpdateScript0.06.rpy:1534 ## translate crowdin ph_reading_time_54dc5811:
 msgid "[RT] {i}I'm actually pretty excited to read the next Perry Hotter book... I don't even mind if it takes me the rest of the night.{/i}"
@@ -4566,7 +4566,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3358 ## translate crowdin aunt_angry_61f010f9:
 msgid "{i}{b}\"Aunt Camille's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Affetto della zia Camilla -1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3359 ## translate crowdin aunt_angry_43eb5bf4:
 msgid "{i}{b}\"Aunt Camille's Anger +2\"{/b}{/i}"
@@ -11574,7 +11574,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7247 ## translate crowdin diaz_is_back_3d193ad2:
 msgid "{i}\"DING DONG\"{/i}"
-msgstr ""
+msgstr "{i}\"DING DONG\"{/i}"
 
 # game/UpdateScript0.06.rpy:7248 ## translate crowdin diaz_is_back_6da06363:
 msgid "[RT] {i}Huh?...{/i}"
@@ -11582,7 +11582,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7253 ## translate crowdin diaz_is_back_3d193ad2_1:
 msgid "{i}\"DING DONG\"{/i}"
-msgstr ""
+msgstr "{i}\"DING DONG\"{/i}"
 
 # game/UpdateScript0.06.rpy:7258 ## translate crowdin diaz_is_back_97696480:
 msgid "[RT] {i}Where is that bell coming from?{/i}"
@@ -13642,7 +13642,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8224 ## translate crowdin diaz_lauren_and_mandy_4298156e:
 msgid "[R] Fine."
-msgstr ""
+msgstr "[R] Bene."
 
 # game/UpdateScript0.06.rpy:8225 ## translate crowdin diaz_lauren_and_mandy_72433ed2:
 msgid "[AD] So who's it going to be?"
