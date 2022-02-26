@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-23 19:26\n"
+"PO-Revision-Date: 2022-02-26 19:48\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -11962,7 +11962,7 @@ msgstr "[RT] {i}E Dio mi aiuti, mi sto unendo a loro."
 
 # game/UpdateScript0.07.rpy:7480 ## translate crowdin shared_sex_a30f8075:
 msgid "[RT] {i}What is wrong with me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Cosa c'è di sbagliato in me? {/i}"
 
 # game/UpdateScript0.07.rpy:7482 ## translate crowdin shared_sex_a457972f:
 msgid "[LT] {i}My Goddammed brother!{/i}"
@@ -12310,7 +12310,7 @@ msgstr "[RT] {i}Perché non riesco a fermarmi? Peggiorerò solo le cose! Ma devo
 
 # game/UpdateScript0.07.rpy:7624 ## translate crowdin shared_sex_4298156e:
 msgid "[R] Fine."
-msgstr ""
+msgstr "[R] Bene."
 
 # game/UpdateScript0.07.rpy:7627 ## translate crowdin shared_sex_3216b7fb:
 msgid "[L] Yay!... You can start by licking my pussy."
@@ -15070,7 +15070,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9198 ## translate crowdin new_classroom_afternoon_4298156e:
 msgid "[R] Fine."
-msgstr ""
+msgstr "[R] Bene."
 
 # game/UpdateScript0.07.rpy:9199 ## translate crowdin new_classroom_afternoon_262c68db:
 msgid "[R] I'll see you there."
@@ -24602,7 +24602,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:14362 ## translate crowdin bad_polls_aftermath_4298156e:
 msgid "[R] Fine."
-msgstr ""
+msgstr "[R] Bene."
 
 # game/UpdateScript0.07.rpy:14365 ## translate crowdin bad_polls_aftermath_29895b7e:
 msgid "[L] Don't forget to tell your friends and girlfriends to vote for me!"
