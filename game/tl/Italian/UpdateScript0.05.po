@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-02-26 19:48\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -6450,7 +6450,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3546 ## translate crowdin please_go_work_2009bfdb:
 msgid "[S] What can I do for you?"
-msgstr ""
+msgstr "[S] Cosa posso fare per te?"
 
 # game/UpdateScript0.05.rpy:3547 ## translate crowdin please_go_work_7b1f25d5:
 msgid "[R] You know how you said that if I need help making the Mafia payment fo the week, you'd help out?"
