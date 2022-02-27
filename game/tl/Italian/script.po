@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-23 19:26\n"
+"PO-Revision-Date: 2022-02-27 19:44\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -6154,11 +6154,11 @@ msgstr "[MG] Haha.... bene, resisti ancora un pò."
 
 # game/script.rpy:7050 ## translate crowdin stallbj_79104957:
 msgid "[MG] {i}\"Bleurghch\"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Bleurghch\"{/i}"
 
 # game/script.rpy:7052 ## translate crowdin stallbj_59c8177f:
 msgid "[MG] {i}\"Schhhhluurrrrp\"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Schhhhluurrrrp\"{/i}"
 
 # game/script.rpy:7111 ## translate crowdin megan_cum_ntr_ff929df5:
 msgid "[RT] {i}Oh my God, I'm gonna cum!{/i}"
