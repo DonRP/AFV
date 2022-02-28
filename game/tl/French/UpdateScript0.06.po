@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-25 19:48\n"
+"PO-Revision-Date: 2022-02-28 19:56\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -3214,7 +3214,7 @@ msgstr "{i}'Argent -1'000$'{/i}"
 
 # game/UpdateScript0.06.rpy:2529 ## translate crowdin commission_ph_outfit_0770ae02:
 msgid "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
-msgstr ""
+msgstr "[R] Pourquoi devrais-je être le seul responsable de rembourser la dette chaque semaine, maman peut aussi aider."
 
 # game/UpdateScript0.06.rpy:2530 ## translate crowdin commission_ph_outfit_abce7014:
 msgid "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costumes for Mom and your school girlfriend, than keeping Mom safe from the Mafia, that's up to you."
@@ -3230,7 +3230,7 @@ msgstr "{i}'Argent -1'000$'{/i}"
 
 # game/UpdateScript0.06.rpy:2539 ## translate crowdin commission_ph_outfit_10adc244:
 msgid "[R] So, how long will it take to finish?"
-msgstr ""
+msgstr "[R] Alors, combien de temps faudra-t-il pour le terminer?"
 
 # game/UpdateScript0.06.rpy:2540 ## translate crowdin commission_ph_outfit_7eb87376:
 msgid "[S] Give me a couple days and then I'll have it ready for fitting on Mom and the other girl, what's her name?"
@@ -3246,11 +3246,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2545 ## translate crowdin commission_ph_outfit_49b61397:
 msgid "[R] Awesome, I can't wait!"
-msgstr ""
+msgstr "[R] Génial, j'ai hâte!"
 
 # game/UpdateScript0.06.rpy:2548 ## translate crowdin commission_ph_outfit_3300138e:
 msgid "[S] Haha, I'll bet you can't."
-msgstr ""
+msgstr "[S] Haha, je parie que tu ne peux pas patienter."
 
 # game/UpdateScript0.06.rpy:2549 ## translate crowdin commission_ph_outfit_0e82cd39:
 msgid "[R] What's that supposed to mean?"
@@ -3258,7 +3258,7 @@ msgstr "[R] Qu'est-ce que cela signifie?"
 
 # game/UpdateScript0.06.rpy:2552 ## translate crowdin commission_ph_outfit_9948524c:
 msgid "[S] Oh, I think you know."
-msgstr ""
+msgstr "[S] Oh, je pense que tu sais."
 
 # game/UpdateScript0.06.rpy:2553 ## translate crowdin commission_ph_outfit_80a0c69e:
 msgid "[R] Whatever... I'll just check back in a few days to see if you're done."
@@ -3474,7 +3474,7 @@ msgstr "{i}'Argent -1'000$'{/i}"
 
 # game/UpdateScript0.06.rpy:2646 ## translate crowdin commission_ph_outfit_0770ae02_1:
 msgid "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
-msgstr ""
+msgstr "[R] Pourquoi devrais-je être le seul responsable de rembourser la dette chaque semaine, maman peut aussi aider."
 
 # game/UpdateScript0.06.rpy:2647 ## translate crowdin commission_ph_outfit_199ae1e6:
 msgid "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costumes for Mom and your school girlfriend, then keeping Mom safe from the Mafia, that's up to you."
@@ -3490,7 +3490,7 @@ msgstr "{i}'Argent -1'000$'{/i}"
 
 # game/UpdateScript0.06.rpy:2656 ## translate crowdin commission_ph_outfit_10adc244_1:
 msgid "[R] So, how long will it take to finish?"
-msgstr ""
+msgstr "[R] Alors, combien de temps faudra-t-il pour le terminer?"
 
 # game/UpdateScript0.06.rpy:2657 ## translate crowdin commission_ph_outfit_7eb87376_1:
 msgid "[S] Give me a couple days and then I'll have it ready for fitting on Mom and the other girl, what's her name?"
@@ -3506,19 +3506,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2662 ## translate crowdin commission_ph_outfit_49b61397_1:
 msgid "[R] Awesome, I can't wait!"
-msgstr ""
+msgstr "[R] Génial, j'ai hâte!"
 
 # game/UpdateScript0.06.rpy:2665 ## translate crowdin commission_ph_outfit_3300138e_1:
 msgid "[S] Haha, I'll bet you can't."
-msgstr ""
+msgstr "[S] Haha, je parie que tu ne peux pas patienter."
 
 # game/UpdateScript0.06.rpy:2666 ## translate crowdin commission_ph_outfit_0e82cd39_1:
 msgid "[R] What's that supposed to mean?"
-msgstr ""
+msgstr "[R] Qu'est-ce que cela signifie?"
 
 # game/UpdateScript0.06.rpy:2669 ## translate crowdin commission_ph_outfit_9948524c_1:
 msgid "[S] Oh, I think you know."
-msgstr ""
+msgstr "[S] Oh, je pense que tu sais."
 
 # game/UpdateScript0.06.rpy:2670 ## translate crowdin commission_ph_outfit_80a0c69e_1:
 msgid "[R] Whatever... I'll just check back in a few days to see if you're done."
@@ -4010,7 +4010,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2939 ## translate crowdin update_six_bfasts_971a98df:
 msgid "[S] ..."
-msgstr ""
+msgstr "[S] ..."
 
 # game/UpdateScript0.06.rpy:2940 ## translate crowdin update_six_bfasts_f88ffa27:
 msgid "[M] What?..."
@@ -4162,7 +4162,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3070 ## translate crowdin update_six_bfasts_9993b94e_1:
 msgid "[L] ..."
-msgstr ""
+msgstr "[L] ..."
 
 # game/UpdateScript0.06.rpy:3071 ## translate crowdin update_six_bfasts_84b6ba1d_1:
 msgid "[S] What?... What did you say to Kenzie?"
@@ -4210,7 +4210,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3102 ## translate crowdin update_six_bfasts_971a98df_1:
 msgid "[S] ..."
-msgstr ""
+msgstr "[S] ..."
 
 # game/UpdateScript0.06.rpy:3103 ## translate crowdin update_six_bfasts_f88ffa27_1:
 msgid "[M] What?..."
@@ -8330,7 +8330,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5412 ## translate crowdin truth_sequence_dfe61d0a:
 msgid "[R] Ok..."
-msgstr ""
+msgstr "[R] D'accord..."
 
 # game/UpdateScript0.06.rpy:5413 ## translate crowdin truth_sequence_6ba7803d:
 msgid "[R] When was the last time you masturbated thinking about someone from our family?"
@@ -9698,7 +9698,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6100 ## translate crowdin v_risky_dare_sequence_f6b51e87:
 msgid "[R] Really?"
-msgstr ""
+msgstr "[R] Vraiment?"
 
 # game/UpdateScript0.06.rpy:6101 ## translate crowdin v_risky_dare_sequence_d8597973:
 msgid "[MD] Yeah... I was hoping you were going to pick truth so I could ask you, but you didn't, so I want to ask you this question outside of our game."
@@ -9958,7 +9958,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6203 ## translate crowdin v_risky_dare_sequence_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.06.rpy:6204 ## translate crowdin v_risky_dare_sequence_1d35d66e:
 msgid "[MD] Just keep rubbing until you cum."
@@ -11310,7 +11310,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7095 ## translate crowdin diaz_is_back_e4c22b0d:
 msgid "[R] Shit!.... I know who that is..."
-msgstr ""
+msgstr "[R] Merde!.... Je sais qui c'est..."
 
 # game/UpdateScript0.06.rpy:7098 ## translate crowdin diaz_is_back_dd6c6b07:
 msgid "[R] Looks like Sidney already went running."
@@ -11458,7 +11458,7 @@ msgstr "[AD] Alors, qu'est-ce que ça va être cette semaine?"
 
 # game/UpdateScript0.06.rpy:7191 ## translate crowdin diaz_is_back_9686b8ae:
 msgid "[R] Here, just take your money and get out of here."
-msgstr ""
+msgstr "[R] Ici, prends ton argent et sors d'ici."
 
 # game/UpdateScript0.06.rpy:7192 ## translate crowdin diaz_is_back_136da53b_1:
 msgid "{i}\"Money -$1,000\"{/i}"
@@ -11478,7 +11478,7 @@ msgstr "[AD] Pour l'instant, permets-moi de dire que j'espère que tu apprécier
 
 # game/UpdateScript0.06.rpy:7201 ## translate crowdin diaz_is_back_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScript0.06.rpy:7202 ## translate crowdin diaz_is_back_fc9bc4de:
 msgid "[AD] Well?"
@@ -11502,7 +11502,7 @@ msgstr "[L] {i}(En criant){/i} [ryan]! C'était ce que je crois?"
 
 # game/UpdateScript0.06.rpy:7210 ## translate crowdin diaz_is_back_1913bb5b:
 msgid "[R] Yeah! But she's gone now!"
-msgstr ""
+msgstr "[R] Ouais! Mais elle est partie maintenant!"
 
 # game/UpdateScript0.06.rpy:7211 ## translate crowdin diaz_is_back_7c8ceb66:
 msgid "[MD] You mean you paid her!?"
@@ -11522,7 +11522,7 @@ msgstr "[R] Qu'est-ce que c'est?"
 
 # game/UpdateScript0.06.rpy:7221 ## translate crowdin diaz_is_back_04846c04:
 msgid "[R] Uuuuugghhh.... I don't have enough money this week."
-msgstr ""
+msgstr "[R] Uuuuugghhh.... Je n'ai pas assez d'argent cette semaine."
 
 # game/UpdateScript0.06.rpy:7222 ## translate crowdin diaz_is_back_1eac8f11:
 msgid "[AD] You've got to learn to manage your money better!"
@@ -11538,7 +11538,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7226 ## translate crowdin diaz_is_back_2b0c2172:
 msgid "[R] I need my money for other things this week."
-msgstr ""
+msgstr "[R] J'ai besoin de mon argent pour d'autres choses cette semaine."
 
 # game/UpdateScript0.06.rpy:7227 ## translate crowdin diaz_is_back_19ba75a2:
 msgid "[R] I'm just going to have to let Lauren and Mandy take one for the team."
@@ -15630,7 +15630,7 @@ msgstr "[ST] {i}Je pourrais trouver quelque chose de vraiment utile dans son bur
 
 # game/UpdateScript0.06.rpy:9101 ## translate crowdin sid_sex_event_56b422f2:
 msgid "[S] Ok..."
-msgstr ""
+msgstr "[S] Ok..."
 
 # game/UpdateScript0.06.rpy:9102 ## translate crowdin sid_sex_event_593c60b7:
 msgid "[A] Yay!"
@@ -26434,7 +26434,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14195 ## translate crowdin megan_tied_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.06.rpy:14196 ## translate crowdin megan_tied_85bbd02b:
 msgid "[M] I think she said, \"How's this?\""
@@ -26506,7 +26506,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14238 ## translate crowdin megan_tied_4881927b_1:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.06.rpy:14239 ## translate crowdin megan_tied_85bbd02b_1:
 msgid "[M] I think she said, \"How's this?\""
@@ -32586,7 +32586,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16947 ## translate crowdin wr_sex_event_971a98df:
 msgid "[S] ..."
-msgstr ""
+msgstr "[S] ..."
 
 # game/UpdateScript0.06.rpy:16948 ## translate crowdin wr_sex_event_521e8ae4:
 msgid "[R] Who, Sidney?..."
@@ -32594,7 +32594,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16949 ## translate crowdin wr_sex_event_971a98df_1:
 msgid "[S] ..."
-msgstr ""
+msgstr "[S] ..."
 
 # game/UpdateScript0.06.rpy:16952 ## translate crowdin wr_sex_event_9b624be6:
 msgid "[S] Let's just give this little guy some attention!"
@@ -32786,7 +32786,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17106 ## translate crowdin wr_sex_event_f3f04389:
 msgid "[S] Yeah?"
-msgstr ""
+msgstr "[S] Ouais?"
 
 # game/UpdateScript0.06.rpy:17109 ## translate crowdin wr_sex_event_114e2a15:
 msgid "[R] How would you feel about trying some butt stuff?"
@@ -32854,7 +32854,7 @@ msgstr "[R] Non... ce n'est rien."
 
 # game/UpdateScript0.06.rpy:17132 ## translate crowdin wr_sex_event_56b422f2:
 msgid "[S] Ok..."
-msgstr ""
+msgstr "[S] Ok..."
 
 # game/UpdateScript0.06.rpy:17133 ## translate crowdin wr_sex_event_d98009dc:
 msgid "[R] Let's just have some fun."
@@ -33234,7 +33234,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17337 ## translate crowdin park_sex_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.06.rpy:17338 ## translate crowdin park_sex_82b15f45:
 msgid "[S] Haha... every stride I take forces more cum out of my pussy, and into my shorts!"
