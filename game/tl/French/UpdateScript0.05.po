@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-02-28 19:56\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -5710,7 +5710,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3227 ## translate crowdin fix_sink_4881927b_1:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.05.rpy:3228 ## translate crowdin fix_sink_27275d3e:
 msgid "[M] [ryan]!?...."
@@ -10390,7 +10390,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5934 ## translate crowdin first_club_cum_f3f04389:
 msgid "[S] Yeah?"
-msgstr ""
+msgstr "[S] Ouais?"
 
 # game/UpdateScript0.05.rpy:5935 ## translate crowdin first_club_cum_0fd11004:
 msgid "[R] Why the hell are you dressed like one of the waitresses?"
@@ -10498,7 +10498,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5977 ## translate crowdin first_club_cum_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScript0.05.rpy:5978 ## translate crowdin first_club_cum_aab984da:
 msgid "[S] Because I'm starting to feel the same way as you."
