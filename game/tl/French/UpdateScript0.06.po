@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 19:56\n"
+"PO-Revision-Date: 2022-03-01 20:06\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -1690,7 +1690,7 @@ msgstr "[RT] {i}De plus, je suis sûr qu'elle va bien...{/i}"
 
 # game/UpdateScript0.06.rpy:1629 ## translate crowdin ph_reading_time_42d71c1f:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.06.rpy:1630 ## translate crowdin ph_reading_time_22184bc5:
 msgid "[RT] {i}Back to my book I guess.{/i}"
@@ -1962,7 +1962,7 @@ msgstr "[RT] {i}De plus, je suis sûr qu'elle va bien...{/i}"
 
 # game/UpdateScript0.06.rpy:1746 ## translate crowdin ph_reading_time_42d71c1f_1:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.06.rpy:1747 ## translate crowdin ph_reading_time_22184bc5_1:
 msgid "[RT] {i}Back to my book I guess.{/i}"
@@ -2242,7 +2242,7 @@ msgstr "[RT] {i}Pas moyen!... Elle est super gênée.{/i}"
 
 # game/UpdateScript0.06.rpy:1875 ## translate crowdin ph_reading_time_42d71c1f_2:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.06.rpy:1876 ## translate crowdin ph_reading_time_10ba1431:
 msgid "[RT] {i}Back to my book, I guess.{/i}"
@@ -2514,7 +2514,7 @@ msgstr "[RT] {i}Pas moyen!... Elle est super gênée.{/i}"
 
 # game/UpdateScript0.06.rpy:1995 ## translate crowdin ph_reading_time_42d71c1f_3:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.06.rpy:1996 ## translate crowdin ph_reading_time_10ba1431_1:
 msgid "[RT] {i}Back to my book, I guess.{/i}"
@@ -2794,7 +2794,7 @@ msgstr "[RT] {i}Pas moyen!... Elle est super gênée.{/i}"
 
 # game/UpdateScript0.06.rpy:2128 ## translate crowdin ph_reading_time_42d71c1f_4:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.06.rpy:2129 ## translate crowdin ph_reading_time_22184bc5_2:
 msgid "[RT] {i}Back to my book I guess.{/i}"
@@ -3338,7 +3338,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2598 ## translate crowdin commission_ph_outfit_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScript0.06.rpy:2599 ## translate crowdin commission_ph_outfit_9cf0a40c:
 msgid "[R] I can't believe you're the same sister that I grew up with."
@@ -3666,7 +3666,7 @@ msgstr "[MT] {i}Je me sens encore plus exposée que sur la scène du stripclub.{
 
 # game/UpdateScript0.06.rpy:2727 ## translate crowdin ph_cosplayfitting_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScript0.06.rpy:2728 ## translate crowdin ph_cosplayfitting_38b5e872:
 msgid "[R] Another win for Sidney!"
@@ -20014,7 +20014,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11422 ## translate crowdin ph_shoot_1957202a:
 msgid "[R] Perfect!"
-msgstr ""
+msgstr "[R] Parfait!"
 
 # game/UpdateScript0.06.rpy:11427 ## translate crowdin ph_shoot_2e5e3198:
 msgid "[R] That looks pretty evil, but sexy at the same time."
@@ -20070,7 +20070,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11454 ## translate crowdin ph_shoot_1957202a_1:
 msgid "[R] Perfect!"
-msgstr ""
+msgstr "[R] Parfait!"
 
 # game/UpdateScript0.06.rpy:11459 ## translate crowdin ph_shoot_4e7048c2:
 msgid "[R] And last but not least, the skirt."
@@ -20094,7 +20094,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11476 ## translate crowdin ph_shoot_b639dc18_1:
 msgid "[R] Hey, Mom!"
-msgstr ""
+msgstr "[R] Hé, maman!"
 
 # game/UpdateScript0.06.rpy:11477 ## translate crowdin ph_shoot_d8bf5ca9_1:
 msgid "[M] What?"
@@ -20166,7 +20166,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11502 ## translate crowdin ph_shoot_1957202a_2:
 msgid "[R] Perfect!"
-msgstr ""
+msgstr "[R] Parfait!"
 
 # game/UpdateScript0.06.rpy:11507 ## translate crowdin ph_shoot_6063750a:
 msgid "[R] Now, let's take some shots like you're flying on the broom."
@@ -20318,7 +20318,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11591 ## translate crowdin ph_shoot_6a63bb3b:
 msgid "[R] That's great!"
-msgstr ""
+msgstr "[R] C'est génial!"
 
 # game/UpdateScript0.06.rpy:11592 ## translate crowdin ph_shoot_3af8bce5:
 msgid "[R] Now you've had enough! It's time to stop this wicked witch."
@@ -27878,7 +27878,7 @@ msgstr "[MT] {i}Oh, putain !... Je n'ai pas aimé ce stupide livre '37 Nuances d
 
 # game/UpdateScript0.06.rpy:14825 ## translate crowdin ball_gagged_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScript0.06.rpy:14830 ## translate crowdin ball_gagged_12c43c6b:
 msgid "[R] Now, Mom... it's time for you to pull down your dress, and go pose in that chair with a triumphant look on your face."
@@ -28050,7 +28050,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14903 ## translate crowdin ball_gagged_ad651ef2:
 msgid "[R] Fuck society."
-msgstr ""
+msgstr "[R] Merde la société."
 
 # game/UpdateScript0.06.rpy:14904 ## translate crowdin ball_gagged_f9aa3efd:
 msgid "[R] You had a dream... You needed to pay for it!"
@@ -28218,7 +28218,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14975 ## translate crowdin ball_gagged_ad651ef2_1:
 msgid "[R] Fuck society."
-msgstr ""
+msgstr "[R] Merde la société."
 
 # game/UpdateScript0.06.rpy:14976 ## translate crowdin ball_gagged_f9aa3efd_1:
 msgid "[R] You had a dream... You needed to pay for it!"
@@ -28490,7 +28490,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15104 ## translate crowdin ball_gagged_ad651ef2_2:
 msgid "[R] Fuck society."
-msgstr ""
+msgstr "[R] Merde la société."
 
 # game/UpdateScript0.06.rpy:15105 ## translate crowdin ball_gagged_f9aa3efd_2:
 msgid "[R] You had a dream... You needed to pay for it!"
@@ -28662,7 +28662,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15177 ## translate crowdin ball_gagged_ad651ef2_3:
 msgid "[R] Fuck society."
-msgstr ""
+msgstr "[R] Merde la société."
 
 # game/UpdateScript0.06.rpy:15178 ## translate crowdin ball_gagged_f9aa3efd_3:
 msgid "[R] You had a dream... You needed to pay for it!"
@@ -30862,7 +30862,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16194 ## translate crowdin no_panties_shot_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScript0.06.rpy:16199 ## translate crowdin no_panties_shot_d7fd97e1:
 msgid "[R] And that's it!"
@@ -31690,7 +31690,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16520 ## translate crowdin no_panties_shot_5f1e8af6_1:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScript0.06.rpy:16525 ## translate crowdin no_panties_shot_d7fd97e1_1:
 msgid "[R] And that's it!"
@@ -32134,7 +32134,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16719 ## translate crowdin no_panties_shot_16da2b5e_1:
 msgid "[R] Thank you!"
-msgstr ""
+msgstr "[R] Merci!"
 
 # game/UpdateScript0.06.rpy:16720 ## translate crowdin no_panties_shot_2fcffa99:
 msgid "[MG] You bet! And remember what I said about [mom_name]... I'm still serious about it."
