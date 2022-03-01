@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 19:56\n"
+"PO-Revision-Date: 2022-03-01 20:06\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -70,27 +70,27 @@ msgstr "[RT] {i}Eh bien, la chance favorise les audacieux.... ici, rien ne va.{/
 
 # game/UpdateScript0.04.rpy:366 ## translate crowdin get_sidney_modeling_f3d0cd80:
 msgid "[R] SIDNEY! What the fuck are you doing!!?"
-msgstr ""
+msgstr "[R] SIDNEY! Qu'est-ce que tu fais, bordel!!?"
 
 # game/UpdateScript0.04.rpy:369 ## translate crowdin get_sidney_modeling_7cfa3d8f:
 msgid "[S] AAAAaaaahhhhhhhhhh.... holy shit!!"
-msgstr ""
+msgstr "[S] AAAAaaaahhhhhhhhhhhh.... putain de merde!!"
 
 # game/UpdateScript0.04.rpy:372 ## translate crowdin get_sidney_modeling_a272a979:
 msgid "[R] Sidney?.... Why were you touching me?"
-msgstr ""
+msgstr "[R] Sidney? .... Pourquoi me touches-tu?"
 
 # game/UpdateScript0.04.rpy:373 ## translate crowdin get_sidney_modeling_9bdd82ac:
 msgid "[R] Why are your pants off?"
-msgstr ""
+msgstr "[R] Pourquoi ton pantalon est-il baissé?"
 
 # game/UpdateScript0.04.rpy:374 ## translate crowdin get_sidney_modeling_6d42abb1:
 msgid "[R] Have you been taking advantage of me in my sleep?..."
-msgstr ""
+msgstr "[R] As-tu profité de moi dans mon sommeil?..."
 
 # game/UpdateScript0.04.rpy:375 ## translate crowdin get_sidney_modeling_4b6b42e2:
 msgid "[S] I..."
-msgstr ""
+msgstr "[S] Je..."
 
 # game/UpdateScript0.04.rpy:376 ## translate crowdin get_sidney_modeling_b0d15333:
 msgid "[S] Well..."
@@ -98,19 +98,19 @@ msgstr "[S] Bien..."
 
 # game/UpdateScript0.04.rpy:377 ## translate crowdin get_sidney_modeling_6abe79fd:
 msgid "[S] Kind of..."
-msgstr ""
+msgstr "[S] En quelque sorte..."
 
 # game/UpdateScript0.04.rpy:378 ## translate crowdin get_sidney_modeling_83608f82:
 msgid "[S] It's a long story."
-msgstr ""
+msgstr "[S] C'est une longue histoire."
 
 # game/UpdateScript0.04.rpy:379 ## translate crowdin get_sidney_modeling_7f0624ec:
 msgid "[R] Well, let's hear it."
-msgstr ""
+msgstr "[R] Eh bien, écoutons-la."
 
 # game/UpdateScript0.04.rpy:380 ## translate crowdin get_sidney_modeling_e2acb40e:
 msgid "[S] .... Well, ever since I've been home.... I started having this problem..."
-msgstr ""
+msgstr "[S] .... Depuis que je suis à la maison.... J'ai commencé à avoir ce problème..."
 
 # game/UpdateScript0.04.rpy:383 ## translate crowdin get_sidney_modeling_fe06198e:
 msgid " {i}\"5 to 10 minutes later.\"{/i}"
@@ -118,27 +118,27 @@ msgstr " {i}'5 à 10 minutes plus tard'{/i}"
 
 # game/UpdateScript0.04.rpy:386 ## translate crowdin get_sidney_modeling_0ea4eb84:
 msgid "[R] Ok.... so you're telling me that even though you started waking up, you didn't stop because of curiosity..."
-msgstr ""
+msgstr "[R] D'accord.... alors tu me dis que même si tu as commencé à te réveiller, tu ne t'es pas arrêtée par curiosité..."
 
 # game/UpdateScript0.04.rpy:387 ## translate crowdin get_sidney_modeling_47ab3632:
 msgid "[S] I guess.... I mean I already had your penis in my hand.... and I've never seen or touched a penis that big..."
-msgstr ""
+msgstr "[S] Je suppose.... Je veux dire que j'avais déjà ton pénis dans ma main.... et je n'ai jamais vu ou pu toucher un pénis aussi gros..."
 
 # game/UpdateScript0.04.rpy:388 ## translate crowdin get_sidney_modeling_18efc3f4:
 msgid "[S] Plus you said you take melatonin at night.... so you sleep really deep..."
-msgstr ""
+msgstr "[S] Et tu m'avais dit que tu prenais de la mélatonine la nuit.... donc tu dors très profondément..."
 
 # game/UpdateScript0.04.rpy:389 ## translate crowdin get_sidney_modeling_51154474:
 msgid "[S] Curiosity got the better of me..."
-msgstr ""
+msgstr "[S] La curiosité a pris le dessus..."
 
 # game/UpdateScript0.04.rpy:390 ## translate crowdin get_sidney_modeling_cada8d71:
 msgid "[R] Did I ever cum?"
-msgstr ""
+msgstr "[R] Ai-je déjà jouis?"
 
 # game/UpdateScript0.04.rpy:391 ## translate crowdin get_sidney_modeling_c9638555:
 msgid "[S] Oh, no.... well.... maybe once or twice."
-msgstr ""
+msgstr "[S] Oh, non.... et bien.... peut-être une ou deux fois."
 
 # game/UpdateScript0.04.rpy:392 ## translate crowdin get_sidney_modeling_4e2048af:
 msgid "[RT] {i}Hah!.... Yeah, right.... {/i}"
@@ -146,23 +146,23 @@ msgstr "[RT] {i}Hah!.... Oui, d'accord.... {/i}"
 
 # game/UpdateScript0.04.rpy:393 ## translate crowdin get_sidney_modeling_11e2611d:
 msgid "[S] But I can't stress enough.... that it was just curiosity..."
-msgstr ""
+msgstr "[S] Mais je veux insister que.... que c'était juste de la curiosité..."
 
 # game/UpdateScript0.04.rpy:394 ## translate crowdin get_sidney_modeling_7adfbfb6:
 msgid "[S] It's not because I have any unnatural feelings for you or anything..."
-msgstr ""
+msgstr "[S] Ce n'est pas parce que j'ai des sentiments contre nature pour toi ou quoi que ce soit..."
 
 # game/UpdateScript0.04.rpy:395 ## translate crowdin get_sidney_modeling_9bb72bb3:
 msgid "[S] I'd just never seen a penis cum up close before..."
-msgstr ""
+msgstr "[S] Je n'avais jamais vu un pénis jouir de près auparavant..."
 
 # game/UpdateScript0.04.rpy:396 ## translate crowdin get_sidney_modeling_34cf2732:
 msgid "[R] So, it was just curiosity?"
-msgstr ""
+msgstr "[R] Donc, c'était juste de la curiosité?"
 
 # game/UpdateScript0.04.rpy:397 ## translate crowdin get_sidney_modeling_1ff911d8:
 msgid "[S] Yes.... exactly..."
-msgstr ""
+msgstr "[S] Oui.... exactement..."
 
 # game/UpdateScript0.04.rpy:398 ## translate crowdin get_sidney_modeling_ca6527f8:
 msgid "[RT] {i}Hmmmm.... I can see this playing out one of two ways.... {/i}"
@@ -178,75 +178,75 @@ msgstr "[RT] {i}Je pourrais être plus dominant et utiliser le levier de dire à
 
 # game/UpdateScript0.04.rpy:405 ## translate crowdin get_sidney_modeling_6e39b793:
 msgid "[R] I mean.... you've been taking advantage of me without my consent."
-msgstr ""
+msgstr "[R] Je veux dire.... tu as profité de moi sans mon consentement."
 
 # game/UpdateScript0.04.rpy:406 ## translate crowdin get_sidney_modeling_b53c0c65:
 msgid "[S] No.... I mean.... I didn't mean to..."
-msgstr ""
+msgstr "[S] Non.... Je veux dire.... Je ne le voulais pas..."
 
 # game/UpdateScript0.04.rpy:407 ## translate crowdin get_sidney_modeling_257aded6:
 msgid "[R] I mean how do we ever go back to the way things were?..."
-msgstr ""
+msgstr "[R] Je veux dire comment pouvons-nous jamais revenir à la façon dont les choses étaient?..."
 
 # game/UpdateScript0.04.rpy:408 ## translate crowdin get_sidney_modeling_1830b3a9:
 msgid "[R] It's like you have something over me..."
-msgstr ""
+msgstr "[R] C'est comme si tu avais le béguin pour moi..."
 
 # game/UpdateScript0.04.rpy:409 ## translate crowdin get_sidney_modeling_01907a40:
 msgid "[S] [ryan], .... it's not like that.... I don't think of you like.... uhhhhh..."
-msgstr ""
+msgstr "[S] [ryan], .... ce n'est pas comme ça.... Je ne pense pas à toi comme ça.... ohhhhhh..."
 
 # game/UpdateScript0.04.rpy:410 ## translate crowdin get_sidney_modeling_7b523387:
 msgid "[R] A sex toy?.... To just use whenever you want?"
-msgstr ""
+msgstr "[R] Un jouet sexuel?.... À utiliser quand tu le souhaites?"
 
 # game/UpdateScript0.04.rpy:411 ## translate crowdin get_sidney_modeling_b89b07d3:
 msgid "[S] No, of course not..."
-msgstr ""
+msgstr "[S] Non, bien sûr que non..."
 
 # game/UpdateScript0.04.rpy:412 ## translate crowdin get_sidney_modeling_32378bc3:
 msgid "[S] What can I do to make it up to you?..."
-msgstr ""
+msgstr "[S] Que puis-je faire pour toi pour me rattraper?..."
 
 # game/UpdateScript0.04.rpy:413 ## translate crowdin get_sidney_modeling_684d1eb6:
 msgid "[R] I don't know.... like I said.... I feel like your toy.... not like your brother."
-msgstr ""
+msgstr "[R] Je ne sais pas.... comme je l'ai dit.... Je me sens comme ton jouet.... pas comme ton frère."
 
 # game/UpdateScript0.04.rpy:414 ## translate crowdin get_sidney_modeling_a977a121:
 msgid "[S] Well, there's got to be a way to get us back on equal ground..."
-msgstr ""
+msgstr "[S] Eh bien, il doit y avoir un moyen de nous ramener sur un pied d'égalité..."
 
 # game/UpdateScript0.04.rpy:415 ## translate crowdin get_sidney_modeling_3f5746ae:
 msgid "[S] Just tell me what I can do."
-msgstr ""
+msgstr "[S] Dis-moi simplement ce que je peux faire."
 
 # game/UpdateScript0.04.rpy:416 ## translate crowdin get_sidney_modeling_d4c72802:
 msgid "[R] Hmmmmmm..."
-msgstr ""
+msgstr "[R] Hmmmmmm..."
 
 # game/UpdateScript0.04.rpy:419 ## translate crowdin get_sidney_modeling_9f743dde:
 msgid "[R] What if you gave me a blowjob?"
-msgstr ""
+msgstr "[R] Et si tu me faisais une fellation?"
 
 # game/UpdateScript0.04.rpy:420 ## translate crowdin get_sidney_modeling_f878e6fa:
 msgid "[S] What!?.... Are you serious!?"
-msgstr ""
+msgstr "[S] Quoi!? ... Es-tu sérieux!?"
 
 # game/UpdateScript0.04.rpy:421 ## translate crowdin get_sidney_modeling_fb850a4e:
 msgid "[R] Yeah.... I mean, think about it."
-msgstr ""
+msgstr "[R] Ouais... je veux dire, réfléchis-y."
 
 # game/UpdateScript0.04.rpy:422 ## translate crowdin get_sidney_modeling_ac0d4b77:
 msgid "[R] You've been using me for your own perverted curiosity and gratification..."
-msgstr ""
+msgstr "[R] Tu m'utilises pour ta propre curiosité pervertie et ta gratification..."
 
 # game/UpdateScript0.04.rpy:423 ## translate crowdin get_sidney_modeling_9449b073:
 msgid "[R] Wouldn't it make sense for me to get to use you for mine?"
-msgstr ""
+msgstr "[R] N'aurait-il pas de sens pour moi de t'utiliser pour le mien?"
 
 # game/UpdateScript0.04.rpy:424 ## translate crowdin get_sidney_modeling_949a4fa7:
 msgid "[S] But.... but.... I'm your sister!"
-msgstr ""
+msgstr "[S] Mais ... mais ... Je suis ta sœur!"
 
 # game/UpdateScript0.04.rpy:425 ## translate crowdin get_sidney_modeling_f13a460a:
 msgid "[R] That didn't stop you before."
@@ -8298,7 +8298,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4321 ## translate crowdin wrshoot_1957202a:
 msgid "[R] Perfect!"
-msgstr ""
+msgstr "[R] Parfait!"
 
 # game/UpdateScript0.04.rpy:4326 ## translate crowdin wrshoot_9ad2f55e:
 msgid "[R] Ok! How you doing? Are you ready to move onto the good stuff?"
@@ -8930,7 +8930,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4604 ## translate crowdin wrshoot_14afbb3f:
 msgid "[R] Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-msgstr ""
+msgstr "[R] Oui, mais celles que nous avons sont vraiment bonnes, et la seule façon de les améliorer, c'est si je te poussais à faire quelque chose avec lequel tu pourrais ne pas être à l'aise."
 
 # game/UpdateScript0.04.rpy:4605 ## translate crowdin wrshoot_edd67c17:
 msgid "[S] Oh, [ryan]! Lauren was right about you being so professional."
@@ -9742,7 +9742,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4943 ## translate crowdin removeshorts_14afbb3f:
 msgid "[R] Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-msgstr ""
+msgstr "[R] Oui, mais celles que nous avons sont vraiment bonnes, et la seule façon de les améliorer, c'est si je te poussais à faire quelque chose avec lequel tu pourrais ne pas être à l'aise."
 
 # game/UpdateScript0.04.rpy:4944 ## translate crowdin removeshorts_edd67c17:
 msgid "[S] Oh, [ryan]! Lauren was right about you being so professional."
@@ -10106,7 +10106,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5100 ## translate crowdin removeshirt_ca7e84a9_1:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Pourquoi pas?"
 
 # game/UpdateScript0.04.rpy:5101 ## translate crowdin removeshirt_f86154c7:
 msgid "[S] Fuck no! That's why not!"
@@ -10322,7 +10322,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5179 ## translate crowdin removeshirt_14afbb3f:
 msgid "[R] Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-msgstr ""
+msgstr "[R] Oui, mais celles que nous avons sont vraiment bonnes, et la seule façon de les améliorer, c'est si je te poussais à faire quelque chose avec lequel tu pourrais ne pas être à l'aise."
 
 # game/UpdateScript0.04.rpy:5180 ## translate crowdin removeshirt_edd67c17:
 msgid "[S] Oh, [ryan]! Lauren was right about you being so professional."
@@ -10370,7 +10370,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5199 ## translate crowdin removeshirt_14afbb3f_1:
 msgid "[R] Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-msgstr ""
+msgstr "[R] Oui, mais celles que nous avons sont vraiment bonnes, et la seule façon de les améliorer, c'est si je te poussais à faire quelque chose avec lequel tu pourrais ne pas être à l'aise."
 
 # game/UpdateScript0.04.rpy:5200 ## translate crowdin removeshirt_edd67c17_1:
 msgid "[S] Oh, [ryan]! Lauren was right about you being so professional."
@@ -10630,7 +10630,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5314 ## translate crowdin showsidneytitties_ca7e84a9:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Pourquoi pas?"
 
 # game/UpdateScript0.04.rpy:5315 ## translate crowdin showsidneytitties_5175f823:
 msgid "[S] Most girls need a little foreplay."
@@ -10690,7 +10690,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5337 ## translate crowdin showsidneytitties_ca7e84a9_1:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Pourquoi pas?"
 
 # game/UpdateScript0.04.rpy:5338 ## translate crowdin showsidneytitties_f86154c7:
 msgid "[S] Fuck no! That's why not!"
@@ -10906,7 +10906,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5416 ## translate crowdin showsidneytitties_14afbb3f:
 msgid "[R] Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-msgstr ""
+msgstr "[R] Oui, mais celles que nous avons sont vraiment bonnes, et la seule façon de les améliorer, c'est si je te poussais à faire quelque chose avec lequel tu pourrais ne pas être à l'aise."
 
 # game/UpdateScript0.04.rpy:5417 ## translate crowdin showsidneytitties_edd67c17:
 msgid "[S] Oh, [ryan]! Lauren was right about you being so professional."
@@ -11126,7 +11126,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5535 ## translate crowdin rippedundies_701481c5:
 msgid "[R] What's wrong with you?"
-msgstr ""
+msgstr "[R] Qu'est-ce qui ne va pas chez toi?"
 
 # game/UpdateScript0.04.rpy:5536 ## translate crowdin rippedundies_9b8a2b97:
 msgid "[S] Oh, shut up!"
@@ -11222,7 +11222,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5578 ## translate crowdin rippedundies_ca7e84a9:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Pourquoi pas?"
 
 # game/UpdateScript0.04.rpy:5579 ## translate crowdin rippedundies_5175f823:
 msgid "[S] Most girls need a little foreplay."
@@ -11278,7 +11278,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5594 ## translate crowdin rippedundies_ca7e84a9_1:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Pourquoi pas?"
 
 # game/UpdateScript0.04.rpy:5595 ## translate crowdin rippedundies_f86154c7:
 msgid "[S] Fuck no! That's why not!"
