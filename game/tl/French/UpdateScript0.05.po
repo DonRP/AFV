@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 19:56\n"
+"PO-Revision-Date: 2022-03-01 20:06\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -4610,7 +4610,7 @@ msgstr "[RT] {i}Et ce câlin me rend si heureux!{/i}"
 
 # game/UpdateScript0.05.rpy:2746 ## translate crowdin reward_for_payment_42d71c1f:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScript0.05.rpy:2747 ## translate crowdin reward_for_payment_5314b939:
 msgid "[RT] {i}Maybe a little bit too happy!{/i}"
@@ -5846,7 +5846,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3280 ## translate crowdin fix_sink_b2504771_1:
 msgid "[R] What do you mean?"
-msgstr ""
+msgstr "[R] Que veux-tu dire?"
 
 # game/UpdateScript0.05.rpy:3281 ## translate crowdin fix_sink_0d7b3787_1:
 msgid "[M] The sink started leaking again."
