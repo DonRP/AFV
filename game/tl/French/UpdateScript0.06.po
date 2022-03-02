@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-01 20:06\n"
+"PO-Revision-Date: 2022-03-02 20:05\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -938,19 +938,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1198 ## translate crowdin sidney_bed_sex_9fe5fe24:
 msgid "[S] So, should I be on the bottom or top?"
-msgstr ""
+msgstr "[S] Alors, devrais-je être au dessus ou dessous?"
 
 # game/UpdateScript0.06.rpy:1199 ## translate crowdin sidney_bed_sex_c109a7fe:
 msgid "[S] Ouch! You kneeled on my hand..."
-msgstr ""
+msgstr "[S] Aïe! Tu t'es agenouillé sur ma main..."
 
 # game/UpdateScript0.06.rpy:1200 ## translate crowdin sidney_bed_sex_c84dc7a6:
 msgid "[R] Sorry, I just can't see very well in the dark."
-msgstr ""
+msgstr "[R] Désolé, je ne vois tout simplement pas très bien dans le noir."
 
 # game/UpdateScript0.06.rpy:1201 ## translate crowdin sidney_bed_sex_d3939d59:
 msgid "[R] Ok, now just open really wide."
-msgstr ""
+msgstr "[R] Ok, maintenant ouvre vraiment grand."
 
 # game/UpdateScript0.06.rpy:1204 ## translate crowdin sidney_bed_sex_2ea4e2e5:
 msgid "[R] Oh, my God!... I'm still amazed you can get your mouth around that!"
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1211 ## translate crowdin sidney_bed_sex_e9ee1499:
 msgid "[S] Mmmmpphhh..."
-msgstr ""
+msgstr "[S] Mmmmpphhh..."
 
 # game/UpdateScript0.06.rpy:1228 ## translate crowdin sidney_bed_sex_aab3100c:
 msgid "[RT] {i}Oh, my God!... I'll never get sick of the taste of this pussy.{/i}"
@@ -1182,15 +1182,15 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1372 ## translate crowdin sidney_bed_sex_9fe5fe24_1:
 msgid "[S] So, should I be on the bottom or top?"
-msgstr ""
+msgstr "[S] Alors, devrais-je être au dessus ou dessous?"
 
 # game/UpdateScript0.06.rpy:1373 ## translate crowdin sidney_bed_sex_c109a7fe_1:
 msgid "[S] Ouch! You kneeled on my hand..."
-msgstr ""
+msgstr "[S] Aïe! Tu t'es agenouillé sur ma main..."
 
 # game/UpdateScript0.06.rpy:1374 ## translate crowdin sidney_bed_sex_c84dc7a6_1:
 msgid "[R] Sorry, I just can't see very well in the dark."
-msgstr ""
+msgstr "[R] Désolé, je ne vois tout simplement pas très bien dans le noir."
 
 # game/UpdateScript0.06.rpy:1375 ## translate crowdin sidney_bed_sex_c8272f55:
 msgid "[R] No... just... straddle me."
