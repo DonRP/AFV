@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-26 19:48\n"
+"PO-Revision-Date: 2022-03-05 10:43\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -550,7 +550,7 @@ msgstr "[R] Ohhhhoooohoooohoo.... Oooo.... Ahi! ...."
 
 # game/UpdateScript0.05.rpy:764 ## translate crowdin fix_bulb_f272fe2a:
 msgid "[M] Mmmmpphhhh"
-msgstr ""
+msgstr "[M] Mmmmpphhhh"
 
 # game/UpdateScript0.05.rpy:765 ## translate crowdin fix_bulb_88f55a2e:
 msgid "[R] Mom? Are you ok?...."
@@ -586,11 +586,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:780 ## translate crowdin fix_bulb_9df52b27:
 msgid "[R] Pffff...."
-msgstr ""
+msgstr "[R] Pffff...."
 
 # game/UpdateScript0.05.rpy:783 ## translate crowdin fix_bulb_c43f152a:
 msgid "[R] Hahaha...."
-msgstr ""
+msgstr "[R] Hahaha...."
 
 # game/UpdateScript0.05.rpy:784 ## translate crowdin fix_bulb_68ae3e32:
 msgid "[R] I was tea-bagging you, wasn't I?"
@@ -598,7 +598,7 @@ msgstr "[R] Ti stavo prendendo in giro, vero?"
 
 # game/UpdateScript0.05.rpy:785 ## translate crowdin fix_bulb_42051a9a:
 msgid "[M] Hahahaha.... "
-msgstr ""
+msgstr "[M] Hahahaha.... "
 
 # game/UpdateScript0.05.rpy:786 ## translate crowdin fix_bulb_55237cf2:
 msgid "[M] Yeah.... hahaha.... but please don't repeat that outside of this conversation."
@@ -2750,7 +2750,7 @@ msgstr "[R] Non allarmarti, ma sto per sparartelo in gola!"
 
 # game/UpdateScript0.05.rpy:1784 ## translate crowdin tv_together_6aa289e8:
 msgid "[L] Mmmmpphhh...."
-msgstr ""
+msgstr "[L] Mmmmpphhh...."
 
 # game/UpdateScript0.05.rpy:1785 ## translate crowdin tv_together_f40129c7:
 msgid "[R] Don't worry! You can do this!"
@@ -2758,7 +2758,7 @@ msgstr "[R] Non preoccuparti! Puoi farcela!"
 
 # game/UpdateScript0.05.rpy:1786 ## translate crowdin tv_together_a6c792ff:
 msgid "[L] Bllerrrgggghhh...."
-msgstr ""
+msgstr "[L] Bllerrrgggghhh...."
 
 # game/UpdateScript0.05.rpy:1787 ## translate crowdin tv_together_066282b0:
 msgid "[R] You have to do this! Mom will kill me if she sees any more bodily fluids in the lounge."
@@ -3118,7 +3118,7 @@ msgstr "[L] Oh, wow! .... Questa è una sensazione diversa!"
 
 # game/UpdateScript0.05.rpy:1956 ## translate crowdin tv_together_efd8956d:
 msgid "[L] Hnnnnggghhh...."
-msgstr ""
+msgstr "[L] Hnnnnggghhh...."
 
 # game/UpdateScript0.05.rpy:1958 ## translate crowdin tv_together_f03c8f88:
 msgid "[L] Ok.... I'm starting to get used to it!"
@@ -3210,7 +3210,7 @@ msgstr "[L] [ryan]! Ti ucciderò!"
 
 # game/UpdateScript0.05.rpy:1988 ## translate crowdin tv_together_e10b2562:
 msgid "[R] Hahaha.... Ok, ok!"
-msgstr ""
+msgstr "[R] Hahaha.... Ok, ok!"
 
 # game/UpdateScript0.05.rpy:1993 ## translate crowdin tv_together_04669380:
 msgid "[L] Oh.... Thank God!...."
@@ -3218,7 +3218,7 @@ msgstr "[L] Oh.... Grazie a Dio!...."
 
 # game/UpdateScript0.05.rpy:1994 ## translate crowdin tv_together_fff0af16:
 msgid "[L] That feels so good!"
-msgstr ""
+msgstr "[L] Ci si sente così bene!"
 
 # game/UpdateScript0.05.rpy:1998 ## translate crowdin tv_together_661b7ef7:
 msgid "[LT] {i}Holy shit! I can feel an orgasm coming on!{/i}"
@@ -3810,7 +3810,7 @@ msgstr "[M] Porca puttana! .... Questo è un sacco di sperma!"
 
 # game/UpdateScript0.05.rpy:2259 ## translate crowdin tv_together_f5c30680:
 msgid "[M] ....Just....Wow!"
-msgstr ""
+msgstr "[M] ....Giusto....Wow!"
 
 # game/UpdateScript0.05.rpy:2260 ## translate crowdin tv_together_8b25fd24:
 msgid "[R] Thanks Mom."
@@ -4326,7 +4326,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2523 ## translate crowdin lounge_finger_efd8956d:
 msgid "[L] Hnnnnggghhh...."
-msgstr ""
+msgstr "[L] Hnnnnggghhh...."
 
 # game/UpdateScript0.05.rpy:2525 ## translate crowdin lounge_finger_30fdbf8d:
 msgid "[L] Still takes.... a minute to get used to it!"
@@ -4358,7 +4358,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2544 ## translate crowdin lounge_finger_fff0af16:
 msgid "[L] That feels so good!"
-msgstr ""
+msgstr "[L] Ci si sente così bene!"
 
 # game/UpdateScript0.05.rpy:2548 ## translate crowdin lounge_finger_661b7ef7:
 msgid "[LT] {i}Holy shit! I can feel an orgasm coming on!{/i}"
@@ -7802,7 +7802,7 @@ msgstr "[RT] {i}Oh, merda.... Sono così vicino! {/i}"
 
 # game/UpdateScript0.05.rpy:4571 ## translate crowdin fix_washer_7974d5e5:
 msgid "[RT] {i}Hnnnngggghhhh..........{/i}"
-msgstr ""
+msgstr "[RT] {i}Hnnnngggghhhh..........{/i}"
 
 # game/UpdateScript0.05.rpy:4585 ## translate crowdin fix_washer_fc752e6d:
 msgid "[MT] {i}Oh good! I don't feel [ryan] pressing against my ass anymore.{/i}"
@@ -8406,7 +8406,7 @@ msgstr "[RT] {i}Oh, merda.... Sono così vicino! {/i}"
 
 # game/UpdateScript0.05.rpy:4852 ## translate crowdin fix_washer_7974d5e5_1:
 msgid "[RT] {i}Hnnnngggghhhh..........{/i}"
-msgstr ""
+msgstr "[RT] {i}Hnnnngggghhhh..........{/i}"
 
 # game/UpdateScript0.05.rpy:4866 ## translate crowdin fix_washer_fc752e6d_1:
 msgid "[MT] {i}Oh good! I don't feel [ryan] pressing against my ass anymore.{/i}"
