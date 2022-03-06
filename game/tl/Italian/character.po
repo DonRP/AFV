@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-03-06 10:50\n"
 
 # XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid "[ryan]'s Thoughts"
@@ -30,7 +30,7 @@ msgstr "Pensieri Di Lauren"
 
 # XX## game/character.rpy:50
 msgid "Joey"
-msgstr ""
+msgstr "Joey"
 
 # XX## game/character.rpy:51
 msgid "Mafia Goon"
@@ -42,7 +42,7 @@ msgstr "Voice over Microfono"
 
 # XX## game/character.rpy:53
 msgid "?????"
-msgstr ""
+msgstr "?????"
 
 # XX## game/character.rpy:56
 msgid "Sidney's Thoughts"
@@ -50,7 +50,7 @@ msgstr "Pensieri Di Sidney"
 
 # XX## game/character.rpy:57
 msgid "Megan"
-msgstr ""
+msgstr "Megan"
 
 # XX## game/character.rpy:59
 msgid "Mandy's Thoughts"
