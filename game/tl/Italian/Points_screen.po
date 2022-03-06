@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-03-06 10:50\n"
 
 # XXtranslate crowdin strings:XX# XX## game/Points_screen.rpy:115
 msgid "Mom's stats:"
@@ -19,23 +19,23 @@ msgstr "Statistiche della mamma:"
 
 # XX## game/Points_screen.rpy:125
 msgid "[momaffection]"
-msgstr ""
+msgstr "[momaffection]"
 
 # XX## game/Points_screen.rpy:126
 msgid "[momrespect]"
-msgstr ""
+msgstr "[momrespect]"
 
 # XX## game/Points_screen.rpy:127
 msgid "[momlibido]"
-msgstr ""
+msgstr "[momlibido]"
 
 # XX## game/Points_screen.rpy:128
 msgid "[momsubmission]"
-msgstr ""
+msgstr "[momsubmission]"
 
 # XX## game/Points_screen.rpy:129
 msgid "[momanger]"
-msgstr ""
+msgstr "[momanger]"
 
 # XX## game/Points_screen.rpy:136
 msgid "Lauren's stats:"
@@ -43,23 +43,23 @@ msgstr "Le statistiche di Lauren:"
 
 # XX## game/Points_screen.rpy:145
 msgid "[laurenaffection]"
-msgstr ""
+msgstr "[laurenaffection]"
 
 # XX## game/Points_screen.rpy:146
 msgid "[laurenrespect]"
-msgstr ""
+msgstr "[laurenrespect]"
 
 # XX## game/Points_screen.rpy:147
 msgid "[laurenlibido]"
-msgstr ""
+msgstr "[laurenlibido]"
 
 # XX## game/Points_screen.rpy:148
 msgid "[laurensubmission]"
-msgstr ""
+msgstr "[laurensubmission]"
 
 # XX## game/Points_screen.rpy:149
 msgid "[laurenanger]"
-msgstr ""
+msgstr "[laurenanger]"
 
 # XX## game/Points_screen.rpy:156
 msgid "Sidney's stats:"
@@ -67,43 +67,43 @@ msgstr "Le statistiche di Sidney:"
 
 # XX## game/Points_screen.rpy:165
 msgid "[sidneyaffection]"
-msgstr ""
+msgstr "[sidneyaffection]"
 
 # XX## game/Points_screen.rpy:166
 msgid "[sidneyrespect]"
-msgstr ""
+msgstr "[sidneyrespect]"
 
 # XX## game/Points_screen.rpy:167
 msgid "[sidneylibido]"
-msgstr ""
+msgstr "[sidneylibido]"
 
 # XX## game/Points_screen.rpy:168
 msgid "[sidneysubmission]"
-msgstr ""
+msgstr "[sidneysubmission]"
 
 # XX## game/Points_screen.rpy:169
 msgid "[sidneyanger]"
-msgstr ""
+msgstr "[sidneyanger]"
 
 # XX## game/Points_screen.rpy:188
 msgid "[auntaffection]"
-msgstr ""
+msgstr "[auntaffection]"
 
 # XX## game/Points_screen.rpy:189
 msgid "[auntrespect]"
-msgstr ""
+msgstr "[auntrespect]"
 
 # XX## game/Points_screen.rpy:190
 msgid "[auntlibido]"
-msgstr ""
+msgstr "[auntlibido]"
 
 # XX## game/Points_screen.rpy:191
 msgid "[auntsubmission]"
-msgstr ""
+msgstr "[auntsubmission]"
 
 # XX## game/Points_screen.rpy:192
 msgid "[auntanger]"
-msgstr ""
+msgstr "[auntanger]"
 
 # XX## game/Points_screen.rpy:202
 msgid "Mandy's stats:"
@@ -111,29 +111,29 @@ msgstr "Le statistiche di Mandy:"
 
 # XX## game/Points_screen.rpy:211
 msgid "[cousinaffection]"
-msgstr ""
+msgstr "[cousinaffection]"
 
 # XX## game/Points_screen.rpy:212
 msgid "[cousinrespect]"
-msgstr ""
+msgstr "[cousinrespect]"
 
 # XX## game/Points_screen.rpy:213
 msgid "[cousinlibido]"
-msgstr ""
+msgstr "[cousinlibido]"
 
 # XX## game/Points_screen.rpy:214
 msgid "[cousinsubmission]"
-msgstr ""
+msgstr "[cousinsubmission]"
 
 # XX## game/Points_screen.rpy:215
 msgid "[cousinanger]"
-msgstr ""
+msgstr "[cousinanger]"
 
 # XX## game/Points_screen.rpy:217
 msgid "<<"
-msgstr ""
+msgstr "<<"
 
 # XX## game/Points_screen.rpy:228
 msgid ">>"
-msgstr ""
+msgstr ">>"
 
