@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 17:52\n"
+# "PO-Revision-Date: 2022-03-06 10:50\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -1842,6 +1842,7 @@ translate crowdin again_tutorial_e48aa4ec:
 translate crowdin again_tutorial_dc7a84b6:
 
     # R "...."
+    R "...."
 
 # game/Phone_event_screen.rpy:1831
 translate crowdin again_tutorial_076a53a8:
@@ -1853,11 +1854,11 @@ translate crowdin strings:
 
     # game/Phone_event_screen.rpy:25
     old "[event_num]:"
-    new ""
+    new "[event_num]:"
 
     # game/Phone_event_screen.rpy:40
     old "???"
-    new ""
+    new "???"
 
     # game/Phone_event_screen.rpy:802
     old "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
@@ -1869,5 +1870,5 @@ translate crowdin strings:
 
     # game/Phone_event_screen.rpy:811
     old "{color=#E60000}-------------------------------------{/color}"
-    new ""
+    new "{color=#E60000}-------------------------------------{/color}"
 

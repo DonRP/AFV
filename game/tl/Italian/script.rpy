@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 17:54\n"
+# "PO-Revision-Date: 2022-03-06 10:51\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -504,6 +504,7 @@ translate crowdin myroom_6f8632c2:
 translate crowdin myroom_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:821
 translate crowdin myroom_64e7b164:
@@ -845,6 +846,7 @@ translate crowdin sleep_99a9cce0:
 translate crowdin sleep_dc2698d5:
 
     # RT "{i}.... {/i}"
+    RT "{i}.... {/i}"
 
 # game/script.rpy:1576
 translate crowdin sleep_fdc9ee88:
@@ -1516,6 +1518,7 @@ translate crowdin loungeevening_6f8632c2:
 translate crowdin loungeevening_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:2549
 translate crowdin loungeevening_64e7b164:
@@ -2049,6 +2052,7 @@ translate crowdin loungeeveningweekend_6f8632c2:
 translate crowdin loungeeveningweekend_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:2767
 translate crowdin loungeeveningweekend_64e7b164:
@@ -3548,6 +3552,7 @@ translate crowdin dishes_6f8632c2:
 translate crowdin dishes_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:3932
 translate crowdin dishes_64e7b164:
@@ -5245,6 +5250,7 @@ translate crowdin mommorningweekend_c1148d09:
 translate crowdin mommorningweekend_c6841c25:
 
     # R "..."
+    R "..."
 
 # game/script.rpy:4562
 translate crowdin mommorningweekend_cb598cac:
@@ -5448,6 +5454,7 @@ translate crowdin momsneakingnight_175da814:
 translate crowdin momsneakingnight_42d71c1f:
 
     # RT "..."
+    RT "..."
 
 # game/script.rpy:4731
 translate crowdin momsneakingnight_fc22dab9:
@@ -8765,16 +8772,19 @@ translate crowdin firstdayofschool_404e4655:
 translate crowdin firstdayofschool_f8055650:
 
     # M "[ryan]?"
+    M "[ryan]?"
 
 # game/script.rpy:6805
 translate crowdin firstdayofschool_f8055650_1:
 
     # M "[ryan]?"
+    M "[ryan]?"
 
 # game/script.rpy:6815
 translate crowdin firstdayofschool_975c4636:
 
     # M "[upper_ryan]!"
+    M "[upper_ryan]!"
 
 # game/script.rpy:6821
 translate crowdin firstdayofschool_7bd0559b:
@@ -9218,11 +9228,13 @@ translate crowdin stallbj_e6ffffea:
 translate crowdin stallbj_79104957:
 
     # MG "{i}\"Bleurghch\"{/i}"
+    MG "{i}\"Bleurghch\"{/i}"
 
 # game/script.rpy:7052
 translate crowdin stallbj_59c8177f:
 
     # MG "{i}\"Schhhhluurrrrp\"{/i}"
+    MG "{i}\"Schhhhluurrrrp\"{/i}"
 
 # game/script.rpy:7111
 translate crowdin megan_cum_ntr_ff929df5:
@@ -9462,6 +9474,7 @@ translate crowdin warehouse_51c79197:
 translate crowdin warehouse_135bab17:
 
     # R ".... {p}..."
+    R ".... {p}..."
 
 # game/script.rpy:7338
 translate crowdin warehouse_8edf5fea:
@@ -11165,6 +11178,7 @@ translate crowdin dinnerfirst_93d5a6a1:
 translate crowdin dinnerfirst_a20cefa7:
 
     # ..."
+    new "..."
 
 # game/script.rpy:8232
 translate crowdin dinnerfirst_648a5f02:
@@ -11326,16 +11340,19 @@ translate crowdin dinnerfirst_9316253b:
 translate crowdin dinnerfirst_7ca1b4e1_1:
 
     # Game Over"
+    new "Partita Terminata"
 
 # game/script.rpy:8291
 translate crowdin dinnerfirst_0412baff_1:
 
     # You might want to roll back now."
+    new "Potresti voler tornare indietro adesso."
 
 # game/script.rpy:8292
 translate crowdin dinnerfirst_e485e7a2_1:
 
     # Seriously, one more click and you'll be back to the game menu."
+    new "Seriamente, un altro clic e tornerai al menu del gioco."
 
 # game/script.rpy:8303
 translate crowdin collectingpayment_34a9d44a:
@@ -11347,6 +11364,7 @@ translate crowdin collectingpayment_34a9d44a:
 translate crowdin collectingpayment_e81a1dd4:
 
     # DING DONG"
+    new "DING DONG"
 
 # game/script.rpy:8305
 translate crowdin collectingpayment_47a6f8a0:
@@ -11406,6 +11424,7 @@ translate crowdin collectingpayment_74239e20:
 translate crowdin collectingpayment_136da53b:
 
     # {i}\"Money -$1,000\"{/i}"
+    new "{i}\"Soldi -$1.000\"{/i}"
 
 # game/script.rpy:8329
 translate crowdin collectingpayment_fb27af2b:
@@ -11447,6 +11466,7 @@ translate crowdin collectingpayment_59d44aa6:
 translate crowdin collectingpayment_e8aca4c4:
 
     # {i}{b}\"Mom's Affection +10\"{/b}{/i}"
+    new "{i}{b}\"Affetto della mamma +10\"{/b}{/i}"
 
 # game/script.rpy:8338
 translate crowdin collectingpayment_de090f2d:
@@ -11488,6 +11508,7 @@ translate crowdin collectingpayment_b72fcdc5:
 translate crowdin collectingpayment_42d71c1f:
 
     # RT "..."
+    RT "..."
 
 # game/script.rpy:8352
 translate crowdin collectingpayment_5314b939:
@@ -11577,6 +11598,7 @@ translate crowdin collectingpayment_dc5373dd:
 translate crowdin collectingpayment_3265e8ee:
 
     # {i}{b}\"Mom's Libido +1\"{/b}{/i}"
+    new "{i}{b}\"Libido della Mamma +1\"{/b}{/i}"
 
 # game/script.rpy:8385
 translate crowdin momdissapointed_65b14a51:
@@ -11600,6 +11622,7 @@ translate crowdin momdissapointed_a5397441:
 translate crowdin momdissapointed_24b07823:
 
     # {i}{b}\"Mom's Affection -5\"{/b}{/i}"
+    new "{i}{b}\"Affetto della mamma -5\"{/b}{/i}"
 
 # game/script.rpy:8394
 translate crowdin momdissapointed_bb64a15e:
@@ -11653,6 +11676,7 @@ translate crowdin nightclubbing_0c6ebe9f:
 translate crowdin nightclubbing_4a721ba9:
 
     # RT "{i}The look in her eyes is at least pretty confident.{/i}"
+    RT "{i}Lo sguardo nei suoi occhi è almeno abbastanza sicuro."
 
 # game/script.rpy:8421
 translate crowdin nightclubbing_32f78d5c:
@@ -11694,16 +11718,19 @@ translate crowdin nightclubbing_41653884:
 translate crowdin nightclubbing_31a3b755:
 
     # RT "{i}Oh, wow! My cock could cut diamonds right now!{/i}"
+    RT "{i}Oh, wow! Il mio cazzo potrebbe tagliare diamanti in questo momento!"
 
 # game/script.rpy:8438
 translate crowdin nightclubbing_41cd4b62:
 
     # RT "{i}I've got to give myself some relief!{/i}"
+    RT "{i}Devo darmi un pò di sollievo!"
 
 # game/script.rpy:8439
 translate crowdin nightclubbing_50324767:
 
     # RT "{i}Oh, this is sooo wrong. But I think that's why it's sooo hot!{/i}"
+    RT "{i}Oh, questo è così sbagliato. Ma penso che sia per questo che è così eccitante!"
 
 # game/script.rpy:8440
 translate crowdin nightclubbing_76b97bbb:
@@ -11739,6 +11766,7 @@ translate crowdin nightclubbing_129174a8:
 translate crowdin nightclubbing_7be50221:
 
     # MT "{i}This is actually pretty exhilarating!{/i}"
+    MT "{i}Questo è davvero piuttosto esaltante!"
 
 # game/script.rpy:8465
 translate crowdin nightclubbing_acd7dd15:
@@ -11762,6 +11790,7 @@ translate crowdin nightclubbing_fc3fe62a:
 translate crowdin nightclubbing_a13b4016:
 
     # MT "{i}This beats a lot of other ways of making money.{/i}"
+    MT "{i}Questo batte un sacco di altri modi di fare soldi.{/i}"
 
 # game/script.rpy:8469
 translate crowdin nightclubbing_93586d03:
@@ -11785,26 +11814,31 @@ translate crowdin nightclubbing_c318f833:
 translate crowdin nightclubbing_2907c73e:
 
     # {i}{b}\"Mom's Libido -3\"{/b}{/i}"
+    new "{i}{b}\"Libido di mamma -3\"{/b}{/i}"
 
 # game/script.rpy:8476
 translate crowdin nightclubbing_24b07823:
 
     # {i}{b}\"Mom's Affection -5\"{/b}{/i}"
+    new "{i}{b}\"Affetto della mamma -5\"{/b}{/i}"
 
 # game/script.rpy:8477
 translate crowdin nightclubbing_b47c24a5:
 
     # {i}{b}\"Mom's Submission +1\"{/b}{/i}"
+    new "{i}{b}\"Sottomissione della mamma +1\"{/b}{/i}"
 
 # game/script.rpy:8483
 translate crowdin nightclubbing_b8e25b67:
 
     # RT "{i}OH shit!{/i}"
+    RT "{i}Oh merda! {/i}"
 
 # game/script.rpy:8484
 translate crowdin nightclubbing_4c74f703:
 
     # RT "{i}She saw me!{/i}"
+    RT "{i}Mi ha visto! {/i}"
 
 # game/script.rpy:8485
 translate crowdin nightclubbing_0de6d045:
@@ -11846,6 +11880,7 @@ translate crowdin nightclubbing_4b7ef1d4:
 translate crowdin nightclubbing_82c9f43e:
 
     # M "[ryan]?.... [ryan]!"
+    M "[ryan]?.... [ryan]!"
 
 # game/script.rpy:8498
 translate crowdin nightclubbing_f0909fec:
@@ -12019,6 +12054,7 @@ translate crowdin nightclubbing_f7c8a309:
 translate crowdin nightclubbing_c93d9342:
 
     # M "[ryan]!"
+    M "[ryan]!"
 
 # game/script.rpy:8536
 translate crowdin nightclubbing_111d0092:
@@ -12192,46 +12228,55 @@ translate crowdin nightclubbing_50561a35:
 translate crowdin nightclubbing_7be50221_1:
 
     # MT "{i}This is actually pretty exhilarating!{/i}"
+    MT "{i}Questo è davvero piuttosto esaltante!"
 
 # game/script.rpy:8582
 translate crowdin nightclubbing_acd7dd15_1:
 
     # MT "{i}Nobody but my husband has seen my tits since we were married. Well, now just my own son and a bunch of random men.{/i}"
+    MT "{i}Nessuno tranne mio marito ha visto le mie tette da quando siamo sposati. Beh, ora solo mio figlio e un mucchio di uomini a caso."
 
 # game/script.rpy:8583
 translate crowdin nightclubbing_b60cef08_1:
 
     # MT "{i}And they seem to appreciate them more than my husband does.{/i}"
+    MT "{i}E loro sembrano apprezzarle più di mio marito.{/i}"
 
 # game/script.rpy:8584
 translate crowdin nightclubbing_fc3fe62a_1:
 
     # MT "{i}They keep throwing me money. I'll bet I'm close to making the $1000 I need.{/i}"
+    MT "{i}Continuano a lanciarmi soldi. Scommetto che sono vicina a guadagnare i 1000 dollari di cui ho bisogno.{/i}."
 
 # game/script.rpy:8585
 translate crowdin nightclubbing_a13b4016_1:
 
     # MT "{i}This beats a lot of other ways of making money.{/i}"
+    MT "{i}Questo batte un sacco di altri modi di fare soldi.{/i}"
 
 # game/script.rpy:8586
 translate crowdin nightclubbing_93586d03_1:
 
     # MT "{i}Oh, God! Am I actually enjoying this. I think I'm getting really wet!{/i}"
+    MT "{i}Oh, Dio! Mi sto davvero divertendo. Penso che mi sto davvero bagnando!"
 
 # game/script.rpy:8589
 translate crowdin nightclubbing_3483255f:
 
     # RT "{i}Oh, shit! Here I CUMMMM!!{/i}"
+    RT "{i}Oh, merda! Eccomi qui a CUMMMM!!!{/i}."
 
 # game/script.rpy:8594
 translate crowdin nightclubbing_93d5a6a1:
 
     # RT "{i}NNNNyyyyhhhhhaaaaa.... !!{/i}"
+    RT "{i}NNNNyyyyhhhhhhhaaaaa.... !!{/i}"
 
 # game/script.rpy:8600
 translate crowdin nightclubbing_a20cefa7:
 
     # ..."
+    new "..."
 
 # game/script.rpy:8603
 translate crowdin nightclubbing_2c18aef7:
@@ -12243,6 +12288,7 @@ translate crowdin nightclubbing_2c18aef7:
 translate crowdin nightclubbing_ac774a49:
 
     # RT "{i}I am such a fucking pervert! How could I do this watching my own mother!{/i}"
+    RT "{i}Sono un fottuto pervertito! Come ho potuto fare questo guardando mia madre!"
 
 # game/script.rpy:8605
 translate crowdin nightclubbing_2cdd96b1:
@@ -12260,21 +12306,25 @@ translate crowdin nightclubbing_6468df67:
 translate crowdin nightclubbing_7be50221_2:
 
     # MT "{i}This is actually pretty exhilarating!{/i}"
+    MT "{i}Questo è davvero piuttosto esaltante!"
 
 # game/script.rpy:8617
 translate crowdin nightclubbing_acd7dd15_2:
 
     # MT "{i}Nobody but my husband has seen my tits since we were married. Well, now just my own son and a bunch of random men.{/i}"
+    MT "{i}Nessuno tranne mio marito ha visto le mie tette da quando siamo sposati. Beh, ora solo mio figlio e un mucchio di uomini a caso."
 
 # game/script.rpy:8618
 translate crowdin nightclubbing_b60cef08_2:
 
     # MT "{i}And they seem to appreciate them more than my husband does.{/i}"
+    MT "{i}E loro sembrano apprezzarle più di mio marito.{/i}"
 
 # game/script.rpy:8619
 translate crowdin nightclubbing_fc3fe62a_2:
 
     # MT "{i}They keep throwing me money. I'll bet I'm close to making the $1000 I need.{/i}"
+    MT "{i}Continuano a lanciarmi soldi. Scommetto che sono vicina a guadagnare i 1000 dollari di cui ho bisogno.{/i}."
 
 # game/script.rpy:8620
 translate crowdin nightclubbing_a13b4016_2:
@@ -12298,11 +12348,13 @@ translate crowdin nightclubbing_3483255f_1:
 translate crowdin nightclubbing_93d5a6a1_1:
 
     # RT "{i}NNNNyyyyhhhhhaaaaa.... !!{/i}"
+    RT "{i}NNNNyyyyhhhhhhhaaaaa.... !!{/i}"
 
 # game/script.rpy:8635
 translate crowdin nightclubbing_a20cefa7_1:
 
     # ..."
+    new "..."
 
 # game/script.rpy:8638
 translate crowdin nightclubbing_619fa93d:

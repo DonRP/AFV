@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-02-20 17:50\n"
+# "PO-Revision-Date: 2022-02-23 19:21\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -504,6 +504,7 @@ translate crowdin myroom_6f8632c2:
 translate crowdin myroom_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:821
 translate crowdin myroom_64e7b164:
@@ -3551,6 +3552,7 @@ translate crowdin dishes_6f8632c2:
 translate crowdin dishes_46fa7af0:
 
     # L "[ryan]?..."
+    L "[ryan]?..."
 
 # game/script.rpy:3932
 translate crowdin dishes_64e7b164:
@@ -12094,31 +12096,37 @@ translate crowdin nightclubbing_efa35aee:
 translate crowdin nightclubbing_de1413fb:
 
     # R "I mean.... this is a rough side of town.... there are men of questionable motives here."
+    R "Je veux dire.... c'est un côté malfamé de la ville ici.... il y a des hommes aux motivations douteuses ici."
 
 # game/script.rpy:8545
 translate crowdin nightclubbing_9b87946c:
 
     # R "What if someone tries to grab you or something?"
+    R "Que se passe-t-il si quelqu'un essaie de t'attraper ou quelque chose comme ça?"
 
 # game/script.rpy:8548
 translate crowdin nightclubbing_82484a6f:
 
     # M "[ryan]! That's why they have bouncers!"
+    M "[ryan]! C'est pour ça qu'ils ont des videurs!"
 
 # game/script.rpy:8549
 translate crowdin nightclubbing_eb2d78e3:
 
     # M "Joey gives me an escort both here and back home again."
+    M "Joey m'escorte pour venir ici et aller à la maison."
 
 # game/script.rpy:8550
 translate crowdin nightclubbing_a81ef688:
 
     # M "I'm perfectly safe here without you!"
+    M "Je suis parfaitement en sécurité ici sans toi!"
 
 # game/script.rpy:8551
 translate crowdin nightclubbing_b7e38df1:
 
     # R "Hmmm.... well, I guess I didn't think about that."
+    R "Hmmm.... eh bien, je suppose que je n'ai pas pensé à ça."
 
 # game/script.rpy:8552
 translate crowdin nightclubbing_a895eda9:
@@ -12130,37 +12138,43 @@ translate crowdin nightclubbing_a895eda9:
 translate crowdin nightclubbing_57cbbc3e:
 
     # R "Sorry.... I'm just trying to do what Dad told me to do."
+    R "Désolé.... J'essaie juste de faire ce que papa m'a dit de faire."
 
 # game/script.rpy:8554
 translate crowdin nightclubbing_cc316cf0:
 
     # M "Oh, did he tell you to perv out on your mom while he's gone?"
+    M "Oh, t'a-t-il dit de pervertir ta mère pendant qu'il est parti?"
 
 # game/script.rpy:8555
 translate crowdin nightclubbing_08e0fbe2:
 
     # R "No!, just.... he told me to keep my family safe."
+    R "Non!, juste.... il m'a dit de protéger ma famille."
 
 # game/script.rpy:8556
 translate crowdin nightclubbing_b1892cb2:
 
     # M "Well, I'm perfectly safe, so just.... just.... get your ass home and keep your mouth shut about what I do here."
+    M "Eh bien, je suis parfaitement en sécurité, donc juste.... juste.... ramène ton cul à la maison et ferme ta bouche à propos de ce que je fais ici."
 
 # game/script.rpy:8557
 translate crowdin nightclubbing_936aa089:
 
     # M "And just to make it clear! This.... this right here.... this isn't normal!.... Sons aren't supposed to see so much skin from their moms!"
+    M "Et juste pour être clair! Ce.... c'est ici.... ce n'est pas normal !.... Les fils ne sont pas censés voir autant de peau de leurs mères!"
 
 # game/script.rpy:8558
 translate crowdin nightclubbing_33eade1f:
 
     # M "This isn't the kind of example I want to set for your sisters."
+    M "Ce n'est pas le genre d'exemple que je veux donner à tes sœurs."
 
 # game/script.rpy:8561
 translate crowdin nightclubbing_e15aa845:
 
     # RT "{i}Hmmm.... that's not a bad idea. Maybe they would be a little less prudish if they saw what Mom does on the weekends.{/i}"
-    RT "{i}Hmmm.... ce n'est pas une mauvaise idée. Peut-être qu'ils seraient un peu moins prudents s'ils voyaient ce que maman fait le week-end.{/i}"
+    RT "{i}Hmmm.... ce n'est pas une mauvaise idée. Peut-être qu'ils seraient un peu moins prudes s'ils voyaient ce que maman fait le week-end.{/i}"
 
 # game/script.rpy:8562
 translate crowdin nightclubbing_ca2fdc86:
@@ -12178,7 +12192,7 @@ translate crowdin nightclubbing_950d27b4:
 translate crowdin nightclubbing_856a266a:
 
     # MT "{i}But if he didn't, I might really have a growing problem on my hands.{/i}"
-    MT "{i}Mais s'il ne l'a pas fait, je pourrais vraiment avoir un problème de plus en plus important sur mes mains.{/i}"
+    MT "{i}Mais s'il ne l'a pas fait, je pourrais vraiment avoir un problème de plus en plus important sur les mains.{/i}"
 
 # game/script.rpy:8565
 translate crowdin nightclubbing_a5bec0c4:
@@ -12196,16 +12210,19 @@ translate crowdin nightclubbing_61863850:
 translate crowdin nightclubbing_87da0846:
 
     # R "Of course, I'm leaving right now."
+    R "Bien sûr, je pars maintenant."
 
 # game/script.rpy:8570
 translate crowdin nightclubbing_ff80b6a4:
 
     # R "I love you, mom!"
+    R "Je t'aime, maman!"
 
 # game/script.rpy:8571
 translate crowdin nightclubbing_50561a35:
 
     # M "I know.... I'll see you tomorrow."
+    M "Je sais.... À demain."
 
 # game/script.rpy:8581
 translate crowdin nightclubbing_7be50221_1:
@@ -12715,7 +12732,7 @@ translate crowdin strings:
 
     # game/script.rpy:7065
     old "Cum"
-    new "Ejaculation"
+    new "Jouir"
 
     # game/script.rpy:7114
     old "Down Megan's throat"

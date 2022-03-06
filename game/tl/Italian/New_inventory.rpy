@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 15:04\n"
+# "PO-Revision-Date: 2022-03-06 10:50\n"
 
 translate crowdin strings:
 
@@ -96,5 +96,5 @@ translate crowdin strings:
 
     # game/New_inventory.rpy:291
     old "[amount]"
-    new ""
+    new "[amount]"
 

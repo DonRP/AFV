@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-02-20 17:49\n"
+# "PO-Revision-Date: 2022-02-23 19:21\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -84,6 +84,7 @@ translate crowdin HTBYD_game_start_lbl_aab0d72b:
 translate crowdin HTBYD_game_start_lbl_dc7a84b6:
 
     # R "...."
+    R "...."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:138
 translate crowdin HTBYD_game_start_lbl_9126eb03:

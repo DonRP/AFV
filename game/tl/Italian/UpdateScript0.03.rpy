@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 17:53\n"
+# "PO-Revision-Date: 2022-03-06 10:49\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -492,11 +492,13 @@ translate crowdin diazvisit_58d10a0f:
 translate crowdin diazvisit_c6841c25:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:634
 translate crowdin diazvisit_c6841c25_1:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:635
 translate crowdin diazvisit_a8b48c7e:
@@ -544,6 +546,7 @@ translate crowdin diazvisit_81c7844f:
 translate crowdin diazvisit_c6841c25_2:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:649
 translate crowdin diazvisit_d5b2c6d8:
@@ -621,6 +624,7 @@ translate crowdin diazvisit_7916e651:
 translate crowdin diazvisit_c6841c25_3:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:668
 translate crowdin diazvisit_29c6f165:
@@ -710,6 +714,7 @@ translate crowdin diazvisit_5c05342c_1:
 translate crowdin diazvisit_9993b94e:
 
     # L "..."
+    L "..."
 
 # game/UpdateScript0.03.rpy:685
 translate crowdin diazvisit_007e72e3:
@@ -1183,6 +1188,7 @@ translate crowdin diazvisit_b65e53d7:
 translate crowdin diazvisit_c6841c25_4:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:837
 translate crowdin diazvisit_fc9bc4de:
@@ -1326,6 +1332,7 @@ translate crowdin diazvisit_b65e53d7_1:
 translate crowdin diazvisit_c6841c25_5:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:874
 translate crowdin diazvisit_fc9bc4de_1:
@@ -2321,6 +2328,7 @@ translate crowdin secondcosplayfitting_551269e3:
 translate crowdin secondcosplayfitting_971a98df:
 
     # S "..."
+    S "..."
 
 # game/UpdateScript0.03.rpy:1191
 translate crowdin secondcosplayfitting_ce9c3fd8:
@@ -2704,6 +2712,7 @@ translate crowdin bikinishow_0d631e59:
 translate crowdin bikinishow_eaa98298:
 
     # M "..."
+    M "..."
 
 # game/UpdateScript0.03.rpy:1284
 translate crowdin bikinishow_7c264289:
@@ -4203,6 +4212,7 @@ translate crowdin ryan_and_lauren_41270812:
 translate crowdin ryan_and_lauren_c6841c25:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:1747
 translate crowdin ryan_and_lauren_4b7ef1d4:
@@ -4964,6 +4974,7 @@ translate crowdin meganloyaltyblowjob_76caf99b:
 translate crowdin meganloyaltyblowjob_c6841c25:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:2106
 translate crowdin meganloyaltyblowjob_402fd077:
@@ -5173,11 +5184,13 @@ translate crowdin meganloyaltyblowjob_e6ffffea:
 translate crowdin meganloyaltyblowjob_79104957:
 
     # MG "{i}\"Bleurghch\"{/i}"
+    MG "{i}\"Bleurghch\"{/i}"
 
 # game/UpdateScript0.03.rpy:2166
 translate crowdin meganloyaltyblowjob_59c8177f:
 
     # MG "{i}\"Schhhhluurrrrp\"{/i}"
+    MG "{i}\"Schhhhluurrrrp\"{/i}"
 
 # game/UpdateScript0.03.rpy:2178
 translate crowdin megan_cum_ff929df5:
@@ -5375,6 +5388,7 @@ translate crowdin clubpool_0fdd7d02:
 translate crowdin clubpool_eaa98298:
 
     # M "..."
+    M "..."
 
 # game/UpdateScript0.03.rpy:2286
 translate crowdin clubpool_bf649ecd:
@@ -5530,6 +5544,7 @@ translate crowdin clubpool_5ead32e3:
 translate crowdin clubpool_c6841c25:
 
     # R "..."
+    R "..."
 
 # game/UpdateScript0.03.rpy:2338
 translate crowdin clubpool_6d98a5ec:
@@ -5601,11 +5616,13 @@ translate crowdin clubpool_b2504771:
 translate crowdin clubpool_eaa98298_1:
 
     # M "..."
+    M "..."
 
 # game/UpdateScript0.03.rpy:2350
 translate crowdin clubpool_eaa98298_2:
 
     # M "..."
+    M "..."
 
 # game/UpdateScript0.03.rpy:2351
 translate crowdin clubpool_a0770075:
@@ -5641,6 +5658,7 @@ translate crowdin clubpool_dc1de32d:
 translate crowdin clubpool_42d71c1f:
 
     # RT "..."
+    RT "..."
 
 # game/UpdateScript0.03.rpy:2363
 translate crowdin clubpool_9ffac19b:
@@ -8712,6 +8730,7 @@ translate crowdin htbydshoot_bd3ba4e4:
 translate crowdin htbydshoot_a20cefa7:
 
     # ..."
+    new "..."
 
 # game/UpdateScript0.03.rpy:3633
 translate crowdin htbydshoot_0b8428e0:
@@ -8723,6 +8742,7 @@ translate crowdin htbydshoot_0b8428e0:
 translate crowdin htbydshoot_a20cefa7_1:
 
     # ..."
+    new "..."
 
 # game/UpdateScript0.03.rpy:3635
 translate crowdin htbydshoot_63bf9803:
@@ -8734,6 +8754,7 @@ translate crowdin htbydshoot_63bf9803:
 translate crowdin htbydshoot_a20cefa7_2:
 
     # ..."
+    new "..."
 
 # game/UpdateScript0.03.rpy:3637
 translate crowdin htbydshoot_540058d3:
@@ -8745,6 +8766,7 @@ translate crowdin htbydshoot_540058d3:
 translate crowdin htbydshoot_a20cefa7_3:
 
     # ..."
+    new "..."
 
 # game/UpdateScript0.03.rpy:3639
 translate crowdin htbydshoot_2dbee252:
@@ -8756,6 +8778,7 @@ translate crowdin htbydshoot_2dbee252:
 translate crowdin htbydshoot_a20cefa7_4:
 
     # ..."
+    new "..."
 
 # game/UpdateScript0.03.rpy:3641
 translate crowdin htbydshoot_16fbac71:

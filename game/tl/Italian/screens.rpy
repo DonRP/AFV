@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
 # "X-Crowdin-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 15:05\n"
+# "PO-Revision-Date: 2022-03-06 10:50\n"
 
 translate crowdin strings:
 
@@ -116,7 +116,7 @@ translate crowdin strings:
 
     # game/screens.rpy:694
     old "<"
-    new ""
+    new "<"
 
     # game/screens.rpy:697
     old "{#auto_page}A"
@@ -128,7 +128,7 @@ translate crowdin strings:
 
     # game/screens.rpy:706
     old ">"
-    new ""
+    new ">"
 
     # game/screens.rpy:763
     old "Display"

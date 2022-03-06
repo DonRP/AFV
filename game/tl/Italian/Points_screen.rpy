@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Mom's stats:\n"
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: a-family-venture\n"
@@ -11,7 +11,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 15:04\n"
+# "PO-Revision-Date: 2022-03-06 10:50\n"
 
 translate crowdin strings:
 
@@ -21,23 +21,23 @@ translate crowdin strings:
 
     # game/Points_screen.rpy:125
     old "[momaffection]"
-    new ""
+    new "[momaffection]"
 
     # game/Points_screen.rpy:126
     old "[momrespect]"
-    new ""
+    new "[momrespect]"
 
     # game/Points_screen.rpy:127
     old "[momlibido]"
-    new ""
+    new "[momlibido]"
 
     # game/Points_screen.rpy:128
     old "[momsubmission]"
-    new ""
+    new "[momsubmission]"
 
     # game/Points_screen.rpy:129
     old "[momanger]"
-    new ""
+    new "[momanger]"
 
     # game/Points_screen.rpy:136
     old "Lauren's stats:"
@@ -45,23 +45,23 @@ translate crowdin strings:
 
     # game/Points_screen.rpy:145
     old "[laurenaffection]"
-    new ""
+    new "[laurenaffection]"
 
     # game/Points_screen.rpy:146
     old "[laurenrespect]"
-    new ""
+    new "[laurenrespect]"
 
     # game/Points_screen.rpy:147
     old "[laurenlibido]"
-    new ""
+    new "[laurenlibido]"
 
     # game/Points_screen.rpy:148
     old "[laurensubmission]"
-    new ""
+    new "[laurensubmission]"
 
     # game/Points_screen.rpy:149
     old "[laurenanger]"
-    new ""
+    new "[laurenanger]"
 
     # game/Points_screen.rpy:156
     old "Sidney's stats:"
@@ -69,43 +69,43 @@ translate crowdin strings:
 
     # game/Points_screen.rpy:165
     old "[sidneyaffection]"
-    new ""
+    new "[sidneyaffection]"
 
     # game/Points_screen.rpy:166
     old "[sidneyrespect]"
-    new ""
+    new "[sidneyrespect]"
 
     # game/Points_screen.rpy:167
     old "[sidneylibido]"
-    new ""
+    new "[sidneylibido]"
 
     # game/Points_screen.rpy:168
     old "[sidneysubmission]"
-    new ""
+    new "[sidneysubmission]"
 
     # game/Points_screen.rpy:169
     old "[sidneyanger]"
-    new ""
+    new "[sidneyanger]"
 
     # game/Points_screen.rpy:188
     old "[auntaffection]"
-    new ""
+    new "[auntaffection]"
 
     # game/Points_screen.rpy:189
     old "[auntrespect]"
-    new ""
+    new "[auntrespect]"
 
     # game/Points_screen.rpy:190
     old "[auntlibido]"
-    new ""
+    new "[auntlibido]"
 
     # game/Points_screen.rpy:191
     old "[auntsubmission]"
-    new ""
+    new "[auntsubmission]"
 
     # game/Points_screen.rpy:192
     old "[auntanger]"
-    new ""
+    new "[auntanger]"
 
     # game/Points_screen.rpy:202
     old "Mandy's stats:"
@@ -113,29 +113,29 @@ translate crowdin strings:
 
     # game/Points_screen.rpy:211
     old "[cousinaffection]"
-    new ""
+    new "[cousinaffection]"
 
     # game/Points_screen.rpy:212
     old "[cousinrespect]"
-    new ""
+    new "[cousinrespect]"
 
     # game/Points_screen.rpy:213
     old "[cousinlibido]"
-    new ""
+    new "[cousinlibido]"
 
     # game/Points_screen.rpy:214
     old "[cousinsubmission]"
-    new ""
+    new "[cousinsubmission]"
 
     # game/Points_screen.rpy:215
     old "[cousinanger]"
-    new ""
+    new "[cousinanger]"
 
     # game/Points_screen.rpy:217
     old "<<"
-    new ""
+    new "<<"
 
     # game/Points_screen.rpy:228
     old ">>"
-    new ""
+    new ">>"
 
