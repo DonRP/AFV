@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:54\n"
+"PO-Revision-Date: 2022-03-01 20:06\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -254,7 +254,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:354 ## translate crowdin xmas_dream_5f1e8af6:
 msgid "[R] Wow!"
-msgstr ""
+msgstr "[R] Wow!"
 
 # game/UpdateScriptChristmasEvent.rpy:355 ## translate crowdin xmas_dream_2deedd58:
 msgid "[R] And what have I done to get her attention on me?"
@@ -342,7 +342,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:382 ## translate crowdin xmas_dream_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:383 ## translate crowdin xmas_dream_1961d0cf:
 msgid "[R] Hey!.... What are you doing?"
@@ -474,7 +474,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:445 ## translate crowdin xmas_present_4231b67a:
 msgid "[X] Hey [ryan]!.... Wake up!"
-msgstr ""
+msgstr "[X] Hé [ryan]!.... Réveille-toi!"
 
 # game/UpdateScriptChristmasEvent.rpy:446 ## translate crowdin xmas_present_e3b1781d:
 msgid "[RT] {i}Huh.... what?....{/i}"
@@ -834,7 +834,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:594 ## translate crowdin xmas_future_70cf7f50:
 msgid "[R] What are you doing?"
-msgstr ""
+msgstr "[R] Que fais-tu?"
 
 # game/UpdateScriptChristmasEvent.rpy:595 ## translate crowdin xmas_future_84adaa77:
 msgid "[GF] Just give me a second."
@@ -942,7 +942,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:638 ## translate crowdin xmas_future_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:639 ## translate crowdin xmas_future_52b9d91e:
 msgid "[R] Why did you stop?"
@@ -1070,7 +1070,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:682 ## translate crowdin xmas_future_7dbd44c3:
 msgid "[R] Well?..."
-msgstr ""
+msgstr "[R] Eh bien?..."
 
 # game/UpdateScriptChristmasEvent.rpy:684 ## translate crowdin xmas_future_66b3e72c:
 msgid "[M] Of course it's not yours!"
@@ -1690,7 +1690,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:996 ## translate crowdin tutorial_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:999 ## translate crowdin tutorial_076a53a8:
 msgid "End of tutorial."
@@ -2910,7 +2910,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1546 ## translate crowdin cookies_in_oven_2e2caf83_1:
 msgid "[R] Yeah, ok."
-msgstr ""
+msgstr "[R] Oui, d'accord."
 
 # game/UpdateScriptChristmasEvent.rpy:1549 ## translate crowdin cookies_in_oven_d858d039_1:
 msgid "[L] Ohhh.... these stupid, tall chairs!"
@@ -3170,7 +3170,7 @@ msgstr "[RT] {i}D'accord, je vais essayer.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1647 ## translate crowdin christmas_shoot_42d71c1f:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1648 ## translate crowdin christmas_shoot_8d5b26f2:
 msgid "[R] Uhh.... I've actually been thinking."
@@ -3242,7 +3242,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1675 ## translate crowdin christmas_shoot_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1676 ## translate crowdin christmas_shoot_4500ce88:
 msgid "[GCP] Run!"
@@ -3510,7 +3510,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:1772 ## translate crowdin christmas_shoot_42d71c1f_1:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1773 ## translate crowdin christmas_shoot_710888da:
 msgid "[R] Ok.... now I want you to do some Christmassy things."
@@ -4718,7 +4718,7 @@ msgstr "[AD] D'accord.... pourquoi ne pas vous remercier mutuellement avec un ba
 
 # game/UpdateScriptChristmasEvent.rpy:2238 ## translate crowdin christmas_shoot_feb8d233_1:
 msgid "[S] What!?..."
-msgstr ""
+msgstr "[S] Quoi!?..."
 
 # game/UpdateScriptChristmasEvent.rpy:2239 ## translate crowdin christmas_shoot_784ed33e:
 msgid "[AD] For the photo shoot!"
@@ -4770,7 +4770,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2251 ## translate crowdin christmas_shoot_c6190b95_1:
 msgid "[S] Fine!"
-msgstr ""
+msgstr "[S] Bien!"
 
 # game/UpdateScriptChristmasEvent.rpy:2252 ## translate crowdin christmas_shoot_4ec03217:
 msgid "[AD] Lauren, why don't you just straddle Sidney and..."
@@ -4842,11 +4842,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2279 ## translate crowdin christmas_shoot_f7e421e8_1:
 msgid "[L] (Gulp) Toys?..."
-msgstr ""
+msgstr "[L] (Gulp) Jouets?..."
 
 # game/UpdateScriptChristmasEvent.rpy:2280 ## translate crowdin christmas_shoot_e4f25d36_1:
 msgid "[S] How do you mean?"
-msgstr ""
+msgstr "[S] Que veux-tu dire?"
 
 # game/UpdateScriptChristmasEvent.rpy:2281 ## translate crowdin christmas_shoot_200e626e:
 msgid "[LT] {i}Oh my.... she wants us to dildo each other.... shit!.... I think I just dripped onto Sidney's leg!{/i}"
@@ -5046,7 +5046,7 @@ msgstr "[L] (murmure) Tu veux dire comme me molester dans mon sommeil?"
 
 # game/UpdateScriptChristmasEvent.rpy:2350 ## translate crowdin christmas_shoot_59158bb7_1:
 msgid "[L] Did you do that on purpose!?"
-msgstr ""
+msgstr "[L] As-tu fait cela exprès!?"
 
 # game/UpdateScriptChristmasEvent.rpy:2351 ## translate crowdin christmas_shoot_42d4d163_1:
 msgid "[S] Ssshhhh.... (whispering loudly) Of course I didn't."
@@ -5134,7 +5134,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2383 ## translate crowdin christmas_shoot_7b4188c4_1:
 msgid "[R] Are you ok over there?"
-msgstr ""
+msgstr "[R] Tu vas bien ?"
 
 # game/UpdateScriptChristmasEvent.rpy:2384 ## translate crowdin christmas_shoot_9005b5b9_1:
 msgid "[S] (whispering loudly) Lauren!.... What the fuck?"
@@ -5398,7 +5398,7 @@ msgstr "[AD] Aller, c'est la dernière photo, ne m'oblige pas à augmenter mon i
 
 # game/UpdateScriptChristmasEvent.rpy:2476 ## translate crowdin christmas_shoot_c6190b95_2:
 msgid "[S] Fine!"
-msgstr ""
+msgstr "[S] Bien!"
 
 # game/UpdateScriptChristmasEvent.rpy:2477 ## translate crowdin christmas_shoot_bbf02d7a:
 msgid "[AD] Awesome! Ok [ryan], we'll let you know when we're in position."
@@ -5674,7 +5674,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2574 ## translate crowdin christmas_shoot_4881927b_1:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Quoi?"
 
 # game/UpdateScriptChristmasEvent.rpy:2575 ## translate crowdin christmas_shoot_2af19843_1:
 msgid "[GCP] Yeah, it's about time to go."
@@ -5694,11 +5694,11 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:2579 ## translate crowdin christmas_shoot_9e01f8fc_1:
 msgid "[R] Nooooo!..."
-msgstr ""
+msgstr "[R] Nooooonnn!..."
 
 # game/UpdateScriptChristmasEvent.rpy:2580 ## translate crowdin christmas_shoot_4b36f23f_1:
 msgid "[GCP] 2.... 1..."
-msgstr ""
+msgstr "[GCP] 2.... 1..."
 
 # game/UpdateScriptChristmasEvent.rpy:2587 ## translate crowdin christmas_shoot_cca4618a_1:
 msgid "[RT] {i}Oh Futa God.... I'm back in my bed?.... Another weird dream?{/i}"

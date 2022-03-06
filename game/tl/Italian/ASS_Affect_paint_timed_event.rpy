@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:50\n"
+"PO-Revision-Date: 2022-03-06 10:49\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:126 ## translate crowdin ASS_Affect_game_start_lbl_aadc3f05:
 msgid "[MS] Oh... I see Lauren is in a similar pose for this picture too."
@@ -46,7 +46,7 @@ msgstr "[MS] Ok, grande... Quindi ricordate, pensate a un tema, a uno sfondo, a 
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:134 ## translate crowdin ASS_Affect_game_start_lbl_dc7a84b6:
 msgid "[R] ...."
-msgstr ""
+msgstr "[R] ...."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:135 ## translate crowdin ASS_Affect_game_start_lbl_e9adfdff:
 msgid "[R] Ok, I think I've got an idea."

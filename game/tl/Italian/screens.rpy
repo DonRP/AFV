@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:57\n"
+"PO-Revision-Date: 2022-03-06 10:50\n"
 
 # XXtranslate crowdin strings:XX# XX## game/screens.rpy:256
 msgid "History"
@@ -116,7 +116,7 @@ msgstr "slot vuoto"
 
 # XX## game/screens.rpy:694
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # XX## game/screens.rpy:697
 msgid "{#auto_page}A"
@@ -128,7 +128,7 @@ msgstr "{#quick_page}R"
 
 # XX## game/screens.rpy:706
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # XX## game/screens.rpy:763
 msgid "Display"

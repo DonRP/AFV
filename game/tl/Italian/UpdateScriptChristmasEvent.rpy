@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:59\n"
+"PO-Revision-Date: 2022-03-06 10:50\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -34,7 +34,7 @@ msgstr "{i}Un omaggio a Charles Dickens e al suo classico senza tempo, \"Un Caro
 
 # game/UpdateScriptChristmasEvent.rpy:267 ## translate crowdin xmas_dream_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:268 ## translate crowdin xmas_dream_41c1aef9:
 msgid "[RT] {i}Thank God the Christmas break is coming! I'm so tired of school.{/i}"
@@ -58,11 +58,11 @@ msgstr "[RT] {i}zzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:273 ## translate crowdin xmas_dream_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:274 ## translate crowdin xmas_dream_03f26b44:
 msgid "[X] [ryan]..."
-msgstr ""
+msgstr "[X] [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:275 ## translate crowdin xmas_dream_6bb809b3:
 msgid "[X] Hey [ryan]..."
@@ -122,7 +122,7 @@ msgstr "[GP] Io assomiglio a tua mamma, dici?"
 
 # game/UpdateScriptChristmasEvent.rpy:307 ## translate crowdin xmas_dream_42561a27:
 msgid "[GP] ..."
-msgstr ""
+msgstr "[GP] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:308 ## translate crowdin xmas_dream_4bb6e3c8:
 msgid "[GP] You sick fuck!"
@@ -342,7 +342,7 @@ msgstr "[GP] Ho detto di darmi solo un secondo."
 
 # game/UpdateScriptChristmasEvent.rpy:382 ## translate crowdin xmas_dream_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:383 ## translate crowdin xmas_dream_1961d0cf:
 msgid "[R] Hey!.... What are you doing?"
@@ -458,11 +458,11 @@ msgstr "[RT] {i}zzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:433 ## translate crowdin xmas_present_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/UpdateScriptChristmasEvent.rpy:434 ## translate crowdin xmas_present_03f26b44:
 msgid "[X] [ryan]..."
-msgstr ""
+msgstr "[X] [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:435 ## translate crowdin xmas_present_6bb809b3:
 msgid "[X] Hey [ryan]..."
@@ -942,7 +942,7 @@ msgstr "[R] Sì, mamma!.... Sono così vicino!"
 
 # game/UpdateScriptChristmasEvent.rpy:638 ## translate crowdin xmas_future_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:639 ## translate crowdin xmas_future_52b9d91e:
 msgid "[R] Why did you stop?"
@@ -1690,7 +1690,7 @@ msgstr "[R] Fino a quando non sono stato svegliato davvero una mattina presto da
 
 # game/UpdateScriptChristmasEvent.rpy:996 ## translate crowdin tutorial_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:999 ## translate crowdin tutorial_076a53a8:
 msgid "End of tutorial."
@@ -3170,7 +3170,7 @@ msgstr "[RT] {i}Va bene, farò un tentativo.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1647 ## translate crowdin christmas_shoot_42d71c1f:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1648 ## translate crowdin christmas_shoot_8d5b26f2:
 msgid "[R] Uhh.... I've actually been thinking."
@@ -3242,7 +3242,7 @@ msgstr "[GCP] Affrettiamola a testa fuori prima che rovini tutto quello che ti h
 
 # game/UpdateScriptChristmasEvent.rpy:1675 ## translate crowdin christmas_shoot_c6841c25:
 msgid "[R] ..."
-msgstr ""
+msgstr "[R] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1676 ## translate crowdin christmas_shoot_4500ce88:
 msgid "[GCP] Run!"
@@ -3510,7 +3510,7 @@ msgstr "[R] Posso vedere tutto adesso!"
 
 # game/UpdateScriptChristmasEvent.rpy:1772 ## translate crowdin christmas_shoot_42d71c1f_1:
 msgid "[RT] ..."
-msgstr ""
+msgstr "[RT] ..."
 
 # game/UpdateScriptChristmasEvent.rpy:1773 ## translate crowdin christmas_shoot_710888da:
 msgid "[R] Ok.... now I want you to do some Christmassy things."
