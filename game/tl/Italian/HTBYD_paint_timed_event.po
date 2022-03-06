@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:50\n"
+"PO-Revision-Date: 2022-03-06 10:49\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 ## translate crowdin HTBYD_game_start_lbl_2bc58679:
 msgid "[MS] That's the picture of Lauren you're going to use?"
@@ -58,7 +58,7 @@ msgstr "[MS] Ok, buono. Quindi vuoi che il poster rifletta questo con uno sfondo
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:137 ## translate crowdin HTBYD_game_start_lbl_dc7a84b6:
 msgid "[R] ...."
-msgstr ""
+msgstr "[R] ...."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:138 ## translate crowdin HTBYD_game_start_lbl_9126eb03:
 msgid "[R] Ok... I think I've got an idea."
