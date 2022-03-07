@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 10:50\n"
+"PO-Revision-Date: 2022-03-07 10:44\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -402,27 +402,27 @@ msgstr "[AD] Come l'inferno sei stato in grado di rendere la tua zia indossare q
 
 # game/UpdateScript0.06.rpy:865 ## translate crowdin move_in_day_427ad4e6:
 msgid "[R] Well... she knows... it was kind of her idea."
-msgstr ""
+msgstr "[R] Beh... Lei lo sa... Diciamo che è stata una di sua idea."
 
 # game/UpdateScript0.06.rpy:866 ## translate crowdin move_in_day_662811e8:
 msgid "[AD] Ha!... I knew your mom was a freak!"
-msgstr ""
+msgstr "[AD] Ah!... Sapevo che tua madre era un mostro!"
 
 # game/UpdateScript0.06.rpy:867 ## translate crowdin move_in_day_eef403dd:
 msgid "[AD] You better keep her out of that club, cuz it won't be long until she's willingly giving her pussy to every customer that gives her a couple dollars."
-msgstr ""
+msgstr "[AD] Faresti meglio a tenerla fuori da quel club, perché non passerà molto tempo prima che lei darà volentieri la sua figa a ogni cliente che le dà un paio di dollari."
 
 # game/UpdateScript0.06.rpy:868 ## translate crowdin move_in_day_f0b5d7c5:
 msgid "[R] Shut up! She's not like that!"
-msgstr ""
+msgstr "[R] Stai zitto! Lei non è così!"
 
 # game/UpdateScript0.06.rpy:869 ## translate crowdin move_in_day_5b7aff17:
 msgid "[AD] You better hope she is if you want a shot at her."
-msgstr ""
+msgstr "[AD] Faresti meglio a sperare che lo sia se vuoi una possibilità con lei."
 
 # game/UpdateScript0.06.rpy:870 ## translate crowdin move_in_day_5121e5e1:
 msgid "[AD] And besides, as an FBI profiler, I'm pretty good at reading people."
-msgstr ""
+msgstr "[AD] Inoltre, come profilar dell'FBI, sono abbastanza bravo a capire le persone."
 
 # game/UpdateScript0.06.rpy:871 ## translate crowdin move_in_day_8d0d939b:
 msgid "[AD] You're just going to have to be really skillful in manipulating her into seeing you as her only option."
