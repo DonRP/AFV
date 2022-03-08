@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-02 20:05\n"
+"PO-Revision-Date: 2022-03-08 16:42\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1174,11 +1174,11 @@ msgstr "[ST] {i}Ouais Chad!.... Pourquoi n'ai-je pas pensé à Chad?{/i}"
 
 # game/UpdateScript0.04.rpy:937 ## translate crowdin nightly_sixtynine_d5e80029:
 msgid "[S] What about you?"
-msgstr ""
+msgstr "[S] Et toi?"
 
 # game/UpdateScript0.04.rpy:938 ## translate crowdin nightly_sixtynine_7f8d23ae:
 msgid "[R] Oh, just Mrs. Stone the art teacher."
-msgstr ""
+msgstr "[R] Oh, juste Mme Stone la prof d'art."
 
 # game/UpdateScript0.04.rpy:939 ## translate crowdin nightly_sixtynine_aa187249:
 msgid "[RT] {i}Oh, how could I think about anything else but my sister's sweet sweet pussy?!{/i}"
@@ -1186,15 +1186,15 @@ msgstr "[RT] {i}Oh, comment pourrais-je penser à autre chose que la douce chatt
 
 # game/UpdateScript0.04.rpy:942 ## translate crowdin nightly_sixtynine_ae70c372:
 msgid "[S] Oh.... do you have a crush on her?..."
-msgstr ""
+msgstr "[S] Oh.... tu as le béguin pour elle?..."
 
 # game/UpdateScript0.04.rpy:943 ## translate crowdin nightly_sixtynine_0e408773:
 msgid "[ST] {i}Why don't I want him to have a crush on her?{/i}"
-msgstr "[ST] {i}Pourquoi je ne veux pas qu'il ait le béguin pour elle?{/i}"
+msgstr "[ST] {i}Pourquoi je ne pourrais pas avoir le béguin pour elle?{/i}"
 
 # game/UpdateScript0.04.rpy:944 ## translate crowdin nightly_sixtynine_375362a5:
 msgid "[R] No.... she's just really hot."
-msgstr ""
+msgstr "[R] Non.... elle est vraiment sexy."
 
 # game/UpdateScript0.04.rpy:945 ## translate crowdin nightly_sixtynine_b4c43680:
 msgid "[ST] {i}Oh, good!{/i}"
@@ -1202,15 +1202,15 @@ msgstr "[ST] {i}Oh, bien!{/i}"
 
 # game/UpdateScript0.04.rpy:946 ## translate crowdin nightly_sixtynine_b0c5b9ec:
 msgid "[S] Well, let's try and get some sleep.... I can't wait to see if this helps me with my problem.... you'll let me know right?"
-msgstr ""
+msgstr "[S] Eh bien, essayons de dormir un peu.... J'ai hâte de voir si cela m'aide à résoudre mon problème.... tu me préviendras, non ?"
 
 # game/UpdateScript0.04.rpy:947 ## translate crowdin nightly_sixtynine_6d482790:
 msgid "[R] Yeah, of course.... and I'll make sure not to take any melatonin so I don't accidentally sleep through it."
-msgstr ""
+msgstr "[R] Oui, bien sûr.... et je m'assurerai de ne pas prendre de mélatonine pour ne pas dormir profondément."
 
 # game/UpdateScript0.04.rpy:948 ## translate crowdin nightly_sixtynine_9c326c27:
 msgid "[S] Well, I think I already feel like a lot of my sexual frustration is gone, so I'm really optimistic."
-msgstr ""
+msgstr "[S] Eh bien, je pense que j'ai déjà l'impression qu'une grande partie de ma frustration sexuelle a disparu, alors je suis vraiment optimiste."
 
 # game/UpdateScript0.04.rpy:949 ## translate crowdin nightly_sixtynine_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -1218,7 +1218,7 @@ msgstr "{i}{b}«Libido de Sidney -5»{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:951 ## translate crowdin nightly_sixtynine_80ea4dad:
 msgid "[R] Yeah.... well hopefully that took care of it."
-msgstr ""
+msgstr "[R] Ouais.... j'espère que ça se passera bien."
 
 # game/UpdateScript0.04.rpy:952 ## translate crowdin nightly_sixtynine_266e57df:
 msgid "[RT] {i}I'm pretty sure it did.... that is until I need her to suck my dick again!{/i}"
@@ -1226,7 +1226,7 @@ msgstr "[RT] {i}Je suis presque sûr que c'était le cas.... c'est jusqu'à ce q
 
 # game/UpdateScript0.04.rpy:953 ## translate crowdin nightly_sixtynine_640bd1ce:
 msgid "[S] Ok.... goodnight [ryan]."
-msgstr ""
+msgstr "[S] D'accord.... bonne nuit [ryan]."
 
 # game/UpdateScript0.04.rpy:954 ## translate crowdin nightly_sixtynine_195aac2d:
 msgid "[R] Goodnight, Sidney."
@@ -1254,11 +1254,11 @@ msgstr "[S] Ouais, je viens de me coucher il y a environ 10 minutes.... donc je 
 
 # game/UpdateScript0.04.rpy:977 ## translate crowdin nightly_sixtynine_684bd51f:
 msgid "[R] Yeah.... I was just wondering if you needed to.... you know..."
-msgstr ""
+msgstr "[R] Ouais.... Je me demandais si tu en avais besoin.... tu sais..."
 
 # game/UpdateScript0.04.rpy:980 ## translate crowdin nightly_sixtynine_5a248bb8:
 msgid "[S] Hmmmmm..."
-msgstr ""
+msgstr "[S] Hmmmmm..."
 
 # game/UpdateScript0.04.rpy:982 ## translate crowdin nightly_sixtynine_5268cc66:
 msgid "[S] Well, we did it just last night.... did it keep me from being handsy in my sleep?"
@@ -1438,11 +1438,11 @@ msgstr "[S] Ouais, je viens de me coucher il y a environ 10 minutes.... donc je 
 
 # game/UpdateScript0.04.rpy:1133 ## translate crowdin nightly_sixtynine_684bd51f_1:
 msgid "[R] Yeah.... I was just wondering if you needed to.... you know..."
-msgstr ""
+msgstr "[R] Ouais.... Je me demandais si tu en avais besoin.... tu sais..."
 
 # game/UpdateScript0.04.rpy:1136 ## translate crowdin nightly_sixtynine_5a248bb8_1:
 msgid "[S] Hmmmmm..."
-msgstr ""
+msgstr "[S] Hmmmmm..."
 
 # game/UpdateScript0.04.rpy:1138 ## translate crowdin nightly_sixtynine_5268cc66_1:
 msgid "[S] Well, we did it just last night.... did it keep me from being handsy in my sleep?"
@@ -12354,7 +12354,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:6114 ## translate crowdin wr_gape_5a248bb8:
 msgid "[S] Hmmmmm..."
-msgstr ""
+msgstr "[S] Hmmmmm..."
 
 # game/UpdateScript0.04.rpy:6115 ## translate crowdin wr_gape_7b04a39f:
 msgid "[R] Sidney! I don't know what you're thinking, but don't get involved. Just let me handle it."
