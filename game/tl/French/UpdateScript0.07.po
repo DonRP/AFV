@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-01 20:06\n"
+"PO-Revision-Date: 2022-03-09 16:57\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -14762,27 +14762,27 @@ msgstr "[RT] {i}Je ne m'attendais pas à ce que l'école soit sur notre dos. Que
 
 # game/UpdateScript0.07.rpy:8930 ## translate crowdin new_jacky_caught_office_4c90c24b:
 msgid "[R] Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
-msgstr ""
+msgstr "[R] Oh, salut Megan, salut Matt. Où est Mademoiselle [mom_name]? Je pensais l'avoir vue ici."
 
 # game/UpdateScript0.07.rpy:8931 ## translate crowdin new_jacky_caught_office_ec48f479:
 msgid "[MG] She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
-msgstr ""
+msgstr "[MG] Elle est partie, elle semblait un peu pressée. Il fallait probablement faire quelque chose avant le début de son prochain cours."
 
 # game/UpdateScript0.07.rpy:8932 ## translate crowdin new_jacky_caught_office_8b78ea83:
 msgid "[MG] Is everything ok?"
-msgstr ""
+msgstr "[MG] Tout va bien?"
 
 # game/UpdateScript0.07.rpy:8933 ## translate crowdin new_jacky_caught_office_3a55d753:
 msgid "[R] Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
-msgstr ""
+msgstr "[R] Ouais.... bien sûr.... J'ai juste besoin de lui parler un peu plus de cette stupide mission d'Œdipe."
 
 # game/UpdateScript0.07.rpy:8934 ## translate crowdin new_jacky_caught_office_acb772d1:
 msgid "[MB] Haha.... yeah, that's some kinky shit to be teaching us in school."
-msgstr ""
+msgstr "[MB] Haha.... ouais, c'est de la merde de nous enseigner ça à l'école."
 
 # game/UpdateScript0.07.rpy:8935 ## translate crowdin new_jacky_caught_office_f570eda3:
 msgid "[MB] Are you sure you're not just exploring the Oedipal Complex side of this assignment with your mom in her office? Hahahahah..."
-msgstr ""
+msgstr "[MB] Es-tu sûr que tu n'explores pas seulement le côté complexe œdipien de cette mission avec ta mère dans son bureau? Hahahahah..."
 
 # game/UpdateScript0.07.rpy:8936 ## translate crowdin new_jacky_caught_office_8eb0e85f:
 msgid "[R] Shut up!"
@@ -14790,7 +14790,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:8937 ## translate crowdin new_jacky_caught_office_40cd6e2d:
 msgid "[MG] Holy shit!"
-msgstr ""
+msgstr "[MG] Putain de merde!"
 
 # game/UpdateScript0.07.rpy:8938 ## translate crowdin new_jacky_caught_office_4881927b:
 msgid "[R] What?"
@@ -14798,11 +14798,11 @@ msgstr "[R] Quoi?"
 
 # game/UpdateScript0.07.rpy:8939 ## translate crowdin new_jacky_caught_office_9f8333c6:
 msgid "[MG] I just got a mental image.... wow!.... That really turns me on for some reason."
-msgstr ""
+msgstr "[MG] Je viens d'avoir une image mentale.... Ça alors!.... Cela m'excite vraiment pour une raison quelconque."
 
 # game/UpdateScript0.07.rpy:8940 ## translate crowdin new_jacky_caught_office_4580e4dd:
 msgid "[R] What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
-msgstr ""
+msgstr "[R] Quoi?.... Non.... pas d'image mentale!.... Il n'y a rien pour obtenir une image.... il ne se passe rien avec moi et Mademoiselle [mom_name]!"
 
 # game/UpdateScript0.07.rpy:8941 ## translate crowdin new_jacky_caught_office_2c78093e:
 msgid "[MGT] {i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
