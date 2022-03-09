@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-01 20:06\n"
+"PO-Revision-Date: 2022-03-09 16:57\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -5122,7 +5122,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2946 ## translate crowdin reward_for_payment_3a2fe1f4:
 msgid "[R] Not yet!"
-msgstr ""
+msgstr "[R] Pas encore!"
 
 # game/UpdateScript0.05.rpy:2947 ## translate crowdin reward_for_payment_0d313082:
 msgid "{i}\"Mom's Affection -1\"{/i}"
