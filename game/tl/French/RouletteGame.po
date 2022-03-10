@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:53\n"
+"PO-Revision-Date: 2022-03-10 17:00\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
 msgid "[@betPickVar]"
-msgstr ""
+msgstr "[@betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:547 ## translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "[RLT_dealer] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve(2.0)]"
