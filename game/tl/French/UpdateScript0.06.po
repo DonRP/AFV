@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-10 17:00\n"
+"PO-Revision-Date: 2022-03-11 17:00\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -78,7 +78,7 @@ msgstr "[AD] Qu'as-tu fait dernièrement?"
 
 # game/UpdateScript0.06.rpy:741 ## translate crowdin move_in_day_f16f0cd3:
 msgid "[R] Uhhhh...."
-msgstr ""
+msgstr "[R] Uhhhh ...."
 
 # game/UpdateScript0.06.rpy:742 ## translate crowdin move_in_day_3cd69e3c:
 msgid "[RT] {i}What the fuck?... What the hell did I do?{/i}"
@@ -5886,7 +5886,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4191 ## translate crowdin lauren_night_dfdc38a3:
 msgid "[R] Yeah...."
-msgstr ""
+msgstr "[R] Ouais...."
 
 # game/UpdateScript0.06.rpy:4192 ## translate crowdin lauren_night_f1842526:
 msgid "[MD] Wow! Did she kick you in the nuts?"
