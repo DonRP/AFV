@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 10:51\n"
+# "PO-Revision-Date: 2022-03-12 09:56\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -5130,6 +5130,7 @@ translate italian lauren_bath_fuck_614459df_1:
 translate italian lauren_bath_fuck_39b6dd9a:
 
     # RT "{i}That's feeling so good!... I'd better be careful, or I'm gonna cum early again.{/i}"
+    RT "{i}Mi sento così bene!... farei meglio a fare attenzione, o mi riproverò presto di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:2837
 translate italian lauren_bath_fuck_66d3497d_1:
@@ -5333,6 +5334,7 @@ translate italian lauren_bath_fuck_ce85fff6_1:
 translate italian lauren_bath_fuck_fd7ae671:
 
     # L "Haha... That's actually really sweet."
+    L "Haha... È davvero dolce."
 
 # game/UpdateScript0.07.rpy:2938
 translate italian lauren_bath_fuck_5848977a_1:
@@ -5356,6 +5358,7 @@ translate italian lauren_bath_fuck_642b9e4d:
 translate italian lauren_bath_fuck_6800d03d:
 
     # R "Don't worry, I'll take it slow again."
+    R "Non ti preoccupare, lo riprenderò lentamente."
 
 # game/UpdateScript0.07.rpy:2950
 translate italian lauren_bath_fuck_b154794f:
@@ -5373,6 +5376,7 @@ translate italian lauren_bath_fuck_b2c5f641:
 translate italian lauren_bath_fuck_f0df638b:
 
     # L "Mmmm... I still feel so dirty now, having my own brother... fuck me on the bathroom floor."
+    L "Mmmm... Mi sento ancora così sporco ora, avendo mio proprio fratello... mi scopa sul pavimento del bagno."
 
 # game/UpdateScript0.07.rpy:2957
 translate italian lauren_bath_fuck_cd34cdb3_1:
@@ -5396,6 +5400,7 @@ translate italian lauren_bath_fuck_e2f1f235_1:
 translate italian lauren_bath_fuck_b1267768:
 
     # R "Remember not to scream again!"
+    R "Ricordati di non urlare ancora!"
 
 # game/UpdateScript0.07.rpy:2966
 translate italian lauren_bath_fuck_1d20b872_1:
@@ -5593,16 +5598,19 @@ translate italian lauren_bath_fuck_7b4309d8:
 translate italian lauren_bath_fuck_369dd9e0:
 
     # R "Aren't you a dirty girl, though?"
+    R "Non è una ragazza sporca, però?"
 
 # game/UpdateScript0.07.rpy:3063
 translate italian lauren_bath_fuck_d163bc27:
 
     # L "Oh yes, I am a dirty girl."
+    L "Oh sì, sono una ragazza sporca."
 
 # game/UpdateScript0.07.rpy:3066
 translate italian lauren_bath_fuck_94b9215e:
 
     # R "Dirty enough to try some anal next time?"
+    R "Sporco abbastanza per provare un po' di anale la prossima volta?"
 
 # game/UpdateScript0.07.rpy:3070
 translate italian lauren_bath_fuck_ceb3f298:
@@ -5638,11 +5646,13 @@ translate italian lauren_bath_fuck_0ec656cc:
 translate italian lauren_bath_fuck_bd0321f7:
 
     # L "You're not talking about your finger, are you?"
+    L "Non stai parlando del tuo dito, vero?"
 
 # game/UpdateScript0.07.rpy:3077
 translate italian lauren_bath_fuck_fcf3fcdd:
 
     # L "You're suggesting something bigger, as in, your dick."
+    L "Stai suggerendo qualcosa di più grande, come in, il tuo cazzo."
 
 # game/UpdateScript0.07.rpy:3078
 translate italian lauren_bath_fuck_ead89bff:
@@ -5786,66 +5796,79 @@ translate italian lauren_bath_fuck_e0d6438a_1:
 translate italian lauren_bath_fuck_3f7899b2:
 
     # L "Oh... Hey, [ryan]... I was just about to jump in the shower."
+    L "Oh... Hey, [ryan]... Stavo per saltare nella doccia."
 
 # game/UpdateScript0.07.rpy:3125
 translate italian lauren_bath_fuck_829d39a3:
 
     # R "Oh, sorry... I didn't know anybody was in here."
+    R "Oh, mi dispiace... Non sapevo che qualcuno fosse qui dentro."
 
 # game/UpdateScript0.07.rpy:3126
 translate italian lauren_bath_fuck_5734a306:
 
     # R "Don't you usually sleep in on the weekend?"
+    R "Di solito non dormi il fine settimana?"
 
 # game/UpdateScript0.07.rpy:3127
 translate italian lauren_bath_fuck_74dc30d8:
 
     # L "I used to. Now, it's one of the only times I can get the bathroom to myself."
+    L "Io ero abituato. Ora, è una delle uniche volte che posso portare il bagno a me stesso."
 
 # game/UpdateScript0.07.rpy:3128
 translate italian lauren_bath_fuck_1483bc21:
 
     # L "Mandy and I worked it out so that I can shower by myself on Saturdays while she sleeps in, and I can sleep in on Sunday while she showers by herself."
+    L "Mandy ed io l'ho lavorato in modo che io possa fare la doccia da solo il sabato mentre dorme, e posso dormire la domenica, mentre lei acquista da sola."
 
 # game/UpdateScript0.07.rpy:3129
 translate italian lauren_bath_fuck_f6a05be9:
 
     # L "Every other day of the week, we have to share."
+    L "Ogni altro giorno della settimana dobbiamo condividere."
 
 # game/UpdateScript0.07.rpy:3130
 translate italian lauren_bath_fuck_a0cc062e:
 
     # RT "{i}I know... and I get to watch it all on my spycam app.{/i}"
+    RT "{i}Lo so... e riesco a guardare tutto sulla mia app spycam.{/i}"
 
 # game/UpdateScript0.07.rpy:3131
 translate italian lauren_bath_fuck_d7ec91b0:
 
     # R "It's hard to have so many people in such a small house."
+    R "È difficile avere tante persone in una casa così piccola."
 
 # game/UpdateScript0.07.rpy:3132
 translate italian lauren_bath_fuck_631d8d50:
 
     # L "Yeah... So, what can I can do for you?"
+    L "Sì... Allora, cosa posso fare per voi?"
 
 # game/UpdateScript0.07.rpy:3133
 translate italian lauren_bath_fuck_b8f4bc02:
 
     # R "Well, I was hoping to get into the bathroom, but now that I see you're naked in here... I want to get in even more."
+    R "Bene, speravo di entrare in bagno, ma ora che vedo che sei nudo qui... Io voglio entrare ancora più."
 
 # game/UpdateScript0.07.rpy:3142
 translate italian lauren_bath_fuck_731dfb49:
 
     # L "[ryan]!... What if someone comes and finds us in the bathroom together?"
+    L "[ryan]!... Cosa succede se qualcuno viene e ci trova in bagno insieme?"
 
 # game/UpdateScript0.07.rpy:3143
 translate italian lauren_bath_fuck_9895bcff:
 
     # R "No one's gonna come. Everyone's either sleeping or working out."
+    R "Nessuno verrà. Tutti dormono o si allenano."
 
 # game/UpdateScript0.07.rpy:3147
 translate italian lauren_bath_fuck_4b5b22f6:
 
     # L "[ryan], I'm pretty sure I know why you want in here."
+    L "[ryan], Sono abbastanza sicuro che so perché vuoi dentro qui."
 
 # game/UpdateScript0.07.rpy:3148
 translate italian lauren_bath_fuck_b77f4cc3:
@@ -5863,31 +5886,37 @@ translate italian lauren_bath_fuck_83898829:
 translate italian lauren_bath_fuck_fc2f7f27:
 
     # L "You know why."
+    L "Tu sai perché."
 
 # game/UpdateScript0.07.rpy:3152
 translate italian lauren_bath_fuck_db0934d1:
 
     # R "Come on... You've got to let that go."
+    R "Avanti... Devi lasciarlo andare."
 
 # game/UpdateScript0.07.rpy:3155
 translate italian lauren_bath_fuck_85760340:
 
     # L "I've let it go, but I'm not going to let you forget."
+    L "Ho lasciato andare, ma non ti farò dimenticare."
 
 # game/UpdateScript0.07.rpy:3156
 translate italian lauren_bath_fuck_67bcb145:
 
     # L "How can you expect me to do anything like that for you, when you were unwilling to help me out when I really needed you."
+    L "Come puoi aspettarti che io faccia qualcosa di simile per te, quando non eravate disposti ad aiutarmi quando avevo veramente bisogno di voi."
 
 # game/UpdateScript0.07.rpy:3157
 translate italian lauren_bath_fuck_39482d0c:
 
     # R "I'm doing the best I can... I've got a lot of people I'm trying to help at the same time."
+    R "Sto facendo il meglio che posso... Ho un sacco di persone che sto cercando di aiutare allo stesso tempo."
 
 # game/UpdateScript0.07.rpy:3158
 translate italian lauren_bath_fuck_d14ce274:
 
     # L "I guess I just expected you to prioritize me a little higher on your list of people."
+    L "Suppongo che mi aspettassi che tu mi dia la priorità un po' più in alto nella tua lista di persone."
 
 # game/UpdateScript0.07.rpy:3161
 translate italian lauren_bath_fuck_2f541f89_1:
@@ -5899,6 +5928,7 @@ translate italian lauren_bath_fuck_2f541f89_1:
 translate italian lauren_bath_fuck_beb6eb7e:
 
     # RT "{i}Dammit!... She's always going to blame me for losing that election.{/i}"
+    RT "{i}Dammit!... Mi incolperà sempre per aver perso quella elezione.{/i}"
 
 # game/UpdateScript0.07.rpy:3163
 translate italian lauren_bath_fuck_86f60a1e:
@@ -5910,6 +5940,7 @@ translate italian lauren_bath_fuck_86f60a1e:
 translate italian lauren_bath_fuck_78adb2f5:
 
     # {i}\"Try visiting Lauren again in the bathroom on Saturday, in the early morning when her libido is either a 9 or a 10.\"{/i}"
+    new "{i}\"Prova a visitare Lauren di nuovo in bagno il sabato, al mattino presto, quando la sua libido è 9 o 10.\"{/i}"
 
 # game/UpdateScript0.07.rpy:3173
 translate italian lauren_bath_fuck_71d650b9:
@@ -5957,6 +5988,7 @@ translate italian lauren_bath_fuck_49c3916d_1:
 translate italian lauren_bath_fuck_fdc4827d:
 
     # L "You don't deserve this, but I'm feeling really needy right now."
+    L "Non lo meriti, ma mi sento davvero bisognoso in questo momento."
 
 # game/UpdateScript0.07.rpy:3192
 translate italian lauren_bath_fuck_446c4c17_1:
@@ -5974,26 +6006,31 @@ translate italian lauren_bath_fuck_17805b07_1:
 translate italian lauren_bath_fuck_e312750c:
 
     # L "I'm sorry to always be comparing your dick to Matt's, but even though your dick is smaller, I really do prefer this size over Matt's whopper."
+    L "Mi dispiace di confrontare sempre il tuo cazzo con quello di Matt, ma anche se il tuo cazzo è più piccolo, io davvero preferisco questa dimensione rispetto al whopper di Matt."
 
 # game/UpdateScript0.07.rpy:3197
 translate italian lauren_bath_fuck_4c201333:
 
     # R "I think most guys wouldn't like to hear that, but I feel pretty good about my size."
+    R "Penso che la maggior parte dei ragazzi non vorrebbe sentirlo, ma mi sento abbastanza bene sulle mie dimensioni."
 
 # game/UpdateScript0.07.rpy:3198
 translate italian lauren_bath_fuck_ddd9e7c7:
 
     # L "Yeah, it's not nearly as hard on my throat."
+    L "Sì, non è così duro sulla mia gola."
 
 # game/UpdateScript0.07.rpy:3200
 translate italian lauren_bath_fuck_b047c562:
 
     # L "You ready for the best head of your life?"
+    L "Sei pronto per il miglior capo della tua vita?"
 
 # game/UpdateScript0.07.rpy:3201
 translate italian lauren_bath_fuck_a2b84823:
 
     # R "Oh, yeah!"
+    R "Ah, sì!"
 
 # game/UpdateScript0.07.rpy:3202
 translate italian lauren_bath_fuck_93a51295_1:
@@ -6041,6 +6078,7 @@ translate italian lauren_bath_fuck_614459df_2:
 translate italian lauren_bath_fuck_907da8f7:
 
     # RT "{i}It's been a while since Lauren made me cum... I'd better be careful, or I'm gonna cum soon.{/i}"
+    RT "{i}È passato un po' di tempo da quando Lauren mi ha fatto cum... farei meglio a fare attenzione, o presto lo spero.{/i}"
 
 # game/UpdateScript0.07.rpy:3213
 translate italian lauren_bath_fuck_66d3497d_2:
@@ -6142,6 +6180,7 @@ translate italian lauren_bath_fuck_771b26cb:
 translate italian lauren_bath_fuck_5ee7a8f6:
 
     # R "Sorry, it's just been so long since we fooled around... I couldn't help myself."
+    R "Mi dispiace, è passato così tanto tempo che abbiamo ingannato intorno... Non potevo aiutarmi."
 
 # game/UpdateScript0.07.rpy:3271
 translate italian lauren_bath_fuck_a474b856:
@@ -6183,6 +6222,7 @@ translate italian lauren_bath_fuck_f89b3c4a_2:
 translate italian lauren_bath_fuck_3f44eaec:
 
     # L "I'm sorry you're finished already, I was hoping that I'd get a ride on this stallion."
+    L "Mi dispiace di aver già finito, speravo che avrei fatto un giro su questo stallone."
 
 # game/UpdateScript0.07.rpy:3300
 translate italian lauren_bath_fuck_e8a67bd6:
@@ -6194,6 +6234,7 @@ translate italian lauren_bath_fuck_e8a67bd6:
 translate italian lauren_bath_fuck_ea152193:
 
     # R "Really?... You were gonna let me fuck you?"
+    R "Davvero?... Tu mi hai lasciato scopare?"
 
 # game/UpdateScript0.07.rpy:3302
 translate italian lauren_bath_fuck_34662c3f:
@@ -6235,16 +6276,19 @@ translate italian lauren_bath_fuck_5848977a_2:
 translate italian lauren_bath_fuck_d496fea7:
 
     # R "I'll try not to be to rough."
+    R "Cercherò di non essere ruvida."
 
 # game/UpdateScript0.07.rpy:3317
 translate italian lauren_bath_fuck_d65d87a8:
 
     # L "Oh, for fuck's sake, just pound me!... I'm used to Matt's dick, remember?"
+    L "Oh, per amor di scopata, mi ha appena sterlinato!... sono abituato al cazzo di Matt, ricordati?"
 
 # game/UpdateScript0.07.rpy:3318
 translate italian lauren_bath_fuck_8aeeb490:
 
     # R "Oh... right."
+    R "Oh... destra."
 
 # game/UpdateScript0.07.rpy:3323
 translate italian lauren_bath_fuck_a6a79bd1_1:
@@ -6262,6 +6306,7 @@ translate italian lauren_bath_fuck_cbc3542f_1:
 translate italian lauren_bath_fuck_dc77ece8:
 
     # R "You're such a... dirty slut now!"
+    R "Sei una tale troia sporca adesso!"
 
 # game/UpdateScript0.07.rpy:3326
 translate italian lauren_bath_fuck_eb3ae50d_1:
@@ -6273,6 +6318,7 @@ translate italian lauren_bath_fuck_eb3ae50d_1:
 translate italian lauren_bath_fuck_891fac24:
 
     # L "Nnnnn... you're just jealous... that I'm not your... slut."
+    L "Nnnnn... sei solo geloso... che non sono tuo... troia."
 
 # game/UpdateScript0.07.rpy:3328
 translate italian lauren_bath_fuck_e4b74217_1:
@@ -6284,6 +6330,7 @@ translate italian lauren_bath_fuck_e4b74217_1:
 translate italian lauren_bath_fuck_b5a9fb57:
 
     # L "Ok, [ryan]. You win... I'm your slut right now!"
+    L "Ok, [ryan]. Hai vinto... Sono la tua troia in questo momento!"
 
 # game/UpdateScript0.07.rpy:3332
 translate italian lauren_bath_fuck_8957b0f8_1:
@@ -6295,6 +6342,7 @@ translate italian lauren_bath_fuck_8957b0f8_1:
 translate italian lauren_bath_fuck_fa207329:
 
     # L "Now fuck... your dirty... slut!"
+    L "Ora scopata... il tuo sporco... troia!"
 
 # game/UpdateScript0.07.rpy:3336
 translate italian lauren_bath_fuck_cd34cdb3_2:
@@ -6306,6 +6354,7 @@ translate italian lauren_bath_fuck_cd34cdb3_2:
 translate italian lauren_bath_fuck_9afa647f:
 
     # L "I can see your dick moving around... inside of me."
+    L "Posso vedere il tuo cazzo muoversi intorno... dentro di me."
 
 # game/UpdateScript0.07.rpy:3338
 translate italian lauren_bath_fuck_e2f1f235_2:
@@ -6353,6 +6402,7 @@ translate italian lauren_bath_fuck_d1cbd325_2:
 translate italian lauren_bath_fuck_53405511:
 
     # R "Oh, yeah... I'm gonna fuck... that slutty cunt raw!"
+    R "Oh, sì... Mi farò scopare... quella troia troia cruda!"
 
 # game/UpdateScript0.07.rpy:3355
 translate italian lauren_bath_fuck_739d682a_1:
@@ -7534,106 +7584,127 @@ translate italian breakfast_for_will_3ad23a44:
 translate italian breakfast_for_will_02d640b5:
 
     # R "So, I got to meet school board member Will Tylor the other day."
+    R "Così, ho avuto modo di incontrare membro del consiglio scolastico Will Tylor l'altro giorno."
 
 # game/UpdateScript0.07.rpy:3850
 translate italian breakfast_for_will_41625296:
 
     # M "Really?... Where did you run into him?"
+    M "Davvero?... Dove sei entrato in lui?"
 
 # game/UpdateScript0.07.rpy:3851
 translate italian breakfast_for_will_95b7d399:
 
     # R "Uhh... Just at school, He asked me if I knew where Principal Hardun was, and introduced himself."
+    R "Uhh... Proprio a scuola, mi ha chiesto se sapevo dove era il Principale Hardun, e si presentò."
 
 # game/UpdateScript0.07.rpy:3852
 translate italian breakfast_for_will_71ab9866:
 
     # M "Nobody told me he was going to be there... I've been trying to get another meeting with him for forever. I really want to talk to him about his bullshit curriculum."
+    M "Nessuno mi ha detto che sarebbe stato lì... Ho cercato di ottenere un altro incontro con lui per sempre. Voglio davvero parlare con lui del suo curriculum di bullshit."
 
 # game/UpdateScript0.07.rpy:3853
 translate italian breakfast_for_will_d3926e72:
 
     # R "Well, your wish is about to come true... After talking for a few minutes he realized I was your son and started asking about you."
+    R "Beh, il tuo desiderio sta per avverarsi... Dopo aver parlato per qualche minuto ha capito che ero tuo figlio e ha iniziato a chiederti."
 
 # game/UpdateScript0.07.rpy:3860
 translate italian breakfast_for_will_704483d7:
 
     # M "Oh God, really?... I wonder if I made a bad impression on him the last time I talked to him."
+    M "Oh Dio, davvero?... Mi chiedo se ho fatto una cattiva impressione su di lui l'ultima volta che ho parlato con lui."
 
 # game/UpdateScript0.07.rpy:3861
 translate italian breakfast_for_will_8228cb90:
 
     # R "I think it was the opposite. He seemed to be quite taken by you."
+    R "Penso che fosse il contrario. Sembrava che fosse abbastanza preso da te."
 
 # game/UpdateScript0.07.rpy:3862
 translate italian breakfast_for_will_a0bd9fba:
 
     # R "He seems to think you are a very dedicated teacher, and complimented your beauty several times."
+    R "Egli sembra pensare di essere un insegnante molto dedicato, e complimentato la vostra bellezza diverse volte."
 
 # game/UpdateScript0.07.rpy:3869
 translate italian breakfast_for_will_8079df41:
 
     # M "Really?... He said that?"
+    M "Davvero?... Lo diceva?"
 
 # game/UpdateScript0.07.rpy:3876
 translate italian breakfast_for_will_77c73840:
 
     # M "I mean... Of course that pervert would say something like that."
+    M "Intendo dire... Naturalmente quel perverso direbbe qualcosa di simile."
 
 # game/UpdateScript0.07.rpy:3879
 translate italian breakfast_for_will_aca881f7:
 
     # R "He said he was hoping he could meet with you sometime outside of school... It sounded like he wanted to go on a date."
+    R "Disse che sperava di potersi incontrare con te qualche volta fuori scuola... Sembrava che volesse andare in un appuntamento."
 
 # game/UpdateScript0.07.rpy:3880
 translate italian breakfast_for_will_1a03f12c:
 
     # R "He said it would be strictly professional, but he asked me to email him and let him know if you'd be willing to meet with him for dinner."
+    R "Ha detto che sarebbe strettamente professionale, ma mi ha chiesto di mandarlo via email e fargli sapere se sareste disposti a incontrarlo per cena."
 
 # game/UpdateScript0.07.rpy:3881
 translate italian breakfast_for_will_73da98ba:
 
     # M "Ummm, yeah... tell him that would be fine."
+    M "Ummm, sì... gli dica che sarebbe bene."
 
 # game/UpdateScript0.07.rpy:3882
 translate italian breakfast_for_will_567af9c0:
 
     # R "Really?... You don't have any hesitation about going on a date with another man while your husband is in jail?"
+    R "Davvero?... Non hai alcuna esitazione ad andare in un appuntamento con un altro uomo mentre tuo marito è in prigione?"
 
 # game/UpdateScript0.07.rpy:3889
 translate italian breakfast_for_will_df4e2dec:
 
     # M "[ryan]! This kind of thing is done all the time between people who work together."
+    M "[ryan]! Questo genere di cose è fatto tutto il tempo tra le persone che lavorano insieme."
 
 # game/UpdateScript0.07.rpy:3890
 translate italian breakfast_for_will_de98daf9:
 
     # M "Get it out of your head that this is a date."
+    M "Fallo fuori dalla tua testa che questo è un appuntamento."
 
 # game/UpdateScript0.07.rpy:3891
 translate italian breakfast_for_will_7031cb47:
 
     # M "It's just going to be a professional dinner between colleagues."
+    M "Sarà solo una cena professionale tra colleghi."
 
 # game/UpdateScript0.07.rpy:3892
 translate italian breakfast_for_will_ed5943c6:
 
     # M "Now, eat your breakfast."
+    M "Ora, mangiate la colazione."
 
 # game/UpdateScript0.07.rpy:3899
 translate italian breakfast_for_will_34e0de68:
 
     # RT "{i}Is Mom being too casual about having dinner with a known pervert, or am I just worrying about nothing?{/i}"
+    RT "{i}La mamma è troppo casuale per cenare con un perverso conosciuto, o sono solo preoccupante per niente?{/i}"
 
 # game/UpdateScript0.07.rpy:3900
 translate italian breakfast_for_will_dbd3f957:
 
     # RT "{i}It doesn't seem to bother her at all... And I know she doesn't have a very high opinion of Will Tylor.{/i}"
+    RT "{i}Sembra che non la disturbi affatto... E so che non ha un'opinione molto alta su Will Tylor.{/i}"
 
 # game/UpdateScript0.07.rpy:3901
 translate italian breakfast_for_will_a4fc2955:
 
     # RT "{i}I guess I'll just relax and not worry about it.{/i}"
+    RT "{i}Immagino che mi rilasserò e non preoccuparti di esso.{/i}"
 
 # game/UpdateScript0.07.rpy:3906
 translate italian breakfast_for_will_b34ac591:
@@ -7663,21 +7734,25 @@ translate italian breakfast_for_will_9a25c148:
 translate italian breakfast_for_will_735f0028:
 
     # M "Ok... I guess I can do that."
+    M "Ok... Credo di poterlo fare."
 
 # game/UpdateScript0.07.rpy:3917
 translate italian breakfast_for_will_f830f74c:
 
     # M "There... how's that?"
+    M "Lì... com'è?"
 
 # game/UpdateScript0.07.rpy:3924
 translate italian breakfast_for_will_3bcfcf74:
 
     # R "They're perfect... I mean the syrup's perfect!"
+    R "Sono perfetti... voglio dire lo sciroppo perfetto!"
 
 # game/UpdateScript0.07.rpy:3931
 translate italian breakfast_for_will_66049438:
 
     # MT "{i}You bold, cheeky bastard!... I know what that was about.{/i}"
+    MT "{i}Tu sei audace, sfacciato bastardo!... So di cosa si tratta.{/i}"
 
 # game/UpdateScript0.07.rpy:3932
 translate italian breakfast_for_will_b22aa88f:
@@ -7689,6 +7764,7 @@ translate italian breakfast_for_will_b22aa88f:
 translate italian breakfast_for_will_c6b72e6a:
 
     # MT "{i}Shit!... I need to get laid, so I'm not always so horny around [ryan] and the girls!{/i}"
+    MT "{i}Merda!... Ho bisogno di essere posato, quindi non sono sempre così eccitata intorno [ryan] e le ragazze!{/i}"
 
 # game/UpdateScript0.07.rpy:3940
 translate italian breakfast_for_will_c188eacb:
@@ -7718,11 +7794,13 @@ translate italian breakfast_for_will_baf3b20e:
 translate italian breakfast_for_will_e22b830c:
 
     # RT "{i}Oh, she doesn't seem in any hurry to close that robe! Is it possible she's showing them off to me on purpose?{/i}"
+    RT "{i}Oh, lei non sembra in fretta di chiudere quella veste! È possibile che mi mostri di proposito?{/i}"
 
 # game/UpdateScript0.07.rpy:3968
 translate italian breakfast_for_will_cb5d71b0:
 
     # RT "{i}Look at that sexy redhead, just blabbering on about her social life.{/i}"
+    RT "{i}Guardate quella rossa sexy, solo blabbering sulla sua vita sociale.{/i}"
 
 # game/UpdateScript0.07.rpy:3969
 translate italian breakfast_for_will_b87f6dad:
@@ -7734,6 +7812,7 @@ translate italian breakfast_for_will_b87f6dad:
 translate italian breakfast_for_will_2f1cf092:
 
     # L "And so I said to Kenzie..."
+    L "E così ho detto a Kenzie..."
 
 # game/UpdateScript0.07.rpy:3983
 translate italian breakfast_for_will_9993b94e:
@@ -7745,11 +7824,13 @@ translate italian breakfast_for_will_9993b94e:
 translate italian breakfast_for_will_84b6ba1d:
 
     # S "What?... What did you say to Kenzie?"
+    S "Cosa?... Cosa hai detto a Kenzie?"
 
 # game/UpdateScript0.07.rpy:3985
 translate italian breakfast_for_will_0926db82:
 
     # L "Never mind... it was a stupid story."
+    L "Mai mente... era una storia stupida."
 
 # game/UpdateScript0.07.rpy:3992
 translate italian breakfast_for_will_098f7eca:
@@ -7761,6 +7842,7 @@ translate italian breakfast_for_will_098f7eca:
 translate italian breakfast_for_will_fc1289f4:
 
     # LT "{i}Ohhh... but his toes do feel good!{/i}"
+    LT "{i}Ohhh... ma le dita dei piedi si sentono bene!{/i}"
 
 # game/UpdateScript0.07.rpy:3994
 translate italian breakfast_for_will_b6b6edb2:
@@ -7772,6 +7854,7 @@ translate italian breakfast_for_will_b6b6edb2:
 translate italian breakfast_for_will_5f5a4fb7:
 
     # L "Uhhh... yeah... I'm great!..."
+    L "Uhhh... sì... sono fantastico!..."
 
 # game/UpdateScript0.07.rpy:3996
 translate italian breakfast_for_will_657dc9c8:
@@ -7795,11 +7878,13 @@ translate italian breakfast_for_will_2a2cec7a:
 translate italian breakfast_for_will_7754c292:
 
     # S "So, I had to start over from scratch, and when I finally got the new outfit put together according to his specifications..."
+    S "Così, ho dovuto ricominciare da zero, e quando ho finalmente ottenuto il nuovo outfit messo insieme secondo le sue specifiche..."
 
 # game/UpdateScript0.07.rpy:4012
 translate italian breakfast_for_will_e8609974:
 
     # S "... do you know what he said to me?..."
+    S "... sai cosa mi ha detto?..."
 
 # game/UpdateScript0.07.rpy:4015
 translate italian breakfast_for_will_971a98df:
@@ -7811,11 +7896,13 @@ translate italian breakfast_for_will_971a98df:
 translate italian breakfast_for_will_f88ffa27:
 
     # M "What?..."
+    M "Cosa?..."
 
 # game/UpdateScript0.07.rpy:4017
 translate italian breakfast_for_will_dc76e6ad:
 
     # S "Huhhh?..."
+    S "Huhhhh?..."
 
 # game/UpdateScript0.07.rpy:4018
 translate italian breakfast_for_will_1092ccca:
@@ -7833,6 +7920,7 @@ translate italian breakfast_for_will_48316325:
 translate italian breakfast_for_will_bc712a12:
 
     # M "Huh..."
+    M "Huh..."
 
 # game/UpdateScript0.07.rpy:4021
 translate italian breakfast_for_will_1b544818:
@@ -7862,6 +7950,7 @@ translate italian breakfast_for_will_9dd42229:
 translate italian breakfast_for_will_6e0dab43:
 
     # {b}{i}\"Sidney's Libido +1\"{/i}{/b}"
+    new "{b}{i}\"Libido di Sidney +1\"\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4038
 translate italian mandy_school_breakfast_8d9a4b12:
@@ -7873,101 +7962,121 @@ translate italian mandy_school_breakfast_8d9a4b12:
 translate italian mandy_school_breakfast_a5cf6145:
 
     # M "Good morning, how did everyone sleep?"
+    M "Buongiorno, come hanno dormito tutti?"
 
 # game/UpdateScript0.07.rpy:4054
 translate italian mandy_school_breakfast_3ced7c46:
 
     # L "Mom, do you think Mandy could change schools and join ours?"
+    L "Mamma, pensi che Mandy potrebbe cambiare scuola e unirsi alla nostra?"
 
 # game/UpdateScript0.07.rpy:4055
 translate italian mandy_school_breakfast_ceea6973:
 
     # M "Oh I don't know, honey. Cami doesn't have any money to pay for a private school."
+    M "Oh non lo so, il miele. Cami non ha soldi da pagare per una scuola privata."
 
 # game/UpdateScript0.07.rpy:4056
 translate italian mandy_school_breakfast_40d0f7ea:
 
     # L "But she's going to one now. Isn't there any way to transfer her to ours?"
+    L "Ma lei sta andando a uno ora. Non c'è modo di trasferirla al nostro?"
 
 # game/UpdateScript0.07.rpy:4057
 translate italian mandy_school_breakfast_c3b0932f:
 
     # M "I don't think so, plus Cami probably doesn't want her to change schools."
+    M "Non lo credo, più Cami probabilmente non vuole che lei cambi scuola."
 
 # game/UpdateScript0.07.rpy:4060
 translate italian mandy_school_breakfast_1161a282:
 
     # S "Why not, your school is way better, Mom. You guys even have that model UN. Didn't they win a contest recently or something?"
+    S "Perché no, la tua scuola è molto meglio, la mamma. Hai anche quel modello ONU. Non hanno vinto un concorso di recente o qualcosa?"
 
 # game/UpdateScript0.07.rpy:4063
 translate italian mandy_school_breakfast_018c79a1:
 
     # R "Yah, they did. They are going to New York to visit the actual UN. Kinda crazy a bunch of high schoolers are going to the real UN."
+    R "Sì, lo hanno fatto. Si recheranno a New York per visitare le vere Nazioni Unite. Kinda pazzo un gruppo di studenti superiori stanno andando alle vere Nazioni Unite."
 
 # game/UpdateScript0.07.rpy:4064
 translate italian mandy_school_breakfast_c72f803a:
 
     # L "{i}(mumbling){/i} It should have been me..."
+    L "{i}(mumbling){/i} Avrebbe dovuto essermi stato..."
 
 # game/UpdateScript0.07.rpy:4065
 translate italian mandy_school_breakfast_51027e15:
 
     # M "What was that, sweety?"
+    M "Cos'era quella, dolce?"
 
 # game/UpdateScript0.07.rpy:4072
 translate italian mandy_school_breakfast_2e8aff58:
 
     # L "I said, it should have been me!"
+    L "Ho detto che avrei dovuto essere io!"
 
 # game/UpdateScript0.07.rpy:4073
 translate italian mandy_school_breakfast_d352578f:
 
     # R "Oh boy here we go again."
+    R "Oh boy qui andiamo di nuovo."
 
 # game/UpdateScript0.07.rpy:4080
 translate italian mandy_school_breakfast_0760ce89:
 
     # L "It should have, [ryan]. Lisa cheated in the student council election. I should be student council president. Do you know how good that would look on college scholarship application?"
+    L "Dovrebbe avere, [ryan]. Lisa imbrogliato nell'elezione del consiglio studentesco. Dovrei essere presidente del consiglio studentesco. Sapete quanto bene che sembrerebbe sulla domanda di borse di studio universitaria?"
 
 # game/UpdateScript0.07.rpy:4087
 translate italian mandy_school_breakfast_8c798574:
 
     # M "Oh sweety, I'm sure Lisa didn't cheat."
+    M "Oh sweety, sono sicuro che Lisa non ha imbrogliato."
 
 # game/UpdateScript0.07.rpy:4088
 translate italian mandy_school_breakfast_4df11b87:
 
     # L "She did! And now with dad in jail and our family broke, I'll never get into a good college without a scholarship."
+    L "Ha fatto! E ora con papà in carcere e la nostra famiglia si è rotta, non entrerò mai in un buon college senza una borsa di studio."
 
 # game/UpdateScript0.07.rpy:4089
 translate italian mandy_school_breakfast_5a5b0f9f:
 
     # S "Jeez Lauren, calm down."
+    S "Jeez Lauren, calma."
 
 # game/UpdateScript0.07.rpy:4090
 translate italian mandy_school_breakfast_54ea0ef1:
 
     # R "Yah, don't be a sore loser."
+    R "Sì, non essere un perdente doloroso."
 
 # game/UpdateScript0.07.rpy:4097
 translate italian mandy_school_breakfast_ba526ac4:
 
     # M "Ok, enough you two!"
+    M "Ok, bastano due!"
 
 # game/UpdateScript0.07.rpy:4098
 translate italian mandy_school_breakfast_6ead4c1f:
 
     # MT "{i}Poor Lauren. She was really crushed when she lost that election.{/i}"
+    MT "{i}Povero Lauren. È stata davvero schiacciata quando ha perso quella elezione.{/i}"
 
 # game/UpdateScript0.07.rpy:4105
 translate italian mandy_school_breakfast_16ecc431:
 
     # M "Honey, I can't change what's happened, but what if I talk to the school board and see if there's any way Mandy can transfer to our school?"
+    M "Miele non posso cambiare quello che è successo, ma cosa succede se parlo con il consiglio scolastico e vedo se c'è qualche modo che Mandy può trasferire alla nostra scuola?"
 
 # game/UpdateScript0.07.rpy:4106
 translate italian mandy_school_breakfast_13633b5f:
 
     # L "I really would like that. Thank you, Mom."
+    L "Mi piacerebbe davvero questo. Grazie, mamma."
 
 # game/UpdateScript0.07.rpy:4123
 translate italian meeting_miss_jessica_e492cef9:
@@ -7979,26 +8088,31 @@ translate italian meeting_miss_jessica_e492cef9:
 translate italian meeting_miss_jessica_3b2152bb:
 
     # RT "{i}Wow! Jessica is our new secretary.{/i}"
+    RT "{i}Wow! Jessica è la nostra nuova segretaria.{/i}"
 
 # game/UpdateScript0.07.rpy:4125
 translate italian meeting_miss_jessica_a997b310:
 
     # RT "{i}I had a constant hard-on for her during my freshman year.{/i}"
+    RT "{i}Ho avuto un costante hard-on per lei durante il mio anno matricola.{/i}"
 
 # game/UpdateScript0.07.rpy:4126
 translate italian meeting_miss_jessica_6caf2318:
 
     # RT "{i}Watching her dance around in that sexy cheerleader uniform at pep rallies gave me plenty of spank material.{/i}"
+    RT "{i}Guardando il suo ballo in quella sexy cheerleader uniforme ai raduni pep mi ha dato un sacco di materiale sculacciato.{/i}"
 
 # game/UpdateScript0.07.rpy:4127
 translate italian meeting_miss_jessica_af5dce51:
 
     # RT "{i}She's only gotten prettier... And her breasts are a lot bigger.{/i}"
+    RT "{i}Lei è solo più carina... E i suoi seni sono molto più grandi.{/i}"
 
 # game/UpdateScript0.07.rpy:4128
 translate italian meeting_miss_jessica_78e6ec72:
 
     # RT "{i}Did she get fake boobs?{/i}"
+    RT "{i}Ha ottenuto delle tette false?{/i}"
 
 # game/UpdateScript0.07.rpy:4129
 translate italian meeting_miss_jessica_17e3aae0:
@@ -8016,6 +8130,7 @@ translate italian meeting_miss_jessica_e492cef9_1:
 translate italian meeting_miss_jessica_53e9b27e:
 
     # RT "{i}Has she even noticed I'm here?{/i}"
+    RT "{i}Ha persino notato che sono qui?{/i}"
 
 # game/UpdateScript0.07.rpy:4132
 translate italian meeting_miss_jessica_745fceec:
@@ -8027,6 +8142,7 @@ translate italian meeting_miss_jessica_745fceec:
 translate italian meeting_miss_jessica_06ad10f0:
 
     # MJ "Give me just a second."
+    MJ "Dammi solo un secondo."
 
 # game/UpdateScript0.07.rpy:4134
 translate italian meeting_miss_jessica_e492cef9_2:
@@ -8068,11 +8184,13 @@ translate italian meeting_miss_jessica_dc7a84b6_3:
 translate italian meeting_miss_jessica_1c48c8bd:
 
     # R "Miss Jessica... I've got stuff I need to do."
+    R "Miss Jessica... Ho delle cose che devo fare."
 
 # game/UpdateScript0.07.rpy:4143
 translate italian meeting_miss_jessica_aafce813:
 
     # R "Can you take just a minute to help me?"
+    R "Puoi prenderti solo un minuto per aiutarmi?"
 
 # game/UpdateScript0.07.rpy:4144
 translate italian meeting_miss_jessica_e492cef9_4:
@@ -8090,26 +8208,31 @@ translate italian meeting_miss_jessica_dc7a84b6_4:
 translate italian meeting_miss_jessica_86040aa0:
 
     # R "Miss Jessica!"
+    R "Signorina Jessica!"
 
 # game/UpdateScript0.07.rpy:4149
 translate italian meeting_miss_jessica_7992ca59:
 
     # MJ "Alright fine!... What's so important that you had to interrupt my messenger chat with my ex-boyfriend?"
+    MJ "Va bene!... Cosa c'è di così importante che hai dovuto interrompere la mia chat di messaggero con il mio ex fidanzato?"
 
 # game/UpdateScript0.07.rpy:4150
 translate italian meeting_miss_jessica_20b091d3:
 
     # RT "{i}Ex-boyfriend? She's on the market!{/i}"
+    RT "{i}Ex-boyfriend? Lei è sul mercato!{/i}"
 
 # game/UpdateScript0.07.rpy:4151
 translate italian meeting_miss_jessica_72a0421d:
 
     # R "Ex-boyfriend, huh?"
+    R "Ex fidanzato, eh?"
 
 # game/UpdateScript0.07.rpy:4152
 translate italian meeting_miss_jessica_a80c8f4e:
 
     # MJ "Yeah... Stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+    MJ "Sì... Stupid jerk! Mi ha lasciato per un'altra ragazza sulla mia squadra cheerleading del college. La stupida troia era anche mia sorella."
 
 # game/UpdateScript0.07.rpy:4153
 translate italian meeting_miss_jessica_7977fc9b:
@@ -8169,11 +8292,13 @@ translate italian meeting_miss_jessica_dc7a84b6_8:
 translate italian meeting_miss_jessica_f138a509:
 
     # MJ "Alright fine!... What's so important that you can't wait for me to finish my messenger chat with my ex-boyfriend?"
+    MJ "Va bene!... Cosa c'è di così importante che non puoi aspettare che finisca la mia chat di messaggero con il mio ex fidanzato?"
 
 # game/UpdateScript0.07.rpy:4169
 translate italian meeting_miss_jessica_7aa7f11c:
 
     # MJ "The stupid jerk! He left me for another girl on my college cheerleading squad. The stupid slut was also my sorority sister."
+    MJ "Lo stupido jerk! Mi ha lasciato per un'altra ragazza sulla mia squadra cheerleader. La stupida troia era anche la mia sorella."
 
 # game/UpdateScript0.07.rpy:4170
 translate italian meeting_miss_jessica_7977fc9b_1:
@@ -8233,6 +8358,7 @@ translate italian meeting_miss_jessica_dc7a84b6_12:
 translate italian meeting_miss_jessica_b6d6cfcd:
 
     # MJ "You're still here?"
+    MJ "Siete ancora qui?"
 
 # game/UpdateScript0.07.rpy:4183
 translate italian meeting_miss_jessica_b0789edd_2:
@@ -8244,21 +8370,25 @@ translate italian meeting_miss_jessica_b0789edd_2:
 translate italian meeting_miss_jessica_a92a55da:
 
     # R "Yeah... My name is [ryan]... Maybe you remember me from when I was a freshman?"
+    R "Sì... Il mio nome è [ryan]... Forse mi ricordi di quando ero un fresco?"
 
 # game/UpdateScript0.07.rpy:4185
 translate italian meeting_miss_jessica_18ee7ba8:
 
     # MJ "Were you on the varsity basketball team?"
+    MJ "Eravate nella squadra di basket varsi?"
 
 # game/UpdateScript0.07.rpy:4186
 translate italian meeting_miss_jessica_7821daab:
 
     # R "No... But I was on the freshman team."
+    R "No... Ma ero nella squadra della matricola."
 
 # game/UpdateScript0.07.rpy:4187
 translate italian meeting_miss_jessica_746fe613:
 
     # MJ "And I'm guessing from your height, that you didn't make it any further?"
+    MJ "E sto indovinando dalla tua altezza, che non hai fatto di più?"
 
 # game/UpdateScript0.07.rpy:4188
 translate italian meeting_miss_jessica_e3b57d2b:
@@ -8270,81 +8400,97 @@ translate italian meeting_miss_jessica_e3b57d2b:
 translate italian meeting_miss_jessica_e3cf4299:
 
     # R "Yeah... no... I didn't."
+    R "Sì... no... Non ho fatto."
 
 # game/UpdateScript0.07.rpy:4190
 translate italian meeting_miss_jessica_168fd88b:
 
     # MJ "Yeah, no... I don't remember you."
+    MJ "Sì, no... non mi ricordo di voi."
 
 # game/UpdateScript0.07.rpy:4191
 translate italian meeting_miss_jessica_094bb375:
 
     # MJ "Did you just come to chat with me?"
+    MJ "Sei appena venuto a chiacchierare con me?"
 
 # game/UpdateScript0.07.rpy:4192
 translate italian meeting_miss_jessica_162a65ad:
 
     # R "Umm... no... actually..."
+    R "Umm... no... realmente..."
 
 # game/UpdateScript0.07.rpy:4195
 translate italian meeting_miss_jessica_4b561703:
 
     # R "I need to turn in this application to run for student body president."
+    R "Ho bisogno di girare questa applicazione per eseguire per il presidente del corpo dello studente."
 
 # game/UpdateScript0.07.rpy:4196
 translate italian meeting_miss_jessica_7181b388:
 
     # MJ "Hmmm... Really?"
+    MJ "Hmmm... Veramente?"
 
 # game/UpdateScript0.07.rpy:4197
 translate italian meeting_miss_jessica_8d1b3294:
 
     # MJ "You want to run for student body president?"
+    MJ "Vuoi correre per il presidente del corpo dello studente?"
 
 # game/UpdateScript0.07.rpy:4198
 translate italian meeting_miss_jessica_754bc4d1:
 
     # R "No... Actually, the application is for my sister, Lauren."
+    R "No... In realtà, la domanda è per mia sorella, Lauren."
 
 # game/UpdateScript0.07.rpy:4201
 translate italian meeting_miss_jessica_3575a107:
 
     # MJ "Oh good!... Is she super cute and popular?"
+    MJ "Oh buono!... Lei è super carino e popolare?"
 
 # game/UpdateScript0.07.rpy:4202
 translate italian meeting_miss_jessica_ba316268:
 
     # R "Well, she's super cute!"
+    R "Bene, lei è super carina!"
 
 # game/UpdateScript0.07.rpy:4203
 translate italian meeting_miss_jessica_9da07e36:
 
     # R "I mean... as far as a guy can think his sister is cute."
+    R "Intendo dire... per quanto un ragazzo possa pensare che sua sorella sia carina."
 
 # game/UpdateScript0.07.rpy:4204
 translate italian meeting_miss_jessica_28b8aa56:
 
     # MJ "...."
+    MJ "...."
 
 # game/UpdateScript0.07.rpy:4205
 translate italian meeting_miss_jessica_27124a3e:
 
     # R "And she's kind of popular... but not super popular."
+    R "E lei è piuttosto popolare... ma non super popolare."
 
 # game/UpdateScript0.07.rpy:4208
 translate italian meeting_miss_jessica_9e0e906a:
 
     # MJ "Huh..."
+    MJ "Huh..."
 
 # game/UpdateScript0.07.rpy:4209
 translate italian meeting_miss_jessica_ec254416:
 
     # R "Huh...what?"
+    R "Huh... cosa?"
 
 # game/UpdateScript0.07.rpy:4210
 translate italian meeting_miss_jessica_7d157f04:
 
     # MJ "It's just... maybe you should do her a favor, and tell her not to run for student body president."
+    MJ "È solo... forse dovresti farle un favore, e dirle di non correre per il presidente del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:4211
 translate italian meeting_miss_jessica_4881927b:
@@ -8356,6 +8502,7 @@ translate italian meeting_miss_jessica_4881927b:
 translate italian meeting_miss_jessica_1c3328f5:
 
     # MJ "Just to spare her feelings."
+    MJ "Solo per risparmiare le sue sensazioni."
 
 # game/UpdateScript0.07.rpy:4215
 translate italian meeting_miss_jessica_7bd0559b:
@@ -8367,11 +8514,13 @@ translate italian meeting_miss_jessica_7bd0559b:
 translate italian meeting_miss_jessica_f5877e62:
 
     # MJ "You do know that Matt is running for student body president, right?"
+    MJ "Sai che Matt è in esecuzione per il presidente del corpo studentesco, giusto?"
 
 # game/UpdateScript0.07.rpy:4217
 translate italian meeting_miss_jessica_548689f1:
 
     # MJ "As in Matt, the captain of the basketball team."
+    MJ "Come a Matt, il capitano della squadra di basket."
 
 # game/UpdateScript0.07.rpy:4218
 translate italian meeting_miss_jessica_dc7a84b6_13:
@@ -8389,56 +8538,67 @@ translate italian meeting_miss_jessica_d9f5fd82:
 translate italian meeting_miss_jessica_31de464c:
 
     # MJ "Yeah, fuck... That kid's a bull. He's one of the only students I remember from when I was here."
+    MJ "Sì, scopare... Quel bambino è un toro. È uno degli unici studenti che ricordo da quando ero qui."
 
 # game/UpdateScript0.07.rpy:4221
 translate italian meeting_miss_jessica_4373b40a:
 
     # MJ "He was on the varsity basketball team as a freshman."
+    MJ "Era sulla squadra di pallacanestro varsity come novello."
 
 # game/UpdateScript0.07.rpy:4222
 translate italian meeting_miss_jessica_26b31381:
 
     # MJ "Do you know how rare that is?"
+    MJ "Lo sapete quanto sia raro?"
 
 # game/UpdateScript0.07.rpy:4223
 translate italian meeting_miss_jessica_2127c793:
 
     # MJ "I would say he's almost unbeatable."
+    MJ "Direi che lui è quasi imbattibile."
 
 # game/UpdateScript0.07.rpy:4224
 translate italian meeting_miss_jessica_06e2f458:
 
     # MJ "Are you sure your sister wants to waste her time on a lost cause?"
+    MJ "Sei sicuro che tua sorella voglia perdere tempo su una causa perduta?"
 
 # game/UpdateScript0.07.rpy:4225
 translate italian meeting_miss_jessica_58819765:
 
     # R "Unfortunately, I doubt that will discourage her."
+    R "Purtroppo, dubito che ciò la scoraggerà."
 
 # game/UpdateScript0.07.rpy:4226
 translate italian meeting_miss_jessica_e23ebf27:
 
     # R "She's got it in her mind that she'll do anything to be student body president, and I don't think I could convince her otherwise."
+    R "Ha capito nella sua mente che farà qualsiasi cosa per essere presidente del corpo studentesco e non penso che potrei convincerla altrimenti."
 
 # game/UpdateScript0.07.rpy:4229
 translate italian meeting_miss_jessica_969d1977:
 
     # MJ "Well I hope she doesn't take it too hard when she loses."
+    MJ "Beh, spero che non lo prenda troppo duro quando perde."
 
 # game/UpdateScript0.07.rpy:4230
 translate italian meeting_miss_jessica_3a963dd0:
 
     # R "You mean if she loses."
+    R "Significa se perde."
 
 # game/UpdateScript0.07.rpy:4231
 translate italian meeting_miss_jessica_0d0e7e02:
 
     # R "You don't know that she'll lose yet."
+    R "Non lo sai che perderà ancora."
 
 # game/UpdateScript0.07.rpy:4232
 translate italian meeting_miss_jessica_6e267d2f:
 
     # MJ "Come on... We both know how this is going to end."
+    MJ "Avanti... Sappiamo entrambi come questo sta per finire."
 
 # game/UpdateScript0.07.rpy:4233
 translate italian meeting_miss_jessica_393648a0:
@@ -8678,6 +8838,7 @@ translate italian stones_classroom_031247bc:
 translate italian stones_classroom_613d1874:
 
     # MS "I assume you'll be sticking around after, to try and finish our never-ending painting?"
+    MS "Presumo che tu stia attaccando dopo, per cercare di finire il nostro incessante dipinto?"
 
 # game/UpdateScript0.07.rpy:4318
 translate italian stones_classroom_838a9db2:
@@ -8809,21 +8970,25 @@ translate italian stones_classroom_019a7282:
 translate italian stones_classroom_c5a5780d:
 
     # RT "{i}I can't believe Mrs. Stone gave me a blowjob!{/i}"
+    RT "{i}Non posso credere che la signora Stone mi abbia dato un pompino!{/i}"
 
 # game/UpdateScript0.07.rpy:4386
 translate italian stones_classroom_3d7fd864:
 
     # RT "{i}I can't believe Mrs. Stone let me fuck her tits!{/i}"
+    RT "{i}Non posso credere che la signora Stone mi lasci scopare le tette!{/i}"
 
 # game/UpdateScript0.07.rpy:4388
 translate italian stones_classroom_16b2c530:
 
     # RT "{i}I can't believe Mrs. Stone gave me a handjob.{/i}"
+    RT "{i}Non riesco a credere che la signora Stone mi abbia dato un handjob.{/i}"
 
 # game/UpdateScript0.07.rpy:4389
 translate italian stones_classroom_85b60a37:
 
     # RT "{i}I wonder if I'll get as lucky today?{/i}"
+    RT "{i}Mi chiedo se oggi sarò fortunato? {/i}"
 
 # game/UpdateScript0.07.rpy:4394
 translate italian stones_classroom_e60e57ff_1:
@@ -8865,16 +9030,19 @@ translate italian stones_classroom_079926ad_1:
 translate italian stones_classroom_4da17422:
 
     # RT "{i}And all I can think about is her sucking on my cock.{/i}"
+    RT "{i}E tutto quello che posso pensare è che lei succhia il mio cazzo.{/i}"
 
 # game/UpdateScript0.07.rpy:4410
 translate italian stones_classroom_d448529b:
 
     # RT "{i}And all I can think about are those tits.{/i}"
+    RT "{i}E tutto quello di cui posso pensare sono quei titoli.{/i}"
 
 # game/UpdateScript0.07.rpy:4412
 translate italian stones_classroom_436d5ec7:
 
     # RT "{i}And all I can think about is that handjob.{/i}"
+    RT "{i}E tutto quello di cui posso pensare è quel handjob.{/i}"
 
 # game/UpdateScript0.07.rpy:4413
 translate italian stones_classroom_5ac6b810_1:
@@ -8928,16 +9096,19 @@ translate italian stones_classroom_26ac7fcb:
 translate italian stones_classroom_617bd9de:
 
     # RT "{i}But I doubt she's sucked many of their dicks.{/i}"
+    RT "{i}Ma dubito che lei abbia risucchiato molti dei loro cazzi.{/i}"
 
 # game/UpdateScript0.07.rpy:4433
 translate italian stones_classroom_3e43b88a:
 
     # RT "{i}But I bet not many of them have fucked her tits.{/i}"
+    RT "{i}Ma scommetto che non molti di loro hanno scopato la sua tetta.{/i}"
 
 # game/UpdateScript0.07.rpy:4435
 translate italian stones_classroom_154c372b:
 
     # RT "{i}But I bet she hasn't jacked off nearly as many.{/i}"
+    RT "{i}Ma scommetto che non ha preso quasi tanti.{/i}"
 
 # game/UpdateScript0.07.rpy:4436
 translate italian stones_classroom_27a76f3a:
@@ -8967,31 +9138,37 @@ translate italian stones_classroom_2a7ea23f:
 translate italian stones_classroom_3a158f16:
 
     # R "Well, it does seem like money well spent, people are still talking a lot about Lauren."
+    R "Beh, sembra che i soldi spesi bene, la gente parla ancora molto di Lauren."
 
 # game/UpdateScript0.07.rpy:4446
 translate italian stones_classroom_779b7e48:
 
     # MS "I think you're right, every day another boy wants to make a painting of Lauren."
+    MS "Credo che tu abbia ragione, ogni giorno un altro ragazzo vuole fare un dipinto di Lauren."
 
 # game/UpdateScript0.07.rpy:4447
 translate italian stones_classroom_8a528d11:
 
     # R "That's so crazy!"
+    R "È così pazza!"
 
 # game/UpdateScript0.07.rpy:4449
 translate italian stones_classroom_982586fb:
 
     # MS "I think you're right... One of the boys in my art class was actually trying to do a painting of Lauren's picture."
+    MS "Penso che tu abbia ragione... Uno dei ragazzi della mia classe artistica stava cercando di fare un dipinto della foto di Lauren."
 
 # game/UpdateScript0.07.rpy:4450
 translate italian stones_classroom_4272054f:
 
     # R "Really?... I guess that's encouraging."
+    R "Davvero?... Immagino che sia incoraggiante."
 
 # game/UpdateScript0.07.rpy:4451
 translate italian stones_classroom_8b8957a7:
 
     # R "Oh..."
+    R "Oh..."
 
 # game/UpdateScript0.07.rpy:4452
 translate italian stones_classroom_42dbd507_1:
@@ -9003,6 +9180,7 @@ translate italian stones_classroom_42dbd507_1:
 translate italian stones_classroom_0dc3a1c4:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4455
 translate italian stones_classroom_031247bc_1:
@@ -9020,6 +9198,7 @@ translate italian stones_classroom_fba31832:
 translate italian stones_classroom_8b87b9d8:
 
     # R "How could I?"
+    R "Come potevo fare?"
 
 # game/UpdateScript0.07.rpy:4460
 translate italian stones_classroom_f08f7dae_1:
@@ -9145,11 +9324,13 @@ translate italian stones_classroom_019a7282_1:
 translate italian stones_classroom_de64e02e:
 
     # RT "{i}It's sure nice of Mrs. Stone to help me make these posters.{/i}"
+    RT "{i}È sicuramente bello della signora Stone aiutarmi a creare questi manifesti.{/i}"
 
 # game/UpdateScript0.07.rpy:4525
 translate italian stones_classroom_609f3260:
 
     # RT "{i}Especially since Lauren's running against her own nephew.{/i}"
+    RT "{i}Soprattutto da quando Lauren corre contro il proprio nipote.{/i}"
 
 # game/UpdateScript0.07.rpy:4530
 translate italian stones_classroom_e60e57ff_2:
@@ -9263,16 +9444,19 @@ translate italian stones_classroom_2a7ea23f_1:
 translate italian stones_classroom_9a5d037f:
 
     # R "Well, it does seem like money well spent, people seem to be talking about Lauren more than ever around the school."
+    R "Beh, sembra che i soldi spesi bene, le persone sembrano parlare di Lauren più che mai intorno alla scuola."
 
 # game/UpdateScript0.07.rpy:4569
 translate italian stones_classroom_1470132f:
 
     # MST "{i}He's not kidding... I heard those boys in the hallway talking about what they want her to do them.{/i}"
+    MST "{i}Non sta scherzando... Ho sentito quei ragazzi nel corridoio parlare di quello che vogliono che lo faccia.{/i}"
 
 # game/UpdateScript0.07.rpy:4570
 translate italian stones_classroom_893c9642:
 
     # MST "{i}It even made me blush.{/i}"
+    MST "{i}Mi ha addirittura fatto arrossire.{/i}"
 
 # game/UpdateScript0.07.rpy:4571
 translate italian stones_classroom_42dbd507_2:
@@ -9284,6 +9468,7 @@ translate italian stones_classroom_42dbd507_2:
 translate italian stones_classroom_0dc3a1c4_1:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4574
 translate italian stones_classroom_031247bc_2:
@@ -9301,11 +9486,13 @@ translate italian stones_classroom_fba31832_1:
 translate italian stones_classroom_8ab711e2:
 
     # R "You mean being a model for your portrait?"
+    R "Significa essere un modello per il tuo ritratto?"
 
 # game/UpdateScript0.07.rpy:4579
 translate italian stones_classroom_54c8272e:
 
     # MS "Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
+    MS "Esattamente... Se puoi solo posare di nuovo per un po' dopo aver fatto i tuoi poster, lo chiameremo un affare."
 
 # game/UpdateScript0.07.rpy:4580
 translate italian stones_classroom_ee903cde:
@@ -9431,11 +9618,13 @@ translate italian stones_classroom_019a7282_2:
 translate italian stones_classroom_da7ab9df:
 
     # RT "{i}I hope Mrs. Stone is willing to help me make more posters.{/i}"
+    RT "{i}Spero che la signora Stone sia disposta ad aiutarmi a creare più manifesti.{/i}"
 
 # game/UpdateScript0.07.rpy:4645
 translate italian stones_classroom_f1af168d:
 
     # RT "{i}At least she'll be glad to see me so she can work on her portrait of me.{/i}"
+    RT "{i}Almeno lei sarà felice di vedermi in modo da poter lavorare sul suo ritratto di me.{/i}"
 
 # game/UpdateScript0.07.rpy:4650
 translate italian stones_classroom_e60e57ff_3:
@@ -9501,86 +9690,103 @@ translate italian stones_classroom_f771d599_2:
 translate italian stones_classroom_3881dff4:
 
     # MS "Now, What can I do for you?"
+    MS "Ora, cosa posso fare per voi?"
 
 # game/UpdateScript0.07.rpy:4675
 translate italian stones_classroom_a0373ee5:
 
     # R "I need to make some more campaign posters."
+    R "Ho bisogno di creare qualche altro poster di campagna."
 
 # game/UpdateScript0.07.rpy:4676
 translate italian stones_classroom_edfe6b02:
 
     # MS "Oh, really?... twenty posters weren't enough?"
+    MS "Oh, veramente?... venti poster non sono stati sufficienti?"
 
 # game/UpdateScript0.07.rpy:4677
 translate italian stones_classroom_f1409ca4:
 
     # R "Well, Matt tore them all down and replaced them with his own."
+    R "Bene, Matt li strappò tutti giù e li sostituì con il suo."
 
 # game/UpdateScript0.07.rpy:4678
 translate italian stones_classroom_c37dcf82:
 
     # R "Now I need to go return the favor."
+    R "Ora ho bisogno di tornare il favore."
 
 # game/UpdateScript0.07.rpy:4681
 translate italian stones_classroom_ca84747d:
 
     # MS "Good... I'm glad to hear you're not going to take his bullying lying down."
+    MS "Bene... Sono contento di sentire che non prenderai il suo bullismo sdraiato."
 
 # game/UpdateScript0.07.rpy:4682
 translate italian stones_classroom_38911a7c:
 
     # R "Yeah, I'm hoping he'll realize it's going to be just as expensive for him to keep tearing down our posters."
+    R "Sì, spero che si renderà conto che sarà costoso per lui continuare a distruggere i nostri poster."
 
 # game/UpdateScript0.07.rpy:4685
 translate italian stones_classroom_6bb462e9:
 
     # MS "That won't bother him too much. His parents are paying for his campaign, and they're pretty wealthy."
+    MS "Questo non lo infastidirà troppo. I suoi genitori stanno pagando per la sua campagna, e sono piuttosto ricchi."
 
 # game/UpdateScript0.07.rpy:4686
 translate italian stones_classroom_a5273cc4:
 
     # MS "So, he's not going to quit."
+    MS "Quindi, lui non uscirà."
 
 # game/UpdateScript0.07.rpy:4687
 translate italian stones_classroom_8b7b7bb9:
 
     # MS "But, as busy as he is with basketball, He probably won't be able to get around to retaliating for about a week."
+    MS "Ma, come è occupato con il basket, probabilmente non sarà in grado di andare in giro a ritorsioni per circa una settimana."
 
 # game/UpdateScript0.07.rpy:4688
 translate italian stones_classroom_300e0f21:
 
     # MS "That will give Lauren's posters some time to do their job."
+    MS "Questo darà ai manifesti di Lauren un po' di tempo per fare il loro lavoro."
 
 # game/UpdateScript0.07.rpy:4689
 translate italian stones_classroom_ea2140f1:
 
     # MS "And if you retaliate quickly, the students won't get very much exposure to Matt's posters at all."
+    MS "E se rappresaglia rapidamente, gli studenti non saranno molto esposti ai poster di Matt."
 
 # game/UpdateScript0.07.rpy:4690
 translate italian stones_classroom_09c1fbc9:
 
     # R "Are you saying this could become a weekly expense?"
+    R "Stai dicendo che potrebbe diventare una spesa settimanale?"
 
 # game/UpdateScript0.07.rpy:4691
 translate italian stones_classroom_e9e020e7:
 
     # MS "Yeah, most likely."
+    MS "Sì, probabilmente."
 
 # game/UpdateScript0.07.rpy:4692
 translate italian stones_classroom_69e8ae39:
 
     # R "Shit!... I wasn't planning on that."
+    R "Merda!... Non avevo intenzione di farlo."
 
 # game/UpdateScript0.07.rpy:4693
 translate italian stones_classroom_66f6e26b:
 
     # MS "I hope you can afford it, I'd hate to see that little shit win the poster war."
+    MS "Spero che tu possa permetterti, odio vedere quella piccola merda vincere la guerra del poster."
 
 # game/UpdateScript0.07.rpy:4694
 translate italian stones_classroom_1edc8510:
 
     # R "I'm sure going to try."
+    R "Io sono sicuro che proverò."
 
 # game/UpdateScript0.07.rpy:4697
 translate italian stones_classroom_fa25cb80_3:
@@ -9592,26 +9798,31 @@ translate italian stones_classroom_fa25cb80_3:
 translate italian stones_classroom_00ed386c:
 
     # R "Yeah, that's about how many I'll need."
+    R "Sì, è quello di quanti avrò bisogno."
 
 # game/UpdateScript0.07.rpy:4699
 translate italian stones_classroom_b7b0ab3c:
 
     # MS "Sounds good... As soon as you pay me three hundred dollars, we can get started."
+    MS "Suona bene... Appena mi paghi trecento dollari, possiamo iniziare."
 
 # game/UpdateScript0.07.rpy:4700
 translate italian stones_classroom_211cf5f1:
 
     # R "No discount for a second batch?"
+    R "Nessuno sconto per un secondo lotto?"
 
 # game/UpdateScript0.07.rpy:4701
 translate italian stones_classroom_db4fe83a:
 
     # MS "I wish I could, but I'm already giving you the lowest price I can do them for without losing money."
+    MS "Vorrei poterlo, ma ti sto già dando il prezzo più basso che posso fare senza perdere soldi."
 
 # game/UpdateScript0.07.rpy:4704
 translate italian stones_classroom_8244bbcb:
 
     # R "Yeah, I don't see how Lauren can win the election if we don't keep fighting this poster war."
+    R "Sì, non vedo come Lauren possa vincere le elezioni se non continuiamo a combattere questa guerra poster."
 
 # game/UpdateScript0.07.rpy:4705
 translate italian stones_classroom_42dbd507_3:
@@ -9623,16 +9834,19 @@ translate italian stones_classroom_42dbd507_3:
 translate italian stones_classroom_0dc3a1c4_2:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4708
 translate italian stones_classroom_89d2d541:
 
     # MS "I think that's really smart."
+    MS "Penso che sia veramente intelligente."
 
 # game/UpdateScript0.07.rpy:4709
 translate italian stones_classroom_0c4d5928:
 
     # MS "The pics you're using on those posters should eventually bring voters around."
+    MS "Le foto che stai usando su quei manifesti dovrebbero infine portare gli elettori."
 
 # game/UpdateScript0.07.rpy:4712
 translate italian stones_classroom_fba31832_2:
@@ -9644,11 +9858,13 @@ translate italian stones_classroom_fba31832_2:
 translate italian stones_classroom_8ab711e2_1:
 
     # R "You mean being a model for your portrait?"
+    R "Significa essere un modello per il tuo ritratto?"
 
 # game/UpdateScript0.07.rpy:4714
 translate italian stones_classroom_54c8272e_1:
 
     # MS "Exactly... If you can just pose again for a little bit after we get your posters made, we'll call it a deal."
+    MS "Esattamente... Se puoi solo posare di nuovo per un po' dopo aver fatto i tuoi poster, lo chiameremo un affare."
 
 # game/UpdateScript0.07.rpy:4715
 translate italian stones_classroom_ee903cde_1:
@@ -9762,41 +9978,49 @@ translate italian stones_classroom_8bf53c65_7:
 translate italian stones_classroom_5849e89c:
 
     # RT "{i}Ah... My old art classroom.{/i}"
+    RT "{i}Ah... La mia vecchia aula d'arte.{/i}"
 
 # game/UpdateScript0.07.rpy:4765
 translate italian stones_classroom_8540a5b1:
 
     # RT "{i}Art was my favorite class last year.{/i}"
+    RT "{i}Art è stata la mia classe preferita lo scorso anno.{/i}"
 
 # game/UpdateScript0.07.rpy:4766
 translate italian stones_classroom_bad79beb:
 
     # RT "{i}Mostly because Mrs. Stone always wore really tight pants.{/i}"
+    RT "{i}Principalmente perché la signora Stone indossava sempre pantaloni molto stretti.{/i}"
 
 # game/UpdateScript0.07.rpy:4767
 translate italian stones_classroom_35578ae1:
 
     # RT "{i}She was the object of many a jack off fantasy.{/i}"
+    RT "{i}Lei era l'oggetto di molti un jack fuori fantasia.{/i}"
 
 # game/UpdateScript0.07.rpy:4768
 translate italian stones_classroom_dd9eec5e:
 
     # RT "{i}And, there she is... I'm lucky this is still her free hour.{/i}"
+    RT "{i}E c'è lei... Sono fortunato che questa sia ancora la sua ora libera.{/i}"
 
 # game/UpdateScript0.07.rpy:4770
 translate italian stones_classroom_af70c55c:
 
     # RT "{i}I hope she's doing ok after her incident in the park with Mr. Peterson.{/i}"
+    RT "{i}Spero che lei stia facendo bene dopo il suo incidente nel parco con il signor Peterson.{/i}"
 
 # game/UpdateScript0.07.rpy:4773
 translate italian stones_classroom_2737bc01:
 
     # RT "{i}Time to go say hi.{/i}"
+    RT "{i}Tempo per andare a dire ciao. {/i}"
 
 # game/UpdateScript0.07.rpy:4776
 translate italian stones_classroom_0485ad2e:
 
     # RT "{i}I don't think she's even noticed I'm here... She really seems to be into that painting.{/i}"
+    RT "{i}Non penso che lei sia nemmeno accorta di essere qui... Sembra davvero essere dentro a quella pittura.{/i}"
 
 # game/UpdateScript0.07.rpy:4779
 translate italian stones_classroom_e60e57ff_4:
@@ -9808,6 +10032,7 @@ translate italian stones_classroom_e60e57ff_4:
 translate italian stones_classroom_020069a0:
 
     # MS "Is that my favorite student?"
+    MS "Questo è il mio studente preferito?"
 
 # game/UpdateScript0.07.rpy:4784
 translate italian stones_classroom_0a45d2cf_4:
@@ -9819,6 +10044,7 @@ translate italian stones_classroom_0a45d2cf_4:
 translate italian stones_classroom_ea681a99:
 
     # R "Haha... Yeah, it's me, Mrs. Stone."
+    R "Haha... Si, sono io, la signora Stone."
 
 # game/UpdateScript0.07.rpy:4788
 translate italian stones_classroom_b2855d56_4:
@@ -9836,111 +10062,133 @@ translate italian stones_classroom_079926ad_4:
 translate italian stones_classroom_3f62f859:
 
     # MS "Oh... Hello..."
+    MS "Oh... Hello..."
 
 # game/UpdateScript0.07.rpy:4799
 translate italian stones_classroom_4a378a4c:
 
     # R "Hi, Mrs. Stone."
+    R "Ciao, Signora Stone."
 
 # game/UpdateScript0.07.rpy:4800
 translate italian stones_classroom_7d20429c:
 
     # R "Remember me?"
+    R "Ricordatevi di me?"
 
 # game/UpdateScript0.07.rpy:4801
 translate italian stones_classroom_d7d8db85:
 
     # MS "Oh... From my class last year."
+    MS "Oh... Dalla mia classe lo scorso anno."
 
 # game/UpdateScript0.07.rpy:4802
 translate italian stones_classroom_50cfee0d:
 
     # MS "Ronald, wasn't it?"
+    MS "Ronald, vero?"
 
 # game/UpdateScript0.07.rpy:4803
 translate italian stones_classroom_4856b932:
 
     # R "[ryan], actually."
+    R "[ryan], in realtà."
 
 # game/UpdateScript0.07.rpy:4804
 translate italian stones_classroom_1018e65a:
 
     # MS "Oh yes, [ryan]."
+    MS "Oh sì, [ryan]."
 
 # game/UpdateScript0.07.rpy:4805
 translate italian stones_classroom_392b5acf:
 
     # MS "I hope you've been well."
+    MS "Spero che tu sia stato bene."
 
 # game/UpdateScript0.07.rpy:4806
 translate italian stones_classroom_35c6fae5:
 
     # RT "{i}I guess, besides my life getting turned head down, ass up...{/i}"
+    RT "{i}Immagino che oltre alla mia vita si sia abbassata la testa, culo su...{/i}"
 
 # game/UpdateScript0.07.rpy:4807
 translate italian stones_classroom_bd1e077f:
 
     # R "Ehh... Can't complain."
+    R "Ehh... Non può lamentarsi."
 
 # game/UpdateScript0.07.rpy:4808
 translate italian stones_classroom_561e9bf0:
 
     # MS "Good..."
+    MS "Corretto..."
 
 # game/UpdateScript0.07.rpy:4810
 translate italian stones_classroom_3881dff4_1:
 
     # MS "Now, What can I do for you?"
+    MS "Ora, cosa posso fare per voi?"
 
 # game/UpdateScript0.07.rpy:4811
 translate italian stones_classroom_728bf00b:
 
     # R "I need help making some campaign posters."
+    R "Ho bisogno di aiuto per creare alcuni poster di campagna."
 
 # game/UpdateScript0.07.rpy:4812
 translate italian stones_classroom_77c7a841:
 
     # MS "Oh, really?... Are you running for one of the offices?"
+    MS "Oh, davvero?... Stai correndo per uno degli uffici?"
 
 # game/UpdateScript0.07.rpy:4813
 translate italian stones_classroom_769b8ffd:
 
     # R "Not me... My sister Lauren is running for student body president."
+    R "Nemo... Mia sorella Lauren è in corsa per il presidente del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:4816
 translate italian stones_classroom_b709d624:
 
     # MS "Oh... I know Lauren! Cute little redhead?"
+    MS "Oh... Conosco Lauren! Carino piccolo rosso?"
 
 # game/UpdateScript0.07.rpy:4817
 translate italian stones_classroom_a6c8ae53:
 
     # R "That's her."
+    R "Quello è lei."
 
 # game/UpdateScript0.07.rpy:4818
 translate italian stones_classroom_bab6b2ef:
 
     # MS "She was such a good student! Very artistic and creative."
+    MS "Era una studentessa così buona! Molto artistica e creativa."
 
 # game/UpdateScript0.07.rpy:4819
 translate italian stones_classroom_e09c939d:
 
     # MS "She'd make a great president."
+    MS "Lei sarebbe un grande presidente."
 
 # game/UpdateScript0.07.rpy:4820
 translate italian stones_classroom_32bbb9be:
 
     # MS "Much better than my nephew Matt."
+    MS "Molto meglio di mio nipote Matt."
 
 # game/UpdateScript0.07.rpy:4821
 translate italian stones_classroom_20584193:
 
     # R "Wait!... Matt's your nephew?... As in the captain of the basketball team, goes to our school, is running for president, Matt?"
+    R "Aspetta!... Mattè il tuo nipote?... Come nel capitano della squadra di basket, va alla nostra scuola, sta correndo per presidente, Matt?"
 
 # game/UpdateScript0.07.rpy:4824
 translate italian stones_classroom_9066cf3d:
 
     # MS "That's the one."
+    MS "È questo."
 
 # game/UpdateScript0.07.rpy:4825
 translate italian stones_classroom_895a152c:
@@ -9952,61 +10200,73 @@ translate italian stones_classroom_895a152c:
 translate italian stones_classroom_170c8bec:
 
     # MS "So you need to make Lauren some campaign posters?"
+    MS "Quindi è necessario rendere Lauren alcuni poster della campagna?"
 
 # game/UpdateScript0.07.rpy:4827
 translate italian stones_classroom_85323806:
 
     # R "Well, yeah, I was going to ask you for help, but that was before I realized you're Matt's aunt."
+    R "Beh, sì, ti avrei chiesto aiuto, ma prima che mi fossi reso conto di essere la zia di Matt."
 
 # game/UpdateScript0.07.rpy:4828
 translate italian stones_classroom_26bfc1ad:
 
     # R "I'm sure you're going to be helping him instead."
+    R "Sono sicuro che lo aiuterete."
 
 # game/UpdateScript0.07.rpy:4829
 translate italian stones_classroom_38827c91:
 
     # RT "{i}Maybe the rumors about them fucking aren't true after all.{/i}"
+    RT "{i}Forse le voci su di loro cazzo non sono vere dopo.{/i}"
 
 # game/UpdateScript0.07.rpy:4830
 translate italian stones_classroom_e2965a7b:
 
     # MS "No, I wouldn't help him if he begged me."
+    MS "No, non lo aiuterei se mi pregasse."
 
 # game/UpdateScript0.07.rpy:4831
 translate italian stones_classroom_79a3f7ab:
 
     # MS "My nephew would make a terrible student body president."
+    MS "Mio nipote avrebbe fatto un terribile presidente del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:4832
 translate italian stones_classroom_ba7d84cd:
 
     # MS "Not only that, I'm not on the best terms with him, or my sister, uhh... his mother I guess I should say."
+    MS "Non solo, non sono ai migliori termini con lui, o mia sorella, uhh... sua madre immagino che dovrei dire."
 
 # game/UpdateScript0.07.rpy:4833
 translate italian stones_classroom_9cfef6f4:
 
     # MST "{i}Just because she caught us fucking, didn't mean she had to cut me out of their lives.{/i}"
+    MST "{i}Solo perché ci ha catturato il cazzo, non voleva dire che mi ha dovuto tagliare dalla loro vita.{/i}"
 
 # game/UpdateScript0.07.rpy:4834
 translate italian stones_classroom_65248604:
 
     # MST "{i}Now Matt just treats me like another former conquest.{/i}"
+    MST "{i}Ora Matt mi tratta solo come un'altra conquista precedente.{/i}"
 
 # game/UpdateScript0.07.rpy:4835
 translate italian stones_classroom_bc5047c3:
 
     # R "So, you're saying you'd be willing to help me with Lauren's posters?"
+    R "Dunque, stai dicendo che saresti disposto ad aiutarmi con i poster di Lauren?"
 
 # game/UpdateScript0.07.rpy:4836
 translate italian stones_classroom_a9ab91b3:
 
     # R "I could really use your advice and creativity."
+    R "Potrei davvero utilizzare il tuo consiglio e la tua creatività."
 
 # game/UpdateScript0.07.rpy:4837
 translate italian stones_classroom_edc607da:
 
     # R "Not to mention your big-ass printer."
+    R "Per non parlare della tua stampante big ass."
 
 # game/UpdateScript0.07.rpy:4840
 translate italian stones_classroom_b6b9f57c:
@@ -10024,71 +10284,85 @@ translate italian stones_classroom_ecc45e0b:
 translate italian stones_classroom_75b5b2b8:
 
     # MS "I'll be happy to help you with your sister's campaign posters, but I'm going to need something from you in return."
+    MS "Sarò felice di aiutarvi con i manifesti di campagna di vostra sorella, ma mi servirà qualcosa da voi in cambio."
 
 # game/UpdateScript0.07.rpy:4845
 translate italian stones_classroom_0610db0e:
 
     # MS "First off, I'm going to need money. Big poster paper and ink aren't cheap, you know."
+    MS "Prima di tutto, ho bisogno di soldi. Grande carta poster e inchiostro non sono a buon mercato, sai."
 
 # game/UpdateScript0.07.rpy:4846
 translate italian stones_classroom_11fdc944:
 
     # MS "I'll also need a little extra for my creativity and time."
+    MS "Avrò anche bisogno di un po 'di più per la mia creatività e tempo."
 
 # game/UpdateScript0.07.rpy:4847
 translate italian stones_classroom_2278be02:
 
     # MS "This is my free time after all, and teachers don't make a lot of money."
+    MS "Questo è il mio tempo libero dopo tutto, e gli insegnanti non fanno molto soldi."
 
 # game/UpdateScript0.07.rpy:4848
 translate italian stones_classroom_f27e8ddc:
 
     # MS "How many posters do you think you'll need?"
+    MS "Quanti poster pensi che ti serva?"
 
 # game/UpdateScript0.07.rpy:4849
 translate italian stones_classroom_49eb649a:
 
     # R "Probably about 20"
+    R "Probabilmente circa 20"
 
 # game/UpdateScript0.07.rpy:4852
 translate italian stones_classroom_56e1a479:
 
     # MS "Alright, I think we could do that for about three hundred dollars."
+    MS "Bene, credo che potremmo farlo per circa trecento dollari."
 
 # game/UpdateScript0.07.rpy:4853
 translate italian stones_classroom_5f7231f5:
 
     # R "That's like fifteen bucks a poster!"
+    R "È come 15 dollari un poster!"
 
 # game/UpdateScript0.07.rpy:4854
 translate italian stones_classroom_b47c7251:
 
     # MS "Yeah, that sounds about right."
+    MS "Sì, quel suona a destra."
 
 # game/UpdateScript0.07.rpy:4855
 translate italian stones_classroom_f0cd3a14:
 
     # R "That's way more expensive than I was thinking it would be."
+    R "È così più costoso di quello che stavo pensando."
 
 # game/UpdateScript0.07.rpy:4858
 translate italian stones_classroom_271a8341:
 
     # MS "Yeah, well, ink is expensive. You're welcome to go to the local print shop to compare, but I guarantee they'll be about thirty dollars a poster."
+    MS "Sì, beh, l'inchiostro è costoso. Sei il benvenuto ad andare alla tipografia locale per confrontare, ma garantisco che saranno circa trenta dollari un poster."
 
 # game/UpdateScript0.07.rpy:4859
 translate italian stones_classroom_34391c22:
 
     # RT "{i}Damn!... No wonder Lauren needed me to finance her campaign.{/i}"
+    RT "{i}Dannazione!... Non c'è da meravigliarsi che Lauren abbia bisogno di me per finanziare la sua campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:4860
 translate italian stones_classroom_a9226a13:
 
     # MS "So are you ready to pay?"
+    MS "Quindi sei pronto a pagare?"
 
 # game/UpdateScript0.07.rpy:4864
 translate italian stones_classroom_e8d754a2:
 
     # R "Yeah, I don't see how Lauren can win if we don't get her some professional posters."
+    R "Sì, non vedo come Lauren possa vincere se non le prendiamo dei manifesti professionisti."
 
 # game/UpdateScript0.07.rpy:4865
 translate italian stones_classroom_42dbd507_4:
@@ -10100,41 +10374,49 @@ translate italian stones_classroom_42dbd507_4:
 translate italian stones_classroom_0dc3a1c4_3:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:4868
 translate italian stones_classroom_89d2d541_1:
 
     # MS "I think that's really smart."
+    MS "Penso che sia veramente intelligente."
 
 # game/UpdateScript0.07.rpy:4869
 translate italian stones_classroom_f698c10f:
 
     # MS "From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
+    MS "Dalle mie osservazioni sulle elezioni scolastiche nel corso degli anni, Ho notato che c'è una forte correlazione tra quanto denaro un candidato spende e quanto bene si esibiscono nelle elezioni."
 
 # game/UpdateScript0.07.rpy:4870
 translate italian stones_classroom_125bdb36:
 
     # MS "Some students are the exception, due to their extreme popularity."
+    MS "Alcuni studenti sono l'eccezione, a causa della loro popolarità estrema."
 
 # game/UpdateScript0.07.rpy:4873
 translate italian stones_classroom_8d13e3de:
 
     # MS "And though Lauren is popular within her own circle, she's not well known throughout the entire school."
+    MS "E anche se Lauren è popolare all'interno del suo cerchio, non è ben nota in tutta la scuola."
 
 # game/UpdateScript0.07.rpy:4874
 translate italian stones_classroom_f68a54f5:
 
     # MS "If you want to help her win, you're just going to have to spend some money."
+    MS "Se vuoi aiutarla a vincere, dovrai solo spendere un po' di denaro."
 
 # game/UpdateScript0.07.rpy:4875
 translate italian stones_classroom_e0db5c0b:
 
     # R "Alright, so should we start making some posters?"
+    R "Bene, quindi dovremmo iniziare a fare dei poster?"
 
 # game/UpdateScript0.07.rpy:4876
 translate italian stones_classroom_fc547767:
 
     # MS "There was one more thing I was going to ask for in exchange for my help."
+    MS "C'era ancora una cosa che stavo per chiedere in cambio del mio aiuto."
 
 # game/UpdateScript0.07.rpy:4877
 translate italian stones_classroom_a5c2e44d:
@@ -10146,61 +10428,73 @@ translate italian stones_classroom_a5c2e44d:
 translate italian stones_classroom_0b0e5cf6:
 
     # MS "I've been invited to be part of an art show in the fall, and I've got to come up with a few more original pieces."
+    MS "Sono stato invitato a far parte di uno spettacolo d'arte nella caduta, e devo trovare alcuni pezzi più originali."
 
 # game/UpdateScript0.07.rpy:4879
 translate italian stones_classroom_1f6a101c:
 
     # MS "Since the best inspiration for art comes from your own life, I want one of my pieces to be a portrait of a student."
+    MS "Poiché l'ispirazione migliore per l'arte proviene dalla tua vita, voglio che uno dei miei pezzi sia un ritratto di uno studente."
 
 # game/UpdateScript0.07.rpy:4880
 translate italian stones_classroom_caecc61b:
 
     # MS "That means I need a model."
+    MS "Questo significa che ho bisogno di un modello."
 
 # game/UpdateScript0.07.rpy:4881
 translate italian stones_classroom_6075d899:
 
     # MS "If you'll be willing to model for me, I'll be happy to help you with your posters."
+    MS "Se sarete disposti a modellare per me, sarò felice di aiutarvi con i vostri poster."
 
 # game/UpdateScript0.07.rpy:4882
 translate italian stones_classroom_6fb79f01:
 
     # R "That sounds easy."
+    R "Sembra semplice."
 
 # game/UpdateScript0.07.rpy:4883
 translate italian stones_classroom_008a3cf2:
 
     # MS "Yeah, all you have to do is sit there."
+    MS "Sì, tutto ciò che devi fare è sederti lì."
 
 # game/UpdateScript0.07.rpy:4884
 translate italian stones_classroom_1f209337:
 
     # MS "But you have to stay as still as you can."
+    MS "Ma devi rimanere il più possibile fermi."
 
 # game/UpdateScript0.07.rpy:4885
 translate italian stones_classroom_c72e6aa2:
 
     # R "Alright."
+    R "Bene."
 
 # game/UpdateScript0.07.rpy:4886
 translate italian stones_classroom_2298e267:
 
     # MS "Great! Let's get those posters designed and printed, and then I'll have you pose for me."
+    MS "Ottimo! Prendiamo quei manifesti progettati e stampati, e poi ti farò posare per me."
 
 # game/UpdateScript0.07.rpy:4887
 translate italian stones_classroom_58fbc7a1:
 
     # MS "Do you have the pictures of Lauren you want to put on the posters?"
+    MS "Hai le immagini di Lauren che vuoi mettere sui poster?"
 
 # game/UpdateScript0.07.rpy:4888
 translate italian stones_classroom_91f70cc5:
 
     # R "Yeah, I just need to pull them off the internet."
+    R "Sì, ho solo bisogno di toglierli da internet."
 
 # game/UpdateScript0.07.rpy:4889
 translate italian stones_classroom_36bdb72a:
 
     # MS "Great!... Go login on my computer and download the images of Lauren you want to use for the posters."
+    MS "Ottimo!... Accedi al mio computer e scarica le immagini di Lauren che vuoi usare per i manifesti."
 
 # game/UpdateScript0.07.rpy:4890
 translate italian stones_classroom_bbbca1da_4:
@@ -10212,21 +10506,25 @@ translate italian stones_classroom_bbbca1da_4:
 translate italian stones_classroom_8f2a0440:
 
     # R "I don't have that kind of money right now."
+    R "Non ho quel genere di soldi in questo momento."
 
 # game/UpdateScript0.07.rpy:4896
 translate italian stones_classroom_b1687c9c:
 
     # MS "I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
+    MS "Mi dispiace... Se potessi permettermi, lo farei solo gratis. La scuola mi fa pagare per l'inchiostro e la carta che uso quando non è legata alla mia classe."
 
 # game/UpdateScript0.07.rpy:4897
 translate italian stones_classroom_9b69cace:
 
     # R "I understand. Is it ok if I come back when I get the money together?"
+    R "Capisco. Va bene se torno quando ottengo i soldi assieme?"
 
 # game/UpdateScript0.07.rpy:4898
 translate italian stones_classroom_6275f95c:
 
     # MS "You bet. This is my free hour, so stop by any weekday around the same time."
+    MS "Puoi scommettere. Questa è la mia ora libera, quindi fermatevi entro qualsiasi giorno della settimana intorno alla stessa ora."
 
 # game/UpdateScript0.07.rpy:4899
 translate italian stones_classroom_d8bff121_4:
@@ -10244,51 +10542,61 @@ translate italian stones_classroom_8bf53c65_8:
 translate italian stones_classroom_84804916:
 
     # R "I don't have that kind of money to just throw away on posters!"
+    R "Non ho quel tipo di denaro da buttare via sui posteri!"
 
 # game/UpdateScript0.07.rpy:4906
 translate italian stones_classroom_b1687c9c_1:
 
     # MS "I'm sorry... If I could afford it, I'd just do it for free. The school makes me pay for the ink and paper I use when it's not related to my class."
+    MS "Mi dispiace... Se potessi permettermi, lo farei solo gratis. La scuola mi fa pagare per l'inchiostro e la carta che uso quando non è legata alla mia classe."
 
 # game/UpdateScript0.07.rpy:4907
 translate italian stones_classroom_0c0eca1b:
 
     # R "Maybe I can just buy some markers and poster board."
+    R "Forse posso solo comprare alcuni indicatori e cartellone."
 
 # game/UpdateScript0.07.rpy:4910
 translate italian stones_classroom_b3316065:
 
     # MS "Yeah, you could... And the students might think that a 5th grader is running for president."
+    MS "Sì, potevate dare... E gli studenti potrebbero pensare che un 5° grado sia in corso per il presidente."
 
 # game/UpdateScript0.07.rpy:4911
 translate italian stones_classroom_f698c10f_1:
 
     # MS "From my own observations of school elections through the years, I've noticed that there is a strong correlation between how much money a candidate spends, and how well they perform in the election."
+    MS "Dalle mie osservazioni sulle elezioni scolastiche nel corso degli anni, Ho notato che c'è una forte correlazione tra quanto denaro un candidato spende e quanto bene si esibiscono nelle elezioni."
 
 # game/UpdateScript0.07.rpy:4912
 translate italian stones_classroom_125bdb36_1:
 
     # MS "Some students are the exception, due to their extreme popularity."
+    MS "Alcuni studenti sono l'eccezione, a causa della loro popolarità estrema."
 
 # game/UpdateScript0.07.rpy:4915
 translate italian stones_classroom_8d13e3de_1:
 
     # MS "And though Lauren is popular within her own circle, she's not well known throughout the entire school."
+    MS "E anche se Lauren è popolare all'interno del suo cerchio, non è ben nota in tutta la scuola."
 
 # game/UpdateScript0.07.rpy:4916
 translate italian stones_classroom_f68a54f5_1:
 
     # MS "If you want to help her win, you're just going to have to spend some money."
+    MS "Se vuoi aiutarla a vincere, dovrai solo spendere un po' di denaro."
 
 # game/UpdateScript0.07.rpy:4917
 translate italian stones_classroom_70aad073:
 
     # R "Alright, I'll think about it. If I change my mind, can I come and get your help?"
+    R "Bene, ci penserò. Se cambierò idea, posso venire e ottenere il tuo aiuto?"
 
 # game/UpdateScript0.07.rpy:4918
 translate italian stones_classroom_6275f95c_1:
 
     # MS "You bet. This is my free hour, so stop by any weekday around the same time."
+    MS "Puoi scommettere. Questa è la mia ora libera, quindi fermatevi entro qualsiasi giorno della settimana intorno alla stessa ora."
 
 # game/UpdateScript0.07.rpy:4919
 translate italian stones_classroom_d8bff121_5:
@@ -10342,6 +10650,7 @@ translate italian finished_painting_40d2fe6b:
 translate italian finished_painting_199dffce:
 
     # MST "{i}I can't stop thinking about that beautiful dick... How good it felt in my ass!... How my husband will never be the wiser.{/i}"
+    MST "{i}Non riesco a smettere di pensare a quel bel cazzo... Quanto è stato bello nel mio culo!... Come mio marito non sarà mai il più saggio.{/i}"
 
 # game/UpdateScript0.07.rpy:4940
 translate italian finished_painting_8695d6e8:
@@ -10365,16 +10674,19 @@ translate italian finished_painting_87078f6b:
 translate italian finished_painting_3eff0d29:
 
     # RT "{i}I can't stop thinking about how good my cock felt in her ass.{/i}"
+    RT "{i}Non posso smettere di pensare a quanto bene il mio cazzo si sentiva nel suo culo.{/i}"
 
 # game/UpdateScript0.07.rpy:4946
 translate italian finished_painting_04dad344:
 
     # RT "{i}...So good!{/i}"
+    RT "{i}...così buono!{/i}"
 
 # game/UpdateScript0.07.rpy:4949
 translate italian finished_painting_e333b717:
 
     # RT "{i}Looks like he's back for more!{/i}"
+    RT "{i}Sembra che sia tornato di più!{/i}"
 
 # game/UpdateScript0.07.rpy:4950
 translate italian finished_painting_c472bd83:
@@ -10386,16 +10698,19 @@ translate italian finished_painting_c472bd83:
 translate italian finished_painting_c695f272:
 
     # RT "{i}Yeah.{/i}"
+    RT "{i}Yeah.{/i}"
 
 # game/UpdateScript0.07.rpy:4956
 translate italian finished_painting_7bd054b1:
 
     # R "Sorry... I just can't stop thinking about my last visit."
+    R "Mi dispiace... non riesco a smettere di pensare alla mia ultima visita."
 
 # game/UpdateScript0.07.rpy:4959
 translate italian finished_painting_deb73e6d:
 
     # MS "You're not the only one."
+    MS "Non sei l'unica."
 
 # game/UpdateScript0.07.rpy:4962
 translate italian finished_painting_7101a772:
@@ -10413,6 +10728,7 @@ translate italian finished_painting_2f712cb4:
 translate italian finished_painting_e78de6b0:
 
     # R "Like I said, I can't get past the thought of your ass sliding up and down on my cock."
+    R "Come ho detto, non riesco a superare il pensiero del tuo culo che scivola su e giù sul mio cazzo."
 
 # game/UpdateScript0.07.rpy:4967
 translate italian finished_painting_bfc97021:
@@ -10424,26 +10740,31 @@ translate italian finished_painting_bfc97021:
 translate italian finished_painting_8093c2d9:
 
     # MS "I wonder if we'll ever get that painting done."
+    MS "Mi chiedo se riusciremo mai a fare quel dipinto."
 
 # game/UpdateScript0.07.rpy:4971
 translate italian finished_painting_f49efd46:
 
     # MS "So, should we see if we can fit in a quick fuck, and maybe we'll have enough time for some painting after?"
+    MS "Quindi, dovremmo vedere se siamo in grado di adattarsi in un cazzo veloce, e forse avremo abbastanza tempo per un po 'di pittura dopo?"
 
 # game/UpdateScript0.07.rpy:4972
 translate italian finished_painting_a1c5f194:
 
     # MST "{i}I'm sure we both know there won't be time, and it's just an excuse to keep fucking.{/i}"
+    MST "{i}Sono sicuro che entrambi sappiamo che non ci sarà tempo, ed è solo una scusa per continuare a scopare.{/i}"
 
 # game/UpdateScript0.07.rpy:4973
 translate italian finished_painting_917c3f01:
 
     # RT "{i}If never completing that painting keeps us fucking every week, I'll always hold out as long as I can.{/i}"
+    RT "{i}Se non completiamo mai quel dipinto ci fa scopare ogni settimana, resterò sempre il più a lungo possibile.{/i}"
 
 # game/UpdateScript0.07.rpy:4974
 translate italian finished_painting_de54e365:
 
     # R "Yeah, let's see if we can finish any faster today."
+    R "Sì, vediamo se oggi riusciamo a finire più velocemente."
 
 # game/UpdateScript0.07.rpy:4978
 translate italian finished_painting_1b912cdd:
@@ -10461,6 +10782,7 @@ translate italian finished_painting_eef4d9da:
 translate italian finished_painting_345e6a44:
 
     # MS "My ass is getting more used to it, but we still need to be careful after letting it rest for a few days."
+    MS "Il mio culo si sta abituando più ad esso, ma dobbiamo ancora fare attenzione dopo averlo lasciato riposare per qualche giorno."
 
 # game/UpdateScript0.07.rpy:4993
 translate italian finished_painting_a2fa8dc5:
@@ -10598,21 +10920,25 @@ translate italian finished_painting_23cc8b99:
 translate italian finished_painting_827ac8db:
 
     # MS "God, I can't get enough of that!"
+    MS "Dio, non ne riesco a farlo!"
 
 # game/UpdateScript0.07.rpy:5053
 translate italian finished_painting_ebadf8b2:
 
     # MS "Please tell me you won't ever stop visiting me!"
+    MS "Per favore, dimmi che non smetterai mai di visitarmi!"
 
 # game/UpdateScript0.07.rpy:5054
 translate italian finished_painting_18e5551b:
 
     # RT "{i}Uh oh... I hope she's not getting too attached.{/i}"
+    RT "{i}Uh oh... Spero di non essere troppo allegata.{/i}"
 
 # game/UpdateScript0.07.rpy:5055
 translate italian finished_painting_5455faba:
 
     # R "I'll try."
+    R "Cercherò."
 
 # game/UpdateScript0.07.rpy:5056
 translate italian finished_painting_ca1f9767:
@@ -11248,21 +11574,25 @@ translate italian finished_painting_6a82b0f9_2:
 translate italian finished_painting_e0a875e3:
 
     # R "Alright, I'll lose my clothes while I'm at it."
+    R "Bene, perderò i miei vestiti mentre sono in esso."
 
 # game/UpdateScript0.07.rpy:5267
 translate italian finished_painting_9bd0dfd0:
 
     # MS "You're getting the hang of this."
+    MS "Sta diventando il blocco di questo."
 
 # game/UpdateScript0.07.rpy:5268
 translate italian finished_painting_e37a266b:
 
     # MS "Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
+    MS "Oh, ma prova a non piazzare una tenda fino a quando non ho disegnato il tuo cazzo flaccido."
 
 # game/UpdateScript0.07.rpy:5269
 translate italian finished_painting_db1409b6:
 
     # MS "The way this is going... I'll never get this painting done."
+    MS "Il modo in cui sta andando questo... Non farò mai fare questo dipinto."
 
 # game/UpdateScript0.07.rpy:5270
 translate italian finished_painting_40d2fe6b_2:
@@ -11298,6 +11628,7 @@ translate italian finished_painting_2a1cbbc6:
 translate italian finished_painting_c86df4d0:
 
     # RT "{i}I can't stop thinking about her sucking my dick.{/i}"
+    RT "{i}Non posso smettere di pensare a lei succhiare il mio cazzo.{/i}"
 
 # game/UpdateScript0.07.rpy:5282
 translate italian finished_painting_b23b1d8c:
@@ -11363,6 +11694,7 @@ translate italian finished_painting_59adf6ea:
 translate italian finished_painting_6b5531fa:
 
     # R "I'm sorry, but I just can't stop thinking about your blow job."
+    R "Mi dispiace, ma non riesco a smettere di pensare al tuo colpo di lavoro."
 
 # game/UpdateScript0.07.rpy:5305
 translate italian finished_painting_bfc97021_2:
@@ -11374,11 +11706,13 @@ translate italian finished_painting_bfc97021_2:
 translate italian finished_painting_ff3444c3:
 
     # MS "Well, do you want me to give you another blowjob?"
+    MS "Beh, vuoi che io ti dia un altro pompino?"
 
 # game/UpdateScript0.07.rpy:5309
 translate italian finished_painting_c32c7783:
 
     # R "Oh... I thought maybe we'd do something... more advanced?"
+    R "Oh... Pensavo che avremmo fatto qualcosa... più avanzato?"
 
 # game/UpdateScript0.07.rpy:5310
 translate italian finished_painting_026a0428:
@@ -11390,46 +11724,55 @@ translate italian finished_painting_026a0428:
 translate italian finished_painting_bd93b74c:
 
     # MS "I can't do anything more than a blowjob!"
+    MS "Non posso fare altro che un pompino!"
 
 # game/UpdateScript0.07.rpy:5312
 translate italian finished_painting_c643b75d:
 
     # R "Is that how it works when you're married?"
+    R "È così che funziona quando sei sposato?"
 
 # game/UpdateScript0.07.rpy:5313
 translate italian finished_painting_9659d656:
 
     # MS "Well, in my case it's complicated."
+    MS "Beh, nel mio caso è complicato."
 
 # game/UpdateScript0.07.rpy:5314
 translate italian finished_painting_72859d22:
 
     # R "Ok... I'll still be pretty content with a blowjob."
+    R "Ok... Sarò ancora abbastanza contento di un pompino."
 
 # game/UpdateScript0.07.rpy:5315
 translate italian finished_painting_ddfeb1f0:
 
     # MS "But, don't forget why we're doing this... I need you to try and hurry so we can get around to finishing that painting for once."
+    MS "Ma, non dimenticare perché stiamo facendo questo... Ho bisogno che tu cerchi di affrettarti in modo che possiamo andare in giro per finire quella pittura per una volta."
 
 # game/UpdateScript0.07.rpy:5316
 translate italian finished_painting_ffb5fd4b:
 
     # MST "{i}Because that's what this is all about.{/i}"
+    MST "{i}Perché questo è il nocciolo.{/i}"
 
 # game/UpdateScript0.07.rpy:5317
 translate italian finished_painting_6b0502e0:
 
     # MST "{i}Keep telling yourself that!{/i}"
+    MST "{i}Continua a dire a te stesso!{/i}"
 
 # game/UpdateScript0.07.rpy:5319
 translate italian finished_painting_82667f53:
 
     # RT "{i}I was hoping for a little more, but this will still be awesome!{/i}"
+    RT "{i}speravo di un po' di più, ma questo sarà ancora fantastico!{/i}"
 
 # game/UpdateScript0.07.rpy:5320
 translate italian finished_painting_8ebbc94c:
 
     # MST "{i}Just make him cum, and you can finish that painting.{/i}"
+    MST "{i}Basta fargli cum, e puoi finire quel dipinto.{/i}"
 
 # game/UpdateScript0.07.rpy:5324
 translate italian finished_painting_91355cdd:
@@ -11495,6 +11838,7 @@ translate italian finished_painting_2305f26d:
 translate italian finished_painting_111ce4d6:
 
     # MST "{i}Haha... What a lucky kid... getting another blowjob from somebody who's practically a professional!{/i}"
+    MST "{i}Haha... Che bambino fortunato... ottenere un altro pompino da qualcuno che è praticamente un professionista!{/i}"
 
 # game/UpdateScript0.07.rpy:5341
 translate italian finished_painting_601584b4:
@@ -11530,21 +11874,25 @@ translate italian finished_painting_6a82b0f9_3:
 translate italian finished_painting_e0a875e3_1:
 
     # R "Alright, I'll lose my clothes while I'm at it."
+    R "Bene, perderò i miei vestiti mentre sono in esso."
 
 # game/UpdateScript0.07.rpy:5358
 translate italian finished_painting_9bd0dfd0_1:
 
     # MS "You're getting the hang of this."
+    MS "Sta diventando il blocco di questo."
 
 # game/UpdateScript0.07.rpy:5359
 translate italian finished_painting_e37a266b_1:
 
     # MS "Oh, but try not to pitch a tent until after I've drawn your flaccid cock."
+    MS "Oh, ma prova a non piazzare una tenda fino a quando non ho disegnato il tuo cazzo flaccido."
 
 # game/UpdateScript0.07.rpy:5360
 translate italian finished_painting_db1409b6_1:
 
     # MS "The way this is going... I'll never get this painting done."
+    MS "Il modo in cui sta andando questo... Non farò mai fare questo dipinto."
 
 # game/UpdateScript0.07.rpy:5361
 translate italian finished_painting_40d2fe6b_3:
@@ -11712,6 +12060,7 @@ translate italian finished_painting_00c049fa:
 translate italian finished_painting_63527f84:
 
     # RT "{i}That's a lie, but I think she'll like it even more if she thinks she's my first.{/i}"
+    RT "{i}È una menzogna, ma penso che le piacerà ancora di più se pensa di essere la mia prima.{/i}"
 
 # game/UpdateScript0.07.rpy:5412
 translate italian finished_painting_28997fb9:
@@ -12311,26 +12660,31 @@ translate italian finished_painting_6a82b0f9_5:
 translate italian finished_painting_b33ad3a9:
 
     # MS "Only... Can you do one more thing for me?"
+    MS "Unicamente... Riesci a fare ancora una cosa per me?"
 
 # game/UpdateScript0.07.rpy:5586
 translate italian finished_painting_ee7c81c1:
 
     # R "Remove my shirt and pants again?"
+    R "Rimuovere di nuovo la mia camicia e i pantaloni?"
 
 # game/UpdateScript0.07.rpy:5587
 translate italian finished_painting_45fe105f:
 
     # MS "Uh... yes please, but would you also be willing to... remove your underwear?"
+    MS "Uh... sì, per favore, ma saresti anche disposto a... rimuovi la tua biancheria intima?"
 
 # game/UpdateScript0.07.rpy:5588
 translate italian finished_painting_589bf676:
 
     # R "Wait... What?"
+    R "Aspetta... Che cosa?"
 
 # game/UpdateScript0.07.rpy:5589
 translate italian finished_painting_66fce99e:
 
     # MS "I'm sorry... It's just that these types of portraits are always done nude."
+    MS "Mi dispiace... è solo che questi tipi di ritratti sono sempre fatti nudo."
 
 # game/UpdateScript0.07.rpy:5590
 translate italian finished_painting_a4fbb287:
@@ -12342,36 +12696,43 @@ translate italian finished_painting_a4fbb287:
 translate italian finished_painting_8673607c:
 
     # MS "I couldn't tell you from the start, because I didn't want to scare you off. I was trying to ease you into it."
+    MS "Non potevo dirti fin dall'inizio, perché non volevo spaventarti. Stavo cercando di allentarti in essa."
 
 # game/UpdateScript0.07.rpy:5592
 translate italian finished_painting_cd1f4fbf:
 
     # RT "{i}Holy fuck!... Hello karma... Haha... This is so ironic.{/i}"
+    RT "{i}Holy fuck!... Ciao karma... Haha... Questo è così ironico.{/i}"
 
 # game/UpdateScript0.07.rpy:5593
 translate italian finished_painting_647e5498:
 
     # RT "{i}So... who am I to fight karma.{/i}"
+    RT "{i}So... chi sono per combattere karma.{/i}"
 
 # game/UpdateScript0.07.rpy:5594
 translate italian finished_painting_77477b34:
 
     # R "Yeah... okay..."
+    R "Sì... okay..."
 
 # game/UpdateScript0.07.rpy:5595
 translate italian finished_painting_d274084c:
 
     # MS "Okay?... really?...."
+    MS "Okay?... veramente?...."
 
 # game/UpdateScript0.07.rpy:5596
 translate italian finished_painting_23fa62e6:
 
     # R "I get it... I'm an artist too... At least a photographer, and I understand that art needs to push boundaries and be exciting sometimes to get an emotional response from the observer."
+    R "Lo ottengo... anche io sono un artista... Almeno un fotografo, e capisco che l'arte deve spingere i confini ed essere emozionante a volte per ottenere una risposta emotiva da parte dell'osservatore."
 
 # game/UpdateScript0.07.rpy:5597
 translate italian finished_painting_d6b287dc:
 
     # MS "I'm so glad you understand! Let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+    MS "Sono così felice che tu capisci! Lasciami prendere la mia tela, e chiuderò la porta per assicurarsi che nessuno disturba il processo artistico."
 
 # game/UpdateScript0.07.rpy:5602
 translate italian finished_painting_7a9430b5:
@@ -12809,116 +13170,139 @@ translate italian finished_painting_6a82b0f9_6:
 translate italian finished_painting_b33ad3a9_1:
 
     # MS "Only... Can you do one more thing for me?"
+    MS "Unicamente... Riesci a fare ancora una cosa per me?"
 
 # game/UpdateScript0.07.rpy:5731
 translate italian finished_painting_b18a38c9:
 
     # R "Remove my shirt again?"
+    R "Rimuovere di nuovo la maglia?"
 
 # game/UpdateScript0.07.rpy:5732
 translate italian finished_painting_7b3e835c:
 
     # MS "Uh... yes please, but would you also be willing to remove your pants?"
+    MS "Uh... sì per favore, ma saresti anche disposto a rimuovere i pantaloni?"
 
 # game/UpdateScript0.07.rpy:5733
 translate italian finished_painting_589bf676_1:
 
     # R "Wait... What?"
+    R "Aspetta... Che cosa?"
 
 # game/UpdateScript0.07.rpy:5734
 translate italian finished_painting_39bd1299:
 
     # MS "You can keep your underwear on. I just need to capture more of your figure to complete my painting."
+    MS "Puoi mantenere la tua biancheria intima accesa. Ho solo bisogno di catturare più della tua figura per completare il mio dipinto."
 
 # game/UpdateScript0.07.rpy:5735
 translate italian finished_painting_33e77293:
 
     # RT "{i}Having me strip slowly?... While she captures my image?... I think I'm starting to understand how the girls feel when I ask them to strip for my photo shoots.{/i}"
+    RT "{i}Avendo me striscia lentamente?... Mentre cattura la mia immagine?... Penso che sto cominciando a capire come si sentono le ragazze quando chiedo loro di strappare per i miei scatti fotografici.{/i}"
 
 # game/UpdateScript0.07.rpy:5736
 translate italian finished_painting_f7b3f081:
 
     # RT "{i}So... I guess I'd be a hypocrite if I said no.{/i}"
+    RT "{i}So... Immagino di essere un ipocrita se ho detto no.{/i}"
 
 # game/UpdateScript0.07.rpy:5737
 translate italian finished_painting_77477b34_1:
 
     # R "Yeah... okay..."
+    R "Sì... okay..."
 
 # game/UpdateScript0.07.rpy:5738
 translate italian finished_painting_29863384:
 
     # MS "Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+    MS "Perfetta, permettetemi di afferrare la mia tela e chiuderò la porta per assicurarsi che nessuno disturba il processo artistico."
 
 # game/UpdateScript0.07.rpy:5743
 translate italian finished_painting_ff97de2c:
 
     # MS "Your pose is perfect. Just like last time."
+    MS "La tua posa è perfetta. Proprio come la scorsa volta."
 
 # game/UpdateScript0.07.rpy:5744
 translate italian finished_painting_a29744f1:
 
     # RT "{i}I should try to flex a little... Just so Mrs. Stone can see how strong my muscles really are.{/i}"
+    RT "{i}Dovrei provare a flettere un po'... Solo così la signora Stone può vedere quanto sono forti i miei muscoli.{/i}"
 
 # game/UpdateScript0.07.rpy:5745
 translate italian finished_painting_3f4b4023:
 
     # MS "Now, hold still while I try to capture your likeness."
+    MS "Ora, tieni fermo mentre provo a catturare la tua somiglianza."
 
 # game/UpdateScript0.07.rpy:5746
 translate italian finished_painting_eeb5ac7b:
 
     # MST "{i}Damn!... I got him to take his pants off.{/i}"
+    MST "{i}Dannazione!... L'ho fatto sparire i pantaloni.{/i}"
 
 # game/UpdateScript0.07.rpy:5747
 translate italian finished_painting_e9410f2f:
 
     # MST "{i}Am I being predatory, like my husband claims I am?{/i}"
+    MST "{i}Sono predatorio, come afferma mio marito?{/i}"
 
 # game/UpdateScript0.07.rpy:5748
 translate italian finished_painting_498accc3:
 
     # MST "{i}I wonder if I could have gotten him to take off his underwear?{/i}"
+    MST "{i}Mi chiedo se avrei potuto fargli togliersi la biancheria intima?{/i}"
 
 # game/UpdateScript0.07.rpy:5749
 translate italian finished_painting_5a187564:
 
     # MST "{i}No!... Stop thinking like that.{/i}"
+    MST "{i}No!... Smetti di pensare così.{/i}"
 
 # game/UpdateScript0.07.rpy:5750
 translate italian finished_painting_b68fa921:
 
     # MST "{i}Just... paint the canvas.{/i}"
+    MST "{i}Giusto... dipinge la tela.{/i}"
 
 # game/UpdateScript0.07.rpy:5753
 translate italian finished_painting_35776249:
 
     # {i}(A few more minutes later){/i}"
+    new "{i}(Pochi minuti più tardi){/i}"
 
 # game/UpdateScript0.07.rpy:5756
 translate italian finished_painting_f8888d0c:
 
     # MS "And done... At least for today."
+    MS "E fatto... almeno per oggi."
 
 # game/UpdateScript0.07.rpy:5759
 translate italian finished_painting_c33638cc:
 
     # MS "I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
+    MS "Ho una lezione che inizia tra pochi minuti così, per favore, tornerai un altro giorno così posso finire di catturare le tue somiglianze?"
 
 # game/UpdateScript0.07.rpy:5760
 translate italian finished_painting_82ffc676:
 
     # MST "{i}Can I control myself and let him keep his underwear on?{/i}"
+    MST "{i}Posso controllare me stesso e fargli mantenere la sua biancheria intima su?{/i}"
 
 # game/UpdateScript0.07.rpy:5761
 translate italian finished_painting_11328cb6:
 
     # MST "{i}Shit!... I think I know myself well enough to know that that's not going to happen.{/i}"
+    MST "{i}Merda!... Penso di conoscermi abbastanza bene da sapere che non accadrà.{/i}"
 
 # game/UpdateScript0.07.rpy:5762
 translate italian finished_painting_b2f0cc41:
 
     # R "Yeah, most likely I'll be back to have more posters made."
+    R "Sì, molto probabilmente tornerò ad avere più poster fatti."
 
 # game/UpdateScript0.07.rpy:5763
 translate italian finished_painting_79e1431c_1:
@@ -12942,6 +13326,7 @@ translate italian finished_painting_140ad2df_2:
 translate italian finished_painting_fdb26bf4:
 
     # R "Thanks, Mrs. Stone... I do too."
+    R "Grazie, signora Pietra... lo faccio anche io."
 
 # game/UpdateScript0.07.rpy:5775
 translate italian finished_painting_88f482ba_7:
@@ -12965,111 +13350,133 @@ translate italian finished_painting_6a82b0f9_7:
 translate italian finished_painting_b33ad3a9_2:
 
     # MS "Only... Can you do one more thing for me?"
+    MS "Unicamente... Riesci a fare ancora una cosa per me?"
 
 # game/UpdateScript0.07.rpy:5779
 translate italian finished_painting_066eacf6:
 
     # R "What's that?"
+    R "Cos'è quello?"
 
 # game/UpdateScript0.07.rpy:5780
 translate italian finished_painting_1a1bbee6:
 
     # MS "Would you mind just taking off your shirt and tie?"
+    MS "Ti dispiacerebbe semplicemente toglierti la camicia e le legame?"
 
 # game/UpdateScript0.07.rpy:5781
 translate italian finished_painting_c65fea4f:
 
     # R "What? Really?"
+    R "Che cosa? Davvero?"
 
 # game/UpdateScript0.07.rpy:5782
 translate italian finished_painting_d48ded0a:
 
     # MS "Yeah, for this piece, I really want to capture the physique of the average male student."
+    MS "Sì, per questo brano, voglio davvero catturare il fisico dello studente medio maschile."
 
 # game/UpdateScript0.07.rpy:5783
 translate italian finished_painting_4bc4847a:
 
     # MS "Though... maybe your muscles are a little bigger than the average male student?"
+    MS "Pensare... forse i tuoi muscoli sono un po' più grandi dello studente maschio medio?"
 
 # game/UpdateScript0.07.rpy:5784
 translate italian finished_painting_6e93f48a:
 
     # R "Well, I don't want to brag, but I've tried to keep myself in pretty good shape."
+    R "Beh, non voglio vantarmi, ma ho cercato di tenermi in forma abbastanza buona."
 
 # game/UpdateScript0.07.rpy:5785
 translate italian finished_painting_14160d61:
 
     # MS "Ohh... Do you mind letting me draw you without your shirt, then?"
+    MS "Ohh... Ti dispiace lasciarti disegnare senza la tua camicia, allora?"
 
 # game/UpdateScript0.07.rpy:5786
 translate italian finished_painting_a4c289ee:
 
     # R "Yeah, I suppose I could do that."
+    R "Sì, immagino che potrei farlo."
 
 # game/UpdateScript0.07.rpy:5787
 translate italian finished_painting_29863384_1:
 
     # MS "Perfect, let me grab my canvas, and I'll lock the door to make sure nobody disturbs the artistic process."
+    MS "Perfetta, permettetemi di afferrare la mia tela e chiuderò la porta per assicurarsi che nessuno disturba il processo artistico."
 
 # game/UpdateScript0.07.rpy:5792
 translate italian finished_painting_ff97de2c_1:
 
     # MS "Your pose is perfect. Just like last time."
+    MS "La tua posa è perfetta. Proprio come la scorsa volta."
 
 # game/UpdateScript0.07.rpy:5793
 translate italian finished_painting_a29744f1_1:
 
     # RT "{i}I should try to flex a little... Just so Mrs. Stone can see how strong my muscles really are.{/i}"
+    RT "{i}Dovrei provare a flettere un po'... Solo così la signora Stone può vedere quanto sono forti i miei muscoli.{/i}"
 
 # game/UpdateScript0.07.rpy:5794
 translate italian finished_painting_3f4b4023_1:
 
     # MS "Now, hold still while I try to capture your likeness."
+    MS "Ora, tieni fermo mentre provo a catturare la tua somiglianza."
 
 # game/UpdateScript0.07.rpy:5795
 translate italian finished_painting_8bc08372:
 
     # MST "{i}Damn!... I haven't had a shirtless boy in my class for a long time.{/i}"
+    MST "{i}Dannazione!... Non ho avuto un ragazzo senza camicia nella mia classe per molto tempo.{/i}"
 
 # game/UpdateScript0.07.rpy:5796
 translate italian finished_painting_ca1ca96b:
 
     # MST "{i}And I'm not going to let it progress as far as last time... He's only got his shirt off.{/i}"
+    MST "{i}E non farò progredire fino all'ultima volta... è solo spento la maglia.{/i}"
 
 # game/UpdateScript0.07.rpy:5797
 translate italian finished_painting_12ddf071:
 
     # MST "{i}Should I have tried to get him down to his underwear?{/i}"
+    MST "{i}Dovrei aver provato a farlo scendere nella sua intima?{/i}"
 
 # game/UpdateScript0.07.rpy:5798
 translate italian finished_painting_5a187564_1:
 
     # MST "{i}No!... Stop thinking like that.{/i}"
+    MST "{i}No!... Smetti di pensare così.{/i}"
 
 # game/UpdateScript0.07.rpy:5799
 translate italian finished_painting_b68fa921_1:
 
     # MST "{i}Just... paint the canvas.{/i}"
+    MST "{i}Giusto... dipinge la tela.{/i}"
 
 # game/UpdateScript0.07.rpy:5802
 translate italian finished_painting_35776249_1:
 
     # {i}(A few more minutes later){/i}"
+    new "{i}(Pochi minuti più tardi){/i}"
 
 # game/UpdateScript0.07.rpy:5805
 translate italian finished_painting_f8888d0c_1:
 
     # MS "And done... At least for today."
+    MS "E fatto... almeno per oggi."
 
 # game/UpdateScript0.07.rpy:5808
 translate italian finished_painting_c33638cc_1:
 
     # MS "I've got a class starting in a few minutes so, please, will you come back another day so I can finish capturing your likeness?"
+    MS "Ho una lezione che inizia tra pochi minuti così, per favore, tornerai un altro giorno così posso finire di catturare le tue somiglianze?"
 
 # game/UpdateScript0.07.rpy:5809
 translate italian finished_painting_b2f0cc41_1:
 
     # R "Yeah, most likely I'll be back to have more posters made."
+    R "Sì, molto probabilmente tornerò ad avere più poster fatti."
 
 # game/UpdateScript0.07.rpy:5810
 translate italian finished_painting_79e1431c_2:
@@ -13093,71 +13500,85 @@ translate italian finished_painting_140ad2df_3:
 translate italian finished_painting_fdb26bf4_1:
 
     # R "Thanks, Mrs. Stone... I do too."
+    R "Grazie, signora Pietra... lo faccio anche io."
 
 # game/UpdateScript0.07.rpy:5822
 translate italian finished_painting_6292674d:
 
     # MS "The ink on your posters is almost dry."
+    MS "L'inchiostro sui vostri manifesti è quasi asciutto."
 
 # game/UpdateScript0.07.rpy:5823
 translate italian finished_painting_9d1d8127:
 
     # MS "I'm going to scan them real quick, and then you can do some posing for me while they're being printed."
+    MS "Ho intenzione di scansionarli veramente veloce, e poi si può fare un po 'in posa per me mentre sono stampati."
 
 # game/UpdateScript0.07.rpy:5824
 translate italian finished_painting_98e50772:
 
     # MS "So 10 of each for a total of 20 posters, right?"
+    MS "Così 10 di ciascuno per un totale di 20 manifesti, giusto?"
 
 # game/UpdateScript0.07.rpy:5825
 translate italian finished_painting_cdbdd074:
 
     # R "Yes, thank you."
+    R "Si, grazie."
 
 # game/UpdateScript0.07.rpy:5826
 translate italian finished_painting_5d1eae3a:
 
     # MS "Great!... Why don't you grab a stool and go in front of my easel and try to think of a pose where you look thoughtful. You know, like a model student should be."
+    MS "Grande!... Perché non afferri uno sgabello e vai davanti al mio cavalletto e cerca di pensare a una posa dove sembri pensieroso. Sai, come dovrebbe essere uno studente modello."
 
 # game/UpdateScript0.07.rpy:5827
 translate italian finished_painting_ddb3bf9e:
 
     # MS "I'll be right back after I get your posters printing."
+    MS "Tornerò subito dopo aver stampato i tuoi poster."
 
 # game/UpdateScript0.07.rpy:5830
 translate italian finished_painting_491e2abb:
 
     # {i}(A few minutes later){/i}"
+    new "{i}(Alcuni minuti più tardi){/i}"
 
 # game/UpdateScript0.07.rpy:5833
 translate italian finished_painting_c6bd4132:
 
     # MS "That pose is perfect."
+    MS "La posa è perfetta."
 
 # game/UpdateScript0.07.rpy:5834
 translate italian finished_painting_3f4b4023_2:
 
     # MS "Now, hold still while I try to capture your likeness."
+    MS "Ora, tieni fermo mentre provo a catturare la tua somiglianza."
 
 # game/UpdateScript0.07.rpy:5837
 translate italian finished_painting_35776249_2:
 
     # {i}(A few more minutes later){/i}"
+    new "{i}(Pochi minuti più tardi){/i}"
 
 # game/UpdateScript0.07.rpy:5840
 translate italian finished_painting_f8888d0c_2:
 
     # MS "And done... At least for today."
+    MS "E fatto... almeno per oggi."
 
 # game/UpdateScript0.07.rpy:5843
 translate italian finished_painting_71bec428:
 
     # MS "I've got a class starting in a few minutes so, I need you to come back another day so I can finish capturing your likeness."
+    MS "Ho una lezione che inizia in pochi minuti, Ho bisogno di tornare un altro giorno in modo da poter finire di catturare la tua somiglianza."
 
 # game/UpdateScript0.07.rpy:5844
 translate italian finished_painting_7c108874:
 
     # R "Ok, I promise I'll be back!"
+    R "Ok, prometto che sarò tornato!"
 
 # game/UpdateScript0.07.rpy:5845
 translate italian finished_painting_46ba9d56_4:
@@ -13169,6 +13590,7 @@ translate italian finished_painting_46ba9d56_4:
 translate italian finished_painting_58da55c3:
 
     # MS "And thanks for coming to see me. This is the most enjoyable free hour I've had in a long time."
+    MS "E grazie per essere venuto a trovarmi. Questa è l'ora gratuita più piacevole che ho avuto da molto tempo."
 
 # game/UpdateScript0.07.rpy:5890
 translate italian stone_bj_cum_e3ec90d2:
@@ -13318,81 +13740,97 @@ translate italian stone_bj_cum_7069454b:
 translate italian actual_election_bf3b6dfe:
 
     # PH "Welcome students!"
+    PH "Benvenuto studenti!"
 
 # game/UpdateScript0.07.rpy:5984
 translate italian actual_election_175dc9dd:
 
     # PH "Students?..."
+    PH "Studenti?..."
 
 # game/UpdateScript0.07.rpy:5985
 translate italian actual_election_1bbf3c7c:
 
     # PH "Can you please be quiet, and give me your attention!"
+    PH "Puoi essere tranquillo, e darmi la tua attenzione!"
 
 # game/UpdateScript0.07.rpy:5987
 translate italian actual_election_ba401841:
 
     # PH "Thank you."
+    PH "Grazie."
 
 # game/UpdateScript0.07.rpy:5990
 translate italian actual_election_b889f955:
 
     # PH "And once again, welcome to this special student body election assembly."
+    PH "E ancora una volta, benvenuto in questa speciale assemblea elettorale del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:5991
 translate italian actual_election_25650a4b:
 
     # PH "Our candidates have been working hard to get your votes, and now it's time for them to make one last appeal."
+    PH "I nostri candidati hanno lavorato sodo per ottenere i vostri voti, e ora è il momento per loro di fare un ultimo appello."
 
 # game/UpdateScript0.07.rpy:5992
 translate italian actual_election_6ae22aa1:
 
     # PH "We'll start the assembly with the two candidates for student body president, Matt and Lauren."
+    PH "Inizieremo l'assemblea con i due candidati per il presidente del corpo studentesco, Matt e Lauren."
 
 # game/UpdateScript0.07.rpy:5993
 translate italian actual_election_3b543f50:
 
     # PH "We'll let them come and take a few minutes each to give you their campaign speeches, and then we'll have a skit from them in the same order."
+    PH "Li lasceremo venire e impiegheremo alcuni minuti ciascuno per darti i loro discorsi di campagna, e poi avremo uno skit da loro nello stesso ordine."
 
 # game/UpdateScript0.07.rpy:5996
 translate italian actual_election_5833b56e:
 
     # PH "We'll begin with a young man that needs no introduction."
+    PH "Inizieremo con un giovane che non ha bisogno di introduzione."
 
 # game/UpdateScript0.07.rpy:5997
 translate italian actual_election_7fe56760:
 
     # PH "The captain of our basketball team for the last two years."
+    PH "Il capitano della nostra squadra di basket negli ultimi due anni."
 
 # game/UpdateScript0.07.rpy:5998
 translate italian actual_election_83e88c52:
 
     # PH "The leader who brought our school two state titles."
+    PH "Il leader che ha portato la nostra scuola due titoli statali."
 
 # game/UpdateScript0.07.rpy:5999
 translate italian actual_election_ecb0a076:
 
     # PH "Let's give it up for Matt!"
+    PH "Rinunciamo a Matto!"
 
 # game/UpdateScript0.07.rpy:6000
 translate italian actual_election_643a30f3:
 
     # PH "{i}(talking quickly and muffled){/i} Followed shortly after by Lauren."
+    PH "{i}(parlando velocemente e smorzato){/i} Seguito poco dopo da Lauren."
 
 # game/UpdateScript0.07.rpy:6004
 translate italian actual_election_3283963b:
 
     # MB "Thank you, Principal Hardun!"
+    MB "Grazie, Principale hardun!"
 
 # game/UpdateScript0.07.rpy:6005
 translate italian actual_election_7f81e905:
 
     # MB "How bout this guy! Puts the \"pal\" back in principal, am I right?"
+    MB "Come bout questo ragazzo! Mette il \"palo\" di nuovo in principale, ho ragione?"
 
 # game/UpdateScript0.07.rpy:6008
 translate italian actual_election_1c958643:
 
     # MB "Shagtown High School Basketball Rules!"
+    MB "Shagtown High School Basketball Ruls!"
 
 # game/UpdateScript0.07.rpy:6017
 translate italian actual_election_621303c5:
@@ -13428,6 +13866,7 @@ translate italian actual_election_0e35db32:
 translate italian actual_election_1f64ed85:
 
     # MB "So when the time comes, pull out your phones and vote for me, Matt for student body President!"
+    MB "Quando arriva il momento, tirate fuori i vostri telefoni e votate per me, Matt per il presidente del corpo studente!"
 
 # game/UpdateScript0.07.rpy:6040
 translate italian actual_election_c3cfddee:
@@ -14219,6 +14658,7 @@ translate italian actual_election_f389059c:
 translate italian actual_election_c6d27ef0:
 
     # {b}{i}\"Money +$3,000\"{/i}{/b}"
+    new "{b}{i}\"Money +$3,000\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:6343
 translate italian actual_election_270e01ab:
@@ -14356,26 +14796,31 @@ translate italian actual_election_6868af50:
 translate italian actual_election_37b29f95:
 
     # RT "{i}What the fuck?{/i}"
+    RT "{i}Cosa scopa?{/i}"
 
 # game/UpdateScript0.07.rpy:6384
 translate italian actual_election_7aa3a0c5:
 
     # RT "{i}Did Will Tylor betray us?{/i}"
+    RT "{i}Ci ha tradito Tylor?{/i}"
 
 # game/UpdateScript0.07.rpy:6385
 translate italian actual_election_abefbd80:
 
     # RT "{i}Was Matt spying on us?{/i}"
+    RT "{i}Stava spiando Matt?{/i}"
 
 # game/UpdateScript0.07.rpy:6386
 translate italian actual_election_413015ae:
 
     # RT "{i}Maybe Lauren's paranoia was justified after all.{/i}"
+    RT "{i}Forse la paranoia di Lauren è stata giustificata dopo tutto.{/i}"
 
 # game/UpdateScript0.07.rpy:6387
 translate italian actual_election_0c3ebea3:
 
     # RT "{i}This is fucking bullshit!{/i}"
+    RT "{i}Questo è un cazzuccia!{/i}"
 
 # game/UpdateScript0.07.rpy:6390
 translate italian actual_election_af572b35:
@@ -14507,11 +14952,13 @@ translate italian actual_election_0052cdbe:
 translate italian actual_election_2da8f0a9:
 
     # L "Fuck!... He stole my dress code announcement!"
+    L "Fuck!... Ha rubato il mio annuncio di codice vestito!"
 
 # game/UpdateScript0.07.rpy:6431
 translate italian actual_election_0e1ce40f:
 
     # L "What the fuck am I going to say now?"
+    L "Che cazzo sto per dire ora?"
 
 # game/UpdateScript0.07.rpy:6433
 translate italian actual_election_c03d7472:
@@ -14553,11 +15000,13 @@ translate italian actual_election_f6a8ede8:
 translate italian actual_election_0ac2039f:
 
     # X "Hey!... It's the girl from those sexy posters!"
+    X "Hey!... È la ragazza da quei poster sexy!"
 
 # game/UpdateScript0.07.rpy:6446
 translate italian actual_election_effd2865:
 
     # X "Yeah, beautiful! Show us that ass!"
+    X "Sì, bellissimo! Mostraci quel culo!"
 
 # game/UpdateScript0.07.rpy:6451
 translate italian actual_election_2aefe9a0:
@@ -14587,11 +15036,13 @@ translate italian actual_election_fceaeea6:
 translate italian actual_election_85355a1a:
 
     # X "She already jacked me off!"
+    X "Lei mi ha già scacciato!"
 
 # game/UpdateScript0.07.rpy:6458
 translate italian actual_election_fa275808:
 
     # X "Well, she already sucked me off!"
+    X "Beh, mi ha già succhiato!"
 
 # game/UpdateScript0.07.rpy:6463
 translate italian actual_election_06bf88b0:
@@ -14663,6 +15114,7 @@ translate italian actual_election_fe398fce:
 translate italian actual_election_3131b422:
 
     # MD "Yeah, about that. I had a few girls from the dance team that were supposed to be here. but I can't find them anywhere!"
+    MD "Sì, a riguardo. Ho avuto alcune ragazze della squadra di danza che avrebbero dovuto essere qui. ma non riesco a trovarle da nessuna parte!"
 
 # game/UpdateScript0.07.rpy:6489
 translate italian actual_election_85fda4b6_1:
@@ -14692,11 +15144,13 @@ translate italian actual_election_704428ad:
 translate italian actual_election_0dce74f5:
 
     # MD "Oh, fuck!... That was really good."
+    MD "Oh, scopata!... Era davvero buono."
 
 # game/UpdateScript0.07.rpy:6549
 translate italian actual_election_28909a31:
 
     # MD "And those girls from the dance team are no-shows!"
+    MD "E quelle ragazze della squadra di danza sono no-show!"
 
 # game/UpdateScript0.07.rpy:6552
 translate italian actual_election_fdcd0aeb:
@@ -14834,11 +15288,13 @@ translate italian actual_election_7f0dd4e1:
 translate italian actual_election_76472a3d:
 
     # L "I only got thirty percent because of all the dicks I sucked and jacked off!"
+    L "Ho ricevuto solo il trenta per cento a causa di tutti i cazzi che ho succhiato e jacked off!"
 
 # game/UpdateScript0.07.rpy:6600
 translate italian actual_election_7f79298b:
 
     # L "I only got thirty percent because of all the dicks I jacked off!"
+    L "Ho ricevuto solo il trenta per cento a causa di tutti i cazzi che ho scacciato!"
 
 # game/UpdateScript0.07.rpy:6603
 translate italian actual_election_cc4307c4:
@@ -15240,6 +15696,7 @@ translate italian election_finale_a1a09419:
 translate italian election_finale_4b85a56d:
 
     # {b}{i}\"Money - $4,000\"{/i}{/b}"
+    new "{b}{i}\"Money - $4,000\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:6733
 translate italian election_finale_253322e2:
@@ -15701,26 +16158,31 @@ translate italian exclusive_sex_9a9b8282:
 translate italian exclusive_sex_1ec46244:
 
     # LT "{i}God!... I can't wait to fuck [ryan] again!{/i}"
+    LT "{i}Dio!... Non vedo l'ora di scopare [ryan] di nuovo!{/i}"
 
 # game/UpdateScript0.07.rpy:6879
 translate italian exclusive_sex_471028e5:
 
     # R "Wow, Lauren!... I think we're getting better at kissing."
+    R "Wow, Lauren!... penso che ci stiamo baciando meglio."
 
 # game/UpdateScript0.07.rpy:6880
 translate italian exclusive_sex_5b56af88:
 
     # L "Mmmm... you always taste so good."
+    L "Mmmm... hai sempre un buon gusto."
 
 # game/UpdateScript0.07.rpy:6883
 translate italian exclusive_sex_33f4d17e:
 
     # L "So, are you ready?"
+    L "Allora, sei pronta?"
 
 # game/UpdateScript0.07.rpy:6884
 translate italian exclusive_sex_1a32e32a:
 
     # R "I think my pants are answering that question."
+    R "Credo che i miei pantaloni rispondano a quella domanda."
 
 # game/UpdateScript0.07.rpy:6885
 translate italian exclusive_sex_a3376437:
@@ -15756,6 +16218,7 @@ translate italian exclusive_sex_fff0af16:
 translate italian exclusive_sex_fade9c2d:
 
     # LT "{i}I can't believe we're gonna fuck again!{/i}"
+    LT "{i}Non posso credere che faremo di nuovo cazzo!{/i}"
 
 # game/UpdateScript0.07.rpy:6901
 translate italian exclusive_sex_14e881d7:
@@ -15767,11 +16230,13 @@ translate italian exclusive_sex_14e881d7:
 translate italian exclusive_sex_9f4dde92:
 
     # RT "{i}This still reminds me of licking a melting ice cream cone.{/i}"
+    RT "{i}Questo mi ricorda ancora di leccare un cono di gelato sciogliente.{/i}"
 
 # game/UpdateScript0.07.rpy:6903
 translate italian exclusive_sex_326566a3:
 
     # RT "{i}And, for whatever is wrong with my brain, this pussy still tastes even better than ice cream.{/i}"
+    RT "{i}E, per tutto ciò che è sbagliato nel mio cervello, questa figa ha ancora un sapore ancora migliore del gelato.{/i}"
 
 # game/UpdateScript0.07.rpy:6905
 translate italian exclusive_sex_c4700035:
@@ -15789,21 +16254,25 @@ translate italian exclusive_sex_51564436:
 translate italian exclusive_sex_b6ef9fa0:
 
     # R "Holy fuck! You soaked me again!"
+    R "Scopata santa! Mi hai imbevuto di nuovo!"
 
 # game/UpdateScript0.07.rpy:6916
 translate italian exclusive_sex_dec408bc:
 
     # L "I soaked your dick in my juices again."
+    L "Ho immerso di nuovo il tuo cazzo nei miei succhi."
 
 # game/UpdateScript0.07.rpy:6917
 translate italian exclusive_sex_12077997:
 
     # L "Mmmm... I'm ready to taste it."
+    L "Mmmm... Sono pronto per assaggiarlo."
 
 # game/UpdateScript0.07.rpy:6920
 translate italian exclusive_sex_315632fe:
 
     # L "God, I love this cock!"
+    L "Dio, io amo questo cazzo!"
 
 # game/UpdateScript0.07.rpy:6924
 translate italian exclusive_sex_7e73e939:
@@ -15827,6 +16296,7 @@ translate italian exclusive_sex_7b9fe1b9:
 translate italian exclusive_sex_d430f18e:
 
     # L "So, how do you want me?"
+    L "Allora, come mi vuole?"
 
 # game/UpdateScript0.07.rpy:6943
 translate italian exclusive_sex_fff0af16_1:
@@ -16234,11 +16704,13 @@ translate italian exclusive_sex_61858a5c:
 translate italian exclusive_sex_98c80f9e:
 
     # L "Fuck!... Pull out!"
+    L "Schiaccia!... Estrai!"
 
 # game/UpdateScript0.07.rpy:7061
 translate italian exclusive_sex_5bd85e19:
 
     # L "Don't you dare cum in my pussy!"
+    L "Non osate sperare nella mia figa!"
 
 # game/UpdateScript0.07.rpy:7068
 translate italian exclusive_sex_9f6cdb5e:
@@ -16292,16 +16764,19 @@ translate italian exclusive_sex_058ef1c2:
 translate italian exclusive_sex_6e36278c:
 
     # L "Goddammit, [ryan]!"
+    L "Goddammit, [ryan]!"
 
 # game/UpdateScript0.07.rpy:7094
 translate italian exclusive_sex_29808230:
 
     # L "I told you to pull out!"
+    L "Vi ho detto di tirare fuori!"
 
 # game/UpdateScript0.07.rpy:7095
 translate italian exclusive_sex_2a906377:
 
     # L "I might be pregnant now!"
+    L "Potrei essere incinta ora!"
 
 # game/UpdateScript0.07.rpy:7098
 translate italian exclusive_sex_77283657:
@@ -16331,36 +16806,43 @@ translate italian exclusive_sex_d6e81064:
 translate italian exclusive_sex_40986722:
 
     # R "Look at it!... It won't stop oozing out!"
+    R "Guardate!... Non smetterà di smettere!"
 
 # game/UpdateScript0.07.rpy:7103
 translate italian exclusive_sex_dc8af0d7:
 
     # L "How do you fit that much cum in those little balls?"
+    L "Come si misura quel tanto sperma in quelle palline piccole?"
 
 # game/UpdateScript0.07.rpy:7104
 translate italian exclusive_sex_8817a56c:
 
     # L "God, I hope I'm not pregnant!"
+    L "Dio, mi auguro di non essere incinta!"
 
 # game/UpdateScript0.07.rpy:7105
 translate italian exclusive_sex_85eccf31:
 
     # R "I'm really sorry! I just got caught up in the moment."
+    R "Mi dispiace davvero! Mi sono appena ritrovata al momento."
 
 # game/UpdateScript0.07.rpy:7106
 translate italian exclusive_sex_ef0f6a7f:
 
     # R "Do you forgive me?"
+    R "Mi perdoni?"
 
 # game/UpdateScript0.07.rpy:7109
 translate italian exclusive_sex_38896fa8:
 
     # L "Yeah... I guess."
+    L "Sì... Immagino che."
 
 # game/UpdateScript0.07.rpy:7110
 translate italian exclusive_sex_1f09a666:
 
     # L "But don't do it next time!"
+    L "Ma la prossima volta non farlo!"
 
 # game/UpdateScript0.07.rpy:7111
 translate italian exclusive_sex_c37ea5fa:
@@ -16528,6 +17010,7 @@ translate italian exclusive_sex_4edeedcb:
 translate italian exclusive_sex_a40af98e:
 
     # L "I love you for buying my virginity from Matt. I wouldn't have wanted to lose it to anybody but you."
+    L "Ti amo per aver acquistato la mia verginità da Matt. Non avrei voluto perderla a nessuno tranne a te."
 
 # game/UpdateScript0.07.rpy:7150
 translate italian exclusive_sex_530ff662:
@@ -16551,11 +17034,13 @@ translate italian exclusive_sex_f9c24eac:
 translate italian exclusive_sex_2198f913:
 
     # RT "{i}Holy fuck! It did it. I've fucked both of my sisters.{/i}"
+    RT "{i}Scopa Santa! Lo ha fatto. Ho scopato entrambe le mie sorelle.{/i}"
 
 # game/UpdateScript0.07.rpy:7156
 translate italian exclusive_sex_e0fbc314:
 
     # RT "{i}Two down, one hot mom to go!{/i}"
+    RT "{i}Due giù, una mamma calda da andare!{/i}"
 
 # game/UpdateScript0.07.rpy:7165
 translate italian exclusive_sex_81a392cd:
@@ -16687,6 +17172,7 @@ translate italian exclusive_sex_4edeedcb_1:
 translate italian exclusive_sex_a40af98e_1:
 
     # L "I love you for buying my virginity from Matt. I wouldn't have wanted to lose it to anybody but you."
+    L "Ti amo per aver acquistato la mia verginità da Matt. Non avrei voluto perderla a nessuno tranne a te."
 
 # game/UpdateScript0.07.rpy:7207
 translate italian exclusive_sex_530ff662_1:
@@ -16710,26 +17196,31 @@ translate italian exclusive_sex_f9c24eac_1:
 translate italian exclusive_sex_2198f913_1:
 
     # RT "{i}Holy fuck! It did it. I've fucked both of my sisters.{/i}"
+    RT "{i}Scopa Santa! Lo ha fatto. Ho scopato entrambe le mie sorelle.{/i}"
 
 # game/UpdateScript0.07.rpy:7213
 translate italian exclusive_sex_e0fbc314_1:
 
     # RT "{i}Two down, one hot mom to go!{/i}"
+    RT "{i}Due giù, una mamma calda da andare!{/i}"
 
 # game/UpdateScript0.07.rpy:7227
 translate italian shared_sex_d5db8792:
 
     # L "Wow!... I keep forgetting how big that cock is!"
+    L "Wow!... Continuo a dimenticare quanto sia grande quel cazzo!"
 
 # game/UpdateScript0.07.rpy:7228
 translate italian shared_sex_782b88cd:
 
     # R "{i}Why don't you keep rubbing it in?{/i}"
+    R "{i}Perché non continuate a strofinare in?{/i}"
 
 # game/UpdateScript0.07.rpy:7231
 translate italian shared_sex_e8e84e85:
 
     # L "So what are we waiting for?"
+    L "Cosa stiamo aspettando?"
 
 # game/UpdateScript0.07.rpy:7232
 translate italian shared_sex_203e5cf2:
@@ -16747,6 +17238,7 @@ translate italian shared_sex_676f79aa:
 translate italian shared_sex_4391de67:
 
     # RT "{i}Lauren can throat a cock like a pro now.{/i}"
+    RT "{i}Lauren può gola un cazzo come un professionista ora.{/i}"
 
 # game/UpdateScript0.07.rpy:7240
 translate italian shared_sex_1052897c:
@@ -16776,11 +17268,13 @@ translate italian shared_sex_1aaafac0:
 translate italian shared_sex_302e7bdb:
 
     # L "More than ready... I need it!"
+    L "Più che pronto... me ne serve!"
 
 # game/UpdateScript0.07.rpy:7253
 translate italian shared_sex_a1b2515d:
 
     # L "Oh, fuck!... Nnnn... Harder!... Faster!"
+    L "Oh, scopata!... Nnnnn... Più difficile!... Più veloce!"
 
 # game/UpdateScript0.07.rpy:7254
 translate italian shared_sex_4141f2d6:
@@ -16792,11 +17286,13 @@ translate italian shared_sex_4141f2d6:
 translate italian shared_sex_b8bccd37:
 
     # RT "{i}Fucking shit!... She loves getting fucked by Matt.{/i}"
+    RT "{i}Scopata merda!... Ama farsi scopare da Matt.{/i}"
 
 # game/UpdateScript0.07.rpy:7256
 translate italian shared_sex_a0840141:
 
     # RT "{i}And now, I have no idea how to stop this.{/i}"
+    RT "{i}Ed ora, non ho idea di come fermare questo.{/i}"
 
 # game/UpdateScript0.07.rpy:7259
 translate italian shared_sex_a3205c91:
@@ -16808,11 +17304,13 @@ translate italian shared_sex_a3205c91:
 translate italian shared_sex_b88cde3d:
 
     # MB "Holy fuck!... How can you squirt that much?"
+    MB "Scopata Santa!... Come si può schizzare così tanto?"
 
 # game/UpdateScript0.07.rpy:7269
 translate italian shared_sex_b46c3c7b:
 
     # MB "So fucking hot!"
+    MB "Così scopata caldo!"
 
 # game/UpdateScript0.07.rpy:7270
 translate italian shared_sex_64dab945:
@@ -16824,56 +17322,67 @@ translate italian shared_sex_64dab945:
 translate italian shared_sex_996cbfad:
 
     # MB "So, [ryan]... You tired of waiting yet?"
+    MB "Dunque, [ryan]... Sei ancora stanco di aspettare?"
 
 # game/UpdateScript0.07.rpy:7276
 translate italian shared_sex_1d138c86:
 
     # MB "Are you ready... to join us?"
+    MB "Sei pronto... a unirti a noi?"
 
 # game/UpdateScript0.07.rpy:7277
 translate italian shared_sex_7f6bee67:
 
     # MB "I know Lauren's eager... for you to join."
+    MB "Conosco l'entusiasmo di Lauren... per voi di unirsi."
 
 # game/UpdateScript0.07.rpy:7278
 translate italian shared_sex_9eeb39af:
 
     # L "Yes... Let me suck... that cock!"
+    L "Sì... Lasciatemi succhiare... quel cazzo!"
 
 # game/UpdateScript0.07.rpy:7285
 translate italian shared_sex_04fe80a5:
 
     # RT "{i}Why do I keep going along with this?{/i}"
+    RT "{i}Perché continuo ad andare avanti con questo?{/i}"
 
 # game/UpdateScript0.07.rpy:7286
 translate italian shared_sex_ec9e3574:
 
     # RT "{i}Not just letting my sister get fucked by one of my worst enemies, but actively participating in it.{/i}"
+    RT "{i}Non solo lasciare che mia sorella venga scopata da uno dei miei peggiori nemici, ma che vi partecipi attivamente.{/i}"
 
 # game/UpdateScript0.07.rpy:7287
 translate italian shared_sex_7d9309a8:
 
     # RT "{i}Why do I keep coming back?{/i}"
+    RT "{i}Perché continuo a tornare? {/i}"
 
 # game/UpdateScript0.07.rpy:7289
 translate italian shared_sex_50fd47f6:
 
     # LT "{i}Matt's got to think my brother and I are so fucked up.{/i}"
+    LT "{i}Matt's deve pensare a mio fratello e io sono così scopato.{/i}"
 
 # game/UpdateScript0.07.rpy:7290
 translate italian shared_sex_b57a7996:
 
     # LT "{i}He doesn't seem to be at all grossed out by our physical relationship, though.{/i}"
+    LT "{i}Egli non sembra essere affatto estrapolato dalla nostra relazione fisica, però.{/i}"
 
 # game/UpdateScript0.07.rpy:7291
 translate italian shared_sex_ece05ed7:
 
     # LT "{i}More than that, he seems to be encouraging it.{/i}"
+    LT "{i}Più di quello, sembra incoraggiarlo.{/i}"
 
 # game/UpdateScript0.07.rpy:7292
 translate italian shared_sex_c8b6d1e0:
 
     # LT "{i}Is it possible that he has this type of relationship with someone?{/i}"
+    LT "{i}È possibile che abbia questo tipo di relazione con qualcuno? {/i}"
 
 # game/UpdateScript0.07.rpy:7294
 translate italian shared_sex_515b71e4:
@@ -16885,6 +17394,7 @@ translate italian shared_sex_515b71e4:
 translate italian shared_sex_ae529d3d:
 
     # MB "I'm gonna creampie your pussy again!"
+    MB "Sto per creampie di nuovo la tua figa!"
 
 # game/UpdateScript0.07.rpy:7296
 translate italian shared_sex_f5f08719:
@@ -16926,81 +17436,97 @@ translate italian shared_sex_2d316a35:
 translate italian shared_sex_d71a3226:
 
     # L "It feels so warm inside."
+    L "Ci si sente così caldo dentro."
 
 # game/UpdateScript0.07.rpy:7317
 translate italian shared_sex_83934579:
 
     # MB "Did you ever get some of those pills from Megan?"
+    MB "Hai mai ricevuto alcune di quelle pillole da Megan?"
 
 # game/UpdateScript0.07.rpy:7318
 translate italian shared_sex_f340bc5d:
 
     # L "No... not yet."
+    L "No... non ancora."
 
 # game/UpdateScript0.07.rpy:7319
 translate italian shared_sex_850f919e:
 
     # MB "Well, don't forget!"
+    MB "Beh, non dimenticare!"
 
 # game/UpdateScript0.07.rpy:7320
 translate italian shared_sex_df3641ff:
 
     # MB "I can't afford to become a father in high school."
+    MB "Non posso permettermi di diventare un padre nelle superiori."
 
 # game/UpdateScript0.07.rpy:7321
 translate italian shared_sex_5018727b:
 
     # L "Yeah... I'll look into it... After I get off this sex high."
+    L "Sì... lo esaminerò... Dopo che scendo da questo sesso alto."
 
 # game/UpdateScript0.07.rpy:7322
 translate italian shared_sex_eea9ae4d:
 
     # MB "Haha... You've become such a little slut."
+    MB "Haha... Sei diventato una troia così piccola."
 
 # game/UpdateScript0.07.rpy:7323
 translate italian shared_sex_caf052ed:
 
     # L "Uhhh... huh..."
+    L "Uhhh... huh..."
 
 # game/UpdateScript0.07.rpy:7324
 translate italian shared_sex_81664bbc:
 
     # MB "I can't help but feel pride about the part I played in that."
+    MB "Non posso fare a meno di sentirmi orgoglioso del ruolo che ho svolto in quello."
 
 # game/UpdateScript0.07.rpy:7325
 translate italian shared_sex_a181faef:
 
     # MB "I've got to run now... [ryan]?... You'll take care of her I assume."
+    MB "Devo correre ora... [ryan]?... Ti prenderai cura di lei suppongo."
 
 # game/UpdateScript0.07.rpy:7326
 translate italian shared_sex_547b217d:
 
     # R "Of course I will!... She's my sister!... You shouldn't even need to ask."
+    R "Certo lo farò!... Lei è mia sorella!... non dovresti nemmeno chiedere."
 
 # game/UpdateScript0.07.rpy:7327
 translate italian shared_sex_fd3c9dac:
 
     # MB "Alright, alright."
+    MB "Va bene, va bene."
 
 # game/UpdateScript0.07.rpy:7328
 translate italian shared_sex_d7cd8ab5:
 
     # MB "Lauren?... Just let me know the next time you want to do this."
+    MB "Lauren?... Fatemi sapere la prossima volta che volete farlo."
 
 # game/UpdateScript0.07.rpy:7329
 translate italian shared_sex_f249ee94:
 
     # L "Uh huh..."
+    L "Uh huh..."
 
 # game/UpdateScript0.07.rpy:7330
 translate italian shared_sex_994e2c87:
 
     # MB "Alright, peace out!"
+    MB "Bene, pace fuori!"
 
 # game/UpdateScript0.07.rpy:7333
 translate italian shared_sex_c118e234:
 
     # L "Did you hear that?"
+    L "Lo avete sentito?"
 
 # game/UpdateScript0.07.rpy:7334
 translate italian shared_sex_4881927b:
@@ -17012,76 +17538,91 @@ translate italian shared_sex_4881927b:
 translate italian shared_sex_4d53def0:
 
     # L "You need to take care of me now."
+    L "Devi prenderti cura di me adesso."
 
 # game/UpdateScript0.07.rpy:7338
 translate italian shared_sex_f7f189d2:
 
     # R "Why don't you take care of all that cum on your face first?"
+    R "Perché non ti prendi cura di tutto quello sperma sul tuo viso per primo?"
 
 # game/UpdateScript0.07.rpy:7353
 translate italian shared_sex_9ce27121:
 
     # L "There... How's that?"
+    L "Lì... com'è?"
 
 # game/UpdateScript0.07.rpy:7354
 translate italian shared_sex_1b8277d6:
 
     # R "Not exactly what I meant, but... whatever."
+    R "Non esattamente quello che intendevo, ma... qualunque cosa."
 
 # game/UpdateScript0.07.rpy:7357
 translate italian shared_sex_89461c7d:
 
     # L "So, now will you take care of me?"
+    L "Ora ti prenderai cura di me?"
 
 # game/UpdateScript0.07.rpy:7358
 translate italian shared_sex_21179b0d:
 
     # L "And by take care of me... I mean will you fuck me?"
+    L "E prendersi cura di me... Voglio dire che mi scoparete?"
 
 # game/UpdateScript0.07.rpy:7359
 translate italian shared_sex_eeebe54c:
 
     # R "Yeah, no... I was pretty clear on your meaning there."
+    R "Sì, no... ero abbastanza chiaro sul vostro significato lì."
 
 # game/UpdateScript0.07.rpy:7360
 translate italian shared_sex_58e0c512:
 
     # L "Good... cuz I really need another good fuck."
+    L "Bene... cuz Ho davvero bisogno di un altro buon cazzo."
 
 # game/UpdateScript0.07.rpy:7363
 translate italian shared_sex_5acf6d14:
 
     # L "Pwweeeaassee!"
+    L "Pwweeeaassee!"
 
 # game/UpdateScript0.07.rpy:7367
 translate italian shared_sex_c0ddca6c:
 
     # L "Yay!... Let's get started!"
+    L "Yay!... Iniziamo!"
 
 # game/UpdateScript0.07.rpy:7378
 translate italian shared_sex_339e055b:
 
     # R "Fuck no!... I'm not going to be Matt's sloppy seconds again!"
+    R "Cazzo no!... Non sarò di nuovo i secondi sciocchi di Matt!"
 
 # game/UpdateScript0.07.rpy:7379
 translate italian shared_sex_871dc280:
 
     # L "Yeah?... Well, fuck you!"
+    L "Sì, sì?... Beh, ti scopa!"
 
 # game/UpdateScript0.07.rpy:7380
 translate italian shared_sex_58d1f111:
 
     # L "I'll just take care of myself then!"
+    L "Allora mi prenderò cura di me stesso!"
 
 # game/UpdateScript0.07.rpy:7384
 translate italian shared_sex_ad3b6e74:
 
     # RT "{i}Holy fuck!... She's becoming a nympho!{/i}"
+    RT "{i}Scopa Santa!... Sta diventando una ninfoma!{/i}"
 
 # game/UpdateScript0.07.rpy:7385
 translate italian shared_sex_a0e7af37:
 
     # RT "{i}I kinda want to watch this, but I think it's best that I just walk away.{/i}"
+    RT "{i}Voglio guardare questo, ma penso che sia meglio che mi sia appena andato via.{/i}"
 
 # game/UpdateScript0.07.rpy:7398
 translate italian shared_sex_91355cdd:
@@ -17759,16 +18300,19 @@ translate italian shared_sex_45517066:
 translate italian shared_sex_a1edfcc9:
 
     # L "I never would have started jacking off guys in the bathroom, if you'd been helping me bring my poll numbers up. Then..."
+    L "Non avrei mai iniziato a prendere i ragazzi in bagno, se mi avessi aiutato a portare i miei numeri di sondaggio su..."
 
 # game/UpdateScript0.07.rpy:7583
 translate italian shared_sex_5c8fa037:
 
     # L "That didn't motivate you to help me either. I started sucking guys off in the bathroom because you still couldn't take any time to help me out. Then..."
+    L "Anche questo non ti ha spinto ad aiutarmi. Ho iniziato a succhiare ragazzi in bagno perché ancora non si poteva prendere alcun tempo per aiutarmi. Allora..."
 
 # game/UpdateScript0.07.rpy:7585
 translate italian shared_sex_d4157e1a:
 
     # L "I started licking pussy, because you couldn't spare any time to help me with my campaign. And finally..."
+    L "Ho iniziato a leccare la figa, perché non potevi risparmiare tempo per aiutarmi con la mia campagna. E finalmente..."
 
 # game/UpdateScript0.07.rpy:7588
 translate italian shared_sex_746274d1:
@@ -18302,11 +18846,13 @@ translate italian shared_sex_61858a5c:
 translate italian shared_sex_98c80f9e:
 
     # L "Fuck!... Pull out!"
+    L "Schiaccia!... Estrai!"
 
 # game/UpdateScript0.07.rpy:7751
 translate italian shared_sex_5bd85e19:
 
     # L "Don't you dare cum in my pussy!"
+    L "Non osate sperare nella mia figa!"
 
 # game/UpdateScript0.07.rpy:7758
 translate italian shared_sex_9f6cdb5e:
@@ -18360,51 +18906,61 @@ translate italian shared_sex_058ef1c2:
 translate italian shared_sex_6e36278c:
 
     # L "Goddammit, [ryan]!"
+    L "Goddammit, [ryan]!"
 
 # game/UpdateScript0.07.rpy:7784
 translate italian shared_sex_29808230:
 
     # L "I told you to pull out!"
+    L "Vi ho detto di tirare fuori!"
 
 # game/UpdateScript0.07.rpy:7785
 translate italian shared_sex_31efef4d:
 
     # L "Between Matt and you, I might be pregnant now!"
+    L "Tra Matt e te, potrei essere incinta adesso!"
 
 # game/UpdateScript0.07.rpy:7788
 translate italian shared_sex_40986722:
 
     # R "Look at it!... It won't stop oozing out!"
+    R "Guardate!... Non smetterà di smettere!"
 
 # game/UpdateScript0.07.rpy:7789
 translate italian shared_sex_dc8af0d7:
 
     # L "How do you fit that much cum in those little balls?"
+    L "Come si misura quel tanto sperma in quelle palline piccole?"
 
 # game/UpdateScript0.07.rpy:7790
 translate italian shared_sex_8817a56c:
 
     # L "God, I hope I'm not pregnant!"
+    L "Dio, mi auguro di non essere incinta!"
 
 # game/UpdateScript0.07.rpy:7791
 translate italian shared_sex_85eccf31:
 
     # R "I'm really sorry! I just got caught up in the moment."
+    R "Mi dispiace davvero! Mi sono appena ritrovata al momento."
 
 # game/UpdateScript0.07.rpy:7792
 translate italian shared_sex_ef0f6a7f:
 
     # R "Do you forgive me?"
+    R "Mi perdoni?"
 
 # game/UpdateScript0.07.rpy:7795
 translate italian shared_sex_26f0a8ad:
 
     # L "Yeah... I guess!"
+    L "Sì... Immagino che!"
 
 # game/UpdateScript0.07.rpy:7796
 translate italian shared_sex_1f09a666:
 
     # L "But don't do it next time!"
+    L "Ma la prossima volta non farlo!"
 
 # game/UpdateScript0.07.rpy:7797
 translate italian shared_sex_c37ea5fa:
@@ -18548,16 +19104,19 @@ translate italian shared_sex_f9c24eac:
 translate italian shared_sex_2198f913:
 
     # RT "{i}Holy fuck! It did it. I've fucked both of my sisters.{/i}"
+    RT "{i}Scopa Santa! Lo ha fatto. Ho scopato entrambe le mie sorelle.{/i}"
 
 # game/UpdateScript0.07.rpy:7832
 translate italian shared_sex_2f3a2aa4:
 
     # RT "{i}I'm not thrilled that Matt got to fuck one of them too... I've just got to keep him away from Mom.{/i}"
+    RT "{i}Non sono entusiasta del fatto che Matt abbia scopato anche uno di loro... Devo solo tenerlo lontano dalla mamma. {/i}"
 
 # game/UpdateScript0.07.rpy:7833
 translate italian shared_sex_704d1e16:
 
     # RT "{i}So two down, one hot mom to go!{/i}"
+    RT "{i}Così due giù, una mamma calda per andare!{/i}"
 
 # game/UpdateScript0.07.rpy:7842
 translate italian shared_sex_81a392cd:
@@ -18689,21 +19248,25 @@ translate italian shared_sex_f9c24eac_1:
 translate italian shared_sex_2198f913_1:
 
     # RT "{i}Holy fuck! It did it. I've fucked both of my sisters.{/i}"
+    RT "{i}Scopa Santa! Lo ha fatto. Ho scopato entrambe le mie sorelle.{/i}"
 
 # game/UpdateScript0.07.rpy:7884
 translate italian shared_sex_2f3a2aa4_1:
 
     # RT "{i}I'm not thrilled that Matt got to fuck one of them too... I've just got to keep him away from Mom.{/i}"
+    RT "{i}Non sono entusiasta del fatto che Matt abbia scopato anche uno di loro... Devo solo tenerlo lontano dalla mamma. {/i}"
 
 # game/UpdateScript0.07.rpy:7885
 translate italian shared_sex_704d1e16_1:
 
     # RT "{i}So two down, one hot mom to go!{/i}"
+    RT "{i}Così due giù, una mamma calda per andare!{/i}"
 
 # game/UpdateScript0.07.rpy:7953
 translate italian lauren_squirt_standing_12918519:
 
     # L "Ffffuuuuuck!"
+    L "Ccazzooo!"
 
 # game/UpdateScript0.07.rpy:7974
 translate italian lauren_cum_8d4bfabb:
@@ -18727,11 +19290,13 @@ translate italian lauren_cum_61858a5c:
 translate italian lauren_cum_98c80f9e:
 
     # L "Fuck!... Pull out!"
+    L "Schiaccia!... Estrai!"
 
 # game/UpdateScript0.07.rpy:7981
 translate italian lauren_cum_5bd85e19:
 
     # L "Don't you dare cum in my pussy!"
+    L "Non osate sperare nella mia figa!"
 
 # game/UpdateScript0.07.rpy:7988
 translate italian lauren_cum_9f6cdb5e:
@@ -18749,6 +19314,7 @@ translate italian lauren_cum_bdfde51f:
 translate italian lauren_cum_d10ab822:
 
     # LT "{i}Oh... My womb is inflating!{/i}"
+    LT "{i}Oh... Il mio grembo è gonfiante!{/i}"
 
 # game/UpdateScript0.07.rpy:7997
 translate italian lauren_cum_5ed682e1:
@@ -18784,56 +19350,67 @@ translate italian lauren_cum_058ef1c2:
 translate italian lauren_cum_6e36278c:
 
     # L "Goddammit, [ryan]!"
+    L "Goddammit, [ryan]!"
 
 # game/UpdateScript0.07.rpy:8014
 translate italian lauren_cum_29808230:
 
     # L "I told you to pull out!"
+    L "Vi ho detto di tirare fuori!"
 
 # game/UpdateScript0.07.rpy:8015
 translate italian lauren_cum_2a906377:
 
     # L "I might be pregnant now!"
+    L "Potrei essere incinta ora!"
 
 # game/UpdateScript0.07.rpy:8018
 translate italian lauren_cum_917bf52d:
 
     # R "Well, Matt could have gotten you pregnant, too. I don't see why it's a big deal when I do it."
+    R "Beh, anche Matt potrebbe averti incinta. Non capisco perché sia un grande affare quando lo faccio."
 
 # game/UpdateScript0.07.rpy:8019
 translate italian lauren_cum_54163246:
 
     # R "Plus, why haven't you started birth control yet?"
+    R "Inoltre, perché non hai ancora iniziato a controllare le nascite?"
 
 # game/UpdateScript0.07.rpy:8020
 translate italian lauren_cum_f86a4e0a:
 
     # L "Why haven't you gotten a vasectomy yet?"
+    L "Perché non hai ancora ricevuto una vasectomia?"
 
 # game/UpdateScript0.07.rpy:8021
 translate italian lauren_cum_8d698fcf:
 
     # R "touché."
+    R "tocco."
 
 # game/UpdateScript0.07.rpy:8022
 translate italian lauren_cum_8817a56c:
 
     # L "God, I hope I'm not pregnant!"
+    L "Dio, mi auguro di non essere incinta!"
 
 # game/UpdateScript0.07.rpy:8023
 translate italian lauren_cum_65bac569:
 
     # R "Well, if you have a baby, at least it will be easy to identify who the father is."
+    R "Beh, se avete un bambino, almeno sarà facile identificare chi è il padre."
 
 # game/UpdateScript0.07.rpy:8026
 translate italian lauren_cum_b035fb7c:
 
     # L "Yeah... I guess so!"
+    L "Sì... immagino così!"
 
 # game/UpdateScript0.07.rpy:8027
 translate italian lauren_cum_b3803d5e:
 
     # L "But don't do it again!"
+    L "Ma non farla di nuovo!"
 
 # game/UpdateScript0.07.rpy:8029
 translate italian lauren_cum_41b89556:
@@ -18863,31 +19440,37 @@ translate italian lauren_cum_d71617c7:
 translate italian lauren_cum_1a36dbf1:
 
     # R "Just like any of Matt's could have knocked you up."
+    R "Proprio come qualsiasi di Matt's potrebbe averti buttato in su."
 
 # game/UpdateScript0.07.rpy:8036
 translate italian lauren_cum_9308eab5:
 
     # L "But, you have way more."
+    L "Ma, avete modo di più."
 
 # game/UpdateScript0.07.rpy:8037
 translate italian lauren_cum_a178afbe:
 
     # R "But, he came first."
+    R "Ma, è arrivato per primo."
 
 # game/UpdateScript0.07.rpy:8038
 translate italian lauren_cum_f7b0bb5c:
 
     # R "Why aren't you on birth control yet?"
+    R "Perché non siete ancora sul controllo delle nascite?"
 
 # game/UpdateScript0.07.rpy:8039
 translate italian lauren_cum_41de4207:
 
     # L "Why haven't You gotten a vasectomy yet?"
+    L "Perché non hai ancora ricevuto una vasectomia?"
 
 # game/UpdateScript0.07.rpy:8040
 translate italian lauren_cum_8d698fcf_1:
 
     # R "touché."
+    R "tocco."
 
 # game/UpdateScript0.07.rpy:8043
 translate italian lauren_cum_0f4c15df:
@@ -18905,56 +19488,67 @@ translate italian lauren_cum_9940dbdf:
 translate italian lauren_cum_bf02d8c9:
 
     # L "Well... at least I get to enjoy the sensation of cum sloshing around in my insides for the rest of the day."
+    L "Bene... almeno riesco a godermi la sensazione di spermatozoia intorno al mio interno per il resto della giornata."
 
 # game/UpdateScript0.07.rpy:8046
 translate italian lauren_cum_002502b5:
 
     # L "God, The next time I talk to Mom or Sidney, yours and Matt's cum could be leaking out of my pussy... And they'll have no idea."
+    L "Dio, La prossima volta che parlo con Mamma o Sidney, il vostro e lo sperma di Matt, potrebbe fuoriuscire dalla mia figa. E non avranno idea."
 
 # game/UpdateScript0.07.rpy:8047
 translate italian lauren_cum_1b36acd3:
 
     # L "Fuck, that's hot."
+    L "Cazzo che è caldo."
 
 # game/UpdateScript0.07.rpy:8048
 translate italian lauren_cum_8bfb9fe0:
 
     # R "Well, it's been fun, but..."
+    R "Beh, è stata divertente, ma..."
 
 # game/UpdateScript0.07.rpy:8049
 translate italian lauren_cum_c3d1b78c:
 
     # L "We'd better go?"
+    L "Faremmo meglio a andare?"
 
 # game/UpdateScript0.07.rpy:8050
 translate italian lauren_cum_34d0e215:
 
     # R "So, I'll see you back here soon?"
+    R "Così, ti vedrò qui presto?"
 
 # game/UpdateScript0.07.rpy:8051
 translate italian lauren_cum_7a5ad407:
 
     # L "Sure, I'll just have to make sure it's ok with Matt."
+    L "Certo, dovrò solo assicurarsi che sia ok con Matt."
 
 # game/UpdateScript0.07.rpy:8052
 translate italian lauren_cum_2c9bbaef:
 
     # R "Does he always have to come?"
+    R "Deve sempre venire?"
 
 # game/UpdateScript0.07.rpy:8053
 translate italian lauren_cum_19c1ecb5:
 
     # L "I need to at least give him the option."
+    L "Ho bisogno di almeno dargli l'opzione."
 
 # game/UpdateScript0.07.rpy:8054
 translate italian lauren_cum_c5a22626:
 
     # R "Alright, whatever."
+    R "Bene, qualsiasi."
 
 # game/UpdateScript0.07.rpy:8055
 translate italian lauren_cum_19042083:
 
     # L "Yeah... I'll make sure it works for Matt."
+    L "Sì... assicurerò che funzioni per Matt."
 
 # game/UpdateScript0.07.rpy:8064
 translate italian lauren_cum_81a392cd:
@@ -19014,41 +19608,49 @@ translate italian lauren_cum_69e06bb8:
 translate italian lauren_cum_9d577f9a:
 
     # R "Why does it matter? Matt came in your pussy."
+    R "Perché è importante? Matt è venuto nella tua figa."
 
 # game/UpdateScript0.07.rpy:8092
 translate italian lauren_cum_04089802:
 
     # L "The difference is that if he gets me pregnant, it's just another teen pregnancy, but if you get me pregnant, it's a major scandal."
+    L "La differenza è che se mi rimane incinta, è solo un'altra gravidanza adolescente, ma se mi tenete incinta, è un grande scandalo."
 
 # game/UpdateScript0.07.rpy:8093
 translate italian lauren_cum_88bd9489:
 
     # R "Good point."
+    R "Buono punto."
 
 # game/UpdateScript0.07.rpy:8094
 translate italian lauren_cum_34d0e215_1:
 
     # R "So, I'll see you back here soon?"
+    R "Così, ti vedrò qui presto?"
 
 # game/UpdateScript0.07.rpy:8095
 translate italian lauren_cum_7a5ad407_1:
 
     # L "Sure, I'll just have to make sure it's ok with Matt."
+    L "Certo, dovrò solo assicurarsi che sia ok con Matt."
 
 # game/UpdateScript0.07.rpy:8096
 translate italian lauren_cum_2c9bbaef_1:
 
     # R "Does he always have to come?"
+    R "Deve sempre venire?"
 
 # game/UpdateScript0.07.rpy:8097
 translate italian lauren_cum_19c1ecb5_1:
 
     # L "I need to at least give him the option."
+    L "Ho bisogno di almeno dargli l'opzione."
 
 # game/UpdateScript0.07.rpy:8098
 translate italian lauren_cum_c5a22626_1:
 
     # R "Alright, whatever."
+    R "Bene, qualsiasi."
 
 # game/UpdateScript0.07.rpy:8105
 translate italian lauren_cum_8d4bfabb_1:
@@ -19072,11 +19674,13 @@ translate italian lauren_cum_61858a5c_1:
 translate italian lauren_cum_98c80f9e_1:
 
     # L "Fuck!... Pull out!"
+    L "Schiaccia!... Estrai!"
 
 # game/UpdateScript0.07.rpy:8112
 translate italian lauren_cum_5bd85e19_1:
 
     # L "Don't you dare cum in my pussy!"
+    L "Non osate sperare nella mia figa!"
 
 # game/UpdateScript0.07.rpy:8119
 translate italian lauren_cum_9f6cdb5e_1:
@@ -19094,6 +19698,7 @@ translate italian lauren_cum_bdfde51f_1:
 translate italian lauren_cum_d10ab822_1:
 
     # LT "{i}Oh... My womb is inflating!{/i}"
+    LT "{i}Oh... Il mio grembo è gonfiante!{/i}"
 
 # game/UpdateScript0.07.rpy:8128
 translate italian lauren_cum_5ed682e1_1:
@@ -19129,56 +19734,67 @@ translate italian lauren_cum_058ef1c2_2:
 translate italian lauren_cum_6e36278c_1:
 
     # L "Goddammit, [ryan]!"
+    L "Goddammit, [ryan]!"
 
 # game/UpdateScript0.07.rpy:8145
 translate italian lauren_cum_29808230_1:
 
     # L "I told you to pull out!"
+    L "Vi ho detto di tirare fuori!"
 
 # game/UpdateScript0.07.rpy:8146
 translate italian lauren_cum_2a906377_1:
 
     # L "I might be pregnant now!"
+    L "Potrei essere incinta ora!"
 
 # game/UpdateScript0.07.rpy:8149
 translate italian lauren_cum_2b45cc12:
 
     # R "Why haven't you started birth control yet?"
+    R "Perché non hai ancora iniziato il controllo delle nascite?"
 
 # game/UpdateScript0.07.rpy:8150
 translate italian lauren_cum_f86a4e0a_1:
 
     # L "Why haven't you gotten a vasectomy yet?"
+    L "Perché non hai ancora ricevuto una vasectomia?"
 
 # game/UpdateScript0.07.rpy:8151
 translate italian lauren_cum_8d698fcf_2:
 
     # R "touché."
+    R "tocco."
 
 # game/UpdateScript0.07.rpy:8152
 translate italian lauren_cum_8817a56c_1:
 
     # L "God, I hope I'm not pregnant!"
+    L "Dio, mi auguro di non essere incinta!"
 
 # game/UpdateScript0.07.rpy:8153
 translate italian lauren_cum_e20ce9d9:
 
     # R "I'm really sorry! I just got caught up in the moment again."
+    R "Mi dispiace davvero! Mi sono appena ritrovato in quel momento."
 
 # game/UpdateScript0.07.rpy:8154
 translate italian lauren_cum_ef0f6a7f:
 
     # R "Do you forgive me?"
+    R "Mi perdoni?"
 
 # game/UpdateScript0.07.rpy:8157
 translate italian lauren_cum_26f0a8ad:
 
     # L "Yeah... I guess!"
+    L "Sì... Immagino che!"
 
 # game/UpdateScript0.07.rpy:8158
 translate italian lauren_cum_b3803d5e_1:
 
     # L "But don't do it again!"
+    L "Ma non farla di nuovo!"
 
 # game/UpdateScript0.07.rpy:8160
 translate italian lauren_cum_41b89556_1:
@@ -19208,16 +19824,19 @@ translate italian lauren_cum_d71617c7_1:
 translate italian lauren_cum_e0d4049b:
 
     # R "You're not on birth control yet?"
+    R "Non sei già sul controllo delle nascite?"
 
 # game/UpdateScript0.07.rpy:8167
 translate italian lauren_cum_975b6cc6:
 
     # L "You haven't gotten a vasectomy yet?"
+    L "Non hai ancora ricevuto una vasectomia?"
 
 # game/UpdateScript0.07.rpy:8168
 translate italian lauren_cum_8d698fcf_3:
 
     # R "touché."
+    R "tocco."
 
 # game/UpdateScript0.07.rpy:8171
 translate italian lauren_cum_0f4c15df_1:
@@ -19235,36 +19854,43 @@ translate italian lauren_cum_9940dbdf_1:
 translate italian lauren_cum_bf02d8c9_1:
 
     # L "Well... at least I get to enjoy the sensation of cum sloshing around in my insides for the rest of the day."
+    L "Bene... almeno riesco a godermi la sensazione di spermatozoia intorno al mio interno per il resto della giornata."
 
 # game/UpdateScript0.07.rpy:8174
 translate italian lauren_cum_883c3586:
 
     # L "God, The next time I talk to Mom or Sidney, your cum could be leaking out of my pussy... And they'll have no idea."
+    L "Dio, la prossima volta che parlo con Mamma o Sidney, il tuo sperma potrebbe fuoriuscire dalla mia figa... E non avranno idea."
 
 # game/UpdateScript0.07.rpy:8175
 translate italian lauren_cum_1b36acd3_1:
 
     # L "Fuck, that's hot."
+    L "Cazzo che è caldo."
 
 # game/UpdateScript0.07.rpy:8176
 translate italian lauren_cum_8bfb9fe0_1:
 
     # R "Well, it's been fun, but..."
+    R "Beh, è stata divertente, ma..."
 
 # game/UpdateScript0.07.rpy:8177
 translate italian lauren_cum_c3d1b78c_1:
 
     # L "We'd better go?"
+    L "Faremmo meglio a andare?"
 
 # game/UpdateScript0.07.rpy:8178
 translate italian lauren_cum_34d0e215_2:
 
     # R "So, I'll see you back here soon?"
+    R "Così, ti vedrò qui presto?"
 
 # game/UpdateScript0.07.rpy:8179
 translate italian lauren_cum_57a359f0:
 
     # L "We'll see."
+    L "Vedremo."
 
 # game/UpdateScript0.07.rpy:8188
 translate italian lauren_cum_81a392cd_1:
@@ -19324,26 +19950,31 @@ translate italian lauren_cum_69e06bb8_1:
 translate italian lauren_cum_55edff07:
 
     # R "That would be awesome, but I do enjoy seeing you covered in cum."
+    R "Sarebbe fantastico, ma mi piace vederti coperto di cum."
 
 # game/UpdateScript0.07.rpy:8216
 translate italian lauren_cum_8bfb9fe0_2:
 
     # R "Well, it's been fun, but..."
+    R "Beh, è stata divertente, ma..."
 
 # game/UpdateScript0.07.rpy:8217
 translate italian lauren_cum_c3d1b78c_2:
 
     # L "We'd better go?"
+    L "Faremmo meglio a andare?"
 
 # game/UpdateScript0.07.rpy:8218
 translate italian lauren_cum_34d0e215_3:
 
     # R "So, I'll see you back here soon?"
+    R "Così, ti vedrò qui presto?"
 
 # game/UpdateScript0.07.rpy:8219
 translate italian lauren_cum_57a359f0_1:
 
     # L "We'll see."
+    L "Vedremo."
 
 # game/UpdateScript0.07.rpy:8236
 translate italian newschoolhallwaymorning_d5337759:
@@ -19445,116 +20076,139 @@ translate italian newschoolhallwayafternoon_379aa1ba_7:
 translate italian hall_ambush_8d63b60f:
 
     # RT "{i}Alright, I got class out of the way, now my priorities are to make some money and find a way to empty my balls.{/i}"
+    RT "{i}Va bene, sono uscito dalla lezione, ora le mie priorità sono di fare soldi e trovare un modo per svuotare le mie palle. /i}"
 
 # game/UpdateScript0.07.rpy:8347
 translate italian hall_ambush_604929e6:
 
     # L "Hey, big brother!"
+    L "Ehi, fratello maggiore!"
 
 # game/UpdateScript0.07.rpy:8348
 translate italian hall_ambush_d70b17f3:
 
     # R "Oh, hey, Lauren."
+    R "Oh, hey, Lauren."
 
 # game/UpdateScript0.07.rpy:8349
 translate italian hall_ambush_b9df6467:
 
     # R "Aren't you going to Mom's afternoon class? You're going to be late."
+    R "Non andrai alla lezione pomeridiana di mamma? Stai per essere in ritardo."
 
 # game/UpdateScript0.07.rpy:8352
 translate italian hall_ambush_149d261d:
 
     # L "No, I've got too much to do, and to think about."
+    L "No, ho troppo da fare, e da pensare."
 
 # game/UpdateScript0.07.rpy:8353
 translate italian hall_ambush_bdfdf027:
 
     # R "Oh, no... You're not thinking about running for president again, are you?"
+    R "Oh, no... Non stai pensando di correre di nuovo per presidente, vero?"
 
 # game/UpdateScript0.07.rpy:8356
 translate italian hall_ambush_4e5c4999:
 
     # L "How did you guess?"
+    L "Come ha indovinato?"
 
 # game/UpdateScript0.07.rpy:8357
 translate italian hall_ambush_e23f9b10:
 
     # R "Please, no. I don't think that's a very good idea."
+    R "Per favore, no. Non penso che sia un'idea molto buona."
 
 # game/UpdateScript0.07.rpy:8358
 translate italian hall_ambush_e927753b:
 
     # L "What do you mean? It's a great idea!"
+    L "Che cosa intendi? È un'ottima idea!"
 
 # game/UpdateScript0.07.rpy:8359
 translate italian hall_ambush_d0aebfce:
 
     # L "That stupid whore Lisa made me look stupid when she won the election last time."
+    L "Quella stupida puttana Lisa mi ha fatto sembrare stupida quando ha vinto le elezioni l'ultima volta."
 
 # game/UpdateScript0.07.rpy:8360
 translate italian hall_ambush_3cba5934:
 
     # L "Now she's been kicked out in shame, giving me a chance to rise back up, and do the job she was never good enough to do."
+    L "Ora è stata espulsa nella vergogna, dandomi la possibilità di risalire, e fare il lavoro che non è mai stato abbastanza buono da fare."
 
 # game/UpdateScript0.07.rpy:8361
 translate italian hall_ambush_11fee12c:
 
     # R "Wow Lauren, that sounds really catty. Lisa's not that bad. At the very least, she didn't deserve to be humiliated like that."
+    R "Wow Lauren, che suona davvero cattivo. Lisa non è così male. Almeno, non meritava di essere umiliata così."
 
 # game/UpdateScript0.07.rpy:8364
 translate italian hall_ambush_91b5af31:
 
     # L "You're right. That's pretty bitchy of me."
+    L "Hai ragione. È una bella cagnola da parte mia."
 
 # game/UpdateScript0.07.rpy:8365
 translate italian hall_ambush_eafe5378:
 
     # L "And if I'm going to win this election, I'm gonna need to treat people better than that stupid whore Lisa did."
+    L "E se vincerò queste elezioni, dovrò trattare le persone meglio di quella stupida puttana che Lisa ha fatto."
 
 # game/UpdateScript0.07.rpy:8366
 translate italian hall_ambush_c719dd24:
 
     # L "Thanks for calling me out."
+    L "Grazie per avermi richiamato."
 
 # game/UpdateScript0.07.rpy:8369
 translate italian hall_ambush_930d799f:
 
     # L "And that's one of the reasons why I need your help."
+    L "E questo è uno dei motivi per cui ho bisogno del tuo aiuto."
 
 # game/UpdateScript0.07.rpy:8370
 translate italian hall_ambush_1587c475:
 
     # R "You got it! I'll let you know any time you're being a bitch."
+    R "Ce l'hai fatta! Ti farò sapere ogni volta che sei una cagna."
 
 # game/UpdateScript0.07.rpy:8371
 translate italian hall_ambush_7e1d07ef:
 
     # L "You know that's not what I meant."
+    L "Lo sai che non è quello che intendevo."
 
 # game/UpdateScript0.07.rpy:8372
 translate italian hall_ambush_bca53457:
 
     # L "[ryan]?"
+    L "[ryan]?"
 
 # game/UpdateScript0.07.rpy:8373
 translate italian hall_ambush_c2fffd17:
 
     # R "Don't even ask..."
+    R "Non chiediamo..."
 
 # game/UpdateScript0.07.rpy:8376
 translate italian hall_ambush_b49a1bd8:
 
     # L "But I need you!"
+    L "Ma ho bisogno di voi!"
 
 # game/UpdateScript0.07.rpy:8377
 translate italian hall_ambush_5c641c4b:
 
     # R "No, you don't... Get some of your friends to help."
+    R "No, non lo fa... Ottieni alcuni dei tuoi amici per aiutarti."
 
 # game/UpdateScript0.07.rpy:8378
 translate italian hall_ambush_2d44ae6f:
 
     # L "No... I mean, I really, really need you!"
+    L "No... Voglio dire, davvero, ho davvero bisogno di te!"
 
 # game/UpdateScript0.07.rpy:8379
 translate italian hall_ambush_3647cc79:
@@ -19566,221 +20220,265 @@ translate italian hall_ambush_3647cc79:
 translate italian hall_ambush_ef80b290:
 
     # L "Well, running a successful campaign can get pretty expensive."
+    L "Beh, l'esecuzione di una campagna di successo può ottenere abbastanza costoso."
 
 # game/UpdateScript0.07.rpy:8383
 translate italian hall_ambush_a70fb948:
 
     # L "Dad paid all my expenses for the last election."
+    L "Papà pagò tutte le mie spese per le ultime elezioni."
 
 # game/UpdateScript0.07.rpy:8384
 translate italian hall_ambush_b786b950:
 
     # L "I have no chance of winning if I don't spend any money."
+    L "Non ho alcuna possibilità di vincere se non spendo denaro."
 
 # game/UpdateScript0.07.rpy:8385
 translate italian hall_ambush_a4dba4d1:
 
     # R "Oh... So you need my money?"
+    R "Oh... Allora hai bisogno del mio denaro?"
 
 # game/UpdateScript0.07.rpy:8388
 translate italian hall_ambush_33b8ecd2:
 
     # L "\"Our\" money!"
+    L "soldi \"Our\"!"
 
 # game/UpdateScript0.07.rpy:8389
 translate italian hall_ambush_ef51741a:
 
     # L "At least the money you've made from my pictures."
+    L "Almeno i soldi che hai fatto dalle mie foto."
 
 # game/UpdateScript0.07.rpy:8392
 translate italian hall_ambush_41d57ce0:
 
     # L "And I know you want to do good things with the money, like paying the Mafia debt, but wouldn't it be ok if Mom had to work at their club a couple weekends so that I have enough money for this campaign?"
+    L "E so che volete fare cose buone con i soldi, come pagare il debito mafioso, ma non sarebbe ok se la mamma dovesse lavorare al loro club un paio di fine settimana in modo che ho abbastanza soldi per questa campagna?"
 
 # game/UpdateScript0.07.rpy:8395
 translate italian hall_ambush_24e9f4a2:
 
     # L "I know a Mafia club can be dangerous, but seriously, how much danger can she be in serving drinks?"
+    L "So che un mafioso club può essere pericoloso, ma seriamente, quanto pericolo può essere nel servire bevande?"
 
 # game/UpdateScript0.07.rpy:8396
 translate italian hall_ambush_762b80e0:
 
     # R "Uhh... Yes, serving drinks."
+    R "Uhh... Sì, servendo bevande."
 
 # game/UpdateScript0.07.rpy:8397
 translate italian hall_ambush_59f0ab6f:
 
     # L "Wait... Didn't you say she was stripping?"
+    L "Aspetta... Non hai detto che era stripping?"
 
 # game/UpdateScript0.07.rpy:8398
 translate italian hall_ambush_49c91172:
 
     # R "Did I?"
+    R "Ho fatto?"
 
 # game/UpdateScript0.07.rpy:8399
 translate italian hall_ambush_7dc5d780:
 
     # L "Yeah, you said you'd fill me in on the details later."
+    L "Sì, hai detto che mi avresti riempito nei dettagli successivamente."
 
 # game/UpdateScript0.07.rpy:8400
 translate italian hall_ambush_e941e4dc:
 
     # R "Oh no, I think I said she was serving drinks by the stripper pole."
+    R "Oh no, credo di aver detto che stava servendo bevande dal polo spogliarellista."
 
 # game/UpdateScript0.07.rpy:8401
 translate italian hall_ambush_3035f97f:
 
     # L "That's not what you said."
+    L "Non è ciò che hai detto."
 
 # game/UpdateScript0.07.rpy:8402
 translate italian hall_ambush_5bc45326:
 
     # R "Yeah?... Well, that's what I meant."
+    R "Sì, sì?... Beh, è quello che intendevo."
 
 # game/UpdateScript0.07.rpy:8403
 translate italian hall_ambush_c044a738:
 
     # LT "{i}Hmmm... He's not telling me something... Maybe I'll ask Mom about it.{/i}"
+    LT "{i}Hmmm... Non mi sta dicendo qualcosa... Forse chiederò a mamma di questo.{/i}"
 
 # game/UpdateScript0.07.rpy:8407
 translate italian hall_ambush_02311fbb:
 
     # L "Well, anyways... Please help me! Please, please, please, please, please, please, puleeeease!"
+    L "Beh, comunque... Aiutami! Per favore, per favore, per favore, per favore, per favore, per favore, puleeeeease!"
 
 # game/UpdateScript0.07.rpy:8412
 translate italian hall_ambush_ab9f756c:
 
     # L "Yay!"
+    L "Evviva!"
 
 # game/UpdateScript0.07.rpy:8413
 translate italian hall_ambush_133b3eca:
 
     # L "I'm so happy right now!"
+    L "Sono così felice ora!"
 
 # game/UpdateScript0.07.rpy:8414
 translate italian hall_ambush_f6a86c35:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8416
 translate italian hall_ambush_59e472a0:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8423
 translate italian hall_ambush_5e70b181:
 
     # L "What the fuck, [ryan]?"
+    L "Che cazzo, [ryan]?"
 
 # game/UpdateScript0.07.rpy:8424
 translate italian hall_ambush_d81f1d8a:
 
     # {b}{i}\"Lauren's Anger +10\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8426
 translate italian hall_ambush_e941368e:
 
     # L "This is something I've wanted since I started high school, and you can't have my back on this?"
+    L "Questo è qualcosa che volevo da quando ho iniziato le scuole superiori, e non puoi avere le spalle su questo?"
 
 # game/UpdateScript0.07.rpy:8427
 translate italian hall_ambush_aeb0c7f3:
 
     # L "Even after I let you take close-up pics of my pussy and asshole?"
+    L "Anche dopo che ti lascio scattare foto da vicino della mia figa e il mio stronzo?"
 
 # game/UpdateScript0.07.rpy:8428
 translate italian hall_ambush_c522ade4:
 
     # R "Shhh... Not so loud!"
+    R "Shhh... Non così forte!"
 
 # game/UpdateScript0.07.rpy:8429
 translate italian hall_ambush_95acf925:
 
     # L "Well, don't expect me to pose for a single picture for you ever again."
+    L "Beh, non aspettatevi che io posi per una singola immagine per voi mai più."
 
 # game/UpdateScript0.07.rpy:8430
 translate italian hall_ambush_29c18962:
 
     # L "In fact, I'm going to show Mom your little Cosplay Heaven account, and the pics you've already taken of me."
+    L "In effetti, mostrerò alla mamma il tuo piccolo Cosplay Heaven e le foto che hai già scattato di me."
 
 # game/UpdateScript0.07.rpy:8431
 translate italian hall_ambush_47f00c0e:
 
     # L "She'll make you delete your account, and your whole little business venture will come to an end."
+    L "Ti farà cancellare il tuo account, e tutta la tua piccola impresa commerciale finirà."
 
 # game/UpdateScript0.07.rpy:8432
 translate italian hall_ambush_7c57cf62:
 
     # RT "{i}Shit!... I need that money... {/i}"
+    RT "{i}Merda!... Ho bisogno di quel denaro... {/i}"
 
 # game/UpdateScript0.07.rpy:8433
 translate italian hall_ambush_8833a153:
 
     # R "Ok... fine! I know when I'm beat."
+    R "Ok... bene! So quando sono battuto."
 
 # game/UpdateScript0.07.rpy:8434
 translate italian hall_ambush_9e417451:
 
     # R "I'll bankroll your presidential campaign."
+    R "Bancarò la tua campagna presidenziale."
 
 # game/UpdateScript0.07.rpy:8437
 translate italian hall_ambush_ab9f756c_1:
 
     # L "Yay!"
+    L "Evviva!"
 
 # game/UpdateScript0.07.rpy:8438
 translate italian hall_ambush_90131ee2:
 
     # L "Thank you for seeing it my way!"
+    L "Grazie per avermi visto così!"
 
 # game/UpdateScript0.07.rpy:8439
 translate italian hall_ambush_f4af3eda:
 
     # {b}{i}\"Lauren's Anger -5\"{/i}{/b}"
+    new "{b}{i}\"Rabbia di Lauren -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8441
 translate italian hall_ambush_11e51dc2:
 
     # R "Like I had any other choice."
+    R "Come se avessi altre scelte."
 
 # game/UpdateScript0.07.rpy:8445
 translate italian hall_ambush_5e70b181_1:
 
     # L "What the fuck, [ryan]?"
+    L "Che cazzo, [ryan]?"
 
 # game/UpdateScript0.07.rpy:8446
 translate italian hall_ambush_d81f1d8a_1:
 
     # {b}{i}\"Lauren's Anger +10\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +10\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8448
 translate italian hall_ambush_e941368e_1:
 
     # L "This is something I've wanted since I started high school, and you can't have my back on this?"
+    L "Questo è qualcosa che volevo da quando ho iniziato le scuole superiori, e non puoi avere le spalle su questo?"
 
 # game/UpdateScript0.07.rpy:8449
 translate italian hall_ambush_aeb0c7f3_1:
 
     # L "Even after I let you take close-up pics of my pussy and asshole?"
+    L "Anche dopo che ti lascio scattare foto da vicino della mia figa e il mio stronzo?"
 
 # game/UpdateScript0.07.rpy:8450
 translate italian hall_ambush_c522ade4_1:
 
     # R "Shhh... Not so loud!"
+    R "Shhh... Non così forte!"
 
 # game/UpdateScript0.07.rpy:8451
 translate italian hall_ambush_3d42b8bb:
 
     # L "What is this infatuation you have with protecting Mom?"
+    L "Cos'è questa infatuazione che hai con la protezione della mamma?"
 
 # game/UpdateScript0.07.rpy:8452
 translate italian hall_ambush_865838f2:
 
     # L "She should be protecting you, not the other way around."
+    L "Dovrebbe proteggerti, non viceversa."
 
 # game/UpdateScript0.07.rpy:8453
 translate italian hall_ambush_3deaaf15:
 
     # L "You're not her husband! It's not like you're trying to bang her."
+    L "Non sei suo marito! Non è come se stesse cercando di sbatterla."
 
 # game/UpdateScript0.07.rpy:8454
 translate italian hall_ambush_dc7a84b6:
@@ -19792,281 +20490,337 @@ translate italian hall_ambush_dc7a84b6:
 translate italian hall_ambush_005d4eb3:
 
     # L "Are you?"
+    L "È tu?"
 
 # game/UpdateScript0.07.rpy:8458
 translate italian hall_ambush_ada16a94:
 
     # R "What?... No... Of course not!"
+    R "Cosa?... No... Certo no!"
 
 # game/UpdateScript0.07.rpy:8459
 translate italian hall_ambush_c7fec10f:
 
     # LT "{i}Is he messing around with me?... Is it possible he could be doing stuff with Mom?{/i}"
+    LT "{i}Sta dispettando con me?... È possibile che stia facendo cose con la mamma?{/i}"
 
 # game/UpdateScript0.07.rpy:8460
 translate italian hall_ambush_df753cfc:
 
     # LT "{i}Pfff... Of course not! Mom would never fall for a twerp like [ryan].{/i}"
+    LT "{i}Pfff... Naturalmente no! La mamma non cadrebbe mai per un twerp come [ryan].{/i}"
 
 # game/UpdateScript0.07.rpy:8461
 translate italian hall_ambush_7190ad9b:
 
     # LT "{i}Let alone her own son.{/i}"
+    LT "{i}Lasciate solo il suo figlio.{/i}"
 
 # game/UpdateScript0.07.rpy:8464
 translate italian hall_ambush_95acf925_1:
 
     # L "Well, don't expect me to pose for a single picture for you ever again."
+    L "Beh, non aspettatevi che io posi per una singola immagine per voi mai più."
 
 # game/UpdateScript0.07.rpy:8465
 translate italian hall_ambush_29c18962_1:
 
     # L "In fact, I'm going to show Mom your little Cosplay Heaven account, and the pics you've already taken of me."
+    L "In effetti, mostrerò alla mamma il tuo piccolo Cosplay Heaven e le foto che hai già scattato di me."
 
 # game/UpdateScript0.07.rpy:8466
 translate italian hall_ambush_47f00c0e_1:
 
     # L "She'll make you delete your account, and your whole little business venture will come to an end."
+    L "Ti farà cancellare il tuo account, e tutta la tua piccola impresa commerciale finirà."
 
 # game/UpdateScript0.07.rpy:8467
 translate italian hall_ambush_7c57cf62_1:
 
     # RT "{i}Shit!... I need that money... {/i}"
+    RT "{i}Merda!... Ho bisogno di quel denaro... {/i}"
 
 # game/UpdateScript0.07.rpy:8468
 translate italian hall_ambush_8833a153_1:
 
     # R "Ok... fine! I know when I'm beat."
+    R "Ok... bene! So quando sono battuto."
 
 # game/UpdateScript0.07.rpy:8469
 translate italian hall_ambush_9e417451_1:
 
     # R "I'll bankroll your presidential campaign."
+    R "Bancarò la tua campagna presidenziale."
 
 # game/UpdateScript0.07.rpy:8472
 translate italian hall_ambush_ab9f756c_2:
 
     # L "Yay!"
+    L "Evviva!"
 
 # game/UpdateScript0.07.rpy:8473
 translate italian hall_ambush_90131ee2_1:
 
     # L "Thank you for seeing it my way!"
+    L "Grazie per avermi visto così!"
 
 # game/UpdateScript0.07.rpy:8474
 translate italian hall_ambush_f4af3eda_1:
 
     # {b}{i}\"Lauren's Anger -5\"{/i}{/b}"
+    new "{b}{i}\"Rabbia di Lauren -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8476
 translate italian hall_ambush_11e51dc2_1:
 
     # R "Like I had any other choice."
+    R "Come se avessi altre scelte."
 
 # game/UpdateScript0.07.rpy:8477
 translate italian hall_ambush_d48e4581:
 
     # L "Allow me to introduce you to my team so far."
+    L "Permettetemi di presentarvi al mio team finora."
 
 # game/UpdateScript0.07.rpy:8481
 translate italian hall_ambush_2a27ece9:
 
     # L "Kenzie, [cousin_name]! Come over here for a second."
+    L "Kenzie, [cousin_name]! Vieni qui per un secondo."
 
 # game/UpdateScript0.07.rpy:8485
 translate italian hall_ambush_6b6fb574:
 
     # L "Kenzie, Come over here for a second."
+    L "Kenzie, Vieni qua per un secondo."
 
 # game/UpdateScript0.07.rpy:8488
 translate italian hall_ambush_7e67ef51:
 
     # R "This is the team?"
+    R "È la squadra?"
 
 # game/UpdateScript0.07.rpy:8489
 translate italian hall_ambush_e25a72ec:
 
     # L "You know Kenzie, right?"
+    L "Tu conosci Kenzie, giusto?"
 
 # game/UpdateScript0.07.rpy:8490
 translate italian hall_ambush_2ad2f019:
 
     # R "Of course I know Kenzie, She's in our class."
+    R "Naturalmente conosco Kenzie, lei è nella nostra classe."
 
 # game/UpdateScript0.07.rpy:8491
 translate italian hall_ambush_819bb181:
 
     # R "And we've spent time together at the country club."
+    R "E abbiamo passato del tempo insieme al country club."
 
 # game/UpdateScript0.07.rpy:8492
 translate italian hall_ambush_91307f20:
 
     # K "Haha... more recently at the club pool."
+    K "Haha... più recentemente nella piscina del club."
 
 # game/UpdateScript0.07.rpy:8493
 translate italian hall_ambush_3ae6b9ac:
 
     # L "Please, don't bring that story up again... My family can be so embarrassing."
+    L "Per favore, non riportare questa storia... La mia famiglia può essere così imbarazzante."
 
 # game/UpdateScript0.07.rpy:8495
 translate italian hall_ambush_e39fbaec:
 
     # R "So [cousin_name], how did Lauren rope you into helping with her campaign?"
+    R "Così [cousin_name], come ti ha corda Lauren per aiutare con la sua campagna?"
 
 # game/UpdateScript0.07.rpy:8498
 translate italian hall_ambush_f2cb263c:
 
     # MD "She promised me that she'd get me out of class to help with school events."
+    MD "Lei mi ha promesso che mi avrebbe portato fuori classe per aiutare con gli eventi scolastici."
 
 # game/UpdateScript0.07.rpy:8499
 translate italian hall_ambush_6aa54313:
 
     # MD "Honestly, that's all the motivation I needed."
+    MD "Onestamente, questa è tutta la motivazione che mi serviva."
 
 # game/UpdateScript0.07.rpy:8500
 translate italian hall_ambush_81aa29d8:
 
     # L "Alright ladies, say goodbye. We've got a lot of work to do."
+    L "Buona signore, saluta. Abbiamo molto lavoro da fare."
 
 # game/UpdateScript0.07.rpy:8502
 translate italian hall_ambush_55236c05:
 
     # L "Alright, Kenzie, say goodbye to [ryan]..."
+    L "Bene, Kenzie, salutate [ryan]..."
 
 # game/UpdateScript0.07.rpy:8503
 translate italian hall_ambush_f4c0e87f:
 
     # K "Bye, [ryan]."
+    K "Ciao, [ryan]."
 
 # game/UpdateScript0.07.rpy:8504
 translate italian hall_ambush_d8bafcc7:
 
     # L "Let's meet back up in the girls' bathroom on the south side of the school. It's not used very often, so it will be a perfect place for our campaign headquarters."
+    L "Incontriamoci di nuovo nel bagno delle ragazze sul lato sud della scuola. Non è usato molto spesso, quindi sarà un luogo perfetto per la nostra sede di campagna."
 
 # game/UpdateScript0.07.rpy:8511
 translate italian hall_ambush_4281ef8d:
 
     # K "Bye again, [ryan]."
+    K "Ciao ancora, [ryan]."
 
 # game/UpdateScript0.07.rpy:8513
 translate italian hall_ambush_13576fbc:
 
     # R "See ya, Kenzie. Bye, Mandy."
+    R "Vedi ya, Kenzie. Ciao, Mandy."
 
 # game/UpdateScript0.07.rpy:8516
 translate italian hall_ambush_abf00265:
 
     # L "See you soon, my cunties!"
+    L "Ci vediamo presto, le mie zie!"
 
 # game/UpdateScript0.07.rpy:8517
 translate italian hall_ambush_c9c93ffd:
 
     # R "Cunties?"
+    R "Cuntie?"
 
 # game/UpdateScript0.07.rpy:8519
 translate italian hall_ambush_fd2520a8:
 
     # R "See ya, Kenzie."
+    R "Vedi ya, Kenzie."
 
 # game/UpdateScript0.07.rpy:8522
 translate italian hall_ambush_910e74f7:
 
     # L "See you soon, my cunty!"
+    L "Ci vediamo presto, la mia cunta!"
 
 # game/UpdateScript0.07.rpy:8523
 translate italian hall_ambush_04376dde:
 
     # R "Cunty?"
+    R "Cunty?"
 
 # game/UpdateScript0.07.rpy:8526
 translate italian hall_ambush_a1a8338e:
 
     # L "It's a girl thing... Don't try to understand."
+    L "È una ragazza cosa... Non provare a capire."
 
 # game/UpdateScript0.07.rpy:8529
 translate italian hall_ambush_f48faa37:
 
     # L "I'm so excited that you're going to be on our campaign team!"
+    L "Sono così entusiasta che sarai nella nostra squadra di campagna!"
 
 # game/UpdateScript0.07.rpy:8530
 translate italian hall_ambush_f95a4d61:
 
     # R "You mean you're excited that I'm going to be financing your campaign team."
+    R "Significa che sei entusiasta del fatto che sto per finanziare il tuo team di campagna."
 
 # game/UpdateScript0.07.rpy:8531
 translate italian hall_ambush_b7140658:
 
     # L "That too."
+    L "Anche questa."
 
 # game/UpdateScript0.07.rpy:8532
 translate italian hall_ambush_bd2961b5:
 
     # L "But I think you'll be surprised how much fun the election process can be."
+    L "Ma penso che sarete sorpresi quanto divertimento possa essere il processo elettorale."
 
 # game/UpdateScript0.07.rpy:8535
 translate italian hall_ambush_0c9f3b2c:
 
     # L "Especially if we're winning."
+    L "Soprattutto se stiamo vincere."
 
 # game/UpdateScript0.07.rpy:8536
 translate italian hall_ambush_bd748cf4:
 
     # L "But speaking of financing? Can I get some money now for the application fee and a little more so we can start making some campaign swag?"
+    L "Ma parlare di finanziamento? Posso ottenere alcuni soldi ora per la tassa di richiesta e un po 'di più così possiamo iniziare a fare un po 'di corsa campagna?"
 
 # game/UpdateScript0.07.rpy:8537
 translate italian hall_ambush_76eaf2d1:
 
     # R "How much is the application fee?"
+    R "Quanto costa la commissione di applicazione?"
 
 # game/UpdateScript0.07.rpy:8538
 translate italian hall_ambush_afa444f4:
 
     # L "It's $50."
+    L "Sono 50 dollari."
 
 # game/UpdateScript0.07.rpy:8541
 translate italian hall_ambush_9fe013c4:
 
     # L "You can just pay that to the office when you take in my completed application."
+    L "Si può solo pagare questo per l'ufficio quando si prende nella mia domanda completata."
 
 # game/UpdateScript0.07.rpy:8542
 translate italian hall_ambush_19e63c07:
 
     # L "In fact... I've already filled it out."
+    L "In realtà... l'ho già riempita."
 
 # game/UpdateScript0.07.rpy:8543
 translate italian hall_ambush_1e39595a:
 
     # L "Would you please take it to the office right now and pay my application fee?"
+    L "Vuoi portarlo in ufficio in questo momento e pagare la mia quota di candidatura?"
 
 # game/UpdateScript0.07.rpy:8544
 translate italian hall_ambush_37c0947e:
 
     # R "Why can't you do it?"
+    R "Perché non lo puoi fare?"
 
 # game/UpdateScript0.07.rpy:8545
 translate italian hall_ambush_6cfc85fb:
 
     # L "[ryan], I've already got so much to do. I'm already going to be late for Mom's next class."
+    L "[ryan], ho già molto da fare. Sarò già in ritardo per la prossima lezione di mamma."
 
 # game/UpdateScript0.07.rpy:8546
 translate italian hall_ambush_d1686199:
 
     # R "Alright... I think I can handle that."
+    R "Bene... Penso di poterlo gestire."
 
 # game/UpdateScript0.07.rpy:8547
 translate italian hall_ambush_a28eac9a:
 
     # L "Here you go."
+    L "Eccovi qui."
 
 # game/UpdateScript0.07.rpy:8548
 translate italian hall_ambush_ae2d8eec:
 
     # {i}\"You received Lauren's application to run for student body president.\"{/i}"
+    new "{i}\"Hai ricevuto la domanda di Lauren da eseguire per il presidente del corpo studente.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8549
 translate italian hall_ambush_b3db5a8e:
 
     # L "And is it possible to get a little extra money to get things going?"
+    L "Ed è possibile ottenere un po 'di denaro in più per far andare le cose?"
 
 # game/UpdateScript0.07.rpy:8550
 translate italian hall_ambush_8c516dbd:
@@ -20078,146 +20832,175 @@ translate italian hall_ambush_8c516dbd:
 translate italian hall_ambush_4c4d8734:
 
     # R "Sorry, money is too tight this week."
+    R "Siamo spiacenti, il denaro è troppo stretto questa settimana."
 
 # game/UpdateScript0.07.rpy:8556
 translate italian hall_ambush_1b0c9886:
 
     # {i}\"You refused to give Lauren money for her campaign this week. When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+    new "{i}\" Hai rifiutato di dare Lauren soldi per la sua campagna di questa settimana. Quando si dà Lauren soldi, o aiutare ai fini della sua campagna, Lauren \"{b}Scuola Influenza {/b}\" aumenterà.\"{/mi}"
 
 # game/UpdateScript0.07.rpy:8557
 translate italian hall_ambush_3e6a98a3:
 
     # {i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+    new "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" per tutta la settimana, più competitiva rimarrà nei sondaggi scolastici settimanali. Se sta facendo bene, sarà felice e disposta a ricompensarti.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8558
 translate italian hall_ambush_8997e063:
 
     # {i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+    new "{i}\"Se si sta comportando male, le conseguenze potrebbero non essere così buone. Basta ricordare che è disperata per vincere questa volta, in modo che lei può ricorrere a misure più disperate per rimanere competitivo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8559
 translate italian hall_ambush_e0a04813:
 
     # {i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+    new "{i}\"Durante la campagna di Lauren, dovrai frequentare la scuola ogni lunedì mattina per scoprire i risultati del sondaggio settimanale della scuola\".{/i}"
 
 # game/UpdateScript0.07.rpy:8560
 translate italian hall_ambush_29135655:
 
     # {i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+    new "{i}\"Se ottieni meno di 10 punti di influenza in una settimana, Lauren sarà devastato. Ciò potrebbe farla prendere misure disperate per cercare di vincere le elezioni.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8561
 translate italian hall_ambush_030b560f:
 
     # {i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+    new "{i}\"Se ottieni 10-20 punti di influenza in una settimana, Lauren si sentirà contento che ha ancora una possibilità di combattimento per vincere.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8562
 translate italian hall_ambush_dd623eea:
 
     # {i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+    new "{i}\"Se ottieni più di 20 punti, Lauren sarà entusiasta di avere un'ottima occasione di vincere le elezioni. Si sentirà incline a premiarti per tutto il tuo duro lavoro.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8563
 translate italian hall_ambush_25f447d1:
 
     # {b}{i}\"Lauren's School Influence +0\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica di Lauren +0\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8564
 translate italian hall_ambush_b8dacf64:
 
     # L "Are you fucking kidding me?"
+    L "Mi stai scherzando?"
 
 # game/UpdateScript0.07.rpy:8565
 translate italian hall_ambush_2278b3a8:
 
     # L "I've seen how many likes my pics get on the Cosplay Heaven site, you've got to be bringing in enough money to spare me a little more than the application fee."
+    L "Ho visto quanti mi piacciono le mie foto sul sito Cosplay Heaven, hai bisogno di portare abbastanza soldi per risparmiare un po 'di più rispetto alla tassa di applicazione."
 
 # game/UpdateScript0.07.rpy:8566
 translate italian hall_ambush_ed9a3370:
 
     # L "What the hell have you been spending all that money on?"
+    L "A che diavolo hai speso tutti i soldi?"
 
 # game/UpdateScript0.07.rpy:8567
 translate italian hall_ambush_29387bb4:
 
     # {b}{i}\"Lauren's Anger +5\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8569
 translate italian hall_ambush_1a548d37:
 
     # R "Well..."
+    R "Allora..."
 
 # game/UpdateScript0.07.rpy:8570
 translate italian hall_ambush_3badcade:
 
     # RT "{i}I can't tell her how expensive my little spy cams are...{/i}"
+    RT "{i}Non posso dirle quanto costose sono le mie piccole spionaggi...{/i}"
 
 # game/UpdateScript0.07.rpy:8571
 translate italian hall_ambush_7ca9a168:
 
     # R "Besides the extortion money I have to pay to the Mafia and Agent Diaz, I need to buy equipment for the photo studio... I have to pay to advertise... Running a business isn't cheap you know."
+    R "Oltre ai soldi di estorsione devo pagare alla mafia e all'agente Diaz, Ho bisogno di comprare attrezzature per lo studio fotografico.. Devo pagare per pubblicità... L'esecuzione di un business non è a buon mercato sapete."
 
 # game/UpdateScript0.07.rpy:8572
 translate italian hall_ambush_f22013b7:
 
     # L "Yeah, well taking care of your family needs to be a priority too. Don't expect me to take any pictures for you anytime soon."
+    L "Sì, prendersi cura della tua famiglia deve essere una priorità. Non aspettarti che io scatta foto per te in qualsiasi momento presto."
 
 # game/UpdateScript0.07.rpy:8573
 translate italian hall_ambush_1722a084:
 
     # RT "{i}I'm sure a gift or two will calm her down.{/i}"
+    RT "{i}Sono sicuro che un regalo o due la calmeranno. {/i}"
 
 # game/UpdateScript0.07.rpy:8574
 translate italian hall_ambush_0cadce29:
 
     # L "I'm really going to need your help to win this election, and that's going to take some money."
+    L "Avrò davvero bisogno del tuo aiuto per vincere queste elezioni, e questo sta andando a prendere un po 'di soldi."
 
 # game/UpdateScript0.07.rpy:8575
 translate italian hall_ambush_0f6a07c5:
 
     # L "So, you'd better start putting some money aside. If I lose another election because you were too much of a tightwad, our relationship might get a whole lot less friendly, if you know what I mean."
+    L "Quindi, è meglio iniziare a mettere da parte alcuni soldi. Se perdo un'altra elezione perché eravate troppo stretti, il nostro rapporto potrebbe ottenere un sacco meno amichevole, se si sa cosa voglio dire."
 
 # game/UpdateScript0.07.rpy:8576
 translate italian hall_ambush_1b7be66b:
 
     # RT "{i}Shit... I know exactly what she means.{/i}"
+    RT "{i}Merda... So esattamente cosa intende.{/i}"
 
 # game/UpdateScript0.07.rpy:8577
 translate italian hall_ambush_d9205152:
 
     # L "Now, I've got a lot to do."
+    L "Ora ho molto da fare."
 
 # game/UpdateScript0.07.rpy:8578
 translate italian hall_ambush_9b4300a2:
 
     # L "Come see me at my election headquarters as soon as you get a chance."
+    L "Vieni a trovarmi nella mia sede elettorale non appena avrai una possibilità."
 
 # game/UpdateScript0.07.rpy:8579
 translate italian hall_ambush_feed6c6b:
 
     # R "Your election headquarters?"
+    R "Il tuo quartier generale?"
 
 # game/UpdateScript0.07.rpy:8580
 translate italian hall_ambush_fcb29421:
 
     # L "Yeah, like I told Kenzie, It'll be in the girls' bathroom on the south side of the school."
+    L "Sì, come ho detto a Kenzie, sarà nel bagno delle ragazze sul lato sud della scuola."
 
 # game/UpdateScript0.07.rpy:8581
 translate italian hall_ambush_5c09464e:
 
     # L "We'll make sure it's safe before you come in, but don't worry, hardly anybody uses that bathroom."
+    L "Ci assicureremo che sia sicuro prima di entrare, ma non ti preoccupare, quasi nessuno usa quel bagno."
 
 # game/UpdateScript0.07.rpy:8582
 translate italian hall_ambush_06ba523a:
 
     # R "Ok... I'll come by soon, and I'll try to do better and set aside some more money for the campaign."
+    R "Ok... arriverò presto, e cercherò di fare meglio e di mettere da parte altri soldi per la campagna."
 
 # game/UpdateScript0.07.rpy:8585
 translate italian hall_ambush_63445016:
 
     # L "Thank you... See you soon."
+    L "Grazie... Ci vediamo presto."
 
 # game/UpdateScript0.07.rpy:8588
 translate italian hall_ambush_756106cb:
 
     # R "I've got about a hundred dollars I can spare."
+    R "Ho circa cento dollari che posso risparmiare."
 
 # game/UpdateScript0.07.rpy:8589
 translate italian hall_ambush_8f73246e:
@@ -20229,281 +21012,337 @@ translate italian hall_ambush_8f73246e:
 translate italian hall_ambush_1f77cfa3:
 
     # {i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+    new "{i}\"Hai appena dato denaro a Lauren per la sua campagna per la prima volta. Quanto sei generoso! Quando concedi denaro a Lauren, o aiuto per lo scopo della sua campagna, Lauren \"{b}School Influence{/b}\" aumenterà.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8594
 translate italian hall_ambush_3e6a98a3_1:
 
     # {i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+    new "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" per tutta la settimana, più competitiva rimarrà nei sondaggi scolastici settimanali. Se sta facendo bene, sarà felice e disposta a ricompensarti.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8595
 translate italian hall_ambush_8997e063_1:
 
     # {i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+    new "{i}\"Se si sta comportando male, le conseguenze potrebbero non essere così buone. Basta ricordare che è disperata per vincere questa volta, in modo che lei può ricorrere a misure più disperate per rimanere competitivo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8596
 translate italian hall_ambush_e0a04813_1:
 
     # {i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+    new "{i}\"Durante la campagna di Lauren, dovrai frequentare la scuola ogni lunedì mattina per scoprire i risultati del sondaggio settimanale della scuola\".{/i}"
 
 # game/UpdateScript0.07.rpy:8597
 translate italian hall_ambush_29135655_1:
 
     # {i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+    new "{i}\"Se ottieni meno di 10 punti di influenza in una settimana, Lauren sarà devastato. Ciò potrebbe farla prendere misure disperate per cercare di vincere le elezioni.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8598
 translate italian hall_ambush_030b560f_1:
 
     # {i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+    new "{i}\"Se ottieni 10-20 punti di influenza in una settimana, Lauren si sentirà contento che ha ancora una possibilità di combattimento per vincere.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8599
 translate italian hall_ambush_dd623eea_1:
 
     # {i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+    new "{i}\"Se ottieni più di 20 punti, Lauren sarà entusiasta di avere un'ottima occasione di vincere le elezioni. Si sentirà incline a premiarti per tutto il tuo duro lavoro.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8600
 translate italian hall_ambush_0e36755b:
 
     # {b}{i}\"School Influence +1\"{/i}{/b}"
+    new "{b}{i}\"Influenza della scuola +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8602
 translate italian hall_ambush_c3c2d859:
 
     # L "Oh... That's... great."
+    L "Oh... Ottimo."
 
 # game/UpdateScript0.07.rpy:8603
 translate italian hall_ambush_e24cb7a4:
 
     # R "Oh, no... You're disappointed."
+    R "Oh, no... Sei deluso."
 
 # game/UpdateScript0.07.rpy:8604
 translate italian hall_ambush_eb63c290:
 
     # L "No... no, I'm really not."
+    L "No... no, io non sono veramente."
 
 # game/UpdateScript0.07.rpy:8605
 translate italian hall_ambush_39c5c860:
 
     # L "I really appreciate you giving me the hundred dollars."
+    L "Apprezzo davvero che tu mi dia i cento dollari."
 
 # game/UpdateScript0.07.rpy:8606
 translate italian hall_ambush_af7fa3eb:
 
     # L "To be honest, I was hoping for more... It's not quite what I need, but I should be able to get a few things done with this."
+    L "Ad essere onesti, speravo di più... Non è proprio quello che mi serve, ma dovrei essere in grado di fare alcune cose con questo."
 
 # game/UpdateScript0.07.rpy:8607
 translate italian hall_ambush_a89bd587:
 
     # R "Thanks for trying to be thrifty, and I'll try to make some more money, and make sure to set it aside for your campaign."
+    R "Grazie per aver cercato di essere parsimonioso, e cercherò di fare un po 'di soldi in più, e assicuratevi di metterlo da parte per la vostra campagna."
 
 # game/UpdateScript0.07.rpy:8608
 translate italian hall_ambush_f6a86c35_1:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8612
 translate italian hall_ambush_300895cc:
 
     # L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
+    L "Grazie tanto!... Ora che stai aiutando con la campagna, so solo che sto per vincere questa volta!"
 
 # game/UpdateScript0.07.rpy:8613
 translate italian hall_ambush_e1c75223:
 
     # L "And maybe you'll get lucky and I'll run unopposed."
+    L "E forse avrai la fortuna e correrò senza opposizioni."
 
 # game/UpdateScript0.07.rpy:8614
 translate italian hall_ambush_db44eabf:
 
     # L "Then you won't have to spend anything on the campaign."
+    L "Allora non dovrai spendere nulla per la campagna."
 
 # game/UpdateScript0.07.rpy:8615
 translate italian hall_ambush_782779b9:
 
     # R "That would be great! I'll keep my fingers crossed."
+    R "Sarebbe fantastico! Tengo le dita incrociate."
 
 # game/UpdateScript0.07.rpy:8616
 translate italian hall_ambush_18c54265:
 
     # L "Haha... Don't plan on it though. Being student body president is pretty much a free ticket to scholarship money."
+    L "Haha... Non pianificare su di esso però. Essere presidente corpo studentesco è praticamente un biglietto gratuito per borse di studio."
 
 # game/UpdateScript0.07.rpy:8617
 translate italian hall_ambush_b2fbe5fc:
 
     # L "That's why I have to win!"
+    L "Per questo devo vincere!"
 
 # game/UpdateScript0.07.rpy:8618
 translate italian hall_ambush_af330591:
 
     # R "Well, there's always a job at my studio if you don't get into college."
+    R "Beh, c'è sempre un lavoro nel mio studio se non entri nel college."
 
 # game/UpdateScript0.07.rpy:8619
 translate italian hall_ambush_617cbc36:
 
     # L "That's good to know... but I won't be able to live on these good looks forever."
+    L "È bello sapere... ma non sarò in grado di vivere con questi buoni sguardi per sempre."
 
 # game/UpdateScript0.07.rpy:8620
 translate italian hall_ambush_bbc2f518:
 
     # R "Yeah, so college is a good backup plan."
+    R "Sì, così il college è un buon piano di backup."
 
 # game/UpdateScript0.07.rpy:8623
 translate italian hall_ambush_7aa79b00:
 
     # L "Haha... [ryan], you idiot. modeling for you is the backup plan."
+    L "Haha... [ryan], idioti. La modellazione per te è il piano di backup."
 
 # game/UpdateScript0.07.rpy:8624
 translate italian hall_ambush_4eff18b5:
 
     # L "I've got to get going... I've got so much to do."
+    L "Devo andare via... Ho così tanto da fare."
 
 # game/UpdateScript0.07.rpy:8625
 translate italian hall_ambush_25d6e620:
 
     # L "Please come see me at my campaign headquarters when you get some time!"
+    L "Per favore vieni a trovarmi nel quartier generale della mia campagna quando ottieni un po' di tempo!"
 
 # game/UpdateScript0.07.rpy:8626
 translate italian hall_ambush_93229e71:
 
     # R "Alright, catch you later, sis."
+    R "Bene, ti prenda più tardi, sì."
 
 # game/UpdateScript0.07.rpy:8629
 translate italian hall_ambush_625e3019:
 
     # R "I hope two hundred and fifty is enough."
+    R "Spero che duecentocinquanta sia abbastanza."
 
 # game/UpdateScript0.07.rpy:8630
 translate italian hall_ambush_94172490:
 
     # {i}\"Money -$250\"{/i}"
+    new "{i}\"Soldi -$250\"{/i}"
 
 # game/UpdateScript0.07.rpy:8634
 translate italian hall_ambush_1f77cfa3_1:
 
     # {i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+    new "{i}\"Hai appena dato denaro a Lauren per la sua campagna per la prima volta. Quanto sei generoso! Quando concedi denaro a Lauren, o aiuto per lo scopo della sua campagna, Lauren \"{b}School Influence{/b}\" aumenterà.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8635
 translate italian hall_ambush_3e6a98a3_2:
 
     # {i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+    new "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" per tutta la settimana, più competitiva rimarrà nei sondaggi scolastici settimanali. Se sta facendo bene, sarà felice e disposta a ricompensarti.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8636
 translate italian hall_ambush_8997e063_2:
 
     # {i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+    new "{i}\"Se si sta comportando male, le conseguenze potrebbero non essere così buone. Basta ricordare che è disperata per vincere questa volta, in modo che lei può ricorrere a misure più disperate per rimanere competitivo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8637
 translate italian hall_ambush_e0a04813_2:
 
     # {i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+    new "{i}\"Durante la campagna di Lauren, dovrai frequentare la scuola ogni lunedì mattina per scoprire i risultati del sondaggio settimanale della scuola\".{/i}"
 
 # game/UpdateScript0.07.rpy:8638
 translate italian hall_ambush_29135655_2:
 
     # {i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+    new "{i}\"Se ottieni meno di 10 punti di influenza in una settimana, Lauren sarà devastato. Ciò potrebbe farla prendere misure disperate per cercare di vincere le elezioni.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8639
 translate italian hall_ambush_030b560f_2:
 
     # {i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+    new "{i}\"Se ottieni 10-20 punti di influenza in una settimana, Lauren si sentirà contento che ha ancora una possibilità di combattimento per vincere.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8640
 translate italian hall_ambush_dd623eea_2:
 
     # {i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+    new "{i}\"Se ottieni più di 20 punti, Lauren sarà entusiasta di avere un'ottima occasione di vincere le elezioni. Si sentirà incline a premiarti per tutto il tuo duro lavoro.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8641
 translate italian hall_ambush_466b567d:
 
     # {b}{i}\"School Influence +2\"{/i}{/b}"
+    new "{b}{i}\"Influenza della scuola +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8643
 translate italian hall_ambush_4f253f91:
 
     # L "Two hundred and fifty is perfect. It's just what I need to get some posters printed, some buttons made, and a campaign video put together."
+    L "Duecentocinquanta è perfetto. E 'proprio quello che ho bisogno di ottenere alcuni poster stampati, alcuni pulsanti fatti, e un video di campagna messi insieme."
 
 # game/UpdateScript0.07.rpy:8644
 translate italian hall_ambush_0410a506:
 
     # R "I'll try to make some more money, and make sure to set it aside for your campaign for next week too."
+    R "Cercherò di fare altri soldi e assicurati di metterli da parte per la tua campagna anche per la prossima settimana."
 
 # game/UpdateScript0.07.rpy:8645
 translate italian hall_ambush_f6a86c35_2:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8646
 translate italian hall_ambush_59e472a0_1:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8651
 translate italian hall_ambush_300895cc_1:
 
     # L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
+    L "Grazie tanto!... Ora che stai aiutando con la campagna, so solo che sto per vincere questa volta!"
 
 # game/UpdateScript0.07.rpy:8652
 translate italian hall_ambush_e1c75223_1:
 
     # L "And maybe you'll get lucky and I'll run unopposed."
+    L "E forse avrai la fortuna e correrò senza opposizioni."
 
 # game/UpdateScript0.07.rpy:8653
 translate italian hall_ambush_1d3e2cc8:
 
     # L "Then you won't have to spend anything else on the campaign."
+    L "Allora non dovrete spendere altro per la campagna."
 
 # game/UpdateScript0.07.rpy:8654
 translate italian hall_ambush_782779b9_1:
 
     # R "That would be great! I'll keep my fingers crossed."
+    R "Sarebbe fantastico! Tengo le dita incrociate."
 
 # game/UpdateScript0.07.rpy:8655
 translate italian hall_ambush_18c54265_1:
 
     # L "Haha... Don't plan on it though. Being student body president is pretty much a free ticket to scholarship money."
+    L "Haha... Non pianificare su di esso però. Essere presidente corpo studentesco è praticamente un biglietto gratuito per borse di studio."
 
 # game/UpdateScript0.07.rpy:8656
 translate italian hall_ambush_b2fbe5fc_1:
 
     # L "That's why I have to win!"
+    L "Per questo devo vincere!"
 
 # game/UpdateScript0.07.rpy:8657
 translate italian hall_ambush_31316303:
 
     # R "Well, there's always a job at my studio if you can't pay for college."
+    R "Beh, c'è sempre un lavoro nel mio studio se non puoi pagare per l'università."
 
 # game/UpdateScript0.07.rpy:8658
 translate italian hall_ambush_617cbc36_1:
 
     # L "That's good to know... but I won't be able to live on these good looks forever."
+    L "È bello sapere... ma non sarò in grado di vivere con questi buoni sguardi per sempre."
 
 # game/UpdateScript0.07.rpy:8659
 translate italian hall_ambush_bbc2f518_1:
 
     # R "Yeah, so college is a good backup plan."
+    R "Sì, così il college è un buon piano di backup."
 
 # game/UpdateScript0.07.rpy:8662
 translate italian hall_ambush_7aa79b00_1:
 
     # L "Haha... [ryan], you idiot. modeling for you is the backup plan."
+    L "Haha... [ryan], idioti. La modellazione per te è il piano di backup."
 
 # game/UpdateScript0.07.rpy:8663
 translate italian hall_ambush_4eff18b5_1:
 
     # L "I've got to get going... I've got so much to do."
+    L "Devo andare via... Ho così tanto da fare."
 
 # game/UpdateScript0.07.rpy:8664
 translate italian hall_ambush_25d6e620_1:
 
     # L "Please come see me at my campaign headquarters when you get some time!"
+    L "Per favore vieni a trovarmi nel quartier generale della mia campagna quando ottieni un po' di tempo!"
 
 # game/UpdateScript0.07.rpy:8665
 translate italian hall_ambush_93229e71_1:
 
     # R "Alright, catch you later, sis."
+    R "Bene, ti prenda più tardi, sì."
 
 # game/UpdateScript0.07.rpy:8668
 translate italian hall_ambush_e628f4dd:
 
     # R "I hope five hundred is enough."
+    R "Spero che cinquecento sia abbastanza."
 
 # game/UpdateScript0.07.rpy:8669
 translate italian hall_ambush_413e9889:
@@ -20515,51 +21354,61 @@ translate italian hall_ambush_413e9889:
 translate italian hall_ambush_1f77cfa3_2:
 
     # {i}\"You just gave Lauren money for her campaign for the first time. How generous of you! When you give Lauren money, or help for the purpose of her campaign, Lauren's \"{b}School Influence{/b}\" will increase.\"{/i}"
+    new "{i}\"Hai appena dato denaro a Lauren per la sua campagna per la prima volta. Quanto sei generoso! Quando concedi denaro a Lauren, o aiuto per lo scopo della sua campagna, Lauren \"{b}School Influence{/b}\" aumenterà.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8674
 translate italian hall_ambush_3e6a98a3_3:
 
     # {i}\"The more you help Lauren gain \"{b}School Influence{/b}\" throughout the week, the more competitive she will stay in the weekly school polls. If she's doing well, she will be happy, and willing to reward you.\"{/i}"
+    new "{i}\"The more you help Lauren gain \"{b}School Influence{/b}\" per tutta la settimana, più competitiva rimarrà nei sondaggi scolastici settimanali. Se sta facendo bene, sarà felice e disposta a ricompensarti.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8675
 translate italian hall_ambush_8997e063_3:
 
     # {i}\"If she's performing poorly, the consequences may not be so good. Just remember that she's desperate to win this time, so she may resort to more desperate measures to stay competitive.\"{/i}"
+    new "{i}\"Se si sta comportando male, le conseguenze potrebbero non essere così buone. Basta ricordare che è disperata per vincere questa volta, in modo che lei può ricorrere a misure più disperate per rimanere competitivo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8676
 translate italian hall_ambush_e0a04813_3:
 
     # {i}\"During Lauren's campaign, you will need to attend school every Monday morning to find out the results of the school's weekly poll.\"{/i}"
+    new "{i}\"Durante la campagna di Lauren, dovrai frequentare la scuola ogni lunedì mattina per scoprire i risultati del sondaggio settimanale della scuola\".{/i}"
 
 # game/UpdateScript0.07.rpy:8677
 translate italian hall_ambush_29135655_3:
 
     # {i}\"If you get less than 10 influence points in a week, Lauren will be devastated. This could cause her to take desperate measures to try to win the election.\"{/i}"
+    new "{i}\"Se ottieni meno di 10 punti di influenza in una settimana, Lauren sarà devastato. Ciò potrebbe farla prendere misure disperate per cercare di vincere le elezioni.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8678
 translate italian hall_ambush_030b560f_3:
 
     # {i}\"If you get 10-20 influence points in a week, Lauren will feel content that she still has a fighting chance to win.\"{/i}"
+    new "{i}\"Se ottieni 10-20 punti di influenza in una settimana, Lauren si sentirà contento che ha ancora una possibilità di combattimento per vincere.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8679
 translate italian hall_ambush_dd623eea_3:
 
     # {i}\"If you get more than 20 points, Lauren will be thrilled that she's got a very good chance to win the election. She will feel inclined to reward you for all your hard work.\"{/i}"
+    new "{i}\"Se ottieni più di 20 punti, Lauren sarà entusiasta di avere un'ottima occasione di vincere le elezioni. Si sentirà incline a premiarti per tutto il tuo duro lavoro.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8680
 translate italian hall_ambush_63ab36dc:
 
     # {b}{i}\"School Influence +3\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8682
 translate italian hall_ambush_1934f3f5:
 
     # L "Oh, my God!... You are the best brother ever!"
+    L "Oh, mio Dio!... Sei il fratello migliore di sempre!"
 
 # game/UpdateScript0.07.rpy:8683
 translate italian hall_ambush_a6282a26:
 
     # L "That's way more money than I was expecting! I'll be able to get so much done with this!"
+    L "Questo è molto più denaro di quanto mi aspettassi! Sarò in grado di fare così tanto con questo!"
 
 # game/UpdateScript0.07.rpy:8684
 translate italian hall_ambush_6e20e2d8:
@@ -20571,471 +21420,565 @@ translate italian hall_ambush_6e20e2d8:
 translate italian hall_ambush_cf75ccd8:
 
     # R "I'll try to make even more money, and make sure to set it aside for your campaign for next week too."
+    R "Cercherò di fare ancora più soldi, e assicuratevi di metterlo da parte per la vostra campagna anche per la prossima settimana."
 
 # game/UpdateScript0.07.rpy:8686
 translate italian hall_ambush_9ae7a281:
 
     # {b}{i}\"Lauren's Affection +2\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8687
 translate italian hall_ambush_59e472a0_2:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8692
 translate italian hall_ambush_300895cc_2:
 
     # L "Thank you so much!... Now that you're helping with the campaign, I just know I'm going to win this time!"
+    L "Grazie tanto!... Ora che stai aiutando con la campagna, so solo che sto per vincere questa volta!"
 
 # game/UpdateScript0.07.rpy:8693
 translate italian hall_ambush_e1c75223_2:
 
     # L "And maybe you'll get lucky and I'll run unopposed."
+    L "E forse avrai la fortuna e correrò senza opposizioni."
 
 # game/UpdateScript0.07.rpy:8694
 translate italian hall_ambush_1d3e2cc8_1:
 
     # L "Then you won't have to spend anything else on the campaign."
+    L "Allora non dovrete spendere altro per la campagna."
 
 # game/UpdateScript0.07.rpy:8695
 translate italian hall_ambush_782779b9_2:
 
     # R "That would be great! I'll keep my fingers crossed."
+    R "Sarebbe fantastico! Tengo le dita incrociate."
 
 # game/UpdateScript0.07.rpy:8696
 translate italian hall_ambush_18c54265_2:
 
     # L "Haha... Don't plan on it though. Being student body president is pretty much a free ticket to scholarship money."
+    L "Haha... Non pianificare su di esso però. Essere presidente corpo studentesco è praticamente un biglietto gratuito per borse di studio."
 
 # game/UpdateScript0.07.rpy:8697
 translate italian hall_ambush_b2fbe5fc_2:
 
     # L "That's why I have to win!"
+    L "Per questo devo vincere!"
 
 # game/UpdateScript0.07.rpy:8698
 translate italian hall_ambush_31316303_1:
 
     # R "Well, there's always a job at my studio if you can't pay for college."
+    R "Beh, c'è sempre un lavoro nel mio studio se non puoi pagare per l'università."
 
 # game/UpdateScript0.07.rpy:8699
 translate italian hall_ambush_617cbc36_2:
 
     # L "That's good to know... but I won't be able to live on these good looks forever."
+    L "È bello sapere... ma non sarò in grado di vivere con questi buoni sguardi per sempre."
 
 # game/UpdateScript0.07.rpy:8700
 translate italian hall_ambush_bbc2f518_2:
 
     # R "Yeah, so college is a good backup plan."
+    R "Sì, così il college è un buon piano di backup."
 
 # game/UpdateScript0.07.rpy:8703
 translate italian hall_ambush_7aa79b00_2:
 
     # L "Haha... [ryan], you idiot. modeling for you is the backup plan."
+    L "Haha... [ryan], idioti. La modellazione per te è il piano di backup."
 
 # game/UpdateScript0.07.rpy:8704
 translate italian hall_ambush_4eff18b5_2:
 
     # L "I've got to get going... I've got so much to do."
+    L "Devo andare via... Ho così tanto da fare."
 
 # game/UpdateScript0.07.rpy:8705
 translate italian hall_ambush_25d6e620_2:
 
     # L "Please come see me at my campaign headquarters when you get some time!"
+    L "Per favore vieni a trovarmi nel quartier generale della mia campagna quando ottieni un po' di tempo!"
 
 # game/UpdateScript0.07.rpy:8706
 translate italian hall_ambush_93229e71_2:
 
     # R "Alright, catch you later, sis."
+    R "Bene, ti prenda più tardi, sì."
 
 # game/UpdateScript0.07.rpy:8714
 translate italian hang_the_bulbs_22c917af:
 
     # RT "{i}Alright, where should I hang these posters?{/i}"
+    RT "{i}Va bene, dove devo appendere questi posters?{/i}"
 
 # game/UpdateScript0.07.rpy:8717
 translate italian hang_the_bulbs_a6df32a9:
 
     # RT "{i}this seems like a high traffic area.{/i}"
+    RT "{i}sembra una zona di traffico elevato.{/i}"
 
 # game/UpdateScript0.07.rpy:8721
 translate italian hang_the_bulbs_0678694c:
 
     # RT "{i}I hope these eyesores don't do more damage than good.{/i}"
+    RT "{i}Spero che questi occhiali non facciano più danno del bene.{/i}"
 
 # game/UpdateScript0.07.rpy:8722
 translate italian hang_the_bulbs_39db7344:
 
     # RT "{i}Now to hang the 20 more Lauren gave me.{/i}"
+    RT "{i}Ora per appendere i 20 Lauren più mi ha dato.{/i}"
 
 # game/UpdateScript0.07.rpy:8728
 translate italian hang_the_bulbs_df5ef1db:
 
     # RT "{i}There... All done.{/i}"
+    RT "{i}Lì... tutto fatto.{/i}"
 
 # game/UpdateScript0.07.rpy:8729
 translate italian hang_the_bulbs_f737ad1a:
 
     # {i}\"Good job, you just hung Lauren's campaign posters!... Unfortunately, these posters are doing more harm than good.\"{/i}"
+    new "{i}\"Buon lavoro, hai appena appeso i manifesti della campagna di Lauren!... Purtroppo, questi manifesti stanno facendo più male del bene.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8730
 translate italian hang_the_bulbs_42cea395:
 
     # {b}{i}\"School Influence -1\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica -1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8734
 translate italian hang_the_bulbs_b6822b7c:
 
     # RT "{i}That took up the whole afternoon.{/i}"
+    RT "{i}Che ha preso l'intero pomeriggio.{/i}"
 
 # game/UpdateScript0.07.rpy:8743
 translate italian hang_the_posters_e31c3486:
 
     # RT "{i}That asshole Matt thinks he can just tear down Lauren's posters without any consequences?{/i}"
+    RT "{i}Quel stronzo Matt pensa di poter abbattere i poster di Lauren senza alcuna conseguenza?{/i}"
 
 # game/UpdateScript0.07.rpy:8744
 translate italian hang_the_posters_c2c67a2e:
 
     # RT "{i}Well, it's time to return the favor.{/i}"
+    RT "{i}Beh, è ora di restituire il favore.{/i}"
 
 # game/UpdateScript0.07.rpy:8747
 translate italian hang_the_posters_36056a64:
 
     # RT "{i}Voting Matt is a slam dunk for our school.{/i}"
+    RT "{i}Votare Matt è uno slam dunk per la nostra scuola. {/i}"
 
 # game/UpdateScript0.07.rpy:8748
 translate italian hang_the_posters_49ba941e:
 
     # RT "{i}(sarcastically in head) Oh... Does Matt play basketball? I never would have guessed.{/i}"
+    RT "{i}(sarcasticamente in testa) Oh... The Matt play basket? Non avrei mai indovinato.{/i}"
 
 # game/UpdateScript0.07.rpy:8749
 translate italian hang_the_posters_03a8cfc3:
 
     # RT "{i}It's just too bad he's so good at it. Our school hasn't lost a game since he became captain.{/i}"
+    RT "{i}È troppo male che sia così bravo in esso. La nostra scuola non ha perso una partita da quando è diventato capitano.{/i}"
 
 # game/UpdateScript0.07.rpy:8750
 translate italian hang_the_posters_0c07d3ab:
 
     # RT "{i}God, it would be so nice if Lauren won.{/i}"
+    RT "{i}Dio, sarebbe così bello se Lauren vincere.{/i}"
 
 # game/UpdateScript0.07.rpy:8751
 translate italian hang_the_posters_33770c79:
 
     # RT "{i}I'd love to see Matt taken down a few pegs.{/i}"
+    RT "{i}Mi piacerebbe vedere Matt preso un paio di pezzi.{/i}"
 
 # game/UpdateScript0.07.rpy:8754
 translate italian hang_the_posters_68d71ac5:
 
     # RT "{i}Time to slam dunk this poster into the trash.{/i}"
+    RT "{i}È ora di sbattere questo poster nel cestino.{/i}"
 
 # game/UpdateScript0.07.rpy:8758
 translate italian hang_the_posters_75840cb4:
 
     # RT "{i}I sure hope these posters bring Lauren a lot of votes.{/i}"
+    RT "{i}Spero che questi poster portino a Lauren un sacco di voti.{/i}"
 
 # game/UpdateScript0.07.rpy:8762
 translate italian hang_the_posters_26e8cda7:
 
     # RT "{i}There.{/i}"
+    RT "{i}C'è.{/i}"
 
 # game/UpdateScript0.07.rpy:8765
 translate italian hang_the_posters_7fe53262:
 
     # RT "{i}This will make the guys want to use the bathroom for something beside pissing.{/i}"
+    RT "{i}Questo farà sì che i ragazzi vogliano usare il bagno per qualcosa di accanto a pissing.{/i}"
 
 # game/UpdateScript0.07.rpy:8766
 translate italian hang_the_posters_4d414474:
 
     # {i}\"Good job! Those \"How to Breed your Dragon\" posters look really professional, not to mention sexy! They will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they are up.\"{/i}"
+    new "{i}\"Ottimo lavoro! Quelli \"Come Allevare il tuo Drago\" poster sembrano davvero professionali, per non parlare di sexy! Essi porteranno Lauren {b}\"1 Punto di Influenza Scuola\"{/b} per ogni giorno scolastico sono in aumento. {/ i}"
 
 # game/UpdateScript0.07.rpy:8770
 translate italian hang_the_posters_26e8cda7_1:
 
     # RT "{i}There.{/i}"
+    RT "{i}C'è.{/i}"
 
 # game/UpdateScript0.07.rpy:8773
 translate italian hang_the_posters_ee0292a3:
 
     # RT "{i}I know it doesn't look very professional, but with that picture of Lauren, I don't think anyone will notice.{/i}"
+    RT "{i}Lo so che non sembra molto professionale, ma con quella foto di Lauren, non credo che nessuno se ne accorgerà.{/i}"
 
 # game/UpdateScript0.07.rpy:8774
 translate italian hang_the_posters_c550c1ad:
 
     # {i}\"Sure that picture is sexy, but the lack of professionalism isn't doing Lauren any favors. Sorry, but these dragon posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
+    new "{i}\"Certo che l'immagine è sexy, ma la mancanza di professionalità non sta facendo Lauren qualsiasi favore. Siamo spiacenti, ma questi poster di drago non porteranno a Lauren alcun \"Punto di influenza della scuola\" per tutta la settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8775
 translate italian hang_the_posters_80120f01:
 
     # R "Alright, time to hang the next one."
+    R "Va bene, è ora di appendere il prossimo."
 
 # game/UpdateScript0.07.rpy:8789
 translate italian hang_the_posters_26e8cda7_2:
 
     # RT "{i}There.{/i}"
+    RT "{i}C'è.{/i}"
 
 # game/UpdateScript0.07.rpy:8792
 translate italian hang_the_posters_7a947cdf:
 
     # RT "{i}Hopefully there are enough gamers to appreciate this reference.{/i}"
+    RT "{i}Speriamo che ci siano abbastanza giocatori per apprezzare questo riferimento. {/i}"
 
 # game/UpdateScript0.07.rpy:8793
 translate italian hang_the_posters_8620cbdb:
 
     # {i}Luckily, there are plenty of gamers in the school who appreciate the reference and these Ass Affect posters will bring Lauren {b}\"1 School Influence Point\"{/b} for every school day they're hung up.\"{/i}"
+    new "{i}Fortunatamente, ci sono un sacco di giocatori nella scuola che apprezzano il riferimento e questi manifesti Ass Affect porterà Lauren {b}\"1 Punto di Influenza Scuola\"{/b} per ogni giorno di scuola che sono appeso. {/i}"
 
 # game/UpdateScript0.07.rpy:8797
 translate italian hang_the_posters_26e8cda7_3:
 
     # RT "{i}There.{/i}"
+    RT "{i}C'è.{/i}"
 
 # game/UpdateScript0.07.rpy:8800
 translate italian hang_the_posters_94b0e824:
 
     # RT "{i}That's a pretty sexy picture... Too bad the rest of the poster isn't.{/i}"
+    RT "{i}Questa è una bella foto sexy... Peccato che il resto del poster non lo sia. {/i}"
 
 # game/UpdateScript0.07.rpy:8801
 translate italian hang_the_posters_a99f7ec1:
 
     # {i}\"Too bad indeed... These space posters won't bring Lauren any \"School Influence Points\" throughout the week.\"{/i}"
+    new "{i}\"Ancor male veramente... Questi poster spaziali non porteranno a Lauren alcun \"Punto di Influenza della Scuola\" per tutta la settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8802
 translate italian hang_the_posters_1e911e79:
 
     # RT "{i}Just eighteen more posters to hang.{/i}"
+    RT "{i}Solo diciotto poster da appendere.{/i}"
 
 # game/UpdateScript0.07.rpy:8805
 translate italian hang_the_posters_3e237d4c:
 
     # {i}\"Eighteen posters later.{/i}"
+    new "{i}\"Più tardi diciotto posteri.{/i}"
 
 # game/UpdateScript0.07.rpy:8809
 translate italian hang_the_posters_569e8655:
 
     # RT "{i}Time to admire my work.{/i}"
+    RT "{i}Tempo per ammirare il mio lavoro. {/i}"
 
 # game/UpdateScript0.07.rpy:8810
 translate italian hang_the_posters_88ecce4d:
 
     # RT "{i}That looks awesome!{/i}"
+    RT "{i}Sembra fantastico!{/i}"
 
 # game/UpdateScript0.07.rpy:8811
 translate italian hang_the_posters_ee74a7bc:
 
     # {i}\"Good job, this setup will bring Lauren \"2 School Influence Points\" every school day it's up.\"{/i}"
+    new "{i}\"Buon lavoro, questa configurazione porterà Lauren \"2 Punti Influenza Scuola\" ogni giorno di scuola è finito.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8812
 translate italian hang_the_posters_06e47d71:
 
     # RT "{i}I think Lauren will be very pleased.{/i}"
+    RT "{i}Credo che Lauren sarà molto soddisfatta.{/i}"
 
 # game/UpdateScript0.07.rpy:8816
 translate italian hang_the_posters_569e8655_1:
 
     # RT "{i}Time to admire my work.{/i}"
+    RT "{i}Tempo per ammirare il mio lavoro. {/i}"
 
 # game/UpdateScript0.07.rpy:8817
 translate italian hang_the_posters_04b20981:
 
     # RT "{i}At least half of the posters look good.{/i}"
+    RT "{i}Almeno la metà dei poster sembra buona.{/i}"
 
 # game/UpdateScript0.07.rpy:8818
 translate italian hang_the_posters_496c671d:
 
     # {i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
+    new "{i}\"Poiché la metà dei poster di Lauren sembra buona, questa configurazione genererà \"1 Punto di Influenza Scuola\" ogni giorno di scuola è su.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8822
 translate italian hang_the_posters_569e8655_2:
 
     # RT "{i}Time to admire my work.{/i}"
+    RT "{i}Tempo per ammirare il mio lavoro. {/i}"
 
 # game/UpdateScript0.07.rpy:8823
 translate italian hang_the_posters_04b20981_1:
 
     # RT "{i}At least half of the posters look good.{/i}"
+    RT "{i}Almeno la metà dei poster sembra buona.{/i}"
 
 # game/UpdateScript0.07.rpy:8824
 translate italian hang_the_posters_496c671d_1:
 
     # {i}\"Since half of Lauren's posters look good, this setup will generate \"1 School Influence Point\" every school day it's up.\"{/i}"
+    new "{i}\"Poiché la metà dei poster di Lauren sembra buona, questa configurazione genererà \"1 Punto di Influenza Scuola\" ogni giorno di scuola è su.\"{/i}"
 
 # game/UpdateScript0.07.rpy:8828
 translate italian hang_the_posters_569e8655_3:
 
     # RT "{i}Time to admire my work.{/i}"
+    RT "{i}Tempo per ammirare il mio lavoro. {/i}"
 
 # game/UpdateScript0.07.rpy:8829
 translate italian hang_the_posters_cd10abc3:
 
     # RT "{i}Uuhhh... It actually looks worse than I thought it would.{/i}"
+    RT "{i}Uuhhh... In realtà sembra peggiore di quanto pensassi.{/i}"
 
 # game/UpdateScript0.07.rpy:8830
 translate italian hang_the_posters_2c1be897:
 
     # RT "{i}Hopefully it will still bring in some extra votes.{/i}"
+    RT "{i}Speriamo che porti ancora qualche voto extra.{/i}"
 
 # game/UpdateScript0.07.rpy:8831
 translate italian hang_the_posters_6466aef6:
 
     # {i}\"It won't... This setup will not generate any \"School Influence Points\" throughout the week.{/i}"
+    new "{i}\"Non sarà... Questa configurazione non genererà \"Punti di Influenza Scuola\" per tutta la settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:8832
 translate italian hang_the_posters_ddb84565:
 
     # RT "{i}Hopefully they'll be up for a few days before Matt comes and tears them down again.{/i}"
+    RT "{i}Speriamo che saranno in piedi per qualche giorno prima che Matt venga e li strappi di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:8833
 translate italian hang_the_posters_c162b6e3:
 
     # RT "{i}That took a while, looks like school is done for the day.{/i}"
+    RT "{i}Ci è voluto un po', sembra che la scuola sia fatta per il giorno.{/i}"
 
 # game/UpdateScript0.07.rpy:8842
 translate italian mom_angry_about_posters_d264830a:
 
     # R "Whoa!... Hey, Mom... Where did you come from?"
+    R "Choa!... Ehi, mamma... Da dove sei venuta?"
 
 # game/UpdateScript0.07.rpy:8845
 translate italian mom_angry_about_posters_92af5678:
 
     # M "Don't you \"Hey, Mom\" me, you sly little pervert!"
+    M "Non ti \"Ehi, mamma\" mi, sei un po' pervertito!"
 
 # game/UpdateScript0.07.rpy:8846
 translate italian mom_angry_about_posters_8fc80aaf:
 
     # R "Whoa!... What did I do?"
+    R "Chi!... Cosa ho fatto?"
 
 # game/UpdateScript0.07.rpy:8847
 translate italian mom_angry_about_posters_03982ae3:
 
     # M "Don't give me that!... You know exactly what you did."
+    M "Non darmi questo!... Sai esattamente quello che hai fatto."
 
 # game/UpdateScript0.07.rpy:8848
 translate italian mom_angry_about_posters_f451fda5:
 
     # R "If you're mad about the posters, you should know that Lauren told me to do it."
+    R "Se sei arrabbiato per i manifesti, dovresti sapere che Lauren mi ha detto di farlo."
 
 # game/UpdateScript0.07.rpy:8851
 translate italian mom_angry_about_posters_baa94ca9:
 
     # M "Yeah, right!... Has she seen these yet?... I'll bet she wants to kick your ass too."
+    M "Sì, giusto!... ha già visto questi?... Scommetto che vuole calciare anche il vostro asino."
 
 # game/UpdateScript0.07.rpy:8852
 translate italian mom_angry_about_posters_5020ae8d:
 
     # R "Mom, I'm not kidding. Lauren wanted me to do even sexier, but I talked her down."
+    R "Mamma, non sto scherzando. Lauren voleva che facessi ancora più sexy, ma l'ho parlato giù."
 
 # game/UpdateScript0.07.rpy:8853
 translate italian mom_angry_about_posters_bd483586:
 
     # M "Boy, I really find that hard to believe."
+    M "Ragazzo lo trovo davvero difficile da credere."
 
 # game/UpdateScript0.07.rpy:8854
 translate italian mom_angry_about_posters_0671f82a:
 
     # R "Just ask her."
+    R "Chiedi e basta."
 
 # game/UpdateScript0.07.rpy:8855
 translate italian mom_angry_about_posters_ecf4608d:
 
     # M "You better believe I'm going to."
+    M "Faresti meglio a credere che sto per andare."
 
 # game/UpdateScript0.07.rpy:8858
 translate italian mom_angry_about_posters_7a1facb6:
 
     # M "But for now, I want you to help me take them down."
+    M "Ma per ora, voglio che tu mi aiuti a abbatterli."
 
 # game/UpdateScript0.07.rpy:8859
 translate italian mom_angry_about_posters_102c1711:
 
     # PH "Well hello there, Miss [mom_name]. You look upset. Is there some kind of problem here?"
+    PH "Buon saluto, signorina [mom_name]. Sembra sconvolto. C'è qualche tipo di problema qui?"
 
 # game/UpdateScript0.07.rpy:8862
 translate italian mom_angry_about_posters_e4250b37:
 
     # M "Oh... Principal Hardun..."
+    M "Oh... Principal Hardun..."
 
 # game/UpdateScript0.07.rpy:8863
 translate italian mom_angry_about_posters_6c33f2fb:
 
     # M "No... I mean yes... I'm sure you've noticed the inappropriate posters of my daughter hung up all over the halls."
+    M "No... intendo sì... sono sicuro che hai notato i manifesti inappropriati di mia figlia appesi in tutte le sale."
 
 # game/UpdateScript0.07.rpy:8864
 translate italian mom_angry_about_posters_bd8b8233:
 
     # PH "Oh... Lauren is your daughter?... I must congratulate you. She's really very beautiful... I can see where she gets her looks."
+    PH "Oh... Lauren è tua figlia?... devo congratularmi con te. È davvero bella... riesco a vedere dove si fa il suo aspetto."
 
 # game/UpdateScript0.07.rpy:8865
 translate italian mom_angry_about_posters_6ec6f692:
 
     # M "Uhhh... thank you?"
+    M "Uhhh... grazie?"
 
 # game/UpdateScript0.07.rpy:8866
 translate italian mom_angry_about_posters_c36368e4:
 
     # PH "So, what exactly is the problem?"
+    PH "Qual è quindi esattamente il problema?"
 
 # game/UpdateScript0.07.rpy:8867
 translate italian mom_angry_about_posters_1a9f9e6b:
 
     # M "Uhh... The fact that they are completely inappropriate!"
+    M "Uhh... Il fatto che siano completamente inappropriate!"
 
 # game/UpdateScript0.07.rpy:8870
 translate italian mom_angry_about_posters_50eea9bb:
 
     # M "I suspect that my son here is responsible for making them and hanging them up everywhere."
+    M "Ho il sospetto che mio figlio qui è responsabile di farli e impiccarli ovunque."
 
 # game/UpdateScript0.07.rpy:8871
 translate italian mom_angry_about_posters_965376b2:
 
     # M "So I'm making him take them all down."
+    M "Quindi lo sto facendo prendere tutti giù."
 
 # game/UpdateScript0.07.rpy:8874
 translate italian mom_angry_about_posters_de392264:
 
     # PH "Is this true, young man?"
+    PH "È vero, giovane?"
 
 # game/UpdateScript0.07.rpy:8875
 translate italian mom_angry_about_posters_11bdb4f8:
 
     # R "Yes, but..."
+    R "Sì, però..."
 
 # game/UpdateScript0.07.rpy:8876
 translate italian mom_angry_about_posters_583ae17d:
 
     # PH "Did you make these posters and hang them without the young lady's consent?"
+    PH "Hai fatto questi manifesti e li hai appesi senza il consenso della giovane donna?"
 
 # game/UpdateScript0.07.rpy:8877
 translate italian mom_angry_about_posters_96c0d1cf:
 
     # R "No... She told me to make them, and to hang them up."
+    R "No... Mi ha detto di farli e di appenderli."
 
 # game/UpdateScript0.07.rpy:8878
 translate italian mom_angry_about_posters_0725c0cb:
 
     # PH "Does she know what type of photos you used of her?"
+    PH "Lei sa che tipo di foto hai usato da lei?"
 
 # game/UpdateScript0.07.rpy:8879
 translate italian mom_angry_about_posters_13163bff:
 
     # R "Yes... She's the one who told me to use those pictures."
+    R "Sì... Lei è quella che mi ha detto di usare quelle foto."
 
 # game/UpdateScript0.07.rpy:8880
 translate italian mom_angry_about_posters_ff361107:
 
     # M "And you listened to her, even though you must have known the school would never allow such immoral content on its walls?"
+    M "E l'hai ascoltata, anche se devi aver conosciuto la scuola non avrebbe mai permesso un tale contenuto immorale sulle sue pareti?"
 
 # game/UpdateScript0.07.rpy:8881
 translate italian mom_angry_about_posters_80e4ce0c:
 
     # M "And when I think of the amount of money you must have spent on these. You must have known you would have to tear them down?"
+    M "E quando penso alla quantità di denaro che devi aver speso per queste. Devi aver saputo che dovresti strapparli?"
 
 # game/UpdateScript0.07.rpy:8882
 translate italian mom_angry_about_posters_ce735891:
 
     # R "I thought that..."
+    R "Ho pensato che così..."
 
 # game/UpdateScript0.07.rpy:8885
 translate italian mom_angry_about_posters_5b4bbf63:
 
     # PH "Actually... If your son was acting under the direction of your daughter, with her full knowledge and consent, there's really nothing we can do."
+    PH "In realtà... Se tuo figlio agiva sotto la direzione di tua figlia, con la sua piena conoscenza e il suo consenso, non c'è davvero nulla che possiamo fare."
 
 # game/UpdateScript0.07.rpy:8888
 translate italian mom_angry_about_posters_d8bf5ca9:
@@ -21047,61 +21990,73 @@ translate italian mom_angry_about_posters_d8bf5ca9:
 translate italian mom_angry_about_posters_9c42e9e8:
 
     # M "This has to violate some kind of school rule or bylaw."
+    M "Questo deve violare una specie di stato scolastico o di statuto."
 
 # game/UpdateScript0.07.rpy:8890
 translate italian mom_angry_about_posters_23178151:
 
     # PH "A few years ago, that would have been true, but ever since the Supreme Court ruled that free speech is protected within schools as well as everywhere else, we've had to change a few rules."
+    PH "Alcuni anni fa sarebbe stato vero, ma fin da quando la Corte Suprema ha stabilito che la libertà di parola è protetta sia nelle scuole che ovunque altrove, abbiamo dovuto cambiare qualche regola."
 
 # game/UpdateScript0.07.rpy:8891
 translate italian mom_angry_about_posters_05db61df:
 
     # M "But this is a private school."
+    M "Ma è una scuola privata."
 
 # game/UpdateScript0.07.rpy:8892
 translate italian mom_angry_about_posters_1d3ed56b:
 
     # PH "Yes, but a private school that receives government grants."
+    PH "Sì, ma una scuola privata che riceve sovvenzioni statali."
 
 # game/UpdateScript0.07.rpy:8893
 translate italian mom_angry_about_posters_b3c5f2bb:
 
     # M "But that can't apply to pornography!"
+    M "Ma questo non può valere per la pornografia!"
 
 # game/UpdateScript0.07.rpy:8894
 translate italian mom_angry_about_posters_96618fa8:
 
     # PH "Good luck proving that your daughter's poster is pornography. There isn't even nudity."
+    PH "Buona fortuna a dimostrare che il poster di tua figlia è pornografia. Non c'è nemmeno nudità."
 
 # game/UpdateScript0.07.rpy:8897
 translate italian mom_angry_about_posters_f1c2917a:
 
     # M "But they're suggestive!"
+    M "Ma sono suggestivo!"
 
 # game/UpdateScript0.07.rpy:8898
 translate italian mom_angry_about_posters_fb8c718f:
 
     # M "And she's my daughter, don't I have the right as her mother to force her to take them down?"
+    M "E lei è mia figlia, non ho il diritto come sua madre di costringerla a prenderle giù?"
 
 # game/UpdateScript0.07.rpy:8899
 translate italian mom_angry_about_posters_fbba5aaa:
 
     # PH "You probably could if you weren't employed here."
+    PH "Probabilmente potresti se non fossi stato impiegato qui."
 
 # game/UpdateScript0.07.rpy:8902
 translate italian mom_angry_about_posters_8046b1e5:
 
     # PH "But since you are a teacher, employed by this school, I have to demand that you don't take down a single poster without her consent."
+    PH "Ma siccome sei un insegnante, impiegato da questa scuola, Devo chiedere di non abbattere un singolo poster senza il suo consenso."
 
 # game/UpdateScript0.07.rpy:8903
 translate italian mom_angry_about_posters_26e0d6b6:
 
     # PH "And I mean it!... If you do, there will be disciplinary action. This school can't afford a free speech lawsuit."
+    PH "E intendo questo!... Se lo fai, ci sarà un'azione disciplinare. Questa scuola non può permettersi una causa di libertà di parola."
 
 # game/UpdateScript0.07.rpy:8904
 translate italian mom_angry_about_posters_09b32ecc:
 
     # PH "Now... Do I have your word?"
+    PH "Ora... Ho la tua parola?"
 
 # game/UpdateScript0.07.rpy:8905
 translate italian mom_angry_about_posters_9040f0a8:
@@ -21113,61 +22068,73 @@ translate italian mom_angry_about_posters_9040f0a8:
 translate italian mom_angry_about_posters_d752ffbb:
 
     # PH "Miss [mom_name]?"
+    PH "Signorina [mom_name]?"
 
 # game/UpdateScript0.07.rpy:8907
 translate italian mom_angry_about_posters_3eb00c88:
 
     # M "Yes... I won't take any posters down until my daughter gives me permission."
+    M "Sì... Non prenderò alcun poster giù finché mia figlia non mi darà il permesso."
 
 # game/UpdateScript0.07.rpy:8908
 translate italian mom_angry_about_posters_22af2b52:
 
     # PH "And let's get that permission in writing, just to cover our butts."
+    PH "E otteniamo questo permesso per iscritto, solo per coprire i nostri glutei."
 
 # game/UpdateScript0.07.rpy:8909
 translate italian mom_angry_about_posters_2e751259:
 
     # PH "Phew... I'm glad I happened upon that conversation."
+    PH "Phew... Sono contenta di essere capitato in quella conversazione."
 
 # game/UpdateScript0.07.rpy:8910
 translate italian mom_angry_about_posters_dfd67654:
 
     # PH "Now if you'll excuse me, I've got other fires that need pissing on."
+    PH "Ora se mi scusi, ho altri fuochi che hanno bisogno di pissing."
 
 # game/UpdateScript0.07.rpy:8913
 translate italian mom_angry_about_posters_77e7c1f7:
 
     # M "Don't you think this is over!"
+    M "Non pensate che sia finita!"
 
 # game/UpdateScript0.07.rpy:8914
 translate italian mom_angry_about_posters_f1977e11:
 
     # M "I'm going to have a few words with Lauren, and then you're going to help me take these down."
+    M "Avrò qualche parola con Lauren, e poi mi aiuterai a prendere queste parole."
 
 # game/UpdateScript0.07.rpy:8915
 translate italian mom_angry_about_posters_12aa933c:
 
     # R "Yeah, ok Mom. If that's what Lauren wants."
+    R "Sì, ok Mom. Se è quello che vuole Lauren."
 
 # game/UpdateScript0.07.rpy:8916
 translate italian mom_angry_about_posters_42e72ffb:
 
     # M "Fuck what Lauren wants."
+    M "Cazzo cosa vuole Lauren."
 
 # game/UpdateScript0.07.rpy:8917
 translate italian mom_angry_about_posters_8eb6cd45:
 
     # R "Mom! Language."
+    R "Mom! Lingua."
 
 # game/UpdateScript0.07.rpy:8920
 translate italian mom_angry_about_posters_2eca212d:
 
     # RT "{i}Wow!... She's even more pissed than I thought she'd be.{/i}"
+    RT "{i}Wow!... È ancora più inquieta di quanto pensassi. {/i}"
 
 # game/UpdateScript0.07.rpy:8921
 translate italian mom_angry_about_posters_e03ea699:
 
     # RT "{i}I never expected the school to have our back on this one though. What a pleasant surprise!{/i}"
+    RT "{i}Non mi sono mai aspettato che la scuola avesse le spalle a questa. Che piacevole sorpresa!{/i}"
 
 # game/UpdateScript0.07.rpy:8930
 translate italian new_jacky_caught_office_4c90c24b:
@@ -21209,6 +22176,7 @@ translate italian new_jacky_caught_office_f570eda3:
 translate italian new_jacky_caught_office_8eb0e85f:
 
     # R "Shut up!"
+    R "Stia zitto!"
 
 # game/UpdateScript0.07.rpy:8937
 translate italian new_jacky_caught_office_40cd6e2d:
@@ -21238,331 +22206,397 @@ translate italian new_jacky_caught_office_4580e4dd:
 translate italian new_jacky_caught_office_2c78093e:
 
     # MGT "{i}Shit!... I can't fuck Matt after what he did with Jessica.{/i}"
+    MGT "{i}Shit!... Non riesco a scopare Matt dopo quello che ha fatto con Jessica.{/i}"
 
 # game/UpdateScript0.07.rpy:8942
 translate italian new_jacky_caught_office_9b07cf0a:
 
     # MG "...."
+    MG "...."
 
 # game/UpdateScript0.07.rpy:8943
 translate italian new_jacky_caught_office_e200a835:
 
     # MB "Didn't you want to go somewhere to take care of that?"
+    MB "Non hai voluto andare da qualche parte per prenderti cura di questo?"
 
 # game/UpdateScript0.07.rpy:8944
 translate italian new_jacky_caught_office_12ad1f01:
 
     # MG "No... I still can't."
+    MG "No... ancora non posso."
 
 # game/UpdateScript0.07.rpy:8945
 translate italian new_jacky_caught_office_4a74412e:
 
     # MB "You mean you still have a rash down there?"
+    MB "Intendi che hai ancora un rash giù lì?"
 
 # game/UpdateScript0.07.rpy:8946
 translate italian new_jacky_caught_office_9b7d85cf:
 
     # MB "When in the fuck is that thing ever going to go away?"
+    MB "Quando nel cazzo è che la cosa andrà mai via?"
 
 # game/UpdateScript0.07.rpy:8947
 translate italian new_jacky_caught_office_90bafd87:
 
     # MB "My balls are getting blue."
+    MB "Le mie palline stanno diventando blu."
 
 # game/UpdateScript0.07.rpy:8948
 translate italian new_jacky_caught_office_1b875090:
 
     # MB "Fine... I'm going to have to figure out something else."
+    MB "Cino... Dovrò capire qualcos'altro."
 
 # game/UpdateScript0.07.rpy:8949
 translate italian new_jacky_caught_office_b35dd043:
 
     # MGT "{i}Fucker's probably going to look for Jessica.{/i}"
+    MGT "{i}Fucker probabilmente cercherà Jessica.{/i}"
 
 # game/UpdateScript0.07.rpy:8952
 translate italian new_jacky_caught_office_81cd0d7c:
 
     # RT "{i}Ok, Mom's probably in her office.{/i}"
+    RT "{i}Ok, la mamma probabilmente nel suo ufficio.{/i}"
 
 # game/UpdateScript0.07.rpy:8982
 translate italian new_classroom_morning_68b6435f:
 
     # M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show applications and examples of the Oedipus tragedy in our modern society."
+    M "Okay class, parliamo di più dei tuoi progetti finali per il curriculum di Oedial. Ricordate che dovete mostrare applicazioni ed esempi della tragedia dell’Edipo nella società moderna."
 
 # game/UpdateScript0.07.rpy:8998
 translate italian new_classroom_morning_33f2cbf8:
 
     # {i}\"Now that the election process has been going on for a while, you now have the option of triggering the actual election.\"{/i}"
+    new "{i}\"Ora che il processo elettorale è in corso da un po', ora hai la possibilità di attivare le elezioni effettive.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9000
 translate italian new_classroom_morning_6bfedc7b:
 
     # {i}\"Congratulations, you have completed all the events to make Lauren successful in winning the election! {b}\"WARNING\"{/b} Triggering the election will make certain repeating events unnavailable once the election is over.\"{/i}"
+    new "{i}\"Congratulazioni, hai completato tutti gli eventi per far sì che Lauren vinca le elezioni! {b}\"ATTENZIONE\"{/b} Attivare l'elezione renderà alcuni eventi ripetuti non disponibili una volta terminate le elezioni. {/ i}"
 
 # game/UpdateScript0.07.rpy:9003
 translate italian new_classroom_morning_0f16bddc:
 
     # {i}\"WARNING... You have not finished all the events necessary to win the election. If you trigger the election now, Lauren will lose and certain repeating events will become unavailable once the election is over.{/i}"
+    new "{i}\"ATTENZIONE... Non hai completato tutti gli eventi necessari per vincere le elezioni. Se si innesca l'elezione adesso, Lauren perderà e alcuni eventi ripetuti non saranno disponibili una volta che l'elezione sarà finita.{/i}"
 
 # game/UpdateScript0.07.rpy:9004
 translate italian new_classroom_morning_9229cd54:
 
     # {i}\"Would you like to trigger the election?\"{/i}"
+    new "{i}\"Vuoi avviare l'elezione?\"{/i}"
 
 # game/UpdateScript0.07.rpy:9020
 translate italian new_classroom_morning_3f83f693:
 
     # M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show modern applications and examples of the Oedipus tragedy in our modern society."
+    M "Okay class, parliamo di più dei tuoi progetti finali per il curriculum Oedipal. Ricordate che dovete mostrare applicazioni moderne ed esempi della tragedia dell’Edipo nella nostra società moderna."
 
 # game/UpdateScript0.07.rpy:9021
 translate italian new_classroom_morning_f279b660:
 
     # IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+    IV "Buongiorno, studenti e insegnanti. Attiva le tue TV per gli annunci del mattino."
 
 # game/UpdateScript0.07.rpy:9028
 translate italian new_classroom_morning_b7632dc1:
 
     # M "Alright class, everybody pay attention to the TV, please."
+    M "Buona lezione, tutti prestano attenzione alla TV, per favore."
 
 # game/UpdateScript0.07.rpy:9029
 translate italian new_classroom_morning_f88daf1b:
 
     # PH "Good morning students of Shagtown High!"
+    PH "Buongiorno studenti di Shagtown High!"
 
 # game/UpdateScript0.07.rpy:9032
 translate italian new_classroom_morning_878a48ef:
 
     # PH "As your principal, it's my honor to give you the weekly morning announcements."
+    PH "Come vostro principale, è mio onore darvi gli annunci settimanali del mattino."
 
 # game/UpdateScript0.07.rpy:9035
 translate italian new_classroom_morning_0d945a48:
 
     # PH "Lunch today once again will be hot dogs or tacos, and as a special treat, the lunch lady is serving her specialty cream pie."
+    PH "Il pranzo di oggi sarà ancora una volta hot dog o tacos, e come un trattamento speciale, la signora pranzo sta servendo la sua specialità torta crema."
 
 # game/UpdateScript0.07.rpy:9036
 translate italian new_classroom_morning_734abb14:
 
     # {i}\"class giggling\"{/i}"
+    new "{i}\"class ridacchiing\"{/i}"
 
 # game/UpdateScript0.07.rpy:9037
 translate italian new_classroom_morning_dd46bba5:
 
     # PH "Blah blah blah, blah blah blah blah..."
+    PH "Blh blah blah, blah blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9038
 translate italian new_classroom_morning_b8e9eda9:
 
     # RT "{i}Uggghh... Get to the important stuff already.{/i}"
+    RT "{i}Uggghh... Vai già alla roba importante.{/i}"
 
 # game/UpdateScript0.07.rpy:9041
 translate italian new_classroom_morning_3d887e9c:
 
     # PH "And now, for the announcement's you've all been waiting for, Let's take a look at our weekly poll numbers."
+    PH "E ora, per l'annuncio che avete tutti aspettato, diamo un'occhiata ai nostri numeri di sondaggio settimanali."
 
 # game/UpdateScript0.07.rpy:9042
 translate italian new_classroom_morning_af089614:
 
     # PH "Polls were conducted by the yearbook club by asking a sample of randomly selected students."
+    PH "I sondaggi sono stati condotti dal club annuario chiedendo un campione di studenti selezionati casualmente."
 
 # game/UpdateScript0.07.rpy:9043
 translate italian new_classroom_morning_37c3775f:
 
     # PH "Let's just go ahead and start at the top with student body president."
+    PH "Andiamo avanti e iniziamo dalla parte superiore con il presidente del corpo dello studente."
 
 # game/UpdateScript0.07.rpy:9047
 translate italian new_classroom_morning_f51c3157:
 
     # PH "Let's see... It says here that..."
+    PH "Vediamo... Si dice quello..."
 
 # game/UpdateScript0.07.rpy:9049
 translate italian new_classroom_morning_b955d1c2:
 
     # PH "Oh, my God!... Am I reading these numbers right?"
+    PH "Oh, mio Dio!... sto leggendo questi numeri giusto?"
 
 # game/UpdateScript0.07.rpy:9050
 translate italian new_classroom_morning_d4b4bf54:
 
     # PH "I'll have to double check this, but it looks like the poll numbers for President are too close to call."
+    PH "Dovrò controllare due volte, ma sembra che i numeri di sondaggio per il Presidente siano troppo vicini per chiamare."
 
 # game/UpdateScript0.07.rpy:9053
 translate italian new_classroom_morning_7e6cb3b8:
 
     # PH "If those numbers are verified, It would be nothing short of amazing on the part of the relatively unknown candidate, but beautiful cosplayer, Lauren."
+    PH "Se questi numeri sono verificati, sarebbe a dir poco sorprendente da parte del candidato relativamente sconosciuto, ma bello cosplayer, Lauren."
 
 # game/UpdateScript0.07.rpy:9054
 translate italian new_classroom_morning_78ba462a:
 
     # PH "I myself, while I can't say I didn't enjoy the posters, did wonder if a move like that wasn't political suicide, but it appears that the risk is paying off."
+    PH "Io stesso, mentre non posso dire che non mi sono piaciuto i manifesti, si chiedeva se una mossa del genere non fosse un suicidio politico, ma sembra che il rischio stia pagando."
 
 # game/UpdateScript0.07.rpy:9055
 translate italian new_classroom_morning_49c150f2:
 
     # PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+    PH "E trasferirsi sui candidati per il vice presidente, blah blah blah, blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9056
 translate italian new_classroom_morning_80eb9db4:
 
     # RT "{i}Oh, nice! Lauren's going to be ecstatic! It was kind of creepy for the principal to mention Lauren's posters, but I'll bet she was too excited about the poll results to even notice.{/i}"
+    RT "{i}Oh, bello! Lauren sarà estatico! Era una specie di raccapricciante per il preside menzionare i manifesti di Lauren, ma scommetterò che era troppo eccitata sui risultati del sondaggio per notare. /i}"
 
 # game/UpdateScript0.07.rpy:9063
 translate italian new_classroom_morning_c525fe90:
 
     # RT "{i}Oh... she took off... Haha... She's probably doing cartwheels down the hallway. Still, I'll go check on her after class.{/i}"
+    RT "{i}Oh... si è tolta... Haha... Probabilmente sta facendo delle ruote di cartone lungo il corridoio. Tuttavia, continuerò a controllarla dopo le lei.{/i}"
 
 # game/UpdateScript0.07.rpy:9066
 translate italian new_classroom_morning_fe5ea61b:
 
     # {i}\"Shortly after class.\"{/i}"
+    new "{i}\"Poco dopo la classe.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9067
 translate italian new_classroom_morning_bac89744:
 
     # RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
+    RT "{i}Farei meglio a controllare Lauren... Probabilmente è alla sua sede della campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:9071
 translate italian new_classroom_morning_0e7324e8:
 
     # PH "It looks like our star player and captain of the basketball team, Matt, is still in the lead, but his opponent Lauren is surprisingly close behind."
+    PH "Sembra che il nostro giocatore stellare e capitano della squadra di basket, Matt, è ancora in testa, ma il suo avversario Lauren è sorprendentemente vicino dietro."
 
 # game/UpdateScript0.07.rpy:9072
 translate italian new_classroom_morning_422cd8b8:
 
     # PH "While it seems unlikely that Lauren could pull an upset... still, I'd be sure to watch my back if I were Matt."
+    PH "Mentre sembra improbabile che Lauren possa tirare un turbamento... ancora, sarei sicuro di guardare la mia schiena se fossi Matt."
 
 # game/UpdateScript0.07.rpy:9073
 translate italian new_classroom_morning_49c150f2_1:
 
     # PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+    PH "E trasferirsi sui candidati per il vice presidente, blah blah blah, blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9074
 translate italian new_classroom_morning_38dded53:
 
     # RT "{i}Wow!... Lauren's got to be pretty pleased. I mean, she might not be winning, but she's still doing much better than anyone ever expected her to do against Matt.{/i}"
+    RT "{i}Wow!... Lauren deve essere molto soddisfatta. Voglio dire, potrebbe non essere vincente, ma sta ancora facendo molto meglio di chiunque mai aspettato che lei faccia contro Matt.{/i}"
 
 # game/UpdateScript0.07.rpy:9075
 translate italian new_classroom_morning_142eb04e:
 
     # RT "{i}Could we possibly pull an upset?{/i}"
+    RT "{i}Potremmo forse tirare un disturbo?{/i}"
 
 # game/UpdateScript0.07.rpy:9082
 translate italian new_classroom_morning_1c1c6840:
 
     # RT "{i}Oh... she took off... I hope she's not upset. She should at least be encouraged by these poll results. I'll go check on her once class is over.{/i}"
+    RT "{i}Oh... si è tolta... Spero che non sia turbata. Dovrebbe almeno essere incoraggiata da questi risultati del sondaggio. Andrò a controllarla una volta che la classe è finita.{/i}"
 
 # game/UpdateScript0.07.rpy:9085
 translate italian new_classroom_morning_fe5ea61b_1:
 
     # {i}\"Shortly after class.\"{/i}"
+    new "{i}\"Poco dopo la classe.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9086
 translate italian new_classroom_morning_bac89744_1:
 
     # RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
+    RT "{i}Farei meglio a controllare Lauren... Probabilmente è alla sua sede della campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:9090
 translate italian new_classroom_morning_b530a13e:
 
     # PH "Yep... Just as everyone suspected, our star player and captain of the basketball team, Matt, is winning in a landslide."
+    PH "Yep... Proprio come tutti sospettati, il nostro giocatore stellare e capitano della squadra di basket, Matt, vince in una frana."
 
 # game/UpdateScript0.07.rpy:9091
 translate italian new_classroom_morning_b751ae99:
 
     # PH "We won't say by how far he is pummeling his relatively unknown opponent, what's her name?... Oh, Lauren... but let's just say, it won't be easy to come back from this far behind."
+    PH "Non diremo fino a che punto sta pummeling il suo avversario relativamente sconosciuto, qual è il suo nome?.. Oh, Lauren... ma diciamo solo che non sarà facile tornare da questo lontano dietro."
 
 # game/UpdateScript0.07.rpy:9092
 translate italian new_classroom_morning_49c150f2_2:
 
     # PH "And moving onto the candidates for vice president, blah blah blah, blah blah blah blah..."
+    PH "E trasferirsi sui candidati per il vice presidente, blah blah blah, blah blah blah..."
 
 # game/UpdateScript0.07.rpy:9093
 translate italian new_classroom_morning_dac6ee28:
 
     # RT "{i}Shit!... That can't be good... Lauren's going to be pretty upset.{/i}"
+    RT "{i}Merda!... Non può essere buono... Lauren sarà piuttosto sconvolto.{/i}"
 
 # game/UpdateScript0.07.rpy:9100
 translate italian new_classroom_morning_8c74be71:
 
     # RT "{i}Oh... she took off... I hope she's ok... I'd better go check on her after class.{/i}"
+    RT "{i}Oh... si è tolta... Spero che stia bene... farei meglio a controllarla dopo la lezione.{/i}"
 
 # game/UpdateScript0.07.rpy:9103
 translate italian new_classroom_morning_fe5ea61b_2:
 
     # {i}\"Shortly after class.\"{/i}"
+    new "{i}\"Poco dopo la classe.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9104
 translate italian new_classroom_morning_bac89744_2:
 
     # RT "{i}I'd better go check on Lauren... She's probably at her campaign headquarters.{/i}"
+    RT "{i}Farei meglio a controllare Lauren... Probabilmente è alla sua sede della campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:9126
 translate italian new_classroom_morning_68b6435f_1:
 
     # M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show applications and examples of the Oedipus tragedy in our modern society."
+    M "Okay class, parliamo di più dei tuoi progetti finali per il curriculum di Oedial. Ricordate che dovete mostrare applicazioni ed esempi della tragedia dell’Edipo nella società moderna."
 
 # game/UpdateScript0.07.rpy:9152
 translate italian new_classroom_afternoon_68b6435f:
 
     # M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show applications and examples of the Oedipus tragedy in our modern society."
+    M "Okay class, parliamo di più dei tuoi progetti finali per il curriculum di Oedial. Ricordate che dovete mostrare applicazioni ed esempi della tragedia dell’Edipo nella società moderna."
 
 # game/UpdateScript0.07.rpy:9162
 translate italian new_classroom_afternoon_29ab99de:
 
     # R "Hey, Lauren!"
+    R "Hey, Lauren!"
 
 # game/UpdateScript0.07.rpy:9168
 translate italian new_classroom_afternoon_02ec814f:
 
     # L "Yeah?"
+    L "Sì, sì?"
 
 # game/UpdateScript0.07.rpy:9169
 translate italian new_classroom_afternoon_4403c157:
 
     # R "Can I talk to you for a minute?"
+    R "Posso parlarvi per un minuto?"
 
 # game/UpdateScript0.07.rpy:9175
 translate italian new_classroom_afternoon_13d10a99:
 
     # L "Sure, [ryan]... What's up?"
+    L "Certo, [ryan]... Cos'è?"
 
 # game/UpdateScript0.07.rpy:9176
 translate italian new_classroom_afternoon_b38f0b90:
 
     # R "I was just wondering if you wanted to... go check out the pool?... if you know what I mean?"
+    R "Mi stavo solo chiedendo se volevate... andare a controllare la piscina?... se sapete cosa intendo?"
 
 # game/UpdateScript0.07.rpy:9178
 translate italian new_classroom_afternoon_195a8304:
 
     # L "I've got class and stuff..."
+    L "Ho classe e roba..."
 
 # game/UpdateScript0.07.rpy:9179
 translate italian new_classroom_afternoon_c26b13b6:
 
     # L "Sorry, maybe another time."
+    L "Scusa, forse un'altra volta."
 
 # game/UpdateScript0.07.rpy:9180
 translate italian new_classroom_afternoon_df39ee72:
 
     # {i}\"Lauren's libido needs to be at 8 or above.\"{/i}"
+    new "{i}\"La libido di Lauren deve essere a 8 o superiore.\"{/i}"
 
 # game/UpdateScript0.07.rpy:9194
 translate italian new_classroom_afternoon_4756c8dd:
 
     # L "Yeah... I'd be up for that."
+    L "Sì... Sarei pronto per quello."
 
 # game/UpdateScript0.07.rpy:9195
 translate italian new_classroom_afternoon_5354cd93:
 
     # L "I'll get Matt, and we'll meet you there."
+    L "Otterò Matt, e ti incontreremo lì."
 
 # game/UpdateScript0.07.rpy:9196
 translate italian new_classroom_afternoon_8a281af1:
 
     # R "Does Matt have to come?"
+    R "È necessario che Matt arrivi?"
 
 # game/UpdateScript0.07.rpy:9197
 translate italian new_classroom_afternoon_1fe71920:
 
     # L "Yeah... It's part of the agreement we made."
+    L "Sì... È parte dell'accordo che abbiamo fatto."
 
 # game/UpdateScript0.07.rpy:9198
 translate italian new_classroom_afternoon_4298156e:
@@ -21574,26 +22608,31 @@ translate italian new_classroom_afternoon_4298156e:
 translate italian new_classroom_afternoon_262c68db:
 
     # R "I'll see you there."
+    R "Ti vedrò lì."
 
 # game/UpdateScript0.07.rpy:9202
 translate italian new_classroom_afternoon_4756c8dd_1:
 
     # L "Yeah... I'd be up for that."
+    L "Sì... Sarei pronto per quello."
 
 # game/UpdateScript0.07.rpy:9203
 translate italian new_classroom_afternoon_4ae0a677:
 
     # R "Great. I'll head over and you can follow shortly after."
+    R "Grande. Mi dirigerò sopra e puoi seguire poco dopo."
 
 # game/UpdateScript0.07.rpy:9204
 translate italian new_classroom_afternoon_af2d4fa7:
 
     # R "But, don't make me wait for too long."
+    R "Ma, non fatemi aspettare per troppo tempo."
 
 # game/UpdateScript0.07.rpy:9205
 translate italian new_classroom_afternoon_a27d74c9:
 
     # L "I'll come in just a few minutes."
+    L "Verrò tra qualche minuto."
 
 # game/UpdateScript0.07.rpy:9206
 translate italian new_classroom_afternoon_b6d3ec64:
@@ -21605,21 +22644,25 @@ translate italian new_classroom_afternoon_b6d3ec64:
 translate italian new_classroom_afternoon_b9db3564:
 
     # M "Okay, class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show modern applications and examples of the Oedipus tragedy in our modern society."
+    M "Ok, classe, parliamo di più dei tuoi progetti finali per il curriculum edipale. Ricordate che dovete mostrare applicazioni moderne ed esempi della tragedia dell’Edipo nella nostra società moderna."
 
 # game/UpdateScript0.07.rpy:9245
 translate italian newclasslecture_470fb4c4:
 
     # M "Would any of you be willing to share some examples you've found in your research?"
+    M "Qualcuno di voi sarebbe disposto a condividere alcuni esempi che avete trovato nella vostra ricerca?"
 
 # game/UpdateScript0.07.rpy:9246
 translate italian newclasslecture_80431cbb:
 
     # RT "{i}Uugghhh... When can we learn about something different!{/i}"
+    RT "{i}Uugghh... Quando possiamo conoscere qualcosa di diverso!{/i}"
 
 # game/UpdateScript0.07.rpy:9247
 translate italian newclasslecture_3e8a54ef:
 
     # RT "{i}This is so boring, I feel like I'm stuck in some kind of time loop where every day is the same.{/i}"
+    RT "{i}Questo è così noioso, mi sento come se fossi bloccato in una sorta di ciclo temporale in cui ogni giorno è lo stesso.{/i}"
 
 # game/UpdateScript0.07.rpy:9254
 translate italian newclasslecture_f8055650:
@@ -21637,356 +22680,427 @@ translate italian newclasslecture_9040f0a8:
 translate italian newclasslecture_f94a78ef:
 
     # M "[ryan]!... Please pay attention!"
+    M "[ryan]!... Ti preghiamo di prestare attenzione!"
 
 # game/UpdateScript0.07.rpy:9263
 translate italian newclasslecture_ebaae931:
 
     # M "Am I boring you too much, [ryan]?"
+    M "Sono troppo noioso, [ryan]?"
 
 # game/UpdateScript0.07.rpy:9264
 translate italian newclasslecture_acccc2d0:
 
     # M "Maybe you'd pay better attention if we move on to a different subject?"
+    M "Forse dovresti prestare maggiore attenzione se passassimo a un argomento diverso?"
 
 # game/UpdateScript0.07.rpy:9265
 translate italian newclasslecture_5992640f:
 
     # RT "{i}Wow!... What is she wearing?{/i}"
+    RT "{i}Wow!... Che cosa indossa?{/i}"
 
 # game/UpdateScript0.07.rpy:9266
 translate italian newclasslecture_964c0279:
 
     # M "Let's change subjects to anatomy."
+    M "Cambia soggetti in anatomia."
 
 # game/UpdateScript0.07.rpy:9267
 translate italian newclasslecture_005681ba:
 
     # M "[ryan]?... Would you like to be my helper?"
+    M "[ryan]?... Vuoi essere il mio aiutante?"
 
 # game/UpdateScript0.07.rpy:9268
 translate italian newclasslecture_999d5295:
 
     # R "Uhhh... ok."
+    R "Uhhh... ok."
 
 # game/UpdateScript0.07.rpy:9269
 translate italian newclasslecture_c60207e7:
 
     # M "Please come up here and take a seat."
+    M "Per favore vieni qui e prendi un posto."
 
 # game/UpdateScript0.07.rpy:9270
 translate italian newclasslecture_8cfe51f4:
 
     # R "You mean on the floor?"
+    R "Vuoi dire a terra?"
 
 # game/UpdateScript0.07.rpy:9271
 translate italian newclasslecture_3ecd8990:
 
     # M "No, silly."
+    M "No, stupido."
 
 # game/UpdateScript0.07.rpy:9274
 translate italian newclasslecture_35f71bd1:
 
     # M "In this chair."
+    M "In questa sede."
 
 # game/UpdateScript0.07.rpy:9275
 translate italian newclasslecture_fd42e94d:
 
     # M "And why don't you leave your pants and underwear at your desk. You won't need them."
+    M "E perché non lasci i pantaloni e la biancheria intima alla scrivania. Non ne avrai bisogno."
 
 # game/UpdateScript0.07.rpy:9276
 translate italian newclasslecture_27d16e76:
 
     # RT "{i}Ok... Seems like a perfectly normal request.{/i}"
+    RT "{i}Ok... Sembra come una richiesta perfettamente normale.{/i}"
 
 # game/UpdateScript0.07.rpy:9279
 translate italian newclasslecture_c4ad68df:
 
     # M "Thank you, [ryan]."
+    M "Grazie, [ryan]."
 
 # game/UpdateScript0.07.rpy:9280
 translate italian newclasslecture_db103b12:
 
     # M "Now, class, today we will be learning about the male penis."
+    M "Adesso, lezione, oggi impareremo del pene maschile."
 
 # game/UpdateScript0.07.rpy:9283
 translate italian newclasslecture_93b9f4b3:
 
     # M "I've asked [ryan] to come up here, because his member is a much larger than average size, and I wanted to make sure everyone can see what I'm doing."
+    M "Ho chiesto [ryan] di venire qui, perché il suo membro è molto più grande della dimensione media, e volevo assicurarmi che tutti potessero vedere quello che sto facendo."
 
 # game/UpdateScript0.07.rpy:9284
 translate italian newclasslecture_5bd2d195:
 
     # MB "{i}(Shouting){/i}Mine's bigger!"
+    MB "{i}(Shouting){/i}Miniera più grande!"
 
 # game/UpdateScript0.07.rpy:9285
 translate italian newclasslecture_b67689de:
 
     # M "Yes... I know Matt, but I didn't want to scare the girls, or give them too much of an unrealistic expectation."
+    M "Sì... Conosco Matt, ma non volevo spaventare le ragazze, o dare loro troppo di un'attesa irrealistica."
 
 # game/UpdateScript0.07.rpy:9286
 translate italian newclasslecture_8d7d07ac:
 
     # M "Now, I know you boys know what's going to happen, but I want all of you girls to pay close attention to what happens when I begin to stroke [ryan]'s big meaty cock."
+    M "Ora, so che voi ragazzi sapete cosa succederà, ma voglio che tutte voi ragazze prestiate molta attenzione a ciò che accade quando comincio ad accarezzare il grosso cazzo carnoso di [ryan]."
 
 # game/UpdateScript0.07.rpy:9289
 translate italian newclasslecture_581a9233:
 
     # K "{i}(Gasps){/i} Oh, my God!"
+    K "{i}(Gasps){/i} Oh, mio Dio!"
 
 # game/UpdateScript0.07.rpy:9290
 translate italian newclasslecture_4ef55793:
 
     # M "Yes... It's quite surprising how big [ryan] gets."
+    M "Sì... È sorprendente quanto grande [ryan] ottiene."
 
 # game/UpdateScript0.07.rpy:9291
 translate italian newclasslecture_9c49e8e3:
 
     # M "Not to mention, surprisingly hard."
+    M "Per non parlare, sorprendentemente difficile."
 
 # game/UpdateScript0.07.rpy:9292
 translate italian newclasslecture_282b8584:
 
     # K "How does it go from being so soft, to so hard?"
+    K "Come passa dall'essere così morbido, a così duro?"
 
 # game/UpdateScript0.07.rpy:9295
 translate italian newclasslecture_bd118e91:
 
     # M "I'm glad you asked, Kenzie."
+    M "Mi fa piacere che tu abbia chiesto, Kenzie."
 
 # game/UpdateScript0.07.rpy:9296
 translate italian newclasslecture_4f3664d1:
 
     # M "Would you like to come up here and get a closer look?"
+    M "Vuoi venire qui e dare un'occhiata più da vicino?"
 
 # game/UpdateScript0.07.rpy:9297
 translate italian newclasslecture_f2b0dddf:
 
     # K "Yes, please!"
+    K "Sì, per piacere!"
 
 # game/UpdateScript0.07.rpy:9298
 translate italian newclasslecture_a24343a0:
 
     # M "And anybody else who wants to see better can come on up here too."
+    M "E chiunque altro che voglia vedere meglio può venire su qui troppo."
 
 # game/UpdateScript0.07.rpy:9299
 translate italian newclasslecture_ddd08871:
 
     # L "Oh... I do."
+    L "Oh... Lo faccio."
 
 # game/UpdateScript0.07.rpy:9302
 translate italian newclasslecture_c7697f95:
 
     # M "You see... When a boy gets touched, or excited, or sometimes even bored, the blood in his body will rush to his penis."
+    M "Vedete... Quando un ragazzo viene toccato, o eccitato, o a volte addirittura annoiato, il sangue nel suo corpo si precipita verso il suo pene."
 
 # game/UpdateScript0.07.rpy:9303
 translate italian newclasslecture_721d2d25:
 
     # M "All that extra blood in the soft material inside, makes his penis hard."
+    M "Tutto quel sangue in più nel materiale morbido all'interno, rende il suo pene difficile."
 
 # game/UpdateScript0.07.rpy:9304
 translate italian newclasslecture_f1fd9c0e:
 
     # M "Now, Lauren? Do you know why it's important for a boy to get hard?"
+    M "Ora, Lauren? Sai perché è importante che un ragazzo ottenga duramente?"
 
 # game/UpdateScript0.07.rpy:9305
 translate italian newclasslecture_8910ac7a:
 
     # L "Well, it would be pretty hard to have sex if he wasn't hard."
+    L "Beh, sarebbe piuttosto difficile fare sesso se non fosse duro."
 
 # game/UpdateScript0.07.rpy:9306
 translate italian newclasslecture_05cc7e3a:
 
     # K "I think it would be harder to have sex when it is hard. How could that possibly fit inside anybody?"
+    K "Penso che sarebbe più difficile fare sesso quando è duro. Come potrebbe essere adatto a chiunque?"
 
 # game/UpdateScript0.07.rpy:9307
 translate italian newclasslecture_7eacc92b:
 
     # M "It can take some time and practice, and it's good to start small and work your way up."
+    M "Può richiedere un po' di tempo e di pratica, ed è bene iniziare piccolo e lavorare in alto."
 
 # game/UpdateScript0.07.rpy:9308
 translate italian newclasslecture_a4b7bec6:
 
     # K "So, can you take a penis that large?"
+    K "Così, si può prendere un pene che grande?"
 
 # game/UpdateScript0.07.rpy:9309
 translate italian newclasslecture_a60a7994:
 
     # M "Of course, would you like to see a demonstration?"
+    M "Certo, vorresti vedere una manifestazione?"
 
 # game/UpdateScript0.07.rpy:9310
 translate italian newclasslecture_a0055f95:
 
     # L "Oh, yes! Please!"
+    L "Oh, sì! Per favore!"
 
 # game/UpdateScript0.07.rpy:9311
 translate italian newclasslecture_06015ac3:
 
     # K "Absolutely!"
+    K "Assolutamente!"
 
 # game/UpdateScript0.07.rpy:9314
 translate italian newclasslecture_8bbda275:
 
     # M "Now please remember that it's dangerous to try and take a penis this size without working your way up to it."
+    M "Ora ricordate che è pericoloso cercare di prendere un pene questa dimensione senza lavorare fino ad esso."
 
 # game/UpdateScript0.07.rpy:9315
 translate italian newclasslecture_bd15bf70:
 
     # M "[ryan] and I have been practicing at home."
+    M "[ryan] e mi sono allenato a casa."
 
 # game/UpdateScript0.07.rpy:9316
 translate italian newclasslecture_787bad84:
 
     # RT "{i}Have we?...{/i}"
+    RT "{i}Abbiamo noi?...{/i}"
 
 # game/UpdateScript0.07.rpy:9317
 translate italian newclasslecture_cb1f392c:
 
     # RT "{i}I guess we must have.{/i}"
+    RT "{i}immagino che dobbiamo avere.{/i}"
 
 # game/UpdateScript0.07.rpy:9318
 translate italian newclasslecture_9d697b92:
 
     # M "Alright class, now watch very closely."
+    M "Alright class, ora guardi molto da vicino."
 
 # game/UpdateScript0.07.rpy:9323
 translate italian newclasslecture_0c8866aa:
 
     # M "Oh, God!..."
+    M "Oh, Dio!..."
 
 # game/UpdateScript0.07.rpy:9324
 translate italian newclasslecture_32f04f1d:
 
     # M "...Even with lots of practice... This penis just seems to split me in half!..."
+    M "...Anche con un sacco di pratica... Questo pene mi sembra solo dividere a metà!..."
 
 # game/UpdateScript0.07.rpy:9325
 translate italian newclasslecture_fce3d0e0:
 
     # M "Oh..."
+    M "Oh..."
 
 # game/UpdateScript0.07.rpy:9326
 translate italian newclasslecture_a1564201:
 
     # M "I feel... so full!..."
+    M "Mi sentisco... così pieno!..."
 
 # game/UpdateScript0.07.rpy:9327
 translate italian newclasslecture_dc76f658:
 
     # K "Look how wet you've made his cock!"
+    K "Guardate quanto bagnato avete fatto il suo cazzo!"
 
 # game/UpdateScript0.07.rpy:9328
 translate italian newclasslecture_4e199465:
 
     # M "Mmmm... Yes!... It's just my own body... reacting to my own sexual excitement."
+    M "Mmmm... Sì!... è solo il mio corpo... reagire alla mia eccitazione sessuale."
 
 # game/UpdateScript0.07.rpy:9329
 translate italian newclasslecture_175b7bb6:
 
     # M "I'm sure you've noticed yourself getting wet... when thinking about sex."
+    M "Sono sicuro che ti sei accorto di bagnarsi... quando pensi al sesso."
 
 # game/UpdateScript0.07.rpy:9330
 translate italian newclasslecture_b56fd1ff:
 
     # K "So, that's why that happens."
+    K "Quindi, ecco perché succede."
 
 # game/UpdateScript0.07.rpy:9331
 translate italian newclasslecture_b061c273:
 
     # L "Your pussy is just gripping his cock!... It looks like part of it's coming out!"
+    L "La tua figa sta solo afferrando il suo cazzo!... Sembra che parte di esso stia uscendo!"
 
 # game/UpdateScript0.07.rpy:9332
 translate italian newclasslecture_ba580946:
 
     # M "Unnnggg... His cock is so big, it's trying to turn my pussy inside out!"
+    M "Unnngggg... Il suo cazzo è così grande, sta cercando di trasformare la mia figa dentro fuori!"
 
 # game/UpdateScript0.07.rpy:9333
 translate italian newclasslecture_614b0abe:
 
     # K "Wow!"
+    K "Wow!"
 
 # game/UpdateScript0.07.rpy:9334
 translate italian newclasslecture_459be862:
 
     # R "Oh, fuck! I think I'm about to cum!"
+    R "Oh, cazzo! Penso che sto per cum!"
 
 # game/UpdateScript0.07.rpy:9335
 translate italian newclasslecture_7864f904:
 
     # M "[ryan]! Please watch your language!"
+    M "[ryan]! Guarda la tua lingua!"
 
 # game/UpdateScript0.07.rpy:9336
 translate italian newclasslecture_05adf506:
 
     # R "Sorry Miss [mom_name]"
+    R "Scusa signorina [mom_name]"
 
 # game/UpdateScript0.07.rpy:9337
 translate italian newclasslecture_906077c5:
 
     # M "Thank you. Now, why don't you just go ahead and cum inside my pussy."
+    M "Grazie. Ora, perché non andate avanti e sborrate dentro la mia figa."
 
 # game/UpdateScript0.07.rpy:9338
 translate italian newclasslecture_6b661f48:
 
     # L "What?... But what if I gets you pregnant?"
+    L "Cosa?... Ma cosa succede se ti incinto?"
 
 # game/UpdateScript0.07.rpy:9339
 translate italian newclasslecture_a01d85ab:
 
     # M "Wouldn't that be great!... It would be such a fun anatomy class project to watch [ryan]'s little baby grow inside of me."
+    M "Non sarebbe fantastico!... sarebbe un progetto di classe di anatomia così divertente per vedere il bambino di [ryan] crescere dentro di me."
 
 # game/UpdateScript0.07.rpy:9340
 translate italian newclasslecture_4665f26c:
 
     # K "Yeah, and your boobs would get bigger."
+    K "Sì, e le vostre tette sarebbero diventate più grandi."
 
 # game/UpdateScript0.07.rpy:9341
 translate italian newclasslecture_850562c0:
 
     # M "Yes, among other things."
+    M "Sì, tra le altre."
 
 # game/UpdateScript0.07.rpy:9342
 translate italian newclasslecture_62651401:
 
     # M "So, [ryan]... Why don't you go ahead and see if you can get your own mom pregnant."
+    M "Così, [ryan]... Perché non andare avanti e vedere se si può ottenere la vostra mamma incinta."
 
 # game/UpdateScript0.07.rpy:9344
 translate italian newclasslecture_a3753abf:
 
     # R "Oh, God!..."
+    R "Oh, Dio!..."
 
 # game/UpdateScript0.07.rpy:9352
 translate italian newclasslecture_834f49ba:
 
     # M "Oh, my God!... He's filling up my womb!"
+    M "Oh, mio Dio!... Sta riempiendo il mio grembo!"
 
 # game/UpdateScript0.07.rpy:9353
 translate italian newclasslecture_02b36828:
 
     # M "It can't hold any more!"
+    M "Non può contenere più!"
 
 # game/UpdateScript0.07.rpy:9355
 translate italian newclasslecture_4cf1f3f4:
 
     # K "Wow! It's just shooting out the sides!"
+    K "Wow! Sta appena sparando fuori i lati!"
 
 # game/UpdateScript0.07.rpy:9356
 translate italian newclasslecture_affe88f9:
 
     # L "This is so hot!"
+    L "Questo è così hot!"
 
 # game/UpdateScript0.07.rpy:9357
 translate italian newclasslecture_59f9fdf7:
 
     # L "Uhhh... and educational."
+    L "Uhhh... e istruttivo."
 
 # game/UpdateScript0.07.rpy:9358
 translate italian newclasslecture_972b741d:
 
     # RT "{i}This is the best day of class ever!{/i}"
+    RT "{i}Questo è il giorno migliore di classe di sempre!{/i}"
 
 # game/UpdateScript0.07.rpy:9359
 translate italian newclasslecture_c40e6ce9:
 
     # RT "{i}Why can't every anatomy class be this awesome?{/i}"
+    RT "{i}Perché ogni classe di anatomia non può essere così impressionante?{/i}"
 
 # game/UpdateScript0.07.rpy:9360
 translate italian newclasslecture_17e3aae0:
@@ -21998,16 +23112,19 @@ translate italian newclasslecture_17e3aae0:
 translate italian newclasslecture_fdb5e04d:
 
     # RT "{i}Wait!{/i}"
+    RT "{i}Aspetta!{/i}"
 
 # game/UpdateScript0.07.rpy:9362
 translate italian newclasslecture_b84210c1:
 
     # RT "{i}I haven't taken anatomy since my Junior year!{/i}"
+    RT "{i}Non ho preso l'anatomia dal mio anno junior!{/i}"
 
 # game/UpdateScript0.07.rpy:9363
 translate italian newclasslecture_02a421b8:
 
     # RT "{i}That means this is just a....{/i}"
+    RT "{i}Ciò significa che questo è solo un....{/i}"
 
 # game/UpdateScript0.07.rpy:9380
 translate italian newclasslecture_37ce8e08:
@@ -22019,41 +23136,49 @@ translate italian newclasslecture_37ce8e08:
 translate italian newclasslecture_b6e9ec5b:
 
     # RT "{i}I jizzed my pants!{/i}"
+    RT "{i}Ho saltato i miei pantaloni!{/i}"
 
 # game/UpdateScript0.07.rpy:9382
 translate italian newclasslecture_0a36d465:
 
     # RT "{i}I hope it doesn't soak through my underwear.{/i}"
+    RT "{i}Spero che non si immerga nella mia biancheria intima.{/i}"
 
 # game/UpdateScript0.07.rpy:9383
 translate italian newclasslecture_85c5fb51:
 
     # RT "{i}I'd better go take care of this!{/i}"
+    RT "{i}Farei meglio a prendermi cura di questo!{/i}"
 
 # game/UpdateScript0.07.rpy:9384
 translate italian newclasslecture_83de2524:
 
     # R "Mom?... I mean, Miss [mom_name]?"
+    R "Mamma?... Voglio dire, signorina [mom_name]?"
 
 # game/UpdateScript0.07.rpy:9385
 translate italian newclasslecture_9de766c8:
 
     # R "Can I be excused to use the bathroom?"
+    R "Posso essere scusato per utilizzare il bagno?"
 
 # game/UpdateScript0.07.rpy:9386
 translate italian newclasslecture_628a2200:
 
     # M "Fine... Class will be over in a few minutes anyways."
+    M "Fine... la lezione sarà finita in pochi minuti comunque."
 
 # game/UpdateScript0.07.rpy:9391
 translate italian newclasslecture_c3790150:
 
     # RT "{i}Dammit! I guess I'll just throw these underwear in the trash.{/i}"
+    RT "{i}Dammit! Immagino che lancerò questi biancheria intima nel cestino.{/i}"
 
 # game/UpdateScript0.07.rpy:9392
 translate italian newclasslecture_7375e7f4:
 
     # RT "{i}Looks like I get to go commando for the rest of the day.{/i}"
+    RT "{i}Sembra che io vada a commando per il resto della giornata.{/i}"
 
 # game/UpdateScript0.07.rpy:9401
 translate italian newclasslecture_f8055650_1:
@@ -22071,216 +23196,259 @@ translate italian newclasslecture_9040f0a8_1:
 translate italian newclasslecture_f94a78ef_1:
 
     # M "[ryan]!... Please pay attention!"
+    M "[ryan]!... Ti preghiamo di prestare attenzione!"
 
 # game/UpdateScript0.07.rpy:9410
 translate italian newclasslecture_ebaae931_1:
 
     # M "Am I boring you too much, [ryan]?"
+    M "Sono troppo noioso, [ryan]?"
 
 # game/UpdateScript0.07.rpy:9411
 translate italian newclasslecture_acccc2d0_1:
 
     # M "Maybe you'd pay better attention if we move on to a different subject?"
+    M "Forse dovresti prestare maggiore attenzione se passassimo a un argomento diverso?"
 
 # game/UpdateScript0.07.rpy:9412
 translate italian newclasslecture_48e1d1dc:
 
     # RT "{i}She's wearing that outfit again... From... I don't remember when right now...{/i}"
+    RT "{i}Lei sta indossando quel vestito di nuovo... Da... Non ricordo quando adesso...{/i}"
 
 # game/UpdateScript0.07.rpy:9413
 translate italian newclasslecture_964c0279_1:
 
     # M "Let's change subjects to anatomy."
+    M "Cambia soggetti in anatomia."
 
 # game/UpdateScript0.07.rpy:9414
 translate italian newclasslecture_49fc1f2c:
 
     # M "[ryan]?... Would you like to be my helper again?"
+    M "[ryan]?... Vuoi essere di nuovo il mio aiutante?"
 
 # game/UpdateScript0.07.rpy:9415
 translate italian newclasslecture_9a1899e6:
 
     # R "Again?... Has this happened before?"
+    R "Di nuovo?... Questo è successo prima?"
 
 # game/UpdateScript0.07.rpy:9416
 translate italian newclasslecture_c60207e7_1:
 
     # M "Please come up here and take a seat."
+    M "Per favore vieni qui e prendi un posto."
 
 # game/UpdateScript0.07.rpy:9417
 translate italian newclasslecture_8cfe51f4_1:
 
     # R "You mean on the floor?"
+    R "Vuoi dire a terra?"
 
 # game/UpdateScript0.07.rpy:9418
 translate italian newclasslecture_3ecd8990_1:
 
     # M "No, silly."
+    M "No, stupido."
 
 # game/UpdateScript0.07.rpy:9421
 translate italian newclasslecture_35f71bd1_1:
 
     # M "In this chair."
+    M "In questa sede."
 
 # game/UpdateScript0.07.rpy:9422
 translate italian newclasslecture_fd42e94d_1:
 
     # M "And why don't you leave your pants and underwear at your desk. You won't need them."
+    M "E perché non lasci i pantaloni e la biancheria intima alla scrivania. Non ne avrai bisogno."
 
 # game/UpdateScript0.07.rpy:9423
 translate italian newclasslecture_27d16e76_1:
 
     # RT "{i}Ok... Seems like a perfectly normal request.{/i}"
+    RT "{i}Ok... Sembra come una richiesta perfettamente normale.{/i}"
 
 # game/UpdateScript0.07.rpy:9426
 translate italian newclasslecture_69e19ece:
 
     # M "Alright, class. Let's pick up from where we left off."
+    M "Va bene, lezione. Prendiamo da dove ci siamo lasciati."
 
 # game/UpdateScript0.07.rpy:9427
 translate italian newclasslecture_7b4df0f8:
 
     # K "Weren't we talking about intercourse and impregnation?"
+    K "Non stavamo parlando di rapporti sessuali e di impregnazione?"
 
 # game/UpdateScript0.07.rpy:9428
 translate italian newclasslecture_e31842af:
 
     # M "I believe you're right. Let's jump right into the demonstration."
+    M "Credo che tu abbia ragione. Saltiamo a destra nella manifestazione."
 
 # game/UpdateScript0.07.rpy:9429
 translate italian newclasslecture_8a926cc4:
 
     # M "If anyone wishes to get a better look, please come up to the front of the room."
+    M "Se qualcuno desidera avere un aspetto migliore, si prega di salire sulla parte anteriore della stanza."
 
 # game/UpdateScript0.07.rpy:9432
 translate italian newclasslecture_1e10d439:
 
     # M "Alright, [ryan]. I want you to see if you can last longer this time."
+    M "Va bene, [ryan]. Voglio che tu possa vedere se puoi durare più a lungo questa volta."
 
 # game/UpdateScript0.07.rpy:9433
 translate italian newclasslecture_c7f3123c:
 
     # M "The more aroused I get, the higher the chance that I'll get pregnant."
+    M "Il più suscitato che ottengo, maggiore è la probabilità che rimango incinta."
 
 # game/UpdateScript0.07.rpy:9434
 translate italian newclasslecture_9fc20e43:
 
     # R "You want me to get you pregnant?"
+    R "Vuoi che ti incinta?"
 
 # game/UpdateScript0.07.rpy:9435
 translate italian newclasslecture_7d41a050:
 
     # M "Yes, silly. You know... So we can watch all the stages of pregnancy in our anatomy class."
+    M "Sì, sciocco. Sai... Quindi possiamo guardare tutte le fasi della gravidanza nella nostra classe di anatomia."
 
 # game/UpdateScript0.07.rpy:9436
 translate italian newclasslecture_b26972cf:
 
     # R "Oh, right... That makes sense."
+    R "Oh, giusto... Ha senso."
 
 # game/UpdateScript0.07.rpy:9441
 translate italian newclasslecture_0c8866aa_1:
 
     # M "Oh, God!..."
+    M "Oh, Dio!..."
 
 # game/UpdateScript0.07.rpy:9442
 translate italian newclasslecture_03d417fd:
 
     # M "...Even still... This penis just seems to split me in half!..."
+    M "...Ancora ancora... Questo pene mi sembra solo dividere a metà!..."
 
 # game/UpdateScript0.07.rpy:9443
 translate italian newclasslecture_fce3d0e0_1:
 
     # M "Oh..."
+    M "Oh..."
 
 # game/UpdateScript0.07.rpy:9444
 translate italian newclasslecture_a1564201_1:
 
     # M "I feel... so full!..."
+    M "Mi sentisco... così pieno!..."
 
 # game/UpdateScript0.07.rpy:9445
 translate italian newclasslecture_dc76f658_1:
 
     # K "Look how wet you've made his cock!"
+    K "Guardate quanto bagnato avete fatto il suo cazzo!"
 
 # game/UpdateScript0.07.rpy:9446
 translate italian newclasslecture_c97d2e53:
 
     # M "Mmmm... Yes!... I'm getting quite turned on."
+    M "Mmmm... Sì!... mi accendo molto."
 
 # game/UpdateScript0.07.rpy:9447
 translate italian newclasslecture_614b0abe_1:
 
     # K "Wow!"
+    K "Wow!"
 
 # game/UpdateScript0.07.rpy:9448
 translate italian newclasslecture_459be862_1:
 
     # R "Oh, fuck! I think I'm about to cum!"
+    R "Oh, cazzo! Penso che sto per cum!"
 
 # game/UpdateScript0.07.rpy:9449
 translate italian newclasslecture_7864f904_1:
 
     # M "[ryan]! Please watch your language!"
+    M "[ryan]! Guarda la tua lingua!"
 
 # game/UpdateScript0.07.rpy:9450
 translate italian newclasslecture_ae0b10fb:
 
     # R "Sorry, Miss [mom_name]"
+    R "Scusate, Miss [mom_name]"
 
 # game/UpdateScript0.07.rpy:9451
 translate italian newclasslecture_906077c5_1:
 
     # M "Thank you. Now, why don't you just go ahead and cum inside my pussy."
+    M "Grazie. Ora, perché non andate avanti e sborrate dentro la mia figa."
 
 # game/UpdateScript0.07.rpy:9452
 translate italian newclasslecture_63dc4411:
 
     # R "You're sure?"
+    R "Sei sicuro?"
 
 # game/UpdateScript0.07.rpy:9453
 translate italian newclasslecture_6f72dddd:
 
     # M "Of course!"
+    M "Certo!"
 
 # game/UpdateScript0.07.rpy:9454
 translate italian newclasslecture_8ee78797:
 
     # M "Now, be a good son and do what I say."
+    M "Ora sii un buon figlio e fai quello che dico."
 
 # game/UpdateScript0.07.rpy:9456
 translate italian newclasslecture_a3753abf_1:
 
     # R "Oh, God!..."
+    R "Oh, Dio!..."
 
 # game/UpdateScript0.07.rpy:9464
 translate italian newclasslecture_834f49ba_1:
 
     # M "Oh, my God!... He's filling up my womb!"
+    M "Oh, mio Dio!... Sta riempiendo il mio grembo!"
 
 # game/UpdateScript0.07.rpy:9465
 translate italian newclasslecture_fa568f82:
 
     # M "This one should knock me up for sure!"
+    M "Questo mi dovrebbe battere sicuramente!"
 
 # game/UpdateScript0.07.rpy:9467
 translate italian newclasslecture_4cf1f3f4_1:
 
     # K "Wow! It's just shooting out the sides!"
+    K "Wow! Sta appena sparando fuori i lati!"
 
 # game/UpdateScript0.07.rpy:9468
 translate italian newclasslecture_affe88f9_1:
 
     # L "This is so hot!"
+    L "Questo è così hot!"
 
 # game/UpdateScript0.07.rpy:9469
 translate italian newclasslecture_59f9fdf7_1:
 
     # L "Uhhh... and educational."
+    L "Uhhh... e istruttivo."
 
 # game/UpdateScript0.07.rpy:9470
 translate italian newclasslecture_00c83afd:
 
     # RT "{i}God! I love this anatomy class!{/i}"
+    RT "{i}Dio! Mi piace questa classe di anatomia!{/i}"
 
 # game/UpdateScript0.07.rpy:9471
 translate italian newclasslecture_17e3aae0_1:
@@ -22292,16 +23460,19 @@ translate italian newclasslecture_17e3aae0_1:
 translate italian newclasslecture_fdb5e04d_1:
 
     # RT "{i}Wait!{/i}"
+    RT "{i}Aspetta!{/i}"
 
 # game/UpdateScript0.07.rpy:9473
 translate italian newclasslecture_b84210c1_1:
 
     # RT "{i}I haven't taken anatomy since my Junior year!{/i}"
+    RT "{i}Non ho preso l'anatomia dal mio anno junior!{/i}"
 
 # game/UpdateScript0.07.rpy:9474
 translate italian newclasslecture_02a421b8_1:
 
     # RT "{i}That means this is just a....{/i}"
+    RT "{i}Ciò significa che questo è solo un....{/i}"
 
 # game/UpdateScript0.07.rpy:9491
 translate italian newclasslecture_37ce8e08_1:
@@ -22313,51 +23484,61 @@ translate italian newclasslecture_37ce8e08_1:
 translate italian newclasslecture_cc16044d:
 
     # RT "{i}Not again!{/i}"
+    RT "{i}Non di nuovo!{/i}"
 
 # game/UpdateScript0.07.rpy:9493
 translate italian newclasslecture_62f5c78f:
 
     # RT "{i}I fucking jizzed my pants again?!{/i}"
+    RT "{i}Ho scopato di nuovo i miei pantaloni?!{/i}"
 
 # game/UpdateScript0.07.rpy:9494
 translate italian newclasslecture_0a36d465_1:
 
     # RT "{i}I hope it doesn't soak through my underwear.{/i}"
+    RT "{i}Spero che non si immerga nella mia biancheria intima.{/i}"
 
 # game/UpdateScript0.07.rpy:9495
 translate italian newclasslecture_85c5fb51_1:
 
     # RT "{i}I'd better go take care of this!{/i}"
+    RT "{i}Farei meglio a prendermi cura di questo!{/i}"
 
 # game/UpdateScript0.07.rpy:9496
 translate italian newclasslecture_83de2524_1:
 
     # R "Mom?... I mean, Miss [mom_name]?"
+    R "Mamma?... Voglio dire, signorina [mom_name]?"
 
 # game/UpdateScript0.07.rpy:9497
 translate italian newclasslecture_9de766c8_1:
 
     # R "Can I be excused to use the bathroom?"
+    R "Posso essere scusato per utilizzare il bagno?"
 
 # game/UpdateScript0.07.rpy:9498
 translate italian newclasslecture_0e253b78:
 
     # M "Again?... Fine... Class will be over in a few minutes anyways."
+    M "Ancora?... Cina... la classe sarà finita in qualche minuto comunque."
 
 # game/UpdateScript0.07.rpy:9503
 translate italian newclasslecture_41796d4e:
 
     # RT "{i}Dammit! I can't just keep throwing away my underwear.{/i}"
+    RT "{i}Dammit! Non posso continuare a buttare via la mia biancheria intima. {/i}"
 
 # game/UpdateScript0.07.rpy:9504
 translate italian newclasslecture_2fca4007:
 
     # RT "{i}I better just go put them in my locker till the end of the day.{/i}"
+    RT "{i}Meglio andare a metterli nel mio armadietto fino alla fine della giornata.{/i}"
 
 # game/UpdateScript0.07.rpy:9505
 translate italian newclasslecture_c18c16c9:
 
     # RT "{i}Looks like I get to go commando again.{/i}"
+    RT "{i}Sembra che io vada di nuovo il comando.{/i}"
 
 # game/UpdateScript0.07.rpy:9511
 translate italian newclasslecture_f8055650_2:
@@ -22375,16 +23556,19 @@ translate italian newclasslecture_9040f0a8_2:
 translate italian newclasslecture_f94a78ef_2:
 
     # M "[ryan]!... Please pay attention!"
+    M "[ryan]!... Ti preghiamo di prestare attenzione!"
 
 # game/UpdateScript0.07.rpy:9520
 translate italian newclasslecture_170fdfa8:
 
     # RT "{i}Oh... She's teaching class in her underwear again?{/i}"
+    RT "{i}Oh... sta insegnando di nuovo la lezione nella sua biancheria intima?{/i}"
 
 # game/UpdateScript0.07.rpy:9523
 translate italian newclasslecture_f93fa525:
 
     # RT "{i}I mean... with an ass like that... It'd be a crime not to.{/i}"
+    RT "{i}Intendo dire... con un culo così... Sarebbe un crimine non per.{/i}"
 
 # game/UpdateScript0.07.rpy:9526
 translate italian newclasslecture_63fb4718:
@@ -22396,26 +23580,31 @@ translate italian newclasslecture_63fb4718:
 translate italian newclasslecture_fa89b623:
 
     # M "Lauren? How far along are you on your Oedipus project?"
+    M "Lauren? Quanto sei lungo il tuo progetto Edipo?"
 
 # game/UpdateScript0.07.rpy:9530
 translate italian newclasslecture_37bd2835:
 
     # L "Uhhh... I just need to finish my final draft of the report and then I'll be done."
+    L "Uhhh... Ho solo bisogno di finire la mia bozza finale del rapporto e poi sarò fatto."
 
 # game/UpdateScript0.07.rpy:9531
 translate italian newclasslecture_9dcf9db8:
 
     # M "Wow! You're way ahead of the rest of the class."
+    M "Wow! Sei molto prima del resto della classe."
 
 # game/UpdateScript0.07.rpy:9532
 translate italian newclasslecture_4cdd1b8f:
 
     # RT "{i}That's not like Lauren.{/i}"
+    RT "{i}Questo non è come Lauren.{/i}"
 
 # game/UpdateScript0.07.rpy:9533
 translate italian newclasslecture_28e3cf4f:
 
     # M "You get a reward for your hard work."
+    M "Ricevi una ricompensa per il tuo duro lavoro."
 
 # game/UpdateScript0.07.rpy:9534
 translate italian newclasslecture_404e4655:
@@ -22427,26 +23616,31 @@ translate italian newclasslecture_404e4655:
 translate italian newclasslecture_909470b3:
 
     # RT "{i}God, that's hot!{/i}"
+    RT "{i}Dio, è caldo!{/i}"
 
 # game/UpdateScript0.07.rpy:9553
 translate italian newclasslecture_f7aa6ee0:
 
     # RT "{i}I might as well enjoy myself too.{/i}"
+    RT "{i}Potrei anche divertirmi anche.{/i}"
 
 # game/UpdateScript0.07.rpy:9566
 translate italian newclasslecture_5c53d4b1:
 
     # RT "{i}God, that felt good!{/i}"
+    RT "{i}Dio, che si è sentito bene!{/i}"
 
 # game/UpdateScript0.07.rpy:9567
 translate italian newclasslecture_ac44609c:
 
     # RT "{i}But why does Mom only let Lauren finger her... I want to...{/i}"
+    RT "{i}Ma perché Mamma lascia solo Lauren dito lei... Voglio dare...{/i}"
 
 # game/UpdateScript0.07.rpy:9568
 translate italian newclasslecture_8118ae8f:
 
     # RT "{i}Wait!... Mom doesn't let Lauren finger her!{/i}"
+    RT "{i}Aspetta!... La mamma non lascia che Lauren la dito si!{/i}"
 
 # game/UpdateScript0.07.rpy:9586
 translate italian newclasslecture_37ce8e08_2:
@@ -22458,51 +23652,61 @@ translate italian newclasslecture_37ce8e08_2:
 translate italian newclasslecture_cc16044d_1:
 
     # RT "{i}Not again!{/i}"
+    RT "{i}Non di nuovo!{/i}"
 
 # game/UpdateScript0.07.rpy:9588
 translate italian newclasslecture_62f5c78f_1:
 
     # RT "{i}I fucking jizzed my pants again?!{/i}"
+    RT "{i}Ho scopato di nuovo i miei pantaloni?!{/i}"
 
 # game/UpdateScript0.07.rpy:9589
 translate italian newclasslecture_0a36d465_2:
 
     # RT "{i}I hope it doesn't soak through my underwear.{/i}"
+    RT "{i}Spero che non si immerga nella mia biancheria intima.{/i}"
 
 # game/UpdateScript0.07.rpy:9590
 translate italian newclasslecture_85c5fb51_2:
 
     # RT "{i}I'd better go take care of this!{/i}"
+    RT "{i}Farei meglio a prendermi cura di questo!{/i}"
 
 # game/UpdateScript0.07.rpy:9591
 translate italian newclasslecture_83de2524_2:
 
     # R "Mom?... I mean, Miss [mom_name]?"
+    R "Mamma?... Voglio dire, signorina [mom_name]?"
 
 # game/UpdateScript0.07.rpy:9592
 translate italian newclasslecture_9de766c8_2:
 
     # R "Can I be excused to use the bathroom?"
+    R "Posso essere scusato per utilizzare il bagno?"
 
 # game/UpdateScript0.07.rpy:9593
 translate italian newclasslecture_0e253b78_1:
 
     # M "Again?... Fine... Class will be over in a few minutes anyways."
+    M "Ancora?... Cina... la classe sarà finita in qualche minuto comunque."
 
 # game/UpdateScript0.07.rpy:9598
 translate italian newclasslecture_41796d4e_1:
 
     # RT "{i}Dammit! I can't just keep throwing away my underwear.{/i}"
+    RT "{i}Dammit! Non posso continuare a buttare via la mia biancheria intima. {/i}"
 
 # game/UpdateScript0.07.rpy:9599
 translate italian newclasslecture_2fca4007_1:
 
     # RT "{i}I better just go put them in my locker till the end of the day.{/i}"
+    RT "{i}Meglio andare a metterli nel mio armadietto fino alla fine della giornata.{/i}"
 
 # game/UpdateScript0.07.rpy:9600
 translate italian newclasslecture_c18c16c9_1:
 
     # RT "{i}Looks like I get to go commando again.{/i}"
+    RT "{i}Sembra che io vada di nuovo il comando.{/i}"
 
 # game/UpdateScript0.07.rpy:9620
 translate italian newclasslecture_37ce8e08_3:
@@ -22520,191 +23724,229 @@ translate italian newclasslecture_5bd81822:
 translate italian newclasslecture_88598106:
 
     # RT "{i}I jizzed in my pants again?!{/i}"
+    RT "{i}Ho saltato di nuovo tra i miei pantaloni?!{/i}"
 
 # game/UpdateScript0.07.rpy:9623
 translate italian newclasslecture_44de3306:
 
     # RT "{i}Goddammit!... I don't even get the satisfaction of remembering my dream!{/i}"
+    RT "{i}Goddammit!... Non ottengo nemmeno la soddisfazione di ricordare il mio sogno!{/i}"
 
 # game/UpdateScript0.07.rpy:9624
 translate italian newclasslecture_85c5fb51_3:
 
     # RT "{i}I'd better go take care of this!{/i}"
+    RT "{i}Farei meglio a prendermi cura di questo!{/i}"
 
 # game/UpdateScript0.07.rpy:9625
 translate italian newclasslecture_83de2524_3:
 
     # R "Mom?... I mean, Miss [mom_name]?"
+    R "Mamma?... Voglio dire, signorina [mom_name]?"
 
 # game/UpdateScript0.07.rpy:9626
 translate italian newclasslecture_9de766c8_3:
 
     # R "Can I be excused to use the bathroom?"
+    R "Posso essere scusato per utilizzare il bagno?"
 
 # game/UpdateScript0.07.rpy:9627
 translate italian newclasslecture_0e253b78_2:
 
     # M "Again?... Fine... Class will be over in a few minutes anyways."
+    M "Ancora?... Cina... la classe sarà finita in qualche minuto comunque."
 
 # game/UpdateScript0.07.rpy:9632
 translate italian newclasslecture_41796d4e_2:
 
     # RT "{i}Dammit! I can't just keep throwing away my underwear.{/i}"
+    RT "{i}Dammit! Non posso continuare a buttare via la mia biancheria intima. {/i}"
 
 # game/UpdateScript0.07.rpy:9633
 translate italian newclasslecture_5aed8551:
 
     # RT "{i}I'll just put them in my locker till the end of the day.{/i}"
+    RT "{i}Le metterò nel mio armadietto fino alla fine della giornata.{/i}"
 
 # game/UpdateScript0.07.rpy:9634
 translate italian newclasslecture_c18c16c9_2:
 
     # RT "{i}Looks like I get to go commando again.{/i}"
+    RT "{i}Sembra che io vada di nuovo il comando.{/i}"
 
 # game/UpdateScript0.07.rpy:9645
 translate italian election_announcement_ca3c361f:
 
     # M "Don't forget to cite your sources on the final draft of your paper."
+    M "Non dimenticare di citare le tue fonti nella bozza finale del tuo documento."
 
 # game/UpdateScript0.07.rpy:9646
 translate italian election_announcement_741ef716:
 
     # R "What if a few of your sources are computer games?"
+    R "E se alcune delle tue sorgenti fossero giochi per computer?"
 
 # game/UpdateScript0.07.rpy:9647
 translate italian election_announcement_8bd5204e:
 
     # R "How do I cite that as a source?"
+    R "Come posso citarlo come fonte?"
 
 # game/UpdateScript0.07.rpy:9648
 translate italian election_announcement_c0bef397:
 
     # M "Just follow the MLA format template, and if you have any questions about how to do that, come see me in my office."
+    M "Basta seguire il modello di formato MLA, e se avete domande su come farlo, venite a vedermi nel mio ufficio."
 
 # game/UpdateScript0.07.rpy:9649
 translate italian election_announcement_733bea75:
 
     # RT "{i}Is she inviting me now?{/i}"
+    RT "{i}Mi sta invitando ora? {/i}"
 
 # game/UpdateScript0.07.rpy:9650
 translate italian election_announcement_5f3418e0:
 
     # K "What kind of video game would you use for an Oedipus source?"
+    K "Che tipo di videogioco useresti per una fonte Oedipus?"
 
 # game/UpdateScript0.07.rpy:9651
 translate italian election_announcement_a34acd28:
 
     # M "Don't worry about it, Kenzie. Just focus on your own paper."
+    M "Non preoccupatevi, Kenzie. Basta concentrarsi sulla propria carta."
 
 # game/UpdateScript0.07.rpy:9652
 translate italian election_announcement_f279b660:
 
     # IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+    IV "Buongiorno, studenti e insegnanti. Attiva le tue TV per gli annunci del mattino."
 
 # game/UpdateScript0.07.rpy:9659
 translate italian election_announcement_b7632dc1:
 
     # M "Alright class, everybody pay attention to the TV, please."
+    M "Buona lezione, tutti prestano attenzione alla TV, per favore."
 
 # game/UpdateScript0.07.rpy:9660
 translate italian election_announcement_f88daf1b:
 
     # PH "Good morning students of Shagtown High!"
+    PH "Buongiorno studenti di Shagtown High!"
 
 # game/UpdateScript0.07.rpy:9663
 translate italian election_announcement_ba52e8ef:
 
     # PH "As your principal, it's my honor to give you the morning announcements."
+    PH "Come vostro principale, è mio onore darvi gli annunci mattutini."
 
 # game/UpdateScript0.07.rpy:9666
 translate italian election_announcement_e3e19aba:
 
     # PH "Lunch today will be hot dogs or tacos, and as a special treat, the lunchlady is serving her specialty cream pie."
+    PH "Il pranzo di oggi sarà hot dog o tacos, e come un trattamento speciale, la signora pranzo sta servendo la sua specialità torta crema."
 
 # game/UpdateScript0.07.rpy:9667
 translate italian election_announcement_734abb14:
 
     # {i}\"class giggling\"{/i}"
+    new "{i}\"class ridacchiing\"{/i}"
 
 # game/UpdateScript0.07.rpy:9670
 translate italian election_announcement_9e2d61e9:
 
     # PH "The debate team came in second place at the regional debate competition. To quote the debate captain. \"The only reason we got second place, was because we had to defend the value of the NTR genre in popular games,\" and according to the debate coach, \"There's no winning that argument.\""
+    PH "La squadra di dibattito è arrivata al secondo posto nella competizione di dibattito regionale. \"L'unico motivo per cui abbiamo ottenuto il secondo posto è stato perché abbiamo dovuto difendere il valore del genere NTR nei giochi popolari, e secondo l'allenatore del dibattito, \"Non c'è nessuna vittoria che l'argomento.\""
 
 # game/UpdateScript0.07.rpy:9671
 translate italian election_announcement_386d1ad2:
 
     # PH "Well... I don't know what NTR is, but I'm sure you did a great job defending it... Haha... So, I hope all your lives are full of NTR."
+    PH "Bene... Non so cosa sia l'NTR, ma sono sicuro che hai fatto un ottimo lavoro a difenderlo.. Haha... Quindi, spero che tutte le tue vite siano piene di NTR."
 
 # game/UpdateScript0.07.rpy:9672
 translate italian election_announcement_734abb14_1:
 
     # {i}\"class giggling\"{/i}"
+    new "{i}\"class ridacchiing\"{/i}"
 
 # game/UpdateScript0.07.rpy:9675
 translate italian election_announcement_6ce653ea:
 
     # PH "Hhhnnngh... In more sad and serious news, the State School Board decided to remove and expel the existing student council officers despite a valiant effort from school board member Will Tylor to defend the school's right to punish our own students how we see fit."
+    PH "Hhhnnngh... In notizie più tristi e serie, il Consiglio scolastico di Stato ha deciso di rimuovere ed espellere gli attuali ufficiali del consiglio studentesco nonostante un valido sforzo da parte del membro del consiglio scolastico Will Tylor per difendere il diritto della scuola di punire i nostri studenti come vediamo adatto."
 
 # game/UpdateScript0.07.rpy:9678
 translate italian election_announcement_5a21fae9:
 
     # PH "Mmmm... Mr. Tylor tried to argue that the School Board was being sexist and wouldn't remove and expel the officers if they weren't all female. Mr. Tylor was in favor of punishing the girls by making them work extra hours in his office as personal assistants and maids."
+    PH "Mmmm... Mr. Tylor ha cercato di sostenere che il Consiglio di Scuola era sessista e non avrebbe rimosso ed espellere gli ufficiali se non fossero tutti femmina. Il signor Tylor era a favore di punire le ragazze facendole lavorare in più ore nel suo ufficio come assistenti e cameriere personali."
 
 # game/UpdateScript0.07.rpy:9679
 translate italian election_announcement_c999ebdd:
 
     # PH "The State School board decided that Mr. Tylor's proposed punishment wasn't harsh enough for the girl's actions."
+    PH "Il consiglio di amministrazione della Scuola di Stato ha deciso che la punizione proposta dal signor Tylor non era abbastanza dura per le azioni della ragazza."
 
 # game/UpdateScript0.07.rpy:9680
 translate italian election_announcement_627659a4:
 
     # PH "In case you've been living under a rock, the student council got themselves in trouble when they went to the state capital for their student body council training."
+    PH "Nel caso in cui vivessi sotto una roccia, il consiglio studentesco si è trovato nei guai quando sono andati alla capitale dello stato per la formazione del loro corpo studentesco consiglio."
 
 # game/UpdateScript0.07.rpy:9683
 translate italian election_announcement_2aac2402:
 
     # PH "During the mock United Nations portion of their retreat, the girls prostituted themselves to win influence and votes from the student delegates of the other schools in the state."
+    PH "Durante la triste parte delle Nazioni Unite del loro ritiro, le ragazze si sono prostituite per vincere l'influenza e i voti dei delegati studenteschi delle altre scuole dello Stato."
 
 # game/UpdateScript0.07.rpy:9684
 translate italian election_announcement_1ab7dd2b:
 
     # PH "To quote your former student body president, \"We were just trying to make our mock UN function like the actual UN. Why would they punish us for following the example of our own country's delegates?\""
+    PH "Per citare il tuo ex presidente del corpo studentesco, \"stavamo solo cercando di rendere la nostra funzione mock ONU come la vera ONU. Perché ci punirebbero per seguire l'esempio dei delegati del nostro paese?\""
 
 # game/UpdateScript0.07.rpy:9691
 translate italian election_announcement_1ee1b7a1:
 
     # PH "Due to the president and her officer's removal, there is now a need to replace this school's student council."
+    PH "A causa della presidente e della rimozione del suo ufficiale, c'è ora la necessità di sostituire il consiglio studentesco di questa scuola."
 
 # game/UpdateScript0.07.rpy:9692
 translate italian election_announcement_ba0f93f2:
 
     # PH "We will be taking applications for anyone who wishes to run for the offices of President, Vice President, and Secretary."
+    PH "Presenteremo domande per chiunque desideri candidarsi per gli uffici del Presidente, del Vicepresidente e del Segretario."
 
 # game/UpdateScript0.07.rpy:9695
 translate italian election_announcement_806704bc:
 
     # PH "Please bring your completed form to the main office and give it to our new secretary Miss Jessica, who I'll introduce to you very soon."
+    PH "Si prega di portare il modulo compilato all'ufficio principale e darlo alla nostra nuova segretaria Miss Jessica, che vi presenterò molto presto."
 
 # game/UpdateScript0.07.rpy:9698
 translate italian election_announcement_bba316d6:
 
     # MJ "Did you say my name? Is it time to introduce myself?"
+    MJ "Hai detto il mio nome? È il momento di presentarmi?"
 
 # game/UpdateScript0.07.rpy:9701
 translate italian election_announcement_c3d1331b:
 
     # PH "{i}(Whispering){/i} Oh, shit!..."
+    PH "{i}(Whispering){/i} Oh, merda!..."
 
 # game/UpdateScript0.07.rpy:9702
 translate italian election_announcement_9b23fc7e:
 
     # MG "Hey! She used to be my cheerleading captain when I was a freshman!"
+    MG "Ehi! Lei era il mio capitano cheerleading quando ero una fresca!"
 
 # game/UpdateScript0.07.rpy:9703
 translate italian election_announcement_25341c6b:
 
     # MG "Wait!... Oh, my God! Was she doing what I think she was doing?"
+    MG "Aspetta!... Oh, mio Dio! Stava facendo quello che penso stesse facendo?"
 
 # game/UpdateScript0.07.rpy:9704
 translate italian election_announcement_6e0b93ff:
@@ -22716,121 +23958,145 @@ translate italian election_announcement_6e0b93ff:
 translate italian election_announcement_95b09ca1:
 
     # PH "Ohh.... Haha... Hey there, Miss Jessica!... Thank you for helping me find the pencil I dropped!"
+    PH "Ohh.... Haha... Ehi, signorina Jessica!... Grazie per avermi aiutato a trovare la matita che ho lasciato!"
 
 # game/UpdateScript0.07.rpy:9710
 translate italian election_announcement_e7256888:
 
     # MJ "You don't have to be so modest, Principal Hardun, you're not quite as small as a pencil..."
+    MJ "Non devi essere così modesto, Principal Hardun, non sei così piccola come una matita..."
 
 # game/UpdateScript0.07.rpy:9711
 translate italian election_announcement_77b958e5:
 
     # PH "{i}(Angrily whispering){/i} Would you be quiet!... We're broadcasting to the entire school!"
+    PH "{i}(whispering rabbioso){/i} Saresti tranquillo!... Stiamo trasmettendo a tutta la scuola!"
 
 # game/UpdateScript0.07.rpy:9712
 translate italian election_announcement_6df3498f:
 
     # MJ "{i}(whispering){/i} Sorry..."
+    MJ "{i}(sussurre){/i} Spiacente..."
 
 # game/UpdateScript0.07.rpy:9715
 translate italian election_announcement_4afa93cf:
 
     # PH "This is Miss Jessica, whom I was going to introduce to you all at the next assembly."
+    PH "Questa è la signorina Jessica, che stavo per presentarvi tutti nella prossima assemblea."
 
 # game/UpdateScript0.07.rpy:9716
 translate italian election_announcement_6b00f640:
 
     # PH "She's the new school secretary and will also be serving as our new cheerleading coach."
+    PH "È la nuova segretaria della scuola e servirà anche come nostro nuovo allenatore cheerleader."
 
 # game/UpdateScript0.07.rpy:9717
 translate italian election_announcement_586bf81c:
 
     # MG "Nooo!"
+    MG "Nooo!"
 
 # game/UpdateScript0.07.rpy:9718
 translate italian election_announcement_d603f388:
 
     # PH "Some of you may recognize her since she graduated from our school 3 years ago."
+    PH "Alcuni di voi la riconoscono da quando si è laureata alla nostra scuola 3 anni fa."
 
 # game/UpdateScript0.07.rpy:9719
 translate italian election_announcement_c925a910:
 
     # RT "{i}I know, I jacked off multiple times to her yearbook picture after my freshman year.{/i}"
+    RT "{i}Lo so, Ho scacciato più volte alla sua foto annuario dopo il mio anno matricola.{/i}"
 
 # game/UpdateScript0.07.rpy:9720
 translate italian election_announcement_d4676515:
 
     # MG "That's bullshit! She can't be the new cheerleading coach!"
+    MG "È una stronzata! Non può essere la nuova cheerleading coach!"
 
 # game/UpdateScript0.07.rpy:9721
 translate italian election_announcement_fedeba91:
 
     # M "Settle down, Megan."
+    M "Spostarsi, Megan."
 
 # game/UpdateScript0.07.rpy:9724
 translate italian election_announcement_5ae86d08:
 
     # MJ "I'm so excited to be back at this school. It's so hard to find work in the current job market, so I'm so greateful to Principal Hardun for giving me a way to earn a position here."
+    MJ "Sono così entusiasta di tornare in questa scuola. È così difficile trovare lavoro nel mercato del lavoro attuale, così sono così grande per Principal Hardun per darmi un modo per guadagnare una posizione qui."
 
 # game/UpdateScript0.07.rpy:9725
 translate italian election_announcement_734abb14_2:
 
     # {i}\"class giggling\"{/i}"
+    new "{i}\"class ridacchiing\"{/i}"
 
 # game/UpdateScript0.07.rpy:9728
 translate italian election_announcement_bf8496bb:
 
     # PH "Ok, I think you shouldn't say anaything else..."
+    PH "Ok, penso che non dovresti dire qualcosa di diverso..."
 
 # game/UpdateScript0.07.rpy:9729
 translate italian election_announcement_9b81d85a:
 
     # MJ "But I'm only trying to..."
+    MJ "Ma sto solo provando a..."
 
 # game/UpdateScript0.07.rpy:9742
 translate italian election_announcement_e2a42c4e:
 
     # M "Well, that was weird..."
+    M "Beh, che era strano..."
 
 # game/UpdateScript0.07.rpy:9743
 translate italian election_announcement_1f35b778:
 
     # M "Ok... Let's get back to our schoolwork."
+    M "Ok... Torniamo al lavoro scolastico."
 
 # game/UpdateScript0.07.rpy:9750
 translate italian election_announcement_ee43f80b:
 
     # M "Your Oedipal presentation should last for at least 8 minutes."
+    M "La presentazione edipale dovrebbe durare per almeno 8 minuti."
 
 # game/UpdateScript0.07.rpy:9751
 translate italian election_announcement_25a47cd2:
 
     # RT "{i}Uggghhh... This is so boring.{/i}"
+    RT "{i}Uggghhh... Questo è così noioso. {/i}"
 
 # game/UpdateScript0.07.rpy:9752
 translate italian election_announcement_a91a424b:
 
     # RT "{i}I can't believe our student council was selling their bodies for influence... What I wouldn't give to have been one of the delegates from those other schools!{/i}"
+    RT "{i}Non riesco a credere che il nostro consiglio studentesco stava vendendo i loro corpi per influenza.. Quello che non darei a essere stato uno dei delegati di quelle altre scuole!{/i}"
 
 # game/UpdateScript0.07.rpy:9753
 translate italian election_announcement_e848db8a:
 
     # RT "{i}Former president Lisa is fucking hot!{/i}"
+    RT "{i}L'ex presidente Lisa sta scopando a caldo!{/i}"
 
 # game/UpdateScript0.07.rpy:9754
 translate italian election_announcement_e8fd971f:
 
     # RT "{i}Lauren hates her guts, though... She's hated her ever since she lost the election to her.{/i}"
+    RT "{i}Lauren odia le sue viscere, però... La odiava da quando le perse l'elezione.{/i}"
 
 # game/UpdateScript0.07.rpy:9755
 translate italian election_announcement_626193dc:
 
     # RT "{i}Poor Lauren... Lisa was so popular... It wasn't even close.{/i}"
+    RT "{i}Povera Lauren... Lisa era così popolare... Non era nemmeno vicino.{/i}"
 
 # game/UpdateScript0.07.rpy:9756
 translate italian election_announcement_b8159afa:
 
     # RT "{i}Hopefully she learned her lesson and wont even think about running again.{/i}"
+    RT "{i}Speriamo che abbia imparato la sua lezione e non pensa nemmeno a correre di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:9757
 translate italian election_announcement_17e3aae0:
@@ -22842,501 +24108,601 @@ translate italian election_announcement_17e3aae0:
 translate italian election_announcement_94360493:
 
     # RT "{i}Damn!, I slept through that whole lecture. I should probably go to my next class... But I'm just not in the mood.{/i}"
+    RT "{i}Dannazione!, Ho dormito tutta la lezione. Probabilmente dovrei andare alla mia prossima lezione... Ma non sono di umore.{/i}"
 
 # game/UpdateScript0.07.rpy:9772
 translate italian election_announcement_94360493_1:
 
     # RT "{i}Damn!, I slept through that whole lecture. I should probably go to my next class... But I'm just not in the mood.{/i}"
+    RT "{i}Dannazione!, Ho dormito tutta la lezione. Probabilmente dovrei andare alla mia prossima lezione... Ma non sono di umore.{/i}"
 
 # game/UpdateScript0.07.rpy:9779
 translate italian election_announcement_94360493_2:
 
     # RT "{i}Damn!, I slept through that whole lecture. I should probably go to my next class... But I'm just not in the mood.{/i}"
+    RT "{i}Dannazione!, Ho dormito tutta la lezione. Probabilmente dovrei andare alla mia prossima lezione... Ma non sono di umore.{/i}"
 
 # game/UpdateScript0.07.rpy:9790
 translate italian morning_announcements_3f83f693:
 
     # M "Okay class, let's talk more about your final projects for the Oedipal curriculum. Remember that you have to show modern applications and examples of the Oedipus tragedy in our modern society."
+    M "Okay class, parliamo di più dei tuoi progetti finali per il curriculum Oedipal. Ricordate che dovete mostrare applicazioni moderne ed esempi della tragedia dell’Edipo nella nostra società moderna."
 
 # game/UpdateScript0.07.rpy:9791
 translate italian morning_announcements_5c258675:
 
     # RT "{i}I envy Lauren. She's got presidential duties to get her out of this boring class.{/i}"
+    RT "{i}invidia Lauren. Ha i doveri presidenziali di farla uscire da questa noiosa classe.{/i}"
 
 # game/UpdateScript0.07.rpy:9792
 translate italian morning_announcements_f279b660:
 
     # IV "Good morning, students and teachers. Please turn on your TVs for the morning announcements."
+    IV "Buongiorno, studenti e insegnanti. Attiva le tue TV per gli annunci del mattino."
 
 # game/UpdateScript0.07.rpy:9802
 translate italian morning_announcements_00783680:
 
     # RT "{i}The morning announcements are much better now that Lauren gets to read them.{/i}"
+    RT "{i}Gli annunci mattutini sono molto meglio ora che Lauren li legge.{/i}"
 
 # game/UpdateScript0.07.rpy:9803
 translate italian morning_announcements_59302ba7:
 
     # RT "{i}She's a lot easier on the eyes than Principal Hardun.{/i}"
+    RT "{i}Lei è molto più facile agli occhi del Principal Hardun.{/i}"
 
 # game/UpdateScript0.07.rpy:9806
 translate italian morning_announcements_b2eb493f:
 
     # L "Good morning students of Shagtown High! Go Hornytoads!"
+    L "Buongiorno gli studenti di Shagtown High! Vai Hornytoads!"
 
 # game/UpdateScript0.07.rpy:9809
 translate italian morning_announcements_91085c49:
 
     # L "This is Lauren, coming to you live as your student body president."
+    L "Questo è Lauren, venendo a vivere come il vostro allievo presidente del corpo."
 
 # game/UpdateScript0.07.rpy:9810
 translate italian morning_announcements_9099b842:
 
     # L "I'm pleased to bring you the morning announcements."
+    L "Mi fa piacere portarvi gli annunci del mattino."
 
 # game/UpdateScript0.07.rpy:9815
 translate italian morning_announcements_4f510b25:
 
     # L "Today in Hornytoads sports."
+    L "Oggi nello sport di Hornytoads."
 
 # game/UpdateScript0.07.rpy:9818
 translate italian morning_announcements_3e8d757b:
 
     # L "It looks like the shirts continued their domination over the skins in Mr. Hill's PE class yesterday."
+    L "Sembra che le camicie abbiano continuato il loro dominio sulle pelli nella classe PE di Mr. Hill."
 
 # game/UpdateScript0.07.rpy:9819
 translate italian morning_announcements_22418a99:
 
     # L "And on Friday, our varsity soccer team will be competing for the \"Biggest Balls Cup\" Against our rivals, the Bonerville Beavers"
+    L "E venerdì, la nostra squadra di calcio varsity si disputerà per la \"più grande Balls Cup\" contro i nostri rivali, i Beavers Bonerville"
 
 # game/UpdateScript0.07.rpy:9822
 translate italian morning_announcements_d8ff7fdb:
 
     # L "I'd like to personally encourage you all to attend the game and show your support"
+    L "Vorrei incoraggiarvi personalmente a partecipare al gioco e mostrare il vostro supporto"
 
 # game/UpdateScript0.07.rpy:9824
 translate italian morning_announcements_ad5ae717:
 
     # L "I know I enjoy watching those hunky athletes so deftly handling their balls."
+    L "So che mi piace guardare quegli atleti così abili che maneggiano le loro palle."
 
 # game/UpdateScript0.07.rpy:9827
 translate italian morning_announcements_ea2c585a:
 
     # L "It looks like we've got a few options for lunch today."
+    L "Sembra che abbiamo alcune opzioni per il pranzo oggi."
 
 # game/UpdateScript0.07.rpy:9830
 translate italian morning_announcements_71c6a466:
 
     # L "We'll have the choice between a foot-long weiner and fish tacos."
+    L "Avremo la scelta tra un piede-lungo weiner e tacos di pesce."
 
 # game/UpdateScript0.07.rpy:9831
 translate italian morning_announcements_11f437d1:
 
     # L "I know what choice I'm going to make."
+    L "Io so che scelta farò."
 
 # game/UpdateScript0.07.rpy:9834
 translate italian morning_announcements_1f91265f:
 
     # L "I just can't resist a nice, long, plump, foot-long weiner!"
+    L "Non riesco proprio a resistere a un simpatico, lungo, paffuto e piede!"
 
 # game/UpdateScript0.07.rpy:9835
 translate italian morning_announcements_e2d70e7a:
 
     # L "MMmmmmm..."
+    L "MMmmmmm..."
 
 # game/UpdateScript0.07.rpy:9838
 translate italian morning_announcements_c7d3a52b:
 
     # L "And for the last segment of our morning announcements, I'd like to do something special."
+    L "E per l'ultimo segmento dei nostri annunci mattutini, vorrei fare qualcosa di speciale."
 
 # game/UpdateScript0.07.rpy:9840
 translate italian morning_announcements_fca65812:
 
     # L "During the election, I had some special election posters, that caused everyone in the school to refer to me as \"Cosplay Girl\"."
+    L "Durante le elezioni, ho avuto alcuni manifesti elettorali speciali, che hanno spinto tutti nella scuola a riferirmi come \"Cosplay Girl\"."
 
 # game/UpdateScript0.07.rpy:9842
 translate italian morning_announcements_76cecd07:
 
     # L "It seems the entire student body has discovered my \"Cosplay Heaven\" account, and now everyone in the school calls me \"Cosplay Girl\"."
+    L "Sembra che l'intero corpo studentesco abbia scoperto il mio account \"Cosplay Heaven\", e ora tutti nella scuola mi chiamano \"Cosplay Girl\"."
 
 # game/UpdateScript0.07.rpy:9843
 translate italian morning_announcements_1582e0f5:
 
     # L "So, as your \"Cosplay Girl\" I wanted to share some of my work with you, the students, in a special segment I call..."
+    L "Così, come la tua \"Cosplay Girl\" ho voluto condividere alcuni dei miei lavori con voi, gli studenti, in un segmento speciale che chiamo..."
 
 # game/UpdateScript0.07.rpy:9846
 translate italian morning_announcements_56763094:
 
     # L "\"Lauren's Cosplay Corner\""
+    L "\"Corner Cosplay di Lauren\""
 
 # game/UpdateScript0.07.rpy:9847
 translate italian morning_announcements_b014c99f:
 
     # L "In this segment I'd like to share a piece of my work that is extremely exclusive. Images that only members of the highest tier in my Cosplay Heaven account can access."
+    L "In questo segmento vorrei condividere un pezzo del mio lavoro che è estremamente esclusivo. Immagini che solo i membri del livello più alto nel mio account Cosplay Heaven possono accedere."
 
 # game/UpdateScript0.07.rpy:9848
 translate italian morning_announcements_7c58ada3:
 
     # L "And now, I'm allowing you, the students to get a sneak peak of those special images."
+    L "E ora, ti sto permettendo agli studenti di ottenere un picco nascosto di quelle immagini speciali."
 
 # game/UpdateScript0.07.rpy:9851
 translate italian morning_announcements_519b0426:
 
     # L "And don't worry Principal Hardun and teachers, I've kept these PG."
+    L "E non preoccuparti Principale Hardun e insegnanti, ho mantenuto questi PG."
 
 # game/UpdateScript0.07.rpy:9854
 translate italian morning_announcements_006117a0:
 
     # L "The image I want to show you today, I call \"Pew pew... Die Alien Scum!\""
+    L "L'immagine che voglio mostrarti oggi, chiamo \"Pew pew... Die Alien Scum!\""
 
 # game/UpdateScript0.07.rpy:9855
 translate italian morning_announcements_6afb0a8b:
 
     # L "It's amazing what you can do with an image on the computer to make it look like you're actually there."
+    L "È sorprendente quello che puoi fare con un'immagine sul computer per renderla simile a quella che sei in realtà."
 
 # game/UpdateScript0.07.rpy:9856
 translate italian morning_announcements_53863304:
 
     # L "Hey, Jessica... Can we do a full screen shot of this image?"
+    L "Hey, Jessica... Possiamo fare un colpo a schermo intero di questa immagine?"
 
 # game/UpdateScript0.07.rpy:9860
 translate italian morning_announcements_5a52dd6a:
 
     # L "Perfect!"
+    L "Perfetto!"
 
 # game/UpdateScript0.07.rpy:9861
 translate italian morning_announcements_32a01759:
 
     # L "The high res version of this image will soon be available to subscribers as a wallpaper for their desktops."
+    L "La versione ad alta risoluzione di questa immagine sarà presto disponibile per gli abbonati come sfondo per i loro desktop."
 
 # game/UpdateScript0.07.rpy:9862
 translate italian morning_announcements_4f6c3351:
 
     # L "So, please become a supporter!"
+    L "Quindi, per favore diventa un tifoso!"
 
 # game/UpdateScript0.07.rpy:9865
 translate italian morning_announcements_57830382:
 
     # L "And that's all for today's announcements."
+    L "E questo è tutto per gli annunci odierni."
 
 # game/UpdateScript0.07.rpy:9868
 translate italian morning_announcements_4d2d3be4:
 
     # L "I hope all you Hornytoads have a great week!"
+    L "Spero che tutti voi Hornytoads avete una bella settimana!"
 
 # game/UpdateScript0.07.rpy:9875
 translate italian morning_announcements_90ffd124:
 
     # RT "{i}Lauren did a great job!{/i}"
+    RT "{i}Lauren ha fatto un ottimo lavoro!{/i}"
 
 # game/UpdateScript0.07.rpy:9876
 translate italian morning_announcements_55a9a9e6:
 
     # RT "{i}I can't wait for next week's.{/i}"
+    RT "{i}Non vedo l'ora della prossima settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:9882
 translate italian morning_announcements_57fd324b:
 
     # M "Ok, let's get back to work."
+    M "Ok, torniamo a lavorare."
 
 # game/UpdateScript0.07.rpy:9890
 translate italian morning_announcements_4f510b25_1:
 
     # L "Today in Hornytoads sports."
+    L "Oggi nello sport di Hornytoads."
 
 # game/UpdateScript0.07.rpy:9893
 translate italian morning_announcements_30937d7f:
 
     # L "At the Bonerville invitational Cheerleading Championship, someone, most likely the Bonerville Beaver's cheerleaders, snuck into our cheerleaders' changing room while they were in the shower. The only thing that seems to have been stolen was our cheerleaders' underwear."
+    L "Al Bonerville invitazionale Cheerleading Championship, qualcuno, molto probabilmente gli cheerleaders di Bonerville Beaver, fanno un giro nello spogliatoio dei nostri cheerleaders mentre erano sotto la doccia. L'unica cosa che sembra essere stata rubata è stata la biancheria intima dei nostri cheerleader."
 
 # game/UpdateScript0.07.rpy:9894
 translate italian morning_announcements_f8242230:
 
     # L "The theft seemed to be an attempt at discouraging our girls from competing, but our girls showed great bravery and professionalism by competing, even without their panties."
+    L "Il furto sembrava essere un tentativo di scoraggiare le nostre ragazze dalla competizione, ma le nostre ragazze hanno mostrato grande coraggio e professionalità competendo, anche senza le loro mutandine."
 
 # game/UpdateScript0.07.rpy:9895
 translate italian morning_announcements_339fdd58:
 
     # L "The judges all seemed to admire their courage and gave them extra points, scoring them much higher than usual on their aerial maneuvers."
+    L "Tutti i giudici sembravano ammirare il loro coraggio e diedero loro punti in più, segnandoli molto più alti del solito sulle loro manovre aeree."
 
 # game/UpdateScript0.07.rpy:9896
 translate italian morning_announcements_022ade52:
 
     # L "So congratulations to our own Shagtown cheerleaders for bringing home the championship!"
+    L "Quindi le congratulazioni ai nostri cheerleader Shagtown per aver portato a casa il campionato!"
 
 # game/UpdateScript0.07.rpy:9899
 translate italian morning_announcements_f7960b4c:
 
     # L "I for one, don't think our cheerleaders get enough recognition for their athleticism."
+    L "Io per uno, non penso che i nostri cheerleader ottengano abbastanza riconoscimento per il loro atleticismo."
 
 # game/UpdateScript0.07.rpy:9901
 translate italian morning_announcements_5ada8250:
 
     # L "Hopefully, our own school administration can arrange an event for them to showcase their talents. If the cheerleaders are brave enough, they might even demonstrate again how they performed without their panties."
+    L "Speriamo che la nostra amministrazione scolastica possa organizzare un evento per mostrare i loro talenti. Se gli cheerleader sono abbastanza coraggiosi, potrebbero anche dimostrare di nuovo come hanno eseguito senza le loro mutandine."
 
 # game/UpdateScript0.07.rpy:9904
 translate italian morning_announcements_ea2c585a_1:
 
     # L "It looks like we've got a few options for lunch today."
+    L "Sembra che abbiamo alcune opzioni per il pranzo oggi."
 
 # game/UpdateScript0.07.rpy:9907
 translate italian morning_announcements_2395a26b:
 
     # L "On the menu are peaches and cream and corn on the cob."
+    L "Nel menù ci sono pesche e panna e mais sulla bacca."
 
 # game/UpdateScript0.07.rpy:9910
 translate italian morning_announcements_b12d4d4e:
 
     # L "For those who finish their lunches, our own lunch lady has promised to give them a taste of her very own specialty cream pie."
+    L "Per coloro che finiscono i loro pranzi, la nostra signora pranzo ha promesso di dare loro un assaggio della sua speciale torta alla panna."
 
 # game/UpdateScript0.07.rpy:9913
 translate italian morning_announcements_10f86d30:
 
     # L "Pppffftt...."
+    L "Pppffftt...."
 
 # game/UpdateScript0.07.rpy:9914
 translate italian morning_announcements_593d31fd:
 
     # L "I'm sorry!"
+    L "Mi dispiace!"
 
 # game/UpdateScript0.07.rpy:9917
 translate italian morning_announcements_58851250:
 
     # L "Hahahaha..."
+    L "Hahahaha..."
 
 # game/UpdateScript0.07.rpy:9920
 translate italian morning_announcements_72734255:
 
     # L "{i}(Inaudibly chuckling){/i}"
+    L "{i}(Inaudibly chuckling){/i}"
 
 # game/UpdateScript0.07.rpy:9923
 translate italian morning_announcements_a93e3156:
 
     # L "Ohhh... I'm sorry. Who's writing these announcements?"
+    L "Ohhh... Mi dispiace. Chi scrive questi annunci?"
 
 # game/UpdateScript0.07.rpy:9926
 translate italian morning_announcements_5a204afc:
 
     # L "My goodness!"
+    L "Mia bontà!"
 
 # game/UpdateScript0.07.rpy:9929
 translate italian morning_announcements_c7d3a52b_1:
 
     # L "And for the last segment of our morning announcements, I'd like to do something special."
+    L "E per l'ultimo segmento dei nostri annunci mattutini, vorrei fare qualcosa di speciale."
 
 # game/UpdateScript0.07.rpy:9930
 translate italian morning_announcements_fca65812_1:
 
     # L "During the election, I had some special election posters, that caused everyone in the school to refer to me as \"Cosplay Girl\"."
+    L "Durante le elezioni, ho avuto alcuni manifesti elettorali speciali, che hanno spinto tutti nella scuola a riferirmi come \"Cosplay Girl\"."
 
 # game/UpdateScript0.07.rpy:9931
 translate italian morning_announcements_1582e0f5_1:
 
     # L "So, as your \"Cosplay Girl\" I wanted to share some of my work with you, the students, in a special segment I call..."
+    L "Così, come la tua \"Cosplay Girl\" ho voluto condividere alcuni dei miei lavori con voi, gli studenti, in un segmento speciale che chiamo..."
 
 # game/UpdateScript0.07.rpy:9934
 translate italian morning_announcements_56763094_1:
 
     # L "\"Lauren's Cosplay Corner\""
+    L "\"Corner Cosplay di Lauren\""
 
 # game/UpdateScript0.07.rpy:9935
 translate italian morning_announcements_b014c99f_1:
 
     # L "In this segment I'd like to share a piece of my work that is extremely exclusive. Images that only members of the highest tier in my Cosplay Heaven account can access."
+    L "In questo segmento vorrei condividere un pezzo del mio lavoro che è estremamente esclusivo. Immagini che solo i membri del livello più alto nel mio account Cosplay Heaven possono accedere."
 
 # game/UpdateScript0.07.rpy:9936
 translate italian morning_announcements_7c58ada3_1:
 
     # L "And now, I'm allowing you, the students to get a sneak peak of those special images."
+    L "E ora, ti sto permettendo agli studenti di ottenere un picco nascosto di quelle immagini speciali."
 
 # game/UpdateScript0.07.rpy:9939
 translate italian morning_announcements_519b0426_1:
 
     # L "And don't worry Principal Hardun and teachers, I've kept these PG."
+    L "E non preoccuparti Principale Hardun e insegnanti, ho mantenuto questi PG."
 
 # game/UpdateScript0.07.rpy:9942
 translate italian morning_announcements_2d4feaf4:
 
     # L "The image I want to show you today, I call \"Dragon Goddess\"."
+    L "L'immagine che voglio mostrarvi oggi, io chiamo \"Dea del Drago\"."
 
 # game/UpdateScript0.07.rpy:9943
 translate italian morning_announcements_6afb0a8b_1:
 
     # L "It's amazing what you can do with an image on the computer to make it look like you're actually there."
+    L "È sorprendente quello che puoi fare con un'immagine sul computer per renderla simile a quella che sei in realtà."
 
 # game/UpdateScript0.07.rpy:9944
 translate italian morning_announcements_1dbf87c0:
 
     # L "Hey Jessica... Can we do a full screen shot of this image?"
+    L "Ehi Jessica... Possiamo fare un colpo a schermo intero di questa immagine?"
 
 # game/UpdateScript0.07.rpy:9948
 translate italian morning_announcements_5a52dd6a_1:
 
     # L "Perfect!"
+    L "Perfetto!"
 
 # game/UpdateScript0.07.rpy:9949
 translate italian morning_announcements_32a01759_1:
 
     # L "The high res version of this image will soon be available to subscribers as a wallpaper for their desktops."
+    L "La versione ad alta risoluzione di questa immagine sarà presto disponibile per gli abbonati come sfondo per i loro desktop."
 
 # game/UpdateScript0.07.rpy:9950
 translate italian morning_announcements_4f6c3351_1:
 
     # L "So, please become a supporter!"
+    L "Quindi, per favore diventa un tifoso!"
 
 # game/UpdateScript0.07.rpy:9953
 translate italian morning_announcements_57830382_1:
 
     # L "And that's all for today's announcements."
+    L "E questo è tutto per gli annunci odierni."
 
 # game/UpdateScript0.07.rpy:9956
 translate italian morning_announcements_4d2d3be4_1:
 
     # L "I hope all you Hornytoads have a great week!"
+    L "Spero che tutti voi Hornytoads avete una bella settimana!"
 
 # game/UpdateScript0.07.rpy:9963
 translate italian morning_announcements_90ffd124_1:
 
     # RT "{i}Lauren did a great job!{/i}"
+    RT "{i}Lauren ha fatto un ottimo lavoro!{/i}"
 
 # game/UpdateScript0.07.rpy:9964
 translate italian morning_announcements_55a9a9e6_1:
 
     # RT "{i}I can't wait for next week's.{/i}"
+    RT "{i}Non vedo l'ora della prossima settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:9970
 translate italian morning_announcements_57fd324b_1:
 
     # M "Ok, let's get back to work."
+    M "Ok, torniamo a lavorare."
 
 # game/UpdateScript0.07.rpy:10002
 translate italian talk_to_megan_92096d87:
 
     # R "Hey, girls... I hope I'm not interrupting?"
+    R "Ehi, ragazze... Spero di non interrompere?"
 
 # game/UpdateScript0.07.rpy:10003
 translate italian talk_to_megan_0f377183:
 
     # L "No... what's up, [ryan]?"
+    L "No... che cosa c'è, [ryan]?"
 
 # game/UpdateScript0.07.rpy:10004
 translate italian talk_to_megan_5946dd30:
 
     # R "Not much."
+    R "Quasi poco."
 
 # game/UpdateScript0.07.rpy:10007
 translate italian talk_to_megan_e8168090:
 
     # R "What's the latest gossip?"
+    R "Qual è l'ultimo pettegolezzo?"
 
 # game/UpdateScript0.07.rpy:10008
 translate italian talk_to_megan_c25e1df3:
 
     # L "Like we'd tell you."
+    L "Come ti avevamo detto."
 
 # game/UpdateScript0.07.rpy:10009
 translate italian talk_to_megan_635982c8:
 
     # R "Alright, alright... I can tell I'm not wanted in this conversation."
+    R "Va bene, bene... posso dire che non sono desiderato in questa conversazione."
 
 # game/UpdateScript0.07.rpy:10010
 translate italian talk_to_megan_a435d837:
 
     # R "I guess I'll just go work on some anatomy homework at home."
+    R "Immagino che andrò solo a lavorare su alcuni compiti anatomici a casa."
 
 # game/UpdateScript0.07.rpy:10013
 translate italian talk_to_megan_ab3e93a4:
 
     # LT "{i}I thought [ryan] took anatomy last year.{/i}"
+    LT "{i}Ho pensato che [ryan] abbia preso anatomia l'anno scorso.{/i}"
 
 # game/UpdateScript0.07.rpy:10014
 translate italian talk_to_megan_654152ec:
 
     # MD "Bye, [ryan]"
+    MD "Ciao, [ryan]"
 
 # game/UpdateScript0.07.rpy:10015
 translate italian talk_to_megan_6eef4f8c:
 
     # MG "See ya, [ryan], maybe we'll see you soon."
+    MG "Vedi ya, [ryan], forse ti vediamo presto."
 
 # game/UpdateScript0.07.rpy:10021
 translate italian talk_to_megan_7fc091a0:
 
     # R "Took you long enough."
+    R "Ti sei preso abbastanza a lungo."
 
 # game/UpdateScript0.07.rpy:10022
 translate italian talk_to_megan_1ffe06fc:
 
     # MG "You're the one who said not to cause suspicion."
+    MG "Sei colui che ha detto di non causare sospetti."
 
 # game/UpdateScript0.07.rpy:10025
 translate italian talk_to_megan_dc94cbe9:
 
     # R "So, is the skit still coming along well?"
+    R "Quindi, lo skit sta ancora arrivando a lungo?"
 
 # game/UpdateScript0.07.rpy:10026
 translate italian talk_to_megan_fcaef13c:
 
     # MG "Yeah, we're getting it more and more polished."
+    MG "Sì, lo stiamo ottenendo sempre più lucido."
 
 # game/UpdateScript0.07.rpy:10027
 translate italian talk_to_megan_bbb68bcd:
 
     # MG "Mandy's been really great in making all our movements synchronized."
+    MG "Mandy è stato davvero fantastico nel rendere sincronizzati tutti i nostri movimenti."
 
 # game/UpdateScript0.07.rpy:10030
 translate italian talk_to_megan_4c9530a0:
 
     # MG "Soooo... I assume this is more than just a social visit?"
+    MG "Soooo... Suppongo che questa sia più di una semplice visita sociale?"
 
 # game/UpdateScript0.07.rpy:10031
 translate italian talk_to_megan_5f58d2bb:
 
     # R "What would make you think that I don't just want to talk to you?... See how you're doing?"
+    R "Che cosa ti farebbe pensare che non voglio solo parlare con te?... Guarda come stai facendo?"
 
 # game/UpdateScript0.07.rpy:10032
 translate italian talk_to_megan_bea128ce:
 
     # MG "[ryan]! Do you want a roll, or not?"
+    MG "[ryan]! Vuoi un roll, o no?"
 
 # game/UpdateScript0.07.rpy:10035
 translate italian talk_to_megan_d164a171:
 
     # R "Well, if you really need my dick that much."
+    R "Beh, se hai veramente bisogno del mio cazzo così tanto."
 
 # game/UpdateScript0.07.rpy:10036
 translate italian talk_to_megan_dade4754:
 
     # MG "Hahaha... [ryan]!"
+    MG "Hahaha... [ryan]!"
 
 # game/UpdateScript0.07.rpy:10037
 translate italian talk_to_megan_0dc3a1c4:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10040
 translate italian talk_to_megan_85694701:
 
     # MG "That's what I like to see."
+    MG "È ciò che mi piace vedere."
 
 # game/UpdateScript0.07.rpy:10043
 translate italian talk_to_megan_e8512d5a:
 
     # MG "Now let's lose these clothes and get busy."
+    MG "Ora perdiamo questi vestiti e ci impegnate."
 
 # game/UpdateScript0.07.rpy:10044
 translate italian talk_to_megan_4d9512ed:
 
     # MG "I think I'd better lube you up first."
+    MG "Penso che farei meglio a lubrificarti prima."
 
 # game/UpdateScript0.07.rpy:10047
 translate italian talk_to_megan_02a3c4f9:
 
     # MG "I could get used to this cock."
+    MG "potrei abituarmi a questo cazzo."
 
 # game/UpdateScript0.07.rpy:10048
 translate italian talk_to_megan_4057b57c:
 
     # MG "Mmm... Let's get you ready for my pussy."
+    MG "Mmm... Ti prepariamo per la mia figa."
 
 # game/UpdateScript0.07.rpy:10052
 translate italian talk_to_megan_1b45d0a3:
@@ -23372,6 +24738,7 @@ translate italian talk_to_megan_a0f32196:
 translate italian talk_to_megan_39120070:
 
     # RT "{i}Oh, God!... I still can't believe how tight she is after fucking Matt for so many years.{/i}"
+    RT "{i}Oh, Dio!... Non riesco ancora a credere quanto sia stretta dopo aver scopato Matt per tanti anni.{/i}"
 
 # game/UpdateScript0.07.rpy:10071
 translate italian talk_to_megan_5402eb1b:
@@ -23389,6 +24756,7 @@ translate italian talk_to_megan_f9981b9b:
 translate italian talk_to_megan_3c1448ac:
 
     # MG "God, you're hitting my womb!"
+    MG "Dio, stai colpendo il mio grembo grembo!"
 
 # game/UpdateScript0.07.rpy:10076
 translate italian talk_to_megan_639d7dc8:
@@ -23412,6 +24780,7 @@ translate italian talk_to_megan_77001bc5:
 translate italian talk_to_megan_30c0235f:
 
     # MG "Ohhh... Yes... give me that baby batter!"
+    MG "Ohhh... sì... dammi quella pastella per bambini!"
 
 # game/UpdateScript0.07.rpy:10084
 translate italian talk_to_megan_c2c7ae2c:
@@ -23435,11 +24804,13 @@ translate italian talk_to_megan_43021cc5:
 translate italian talk_to_megan_5831a62f:
 
     # R "Oh fuck, Megan! You're driving me crazy!"
+    R "Oh cazzo, Megan! Mi stai facendo pazzi!"
 
 # game/UpdateScript0.07.rpy:10099
 translate italian talk_to_megan_869b3faf:
 
     # MG "Oh, my God!... My womb can't fit anymore!"
+    MG "Oh, mio Dio!... Il mio grembo non può più adattarsi più!"
 
 # game/UpdateScript0.07.rpy:10109
 translate italian talk_to_megan_c4b54c5f:
@@ -23451,36 +24822,43 @@ translate italian talk_to_megan_c4b54c5f:
 translate italian talk_to_megan_6f34071d:
 
     # {i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+    new "{i}\"[ryan]'s cum load in Megan pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10112
 translate italian talk_to_megan_17ad4074:
 
     # {i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+    new "{i}\"Carichi totali di sperma di [ryan] nella figa di Megan = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10113
 translate italian talk_to_megan_74289b2f:
 
     # MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+    MGT "{i}Fuck!... Il mio piccolo uovo fertile sta per nuotare letteralmente nello sperma!{/i}"
 
 # game/UpdateScript0.07.rpy:10114
 translate italian talk_to_megan_fc7d8356:
 
     # MGT "{i}God, I hope I've got more of those pills.{/i}"
+    MGT "{i}Dio, spero di avere più di queste pillole.{/i}"
 
 # game/UpdateScript0.07.rpy:10115
 translate italian talk_to_megan_13ee63ef:
 
     # MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
+    MGT "{i}Non posso dimenticare di correre in farmacia e ottenere qualcosa di più.{/i}"
 
 # game/UpdateScript0.07.rpy:10117
 translate italian talk_to_megan_498a55bb:
 
     # R "I'm cumming!"
+    R "Sto piombando!"
 
 # game/UpdateScript0.07.rpy:10131
 translate italian talk_to_megan_e63fa3b9:
 
     # MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
+    MG "Merda santa, [ryan]! Mi sei appena bastonato come un tacchino cazzo!"
 
 # game/UpdateScript0.07.rpy:10132
 translate italian talk_to_megan_4f66d7f1:
@@ -23492,201 +24870,241 @@ translate italian talk_to_megan_4f66d7f1:
 translate italian talk_to_megan_a6b0f3ff:
 
     # MG "How was that?"
+    MG "Com'era?"
 
 # game/UpdateScript0.07.rpy:10139
 translate italian talk_to_megan_719f167d:
 
     # R "Worth every penny."
+    R "Vale ogni centesimo."
 
 # game/UpdateScript0.07.rpy:10140
 translate italian talk_to_megan_24605c1c:
 
     # MG "Haha... That's what I like to hear."
+    MG "Haha... Ecco quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:10141
 translate italian talk_to_megan_ff64b69d:
 
     # MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+    MG "Faremmo meglio a sbrigarci e a vestirci. Sono sorpreso che nessuno sia ancora entrato."
 
 # game/UpdateScript0.07.rpy:10147
 translate italian talk_to_megan_b375b661:
 
     # MG "So, I guess I'll be seeing you around again fairly soon?"
+    MG "Quindi, immagino che ti vedrò in giro ancora presto?"
 
 # game/UpdateScript0.07.rpy:10148
 translate italian talk_to_megan_229aa192:
 
     # R "You can count on it."
+    R "Puoi contare su di essa."
 
 # game/UpdateScript0.07.rpy:10156
 translate italian talk_to_megan_5308e8ce:
 
     # R "Sorry, Megan."
+    R "Scusa, Megan."
 
 # game/UpdateScript0.07.rpy:10157
 translate italian talk_to_megan_7134184d:
 
     # R "As tempting as that sounds, I just can't spend that kind of money right now."
+    R "Per quanto allettante quanto sembra, non posso spendere quel tipo di denaro in questo momento."
 
 # game/UpdateScript0.07.rpy:10158
 translate italian talk_to_megan_08aca068:
 
     # MG "Alright, I understand."
+    MG "Va bene, capisco."
 
 # game/UpdateScript0.07.rpy:10159
 translate italian talk_to_megan_8a38dddc:
 
     # MG "I'm just not sure why you made me follow you in here again."
+    MG "Non sono solo sicuro perché mi hai fatto seguire qui di nuovo."
 
 # game/UpdateScript0.07.rpy:10160
 translate italian talk_to_megan_bedb237d:
 
     # R "You know... to make sure everything's still good with Lauren's campaign stuff."
+    R "Lo sa... per assicurarti che tutto sia ancora buono con la campagna di Lauren."
 
 # game/UpdateScript0.07.rpy:10161
 translate italian talk_to_megan_afd7fa60:
 
     # MG "Still good. Maybe you can just ask that over a text next time."
+    MG "Ancora buono. Forse la prossima volta puoi chiederlo su un testo."
 
 # game/UpdateScript0.07.rpy:10162
 translate italian talk_to_megan_d930f8d2:
 
     # MG "If you want something extra, say the code."
+    MG "Se vuoi qualcosa di extra, diciamo il codice."
 
 # game/UpdateScript0.07.rpy:10163
 translate italian talk_to_megan_cad4a5ed:
 
     # R "Ok... Sorry, I know you had your hopes up about getting fucked by my big cock."
+    R "Ok... Mi dispiace, so che hai avuto le tue speranze di farsi scopare dal mio grosso cazzo."
 
 # game/UpdateScript0.07.rpy:10164
 translate italian talk_to_megan_a9a1024d:
 
     # MG "Haha... You idiot!"
+    MG "Haha... Sei idiota!"
 
 # game/UpdateScript0.07.rpy:10165
 translate italian talk_to_megan_55c12ede:
 
     # MGT "{i}I really did.{/i}"
+    MGT "{i}Ho davvero fatto.{/i}"
 
 # game/UpdateScript0.07.rpy:10166
 translate italian talk_to_megan_869e72b8:
 
     # MG "I'm out of here. I try not to spend too much time in boys' bathrooms."
+    MG "Sono fuori di qui. Cerco di non passare troppo tempo nei bagni dei ragazzi."
 
 # game/UpdateScript0.07.rpy:10167
 translate italian talk_to_megan_ccae2660:
 
     # R "Alright, later Megan."
+    R "Va bene, più tardi Megan."
 
 # game/UpdateScript0.07.rpy:10178
 translate italian talk_to_megan_92096d87_1:
 
     # R "Hey, girls... I hope I'm not interrupting?"
+    R "Ehi, ragazze... Spero di non interrompere?"
 
 # game/UpdateScript0.07.rpy:10179
 translate italian talk_to_megan_0f377183_1:
 
     # L "No... what's up, [ryan]?"
+    L "No... che cosa c'è, [ryan]?"
 
 # game/UpdateScript0.07.rpy:10180
 translate italian talk_to_megan_5946dd30_1:
 
     # R "Not much."
+    R "Quasi poco."
 
 # game/UpdateScript0.07.rpy:10183
 translate italian talk_to_megan_b600ab5c:
 
     # R "I was just wondering if I could speak to Megan privately."
+    R "Mi chiedevo solo se potevo parlare con Megan in privato."
 
 # game/UpdateScript0.07.rpy:10184
 translate italian talk_to_megan_0803bb03:
 
     # L "Again?... What's going on?"
+    L "Ancora?... Cosa sta succedendo?"
 
 # game/UpdateScript0.07.rpy:10185
 translate italian talk_to_megan_15a5570f:
 
     # R "Ohh, I just had a few more ideas for Megan to help us take down Matt."
+    R "Ohh, ho avuto solo alcune idee in più per Megan per aiutarci a prendere giù Matt."
 
 # game/UpdateScript0.07.rpy:10186
 translate italian talk_to_megan_db3f955c:
 
     # MG "Shhhh... {i}(whispering){/i} Not so loud... He's just across the room talking to your mom."
+    MG "Shhhh... {i}(sussurre){/i} Non è così forte... è proprio attraverso la stanza che parla con tua mamma."
 
 # game/UpdateScript0.07.rpy:10187
 translate italian talk_to_megan_9e7dc4ab:
 
     # MG "You go first, I'll follow you a few minutes later... So he doesn't get suspicious."
+    MG "Andate per primo, vi seguirò qualche minuto più tardi... Quindi non si sospetta."
 
 # game/UpdateScript0.07.rpy:10193
 translate italian talk_to_megan_4407243d:
 
     # MG "Now, what is this about?"
+    MG "Ora, di cosa si tratta?"
 
 # game/UpdateScript0.07.rpy:10194
 translate italian talk_to_megan_1d59ea05:
 
     # R "I'll tell you when we're in the stall."
+    R "Vi dirò quando siamo in stalla."
 
 # game/UpdateScript0.07.rpy:10195
 translate italian talk_to_megan_185aeb79:
 
     # MGT "{i}Oh, boy!... I can guess where this is going.{/i}"
+    MGT "{i}Oh, ragazzo!... Posso indovinare dove sta andando questo.{/i}"
 
 # game/UpdateScript0.07.rpy:10198
 translate italian talk_to_megan_45c32234:
 
     # R "So, how is the skit coming along?"
+    R "Allora, come viene lo skit?"
 
 # game/UpdateScript0.07.rpy:10199
 translate italian talk_to_megan_67de226a:
 
     # MG "It's been a little messy, but it's starting to come together."
+    MG "È stato un po' disordinato, ma sta cominciando a riunirsi."
 
 # game/UpdateScript0.07.rpy:10200
 translate italian talk_to_megan_b1692e6a:
 
     # R "How has it been working with Mandy?."
+    R "Come sta lavorando con Mandy?."
 
 # game/UpdateScript0.07.rpy:10201
 translate italian talk_to_megan_ae918e32:
 
     # MG "She's actually really great. After we're done sneaking around with this whole skit thing, I'm going to get her a formal tryout to be on the cheerleading team."
+    MG "Lei è davvero grande. Dopo che abbiamo fatto furtivamente con tutto questo skit cosa, ho intenzione di farle un tentativo formale di essere sulla squadra cheerleader."
 
 # game/UpdateScript0.07.rpy:10202
 translate italian talk_to_megan_eaed835e:
 
     # R "Mandy would love that."
+    R "Mandy lo apprezzerebbe."
 
 # game/UpdateScript0.07.rpy:10205
 translate italian talk_to_megan_b3efcf2e:
 
     # MG "Soooo... were you wanting to just make small talk, or is there an important reason why you brought me back to this particular stall?"
+    MG "Soooo... volevi solo fare piccole chiacchiere, o c'è una ragione importante per cui mi hai riportato in questa particolare bancarella?"
 
 # game/UpdateScript0.07.rpy:10206
 translate italian talk_to_megan_dfc00eb0:
 
     # R "I just cant stop thinking about what you said, in that video we made for Matt."
+    R "Ho solo voglia di smettere di pensare a ciò che hai detto, in quel video che abbiamo fatto per Matt."
 
 # game/UpdateScript0.07.rpy:10207
 translate italian talk_to_megan_af69fd1b:
 
     # R "I was hoping we could..."
+    R "Stavo sperando che potesso..."
 
 # game/UpdateScript0.07.rpy:10208
 translate italian talk_to_megan_eeb17468:
 
     # MG "Ohhh... So you {b}are{/b} hoping for another at-school booty call."
+    MG "Ohhh... Quindi {b}sono{/b} sperando in un'altra chiamata bottino a scuola."
 
 # game/UpdateScript0.07.rpy:10209
 translate italian talk_to_megan_a8d93f81:
 
     # R "I mean, you did say..."
+    R "Intendo dire, hai detto..."
 
 # game/UpdateScript0.07.rpy:10210
 translate italian talk_to_megan_128a4f3b:
 
     # MG "Alright, three hundred dollars."
+    MG "Bene, trecento dollari."
 
 # game/UpdateScript0.07.rpy:10211
 translate italian talk_to_megan_6fd0126b:
@@ -23698,91 +25116,109 @@ translate italian talk_to_megan_6fd0126b:
 translate italian talk_to_megan_dc8a2b78:
 
     # R "But we fucked for free the other day."
+    R "Ma abbiamo scopato per libero l'altro giorno."
 
 # game/UpdateScript0.07.rpy:10213
 translate italian talk_to_megan_e2d178c3:
 
     # MG "That didn't make you my boyfriend."
+    MG "Non ti ha fatto il mio fidanzato."
 
 # game/UpdateScript0.07.rpy:10214
 translate italian talk_to_megan_2e77e2ba:
 
     # MG "And besides, I need the money."
+    MG "E poi, ho bisogno dei soldi."
 
 # game/UpdateScript0.07.rpy:10215
 translate italian talk_to_megan_58a4ec17:
 
     # R "Why? Your family is loaded."
+    R "Perché? La tua famiglia è caricata."
 
 # game/UpdateScript0.07.rpy:10216
 translate italian talk_to_megan_0497f2f5:
 
     # MG "My parents cut off my allowance."
+    MG "I miei genitori hanno tagliato la mia indennità."
 
 # game/UpdateScript0.07.rpy:10217
 translate italian talk_to_megan_4d11c504:
 
     # MG "They found some pictures on my phone they didn't approve of."
+    MG "Hanno trovato alcune foto sul mio telefono che non hanno approvato."
 
 # game/UpdateScript0.07.rpy:10218
 translate italian talk_to_megan_8c7ee03a:
 
     # MG "So I need cash."
+    MG "Quindi ho bisogno di soldi."
 
 # game/UpdateScript0.07.rpy:10219
 translate italian talk_to_megan_0282f379:
 
     # R "So you want me to pay you for sex?"
+    R "Quindi vuoi che ti paghi per sesso?"
 
 # game/UpdateScript0.07.rpy:10220
 translate italian talk_to_megan_cbe2f1eb:
 
     # R "You know what that is, right?"
+    R "Tu sai cos'è, vero?"
 
 # game/UpdateScript0.07.rpy:10221
 translate italian talk_to_megan_d8ac9791:
 
     # MG "Don't think about it as paying for sex, think about it as paying for that photo-set I did with your mom."
+    MG "Non pensarci come pagare per il sesso, pensarci come pagare per quel set fotografico che ho fatto con tua mamma."
 
 # game/UpdateScript0.07.rpy:10222
 translate italian talk_to_megan_b5cc2f3a:
 
     # MG "And as a starving model, I'm showing you my gratitude."
+    MG "E come modello affamato, vi sto mostrando la mia gratitudine."
 
 # game/UpdateScript0.07.rpy:10224
 translate italian talk_to_megan_7b678d70:
 
     # R "What about our deal we made at the photoshoot?"
+    R "Che ne dici del nostro affare fatto al photoshoot?"
 
 # game/UpdateScript0.07.rpy:10225
 translate italian talk_to_megan_e29b7d4f:
 
     # R "Where you'll do anything to me that I can get my mom to do to me."
+    R "Dove farete qualsiasi cosa per me che posso convincere mia mamma a farmi."
 
 # game/UpdateScript0.07.rpy:10226
 translate italian talk_to_megan_3cbc40d0:
 
     # MG "Don't worry, that deal's still on the table."
+    MG "Non ti preoccupare, quell'affare è ancora sul tavolo."
 
 # game/UpdateScript0.07.rpy:10227
 translate italian talk_to_megan_51b3153c:
 
     # MG "Why?... Have you fucked your mom?"
+    MG "Perché?... Hai scopato tua mamma?"
 
 # game/UpdateScript0.07.rpy:10228
 translate italian talk_to_megan_c2d00446:
 
     # R "Well, no... not yet."
+    R "Bene, no... non ancora."
 
 # game/UpdateScript0.07.rpy:10229
 translate italian talk_to_megan_b4ab17b7:
 
     # MG "Alright, so other issues?"
+    MG "Va bene, quindi altre questioni?"
 
 # game/UpdateScript0.07.rpy:10230
 translate italian talk_to_megan_32cb2b06:
 
     # R "I guess not."
+    R "Credo di no."
 
 # game/UpdateScript0.07.rpy:10233
 translate italian talk_to_megan_8322f092:
@@ -23794,66 +25230,79 @@ translate italian talk_to_megan_8322f092:
 translate italian talk_to_megan_7b6b4ff3:
 
     # RT "{i}It's not like I don't get a release from anywhere else... I don't even know how many times I cum everyday.{/i}"
+    RT "{i}Non è come se non ricevessi un rilascio da nessun'altra parte... non so nemmeno quante volte io cum tutti i giorni.{/i}"
 
 # game/UpdateScript0.07.rpy:10235
 translate italian talk_to_megan_3313f651:
 
     # RT "{i}Do I really want to spend three hundred dollars to fuck Megan again?{/i}"
+    RT "{i}Volevo davvero spendere trecento dollari per scopare di nuovo Megan?{/i}"
 
 # game/UpdateScript0.07.rpy:10238
 translate italian talk_to_megan_c18039cf:
 
     # R "Yeah ok, I guess it's worth that much."
+    R "Sì ok, immagino che valga tanto."
 
 # game/UpdateScript0.07.rpy:10239
 translate italian talk_to_megan_0dc3a1c4_1:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:10242
 translate italian talk_to_megan_2ff5a4ff:
 
     # MG "That's what I like to hear."
+    MG "È quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:10245
 translate italian talk_to_megan_e8512d5a_1:
 
     # MG "Now let's lose these clothes and get busy."
+    MG "Ora perdiamo questi vestiti e ci impegnate."
 
 # game/UpdateScript0.07.rpy:10246
 translate italian talk_to_megan_4d9512ed_1:
 
     # MG "I think I'd better lube you up first."
+    MG "Penso che farei meglio a lubrificarti prima."
 
 # game/UpdateScript0.07.rpy:10249
 translate italian talk_to_megan_fa439b92:
 
     # MG "I worried I'd never be happy with a smaller cock after having Matt's."
+    MG "Mi preoccupo che non sarei mai felice di un cazzo più piccolo dopo aver avuto di Matt."
 
 # game/UpdateScript0.07.rpy:10250
 translate italian talk_to_megan_aa949f74:
 
     # MG "But really... your cock size is perfect."
+    MG "Ma davvero... la dimensione del tuo cazzo è perfetta."
 
 # game/UpdateScript0.07.rpy:10251
 translate italian talk_to_megan_920be6d0:
 
     # MG "Matt really was too big for me."
+    MG "Matt era davvero troppo grande per me."
 
 # game/UpdateScript0.07.rpy:10252
 translate italian talk_to_megan_2cd527d9:
 
     # MG "Now, I won't have to walk funny at cheerleading practice anymore."
+    MG "Ora, non dovrò più camminare divertente a cheerleading pratica."
 
 # game/UpdateScript0.07.rpy:10253
 translate italian talk_to_megan_61e1676e:
 
     # RT "{i}I wonder if she means it, or is she just trying to make me feel better, since I'm not as big?{/i}"
+    RT "{i}Mi chiedo se lei lo intende, o sta semplicemente cercando di farmi sentire meglio, dal momento che non sono così grande?{/i}"
 
 # game/UpdateScript0.07.rpy:10254
 translate italian talk_to_megan_4057b57c_1:
 
     # MG "Mmm... Let's get you ready for my pussy."
+    MG "Mmm... Ti prepariamo per la mia figa."
 
 # game/UpdateScript0.07.rpy:10258
 translate italian talk_to_megan_1b45d0a3_1:
@@ -23889,6 +25338,7 @@ translate italian talk_to_megan_a0f32196_1:
 translate italian talk_to_megan_39120070_1:
 
     # RT "{i}Oh, God!... I still can't believe how tight she is after fucking Matt for so many years.{/i}"
+    RT "{i}Oh, Dio!... Non riesco ancora a credere quanto sia stretta dopo aver scopato Matt per tanti anni.{/i}"
 
 # game/UpdateScript0.07.rpy:10277
 translate italian talk_to_megan_5402eb1b_1:
@@ -23906,6 +25356,7 @@ translate italian talk_to_megan_f9981b9b_1:
 translate italian talk_to_megan_3c1448ac_1:
 
     # MG "God, you're hitting my womb!"
+    MG "Dio, stai colpendo il mio grembo grembo!"
 
 # game/UpdateScript0.07.rpy:10282
 translate italian talk_to_megan_639d7dc8_1:
@@ -23929,6 +25380,7 @@ translate italian talk_to_megan_77001bc5_1:
 translate italian talk_to_megan_30c0235f_1:
 
     # MG "Ohhh... Yes... give me that baby batter!"
+    MG "Ohhh... sì... dammi quella pastella per bambini!"
 
 # game/UpdateScript0.07.rpy:10290
 translate italian talk_to_megan_c2c7ae2c_1:
@@ -23952,11 +25404,13 @@ translate italian talk_to_megan_43021cc5_1:
 translate italian talk_to_megan_5831a62f_1:
 
     # R "Oh fuck, Megan! You're driving me crazy!"
+    R "Oh cazzo, Megan! Mi stai facendo pazzi!"
 
 # game/UpdateScript0.07.rpy:10305
 translate italian talk_to_megan_869b3faf_1:
 
     # MG "Oh, my God!... My womb can't fit anymore!"
+    MG "Oh, mio Dio!... Il mio grembo non può più adattarsi più!"
 
 # game/UpdateScript0.07.rpy:10315
 translate italian talk_to_megan_c4b54c5f_1:
@@ -23968,36 +25422,43 @@ translate italian talk_to_megan_c4b54c5f_1:
 translate italian talk_to_megan_6f34071d_1:
 
     # {i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+    new "{i}\"[ryan]'s cum load in Megan pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10318
 translate italian talk_to_megan_17ad4074_1:
 
     # {i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+    new "{i}\"Carichi totali di sperma di [ryan] nella figa di Megan = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10319
 translate italian talk_to_megan_74289b2f_1:
 
     # MGT "{i}Fuck!... My fertile little egg is going to be literally swimming in cum!{/i}"
+    MGT "{i}Fuck!... Il mio piccolo uovo fertile sta per nuotare letteralmente nello sperma!{/i}"
 
 # game/UpdateScript0.07.rpy:10320
 translate italian talk_to_megan_fc7d8356_1:
 
     # MGT "{i}God, I hope I've got more of those pills.{/i}"
+    MGT "{i}Dio, spero di avere più di queste pillole.{/i}"
 
 # game/UpdateScript0.07.rpy:10321
 translate italian talk_to_megan_13ee63ef_1:
 
     # MGT "{i}I can't forget to run to the pharmacy and get some more.{/i}"
+    MGT "{i}Non posso dimenticare di correre in farmacia e ottenere qualcosa di più.{/i}"
 
 # game/UpdateScript0.07.rpy:10323
 translate italian talk_to_megan_498a55bb_1:
 
     # R "I'm cumming!"
+    R "Sto piombando!"
 
 # game/UpdateScript0.07.rpy:10337
 translate italian talk_to_megan_e63fa3b9_1:
 
     # MG "Holy shit, [ryan]! You just basted me like a fucking turkey!"
+    MG "Merda santa, [ryan]! Mi sei appena bastonato come un tacchino cazzo!"
 
 # game/UpdateScript0.07.rpy:10338
 translate italian talk_to_megan_4f66d7f1_1:
@@ -24009,251 +25470,301 @@ translate italian talk_to_megan_4f66d7f1_1:
 translate italian talk_to_megan_a6b0f3ff_1:
 
     # MG "How was that?"
+    MG "Com'era?"
 
 # game/UpdateScript0.07.rpy:10345
 translate italian talk_to_megan_719f167d_1:
 
     # R "Worth every penny."
+    R "Vale ogni centesimo."
 
 # game/UpdateScript0.07.rpy:10346
 translate italian talk_to_megan_24605c1c_1:
 
     # MG "Haha... That's what I like to hear."
+    MG "Haha... Ecco quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:10347
 translate italian talk_to_megan_50144030:
 
     # R "So, if I get the money together... can I keep coming back?"
+    R "Quindi, se ottengo i soldi insieme... posso continuare a tornare indietro?"
 
 # game/UpdateScript0.07.rpy:10350
 translate italian talk_to_megan_65e0c705:
 
     # MG "Oh yes, you're more than welcome."
+    MG "Oh sì, sei più del benvenuto."
 
 # game/UpdateScript0.07.rpy:10351
 translate italian talk_to_megan_6387753c:
 
     # MG "So far, you're my only customer, and if you keep paying me, I won't have to go looking for anymore."
+    MG "Finora, sei il mio unico cliente, e se continui a pagarmi, non dovrò più andare a cercare."
 
 # game/UpdateScript0.07.rpy:10352
 translate italian talk_to_megan_704a364c:
 
     # R "I'll do what I can."
+    R "Farò ciò che posso."
 
 # game/UpdateScript0.07.rpy:10353
 translate italian talk_to_megan_ff64b69d_1:
 
     # MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+    MG "Faremmo meglio a sbrigarci e a vestirci. Sono sorpreso che nessuno sia ancora entrato."
 
 # game/UpdateScript0.07.rpy:10359
 translate italian talk_to_megan_1c16b098:
 
     # R "We need to come up with some kind of code to let you know to come meet me here in the bathroom."
+    R "Abbiamo bisogno di trovare una sorta di codice per farti sapere di venire a trovarmi qui in bagno."
 
 # game/UpdateScript0.07.rpy:10360
 translate italian talk_to_megan_96d26392:
 
     # MG "Well, aren't you the sneaky one?"
+    MG "Beh, non sei tu il subdolo?"
 
 # game/UpdateScript0.07.rpy:10361
 translate italian talk_to_megan_cc82490e:
 
     # R "It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
+    R "E 'solo che Lauren e Mandy potrebbe diventare sospettoso se continuo a chiederti un discorso privato per tutto il tempo."
 
 # game/UpdateScript0.07.rpy:10362
 translate italian talk_to_megan_8f812aa9:
 
     # MG "Alright, what kind of code do you have in mind?"
+    MG "Bene, che genere di codice hai in mente?"
 
 # game/UpdateScript0.07.rpy:10363
 translate italian talk_to_megan_82f30cfd:
 
     # R "Hmmm..."
+    R "Hmmm..."
 
 # game/UpdateScript0.07.rpy:10364
 translate italian talk_to_megan_706a336e:
 
     # R "How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
+    R "Che ne dici se dico, \"Devo andare a lavorare su alcuni compiti anatomici\", saprai venire in bagno poco dopo che partirò."
 
 # game/UpdateScript0.07.rpy:10365
 translate italian talk_to_megan_bf594124:
 
     # MG "Haha... I like it."
+    MG "Haha... mi piace."
 
 # game/UpdateScript0.07.rpy:10366
 translate italian talk_to_megan_502500fe:
 
     # MG "So, I guess I'll be seeing you around fairly soon?"
+    MG "Quindi, immagino che ti vedrò in giro abbastanza presto?"
 
 # game/UpdateScript0.07.rpy:10367
 translate italian talk_to_megan_229aa192_1:
 
     # R "You can count on it."
+    R "Puoi contare su di essa."
 
 # game/UpdateScript0.07.rpy:10376
 translate italian talk_to_megan_5308e8ce_1:
 
     # R "Sorry, Megan."
+    R "Scusa, Megan."
 
 # game/UpdateScript0.07.rpy:10377
 translate italian talk_to_megan_7134184d_1:
 
     # R "As tempting as that sounds, I just can't spend that kind of money right now."
+    R "Per quanto allettante quanto sembra, non posso spendere quel tipo di denaro in questo momento."
 
 # game/UpdateScript0.07.rpy:10378
 translate italian talk_to_megan_08aca068_1:
 
     # MG "Alright, I understand."
+    MG "Va bene, capisco."
 
 # game/UpdateScript0.07.rpy:10379
 translate italian talk_to_megan_c34d074b:
 
     # R "But, is the offer still on the table in the future?"
+    R "Ma, l'offerta è ancora sul tavolo nel futuro?"
 
 # game/UpdateScript0.07.rpy:10380
 translate italian talk_to_megan_8ea9958e:
 
     # MG "Yeah. We can make it a standing offer."
+    MG "Sì. Possiamo farne un'offerta in piedi."
 
 # game/UpdateScript0.07.rpy:10381
 translate italian talk_to_megan_de728a9b:
 
     # R "Alright, then we need to come up with some kind of code to let you know to come meet me here in the bathroom."
+    R "Bene, allora abbiamo bisogno di trovare una sorta di codice per farti sapere di venire a incontrarmi qui in bagno."
 
 # game/UpdateScript0.07.rpy:10382
 translate italian talk_to_megan_96d26392_1:
 
     # MG "Well, aren't you the sneaky one?"
+    MG "Beh, non sei tu il subdolo?"
 
 # game/UpdateScript0.07.rpy:10383
 translate italian talk_to_megan_cc82490e_1:
 
     # R "It's just that Lauren and Mandy might get suspicious if I keep asking you to a private talk all the time."
+    R "E 'solo che Lauren e Mandy potrebbe diventare sospettoso se continuo a chiederti un discorso privato per tutto il tempo."
 
 # game/UpdateScript0.07.rpy:10384
 translate italian talk_to_megan_8f812aa9_1:
 
     # MG "Alright, what kind of code do you have in mind?"
+    MG "Bene, che genere di codice hai in mente?"
 
 # game/UpdateScript0.07.rpy:10385
 translate italian talk_to_megan_82f30cfd_1:
 
     # R "Hmmm..."
+    R "Hmmm..."
 
 # game/UpdateScript0.07.rpy:10386
 translate italian talk_to_megan_706a336e_1:
 
     # R "How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
+    R "Che ne dici se dico, \"Devo andare a lavorare su alcuni compiti anatomici\", saprai venire in bagno poco dopo che partirò."
 
 # game/UpdateScript0.07.rpy:10387
 translate italian talk_to_megan_bf594124_1:
 
     # MG "Haha... I like it."
+    MG "Haha... mi piace."
 
 # game/UpdateScript0.07.rpy:10388
 translate italian talk_to_megan_502500fe_1:
 
     # MG "So, I guess I'll be seeing you around fairly soon?"
+    MG "Quindi, immagino che ti vedrò in giro abbastanza presto?"
 
 # game/UpdateScript0.07.rpy:10389
 translate italian talk_to_megan_229aa192_2:
 
     # R "You can count on it."
+    R "Puoi contare su di essa."
 
 # game/UpdateScript0.07.rpy:10402
 translate italian talk_to_megan_92096d87_2:
 
     # R "Hey, girls... I hope I'm not interrupting?"
+    R "Ehi, ragazze... Spero di non interrompere?"
 
 # game/UpdateScript0.07.rpy:10403
 translate italian talk_to_megan_f887a0c5:
 
     # L "No... Can we help you, [ryan]?"
+    L "No... possiamo aiutarti, [ryan]?"
 
 # game/UpdateScript0.07.rpy:10404
 translate italian talk_to_megan_32926663:
 
     # R "No... I just thought you might be talking about a certain election skit."
+    R "No... Ho appena pensato che si potrebbe parlare di un certo skit elettorale."
 
 # game/UpdateScript0.07.rpy:10407
 translate italian talk_to_megan_2cb5634f:
 
     # MG "Did you tell them then?"
+    MG "L'hai detto a loro?"
 
 # game/UpdateScript0.07.rpy:10408
 translate italian talk_to_megan_b438cdb7:
 
     # R "No, I thought you would have."
+    R "No, pensavo che avreste fatto."
 
 # game/UpdateScript0.07.rpy:10409
 translate italian talk_to_megan_d8441f16:
 
     # MD "Tell us what?"
+    MD "Ci dica cosa?"
 
 # game/UpdateScript0.07.rpy:10410
 translate italian talk_to_megan_07d0a7eb:
 
     # L "If it's about the election, tell us at our headquarters... You don't know who could be listening here."
+    L "Se si tratta delle elezioni, diteci nella nostra sede... Non sai chi potrebbe ascoltare qui."
 
 # game/UpdateScript0.07.rpy:10411
 translate italian talk_to_megan_bcfb6b34:
 
     # R "Ok, I'll tell you at next week's first campaign meeting."
+    R "Ok, vi dirò alla prima riunione della campagna della prossima settimana."
 
 # game/UpdateScript0.07.rpy:10422
 translate italian talk_to_megan_92096d87_3:
 
     # R "Hey, girls... I hope I'm not interrupting?"
+    R "Ehi, ragazze... Spero di non interrompere?"
 
 # game/UpdateScript0.07.rpy:10423
 translate italian talk_to_megan_5ba5bd52:
 
     # L "No... We were just talking about Kyle."
+    L "No... Stavamo solo parlando di Kyle."
 
 # game/UpdateScript0.07.rpy:10424
 translate italian talk_to_megan_4f79681b:
 
     # R "Kyle?"
+    R "Kyle?"
 
 # game/UpdateScript0.07.rpy:10427
 translate italian talk_to_megan_20d34a09:
 
     # MG "Yeah... from the basketball team?"
+    MG "Sì... dalla squadra di basket?"
 
 # game/UpdateScript0.07.rpy:10428
 translate italian talk_to_megan_d5089f84:
 
     # R "Oh, yeah."
+    R "Oh, sì."
 
 # game/UpdateScript0.07.rpy:10429
 translate italian talk_to_megan_26a7c9bb:
 
     # MG "Anyways, he's trying to grow a mustache, but his hair just isn't thick enough and it looks so funny!"
+    MG "In ogni caso, sta cercando di coltivare un baffe, ma i suoi capelli non sono abbastanza spessi e sembra così divertente!"
 
 # game/UpdateScript0.07.rpy:10430
 translate italian talk_to_megan_392fce7e:
 
     # R "Oh, yeah... I've noticed. Mrs. Freedman the lunch lady has a bigger mustache than he does."
+    R "Oh, sì... ho notato. Signora Libertà la signora del pranzo ha un baffo più grande di lui."
 
 # game/UpdateScript0.07.rpy:10433
 translate italian talk_to_megan_b9f86b1f:
 
     # MG "She really does!"
+    MG "Lei lo fa veramente!"
 
 # game/UpdateScript0.07.rpy:10434
 translate italian talk_to_megan_87753b16:
 
     # R "Hey, Megan?"
+    R "Hey, Megan?"
 
 # game/UpdateScript0.07.rpy:10435
 translate italian talk_to_megan_4ffac672:
 
     # R "Can I steal you away for a couple minutes?"
+    R "Posso rubarti via per un paio di minuti?"
 
 # game/UpdateScript0.07.rpy:10436
 translate italian talk_to_megan_16326dcb:
 
     # MG "Uhhh... ok..."
+    MG "Uhhh... ok..."
 
 # game/UpdateScript0.07.rpy:10440
 translate italian talk_to_megan_1c8c9e8b:
@@ -24811,6 +26322,7 @@ translate italian talk_to_megan_cd59bdb2:
 translate italian talk_to_megan_7ae4c552:
 
     # MG "Oh, yeah... [ryan]! Fuck my needy pussy!"
+    MG "Oh, sì... [ryan]! Cazzo la mia fica bisognosa!"
 
 # game/UpdateScript0.07.rpy:10606
 translate italian talk_to_megan_c72b81c4:
@@ -24882,11 +26394,13 @@ translate italian talk_to_megan_c4b54c5f_2:
 translate italian talk_to_megan_6f34071d_2:
 
     # {i}\"[ryan]'s cum loads in Megan's pussy +1\"{/i}"
+    new "{i}\"[ryan]'s cum load in Megan pussy +1\"{/i}"
 
 # game/UpdateScript0.07.rpy:10641
 translate italian talk_to_megan_17ad4074_2:
 
     # {i}\"Total loads of [ryan]'s cum in Megan's pussy = ([megan_cum_loads_counter])\"{/i}"
+    new "{i}\"Carichi totali di sperma di [ryan] nella figa di Megan = ([megan_cum_loads_counter])\"{/i}"
 
 # game/UpdateScript0.07.rpy:10642
 translate italian talk_to_megan_b3dea31d:
@@ -24904,6 +26418,7 @@ translate italian talk_to_megan_cd326b84:
 translate italian talk_to_megan_aeeab911:
 
     # MGT "{i}I might birth a whole litter of little [ryan]'s...{/i}"
+    MGT "{i}Potrei nascere un intero cucciolo di poco [ryan]'s...{/i}"
 
 # game/UpdateScript0.07.rpy:10645
 translate italian talk_to_megan_ed443a4c:
@@ -24921,101 +26436,121 @@ translate italian talk_to_megan_4f66d7f1_2:
 translate italian talk_to_megan_4b178c04:
 
     # MG "Well Matt, I hope you enjoyed our video today!"
+    MG "Beh Matt, spero che oggi vi sia piaciuto il nostro video!"
 
 # game/UpdateScript0.07.rpy:10652
 translate italian talk_to_megan_57072779:
 
     # MG "Don't forget to hit like, and subscribe."
+    MG "Non dimenticarti di colpire come e iscriverti."
 
 # game/UpdateScript0.07.rpy:10653
 translate italian talk_to_megan_50d76862:
 
     # MG "I've got to let you know, [ryan] might not be as big as you, but he cums way more."
+    MG "Devo farti sapere, [ryan] potrebbe non essere grande come te, ma lui è molto di più."
 
 # game/UpdateScript0.07.rpy:10654
 translate italian talk_to_megan_cc9a1d6a:
 
     # MG "It's probably going to take days to get all his baby gravy out of my womb."
+    MG "Probabilmente ci vorranno giorni per far uscire dal mio grembo tutto il suo bambino."
 
 # game/UpdateScript0.07.rpy:10655
 translate italian talk_to_megan_90164da7:
 
     # MG "And then, I think I'll have him give me a refill."
+    MG "E poi, penso che lo farò dare una ricarica."
 
 # game/UpdateScript0.07.rpy:10656
 translate italian talk_to_megan_2aef8402:
 
     # MG "Bye!"
+    MG "Ciao!"
 
 # game/UpdateScript0.07.rpy:10659
 translate italian talk_to_megan_a6b0f3ff_2:
 
     # MG "How was that?"
+    MG "Com'era?"
 
 # game/UpdateScript0.07.rpy:10661
 translate italian talk_to_megan_3b5a3f13:
 
     # R "Do you mean the video, or the fucking?"
+    R "Intendi il video o il cazzo?"
 
 # game/UpdateScript0.07.rpy:10662
 translate italian talk_to_megan_47e57a29:
 
     # R "Because I would say you were great on both accounts."
+    R "Perché direi che siete stati grandi su entrambi i conti."
 
 # game/UpdateScript0.07.rpy:10665
 translate italian talk_to_megan_7d8d11b5:
 
     # MG "Thanks, [ryan]!"
+    MG "Grazie, [ryan]!"
 
 # game/UpdateScript0.07.rpy:10666
 translate italian talk_to_megan_ff64b69d_2:
 
     # MG "We'd better hurry and get dressed. I'm surprised nobody has come in yet."
+    MG "Faremmo meglio a sbrigarci e a vestirci. Sono sorpreso che nessuno sia ancora entrato."
 
 # game/UpdateScript0.07.rpy:10672
 translate italian talk_to_megan_ae1267da:
 
     # MG "I can't wait to send this video to Matt."
+    MG "Non vedo l'ora di inviare questo video a Matt."
 
 # game/UpdateScript0.07.rpy:10673
 translate italian talk_to_megan_5fabc2de:
 
     # MG "Will you send it to my phone?"
+    MG "La invierai al mio telefono?"
 
 # game/UpdateScript0.07.rpy:10674
 translate italian talk_to_megan_2710f378:
 
     # R "Sure, but I was wondering if you could do me a favor first."
+    R "Certo, ma mi stavo chiedendo se potessi farmi un favore prima."
 
 # game/UpdateScript0.07.rpy:10675
 translate italian talk_to_megan_f4c9b57a:
 
     # MG "What kind of favor?"
+    MG "Che tipo di favore?"
 
 # game/UpdateScript0.07.rpy:10676
 translate italian talk_to_megan_56175934:
 
     # R "I heard you might be part of Matt's election skit."
+    R "Ti ho sentito far parte dello skit elettorale di Matt."
 
 # game/UpdateScript0.07.rpy:10677
 translate italian talk_to_megan_916da305:
 
     # MG "Well, I was going to be... There's no way I'm going to do it now."
+    MG "Beh, stavo per essere... Non c'è modo di farlo adesso."
 
 # game/UpdateScript0.07.rpy:10678
 translate italian talk_to_megan_83c67eff:
 
     # MG "I was going to get some of the cheerleaders to perform a sexy number with me."
+    MG "Stavo per ottenere alcuni dei cheerleader per eseguire un numero sexy con me."
 
 # game/UpdateScript0.07.rpy:10679
 translate italian talk_to_megan_e8811f2b:
 
     # MG "Luckily we haven't practiced it much, so now I'll just call it off."
+    MG "Per fortuna non l'abbiamo praticata molto, quindi ora lo chiamerò poco."
 
 # game/UpdateScript0.07.rpy:10680
 translate italian talk_to_megan_d97809df:
 
     # R "So, that's the favor I wanted to ask of you."
+    R "Quindi, questo è il favore che volevo chiederti."
 
 # game/UpdateScript0.07.rpy:10681
 translate italian talk_to_megan_e4905ca2_1:
@@ -25027,16 +26562,19 @@ translate italian talk_to_megan_e4905ca2_1:
 translate italian talk_to_megan_cf51ef80:
 
     # R "Don't cancel the skit."
+    R "Non cancellare lo skit."
 
 # game/UpdateScript0.07.rpy:10685
 translate italian talk_to_megan_21e5739f:
 
     # MG "Why?... There's no way I'm performing for Matt now."
+    MG "Perché?... Non c'è modo di suonare per Matt adesso."
 
 # game/UpdateScript0.07.rpy:10686
 translate italian talk_to_megan_505968ad:
 
     # R "Yeah, so do it for Lauren instead."
+    R "Sì, lo faccia per Lauren, invece."
 
 # game/UpdateScript0.07.rpy:10687
 translate italian talk_to_megan_e4905ca2_2:
@@ -25048,61 +26586,73 @@ translate italian talk_to_megan_e4905ca2_2:
 translate italian talk_to_megan_71deef07:
 
     # R "Think about it. You keep practicing, and Matt will think you're getting ready for his election skit."
+    R "Pensateci. Continuate a esercitarvi e Matt penserà di essere pronto per il suo skit elettorale."
 
 # game/UpdateScript0.07.rpy:10689
 translate italian talk_to_megan_4c11db43:
 
     # R "Then, at the assembly when it's time for Matt's skit, you break the news that you're not performing for him, and then you perform for Lauren instead."
+    R "Poi, all'assemblea quando è tempo per lo skit di Matt, si rompe la notizia che non si esegue per lui, e poi si esibisce per Lauren invece."
 
 # game/UpdateScript0.07.rpy:10690
 translate italian talk_to_megan_b5ca990f:
 
     # R "Matt will be left without a skit, and Lauren will have you and the cheerleaders perform a kick-ass skit."
+    R "Matt sarà lasciato senza skit, e Lauren avrà voi e gli cheerleader eseguiranno uno skit di calcetto."
 
 # game/UpdateScript0.07.rpy:10691
 translate italian talk_to_megan_3ee1d7b4:
 
     # R "Lauren wins, Matt loses... What could be better revenge than that?"
+    R "Lauren vince, Matt perde... Cosa potrebbe essere migliore vendetta di questo?"
 
 # game/UpdateScript0.07.rpy:10692
 translate italian talk_to_megan_546b9c6c:
 
     # R "Oh, I know... To add insult to injury, when he's feeling the pain of failure, you send him this video we just made."
+    R "Oh, lo so... Per aggiungere insulto alla ferita, quando sente il dolore del fallimento, gli invii questo video che abbiamo appena fatto."
 
 # game/UpdateScript0.07.rpy:10695
 translate italian talk_to_megan_9d94d89f:
 
     # MG "I don't know..."
+    MG "Non so..."
 
 # game/UpdateScript0.07.rpy:10696
 translate italian talk_to_megan_a2ce6687:
 
     # MG "That would mean I would have to pretend to stay with him until the election assembly, and that everything's good between us."
+    MG "Ciò significherebbe che dovrei fingere di rimanere con lui fino all'assemblea elettorale, e che tutto è buono tra noi."
 
 # game/UpdateScript0.07.rpy:10697
 translate italian talk_to_megan_1e7fe6e6:
 
     # MG "He's going to want to keep having sex, and there's no way I'm fucking him now... How would I get out of that?"
+    MG "Vuole continuare a fare sesso, e non c'è modo che lo scopino adesso... Come sarei uscito da quello?"
 
 # game/UpdateScript0.07.rpy:10698
 translate italian talk_to_megan_286d34a5:
 
     # R "Say you're on your period?"
+    R "Dite che siete nel vostro mestruo?"
 
 # game/UpdateScript0.07.rpy:10699
 translate italian talk_to_megan_ab627930:
 
     # MG "That will only work for a week."
+    MG "Funzionerà solo per una settimana."
 
 # game/UpdateScript0.07.rpy:10700
 translate italian talk_to_megan_28207c5d:
 
     # R "Say that you've got some kind of vagina disease."
+    R "Dite che avete un qualche tipo di malattia della vagina."
 
 # game/UpdateScript0.07.rpy:10701
 translate italian talk_to_megan_93172f68:
 
     # MG "You mean an STD?... Gross!"
+    MG "Vuoi dire un STD?... Gross!"
 
 # game/UpdateScript0.07.rpy:10702
 translate italian talk_to_megan_61fc6dfd:
@@ -25114,56 +26664,67 @@ translate italian talk_to_megan_61fc6dfd:
 translate italian talk_to_megan_2bb924ee:
 
     # MG "That would be a fun rumor to try to stop from circling around the school."
+    MG "Sarebbe una voce divertente per cercare di smettere di girare intorno alla scuola."
 
 # game/UpdateScript0.07.rpy:10704
 translate italian talk_to_megan_84a660a2:
 
     # R "Well, think about it. It might be harder, but playing the long game will have such a better reward."
+    R "Bene, pensateci. Potrebbe essere più difficile, ma giocare a lungo avrà una ricompensa così migliore."
 
 # game/UpdateScript0.07.rpy:10707
 translate italian talk_to_megan_9eff4c12:
 
     # MG "How do you mean?"
+    MG "Come intendi?"
 
 # game/UpdateScript0.07.rpy:10708
 translate italian talk_to_megan_3e130679:
 
     # R "It's like that book my mom made us read for class. The Count of Monte Cristo."
+    R "È come quel libro che mia mamma ci ha fatto leggere per lezione. Il conte di Monte Cristo."
 
 # game/UpdateScript0.07.rpy:10709
 translate italian talk_to_megan_8de949b2:
 
     # MG "I don't remember."
+    MG "Non ricordo."
 
 # game/UpdateScript0.07.rpy:10710
 translate italian talk_to_megan_4e249348:
 
     # R "You know... We watched the movie?... About those French guys?... The one went to jail forever, broke out, found a treasure, and planned the best revenge ever."
+    R "Sai... Abbiamo guardato il film?... A proposito di quelli francesi?... Quella andò in prigione per sempre, scoppiò, trovò un tesoro e pianificò la migliore vendetta di sempre."
 
 # game/UpdateScript0.07.rpy:10713
 translate italian talk_to_megan_846060e7:
 
     # MG "I think that movie was against revenge."
+    MG "Penso che quel film sia stato contro la vendetta."
 
 # game/UpdateScript0.07.rpy:10714
 translate italian talk_to_megan_4f887401:
 
     # R "Well, I'd say it worked out pretty well for the Count... At least... in the movie."
+    R "Beh, direi che ha funzionato abbastanza bene per il Conte... almeno... nel film."
 
 # game/UpdateScript0.07.rpy:10715
 translate italian talk_to_megan_43e4218e:
 
     # R "But the point is, he played the long game, and it all came together magnificently."
+    R "Ma il punto è, ha giocato la partita lunga, e tutto è venuto insieme magnificamente."
 
 # game/UpdateScript0.07.rpy:10716
 translate italian talk_to_megan_c28f3aa4:
 
     # MG "Hmmmm...."
+    MG "Hmmmm...."
 
 # game/UpdateScript0.07.rpy:10719
 translate italian talk_to_megan_5544acce:
 
     # MG "Ok... I'll do it."
+    MG "Ok... lo farò."
 
 # game/UpdateScript0.07.rpy:10720
 translate italian talk_to_megan_539d79b3:
@@ -25175,86 +26736,103 @@ translate italian talk_to_megan_539d79b3:
 translate italian talk_to_megan_e921da1c:
 
     # R "Ohh... And would you mind working on the skit with my cousin, Mandy?"
+    R "Ohh... Ti dispiacerebbe lavorare sullo skit con mio cugino, Mandy?"
 
 # game/UpdateScript0.07.rpy:10722
 translate italian talk_to_megan_1b201391:
 
     # MG "Oh, the new girl? Is she athletic, or know how to dance?"
+    MG "Oh, la nuova ragazza? È atletica, o sa danzare?"
 
 # game/UpdateScript0.07.rpy:10723
 translate italian talk_to_megan_469f5cd3:
 
     # R "Yeah, she was on some elite dance team at her old school."
+    R "Sì, era in qualche squadra di danza d'élite alla sua vecchia scuola."
 
 # game/UpdateScript0.07.rpy:10724
 translate italian talk_to_megan_921cc781:
 
     # R "She's really good at choreography."
+    R "È veramente brava in coreografia."
 
 # game/UpdateScript0.07.rpy:10725
 translate italian talk_to_megan_1cb4e745:
 
     # R "I think she'll only make the skit better."
+    R "Penso che farà solo meglio lo skit."
 
 # game/UpdateScript0.07.rpy:10728
 translate italian talk_to_megan_641a8ae3:
 
     # MG "Alright, tell her to get ahold of me."
+    MG "Bene, le dica di prendermi la mano."
 
 # game/UpdateScript0.07.rpy:10729
 translate italian talk_to_megan_ed6e6aa5:
 
     # MG "You know my number?"
+    MG "Tu conosci il mio numero?"
 
 # game/UpdateScript0.07.rpy:10730
 translate italian talk_to_megan_a98be67e:
 
     # MG "No... Why would you."
+    MG "No... Perché ti sarebbe."
 
 # game/UpdateScript0.07.rpy:10731
 translate italian talk_to_megan_ba25a748:
 
     # MG "I'll text you my contact info."
+    MG "Vi scriverò le mie informazioni di contatto."
 
 # game/UpdateScript0.07.rpy:10732
 translate italian talk_to_megan_2e6ce0c1:
 
     # R "Awesome!... And remember."
+    R "Fantastica!... E ricorda."
 
 # game/UpdateScript0.07.rpy:10733
 translate italian talk_to_megan_6be53624:
 
     # R "Don't let Matt think anything is wrong."
+    R "Non lasciate che Matt pensi che qualcosa sia sbagliato."
 
 # game/UpdateScript0.07.rpy:10734
 translate italian talk_to_megan_ea50b5fd:
 
     # MG "Ok, I'll do my best."
+    MG "Ok, farò del mio meglio."
 
 # game/UpdateScript0.07.rpy:10756
 translate italian new_girls_lockers_morning_a9698c3b:
 
     # RT "{i}Why in the hell did I come back here?{/i}"
+    RT "{i}Perché nell'inferno sono tornata qui?{/i}"
 
 # game/UpdateScript0.07.rpy:10757
 translate italian new_girls_lockers_morning_090f7e47:
 
     # RT "{i}It's way too risky to try and spy on them twice in the same day.{/i}"
+    RT "{i}È troppo rischioso cercare di spiare due volte nello stesso giorno.{/i}"
 
 # game/UpdateScript0.07.rpy:10764
 translate italian new_girls_lockers_morning_6347cf04:
 
     # RT "{i}I wonder if there are any girls in the showers.{/i}"
+    RT "{i}Mi chiedo se ci sono delle ragazze nelle docce.{/i}"
 
 # game/UpdateScript0.07.rpy:10765
 translate italian new_girls_lockers_morning_78dfae49:
 
     # RT "{i}The coast looks clear... Should I take a peek?{/i}"
+    RT "{i}La costa sembra chiara... Dovrei fare una peek?{/i}"
 
 # game/UpdateScript0.07.rpy:10771
 translate italian new_girls_lockers_morning_47809be2:
 
     # RT "{i}And who do we have here?{/i}"
+    RT "{i}E chi ne abbiamo qui?{/i}"
 
 # game/UpdateScript0.07.rpy:10780
 translate italian new_girls_lockers_morning_b5e65263:
@@ -25266,26 +26844,31 @@ translate italian new_girls_lockers_morning_b5e65263:
 translate italian new_girls_lockers_afternoon_a9698c3b:
 
     # RT "{i}Why in the hell did I come back here?{/i}"
+    RT "{i}Perché nell'inferno sono tornata qui?{/i}"
 
 # game/UpdateScript0.07.rpy:10789
 translate italian new_girls_lockers_afternoon_090f7e47:
 
     # RT "{i}It's way too risky to try and spy on them twice in the same day.{/i}"
+    RT "{i}È troppo rischioso cercare di spiare due volte nello stesso giorno.{/i}"
 
 # game/UpdateScript0.07.rpy:10796
 translate italian new_girls_lockers_afternoon_6347cf04:
 
     # RT "{i}I wonder if there are any girls in the showers.{/i}"
+    RT "{i}Mi chiedo se ci sono delle ragazze nelle docce.{/i}"
 
 # game/UpdateScript0.07.rpy:10797
 translate italian new_girls_lockers_afternoon_78dfae49:
 
     # RT "{i}The coast looks clear... Should I take a peek?{/i}"
+    RT "{i}La costa sembra chiara... Dovrei fare una peek?{/i}"
 
 # game/UpdateScript0.07.rpy:10803
 translate italian new_girls_lockers_afternoon_47809be2:
 
     # RT "{i}And who do we have here?{/i}"
+    RT "{i}E chi ne abbiamo qui?{/i}"
 
 # game/UpdateScript0.07.rpy:10812
 translate italian new_girls_lockers_afternoon_b5e65263:
@@ -25297,71 +26880,85 @@ translate italian new_girls_lockers_afternoon_b5e65263:
 translate italian locker_room_run_0d8531d7:
 
     # {i}\"It looks like your struggling with the shower run game. Would you like to skip this game?\"{/i}"
+    new "{i}\"Sembra che tu stia lottando con il gioco doccia run. Vuoi saltare questa partita?\"{/i}"
 
 # game/UpdateScript0.07.rpy:10823
 translate italian locker_room_run_e9fe071c:
 
     # {i}\"Would you like to erase the negative consequences of losing the game and continue as if you'd never lost in the first place?\"{/i}"
+    new "{i}\"Vuoi cancellare le conseguenze negative di perdere il gioco e continuare come se non avessi mai perso in primo luogo?\"{/i}"
 
 # game/UpdateScript0.07.rpy:10831
 translate italian locker_room_run_47c3c2c5:
 
     # RT "{i}Shit!... That girl's here again.{/i}"
+    RT "{i}Shit!... Quella ragazza di nuovo qui.{/i}"
 
 # game/UpdateScript0.07.rpy:10832
 translate italian locker_room_run_a2423e37:
 
     # RT "{i}Why does she always have to be here?{/i}"
+    RT "{i}Perché deve sempre essere qui? {/i}"
 
 # game/UpdateScript0.07.rpy:10833
 translate italian locker_room_run_b14221f3:
 
     # RT "{i}Ok, she seems to be pretty focused on getting dressed... Hopefully I can make it this time.{/i}"
+    RT "{i}Ok, sembra essere abbastanza concentrata su vestirsi... Speriamo di poter fare questa volta.{/i}"
 
 # game/UpdateScript0.07.rpy:10838
 translate italian locker_room_run_a48a4029:
 
     # RT "{i}Halls are empty.{/i}"
+    RT "{i}Le sale sono vuote.{/i}"
 
 # game/UpdateScript0.07.rpy:10839
 translate italian locker_room_run_ce6d8c79:
 
     # RT "{i}It's so quiet.{/i}"
+    RT "{i}È così silenzioso.{/i}"
 
 # game/UpdateScript0.07.rpy:10840
 translate italian locker_room_run_791df3ab:
 
     # RT "{i}Hopefully the girls' locker room will be less crowded this time.{/i}"
+    RT "{i}Si spera che lo spogliatoio delle ragazze sia meno affollato questa volta.{/i}"
 
 # game/UpdateScript0.07.rpy:10845
 translate italian locker_room_run_47c3c2c5_1:
 
     # RT "{i}Shit!... That girl's here again.{/i}"
+    RT "{i}Shit!... Quella ragazza di nuovo qui.{/i}"
 
 # game/UpdateScript0.07.rpy:10846
 translate italian locker_room_run_a2423e37_1:
 
     # RT "{i}Why does she always have to be here?{/i}"
+    RT "{i}Perché deve sempre essere qui? {/i}"
 
 # game/UpdateScript0.07.rpy:10847
 translate italian locker_room_run_b14221f3_1:
 
     # RT "{i}Ok, she seems to be pretty focused on getting dressed... Hopefully I can make it this time.{/i}"
+    RT "{i}Ok, sembra essere abbastanza concentrata su vestirsi... Speriamo di poter fare questa volta.{/i}"
 
 # game/UpdateScript0.07.rpy:10852
 translate italian locker_room_run_b799aa11:
 
     # RT "{i}I haven't been here this early since I was on the basketball team.{/i}"
+    RT "{i}Non sono stato qui questo presto da quando ero nella squadra di basket. {/i}"
 
 # game/UpdateScript0.07.rpy:10853
 translate italian locker_room_run_ce6d8c79_1:
 
     # RT "{i}It's so quiet.{/i}"
+    RT "{i}È così silenzioso.{/i}"
 
 # game/UpdateScript0.07.rpy:10854
 translate italian locker_room_run_cae11200:
 
     # RT "{i}That's a good sign... Hopefully the girls' locker room will be empty, too.{/i}"
+    RT "{i}Questo è un buon segno... Speriamo che anche lo spogliatoio delle ragazze sia vuoto.{/i}"
 
 # game/UpdateScript0.07.rpy:10859
 translate italian locker_room_run_50585249:
@@ -25385,461 +26982,553 @@ translate italian locker_room_run_d32b8e15:
 translate italian bad_shower_caught_3860f167:
 
     # LRG "AAAAAaaaahhhh!..."
+    LRG "AAAAAaaaahhhhh!..."
 
 # game/UpdateScript0.07.rpy:10870
 translate italian bad_shower_caught_acc29326:
 
     # R "No!... Shhhhh..."
+    R "No!... Shhhhh..."
 
 # game/UpdateScript0.07.rpy:10871
 translate italian bad_shower_caught_a716b9cf:
 
     # LRG "BOY IN THE GIRLS' LOCKER ROOM AGAIN!!"
+    LRG "BOY IN THE GIRLS 'LOCKER ROOM AGAIN!!"
 
 # game/UpdateScript0.07.rpy:10872
 translate italian bad_shower_caught_b1fa5806:
 
     # RT "{i}Shit!... I've got to get out of here!{/i}"
+    RT "{i}Merda!... Devo uscire da qui!{/i}"
 
 # game/UpdateScript0.07.rpy:10880
 translate italian bad_shower_caught_3860f167_1:
 
     # LRG "AAAAAaaaahhhh!..."
+    LRG "AAAAAaaaahhhhh!..."
 
 # game/UpdateScript0.07.rpy:10881
 translate italian bad_shower_caught_acc29326_1:
 
     # R "No!... Shhhhh..."
+    R "No!... Shhhhh..."
 
 # game/UpdateScript0.07.rpy:10882
 translate italian bad_shower_caught_0e207ae3:
 
     # LRG "BOY IN THE GIRLS' LOCKER ROOM!!"
+    LRG "BOY IN THE GIRLE 'LOCKER ROOM!!"
 
 # game/UpdateScript0.07.rpy:10883
 translate italian bad_shower_caught_b1fa5806_1:
 
     # RT "{i}Shit!... I've got to get out of here!{/i}"
+    RT "{i}Merda!... Devo uscire da qui!{/i}"
 
 # game/UpdateScript0.07.rpy:10892
 translate italian bad_shower_caught_f39af27f:
 
     # BR "AAAHHHhhhh!...."
+    BR "AAAHHhhhhhh!...."
 
 # game/UpdateScript0.07.rpy:10893
 translate italian bad_shower_caught_96d141bf:
 
     # R "Shhhh..."
+    R "Shhhh..."
 
 # game/UpdateScript0.07.rpy:10894
 translate italian bad_shower_caught_85c71c05:
 
     # MG "Again, [ryan]? What the hell?"
+    MG "Ancora una volta, [ryan]? Che inferno?"
 
 # game/UpdateScript0.07.rpy:10897
 translate italian bad_shower_caught_bcc59973:
 
     # SY "You pervert! You'd better get out of here right now, or I'm really going to start screaming!"
+    SY "Sei pervertito! Faresti meglio a uscire da qui in questo momento, o inizierò davvero a urlare!"
 
 # game/UpdateScript0.07.rpy:10898
 translate italian bad_shower_caught_0057f906:
 
     # R "Yeah, right away!"
+    R "Sì, subito!"
 
 # game/UpdateScript0.07.rpy:10906
 translate italian bad_shower_caught_f39af27f_1:
 
     # BR "AAAHHHhhhh!...."
+    BR "AAAHHhhhhhh!...."
 
 # game/UpdateScript0.07.rpy:10907
 translate italian bad_shower_caught_96d141bf_1:
 
     # R "Shhhh..."
+    R "Shhhh..."
 
 # game/UpdateScript0.07.rpy:10908
 translate italian bad_shower_caught_0c7346bc:
 
     # MG "[ryan]! What the hell are you doing in here?"
+    MG "[ryan]! Che diavolo stai facendo qui dentro?"
 
 # game/UpdateScript0.07.rpy:10911
 translate italian bad_shower_caught_e1fef729:
 
     # SY "You'd better get out of here right now, or I'm really going to start screaming!"
+    SY "Faresti meglio a uscire da qui in questo momento, o inizierò davvero a urlare!"
 
 # game/UpdateScript0.07.rpy:10912
 translate italian bad_shower_caught_0057f906_1:
 
     # R "Yeah, right away!"
+    R "Sì, subito!"
 
 # game/UpdateScript0.07.rpy:10922
 translate italian bad_shower_caught_a5f7052b:
 
     # RG "AAAhhh!!!!"
+    RG "AAAhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10923
 translate italian bad_shower_caught_09ef5abe:
 
     # H "AAAAHHHHhhh!!!!"
+    H "AAAAHHHHhhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10924
 translate italian bad_shower_caught_388abc2e:
 
     # K "Spying on us again?! You really are a pervert!"
+    K "Spionarci di nuovo?! Sei davvero un perverso!"
 
 # game/UpdateScript0.07.rpy:10927
 translate italian bad_shower_caught_ed56c4fe:
 
     # R "I'm not here to spy on you!"
+    R "Non sono qui per spiarvi!"
 
 # game/UpdateScript0.07.rpy:10928
 translate italian bad_shower_caught_acadad0a:
 
     # K "Yeah, right!"
+    K "Sì, certo!"
 
 # game/UpdateScript0.07.rpy:10929
 translate italian bad_shower_caught_603ff0a4:
 
     # RG "Didn't get enough last time?"
+    RG "L'ultima volta non è stata sufficiente?"
 
 # game/UpdateScript0.07.rpy:10930
 translate italian bad_shower_caught_6ada0e74:
 
     # H "Get out of here!"
+    H "Uscite da qui!"
 
 # game/UpdateScript0.07.rpy:10931
 translate italian bad_shower_caught_e7c7c9eb:
 
     # R "I'm going!"
+    R "Sto andandando!"
 
 # game/UpdateScript0.07.rpy:10939
 translate italian bad_shower_caught_a5f7052b_1:
 
     # RG "AAAhhh!!!!"
+    RG "AAAhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10940
 translate italian bad_shower_caught_09ef5abe_1:
 
     # H "AAAAHHHHhhh!!!!"
+    H "AAAAHHHHhhhh!!!!"
 
 # game/UpdateScript0.07.rpy:10941
 translate italian bad_shower_caught_f9ae76ce:
 
     # K "[ryan]! Why are you spying on us?"
+    K "[ryan]! Perché ci spii?"
 
 # game/UpdateScript0.07.rpy:10944
 translate italian bad_shower_caught_ed56c4fe_1:
 
     # R "I'm not here to spy on you!"
+    R "Non sono qui per spiarvi!"
 
 # game/UpdateScript0.07.rpy:10945
 translate italian bad_shower_caught_acadad0a_1:
 
     # K "Yeah, right!"
+    K "Sì, certo!"
 
 # game/UpdateScript0.07.rpy:10946
 translate italian bad_shower_caught_450feb41:
 
     # RG "Hope you enjoyed the show, you pervert."
+    RG "Spero che ti sia piaciuto lo spettacolo, sei perverso."
 
 # game/UpdateScript0.07.rpy:10947
 translate italian bad_shower_caught_6ada0e74_1:
 
     # H "Get out of here!"
+    H "Uscite da qui!"
 
 # game/UpdateScript0.07.rpy:10948
 translate italian bad_shower_caught_e7c7c9eb_1:
 
     # R "I'm going!"
+    R "Sto andandando!"
 
 # game/UpdateScript0.07.rpy:10965
 translate italian bad_shower_end_d8d08a99:
 
     # R "Oooffff..."
+    R "Oooffff..."
 
 # game/UpdateScript0.07.rpy:10968
 translate italian bad_shower_end_f82b3c76:
 
     # R "Principal Hardun?"
+    R "Principal Hardun?"
 
 # game/UpdateScript0.07.rpy:10969
 translate italian bad_shower_end_4ebac82e:
 
     # PH "Back for more, I see."
+    PH "Torna indietro per di più, vedo."
 
 # game/UpdateScript0.07.rpy:10970
 translate italian bad_shower_end_70224aeb:
 
     # PH "I knew you were lying."
+    PH "Sapevo che stavate mentendo."
 
 # game/UpdateScript0.07.rpy:10971
 translate italian bad_shower_end_13dad08c:
 
     # PH "Let's go talk to your mother."
+    PH "Andiamo a parlare con tua madre."
 
 # game/UpdateScript0.07.rpy:10976
 translate italian bad_shower_end_37da16b4:
 
     # M "AGAIN!?"
+    M "AGAINE!?"
 
 # game/UpdateScript0.07.rpy:10977
 translate italian bad_shower_end_cba28ffd:
 
     # RT "{i}Ok... Let's see if this will work again.{/i}"
+    RT "{i}Ok... Vediamo se funzionerà di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:10978
 translate italian bad_shower_end_adda3f9c:
 
     # R "I'm sorry! It's just that I still haven't found my hoodie, and I'm almost positive Lauren has it in her locker."
+    R "Mi dispiace! È solo che non ho ancora trovato la mia felpa e sono quasi positivo che Lauren lo abbia nel suo armadio."
 
 # game/UpdateScript0.07.rpy:10979
 translate italian bad_shower_end_09ceb918:
 
     # R "I didn't think anyone would be in the locker room this early in the morning, so I thought I could sneak in there and see if she's been hiding it from me."
+    R "Non pensavo che nessuno sarebbe stato nella stanza dello spogliatoio questa mattina presto, così pensavo che potevo intrufolarmi lì e vedere se mi sta nascondendo."
 
 # game/UpdateScript0.07.rpy:10982
 translate italian bad_shower_end_decefd4b:
 
     # PH "He's obviously lying."
+    PH "Ovviamente sta mentendo."
 
 # game/UpdateScript0.07.rpy:10985
 translate italian bad_shower_end_c7360c12:
 
     # M "I don't know... His hoodie still hasn't turned up."
+    M "Non lo so... La sua felpa non si è ancora presentata."
 
 # game/UpdateScript0.07.rpy:10986
 translate italian bad_shower_end_b0249195:
 
     # M "I think he's telling the truth."
+    M "Credo che stia dicendo la verità."
 
 # game/UpdateScript0.07.rpy:10987
 translate italian bad_shower_end_f8c4f578:
 
     # MT "{i}Stupid little lying pervert!... I can't believe he did this again!{/i}"
+    MT "{i}Stupido piccolo sdraiato pervertito!... Non riesco a credere che lo abbia fatto di nuovo!{/i}"
 
 # game/UpdateScript0.07.rpy:10988
 translate italian bad_shower_end_27a00d53:
 
     # MT "{i}There's only one way to save [ryan]'s ass this time.{/i}"
+    MT "{i}C'è un solo modo per salvare il culo di [ryan]questa volta.{/i}"
 
 # game/UpdateScript0.07.rpy:10989
 translate italian bad_shower_end_4f5633d7:
 
     # MT "{i}I just hope I can make myself do it.{/i}"
+    MT "{i}Spero solo di potermi fare fare.{/i}"
 
 # game/UpdateScript0.07.rpy:10992
 translate italian bad_shower_end_5b455e2b:
 
     # PH "Well, I'm not convinced."
+    PH "Beh, io non sono convinto."
 
 # game/UpdateScript0.07.rpy:10993
 translate italian bad_shower_end_7a0f03d7:
 
     # PH "Let's you and me go discuss it in my office."
+    PH "Andiamo a parlarne nel mio ufficio."
 
 # game/UpdateScript0.07.rpy:10996
 translate italian bad_shower_end_cc4624dc:
 
     # M "I can't belive you did this again! You need to get your perverted mind under control! Now wait for me here, until I get back out!"
+    M "Non riesco a preoccuparti che hai fatto di nuovo! Hai bisogno di avere la tua mente pervertita sotto controllo! Ora attendi per me qui, fino a quando non torno fuori!"
 
 # game/UpdateScript0.07.rpy:10997
 translate italian bad_shower_end_25657027:
 
     # MT "{i}Just get this over with fast!{/i}"
+    MT "{i}Basta ottenere questo con velocità!{/i}"
 
 # game/UpdateScript0.07.rpy:11006
 translate italian bad_shower_end_e74f1df1:
 
     # RT "{i}Uh oh... I might be in deep shit. She actually looks worried.{/i}"
+    RT "{i}Uh oh... Potrei essere in profonda merda. Sembra in realtà preoccupata.{/i}"
 
 # game/UpdateScript0.07.rpy:11015
 translate italian bad_shower_end_7684dc99:
 
     # {i}\"10 minutes later.\"{/i}"
+    new "{i}\"10 minuti dopo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11021
 translate italian bad_shower_end_414aea12:
 
     # M "Ok... You're free to go."
+    M "Ok... sei libero di andare."
 
 # game/UpdateScript0.07.rpy:11022
 translate italian bad_shower_end_0dedb266:
 
     # RT "{i}Boy!... She really seems disturbed.{/i}"
+    RT "{i}Ragazzo!... Sembra veramente disturbata.{/i}"
 
 # game/UpdateScript0.07.rpy:11023
 translate italian bad_shower_end_bf0ef9c3:
 
     # R "No detention or anything?"
+    R "Nessun trattenimento o nulla?"
 
 # game/UpdateScript0.07.rpy:11024
 translate italian bad_shower_end_cb9ab979:
 
     # M "No... Mommy took care of it."
+    M "No... La mamma si è occupata di esso."
 
 # game/UpdateScript0.07.rpy:11025
 translate italian bad_shower_end_830de40c:
 
     # R "Wait!... How did..."
+    R "Aspetta!... Come hai fatto..."
 
 # game/UpdateScript0.07.rpy:11026
 translate italian bad_shower_end_f55c9816:
 
     # M "It's not important! Just be grateful you're not getting expelled."
+    M "Non è importante! Ti basterà essere grato che non ti espulsi."
 
 # game/UpdateScript0.07.rpy:11027
 translate italian bad_shower_end_dfaf5b5a:
 
     # MT "{i}And I've found a way to save him if he ever fucks up again.{/i}"
+    MT "{i}E ho trovato un modo per salvarlo se mai si scopa di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:11028
 translate italian bad_shower_end_20e43209:
 
     # R "But!..."
+    R "Ma!..."
 
 # game/UpdateScript0.07.rpy:11029
 translate italian bad_shower_end_1a815001:
 
     # M "I've got to get to class right now."
+    M "Devo andare in classe in questo momento."
 
 # game/UpdateScript0.07.rpy:11030
 translate italian bad_shower_end_4bf37cf7:
 
     # M "Just... Please try to stay out of trouble from here on out?"
+    M "Giusto... Prova a stare fuori dai guai da qui in poi?"
 
 # game/UpdateScript0.07.rpy:11033
 translate italian bad_shower_end_e442488a:
 
     # RT "{i}Oh, God! What did Mom do to get me out of trouble?{/i}"
+    RT "{i}Oh, Dio! Che cosa ha fatto la Mamma per farmi uscire dalla calunnia?{/i}"
 
 # game/UpdateScript0.07.rpy:11034
 translate italian bad_shower_end_72e3b296:
 
     # RT "{i}If principal Hardun touched her!... Well... Shit, there's really nothing I can do.{/i}"
+    RT "{i}Se Hardun principale la ha toccata!... Bene... Merda, non c'è niente che posso fare.{/i}"
 
 # game/UpdateScript0.07.rpy:11035
 translate italian bad_shower_end_885e890d:
 
     # RT "{i}I just need to stay out of trouble, so Mom doesn't have to bail me out again.{/i}"
+    RT "{i}Ho solo bisogno di rimanere fuori dai guai, quindi Mamma non deve salvarmi di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:11049
 translate italian bad_shower_end_d8d08a99_1:
 
     # R "Oooffff..."
+    R "Oooffff..."
 
 # game/UpdateScript0.07.rpy:11052
 translate italian bad_shower_end_f82b3c76_1:
 
     # R "Principal Hardun?"
+    R "Principal Hardun?"
 
 # game/UpdateScript0.07.rpy:11053
 translate italian bad_shower_end_585b2b61:
 
     # PH "So, we've got a pervert sneaking around in the girls' locker room, huh."
+    PH "Così, abbiamo un pervertito furtivamente nello spogliatoio delle ragazze, ehh."
 
 # game/UpdateScript0.07.rpy:11054
 translate italian bad_shower_end_8674fbec:
 
     # PH "Boy... let's go to the office and call your parents."
+    PH "Ragazzo... andiamo in ufficio e chiamiamo i vostri genitori."
 
 # game/UpdateScript0.07.rpy:11055
 translate italian bad_shower_end_8f72f1d4:
 
     # PH "This is an expellable offense."
+    PH "Questo è un reato espellibile."
 
 # game/UpdateScript0.07.rpy:11056
 translate italian bad_shower_end_15accba5:
 
     # R "But my mom is a teacher here."
+    R "Ma mia mamma è una insegnante qui."
 
 # game/UpdateScript0.07.rpy:11057
 translate italian bad_shower_end_d22678bb:
 
     # PH "And which teacher is this?"
+    PH "E quale maestro è questo?"
 
 # game/UpdateScript0.07.rpy:11058
 translate italian bad_shower_end_3818062d:
 
     # R "Miss [mom_name]."
+    R "Signorina [mom_name]."
 
 # game/UpdateScript0.07.rpy:11059
 translate italian bad_shower_end_faf21bf8:
 
     # PH "Oh, the lovely Miss [mom_name]... Let's go see if we can find her."
+    PH "Oh, la bella signorina [mom_name]... Andiamo a vedere se riusciamo a trovarla."
 
 # game/UpdateScript0.07.rpy:11064
 translate italian bad_shower_end_e4565312:
 
     # M "You did what!?"
+    M "Hai fatto cosa!?"
 
 # game/UpdateScript0.07.rpy:11065
 translate italian bad_shower_end_496ff6ea:
 
     # RT "{i}Ok... Just like I rehearsed in my head.{/i}"
+    RT "{i}Ok... Proprio come ho provato in testa.{/i}"
 
 # game/UpdateScript0.07.rpy:11066
 translate italian bad_shower_end_7a12bfd3:
 
     # R "I'm sorry! It's just that my hoodie has been missing for over a month."
+    R "Mi dispiace! È solo che la mia felpa manca da più di un mese."
 
 # game/UpdateScript0.07.rpy:11067
 translate italian bad_shower_end_841086e3:
 
     # R "I really think my sister Lauren is hiding it in her locker in the girls' locker room."
+    R "Penso davvero che mia sorella Lauren lo stia nascondendo nel suo armadietto nello spogliatoio delle ragazze."
 
 # game/UpdateScript0.07.rpy:11068
 translate italian bad_shower_end_09ceb918_1:
 
     # R "I didn't think anyone would be in the locker room this early in the morning, so I thought I could sneak in there and see if she's been hiding it from me."
+    R "Non pensavo che nessuno sarebbe stato nella stanza dello spogliatoio questa mattina presto, così pensavo che potevo intrufolarmi lì e vedere se mi sta nascondendo."
 
 # game/UpdateScript0.07.rpy:11071
 translate italian bad_shower_end_1218348a:
 
     # PH "I don't know... You know the kid better than I do... But I think he's lying."
+    PH "Non lo so... Conosci il bambino meglio di me... Ma penso che stia mentendo."
 
 # game/UpdateScript0.07.rpy:11074
 translate italian bad_shower_end_3ab26f3d:
 
     # M "I don't know... I know the hoodie he's talking about... And I haven't seen him wear it for over a month."
+    M "Non lo so... conosco la felpa di cui sta parlando... E non l'ho visto indossare per più di un mese."
 
 # game/UpdateScript0.07.rpy:11075
 translate italian bad_shower_end_b0249195_1:
 
     # M "I think he's telling the truth."
+    M "Credo che stia dicendo la verità."
 
 # game/UpdateScript0.07.rpy:11076
 translate italian bad_shower_end_41a13206:
 
     # MT "{i}Stupid little lying pervert!... I can't let him get expelled. I can't afford for him to go to school anywhere else!{/i}"
+    MT "{i}Stupidi sdraiati perversi!... Non posso lasciarlo espellere. Non posso permettermi di andare a scuola altrove!{/i}"
 
 # game/UpdateScript0.07.rpy:11077
 translate italian bad_shower_end_1ddb5cbe:
 
     # MT "{i}He's got to finish school this year so he can move on with his life!{/i}"
+    MT "{i}quest'anno deve finire la scuola in modo da poter andare avanti con la sua vita!{/i}"
 
 # game/UpdateScript0.07.rpy:11080
 translate italian bad_shower_end_5b455e2b_1:
 
     # PH "Well, I'm not convinced."
+    PH "Beh, io non sono convinto."
 
 # game/UpdateScript0.07.rpy:11081
 translate italian bad_shower_end_aa991d34:
 
     # PH "Let's you and me, go discuss it in my office."
+    PH "Andiamo a parlarne nel mio ufficio."
 
 # game/UpdateScript0.07.rpy:11084
 translate italian bad_shower_end_aa13ce48:
 
     # M "I can't belive you did this! Now, you stay here and wait for me! It's not going to be easy to get your ass out of hot water!"
+    M "Non riesco a credere che tu abbia fatto questo! Ora, rimani qui e attendi me! Non sarà facile ottenere il culo dall'acqua calda!"
 
 # game/UpdateScript0.07.rpy:11096
 translate italian bad_shower_end_7684dc99_1:
 
     # {i}\"10 minutes later.\"{/i}"
+    new "{i}\"10 minuti dopo.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11099
 translate italian bad_shower_end_94d452bb:
 
     # M "You better be grateful!... I was able to save you from expulsion!... But you're going to have to do some detention for me."
+    M "È meglio essere grati!... Sono stato in grado di salvarti dall'espulsione!... Ma dovrai fare un po' di detenzione per me."
 
 # game/UpdateScript0.07.rpy:11100
 translate italian bad_shower_end_a8048e82:
@@ -25851,11 +27540,13 @@ translate italian bad_shower_end_a8048e82:
 translate italian bad_shower_end_189a4159:
 
     # M "And you'd better keep you hands clean from here on out!... I don't even want to think about what I would have to do to save your ass if this happens again!"
+    M "Faresti meglio a tenerti le mani pulite da qui in poi!... Non voglio nemmeno pensare a quello che avrei dovuto fare per salvare il culo se questo accadesse di nuovo!"
 
 # game/UpdateScript0.07.rpy:11102
 translate italian bad_shower_end_f1a8a712:
 
     # RT "{i}Huh... That was a weird statement... I wonder what she would have to do.{/i}"
+    RT "{i}Huh... Era una strana dichiarazione... Mi chiedo cosa avrebbe dovuto fare. {/i}"
 
 # game/UpdateScript0.07.rpy:11103
 translate italian bad_shower_end_aab5479a:
@@ -25867,36 +27558,43 @@ translate italian bad_shower_end_aab5479a:
 translate italian bad_shower_end_66f15c1a:
 
     # R "When do I need to come in for detention?"
+    R "Quando ho bisogno di venire in carcere?"
 
 # game/UpdateScript0.07.rpy:11105
 translate italian bad_shower_end_fae1ee85:
 
     # M "Just some time before the school year ends."
+    M "Poco tempo prima della fine dell'anno scolastico."
 
 # game/UpdateScript0.07.rpy:11106
 translate italian bad_shower_end_0627db6e:
 
     # M "I'll let you know when it works for me."
+    M "Ti farò sapere quando lavora per me."
 
 # game/UpdateScript0.07.rpy:11107
 translate italian bad_shower_end_86298de9:
 
     # M "Now, keep your hands clean!"
+    M "Ora, tieni le mani pulite!"
 
 # game/UpdateScript0.07.rpy:11108
 translate italian bad_shower_end_322ea6e6:
 
     # M "I've got to run. I'm going to be late for my class."
+    M "Devo correre. Sarò in ritardo per la mia classe."
 
 # game/UpdateScript0.07.rpy:11111
 translate italian bad_shower_end_256eac77:
 
     # RT "{i}Thank God, Mom got me out of that one!{/i}"
+    RT "{i}Grazie Dio, la mamma mi ha fatto uscire da quella!{/i}"
 
 # game/UpdateScript0.07.rpy:11112
 translate italian bad_shower_end_c3ec5448:
 
     # RT "{i}What should I do next?{/i}"
+    RT "{i}Cosa devo fare dopo?{/i}"
 
 # game/UpdateScript0.07.rpy:11121
 translate italian good_shower_end_6a9755e2:
@@ -26022,11 +27720,13 @@ translate italian good_shower_end_9deda143:
 translate italian good_shower_end_1d7df541:
 
     # L "Would you stop starting at my pussy and finish telling me what's going on?"
+    L "Smetteresti di partire dalla mia figa e finiresti dicendomi cosa sta succedendo?"
 
 # game/UpdateScript0.07.rpy:11165
 translate italian good_shower_end_46f8d9b2:
 
     # {b}{i}\"Lauren's Anger +1\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11167
 translate italian good_shower_end_60bf26cb:
@@ -26410,106 +28110,127 @@ translate italian good_shower_end_50610dbd:
 translate italian girls_locker_spycam_04ca494b:
 
     # RT "{i}Oh nice, it looks like the cheerleaders are showering their sweaty bodies.{/i}"
+    RT "{i}Oh bello, sembra che gli cheerleader stiano facendo la doccia dei loro corpi sudati.{/i}"
 
 # game/UpdateScript0.07.rpy:11281
 translate italian girls_locker_spycam_520a21f8:
 
     # RT "{i}God, I'm lucky... What other high school student gets to see their entire cheerleading squad naked?{/i}"
+    RT "{i}Dio, sono fortunato... Che altro studente di scuola superiore ottiene di vedere il loro intero cheerleading squadra nudo?{/i}"
 
 # game/UpdateScript0.07.rpy:11283
 translate italian girls_locker_spycam_9823572b:
 
     # RT "{i}Shit!... I need to go now or I'll get caught for sure.{/i}"
+    RT "{i}merda!... Ho bisogno di andare ora o mi prenderò di sicuro.{/i}"
 
 # game/UpdateScript0.07.rpy:11291
 translate italian girls_locker_spycam_0f49ef11:
 
     # RT "{i}What luck!... It's the swim team.{/i}"
+    RT "{i}Che fortuna!... È il team di nuoto.{/i}"
 
 # game/UpdateScript0.07.rpy:11296
 translate italian girls_locker_spycam_0305f72b:
 
     # RT "{i}What amazing bodies!{/i}"
+    RT "{i}Che corpi sorprendenti!{/i}"
 
 # game/UpdateScript0.07.rpy:11298
 translate italian girls_locker_spycam_9823572b_1:
 
     # RT "{i}Shit!... I need to go now or I'll get caught for sure.{/i}"
+    RT "{i}merda!... Ho bisogno di andare ora o mi prenderò di sicuro.{/i}"
 
 # game/UpdateScript0.07.rpy:11307
 translate italian girls_locker_spycam_0d216f68:
 
     # RT "{i}It's Lauren, Mandy, and some other girl.{/i}"
+    RT "{i}It's Lauren, Mandy and some other girl.{/i}"
 
 # game/UpdateScript0.07.rpy:11312
 translate italian girls_locker_spycam_5040d1b7:
 
     # RT "{i}I can't believe they still shower here, knowing Diaz or I could be watching.{/i}"
+    RT "{i}Non riesco a credere che possano ancora fare la doccia qui, conoscendo Diaz o io potrei guardare.{/i}"
 
 # game/UpdateScript0.07.rpy:11321
 translate italian girls_locker_spycam_704fecbb:
 
     # RT "{i}Yep, they just don't give a fuck. They've gone full-blown exhibitionist.{/i}"
+    RT "{i}Yep, semplicemente non danno un cazzo. Sono andati esibizionista full-blown.{/i}"
 
 # game/UpdateScript0.07.rpy:11327
 translate italian girls_locker_spycam_704fecbb_1:
 
     # RT "{i}Yep, they just don't give a fuck. They've gone full-blown exhibitionist.{/i}"
+    RT "{i}Yep, semplicemente non danno un cazzo. Sono andati esibizionista full-blown.{/i}"
 
 # game/UpdateScript0.07.rpy:11333
 translate italian girls_locker_spycam_704fecbb_2:
 
     # RT "{i}Yep, they just don't give a fuck. They've gone full-blown exhibitionist.{/i}"
+    RT "{i}Yep, semplicemente non danno un cazzo. Sono andati esibizionista full-blown.{/i}"
 
 # game/UpdateScript0.07.rpy:11338
 translate italian girls_locker_spycam_9d304e93:
 
     # RT "{i}Ok... They're leaving. I'd better leave too, or they're going to catch me.{/i}"
+    RT "{i}Ok... stanno partendo. Farei meglio a partire, o mi cattureranno.{/i}"
 
 # game/UpdateScript0.07.rpy:11346
 translate italian girls_locker_spycam_04ca494b_1:
 
     # RT "{i}Oh nice, it looks like the cheerleaders are showering their sweaty bodies.{/i}"
+    RT "{i}Oh bello, sembra che gli cheerleader stiano facendo la doccia dei loro corpi sudati.{/i}"
 
 # game/UpdateScript0.07.rpy:11351
 translate italian girls_locker_spycam_520a21f8_1:
 
     # RT "{i}God, I'm lucky... What other high school student gets to see their entire cheerleading squad naked?{/i}"
+    RT "{i}Dio, sono fortunato... Che altro studente di scuola superiore ottiene di vedere il loro intero cheerleading squadra nudo?{/i}"
 
 # game/UpdateScript0.07.rpy:11353
 translate italian girls_locker_spycam_09af0eac:
 
     # RT "{i}Shit!... I need to go now, or I'll get caught for sure.{/i}"
+    RT "{i}Merda!... Devo andare ora, o mi beccheranno di sicuro.{/mi}"
 
 # game/UpdateScript0.07.rpy:11369
 translate italian campaign_headquarters_morning_44647885:
 
     # RT "{i}Now that the campaign is over, it's just another girls bathroom.{/i}"
+    RT "{i}Ora che la campagna è finita, è solo un altro bagno ragazza.{/i}"
 
 # game/UpdateScript0.07.rpy:11370
 translate italian campaign_headquarters_morning_2d9aceec:
 
     # RT "{i}I kind of miss those campaign meetings, though.{/i}"
+    RT "{i}Però manco a quelle riunioni della campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:11377
 translate italian campaign_headquarters_morning_3fc3dec2:
 
     # RT "{i}The campaign team must be in class. I should get out of here.{/i}"
+    RT "{i}Il team della campagna deve essere in classe. Dovrei uscire da qui.{/i}"
 
 # game/UpdateScript0.07.rpy:11383
 translate italian campaign_headquarters_afternoon_44647885:
 
     # RT "{i}Now that the campaign is over, it's just another girls bathroom.{/i}"
+    RT "{i}Ora che la campagna è finita, è solo un altro bagno ragazza.{/i}"
 
 # game/UpdateScript0.07.rpy:11384
 translate italian campaign_headquarters_afternoon_2d9aceec:
 
     # RT "{i}I kind of miss those campaign meetings, though.{/i}"
+    RT "{i}Però manco a quelle riunioni della campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:11391
 translate italian campaign_headquarters_afternoon_77108d96:
 
     # RT "{i}We've already had our meeting... It looks like everyone has gone back to class.{/i}"
+    RT "{i}Abbiamo già avuto la nostra riunione... Sembra che tutti siano tornati in classe.{/i}"
 
 # game/UpdateScript0.07.rpy:11398
 translate italian campaign_headquarters_afternoon_1ed47550:
@@ -26521,76 +28242,91 @@ translate italian campaign_headquarters_afternoon_1ed47550:
 translate italian campaign_headquarters_afternoon_e176caa3:
 
     # R "Hey, Kenzie. Is my sister in there?"
+    R "Hey, Kenzie. È mia sorella lì dentro?"
 
 # game/UpdateScript0.07.rpy:11400
 translate italian campaign_headquarters_afternoon_b2f91884:
 
     # K "Yeah, come on in."
+    K "Sì, entrate."
 
 # game/UpdateScript0.07.rpy:11406
 translate italian campaign_headquarters_afternoon_1d7035b5:
 
     # R "Hey, Lauren."
+    R "Hey, Lauren."
 
 # game/UpdateScript0.07.rpy:11410
 translate italian campaign_headquarters_afternoon_828694e3:
 
     # R "Hey, Mandy, Lauren..."
+    R "Ehi, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11411
 translate italian campaign_headquarters_afternoon_e4625c57:
 
     # MD "Hey, [ryan]."
+    MD "Ehi, [ryan]."
 
 # game/UpdateScript0.07.rpy:11412
 translate italian campaign_headquarters_afternoon_38e6ce7f:
 
     # L "Hi, big brother."
+    L "Ciao, fratello maggiore."
 
 # game/UpdateScript0.07.rpy:11413
 translate italian campaign_headquarters_afternoon_167e3912:
 
     # L "Are you all ready to begin our meeting?"
+    L "Siete tutti pronti per iniziare la nostra riunione?"
 
 # game/UpdateScript0.07.rpy:11416
 translate italian campaign_headquarters_afternoon_b5642756:
 
     # {i}\"One campaign meeting later.\"{/i}"
+    new "{i}\"Una riunione della campagna più tardi.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11420
 translate italian campaign_headquarters_afternoon_1c8f82be:
 
     # {i}\"It was brought up in the meeting that you hadn't donated to the campaign yet this week.\"{/i}"
+    new "{i}\"È stato creato nella riunione che non hai ancora donato alla campagna questa settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11421
 translate italian campaign_headquarters_afternoon_294caea0:
 
     # {i}\"How much did you donate during the campaign meeting?\"{/i}"
+    new "{i}\"Quanto hai donato durante la riunione di campagna?\"{/i}"
 
 # game/UpdateScript0.07.rpy:11424
 translate italian campaign_headquarters_afternoon_48e9cb30:
 
     # {i}\"Lauren didn't gain any school influence.\"{/i}"
+    new "{i}\"Lauren non ha guadagnato nessuna influenza scolastica.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11426
 translate italian campaign_headquarters_afternoon_af539ee2:
 
     # {b}{i}\"Money -$100\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11428
 translate italian campaign_headquarters_afternoon_0e36755b:
 
     # {b}{i}\"School Influence +1\"{/i}{/b}"
+    new "{b}{i}\"Influenza della scuola +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11432
 translate italian campaign_headquarters_afternoon_0dc3a1c4:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11434
 translate italian campaign_headquarters_afternoon_63ab36dc:
 
     # {b}{i}\"School Influence +3\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11438
 translate italian campaign_headquarters_afternoon_598bf38c:
@@ -26608,21 +28344,25 @@ translate italian campaign_headquarters_afternoon_83b65130:
 translate italian campaign_headquarters_afternoon_6c7a4953:
 
     # {i}\"It was brought up in the meeting that you haven't torn down Matt's posters and replaced them with Lauren's new posters.\"{/i}"
+    new "{i}\"È stato portato alla riunione che non hai strappato i poster di Matt, sostituendoli con i nuovi poster di Lauren.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11445
 translate italian campaign_headquarters_afternoon_617c01d4:
 
     # {i}\"Would you like to go visit Mrs. Stone to get her help in making new posters?\"{/i}"
+    new "{i}\"Vuoi andare a visitare la signora Stone per ottenere il suo aiuto nel creare nuovi poster?\"{/i}"
 
 # game/UpdateScript0.07.rpy:11450
 translate italian campaign_headquarters_afternoon_13f6a41c:
 
     # {i}\"The rest of the meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
+    new "{i}\"Il resto della riunione è andato abbastanza bene. La campagna di Lauren sta diventando abbastanza ben organizzata.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11453
 translate italian campaign_headquarters_afternoon_4269a0f0:
 
     # {i}\"The meeting went pretty well. Lauren's campaign is getting pretty well organized.\"{/i}"
+    new "{i}\"La riunione è andata abbastanza bene. La campagna di Lauren sta diventando abbastanza ben organizzata.\"{/i}"
 
 # game/UpdateScript0.07.rpy:11460
 translate italian campaign_headquarters_afternoon_1ed47550_1:
@@ -26634,76 +28374,91 @@ translate italian campaign_headquarters_afternoon_1ed47550_1:
 translate italian campaign_headquarters_afternoon_e176caa3_1:
 
     # R "Hey, Kenzie. Is my sister in there?"
+    R "Hey, Kenzie. È mia sorella lì dentro?"
 
 # game/UpdateScript0.07.rpy:11462
 translate italian campaign_headquarters_afternoon_a63645db:
 
     # K "Yeah, still working hard on her campaign."
+    K "Sì, ancora lavorando duramente sulla sua campagna."
 
 # game/UpdateScript0.07.rpy:11463
 translate italian campaign_headquarters_afternoon_b04dfe2d:
 
     # R "Can I come in and talk to her?"
+    R "Posso entrare e parlare con lei?"
 
 # game/UpdateScript0.07.rpy:11464
 translate italian campaign_headquarters_afternoon_1b945386:
 
     # K "Let me check."
+    K "Lasciami controllare."
 
 # game/UpdateScript0.07.rpy:11467
 translate italian campaign_headquarters_afternoon_8f7b12f2:
 
     # K "{i}(yelling){/i} Boy coming in! Is everyone decent?"
+    K "{i}(urlare){/i} Ragazzo in arrivo! Tutti sono decenti?"
 
 # game/UpdateScript0.07.rpy:11468
 translate italian campaign_headquarters_afternoon_341edded:
 
     # L "{i}(distant yelling){/i} Is it my brother?"
+    L "{i}(grillio distante){/i} È mio fratello?"
 
 # game/UpdateScript0.07.rpy:11469
 translate italian campaign_headquarters_afternoon_5e5f9529:
 
     # K "{i}(yelling){/i} Yeah!"
+    K "{i}(urlare){/i} Sì!"
 
 # game/UpdateScript0.07.rpy:11470
 translate italian campaign_headquarters_afternoon_41fc4b42:
 
     # L "{i}(distant yelling){/i} Send him in."
+    L "{i}(distant yelling){/i} Mandalo in."
 
 # game/UpdateScript0.07.rpy:11473
 translate italian campaign_headquarters_afternoon_0640e1df:
 
     # K "Alright, you're cleared to come in... Follow me."
+    K "Bene, sei stato cancellato per entrare... Seguimi."
 
 # game/UpdateScript0.07.rpy:11480
 translate italian campaign_headquarters_afternoon_1d7035b5_1:
 
     # R "Hey, Lauren."
+    R "Hey, Lauren."
 
 # game/UpdateScript0.07.rpy:11484
 translate italian campaign_headquarters_afternoon_828694e3_1:
 
     # R "Hey, Mandy, Lauren..."
+    R "Ehi, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11485
 translate italian campaign_headquarters_afternoon_e4625c57_1:
 
     # MD "Hey, [ryan]."
+    MD "Ehi, [ryan]."
 
 # game/UpdateScript0.07.rpy:11486
 translate italian campaign_headquarters_afternoon_38e6ce7f_1:
 
     # L "Hi, big brother."
+    L "Ciao, fratello maggiore."
 
 # game/UpdateScript0.07.rpy:11487
 translate italian campaign_headquarters_afternoon_db4dae25:
 
     # R "How's the campaign coming? Do you need any help?"
+    R "Com'è arrivata la campagna? Hai bisogno di aiuto?"
 
 # game/UpdateScript0.07.rpy:11495
 translate italian campaign_headquarters_afternoon_e74f7224:
 
     # L "Well, I already asked you to get my posters back up, but so far, all I see in the hallway are Matt's... Are you sure you can handle another task right now?"
+    L "Beh, ti ho già chiesto di riavere i miei poster, ma finora, tutto quello che vedo nel corridoio sono di Matt. Sei sicuro di poter gestire un altro compito in questo momento?"
 
 # game/UpdateScript0.07.rpy:11496
 translate italian campaign_headquarters_afternoon_435a36a0:
@@ -26715,361 +28470,433 @@ translate italian campaign_headquarters_afternoon_435a36a0:
 translate italian campaign_headquarters_afternoon_c28e026b:
 
     # L "Never mind..."
+    L "Non importa mai..."
 
 # game/UpdateScript0.07.rpy:11500
 translate italian campaign_headquarters_afternoon_c328d8a2:
 
     # L "We've got some important stuff we need to discuss."
+    L "Abbiamo alcune cose importanti di cui abbiamo bisogno per discutere."
 
 # game/UpdateScript0.07.rpy:11501
 translate italian campaign_headquarters_afternoon_0162d12f:
 
     # L "Since we're all here, let's get started."
+    L "Dal momento che siamo tutti qui, iniziamo ad iniziare."
 
 # game/UpdateScript0.07.rpy:11508
 translate italian campaign_headquarters_afternoon_7c62b572:
 
     # L "Kenzie?... How is our online campaign coming along?"
+    L "Kenzie?... Com'è in arrivo la nostra campagna online?"
 
 # game/UpdateScript0.07.rpy:11510
 translate italian campaign_headquarters_afternoon_bc577560:
 
     # K "It's picking up steam."
+    K "Sta prendendo vapore."
 
 # game/UpdateScript0.07.rpy:11511
 translate italian campaign_headquarters_afternoon_abe30e33:
 
     # K "I took the liberty of downloading some of your pictures from [ryan]'s Cosplay Heaven account and put some of them in our online ads."
+    K "Mi sono preso la libertà di scaricare alcune delle tue foto dal conto Cosplay Heaven di [ryan] e di metterne alcune nei nostri annunci online."
 
 # game/UpdateScript0.07.rpy:11512
 translate italian campaign_headquarters_afternoon_e97ebd1a:
 
     # K "Right now #CosplayGirlForPresident looks like it's close to trending."
+    K "In questo momento #CosplayGirlForPresident sembra essere vicina alla tendenza."
 
 # game/UpdateScript0.07.rpy:11515
 translate italian campaign_headquarters_afternoon_b164fcfa:
 
     # K "We're still looking good."
+    K "Abbiamo ancora un aspetto positivo."
 
 # game/UpdateScript0.07.rpy:11516
 translate italian campaign_headquarters_afternoon_39639b91:
 
     # K "Your ads with the cosplay pictures keep getting more and more likes, and #CosplayGirlForPresident keeps gaining steam."
+    K "I tuoi annunci con le immagini del cosplay continuano ad essere sempre più simili e #CosplayGirlForPresident continua a guadagnare vapore."
 
 # game/UpdateScript0.07.rpy:11517
 translate italian campaign_headquarters_afternoon_741f7a7a:
 
     # L "Excellent!... Good job, Kenzie!"
+    L "Ottimo!... Ottimo lavoro, Kenzie!"
 
 # game/UpdateScript0.07.rpy:11521
 translate italian campaign_headquarters_afternoon_c4c16664:
 
     # L "Mandy? How is the final skit coming along?"
+    L "Mandy? Come viene lo skit finale?"
 
 # game/UpdateScript0.07.rpy:11524
 translate italian campaign_headquarters_afternoon_e78c3dca:
 
     # MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+    MD "Beh, per essere onesti, non sto trovando ragazze che sono abbastanza buone per fare la mia coreografia di ballo."
 
 # game/UpdateScript0.07.rpy:11525
 translate italian campaign_headquarters_afternoon_d5362a04:
 
     # MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+    MD "Le ragazze della squadra di danza sono troppo impegnate per prepararsi per essere in grado di lavorare con me, e come sappiamo, gli cheerleader sono nella tasca di Matt."
 
 # game/UpdateScript0.07.rpy:11526
 translate italian campaign_headquarters_afternoon_e97b6700:
 
     # R "Actually, I've got some really good news for you, Mandy."
+    R "In realtà, ho alcune buone notizie per voi, Mandy."
 
 # game/UpdateScript0.07.rpy:11527
 translate italian campaign_headquarters_afternoon_ed4568c2:
 
     # R "Thanks to some dirt Agent Diaz gave me on Matt, I was able to turn Megan against him."
+    R "Grazie ad un agente di sporcizia Diaz mi ha dato su Matt, sono stato in grado di girare Megan contro di lui."
 
 # game/UpdateScript0.07.rpy:11530
 translate italian campaign_headquarters_afternoon_b770712e:
 
     # L "Are you serious?... Agent Diaz came through?"
+    L "Sei serio?... L'Agente Diaz è arrivato?"
 
 # game/UpdateScript0.07.rpy:11531
 translate italian campaign_headquarters_afternoon_77c135b9:
 
     # R "Yeah, and now Megan has recruited the cheer squad to promote you instead of Matt."
+    R "Sì, e ora Megan ha reclutato la squadra di tifo per promuoverti al posto di Matt."
 
 # game/UpdateScript0.07.rpy:11532
 translate italian campaign_headquarters_afternoon_990d4230:
 
     # L "Oh, my God!... That is the best news ever!"
+    L "Oh, mio Dio!... Questa è la migliore notizia mai!"
 
 # game/UpdateScript0.07.rpy:11533
 translate italian campaign_headquarters_afternoon_4f6f5b13:
 
     # R "And it gets even better."
+    R "E si fa ancora meglio."
 
 # game/UpdateScript0.07.rpy:11534
 translate italian campaign_headquarters_afternoon_13fa7d22:
 
     # R "I talked to Megan and she said the cheer squad wants to perform the final skit with Mandy."
+    R "Ho parlato con Megan e lei ha detto che la squadra di tifo vuole eseguire lo skit finale con Mandy."
 
 # game/UpdateScript0.07.rpy:11535
 translate italian campaign_headquarters_afternoon_a9395270:
 
     # R "So, Mandy, Megan is just waiting for you to contact her to make some plans."
+    R "Quindi, Mandy, Megan ti aspetta solo per contattarla per fare alcuni piani."
 
 # game/UpdateScript0.07.rpy:11536
 translate italian campaign_headquarters_afternoon_446a5d2e:
 
     # MD "Oh, thank God!... You're the best, [ryan]! I was beginning to think I would have to perform by myself."
+    MD "Oh, grazie Dio!... Sei il migliore, [ryan]! Stavo cominciando a pensare che avrei dovuto eseguire da solo."
 
 # game/UpdateScript0.07.rpy:11537
 translate italian campaign_headquarters_afternoon_7bc3d720:
 
     # MD "Lauren, your skit is going to be so good!"
+    MD "Lauren, il tuo skit sarà così bene!"
 
 # game/UpdateScript0.07.rpy:11538
 translate italian campaign_headquarters_afternoon_ab9f756c:
 
     # L "Yay!"
+    L "Evviva!"
 
 # game/UpdateScript0.07.rpy:11539
 translate italian campaign_headquarters_afternoon_90aff50f:
 
     # R "Oh... but one important thing. I told Megan not to let Matt know she's furious with him."
+    R "Oh... ma una cosa importante. Ho detto a Megan di non far sapere a Matt che è furiosa con lui."
 
 # game/UpdateScript0.07.rpy:11540
 translate italian campaign_headquarters_afternoon_596fb617:
 
     # R "Matt's going to think they're rehearsing for his campaign skit."
+    R "Matt's going to think they are rehearsing for the his campaign skit."
 
 # game/UpdateScript0.07.rpy:11541
 translate italian campaign_headquarters_afternoon_77875179:
 
     # R "I don't want him to know, so that he doesn't have any time to make a backup plan, plus it will be awesome to see him get blindsided on the day of the skit."
+    R "Non voglio che lo sappia, in modo che non abbia tempo per fare un piano di backup, più sarà impressionante vederlo ottenere ciecamente il giorno dello skit."
 
 # game/UpdateScript0.07.rpy:11542
 translate italian campaign_headquarters_afternoon_97219270:
 
     # L "Oh, my God!... I almost feel sorry for him!... I love it!"
+    L "Oh, mio Dio!... mi dispiace quasi per lui!... lo amo!"
 
 # game/UpdateScript0.07.rpy:11543
 translate italian campaign_headquarters_afternoon_d654dfa2:
 
     # L "Good job, [ryan]!"
+    L "Ottimo lavoro, [ryan]!"
 
 # game/UpdateScript0.07.rpy:11546
 translate italian campaign_headquarters_afternoon_d18ad32f:
 
     # L "It sounds like you've got your work cut out for you, Mandy."
+    L "Sembra che tu abbia il tuo lavoro tagliato fuori per te, Mandy."
 
 # game/UpdateScript0.07.rpy:11547
 translate italian campaign_headquarters_afternoon_7d66a28e:
 
     # MD "Don't worry, with coordinated girls like the cheerleaders, we'll be ready in no time."
+    MD "Non ti preoccupare, con ragazze coordinate come i cheerleader, saremo pronti in pochissimo tempo."
 
 # game/UpdateScript0.07.rpy:11548
 translate italian campaign_headquarters_afternoon_de0ecada:
 
     # L "I'm so excited!"
+    L "Sono così eccitato!"
 
 # game/UpdateScript0.07.rpy:11549
 translate italian campaign_headquarters_afternoon_f6a86c35:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11553
 translate italian campaign_headquarters_afternoon_f217bc5f:
 
     # MD "It's coming together really well."
+    MD "Sta venendo insieme veramente bene."
 
 # game/UpdateScript0.07.rpy:11554
 translate italian campaign_headquarters_afternoon_ff44aa09:
 
     # MD "All the cheerleaders are so good. I just have to show them what to do, and they can do it after just a couple tries."
+    MD "Tutti i cheerleader sono così buono. Devo solo mostrare loro cosa fare, e possono farlo dopo solo un paio di tentativi."
 
 # game/UpdateScript0.07.rpy:11555
 translate italian campaign_headquarters_afternoon_aeca6506:
 
     # MD "We've pretty much got the choreography down, now we're just perfecting it."
+    MD "Abbiamo praticamente ottenuto la coreografia giù, ora stiamo solo perfezionandola."
 
 # game/UpdateScript0.07.rpy:11556
 translate italian campaign_headquarters_afternoon_a09f08b8:
 
     # L "That's great news!"
+    L "Questa è una grande notizia!"
 
 # game/UpdateScript0.07.rpy:11557
 translate italian campaign_headquarters_afternoon_17aa7728:
 
     # L "Thanks, Mandy!"
+    L "Grazie, mandato!"
 
 # game/UpdateScript0.07.rpy:11560
 translate italian campaign_headquarters_afternoon_e78c3dca_1:
 
     # MD "Well... To be honest, I'm not finding any girls that are good enough to do my dance choreography."
+    MD "Beh, per essere onesti, non sto trovando ragazze che sono abbastanza buone per fare la mia coreografia di ballo."
 
 # game/UpdateScript0.07.rpy:11561
 translate italian campaign_headquarters_afternoon_d5362a04_1:
 
     # MD "The dance team girls are too busy getting ready for regionals to be able to work with me, and as we know, the cheerleaders are in Matt's pocket."
+    MD "Le ragazze della squadra di danza sono troppo impegnate per prepararsi per essere in grado di lavorare con me, e come sappiamo, gli cheerleader sono nella tasca di Matt."
 
 # game/UpdateScript0.07.rpy:11562
 translate italian campaign_headquarters_afternoon_53b803b6:
 
     # MD "As it is, I'm worried I'm going to have to dance alone."
+    MD "Così com'è, sono preoccupato che dovrò danzare da solo."
 
 # game/UpdateScript0.07.rpy:11563
 translate italian campaign_headquarters_afternoon_083eecc3:
 
     # L "Well, keep trying, Mandy... There are a lot of girls in this school, there's got to be at least a couple that can learn your choreography."
+    L "Beh, continua a provare, Mandy... Ci sono un sacco di ragazze in questa scuola, ci deve essere almeno una coppia che può imparare la tua coreografia."
 
 # game/UpdateScript0.07.rpy:11564
 translate italian campaign_headquarters_afternoon_bf4257b2:
 
     # MD "Yeah, ok, I'll keep trying."
+    MD "Sì, ok, continuerò a provare."
 
 # game/UpdateScript0.07.rpy:11567
 translate italian campaign_headquarters_afternoon_a5cacc4c:
 
     # MD "Same as last reported. I still haven't been able to find any girls that are competent enough to perform with me."
+    MD "Come l'ultima volta riportata. Non sono ancora stato in grado di trovare ragazze che sono abbastanza competenti per eseguire con me."
 
 # game/UpdateScript0.07.rpy:11568
 translate italian campaign_headquarters_afternoon_736b33ad:
 
     # MD "At least I'm getting good at the dance, even if I'll have to dance by myself."
+    MD "Almeno sono bravo alla danza, anche se dovrò ballare da solo."
 
 # game/UpdateScript0.07.rpy:11569
 translate italian campaign_headquarters_afternoon_b57beab7:
 
     # L "Well, don't give up. I know you'll be able to recruit somebody."
+    L "Beh, non arrenderti. So che sarai in grado di reclutare qualcuno."
 
 # game/UpdateScript0.07.rpy:11570
 translate italian campaign_headquarters_afternoon_0f7349fe:
 
     # MD "Yeah, I'll keep trying."
+    MD "Sì, continuerò a provare."
 
 # game/UpdateScript0.07.rpy:11574
 translate italian campaign_headquarters_afternoon_14ba035a:
 
     # L "Let's see, next on the agenda is the final skit."
+    L "Vediamo, poi all'ordine del giorno è lo skit finale."
 
 # game/UpdateScript0.07.rpy:11577
 translate italian campaign_headquarters_afternoon_6acfd4bc:
 
     # L "I've been working with my cousin, Mandy, and we've put together some pretty good choreography."
+    L "Ho lavorato con mio cugino, Mandy, e abbiamo messo insieme una coreografia abbastanza buona."
 
 # game/UpdateScript0.07.rpy:11578
 translate italian campaign_headquarters_afternoon_25616779:
 
     # L "Unfortunately, I can't find any girls who are good enough to perform it."
+    L "Sfortunatamente, non riesco a trovare ragazze che sono abbastanza brave per eseguirlo."
 
 # game/UpdateScript0.07.rpy:11579
 translate italian campaign_headquarters_afternoon_11a3f783:
 
     # R "Actually, I've got some really good news for you, Lauren."
+    R "In realtà, ho alcune buone notizie per voi, Lauren."
 
 # game/UpdateScript0.07.rpy:11580
 translate italian campaign_headquarters_afternoon_ed4568c2_1:
 
     # R "Thanks to some dirt Agent Diaz gave me on Matt, I was able to turn Megan against him."
+    R "Grazie ad un agente di sporcizia Diaz mi ha dato su Matt, sono stato in grado di girare Megan contro di lui."
 
 # game/UpdateScript0.07.rpy:11581
 translate italian campaign_headquarters_afternoon_b770712e_1:
 
     # L "Are you serious?... Agent Diaz came through?"
+    L "Sei serio?... L'Agente Diaz è arrivato?"
 
 # game/UpdateScript0.07.rpy:11582
 translate italian campaign_headquarters_afternoon_77c135b9_1:
 
     # R "Yeah, and now Megan has recruited the cheer squad to promote you instead of Matt."
+    R "Sì, e ora Megan ha reclutato la squadra di tifo per promuoverti al posto di Matt."
 
 # game/UpdateScript0.07.rpy:11583
 translate italian campaign_headquarters_afternoon_ff515760:
 
     # L "Oh, my God!... That is the best news ever."
+    L "Oh, mio Dio!... Questa è la migliore notizia mai."
 
 # game/UpdateScript0.07.rpy:11584
 translate italian campaign_headquarters_afternoon_4f6f5b13_1:
 
     # R "And it gets even better."
+    R "E si fa ancora meglio."
 
 # game/UpdateScript0.07.rpy:11585
 translate italian campaign_headquarters_afternoon_c332b74d:
 
     # R "I talked to Megan, and she said the cheer squad wants to perform the final skit for you."
+    R "Ho parlato con Megan, e ha detto che la squadra cheer vuole eseguire la scenetta finale per voi."
 
 # game/UpdateScript0.07.rpy:11586
 translate italian campaign_headquarters_afternoon_4155d5c6:
 
     # R "So, you could get Mandy to contact Megan, and they could make some plans to get together and practice."
+    R "Così, si potrebbe ottenere Mandy a contattare Megan, e potrebbero fare alcuni piani per riunirsi e praticare."
 
 # game/UpdateScript0.07.rpy:11587
 translate italian campaign_headquarters_afternoon_ea736d56:
 
     # L "Oh, thank God!... You're the best [ryan]! I was beginning to think I would have to drag Mandy here to perform by herself."
+    L "Oh, grazie Dio!... Sei il migliore [ryan]! Stavo cominciando a pensare che avrei dovuto trascinare Mandy qui per eseguire da sola."
 
 # game/UpdateScript0.07.rpy:11588
 translate italian campaign_headquarters_afternoon_90aff50f_1:
 
     # R "Oh... but one important thing. I told Megan not to let Matt know she's furious with him."
+    R "Oh... ma una cosa importante. Ho detto a Megan di non far sapere a Matt che è furiosa con lui."
 
 # game/UpdateScript0.07.rpy:11589
 translate italian campaign_headquarters_afternoon_596fb617_1:
 
     # R "Matt's going to think they're rehearsing for his campaign skit."
+    R "Matt's going to think they are rehearsing for the his campaign skit."
 
 # game/UpdateScript0.07.rpy:11590
 translate italian campaign_headquarters_afternoon_77875179_1:
 
     # R "I don't want him to know, so that he doesn't have any time to make a backup plan, plus it will be awesome to see him get blindsided on the day of the skit."
+    R "Non voglio che lo sappia, in modo che non abbia tempo per fare un piano di backup, più sarà impressionante vederlo ottenere ciecamente il giorno dello skit."
 
 # game/UpdateScript0.07.rpy:11591
 translate italian campaign_headquarters_afternoon_97219270_1:
 
     # L "Oh, my God!... I almost feel sorry for him!... I love it!"
+    L "Oh, mio Dio!... mi dispiace quasi per lui!... lo amo!"
 
 # game/UpdateScript0.07.rpy:11592
 translate italian campaign_headquarters_afternoon_d654dfa2_1:
 
     # L "Good job, [ryan]!"
+    L "Ottimo lavoro, [ryan]!"
 
 # game/UpdateScript0.07.rpy:11593
 translate italian campaign_headquarters_afternoon_de0ecada_1:
 
     # L "I'm so excited!"
+    L "Sono così eccitato!"
 
 # game/UpdateScript0.07.rpy:11594
 translate italian campaign_headquarters_afternoon_f6a86c35_1:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11598
 translate italian campaign_headquarters_afternoon_e8ce76b3:
 
     # L "I know my cousin Mandy has been meeting with Megan and the cheerleaders, and I think the skit is coming together pretty well."
+    L "So che mio cugino Mandy si è incontrato con Megan e gli cheerleader, e penso che lo skit si stia avvicinando abbastanza bene."
 
 # game/UpdateScript0.07.rpy:11599
 translate italian campaign_headquarters_afternoon_1ba5ed8e:
 
     # L "I got a chance to watch them reahearsing, and I'm feeling pretty confident that it's going to be awesome!"
+    L "Ho avuto la possibilità di vederle provare, e mi sento abbastanza sicuro che sarà fantastico!"
 
 # game/UpdateScript0.07.rpy:11601
 translate italian campaign_headquarters_afternoon_6acfd4bc_1:
 
     # L "I've been working with my cousin, Mandy, and we've put together some pretty good choreography."
+    L "Ho lavorato con mio cugino, Mandy, e abbiamo messo insieme una coreografia abbastanza buona."
 
 # game/UpdateScript0.07.rpy:11602
 translate italian campaign_headquarters_afternoon_25616779_1:
 
     # L "Unfortunately, I can't find any girls who are good enough to perform it."
+    L "Sfortunatamente, non riesco a trovare ragazze che sono abbastanza brave per eseguirlo."
 
 # game/UpdateScript0.07.rpy:11603
 translate italian campaign_headquarters_afternoon_86acff21:
 
     # L "Hopefully I won't have to drag Mandy here to perform it by herself."
+    L "Speriamo che non dovrò trascinare Mandy qui per eseguire da sola."
 
 # game/UpdateScript0.07.rpy:11607
 translate italian campaign_headquarters_afternoon_098f8a84:
 
     # L "Ok... [ryan]?"
+    L "Ok... [ryan]?"
 
 # game/UpdateScript0.07.rpy:11608
 translate italian campaign_headquarters_afternoon_95428694:
@@ -27081,51 +28908,61 @@ translate italian campaign_headquarters_afternoon_95428694:
 translate italian campaign_headquarters_afternoon_d68b9d69:
 
     # L "It's been a while since we discussed trying to get permission to change the dress code."
+    L "È passato un po' di tempo da quando abbiamo discusso cercando di ottenere il permesso di cambiare il codice di abbigliamento."
 
 # game/UpdateScript0.07.rpy:11610
 translate italian campaign_headquarters_afternoon_5284b570:
 
     # L "Have you made any progress on that?"
+    L "Hai compiuto qualche progresso in proposito?"
 
 # game/UpdateScript0.07.rpy:11611
 translate italian campaign_headquarters_afternoon_c6704b93:
 
     # R "I actually have some really good news today."
+    R "In realtà oggi ho alcune buone notizie."
 
 # game/UpdateScript0.07.rpy:11612
 translate italian campaign_headquarters_afternoon_87e91bd1:
 
     # R "I've received an email from Mr. William Tylor informing me that the modifications to the current dress code have been approved."
+    R "Ho ricevuto una mail da William Tylor informandomi che le modifiche al codice di abbigliamento corrente sono state approvate."
 
 # game/UpdateScript0.07.rpy:11613
 translate italian campaign_headquarters_afternoon_aaa34e17:
 
     # R "You'll be able to announce the change in your campaign speech!"
+    R "Sarai in grado di annunciare il cambiamento nel tuo discorso della campagna!"
 
 # game/UpdateScript0.07.rpy:11622
 translate italian campaign_headquarters_afternoon_061842d4:
 
     # L "Oh, my God!... [ryan]!... you did it!"
+    L "Oh, mio Dio!... [ryan]!... l'hai fatta!"
 
 # game/UpdateScript0.07.rpy:11623
 translate italian campaign_headquarters_afternoon_63172e85:
 
     # MD "This will make us win for sure!"
+    MD "Ciò ci farà vincere di sicuro!"
 
 # game/UpdateScript0.07.rpy:11624
 translate italian campaign_headquarters_afternoon_fcae4469:
 
     # L "It's more than likely, but we've still got to be vigilant and do our best."
+    L "È più che probabile, ma dobbiamo ancora essere vigilanti e fare del nostro meglio."
 
 # game/UpdateScript0.07.rpy:11625
 translate italian campaign_headquarters_afternoon_41115795:
 
     # L "Good job [ryan]!... You really came through."
+    L "Buon lavoro [ryan]!... Sei davvero riuscito."
 
 # game/UpdateScript0.07.rpy:11630
 translate italian campaign_headquarters_afternoon_098f8a84_1:
 
     # L "Ok... [ryan]?"
+    L "Ok... [ryan]?"
 
 # game/UpdateScript0.07.rpy:11631
 translate italian campaign_headquarters_afternoon_95428694_1:
@@ -27137,136 +28974,163 @@ translate italian campaign_headquarters_afternoon_95428694_1:
 translate italian campaign_headquarters_afternoon_d68b9d69_1:
 
     # L "It's been a while since we discussed trying to get permission to change the dress code."
+    L "È passato un po' di tempo da quando abbiamo discusso cercando di ottenere il permesso di cambiare il codice di abbigliamento."
 
 # game/UpdateScript0.07.rpy:11633
 translate italian campaign_headquarters_afternoon_5284b570_1:
 
     # L "Have you made any progress on that?"
+    L "Hai compiuto qualche progresso in proposito?"
 
 # game/UpdateScript0.07.rpy:11634
 translate italian campaign_headquarters_afternoon_aab2bd16:
 
     # R "No, I've been trying, but so far no luck."
+    R "No, ho provato, ma finora non ho avuto fortuna."
 
 # game/UpdateScript0.07.rpy:11635
 translate italian campaign_headquarters_afternoon_b643e9d2:
 
     # L "Alright, well keep trying."
+    L "Va bene, continua a provare."
 
 # game/UpdateScript0.07.rpy:11639
 translate italian campaign_headquarters_afternoon_782b149d:
 
     # L "Ok... I've got a new item for the agenda."
+    L "Ok... Ho un nuovo oggetto per l'ordine del giorno."
 
 # game/UpdateScript0.07.rpy:11640
 translate italian campaign_headquarters_afternoon_8705efa9:
 
     # L "I had the thought that we need to do something that gives us an edge, something that gives voters a solid reason why voting for me would actually make the school better than if Matt were president."
+    L "Avevo pensato che dovevamo fare qualcosa che ci desse un bordo, qualcosa che dà agli elettori un valido motivo per cui votare per me in realtà renderebbe la scuola migliore rispetto a se Matt fosse presidente."
 
 # game/UpdateScript0.07.rpy:11641
 translate italian campaign_headquarters_afternoon_246c933b:
 
     # L "So, I want us to come up with an idea that we can present to the school administration, and see if there's something unique they would let us impliment at the school if I won."
+    L "Quindi, voglio che ci venga un'idea che possiamo presentare all'amministrazione della scuola, e vedere se c'è qualcosa di unico che ci farebbe implorare alla scuola se ho vinto."
 
 # game/UpdateScript0.07.rpy:11642
 translate italian campaign_headquarters_afternoon_591a9f85:
 
     # L "I want us to brainstorm up a really good idea that we can present to them."
+    L "Voglio che ci riallacciiamo a una buona idea che possiamo presentare loro."
 
 # game/UpdateScript0.07.rpy:11643
 translate italian campaign_headquarters_afternoon_82f30cfd:
 
     # R "Hmmm..."
+    R "Hmmm..."
 
 # game/UpdateScript0.07.rpy:11646
 translate italian campaign_headquarters_afternoon_8e1f8c0c:
 
     # K "What about an extra ten minutes for lunch?"
+    K "Che ne dici di dieci minuti extra per pranzo?"
 
 # game/UpdateScript0.07.rpy:11647
 translate italian campaign_headquarters_afternoon_ed000d26:
 
     # L "We could try that, but I'll bet they would make us get out of school ten minutes later too."
+    L "Potremmo provare quello, ma scommetto che ci farebbero uscire dalla scuola anche dieci minuti dopo."
 
 # game/UpdateScript0.07.rpy:11648
 translate italian campaign_headquarters_afternoon_4aed32f8:
 
     # MD "Yeah, that could make the students upset."
+    MD "Sì, questo potrebbe far arrabbiare gli studenti."
 
 # game/UpdateScript0.07.rpy:11649
 translate italian campaign_headquarters_afternoon_393bb715:
 
     # L "We'll keep the idea in mind."
+    L "Teniamo in mente questa idea."
 
 # game/UpdateScript0.07.rpy:11652
 translate italian campaign_headquarters_afternoon_221640a5:
 
     # MD "Hmmm..."
+    MD "Hmmm..."
 
 # game/UpdateScript0.07.rpy:11653
 translate italian campaign_headquarters_afternoon_3fac1aa0:
 
     # MD "What if we made every Friday pizza day?"
+    MD "E se facessimo ogni giorno della pizza del venerdì?"
 
 # game/UpdateScript0.07.rpy:11654
 translate italian campaign_headquarters_afternoon_0cc1b4d3:
 
     # MG "And not the crappy lunch lady pizza, but have Ray's Pizza from downtown bring it in."
+    MG "E non la crappy pranzo signora pizza, ma hanno la Pizza di Ray dal centro della città portarla dentro."
 
 # game/UpdateScript0.07.rpy:11655
 translate italian campaign_headquarters_afternoon_82aaa629:
 
     # L "That's a fun idea."
+    L "Questa è un'idea divertente."
 
 # game/UpdateScript0.07.rpy:11656
 translate italian campaign_headquarters_afternoon_4793361e:
 
     # L "I wonder if the administration would be open to that?"
+    L "Mi chiedo se l'amministrazione sia aperta a questo?"
 
 # game/UpdateScript0.07.rpy:11657
 translate italian campaign_headquarters_afternoon_dbd12f58:
 
     # L "That's definitely an option."
+    L "Questa è sicuramente un'opzione."
 
 # game/UpdateScript0.07.rpy:11660
 translate italian campaign_headquarters_afternoon_387ac2b0:
 
     # L "What about you, [ryan]?"
+    L "Che dire di te, [ryan]?"
 
 # game/UpdateScript0.07.rpy:11661
 translate italian campaign_headquarters_afternoon_9bb74198:
 
     # L "Any ideas?"
+    L "Qualche idea?"
 
 # game/UpdateScript0.07.rpy:11662
 translate italian campaign_headquarters_afternoon_7e1f0e34:
 
     # RT "{i}Not one that anybody else would think is a good idea.{/i}"
+    RT "{i}Nessuno che nessun altro penserebbe sia una buona idea.{/i}"
 
 # game/UpdateScript0.07.rpy:11663
 translate italian campaign_headquarters_afternoon_fe208f81:
 
     # RT "{i}Ever since I saw Lauren wear a sexy schoolgirl outfit, I can't help but picture all the girls at school in one.{/i}"
+    RT "{i}Da quando ho visto Lauren indossare un vestito sexy studentesse, non posso fare a meno di fotografare tutte le ragazze a scuola in uno.{/i}"
 
 # game/UpdateScript0.07.rpy:11664
 translate italian campaign_headquarters_afternoon_932f5eeb:
 
     # RT "{i}If only that could be the dress code.{/i}"
+    RT "{i}Se solo questo può essere il codice di vestito.{/i}"
 
 # game/UpdateScript0.07.rpy:11665
 translate italian campaign_headquarters_afternoon_8f1e66c0:
 
     # RT "{i}Yeah... I doubt I could even convince Lauren, Mandy, and Kenzie, let alone the administration.{/i}"
+    RT "{i}Sì... Dubito che potrei anche convincere Lauren, Mandy e Kenzie, per non parlare dell'amministrazione.{/i}"
 
 # game/UpdateScript0.07.rpy:11666
 translate italian campaign_headquarters_afternoon_d3f2b689:
 
     # RT "{i}Unless...{/i}"
+    RT "{i}Indipendente...{/i}"
 
 # game/UpdateScript0.07.rpy:11667
 translate italian campaign_headquarters_afternoon_7ba6dbf1:
 
     # R "What if we change the dress code?"
+    R "Cosa succede se cambiiamo il codice di vestito?"
 
 # game/UpdateScript0.07.rpy:11670
 translate italian campaign_headquarters_afternoon_e60e938d:
@@ -27278,116 +29142,139 @@ translate italian campaign_headquarters_afternoon_e60e938d:
 translate italian campaign_headquarters_afternoon_0eae1da4:
 
     # R "Well, I know it's the number one complaint I hear from all the other guys."
+    R "Beh, so che è la lamentela numero uno che sento da tutti gli altri uomini."
 
 # game/UpdateScript0.07.rpy:11672
 translate italian campaign_headquarters_afternoon_d2d13cd5:
 
     # R "Think about how spotty the school's air conditioner works."
+    R "Pensa a come funziona il condizionatore dell'aria della scuola."
 
 # game/UpdateScript0.07.rpy:11673
 translate italian campaign_headquarters_afternoon_2e8f4eb9:
 
     # R "Some days it can get so hot that I can't even concentrate on what the teacher is saying."
+    R "Alcuni giorni può diventare così caldo che non posso nemmeno concentrarmi su quello che dice l'insegnante."
 
 # game/UpdateScript0.07.rpy:11674
 translate italian campaign_headquarters_afternoon_b627640d:
 
     # R "I mean wool pants?... I can't even imagine how miserable you girls are in those sweater vests."
+    R "Intendo pantaloni di lana?... Non riesco nemmeno a immaginare quanto miserabili siano le ragazze in quei giubbotti maglione."
 
 # game/UpdateScript0.07.rpy:11677
 translate italian campaign_headquarters_afternoon_021ae4d3:
 
     # L "Actually, yeah... sometimes I get so hot my makeup starts running."
+    L "In realtà, sì... a volte ho così caldo il mio trucco inizia a correre."
 
 # game/UpdateScript0.07.rpy:11678
 translate italian campaign_headquarters_afternoon_0f9fb90b:
 
     # K "And not to mention how tirelessly conservative these archaic uniforms are."
+    K "E per non parlare di quanto sono instancabilmente conservatrici queste divise arcaiche."
 
 # game/UpdateScript0.07.rpy:11679
 translate italian campaign_headquarters_afternoon_356c3ce1:
 
     # MD "Yeah... Maybe they would let us get rid of the dress code completely."
+    MD "Sì... Forse ci avrebbero lasciato sbarazzarsi del codice di vestito completo."
 
 # game/UpdateScript0.07.rpy:11680
 translate italian campaign_headquarters_afternoon_0816ba5f:
 
     # MD "Let us wear whatever we want to school."
+    MD "Portiamo tutto quello che vogliamo a scuola."
 
 # game/UpdateScript0.07.rpy:11681
 translate italian campaign_headquarters_afternoon_b9c9a007:
 
     # RT "{i}No way... I want to see sexy schoolgirl uniforms!{/i}"
+    RT "{i}Nessun modo... Voglio vedere uniformi sexy studentessa!{/i}"
 
 # game/UpdateScript0.07.rpy:11682
 translate italian campaign_headquarters_afternoon_4d93cc86:
 
     # R "Well... I doubt they'd get rid of uniforms, I think all the private schools in the state use them for some reason, but if we could get some that breathe a little more."
+    R "Beh... Dubito che si sarebbero sbarazzati di uniformi, penso che tutte le scuole private dello stato li usano per qualche ragione, ma se potessimo ottenere alcuni che respirare un po' di più."
 
 # game/UpdateScript0.07.rpy:11683
 translate italian campaign_headquarters_afternoon_74d353b0:
 
     # L "I actually love the idea."
+    L "In realtà amo l’idea."
 
 # game/UpdateScript0.07.rpy:11684
 translate italian campaign_headquarters_afternoon_2f62919e:
 
     # L "And maybe they'll allow for some styles that are a little more modern."
+    L "E forse permetteranno alcuni stili che sono un po 'più moderni."
 
 # game/UpdateScript0.07.rpy:11685
 translate italian campaign_headquarters_afternoon_8d9c8fc1:
 
     # L "Let's vote... Who thinks the dress code idea is the best?"
+    L "Votiamo... Chi pensa che l'idea del codice di abbigliamento sia il migliore?"
 
 # game/UpdateScript0.07.rpy:11686
 translate italian campaign_headquarters_afternoon_3164172c:
 
     # MD "Aye"
+    MD "Sì"
 
 # game/UpdateScript0.07.rpy:11687
 translate italian campaign_headquarters_afternoon_e372f6b7:
 
     # K "Aye"
+    K "Sì"
 
 # game/UpdateScript0.07.rpy:11688
 translate italian campaign_headquarters_afternoon_4e52c178:
 
     # L "Aye"
+    L "Sì"
 
 # game/UpdateScript0.07.rpy:11689
 translate italian campaign_headquarters_afternoon_33c77af8:
 
     # R "Aye"
+    R "Sì"
 
 # game/UpdateScript0.07.rpy:11690
 translate italian campaign_headquarters_afternoon_0edbf3e3:
 
     # L "Perfect, and we can have the pizza idea as a backup if they say no."
+    L "Perfetto, e possiamo avere l'idea di pizza come un backup se dicono no."
 
 # game/UpdateScript0.07.rpy:11691
 translate italian campaign_headquarters_afternoon_d0167552:
 
     # L "Now, how do we go about presenting this to the administration?"
+    L "Ora, come facciamo a presentare questo all'amministrazione?"
 
 # game/UpdateScript0.07.rpy:11692
 translate italian campaign_headquarters_afternoon_9fbf228a:
 
     # RT "{i}To get sexy schoolgirl outfits, our only chance is to talk to school board member, Will Tylor.{/i}"
+    RT "{i}Per ottenere abiti sexy studentesse, la nostra unica possibilità è di parlare con il membro del consiglio di scuola, Will Tylor.{/i}"
 
 # game/UpdateScript0.07.rpy:11693
 translate italian campaign_headquarters_afternoon_5559f539:
 
     # RT "{i}Mom's always complaining about what a pervert she thinks he is.{/i}"
+    RT "{i}Mamma si lamenta sempre di quello che un perverso pensa che sia.{/i}"
 
 # game/UpdateScript0.07.rpy:11694
 translate italian campaign_headquarters_afternoon_042426f8:
 
     # RT "{i}If he's as bad as Mom thinks he is... maybe there's a chance.{/i}"
+    RT "{i}Se è male come la mamma pensa di essere... forse c'è una possibilità.{/i}"
 
 # game/UpdateScript0.07.rpy:11695
 translate italian campaign_headquarters_afternoon_5d48e4aa:
 
     # R "I'll take care of it."
+    R "Me ne occuperò io."
 
 # game/UpdateScript0.07.rpy:11696
 translate italian campaign_headquarters_afternoon_b412930a:
@@ -27405,121 +29292,145 @@ translate italian campaign_headquarters_afternoon_00db6193:
 translate italian campaign_headquarters_afternoon_5a173674:
 
     # R "I'll figure it out."
+    R "La capirò."
 
 # game/UpdateScript0.07.rpy:11701
 translate italian campaign_headquarters_afternoon_17ee2d85:
 
     # R "Don't worry... You can count on me."
+    R "Non ti preoccupare... Puoi contare su di me."
 
 # game/UpdateScript0.07.rpy:11704
 translate italian campaign_headquarters_afternoon_b0a3356c:
 
     # L "Alright... But don't let us down."
+    L "Va bene... Ma non fateci giù."
 
 # game/UpdateScript0.07.rpy:11705
 translate italian campaign_headquarters_afternoon_c9a9e9c1:
 
     # R "I've got this."
+    R "Io ho questo."
 
 # game/UpdateScript0.07.rpy:11706
 translate italian campaign_headquarters_afternoon_f6cb8dfc:
 
     # L "Okay...."
+    L "Okay...."
 
 # game/UpdateScript0.07.rpy:11708
 translate italian campaign_headquarters_afternoon_04cb88cb:
 
     # L "So, then the next thing on the agenda is my campaign speech."
+    L "Quindi, la cosa successiva all'ordine del giorno è il mio discorso di campagna."
 
 # game/UpdateScript0.07.rpy:11709
 translate italian campaign_headquarters_afternoon_78c8c8eb:
 
     # L "I'm happy to report that it's coming along nicely."
+    L "Sono felice di riferire che sta arrivando bene."
 
 # game/UpdateScript0.07.rpy:11710
 translate italian campaign_headquarters_afternoon_0f838800:
 
     # L "And let's see, next up is campaign finances."
+    L "E vediamo, il prossimo è le finanze della campagna."
 
 # game/UpdateScript0.07.rpy:11711
 translate italian campaign_headquarters_afternoon_bf7e6edc:
 
     # L "We've used up all the money in our treasury, and [ryan], I was hoping we could get some more cash to keep the ball rolling."
+    L "Abbiamo utilizzato tutti i soldi nel nostro tesoro, e [ryan], Speravo che potessimo ottenere un po 'di denaro in più per mantenere la palla rotolare."
 
 # game/UpdateScript0.07.rpy:11712
 translate italian campaign_headquarters_afternoon_b44019b3:
 
     # L "The money will be used mostly for flyers and other campaign swag."
+    L "Il denaro sarà utilizzato per lo più per volantini e altri swag."
 
 # game/UpdateScript0.07.rpy:11713
 translate italian campaign_headquarters_afternoon_4f6f93b7:
 
     # L "Can we count on you this week, [ryan]?"
+    L "Possiamo contare su di te questa settimana, [ryan]?"
 
 # game/UpdateScript0.07.rpy:11714
 translate italian campaign_headquarters_afternoon_8eb68a0e:
 
     # RT "{i}How generous do I want to be this week?{/i}"
+    RT "{i}Quanto voglio essere generosa questa settimana?{/i}"
 
 # game/UpdateScript0.07.rpy:11717
 translate italian campaign_headquarters_afternoon_181f5ba1:
 
     # R "I'm really sorry, but I don't have any money to spare right now."
+    R "Mi dispiace davvero, ma non ho soldi da risparmiare in questo momento."
 
 # game/UpdateScript0.07.rpy:11718
 translate italian campaign_headquarters_afternoon_c4a86d90:
 
     # R "I'll try to get some together and bring it in another day."
+    R "Cercherò di riunirmi e di portarlo in un altro giorno."
 
 # game/UpdateScript0.07.rpy:11725
 translate italian campaign_headquarters_afternoon_e1b7c070:
 
     # L "Fine, just try to get it to use before the end of the week. I need time to get that swag ordered."
+    L "Bene, basta cercare di farlo usare prima della fine della settimana. Ho bisogno di tempo per ottenere quel swag ordinato."
 
 # game/UpdateScript0.07.rpy:11727
 translate italian campaign_headquarters_afternoon_dcfdc438:
 
     # R "Let's see... I think I can spare a hundred dollars for the campaign this week."
+    R "Vediamo... penso di poter risparmiare cento dollari per la campagna questa settimana."
 
 # game/UpdateScript0.07.rpy:11728
 translate italian campaign_headquarters_afternoon_af539ee2_1:
 
     # {b}{i}\"Money -$100\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11736
 translate italian campaign_headquarters_afternoon_41621b7d:
 
     # L "Alright... That won't go very far, but it's better than nothing... Thanks, [ryan]."
+    L "Bene... Questo non andrà molto lontano, ma è meglio che niente... Grazie, [ryan]."
 
 # game/UpdateScript0.07.rpy:11737
 translate italian campaign_headquarters_afternoon_0e36755b_1:
 
     # {b}{i}\"School Influence +1\"{/i}{/b}"
+    new "{b}{i}\"Influenza della scuola +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11741
 translate italian campaign_headquarters_afternoon_da699ae6:
 
     # R "I think I should be able to afford three hundred dollars this week."
+    R "Credo che dovrei essere in grado di permettermi trecento dollari questa settimana."
 
 # game/UpdateScript0.07.rpy:11742
 translate italian campaign_headquarters_afternoon_0dc3a1c4_1:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11750
 translate italian campaign_headquarters_afternoon_f3b2fb77:
 
     # L "Perfect!... That should be just enough to get us through the week."
+    L "Perfetto!... Dovrebbe essere sufficiente per farci passare per la settimana."
 
 # game/UpdateScript0.07.rpy:11751
 translate italian campaign_headquarters_afternoon_63ab36dc_1:
 
     # {b}{i}\"School Influence +3\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11755
 translate italian campaign_headquarters_afternoon_51ceddf0:
 
     # R "Will five hundred cover your expenses this week?"
+    R "Quattrocento copriranno le spese questa settimana?"
 
 # game/UpdateScript0.07.rpy:11756
 translate italian campaign_headquarters_afternoon_598bf38c_1:
@@ -27531,11 +29442,13 @@ translate italian campaign_headquarters_afternoon_598bf38c_1:
 translate italian campaign_headquarters_afternoon_6fefa595:
 
     # L "Wow!... That's so generous! That will cover everything we need, and more."
+    L "Wow!... È così generoso! Questo coprirà tutto ciò di cui abbiamo bisogno e altro ancora."
 
 # game/UpdateScript0.07.rpy:11765
 translate italian campaign_headquarters_afternoon_8357b543:
 
     # L "This is going to be so helpful!"
+    L "Questo sarà così utile!"
 
 # game/UpdateScript0.07.rpy:11766
 translate italian campaign_headquarters_afternoon_83b65130_1:
@@ -27547,26 +29460,31 @@ translate italian campaign_headquarters_afternoon_83b65130_1:
 translate italian campaign_headquarters_afternoon_59e472a0:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11771
 translate italian campaign_headquarters_afternoon_3c997abd:
 
     # L "And with that... I think this meeting is adjourned."
+    L "E con quello... penso che questo incontro sia un viaggio."
 
 # game/UpdateScript0.07.rpy:11772
 translate italian campaign_headquarters_afternoon_72cbde39:
 
     # L "Thank you all so much for all your help!"
+    L "Grazie a tutti per tutto il vostro aiuto!"
 
 # game/UpdateScript0.07.rpy:11780
 translate italian campaign_headquarters_afternoon_b3264da7:
 
     # RT "{i}I still need to get Lauren some new posters.{/i}"
+    RT "{i}Ho ancora bisogno di ottenere Lauren alcuni nuovi posters.{/i}"
 
 # game/UpdateScript0.07.rpy:11781
 translate italian campaign_headquarters_afternoon_cba7ca29:
 
     # RT "{i}Should I go ask Mrs. Stone for some help with the posters?{/i}"
+    RT "{i}Dovrei andare a chiedere alla signora Stone qualche aiuto con i manifesti?{/i}"
 
 # game/UpdateScript0.07.rpy:11799
 translate italian campaign_headquarters_afternoon_1ed47550_2:
@@ -27578,76 +29496,91 @@ translate italian campaign_headquarters_afternoon_1ed47550_2:
 translate italian campaign_headquarters_afternoon_e176caa3_2:
 
     # R "Hey, Kenzie. Is my sister in there?"
+    R "Hey, Kenzie. È mia sorella lì dentro?"
 
 # game/UpdateScript0.07.rpy:11801
 translate italian campaign_headquarters_afternoon_a63645db_1:
 
     # K "Yeah, still working hard on her campaign."
+    K "Sì, ancora lavorando duramente sulla sua campagna."
 
 # game/UpdateScript0.07.rpy:11802
 translate italian campaign_headquarters_afternoon_b04dfe2d_1:
 
     # R "Can I come in and talk to her?"
+    R "Posso entrare e parlare con lei?"
 
 # game/UpdateScript0.07.rpy:11803
 translate italian campaign_headquarters_afternoon_1b945386_1:
 
     # K "Let me check."
+    K "Lasciami controllare."
 
 # game/UpdateScript0.07.rpy:11806
 translate italian campaign_headquarters_afternoon_8f7b12f2_1:
 
     # K "{i}(yelling){/i} Boy coming in! Is everyone decent?"
+    K "{i}(urlare){/i} Ragazzo in arrivo! Tutti sono decenti?"
 
 # game/UpdateScript0.07.rpy:11807
 translate italian campaign_headquarters_afternoon_341edded_1:
 
     # L "{i}(distant yelling){/i} Is it my brother?"
+    L "{i}(grillio distante){/i} È mio fratello?"
 
 # game/UpdateScript0.07.rpy:11808
 translate italian campaign_headquarters_afternoon_5e5f9529_1:
 
     # K "{i}(yelling){/i} Yeah!"
+    K "{i}(urlare){/i} Sì!"
 
 # game/UpdateScript0.07.rpy:11809
 translate italian campaign_headquarters_afternoon_41fc4b42_1:
 
     # L "{i}(distant yelling){/i} Send him in."
+    L "{i}(distant yelling){/i} Mandalo in."
 
 # game/UpdateScript0.07.rpy:11812
 translate italian campaign_headquarters_afternoon_0640e1df_1:
 
     # K "Alright, you're cleared to come in... Follow me."
+    K "Bene, sei stato cancellato per entrare... Seguimi."
 
 # game/UpdateScript0.07.rpy:11819
 translate italian campaign_headquarters_afternoon_1d7035b5_2:
 
     # R "Hey, Lauren."
+    R "Hey, Lauren."
 
 # game/UpdateScript0.07.rpy:11823
 translate italian campaign_headquarters_afternoon_828694e3_2:
 
     # R "Hey, Mandy, Lauren..."
+    R "Ehi, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:11824
 translate italian campaign_headquarters_afternoon_e4625c57_2:
 
     # MD "Hey, [ryan]."
+    MD "Ehi, [ryan]."
 
 # game/UpdateScript0.07.rpy:11825
 translate italian campaign_headquarters_afternoon_38e6ce7f_2:
 
     # L "Hi, big brother."
+    L "Ciao, fratello maggiore."
 
 # game/UpdateScript0.07.rpy:11826
 translate italian campaign_headquarters_afternoon_db4dae25_1:
 
     # R "How's the campaign coming? Do you need any help?"
+    R "Com'è arrivata la campagna? Hai bisogno di aiuto?"
 
 # game/UpdateScript0.07.rpy:11834
 translate italian campaign_headquarters_afternoon_e74f7224_1:
 
     # L "Well, I already asked you to get my posters back up, but so far, all I see in the hallway are Matt's... Are you sure you can handle another task right now?"
+    L "Beh, ti ho già chiesto di riavere i miei poster, ma finora, tutto quello che vedo nel corridoio sono di Matt. Sei sicuro di poter gestire un altro compito in questo momento?"
 
 # game/UpdateScript0.07.rpy:11835
 translate italian campaign_headquarters_afternoon_435a36a0_1:
@@ -27659,341 +29592,409 @@ translate italian campaign_headquarters_afternoon_435a36a0_1:
 translate italian campaign_headquarters_afternoon_c28e026b_1:
 
     # L "Never mind..."
+    L "Non importa mai..."
 
 # game/UpdateScript0.07.rpy:11844
 translate italian campaign_headquarters_afternoon_96097927:
 
     # L "I saw you already tried to help by hanging up some new posters for me... They look... How do I say this?..."
+    L "Ti ho visto già provato ad aiutare appendendo alcuni nuovi poster per me... Guardano... Come posso dire questo?..."
 
 # game/UpdateScript0.07.rpy:11845
 translate italian campaign_headquarters_afternoon_96b211e3:
 
     # K "Like they were made by my little brother in 3rd grade?"
+    K "Come se fossero stati fatti dal mio fratellino in 3° grado?"
 
 # game/UpdateScript0.07.rpy:11846
 translate italian campaign_headquarters_afternoon_5eca018c:
 
     # L "Yeah. That's a good way to put it."
+    L "Sì, è un buon modo di metterlo."
 
 # game/UpdateScript0.07.rpy:11847
 translate italian campaign_headquarters_afternoon_bad73a21:
 
     # R "Well... I mean..."
+    R "Bene... Intenso..."
 
 # game/UpdateScript0.07.rpy:11848
 translate italian campaign_headquarters_afternoon_b4b56b85:
 
     # L "Never mind."
+    L "Non importa mai."
 
 # game/UpdateScript0.07.rpy:11856
 translate italian campaign_headquarters_afternoon_6a795773:
 
     # L "Well I saw that you already hung up some new posters for me... The \"How to Breed your Dragon\" poster looks really good, but what's up with the space one?... It looks... How do I say this?..."
+    L "Beh, ho visto che hai già appeso alcuni nuovi poster per me... Il poster \"How to Breed your Dragon\" sembra davvero buono, ma che cosa c'è con lo spazio uno?... Appare... Come posso dire questo?..."
 
 # game/UpdateScript0.07.rpy:11857
 translate italian campaign_headquarters_afternoon_5b2978cc:
 
     # K "Like it was made by my little brother in 3rd grade?"
+    K "Come è stato fatto dal mio fratellino in 3° grado?"
 
 # game/UpdateScript0.07.rpy:11858
 translate italian campaign_headquarters_afternoon_5eca018c_1:
 
     # L "Yeah. That's a good way to put it."
+    L "Sì, è un buon modo di metterlo."
 
 # game/UpdateScript0.07.rpy:11859
 translate italian campaign_headquarters_afternoon_bad73a21_1:
 
     # R "Well... I mean..."
+    R "Bene... Intenso..."
 
 # game/UpdateScript0.07.rpy:11860
 translate italian campaign_headquarters_afternoon_b4b56b85_1:
 
     # L "Never mind."
+    L "Non importa mai."
 
 # game/UpdateScript0.07.rpy:11868
 translate italian campaign_headquarters_afternoon_1564bb08:
 
     # L "Well I saw that you already hung up some new posters for me... The \"Ass Effect\" poster looks really good, but what's up with the dragon one?... It looks... How do I say this?..."
+    L "Beh, ho visto che hai già appeso alcuni nuovi poster per me... Il manifesto \"Ass Effect\" sembra davvero buono, ma cosa c'è con il drago uno?... Guarda... Come posso dire questo?..."
 
 # game/UpdateScript0.07.rpy:11869
 translate italian campaign_headquarters_afternoon_5b2978cc_1:
 
     # K "Like it was made by my little brother in 3rd grade?"
+    K "Come è stato fatto dal mio fratellino in 3° grado?"
 
 # game/UpdateScript0.07.rpy:11870
 translate italian campaign_headquarters_afternoon_5eca018c_2:
 
     # L "Yeah. That's a good way to put it."
+    L "Sì, è un buon modo di metterlo."
 
 # game/UpdateScript0.07.rpy:11871
 translate italian campaign_headquarters_afternoon_bad73a21_2:
 
     # R "Well... I mean..."
+    R "Bene... Intenso..."
 
 # game/UpdateScript0.07.rpy:11872
 translate italian campaign_headquarters_afternoon_b4b56b85_2:
 
     # L "Never mind."
+    L "Non importa mai."
 
 # game/UpdateScript0.07.rpy:11880
 translate italian campaign_headquarters_afternoon_e800a031:
 
     # L "You've already been a huge help! Those posters look amazing! We've already heard students all around the school talking about me."
+    L "Sei già stato un enorme aiuto! Quei poster sembrano incredibili! Abbiamo già sentito studenti in tutta la scuola parlare di me."
 
 # game/UpdateScript0.07.rpy:11881
 translate italian campaign_headquarters_afternoon_429daaf6:
 
     # L "I really appreciate you going the extra mile to come back and see if there's more you can do."
+    L "Apprezzo davvero che tu vada il miglio in più per tornare e vedere se c'è più che puoi fare."
 
 # game/UpdateScript0.07.rpy:11882
 translate italian campaign_headquarters_afternoon_f74ec0e2:
 
     # L "Now..."
+    L "Ora..."
 
 # game/UpdateScript0.07.rpy:11883
 translate italian campaign_headquarters_afternoon_c328d8a2_1:
 
     # L "We've got some important stuff we need to discuss."
+    L "Abbiamo alcune cose importanti di cui abbiamo bisogno per discutere."
 
 # game/UpdateScript0.07.rpy:11890
 translate italian campaign_headquarters_afternoon_2e30e579:
 
     # L "We've been lucky so far... Matt's campaign isn't really doing much."
+    L "Finora siamo stati fortunati... La campagna di Matt's non sta facendo molto."
 
 # game/UpdateScript0.07.rpy:11891
 translate italian campaign_headquarters_afternoon_850e3681:
 
     # L "Besides tearing down our posters and hanging up his own, it doesn't appear that he's making much of an effort."
+    L "Oltre a strappare i nostri manifesti e a appendere il suo, non sembra che stia facendo molto di uno sforzo."
 
 # game/UpdateScript0.07.rpy:11892
 translate italian campaign_headquarters_afternoon_4edf6850:
 
     # L "But, we've got the major hurdle of his already massive popularity to overcome."
+    L "Ma abbiamo il grosso ostacolo della sua popolarità già massiccia da superare."
 
 # game/UpdateScript0.07.rpy:11893
 translate italian campaign_headquarters_afternoon_05f6ff46:
 
     # L "So... I've come up with some strategies to get my name out there, and hopefully get students to want to vote for me."
+    L "Quindi... Ho proposto alcune strategie per ottenere il mio nome là fuori, e spero che gli studenti vogliano votare per me."
 
 # game/UpdateScript0.07.rpy:11894
 translate italian campaign_headquarters_afternoon_9ad0dea8:
 
     # L "I'm going to divide you up and give you each a different assignment."
+    L "Ti dividerò e ti darò un compito diverso."
 
 # game/UpdateScript0.07.rpy:11901
 translate italian campaign_headquarters_afternoon_9ee8bf3b:
 
     # L "The first assignment is for you, Kenzie."
+    L "Il primo compito è per te, Kenzie."
 
 # game/UpdateScript0.07.rpy:11902
 translate italian campaign_headquarters_afternoon_727765b5:
 
     # L "Your social media game is one of the best in the school."
+    L "Il tuo gioco di social media è uno dei migliori della scuola."
 
 # game/UpdateScript0.07.rpy:11903
 translate italian campaign_headquarters_afternoon_0d8147a1:
 
     # L "Would you be willing to make a \"Bookface\" account for the campaign, get our presence on \"ChatSnap\" and \"Instantgram\"?"
+    L "Saresti disposto a creare un account \"Bookface\" per la campagna, ottenere la nostra presenza su \"ChatSnap\" e \"Instantgram\"?"
 
 # game/UpdateScript0.07.rpy:11904
 translate italian campaign_headquarters_afternoon_74039503:
 
     # L "You know... get us some clout?"
+    L "Lo sai... ci faccia un po' di clout?"
 
 # game/UpdateScript0.07.rpy:11905
 translate italian campaign_headquarters_afternoon_c984caac:
 
     # K "You bet... I've got some really good ideas for this."
+    K "Scommettete... Ho alcune idee veramente buone per questo."
 
 # game/UpdateScript0.07.rpy:11906
 translate italian campaign_headquarters_afternoon_4ad6cbe5:
 
     # L "I know you're the best bitch for the job!"
+    L "So che sei la troia migliore per il lavoro!"
 
 # game/UpdateScript0.07.rpy:11907
 translate italian campaign_headquarters_afternoon_a435be19:
 
     # K "I won't let you down."
+    K "Non ti deluderò."
 
 # game/UpdateScript0.07.rpy:11908
 translate italian campaign_headquarters_afternoon_3624357d:
 
     # L "Next..."
+    L "Il prossimo..."
 
 # game/UpdateScript0.07.rpy:11912
 translate italian campaign_headquarters_afternoon_6771a1d6:
 
     # L "Mandy?... I want you to focus all of your attention on the skit they have us do right before we cast our votes."
+    L "Mandy?... Voglio che tu concentri tutta la tua attenzione sullo skit che ci hanno fatto proprio prima di esprimere i nostri voti."
 
 # game/UpdateScript0.07.rpy:11913
 translate italian campaign_headquarters_afternoon_425ece18:
 
     # MD "Me?..."
+    MD "Io?..."
 
 # game/UpdateScript0.07.rpy:11914
 translate italian campaign_headquarters_afternoon_af9bd9e0:
 
     # L "Yeah... You're great at theatrical stuff. You did such a good job in in that sexy dance production we came and watched last year."
+    L "Sì... Sei fantastico per le cose teatrali. Hai fatto un ottimo lavoro in quella produzione di danza sexy che siamo venuti e abbiamo visto l'anno scorso."
 
 # game/UpdateScript0.07.rpy:11915
 translate italian campaign_headquarters_afternoon_30a1c096:
 
     # L "Didn't you say your teacher let you help choreograph it?"
+    L "Non hai detto che il tuo insegnante ti ha permesso di aiutarlo?"
 
 # game/UpdateScript0.07.rpy:11916
 translate italian campaign_headquarters_afternoon_b5e74e11:
 
     # MD "Yeah, but I had a whole dance team to work with... It's not like I was performing by myself."
+    MD "Sì, ma ho avuto un'intera squadra di danza con cui lavorare... Non è come se stessimo suonando da solo."
 
 # game/UpdateScript0.07.rpy:11917
 translate italian campaign_headquarters_afternoon_88b3b977:
 
     # MD "Maybe, if I could get the cheerleaders to help me?"
+    MD "Forse, se potessi convincere gli cheerleader ad aiutarmi?"
 
 # game/UpdateScript0.07.rpy:11918
 translate italian campaign_headquarters_afternoon_75c07bc4:
 
     # K "I wouldn't count on that... Megan's the captain, and she's Matt's girlfriend."
+    K "Non conterei su questo... Megan il capitano, e lei è la fidanzata di Matt."
 
 # game/UpdateScript0.07.rpy:11919
 translate italian campaign_headquarters_afternoon_0f650dd1:
 
     # L "[ryan], you're in kind of good with Megan... Maybe you could talk to her?"
+    L "[ryan], sei in una specie di buono con Megan... Forse potresti parlare con lei?"
 
 # game/UpdateScript0.07.rpy:11920
 translate italian campaign_headquarters_afternoon_29079a4a:
 
     # R "I can't imagine what I could possibly say to get her to help us over her boyfriend."
+    R "Non riesco a immaginare cosa potrei dire per convincerla ad aiutarci sul suo fidanzato."
 
 # game/UpdateScript0.07.rpy:11921
 translate italian campaign_headquarters_afternoon_98ea86f3:
 
     # L "Ok, Mandy... I'm sure whatever you come up with will be great."
+    L "Ok, Mandy... Sono sicuro che qualsiasi cosa tu venga con sarà grande."
 
 # game/UpdateScript0.07.rpy:11922
 translate italian campaign_headquarters_afternoon_0bcf32c8:
 
     # L "And don't forget how important this task is... It's our last chance to get a good impression before the students cast their votes."
+    L "E non dimenticare quanto sia importante questo compito... È la nostra ultima occasione per avere una buona impressione prima che gli studenti esprimano il loro voto."
 
 # game/UpdateScript0.07.rpy:11923
 translate italian campaign_headquarters_afternoon_de364f73:
 
     # MD "So... no pressure then."
+    MD "Allora... nessuna pressione."
 
 # game/UpdateScript0.07.rpy:11924
 translate italian campaign_headquarters_afternoon_86e9bce4:
 
     # L "Mandy?"
+    L "Mandato?"
 
 # game/UpdateScript0.07.rpy:11925
 translate italian campaign_headquarters_afternoon_fc423561:
 
     # MD "Ok... I'll try my best."
+    MD "Ok... proverò il mio meglio."
 
 # game/UpdateScript0.07.rpy:11929
 translate italian campaign_headquarters_afternoon_3fa414d2:
 
     # L "Let's see... We've got the final skit we've got to plan for."
+    L "Vediamo... Abbiamo lo skit finale per il quale abbiamo da pianificare."
 
 # game/UpdateScript0.07.rpy:11930
 translate italian campaign_headquarters_afternoon_96a2c968:
 
     # L "It's a pretty big deal since it's our last chance to get in a good impression before the students cast their votes."
+    L "È un affare piuttosto grande poiché è la nostra ultima occasione per avere una buona impressione prima che gli studenti esprimano il loro voto."
 
 # game/UpdateScript0.07.rpy:11931
 translate italian campaign_headquarters_afternoon_1f5cfab5:
 
     # L "I think I'll see if our cousin Mandy will help me out with this... She's done a lot of stage performances with her dance team."
+    L "Penso che vedrò se il cugino Mandy mi aiuterà con questo. Lei ha fatto molti spettacoli sul palcoscenico con la sua squadra di danza."
 
 # game/UpdateScript0.07.rpy:11938
 translate italian campaign_headquarters_afternoon_d4368ef0:
 
     # L "Ok... I'll be taking care of writing my campaign speech."
+    L "Ok... Mi prenderò cura di scrivere il mio discorso di campagna."
 
 # game/UpdateScript0.07.rpy:11939
 translate italian campaign_headquarters_afternoon_eee9cae7:
 
     # L "I'll also be trying to get personal face time with as many students as I can by passing out flyers and other campaign swag."
+    L "Cercherò anche di ottenere il tempo di faccia personale con il maggior numero possibile di studenti passando fuori volantini e altri swag."
 
 # game/UpdateScript0.07.rpy:11940
 translate italian campaign_headquarters_afternoon_e3ad53fd:
 
     # L "Speaking of which, [ryan]? Is there anyway I could get some money to cover those types of items?"
+    L "Parlando di quali, [ryan]? C'è comunque un po' di soldi per coprire quei tipi di oggetti?"
 
 # game/UpdateScript0.07.rpy:11941
 translate italian campaign_headquarters_afternoon_05359cf1:
 
     # L "You know... To get us through this week?"
+    L "Sai... Per farci passare questa settimana?"
 
 # game/UpdateScript0.07.rpy:11942
 translate italian campaign_headquarters_afternoon_0a15fa73:
 
     # RT "{i}More money?... This campaign is like a bottomless pit opened up in my wallet.{/i}"
+    RT "{i}Più soldi?... Questa campagna è come un pozzo senza fondo aperto nel mio portafoglio.{/i}"
 
 # game/UpdateScript0.07.rpy:11943
 translate italian campaign_headquarters_afternoon_8eb68a0e_1:
 
     # RT "{i}How generous do I want to be this week?{/i}"
+    RT "{i}Quanto voglio essere generosa questa settimana?{/i}"
 
 # game/UpdateScript0.07.rpy:11946
 translate italian campaign_headquarters_afternoon_181f5ba1_1:
 
     # R "I'm really sorry, but I don't have any money to spare right now."
+    R "Mi dispiace davvero, ma non ho soldi da risparmiare in questo momento."
 
 # game/UpdateScript0.07.rpy:11947
 translate italian campaign_headquarters_afternoon_c4a86d90_1:
 
     # R "I'll try to get some together and bring it in another day."
+    R "Cercherò di riunirmi e di portarlo in un altro giorno."
 
 # game/UpdateScript0.07.rpy:11954
 translate italian campaign_headquarters_afternoon_e1b7c070_1:
 
     # L "Fine, just try to get it to use before the end of the week. I need time to get that swag ordered."
+    L "Bene, basta cercare di farlo usare prima della fine della settimana. Ho bisogno di tempo per ottenere quel swag ordinato."
 
 # game/UpdateScript0.07.rpy:11956
 translate italian campaign_headquarters_afternoon_dcfdc438_1:
 
     # R "Let's see... I think I can spare a hundred dollars for the campaign this week."
+    R "Vediamo... penso di poter risparmiare cento dollari per la campagna questa settimana."
 
 # game/UpdateScript0.07.rpy:11957
 translate italian campaign_headquarters_afternoon_af539ee2_2:
 
     # {b}{i}\"Money -$100\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$100\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11965
 translate italian campaign_headquarters_afternoon_41621b7d_1:
 
     # L "Alright... That won't go very far, but it's better than nothing... Thanks, [ryan]."
+    L "Bene... Questo non andrà molto lontano, ma è meglio che niente... Grazie, [ryan]."
 
 # game/UpdateScript0.07.rpy:11966
 translate italian campaign_headquarters_afternoon_0e36755b_2:
 
     # {b}{i}\"School Influence +1\"{/i}{/b}"
+    new "{b}{i}\"Influenza della scuola +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11970
 translate italian campaign_headquarters_afternoon_da699ae6_1:
 
     # R "I think I should be able to afford three hundred dollars this week."
+    R "Credo che dovrei essere in grado di permettermi trecento dollari questa settimana."
 
 # game/UpdateScript0.07.rpy:11971
 translate italian campaign_headquarters_afternoon_0dc3a1c4_2:
 
     # {b}{i}\"Money -$300\"{/i}{/b}"
+    new "{b}{i}\"Soldi -$300\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11979
 translate italian campaign_headquarters_afternoon_f3b2fb77_1:
 
     # L "Perfect!... That should be just enough to get us through the week."
+    L "Perfetto!... Dovrebbe essere sufficiente per farci passare per la settimana."
 
 # game/UpdateScript0.07.rpy:11980
 translate italian campaign_headquarters_afternoon_63ab36dc_2:
 
     # {b}{i}\"School Influence +3\"{/i}{/b}"
+    new "{b}{i}\"Influenza scolastica +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11984
 translate italian campaign_headquarters_afternoon_51ceddf0_1:
 
     # R "Will five hundred cover your expenses this week?"
+    R "Quattrocento copriranno le spese questa settimana?"
 
 # game/UpdateScript0.07.rpy:11985
 translate italian campaign_headquarters_afternoon_598bf38c_2:
@@ -28005,11 +30006,13 @@ translate italian campaign_headquarters_afternoon_598bf38c_2:
 translate italian campaign_headquarters_afternoon_6fefa595_1:
 
     # L "Wow!... That's so generous! That will cover everything we need, and more."
+    L "Wow!... È così generoso! Questo coprirà tutto ciò di cui abbiamo bisogno e altro ancora."
 
 # game/UpdateScript0.07.rpy:11994
 translate italian campaign_headquarters_afternoon_8357b543_1:
 
     # L "This is going to be so helpful!"
+    L "Questo sarà così utile!"
 
 # game/UpdateScript0.07.rpy:11995
 translate italian campaign_headquarters_afternoon_83b65130_2:
@@ -28021,36 +30024,43 @@ translate italian campaign_headquarters_afternoon_83b65130_2:
 translate italian campaign_headquarters_afternoon_59e472a0_1:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12006
 translate italian campaign_headquarters_afternoon_14691a0a:
 
     # L "Alright, the last task on my list is for you, [ryan]."
+    L "Bene, l'ultima attività nella mia lista è per te, [ryan]."
 
 # game/UpdateScript0.07.rpy:12007
 translate italian campaign_headquarters_afternoon_787dc0b7:
 
     # L "And it's a really big ask."
+    L "Ed è davvero una grande domanda."
 
 # game/UpdateScript0.07.rpy:12008
 translate italian campaign_headquarters_afternoon_2bcc8740:
 
     # R "Oh, boy... This sounds hard."
+    R "Oh, ragazzo... Questo suona difficile."
 
 # game/UpdateScript0.07.rpy:12015
 translate italian campaign_headquarters_afternoon_7a753002:
 
     # L "Yeah... It involves someone neither of us are particularly fond of."
+    L "Sì... coinvolge qualcuno nessuno di noi è particolarmente amato."
 
 # game/UpdateScript0.07.rpy:12016
 translate italian campaign_headquarters_afternoon_3463cbc6:
 
     # R "You're talking about Matt?"
+    R "Sta parlando di Matt?"
 
 # game/UpdateScript0.07.rpy:12017
 translate italian campaign_headquarters_afternoon_a32c258a:
 
     # L "No... Agent Diaz."
+    L "No... Agent Diaz."
 
 # game/UpdateScript0.07.rpy:12018
 translate italian campaign_headquarters_afternoon_6fd0126b:
@@ -28062,66 +30072,79 @@ translate italian campaign_headquarters_afternoon_6fd0126b:
 translate italian campaign_headquarters_afternoon_44f663a5:
 
     # R "What in the hell does she have to do with your campaign?"
+    R "Cosa ha a che fare con la tua campagna?"
 
 # game/UpdateScript0.07.rpy:12020
 translate italian campaign_headquarters_afternoon_3bb7c0dd:
 
     # L "Well... to win an unwinnable campaign, sometimes you've got to play some dirty politics."
+    L "Bene... per vincere una campagna non vincente, a volte devi giocare una politica sporca."
 
 # game/UpdateScript0.07.rpy:12021
 translate italian campaign_headquarters_afternoon_8d0d98be:
 
     # R "You?...Dirty politics?"
+    R "Tu?...Politiche sporche?"
 
 # game/UpdateScript0.07.rpy:12022
 translate italian campaign_headquarters_afternoon_726530fb:
 
     # L "Hey, I played it straight the last time I ran for president, and I got creamed."
+    L "Ehi, l'ho giocato subito l'ultima volta che ho funzionato per presidente, e mi sono cremata."
 
 # game/UpdateScript0.07.rpy:12024
 translate italian campaign_headquarters_afternoon_5a3b9bf7:
 
     # L "I'm already letting pictures of my ass be plastered all over the school hallway."
+    L "Sto già lasciando che le immagini del mio culo siano intonacate in tutto il corridoio della scuola."
 
 # game/UpdateScript0.07.rpy:12027
 translate italian campaign_headquarters_afternoon_abe0f93e:
 
     # L "I'm not going to let my morals get in the way of winning this time."
+    L "Non lascerò che i miei costumi si mettano a vincere questa volta."
 
 # game/UpdateScript0.07.rpy:12028
 translate italian campaign_headquarters_afternoon_7e9e1f3d:
 
     # R "Alright... so, how does your plan involve Agent Diaz?"
+    R "Bene... così, in che modo il tuo piano coinvolge Agente Diaz?"
 
 # game/UpdateScript0.07.rpy:12029
 translate italian campaign_headquarters_afternoon_3b98d2b6:
 
     # L "As an FBI agent, Agent Diaz should be able to find some kind of dirt on Matt."
+    L "In qualità di agente dell'FBI, l'agente Diaz dovrebbe essere in grado di trovare una sorta di sporco su Matt."
 
 # game/UpdateScript0.07.rpy:12030
 translate italian campaign_headquarters_afternoon_37acb0c1:
 
     # L "You know... Something we can blackmail him with, something we could exploit in some way."
+    L "Lo sapete... Qualcosa con cui possiamo ricattarlo, qualcosa con cui potremmo sfruttare in qualche modo."
 
 # game/UpdateScript0.07.rpy:12031
 translate italian campaign_headquarters_afternoon_2bd45cb1:
 
     # R "So, you want me to talk to her?"
+    R "Allora, vuoi che parli con lei?"
 
 # game/UpdateScript0.07.rpy:12032
 translate italian campaign_headquarters_afternoon_52921be0:
 
     # R "I'm pretty sure she likes you a lot better than she likes me."
+    R "Sono abbastanza sicuro che le piaccia molto meglio di quanto le piaccia."
 
 # game/UpdateScript0.07.rpy:12033
 translate italian campaign_headquarters_afternoon_221d29f7:
 
     # L "Yeah, but if I go talk to her, I'm pretty sure I'll end up tied up and gagged."
+    L "Sì, ma se vado a parlarle, sono abbastanza sicuro che finirò legato e imbavagliato."
 
 # game/UpdateScript0.07.rpy:12034
 translate italian campaign_headquarters_afternoon_f7884a18:
 
     # R "Fair point."
+    R "Fair point."
 
 # game/UpdateScript0.07.rpy:12035
 translate italian campaign_headquarters_afternoon_dc7a84b6:
@@ -28133,41 +30156,49 @@ translate italian campaign_headquarters_afternoon_dc7a84b6:
 translate italian campaign_headquarters_afternoon_5a2cf46c:
 
     # R "If I decided to do this, how would I even find her?"
+    R "Se decidessi di farlo, come la troverei ancora?"
 
 # game/UpdateScript0.07.rpy:12037
 translate italian campaign_headquarters_afternoon_15657ded:
 
     # R "I doubt she'll want to talk about that during her weekly extortion visit."
+    R "Dubito che vorrà parlarne durante la sua visita settimanale di estorsione."
 
 # game/UpdateScript0.07.rpy:12038
 translate italian campaign_headquarters_afternoon_f6836296:
 
     # L "I've seen a suspicious van that parks down the street from our house just about every evening."
+    L "Ho visto un furgoncino sospetto che parcheggia lungo la strada dalla nostra casa quasi ogni sera."
 
 # game/UpdateScript0.07.rpy:12039
 translate italian campaign_headquarters_afternoon_27a15bf0:
 
     # L "I assume it's either the FBI or the Mafia... But I think suspicious vans are more the FBI's style."
+    L "Presumo che sia l'FBI o la mafia... Ma penso che i furgoncini sospetti siano più lo stile dell'FBI."
 
 # game/UpdateScript0.07.rpy:12040
 translate italian campaign_headquarters_afternoon_5583e688:
 
     # L "Maybe you could go knock on the door and see if Diaz is in it."
+    L "Forse si potrebbe andare a bussare alla porta e vedere se Diaz è in esso."
 
 # game/UpdateScript0.07.rpy:12041
 translate italian campaign_headquarters_afternoon_fcb449c4:
 
     # R "Knock on the door of an FBI van?... Are you crazy?"
+    R "Toccare sulla porta di un furgone FBI?... Sei pazzo?"
 
 # game/UpdateScript0.07.rpy:12042
 translate italian campaign_headquarters_afternoon_43510f87:
 
     # L "Well, whatever you want to do... I'll let you figure out how to get ahold of her."
+    L "Beh, quello che vuoi fare... ti lascerò capire come prenderla in mano."
 
 # game/UpdateScript0.07.rpy:12049
 translate italian campaign_headquarters_afternoon_0a4fbd25:
 
     # L "That is... If you're willing to help me out."
+    L "Questo è... Se sei disposto a aiutarmi."
 
 # game/UpdateScript0.07.rpy:12050
 translate italian campaign_headquarters_afternoon_dc7a84b6_1:
@@ -28179,31 +30210,37 @@ translate italian campaign_headquarters_afternoon_dc7a84b6_1:
 translate italian campaign_headquarters_afternoon_e55caf81:
 
     # R "Oh, fine!"
+    R "Oh, fine!"
 
 # game/UpdateScript0.07.rpy:12058
 translate italian campaign_headquarters_afternoon_77bcfc38:
 
     # L "Yay!..."
+    L "Evviva!..."
 
 # game/UpdateScript0.07.rpy:12059
 translate italian campaign_headquarters_afternoon_3c997abd_1:
 
     # L "And with that... I think this meeting is adjourned."
+    L "E con quello... penso che questo incontro sia un viaggio."
 
 # game/UpdateScript0.07.rpy:12060
 translate italian campaign_headquarters_afternoon_72cbde39_1:
 
     # L "Thank you all so much for all your help!"
+    L "Grazie a tutti per tutto il vostro aiuto!"
 
 # game/UpdateScript0.07.rpy:12068
 translate italian campaign_headquarters_afternoon_b3264da7_1:
 
     # RT "{i}I still need to get Lauren some new posters.{/i}"
+    RT "{i}Ho ancora bisogno di ottenere Lauren alcuni nuovi posters.{/i}"
 
 # game/UpdateScript0.07.rpy:12069
 translate italian campaign_headquarters_afternoon_cba7ca29_1:
 
     # RT "{i}Should I go ask Mrs. Stone for some help with the posters?{/i}"
+    RT "{i}Dovrei andare a chiedere alla signora Stone qualche aiuto con i manifesti?{/i}"
 
 # game/UpdateScript0.07.rpy:12087
 translate italian campaign_headquarters_afternoon_1ed47550_3:
@@ -28215,121 +30252,145 @@ translate italian campaign_headquarters_afternoon_1ed47550_3:
 translate italian campaign_headquarters_afternoon_e176caa3_3:
 
     # R "Hey, Kenzie. Is my sister in there?"
+    R "Hey, Kenzie. È mia sorella lì dentro?"
 
 # game/UpdateScript0.07.rpy:12089
 translate italian campaign_headquarters_afternoon_a63645db_2:
 
     # K "Yeah, still working hard on her campaign."
+    K "Sì, ancora lavorando duramente sulla sua campagna."
 
 # game/UpdateScript0.07.rpy:12090
 translate italian campaign_headquarters_afternoon_b04dfe2d_2:
 
     # R "Can I come in and talk to her?"
+    R "Posso entrare e parlare con lei?"
 
 # game/UpdateScript0.07.rpy:12091
 translate italian campaign_headquarters_afternoon_1b945386_2:
 
     # K "Let me check."
+    K "Lasciami controllare."
 
 # game/UpdateScript0.07.rpy:12094
 translate italian campaign_headquarters_afternoon_8f7b12f2_2:
 
     # K "{i}(yelling){/i} Boy coming in! Is everyone decent?"
+    K "{i}(urlare){/i} Ragazzo in arrivo! Tutti sono decenti?"
 
 # game/UpdateScript0.07.rpy:12095
 translate italian campaign_headquarters_afternoon_341edded_2:
 
     # L "{i}(distant yelling){/i} Is it my brother?"
+    L "{i}(grillio distante){/i} È mio fratello?"
 
 # game/UpdateScript0.07.rpy:12096
 translate italian campaign_headquarters_afternoon_5e5f9529_2:
 
     # K "{i}(yelling){/i} Yeah!"
+    K "{i}(urlare){/i} Sì!"
 
 # game/UpdateScript0.07.rpy:12097
 translate italian campaign_headquarters_afternoon_41fc4b42_2:
 
     # L "{i}(distant yelling){/i} Send him in."
+    L "{i}(distant yelling){/i} Mandalo in."
 
 # game/UpdateScript0.07.rpy:12100
 translate italian campaign_headquarters_afternoon_0640e1df_2:
 
     # K "Alright, you're cleared to come in... Follow me."
+    K "Bene, sei stato cancellato per entrare... Seguimi."
 
 # game/UpdateScript0.07.rpy:12107
 translate italian campaign_headquarters_afternoon_1d7035b5_3:
 
     # R "Hey, Lauren."
+    R "Hey, Lauren."
 
 # game/UpdateScript0.07.rpy:12111
 translate italian campaign_headquarters_afternoon_828694e3_3:
 
     # R "Hey, Mandy, Lauren..."
+    R "Ehi, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:12112
 translate italian campaign_headquarters_afternoon_e4625c57_3:
 
     # MD "Hey, [ryan]."
+    MD "Ehi, [ryan]."
 
 # game/UpdateScript0.07.rpy:12113
 translate italian campaign_headquarters_afternoon_38e6ce7f_3:
 
     # L "Hi, big brother."
+    L "Ciao, fratello maggiore."
 
 # game/UpdateScript0.07.rpy:12114
 translate italian campaign_headquarters_afternoon_db4dae25_2:
 
     # R "How's the campaign coming? Do you need any help?"
+    R "Com'è arrivata la campagna? Hai bisogno di aiuto?"
 
 # game/UpdateScript0.07.rpy:12121
 translate italian campaign_headquarters_afternoon_6defa008:
 
     # L "Not right now. You did a great job hanging my posters."
+    L "Non in questo momento. Hai fatto un ottimo lavoro appeso i miei poster."
 
 # game/UpdateScript0.07.rpy:12122
 translate italian campaign_headquarters_afternoon_e635f1ea:
 
     # L "They look great!"
+    L "Sono bellissimi!"
 
 # game/UpdateScript0.07.rpy:12123
 translate italian campaign_headquarters_afternoon_791d68e0:
 
     # R "Well, I don't know about great."
+    R "Bene, non so di grande."
 
 # game/UpdateScript0.07.rpy:12124
 translate italian campaign_headquarters_afternoon_41c7acc6:
 
     # R "They could be a little more exciting... A little more... sexy."
+    R "Potrebbero essere un po' più eccitanti... Un po' più... sexy."
 
 # game/UpdateScript0.07.rpy:12131
 translate italian campaign_headquarters_afternoon_59f94e25:
 
     # L "Oh, please don't start."
+    L "Oh, non iniziare."
 
 # game/UpdateScript0.07.rpy:12132
 translate italian campaign_headquarters_afternoon_b28a1cde:
 
     # R "Alright, but I'm telling you, sexy posters will boost your popularity a ton."
+    R "Bene, ma ti sto dicendo, i manifesti sexy aumenteranno la tua popolarità una tonnellata."
 
 # game/UpdateScript0.07.rpy:12139
 translate italian campaign_headquarters_afternoon_69b275f2:
 
     # L "We'll just see when we get the poll numbers on Monday."
+    L "Vedremo solo quando riceveremo i numeri del sondaggio lunedì."
 
 # game/UpdateScript0.07.rpy:12140
 translate italian campaign_headquarters_afternoon_f561e7f4:
 
     # R "Alright, but don't forget that I told you so."
+    R "Va bene, ma non dimenticate che vi ho detto così."
 
 # game/UpdateScript0.07.rpy:12141
 translate italian campaign_headquarters_afternoon_82f412e9:
 
     # R "Nothing else for me to do then?"
+    R "Niente altro che fare allora?"
 
 # game/UpdateScript0.07.rpy:12142
 translate italian campaign_headquarters_afternoon_48f8780b:
 
     # L "No, but keep checking back... I'll have some jobs for you soon enough."
+    L "No, ma continua a controllare indietro... Avrò qualche lavoro per te abbastanza presto."
 
 # game/UpdateScript0.07.rpy:12143
 translate italian campaign_headquarters_afternoon_ee903cde:
@@ -28341,16 +30402,19 @@ translate italian campaign_headquarters_afternoon_ee903cde:
 translate italian campaign_headquarters_afternoon_d530e499:
 
     # R "Later, my cunties."
+    R "Più tardi, le mie facce."
 
 # game/UpdateScript0.07.rpy:12151
 translate italian campaign_headquarters_afternoon_4b7b2dba:
 
     # L "Hey!... Only we can call each other that!"
+    L "Ehi!... Solo noi possiamo chiamarci a vicenda!"
 
 # game/UpdateScript0.07.rpy:12152
 translate italian campaign_headquarters_afternoon_09108322:
 
     # R "Haha... Sorry!"
+    R "Haha... Scusa!"
 
 # game/UpdateScript0.07.rpy:12161
 translate italian campaign_headquarters_afternoon_1ed47550_4:
@@ -28362,136 +30426,163 @@ translate italian campaign_headquarters_afternoon_1ed47550_4:
 translate italian campaign_headquarters_afternoon_e176caa3_4:
 
     # R "Hey, Kenzie. Is my sister in there?"
+    R "Hey, Kenzie. È mia sorella lì dentro?"
 
 # game/UpdateScript0.07.rpy:12163
 translate italian campaign_headquarters_afternoon_36a42f1f:
 
     # K "Yeah, she's just working on some campaign stuff."
+    K "Sì, sta solo lavorando su alcune cose della campagna."
 
 # game/UpdateScript0.07.rpy:12164
 translate italian campaign_headquarters_afternoon_b64fe405:
 
     # R "She wanted me to stop by... Is it safe for me to come in?"
+    R "Voleva che mi fermassi da... è sicuro per me entrare?"
 
 # game/UpdateScript0.07.rpy:12165
 translate italian campaign_headquarters_afternoon_1b945386_3:
 
     # K "Let me check."
+    K "Lasciami controllare."
 
 # game/UpdateScript0.07.rpy:12168
 translate italian campaign_headquarters_afternoon_8f7b12f2_3:
 
     # K "{i}(yelling){/i} Boy coming in! Is everyone decent?"
+    K "{i}(urlare){/i} Ragazzo in arrivo! Tutti sono decenti?"
 
 # game/UpdateScript0.07.rpy:12169
 translate italian campaign_headquarters_afternoon_341edded_3:
 
     # L "{i}(distant yelling){/i} Is it my brother?"
+    L "{i}(grillio distante){/i} È mio fratello?"
 
 # game/UpdateScript0.07.rpy:12170
 translate italian campaign_headquarters_afternoon_5e5f9529_3:
 
     # K "{i}(yelling){/i} Yeah!"
+    K "{i}(urlare){/i} Sì!"
 
 # game/UpdateScript0.07.rpy:12171
 translate italian campaign_headquarters_afternoon_41fc4b42_3:
 
     # L "{i}(distant yelling){/i} Send him in."
+    L "{i}(distant yelling){/i} Mandalo in."
 
 # game/UpdateScript0.07.rpy:12174
 translate italian campaign_headquarters_afternoon_80b10d7f:
 
     # K "Alright, you're cleared for entry... Follow me."
+    K "Bene, sei cancellato per l'ingresso... Seguimi."
 
 # game/UpdateScript0.07.rpy:12175
 translate italian campaign_headquarters_afternoon_35d3be1a:
 
     # R "Cleared?"
+    R "Eliminato?"
 
 # game/UpdateScript0.07.rpy:12176
 translate italian campaign_headquarters_afternoon_4111caed:
 
     # R "Is this \"Bathroom 51\" or something?"
+    R "È questo \"Bagno 51\" o qualcosa?"
 
 # game/UpdateScript0.07.rpy:12177
 translate italian campaign_headquarters_afternoon_ed8ee0ea:
 
     # K "{i}(sarcastically){/i}Hardy har har."
+    K "{i}(sarcastically){/i}Hardy har har."
 
 # game/UpdateScript0.07.rpy:12186
 translate italian campaign_headquarters_afternoon_ea0a11a5:
 
     # K "So this is our official campaign headquarters."
+    K "Questa è la nostra sede ufficiale della campagna."
 
 # game/UpdateScript0.07.rpy:12187
 translate italian campaign_headquarters_afternoon_336dc5c5:
 
     # R "{i}(sarcastically){/i} Wow... Very professional."
+    R "{i}(sarcastically){/i} Wow... Molto professionale."
 
 # game/UpdateScript0.07.rpy:12191
 translate italian campaign_headquarters_afternoon_1d7035b5_4:
 
     # R "Hey, Lauren."
+    R "Hey, Lauren."
 
 # game/UpdateScript0.07.rpy:12195
 translate italian campaign_headquarters_afternoon_828694e3_4:
 
     # R "Hey, Mandy, Lauren..."
+    R "Ehi, Mandy, Lauren..."
 
 # game/UpdateScript0.07.rpy:12196
 translate italian campaign_headquarters_afternoon_e4625c57_4:
 
     # MD "Hey, [ryan]."
+    MD "Ehi, [ryan]."
 
 # game/UpdateScript0.07.rpy:12197
 translate italian campaign_headquarters_afternoon_38e6ce7f_4:
 
     # L "Hi, big brother."
+    L "Ciao, fratello maggiore."
 
 # game/UpdateScript0.07.rpy:12198
 translate italian campaign_headquarters_afternoon_b38317bd:
 
     # R "Nice place you have here."
+    R "Bel luogo che hai qui."
 
 # game/UpdateScript0.07.rpy:12199
 translate italian campaign_headquarters_afternoon_83f24227:
 
     # L "Yeah, I know it's not really what you'd expect from a campaign headquarters, but it will make do."
+    L "Sì, so che non è proprio quello che ci si aspetterebbe da una sede della campagna, ma farà fare."
 
 # game/UpdateScript0.07.rpy:12200
 translate italian campaign_headquarters_afternoon_7fc02a60:
 
     # R "I'm sure the school would let you use part of a classroom for this."
+    R "Sono sicuro che la scuola ti lascerebbe usare parte di una classe per questo."
 
 # game/UpdateScript0.07.rpy:12207
 translate italian campaign_headquarters_afternoon_f218235c:
 
     # L "I'm sure they would, but that would just be inviting my competition to spy on me, or hide cameras, or recording devices..."
+    L "Sono sicuro che sarebbe, ma questo sarebbe solo invitare la mia competizione per spiarmi, o nascondere fotocamere, o dispositivi di registrazione..."
 
 # game/UpdateScript0.07.rpy:12208
 translate italian campaign_headquarters_afternoon_b2edb9a5:
 
     # R "You sound kind of paranoid."
+    R "Sembri un po' paranoico."
 
 # game/UpdateScript0.07.rpy:12209
 translate italian campaign_headquarters_afternoon_f3d68d55:
 
     # L "Are you kidding? I'm not paranoid enough. I know the reason I didn't win last time is because that stupid whore Lisa stole the vote from me."
+    L "Stai scherzando? Non sono abbastanza paranoico. So che la ragione per cui non ho vinto l'ultima volta è perché quella stupida puttana Lisa ha rubato il voto da me."
 
 # game/UpdateScript0.07.rpy:12210
 translate italian campaign_headquarters_afternoon_c99f696d:
 
     # R "And how did she do that?"
+    R "E come l'ha fatto?"
 
 # game/UpdateScript0.07.rpy:12217
 translate italian campaign_headquarters_afternoon_0b764336:
 
     # L "You know... Having students vote multiple times... having undocumented students from other schools come here to vote for her... sneaking in boxes of Lisa ballots when they were counting the votes..."
+    L "Sai... Avere gli studenti votano più volte... avere studenti non documentati provenienti da altre scuole vengono qui per votare per lei.. sfuggire alle urne di Lisa quando stavano contando le votazioni..."
 
 # game/UpdateScript0.07.rpy:12218
 translate italian campaign_headquarters_afternoon_4cf79f0d:
 
     # L "There's a lot of ways."
+    L "Ci sono molti modi."
 
 # game/UpdateScript0.07.rpy:12219
 translate italian campaign_headquarters_afternoon_6288b353:
@@ -28503,51 +30594,61 @@ translate italian campaign_headquarters_afternoon_6288b353:
 translate italian campaign_headquarters_afternoon_2c88166c:
 
     # L "That's why we're meeting in this bathroom. Here we can control the flow of students coming in and out."
+    L "Ecco perché ci incontriamo in questo bagno. Qui possiamo controllare il flusso degli studenti che vengono dentro e fuori."
 
 # game/UpdateScript0.07.rpy:12229
 translate italian campaign_headquarters_afternoon_029553a6:
 
     # L "What's that supposed to mean? You big jerk!"
+    L "Che cosa dovrebbe significare? Si masturba grande!"
 
 # game/UpdateScript0.07.rpy:12230
 translate italian campaign_headquarters_afternoon_1110f4db:
 
     # R "No, Lauren. I didn't mean any offense, but think about it for a minute."
+    R "No, Lauren. Non intendevo alcuna offesa, ma pensarci per un minuto."
 
 # game/UpdateScript0.07.rpy:12231
 translate italian campaign_headquarters_afternoon_7bf2a81a:
 
     # R "What's more likely?"
+    R "Che cosa è più probabile?"
 
 # game/UpdateScript0.07.rpy:12232
 translate italian campaign_headquarters_afternoon_63a06ab3:
 
     # R "Lisa's a very popular girl, Do you think it's possible that more people voted for her because more people know her?"
+    R "Lisa è una ragazza molto popolare, Pensi che sia possibile che più persone abbiano votato per lei perché più persone la conoscono?"
 
 # game/UpdateScript0.07.rpy:12233
 translate italian campaign_headquarters_afternoon_61793690:
 
     # R "Could it be possible that she won because she ran a better campaign than you?"
+    R "Potrebbe essere possibile che abbia vinto perché ha fatto una campagna migliore di te?"
 
 # game/UpdateScript0.07.rpy:12234
 translate italian campaign_headquarters_afternoon_93999877:
 
     # L "Hey!... I ran a pretty damn good campaign!"
+    L "Ehi!... ho fatto una bella campagna maledetta!"
 
 # game/UpdateScript0.07.rpy:12235
 translate italian campaign_headquarters_afternoon_6f95cf54:
 
     # R "Yeah... Pretty damn good... but Lisa did a damn amazing job."
+    R "Sì... Buon maledetto buono... ma Lisa ha fatto un lavoro incredibilmente dannato."
 
 # game/UpdateScript0.07.rpy:12236
 translate italian campaign_headquarters_afternoon_ebbc6c5e:
 
     # L "Uuurrrggghhh..."
+    L "Uuurrrggghhh..."
 
 # game/UpdateScript0.07.rpy:12237
 translate italian campaign_headquarters_afternoon_1b70b35b:
 
     # L "I hate it when you're right!"
+    L "Odio quando hai ragione!"
 
 # game/UpdateScript0.07.rpy:12238
 translate italian campaign_headquarters_afternoon_a314db81:
@@ -28559,161 +30660,193 @@ translate italian campaign_headquarters_afternoon_a314db81:
 translate italian campaign_headquarters_afternoon_7e218e55:
 
     # L "But, I've got to admit... You may be right."
+    L "Ma, devo ammetterlo... forse hai ragione."
 
 # game/UpdateScript0.07.rpy:12246
 translate italian campaign_headquarters_afternoon_dd6676e3:
 
     # R "So, let's try to take a page from Lisa's book and make your campaign more like hers."
+    R "Quindi, cerchiamo di prendere una pagina dal libro di Lisa e rendere la tua campagna più simile a lei."
 
 # game/UpdateScript0.07.rpy:12253
 translate italian campaign_headquarters_afternoon_c3cf6894:
 
     # L "You're right!... Thank you for being honest with me."
+    L "Hai ragione!... Grazie per essere onesti con me."
 
 # game/UpdateScript0.07.rpy:12254
 translate italian campaign_headquarters_afternoon_2cbb7134:
 
     # L "That's exactly the kind of feedback I need."
+    L "È esattamente il tipo di feedback di cui ho bisogno."
 
 # game/UpdateScript0.07.rpy:12255
 translate italian campaign_headquarters_afternoon_59e472a0_2:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12256
 translate italian campaign_headquarters_afternoon_921fd515:
 
     # {b}{i}\"Lauren's Submission +1\"{/i}{/b}"
+    new "{b}{i}\"Invio di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12265
 translate italian campaign_headquarters_afternoon_c8bd723e:
 
     # L "Kenzie."
+    L "Kenzie."
 
 # game/UpdateScript0.07.rpy:12269
 translate italian campaign_headquarters_afternoon_d77332c2:
 
     # L "Mandy."
+    L "Mandato."
 
 # game/UpdateScript0.07.rpy:12272
 translate italian campaign_headquarters_afternoon_3fe29390:
 
     # L "Please make sure you are always honest with me. I'll do my best not to get offended."
+    L "Assicurati di essere sempre onesto con me. Farò del mio meglio per non offendermi."
 
 # game/UpdateScript0.07.rpy:12273
 translate italian campaign_headquarters_afternoon_7c448c84:
 
     # L "And if I do, you can call me out on it."
+    L "E se lo faccio, puoi chiamarmi su di esso."
 
 # game/UpdateScript0.07.rpy:12275
 translate italian campaign_headquarters_afternoon_fff61acb:
 
     # MD "Ok, yeah..."
+    MD "Ok, yeah..."
 
 # game/UpdateScript0.07.rpy:12278
 translate italian campaign_headquarters_afternoon_aaa3c953:
 
     # K "That sounds great. That's a sure sign of a true leader."
+    K "Sembra grande. Questo è un segno sicuro di un vero leader."
 
 # game/UpdateScript0.07.rpy:12279
 translate italian campaign_headquarters_afternoon_abd338d0:
 
     # R "Though... Now that I've seen what Lisa did to get votes for her delegation at their student council mock UN... I wonder if she did sell sexual favors to get votes..."
+    R "Pensare... Ora che ho visto quello che Lisa ha fatto per ottenere i voti per la sua delegazione al loro consiglio studentesco falsare le Nazioni Unite. Mi chiedo se abbia venduto favori sessuali per ottenere voti..."
 
 # game/UpdateScript0.07.rpy:12286
 translate italian campaign_headquarters_afternoon_0bd9c2a8:
 
     # LT "{i}Would that work?{/i}"
+    LT "{i}Potrebbe funzionare?{/i}"
 
 # game/UpdateScript0.07.rpy:12287
 translate italian campaign_headquarters_afternoon_db94c039:
 
     # LT "{i}If I sold sexual favors for votes, could it help me win?{/i}"
+    LT "{i}Se vendevo favori sessuali per voti, potrebbe aiutarmi a vincere?{/i}"
 
 # game/UpdateScript0.07.rpy:12288
 translate italian campaign_headquarters_afternoon_e29786d8:
 
     # LT "{i}Is that the most effective page out of Lisa's book that I need to take?{/i}"
+    LT "{i}È quella la pagina più efficace dal libro di Lisa che devo prendere?{/i}"
 
 # game/UpdateScript0.07.rpy:12289
 translate italian campaign_headquarters_afternoon_096b7d0b:
 
     # RT "{i}Uh oh!... I shouldn't have said that... I hope that's not giving her any ideas.{/i}"
+    RT "{i}Uh oh!... Non avrei dovuto dirlo... spero che non le stia dando idee.{/i}"
 
 # game/UpdateScript0.07.rpy:12297
 translate italian campaign_headquarters_afternoon_f514bc6f:
 
     # L "I know, right?..."
+    L "Infatti, vero?..."
 
 # game/UpdateScript0.07.rpy:12298
 translate italian campaign_headquarters_afternoon_2c7dec6e:
 
     # L "How else could that whore have won?"
+    L "Come avrebbe potuto quella puttana aver vinto?"
 
 # game/UpdateScript0.07.rpy:12299
 translate italian campaign_headquarters_afternoon_f6a86c35_2:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12301
 translate italian campaign_headquarters_afternoon_e788b678:
 
     # R "And speaking of whores..."
+    R "E parlare di puttane..."
 
 # game/UpdateScript0.07.rpy:12302
 translate italian campaign_headquarters_afternoon_058d867f:
 
     # R "After what she pulled at the student council mock UN... I wonder if she won the student body election by selling favors too."
+    R "Dopo quello che ha tirato al consiglio studentesco deridere l'ONU... Mi chiedo se ha vinto l'elezione del corpo studentesco vendendo favori troppo."
 
 # game/UpdateScript0.07.rpy:12309
 translate italian campaign_headquarters_afternoon_5118922c:
 
     # L "Of course!... That makes so much sense!"
+    L "Certo!... Questo ha molto senso!"
 
 # game/UpdateScript0.07.rpy:12316
 translate italian campaign_headquarters_afternoon_0bd9c2a8_1:
 
     # LT "{i}Would that work?{/i}"
+    LT "{i}Potrebbe funzionare?{/i}"
 
 # game/UpdateScript0.07.rpy:12317
 translate italian campaign_headquarters_afternoon_db94c039_1:
 
     # LT "{i}If I sold sexual favors for votes, could it help me win?{/i}"
+    LT "{i}Se vendevo favori sessuali per voti, potrebbe aiutarmi a vincere?{/i}"
 
 # game/UpdateScript0.07.rpy:12318
 translate italian campaign_headquarters_afternoon_ce94e851:
 
     # LT "{i}Should I take a page out that whore's book?{/i}"
+    LT "{i}Dovrei estrarre una pagina dal libro della puttana?{/i}"
 
 # game/UpdateScript0.07.rpy:12319
 translate italian campaign_headquarters_afternoon_096b7d0b_1:
 
     # RT "{i}Uh oh!... I shouldn't have said that... I hope that's not giving her any ideas.{/i}"
+    RT "{i}Uh oh!... Non avrei dovuto dirlo... spero che non le stia dando idee.{/i}"
 
 # game/UpdateScript0.07.rpy:12320
 translate italian campaign_headquarters_afternoon_76f9be88:
 
     # R "So!... can you really just tell girls that they can't come in this bathroom?"
+    R "Quindi!... si può davvero dire alle ragazze che non possono venire in questo bagno?"
 
 # game/UpdateScript0.07.rpy:12327
 translate italian campaign_headquarters_afternoon_7f9250af:
 
     # L "Well... Not really, but Kenzie can guard the door and tell anyone who tries to come in that somebody threw up all over the floor, and they should use another bathroom."
+    L "Bene... Non veramente, ma Kenzie può custodire la porta e dire a chiunque cerchi di entrare in quel che qualcuno ha gettato su tutto il pavimento, e dovrebbero usare un altro bagno."
 
 # game/UpdateScript0.07.rpy:12328
 translate italian campaign_headquarters_afternoon_7cb23195:
 
     # R "Yuck... yeah... That would work."
+    R "Yuck... sì... Funzionerebbe."
 
 # game/UpdateScript0.07.rpy:12329
 translate italian campaign_headquarters_afternoon_6729299e:
 
     # L "Plus, hardly anyone uses this bathroom anyways."
+    L "Inoltre, quasi nessuno usa questo bagno comunque."
 
 # game/UpdateScript0.07.rpy:12330
 translate italian campaign_headquarters_afternoon_5011d2f2:
 
     # R "Well, as long as you're comfortable."
+    R "Bene, finché sei comodo."
 
 # game/UpdateScript0.07.rpy:12331
 translate italian campaign_headquarters_afternoon_dc7a84b6_2:
@@ -28725,71 +30858,85 @@ translate italian campaign_headquarters_afternoon_dc7a84b6_2:
 translate italian campaign_headquarters_afternoon_5cb7b79d:
 
     # R "So, what's your game plan?"
+    R "Qual è il tuo piano di gioco?"
 
 # game/UpdateScript0.07.rpy:12333
 translate italian campaign_headquarters_afternoon_1bdbfee5:
 
     # L "Good... yes... Let's get right down to business."
+    L "Buono... sì... Andiamo subito al business."
 
 # game/UpdateScript0.07.rpy:12340
 translate italian campaign_headquarters_afternoon_969688ba:
 
     # L "Kenzie?... Can you find a good office supply store and find out what it would cost to make campaign buttons and other swag?"
+    L "Kenzie?... Riesci a trovare un buon negozio di forniture per ufficio e scoprire cosa costerebbe fare i pulsanti della campagna e altri swag?"
 
 # game/UpdateScript0.07.rpy:12341
 translate italian campaign_headquarters_afternoon_bedcfe3a:
 
     # K "I'm on it."
+    K "Ci sto sopra."
 
 # game/UpdateScript0.07.rpy:12345
 translate italian campaign_headquarters_afternoon_f33fe8bf:
 
     # L "Mandy... Will you be in charge of putting together an awesome skit for the election assembly?"
+    L "Mandy... Sarai incaricato di mettere insieme uno skit impressionante per l'assemblea elettorale?"
 
 # game/UpdateScript0.07.rpy:12346
 translate italian campaign_headquarters_afternoon_76097cf7:
 
     # MD "You bet!"
+    MD "Scommettete!"
 
 # game/UpdateScript0.07.rpy:12349
 translate italian campaign_headquarters_afternoon_8f22d49c:
 
     # L "[ryan]... I need you to hang up posters."
+    L "[ryan]... Ho bisogno di appendere dei poster."
 
 # game/UpdateScript0.07.rpy:12350
 translate italian campaign_headquarters_afternoon_cc86e263:
 
     # R "Don't you need to make them first?"
+    R "Non devi farli per primi?"
 
 # game/UpdateScript0.07.rpy:12351
 translate italian campaign_headquarters_afternoon_314eacf9:
 
     # L "Nope, I've already got a whole batch that are ready to be hung up right now."
+    L "No, ho già un intero lotto pronto per essere appeso in questo momento."
 
 # game/UpdateScript0.07.rpy:12352
 translate italian campaign_headquarters_afternoon_d51603a1:
 
     # R "How did you?..."
+    R "Come hai fatto?..."
 
 # game/UpdateScript0.07.rpy:12353
 translate italian campaign_headquarters_afternoon_c2183a17:
 
     # L "They're the same ones I used the last time I campaigned."
+    L "Sono gli stessi che ho usato l'ultima volta che ho fatto campagna."
 
 # game/UpdateScript0.07.rpy:12354
 translate italian campaign_headquarters_afternoon_31e55b35:
 
     # R "Oh, no... Not that stupid light bulb poster you've got hanging up behind you."
+    R "Oh, no... Non quella stupida lampadina poster che hai appenduto dietro di te."
 
 # game/UpdateScript0.07.rpy:12361
 translate italian campaign_headquarters_afternoon_70826f70:
 
     # L "What do you mean stupid? It's clever."
+    L "Che cosa significa stupido? È intelligente."
 
 # game/UpdateScript0.07.rpy:12362
 translate italian campaign_headquarters_afternoon_b911dfc8:
 
     # R "Well, I think that clever poster may have single handedly cost you the last election."
+    R "Beh, penso che quel manifesto intelligente può avere singolo handedly costato le ultime elezioni."
 
 # game/UpdateScript0.07.rpy:12363
 translate italian campaign_headquarters_afternoon_faf376b6:
@@ -28807,56 +30954,67 @@ translate italian campaign_headquarters_afternoon_c0e0d66c:
 translate italian campaign_headquarters_afternoon_40393730:
 
     # L "Sometimes simple is good."
+    L "Qualche volta semplice è buono."
 
 # game/UpdateScript0.07.rpy:12366
 translate italian campaign_headquarters_afternoon_7a789937:
 
     # R "Not in this case."
+    R "In questo caso non lo è."
 
 # game/UpdateScript0.07.rpy:12373
 translate italian campaign_headquarters_afternoon_4dee1c57:
 
     # L "Hmmm... I think they're pretty good. So just take the ones I have, and hang them up all over the school."
+    L "Hmmm... Penso che siano abbastanza bravi. Quindi prendi quelli che ho e li appoggi in tutta la scuola."
 
 # game/UpdateScript0.07.rpy:12374
 translate italian campaign_headquarters_afternoon_ccf0b24d:
 
     # R "Are you sure?... I really think they'll do more harm than good."
+    R "Sei sicuro?... penso davvero che faranno più male che bene."
 
 # game/UpdateScript0.07.rpy:12375
 translate italian campaign_headquarters_afternoon_ecd2e34b:
 
     # R "What if you did something else... something... sexy?"
+    R "Cosa succede se hai fatto qualcos'altro... qualcosa... sexy?"
 
 # game/UpdateScript0.07.rpy:12376
 translate italian campaign_headquarters_afternoon_4f31e78d:
 
     # L "For a school campaign poster?"
+    L "Per una campagna scolastica?"
 
 # game/UpdateScript0.07.rpy:12377
 translate italian campaign_headquarters_afternoon_94c50125:
 
     # R "I know!... We can use some of your cosplay pictures to make original posters."
+    R "Lo so!... Possiamo utilizzare alcune delle tue foto cosplay per creare poster originali."
 
 # game/UpdateScript0.07.rpy:12384
 translate italian campaign_headquarters_afternoon_763556b3:
 
     # L "Are you crazy?... I don't want those pictures all over the school!"
+    L "Sei pazzo?... Non voglio quelle immagini in tutta la scuola!"
 
 # game/UpdateScript0.07.rpy:12385
 translate italian campaign_headquarters_afternoon_2bc6221f:
 
     # R "Think about it for a second... You'd go from somebody most people haven't heard of, to the sexy cosplay girl that everybody knows."
+    R "Pensateci per un secondo... Saresti andato da qualcuno di cui la maggior parte delle persone non ha sentito parlare, alla ragazza sexy cosplay che tutti conoscono."
 
 # game/UpdateScript0.07.rpy:12386
 translate italian campaign_headquarters_afternoon_c5a2fcba:
 
     # R "It would make you \"school famous\" overnight."
+    R "Ti renderebbe \"famosa la scuola\" durante la notte."
 
 # game/UpdateScript0.07.rpy:12387
 translate italian campaign_headquarters_afternoon_6e9d835e:
 
     # R "Just think about it."
+    R "Pensaci e basta."
 
 # game/UpdateScript0.07.rpy:12388
 translate italian campaign_headquarters_afternoon_23af177f:
@@ -28868,36 +31026,43 @@ translate italian campaign_headquarters_afternoon_23af177f:
 translate italian campaign_headquarters_afternoon_ad17bbdb:
 
     # L "We're going with the lightbulb posters."
+    L "Stiamo andando con i manifesti a lampadina."
 
 # game/UpdateScript0.07.rpy:12390
 translate italian campaign_headquarters_afternoon_8aa372b1:
 
     # L "So, just go and hang them up!"
+    L "Quindi, basta andare a appenderle!"
 
 # game/UpdateScript0.07.rpy:12391
 translate italian campaign_headquarters_afternoon_573573fb:
 
     # R "Alright... alright... I'll hang them up."
+    R "Va bene... va bene... li appeso."
 
 # game/UpdateScript0.07.rpy:12398
 translate italian campaign_headquarters_afternoon_ad58d384:
 
     # L "Thank you."
+    L "Grazie."
 
 # game/UpdateScript0.07.rpy:12399
 translate italian campaign_headquarters_afternoon_0258fd4a:
 
     # RT "{i}These are going to be a disaster. I'd better start thinking of some clever posters that go with her cosplay pictures.{/i}"
+    RT "{i}Questi saranno un disastro. Meglio iniziare a pensare ad alcuni poster intelligenti che vanno con le sue immagini di cosplay.{/i}"
 
 # game/UpdateScript0.07.rpy:12400
 translate italian campaign_headquarters_afternoon_a32cefd5:
 
     # RT "{i}Hopefully she'll come around.{/i}"
+    RT "{i}Speriamo che venga in giro.{/i}"
 
 # game/UpdateScript0.07.rpy:12401
 translate italian campaign_headquarters_afternoon_3943db32:
 
     # L "Well... If there's nothing else... Let's adjourn this meeting."
+    L "Bene... Se non c'è nient'altro... Interrompiamo questa riunione."
 
 # game/UpdateScript0.07.rpy:12411
 translate italian best_polls_aftermath_0511870d:
@@ -28909,6 +31074,7 @@ translate italian best_polls_aftermath_0511870d:
 translate italian best_polls_aftermath_31ffa55d:
 
     # L "Just like always!"
+    L "proprio come sempre!"
 
 # game/UpdateScript0.07.rpy:12419
 translate italian best_polls_aftermath_a9a39c4d:
@@ -28938,126 +31104,151 @@ translate italian best_polls_aftermath_0fb41f1c:
 translate italian best_polls_aftermath_dba85020:
 
     # L "So, what do you have in mind for us this week?"
+    L "Allora, che cosa hai in mente per noi questa settimana?"
 
 # game/UpdateScript0.07.rpy:12437
 translate italian best_polls_aftermath_42fb4089:
 
     # R "Hmmm... I was thinking..."
+    R "Mmm... Stavo pensando..."
 
 # game/UpdateScript0.07.rpy:12441
 translate italian best_polls_aftermath_94a71a58:
 
     # R "You look so hot with your ass pointed at me."
+    R "Tu sembri così caldo con il culo mi indici."
 
 # game/UpdateScript0.07.rpy:12442
 translate italian best_polls_aftermath_97e93a30:
 
     # L "I'm already dripping wet just thinking about what you're about to do to me."
+    L "Sto già gocciolando bagnato solo pensando a quello che stai per fare a me."
 
 # game/UpdateScript0.07.rpy:12443
 translate italian best_polls_aftermath_ca5d1e4f:
 
     # L "Senpai?... Will you please eat my ass?"
+    L "Senpai?... Mangi il mio culo, per favore?"
 
 # game/UpdateScript0.07.rpy:12448
 translate italian best_polls_aftermath_fc6d88e6:
 
     # L "Oh, my God!... That's incredible!"
+    L "Oh, il mio Dio!... È incredibile!"
 
 # game/UpdateScript0.07.rpy:12449
 translate italian best_polls_aftermath_88d06413:
 
     # L "Oh God, Oh God, Oh, God!"
+    L "Oh Dio, o Dio, Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:12455
 translate italian best_polls_aftermath_ea1ac002:
 
     # R "Oh... my... God!..."
+    R "Oh... mio... Dio!..."
 
 # game/UpdateScript0.07.rpy:12456
 translate italian best_polls_aftermath_af02d206:
 
     # L "Ohhhhh... Fuck!..."
+    L "Ohhhhh... Fuck!..."
 
 # game/UpdateScript0.07.rpy:12459
 translate italian best_polls_aftermath_fd46e7ab:
 
     # R "Wow!... You almost got me again!"
+    R "Wow!... Mi hai quasi ripreso!"
 
 # game/UpdateScript0.07.rpy:12460
 translate italian best_polls_aftermath_f0d37e3f:
 
     # R "I barely dodged in time."
+    R "A malapena ho schivato nel tempo."
 
 # game/UpdateScript0.07.rpy:12461
 translate italian best_polls_aftermath_304f2f59:
 
     # L "Fuuuccckk... You're sooo good at that."
+    L "Fuuuccckk... Sei abbastanza bravo a quello."
 
 # game/UpdateScript0.07.rpy:12462
 translate italian best_polls_aftermath_49e3a0e9:
 
     # R "Language, honey!"
+    R "Il linguaggio, tesoro!"
 
 # game/UpdateScript0.07.rpy:12463
 translate italian best_polls_aftermath_0259597a:
 
     # L "Haha... "
+    L "Haha... "
 
 # game/UpdateScript0.07.rpy:12464
 translate italian best_polls_aftermath_ceed20b8:
 
     # R "Hahaha..."
+    R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:12465
 translate italian best_polls_aftermath_4a8bf424:
 
     # {b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12467
 translate italian best_polls_aftermath_b516cf76:
 
     # L "Ok... where did I put those panties?"
+    L "Ok... dove ho messo quei anti?"
 
 # game/UpdateScript0.07.rpy:12472
 translate italian best_polls_aftermath_8e5123e8:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:12473
 translate italian best_polls_aftermath_8b85801f:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:12474
 translate italian best_polls_aftermath_390ed042:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:12475
 translate italian best_polls_aftermath_3565184d:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:12476
 translate italian best_polls_aftermath_77da9943:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:12477
 translate italian best_polls_aftermath_1b2a95fd:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:12478
 translate italian best_polls_aftermath_dbb22c07:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:12479
 translate italian best_polls_aftermath_14f6712b:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:12480
 translate italian best_polls_aftermath_761c95f0:
@@ -29069,16 +31260,19 @@ translate italian best_polls_aftermath_761c95f0:
 translate italian best_polls_aftermath_e808ea6e:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:12482
 translate italian best_polls_aftermath_bf68f7b7:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:12491
 translate italian best_polls_aftermath_30feb717:
 
     # L "Great!... I was hoping to get some more practice."
+    L "Ottimo!... Stavo sperando di ottenere qualche pratica in più."
 
 # game/UpdateScript0.07.rpy:12492
 translate italian best_polls_aftermath_3e0af2e0:
@@ -29138,26 +31332,31 @@ translate italian best_polls_aftermath_c3a6fe17:
 translate italian best_polls_aftermath_7cc9d013:
 
     # RT "{i}I'm getting close!{/i}"
+    RT "{i}Mi sto avvicinando!{/i}"
 
 # game/UpdateScript0.07.rpy:12514
 translate italian best_polls_aftermath_02296d18:
 
     # RT "{i}Should I cum down her throat, or all over her face?{/i}"
+    RT "{i}Dovrei sborrare giù per la gola o per tutto il viso?{/i}"
 
 # game/UpdateScript0.07.rpy:12517
 translate italian best_polls_aftermath_498a55bb:
 
     # R "I'm cumming!"
+    R "Sto piombando!"
 
 # game/UpdateScript0.07.rpy:12532
 translate italian best_polls_aftermath_272f825a:
 
     # L "Oh, my God!... [ryan]!... Haha... Ouch!"
+    L "Oh, mio Dio!... [ryan]!... Hah... Ouch!"
 
 # game/UpdateScript0.07.rpy:12533
 translate italian best_polls_aftermath_3746588f:
 
     # L "You blasted cum out my nose again!"
+    L "Hai fatto esplodere il naso di nuovo!"
 
 # game/UpdateScript0.07.rpy:12534
 translate italian best_polls_aftermath_7e5940b2:
@@ -29169,81 +31368,97 @@ translate italian best_polls_aftermath_7e5940b2:
 translate italian best_polls_aftermath_3a64d20f:
 
     # L "I tried really hard to swallow it all this time, but there's just too much."
+    L "Ho provato davvero difficile da inghiottire tutto questo tempo, ma c'è solo troppo."
 
 # game/UpdateScript0.07.rpy:12536
 translate italian best_polls_aftermath_4ba76f03:
 
     # L "I don't think I'll need to eat lunch again today."
+    L "Non penso che oggi dovrò ancora pranzare."
 
 # game/UpdateScript0.07.rpy:12537
 translate italian best_polls_aftermath_5e6d939b:
 
     # L "Buurrpp"
+    L "Buurrpp"
 
 # game/UpdateScript0.07.rpy:12538
 translate italian best_polls_aftermath_c0fa6908:
 
     # L "I'm gonna have to keep a Kleenex with me for my next class. Last time, it slowly oozed out until after school was over."
+    L "Dovrò tenere un Kleenex con me per la mia prossima classe. La volta scorsa, si è lentamente inondato fino a quando dopo la scuola non era finita."
 
 # game/UpdateScript0.07.rpy:12539
 translate italian best_polls_aftermath_4da8dbc3:
 
     # R "I'm sorry... I hope it's not too uncomfortable."
+    R "Mi dispiace... spero che non sia troppo scomodo."
 
 # game/UpdateScript0.07.rpy:12540
 translate italian best_polls_aftermath_9edcfb1e:
 
     # L "No... That's ok... It actually kind of turns me on knowing that it's your cum running out my nose all day, and dripping down my throat."
+    L "No... Va bene... In realtà tipo di mi accende sapendo che è il vostro sperma a correre il naso tutto il giorno, e gocciolando giù la gola."
 
 # game/UpdateScript0.07.rpy:12541
 translate italian best_polls_aftermath_f4852353:
 
     # R "God... You're turning me on again!"
+    R "Dio... Mi stai riaccendendo!"
 
 # game/UpdateScript0.07.rpy:12542
 translate italian best_polls_aftermath_1dc15800:
 
     # L "Don't even think about it... There's not enough time."
+    L "Non ci pensi neanche... Non c'è abbastanza tempo."
 
 # game/UpdateScript0.07.rpy:12547
 translate italian best_polls_aftermath_8e5123e8_1:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:12548
 translate italian best_polls_aftermath_8b85801f_1:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:12549
 translate italian best_polls_aftermath_390ed042_1:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:12550
 translate italian best_polls_aftermath_3565184d_1:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:12551
 translate italian best_polls_aftermath_77da9943_1:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:12552
 translate italian best_polls_aftermath_1b2a95fd_1:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:12553
 translate italian best_polls_aftermath_dbb22c07_1:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:12554
 translate italian best_polls_aftermath_14f6712b_1:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:12555
 translate italian best_polls_aftermath_761c95f0_1:
@@ -29255,11 +31470,13 @@ translate italian best_polls_aftermath_761c95f0_1:
 translate italian best_polls_aftermath_e808ea6e_1:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:12557
 translate italian best_polls_aftermath_bf68f7b7_1:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:12566
 translate italian best_polls_aftermath_61296e78:
@@ -29271,91 +31488,109 @@ translate italian best_polls_aftermath_61296e78:
 translate italian best_polls_aftermath_36ae8d95:
 
     # L "Oh, my God!... You covered me again!"
+    L "Oh, mio Dio!... Mi hai coperto ancora!"
 
 # game/UpdateScript0.07.rpy:12578
 translate italian best_polls_aftermath_f630782e:
 
     # L "How do your balls store so much cum?"
+    L "Come fanno le tue palle a conservare così tanto cum?"
 
 # game/UpdateScript0.07.rpy:12579
 translate italian best_polls_aftermath_422008dd:
 
     # R "Haha... I don't know... Apparently I'm abnormal."
+    R "Haha... Non lo so... A quanto pare sono anormale."
 
 # game/UpdateScript0.07.rpy:12580
 translate italian best_polls_aftermath_44cfb886:
 
     # L "Haha... I'll say."
+    L "Haha... lo dirò."
 
 # game/UpdateScript0.07.rpy:12581
 translate italian best_polls_aftermath_26b634bf:
 
     # L "I hope you liked that."
+    L "Spero che vi sia piaciuto."
 
 # game/UpdateScript0.07.rpy:12582
 translate italian best_polls_aftermath_039ab76e:
 
     # R "How could I not?"
+    R "Come non potevo no?"
 
 # game/UpdateScript0.07.rpy:12583
 translate italian best_polls_aftermath_d0522160:
 
     # L "That's what I like to hear."
+    L "È quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:12584
 translate italian best_polls_aftermath_58d2b7bd:
 
     # L "I should have just enough time to get the cum out of my hair and fix my makeup before the rest of the campaign team gets here."
+    L "Dovrei avere appena abbastanza tempo per ottenere lo sperma dai miei capelli e riparare il mio trucco prima che il resto della squadra della campagna arriva qui."
 
 # game/UpdateScript0.07.rpy:12585
 translate italian best_polls_aftermath_5a6d2128:
 
     # R "Lauren..."
+    R "Lauren..."
 
 # game/UpdateScript0.07.rpy:12586
 translate italian best_polls_aftermath_e3dbc2dc:
 
     # R "You're the best sister in the world!"
+    R "Sei la sorella migliore del mondo!"
 
 # game/UpdateScript0.07.rpy:12591
 translate italian best_polls_aftermath_8e5123e8_2:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:12592
 translate italian best_polls_aftermath_8b85801f_2:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:12593
 translate italian best_polls_aftermath_390ed042_2:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:12594
 translate italian best_polls_aftermath_3565184d_2:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:12595
 translate italian best_polls_aftermath_77da9943_2:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:12596
 translate italian best_polls_aftermath_1b2a95fd_2:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:12597
 translate italian best_polls_aftermath_dbb22c07_2:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:12598
 translate italian best_polls_aftermath_14f6712b_2:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:12599
 translate italian best_polls_aftermath_761c95f0_2:
@@ -29367,41 +31602,49 @@ translate italian best_polls_aftermath_761c95f0_2:
 translate italian best_polls_aftermath_e808ea6e_2:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:12601
 translate italian best_polls_aftermath_bf68f7b7_2:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:12610
 translate italian best_polls_aftermath_eb4e6d4b:
 
     # R "I was thinking we should send a text to Mandy and let her know we're going to have a little fun."
+    R "Stavo pensando che dovremmo inviare un testo a Mandy e farle sapere che ci divertiremo un po'."
 
 # game/UpdateScript0.07.rpy:12611
 translate italian best_polls_aftermath_23f42221:
 
     # L "I love it!... You send Mandy a text, and I'll text Kenzie and tell her the meetings been delayed 15 minutes again."
+    L "Mi piace!... Inviate un testo a Mandy, e scriverò Kenzie e le dirò che le riunioni sono state rimandate di nuovo 15 minuti."
 
 # game/UpdateScript0.07.rpy:12617
 translate italian best_polls_aftermath_a1e6757e:
 
     # MD "You guys are the best!"
+    MD "Tu ragazzi sei il migliore!"
 
 # game/UpdateScript0.07.rpy:12618
 translate italian best_polls_aftermath_746fc6fe:
 
     # MD "Thank you so much for inviting me!"
+    MD "Grazie mille per avermi invitata!"
 
 # game/UpdateScript0.07.rpy:12619
 translate italian best_polls_aftermath_94911942:
 
     # MD "Now should we get down to business?"
+    MD "Ora dovremmo metterci agli affari?"
 
 # game/UpdateScript0.07.rpy:12620
 translate italian best_polls_aftermath_26deb80b:
 
     # L "Haha... I now bring this meeting to order."
+    L "Haha... Ora porto questo incontro per ordinare."
 
 # game/UpdateScript0.07.rpy:12624
 translate italian best_polls_aftermath_86540b1c:
@@ -29419,6 +31662,7 @@ translate italian best_polls_aftermath_819ea7b9:
 translate italian best_polls_aftermath_40668c1a:
 
     # RT "{i}Lauren's soft touch on my balls drives me crazy.{/i}"
+    RT "{i}Il morbido tocco di Lauren sulle mie palle mi fa impazzire.{/i}"
 
 # game/UpdateScript0.07.rpy:12627
 translate italian best_polls_aftermath_c478ff80:
@@ -29454,11 +31698,13 @@ translate italian best_polls_aftermath_f2d43631:
 translate italian best_polls_aftermath_73790629:
 
     # L "OWO You read my mind!"
+    L "OWO Tu hai letto la mia mente!"
 
 # game/UpdateScript0.07.rpy:12637
 translate italian best_polls_aftermath_3cac250a:
 
     # LT "{i}I guess I kind of like staring into her eyes while she licks my brother's cock, it's really making my pussy drip.{/i}"
+    LT "{i}Immagino che mi piace fissarsi negli occhi mentre lecca il cazzo di mio fratello, è davvero fare gocciolare la figa.{/i}"
 
 # game/UpdateScript0.07.rpy:12638
 translate italian best_polls_aftermath_657dc9c8:
@@ -29488,51 +31734,61 @@ translate italian best_polls_aftermath_de4ca2ea:
 translate italian best_polls_aftermath_302eedd4:
 
     # L "You want to taste my ass again?"
+    L "Vuoi assaggiare ancora il mio asino?"
 
 # game/UpdateScript0.07.rpy:12647
 translate italian best_polls_aftermath_e7a6e7e8:
 
     # MD "So bad."
+    MD "Tanto male."
 
 # game/UpdateScript0.07.rpy:12648
 translate italian best_polls_aftermath_8a77158a:
 
     # L "Haha... good... I'd love you to lick my ass."
+    L "Haha... buono... Ti piacerebbe leccare il mio culo."
 
 # game/UpdateScript0.07.rpy:12651
 translate italian best_polls_aftermath_e0a81dc5:
 
     # MD "Are you ready for Lauren to suck your dick?"
+    MD "Sei pronto per Lauren per succhiare il tuo cazzo?"
 
 # game/UpdateScript0.07.rpy:12652
 translate italian best_polls_aftermath_0999baf9:
 
     # R "Always."
+    R "Sempre."
 
 # game/UpdateScript0.07.rpy:12655
 translate italian best_polls_aftermath_2b3dfbed:
 
     # MD "If you two are ready... Let's begin."
+    MD "Se sei pronto... Iniziamolo."
 
 # game/UpdateScript0.07.rpy:12660
 translate italian best_polls_aftermath_c6373157:
 
     # LT "{i}Oh, fuck!... Mandy's even better at licking my asshole than [ryan]!{/i}"
+    LT "{i}Oh, scopata!... Mandy ancora meglio a leccare il mio buco del culo di [ryan]!{/i}"
 
 # game/UpdateScript0.07.rpy:12661
 translate italian best_polls_aftermath_e6e17e2a:
 
     # LT "{i}Ohhhh... it feels so good!{/i}"
+    LT "{i}Ohhhh... ci si sente così bene!{/i}"
 
 # game/UpdateScript0.07.rpy:12662
 translate italian best_polls_aftermath_58e05f70:
 
     # MDT "{i}Lauren's got the cutest, tastiest little asshole ever!{/i}"
+    MDT "{i}Lauren ha ottenuto il più bello e gustoso piccolo culo mai!{/i}"
 
 # game/UpdateScript0.07.rpy:12663
 translate italian best_polls_aftermath_83e95130:
 
     # MDT "{i}It tastes so much like her pussy... I'll bet her pussy drips juices all over it all day long.{/i}"
+    MDT "{i}Ha un sapore così simile alla sua figa... Scommetterò i suoi succhi di fica gocciolati per tutto il giorno.{/i}"
 
 # game/UpdateScript0.07.rpy:12664
 translate italian best_polls_aftermath_cad2e298:
@@ -29574,21 +31830,25 @@ translate italian best_polls_aftermath_0e19b85f:
 translate italian best_polls_aftermath_a732276a:
 
     # L "I'd really like to return the favor."
+    L "Mi piacerebbe davvero tornare il favore."
 
 # game/UpdateScript0.07.rpy:12682
 translate italian best_polls_aftermath_b509566b:
 
     # L "I've realized I kind of like the taste of pussy."
+    L "Ho realizzato che mi piace il gusto della figa."
 
 # game/UpdateScript0.07.rpy:12683
 translate italian best_polls_aftermath_6e601071:
 
     # L "At least, your pussy."
+    L "Almeno la tua figa."
 
 # game/UpdateScript0.07.rpy:12684
 translate italian best_polls_aftermath_c51441c2:
 
     # MD "I'd love that!"
+    MD "Io lo amere!"
 
 # game/UpdateScript0.07.rpy:12687
 translate italian best_polls_aftermath_255da29f:
@@ -29606,6 +31866,7 @@ translate italian best_polls_aftermath_942acf0f:
 translate italian best_polls_aftermath_c281c3fe:
 
     # MDT "{i}Oh, my God!... I love it when Lauren licks my pussy!{/i}"
+    MDT "{i}Oh, mio Dio!... Mi piace quando Lauren lecca la mia figa!{/i}"
 
 # game/UpdateScript0.07.rpy:12694
 translate italian best_polls_aftermath_041a0b90:
@@ -29635,6 +31896,7 @@ translate italian best_polls_aftermath_bbcc9dd8:
 translate italian best_polls_aftermath_c9dc24cf:
 
     # L "Wow!..."
+    L "Wow!..."
 
 # game/UpdateScript0.07.rpy:12706
 translate italian best_polls_aftermath_b145c1c4:
@@ -29646,6 +31908,7 @@ translate italian best_polls_aftermath_b145c1c4:
 translate italian best_polls_aftermath_36deb974:
 
     # {b}{i}\"Mandy's Libido -5\"{/i}{/b}"
+    new "{b}{i}\"La libido di Mandy -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12711
 translate italian best_polls_aftermath_01f7b3fd:
@@ -29657,6 +31920,7 @@ translate italian best_polls_aftermath_01f7b3fd:
 translate italian best_polls_aftermath_e59a8db4:
 
     # MD "Wait!... Do it all over our faces again."
+    MD "Aspetta!... Fai di nuovo tutto sui nostri volti."
 
 # game/UpdateScript0.07.rpy:12715
 translate italian best_polls_aftermath_5b3b4a92:
@@ -29674,6 +31938,7 @@ translate italian best_polls_aftermath_d5a22c7a:
 translate italian best_polls_aftermath_4d48d3b5:
 
     # L "Ahhh... you beat me to it again!"
+    L "Ahhh... mi hai battuto di nuovo!"
 
 # game/UpdateScript0.07.rpy:12718
 translate italian best_polls_aftermath_51beb9cd:
@@ -29691,6 +31956,7 @@ translate italian best_polls_aftermath_a29d39e4:
 translate italian best_polls_aftermath_08b17bd3:
 
     # MD "Lauren, You always look so fucking hot covered in your brother's cum!"
+    MD "Lauren, Tu sembri sempre così cazzo caldo coperto di sperma di tuo fratello!"
 
 # game/UpdateScript0.07.rpy:12733
 translate italian best_polls_aftermath_f4aaf226:
@@ -29702,21 +31968,25 @@ translate italian best_polls_aftermath_f4aaf226:
 translate italian best_polls_aftermath_9695d097:
 
     # L "We've got to hurry and clean up though... Kenzie will be here soon."
+    L "Ma dobbiamo affrettarci a ripulire... Kenzie sarà qui presto."
 
 # game/UpdateScript0.07.rpy:12735
 translate italian best_polls_aftermath_acb3c56d:
 
     # L "So, did you want to lick the cum off my face again?"
+    L "Allora, volevi leccare di nuovo lo sperma fuori dalla mia faccia?"
 
 # game/UpdateScript0.07.rpy:12736
 translate italian best_polls_aftermath_fb766c1e:
 
     # MD "Yes, please."
+    MD "Sì, per piacere."
 
 # game/UpdateScript0.07.rpy:12739
 translate italian best_polls_aftermath_46ba0f34:
 
     # LT "{i}Whoa... I love how intimate this is.{/i}"
+    LT "{i}Whoa... Mi piace quanto questo sia intimo.{/i}"
 
 # game/UpdateScript0.07.rpy:12740
 translate italian best_polls_aftermath_a4bad753:
@@ -29728,21 +31998,25 @@ translate italian best_polls_aftermath_a4bad753:
 translate italian best_polls_aftermath_23bbdde1:
 
     # {b}{i}\"Lauren's Libido +3\"{/i}{/b}"
+    new "{b}{i}\"Libido di Lauren +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12745
 translate italian best_polls_aftermath_a2a5898e:
 
     # MD "There... All clean. Now, do you want to return the favor this time?"
+    MD "Là... tutto pulito. Ora, vuoi restituire il favore questa volta?"
 
 # game/UpdateScript0.07.rpy:12746
 translate italian best_polls_aftermath_9381051a:
 
     # L "Uhhh.... I think I'll pass again."
+    L "Uhhhh... penso che passerò di nuovo."
 
 # game/UpdateScript0.07.rpy:12749
 translate italian best_polls_aftermath_7c55491f:
 
     # MD "You're missing out."
+    MD "Ti sei persa."
 
 # game/UpdateScript0.07.rpy:12752
 translate italian best_polls_aftermath_2c08afee:
@@ -29754,6 +32028,7 @@ translate italian best_polls_aftermath_2c08afee:
 translate italian best_polls_aftermath_7e4defd6:
 
     # {b}{i}\"Mandy's Libido +3\"{/i}{/b}"
+    new "{b}{i}\"La libido di Mandy +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:12757
 translate italian best_polls_aftermath_8e35956c:
@@ -29777,26 +32052,31 @@ translate italian best_polls_aftermath_ae4b2598:
 translate italian best_polls_aftermath_30041f63:
 
     # L "Yes, please!... And Mandy... When Kenzie gets here..."
+    L "Sì, per favore!... E Mandy... Quando Kenzie arriva qui..."
 
 # game/UpdateScript0.07.rpy:12761
 translate italian best_polls_aftermath_bbf3cda8:
 
     # MD "Try to act natural?"
+    MD "Prova ad agire naturale?"
 
 # game/UpdateScript0.07.rpy:12762
 translate italian best_polls_aftermath_0fc83358:
 
     # L "Exactly."
+    L "Esattamente."
 
 # game/UpdateScript0.07.rpy:12763
 translate italian best_polls_aftermath_e8a445b6:
 
     # MD "Thanks for inviting me again... You guys are the best cousins ever!"
+    MD "Grazie per avermi nuovamente invitato... Sei i migliori cugini di sempre!"
 
 # game/UpdateScript0.07.rpy:12764
 translate italian best_polls_aftermath_5de13750:
 
     # L "You too!"
+    L "Anche te!"
 
 # game/UpdateScript0.07.rpy:12765
 translate italian best_polls_aftermath_affcd52e:
@@ -30018,6 +32298,7 @@ translate italian best_polls_aftermath_29ba090b:
 translate italian best_polls_aftermath_9dd1486d:
 
     # MDT "{i}....{/i}"
+    MDT "{i}....{/i}"
 
 # game/UpdateScript0.07.rpy:12861
 translate italian best_polls_aftermath_291b7768:
@@ -30029,6 +32310,7 @@ translate italian best_polls_aftermath_291b7768:
 translate italian best_polls_aftermath_9dd1486d_1:
 
     # MDT "{i}....{/i}"
+    MDT "{i}....{/i}"
 
 # game/UpdateScript0.07.rpy:12863
 translate italian best_polls_aftermath_198d75d6:
@@ -30088,11 +32370,13 @@ translate italian best_polls_aftermath_683071b0:
 translate italian best_polls_aftermath_1d89b0f6:
 
     # MD "I don't know why."
+    MD "Non so perché."
 
 # game/UpdateScript0.07.rpy:12885
 translate italian best_polls_aftermath_912dae0d:
 
     # MD "After what we did to [ryan] after he saved us from Diaz, it's not like I didn't suspect that you two were doing other things as well."
+    MD "Dopo quello che abbiamo fatto a [ryan] dopo che ci ha salvati da Diaz, non è come non ho sospettato che voi due stavate facendo altre cose pure."
 
 # game/UpdateScript0.07.rpy:12887
 translate italian best_polls_aftermath_16cf21e6:
@@ -30164,16 +32448,19 @@ translate italian best_polls_aftermath_faad1ec7:
 translate italian best_polls_aftermath_b7369926:
 
     # MD "Touched?... We did more than touch when [ryan] saved us from being spanked by Diaz."
+    MD "Toccato?... Abbiamo fatto più che toccare quando [ryan] ci ha salvati dall'essere sculacciati da Diaz."
 
 # game/UpdateScript0.07.rpy:12904
 translate italian best_polls_aftermath_2feee035:
 
     # L "Yeah, but it was in the heat of the moment... We got carried away."
+    L "Sì, ma era nel caldo del momento... Siamo stati portati via."
 
 # game/UpdateScript0.07.rpy:12905
 translate italian best_polls_aftermath_2bcb57e4:
 
     # MD "Well, I'm hoping to do a little more than just touching this time."
+    MD "Beh, spero di fare un po' di più che semplicemente toccare questa volta."
 
 # game/UpdateScript0.07.rpy:12907
 translate italian best_polls_aftermath_b6b0f919:
@@ -30743,6 +33030,7 @@ translate italian best_polls_aftermath_b145c1c4_1:
 translate italian best_polls_aftermath_36deb974_1:
 
     # {b}{i}\"Mandy's Libido -5\"{/i}{/b}"
+    new "{b}{i}\"La libido di Mandy -5\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13053
 translate italian best_polls_aftermath_01f7b3fd_1:
@@ -30904,6 +33192,7 @@ translate italian best_polls_aftermath_a4bad753_1:
 translate italian best_polls_aftermath_23bbdde1_1:
 
     # {b}{i}\"Lauren's Libido +3\"{/i}{/b}"
+    new "{b}{i}\"Libido di Lauren +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13101
 translate italian best_polls_aftermath_645d1560:
@@ -30945,6 +33234,7 @@ translate italian best_polls_aftermath_cc9c745d:
 translate italian best_polls_aftermath_7e4defd6_1:
 
     # {b}{i}\"Mandy's Libido +3\"{/i}{/b}"
+    new "{b}{i}\"La libido di Mandy +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13113
 translate italian best_polls_aftermath_657e14cc:
@@ -31064,121 +33354,145 @@ translate italian best_polls_aftermath_0fb41f1c_2:
 translate italian best_polls_aftermath_98695668:
 
     # L "What do you want to do this time?"
+    L "Cosa vuoi fare questa volta?"
 
 # game/UpdateScript0.07.rpy:13175
 translate italian best_polls_aftermath_94a71a58_1:
 
     # R "You look so hot with your ass pointed at me."
+    R "Tu sembri così caldo con il culo mi indici."
 
 # game/UpdateScript0.07.rpy:13176
 translate italian best_polls_aftermath_97e93a30_1:
 
     # L "I'm already dripping wet just thinking about what you're about to do to me."
+    L "Sto già gocciolando bagnato solo pensando a quello che stai per fare a me."
 
 # game/UpdateScript0.07.rpy:13177
 translate italian best_polls_aftermath_ca5d1e4f_1:
 
     # L "Senpai?... Will you please eat my ass?"
+    L "Senpai?... Mangi il mio culo, per favore?"
 
 # game/UpdateScript0.07.rpy:13182
 translate italian best_polls_aftermath_fc6d88e6_1:
 
     # L "Oh, my God!... That's incredible!"
+    L "Oh, il mio Dio!... È incredibile!"
 
 # game/UpdateScript0.07.rpy:13183
 translate italian best_polls_aftermath_88d06413_1:
 
     # L "Oh God, Oh God, Oh, God!"
+    L "Oh Dio, o Dio, Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:13189
 translate italian best_polls_aftermath_ea1ac002_1:
 
     # R "Oh... my... God!..."
+    R "Oh... mio... Dio!..."
 
 # game/UpdateScript0.07.rpy:13190
 translate italian best_polls_aftermath_af02d206_1:
 
     # L "Ohhhhh... Fuck!..."
+    L "Ohhhhh... Fuck!..."
 
 # game/UpdateScript0.07.rpy:13193
 translate italian best_polls_aftermath_fd46e7ab_1:
 
     # R "Wow!... You almost got me again!"
+    R "Wow!... Mi hai quasi ripreso!"
 
 # game/UpdateScript0.07.rpy:13194
 translate italian best_polls_aftermath_f0d37e3f_1:
 
     # R "I barely dodged in time."
+    R "A malapena ho schivato nel tempo."
 
 # game/UpdateScript0.07.rpy:13195
 translate italian best_polls_aftermath_304f2f59_1:
 
     # L "Fuuuccckk... You're sooo good at that."
+    L "Fuuuccckk... Sei abbastanza bravo a quello."
 
 # game/UpdateScript0.07.rpy:13196
 translate italian best_polls_aftermath_49e3a0e9_1:
 
     # R "Language, honey!"
+    R "Il linguaggio, tesoro!"
 
 # game/UpdateScript0.07.rpy:13197
 translate italian best_polls_aftermath_0259597a_1:
 
     # L "Haha... "
+    L "Haha... "
 
 # game/UpdateScript0.07.rpy:13198
 translate italian best_polls_aftermath_ceed20b8_1:
 
     # R "Hahaha..."
+    R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13199
 translate italian best_polls_aftermath_4a8bf424_1:
 
     # {b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13201
 translate italian best_polls_aftermath_b516cf76_1:
 
     # L "Ok... where did I put those panties?"
+    L "Ok... dove ho messo quei anti?"
 
 # game/UpdateScript0.07.rpy:13206
 translate italian best_polls_aftermath_8e5123e8_3:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:13207
 translate italian best_polls_aftermath_8b85801f_3:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:13208
 translate italian best_polls_aftermath_390ed042_3:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:13209
 translate italian best_polls_aftermath_3565184d_3:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13210
 translate italian best_polls_aftermath_77da9943_3:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:13211
 translate italian best_polls_aftermath_1b2a95fd_3:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:13212
 translate italian best_polls_aftermath_dbb22c07_3:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13213
 translate italian best_polls_aftermath_14f6712b_3:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13214
 translate italian best_polls_aftermath_761c95f0_3:
@@ -31190,16 +33504,19 @@ translate italian best_polls_aftermath_761c95f0_3:
 translate italian best_polls_aftermath_e808ea6e_3:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13216
 translate italian best_polls_aftermath_bf68f7b7_3:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:13225
 translate italian best_polls_aftermath_30feb717_1:
 
     # L "Great!... I was hoping to get some more practice."
+    L "Ottimo!... Stavo sperando di ottenere qualche pratica in più."
 
 # game/UpdateScript0.07.rpy:13226
 translate italian best_polls_aftermath_3e0af2e0_2:
@@ -31259,26 +33576,31 @@ translate italian best_polls_aftermath_c3a6fe17_2:
 translate italian best_polls_aftermath_7cc9d013_1:
 
     # RT "{i}I'm getting close!{/i}"
+    RT "{i}Mi sto avvicinando!{/i}"
 
 # game/UpdateScript0.07.rpy:13248
 translate italian best_polls_aftermath_02296d18_1:
 
     # RT "{i}Should I cum down her throat, or all over her face?{/i}"
+    RT "{i}Dovrei sborrare giù per la gola o per tutto il viso?{/i}"
 
 # game/UpdateScript0.07.rpy:13251
 translate italian best_polls_aftermath_498a55bb_1:
 
     # R "I'm cumming!"
+    R "Sto piombando!"
 
 # game/UpdateScript0.07.rpy:13266
 translate italian best_polls_aftermath_272f825a_1:
 
     # L "Oh, my God!... [ryan]!... Haha... Ouch!"
+    L "Oh, mio Dio!... [ryan]!... Hah... Ouch!"
 
 # game/UpdateScript0.07.rpy:13267
 translate italian best_polls_aftermath_3746588f_1:
 
     # L "You blasted cum out my nose again!"
+    L "Hai fatto esplodere il naso di nuovo!"
 
 # game/UpdateScript0.07.rpy:13268
 translate italian best_polls_aftermath_7e5940b2_3:
@@ -31290,81 +33612,97 @@ translate italian best_polls_aftermath_7e5940b2_3:
 translate italian best_polls_aftermath_3a64d20f_1:
 
     # L "I tried really hard to swallow it all this time, but there's just too much."
+    L "Ho provato davvero difficile da inghiottire tutto questo tempo, ma c'è solo troppo."
 
 # game/UpdateScript0.07.rpy:13270
 translate italian best_polls_aftermath_4ba76f03_1:
 
     # L "I don't think I'll need to eat lunch again today."
+    L "Non penso che oggi dovrò ancora pranzare."
 
 # game/UpdateScript0.07.rpy:13271
 translate italian best_polls_aftermath_5e6d939b_1:
 
     # L "Buurrpp"
+    L "Buurrpp"
 
 # game/UpdateScript0.07.rpy:13272
 translate italian best_polls_aftermath_c0fa6908_1:
 
     # L "I'm gonna have to keep a Kleenex with me for my next class. Last time, it slowly oozed out until after school was over."
+    L "Dovrò tenere un Kleenex con me per la mia prossima classe. La volta scorsa, si è lentamente inondato fino a quando dopo la scuola non era finita."
 
 # game/UpdateScript0.07.rpy:13273
 translate italian best_polls_aftermath_4da8dbc3_1:
 
     # R "I'm sorry... I hope it's not too uncomfortable."
+    R "Mi dispiace... spero che non sia troppo scomodo."
 
 # game/UpdateScript0.07.rpy:13274
 translate italian best_polls_aftermath_9edcfb1e_1:
 
     # L "No... That's ok... It actually kind of turns me on knowing that it's your cum running out my nose all day, and dripping down my throat."
+    L "No... Va bene... In realtà tipo di mi accende sapendo che è il vostro sperma a correre il naso tutto il giorno, e gocciolando giù la gola."
 
 # game/UpdateScript0.07.rpy:13275
 translate italian best_polls_aftermath_f4852353_1:
 
     # R "God... You're turning me on again!"
+    R "Dio... Mi stai riaccendendo!"
 
 # game/UpdateScript0.07.rpy:13276
 translate italian best_polls_aftermath_1dc15800_1:
 
     # L "Don't even think about it... There's not enough time."
+    L "Non ci pensi neanche... Non c'è abbastanza tempo."
 
 # game/UpdateScript0.07.rpy:13281
 translate italian best_polls_aftermath_8e5123e8_4:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:13282
 translate italian best_polls_aftermath_8b85801f_4:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:13283
 translate italian best_polls_aftermath_390ed042_4:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:13284
 translate italian best_polls_aftermath_3565184d_4:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13285
 translate italian best_polls_aftermath_77da9943_4:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:13286
 translate italian best_polls_aftermath_1b2a95fd_4:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:13287
 translate italian best_polls_aftermath_dbb22c07_4:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13288
 translate italian best_polls_aftermath_14f6712b_4:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13289
 translate italian best_polls_aftermath_761c95f0_4:
@@ -31376,11 +33714,13 @@ translate italian best_polls_aftermath_761c95f0_4:
 translate italian best_polls_aftermath_e808ea6e_4:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13291
 translate italian best_polls_aftermath_bf68f7b7_4:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:13300
 translate italian best_polls_aftermath_61296e78_1:
@@ -31392,91 +33732,109 @@ translate italian best_polls_aftermath_61296e78_1:
 translate italian best_polls_aftermath_36ae8d95_1:
 
     # L "Oh, my God!... You covered me again!"
+    L "Oh, mio Dio!... Mi hai coperto ancora!"
 
 # game/UpdateScript0.07.rpy:13312
 translate italian best_polls_aftermath_f630782e_1:
 
     # L "How do your balls store so much cum?"
+    L "Come fanno le tue palle a conservare così tanto cum?"
 
 # game/UpdateScript0.07.rpy:13313
 translate italian best_polls_aftermath_422008dd_1:
 
     # R "Haha... I don't know... Apparently I'm abnormal."
+    R "Haha... Non lo so... A quanto pare sono anormale."
 
 # game/UpdateScript0.07.rpy:13314
 translate italian best_polls_aftermath_44cfb886_1:
 
     # L "Haha... I'll say."
+    L "Haha... lo dirò."
 
 # game/UpdateScript0.07.rpy:13315
 translate italian best_polls_aftermath_26b634bf_1:
 
     # L "I hope you liked that."
+    L "Spero che vi sia piaciuto."
 
 # game/UpdateScript0.07.rpy:13316
 translate italian best_polls_aftermath_039ab76e_1:
 
     # R "How could I not?"
+    R "Come non potevo no?"
 
 # game/UpdateScript0.07.rpy:13317
 translate italian best_polls_aftermath_d0522160_1:
 
     # L "That's what I like to hear."
+    L "È quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:13318
 translate italian best_polls_aftermath_58d2b7bd_1:
 
     # L "I should have just enough time to get the cum out of my hair and fix my makeup before the rest of the campaign team gets here."
+    L "Dovrei avere appena abbastanza tempo per ottenere lo sperma dai miei capelli e riparare il mio trucco prima che il resto della squadra della campagna arriva qui."
 
 # game/UpdateScript0.07.rpy:13319
 translate italian best_polls_aftermath_5a6d2128_1:
 
     # R "Lauren..."
+    R "Lauren..."
 
 # game/UpdateScript0.07.rpy:13320
 translate italian best_polls_aftermath_e3dbc2dc_1:
 
     # R "You're the best sister in the world!"
+    R "Sei la sorella migliore del mondo!"
 
 # game/UpdateScript0.07.rpy:13325
 translate italian best_polls_aftermath_8e5123e8_5:
 
     # R "I love doing this with you!"
+    R "Amo fare questo con te!"
 
 # game/UpdateScript0.07.rpy:13326
 translate italian best_polls_aftermath_8b85801f_5:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:13327
 translate italian best_polls_aftermath_390ed042_5:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:13328
 translate italian best_polls_aftermath_3565184d_5:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13329
 translate italian best_polls_aftermath_77da9943_5:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:13330
 translate italian best_polls_aftermath_1b2a95fd_5:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:13331
 translate italian best_polls_aftermath_dbb22c07_5:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13332
 translate italian best_polls_aftermath_14f6712b_5:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13333
 translate italian best_polls_aftermath_761c95f0_5:
@@ -31488,11 +33846,13 @@ translate italian best_polls_aftermath_761c95f0_5:
 translate italian best_polls_aftermath_e808ea6e_5:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13335
 translate italian best_polls_aftermath_bf68f7b7_5:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:13349
 translate italian best_polls_aftermath_0511870d_3:
@@ -31534,11 +33894,13 @@ translate italian best_polls_aftermath_0fb41f1c_3:
 translate italian best_polls_aftermath_2893f7a2:
 
     # L "[ryan]... I want to do something for you this time."
+    L "[ryan]... Voglio fare qualcosa per te questa volta."
 
 # game/UpdateScript0.07.rpy:13375
 translate italian best_polls_aftermath_adc9039d:
 
     # R "I won't argue with that."
+    R "Non discuterò con quello."
 
 # game/UpdateScript0.07.rpy:13376
 translate italian best_polls_aftermath_3e0af2e0_3:
@@ -31550,6 +33912,7 @@ translate italian best_polls_aftermath_3e0af2e0_3:
 translate italian best_polls_aftermath_784096d8:
 
     # L "Oh... I hope this floor isn't too dirty."
+    L "Oh... Spero che questo piano non sia troppo sporco."
 
 # game/UpdateScript0.07.rpy:13380
 translate italian best_polls_aftermath_d0e10cf0_3:
@@ -31561,11 +33924,13 @@ translate italian best_polls_aftermath_d0e10cf0_3:
 translate italian best_polls_aftermath_c05b2934:
 
     # L "Wow!... I don't think I'll ever stop being amazed at how big he is."
+    L "Wow!... Non penso che smetterò mai di essere stupito di quanto sia grande."
 
 # game/UpdateScript0.07.rpy:13382
 translate italian best_polls_aftermath_fc8f2c8c:
 
     # L "Good thing I've been practicing suppressing my gag reflex."
+    L "Buona cosa ho praticato sopprimere il mio riflesso gag."
 
 # game/UpdateScript0.07.rpy:13388
 translate italian best_polls_aftermath_17211aaa_3:
@@ -31595,26 +33960,31 @@ translate italian best_polls_aftermath_c3a6fe17_3:
 translate italian best_polls_aftermath_7cc9d013_2:
 
     # RT "{i}I'm getting close!{/i}"
+    RT "{i}Mi sto avvicinando!{/i}"
 
 # game/UpdateScript0.07.rpy:13398
 translate italian best_polls_aftermath_02296d18_2:
 
     # RT "{i}Should I cum down her throat, or all over her face?{/i}"
+    RT "{i}Dovrei sborrare giù per la gola o per tutto il viso?{/i}"
 
 # game/UpdateScript0.07.rpy:13401
 translate italian best_polls_aftermath_498a55bb_2:
 
     # R "I'm cumming!"
+    R "Sto piombando!"
 
 # game/UpdateScript0.07.rpy:13416
 translate italian best_polls_aftermath_272f825a_2:
 
     # L "Oh, my God!... [ryan]!... Haha... Ouch!"
+    L "Oh, mio Dio!... [ryan]!... Hah... Ouch!"
 
 # game/UpdateScript0.07.rpy:13417
 translate italian best_polls_aftermath_1d06972f:
 
     # L "You blasted cum out my nose!"
+    L "Hai saltato il naso fuori lo sperma!"
 
 # game/UpdateScript0.07.rpy:13418
 translate italian best_polls_aftermath_7e5940b2_4:
@@ -31626,41 +33996,49 @@ translate italian best_polls_aftermath_7e5940b2_4:
 translate italian best_polls_aftermath_4e737149:
 
     # L "I'm gonna have to keep a Kleenex with me for my next class. I'll bet it keeps draining out of my sinuses for a while."
+    L "Dovrò tenere un Kleenex con me per la mia prossima classe. Scommetto che continua a drenare dai miei seni per un po'."
 
 # game/UpdateScript0.07.rpy:13420
 translate italian best_polls_aftermath_e4cd9912:
 
     # R "I'm sorry... I should have pulled out."
+    R "Mi dispiace... avrei dovuto uscire."
 
 # game/UpdateScript0.07.rpy:13421
 translate italian best_polls_aftermath_31fb071c:
 
     # L "No... That's ok... I wanted to do something nice for you, for all your help."
+    L "No... va bene... Volevo fare qualcosa di bello per te, per tutto il tuo aiuto."
 
 # game/UpdateScript0.07.rpy:13422
 translate italian best_polls_aftermath_5232c92d:
 
     # L "And if cumming down my throat make you happy..."
+    L "E se cadere giù la mia gola ti rende felice..."
 
 # game/UpdateScript0.07.rpy:13423
 translate italian best_polls_aftermath_e3dbc2dc_2:
 
     # R "You're the best sister in the world!"
+    R "Sei la sorella migliore del mondo!"
 
 # game/UpdateScript0.07.rpy:13424
 translate italian best_polls_aftermath_d99ded92:
 
     # L "Wow... that was so much cum... On the bright side, I don't think I'll need to pay for lunch today."
+    L "Wow... che era così tanto cum... Sul lato luminoso, non penso che dovrò pagare per il pranzo oggi."
 
 # game/UpdateScript0.07.rpy:13425
 translate italian best_polls_aftermath_8915f81b:
 
     # L "Buurrpp..."
+    L "Buurrpp..."
 
 # game/UpdateScript0.07.rpy:13426
 translate italian best_polls_aftermath_4c1ed466:
 
     # L "Well, we'd better get out of here... The campaign team will be here any minute."
+    L "Beh, faremmo meglio a uscire da qui... Il team della campagna sarà qui in ogni minuto."
 
 # game/UpdateScript0.07.rpy:13428
 translate italian best_polls_aftermath_61296e78_2:
@@ -31672,91 +34050,109 @@ translate italian best_polls_aftermath_61296e78_2:
 translate italian best_polls_aftermath_baa3912a:
 
     # L "Oh, my God!... You covered me!"
+    L "Oh, mio Dio!... Mi hai coperto!"
 
 # game/UpdateScript0.07.rpy:13440
 translate italian best_polls_aftermath_72b910ca:
 
     # L "I can't believe how much you can cum!"
+    L "Non riesco a credere a quanto puoi sborsare!"
 
 # game/UpdateScript0.07.rpy:13441
 translate italian best_polls_aftermath_62fc9d84:
 
     # R "Oh... I'm sorry!... I hope I didn't ruin your makeup."
+    R "Oh... Mi dispiace!... spero di non aver rovinato il trucco."
 
 # game/UpdateScript0.07.rpy:13442
 translate italian best_polls_aftermath_b9c300f7:
 
     # L "Haha... Don't worry about it."
+    L "Haha... Non preoccupatevi."
 
 # game/UpdateScript0.07.rpy:13443
 translate italian best_polls_aftermath_26b634bf_2:
 
     # L "I hope you liked that."
+    L "Spero che vi sia piaciuto."
 
 # game/UpdateScript0.07.rpy:13444
 translate italian best_polls_aftermath_039ab76e_2:
 
     # R "How could I not?"
+    R "Come non potevo no?"
 
 # game/UpdateScript0.07.rpy:13445
 translate italian best_polls_aftermath_d0522160_2:
 
     # L "That's what I like to hear."
+    L "È quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:13446
 translate italian best_polls_aftermath_58d2b7bd_2:
 
     # L "I should have just enough time to get the cum out of my hair and fix my makeup before the rest of the campaign team gets here."
+    L "Dovrei avere appena abbastanza tempo per ottenere lo sperma dai miei capelli e riparare il mio trucco prima che il resto della squadra della campagna arriva qui."
 
 # game/UpdateScript0.07.rpy:13447
 translate italian best_polls_aftermath_5a6d2128_2:
 
     # R "Lauren..."
+    R "Lauren..."
 
 # game/UpdateScript0.07.rpy:13448
 translate italian best_polls_aftermath_e3dbc2dc_3:
 
     # R "You're the best sister in the world!"
+    R "Sei la sorella migliore del mondo!"
 
 # game/UpdateScript0.07.rpy:13453
 translate italian best_polls_aftermath_c8a01f9f:
 
     # R "Wow! That was amazing!"
+    R "Wow! È stato fantastico!"
 
 # game/UpdateScript0.07.rpy:13454
 translate italian best_polls_aftermath_8b85801f_6:
 
     # L "And we finished before anybody from the campaign team got here."
+    L "E abbiamo finito prima che qualcuno dal team della campagna arrivasse qui."
 
 # game/UpdateScript0.07.rpy:13455
 translate italian best_polls_aftermath_390ed042_6:
 
     # L "Speaking of..."
+    L "Parlando del..."
 
 # game/UpdateScript0.07.rpy:13456
 translate italian best_polls_aftermath_3565184d_6:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13457
 translate italian best_polls_aftermath_77da9943_6:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:13458
 translate italian best_polls_aftermath_1b2a95fd_6:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:13459
 translate italian best_polls_aftermath_dbb22c07_6:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13460
 translate italian best_polls_aftermath_14f6712b_6:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13461
 translate italian best_polls_aftermath_761c95f0_6:
@@ -31768,11 +34164,13 @@ translate italian best_polls_aftermath_761c95f0_6:
 translate italian best_polls_aftermath_e808ea6e_6:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13463
 translate italian best_polls_aftermath_bf68f7b7_6:
 
     # R "No... Thank you!"
+    R "No... grazie a te!"
 
 # game/UpdateScript0.07.rpy:13478
 translate italian best_polls_aftermath_eea71492:
@@ -31784,16 +34182,19 @@ translate italian best_polls_aftermath_eea71492:
 translate italian best_polls_aftermath_68c77fe9:
 
     # L "We did it again!"
+    L "Lo abbiamo fatto di nuovo!"
 
 # game/UpdateScript0.07.rpy:13483
 translate italian best_polls_aftermath_7c12218e:
 
     # L "I fucking love you!"
+    L "Io fottuto ti amo!"
 
 # game/UpdateScript0.07.rpy:13487
 translate italian best_polls_aftermath_b3922af9:
 
     # RT "{i}Wow!... She's kissing me this time!{/i}"
+    RT "{i}Wow!... Stavolta mi sta baciando!{/i}"
 
 # game/UpdateScript0.07.rpy:13488
 translate italian best_polls_aftermath_1d3629d1_4:
@@ -31817,26 +34218,31 @@ translate italian best_polls_aftermath_0fb41f1c_4:
 translate italian best_polls_aftermath_0dc875f0:
 
     # R "Should we flood the stall again?"
+    R "Dovremmo alluvionare di nuovo la bancarella?"
 
 # game/UpdateScript0.07.rpy:13505
 translate italian best_polls_aftermath_affa48a2:
 
     # L "Hahaha... That's exactly what the campaign team thought happened."
+    L "Hahaha... È esattamente quello che pensava il team della campagna."
 
 # game/UpdateScript0.07.rpy:13506
 translate italian best_polls_aftermath_d22c2b10:
 
     # L "Kenzie actually leaned against the wet poster, and was pretty grossed out."
+    L "Kenzie in realtà appoggiato contro il poster bagnato, ed è stato piuttosto estrapolato."
 
 # game/UpdateScript0.07.rpy:13507
 translate italian best_polls_aftermath_fb3e0829:
 
     # R "Haha... Let's do it again."
+    R "Haha... Facciamolo ancora."
 
 # game/UpdateScript0.07.rpy:13510
 translate italian best_polls_aftermath_19ae45e1:
 
     # L "God, that feels good!"
+    L "Dio, che si sente bene!"
 
 # game/UpdateScript0.07.rpy:13511
 translate italian best_polls_aftermath_8e9cae96:
@@ -31848,31 +34254,37 @@ translate italian best_polls_aftermath_8e9cae96:
 translate italian best_polls_aftermath_5601cfec:
 
     # L "Hey... [ryan]?"
+    L "Hey... [ryan]?"
 
 # game/UpdateScript0.07.rpy:13513
 translate italian best_polls_aftermath_80e8f572:
 
     # R "You already know what you've got to say."
+    R "Sapete già quello che dovete dire."
 
 # game/UpdateScript0.07.rpy:13516
 translate italian best_polls_aftermath_0e016c50:
 
     # L "I'm the fucking dirtiest girl!"
+    L "Sono la scopata più sporca!"
 
 # game/UpdateScript0.07.rpy:13517
 translate italian best_polls_aftermath_a70e79b4:
 
     # L "Senpai, please!"
+    L "Senpai, per piacere!"
 
 # game/UpdateScript0.07.rpy:13518
 translate italian best_polls_aftermath_b80f743e:
 
     # L "Please, stick it in my ass!"
+    L "Si prega di incollarlo nel mio culo!"
 
 # game/UpdateScript0.07.rpy:13519
 translate italian best_polls_aftermath_aae99478:
 
     # R "Your wish is my command, Lauren-san."
+    R "Il vostro desiderio è il mio comando, Lauren-san."
 
 # game/UpdateScript0.07.rpy:13522
 translate italian best_polls_aftermath_9f6cdb5e:
@@ -31884,121 +34296,145 @@ translate italian best_polls_aftermath_9f6cdb5e:
 translate italian best_polls_aftermath_3c811b79:
 
     # L "[ryan]?... Can you do that one thing for me again?"
+    L "[ryan]?... Riesci a fare ancora una cosa per me?"
 
 # game/UpdateScript0.07.rpy:13568
 translate italian best_polls_aftermath_368db849:
 
     # R "You really liked that, didn't you?"
+    R "Ti è davvero piaciuto quello, vero?"
 
 # game/UpdateScript0.07.rpy:13569
 translate italian best_polls_aftermath_91fe17a4:
 
     # L "It feels so amazing."
+    L "Si sente così sorprendente."
 
 # game/UpdateScript0.07.rpy:13570
 translate italian best_polls_aftermath_60523d9b:
 
     # L "Please?"
+    L "Per favore?"
 
 # game/UpdateScript0.07.rpy:13571
 translate italian best_polls_aftermath_af824d15:
 
     # R "How can I say no to that face?"
+    R "Come posso dire di no a quella faccia?"
 
 # game/UpdateScript0.07.rpy:13576
 translate italian best_polls_aftermath_4b95681e:
 
     # L "Oh, my God!... That's even better than I remembered!"
+    L "Oh, mio Dio!... è ancora meglio di me che ricordare!"
 
 # game/UpdateScript0.07.rpy:13577
 translate italian best_polls_aftermath_88d06413_2:
 
     # L "Oh God, Oh God, Oh, God!"
+    L "Oh Dio, o Dio, Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:13583
 translate italian best_polls_aftermath_ea1ac002_2:
 
     # R "Oh... my... God!..."
+    R "Oh... mio... Dio!..."
 
 # game/UpdateScript0.07.rpy:13584
 translate italian best_polls_aftermath_af02d206_2:
 
     # L "Ohhhhh... Fuck!..."
+    L "Ohhhhh... Fuck!..."
 
 # game/UpdateScript0.07.rpy:13587
 translate italian best_polls_aftermath_fd46e7ab_2:
 
     # R "Wow!... You almost got me again!"
+    R "Wow!... Mi hai quasi ripreso!"
 
 # game/UpdateScript0.07.rpy:13588
 translate italian best_polls_aftermath_f0d37e3f_2:
 
     # R "I barely dodged in time."
+    R "A malapena ho schivato nel tempo."
 
 # game/UpdateScript0.07.rpy:13589
 translate italian best_polls_aftermath_304f2f59_2:
 
     # L "Fuuuccckk... You're sooo good at that."
+    L "Fuuuccckk... Sei abbastanza bravo a quello."
 
 # game/UpdateScript0.07.rpy:13590
 translate italian best_polls_aftermath_49e3a0e9_2:
 
     # R "Language, honey!"
+    R "Il linguaggio, tesoro!"
 
 # game/UpdateScript0.07.rpy:13591
 translate italian best_polls_aftermath_0259597a_2:
 
     # L "Haha... "
+    L "Haha... "
 
 # game/UpdateScript0.07.rpy:13592
 translate italian best_polls_aftermath_ceed20b8_2:
 
     # R "Hahaha..."
+    R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13593
 translate italian best_polls_aftermath_4a8bf424_2:
 
     # {b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13595
 translate italian best_polls_aftermath_b516cf76_2:
 
     # L "Ok... where did I put those panties?"
+    L "Ok... dove ho messo quei anti?"
 
 # game/UpdateScript0.07.rpy:13600
 translate italian best_polls_aftermath_bd48ddcc:
 
     # L "Wow! That was amazing..."
+    L "Wow! È stato fantastico..."
 
 # game/UpdateScript0.07.rpy:13601
 translate italian best_polls_aftermath_ca8f964b:
 
     # L "The rest of the campaign team will be here any minute."
+    L "Il resto della squadra della campagna sarà qui qualsiasi minuto."
 
 # game/UpdateScript0.07.rpy:13602
 translate italian best_polls_aftermath_3565184d_7:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13603
 translate italian best_polls_aftermath_77da9943_7:
 
     # R "Hanging posters?"
+    R "Manifesti sospesi?"
 
 # game/UpdateScript0.07.rpy:13604
 translate italian best_polls_aftermath_1b2a95fd_7:
 
     # L "You read my mind."
+    L "Tu mi hai letto la mente."
 
 # game/UpdateScript0.07.rpy:13605
 translate italian best_polls_aftermath_dbb22c07_7:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13606
 translate italian best_polls_aftermath_14f6712b_7:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13607
 translate italian best_polls_aftermath_761c95f0_7:
@@ -32010,31 +34446,37 @@ translate italian best_polls_aftermath_761c95f0_7:
 translate italian best_polls_aftermath_e808ea6e_7:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13622
 translate italian best_polls_aftermath_71849e84:
 
     # RT "{i}She's got to be around here somewhere.{/i}"
+    RT "{i}Deve essere in giro da qualche parte.{/i}"
 
 # game/UpdateScript0.07.rpy:13623
 translate italian best_polls_aftermath_fcac4bde:
 
     # RT "{i}Shit... She's going to pop out of nowhere and surprise me again.{/i}"
+    RT "{i}Shit... Sta per uscire dal nulla e mi sorprende di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:13627
 translate italian best_polls_aftermath_68c77fe9_1:
 
     # L "We did it again!"
+    L "Lo abbiamo fatto di nuovo!"
 
 # game/UpdateScript0.07.rpy:13628
 translate italian best_polls_aftermath_7c12218e_1:
 
     # L "I fucking love you!"
+    L "Io fottuto ti amo!"
 
 # game/UpdateScript0.07.rpy:13632
 translate italian best_polls_aftermath_b3922af9_1:
 
     # RT "{i}Wow!... She's kissing me this time!{/i}"
+    RT "{i}Wow!... Stavolta mi sta baciando!{/i}"
 
 # game/UpdateScript0.07.rpy:13633
 translate italian best_polls_aftermath_1d3629d1_5:
@@ -32046,81 +34488,97 @@ translate italian best_polls_aftermath_1d3629d1_5:
 translate italian best_polls_aftermath_70533c74:
 
     # L "Let's take our fun to my office where nobody can see us."
+    L "Prendiamo il nostro divertimento nel mio ufficio dove nessuno può vederci."
 
 # game/UpdateScript0.07.rpy:13637
 translate italian best_polls_aftermath_75fe1d75:
 
     # R "Haha... You mean the stall?"
+    R "Haha... Intendi la bancarella?"
 
 # game/UpdateScript0.07.rpy:13638
 translate italian best_polls_aftermath_5b171038:
 
     # L "No... I mean my personal campaign office."
+    L "No... Voglio dire il mio ufficio di campagna personale."
 
 # game/UpdateScript0.07.rpy:13644
 translate italian best_polls_aftermath_c7b171bc:
 
     # L "There... Now nobody can see us."
+    L "Là... Ora nessuno ci può vedere."
 
 # game/UpdateScript0.07.rpy:13645
 translate italian best_polls_aftermath_9a71d19b:
 
     # R "They can see our feet."
+    R "Essi possono vedere i nostri piedi."
 
 # game/UpdateScript0.07.rpy:13646
 translate italian best_polls_aftermath_5c61c327:
 
     # L "Yes, but they won't know it's us, or what we're doing."
+    L "Sì, ma non sapranno che siamo noi o che cosa stiamo facendo."
 
 # game/UpdateScript0.07.rpy:13647
 translate italian best_polls_aftermath_af2d701d:
 
     # R "Yeah, they'll probably imagine we're doing something much worse than we really are."
+    R "Sì, probabilmente immagineranno che stiamo facendo qualcosa di molto peggiore di noi."
 
 # game/UpdateScript0.07.rpy:13648
 translate italian best_polls_aftermath_fb81d065:
 
     # L "Just shut up and kiss me some more!"
+    L "Basta chiudere e baciarmi un po'di più!"
 
 # game/UpdateScript0.07.rpy:13654
 translate italian best_polls_aftermath_d117b996:
 
     # R "I really want to do something extra for you."
+    R "Voglio davvero fare qualcosa in più per te."
 
 # game/UpdateScript0.07.rpy:13655
 translate italian best_polls_aftermath_9bb4eeec:
 
     # L "Oh, really?"
+    L "Oh, davvero?"
 
 # game/UpdateScript0.07.rpy:13656
 translate italian best_polls_aftermath_0880fcc1:
 
     # L "I can't wait to find out what."
+    L "Non vedo l'ora di scoprire cosa."
 
 # game/UpdateScript0.07.rpy:13657
 translate italian best_polls_aftermath_66339cc8:
 
     # R "I just need you to lay back on the toilet seat."
+    R "Ho solo bisogno di posare indietro sul sedile del bagno."
 
 # game/UpdateScript0.07.rpy:13658
 translate italian best_polls_aftermath_7c514f01:
 
     # L "Oh... that's kind of gross?"
+    L "Oh... questo è un tipo di grossolano?"
 
 # game/UpdateScript0.07.rpy:13659
 translate italian best_polls_aftermath_46881d22:
 
     # R "Don't you sit there every day?"
+    R "Non ci sedete tutti i giorni?"
 
 # game/UpdateScript0.07.rpy:13660
 translate italian best_polls_aftermath_38e59821:
 
     # L "Yeah... I guess... ok."
+    L "Sì... immagino... ok."
 
 # game/UpdateScript0.07.rpy:13663
 translate italian best_polls_aftermath_19ae45e1_1:
 
     # L "God, that feels good!"
+    L "Dio, che si sente bene!"
 
 # game/UpdateScript0.07.rpy:13664
 translate italian best_polls_aftermath_8e9cae96_1:
@@ -32132,11 +34590,13 @@ translate italian best_polls_aftermath_8e9cae96_1:
 translate italian best_polls_aftermath_5601cfec_1:
 
     # L "Hey... [ryan]?"
+    L "Hey... [ryan]?"
 
 # game/UpdateScript0.07.rpy:13666
 translate italian best_polls_aftermath_8cd0eaf5:
 
     # L "Could you do what you did to me on our couch?"
+    L "Potresti fare ciò che mi hai fatto sul nostro divano?"
 
 # game/UpdateScript0.07.rpy:13667
 translate italian best_polls_aftermath_b2504771:
@@ -32148,16 +34608,19 @@ translate italian best_polls_aftermath_b2504771:
 translate italian best_polls_aftermath_b9b4a912:
 
     # L "I mean that thing with your pinky."
+    L "Voglio dire quella cosa con il vostro rosa."
 
 # game/UpdateScript0.07.rpy:13669
 translate italian best_polls_aftermath_8b8957a7:
 
     # R "Oh..."
+    R "Oh..."
 
 # game/UpdateScript0.07.rpy:13670
 translate italian best_polls_aftermath_6494836f:
 
     # R "Can you be more specific?"
+    R "Può essere più specifico?"
 
 # game/UpdateScript0.07.rpy:13673
 translate italian best_polls_aftermath_faf376b6:
@@ -32169,11 +34632,13 @@ translate italian best_polls_aftermath_faf376b6:
 translate italian best_polls_aftermath_da0389e8:
 
     # R "Tell me you're a dirty girl..."
+    R "Mi dica che sei una ragazza sporca..."
 
 # game/UpdateScript0.07.rpy:13675
 translate italian best_polls_aftermath_82b7a6bd:
 
     # R "And that you want it in the ass."
+    R "E che vuoi nel culo."
 
 # game/UpdateScript0.07.rpy:13676
 translate italian best_polls_aftermath_a314db81_1:
@@ -32185,36 +34650,43 @@ translate italian best_polls_aftermath_a314db81_1:
 translate italian best_polls_aftermath_0e016c50_1:
 
     # L "I'm the fucking dirtiest girl!"
+    L "Sono la scopata più sporca!"
 
 # game/UpdateScript0.07.rpy:13678
 translate italian best_polls_aftermath_a70e79b4_1:
 
     # L "Senpai, please!"
+    L "Senpai, per piacere!"
 
 # game/UpdateScript0.07.rpy:13679
 translate italian best_polls_aftermath_d7b45a60:
 
     # L "Stick your pinky in my ass."
+    L "Attacca il tuo rosa nel mio culo."
 
 # game/UpdateScript0.07.rpy:13680
 translate italian best_polls_aftermath_152742e9:
 
     # R "Whoa... Did you just call me...?"
+    R "Chia... Mi hai appena chiamato...?"
 
 # game/UpdateScript0.07.rpy:13681
 translate italian best_polls_aftermath_79061873:
 
     # L "You think you're the only one who watches hentai?"
+    L "Pensi di essere l'unico che guarda hentai?"
 
 # game/UpdateScript0.07.rpy:13682
 translate italian best_polls_aftermath_4757791e:
 
     # L "Yes, senpai!... Please! Stick it in my ass!"
+    L "Sì, senpai!... Per favore! Attaccalo nel mio culo!"
 
 # game/UpdateScript0.07.rpy:13683
 translate italian best_polls_aftermath_aae99478_1:
 
     # R "Your wish is my command, Lauren-san."
+    R "Il vostro desiderio è il mio comando, Lauren-san."
 
 # game/UpdateScript0.07.rpy:13686
 translate italian best_polls_aftermath_9f6cdb5e_1:
@@ -32226,6 +34698,7 @@ translate italian best_polls_aftermath_9f6cdb5e_1:
 translate italian best_polls_aftermath_670a4d40:
 
     # L "[ryan]?... Can you do something else for me?"
+    L "[ryan]?... Puoi fare qualcos'altro per me?"
 
 # game/UpdateScript0.07.rpy:13732
 translate italian best_polls_aftermath_a5c2e44d:
@@ -32237,11 +34710,13 @@ translate italian best_polls_aftermath_a5c2e44d:
 translate italian best_polls_aftermath_99cbff34:
 
     # L "It's just... I really like it when you stick your pinky in my bum..."
+    L "E 'solo... Mi piace molto quando si incolla il tuo rosa nel mio bum..."
 
 # game/UpdateScript0.07.rpy:13734
 translate italian best_polls_aftermath_6c4a242c:
 
     # L "I was wondering what it would feel like to have my bum hole licked."
+    L "Mi stavo chiedendo cosa avrebbe voluto fare leccare il mio buco del bus."
 
 # game/UpdateScript0.07.rpy:13735
 translate italian best_polls_aftermath_4881927b:
@@ -32253,131 +34728,157 @@ translate italian best_polls_aftermath_4881927b:
 translate italian best_polls_aftermath_78f94c77:
 
     # L "Don't worry. I showered this morning. And I haven't done... anything."
+    L "Non ti preoccupare. Ho fatto la doccia stamattina. E non ho fatto... nulla."
 
 # game/UpdateScript0.07.rpy:13737
 translate italian best_polls_aftermath_98e56e5b:
 
     # L "I should be really clean."
+    L "Dovrei essere veramente pulito."
 
 # game/UpdateScript0.07.rpy:13738
 translate italian best_polls_aftermath_0017dd54:
 
     # R "You really are a dirty girl."
+    R "Sei davvero una ragazza sporca."
 
 # game/UpdateScript0.07.rpy:13739
 translate italian best_polls_aftermath_91f364cd:
 
     # L "A dirty girl with a clean bum."
+    L "Una ragazza sporca con un bum."
 
 # game/UpdateScript0.07.rpy:13740
 translate italian best_polls_aftermath_ba42df77:
 
     # R "Haha... Ok."
+    R "Haha... Ok."
 
 # game/UpdateScript0.07.rpy:13745
 translate italian best_polls_aftermath_14f4d9b7:
 
     # L "Oh, my God!... That's even better than I imagined!"
+    L "Oh, mio Dio!... è ancora meglio di quanto immaginassero!"
 
 # game/UpdateScript0.07.rpy:13746
 translate italian best_polls_aftermath_88d06413_3:
 
     # L "Oh God, Oh God, Oh, God!"
+    L "Oh Dio, o Dio, Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:13752
 translate italian best_polls_aftermath_ea1ac002_3:
 
     # R "Oh... my... God!..."
+    R "Oh... mio... Dio!..."
 
 # game/UpdateScript0.07.rpy:13753
 translate italian best_polls_aftermath_af02d206_3:
 
     # L "Ohhhhh... Fuck!..."
+    L "Ohhhhh... Fuck!..."
 
 # game/UpdateScript0.07.rpy:13756
 translate italian best_polls_aftermath_a6b409fe:
 
     # R "Wow!... You almost got me!"
+    R "Wow!... Mi hai quasi ottenuto!"
 
 # game/UpdateScript0.07.rpy:13757
 translate italian best_polls_aftermath_f0d37e3f_3:
 
     # R "I barely dodged in time."
+    R "A malapena ho schivato nel tempo."
 
 # game/UpdateScript0.07.rpy:13758
 translate italian best_polls_aftermath_9f13f469:
 
     # R "But, I don't think your campaign poster survived."
+    R "Ma, non penso che il tuo manifesto di campagna sia sopravvissuto."
 
 # game/UpdateScript0.07.rpy:13759
 translate italian best_polls_aftermath_4ed539cb:
 
     # L "Fuuuccckk... That felt goood."
+    L "Fuuuccckk... Quello sembrava buono."
 
 # game/UpdateScript0.07.rpy:13760
 translate italian best_polls_aftermath_577c6583:
 
     # R "If Mom could here you right now..."
+    R "Se la mamma poteva qui in questo momento..."
 
 # game/UpdateScript0.07.rpy:13761
 translate italian best_polls_aftermath_739342d2:
 
     # L "Haha... I know!... \"Language, honey!\""
+    L "Haha... Lo so!... \"Lingua, miele!\""
 
 # game/UpdateScript0.07.rpy:13762
 translate italian best_polls_aftermath_ceed20b8_3:
 
     # R "Hahaha..."
+    R "Hahaha..."
 
 # game/UpdateScript0.07.rpy:13763
 translate italian best_polls_aftermath_4a8bf424_3:
 
     # {b}{i}\"Lauren's Libido -3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Libido -3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13765
 translate italian best_polls_aftermath_8c9850a2:
 
     # L "Do you think you could help me find my panties?"
+    L "Pensi che potresti aiutarmi a trovare i miei antipo?"
 
 # game/UpdateScript0.07.rpy:13770
 translate italian best_polls_aftermath_ce6eff64:
 
     # L "Wow! That was unexpected..."
+    L "Wow! Era inatteso..."
 
 # game/UpdateScript0.07.rpy:13771
 translate italian best_polls_aftermath_ca8f964b_1:
 
     # L "The rest of the campaign team will be here any minute."
+    L "Il resto della squadra della campagna sarà qui qualsiasi minuto."
 
 # game/UpdateScript0.07.rpy:13772
 translate italian best_polls_aftermath_3565184d_8:
 
     # L "I've already got a task for you if you are willing."
+    L "Ho già un compito per voi se siete disposti a farlo."
 
 # game/UpdateScript0.07.rpy:13773
 translate italian best_polls_aftermath_721d4a93:
 
     # L "Could you get some more posters made and hung up all over the school?"
+    L "Potresti ottenere qualche altro poster fatto e appeso in tutta la scuola?"
 
 # game/UpdateScript0.07.rpy:13774
 translate italian best_polls_aftermath_0d8da94d:
 
     # R "Yeah, of course, I saw that Matt tore them all down."
+    R "Sì, certamente, ho visto che Matt li strappò tutti."
 
 # game/UpdateScript0.07.rpy:13775
 translate italian best_polls_aftermath_ebf58349:
 
     # R "I'll make sure to return the favor."
+    R "Mi assicurerò di tornare il favore."
 
 # game/UpdateScript0.07.rpy:13776
 translate italian best_polls_aftermath_dbb22c07_8:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13777
 translate italian best_polls_aftermath_14f6712b_8:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13778
 translate italian best_polls_aftermath_761c95f0_8:
@@ -32389,101 +34890,121 @@ translate italian best_polls_aftermath_761c95f0_8:
 translate italian best_polls_aftermath_e808ea6e_8:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13794
 translate italian best_polls_aftermath_71849e84_1:
 
     # RT "{i}She's got to be around here somewhere.{/i}"
+    RT "{i}Deve essere in giro da qualche parte.{/i}"
 
 # game/UpdateScript0.07.rpy:13795
 translate italian best_polls_aftermath_fcac4bde_1:
 
     # RT "{i}Shit... She's going to pop out of nowhere and surprise me again.{/i}"
+    RT "{i}Shit... Sta per uscire dal nulla e mi sorprende di nuovo.{/i}"
 
 # game/UpdateScript0.07.rpy:13799
 translate italian best_polls_aftermath_68c77fe9_2:
 
     # L "We did it again!"
+    L "Lo abbiamo fatto di nuovo!"
 
 # game/UpdateScript0.07.rpy:13800
 translate italian best_polls_aftermath_398227e8:
 
     # L "Too close to call!"
+    L "Troppo vicino a chiamare!"
 
 # game/UpdateScript0.07.rpy:13803
 translate italian best_polls_aftermath_84ed8814:
 
     # R "I know!..."
+    R "Lo so!..."
 
 # game/UpdateScript0.07.rpy:13804
 translate italian best_polls_aftermath_90c25dc0:
 
     # R "I'm starting to believe that you could actually win this thing!"
+    R "Sto cominciando a credere che tu possa davvero vincere questa cosa!"
 
 # game/UpdateScript0.07.rpy:13805
 translate italian best_polls_aftermath_e97a152b:
 
     # R "I'm so proud of you!"
+    R "Sono così orgogliosa di te!"
 
 # game/UpdateScript0.07.rpy:13808
 translate italian best_polls_aftermath_9e26f0bd:
 
     # L "Well, it couldn't have happened without your help."
+    L "Beh, non sarebbe potuto accadere senza il tuo aiuto."
 
 # game/UpdateScript0.07.rpy:13809
 translate italian best_polls_aftermath_0850b5d9:
 
     # L "I'm really lucky to be your sister."
+    L "Sono davvero fortunata ad essere tua sorella."
 
 # game/UpdateScript0.07.rpy:13812
 translate italian best_polls_aftermath_3594f2e7:
 
     # LT "{i}Oh, my God!... He's kissing me again!{/i}"
+    LT "{i}Oh, mio Dio!... Mi sta baciando ancora!{/i}"
 
 # game/UpdateScript0.07.rpy:13815
 translate italian best_polls_aftermath_74a54ed6:
 
     # LT "{i}Oh, God!{/i}"
+    LT "{i}Oh, Dio! {/i}"
 
 # game/UpdateScript0.07.rpy:13818
 translate italian best_polls_aftermath_4bbed870:
 
     # L "Wow!... [ryan]... You kissed me again!"
+    L "Wow!... [ryan]... Mi hai baciato di nuovo!"
 
 # game/UpdateScript0.07.rpy:13819
 translate italian best_polls_aftermath_6de22043:
 
     # R "I know... I just can't help it!... seeing you so happy... You're just so beautiful!"
+    R "Lo so... non posso proprio aiutarlo!... vedendoti così felice... sei semplicemente così bello!"
 
 # game/UpdateScript0.07.rpy:13820
 translate italian best_polls_aftermath_adf100af:
 
     # L "I... love it too. We just have to be careful."
+    L "Io... lo amiamo anche. Dobbiamo solo fare attenzione."
 
 # game/UpdateScript0.07.rpy:13821
 translate italian best_polls_aftermath_56347897:
 
     # R "Of course... We just had some fun, and now it's back to business."
+    R "Certo... Ci siamo appena divertiti, e ora è tornato al business."
 
 # game/UpdateScript0.07.rpy:13822
 translate italian best_polls_aftermath_d11af043:
 
     # L "Exactly!"
+    L "Esattamente!"
 
 # game/UpdateScript0.07.rpy:13823
 translate italian best_polls_aftermath_3a1a7a7a:
 
     # L "Matt's going to start working harder to try to push back our success."
+    L "Matt's going to start working hard to try to push back our succession."
 
 # game/UpdateScript0.07.rpy:13824
 translate italian best_polls_aftermath_bd0fce27:
 
     # L "He's already ripped down our posters again."
+    L "Ha già strappato di nuovo i nostri manifesti."
 
 # game/UpdateScript0.07.rpy:13825
 translate italian best_polls_aftermath_d80fc6b3:
 
     # L "Could you get some more made and hung up all over the school?"
+    L "Potresti ottenere qualche altro prodotto e appeso in tutta la scuola?"
 
 # game/UpdateScript0.07.rpy:13826
 translate italian best_polls_aftermath_e5307bb3:
@@ -32495,11 +35016,13 @@ translate italian best_polls_aftermath_e5307bb3:
 translate italian best_polls_aftermath_dbb22c07_9:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13828
 translate italian best_polls_aftermath_14f6712b_9:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13829
 translate italian best_polls_aftermath_761c95f0_9:
@@ -32511,121 +35034,145 @@ translate italian best_polls_aftermath_761c95f0_9:
 translate italian best_polls_aftermath_e808ea6e_9:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13844
 translate italian best_polls_aftermath_71849e84_2:
 
     # RT "{i}She's got to be around here somewhere.{/i}"
+    RT "{i}Deve essere in giro da qualche parte.{/i}"
 
 # game/UpdateScript0.07.rpy:13847
 translate italian best_polls_aftermath_5fa831a2:
 
     # L "Can you believe it!?"
+    L "Ci puoi credere!?"
 
 # game/UpdateScript0.07.rpy:13848
 translate italian best_polls_aftermath_398227e8_1:
 
     # L "Too close to call!"
+    L "Troppo vicino a chiamare!"
 
 # game/UpdateScript0.07.rpy:13851
 translate italian best_polls_aftermath_9e8c6943:
 
     # R "I can't believe it!"
+    R "Non posso crederci!"
 
 # game/UpdateScript0.07.rpy:13852
 translate italian best_polls_aftermath_0120bc75:
 
     # R "It's amazing!"
+    R "È incredibile!"
 
 # game/UpdateScript0.07.rpy:13853
 translate italian best_polls_aftermath_e97a152b_1:
 
     # R "I'm so proud of you!"
+    R "Sono così orgogliosa di te!"
 
 # game/UpdateScript0.07.rpy:13857
 translate italian best_polls_aftermath_9e26f0bd_1:
 
     # L "Well, it couldn't have happened without your help."
+    L "Beh, non sarebbe potuto accadere senza il tuo aiuto."
 
 # game/UpdateScript0.07.rpy:13858
 translate italian best_polls_aftermath_0850b5d9_1:
 
     # L "I'm really lucky to be your sister."
+    L "Sono davvero fortunata ad essere tua sorella."
 
 # game/UpdateScript0.07.rpy:13861
 translate italian best_polls_aftermath_2955fb26:
 
     # LT "{i}Oh, my God!... He's kissing me!{/i}"
+    LT "{i}Oh, mio Dio!... Lui mi sta baciando!{/i}"
 
 # game/UpdateScript0.07.rpy:13864
 translate italian best_polls_aftermath_0ac2688c:
 
     # LT "{i}Oh, God!... He's kissing me!{/i}"
+    LT "{i}Oh, Dio!... Lui mi sta baciando!{/i}"
 
 # game/UpdateScript0.07.rpy:13867
 translate italian best_polls_aftermath_fff9f6ab:
 
     # L "Wow!... [ryan]... What's gotten into you?"
+    L "Wow!... [ryan]... Cosa ti è entrato?"
 
 # game/UpdateScript0.07.rpy:13868
 translate italian best_polls_aftermath_378623d6:
 
     # R "Shit! I'm so sorry... I couldn't help it, seeing you so happy... You're just so beautiful... I couldn't help myself."
+    R "Merda! Mi dispiace... non potevo aiutarla, vedendoti così felice... sei semplicemente così bello... non potrei aiutarmi."
 
 # game/UpdateScript0.07.rpy:13869
 translate italian best_polls_aftermath_3e1cba35:
 
     # L "No... I liked it... That's the sweetest thing that's ever happened to me."
+    L "No... Mi è piaciuto... È la cosa più dolce che mi sia mai capitata."
 
 # game/UpdateScript0.07.rpy:13872
 translate italian best_polls_aftermath_b0539d88:
 
     # L "But a kiss?... That's more than just sexual experimentation, or playing around... Does that mean you \"like me\", like me?"
+    L "Ma un bacio?... È più di una semplice sperimentazione sessuale, o suonare intorno... significa che ti \"piace\", come me?"
 
 # game/UpdateScript0.07.rpy:13876
 translate italian best_polls_aftermath_1a86a365:
 
     # R "I've been feeling this way for a long time, but I've been repressing those feelings."
+    R "Mi sento così da molto tempo, ma sto reprimendo quei sentimenti."
 
 # game/UpdateScript0.07.rpy:13877
 translate italian best_polls_aftermath_8775d788:
 
     # R "I know I should have confessed them a long time ago..."
+    R "So che avrei dovuto confessarli molto tempo fa..."
 
 # game/UpdateScript0.07.rpy:13878
 translate italian best_polls_aftermath_d1eaa0d4:
 
     # R "I know I'm not supposed to feel that way about my sister."
+    R "So che non dovrei sentirmi così per mia sorella."
 
 # game/UpdateScript0.07.rpy:13881
 translate italian best_polls_aftermath_9cb49e66:
 
     # L "For a long time?"
+    L "Per molto tempo?"
 
 # game/UpdateScript0.07.rpy:13882
 translate italian best_polls_aftermath_9a5a0ca0:
 
     # R "Well, yeah..."
+    R "Beh, sì..."
 
 # game/UpdateScript0.07.rpy:13883
 translate italian best_polls_aftermath_c09c209f:
 
     # L "[ryan], I've got some confusing emotions wreaking havoc through my heart as well."
+    L "[ryan], Ho alcune emozioni confuse che scatenano lo scompiglio anche nel mio cuore."
 
 # game/UpdateScript0.07.rpy:13884
 translate italian best_polls_aftermath_1d6336c5:
 
     # L "But, we can't let what we have turn into anything romantic."
+    L "Ma non possiamo lasciare che ciò che abbiamo trasformato in qualcosa di romantico."
 
 # game/UpdateScript0.07.rpy:13885
 translate italian best_polls_aftermath_ff8903be:
 
     # L "It just makes life too complicated."
+    L "Rende la vita troppo complessa."
 
 # game/UpdateScript0.07.rpy:13886
 translate italian best_polls_aftermath_b4451c14:
 
     # L "It's just got to be for fun, or we've got to stop."
+    L "Deve essere solo per divertimento, oppure dobbiamo fermarci."
 
 # game/UpdateScript0.07.rpy:13887
 translate italian best_polls_aftermath_a314db81_2:
@@ -32637,166 +35184,199 @@ translate italian best_polls_aftermath_a314db81_2:
 translate italian best_polls_aftermath_e9f5808f:
 
     # L "But I am really flattered!"
+    L "Ma io sono davvero lusinghiero!"
 
 # game/UpdateScript0.07.rpy:13890
 translate italian best_polls_aftermath_f6a86c35:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13894
 translate italian best_polls_aftermath_f0cde651:
 
     # L "Are you ok with just doing this for fun?..."
+    L "Stai bene a fare questo per divertimento?..."
 
 # game/UpdateScript0.07.rpy:13895
 translate italian best_polls_aftermath_e4b33791:
 
     # L "I hope I haven't hurt your feelings."
+    L "Spero di non aver ferito i vostri sentimenti."
 
 # game/UpdateScript0.07.rpy:13896
 translate italian best_polls_aftermath_462f89f2:
 
     # R "Haha... Would you stop making that face?"
+    R "Haha... Vuoi smettere di fare quella faccia?"
 
 # game/UpdateScript0.07.rpy:13897
 translate italian best_polls_aftermath_9a03ce9f:
 
     # L "What face?"
+    L "Che volto?"
 
 # game/UpdateScript0.07.rpy:13898
 translate italian best_polls_aftermath_be04eb90:
 
     # R "That stupid sympathy face, you goof."
+    R "Quella stupida simpatia faccia, bizzarre."
 
 # game/UpdateScript0.07.rpy:13901
 translate italian best_polls_aftermath_fcf9e96b:
 
     # L "I wasn't pulling a face!"
+    L "Non stavo tirando un viso!"
 
 # game/UpdateScript0.07.rpy:13902
 translate italian best_polls_aftermath_5bc720bd:
 
     # R "Yes, you were... And I love what we have."
+    R "Sì, tu eravi... E io amo quello che abbiamo."
 
 # game/UpdateScript0.07.rpy:13903
 translate italian best_polls_aftermath_3d521bbb:
 
     # R "So, I agree. Let's just keep it fun, and nothing more."
+    R "Quindi, sono d'accordo. Manteniamo solo il divertimento, e niente di più."
 
 # game/UpdateScript0.07.rpy:13906
 translate italian best_polls_aftermath_01912297:
 
     # L "Yeah... Let's not make it weird."
+    L "Sì... Non rendiamolo strano."
 
 # game/UpdateScript0.07.rpy:13907
 translate italian best_polls_aftermath_3a8d91b5:
 
     # R "For sure..."
+    R "Sicuramente..."
 
 # game/UpdateScript0.07.rpy:13910
 translate italian best_polls_aftermath_03171757:
 
     # L "So..."
+    L "Così..."
 
 # game/UpdateScript0.07.rpy:13911
 translate italian best_polls_aftermath_aeda957c:
 
     # R "Uhh... Yeah..."
+    R "Uhh... Sì, sì..."
 
 # game/UpdateScript0.07.rpy:13912
 translate italian best_polls_aftermath_01fe8b1a:
 
     # R "I guess I'll see you around?"
+    R "Immagino che ti vedrò intorno?"
 
 # game/UpdateScript0.07.rpy:13915
 translate italian best_polls_aftermath_c402f40b:
 
     # L "Oh... I almost forgot."
+    L "Oh... ho quasi dimenticato."
 
 # game/UpdateScript0.07.rpy:13917
 translate italian best_polls_aftermath_028c64fe:
 
     # R "Well... It's actually really hard to define exactly what it is I'm feeling."
+    R "Bene... In realtà è davvero difficile definire esattamente quello che sto sentendo."
 
 # game/UpdateScript0.07.rpy:13918
 translate italian best_polls_aftermath_74715e4c:
 
     # R "It's definitely a new feeling... You know... since we've been spending time together again, ever since Dad was arrested."
+    R "È sicuramente un nuovo sentimento... lo sai... dal momento che stiamo tornando insieme, da quando il papà è stato arrestato."
 
 # game/UpdateScript0.07.rpy:13919
 translate italian best_polls_aftermath_3d81cf20:
 
     # R "Boy, things are different now."
+    R "Ragazzo, le cose sono diverse."
 
 # game/UpdateScript0.07.rpy:13920
 translate italian best_polls_aftermath_3c2950c7:
 
     # R "I guess, I'm saying that I'm afraid to put a label on it."
+    R "Immagino che sto dicendo che ho paura di metterci un'etichetta."
 
 # game/UpdateScript0.07.rpy:13923
 translate italian best_polls_aftermath_d111e264:
 
     # L "Oh, good!... That's a relief!"
+    L "Oh, buono!... È un sollievo!"
 
 # game/UpdateScript0.07.rpy:13924
 translate italian best_polls_aftermath_85f37429:
 
     # L "I've been having some confusing feelings as well."
+    L "Ho avuto anche alcuni sentimenti confusionari."
 
 # game/UpdateScript0.07.rpy:13925
 translate italian best_polls_aftermath_723baa3f:
 
     # L "I don't want to call it love... You know... Like boyfriend-girlfriend kind of love."
+    L "Non voglio chiamarlo amore... Lo sapete... Come il tipo di amore, fidanzata-fidanzata."
 
 # game/UpdateScript0.07.rpy:13926
 translate italian best_polls_aftermath_66aca670:
 
     # L "I obviously love you because you're my brother, but this feels different than it ever has before..."
+    L "Ti amo ovviamente perché sei mio fratello, ma questo si sente diverso di quanto non abbia mai fatto prima..."
 
 # game/UpdateScript0.07.rpy:13927
 translate italian best_polls_aftermath_66aca670_1:
 
     # L "I obviously love you because you're my brother, but this feels different than it ever has before..."
+    L "Ti amo ovviamente perché sei mio fratello, ma questo si sente diverso di quanto non abbia mai fatto prima..."
 
 # game/UpdateScript0.07.rpy:13928
 translate italian best_polls_aftermath_98cf6fae:
 
     # L "And I know I'm not supposed to feel the other kind of love for my brother."
+    L "E so che non devo sentire l'altro tipo di amore per mio fratello."
 
 # game/UpdateScript0.07.rpy:13931
 translate italian best_polls_aftermath_5ae82407:
 
     # L "So, I guess I'm just saying that I'm glad we're confused together."
+    L "Quindi, immagino che sto solo dicendo che sono contento che siamo confusi insieme."
 
 # game/UpdateScript0.07.rpy:13932
 translate italian best_polls_aftermath_9ae7a281:
 
     # {b}{i}\"Lauren's Affection +2\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13934
 translate italian best_polls_aftermath_59e472a0:
 
     # {b}{i}\"Lauren's Respect +1\"{/i}{/b}"
+    new "{b}{i}\"Rispetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:13936
 translate italian best_polls_aftermath_066bc887:
 
     # L "I still can't believe we did so good in the polls today."
+    L "Non riesco ancora a credere che oggi abbiamo fatto così bene nelle urne."
 
 # game/UpdateScript0.07.rpy:13938
 translate italian best_polls_aftermath_c5b0c754:
 
     # L "We've still got a lot to do to keep our numbers up."
+    L "Abbiamo ancora molto da fare per mantenere alti i nostri numeri."
 
 # game/UpdateScript0.07.rpy:13939
 translate italian best_polls_aftermath_f92a9e6a:
 
     # L "And that asshole Matt has ripped all my posters down."
+    L "E quel culo Matt ha strappato tutti i miei poster."
 
 # game/UpdateScript0.07.rpy:13940
 translate italian best_polls_aftermath_d80fc6b3_1:
 
     # L "Could you get some more made and hung up all over the school?"
+    L "Potresti ottenere qualche altro prodotto e appeso in tutta la scuola?"
 
 # game/UpdateScript0.07.rpy:13941
 translate italian best_polls_aftermath_e5307bb3_1:
@@ -32808,11 +35388,13 @@ translate italian best_polls_aftermath_e5307bb3_1:
 translate italian best_polls_aftermath_dbb22c07_10:
 
     # L "You're the best!"
+    L "Sei il meglio!"
 
 # game/UpdateScript0.07.rpy:13943
 translate italian best_polls_aftermath_14f6712b_10:
 
     # L "I'll let the team know not to expect you today then."
+    L "Farò sapere al team di non aspettarsi che tu oggi allora."
 
 # game/UpdateScript0.07.rpy:13944
 translate italian best_polls_aftermath_761c95f0_10:
@@ -32824,111 +35406,133 @@ translate italian best_polls_aftermath_761c95f0_10:
 translate italian best_polls_aftermath_e808ea6e_10:
 
     # L "Thanks again for everything!"
+    L "Grazie ancora di tutto!"
 
 # game/UpdateScript0.07.rpy:13958
 translate italian good_polls_aftermath_1f35be35:
 
     # RT "{i}Huh... I really thought she'd be here.{/i}"
+    RT "{i}Huh... Pensavo davvero che sarebbe stata qui.{/i}"
 
 # game/UpdateScript0.07.rpy:13961
 translate italian good_polls_aftermath_2c6f07da:
 
     # R "Oh... Where did you come from?"
+    R "Oh... Da dove sei venuta?"
 
 # game/UpdateScript0.07.rpy:13962
 translate italian good_polls_aftermath_a38cc8bf:
 
     # RT "{i}Ohh... She's happy!{/i}"
+    RT "{i}Ohh... È felice!{/i}"
 
 # game/UpdateScript0.07.rpy:13968
 translate italian good_polls_aftermath_54160ff7:
 
     # L "Can you believe those poll numbers?"
+    L "Riesci a credere a quei numeri di sondaggio?"
 
 # game/UpdateScript0.07.rpy:13969
 translate italian good_polls_aftermath_19ecd21e:
 
     # L "I mean, we're not winning or anything, but this early on in the election..."
+    L "Intendo dire che non stiamo vincendo o nulla, ma questo presto nelle elezioni..."
 
 # game/UpdateScript0.07.rpy:13970
 translate italian good_polls_aftermath_6ab740fd:
 
     # R "Yeah, it's a really encouraging sign."
+    R "Sì, è un segnale davvero incoraggiante."
 
 # game/UpdateScript0.07.rpy:13971
 translate italian good_polls_aftermath_92b33492:
 
     # L "I'm so excited!... We just need to work a little harder and we'll have this election in the bag!"
+    L "Sono così eccitato!... Abbiamo solo bisogno di lavorare un po 'più duro e avremo questa elezione nella borsa!"
 
 # game/UpdateScript0.07.rpy:13972
 translate italian good_polls_aftermath_ce9056b2:
 
     # R "Thank you so much for all your help this week!"
+    R "Grazie mille per tutto il tuo aiuto questa settimana!"
 
 # game/UpdateScript0.07.rpy:13978
 translate italian good_polls_aftermath_427a01c2:
 
     # L "The campaign team is meeting later today, and every day this week right here in the afternoon."
+    L "Il team della campagna si riunisce più tardi oggi, e tutti i giorni questa settimana proprio qui nel pomeriggio."
 
 # game/UpdateScript0.07.rpy:13979
 translate italian good_polls_aftermath_87b3a6d0:
 
     # L "I actually hope you won't be there today because I have a more important job for you."
+    L "In realtà spero che tu non sarai oggi perché ho un lavoro più importante per te."
 
 # game/UpdateScript0.07.rpy:13980
 translate italian good_polls_aftermath_8eb9391d:
 
     # L "That asshole Matt has torn down all my posters, and hung all of his in their place."
+    L "Quel buco opaco ha strappato tutti i miei manifesti e appeso tutto il suo al loro posto."
 
 # game/UpdateScript0.07.rpy:13981
 translate italian good_polls_aftermath_04f16898:
 
     # L "Would you mind making some more posters for me?"
+    L "Ti dispiacerebbe creare altri poster per me?"
 
 # game/UpdateScript0.07.rpy:13982
 translate italian good_polls_aftermath_231de9e1:
 
     # L "And could you pretty please get rid of Matt's and hang them back up?"
+    L "E potreste piuttosto sbarazzarvi di Matt's e appenderli di nuovo?"
 
 # game/UpdateScript0.07.rpy:13983
 translate italian good_polls_aftermath_0513f16a:
 
     # R "You can count on me."
+    R "Si può contare su di me."
 
 # game/UpdateScript0.07.rpy:13984
 translate italian good_polls_aftermath_ab9f756c:
 
     # L "Yay!"
+    L "Evviva!"
 
 # game/UpdateScript0.07.rpy:13985
 translate italian good_polls_aftermath_859fc24f:
 
     # R "I'll see you soon then."
+    R "Ci vedrò presto all'epoca."
 
 # game/UpdateScript0.07.rpy:13996
 translate italian bad_polls_aftermath_b200f7ab:
 
     # RT "{i}Dammit!... I knew she'd be disappointed, but she looks really sad.{/i}"
+    RT "{i}Dammit!... Sapevo che sarebbe rimasta delusa, ma sembra davvero triste.{/i}"
 
 # game/UpdateScript0.07.rpy:13997
 translate italian bad_polls_aftermath_e77a309c:
 
     # RT "{i}I hope I can say something to cheer her up.{/i}"
+    RT "{i}Spero di poter dire qualcosa per allietarla.{/i}"
 
 # game/UpdateScript0.07.rpy:13998
 translate italian bad_polls_aftermath_77fc5a3d:
 
     # R "Hey, Lauren... Are you ok?"
+    R "Hey, Lauren... Sta bene?"
 
 # game/UpdateScript0.07.rpy:14001
 translate italian bad_polls_aftermath_7c4faefc:
 
     # L "Oh, [ryan]... I'm sorry about the tears... I can't believe I did so poorly."
+    L "Oh, [ryan]... mi dispiace per le lacrime... non riesco a credere che ho fatto così male."
 
 # game/UpdateScript0.07.rpy:14002
 translate italian bad_polls_aftermath_a380bda6:
 
     # L "I was so humiliated, I had to leave class before anyone could see me cry."
+    L "Ero così umiliato che ho dovuto lasciare la classe prima che qualcuno potesse vedermi piangere."
 
 # game/UpdateScript0.07.rpy:14005
 translate italian bad_polls_aftermath_bea1fdec:
@@ -32940,111 +35544,133 @@ translate italian bad_polls_aftermath_bea1fdec:
 translate italian bad_polls_aftermath_69c849a5:
 
     # L "I know Matt's super popular..."
+    L "Conosco il super-popolare..."
 
 # game/UpdateScript0.07.rpy:14009
 translate italian bad_polls_aftermath_06c8e056:
 
     # L "Of course, I have to be running against the captain of the basketball team!"
+    L "Certo, devo correre contro il capitano della squadra di basket!"
 
 # game/UpdateScript0.07.rpy:14010
 translate italian bad_polls_aftermath_ff70d996:
 
     # L "How could I ever get more votes than him?"
+    L "Come potrei ottenere più voti di lui?"
 
 # game/UpdateScript0.07.rpy:14013
 translate italian bad_polls_aftermath_bb031a87:
 
     # L "Should I just give up?"
+    L "Dovrei solo rinunciare?"
 
 # game/UpdateScript0.07.rpy:14014
 translate italian bad_polls_aftermath_c6a48a10:
 
     # RT "{i}Oh, fuck me... I've got an opportunity to get out of helping with this ridiculously impossible campaign.{/i}"
+    RT "{i}Oh, mi scopa... Ho l'opportunità di uscire di aiutare con questa campagna ridicolamente impossibile.{/i}"
 
 # game/UpdateScript0.07.rpy:14015
 translate italian bad_polls_aftermath_0afc0b06:
 
     # RT "{i}If she dropped out, it would save me a ton of time, not to mention all the money I'd save.{/i}"
+    RT "{i}Se si lasciasse fuori, mi risparmierebbe una tonnellata di tempo, per non parlare di tutti i soldi che risparmiavo.{/i}"
 
 # game/UpdateScript0.07.rpy:14016
 translate italian bad_polls_aftermath_fc302752:
 
     # RT "{i}But...{/i}"
+    RT "{i}Ma...{/i}"
 
 # game/UpdateScript0.07.rpy:14017
 translate italian bad_polls_aftermath_dea70d9d:
 
     # RT "{i}She wants this so badly!{/i}"
+    RT "{i}Vuole così male!{/i}"
 
 # game/UpdateScript0.07.rpy:14018
 translate italian bad_polls_aftermath_8a0670be:
 
     # RT "{i}Look at that face... Can I really shoot down her dream?{/i}"
+    RT "{i}Guardate quel viso... Posso davvero abbattere il suo sogno?{/i}"
 
 # game/UpdateScript0.07.rpy:14021
 translate italian bad_polls_aftermath_5f4f321b:
 
     # R "Well, I didn't want to discourage you, but you said it yourself. How could you ever get more votes than the most popular kid in school?"
+    R "Beh, non volevo scoraggiarvi, ma tu l'hai detto tu. Come si potrebbe mai ottenere più voti del bambino più popolare a scuola?"
 
 # game/UpdateScript0.07.rpy:14022
 translate italian bad_polls_aftermath_e3ae1db4:
 
     # R "Why don't we just write a well worded concession speech, blaming personal problems for not being able to continue the campaign..."
+    R "Perché non scriviamo un discorso di concessione ben formulato, incolpando i problemi personali per non essere in grado di continuare la campagna..."
 
 # game/UpdateScript0.07.rpy:14023
 translate italian bad_polls_aftermath_26dcc0fe:
 
     # R "Nobody's going to fault you for not wanting to run against Matt."
+    R "Nessuno ti colpirà per non voler correre contro Matt."
 
 # game/UpdateScript0.07.rpy:14026
 translate italian bad_polls_aftermath_29cd5619:
 
     # RT "{i}Oh, shit!... That's not what she wanted to hear.{/i}"
+    RT "{i}Oh, male!... Non è quello che voleva sentire.{/i}"
 
 # game/UpdateScript0.07.rpy:14027
 translate italian bad_polls_aftermath_e07ffa45:
 
     # L "Oh, so you don't think I can win against Matt?"
+    L "Oh, quindi non pensi di poter vincere contro Matt?"
 
 # game/UpdateScript0.07.rpy:14028
 translate italian bad_polls_aftermath_2ad65090:
 
     # R "No... but... you're the one who said..."
+    R "No... ma... sei colui che ha detto..."
 
 # game/UpdateScript0.07.rpy:14029
 translate italian bad_polls_aftermath_fa77ccd1:
 
     # L "You're just like Dad... He said I was wasting his money the last time I ran for office, too."
+    L "Sei proprio come papà... ha detto che stavo sprecando i suoi soldi l'ultima volta che ho funzionato per l'ufficio, anche."
 
 # game/UpdateScript0.07.rpy:14030
 translate italian bad_polls_aftermath_13736541:
 
     # {b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14034
 translate italian bad_polls_aftermath_cd1aef1e:
 
     # L "Maybe I could actually accomplish something, if the people I love just believed in me!"
+    L "Forse potrei davvero realizzare qualcosa, se le persone che amo credevano in me!"
 
 # game/UpdateScript0.07.rpy:14037
 translate italian bad_polls_aftermath_f7405cc0:
 
     # L "You know what? I'm going to win just to prove both of you wrong!"
+    L "Sai cosa? vincerò solo per provare che entrambi ti sbagliano!"
 
 # game/UpdateScript0.07.rpy:14038
 translate italian bad_polls_aftermath_96d05840:
 
     # RT "{i}I'd better say something to fix this.{/i}"
+    RT "{i}Farei meglio a dire qualcosa per risolvere questo problema. {/i}"
 
 # game/UpdateScript0.07.rpy:14039
 translate italian bad_polls_aftermath_4fda57a5:
 
     # R "You know what?... Dad's an asshole!"
+    R "Sai cosa?... papà è uno stronzolo!"
 
 # game/UpdateScript0.07.rpy:14040
 translate italian bad_polls_aftermath_f5e9aa9c:
 
     # R "I actually really appreciate you pointing out that I was being toxic like him."
+    R "In realtà apprezzo molto che tu abbia sottolineato che ero tossico come lui."
 
 # game/UpdateScript0.07.rpy:14041
 translate italian bad_polls_aftermath_91c62d4f:
@@ -33056,6 +35682,7 @@ translate italian bad_polls_aftermath_91c62d4f:
 translate italian bad_polls_aftermath_29d5d454:
 
     # R "I still really want to help you become our next student body president."
+    R "Voglio ancora aiutarvi a diventare il nostro prossimo presidente del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:14047
 translate italian bad_polls_aftermath_b412930a:
@@ -33067,121 +35694,145 @@ translate italian bad_polls_aftermath_b412930a:
 translate italian bad_polls_aftermath_b41b4add:
 
     # L "Even though we're going up against impossible odds?"
+    L "Anche se stiamo andando contro le quote impossibili?"
 
 # game/UpdateScript0.07.rpy:14051
 translate italian bad_polls_aftermath_62816ed1:
 
     # R "Hey, our Dad's in prison... We owe untold amounts of money to the Mafia... But we're staying on our feet. We eat impossible odds for breakfast!"
+    R "Hey, nostro papà in prigione... Dobbiamo somme incalcolabili di denaro alla mafia. Ma restiamo sui nostri piedi. Mangiamo quote impossibili per colazione!"
 
 # game/UpdateScript0.07.rpy:14054
 translate italian bad_polls_aftermath_45ef0aa7:
 
     # L "Haha... nice pep talk... you dork."
+    L "Haha... bel pep talk... dormito."
 
 # game/UpdateScript0.07.rpy:14055
 translate italian bad_polls_aftermath_e4849e56:
 
     # {b}{i}\"Lauren's Anger -2\"{/i}{/b}"
+    new "{b}{i}\"Rabbia di Lauren -2\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14056
 translate italian bad_polls_aftermath_bdd4a99a:
 
     # R "Hey, don't laugh!"
+    R "Hey, non ridere!"
 
 # game/UpdateScript0.07.rpy:14059
 translate italian bad_polls_aftermath_0c9f12d9:
 
     # L "Thanks for making me feel better."
+    L "Grazie per avermi fatto sentire meglio."
 
 # game/UpdateScript0.07.rpy:14060
 translate italian bad_polls_aftermath_4e190e7a:
 
     # L "But, really... How are we going to do this?"
+    L "Ma, davvero... Come faremo questo?"
 
 # game/UpdateScript0.07.rpy:14062
 translate italian bad_polls_aftermath_9895ef86:
 
     # RT "{i}I can't believe I'm doing this!...{/i}"
+    RT "{i}Non posso credere che sto facendo questo!...{/i}"
 
 # game/UpdateScript0.07.rpy:14063
 translate italian bad_polls_aftermath_09e72768:
 
     # R "Lauren... You have to win!"
+    R "Lauren... devi vincere!"
 
 # game/UpdateScript0.07.rpy:14066
 translate italian bad_polls_aftermath_3929f17e:
 
     # L "Really?... You think I can?"
+    L "Davvero?... Pensi che io posso?"
 
 # game/UpdateScript0.07.rpy:14069
 translate italian bad_polls_aftermath_b41b4add_1:
 
     # L "Even though we're going up against impossible odds?"
+    L "Anche se stiamo andando contro le quote impossibili?"
 
 # game/UpdateScript0.07.rpy:14070
 translate italian bad_polls_aftermath_62816ed1_1:
 
     # R "Hey, our Dad's in prison... We owe untold amounts of money to the Mafia... But we're staying on our feet. We eat impossible odds for breakfast!"
+    R "Hey, nostro papà in prigione... Dobbiamo somme incalcolabili di denaro alla mafia. Ma restiamo sui nostri piedi. Mangiamo quote impossibili per colazione!"
 
 # game/UpdateScript0.07.rpy:14071
 translate italian bad_polls_aftermath_0f963d8e:
 
     # R "It's not going to be easy."
+    R "Non sarà facile."
 
 # game/UpdateScript0.07.rpy:14072
 translate italian bad_polls_aftermath_630d6162:
 
     # R "But together, we can do anything."
+    R "Ma insieme, possiamo fare qualunque cosa."
 
 # game/UpdateScript0.07.rpy:14075
 translate italian bad_polls_aftermath_45ef0aa7_1:
 
     # L "Haha... nice pep talk... you dork."
+    L "Haha... bel pep talk... dormito."
 
 # game/UpdateScript0.07.rpy:14076
 translate italian bad_polls_aftermath_f6a86c35:
 
     # {b}{i}\"Lauren's Affection +1\"{/i}{/b}"
+    new "{b}{i}\"Affetto di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14077
 translate italian bad_polls_aftermath_bdd4a99a_1:
 
     # R "Hey, don't laugh!"
+    R "Hey, non ridere!"
 
 # game/UpdateScript0.07.rpy:14080
 translate italian bad_polls_aftermath_0c9f12d9_1:
 
     # L "Thanks for making me feel better."
+    L "Grazie per avermi fatto sentire meglio."
 
 # game/UpdateScript0.07.rpy:14081
 translate italian bad_polls_aftermath_4e190e7a_1:
 
     # L "But, really... How are we going to do this?"
+    L "Ma, davvero... Come faremo questo?"
 
 # game/UpdateScript0.07.rpy:14082
 translate italian bad_polls_aftermath_7e34d50e:
 
     # R "Well... I'd say that the biggest problem is that a lot of people don't even know who you are, and everybody knows Matt."
+    R "Bene... direi che il problema più grande è che molte persone non sanno nemmeno chi sei, e tutti conoscono Matt."
 
 # game/UpdateScript0.07.rpy:14083
 translate italian bad_polls_aftermath_63dc6cc4:
 
     # R "Somehow we've got to change that."
+    R "In qualche modo dobbiamo cambiare quello."
 
 # game/UpdateScript0.07.rpy:14084
 translate italian bad_polls_aftermath_e425b76e:
 
     # R "Hmmm... What can we do?"
+    R "Hmmm... Cosa si può fare?"
 
 # game/UpdateScript0.07.rpy:14085
 translate italian bad_polls_aftermath_c5a3615a:
 
     # L "A whole shitload of campaign buttons?"
+    L "Un intero shitload di pulsanti campagna?"
 
 # game/UpdateScript0.07.rpy:14086
 translate italian bad_polls_aftermath_041991c1:
 
     # R "No... Nobody at this school wants to be caught dead wearing a campaign button."
+    R "No... Nessuno in questa scuola vuole essere catturato morto indossando un pulsante di campagna."
 
 # game/UpdateScript0.07.rpy:14087
 translate italian bad_polls_aftermath_1778f02a:
@@ -33193,16 +35844,19 @@ translate italian bad_polls_aftermath_1778f02a:
 translate italian bad_polls_aftermath_b0f00630:
 
     # R "And do you know what the first rule of marketing is?"
+    R "E sapete qual è la prima regola del marketing?"
 
 # game/UpdateScript0.07.rpy:14091
 translate italian bad_polls_aftermath_7d2ed1d5:
 
     # L "Ummm...."
+    L "Ummm...."
 
 # game/UpdateScript0.07.rpy:14092
 translate italian bad_polls_aftermath_744a07d2:
 
     # R "Sex sells!"
+    R "Il sesso vende!"
 
 # game/UpdateScript0.07.rpy:14095
 translate italian bad_polls_aftermath_d1c2cb70:
@@ -33214,126 +35868,151 @@ translate italian bad_polls_aftermath_d1c2cb70:
 translate italian bad_polls_aftermath_d1084719:
 
     # R "Wait... Hear me out!"
+    R "Attendere... Ascoltami fuori!"
 
 # game/UpdateScript0.07.rpy:14097
 translate italian bad_polls_aftermath_680c62fb:
 
     # R "I already gave you a golden idea, but you shot it down."
+    R "Vi ho già dato un'idea d'oro, ma l'avete abbattuta."
 
 # game/UpdateScript0.07.rpy:14100
 translate italian bad_polls_aftermath_9d491916:
 
     # L "You mean the sexy cosplay posters?"
+    L "Intendi i poster sexy cosplay?"
 
 # game/UpdateScript0.07.rpy:14101
 translate italian bad_polls_aftermath_24aad8f2:
 
     # R "Yes, the sexy cosplay posters."
+    R "Sì, i manifesti di cosplay sexy."
 
 # game/UpdateScript0.07.rpy:14102
 translate italian bad_polls_aftermath_148952a2:
 
     # L "[ryan]!... I can't have pictures of me like that all over the school!"
+    L "[ryan]!... Non posso avere foto di me come quella in tutta la scuola!"
 
 # game/UpdateScript0.07.rpy:14103
 translate italian bad_polls_aftermath_bf5995b5:
 
     # R "Why not?... They're all over the internet."
+    R "Perché no?... Sono dappertutto in internet."
 
 # game/UpdateScript0.07.rpy:14104
 translate italian bad_polls_aftermath_9800f240:
 
     # L "They're not all over the internet! They're behind a paywall on your Cosplay Heaven account."
+    L "Non sono tutti su Internet! Sono dietro un paywall sul tuo account Cosplay Heaven."
 
 # game/UpdateScript0.07.rpy:14105
 translate italian bad_polls_aftermath_d04f8d7a:
 
     # R "Only the explicit images... Oh, did you think I'd use those images for the posters?"
+    R "Solo le immagini esplicite... Oh, hai pensato che avessi usato quelle immagini per i manifesti?"
 
 # game/UpdateScript0.07.rpy:14106
 translate italian bad_polls_aftermath_f1a8d887:
 
     # L "Well, the thought had crossed my mind."
+    L "Beh, il pensiero mi aveva attraversato la mente."
 
 # game/UpdateScript0.07.rpy:14107
 translate italian bad_polls_aftermath_39711d00:
 
     # R "Lauren, you'd get kicked out of school for distributing pornography if we used those pictures."
+    R "Lauren, si sarebbe cacciato fuori dalla scuola per la distribuzione di pornografia se abbiamo usato quelle immagini."
 
 # game/UpdateScript0.07.rpy:14108
 translate italian bad_polls_aftermath_c90f3d3a:
 
     # R "I'm talking about the sexy ones that show no nudity... The ones anyone can access on my CH account."
+    R "Sto parlando di quelli sexy che non mostrano nudità... quelli a cui chiunque può accedere sul mio account CH."
 
 # game/UpdateScript0.07.rpy:14111
 translate italian bad_polls_aftermath_9cde9bbf:
 
     # L "Well, that doesn't make me feel a whole lot better."
+    L "Beh, questo non mi fa sentire molto meglio."
 
 # game/UpdateScript0.07.rpy:14112
 translate italian bad_polls_aftermath_a8806838:
 
     # L "Would the school even let us put up sexy posters?"
+    L "La scuola ci lascerebbe persino mettere poster sexy?"
 
 # game/UpdateScript0.07.rpy:14113
 translate italian bad_polls_aftermath_c4028839:
 
     # R "I don't see why not?"
+    R "Non vedo perché?"
 
 # game/UpdateScript0.07.rpy:14114
 translate italian bad_polls_aftermath_d411594a:
 
     # R "They wouldn't be any more revealing than the outfits the drama club girls wore for the Moulin Rouge Musical they put on last year."
+    R "Non sarebbero più rivelatori degli outfit che le ragazze dramma club indossavano per il Moulin Rouge Musical che indossavano l'anno scorso."
 
 # game/UpdateScript0.07.rpy:14115
 translate italian bad_polls_aftermath_00ea13ad:
 
     # R "Even I was surprised at what they got away with."
+    R "Anche io sono rimasto sorpreso da quello che hanno ottenuto via con."
 
 # game/UpdateScript0.07.rpy:14116
 translate italian bad_polls_aftermath_f3f99906:
 
     # R "Somehow, schoolboard member Will Tylor was able to convince the rest of the schoolboard to let that happen."
+    R "In qualche modo, il membro del consiglio scolastico Will Tylor è stato in grado di convincere il resto del consiglio scolastico a lasciare che ciò accadesse."
 
 # game/UpdateScript0.07.rpy:14117
 translate italian bad_polls_aftermath_f4cbe91d:
 
     # R "I'm sure they wouldn't raise a stink about one of their own students displaying one of her talents to convince other students to vote for her."
+    R "Sono sicuro che non solleverebbero una puzza su uno dei loro studenti che mostra uno dei suoi talenti per convincere altri studenti a votare per lei."
 
 # game/UpdateScript0.07.rpy:14118
 translate italian bad_polls_aftermath_4fbcef8f:
 
     # L "Hmmm... Still, I don't know."
+    L "Hmmm... Ancora, non lo so."
 
 # game/UpdateScript0.07.rpy:14119
 translate italian bad_polls_aftermath_afa05074:
 
     # R "Listen. What else could you possibly do that would get an entire school to not just notice you... but talk non stop about you?"
+    R "Ascolta. Cos'altro potresti mai fare che avrebbe portato un'intera scuola a non solo notarti... ma parlare senza sosta di te?"
 
 # game/UpdateScript0.07.rpy:14120
 translate italian bad_polls_aftermath_3357b24b:
 
     # L "Bake the whole school cookies?"
+    L "Cuocere i biscotti tutta la scuola?"
 
 # game/UpdateScript0.07.rpy:14121
 translate italian bad_polls_aftermath_d655815a:
 
     # R "Not unless each cookie had one of those edible picture of you in sexy Cosplay..."
+    R "Non a meno che ogni cookie aveva una di quelle foto commestibili di voi in Cosplay sexy..."
 
 # game/UpdateScript0.07.rpy:14122
 translate italian bad_polls_aftermath_71858602:
 
     # R "Hmmm... Not a bad idea... We could do that as well... I'm not sure how we would make that many..."
+    R "Hmmm... Non è una cattiva idea... Potremmo farlo anche noi... Non so come ne faremmo tanti..."
 
 # game/UpdateScript0.07.rpy:14125
 translate italian bad_polls_aftermath_720328bc:
 
     # L "[ryan]! We're not making sexy cookies too."
+    L "[ryan]! Non faremo anche biscotti sexy."
 
 # game/UpdateScript0.07.rpy:14126
 translate italian bad_polls_aftermath_e57b8777:
 
     # L "We either do the posters, or the sexy cookies, and I think it would be much easier and more cost effective if we just do the posters."
+    L "Facciamo i poster, o i biscotti sexy, e penso che sarebbe molto più facile e più conveniente se facessimo solo i poster."
 
 # game/UpdateScript0.07.rpy:14127
 translate italian bad_polls_aftermath_f6b51e87:
@@ -33345,266 +36024,319 @@ translate italian bad_polls_aftermath_f6b51e87:
 translate italian bad_polls_aftermath_a06f9f7c:
 
     # R "You're good to do the sexy cosplay posters?"
+    R "Sei bravo a fare i poster cosplay sexy?"
 
 # game/UpdateScript0.07.rpy:14131
 translate italian bad_polls_aftermath_763ba5db:
 
     # L "I don't love it, but you're right... I can't think of a better way to get everybody talking about me."
+    L "Non mi piace, ma hai ragione... Non riesco a pensare a un modo migliore per far parlare tutti di me."
 
 # game/UpdateScript0.07.rpy:14132
 translate italian bad_polls_aftermath_3a5b0261:
 
     # L "Oh, God, what will Mom say?"
+    L "Oh, Dio, cosa dirà la mamma?"
 
 # game/UpdateScript0.07.rpy:14133
 translate italian bad_polls_aftermath_88df15cf:
 
     # R "We can worry about Mom when the time comes."
+    R "Possiamo preoccuparci della mamma quando arriverà il momento."
 
 # game/UpdateScript0.07.rpy:14134
 translate italian bad_polls_aftermath_a511fb5b:
 
     # R "For now, let's just make the posters."
+    R "Per il momento, facciamo solo i poster."
 
 # game/UpdateScript0.07.rpy:14135
 translate italian bad_polls_aftermath_921fd515:
 
     # {b}{i}\"Lauren's Submission +1\"{/i}{/b}"
+    new "{b}{i}\"Invio di Lauren +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14139
 translate italian bad_polls_aftermath_6f0c2e11:
 
     # L "You're right."
+    L "Hai ragione."
 
 # game/UpdateScript0.07.rpy:14140
 translate italian bad_polls_aftermath_1a4e42fa:
 
     # L "Since you've already got access to my cosplay pics, and the money to print them, do you mind making the posters?"
+    L "Dal momento che hai già accesso alle mie foto del cosplay, e ai soldi per stamparle, ti dispiace fare i poster?"
 
 # game/UpdateScript0.07.rpy:14141
 translate italian bad_polls_aftermath_34d0c9af:
 
     # R "Of course... And I'll even hang all of them up for you."
+    R "Certo... E li appoggerò tutti per voi."
 
 # game/UpdateScript0.07.rpy:14142
 translate italian bad_polls_aftermath_4f786af1:
 
     # L "Alright... but, [ryan]... I'm trusting you."
+    L "Va bene... ma, [ryan]... mi fido di te."
 
 # game/UpdateScript0.07.rpy:14143
 translate italian bad_polls_aftermath_85d3613d:
 
     # R "Don't worry... I won't go overboard."
+    R "Non preoccuparti... Non andrò in mare."
 
 # game/UpdateScript0.07.rpy:14144
 translate italian bad_polls_aftermath_4f9fc2b8:
 
     # {b}{i}\"Sound of door opening.\"{/i}{/b}"
+    new "{b}{i}\"L'apertura della porta.\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:14147
 translate italian bad_polls_aftermath_9f250dc0:
 
     # MB "Well, whatever you're doing, I would suggest you go a little more overboard."
+    MB "Beh, qualunque cosa tu stia facendo, ti suggerirei di andare un po' di più in mare."
 
 # game/UpdateScript0.07.rpy:14148
 translate italian bad_polls_aftermath_b24059fb:
 
     # MB "I mean, did you hear those poll numbers?"
+    MB "Intendo dire, hai sentito quei numeri di sondaggio?"
 
 # game/UpdateScript0.07.rpy:14149
 translate italian bad_polls_aftermath_53b252c1:
 
     # MB "You're going to have to resort to something drastic to turn those numbers around."
+    MB "Dovrai ricorrere a qualcosa di drastico per girare questi numeri."
 
 # game/UpdateScript0.07.rpy:14150
 translate italian bad_polls_aftermath_f7f5e5f8:
 
     # L "How did you find us?"
+    L "Come ci hai trovati?"
 
 # game/UpdateScript0.07.rpy:14151
 translate italian bad_polls_aftermath_97aa75ac:
 
     # R "Yeah, this is a private meeting. You two aren't invited."
+    R "Sì, questa è una riunione privata. Non sei invitato."
 
 # game/UpdateScript0.07.rpy:14154
 translate italian bad_polls_aftermath_61930649:
 
     # MB "Relax, you two."
+    MB "Relax, voi due."
 
 # game/UpdateScript0.07.rpy:14155
 translate italian bad_polls_aftermath_3754c143:
 
     # MG "We just came to check on Lauren. She seemed pretty upset after the morning announcements."
+    MG "Siamo appena venuti a controllare Lauren. Sembrava piuttosto sconvolta dopo gli annunci del mattino."
 
 # game/UpdateScript0.07.rpy:14156
 translate italian bad_polls_aftermath_d76b27fe:
 
     # L "Did I look upset? Well, you're mistaken. I'm doing just fine."
+    L "Ho cercato di essere sconvolto? Beh, ti sbagli. Sto semplicemente bene."
 
 # game/UpdateScript0.07.rpy:14157
 translate italian bad_polls_aftermath_863b3f2b:
 
     # L "We just needed some extra time to figure out how we're going to start kicking your ass in the polls."
+    L "Abbiamo solo bisogno di un po' di tempo supplementare per capire come inizieremo a calcare il tuo culo nelle urne."
 
 # game/UpdateScript0.07.rpy:14158
 translate italian bad_polls_aftermath_eb80411b:
 
     # MB "Hahaha... You don't really think you can beat me, do you?"
+    MB "Hahaha... Non pensi davvero che mi puoi battere, vero?"
 
 # game/UpdateScript0.07.rpy:14159
 translate italian bad_polls_aftermath_b0c8844a:
 
     # MB "I mean, There were three other people that signed up to run for student body president, but they all dropped out as soon as they heard they would be running against me."
+    MB "Intendo dire che c'erano altre tre persone che si sono iscritte per correre per il presidente del corpo studentesco, ma tutti sono caduti fuori non appena hanno sentito che sarebbero correndo contro di me."
 
 # game/UpdateScript0.07.rpy:14160
 translate italian bad_polls_aftermath_d5c8899b:
 
     # MB "And every one of them was more popular than you are."
+    MB "E ciascuno di loro era più popolare di voi."
 
 # game/UpdateScript0.07.rpy:14163
 translate italian bad_polls_aftermath_ed88dd9b:
 
     # L "You are such an arrogant prick!"
+    L "Sei un così arrogante!"
 
 # game/UpdateScript0.07.rpy:14164
 translate italian bad_polls_aftermath_6e8cce5b:
 
     # L "You think that everybody is going to vote for you, just because you're the captain of the basketball team?"
+    L "Pensate che tutti voteranno per voi, solo perché siete il capitano della squadra di basket?"
 
 # game/UpdateScript0.07.rpy:14165
 translate italian bad_polls_aftermath_73476bbf:
 
     # L "Everybody knows you'll make a terrible president. You'll be too busy playing basketball and fucking teachers to pay any attention to making our school a better place."
+    L "Tutti sanno che farai un presidente terribile. Sarai troppo impegnato a giocare a basket e a fare insegnanti di cazzo per prestare tutta l'attenzione a rendere la nostra scuola un posto migliore."
 
 # game/UpdateScript0.07.rpy:14166
 translate italian bad_polls_aftermath_125b90a8:
 
     # L "I'll help them realize that they deserve a president that will fight for them and make this school the best place it can be."
+    L "Li aiuterò a rendersi conto che meritano un presidente che combatterà per loro e rendere questa scuola il posto migliore che può essere."
 
 # game/UpdateScript0.07.rpy:14167
 translate italian bad_polls_aftermath_cf8fdee3:
 
     # MB "Haha, please... As student body president, I just have to give my work to the rest of the student council. They'll be so eager to stay in my good graces, that they'll do anything I tell them."
+    MB "Haha, per favore... Come presidente del corpo studentesco, devo solo dare il mio lavoro al resto del consiglio studentesco. Saranno così ansiosi di rimanere nelle mie buone grazie, che faranno tutto quello che dico loro."
 
 # game/UpdateScript0.07.rpy:14168
 translate italian bad_polls_aftermath_921bfa5a:
 
     # MB "Leaving me plenty of time to keep playing basketball and fucking teachers."
+    MB "Lasciandomi un sacco di tempo per continuare a giocare a basket e cazzo insegnanti."
 
 # game/UpdateScript0.07.rpy:14169
 translate italian bad_polls_aftermath_fb5aeb11:
 
     # L "Urrrgghhh... You're such an asshole!"
+    L "Urrrgghhh... Sei un tale stronzo!"
 
 # game/UpdateScript0.07.rpy:14170
 translate italian bad_polls_aftermath_890443bc:
 
     # L "It's going to feel so good to see you humbled when I beat your ass!"
+    L "Ti sentirai così bravo a vederti umiliato quando batterò il tuo culo!"
 
 # game/UpdateScript0.07.rpy:14173
 translate italian bad_polls_aftermath_4500d562:
 
     # MB "So, you really do think you're going to win?"
+    MB "Quindi, pensi davvero di vincere?"
 
 # game/UpdateScript0.07.rpy:14174
 translate italian bad_polls_aftermath_04154d12:
 
     # L "I know I am!"
+    L "So di esserlo!"
 
 # game/UpdateScript0.07.rpy:14175
 translate italian bad_polls_aftermath_3115b74f:
 
     # MB "Haha... well then, I'm sure you wouldn't be against making a little bet?"
+    MB "Haha... beh, allora, sono sicuro che non sareste contrari a fare una piccola scommessa?"
 
 # game/UpdateScript0.07.rpy:14176
 translate italian bad_polls_aftermath_9035f9f4:
 
     # L "What kind of bet?"
+    L "Che tipo di scommesse?"
 
 # game/UpdateScript0.07.rpy:14177
 translate italian bad_polls_aftermath_52c7373f:
 
     # MB "Well, what would you want from me if you won the election, and the bet?"
+    MB "Beh, che cosa vorresti da me se avessi vinto le elezioni, e la scommessa?"
 
 # game/UpdateScript0.07.rpy:14178
 translate italian bad_polls_aftermath_892287ad:
 
     # L "Uhhh..."
+    L "Uhhh..."
 
 # game/UpdateScript0.07.rpy:14179
 translate italian bad_polls_aftermath_713dd9de:
 
     # L "Money probably."
+    L "Probabilmente Denaro."
 
 # game/UpdateScript0.07.rpy:14180
 translate italian bad_polls_aftermath_877c5ca2:
 
     # MB "How much?"
+    MB "Quanto?"
 
 # game/UpdateScript0.07.rpy:14181
 translate italian bad_polls_aftermath_49a006dd:
 
     # L "I don't know... Like a hundred dollars or something?"
+    L "Non lo so... come cento dollari o qualcosa?"
 
 # game/UpdateScript0.07.rpy:14182
 translate italian bad_polls_aftermath_d967ec42:
 
     # MB "Hahaha... I was thinking more in the range of two thousand dollars."
+    MB "Hahah... Stavo pensando di più nella gamma di duemila dollari."
 
 # game/UpdateScript0.07.rpy:14183
 translate italian bad_polls_aftermath_273e5fdc:
 
     # L "Two thousand dollars?"
+    L "Duemila dollari?"
 
 # game/UpdateScript0.07.rpy:14184
 translate italian bad_polls_aftermath_2abffd4d:
 
     # L "I don't have two thousand dollars."
+    L "Non ho duemila dollari."
 
 # game/UpdateScript0.07.rpy:14185
 translate italian bad_polls_aftermath_d9d809d7:
 
     # R "You don't have one hundred dollars either."
+    R "Non hai nemmeno cento dollari."
 
 # game/UpdateScript0.07.rpy:14186
 translate italian bad_polls_aftermath_5c4828e6:
 
     # MB "Hahaha... I guess the rumors are true. You guys are poor."
+    MB "Hahaha... Credo che le voci siano vere. Voi ragazzi siete poveri."
 
 # game/UpdateScript0.07.rpy:14187
 translate italian bad_polls_aftermath_401b1123:
 
     # R "What did you hear?"
+    R "Che cos'hai sentito?"
 
 # game/UpdateScript0.07.rpy:14188
 translate italian bad_polls_aftermath_1617e8f0:
 
     # MB "Only that your dad was sent to prison, leaving all his kids dead-ass broke."
+    MB "Solo che tuo padre è stato mandato in prigione, lasciando tutti i suoi figli morto-culo rotto."
 
 # game/UpdateScript0.07.rpy:14189
 translate italian bad_polls_aftermath_41836595:
 
     # L "Well, if you know that, why would you try to bet me two thousand dollars?"
+    L "Beh, se lo sapete, perché cercheresti di scommettermi duemila dollari?"
 
 # game/UpdateScript0.07.rpy:14190
 translate italian bad_polls_aftermath_a0e55a5f:
 
     # MB "Because I don't want money from you."
+    MB "Perché io non voglio soldi da te."
 
 # game/UpdateScript0.07.rpy:14191
 translate italian bad_polls_aftermath_ce74a4ed:
 
     # MB "If I win the election, I would get to fuck you."
+    MB "Se vincessi le elezioni, ti farei del cazzo."
 
 # game/UpdateScript0.07.rpy:14194
 translate italian bad_polls_aftermath_de0ffd88:
 
     # MG "Matt!..."
+    MG "Matt!..."
 
 # game/UpdateScript0.07.rpy:14195
 translate italian bad_polls_aftermath_1e899005:
 
     # MB "Shut up Megan, We'll talk about it later!"
+    MB "Chiudi Megan, Ne parleremo più tardi!"
 
 # game/UpdateScript0.07.rpy:14196
 translate italian bad_polls_aftermath_a314db81:
@@ -33622,11 +36354,13 @@ translate italian bad_polls_aftermath_8d58cb47:
 translate italian bad_polls_aftermath_ad33f73d:
 
     # MB "I guess you really do know I'm going to hand you your ass on election day."
+    MB "Immagino che tu sappia davvero che ti consegnerò il culo il giorno delle elezioni."
 
 # game/UpdateScript0.07.rpy:14199
 translate italian bad_polls_aftermath_ce8e3b0d:
 
     # MB "So, why don't you just drop out now?"
+    MB "Quindi, perché non abbandoni ora?"
 
 # game/UpdateScript0.07.rpy:14200
 translate italian bad_polls_aftermath_a314db81_1:
@@ -33638,56 +36372,67 @@ translate italian bad_polls_aftermath_a314db81_1:
 translate italian bad_polls_aftermath_6703f3d8:
 
     # L "Fine."
+    L "Bene."
 
 # game/UpdateScript0.07.rpy:14202
 translate italian bad_polls_aftermath_60699406:
 
     # MB "Fine, what?"
+    MB "Bene, cosa?"
 
 # game/UpdateScript0.07.rpy:14203
 translate italian bad_polls_aftermath_c26a632f:
 
     # L "We'll do the bet."
+    L "Faremo la scommessa."
 
 # game/UpdateScript0.07.rpy:14206
 translate italian bad_polls_aftermath_fbb08a92:
 
     # R "What!? Fuck no, Lauren!"
+    R "Cosa!? Cazzo, Lauren!"
 
 # game/UpdateScript0.07.rpy:14207
 translate italian bad_polls_aftermath_22d49656:
 
     # L "Shut up, [ryan]! You're not my dad!"
+    L "Zitto, [ryan]! Tu non sei mio padre!"
 
 # game/UpdateScript0.07.rpy:14208
 translate italian bad_polls_aftermath_de2d1f78:
 
     # L "But if I win, I want three thousand dollars!"
+    L "Ma se vinco, voglio tremila dollari!"
 
 # game/UpdateScript0.07.rpy:14209
 translate italian bad_polls_aftermath_e25f0511:
 
     # L "I'm not wagering my pussy for just two grand."
+    L "Non sto scommettendo la mia figa per soli duemila dollari."
 
 # game/UpdateScript0.07.rpy:14210
 translate italian bad_polls_aftermath_251b72df:
 
     # MB "Wow!... I never thought you'd actually go for it."
+    MB "Wow!... Non avrei mai pensato che ci saresti andato davvero."
 
 # game/UpdateScript0.07.rpy:14211
 translate italian bad_polls_aftermath_d467038a:
 
     # MB "Ok, three thousand against your sexy ginger pussy. But for that much more money, [ryan] has to stay and watch us fuck."
+    MB "Ok, tremila contro la tua figa sexy allo zenzero. Ma per molti più soldi, [ryan] deve rimanere e guardarci scopare."
 
 # game/UpdateScript0.07.rpy:14212
 translate italian bad_polls_aftermath_660c77e9:
 
     # R "Fuck, no! I'm not doing that!"
+    R "Cazzo, no! Non lo faccio!"
 
 # game/UpdateScript0.07.rpy:14213
 translate italian bad_polls_aftermath_e56ed885:
 
     # L "[ryan]! We're doing this!"
+    L "[ryan]! Lo stiamo facendo!"
 
 # game/UpdateScript0.07.rpy:14214
 translate italian bad_polls_aftermath_4fb3b8de:
@@ -33699,31 +36444,37 @@ translate italian bad_polls_aftermath_4fb3b8de:
 translate italian bad_polls_aftermath_c3dad7f7:
 
     # L "We'll talk about it later!"
+    L "Ne parleremo più tardi!"
 
 # game/UpdateScript0.07.rpy:14216
 translate italian bad_polls_aftermath_fdd1e7af:
 
     # L "Now, get out of my campaign office!"
+    L "Ora, fuori dal mio ufficio elettorale!"
 
 # game/UpdateScript0.07.rpy:14217
 translate italian bad_polls_aftermath_0847c1e9:
 
     # L "I've got a lot of work to do."
+    L "Ho molto lavoro da fare."
 
 # game/UpdateScript0.07.rpy:14218
 translate italian bad_polls_aftermath_9538d6c2:
 
     # MB "Haha... I'm looking forward to this!"
+    MB "Haha... Non vedo l'ora di farlo!"
 
 # game/UpdateScript0.07.rpy:14219
 translate italian bad_polls_aftermath_7a23cffe:
 
     # MB "I was just going to sit back and win on my popularity alone, but with such a sweet enticement, I might actually do some campaigning."
+    MB "Stavo solo andando a sedersi e vincere sulla mia popolarità da solo, ma con un tale dolce allettamento, potrei effettivamente fare qualche campagna."
 
 # game/UpdateScript0.07.rpy:14220
 translate italian bad_polls_aftermath_26c86714:
 
     # MB "Good luck to you both. But you're going to need a lot more than luck!"
+    MB "Buona fortuna a tutti e due. Ma avrai bisogno di molto più della fortuna!"
 
 # game/UpdateScript0.07.rpy:14223
 translate italian bad_polls_aftermath_91355cdd:
@@ -33735,231 +36486,277 @@ translate italian bad_polls_aftermath_91355cdd:
 translate italian bad_polls_aftermath_5301631a:
 
     # RT "{i}Lauren can't win this!{/i}"
+    RT "{i}Lauren non può vincere questo!{/mi}"
 
 # game/UpdateScript0.07.rpy:14225
 translate italian bad_polls_aftermath_d01dfaf8:
 
     # RT "{i}She's going to get fucked by my worst enemy!{/i}"
+    RT "{i}Lei sta per farsi scopare dal mio peggior nemico!{/mi}"
 
 # game/UpdateScript0.07.rpy:14226
 translate italian bad_polls_aftermath_c4b84593:
 
     # RT "{i}I think I'm going to pass out.{/i}"
+    RT "{i}Penso che sto per svenire.{/mi}"
 
 # game/UpdateScript0.07.rpy:14229
 translate italian bad_polls_aftermath_b96e06f9:
 
     # L "[ryan]! Are you ok?"
+    L "[ryan]! Stai bene?"
 
 # game/UpdateScript0.07.rpy:14230
 translate italian bad_polls_aftermath_b07b4196:
 
     # R "Lauren, What the hell did you just do!?"
+    R "Lauren, Che diavolo hai appena fatto!?"
 
 # game/UpdateScript0.07.rpy:14231
 translate italian bad_polls_aftermath_b41bbb36:
 
     # L "I burnt the ships."
+    L "Ho bruciato le navi."
 
 # game/UpdateScript0.07.rpy:14232
 translate italian bad_polls_aftermath_c54939b7:
 
     # R "What the hell is that supposed to mean?"
+    R "Che diavolo dovrebbe significare?"
 
 # game/UpdateScript0.07.rpy:14233
 translate italian bad_polls_aftermath_2f721060:
 
     # L "Don't you remember on Game of Thots?"
+    L "Non ti ricordi di Gioco di Thots?"
 
 # game/UpdateScript0.07.rpy:14234
 translate italian bad_polls_aftermath_e7a132e6:
 
     # L "It means we can't go back now."
+    L "Significa che non possiamo tornare indietro ora."
 
 # game/UpdateScript0.07.rpy:14235
 translate italian bad_polls_aftermath_0b6cc539:
 
     # L "We have to win, or die trying."
+    L "Dobbiamo vincere, o morire nel tentativo."
 
 # game/UpdateScript0.07.rpy:14236
 translate italian bad_polls_aftermath_83ec6665:
 
     # R "Or get fucked... \"literally\"... trying!"
+    R "O ottenere scopata... \"letteralmente\"... ci provo!"
 
 # game/UpdateScript0.07.rpy:14237
 translate italian bad_polls_aftermath_72f9d72a:
 
     # R "I can't believe you just gave your pussy to Matt!"
+    R "Non posso credere che hai appena dato la tua figa a Matt!"
 
 # game/UpdateScript0.07.rpy:14240
 translate italian bad_polls_aftermath_ee67bc8b:
 
     # L "I didn't give my pussy to Matt!"
+    L "Non ho dato la mia figa a Matt!"
 
 # game/UpdateScript0.07.rpy:14241
 translate italian bad_polls_aftermath_9d1a12ae:
 
     # L "I'm going to win this fucking election!"
+    L "Vincerò queste fottute elezioni!"
 
 # game/UpdateScript0.07.rpy:14242
 translate italian bad_polls_aftermath_5ca76ad7:
 
     # L "And, even if I don't win, you don't have any say in what I do with my pussy!"
+    L "E, anche se non vinco, non hai voce in capitolo in quello che faccio con la mia figa!"
 
 # game/UpdateScript0.07.rpy:14243
 translate italian bad_polls_aftermath_d86348fa:
 
     # L "What? Did you think you were going to get it or something?"
+    L "Cosa? Pensavi di averlo o qualcosa del genere?"
 
 # game/UpdateScript0.07.rpy:14244
 translate italian bad_polls_aftermath_ee900bc6:
 
     # R "Well... I... No...?"
+    R "Bene... I... No...?"
 
 # game/UpdateScript0.07.rpy:14245
 translate italian bad_polls_aftermath_0dbb7081:
 
     # L "Just because we've messed around a little doesn't mean we're going to take it any further."
+    L "Solo perché abbiamo incasinato un po ' non significa che andremo oltre."
 
 # game/UpdateScript0.07.rpy:14246
 translate italian bad_polls_aftermath_161fa4ed:
 
     # L "Especially if you don't do your part to help me win this election."
+    L "Soprattutto se non fai la tua parte per aiutarmi a vincere queste elezioni."
 
 # game/UpdateScript0.07.rpy:14249
 translate italian bad_polls_aftermath_aa6d8efe:
 
     # L "Now, I believe we were talking about campaign posters before that asshole inturrupted us."
+    L "Ora, credo che stavamo parlando di manifesti elettorali prima che quello stronzo ci inturrupted."
 
 # game/UpdateScript0.07.rpy:14250
 translate italian bad_polls_aftermath_84c753f0:
 
     # R "Lauren! Why did you agree that I would watch you two fuck if you lost the election? I don't want to fucking watch you two fuck!"
+    R "Lauren! Perche ' hai accettato che vi guardassi scopare se avessi perso le elezioni? Non voglio guardarvi scopare, cazzo!"
 
 # game/UpdateScript0.07.rpy:14251
 translate italian bad_polls_aftermath_b2d6fa21:
 
     # L "Like I said. I'm not going to lose this election. But, if I do, it will be because you didn't do your part, in which case, you deserve to watch us fuck as your punishment."
+    L "Come ho detto. Non ho intenzione di perdere queste elezioni. Ma, se lo faccio, sara 'perche' non hai fatto la tua parte, nel qual caso, meriti di vederci scopare come punizione."
 
 # game/UpdateScript0.07.rpy:14252
 translate italian bad_polls_aftermath_bdb7d8b8:
 
     # R "How can you be so calm about this?!"
+    R "Come puoi essere così calmo su questo?!"
 
 # game/UpdateScript0.07.rpy:14253
 translate italian bad_polls_aftermath_93a252e6:
 
     # R "What if you lose!?"
+    R "E se perde!?"
 
 # game/UpdateScript0.07.rpy:14256
 translate italian bad_polls_aftermath_7f5ff30e:
 
     # L "I'm going to win!"
+    L "Io vincerò!"
 
 # game/UpdateScript0.07.rpy:14257
 translate italian bad_polls_aftermath_0aae52cb:
 
     # L "Stop assuming that I'm going to lose!"
+    L "Smettila di pensare che perderò!"
 
 # game/UpdateScript0.07.rpy:14258
 translate italian bad_polls_aftermath_ce07135d:
 
     # L "Now protect your sister's virginity, and help me win!"
+    L "Ora proteggi la verginità di tua sorella, e aiutami a vincere!"
 
 # game/UpdateScript0.07.rpy:14259
 translate italian bad_polls_aftermath_defd10f3:
 
     # R "You really are a virgin?"
+    R "Sei davvero una vergine?"
 
 # game/UpdateScript0.07.rpy:14262
 translate italian bad_polls_aftermath_a3623919:
 
     # L "Well, I'm not proud of it. I've just never found a guy I liked enough to give my v card to."
+    L "Beh, non ne sono orgoglioso. Non ho mai trovato un ragazzo che mi è piaciuto abbastanza per dare la mia carta v a."
 
 # game/UpdateScript0.07.rpy:14263
 translate italian bad_polls_aftermath_b12f688f:
 
     # L "So, please! Don't let me lose it to Matt!"
+    L "Quindi, per favore! Non lasciarmi perdere a Matt!"
 
 # game/UpdateScript0.07.rpy:14264
 translate italian bad_polls_aftermath_89f5f282:
 
     # R "I'll do my best. I promise."
+    R "Farò del mio meglio. Io prometto."
 
 # game/UpdateScript0.07.rpy:14267
 translate italian bad_polls_aftermath_7ecee780:
 
     # L "Thanks! Now let's get back to those posters."
+    L "Grazie! Ora torniamo a questi poster."
 
 # game/UpdateScript0.07.rpy:14268
 translate italian bad_polls_aftermath_55c43b15:
 
     # L "I've decided I want you to go as sexy as you can get away with."
+    L "Ho deciso che voglio che tu vada sexy come si può ottenere via con."
 
 # game/UpdateScript0.07.rpy:14269
 translate italian bad_polls_aftermath_9bd4d6cf:
 
     # L "If you think you can pull off one of my full nude shots, then do it!"
+    L "Se pensate di poter tirare fuori uno dei miei scatti nudi pieni, allora fate!"
 
 # game/UpdateScript0.07.rpy:14270
 translate italian bad_polls_aftermath_867f3e7a:
 
     # R "Haha... I think I'd get expelled or even arrested if I hung up your nudes around the school."
+    R "Haha... Penso che sarei espulso o anche arrestato se appesi i tuoi nudi intorno alla scuola."
 
 # game/UpdateScript0.07.rpy:14271
 translate italian bad_polls_aftermath_34b1a892:
 
     # R "But, I'll make sure I get as close to that line as I can without going over."
+    R "Ma, mi assicurerò di avvicinarmi quanto più possibile a quella linea senza andare oltre."
 
 # game/UpdateScript0.07.rpy:14272
 translate italian bad_polls_aftermath_c1ac93b8:
 
     # R "I'll get them made as fast as I can, and I'll hang them up as soon as they're off the printer."
+    R "Li farò fare il più velocemente possibile, e li appenderò non appena saranno fuori dalla stampante."
 
 # game/UpdateScript0.07.rpy:14275
 translate italian bad_polls_aftermath_c3979f21:
 
     # L "Perfect! And thanks again for your help. I feel so much better knowing that I've got your help."
+    L "Perfetto! E grazie ancora per il tuo aiuto. Mi sento molto meglio sapendo che ho il tuo aiuto."
 
 # game/UpdateScript0.07.rpy:14276
 translate italian bad_polls_aftermath_84644c25:
 
     # L "Will I see you in our next class?"
+    L "Vi vedrò nella nostra prossima lezione?"
 
 # game/UpdateScript0.07.rpy:14277
 translate italian bad_polls_aftermath_7e862c02:
 
     # R "Probably not... I've got to make some more money, and now some posters as well."
+    R "Probabilmente no... devo fare qualche soldo, e ora anche qualche poster."
 
 # game/UpdateScript0.07.rpy:14278
 translate italian bad_polls_aftermath_03a91bd1:
 
     # L "Alright. Well, if you can ever spare some time, come back here any day in the afternoons. I should have plenty for you to do."
+    L "Va bene. Beh, se riesci a risparmiare un po ' di tempo, torna qui ogni giorno nel pomeriggio. Dovrei avere molto da fare per te."
 
 # game/UpdateScript0.07.rpy:14279
 translate italian bad_polls_aftermath_447f310e:
 
     # L "But for now, get those posters done and hung up as soon as you can."
+    L "Ma per ora, prendi quei manifesti e appesantiti appena possibile."
 
 # game/UpdateScript0.07.rpy:14284
 translate italian bad_polls_aftermath_01e62b7e:
 
     # RT "{i}Hmmm... How am I going to get those posters done?{/i}"
+    RT "{i}Hmmm... Come farò a fare quei poster?{/i}"
 
 # game/UpdateScript0.07.rpy:14285
 translate italian bad_polls_aftermath_5b251e93:
 
     # RT "{i}I'll need access to a big printer, and someone who is more artistic than me couldn't hurt either.{/i}"
+    RT "{i}Avrò bisogno di accedere a una grande stampante, e qualcuno che è più artistico di me non poteva fare del male.{/i}"
 
 # game/UpdateScript0.07.rpy:14286
 translate italian bad_polls_aftermath_999e5bbe:
 
     # RT "{i}Oh, I know... Mrs. Stone, my art teacher from last semester could help me out.{/i}"
+    RT "{i}Oh, lo so... Signora Stone, il mio insegnante d'arte dello scorso semestre potrebbe aiutarmi. {/i}"
 
 # game/UpdateScript0.07.rpy:14291
 translate italian bad_polls_aftermath_c58e8021:
 
     # RT "{i}Besides, she owes me for saving her from poor old Mr. Peterson in the park.{/i}"
+    RT "{i}Inoltre, mi deve per salvarla dal povero vecchio signor Peterson nel parco. {/i}"
 
 # game/UpdateScript0.07.rpy:14308
 translate italian bad_polls_aftermath_94c820e6:
@@ -33977,16 +36774,19 @@ translate italian bad_polls_aftermath_708b086a:
 translate italian bad_polls_aftermath_1da663ea:
 
     # Z "Well, it was worth a try!"
+    Z "Beh, è valsa la pena provare!"
 
 # game/UpdateScript0.07.rpy:14315
 translate italian bad_polls_aftermath_f769713c:
 
     # Z "Maybe you won't show up one of these weeks."
+    Z "Forse non ti presenterai una di queste settimane."
 
 # game/UpdateScript0.07.rpy:14318
 translate italian bad_polls_aftermath_7ce28a9b:
 
     # RT "{i}I wonder how many votes she's gained today.{/i}"
+    RT "{i}Mi domando quanti voti ha guadagnato oggi.{/i}"
 
 # game/UpdateScript0.07.rpy:14321
 translate italian bad_polls_aftermath_be0f8a0a:
@@ -34010,21 +36810,25 @@ translate italian bad_polls_aftermath_7da75588:
 translate italian bad_polls_aftermath_d485ba1d:
 
     # L "Olllcchhhh.... Hrey Hrrrroooyyyaaannn."
+    L "Olllcchhhh.... Hrey Hrrrroooyyyaaannn."
 
 # game/UpdateScript0.07.rpy:14335
 translate italian bad_polls_aftermath_f8d47794:
 
     # RT "{i}She's not even stopping to acknowledge my presence anymore.{/i}"
+    RT "{i}Non si ferma nemmeno più a riconoscere la mia presenza.{/i}"
 
 # game/UpdateScript0.07.rpy:14339
 translate italian bad_polls_aftermath_4365a3a6:
 
     # LT "{i}I love how he shows up to watch me every week.{/i}"
+    LT "{i}Mi piace come si mostra per guardarmi ogni settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:14340
 translate italian bad_polls_aftermath_b811793d:
 
     # LT "{i}He might not be a good help, but he must care for me in some way.{/i}"
+    LT "{i}Potrebbe non essere un buon aiuto, ma deve preoccuparsi per me in qualche modo.{/i}"
 
 # game/UpdateScript0.07.rpy:14341
 translate italian bad_polls_aftermath_56505b06:
@@ -34090,6 +36894,7 @@ translate italian bad_polls_aftermath_067e6e4f:
 translate italian bad_polls_aftermath_bd642cc6:
 
     # L "Hey, [ryan]... I'm pretty busy... Why don't we talk later?"
+    L "Hey, [ryan]... Sono piuttosto occupato... Perché non parliamo più tardi?"
 
 # game/UpdateScript0.07.rpy:14362
 translate italian bad_polls_aftermath_4298156e:
@@ -34113,41 +36918,49 @@ translate italian bad_polls_aftermath_5ee055dd:
 translate italian bad_polls_aftermath_44040e04:
 
     # R "Whoah... Stacy?... You're back?"
+    R "Chi è... Stacy?... Sei tornato?"
 
 # game/UpdateScript0.07.rpy:14370
 translate italian bad_polls_aftermath_d7f39b74:
 
     # SY "Yeah, all the guys let me cut the line agian."
+    SY "Sì, tutti i ragazzi mi hanno permesso di tagliare la linea agiana."
 
 # game/UpdateScript0.07.rpy:14371
 translate italian bad_polls_aftermath_e1bb8df8:
 
     # SY "I think they enjoyed imagining what was going on behind that stall door."
+    SY "Penso che si siano divertiti a immaginare ciò che stava succedendo dietro quella porta della stalla."
 
 # game/UpdateScript0.07.rpy:14374
 translate italian bad_polls_aftermath_aaeed943:
 
     # SY "And how are you doing, Little Miss Cummy Face?"
+    SY "E come stai facendo, Piccola signorina viso di Cummia?"
 
 # game/UpdateScript0.07.rpy:14377
 translate italian bad_polls_aftermath_ae8eb8d9:
 
     # L "Haha... That nickname better not stick."
+    L "Haha... Quel soprannome meglio non basta."
 
 # game/UpdateScript0.07.rpy:14380
 translate italian bad_polls_aftermath_6a6c4b21:
 
     # SY "So, are you up for another round?"
+    SY "Quindi, sei in su per un altro turno?"
 
 # game/UpdateScript0.07.rpy:14381
 translate italian bad_polls_aftermath_27f5a460:
 
     # L "Happy to serve my electorate!"
+    L "Felice di servire il mio elettorato!"
 
 # game/UpdateScript0.07.rpy:14384
 translate italian bad_polls_aftermath_0c61b01b:
 
     # L "Would you shut the door please, [ryan]?"
+    L "Chiuderesti la porta, per piacere, [ryan]?"
 
 # game/UpdateScript0.07.rpy:14385
 translate italian bad_polls_aftermath_1b069f94:
@@ -34159,6 +36972,7 @@ translate italian bad_polls_aftermath_1b069f94:
 translate italian bad_polls_aftermath_7e3cce04:
 
     # R "Can't we leave it open this time?"
+    R "Non possiamo lasciare aperta questa volta?"
 
 # game/UpdateScript0.07.rpy:14390
 translate italian bad_polls_aftermath_4f5fa4db:
@@ -34176,6 +36990,7 @@ translate italian bad_polls_aftermath_432b47e9:
 translate italian bad_polls_aftermath_28f2c893:
 
     # RT "{i}Oh, wow!... That does sound so hot.{/i}"
+    RT "{i}Oh, wow!... Sembra così caldo.{/i}"
 
 # game/UpdateScript0.07.rpy:14398
 translate italian bad_polls_aftermath_2a0f406b:
@@ -34199,16 +37014,19 @@ translate italian bad_polls_aftermath_6b52d15f:
 translate italian bad_polls_aftermath_8eeb0abe:
 
     # SY "That was amazing Lauren, I won't be changing my vote anytime soon."
+    SY "Quello è stato sorprendente Lauren, non cambierò il mio voto in qualsiasi momento presto."
 
 # game/UpdateScript0.07.rpy:14412
 translate italian bad_polls_aftermath_c56a6794:
 
     # SY "I know some girls from both the cheer and dance teams will be over very soon."
+    SY "So che alcune ragazze di entrambe le squadre di allegria e danza saranno finite molto presto."
 
 # game/UpdateScript0.07.rpy:14413
 translate italian bad_polls_aftermath_87d13cf8:
 
     # SY "Keep up the good work, and you'll have all the women's vote soon."
+    SY "Continuate il buon lavoro, e presto avrete tutto il voto delle donne."
 
 # game/UpdateScript0.07.rpy:14416
 translate italian bad_polls_aftermath_72b6c0cf:
@@ -34220,21 +37038,25 @@ translate italian bad_polls_aftermath_72b6c0cf:
 translate italian bad_polls_aftermath_645b6cd2:
 
     # SY "Bye, cuck..."
+    SY "Ciao, cuccio..."
 
 # game/UpdateScript0.07.rpy:14418
 translate italian bad_polls_aftermath_35994f06:
 
     # RT "Lauren's not my girlfriend... I'm not a cuck!"
+    RT "Lauren non è la mia fidanzata... Non sono un cuck!"
 
 # game/UpdateScript0.07.rpy:14419
 translate italian bad_polls_aftermath_94742db5:
 
     # SY "Keep telling yourself that."
+    SY "Continua a dirlo a te stesso."
 
 # game/UpdateScript0.07.rpy:14421
 translate italian bad_polls_aftermath_84b57361:
 
     # L "[ryan]...Would you leave?... You're bad for business."
+    L "[ryan]...Usciti?... Sei brutto per gli affari."
 
 # game/UpdateScript0.07.rpy:14424
 translate italian bad_polls_aftermath_0365c770:
@@ -34246,16 +37068,19 @@ translate italian bad_polls_aftermath_0365c770:
 translate italian bad_polls_aftermath_a06bdb7a:
 
     # RT "{i}She really doesn't even want me around anymore.{/i}"
+    RT "{i}Lei davvero non mi vuole più in giro.{/i}"
 
 # game/UpdateScript0.07.rpy:14428
 translate italian bad_polls_aftermath_5f63e79a:
 
     # {i}\"There's no maybe's about it... You like watching Lauren in this situation... I mean, You had to really try to get her to this point...\"{/i}"
+    new "{i}\"Non ci sono forse... Ti piace guardare Lauren in questa situazione.. Intendo dire che hai dovuto davvero cercare di portarla a questo punto...\"{/i}"
 
 # game/UpdateScript0.07.rpy:14429
 translate italian bad_polls_aftermath_092ea968:
 
     # {i}\"Anyways, Lauren just gained another 5 influence points all by herself.\"{/i}"
+    new "{i}\"Comunque, Lauren ha appena guadagnato altri 5 punti di influenza tutti da sola.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14430
 translate italian bad_polls_aftermath_83b65130:
@@ -34267,16 +37092,19 @@ translate italian bad_polls_aftermath_83b65130:
 translate italian bad_polls_aftermath_2d48bc50:
 
     # {i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+    new "{i}\"Ora, devi solo ottenere altri 5 punti di influenza per evitare questo tipo di risultato la prossima settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14434
 translate italian bad_polls_aftermath_ee5ac4a4:
 
     # RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
+    RT "{i}Potrei probabilmente aiutare Lauren a guadagnare più voti strappando i manifesti di Matt, sostituendoli con Lauren's.{/i}"
 
 # game/UpdateScript0.07.rpy:14435
 translate italian bad_polls_aftermath_f7405feb:
 
     # RT "{i}Should I go see Mrs. Stone?{/i}"
+    RT "{i}Dovrei andare a vedere la signora pietra?{/i}"
 
 # game/UpdateScript0.07.rpy:14449
 translate italian bad_polls_aftermath_94c820e6_1:
@@ -34792,11 +37620,13 @@ translate italian bad_polls_aftermath_82d9987e:
 translate italian bad_polls_aftermath_c4044ce3:
 
     # {i}\"Huh... Maybe you really like watching Lauren getting busy with others... I mean, how many times is that now?...\"{/i}"
+    new "{i}\"Huh... Forse ti piace davvero vedere Lauren essere occupato con gli altri... Voglio dire, quante volte è questo ora?...\"{/i}"
 
 # game/UpdateScript0.07.rpy:14613
 translate italian bad_polls_aftermath_040b3503:
 
     # {i}\"Anyways, Lauren just gained another 5 influence points all by herself. You could add \"Licks pussies for votes\" on her posters now.\"{/i}"
+    new "{i}\"Comunque, Lauren ha appena guadagnato altri 5 punti di influenza tutti da sola. Puoi aggiungere \"Fighe di Licks per voti\" sui suoi manifesti ora.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14614
 translate italian bad_polls_aftermath_83b65130_1:
@@ -34808,16 +37638,19 @@ translate italian bad_polls_aftermath_83b65130_1:
 translate italian bad_polls_aftermath_2d48bc50_1:
 
     # {i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+    new "{i}\"Ora, devi solo ottenere altri 5 punti di influenza per evitare questo tipo di risultato la prossima settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14619
 translate italian bad_polls_aftermath_ee5ac4a4_1:
 
     # RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
+    RT "{i}Potrei probabilmente aiutare Lauren a guadagnare più voti strappando i manifesti di Matt, sostituendoli con Lauren's.{/i}"
 
 # game/UpdateScript0.07.rpy:14620
 translate italian bad_polls_aftermath_f7405feb_1:
 
     # RT "{i}Should I go see Mrs. Stone?{/i}"
+    RT "{i}Dovrei andare a vedere la signora pietra?{/i}"
 
 # game/UpdateScript0.07.rpy:14634
 translate italian bad_polls_aftermath_ddace475:
@@ -35183,21 +38016,25 @@ translate italian bad_polls_aftermath_bc5c893c_1:
 translate italian bad_polls_aftermath_7a57ff3f:
 
     # RT "{i}Fuck!... Why didn't I work harder this week?{/i}"
+    RT "{i}Fuck!... Perché non ho lavorato più duramente questa settimana?{/i}"
 
 # game/UpdateScript0.07.rpy:14737
 translate italian bad_polls_aftermath_1294dcd4:
 
     # RT "{i}I swore I wouldn't let that happen again, but here I am.{/i}"
+    RT "{i}Ho giurato che non avrei lasciato che accadesse di nuovo, ma qui sono.{/i}"
 
 # game/UpdateScript0.07.rpy:14738
 translate italian bad_polls_aftermath_015c21bc:
 
     # RT "{i}I'd better step up my game and really work hard or I'm going to lose her.{/i}"
+    RT "{i}Io farei meglio a rafforzare il mio gioco e lavorare davvero sodo o sto andando perdere.{/i}"
 
 # game/UpdateScript0.07.rpy:14739
 translate italian bad_polls_aftermath_fbf22120:
 
     # {i}\"Wow! Lauren just gained another 5 influence points all by herself. Blowjobs for votes... You should have put that on the posters.\"{/i}"
+    new "{i}\" Wow! Lauren appena guadagnato un altro 5 punti influenza tutto da sola. Pompini per i voti... Avresti dovuto metterlo sui manifesti.\"{/mi}"
 
 # game/UpdateScript0.07.rpy:14740
 translate italian bad_polls_aftermath_83b65130_2:
@@ -35209,16 +38046,19 @@ translate italian bad_polls_aftermath_83b65130_2:
 translate italian bad_polls_aftermath_2d48bc50_2:
 
     # {i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+    new "{i}\"Ora, devi solo ottenere altri 5 punti di influenza per evitare questo tipo di risultato la prossima settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14745
 translate italian bad_polls_aftermath_ee5ac4a4_2:
 
     # RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
+    RT "{i}Potrei probabilmente aiutare Lauren a guadagnare più voti strappando i manifesti di Matt, sostituendoli con Lauren's.{/i}"
 
 # game/UpdateScript0.07.rpy:14746
 translate italian bad_polls_aftermath_f7405feb_2:
 
     # RT "{i}Should I go see Mrs. Stone?{/i}"
+    RT "{i}Dovrei andare a vedere la signora pietra?{/i}"
 
 # game/UpdateScript0.07.rpy:14760
 translate italian bad_polls_aftermath_ddace475_1:
@@ -35242,26 +38082,31 @@ translate italian bad_polls_aftermath_b27f6e39_1:
 translate italian bad_polls_aftermath_0a3e9e97:
 
     # Z "Oh... come on, don't be like that!"
+    Z "Oh... dai, non fare così!"
 
 # game/UpdateScript0.07.rpy:14768
 translate italian bad_polls_aftermath_a6cc30ed:
 
     # R "Like what... An accessory to statutory rape?"
+    R "Ti piace cosa... Un accessorio allo stupro statutario?"
 
 # game/UpdateScript0.07.rpy:14769
 translate italian bad_polls_aftermath_6833f3a4:
 
     # R "Fuck no, you're too young!"
+    R "No, sei troppo giovane!"
 
 # game/UpdateScript0.07.rpy:14772
 translate italian bad_polls_aftermath_a0ed0f57:
 
     # Z "That's not fair!"
+    Z "Non è corretta!"
 
 # game/UpdateScript0.07.rpy:14773
 translate italian bad_polls_aftermath_15c06b91:
 
     # R "Get lost!"
+    R "Perdersi!"
 
 # game/UpdateScript0.07.rpy:14776
 translate italian bad_polls_aftermath_965e57ad_1:
@@ -35273,6 +38118,7 @@ translate italian bad_polls_aftermath_965e57ad_1:
 translate italian bad_polls_aftermath_c780b2fa:
 
     # RT "{i}Now, I wonder if there's anything I can do this week to break up this train on my sister!{/i}"
+    RT "{i}Ora, mi chiedo se c'è qualcosa che posso fare questa settimana per rompere questo treno su mia sorella!{/i}"
 
 # game/UpdateScript0.07.rpy:14780
 translate italian bad_polls_aftermath_be0f8a0a_3:
@@ -35296,6 +38142,7 @@ translate italian bad_polls_aftermath_7da75588_3:
 translate italian bad_polls_aftermath_19e071e8:
 
     # RT "{i}Oh, God... I can't believe I have to see this again.{/i}"
+    RT "{i}Oh, Dio... Non posso credere di doverlo rivedere.{/i}"
 
 # game/UpdateScript0.07.rpy:14790
 translate italian bad_polls_aftermath_5f6b7f96:
@@ -35307,116 +38154,139 @@ translate italian bad_polls_aftermath_5f6b7f96:
 translate italian bad_polls_aftermath_6046dec0:
 
     # L "Why are you here again?!"
+    L "Perché sei di nuovo qui?!"
 
 # game/UpdateScript0.07.rpy:14792
 translate italian bad_polls_aftermath_2a81635b:
 
     # R "Because I thought you wouldn't do this again!"
+    R "Perché pensavo che non l'avresti fatto di nuovo!"
 
 # game/UpdateScript0.07.rpy:14795
 translate italian bad_polls_aftermath_db386b60:
 
     # L "What gave you that idea?"
+    L "Cosa ti ha dato questa idea?"
 
 # game/UpdateScript0.07.rpy:14796
 translate italian bad_polls_aftermath_f06c1eb7:
 
     # R "Well, haven't you already jacked off most the guys in the school?"
+    R "Beh, non hai già preso la maggior parte dei ragazzi della scuola?"
 
 # game/UpdateScript0.07.rpy:14797
 translate italian bad_polls_aftermath_8337c5df:
 
     # UB "She's got to keep her voters happy, or we'll just move on to Matt."
+    UB "Deve tenere felici i suoi elettori, o passiamo a Matt."
 
 # game/UpdateScript0.07.rpy:14798
 translate italian bad_polls_aftermath_70928665:
 
     # R "Oh?... Is he jacking guys off in another bathroom somewhere?"
+    R "Oh?... Sta masturbando ragazzi in un altro bagno da qualche parte?"
 
 # game/UpdateScript0.07.rpy:14799
 translate italian bad_polls_aftermath_4f6014ca:
 
     # AUB "No, but if he were, I'd take a hand job from him, too. I'm not gay or anything, but Matt is an extremely handsome guy."
+    AUB "No, ma se lo fosse, prenderei anche una sega da lui. Non sono gay o altro, ma Matt è un ragazzo estremamente bello."
 
 # game/UpdateScript0.07.rpy:14800
 translate italian bad_polls_aftermath_e4479d70:
 
     # UB "Dude! You are gay."
+    UB "Amico! Sei gay."
 
 # game/UpdateScript0.07.rpy:14801
 translate italian bad_polls_aftermath_33428536:
 
     # R "Would you two just get lost?"
+    R "Voi due vi perdereste?"
 
 # game/UpdateScript0.07.rpy:14804
 translate italian bad_polls_aftermath_11823d55:
 
     # L "Don't listen to him. You two studs don't have to go anywhere until you've cum."
+    L "Non ascoltarlo. Voi due stalloni non dovete andare da nessuna parte finché non avete sperma."
 
 # game/UpdateScript0.07.rpy:14805
 translate italian bad_polls_aftermath_c804f03d:
 
     # L "If my brother didn't want me jacking off other guys, he would have done more to help me in the polls this week."
+    L "Se mio fratello non mi voleva jacking off altri ragazzi, avrebbe fatto di più per aiutarmi nei sondaggi di questa settimana."
 
 # game/UpdateScript0.07.rpy:14806
 translate italian bad_polls_aftermath_0299f9e3:
 
     # R "Lauren, It's not like I've got unlimited time and money. I've got other stuff I've got to deal with too."
+    R "Lauren, non è come se avessi tempo e denaro illimitati. Ho anche altre cose con cui ho a che fare."
 
 # game/UpdateScript0.07.rpy:14807
 translate italian bad_polls_aftermath_e31a395f:
 
     # L "And I don't have the time to do all the things you said you'd help me with on top of everything I have to do either."
+    L "E non ho il tempo di fare tutte le cose che hai detto che mi avresti aiutato in cima a tutto quello che devo fare."
 
 # game/UpdateScript0.07.rpy:14808
 translate italian bad_polls_aftermath_5d1c1edc:
 
     # L "But luckily, I've identified a way to really boost my numbers, in just over an hour."
+    L "Ma per fortuna, ho identificato un modo per aumentare veramente i miei numeri, in poco più di un'ora."
 
 # game/UpdateScript0.07.rpy:14809
 translate italian bad_polls_aftermath_01589cc2:
 
     # L "So, you're not getting me to stop, so why don't you just run along?"
+    L "Quindi, non mi stai spingendo a fermarmi, quindi perché non corri con te?"
 
 # game/UpdateScript0.07.rpy:14810
 translate italian bad_polls_aftermath_fce3c1c7:
 
     # R "I'm not running along until you come to your senses!"
+    R "Non sono in corsa finché non vieni ai tuoi sensi!"
 
 # game/UpdateScript0.07.rpy:14811
 translate italian bad_polls_aftermath_b82d5146:
 
     # LT "{i}God, I was hoping he'd say that!{/i}"
+    LT "{i}Dio, speravo che lo dicesse!{/i}"
 
 # game/UpdateScript0.07.rpy:14812
 translate italian bad_polls_aftermath_bc467247:
 
     # L "Well, then enjoy the show."
+    L "Beh, poi godetevi lo spettacolo."
 
 # game/UpdateScript0.07.rpy:14817
 translate italian bad_polls_aftermath_6dc74719:
 
     # RT "{i}Having her brother watch her do this, should make her feel uncomfortable.{/i}"
+    RT "{i}Avendo suo fratello guardarla fare questo, dovrebbe farla sentire a disagio. {/i}"
 
 # game/UpdateScript0.07.rpy:14818
 translate italian bad_polls_aftermath_05c86a8d:
 
     # LT "{i}I wonder if this is making him jealous.{/i}"
+    LT "{i}Mi chiedo se questo lo stia rendendo geloso.{/i}"
 
 # game/UpdateScript0.07.rpy:14819
 translate italian bad_polls_aftermath_83b1d96f:
 
     # LT "{i}I mean, this could be him if he'd worked harder.{/i}"
+    LT "{i}Intendo dire, questo potrebbe essere lui se avesse lavorato duramente.{/i}"
 
 # game/UpdateScript0.07.rpy:14820
 translate italian bad_polls_aftermath_768ffc39:
 
     # RT "{i}Why doesn't this seem to phase her?{/i}"
+    RT "{i}Perché questo non sembra essere in fase? {/i}"
 
 # game/UpdateScript0.07.rpy:14821
 translate italian bad_polls_aftermath_b30b24c0:
 
     # LT "{i}But why does him watching me really turn me on?{/i}"
+    LT "{i}Ma perché lui mi guarda davvero acceso?{/i}"
 
 # game/UpdateScript0.07.rpy:14822
 translate italian bad_polls_aftermath_c3ea5a14:
@@ -35470,16 +38340,19 @@ translate italian bad_polls_aftermath_5557c20e:
 translate italian bad_polls_aftermath_81a80ad0:
 
     # R "Ok, now let's go and come up with other strategies to gain in the polls."
+    R "Ok, ora andiamo a trovare altre strategie per guadagnare nelle urne."
 
 # game/UpdateScript0.07.rpy:14841
 translate italian bad_polls_aftermath_557e5063:
 
     # L "You know I'm not leaving until I've taken care of all these potential voters."
+    L "Sai che non me ne sto lasciando fino a quando non ho preso cura di tutti questi potenziali elettori."
 
 # game/UpdateScript0.07.rpy:14842
 translate italian bad_polls_aftermath_8cd78504:
 
     # R "Goddammit, Lauren."
+    R "Goddammit, Lauren."
 
 # game/UpdateScript0.07.rpy:14845
 translate italian bad_polls_aftermath_06efc979:
@@ -35497,6 +38370,7 @@ translate italian bad_polls_aftermath_79c14fce:
 translate italian bad_polls_aftermath_3e5ee6b9:
 
     # R "Fine! I guess I'll just talk to you later!"
+    R "Fine! Immagino che parlerò più tardi!"
 
 # game/UpdateScript0.07.rpy:14848
 translate italian bad_polls_aftermath_36c9e9a5:
@@ -35526,21 +38400,25 @@ translate italian bad_polls_aftermath_687e2313:
 translate italian bad_polls_aftermath_7a57ff3f_1:
 
     # RT "{i}Fuck!... Why didn't I work harder this week?{/i}"
+    RT "{i}Fuck!... Perché non ho lavorato più duramente questa settimana?{/i}"
 
 # game/UpdateScript0.07.rpy:14856
 translate italian bad_polls_aftermath_1294dcd4_1:
 
     # RT "{i}I swore I wouldn't let that happen again, but here I am.{/i}"
+    RT "{i}Ho giurato che non avrei lasciato che accadesse di nuovo, ma qui sono.{/i}"
 
 # game/UpdateScript0.07.rpy:14857
 translate italian bad_polls_aftermath_015c21bc_1:
 
     # RT "{i}I'd better step up my game and really work hard or I'm going to lose her.{/i}"
+    RT "{i}Io farei meglio a rafforzare il mio gioco e lavorare davvero sodo o sto andando perdere.{/i}"
 
 # game/UpdateScript0.07.rpy:14858
 translate italian bad_polls_aftermath_1d9836c0:
 
     # {i}\"Wow! Lauren just gained another 5 influence points all by herself. She really does have a knack for politics!\"{/i}"
+    new "{i}\"Wow! Lauren ha appena guadagnato altri 5 punti di influenza tutti da sola. Lei ha davvero un lavoro per la politica!\"{/i}"
 
 # game/UpdateScript0.07.rpy:14859
 translate italian bad_polls_aftermath_83b65130_3:
@@ -35552,16 +38430,19 @@ translate italian bad_polls_aftermath_83b65130_3:
 translate italian bad_polls_aftermath_2d48bc50_3:
 
     # {i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+    new "{i}\"Ora, devi solo ottenere altri 5 punti di influenza per evitare questo tipo di risultato la prossima settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:14863
 translate italian bad_polls_aftermath_ee5ac4a4_3:
 
     # RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
+    RT "{i}Potrei probabilmente aiutare Lauren a guadagnare più voti strappando i manifesti di Matt, sostituendoli con Lauren's.{/i}"
 
 # game/UpdateScript0.07.rpy:14864
 translate italian bad_polls_aftermath_f7405feb_3:
 
     # RT "{i}Should I go see Mrs. Stone?{/i}"
+    RT "{i}Dovrei andare a vedere la signora pietra?{/i}"
 
 # game/UpdateScript0.07.rpy:14876
 translate italian bad_polls_aftermath_8be08c13:
@@ -36131,36 +39012,43 @@ translate italian bad_polls_aftermath_687e2313_1:
 translate italian bad_polls_aftermath_acd956c9:
 
     # RT "{i}Wow!... That was unexpected!{/i}"
+    RT "{i}Wow!... Era inaspettato!{/i}"
 
 # game/UpdateScript0.07.rpy:15014
 translate italian bad_polls_aftermath_e1dd11aa:
 
     # RT "{i}I wanted to corrupt Lauren, but just for me.{/i}"
+    RT "{i}volevo corrompere Lauren, ma solo per me.{/i}"
 
 # game/UpdateScript0.07.rpy:15015
 translate italian bad_polls_aftermath_cbff5d4f:
 
     # RT "{i}I mean, I guess I always knew there was some pent up sluttiness in her.{/i}"
+    RT "{i}Intendo dire, immagino che ho sempre saputo che c'era un po' di troia in lei.{/i}"
 
 # game/UpdateScript0.07.rpy:15016
 translate italian bad_polls_aftermath_5a85ca36:
 
     # RT "{i}Maybe I shouldn't be so surprised at the results when I opened up Panera's... Pantera's, or whatever that box is called.{/i}"
+    RT "{i}Forse non dovrei essere così sorpreso dai risultati quando ho aperto Panera 's... Pantera, o qualsiasi cosa venga chiamata.{/i}"
 
 # game/UpdateScript0.07.rpy:15017
 translate italian bad_polls_aftermath_9960b283:
 
     # RT "{i}All I know is that if I don't want her satisfying her urges with any other guys but me.{/i}"
+    RT "{i}Tutto quello che so è che se non voglio lei soddisfare i suoi desideri con altri ragazzi ma me.{/i}"
 
 # game/UpdateScript0.07.rpy:15018
 translate italian bad_polls_aftermath_3af1a4cb:
 
     # RT "{i}I'd better step up my game and really work hard if I want to keep her for myself.{/i}"
+    RT "{i}Io farei meglio a rafforzare il mio gioco e davvero lavorare sodo se voglio mantenerla per me.{/i}"
 
 # game/UpdateScript0.07.rpy:15019
 translate italian bad_polls_aftermath_32f02895:
 
     # {i}\"Wow! Lauren just gained 5 influence points all by herself. That really was effective.\"{/i}"
+    new "{i}\"Wow! Lauren ha appena guadagnato 5 punti di influenza tutti da sola. Questo è stato davvero efficace.\"{/i}"
 
 # game/UpdateScript0.07.rpy:15020
 translate italian bad_polls_aftermath_83b65130_4:
@@ -36172,471 +39060,565 @@ translate italian bad_polls_aftermath_83b65130_4:
 translate italian bad_polls_aftermath_2d48bc50_4:
 
     # {i}\"Now, you just need to get 5 more influence points to avoid this type of outcome next week.\"{/i}"
+    new "{i}\"Ora, devi solo ottenere altri 5 punti di influenza per evitare questo tipo di risultato la prossima settimana.\"{/i}"
 
 # game/UpdateScript0.07.rpy:15026
 translate italian bad_polls_aftermath_ee5ac4a4_4:
 
     # RT "{i}I could probably help Lauren gain more votes by tearing down Matt's posters and replacing them with Lauren's.{/i}"
+    RT "{i}Potrei probabilmente aiutare Lauren a guadagnare più voti strappando i manifesti di Matt, sostituendoli con Lauren's.{/i}"
 
 # game/UpdateScript0.07.rpy:15027
 translate italian bad_polls_aftermath_f7405feb_4:
 
     # RT "{i}Should I go see Mrs. Stone?{/i}"
+    RT "{i}Dovrei andare a vedere la signora pietra?{/i}"
 
 # game/UpdateScript0.07.rpy:15037
 translate italian bad_polls_aftermath_01edd324:
 
     # RT "{i}Dammit!... Is she crying again?{/i}"
+    RT "{i}Dammit!... Sta piangendo di nuovo? {/i}"
 
 # game/UpdateScript0.07.rpy:15038
 translate italian bad_polls_aftermath_e77a309c_1:
 
     # RT "{i}I hope I can say something to cheer her up.{/i}"
+    RT "{i}Spero di poter dire qualcosa per allietarla.{/i}"
 
 # game/UpdateScript0.07.rpy:15039
 translate italian bad_polls_aftermath_77fc5a3d_1:
 
     # R "Hey, Lauren... Are you ok?"
+    R "Hey, Lauren... Sta bene?"
 
 # game/UpdateScript0.07.rpy:15042
 translate italian bad_polls_aftermath_74b4d8b3:
 
     # L "Oh, [ryan]... I can't believe I did so poorly again!"
+    L "Oh, [ryan]... non riesco a credere di aver fatto così male di nuovo!"
 
 # game/UpdateScript0.07.rpy:15043
 translate italian bad_polls_aftermath_302d05dc:
 
     # L "I felt so humiliated, I had to leave class before anyone could see me cry."
+    L "Mi sentivo così umiliato, ho dovuto lasciare la classe prima che qualcuno potesse vedermi piangere."
 
 # game/UpdateScript0.07.rpy:15046
 translate italian bad_polls_aftermath_affcd03a:
 
     # L "Why did I do so badly?"
+    L "Perché lo ho fatto così male?"
 
 # game/UpdateScript0.07.rpy:15049
 translate italian bad_polls_aftermath_9c254319:
 
     # L "Wait! I did everything I could to get votes this week."
+    L "Aspetta! Ho fatto tutto il possibile per ottenere i voti questa settimana."
 
 # game/UpdateScript0.07.rpy:15050
 translate italian bad_polls_aftermath_d0de5d0a:
 
     # L "But you!"
+    L "Ma tu!"
 
 # game/UpdateScript0.07.rpy:15051
 translate italian bad_polls_aftermath_57aa81cc:
 
     # L "Why didn't you do your part!?"
+    L "Perché non ha fatto la sua parte!?"
 
 # game/UpdateScript0.07.rpy:15054
 translate italian bad_polls_aftermath_d39e5764:
 
     # R "Lauren, I've got a lot of shit on my plate right now. I just didn't get much time to work on your campaign."
+    R "Lauren, ho molti merda sul piatto in questo momento. Non ho avuto molto tempo per lavorare sulla tua campagna."
 
 # game/UpdateScript0.07.rpy:15057
 translate italian bad_polls_aftermath_6e20a381:
 
     # L "Oh, so my shit isn't as important as Mom's shit... or Sidney's shit."
+    L "Oh, quindi la mia merda non è così importante quanto la merda della mamma... o la merda di Sidney."
 
 # game/UpdateScript0.07.rpy:15058
 translate italian bad_polls_aftermath_5ad35d92:
 
     # R "No, that's not what I'm saying."
+    R "No, non è quello che dico."
 
 # game/UpdateScript0.07.rpy:15059
 translate italian bad_polls_aftermath_155c2dc8:
 
     # L "Well, that's what it feels like to me."
+    L "Beh, questo è quello che mi sembra piace."
 
 # game/UpdateScript0.07.rpy:15060
 translate italian bad_polls_aftermath_13736541_1:
 
     # {b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15062
 translate italian bad_polls_aftermath_1c262ca5:
 
     # L "If I lose this election because you were too busy with other people's shit, I'm going to... well, I don't know... but you're not going to like it!"
+    L "Se perdo questa elezione perché eravate troppo impegnati con la merda degli altri, sto per farlo.. bene, io non lo so... ma non ti piacerà!"
 
 # game/UpdateScript0.07.rpy:15064
 translate italian bad_polls_aftermath_e6442c77:
 
     # R "As much as I wish I could give you all the money you need, I do have other expenses that had to be paid."
+    R "Per quanto vorrei potervi dare tutti i soldi di cui avete bisogno, ho altre spese che hanno dovuto essere pagate."
 
 # game/UpdateScript0.07.rpy:15067
 translate italian bad_polls_aftermath_b4dfc8a9:
 
     # L "Oh, you mean like Mom's Mafia debt, or more cosplay outfits from Sidney?"
+    L "Oh, intendi come il debito Mafia di mamma, o più abiti cosplay di Sidney?"
 
 # game/UpdateScript0.07.rpy:15068
 translate italian bad_polls_aftermath_5b67a972:
 
     # L "Their shit is more important to you than my shit?"
+    L "La loro merda è più importante per voi di mia merda?"
 
 # game/UpdateScript0.07.rpy:15069
 translate italian bad_polls_aftermath_5ad35d92_1:
 
     # R "No, that's not what I'm saying."
+    R "No, non è quello che dico."
 
 # game/UpdateScript0.07.rpy:15070
 translate italian bad_polls_aftermath_155c2dc8_1:
 
     # L "Well, that's what it feels like to me."
+    L "Beh, questo è quello che mi sembra piace."
 
 # game/UpdateScript0.07.rpy:15071
 translate italian bad_polls_aftermath_13736541_2:
 
     # {b}{i}\"Lauren's Anger +3\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +3\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15073
 translate italian bad_polls_aftermath_246ff479:
 
     # L "If I lose this election because you're wasting your money on other girls, even if they're family... I'm going to...well, I don't know... but you're not going to like it!"
+    L "Se perdo questa elezione perché stai sprecando i tuoi soldi su altre ragazze, anche se sono famigliari.. Sto andando a...beh, non lo so... ma non ti piacerà!"
 
 # game/UpdateScript0.07.rpy:15075
 translate italian bad_polls_aftermath_f4b1f8f5:
 
     # R "I don't have any excuses... I'm sorry, but I promise that I'm going to try harder this week."
+    R "Non ho scuse... mi dispiace, ma prometto che farò di più questa settimana."
 
 # game/UpdateScript0.07.rpy:15076
 translate italian bad_polls_aftermath_663db80f:
 
     # L "I hope so... That's easy for you to say, but I'll believe it when I see it..."
+    L "Lo spero così... È facile per voi dirlo, ma ci crederò quando lo vedremo..."
 
 # game/UpdateScript0.07.rpy:15077
 translate italian bad_polls_aftermath_46f8d9b2:
 
     # {b}{i}\"Lauren's Anger +1\"{/i}{/b}"
+    new "{b}{i}\"Lauren's Anger +1\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:15079
 translate italian bad_polls_aftermath_e5e7230a:
 
     # L "I'm working as hard as I possibly can, so if I lose this election because you didn't do your part, I'm going to... well, I don't know... but you're not going to like it!"
+    L "Sto lavorando il più duramente possibile, quindi se perdo questa elezione perché non avete fatto la vostra parte, sto andando a.. bene, non lo so... ma non ti piacerà!"
 
 # game/UpdateScript0.07.rpy:15080
 translate italian bad_polls_aftermath_80307217:
 
     # L "And I'm going to have lose my virginity to that arrogant jock asshole!"
+    L "E ho perso la mia verginità a quel cazzo arrogante!"
 
 # game/UpdateScript0.07.rpy:15081
 translate italian bad_polls_aftermath_f6b8c4db:
 
     # R "I don't need you to remind of the stakes, but don't forget that you got yourself into this situation!.. You never should have taken that bet!"
+    R "Non ho bisogno di ricordarvi la posta in gioco, ma non dimenticate che siete entrati in questa situazione!. Non avresti mai dovuto fare quella scommessa!"
 
 # game/UpdateScript0.07.rpy:15084
 translate italian bad_polls_aftermath_38fc375b:
 
     # L "I'm starting to see that... I guess I just thought you'd have my back is all."
+    L "Sto iniziando a vederlo... Suppongo che avrei appena pensato che avresti la schiena è tutto."
 
 # game/UpdateScript0.07.rpy:15085
 translate italian bad_polls_aftermath_b7158d3f:
 
     # R "No, please don't start crying again!"
+    R "No, per favore non cominciare a piangere di nuovo!"
 
 # game/UpdateScript0.07.rpy:15088
 translate italian bad_polls_aftermath_86648884:
 
     # L "I'm trying not to."
+    L "Sto provando a non fare."
 
 # game/UpdateScript0.07.rpy:15089
 translate italian bad_polls_aftermath_32c58a62:
 
     # L "I just really thought I'd have more of your support."
+    L "Ho pensato davvero che avrei avuto più del vostro sostegno."
 
 # game/UpdateScript0.07.rpy:15090
 translate italian bad_polls_aftermath_9a1626a1:
 
     # R "Ok... You've got it... What can I do right now to make things better?"
+    R "Ok... Ce l'hai... Cosa posso fare ora per migliorare le cose?"
 
 # game/UpdateScript0.07.rpy:15093
 translate italian bad_polls_aftermath_f1ca5b71:
 
     # L "Well, did you notice, or care, that Matt took down all my posters? He hung all of his posters in their place. Can you please, at the very least, go put my posters back up?"
+    L "Beh, hai notato o cura, che Matt ha preso tutti i miei manifesti? Ha appeso tutti i suoi manifesti al loro posto. Riesci per favore, almeno, vai a rimettere i miei manifesti?"
 
 # game/UpdateScript0.07.rpy:15094
 translate italian bad_polls_aftermath_a2bfc784:
 
     # R "I'll get right on that."
+    R "Ci andrò bene."
 
 # game/UpdateScript0.07.rpy:15095
 translate italian bad_polls_aftermath_0f801bb8:
 
     # L "Other than that, just come to the campaign headquarters each weekday in the afternoon and I'll make assignments to all the campaign team."
+    L "Oltre a ciò, ogni giorno della settimana nel pomeriggio arriverò nella sede della campagna e farò delle assegnazioni a tutta la squadra della campagna."
 
 # game/UpdateScript0.07.rpy:15096
 translate italian bad_polls_aftermath_59b64249:
 
     # R "Ok... I'll see you there."
+    R "Ok... Vi vedrò lì."
 
 # game/UpdateScript0.07.rpy:15099
 translate italian bad_polls_aftermath_2a567c06:
 
     # RT "{i}Shit!... I'd better get my act together. If I don't devote enough time and money to this campaign, Matt's going to take my sisters virginity instead of me.{/i}"
+    RT "{i}merda!... Farei meglio ad unire il mio atto. Se non dedico abbastanza tempo e denaro a questa campagna, Mattsta andando a prendere la verginità delle mie sorelle invece di me.{/i}"
 
 # game/UpdateScript0.07.rpy:15100
 translate italian bad_polls_aftermath_70aa68a3:
 
     # RT "{i}Ok... What do I need to do?{/i}"
+    RT "{i}Ok... Cosa devo fare? {/i}"
 
 # game/UpdateScript0.07.rpy:15101
 translate italian bad_polls_aftermath_384633d5:
 
     # RT "{i}I'd probably better take care of those posters as soon as possible.{/i}"
+    RT "{i}Probabilmente farei meglio a prendermi cura di quei manifesti il prima possibile.{/i}"
 
 # game/UpdateScript0.07.rpy:15102
 translate italian bad_polls_aftermath_1afc79a6:
 
     # RT "{i}I hope Mrs. Stone is in here office.{/i}"
+    RT "{i}Spero che la signora Stone sia qui in ufficio. {/i}"
 
 # game/UpdateScript0.07.rpy:15116
 translate italian htbyd_bj_81e78031:
 
     # R "Do you know what could make this time even more special?"
+    R "Sapete cosa potrebbe rendere questa volta ancora più speciale?"
 
 # game/UpdateScript0.07.rpy:15117
 translate italian htbyd_bj_a384ff5c:
 
     # L "Hmmm... Let me see."
+    L "Hmmm... Lasciami vedere."
 
 # game/UpdateScript0.07.rpy:15120
 translate italian htbyd_bj_771fe702:
 
     # L "Does it have anything to do with what's been poking me in the stomach?"
+    L "Ha qualcosa a che fare con quello che mi sta colpendo nello stomaco?"
 
 # game/UpdateScript0.07.rpy:15121
 translate italian htbyd_bj_2292fa26:
 
     # R "How did you guess?"
+    R "Come ha indovinato?"
 
 # game/UpdateScript0.07.rpy:15124
 translate italian htbyd_bj_eefe64b0:
 
     # L "You're not hoping for a blowjob are you?... I'm pretty sure I said I wasn't going to do that again."
+    L "Non stai sperando in un pompino sei tu?... sono abbastanza sicuro che ho detto che non avrei intenzione di farlo ancora."
 
 # game/UpdateScript0.07.rpy:15125
 translate italian htbyd_bj_79df412c:
 
     # R "Did you?... I don't remember that."
+    R "Lo hai fatto?... Non lo ricordo."
 
 # game/UpdateScript0.07.rpy:15126
 translate italian htbyd_bj_5acd3be8:
 
     # L "Yeah, I'm almost positive I did."
+    L "Sì, sono quasi positivo che l'abbia fatto."
 
 # game/UpdateScript0.07.rpy:15127
 translate italian htbyd_bj_343d08cb:
 
     # R "Well, what's one more time going to hurt?"
+    R "Beh, che cosa ancora una volta farà male?"
 
 # game/UpdateScript0.07.rpy:15130
 translate italian htbyd_bj_429894e2:
 
     # L "Hmmmm..."
+    L "Hmmmm..."
 
 # game/UpdateScript0.07.rpy:15131
 translate italian htbyd_bj_4bbf662c:
 
     # LT "{i}I really do enjoy sucking my brother's dick... Plus, it does give me more practice.{/i}"
+    LT "{i}Mi piace veramente succhiare il cazzo di mio fratello... Inoltre, mi dà più pratica.{/i}"
 
 # game/UpdateScript0.07.rpy:15134
 translate italian htbyd_bj_16f5be60:
 
     # L "Alright... But this is the last time."
+    L "Bene... Ma è l'ultima volta."
 
 # game/UpdateScript0.07.rpy:15135
 translate italian htbyd_bj_a265996a:
 
     # RT "{i}Uh huh.{/i}"
+    RT "{i}Uh huh.{/i}"
 
 # game/UpdateScript0.07.rpy:15138
 translate italian htbyd_bj_3196df2f:
 
     # L "I still can't believe you ever talked me into this in the first place."
+    L "Non riesco ancora a credere che tu mi abbia mai parlato di questo in primo luogo."
 
 # game/UpdateScript0.07.rpy:15139
 translate italian htbyd_bj_6543ea59:
 
     # R "Are you talking about how you groomed me to mess around with you?"
+    R "Sta parlando di come mi hai curato di mettermi in giro con te?"
 
 # game/UpdateScript0.07.rpy:15142
 translate italian htbyd_bj_9e037095:
 
     # L "Hahaha... Groomed... You're such a smartass"
+    L "Hahaha... Groomed... Sei un tale smartass"
 
 # game/UpdateScript0.07.rpy:15145
 translate italian htbyd_bj_55eb6c0c:
 
     # L "Now, let me have a taste of that gorgeous dick."
+    L "Ora, lasciatemi avere un assaggio di quel bel cazzo."
 
 # game/UpdateScript0.07.rpy:15149
 translate italian htbyd_bj_fe58fbaa:
 
     # LT "{i}Mmmm... pre-cum.{/i}"
+    LT "{i}Mmmm... pre-cum.{/i}"
 
 # game/UpdateScript0.07.rpy:15158
 translate italian htbyd_bj_38f03f29:
 
     # R "I know that our lives have been turned upside down since Dad was thrown in prison, but the one good thing to come out of it, was that I've really enjoyed getting closer to you."
+    R "So che le nostre vite sono state capovolte da quando papà è stato gettato in prigione, ma l'unica cosa buona da uscire, era che mi è piaciuto davvero avvicinarmi a te."
 
 # game/UpdateScript0.07.rpy:15159
 translate italian htbyd_bj_56b34cd7:
 
     # L "[ryan], that's so sweet."
+    L "[ryan], questo è così dolce."
 
 # game/UpdateScript0.07.rpy:15162
 translate italian htbyd_bj_b6871b7f:
 
     # L "Oh... my."
+    L "Oh... my."
 
 # game/UpdateScript0.07.rpy:15163
 translate italian htbyd_bj_5f129bf4:
 
     # L "You really are enjoying being closer to me."
+    L "Ti diverti davvero ad essere più vicino a me."
 
 # game/UpdateScript0.07.rpy:15164
 translate italian htbyd_bj_9d57f45a:
 
     # L "You're poking out of the top of your pants."
+    L "Stai uscendo dalla cima dei pantaloni."
 
 # game/UpdateScript0.07.rpy:15165
 translate italian htbyd_bj_8edee11e:
 
     # L "Do you want me to grind on it a little?"
+    L "Volete che mi macchi un po'?"
 
 # game/UpdateScript0.07.rpy:15166
 translate italian htbyd_bj_9821a50d:
 
     # R "Actually... I was hoping you could give me the same kind of treatment you gave me in the lounge."
+    R "In realtà... speravo che potessi darmi lo stesso tipo di trattamento che mi hai dato in sala."
 
 # game/UpdateScript0.07.rpy:15170
 translate italian htbyd_bj_811f7736:
 
     # L "You want to fuck me in this dirty warehouse?"
+    L "Vuoi scoparmi in questo magazzino sporco?"
 
 # game/UpdateScript0.07.rpy:15171
 translate italian htbyd_bj_758903ae:
 
     # RT "Well, eventually... but I meant the other thing we did."
+    RT "Beh, alla fine... ma io intendevo l'altra cosa che abbiamo fatto."
 
 # game/UpdateScript0.07.rpy:15174
 translate italian htbyd_bj_dfa33c38:
 
     # L "You want me to suck your dick?"
+    L "Vuoi che succhi il tuo cazzo?"
 
 # game/UpdateScript0.07.rpy:15175
 translate italian htbyd_bj_9a014334:
 
     # R "Well, yeah... I mean, it's not like you haven't done it before."
+    R "Beh, sì... Voglio dire, non è come non l'hai fatto prima."
 
 # game/UpdateScript0.07.rpy:15176
 translate italian htbyd_bj_0d2ab3ae:
 
     # L "Yeah... but it was in the heat of the moment... The show really made me excited."
+    L "Sì... ma era nel calore del momento... Lo spettacolo mi ha davvero emozionato."
 
 # game/UpdateScript0.07.rpy:15177
 translate italian htbyd_bj_b8126a7f:
 
     # L "I told you we can't keep doing that."
+    L "Vi ho detto che non possiamo continuare a farlo."
 
 # game/UpdateScript0.07.rpy:15178
 translate italian htbyd_bj_4727b734:
 
     # R "You know you're pressing your naked body against me... Now, I'm the one who's really excited."
+    R "Sai che stai premendo il tuo corpo nudo contro di me... Ora, sono quello che è davvero emozionato."
 
 # game/UpdateScript0.07.rpy:15181
 translate italian htbyd_bj_429894e2_1:
 
     # L "Hmmmm..."
+    L "Hmmmm..."
 
 # game/UpdateScript0.07.rpy:15182
 translate italian htbyd_bj_1157eefb:
 
     # LT "{i}It's not like I didn't enjoy sucking my brother's dick... And it does give me more practice for when I do it with somebody else.{/i}"
+    LT "{i}Non è come se non mi piacesse succhiare il cazzo di mio fratello.. E mi dà più pratica per quando lo faccio con qualcun altro.{/i}"
 
 # game/UpdateScript0.07.rpy:15185
 translate italian htbyd_bj_df2e3a95:
 
     # L "Alright... But just this once."
+    L "Bene... Ma solo una volta."
 
 # game/UpdateScript0.07.rpy:15186
 translate italian htbyd_bj_7760b601:
 
     # RT "{i}We'll see about that.{/i}"
+    RT "{i}Vedremo a riguardo. {/i}"
 
 # game/UpdateScript0.07.rpy:15189
 translate italian htbyd_bj_3196df2f_1:
 
     # L "I still can't believe you ever talked me into this in the first place."
+    L "Non riesco ancora a credere che tu mi abbia mai parlato di questo in primo luogo."
 
 # game/UpdateScript0.07.rpy:15190
 translate italian htbyd_bj_751b08ed:
 
     # R "Talked you into it?... It was pretty much all your idea."
+    R "Ti ha parlato in esso?... È stata praticamente tutta la tua idea."
 
 # game/UpdateScript0.07.rpy:15193
 translate italian htbyd_bj_0130e362:
 
     # L "Hmmm... That's not how I remember it... I guess maybe we were both influenced by the plot line of \"Game of Thots\""
+    L "Hmmm... Non è così che lo ricordo... Immagino che siamo stati entrambi influenzati dalla linea di trama di \"Game of Thots\""
 
 # game/UpdateScript0.07.rpy:15194
 translate italian htbyd_bj_c5abd48c:
 
     # L "The writers did a really good job of making incest seem okay, if both people love each other and are into it."
+    L "Gli scrittori hanno fatto un ottimo lavoro di fare l'incesto sembrano bene, se entrambe le persone si amano e sono in esso."
 
 # game/UpdateScript0.07.rpy:15195
 translate italian htbyd_bj_922d3d7c:
 
     # R "They're not wrong. Who does it hurt of both of us want to fool around a little bit?"
+    R "Non si sbagliano. Chi fa male a entrambi noi vuole ingannare un po'?"
 
 # game/UpdateScript0.07.rpy:15198
 translate italian htbyd_bj_38ca2c8c:
 
     # L "Not a goddammed soul."
+    L "Non un'anima dea."
 
 # game/UpdateScript0.07.rpy:15199
 translate italian htbyd_bj_849707ec:
 
     # L "Now, let me have a taste of that huge dick."
+    L "Ora, lasciami avere un assaggio di quel cazzo enorme."
 
 # game/UpdateScript0.07.rpy:15203
 translate italian htbyd_bj_bd8c654f:
 
     # LT "{i}Oh, yeah... I love the taste of that salty pre-cum.{/i}"
+    LT "{i}Oh, sì... Amo il gusto di quel pre-cum.{/i} salato"
 
 # game/UpdateScript0.07.rpy:15215
 translate italian htbyd_deep_fc0ae5dd:
 
     # LT "{i}I can't believe I can take my brother's whole cock down my throat!{/i}"
+    LT "{i}Non posso credere di poter portare tutto il cazzo di mio fratello in gola!{/i}"
 
 # game/UpdateScript0.07.rpy:15216
 translate italian htbyd_deep_74505e89:
 
     # LT "{i}I'm getting so good at this!{/i}"
+    LT "{i}Sono così bravo in questo!{/i}"
 
 # game/UpdateScript0.07.rpy:15219
 translate italian htbyd_deep_3c9823eb:
 
     # RT "{i}Oh, God!... How did she get so good so quickly?{/i}"
+    RT "{i}Oh, Dio!... Come è andata così bene così rapidamente?{/i}"
 
 # game/UpdateScript0.07.rpy:15220
 translate italian htbyd_deep_0b38b6d2:
 
     # RT "{i}My cock is so far down my sister's throat!{/i}"
+    RT "{i}Il mio cazzo è fino in fondo alla gola di mia sorella!{/i}"
 
 # game/UpdateScript0.07.rpy:15221
 translate italian htbyd_deep_5962e834:
 
     # RT "{i}I'm not going to last much longer.{/i}"
+    RT "{i}Non durerò molto di più.{/i}"
 
 # game/UpdateScript0.07.rpy:15242
 translate italian htbyd_cum_11005669:
 
     # R "Oh, fuck yeah!... I'm gonna cum!"
+    R "Oh, cazzo sì!... Sto andando a cum!"
 
 # game/UpdateScript0.07.rpy:15243
 translate italian htbyd_cum_486fba9a:
 
     # L "MMMmmmmppphhh!"
+    L "MMMmmmmppphhh!"
 
 # game/UpdateScript0.07.rpy:15275
 translate italian htbyd_cum_2970af22:
@@ -36648,26 +39630,31 @@ translate italian htbyd_cum_2970af22:
 translate italian htbyd_cum_af45153c:
 
     # L "I almost had it that time!"
+    L "L'ho quasi avuto quella volta!"
 
 # game/UpdateScript0.07.rpy:15277
 translate italian htbyd_cum_bd0b0637:
 
     # L "I wonder if I'm running out of room in my stomach."
+    L "Mi chiedo se sto esaurendo la stanza nello stomaco."
 
 # game/UpdateScript0.07.rpy:15278
 translate italian htbyd_cum_838e3ebb:
 
     # L "I can skip lunch again."
+    L "Posso saltare il pranzo di nuovo."
 
 # game/UpdateScript0.07.rpy:15279
 translate italian htbyd_cum_7f7d5c42:
 
     # R "Would you stop!... If you turn me on again, we'll have to go another round."
+    R "Ti fermerai!... Se mi accendi di nuovo, dovremo andare un altro round."
 
 # game/UpdateScript0.07.rpy:15280
 translate italian htbyd_cum_562218c6:
 
     # L "Haha... that does sound tempting."
+    L "Haha... che suona allettante."
 
 # game/UpdateScript0.07.rpy:15281
 translate italian htbyd_cum_657dc9c8:
@@ -36679,11 +39666,13 @@ translate italian htbyd_cum_657dc9c8:
 translate italian htbyd_cum_555b9634:
 
     # L "But I don't think I have time, or room in my stomach, for another round. I'd better get back to school."
+    L "Ma non penso di avere tempo, o stanza nello stomaco, per un altro turno. Farei meglio a tornare a scuola."
 
 # game/UpdateScript0.07.rpy:15284
 translate italian htbyd_cum_8a31f80a:
 
     # L "Thanks for lunch... I'm gonna go get dressed. I'll see you at home."
+    L "Grazie per il pranzo... andrò vestito. Ti vedrò a casa."
 
 # game/UpdateScript0.07.rpy:15291
 translate italian htbyd_cum_2970af22_1:
@@ -36695,36 +39684,43 @@ translate italian htbyd_cum_2970af22_1:
 translate italian htbyd_cum_9bdf0eae:
 
     # L "Were you trying to drown me?"
+    L "Stavate provando ad annegarmi?"
 
 # game/UpdateScript0.07.rpy:15293
 translate italian htbyd_cum_8bcbb461:
 
     # R "Sorry, I couldn't help myself."
+    R "Mi dispiace, non sono riuscito ad aiutarmi."
 
 # game/UpdateScript0.07.rpy:15294
 translate italian htbyd_cum_1c374037:
 
     # L "I know. I'm getting better though."
+    L "Lo so. Sto migliorando comunque."
 
 # game/UpdateScript0.07.rpy:15295
 translate italian htbyd_cum_262ae918:
 
     # L "I really thought I'd be able to swallow it all."
+    L "Pensavo davvero di essere in grado di ingoiare tutto."
 
 # game/UpdateScript0.07.rpy:15296
 translate italian htbyd_cum_c9648be2:
 
     # L "On the bright side, I won't be needing any lunch today."
+    L "Dal lato luminoso, non ho bisogno di un pranzo oggi."
 
 # game/UpdateScript0.07.rpy:15297
 translate italian htbyd_cum_c856d7d2:
 
     # R "Wow! I can't believe you swallowed all of that... It really turns me on for some reason."
+    R "Wow! Non posso credere che tu abbia inghiottito tutto questo... Mi accende davvero per qualche ragione."
 
 # game/UpdateScript0.07.rpy:15298
 translate italian htbyd_cum_2a331105:
 
     # L "Haha... me too."
+    L "Haha... anche io."
 
 # game/UpdateScript0.07.rpy:15299
 translate italian htbyd_cum_657dc9c8_1:
@@ -36736,6 +39732,7 @@ translate italian htbyd_cum_657dc9c8_1:
 translate italian htbyd_cum_8a31f80a_1:
 
     # L "Thanks for lunch... I'm gonna go get dressed. I'll see you at home."
+    L "Grazie per il pranzo... andrò vestito. Ti vedrò a casa."
 
 # game/UpdateScript0.07.rpy:15323
 translate italian htbyd_cum_2970af22_2:
@@ -36747,31 +39744,37 @@ translate italian htbyd_cum_2970af22_2:
 translate italian htbyd_cum_6dd82427:
 
     # L "You bukkaked me again!"
+    L "Tu mi sei nuovamente bukkaked!"
 
 # game/UpdateScript0.07.rpy:15325
 translate italian htbyd_cum_8beec53d:
 
     # R "Sorry, I thought you wanted another skin treatment."
+    R "Mi dispiace, pensavo che volessi un altro trattamento della pelle."
 
 # game/UpdateScript0.07.rpy:15326
 translate italian htbyd_cum_a8e58632:
 
     # L "I have been getting compliments on my glowing complexion."
+    L "Ho ricevuto i complimenti per la mia carnagione incandescente."
 
 # game/UpdateScript0.07.rpy:15327
 translate italian htbyd_cum_c750a83b:
 
     # R "I'd say it looks more like you're melting."
+    R "Direi che sembra di più che ti stai sciogliendo."
 
 # game/UpdateScript0.07.rpy:15328
 translate italian htbyd_cum_e13cb4b1:
 
     # L "Haha... You smartass!"
+    L "Haha... Sei più intelligente!"
 
 # game/UpdateScript0.07.rpy:15329
 translate italian htbyd_cum_3df0df7f:
 
     # LT "{i}[ryan]'s cum all over my face really turns me on.{/i}"
+    LT "{i}[ryan] di sperma su tutto il mio viso mi spinge davvero.{/i}"
 
 # game/UpdateScript0.07.rpy:15330
 translate italian htbyd_cum_657dc9c8_2:
@@ -36783,6 +39786,7 @@ translate italian htbyd_cum_657dc9c8_2:
 translate italian htbyd_cum_0dc36566:
 
     # L "I'm gonna run and clean up and get dressed. I'll see you at home."
+    L "Sto per correre e ripulire e vestirmi. Ti vedrò a casa."
 
 # game/UpdateScript0.07.rpy:15339
 translate italian htbyd_cum_2970af22_3:
@@ -36794,56 +39798,67 @@ translate italian htbyd_cum_2970af22_3:
 translate italian htbyd_cum_cb4cec52:
 
     # L "I feel like I've been in a bukkake!"
+    L "Mi sento come se fossi stato in un bukkake!"
 
 # game/UpdateScript0.07.rpy:15341
 translate italian htbyd_cum_170be32c:
 
     # R "How do you even know what that is?"
+    R "Come fai a sapere che cos'è questo?"
 
 # game/UpdateScript0.07.rpy:15342
 translate italian htbyd_cum_665737bb:
 
     # L "Please... I learned all that stuff in the back of the bus in elementary school."
+    L "Per favore... ho imparato tutte quelle cose nella parte posteriore dell'autobus nella scuola elementare."
 
 # game/UpdateScript0.07.rpy:15343
 translate italian htbyd_cum_e424981f:
 
     # R "Well, you look like you've been in a bukkake."
+    R "Beh, sembri che tu sia stato in un bukkake."
 
 # game/UpdateScript0.07.rpy:15344
 translate italian htbyd_cum_55792602:
 
     # L "How is it possible that all that cum fits in those little testicles of yours?"
+    L "Come è possibile che tutto quello che sperma si inserisca in quei vostri piccoli testicoli?"
 
 # game/UpdateScript0.07.rpy:15345
 translate italian htbyd_cum_22ee0370:
 
     # R "They're not little."
+    R "Non sono piccole."
 
 # game/UpdateScript0.07.rpy:15346
 translate italian htbyd_cum_e6ea8423:
 
     # L "No, but compared to how much cum comes out of them, they are."
+    L "No, ma rispetto a quanta sperma viene fuori di loro, sono."
 
 # game/UpdateScript0.07.rpy:15347
 translate italian htbyd_cum_fb012d3c:
 
     # L "Well, at least cum is good for the skin."
+    L "Beh, almeno lo sperma è buono per la pelle."
 
 # game/UpdateScript0.07.rpy:15348
 translate italian htbyd_cum_a88a6cbf:
 
     # R "Yeah, I've heard that. You should leave your cum mask on the rest of the day to get the full benefit."
+    R "Sì, l'ho sentito. Dovresti lasciare la tua maschera di sperma nel resto della giornata per ottenere il massimo beneficio."
 
 # game/UpdateScript0.07.rpy:15349
 translate italian htbyd_cum_1b5207a0:
 
     # L "You really are such a smartass!"
+    L "Sei davvero un tale intelligente!"
 
 # game/UpdateScript0.07.rpy:15350
 translate italian htbyd_cum_11acaabd:
 
     # LT "{i}I love the idea of leaving my brother's cum all over my face... It really turns me on!... Too bad it isn't practical.{/i}"
+    LT "{i}Adoro l'idea di lasciare lo sperma di mio fratello in tutto il mio volto... Mi accende davvero!... Peccato che non sia pratico.{/i}"
 
 # game/UpdateScript0.07.rpy:15351
 translate italian htbyd_cum_657dc9c8_3:
@@ -36855,91 +39870,109 @@ translate italian htbyd_cum_657dc9c8_3:
 translate italian htbyd_cum_0dc36566_1:
 
     # L "I'm gonna run and clean up and get dressed. I'll see you at home."
+    L "Sto per correre e ripulire e vestirmi. Ti vedrò a casa."
 
 # game/UpdateScript0.07.rpy:15366
 translate italian htbyd_fuck_bb513eee:
 
     # R "It's my pleasure... And I'm really grateful to you for doing your part to help our family make enough money to survive."
+    R "È il mio piacere... e ti sono davvero grato per aver fatto la tua parte per aiutare la nostra famiglia a fare abbastanza soldi per sopravvivere."
 
 # game/UpdateScript0.07.rpy:15367
 translate italian htbyd_fuck_601671dc:
 
     # L "Don't mention it."
+    L "Non citarlo."
 
 # game/UpdateScript0.07.rpy:15370
 translate italian htbyd_fuck_a3c0a509:
 
     # L "I've noticed you've got your traditional after-photoshoot boner."
+    L "Ho notato che hai la tua tradizionale erezione dopo-fotoscita."
 
 # game/UpdateScript0.07.rpy:15371
 translate italian htbyd_fuck_759c6805:
 
     # R "Haha... Always!"
+    R "Hah... Sempre!"
 
 # game/UpdateScript0.07.rpy:15374
 translate italian htbyd_fuck_f7d67cb2:
 
     # L "I'm guessing you want to mess around a bit?"
+    L "Sto indovinando che si vuole pasticciare intorno a un po'?"
 
 # game/UpdateScript0.07.rpy:15375
 translate italian htbyd_fuck_3f9fefb7:
 
     # R "That depends... Is Matt coming to pick you up again?"
+    R "Dipende... Matt sta venendo a prendervi di nuovo?"
 
 # game/UpdateScript0.07.rpy:15376
 translate italian htbyd_fuck_161d89a2:
 
     # L "Yeah, but not right away. We've got a little time."
+    L "Sì, ma non subito. Abbiamo un po’ di tempo."
 
 # game/UpdateScript0.07.rpy:15377
 translate italian htbyd_fuck_18536968:
 
     # R "I don't know..."
+    R "Non so..."
 
 # game/UpdateScript0.07.rpy:15378
 translate italian htbyd_fuck_3028b436:
 
     # L "Come on... You know you want to."
+    L "Avanti... Sai che vuoi tu."
 
 # game/UpdateScript0.07.rpy:15381
 translate italian htbyd_fuck_28c642fe:
 
     # L "See? Your dick can't tell a lie."
+    L "Vedi? Il tuo cazzo non riesce a mentire."
 
 # game/UpdateScript0.07.rpy:15382
 translate italian htbyd_fuck_e543d473:
 
     # R "Of course I want to mess around, I just don't like being the other guy."
+    R "Certo che voglio arrabbiarmi in giro, non mi piace semplicemente essere l'altro tipo."
 
 # game/UpdateScript0.07.rpy:15385
 translate italian htbyd_fuck_58b4c372:
 
     # L "And who's fault is that?"
+    L "E chi è colpa di questo?"
 
 # game/UpdateScript0.07.rpy:15386
 translate italian htbyd_fuck_abb2d07f:
 
     # R "Aren't you ever going to forgive me?"
+    R "Non mi perdonerete?"
 
 # game/UpdateScript0.07.rpy:15387
 translate italian htbyd_fuck_aa23ff62:
 
     # L "Oh, I've already forgiven you, but I'm not going to forget."
+    L "Oh, ti ho già perdonato, ma non dimenticherò."
 
 # game/UpdateScript0.07.rpy:15388
 translate italian htbyd_fuck_1b5505b2:
 
     # L "Now, do you want a blowjob or not?"
+    L "Ora vuoi un pompino o no?"
 
 # game/UpdateScript0.07.rpy:15389
 translate italian htbyd_fuck_d964f763:
 
     # R "Can't we just skip it and go right to fucking?"
+    R "Non possiamo semplicemente saltare e andare proprio a scopare?"
 
 # game/UpdateScript0.07.rpy:15390
 translate italian htbyd_fuck_71c4adae:
 
     # L "I'm not wet enough yet... I need some foreplay."
+    L "Non sono ancora abbastanza bagnato... ho bisogno di qualche preliminare."
 
 # game/UpdateScript0.07.rpy:15391
 translate italian htbyd_fuck_ce13a1a8:
@@ -36951,31 +39984,37 @@ translate italian htbyd_fuck_ce13a1a8:
 translate italian htbyd_fuck_f44ab2d8:
 
     # RT "{i}God!... This feels good!{/i}"
+    RT "{i}Dio!... Questo si sente bene! {/i}"
 
 # game/UpdateScript0.07.rpy:15399
 translate italian htbyd_fuck_90386e25:
 
     # R "Oh my God, Lauren... You're getting so good at deepthroating!"
+    R "Oh mio Dio, Lauren... Stai diventando così bravo a gola profonda!"
 
 # game/UpdateScript0.07.rpy:15400
 translate italian htbyd_fuck_84a48e66:
 
     # LT "{i}I know!... I totally am!.{/i}"
+    LT "{i}Lo so!... Sono totalmente io!.{/i}"
 
 # game/UpdateScript0.07.rpy:15404
 translate italian htbyd_fuck_b8997414:
 
     # L "Well... Are you enjoying yourself?"
+    L "Beh... Ti stai divertendo?"
 
 # game/UpdateScript0.07.rpy:15405
 translate italian htbyd_fuck_d9e2f3c2:
 
     # R "Oh, God... Why did you stop?"
+    R "Oh, Dio... Perché vi siete fermati?"
 
 # game/UpdateScript0.07.rpy:15406
 translate italian htbyd_fuck_8b67c061:
 
     # L "To let you know I'm ready for something else."
+    L "Per farvi sapere che sono pronto per qualcos'altro."
 
 # game/UpdateScript0.07.rpy:15407
 translate italian htbyd_fuck_f6b51e87:
@@ -36987,11 +40026,13 @@ translate italian htbyd_fuck_f6b51e87:
 translate italian htbyd_fuck_bd9b9908:
 
     # L "Oh wait, look!... Matt's here again!"
+    L "Oh aspetta, guarda!... Mattè qui di nuovo!"
 
 # game/UpdateScript0.07.rpy:15413
 translate italian htbyd_fuck_4583ae83:
 
     # R "Are you doing this to me on purpose?"
+    R "Sta facendo questo per me di proposito?"
 
 # game/UpdateScript0.07.rpy:15414
 translate italian htbyd_fuck_ba01d206:
@@ -37003,56 +40044,67 @@ translate italian htbyd_fuck_ba01d206:
 translate italian htbyd_fuck_ae74d4b0:
 
     # L "Don't mind [ryan], He just thought he was going to get more."
+    L "Non importate [ryan], Pensava solo che avrebbe ottenuto di più."
 
 # game/UpdateScript0.07.rpy:15416
 translate italian htbyd_fuck_91e51aa5:
 
     # MB "Oh, I see... Sorry, man... But we've got to hurry. Your mom's class is starting soon."
+    MB "Oh, vedo... Mi dispiace, uomo... Ma dobbiamo sbrigarci. La classe di tua mamma sta cominciando presto."
 
 # game/UpdateScript0.07.rpy:15419
 translate italian htbyd_fuck_570bdbff:
 
     # L "That was so sweet of you to come pick me up!"
+    L "È stato così dolce da venire a prendermi!"
 
 # game/UpdateScript0.07.rpy:15420
 translate italian htbyd_fuck_77f67d7e:
 
     # MB "Yeah, anytime... It's a great way to take my mind off school for a minute."
+    MB "Sì, in qualsiasi momento... E 'un ottimo modo per prendere la mia mente fuori scuola per un minuto."
 
 # game/UpdateScript0.07.rpy:15421
 translate italian htbyd_fuck_b68973b1:
 
     # L "I'll take your mind off school... Let's just get those tight jeans off you."
+    L "Ti prenderò la mente dalla scuola... Prendiamo quei jeans stretti da te."
 
 # game/UpdateScript0.07.rpy:15426
 translate italian htbyd_fuck_303c4560:
 
     # L "Damn... That's a big dick!"
+    L "Dannazione... È un grande cazzo!"
 
 # game/UpdateScript0.07.rpy:15427
 translate italian htbyd_fuck_f8f859fc:
 
     # L "I think [ryan]'s made me wet enough to take it."
+    L "Penso che [ryan] mi abbia reso abbastanza bagnato da prenderlo."
 
 # game/UpdateScript0.07.rpy:15428
 translate italian htbyd_fuck_ff9eac28:
 
     # L "I think I'm finally getting used to it's size."
+    L "Penso che mi stia finalmente abituando alle sue dimensioni."
 
 # game/UpdateScript0.07.rpy:15429
 translate italian htbyd_fuck_29d15aa0:
 
     # R "Don't mind me... I'll just be... cleaning up."
+    R "Non mi dispiace... io sarò solo... pulizia."
 
 # game/UpdateScript0.07.rpy:15434
 translate italian htbyd_fuck_a6857159:
 
     # RT "{i}Alright [ryan]... Use some willpower. Don't watch them this time!{/i}"
+    RT "{i}Alright [ryan]... Usa una certa forza di volontà. Non guardali questa volta!{/i}"
 
 # game/UpdateScript0.07.rpy:15436
 translate italian htbyd_fuck_d7dd2076:
 
     # RT "{i}Goddammit... Why do they always have to be so loud?{/i}"
+    RT "{i}Goddammit... Perché devono essere sempre così forti?{/i}"
 
 # game/UpdateScript0.07.rpy:15437
 translate italian htbyd_fuck_17e3aae0:
@@ -37064,71 +40116,85 @@ translate italian htbyd_fuck_17e3aae0:
 translate italian htbyd_fuck_e74bbbca:
 
     # RT "{i}I can't help myself... I've got to look.{/i}"
+    RT "{i}Non posso aiutarmi da solo... devo guardare.{/i}"
 
 # game/UpdateScript0.07.rpy:15445
 translate italian htbyd_fuck_202d4afd:
 
     # LT "{i}[ryan]'s not watching... Maybe if I start moaning loud again, he'll look over.{/i}"
+    LT "{i}[ryan] non sta guardando... Forse se comincio a gemere ad alta voce, lui guarderà oltre.{/i}"
 
 # game/UpdateScript0.07.rpy:15449
 translate italian htbyd_fuck_353df5b3:
 
     # LT "{i}Haha... That did it!{/i}"
+    LT "{i}Haha... Questo è fatto!{/i}"
 
 # game/UpdateScript0.07.rpy:15450
 translate italian htbyd_fuck_f2bbd145:
 
     # LT "{i}Why does it turn me on so much to have my brother watch me get pounded like this?{/i}"
+    LT "{i}Perché mi accende così tanto per far vedere a mio fratello di farmi scoppiare così? {/i}"
 
 # game/UpdateScript0.07.rpy:15453
 translate italian htbyd_fuck_43f76b1d:
 
     # RT "{i}Damn!... I wish I could fuck Lauren like that!{/i}"
+    RT "{i}Dannazione!... Vorrei riuscire a scopare Lauren così!{/i}"
 
 # game/UpdateScript0.07.rpy:15454
 translate italian htbyd_fuck_de92f70c:
 
     # RT "{i}There's that confusing feeling again... rage mixed with pleasure.{/i}"
+    RT "{i}C'è quella sensazione confusa di nuovo... rabbia mescolata con piacere.{/i}"
 
 # game/UpdateScript0.07.rpy:15458
 translate italian htbyd_fuck_ba7a07f0:
 
     # RT "{i}Damnit!... I hate this!{/i}"
+    RT "{i}Danni!... Odio questo!{/i}"
 
 # game/UpdateScript0.07.rpy:15459
 translate italian htbyd_fuck_f9220510:
 
     # RT "{i}I should be fucking her!{/i}"
+    RT "{i}La dovrei scopare!{/i}"
 
 # game/UpdateScript0.07.rpy:15463
 translate italian htbyd_fuck_d13456f3:
 
     # LT "{i}MMMmmm... [ryan] can't stop watching me!{/i}"
+    LT "{i}MMMmmm... [ryan] non può smettere di guardarmi!{/i}"
 
 # game/UpdateScript0.07.rpy:15464
 translate italian htbyd_fuck_b0759447:
 
     # LT "{i}He's probably wishing he was the one fucking me right now!{/i}"
+    LT "{i}Sta probabilmente desiderando di essere stato quello che mi scopa adesso!{/i}"
 
 # game/UpdateScript0.07.rpy:15465
 translate italian htbyd_fuck_bbd8490c:
 
     # LT "{i}Oh, God!... I wish he were too.{/i}"
+    LT "{i}Oh, Dio!... Vorrei che fosse anche.{/i}"
 
 # game/UpdateScript0.07.rpy:15466
 translate italian htbyd_fuck_d26b6e92:
 
     # LT "{i}What if it were his dick inside me right now?{/i}"
+    LT "{i}E se fosse il suo cazzo dentro di me in questo momento?{/i}"
 
 # game/UpdateScript0.07.rpy:15467
 translate italian htbyd_fuck_0d8b9a79:
 
     # L "Oh, God!... Oh, God!... Oh, God!"
+    L "Oh, Dio!... Oh, Dio!... Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:15473
 translate italian htbyd_fuck_a603e8bd:
 
     # L "Ffuuuuucckk!!"
+    L "Cazooooo!!"
 
 # game/UpdateScript0.07.rpy:15474
 translate italian htbyd_fuck_a314db81:
@@ -37140,31 +40206,37 @@ translate italian htbyd_fuck_a314db81:
 translate italian htbyd_fuck_222f51ba:
 
     # L "Keep fucking me!... I need more!"
+    L "Continuate a scoparmi!... ho bisogno di più!"
 
 # game/UpdateScript0.07.rpy:15479
 translate italian htbyd_fuck_a3e215ba:
 
     # MB "Lauren, I'm gonna cum!"
+    MB "Lauren, sto andando cum!"
 
 # game/UpdateScript0.07.rpy:15480
 translate italian htbyd_fuck_bd9f24d3:
 
     # L "Just cum inside!"
+    L "Basta cum dentro!"
 
 # game/UpdateScript0.07.rpy:15481
 translate italian htbyd_fuck_114cc8ed:
 
     # L "I want to feel your cum inside me!"
+    L "Voglio sentire il vostro sperma dentro di me!"
 
 # game/UpdateScript0.07.rpy:15482
 translate italian htbyd_fuck_cab95936:
 
     # R "Wait!... Not again!"
+    R "Attendere!... Non ancora!"
 
 # game/UpdateScript0.07.rpy:15486
 translate italian htbyd_fuck_f718ab1d:
 
     # MB "Aaaahhh...."
+    MB "Aaaahhh...."
 
 # game/UpdateScript0.07.rpy:15487
 translate italian htbyd_fuck_1c9e068c:
@@ -37182,11 +40254,13 @@ translate italian htbyd_fuck_d640daf7:
 translate italian htbyd_fuck_964818c3:
 
     # L "Wow, Matt!... Good as always!"
+    L "Wow, Matt!... Buono come sempre!"
 
 # game/UpdateScript0.07.rpy:15498
 translate italian htbyd_fuck_e68fd838:
 
     # L "Can't wait to sit through my mom's next class again, knowing your cum is just simmering in my womb and dripping out into my panties."
+    L "Non vedo l'ora di sedersi di nuovo nella prossima classe di mia mamma, sapendo che il vostro sperma sta semplicemente cuocendo nel mio grembo e gocciolando fuori nelle mie mutandine."
 
 # game/UpdateScript0.07.rpy:15499
 translate italian htbyd_fuck_657dc9c8:
@@ -37198,236 +40272,283 @@ translate italian htbyd_fuck_657dc9c8:
 translate italian htbyd_fuck_09589f47:
 
     # R "Good God, Lauren!... Do I have to hear about this again?"
+    R "Buon Dio, Lauren!... Devo sentirlo di nuovo?"
 
 # game/UpdateScript0.07.rpy:15504
 translate italian htbyd_fuck_d7e939ed:
 
     # L "Just mind your own business, stop eavesdropping."
+    L "Ricordati il tuo business, smetta di intercettare."
 
 # game/UpdateScript0.07.rpy:15505
 translate italian htbyd_fuck_dd77b7ae:
 
     # MB "Lauren, you'd better get ready fast, or else we're going to be late for your mom's next class."
+    MB "Lauren, faresti meglio a prepararti velocemente, altrimenti saremo in ritardo per la prossima lezione di tua mamma."
 
 # game/UpdateScript0.07.rpy:15506
 translate italian htbyd_fuck_ee5529cc:
 
     # L "I'm coming."
+    L "Sto venendo."
 
 # game/UpdateScript0.07.rpy:15509
 translate italian htbyd_fuck_d92702db:
 
     # RT "{i}Oh, sure... Don't bother helping. I'll just clean up all of this by myself.{/i}"
+    RT "{i}Oh, sicuro... Non preoccuparti di aiutare. Io ripulirò tutto questo da solo.{/i}"
 
 # game/UpdateScript0.07.rpy:15510
 translate italian htbyd_fuck_d54d1aa3:
 
     # RT "{i}Fuck!... There's sex juices all over the green screen again.{/i}"
+    RT "{i}Fuck!... Di nuovo ci sono succhi di sesso su tutto lo schermo verde.{/i}"
 
 # game/UpdateScript0.07.rpy:15511
 translate italian htbyd_fuck_4c18469d:
 
     # RT "{i}I'd better get that up before it stains.{/i}"
+    RT "{i}Farei meglio ad alzarlo prima che si macchi.{/i}"
 
 # game/UpdateScript0.07.rpy:15517
 translate italian htbyd_fuck_bb513eee_1:
 
     # R "It's my pleasure... And I'm really grateful to you for doing your part to help our family make enough money to survive."
+    R "È il mio piacere... e ti sono davvero grato per aver fatto la tua parte per aiutare la nostra famiglia a fare abbastanza soldi per sopravvivere."
 
 # game/UpdateScript0.07.rpy:15518
 translate italian htbyd_fuck_601671dc_1:
 
     # L "Don't mention it."
+    L "Non citarlo."
 
 # game/UpdateScript0.07.rpy:15521
 translate italian htbyd_fuck_a3c0a509_1:
 
     # L "I've noticed you've got your traditional after-photoshoot boner."
+    L "Ho notato che hai la tua tradizionale erezione dopo-fotoscita."
 
 # game/UpdateScript0.07.rpy:15522
 translate italian htbyd_fuck_85708c6d:
 
     # R "Haha... How could I not, after taking those kinds of pictures of one of the sexiest girl I've ever seen."
+    R "Haha... Come potrei no, dopo aver preso quei tipi di foto di una della ragazza più sexy che abbia mai visto."
 
 # game/UpdateScript0.07.rpy:15525
 translate italian htbyd_fuck_cbcefcef:
 
     # L "[ryan]... You're not supposed to call your sister sexy."
+    L "[ryan]... Non dovresti chiamare tua sorella sexy."
 
 # game/UpdateScript0.07.rpy:15526
 translate italian htbyd_fuck_19d44212:
 
     # R "You know I can't help it."
+    R "Sai che non posso aiutarlo."
 
 # game/UpdateScript0.07.rpy:15527
 translate italian htbyd_fuck_8741d32c:
 
     # L "Hmmm... It's too bad I'm with Matt now."
+    L "Hmmm... È troppo male che io sia con Matt adesso."
 
 # game/UpdateScript0.07.rpy:15528
 translate italian htbyd_fuck_524b16fd:
 
     # R "Isn't there still something going on with him and Megan?"
+    R "Non c'è ancora qualcosa che sta accadendo con lui e Megan?"
 
 # game/UpdateScript0.07.rpy:15529
 translate italian htbyd_fuck_a57cd6dc:
 
     # L "Kind of... It's complicated."
+    L "Tipo di... è complicato."
 
 # game/UpdateScript0.07.rpy:15530
 translate italian htbyd_fuck_04642314:
 
     # R "It sounds like he's not being very exclusive, I don't see why you should be."
+    R "Sembra che non sia molto esclusivo, non vedo perché dovresti essere."
 
 # game/UpdateScript0.07.rpy:15533
 translate italian htbyd_fuck_55022ea2:
 
     # L "He doesn't really expect me to... He said I can fool around with other guys, but he said he'd appreciate it if I didn't fuck them without telling him first."
+    L "Non si aspetta davvero che io sia... Ha detto che posso ingannare con altri ragazzi, ma ha detto che avrebbe apprezzato se non li ho scopati senza dirgli prima."
 
 # game/UpdateScript0.07.rpy:15534
 translate italian htbyd_fuck_9d430d6f:
 
     # L "Not that there's anybody else out there I want to fuck besides him and..."
+    L "Non che ci sia nessun altro là fuori che voglio scopare oltre a lui e..."
 
 # game/UpdateScript0.07.rpy:15537
 translate italian htbyd_fuck_23ee440f:
 
     # L "Damnit, [ryan]! Why couldn't you have been more helpful with the campaign?"
+    L "Damnit, [ryan]! Perché non saresti stato più utile con la campagna?"
 
 # game/UpdateScript0.07.rpy:15538
 translate italian htbyd_fuck_95ad7b54:
 
     # R "You were running against Matt... You didn't stand a chance."
+    R "Stavi correndo contro Matt... Non hai avuto una possibilità."
 
 # game/UpdateScript0.07.rpy:15541
 translate italian htbyd_fuck_1542a200:
 
     # L "I know... I just wish we could have given it our all."
+    L "Lo so... vorrei solo che avessimo potuto dargli il nostro tutto."
 
 # game/UpdateScript0.07.rpy:15542
 translate italian htbyd_fuck_a58d20a2:
 
     # R "You still got what you wanted. You're the student body president now."
+    R "Hai ancora quello che volevi. Sei il presidente del corpo studentesco ora."
 
 # game/UpdateScript0.07.rpy:15543
 translate italian htbyd_fuck_4f0d0a5d:
 
     # L "I know..."
+    L "Lo so..."
 
 # game/UpdateScript0.07.rpy:15544
 translate italian htbyd_fuck_dd956780:
 
     # R "And you said Matt doesn't mind you fooling around with other guys?"
+    R "E hai detto a Matt che non ti dispiace ingannare con altri ragazzi?"
 
 # game/UpdateScript0.07.rpy:15547
 translate italian htbyd_fuck_e8e5c493:
 
     # L "Are you trying to say that you want to be the other guy?"
+    L "Stai cercando di dire che vuoi essere l'altro ragazzo?"
 
 # game/UpdateScript0.07.rpy:15548
 translate italian htbyd_fuck_3c35d43e:
 
     # R "Well... We do already have a good thing established."
+    R "Bene... Abbiamo già stabilito una buona cosa."
 
 # game/UpdateScript0.07.rpy:15549
 translate italian htbyd_fuck_d2f6cf7a:
 
     # L "I suppose I'm in the mood for a little fun."
+    L "Suppongo che io sia di umore per un po' di divertimento."
 
 # game/UpdateScript0.07.rpy:15550
 translate italian htbyd_fuck_ae6adb2d:
 
     # L "I think I'll start us out by taking care of the bulge poking into my stomach."
+    L "Penso che ci farò partire prendendomi cura del rigonfiamento nel mio stomaco."
 
 # game/UpdateScript0.07.rpy:15553
 translate italian htbyd_fuck_ab718832:
 
     # L "I wish Matt was closer to your size... His dick is too big."
+    L "Vorrei che Matt fosse più vicino alla tua taglia... Il suo cazzo è troppo grande."
 
 # game/UpdateScript0.07.rpy:15554
 translate italian htbyd_fuck_5566fd57:
 
     # R "\"Said no straight guy ever.\""
+    R "\"Non ha detto alcun ragazzo dritto.\""
 
 # game/UpdateScript0.07.rpy:15555
 translate italian htbyd_fuck_1a336be1:
 
     # L "Yeah, well you're not getting it rammed into a tiny hole in your crotch."
+    L "Sì, beh, non lo stai facendo sperperare in un piccolo buco nel tuo cavaliere."
 
 # game/UpdateScript0.07.rpy:15556
 translate italian htbyd_fuck_f2ded60b:
 
     # R "At least on literally, thank God."
+    R "Almeno su letteralmente, grazie Dio."
 
 # game/UpdateScript0.07.rpy:15559
 translate italian htbyd_fuck_ba43ad34:
 
     # L "Why are you two suddenly in a pissing match?"
+    L "Perché sei due improvvisamente in una partita di pisci?"
 
 # game/UpdateScript0.07.rpy:15560
 translate italian htbyd_fuck_f8d4fca8:
 
     # R "Uhhhh... It's complicated."
+    R "Uhhhh... E' complicato."
 
 # game/UpdateScript0.07.rpy:15561
 translate italian htbyd_fuck_48f9e3dd:
 
     # L "You two should make up... Then we could really have some fun."
+    L "Dovresti fare tu... allora potremmo davvero divertirci."
 
 # game/UpdateScript0.07.rpy:15562
 translate italian htbyd_fuck_c5b92bf6:
 
     # R "Not likely."
+    R "Non è probabile."
 
 # game/UpdateScript0.07.rpy:15563
 translate italian htbyd_fuck_d463e03e:
 
     # L "Too bad."
+    L "Troppo cattivo."
 
 # game/UpdateScript0.07.rpy:15566
 translate italian htbyd_fuck_d76f97b6:
 
     # L "Now... Let me have a taste of that cock."
+    L "Now... Lascia che abbia un assaggio di quel cazzo."
 
 # game/UpdateScript0.07.rpy:15570
 translate italian htbyd_fuck_48219af4:
 
     # RT "{i}Make up with Matt?... Never!{/i}"
+    RT "{i}Make up with Matt?... Mai!{/i}"
 
 # game/UpdateScript0.07.rpy:15571
 translate italian htbyd_fuck_7388c63c:
 
     # RT "{i}Somehow, I need to get him out of the picture.{/i}"
+    RT "{i}In qualche modo, ho bisogno di farlo uscire dall'immagine.{/i}"
 
 # game/UpdateScript0.07.rpy:15574
 translate italian htbyd_fuck_f1906aa2:
 
     # RT "{i}God!... This feels good though... What was I thinking about?{/i}"
+    RT "{i}Dio!... Questo si sente bene però... di cosa stavo pensando?{/i}"
 
 # game/UpdateScript0.07.rpy:15578
 translate italian htbyd_fuck_90386e25_1:
 
     # R "Oh my God, Lauren... You're getting so good at deepthroating!"
+    R "Oh mio Dio, Lauren... Stai diventando così bravo a gola profonda!"
 
 # game/UpdateScript0.07.rpy:15579
 translate italian htbyd_fuck_d0c55eb9:
 
     # LT "{i}I totally am!.{/i}"
+    LT "{i}Sono totalmente am!.{/i}"
 
 # game/UpdateScript0.07.rpy:15583
 translate italian htbyd_fuck_b8997414_1:
 
     # L "Well... Are you enjoying yourself?"
+    L "Beh... Ti stai divertendo?"
 
 # game/UpdateScript0.07.rpy:15584
 translate italian htbyd_fuck_d9e2f3c2_1:
 
     # R "Oh, God... Why did you stop?"
+    R "Oh, Dio... Perché vi siete fermati?"
 
 # game/UpdateScript0.07.rpy:15585
 translate italian htbyd_fuck_ac499d12:
 
     # L "I thought you might want to try something else."
+    L "Pensavo che si potesse voler provare qualcos'altro."
 
 # game/UpdateScript0.07.rpy:15586
 translate italian htbyd_fuck_f6b51e87_1:
@@ -37439,136 +40560,163 @@ translate italian htbyd_fuck_f6b51e87_1:
 translate italian htbyd_fuck_ea22bce3:
 
     # L "Oh wait, look!... Matt's here!"
+    L "Aspetta, guarda!... Matt!"
 
 # game/UpdateScript0.07.rpy:15592
 translate italian htbyd_fuck_a1abf41e:
 
     # R "What the hell, Matt?"
+    R "Quale inferno, Matt?"
 
 # game/UpdateScript0.07.rpy:15593
 translate italian htbyd_fuck_ea92f927:
 
     # R "Don't you know how to knock?"
+    R "Non sapete come battere?"
 
 # game/UpdateScript0.07.rpy:15594
 translate italian htbyd_fuck_2a0ae246:
 
     # L "Hey Matt, We didn't hear you come in."
+    L "Ehi Matt, Non ti abbiamo sentito entrare."
 
 # game/UpdateScript0.07.rpy:15595
 translate italian htbyd_fuck_949be2f7:
 
     # MB "I did knock... But it seems you both were to preoccupied to hear anything."
+    MB "Ho bussato... ma sembra che entrambi fossero preoccupati di sentire qualcosa."
 
 # game/UpdateScript0.07.rpy:15596
 translate italian htbyd_fuck_96b2a09d:
 
     # L "I hope you don't mind."
+    L "Spero che non vi dispiaccia."
 
 # game/UpdateScript0.07.rpy:15597
 translate italian htbyd_fuck_edc75e44:
 
     # MB "No... not at all."
+    MB "No... non per niente."
 
 # game/UpdateScript0.07.rpy:15598
 translate italian htbyd_fuck_7f5ca1b1:
 
     # MB "I just noticed that neither of you were in class this morning, so I figured there was a good chance that you'd both be here."
+    MB "Ho appena notato che nessuno di voi era in classe questa mattina, così ho capito che c'era una buona probabilità che sareste entrambi qui."
 
 # game/UpdateScript0.07.rpy:15600
 translate italian htbyd_fuck_ff36220c:
 
     # L "I'm glad you were able to get here from my directions."
+    L "Mi fa piacere che tu sia stato in grado di arrivare qui dalle mie direzioni."
 
 # game/UpdateScript0.07.rpy:15601
 translate italian htbyd_fuck_53cb8864:
 
     # RT "{i}That would have been easy, since he's been here before.{/i}"
+    RT "{i}Sarebbe stato facile, dal momento che era qui prima.{/i}"
 
 # game/UpdateScript0.07.rpy:15603
 translate italian htbyd_fuck_f0ba0170:
 
     # R "How in the hell did you know how to get here?"
+    R "Come all'inferno hai saputo come arrivare qui?"
 
 # game/UpdateScript0.07.rpy:15604
 translate italian htbyd_fuck_0bb8f443:
 
     # MB "Lauren gave me directions."
+    MB "Lauren mi ha dato le indicazioni."
 
 # game/UpdateScript0.07.rpy:15605
 translate italian htbyd_fuck_b4ba2c08:
 
     # R "Wait!... You told him how to get here?... Did you invite him to come here?"
+    R "Aspetta!... Gli hai detto come arrivare?... Lo hai invitato a venire qui?"
 
 # game/UpdateScript0.07.rpy:15606
 translate italian htbyd_fuck_ff0d2c5a:
 
     # MB "Yeah... I offered her a ride back to school."
+    MB "Sì... Le ho offerto un viaggio di ritorno a scuola."
 
 # game/UpdateScript0.07.rpy:15607
 translate italian htbyd_fuck_37b0092b:
 
     # R "I can give her a ride back to school."
+    R "Le posso dare un passaggio indietro a scuola."
 
 # game/UpdateScript0.07.rpy:15610
 translate italian htbyd_fuck_030fd3a7:
 
     # L "I'm not letting you give me a ride back to school on your shitty scooter."
+    L "Non mi lascio darmi un giro indietro a scuola sul tuo scooter shitty."
 
 # game/UpdateScript0.07.rpy:15611
 translate italian htbyd_fuck_071b9f29:
 
     # L "My bike goes faster than your scooter when both of us are on it."
+    L "La mia bici va più veloce del tuo scooter quando entrambi siamo accesi."
 
 # game/UpdateScript0.07.rpy:15612
 translate italian htbyd_fuck_25251a12:
 
     # L "Matt's dad bought him a brand new Llamaghini for his birthday... So, no offence, but I'd rather ride with him."
+    L "Il papà di Matt's gli ha comprato un nuovo Llamaghini per il suo compleanno... Quindi, nessun reato, ma preferirei cavalcare con lui."
 
 # game/UpdateScript0.07.rpy:15613
 translate italian htbyd_fuck_ee84fcd8:
 
     # R "Wow!... Me too."
+    R "Wow!... anche io."
 
 # game/UpdateScript0.07.rpy:15614
 translate italian htbyd_fuck_7285ed3a:
 
     # MB "Sorry, it only seats two."
+    MB "Ci dispiace, è solo due posti."
 
 # game/UpdateScript0.07.rpy:15615
 translate italian htbyd_fuck_4f2bfa7e:
 
     # RT "{i}Fucking spoiled asshole!{/i}"
+    RT "{i}cazzo viziato il culo!{/i}"
 
 # game/UpdateScript0.07.rpy:15618
 translate italian htbyd_fuck_570bdbff_1:
 
     # L "That was so sweet of you to come pick me up!"
+    L "È stato così dolce da venire a prendermi!"
 
 # game/UpdateScript0.07.rpy:15619
 translate italian htbyd_fuck_09972797:
 
     # MB "Yeah, don't mention it... I really didn't mean to interrupt you two though."
+    MB "Sì, non menzionatelo... non avevo intenzione di interrompervi due."
 
 # game/UpdateScript0.07.rpy:15620
 translate italian htbyd_fuck_8aa8a58c:
 
     # L "No... We were just finishing up anyways."
+    L "No... Stavamo appena finendo in ogni caso."
 
 # game/UpdateScript0.07.rpy:15621
 translate italian htbyd_fuck_225731e0:
 
     # RT "{i}Like hell, we were!{/i}"
+    RT "{i}Come l'inferno, eravamo qui!{/i}"
 
 # game/UpdateScript0.07.rpy:15622
 translate italian htbyd_fuck_a23ffbd1:
 
     # LT "{i}Matt's car really made him jealous... If he's feeling jealous now, wait till I'm done with Matt.{/i}"
+    LT "L'auto di {i}Matt's lo ha davvero reso geloso... Se ora si sente geloso, aspetta che io sia finito con Matt.{/i}"
 
 # game/UpdateScript0.07.rpy:15623
 translate italian htbyd_fuck_08485fa6:
 
     # L "[ryan] didn't satisfy me at all though... So I was hoping maybe you could finish the job?"
+    L "[ryan] non mi ha affatto soddisfatta però... Stavo sperando che potesse finire il lavoro?"
 
 # game/UpdateScript0.07.rpy:15624
 translate italian htbyd_fuck_c89ce232:
@@ -37580,76 +40728,91 @@ translate italian htbyd_fuck_c89ce232:
 translate italian htbyd_fuck_58f80fd9:
 
     # L "Let's just get those tight jeans off you."
+    L "Prendiamo questi jeans stretti da te."
 
 # game/UpdateScript0.07.rpy:15630
 translate italian htbyd_fuck_303c4560_1:
 
     # L "Damn... That's a big dick!"
+    L "Dannazione... È un grande cazzo!"
 
 # game/UpdateScript0.07.rpy:15631
 translate italian htbyd_fuck_1ac0289d:
 
     # L "I think [ryan] made me wet enough to take it."
+    L "Penso che [ryan] mi abbia fatto abbastanza bagnato da prenderlo."
 
 # game/UpdateScript0.07.rpy:15632
 translate italian htbyd_fuck_a5b13bd0:
 
     # R "You're going to do this right in front of me?"
+    R "Lo farete proprio di fronte a me?"
 
 # game/UpdateScript0.07.rpy:15633
 translate italian htbyd_fuck_025c9814:
 
     # L "That's up to you... You're welcome to leave."
+    L "Sta a te... Sei il benvenuto a partire."
 
 # game/UpdateScript0.07.rpy:15634
 translate italian htbyd_fuck_f2df104d:
 
     # R "No, I'm not... I've got to lock the door on my way out."
+    R "No, no... Devo chiudere la porta sulla via d'uscita."
 
 # game/UpdateScript0.07.rpy:15635
 translate italian htbyd_fuck_cdd84664:
 
     # R "Plus I need to clean up before I leave."
+    R "Inoltre ho bisogno di pulire prima di partire."
 
 # game/UpdateScript0.07.rpy:15636
 translate italian htbyd_fuck_28907c6c:
 
     # L "Perfect... Why don't you clean up while we play around."
+    L "Perfetto... Perché non ti ripulisci mentre suoniamo in giro."
 
 # game/UpdateScript0.07.rpy:15637
 translate italian htbyd_fuck_29868e62:
 
     # R "Fine, just make it fast."
+    R "Bene, basta farlo velocemente."
 
 # game/UpdateScript0.07.rpy:15642
 translate italian htbyd_fuck_12c764e4:
 
     # RT "{i}(sarcastically) WhY DoNt YoU ClEaN uP wHiLe wE pLaY ArOuNd?{/i}"
+    RT "{i}(sarcasticamente) Perchè DoNt YoU ClEaN uP wHiLe wE plaY ArOuNd?{/i}"
 
 # game/UpdateScript0.07.rpy:15643
 translate italian htbyd_fuck_e7449963:
 
     # RT "{i}Fuck!... The nerve!{/i}"
+    RT "{i}Fuck!... Il nervoso!{/i}"
 
 # game/UpdateScript0.07.rpy:15644
 translate italian htbyd_fuck_dfaa7fa8:
 
     # RT "{i}Well, at least I don't have to watch them.{/i}"
+    RT "{i}Beh, almeno non devo guardarle.{/i}"
 
 # game/UpdateScript0.07.rpy:15646
 translate italian htbyd_fuck_115215cc:
 
     # RT "{i}But I'm not going to be so lucky when it comes to hearing them.{/i}"
+    RT "{i}Ma non sarò così fortunato quando si tratta di ascoltarle.{/i}"
 
 # game/UpdateScript0.07.rpy:15647
 translate italian htbyd_fuck_b9c131eb:
 
     # RT "{i}My God!... Do they have to be so loud?{/i}"
+    RT "{i}Mio Dio!... Devono essere così forti?{/i}"
 
 # game/UpdateScript0.07.rpy:15648
 translate italian htbyd_fuck_e03c22b6:
 
     # RT "{i}It sounds like Matt's really giving it to her.{/i}"
+    RT "{i}Sembra che Matt's davvero dandogli a lei.{/i}"
 
 # game/UpdateScript0.07.rpy:15649
 translate italian htbyd_fuck_17e3aae0_1:
@@ -37661,111 +40824,133 @@ translate italian htbyd_fuck_17e3aae0_1:
 translate italian htbyd_fuck_e74bbbca_1:
 
     # RT "{i}I can't help myself... I've got to look.{/i}"
+    RT "{i}Non posso aiutarmi da solo... devo guardare.{/i}"
 
 # game/UpdateScript0.07.rpy:15657
 translate italian htbyd_fuck_8ca6ead5:
 
     # LT "{i}Oh, my God!... I can't believe Matt's strong enough to fuck me like this!{/i}"
+    LT "{i}Oh, mio Dio!... Non posso credere che Matt's abbastanza forte da scoparmi così!{/i}"
 
 # game/UpdateScript0.07.rpy:15658
 translate italian htbyd_fuck_be4eecf3:
 
     # LT "{i}My brother would just fall over.{/i}"
+    LT "{i}Mio fratello sarebbe appena cadere.{/i}"
 
 # game/UpdateScript0.07.rpy:15659
 translate italian htbyd_fuck_12294a1a:
 
     # LT "{i}Maybe if I start moaning louder, he'll look over.{/i}"
+    LT "{i}Forse se comincio a gemere più forte, si occuperà.{/i}"
 
 # game/UpdateScript0.07.rpy:15663
 translate italian htbyd_fuck_353df5b3_1:
 
     # LT "{i}Haha... That did it!{/i}"
+    LT "{i}Haha... Questo è fatto!{/i}"
 
 # game/UpdateScript0.07.rpy:15664
 translate italian htbyd_fuck_f2bbd145_1:
 
     # LT "{i}Why does it turn me on so much to have my brother watch me get pounded like this?{/i}"
+    LT "{i}Perché mi accende così tanto per far vedere a mio fratello di farmi scoppiare così? {/i}"
 
 # game/UpdateScript0.07.rpy:15667
 translate italian htbyd_fuck_43f76b1d_1:
 
     # RT "{i}Damn!... I wish I could fuck Lauren like that!{/i}"
+    RT "{i}Dannazione!... Vorrei riuscire a scopare Lauren così!{/i}"
 
 # game/UpdateScript0.07.rpy:15668
 translate italian htbyd_fuck_7f423ef1:
 
     # RT "{i}I don't think I'd be physically able.{/i}"
+    RT "{i}Non penso di essere fisicamente abile.{/i}"
 
 # game/UpdateScript0.07.rpy:15669
 translate italian htbyd_fuck_33bc29e7:
 
     # RT "{i}This is just like some of my favorite porn clips.{/i}"
+    RT "{i}Questo è proprio come alcune delle mie clip porno preferite.{/i}"
 
 # game/UpdateScript0.07.rpy:15670
 translate italian htbyd_fuck_1615ec3a:
 
     # RT "{i}Only watching Matt fuck my sister enrages me, and turns me on.{/i}"
+    RT "{i}Solo guardando Matt scopa mia sorella mi infuria e mi accende.{/i}"
 
 # game/UpdateScript0.07.rpy:15674
 translate italian htbyd_fuck_512e01da:
 
     # RT "{i}Damnit!... I should have helped Lauren better... She probably still would have lost, but at least she wouldn't hold it against me.{/i}"
+    RT "{i}Damnit!... Avrei dovuto aiutare Lauren meglio... Probabilmente avrebbe ancora perso, ma almeno non lo avrebbe tenuto contro di me.{/i}"
 
 # game/UpdateScript0.07.rpy:15675
 translate italian htbyd_fuck_6e17c0cc:
 
     # RT "{i}Then it would be me fucking her right now.{/i}"
+    RT "{i}Allora sarei io a farla scopare subito.{/i}"
 
 # game/UpdateScript0.07.rpy:15676
 translate italian htbyd_fuck_a7738cb4:
 
     # RT "{i}I think Lauren noticed me staring... I should start cleaning again.{/i}"
+    RT "{i}Penso che Lauren mi abbia notato di fissare... dovrei ricominciare la pulizia.{/i}"
 
 # game/UpdateScript0.07.rpy:15683
 translate italian htbyd_fuck_b33a57d9:
 
     # RT "{i}Aaarrggghhhh... Are they ever going to finish!{/i}"
+    RT "{i}Aaarrggghhh... Finiranno!{/i}"
 
 # game/UpdateScript0.07.rpy:15684
 translate italian htbyd_fuck_f0c30e97:
 
     # RT "{i}How can I focus on anything else right now?{/i}"
+    RT "{i}Come posso concentrarmi su qualsiasi altra cosa adesso?{/i}"
 
 # game/UpdateScript0.07.rpy:15685
 translate italian htbyd_fuck_1c13d6ed:
 
     # RT "{i}I'm gonna sneak another peek.{/i}"
+    RT "{i}sto per sneak un altro peek.{/i}"
 
 # game/UpdateScript0.07.rpy:15689
 translate italian htbyd_fuck_d13456f3_1:
 
     # LT "{i}MMMmmm... [ryan] can't stop watching me!{/i}"
+    LT "{i}MMMmmm... [ryan] non può smettere di guardarmi!{/i}"
 
 # game/UpdateScript0.07.rpy:15690
 translate italian htbyd_fuck_b0759447_1:
 
     # LT "{i}He's probably wishing he was the one fucking me right now!{/i}"
+    LT "{i}Sta probabilmente desiderando di essere stato quello che mi scopa adesso!{/i}"
 
 # game/UpdateScript0.07.rpy:15691
 translate italian htbyd_fuck_bbd8490c_1:
 
     # LT "{i}Oh, God!... I wish he were too.{/i}"
+    LT "{i}Oh, Dio!... Vorrei che fosse anche.{/i}"
 
 # game/UpdateScript0.07.rpy:15692
 translate italian htbyd_fuck_d26b6e92_1:
 
     # LT "{i}What if it were his dick inside me right now?{/i}"
+    LT "{i}E se fosse il suo cazzo dentro di me in questo momento?{/i}"
 
 # game/UpdateScript0.07.rpy:15693
 translate italian htbyd_fuck_0d8b9a79_1:
 
     # L "Oh, God!... Oh, God!... Oh, God!"
+    L "Oh, Dio!... Oh, Dio!... Oh, Dio!"
 
 # game/UpdateScript0.07.rpy:15699
 translate italian htbyd_fuck_a603e8bd_1:
 
     # L "Ffuuuuucckk!!"
+    L "Cazooooo!!"
 
 # game/UpdateScript0.07.rpy:15700
 translate italian htbyd_fuck_a314db81_1:
@@ -37777,31 +40962,37 @@ translate italian htbyd_fuck_a314db81_1:
 translate italian htbyd_fuck_222f51ba_1:
 
     # L "Keep fucking me!... I need more!"
+    L "Continuate a scoparmi!... ho bisogno di più!"
 
 # game/UpdateScript0.07.rpy:15705
 translate italian htbyd_fuck_a3e215ba_1:
 
     # MB "Lauren, I'm gonna cum!"
+    MB "Lauren, sto andando cum!"
 
 # game/UpdateScript0.07.rpy:15706
 translate italian htbyd_fuck_bd9f24d3_1:
 
     # L "Just cum inside!"
+    L "Basta cum dentro!"
 
 # game/UpdateScript0.07.rpy:15707
 translate italian htbyd_fuck_114cc8ed_1:
 
     # L "I want to feel your cum inside me!"
+    L "Voglio sentire il vostro sperma dentro di me!"
 
 # game/UpdateScript0.07.rpy:15708
 translate italian htbyd_fuck_3aaa2857:
 
     # R "Wait!... No, Lauren!"
+    R "Attendi!... No, Lauren!"
 
 # game/UpdateScript0.07.rpy:15712
 translate italian htbyd_fuck_f718ab1d_1:
 
     # MB "Aaaahhh...."
+    MB "Aaaahhh...."
 
 # game/UpdateScript0.07.rpy:15713
 translate italian htbyd_fuck_1c9e068c_1:
@@ -37819,11 +41010,13 @@ translate italian htbyd_fuck_d640daf7_1:
 translate italian htbyd_fuck_2db8e3b6:
 
     # L "Wow, Matt!... That was amazing!"
+    L "Wow, Matt!... È stato fantastico!"
 
 # game/UpdateScript0.07.rpy:15724
 translate italian htbyd_fuck_29f8bc0a:
 
     # L "The best part is I'll get to sit through my mom's next class, knowing your cum is just simmering in my womb and dripping out into my panties."
+    L "La parte migliore è che arriverò a sedermi nella prossima lezione di mia mamma, sapendo che il vostro sperma sta semplicemente cuocendo nel mio grembo e gocciolando nelle mie mutandine."
 
 # game/UpdateScript0.07.rpy:15725
 translate italian htbyd_fuck_657dc9c8_1:
@@ -37835,151 +41028,181 @@ translate italian htbyd_fuck_657dc9c8_1:
 translate italian htbyd_fuck_b1b2adcc:
 
     # R "Good God, Lauren!... Can you hear yourself?"
+    R "Buon Dio, Lauren!... Riesci ad ascoltarti?"
 
 # game/UpdateScript0.07.rpy:15728
 translate italian htbyd_fuck_8ce165d4:
 
     # R "That's how you get fucking pregnant!"
+    R "È così che si fa incinta!"
 
 # game/UpdateScript0.07.rpy:15731
 translate italian htbyd_fuck_68b1e41a:
 
     # L "No kidding, [ryan]. I'm not an idiot... I'm taking the proper precautions."
+    L "No kidding, [ryan]. Non sono un idiota... sto prendendo le dovute precauzioni."
 
 # game/UpdateScript0.07.rpy:15732
 translate italian htbyd_fuck_560fb498:
 
     # LT "{i}Sometimes... When I remember.{/i}"
+    LT "{i}A volte... Quando mi ricordo.{/i}"
 
 # game/UpdateScript0.07.rpy:15733
 translate italian htbyd_fuck_dd77b7ae_1:
 
     # MB "Lauren, you'd better get ready fast, or else we're going to be late for your mom's next class."
+    MB "Lauren, faresti meglio a prepararti velocemente, altrimenti saremo in ritardo per la prossima lezione di tua mamma."
 
 # game/UpdateScript0.07.rpy:15734
 translate italian htbyd_fuck_ee5529cc_1:
 
     # L "I'm coming."
+    L "Sto venendo."
 
 # game/UpdateScript0.07.rpy:15737
 translate italian htbyd_fuck_d92702db_1:
 
     # RT "{i}Oh, sure... Don't bother helping. I'll just clean up all of this by myself.{/i}"
+    RT "{i}Oh, sicuro... Non preoccuparti di aiutare. Io ripulirò tutto questo da solo.{/i}"
 
 # game/UpdateScript0.07.rpy:15738
 translate italian htbyd_fuck_7de42fb8:
 
     # RT "{i}Fuck!... There's sex juices all over the green screen.{/i}"
+    RT "{i}Fuck!... Ci sono succhi di sesso su tutto lo schermo verde.{/i}"
 
 # game/UpdateScript0.07.rpy:15739
 translate italian htbyd_fuck_4c18469d_1:
 
     # RT "{i}I'd better get that up before it stains.{/i}"
+    RT "{i}Farei meglio ad alzarlo prima che si macchi.{/i}"
 
 # game/UpdateScript0.07.rpy:15746
 translate italian htbyd_fuck_bb513eee_2:
 
     # R "It's my pleasure... And I'm really grateful to you for doing your part to help our family make enough money to survive."
+    R "È il mio piacere... e ti sono davvero grato per aver fatto la tua parte per aiutare la nostra famiglia a fare abbastanza soldi per sopravvivere."
 
 # game/UpdateScript0.07.rpy:15747
 translate italian htbyd_fuck_601671dc_2:
 
     # L "Don't mention it."
+    L "Non citarlo."
 
 # game/UpdateScript0.07.rpy:15750
 translate italian htbyd_fuck_a3c0a509_2:
 
     # L "I've noticed you've got your traditional after-photoshoot boner."
+    L "Ho notato che hai la tua tradizionale erezione dopo-fotoscita."
 
 # game/UpdateScript0.07.rpy:15751
 translate italian htbyd_fuck_85708c6d_1:
 
     # R "Haha... How could I not, after taking those kinds of pictures of one of the sexiest girl I've ever seen."
+    R "Haha... Come potrei no, dopo aver preso quei tipi di foto di una della ragazza più sexy che abbia mai visto."
 
 # game/UpdateScript0.07.rpy:15754
 translate italian htbyd_fuck_cbcefcef_1:
 
     # L "[ryan]... You're not supposed to call your sister sexy."
+    L "[ryan]... Non dovresti chiamare tua sorella sexy."
 
 # game/UpdateScript0.07.rpy:15755
 translate italian htbyd_fuck_19d44212_1:
 
     # R "You know I can't help it."
+    R "Sai che non posso aiutarlo."
 
 # game/UpdateScript0.07.rpy:15756
 translate italian htbyd_fuck_9ae137fe:
 
     # L "Hmmm... Well, try to keep it in your pants."
+    L "Hmmm... Beh, prova a tenerlo nei pantaloni."
 
 # game/UpdateScript0.07.rpy:15757
 translate italian htbyd_fuck_510169a3:
 
     # R "You sure I can't just pull him out for a little attention?"
+    R "Sicuramente non posso tirarlo fuori per un po' di attenzione?"
 
 # game/UpdateScript0.07.rpy:15760
 translate italian htbyd_fuck_ca2bac8c:
 
     # L "[ryan]... I'm not your sperm bank."
+    L "[ryan]... Non sono la tua banca dello sperma."
 
 # game/UpdateScript0.07.rpy:15761
 translate italian htbyd_fuck_f6aea199:
 
     # L "You can't just make a deposit whenever you're feeling horny."
+    L "Non puoi fare solo un deposito ogni volta che ti senti arrapato."
 
 # game/UpdateScript0.07.rpy:15762
 translate italian htbyd_fuck_8ee8a533:
 
     # R "But, I'm horny all the time."
+    R "Ma, sono sempre eccitato."
 
 # game/UpdateScript0.07.rpy:15763
 translate italian htbyd_fuck_e7c24aa3:
 
     # L "I know... but I'm not."
+    L "Lo so... ma non lo so."
 
 # game/UpdateScript0.07.rpy:15764
 translate italian htbyd_fuck_731a3480:
 
     # L "We both know we shouldn't be doing this at all."
+    L "Sappiamo entrambi che non dovremmo fare tutto questo."
 
 # game/UpdateScript0.07.rpy:15765
 translate italian htbyd_fuck_6b481666:
 
     # L "In fact, I think we should both work on cutting this back a bit."
+    L "In realtà, penso che dovremmo entrambi lavorare per tagliare un po 'questo indietro."
 
 # game/UpdateScript0.07.rpy:15768
 translate italian htbyd_fuck_3c43a9c6:
 
     # R "Where is this coming from?"
+    R "Da dove proviene questo?"
 
 # game/UpdateScript0.07.rpy:15769
 translate italian htbyd_fuck_23f3d7ac:
 
     # L "I don't know... Just give me some time to think about it."
+    L "Non lo so... Mi dia un po' di tempo per pensarci."
 
 # game/UpdateScript0.07.rpy:15770
 translate italian htbyd_fuck_39e8310f:
 
     # R "{i}Shit... she must not be feeling very horny... I wonder what I can do to raise her libido.{/i}"
+    R "{i}merda... non deve sentirsi molto eccitata... Mi chiedo cosa posso fare per alzare la sua libido.{/i}"
 
 # game/UpdateScript0.07.rpy:15771
 translate italian htbyd_fuck_f83c5a68:
 
     # R "{i}When her libido is higher, she can't resist a good roll in the hay.{/i}"
+    R "{i}Quando la sua libido è più alta, non può resistere a un buon rotolo nel fieno.{/i}"
 
 # game/UpdateScript0.07.rpy:15772
 translate italian htbyd_fuck_76939301:
 
     # LT "{i}Oh, my God!... [ryan]'s always trying to get in my pants.{/i}"
+    LT "{i}Oh, il mio Dio!... [ryan]sta sempre cercando di entrare nei miei pantaloni.{/i}"
 
 # game/UpdateScript0.07.rpy:15773
 translate italian htbyd_fuck_86d0785a:
 
     # LT "{i}The fact that I'm his sister doesn't seem to bother him at all.{/i}"
+    LT "{i}Il fatto che io sia sua sorella non sembra dargli fastidio.{/i}"
 
 # game/UpdateScript0.07.rpy:15774
 translate italian htbyd_fuck_cac17eb8:
 
     # LT "{i}Fuck... I'm not really in the mood to get pounded by his huge cock right now, but having him want me so badly kind of turns me on.{/i}"
+    LT "{i}Cazzo... Non sono davvero dell'umore giusto per essere pestato dal suo enorme cazzo in questo momento, ma averlo mi vuole così male mi eccita.{/mi}"
 
 # game/UpdateScript0.07.rpy:15775
 translate italian htbyd_fuck_657dc9c8_2:
@@ -37991,106 +41214,127 @@ translate italian htbyd_fuck_657dc9c8_2:
 translate italian htbyd_fuck_79ef3f51:
 
     # L "Uhhh...I've gotta go."
+    L "Uhhhh... Sono andato."
 
 # game/UpdateScript0.07.rpy:15780
 translate italian htbyd_fuck_ea9de4a4:
 
     # L "I'll see you at home."
+    L "Ci vediamo a casa."
 
 # game/UpdateScript0.07.rpy:15787
 translate italian htbyd_fuck_bb513eee_3:
 
     # R "It's my pleasure... And I'm really grateful to you for doing your part to help our family make enough money to survive."
+    R "È il mio piacere... e ti sono davvero grato per aver fatto la tua parte per aiutare la nostra famiglia a fare abbastanza soldi per sopravvivere."
 
 # game/UpdateScript0.07.rpy:15788
 translate italian htbyd_fuck_601671dc_3:
 
     # L "Don't mention it."
+    L "Non citarlo."
 
 # game/UpdateScript0.07.rpy:15791
 translate italian htbyd_fuck_a3c0a509_3:
 
     # L "I've noticed you've got your traditional after-photoshoot boner."
+    L "Ho notato che hai la tua tradizionale erezione dopo-fotoscita."
 
 # game/UpdateScript0.07.rpy:15792
 translate italian htbyd_fuck_759c6805_1:
 
     # R "Haha... Always!"
+    R "Hah... Sempre!"
 
 # game/UpdateScript0.07.rpy:15795
 translate italian htbyd_fuck_f7d67cb2_1:
 
     # L "I'm guessing you want to mess around a bit?"
+    L "Sto indovinando che si vuole pasticciare intorno a un po'?"
 
 # game/UpdateScript0.07.rpy:15796
 translate italian htbyd_fuck_f595f1bb:
 
     # R "Is that a rhetorical question?... Cuz I'm pretty sure you already know the answer."
+    R "È una domanda retorica?... Cuz sono abbastanza sicuro che conosci già la risposta."
 
 # game/UpdateScript0.07.rpy:15799
 translate italian htbyd_fuck_0053601d:
 
     # L "Of course I do."
+    L "Naturalmente lo faccio."
 
 # game/UpdateScript0.07.rpy:15800
 translate italian htbyd_fuck_d5089f84:
 
     # R "Oh, yeah."
+    R "Oh, sì."
 
 # game/UpdateScript0.07.rpy:15801
 translate italian htbyd_fuck_eb9f536c:
 
     # L "Poor guy was feeling all cramped up in those tight pants again."
+    L "Povero ragazzo si sentiva tutto angustato in quei pantaloni stretti di nuovo."
 
 # game/UpdateScript0.07.rpy:15804
 translate italian htbyd_fuck_a8dd4d7d:
 
     # L "Time for me to help get him to his rightful home."
+    L "È tempo per me di aiutarlo a portarlo a casa sua."
 
 # game/UpdateScript0.07.rpy:15808
 translate italian htbyd_fuck_7eede949:
 
     # R "Oh, yes... That feels amazing!"
+    R "Oh, sì... Mi sembra incredibile!"
 
 # game/UpdateScript0.07.rpy:15814
 translate italian htbyd_fuck_6f6a1848:
 
     # R "God, Lauren!... You're so good at deepthroating now!"
+    R "Dio, Lauren!... Sei così bravo a gola profonda adesso!"
 
 # game/UpdateScript0.07.rpy:15815
 translate italian htbyd_fuck_3a4485af:
 
     # LT "{i}Haha... I know!{/i}"
+    LT "{i}Haha... Lo so!{/i}"
 
 # game/UpdateScript0.07.rpy:15818
 translate italian htbyd_fuck_8c90a7bb:
 
     # R "Fuck... I'm getting close."
+    R "Fuck... Sono vicino."
 
 # game/UpdateScript0.07.rpy:15821
 translate italian htbyd_fuck_0fe95a60:
 
     # L "You'd better cool it then. I'm hoping you can last a little longer this time."
+    L "Faresti meglio a raffreddarla allora. Spero che tu possa durare un po' più a lungo questa volta."
 
 # game/UpdateScript0.07.rpy:15822
 translate italian htbyd_fuck_b495d03c:
 
     # R "You think you're ready for him?"
+    R "Pensate di essere pronti per lui?"
 
 # game/UpdateScript0.07.rpy:15823
 translate italian htbyd_fuck_0741becb:
 
     # L "More than ready... I need you inside me!"
+    L "Più che pronto... Ho bisogno di voi dentro di me!"
 
 # game/UpdateScript0.07.rpy:15824
 translate italian htbyd_fuck_b74279c7:
 
     # RT "{i}I don't know if her desperation routine is an act, but I don't care... I fucking love it!{/i}"
+    RT "{i}Non so se la sua routine di disperazione è un atto, ma non mi importa... Mi piace carlo!{/i}"
 
 # game/UpdateScript0.07.rpy:15825
 translate italian htbyd_fuck_d2ecdd96:
 
     # L "Just don't cum before I do."
+    L "Semplicemente non cum prima di me."
 
 # game/UpdateScript0.07.rpy:15826
 translate italian htbyd_fuck_c834bbe0:
@@ -38102,36 +41346,43 @@ translate italian htbyd_fuck_c834bbe0:
 translate italian htbyd_fuck_2564041c:
 
     # L "That's right, [ryan]!"
+    L "Va bene, [ryan]!"
 
 # game/UpdateScript0.07.rpy:15834
 translate italian htbyd_fuck_c2c14eda:
 
     # L "Fuck me!"
+    L "Cazzo mio!"
 
 # game/UpdateScript0.07.rpy:15835
 translate italian htbyd_fuck_5f4a5f59:
 
     # L "Fuck me like your very own dirty little sister."
+    L "Cazzo me come la vostra piccola sorella sporca."
 
 # game/UpdateScript0.07.rpy:15836
 translate italian htbyd_fuck_38cf91e4:
 
     # L "I'm so cock hungry, I don't even care that it's my big brother's dick that's plunging in and out of my sopping wet pussy."
+    L "Sono così affamato di cazzo, non mi importa nemmeno che sia il cazzo di mio grande fratello che si immerge dentro e fuori dalla mia figa bagnata."
 
 # game/UpdateScript0.07.rpy:15837
 translate italian htbyd_fuck_88237560:
 
     # R "God, Lauren!... I'm not gonna last long if you keep talking like that!"
+    R "Dio, Lauren!... Non durerò a lungo se continuerai a parlare così!"
 
 # game/UpdateScript0.07.rpy:15840
 translate italian htbyd_fuck_2d77b99e:
 
     # L "You won't have to last much longer... I'm gonna!"
+    L "Non dovrai durare molto più a lungo... sto andandando!"
 
 # game/UpdateScript0.07.rpy:15847
 translate italian htbyd_fuck_12918519:
 
     # L "Ffffuuuuuck!"
+    L "Ccazzooo!"
 
 # game/UpdateScript0.07.rpy:15848
 translate italian htbyd_fuck_a314db81_2:
@@ -38143,171 +41394,205 @@ translate italian htbyd_fuck_a314db81_2:
 translate italian htbyd_fuck_68be4f9c:
 
     # L "That was amazing!... But don't stop fucking me!"
+    L "È stato incredibile!... ma non smettere di scoparmi!"
 
 # game/UpdateScript0.07.rpy:15850
 translate italian htbyd_fuck_b3c77fb0:
 
     # L "No, wait!... I want to be on top again."
+    L "No, aspetta!... voglio essere di nuovo in cima."
 
 # game/UpdateScript0.07.rpy:15855
 translate italian htbyd_fuck_8faea0e9:
 
     # L "Oh, yeah... my turn to be in control again."
+    L "Oh, sì... il mio turno per essere di nuovo in controllo."
 
 # game/UpdateScript0.07.rpy:15856
 translate italian htbyd_fuck_5191f189:
 
     # L "And I love the feeling of that huge cock in my pussy!"
+    L "E amo la sensazione di quel cazzo enorme nella mia figa!"
 
 # game/UpdateScript0.07.rpy:15857
 translate italian htbyd_fuck_8c62b64c:
 
     # R "God!... Lauren, you're driving me crazy!"
+    R "Dio!... Lauren, mi stai facendo impazzi!"
 
 # game/UpdateScript0.07.rpy:15858
 translate italian htbyd_fuck_8e7e0ff5:
 
     # R "And I'll never get tired of watching that ass bounce on my cock!."
+    R "E non mi stancherò mai di vedere quel culo rimbalzare sul mio cazzo!."
 
 # game/UpdateScript0.07.rpy:15870
 translate italian htbyd_fuck_bb513eee_4:
 
     # R "It's my pleasure... And I'm really grateful to you for doing your part to help our family make enough money to survive."
+    R "È il mio piacere... e ti sono davvero grato per aver fatto la tua parte per aiutare la nostra famiglia a fare abbastanza soldi per sopravvivere."
 
 # game/UpdateScript0.07.rpy:15871
 translate italian htbyd_fuck_601671dc_4:
 
     # L "Don't mention it."
+    L "Non citarlo."
 
 # game/UpdateScript0.07.rpy:15874
 translate italian htbyd_fuck_a3c0a509_4:
 
     # L "I've noticed you've got your traditional after-photoshoot boner."
+    L "Ho notato che hai la tua tradizionale erezione dopo-fotoscita."
 
 # game/UpdateScript0.07.rpy:15875
 translate italian htbyd_fuck_85708c6d_2:
 
     # R "Haha... How could I not, after taking those kinds of pictures of one of the sexiest girl I've ever seen."
+    R "Haha... Come potrei no, dopo aver preso quei tipi di foto di una della ragazza più sexy che abbia mai visto."
 
 # game/UpdateScript0.07.rpy:15878
 translate italian htbyd_fuck_cbcefcef_2:
 
     # L "[ryan]... You're not supposed to call your sister sexy."
+    L "[ryan]... Non dovresti chiamare tua sorella sexy."
 
 # game/UpdateScript0.07.rpy:15879
 translate italian htbyd_fuck_19d44212_2:
 
     # R "You know I can't help it."
+    R "Sai che non posso aiutarlo."
 
 # game/UpdateScript0.07.rpy:15880
 translate italian htbyd_fuck_ecf1652b:
 
     # L "I know... And I find it pretty damn cute."
+    L "Lo so... E lo trovo piuttosto dannato carino."
 
 # game/UpdateScript0.07.rpy:15881
 translate italian htbyd_fuck_998e25d6:
 
     # L "You just can't resist me."
+    L "Non puoi resistermi."
 
 # game/UpdateScript0.07.rpy:15882
 translate italian htbyd_fuck_77d83fb8:
 
     # L "Even though you know you shouldn't want to fuck your own sister."
+    L "Anche se sai che non dovresti voler scopare tua sorella."
 
 # game/UpdateScript0.07.rpy:15883
 translate italian htbyd_fuck_8d741edc:
 
     # L "I've got to admit, I feel the same way."
+    L "Devo ammetterlo, mi sento allo stesso modo."
 
 # game/UpdateScript0.07.rpy:15884
 translate italian htbyd_fuck_8c84a0b3:
 
     # R "So, you're saying your up for some fooling around?"
+    R "Dunque, stai dicendo che sei in su per qualche ingannare intorno?"
 
 # game/UpdateScript0.07.rpy:15887
 translate italian htbyd_fuck_4cb73e9b:
 
     # L "Does this answer your question?"
+    L "Rispondi a questa domanda?"
 
 # game/UpdateScript0.07.rpy:15888
 translate italian htbyd_fuck_d5089f84_1:
 
     # R "Oh, yeah."
+    R "Oh, sì."
 
 # game/UpdateScript0.07.rpy:15889
 translate italian htbyd_fuck_34182bac:
 
     # L "Poor guy was feeling all cramped up in those tight pants."
+    L "Povero ragazzo si sentiva tutto angustato in quei pantaloni stretti."
 
 # game/UpdateScript0.07.rpy:15892
 translate italian htbyd_fuck_39d7c2f6:
 
     # L "I honestly don't know how he fits in those tight jeans you wear."
+    L "Onestamente non so come si inserisce in quei jeans stretti che indossi."
 
 # game/UpdateScript0.07.rpy:15893
 translate italian htbyd_fuck_da6ae68d:
 
     # R "That's why I try to wear those loose gym shorts whenever I can."
+    R "Ecco perché cerco di indossare quei pantaloncini sciolti in palestra ogni volta che posso."
 
 # game/UpdateScript0.07.rpy:15894
 translate italian htbyd_fuck_38bbad21:
 
     # L "Well, I hope he doesn't mind going from one tight place to another."
+    L "Beh, spero che non gli dispiace passare da un luogo stretto all'altro."
 
 # game/UpdateScript0.07.rpy:15895
 translate italian htbyd_fuck_e8d7cbcb:
 
     # R "Haha... no, That's his never ending goal in life."
+    R "Haha... no, Questo è il suo obiettivo mai finito nella vita."
 
 # game/UpdateScript0.07.rpy:15896
 translate italian htbyd_fuck_c6878aeb:
 
     # L "Hahaha... Well, I'm not going to leave him disappointed."
+    L "Hahaha... Bene, non lo lascerò deluso."
 
 # game/UpdateScript0.07.rpy:15900
 translate italian htbyd_fuck_7eede949_1:
 
     # R "Oh, yes... That feels amazing!"
+    R "Oh, sì... Mi sembra incredibile!"
 
 # game/UpdateScript0.07.rpy:15906
 translate italian htbyd_fuck_6f6a1848_1:
 
     # R "God, Lauren!... You're so good at deepthroating now!"
+    R "Dio, Lauren!... Sei così bravo a gola profonda adesso!"
 
 # game/UpdateScript0.07.rpy:15907
 translate italian htbyd_fuck_3a4485af_1:
 
     # LT "{i}Haha... I know!{/i}"
+    LT "{i}Haha... Lo so!{/i}"
 
 # game/UpdateScript0.07.rpy:15910
 translate italian htbyd_fuck_8c90a7bb_1:
 
     # R "Fuck... I'm getting close."
+    R "Fuck... Sono vicino."
 
 # game/UpdateScript0.07.rpy:15913
 translate italian htbyd_fuck_c0268b10:
 
     # L "You'd better cool it then. I want to feel some pleasure too."
+    L "Faresti meglio a raffreddarlo allora. Voglio sentire anche un po' di piacere."
 
 # game/UpdateScript0.07.rpy:15914
 translate italian htbyd_fuck_d87c2e51:
 
     # R "Ohhhh... sorry... What do you want?... Name it and I'll do it."
+    R "Ohhhh... mi dispiace... Che cosa vuoi?... Chiamalo e lo farò."
 
 # game/UpdateScript0.07.rpy:15915
 translate italian htbyd_fuck_77f570d3:
 
     # L "I just want a good fucking."
+    L "Io voglio solo una buona scopata."
 
 # game/UpdateScript0.07.rpy:15916
 translate italian htbyd_fuck_58694bce:
 
     # R "I think I can help you out with that."
+    R "Credo di poterti aiutare con questo."
 
 # game/UpdateScript0.07.rpy:15917
 translate italian htbyd_fuck_2a7a1ed1:
 
     # L "Yeah, well, you'd better not cum before I do."
+    L "Sì, beh, faresti meglio a non sperare prima di me."
 
 # game/UpdateScript0.07.rpy:15918
 translate italian htbyd_fuck_c834bbe0_1:
@@ -38319,36 +41604,43 @@ translate italian htbyd_fuck_c834bbe0_1:
 translate italian htbyd_fuck_2564041c_1:
 
     # L "That's right, [ryan]!"
+    L "Va bene, [ryan]!"
 
 # game/UpdateScript0.07.rpy:15926
 translate italian htbyd_fuck_c2c14eda_1:
 
     # L "Fuck me!"
+    L "Cazzo mio!"
 
 # game/UpdateScript0.07.rpy:15927
 translate italian htbyd_fuck_5f4a5f59_1:
 
     # L "Fuck me like your very own dirty little sister."
+    L "Cazzo me come la vostra piccola sorella sporca."
 
 # game/UpdateScript0.07.rpy:15928
 translate italian htbyd_fuck_38cf91e4_1:
 
     # L "I'm so cock hungry, I don't even care that it's my big brother's dick that's plunging in and out of my sopping wet pussy."
+    L "Sono così affamato di cazzo, non mi importa nemmeno che sia il cazzo di mio grande fratello che si immerge dentro e fuori dalla mia figa bagnata."
 
 # game/UpdateScript0.07.rpy:15929
 translate italian htbyd_fuck_88237560_1:
 
     # R "God, Lauren!... I'm not gonna last long if you keep talking like that!"
+    R "Dio, Lauren!... Non durerò a lungo se continuerai a parlare così!"
 
 # game/UpdateScript0.07.rpy:15932
 translate italian htbyd_fuck_2d77b99e_1:
 
     # L "You won't have to last much longer... I'm gonna!"
+    L "Non dovrai durare molto più a lungo... sto andandando!"
 
 # game/UpdateScript0.07.rpy:15939
 translate italian htbyd_fuck_12918519_1:
 
     # L "Ffffuuuuuck!"
+    L "Ccazzooo!"
 
 # game/UpdateScript0.07.rpy:15940
 translate italian htbyd_fuck_a314db81_3:
@@ -38360,66 +41652,79 @@ translate italian htbyd_fuck_a314db81_3:
 translate italian htbyd_fuck_68be4f9c_1:
 
     # L "That was amazing!... But don't stop fucking me!"
+    L "È stato incredibile!... ma non smettere di scoparmi!"
 
 # game/UpdateScript0.07.rpy:15942
 translate italian htbyd_fuck_ebe6d3ec:
 
     # L "No, wait!... I want to be on top."
+    L "No, aspetta!... voglio essere in alto."
 
 # game/UpdateScript0.07.rpy:15947
 translate italian htbyd_fuck_0d24faa6:
 
     # L "Oh, yeah... I kinda like being in control."
+    L "Oh, sì... Mi piace avere il controllo."
 
 # game/UpdateScript0.07.rpy:15948
 translate italian htbyd_fuck_5191f189_1:
 
     # L "And I love the feeling of that huge cock in my pussy!"
+    L "E amo la sensazione di quel cazzo enorme nella mia figa!"
 
 # game/UpdateScript0.07.rpy:15949
 translate italian htbyd_fuck_8c62b64c_1:
 
     # R "God!... Lauren, you're driving me crazy!"
+    R "Dio!... Lauren, mi stai facendo impazzi!"
 
 # game/UpdateScript0.07.rpy:15950
 translate italian htbyd_fuck_0625cac9:
 
     # R "And I love this view of your ass."
+    R "E amo questa visione del vostro culo."
 
 # game/UpdateScript0.07.rpy:15983
 translate italian dragon_cum_28ca2f27:
 
     # R "Oh fuck, Lauren!... Here it comes!"
+    R "Oh scopa, Lauren!... Ecco!"
 
 # game/UpdateScript0.07.rpy:15985
 translate italian dragon_cum_86c9617c:
 
     # L "Cum in my pussy!"
+    L "Cum in my pussy!"
 
 # game/UpdateScript0.07.rpy:15986
 translate italian dragon_cum_b4b50f48:
 
     # L "I want to feel your cum in my womb!"
+    L "Voglio sentire il tuo sperma nel mio grembo!"
 
 # game/UpdateScript0.07.rpy:15988
 translate italian dragon_cum_b8df3319:
 
     # L "Pull out!..."
+    L "Tira fuori!..."
 
 # game/UpdateScript0.07.rpy:15989
 translate italian dragon_cum_3fd5feac:
 
     # L "I'm not on birth control!"
+    L "Io non sono sul controllo delle nascite!"
 
 # game/UpdateScript0.07.rpy:16012
 translate italian dragon_cum_15114e85:
 
     # L "God, Yes!"
+    L "Dio sì!"
 
 # game/UpdateScript0.07.rpy:16019
 translate italian dragon_cum_705222d9:
 
     # L "Oh, fuck!... I feel so full!... I don't think anymore will fit!"
+    L "Oh, scopata!... mi sento così pieno!... non penso più che andrà bene!"
 
 # game/UpdateScript0.07.rpy:16028
 translate italian dragon_cum_fa70a26c:
@@ -38449,51 +41754,61 @@ translate italian dragon_cum_058ef1c2:
 translate italian dragon_cum_2ca0bc1e:
 
     # L "Are you kidding me?"
+    L "Mi stai scherzando?"
 
 # game/UpdateScript0.07.rpy:16041
 translate italian dragon_cum_2e98249e:
 
     # L "I told you, I'm not on birth control!"
+    L "Vi ho detto, non sono sul controllo delle nascite!"
 
 # game/UpdateScript0.07.rpy:16042
 translate italian dragon_cum_86977061:
 
     # L "Not only did you cum inside, you filled me so full, it'll take all week to drain out of my poor cum-stuffed womb."
+    L "Non solo hai sperperato dentro, mi hai riempito così pieno, ci vorrà tutta la settimana per svuotare dal mio povero grembo ripieno di sperma."
 
 # game/UpdateScript0.07.rpy:16044
 translate italian dragon_cum_15070ba5:
 
     # L "God!... How did you refill your cum reserves so fast?"
+    L "Dio!... Come hai ricaricato le riserve di sperma così velocemente?"
 
 # game/UpdateScript0.07.rpy:16045
 translate italian dragon_cum_8fb5b6ca:
 
     # L "You filled me so full, it'll take all week to drain out of my fertile little cum-stuffed womb."
+    L "Mi hai riempito così pieno, ci vorrà tutta la settimana per svuotare dal mio fertile grembo imbottito di cum."
 
 # game/UpdateScript0.07.rpy:16046
 translate italian dragon_cum_9871bed2:
 
     # L "I'm going to get pregnant for sure!"
+    L "Sicuramente sarò incinta!"
 
 # game/UpdateScript0.07.rpy:16047
 translate italian dragon_cum_5c0e2b8a:
 
     # R "Sorry... I'm afraid you're going to have to go see the pharmacist again."
+    R "Mi dispiace... Temo che dovrai andare a vedere di nuovo il farmacista."
 
 # game/UpdateScript0.07.rpy:16048
 translate italian dragon_cum_30f570bb:
 
     # L "Lucky for you, the government covers the cost, or I'd make you pay for the pill."
+    L "Fortunato per te, il governo copre il costo, o io ti farei pagare per la pillola."
 
 # game/UpdateScript0.07.rpy:16049
 translate italian dragon_cum_7660a580:
 
     # L "I'd better stop by and see that creepy dude on the way back to school."
+    L "Farei meglio a fermarmi a vedere quel tizio raccapricciante sulla via del ritorno a scuola."
 
 # game/UpdateScript0.07.rpy:16052
 translate italian dragon_cum_f947d67a:
 
     # R "You could just let me start fucking you in the ass instead."
+    R "Potresti solo lasciarmi iniziare a scoparti nel culo invece."
 
 # game/UpdateScript0.07.rpy:16056
 translate italian dragon_cum_ceb3f298:
@@ -38625,111 +41940,133 @@ translate italian dragon_cum_a1d172b4:
 translate italian dragon_cum_d64d8172:
 
     # L "So I guess I'd better get back to school before Mom grounds me."
+    L "Quindi immagino che farei meglio a tornare a scuola prima che Mamma mi parlando."
 
 # game/UpdateScript0.07.rpy:16099
 translate italian dragon_cum_82c1889e:
 
     # L "Thanks for giving me a reason to skip school, but most of all, thanks for being the best brother anyone could ask for."
+    L "Grazie per avermi dato un motivo per saltare la scuola, ma soprattutto grazie per essere il miglior fratello che chiunque possa chiedere."
 
 # game/UpdateScript0.07.rpy:16102
 translate italian dragon_cum_3a88bd2d:
 
     # Mmmwwaaah"
+    new "Mmmwwaaah"
 
 # game/UpdateScript0.07.rpy:16103
 translate italian dragon_cum_ea9de4a4:
 
     # L "I'll see you at home."
+    L "Ci vediamo a casa."
 
 # game/UpdateScript0.07.rpy:16111
 translate italian dragon_cum_0e2638eb:
 
     # L "Is that what you call pulling out?"
+    L "È quello che si chiama tirando fuori?"
 
 # game/UpdateScript0.07.rpy:16112
 translate italian dragon_cum_2e98249e_1:
 
     # L "I told you, I'm not on birth control!"
+    L "Vi ho detto, non sono sul controllo delle nascite!"
 
 # game/UpdateScript0.07.rpy:16113
 translate italian dragon_cum_86977061_1:
 
     # L "Not only did you cum inside, you filled me so full, it'll take all week to drain out of my poor cum-stuffed womb."
+    L "Non solo hai sperperato dentro, mi hai riempito così pieno, ci vorrà tutta la settimana per svuotare dal mio povero grembo ripieno di sperma."
 
 # game/UpdateScript0.07.rpy:16115
 translate italian dragon_cum_53d0fbb2:
 
     # L "God!... That was so much cum!"
+    L "Dio!... Era così tanto sperma!"
 
 # game/UpdateScript0.07.rpy:16116
 translate italian dragon_cum_8fb5b6ca_1:
 
     # L "You filled me so full, it'll take all week to drain out of my fertile little cum-stuffed womb."
+    L "Mi hai riempito così pieno, ci vorrà tutta la settimana per svuotare dal mio fertile grembo imbottito di cum."
 
 # game/UpdateScript0.07.rpy:16117
 translate italian dragon_cum_9871bed2_1:
 
     # L "I'm going to get pregnant for sure!"
+    L "Sicuramente sarò incinta!"
 
 # game/UpdateScript0.07.rpy:16118
 translate italian dragon_cum_a63bd450:
 
     # R "Just make sure to take a morning after pill."
+    R "Basta assicurarsi di prendere una mattina dopo la pillola."
 
 # game/UpdateScript0.07.rpy:16119
 translate italian dragon_cum_5f012dc5:
 
     # L "That's easy for you to say... You don't have to go ask the pharmacist for one, and have him look at you with those judgmental eyes."
+    L "È facile per voi dire... Non devi andare a chiedere al farmacista per uno, e fargli guardare con quegli occhi giudiziali."
 
 # game/UpdateScript0.07.rpy:16120
 translate italian dragon_cum_43682127:
 
     # L "Or are they lustful... It's hard to tell."
+    L "O sono lussuriosi... È difficile dirlo."
 
 # game/UpdateScript0.07.rpy:16121
 translate italian dragon_cum_7601d998:
 
     # L "It doesn't matter, it makes me uncomfortable."
+    L "Non importa, mi fa scomodo."
 
 # game/UpdateScript0.07.rpy:16122
 translate italian dragon_cum_beb535a8:
 
     # R "Just get a prescription and go on regular birth control then."
+    R "Basta ottenere una prescrizione e andare sul controllo delle nascite regolari allora."
 
 # game/UpdateScript0.07.rpy:16125
 translate italian dragon_cum_bf28e833:
 
     # L "I'd have to get Mom's permission to get a prescription, and she's going to want to know who I'm fucking."
+    L "Dovrei ottenere il permesso di mamma per ottenere una prescrizione, e lei sta andando a sapere chi sto fucking."
 
 # game/UpdateScript0.07.rpy:16126
 translate italian dragon_cum_dd1bd87e:
 
     # R "So tell her it's someone else."
+    R "Quindi le dica che è qualcun altro."
 
 # game/UpdateScript0.07.rpy:16127
 translate italian dragon_cum_558846be:
 
     # L "Yeah right, that'll go over well... She'll want to have a talk about safe sex with that person, and I don't think I could pay any guys I know to sit through one of her safe sex lectures without actually letting them fuck me."
+    L "Sì, giusto, che andrà oltre bene... Lei vorrà parlare di sicuro sesso con quella persona, e non penso che potrei pagare qualsiasi tipo che so di sedersi attraverso una delle sue lezioni di sesso sicure senza in realtà lasciarli scopare me."
 
 # game/UpdateScript0.07.rpy:16128
 translate italian dragon_cum_93c58aba:
 
     # R "You've got a point there."
+    R "Hai un punto lì."
 
 # game/UpdateScript0.07.rpy:16129
 translate italian dragon_cum_daeced62:
 
     # RT "{i}There must be something I could do to help her out with this.{/i}"
+    RT "{i}Ci deve essere qualcosa che potrei fare per aiutarla con questo.{/i}"
 
 # game/UpdateScript0.07.rpy:16130
 translate italian dragon_cum_6533bab5:
 
     # R "Oh... I know!"
+    R "Oh... lo so!"
 
 # game/UpdateScript0.07.rpy:16133
 translate italian dragon_cum_f0ec02af:
 
     # R "What if we just switch over to anal sex?"
+    R "E se passassimo al sesso anale?"
 
 # game/UpdateScript0.07.rpy:16137
 translate italian dragon_cum_ceb3f298_1:
@@ -38861,71 +42198,85 @@ translate italian dragon_cum_a1d172b4_1:
 translate italian dragon_cum_1dc035da:
 
     # L "Ok..."
+    L "Va bene..."
 
 # game/UpdateScript0.07.rpy:16180
 translate italian dragon_cum_d64d8172_1:
 
     # L "So I guess I'd better get back to school before Mom grounds me."
+    L "Quindi immagino che farei meglio a tornare a scuola prima che Mamma mi parlando."
 
 # game/UpdateScript0.07.rpy:16181
 translate italian dragon_cum_82c1889e_1:
 
     # L "Thanks for giving me a reason to skip school, but most of all, thanks for being the best brother anyone could ask for."
+    L "Grazie per avermi dato un motivo per saltare la scuola, ma soprattutto grazie per essere il miglior fratello che chiunque possa chiedere."
 
 # game/UpdateScript0.07.rpy:16184
 translate italian dragon_cum_3a88bd2d_1:
 
     # Mmmwwaaah"
+    new "Mmmwwaaah"
 
 # game/UpdateScript0.07.rpy:16185
 translate italian dragon_cum_ea9de4a4_1:
 
     # L "I'll see you at home."
+    L "Ci vediamo a casa."
 
 # game/UpdateScript0.07.rpy:16221
 translate italian dragon_cum_c34863eb:
 
     # L "Good God, [ryan]!"
+    L "Buon Dio, [ryan]!"
 
 # game/UpdateScript0.07.rpy:16222
 translate italian dragon_cum_25385d76:
 
     # L "You glazed me like a cinnamon roll."
+    L "Mi hai smaltata come un rotolo di cannella."
 
 # game/UpdateScript0.07.rpy:16223
 translate italian dragon_cum_ee868f8b:
 
     # L "Fuck!... That's a lot of cum!"
+    L "Fuck!... È molto sperma!"
 
 # game/UpdateScript0.07.rpy:16230
 translate italian dragon_cum_4d6c48ac:
 
     # L "Mmmm.... Thanks for letting us use the company perk again."
+    L "Mmmm.... Grazie per averci permesso di utilizzare di nuovo il perk aziendale."
 
 # game/UpdateScript0.07.rpy:16231
 translate italian dragon_cum_b667f2e1:
 
     # R "It was my pleasure entirely."
+    R "E 'stato il mio piacere completamente."
 
 # game/UpdateScript0.07.rpy:16232
 translate italian dragon_cum_2f1309aa:
 
     # R "As always, I enjoyed that so much!"
+    R "Come sempre mi è piaciuto tanto!"
 
 # game/UpdateScript0.07.rpy:16233
 translate italian dragon_cum_bc755358:
 
     # L "I can always tell by how much you cum."
+    L "Posso sempre dire da quanto voi cum."
 
 # game/UpdateScript0.07.rpy:16234
 translate italian dragon_cum_23de0012:
 
     # R "There is one thing that could make it better though."
+    R "C'è una cosa che potrebbe renderlo migliore."
 
 # game/UpdateScript0.07.rpy:16237
 translate italian dragon_cum_e0a7d388:
 
     # R "We could try some butt stuff."
+    R "Potremmo provare qualche roba di sedere."
 
 # game/UpdateScript0.07.rpy:16241
 translate italian dragon_cum_ceb3f298_2:
@@ -38961,6 +42312,7 @@ translate italian dragon_cum_0ec656cc_2:
 translate italian dragon_cum_c0778900:
 
     # L "Hey... yeah... That might be really..."
+    L "Hey... sì... Questo potrebbe essere veramente..."
 
 # game/UpdateScript0.07.rpy:16254
 translate italian dragon_cum_3f193939_2:
@@ -39056,31 +42408,37 @@ translate italian dragon_cum_a1d172b4_2:
 translate italian dragon_cum_c1943f55:
 
     # R "Wait, no, never mind... It doesn't get any better than this."
+    R "Aspetta, no, non pensa... Non c'è niente di meglio."
 
 # game/UpdateScript0.07.rpy:16284
 translate italian dragon_cum_b05d2a32:
 
     # L "I still can't believe we're doing this."
+    L "Non riesco ancora a credere che stiamo facendo questo."
 
 # game/UpdateScript0.07.rpy:16285
 translate italian dragon_cum_f49cd94e:
 
     # L "Mom would cut your dick off if she knew."
+    L "La mamma avrebbe tagliato il cazzo fuori se sapeva."
 
 # game/UpdateScript0.07.rpy:16286
 translate italian dragon_cum_d9150599:
 
     # R "And she'd ground you to your room until you're thirty five."
+    R "E ti ha messo nella tua stanza fino a trenta cinque."
 
 # game/UpdateScript0.07.rpy:16287
 translate italian dragon_cum_f1b361d9:
 
     # L "Yeah, we'd better keep this quiet."
+    L "Sì, faremmo meglio a mantenere questa tranquillità."
 
 # game/UpdateScript0.07.rpy:16288
 translate italian dragon_cum_6be7d956:
 
     # L "Well, I'd better get back to school before Mom starts to suspect something's up then."
+    L "Beh, farei meglio a tornare a scuola prima che la mamma inizi a sospettare qualcosa all'epoca."
 
 # game/UpdateScript0.07.rpy:16291
 translate italian dragon_cum_ad15da71:
@@ -39092,36 +42450,43 @@ translate italian dragon_cum_ad15da71:
 translate italian dragon_cum_ea9de4a4_2:
 
     # L "I'll see you at home."
+    L "Ci vediamo a casa."
 
 # game/UpdateScript0.07.rpy:16301
 translate italian dragon_cum_a89dea9a:
 
     # L "I'm so glad we've got a good place to fool around. It's so much harder to sneak this kind of thing at home."
+    L "Sono così felice che abbiamo un buon posto per scherzare. È molto più difficile intrufolarsi in questo genere di cose a casa."
 
 # game/UpdateScript0.07.rpy:16302
 translate italian dragon_cum_f06c0f89:
 
     # L "Even though the thrill of getting caught makes it extra exciting, being able to take the time to enjoy it makes it really nice."
+    L "Anche se l'emozione di farsi catturare lo rende più eccitante, potersi prendere il tempo per goderlo lo rende davvero bello."
 
 # game/UpdateScript0.07.rpy:16303
 translate italian dragon_cum_fb1c3855:
 
     # R "And I enjoyed that so much!"
+    R "E mi è piaciuto tanto!"
 
 # game/UpdateScript0.07.rpy:16304
 translate italian dragon_cum_073642a5:
 
     # L "I can tell. I've never seen so much cum."
+    L "Riesco a dirlo. Non ho mai visto così tanto cum."
 
 # game/UpdateScript0.07.rpy:16305
 translate italian dragon_cum_23de0012_1:
 
     # R "There is one thing that could make it better though."
+    R "C'è una cosa che potrebbe renderlo migliore."
 
 # game/UpdateScript0.07.rpy:16308
 translate italian dragon_cum_e0a7d388_1:
 
     # R "We could try some butt stuff."
+    R "Potremmo provare qualche roba di sedere."
 
 # game/UpdateScript0.07.rpy:16312
 translate italian dragon_cum_ceb3f298_3:
@@ -39157,6 +42522,7 @@ translate italian dragon_cum_0ec656cc_3:
 translate italian dragon_cum_c0778900_1:
 
     # L "Hey... yeah... That might be really..."
+    L "Hey... sì... Questo potrebbe essere veramente..."
 
 # game/UpdateScript0.07.rpy:16325
 translate italian dragon_cum_3f193939_3:
@@ -39252,41 +42618,49 @@ translate italian dragon_cum_a1d172b4_3:
 translate italian dragon_cum_c1943f55_1:
 
     # R "Wait, no, never mind... It doesn't get any better than this."
+    R "Aspetta, no, non pensa... Non c'è niente di meglio."
 
 # game/UpdateScript0.07.rpy:16355
 translate italian dragon_cum_b02c8024:
 
     # L "Can you even believe we're doing this?"
+    L "Puoi anche credere che stiamo facendo questo?"
 
 # game/UpdateScript0.07.rpy:16356
 translate italian dragon_cum_9a14a575:
 
     # L "Can you imagine what Mom would do if she knew we were skipping school to do this?"
+    L "Riesci a immaginare cosa farebbe la mamma se sapesse che stavamo saltando la scuola per farlo?"
 
 # game/UpdateScript0.07.rpy:16357
 translate italian dragon_cum_123bfd49:
 
     # R "Well, in fairness, we're skipping school to make enough money to save her ass from the Mafia, and help our family... What we did just now is one of our amazing company perks."
+    R "Beh, in tutta onestà, stiamo saltando la scuola per fare abbastanza soldi per salvare il suo culo dalla mafia, e aiutare la nostra famiglia.. Quello che abbiamo appena fatto è uno dei nostri vantaggi aziendali sorprendenti."
 
 # game/UpdateScript0.07.rpy:16358
 translate italian dragon_cum_1d8bf105:
 
     # L "Pretty unique perk... I've never heard of any other company that allows you to fuck your brother."
+    L "Pretty unique perk... Non ho mai sentito parlare di un'altra azienda che ti permette di scopare tuo fratello."
 
 # game/UpdateScript0.07.rpy:16359
 translate italian dragon_cum_a7fff65d:
 
     # R "Yeah, that perk only exists in the best family businesses."
+    R "Sì, questo vantaggio esiste solo nelle migliori aziende familiari."
 
 # game/UpdateScript0.07.rpy:16362
 translate italian dragon_cum_2bc74974:
 
     # L "Well, thank you for starting such a good family business, then."
+    L "Beh, grazie per aver avviato una così buona attività familiare, allora."
 
 # game/UpdateScript0.07.rpy:16363
 translate italian dragon_cum_6582b5c1:
 
     # L "Now, I'd better get back to school before Mom sends out the hall monitor to look for me."
+    L "Ora farei meglio a tornare a scuola prima che la mamma invii il monitor della sala per cercarmi."
 
 # game/UpdateScript0.07.rpy:16366
 translate italian dragon_cum_ad15da71_1:
@@ -39298,36 +42672,43 @@ translate italian dragon_cum_ad15da71_1:
 translate italian dragon_cum_ea9de4a4_3:
 
     # L "I'll see you at home."
+    L "Ci vediamo a casa."
 
 # game/UpdateScript0.07.rpy:16381
 translate italian will_meeting_map_7e1d9f4d:
 
     # RT "{i}Mom can't ever get a meeting with Will Tylor... maybe if I just drop in on him at his office, I'll have better luck.{/i}"
+    RT "{i}Mamma non può mai ottenere un incontro con Will Tylor... forse se mi limito a cadere su di lui nel suo ufficio, ho meglio fortuna.{/i}"
 
 # game/UpdateScript0.07.rpy:16382
 translate italian will_meeting_map_46165e5e:
 
     # RT "{i}My GPS says his practice isn't very far away... Should I try my luck?{/i}"
+    RT "{i}Il mio GPS dice che la sua pratica non è molto lontana... Devo provare la mia fortuna?{/i}"
 
 # game/UpdateScript0.07.rpy:16398
 translate italian diaz_help_map_5e83427d:
 
     # RT "{i}Should I see if Agent Diaz is in her van again?{/i}"
+    RT "{i}Dovrei vedere se l'agente Diaz è di nuovo nel suo furgone?{/i}"
 
 # game/UpdateScript0.07.rpy:16408
 translate italian diaz_help_map_37c559c9:
 
     # RT "{i}Lauren said she's noticed a suspicious van parked down the street from our house most evenings.{/i}"
+    RT "{i}Lauren ha detto che ha notato un furgoncino sospetto parcheggiato lungo la strada dalla nostra casa più sere.{/i}"
 
 # game/UpdateScript0.07.rpy:16409
 translate italian diaz_help_map_406cfb53:
 
     # RT "{i}Maybe I should check to see if it's an FBI van... I do need to talk to Diaz about Lauren's campaign.{/i}"
+    RT "{i}Forse dovrei controllare se si tratta di un furgoncino FBI... devo parlare con Diaz della campagna di Lauren.{/i}"
 
 # game/UpdateScript0.07.rpy:16421
 translate italian diaz_help_3fb503e3:
 
     # RT "{i}I wonder if Diaz has dug up any dirt on Matt yet?{/i}"
+    RT "{i}Mi chiedo se Diaz abbia ancora scavato uno sporco su Matt?{/i}"
 
 # game/UpdateScript0.07.rpy:16424
 translate italian diaz_help_a9009371:
@@ -39339,16 +42720,19 @@ translate italian diaz_help_a9009371:
 translate italian diaz_help_03649242:
 
     # AD "You again?"
+    AD "Sei di nuovo?"
 
 # game/UpdateScript0.07.rpy:16430
 translate italian diaz_help_dfa93d1a:
 
     # R "Yes, me again... I wanted to know..."
+    R "Sì, di nuovo... volevo saperlo..."
 
 # game/UpdateScript0.07.rpy:16431
 translate italian diaz_help_28095139:
 
     # AD "If I've dug up any dirt on Matt yet?"
+    AD "Se ho già scavato uno sporco su Matt?"
 
 # game/UpdateScript0.07.rpy:16432
 translate italian diaz_help_61fc6dfd:
@@ -39360,81 +42744,97 @@ translate italian diaz_help_61fc6dfd:
 translate italian diaz_help_5cd847e4:
 
     # AD "Come on in... Let's talk about it inside."
+    AD "Vieni in... Parliamo di esso dentro."
 
 # game/UpdateScript0.07.rpy:16436
 translate italian diaz_help_134bc321:
 
     # AD "I'm sorry, but I don't have any dirt on Matt yet."
+    AD "Mi dispiace, ma non ho ancora sporcizia su Matt."
 
 # game/UpdateScript0.07.rpy:16437
 translate italian diaz_help_2083e6ab:
 
     # AD "I'm trying to, but I've had to spend most of my time on other things."
+    AD "Sto cercando di fare, ma ho dovuto passare la maggior parte del mio tempo su altre cose."
 
 # game/UpdateScript0.07.rpy:16438
 translate italian diaz_help_65aa1816:
 
     # R "Other things?... You said if I installed your peep-cam, you'd get right on it."
+    R "Altre cose?... Hai detto se avessi installato il tuo peep-cam, avresti trovato giusto su di esso."
 
 # game/UpdateScript0.07.rpy:16441
 translate italian diaz_help_30176a6d:
 
     # AD "Yeah, well, some other shit's been going down, and it all involves your family."
+    AD "Sì, beh, qualche altra merda stava andando giù, e tutto coinvolge la vostra famiglia."
 
 # game/UpdateScript0.07.rpy:16442
 translate italian diaz_help_a1a42eaa:
 
     # R "My family?... What's been going on?"
+    R "La mia famiglia?... Che cosa sta succedendo?"
 
 # game/UpdateScript0.07.rpy:16443
 translate italian diaz_help_0b0bd8ce:
 
     # AD "Nothing that involves you... yet."
+    AD "Nulla che ti coinvolge... ancora."
 
 # game/UpdateScript0.07.rpy:16444
 translate italian diaz_help_fef4a84f:
 
     # AD "Just relax and let me handle it."
+    AD "Rilassati e lasciami gestire."
 
 # game/UpdateScript0.07.rpy:16447
 translate italian diaz_help_b3007d2f:
 
     # AD "Keep checking back... I'll have some dirt for you soon."
+    AD "Continua a controllare indietro... Presto avrò qualche sporco per te."
 
 # game/UpdateScript0.07.rpy:16448
 translate italian diaz_help_0f5aab2b:
 
     # AD "In the meantime, might I suggest you continue to focus your energy on perving on your family at night... I really enjoy those videos."
+    AD "Nel frattempo, vorrei suggerirvi di continuare a concentrare la vostra energia sulla perving sulla vostra famiglia di notte... Mi piace davvero quei video."
 
 # game/UpdateScript0.07.rpy:16449
 translate italian diaz_help_744c480f:
 
     # AD "Oh... And if you get the chance, try to make your aunt a little more submissive... She's a fiery one."
+    AD "Oh... E se ottieni l'occasione, prova a rendere tua zia un po' più sottomessa... Lei è una persona infuocata."
 
 # game/UpdateScript0.07.rpy:16450
 translate italian diaz_help_cfc6e8f7:
 
     # R "It's so weird that you know so much about us."
+    R "È così strano che tu sai così tanto su di noi."
 
 # game/UpdateScript0.07.rpy:16453
 translate italian diaz_help_4bc30666:
 
     # AD "Try not to think about it... Just pretend that I'm not here watching everything you do."
+    AD "Prova a non pensarci... Fingere che io non sia qui a guardare tutto quello che fate."
 
 # game/UpdateScript0.07.rpy:16454
 translate italian diaz_help_51b5f234:
 
     # RT "{i}Uhh... That's unsettling.{/i}"
+    RT "{i}Uhh... Questo è instabile.{/i}"
 
 # game/UpdateScript0.07.rpy:16456
 translate italian diaz_help_1c0d9f60:
 
     # AD "Did you want to buy some influence for the weekly poll while you are here?"
+    AD "Hai voluto comprare qualche influenza per il sondaggio settimanale mentre sei qui?"
 
 # game/UpdateScript0.07.rpy:16459
 translate italian diaz_help_bc49455e:
 
     # R "Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
+    R "Sì, ok... finché puoi garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:16460
 translate italian diaz_help_7c6dfc79:
@@ -39470,11 +42870,13 @@ translate italian diaz_help_83b65130:
 translate italian diaz_help_0e561655:
 
     # R "Yeah, right... I'm not giving you any more money."
+    R "Sì, giusto... non ti sto dando più denaro."
 
 # game/UpdateScript0.07.rpy:16470
 translate italian diaz_help_85bbc5fc:
 
     # AD "Ok, but if you change your mind, you know where to find me."
+    AD "Ok, ma se si cambia idea, si sa dove trovarmi."
 
 # game/UpdateScript0.07.rpy:16471
 translate italian diaz_help_42e46acb:
@@ -39486,16 +42888,19 @@ translate italian diaz_help_42e46acb:
 translate italian diaz_help_b3881032:
 
     # AD "Well, if there's nothing else, I've got to get back to work."
+    AD "Beh, se non c'è niente, devo tornare a lavorare."
 
 # game/UpdateScript0.07.rpy:16477
 translate italian diaz_help_384f9cbf:
 
     # RT "{i}I guess I'd better come back next week.{/i}"
+    RT "{i}Immagino che farei meglio a tornare la settimana prossima.{/i}"
 
 # game/UpdateScript0.07.rpy:16484
 translate italian diaz_help_d10a1f15:
 
     # RT "{i}Another visit to Agent Diaz could be useful... I haven't bought any votes from her this week.{/i}"
+    RT "{i}Un'altra visita all'Agente Diaz potrebbe essere utile... Non ho acquistato alcun voto da lei questa settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:16487
 translate italian diaz_help_a9009371_1:
@@ -39507,6 +42912,7 @@ translate italian diaz_help_a9009371_1:
 translate italian diaz_help_03649242_1:
 
     # AD "You again?"
+    AD "Sei di nuovo?"
 
 # game/UpdateScript0.07.rpy:16493
 translate italian diaz_help_21bf3db3:
@@ -39524,16 +42930,19 @@ translate italian diaz_help_5a2c562c:
 translate italian diaz_help_b72b348a:
 
     # AD "Come on in."
+    AD "Avanti."
 
 # game/UpdateScript0.07.rpy:16502
 translate italian diaz_help_f3d5aefa:
 
     # AD "So, I'm guessing you're wanting to buy some votes and a special favor?"
+    AD "Quindi, immagino che tu voglia comprare qualche voto e un favore speciale?"
 
 # game/UpdateScript0.07.rpy:16505
 translate italian diaz_help_7d11fb70:
 
     # R "Yes, that is... as long as you can continue to guarantee that Lauren's vote count will go up."
+    R "Sì, questo è... fino a quando puoi continuare a garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:16506
 translate italian diaz_help_7c6dfc79_1:
@@ -39569,16 +42978,19 @@ translate italian diaz_help_83b65130_1:
 translate italian diaz_help_12a88958:
 
     # AD "Now... You ready for that favor?"
+    AD "Ora... Sei pronto per questo favore?"
 
 # game/UpdateScript0.07.rpy:16515
 translate italian diaz_help_02a98ae8:
 
     # R "Oh God, I can't wait to shove my dick back down your throat."
+    R "Oh Dio, non vedo l'ora di spegnere il mio cazzo indietro giù per la gola."
 
 # game/UpdateScript0.07.rpy:16522
 translate italian diaz_help_eaac6115:
 
     # AD "Haha... That's pretty graphic for a high school student."
+    AD "Haha... Questo è piuttosto grafico per uno studente delle superiori."
 
 # game/UpdateScript0.07.rpy:16524
 translate italian diaz_help_864030b6:
@@ -39608,11 +43020,13 @@ translate italian diaz_help_0cd0d956:
 translate italian diaz_help_ea776cbd:
 
     # RT "{i}I love hate-fucking her face!{/i}"
+    RT "{i}Amo il suo volto scopare l'odio!{/i}"
 
 # game/UpdateScript0.07.rpy:16541
 translate italian diaz_help_e307f372:
 
     # RT "{i}So what if it costs me a small fortune?{/i}"
+    RT "{i}Cosa succede se mi costa una piccola fortuna?{/i}"
 
 # game/UpdateScript0.07.rpy:16547
 translate italian diaz_help_b3c3d8b8:
@@ -39636,26 +43050,31 @@ translate italian diaz_help_e4952929:
 translate italian diaz_help_5e83425a:
 
     # R "I can't really afford it right now, but I was hoping to get a preview of the goods I'll possibly be buying in the future."
+    R "Non posso permettermi davvero in questo momento, ma speravo di ottenere un'anteprima delle merci che probabilmente comprerò in futuro."
 
 # game/UpdateScript0.07.rpy:16567
 translate italian diaz_help_88034a06:
 
     # AD "The fuck?... You've already gotten your preview."
+    AD "Il cazzo?... Hai già ottenuto la tua anteprima."
 
 # game/UpdateScript0.07.rpy:16568
 translate italian diaz_help_35154cfa:
 
     # AD "I'm not sucking your cock again unless I get some money first."
+    AD "Non sto succhiando di nuovo il tuo cazzo a meno che non ottenga un po' di soldi prima."
 
 # game/UpdateScript0.07.rpy:16569
 translate italian diaz_help_6c1618d4:
 
     # AD "Now... Would you stop wasting my time? I've got a lot of work I need to get to."
+    AD "Ora... smetteresti di perdere tempo? Ho molto lavoro che devo fare."
 
 # game/UpdateScript0.07.rpy:16578
 translate italian diaz_help_8ce0b883:
 
     # RT "{i}I've already bough influence this week, I wonder if there's anything else Diaz can do to help the campaign.{/i}"
+    RT "{i}Ho già avuto una forte influenza questa settimana, mi chiedo se ci sia qualcosa che Diaz possa fare per aiutare la campagna. {/i}"
 
 # game/UpdateScript0.07.rpy:16581
 translate italian diaz_help_a9009371_2:
@@ -39667,61 +43086,73 @@ translate italian diaz_help_a9009371_2:
 translate italian diaz_help_e685899a:
 
     # AD "Another visit?... You sure you don't have a thing for me?"
+    AD "Un'altra visita?... Sei sicuro di non avere una cosa per me?"
 
 # game/UpdateScript0.07.rpy:16587
 translate italian diaz_help_a8ecd6e3:
 
     # R "God... That's getting old."
+    R "Dio... Sta diventando vecchio."
 
 # game/UpdateScript0.07.rpy:16588
 translate italian diaz_help_f52db717:
 
     # AD "You're the one visiting me excessively."
+    AD "Sei quello che mi sta visitando in modo eccessivo."
 
 # game/UpdateScript0.07.rpy:16589
 translate italian diaz_help_2d953f55:
 
     # R "I was just wondering if there was anything else you could do to help the campaign."
+    R "Mi chiedevo solo se c'era qualcos'altro che si potesse fare per aiutare la campagna."
 
 # game/UpdateScript0.07.rpy:16590
 translate italian diaz_help_0f629136:
 
     # AD "Look, I've already sold you votes this week, I've given you dirt on Matt."
+    AD "Guarda, ti ho già venduto i voti questa settimana, ti ho dato la sporcizia su Matt."
 
 # game/UpdateScript0.07.rpy:16591
 translate italian diaz_help_62b3be32:
 
     # AD "Believe it or not, my whole world doesn't revolve around helping you."
+    AD "Credetemi o no, tutto il mio mondo non ruota intorno ad aiutarti."
 
 # game/UpdateScript0.07.rpy:16592
 translate italian diaz_help_e784e229:
 
     # AD "I've got other cases I'm working on as well."
+    AD "Ho altri casi su cui sto lavorando."
 
 # game/UpdateScript0.07.rpy:16593
 translate italian diaz_help_bbd899c3:
 
     # AD "If you still want to buy extra votes for the poll next week, come see me then."
+    AD "Se vuoi ancora comprare voti extra per il sondaggio la prossima settimana, vieni a vedermi allora."
 
 # game/UpdateScript0.07.rpy:16594
 translate italian diaz_help_b5864ad1:
 
     # AD "Otherwise, I'll see you Thursday."
+    AD "Altrimenti, ti vedremo giovedì."
 
 # game/UpdateScript0.07.rpy:16597
 translate italian diaz_help_a141385c:
 
     # RT "{i}I guess I'd better wait until next week to talk to Diaz.{/i}"
+    RT "{i}Immagino che farei meglio ad aspettare fino alla prossima settimana per parlare con Diaz.{/i}"
 
 # game/UpdateScript0.07.rpy:16604
 translate italian diaz_help_172f27fb:
 
     # RT "{i}A visit to Agent Diaz could be useful... I haven't bought any votes from her this week.{/i}"
+    RT "{i}Una visita all'agente Diaz potrebbe essere utile... Non ho acquistato alcun voto da lei questa settimana.{/i}"
 
 # game/UpdateScript0.07.rpy:16605
 translate italian diaz_help_b774f4a3:
 
     # RT "{i}I should be getting more than a few votes for five hundred dollars though.{/i}"
+    RT "{i}Dovrei ricevere più di pochi voti per cinquecento dollari però.{/i}"
 
 # game/UpdateScript0.07.rpy:16608
 translate italian diaz_help_a9009371_3:
@@ -39925,21 +43356,25 @@ translate italian diaz_help_5ff54e06:
 translate italian diaz_help_5e83425a_1:
 
     # R "I can't really afford it right now, but I was hoping to get a preview of the goods I'll possibly be buying in the future."
+    R "Non posso permettermi davvero in questo momento, ma speravo di ottenere un'anteprima delle merci che probabilmente comprerò in futuro."
 
 # game/UpdateScript0.07.rpy:16694
 translate italian diaz_help_703e240b:
 
     # AD "You presumptuous little fucker."
+    AD "Hai presuntuoso piccolo scherzo."
 
 # game/UpdateScript0.07.rpy:16695
 translate italian diaz_help_7bc6811a:
 
     # AD "I can't even believe your nerve."
+    AD "Non riesco nemmeno a credere al tuo nervo."
 
 # game/UpdateScript0.07.rpy:16702
 translate italian diaz_help_8e1d080e:
 
     # AD "Haha... It's also one of the things I like most about you."
+    AD "Haha... È anche una delle cose che mi piacciono di più di te."
 
 # game/UpdateScript0.07.rpy:16703
 translate italian diaz_help_bdd3f8f2:
@@ -39951,6 +43386,7 @@ translate italian diaz_help_bdd3f8f2:
 translate italian diaz_help_59f26dc0:
 
     # AD "Alright, I'll give you a little trial of what you can expect in the future."
+    AD "Bene, ti farò una piccola prova di quello che puoi aspettarti in futuro."
 
 # game/UpdateScript0.07.rpy:16705
 translate italian diaz_help_f6b51e87_1:
@@ -39962,16 +43398,19 @@ translate italian diaz_help_f6b51e87_1:
 translate italian diaz_help_6d7996f4:
 
     # RT "{i}I can't believe that worked!{/i}"
+    RT "{i}Non posso credere che abbia funzionato!{/i}"
 
 # game/UpdateScript0.07.rpy:16707
 translate italian diaz_help_0fa42448:
 
     # AD "I'll admit... I've been wanting to get another look at that cock since the last time I saw it."
+    AD "Lo ammetto... Ho voluto ottenere un'altra occhiata a quel cazzo dall'ultima volta che l'ho visto."
 
 # game/UpdateScript0.07.rpy:16708
 translate italian diaz_help_28dd3cc2:
 
     # AD "So, are you ready to get your dick sucked?"
+    AD "Quindi, sei pronto per ottenere il vostro cazzo succhiato?"
 
 # game/UpdateScript0.07.rpy:16709
 translate italian diaz_help_39bc9b06_1:
@@ -40043,6 +43482,7 @@ translate italian diaz_help_e4952929_1:
 translate italian diaz_help_9f631263:
 
     # RT "{i}I wonder if there's anything else Diaz can do to help the campaign.{/i}"
+    RT "{i}Mi chiedo se ci sia qualcos'altro che Diaz può fare per aiutare la campagna.{/i}"
 
 # game/UpdateScript0.07.rpy:16755
 translate italian diaz_help_a9009371_4:
@@ -40054,51 +43494,61 @@ translate italian diaz_help_a9009371_4:
 translate italian diaz_help_e1f075ab:
 
     # AD "Another visit?... Are you falling in love with me or something?"
+    AD "Un'altra visita?... Ti innamori di me o di qualcosa?"
 
 # game/UpdateScript0.07.rpy:16761
 translate italian diaz_help_99994c96:
 
     # R "What?... How could I fall in love with an evil witch who's exploiting me for money or favors with my sister?"
+    R "Cosa?... Come potrei innamorarmi di una strega malvagia che mi sta sfruttando per soldi o per favore con mia sorella?"
 
 # game/UpdateScript0.07.rpy:16762
 translate italian diaz_help_6e0f26c5:
 
     # AD "I don't know... I've just noticed your visits are getting excessive."
+    AD "Non lo so... ho appena notato che le vostre visite sono sempre eccessive."
 
 # game/UpdateScript0.07.rpy:16763
 translate italian diaz_help_2d953f55_1:
 
     # R "I was just wondering if there was anything else you could do to help the campaign."
+    R "Mi chiedevo solo se c'era qualcos'altro che si potesse fare per aiutare la campagna."
 
 # game/UpdateScript0.07.rpy:16764
 translate italian diaz_help_f0f448ae:
 
     # AD "Look, I've already sold you votes this week, and gave you dirt on Matt."
+    AD "Guarda, ti ho già venduto i voti questa settimana, e ti ho dato sporco su Matt."
 
 # game/UpdateScript0.07.rpy:16765
 translate italian diaz_help_62b3be32_1:
 
     # AD "Believe it or not, my whole world doesn't revolve around helping you."
+    AD "Credetemi o no, tutto il mio mondo non ruota intorno ad aiutarti."
 
 # game/UpdateScript0.07.rpy:16766
 translate italian diaz_help_e784e229_1:
 
     # AD "I've got other cases I'm working on as well."
+    AD "Ho altri casi su cui sto lavorando."
 
 # game/UpdateScript0.07.rpy:16767
 translate italian diaz_help_bbd899c3_1:
 
     # AD "If you still want to buy extra votes for the poll next week, come see me then."
+    AD "Se vuoi ancora comprare voti extra per il sondaggio la prossima settimana, vieni a vedermi allora."
 
 # game/UpdateScript0.07.rpy:16768
 translate italian diaz_help_b5864ad1_1:
 
     # AD "Otherwise, I'll see you Thursday."
+    AD "Altrimenti, ti vedremo giovedì."
 
 # game/UpdateScript0.07.rpy:16771
 translate italian diaz_help_a141385c_1:
 
     # RT "{i}I guess I'd better wait until next week to talk to Diaz.{/i}"
+    RT "{i}Immagino che farei meglio ad aspettare fino alla prossima settimana per parlare con Diaz.{/i}"
 
 # game/UpdateScript0.07.rpy:16778
 translate italian diaz_help_cac7c3e1:
@@ -40722,56 +44172,67 @@ translate italian diaz_help_f992eef6:
 translate italian diaz_help_c67e0191:
 
     # R "But, I wanted to ask..."
+    R "Ma, volevo chiedere..."
 
 # game/UpdateScript0.07.rpy:16961
 translate italian diaz_help_36155837:
 
     # AD "No time. Come see me tomorrow."
+    AD "Non c'è tempo. Vieni a trovarmi domani."
 
 # game/UpdateScript0.07.rpy:16962
 translate italian diaz_help_8f49ce31:
 
     # R "Will you at least send that video to my phone?"
+    R "Spedirai almeno quel video al mio telefono?"
 
 # game/UpdateScript0.07.rpy:16963
 translate italian diaz_help_902247a0:
 
     # AD "Already done, in fact I already took the liberty of downloading it into your photo library."
+    AD "Già fatto, infatti mi sono già preso la libertà di scaricarlo nella tua libreria di foto."
 
 # game/UpdateScript0.07.rpy:16964
 translate italian diaz_help_0f0dbded:
 
     # R "But how?"
+    R "Ma come?"
 
 # game/UpdateScript0.07.rpy:16965
 translate italian diaz_help_135bd7af:
 
     # AD "FBI... remember?"
+    AD "FBI... ricordare?"
 
 # game/UpdateScript0.07.rpy:16966
 translate italian diaz_help_ed2c3d29:
 
     # R "Right."
+    R "A destra."
 
 # game/UpdateScript0.07.rpy:16967
 translate italian diaz_help_e7ab906f:
 
     # AD "Now, go!"
+    AD "Ora vai!"
 
 # game/UpdateScript0.07.rpy:16970
 translate italian diaz_help_93148833:
 
     # RT "{i}I wonder how she keeps all her shady dealings secret from her higher ups at the FBI?{/i}"
+    RT "{i}Mi chiedo come lei mantenga segrete tutti i suoi rapporti ombreggiati dai suoi alti al FBI?{/i}"
 
 # game/UpdateScript0.07.rpy:16971
 translate italian diaz_help_990edeee:
 
     # RT "{i}Maybe they're corrupt as well.{/i}"
+    RT "{i}Forse sono anche corrotti.{/i}"
 
 # game/UpdateScript0.07.rpy:16979
 translate italian diaz_help_897ab6d6:
 
     # RT "{i}I wonder if Diaz has found any dirt on Matt yet.{/i}"
+    RT "{i}Mi chiedo se Diaz abbia ancora trovato uno sporco su Matt.{/i}"
 
 # game/UpdateScript0.07.rpy:16982
 translate italian diaz_help_a9009371_6:
@@ -40783,31 +44244,37 @@ translate italian diaz_help_a9009371_6:
 translate italian diaz_help_eb05623c:
 
     # AD "To what do I owe the pleasure?... Can I help you with something?"
+    AD "A cosa devo il piacere?... Posso aiutarti con qualcosa?"
 
 # game/UpdateScript0.07.rpy:16988
 translate italian diaz_help_ca0c9e92:
 
     # R "Did you find anything on Matt yet?"
+    R "Hai già trovato qualcosa su Matt?"
 
 # game/UpdateScript0.07.rpy:16989
 translate italian diaz_help_f4af6f18:
 
     # AD "Patience, you've hardly given me any time."
+    AD "Pazienza, appena mi hai dato qualsiasi momento."
 
 # game/UpdateScript0.07.rpy:16990
 translate italian diaz_help_f7203e01:
 
     # AD "Come back next week, and I'm sure I'll have something for you by then."
+    AD "Tornate la settimana prossima, e sono sicuro che avrò qualcosa per voi fino a quel momento."
 
 # game/UpdateScript0.07.rpy:16992
 translate italian diaz_help_1c0d9f60_1:
 
     # AD "Did you want to buy some influence for the weekly poll while you are here?"
+    AD "Hai voluto comprare qualche influenza per il sondaggio settimanale mentre sei qui?"
 
 # game/UpdateScript0.07.rpy:16995
 translate italian diaz_help_bc49455e_1:
 
     # R "Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
+    R "Sì, ok... finché puoi garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:16996
 translate italian diaz_help_7c6dfc79_3:
@@ -40843,11 +44310,13 @@ translate italian diaz_help_83b65130_3:
 translate italian diaz_help_0e561655_1:
 
     # R "Yeah, right... I'm not giving you any more money."
+    R "Sì, giusto... non ti sto dando più denaro."
 
 # game/UpdateScript0.07.rpy:17006
 translate italian diaz_help_85bbc5fc_1:
 
     # AD "Ok, but if you change your mind, you know where to find me."
+    AD "Ok, ma se si cambia idea, si sa dove trovarmi."
 
 # game/UpdateScript0.07.rpy:17007
 translate italian diaz_help_42e46acb_1:
@@ -40859,26 +44328,31 @@ translate italian diaz_help_42e46acb_1:
 translate italian diaz_help_b3881032_1:
 
     # AD "Well, if there's nothing else, I've got to get back to work."
+    AD "Beh, se non c'è niente, devo tornare a lavorare."
 
 # game/UpdateScript0.07.rpy:17013
 translate italian diaz_help_384f9cbf_1:
 
     # RT "{i}I guess I'd better come back next week.{/i}"
+    RT "{i}Immagino che farei meglio a tornare la settimana prossima.{/i}"
 
 # game/UpdateScript0.07.rpy:17020
 translate italian diaz_help_b980412a:
 
     # RT "{i}Lauren helped me set up the spy cam in the girls' locker room.{/i}"
+    RT "{i}Lauren mi ha aiutato a impostare la spia cam nello spogliatoio delle ragazze.{/i}"
 
 # game/UpdateScript0.07.rpy:17021
 translate italian diaz_help_ccd2eb06:
 
     # RT "{i}Hopefully it won't take long for Agent Diaz to find some dirt on Matt.{/i}"
+    RT "{i}Si spera che non ci vorrà molto tempo perché l'Agente Diaz trovi uno sporco su Matt.{/i}"
 
 # game/UpdateScript0.07.rpy:17022
 translate italian diaz_help_b02a3e18:
 
     # RT "{i}She also owes me a handjob... To completion this time... She better come through.{/i}"
+    RT "{i}Mi deve anche un handjob... Per completare questa volta... È meglio che passi. {/i}"
 
 # game/UpdateScript0.07.rpy:17025
 translate italian diaz_help_a9009371_7:
@@ -40890,51 +44364,61 @@ translate italian diaz_help_a9009371_7:
 translate italian diaz_help_41643054:
 
     # AD "Well well, if it isn't the twerp."
+    AD "Bene, se non è il twerp."
 
 # game/UpdateScript0.07.rpy:17031
 translate italian diaz_help_77f282dd:
 
     # AD "Nice job on that spy cam, I've already recorded several hours of... important investigatory content."
+    AD "Bel lavoro su quella spia cam, ho già registrato diverse ore di... importanti contenuti investigativi."
 
 # game/UpdateScript0.07.rpy:17032
 translate italian diaz_help_c837c131:
 
     # AD "I hope it wasn't too much trouble?"
+    AD "Spero che non sia stato troppo problemi?"
 
 # game/UpdateScript0.07.rpy:17033
 translate italian diaz_help_30ba2c6d:
 
     # R "Oh, no... I just had to sneak through a locker room full of girls... You know... super easy."
+    R "Oh, no... Ho appena dovuto passare attraverso un armadietto pieno di ragazze... sa... super facile."
 
 # game/UpdateScript0.07.rpy:17034
 translate italian diaz_help_e65c2f95:
 
     # AD "Well, the important thing is you did it."
+    AD "Beh, la cosa importante è che l'hai fatto."
 
 # game/UpdateScript0.07.rpy:17035
 translate italian diaz_help_9374719d:
 
     # AD "Do you want to come in?"
+    AD "Si vuole entrare?"
 
 # game/UpdateScript0.07.rpy:17036
 translate italian diaz_help_bb5838a3:
 
     # R "Don't mind if I do."
+    R "Non mi dispiace se lo faccio."
 
 # game/UpdateScript0.07.rpy:17043
 translate italian diaz_help_f01e1f52:
 
     # AD "I've already started looking for some dirt on Matt."
+    AD "Ho già iniziato a cercare uno sporco su Matt."
 
 # game/UpdateScript0.07.rpy:17044
 translate italian diaz_help_41d9348a:
 
     # AD "This type of thing can take a little while though."
+    AD "Questo tipo di cose può richiedere un po 'di tempo."
 
 # game/UpdateScript0.07.rpy:17051
 translate italian diaz_help_82d6b114:
 
     # AD "So try coming back next week."
+    AD "Prova a tornare la settimana prossima."
 
 # game/UpdateScript0.07.rpy:17052
 translate italian diaz_help_bdd3f8f2_1:
@@ -40946,156 +44430,187 @@ translate italian diaz_help_bdd3f8f2_1:
 translate italian diaz_help_3a78e923:
 
     # AD "Was there anything else I can do for you before you go?"
+    AD "C'era qualcos'altro che posso fare per voi prima di andare?"
 
 # game/UpdateScript0.07.rpy:17060
 translate italian diaz_help_5b203064:
 
     # AD "Did you want to spy on your family for a few minutes or anything?"
+    AD "Volevi spiare la tua famiglia per alcuni minuti o qualcosa?"
 
 # game/UpdateScript0.07.rpy:17061
 translate italian diaz_help_18d6e57f:
 
     # R "No, I just want you to finish that handjob you promised me."
+    R "No, voglio solo che tu finisca quel lavoro che mi hai promesso."
 
 # game/UpdateScript0.07.rpy:17069
 translate italian diaz_help_747e04d8:
 
     # AD "Did I promise?"
+    AD "Avevo promesso?"
 
 # game/UpdateScript0.07.rpy:17070
 translate italian diaz_help_c1a63896:
 
     # R "Yes, you promised!"
+    R "Si, hai promesso!"
 
 # game/UpdateScript0.07.rpy:17071
 translate italian diaz_help_2ecbaf2e:
 
     # R "You said you'd finish me off when I got the camera installed."
+    R "Hai detto che mi avresti finito quando ho installato la fotocamera."
 
 # game/UpdateScript0.07.rpy:17072
 translate italian diaz_help_222c9993:
 
     # R "Well... it's installed."
+    R "Bene... è installata."
 
 # game/UpdateScript0.07.rpy:17073
 translate italian diaz_help_786da189:
 
     # AD "Ok, ok, keep your pants on... Uhhh... I guess I should be saying the opposite."
+    AD "Ok, ok, tieni i pantaloni su... Uhhhh... Immagino che dovrei dire il contrario."
 
 # game/UpdateScript0.07.rpy:17074
 translate italian diaz_help_7e0084b8:
 
     # AD "Haha... Anyways... why don't you sit down and watch Sidney with me for a minute to get us in the mood... She's looking at step-brother porn on her laptop right now."
+    AD "Haha... comunque... perché non ti siedi e guardi Sidney con me per un minuto per farci stare in stato di animo. Lei sta guardando il porno step-fratello sul suo computer portatile in questo momento."
 
 # game/UpdateScript0.07.rpy:17075
 translate italian diaz_help_9df388fa:
 
     # AD "It won't be long until she starts taking care of herself."
+    AD "Non ci vorrà più tempo fino a quando non inizia a prendersi cura di se stessa."
 
 # game/UpdateScript0.07.rpy:17080
 translate italian diaz_help_eee67cb6:
 
     # AD "Oh, yeah... There she goes."
+    AD "Oh, sì... Là va."
 
 # game/UpdateScript0.07.rpy:17081
 translate italian diaz_help_ea6803e4:
 
     # AD "That poor girl has got so much pent up sexual frustration."
+    AD "Quella povera ragazza ha così tanta frustrazione sessuale."
 
 # game/UpdateScript0.07.rpy:17082
 translate italian diaz_help_d8fbc913:
 
     # AD "Ooohhh...yeah..."
+    AD "Ooohhhh...sì..."
 
 # game/UpdateScript0.07.rpy:17083
 translate italian diaz_help_e94bef4a:
 
     # R "Hey, you're supposed to be rubbing me, not yourself."
+    R "Ehi, si suppone che mi strofini, non te stesso."
 
 # game/UpdateScript0.07.rpy:17084
 translate italian diaz_help_9f33c9f9:
 
     # AD "Are you sure you don't want to lick my pussy first?"
+    AD "Sei sicuro di non voler prima leccare la mia figa?"
 
 # game/UpdateScript0.07.rpy:17085
 translate italian diaz_help_4bce79ac:
 
     # R "Yeah, right... I'm not falling for that again."
+    R "Sì, giusto... non sto cadendo di nuovo."
 
 # game/UpdateScript0.07.rpy:17086
 translate italian diaz_help_88064ac1:
 
     # AD "Well, then pull down your pants and pop your dick out."
+    AD "Beh, poi tirate giù i pantaloni e pop il vostro cazzo fuori."
 
 # game/UpdateScript0.07.rpy:17089
 translate italian diaz_help_388e8a99:
 
     # R "There!"
+    R "Là!"
 
 # game/UpdateScript0.07.rpy:17090
 translate italian diaz_help_eb3a8980:
 
     # AD "Well, someone's excited."
+    AD "Bene, qualcuno è emozionato."
 
 # game/UpdateScript0.07.rpy:17091
 translate italian diaz_help_217fd5b9:
 
     # R "He's been mostly hard since the last time I was in here."
+    R "È stato per lo più duro dall'ultima volta in cui ero qui."
 
 # game/UpdateScript0.07.rpy:17092
 translate italian diaz_help_e73f273c:
 
     # AD "Haha... that's what I like to hear."
+    AD "Haha... questo è quello che mi piace sentire."
 
 # game/UpdateScript0.07.rpy:17093
 translate italian diaz_help_8d2fa6f7:
 
     # AD "Poor little neglected cock has been missing Agent Diaz?"
+    AD "Scarso cazzo poco trascurato è stato manca Agente Diaz?"
 
 # game/UpdateScript0.07.rpy:17094
 translate italian diaz_help_9aff3c20:
 
     # AD "Are you ready for me to take care of you?"
+    AD "Siete pronti per me a prendermi cura di voi?"
 
 # game/UpdateScript0.07.rpy:17095
 translate italian diaz_help_aca318b6:
 
     # R "You're talking to my penis... That's kind of weird... but somehow... sexy."
+    R "Stai parlando con il mio pene... È una specie di strana... ma in qualche modo... sexy."
 
 # game/UpdateScript0.07.rpy:17096
 translate italian diaz_help_ad63b519:
 
     # AD "Haha... Ok, let me take care of you."
+    AD "Haha... Ok, lasciami prendere cura di voi."
 
 # game/UpdateScript0.07.rpy:17099
 translate italian diaz_help_3f64c82f:
 
     # AD "That's one beautiful cock."
+    AD "È uno splendido cazzo."
 
 # game/UpdateScript0.07.rpy:17102
 translate italian diaz_help_105764da:
 
     # AD "A cock like this needs two hands."
+    AD "Un cazzo così ha bisogno di due mani."
 
 # game/UpdateScript0.07.rpy:17106
 translate italian diaz_help_5cbabcc5:
 
     # R "Oh, God... That feels good."
+    R "Oh, Dio... Questo è buono."
 
 # game/UpdateScript0.07.rpy:17107
 translate italian diaz_help_67454ebc:
 
     # RT "{i}I'm feeling so confused!{/i}"
+    RT "{i}Mi sento così confusa!{/i}"
 
 # game/UpdateScript0.07.rpy:17108
 translate italian diaz_help_b8c3b0c6:
 
     # RT "{i}I hate Agent Diaz, but I love what she's doing to me.{/i}"
+    RT "{i}Odio l'Agente Diaz, ma amo quello che mi sta facendo.{/i}"
 
 # game/UpdateScript0.07.rpy:17109
 translate italian diaz_help_1ce00dd7:
 
     # RT "{i}Ooohhh... I just want to hate-fuck her... so bad!{/i}"
+    RT "{i}Ooohhh... Voglio solo odiarla... così cattivo!{/i}"
 
 # game/UpdateScript0.07.rpy:17110
 translate italian diaz_help_3fada149:
@@ -41107,136 +44622,163 @@ translate italian diaz_help_3fada149:
 translate italian diaz_help_b2aee1a2:
 
     # R "Hhhhnnggghh..."
+    R "Hhhhnnggghh..."
 
 # game/UpdateScript0.07.rpy:17126
 translate italian diaz_help_569d1526:
 
     # AD "Hh..Holy shit, [ryan]!"
+    AD "Hh..Santa merda, [ryan]!"
 
 # game/UpdateScript0.07.rpy:17127
 translate italian diaz_help_4ee844f2:
 
     # AD "Haha... That's a lot of cum."
+    AD "Haha... Questo è un sacco di sborra."
 
 # game/UpdateScript0.07.rpy:17130
 translate italian diaz_help_be7f70cd:
 
     # AD "The way you cum, the way your mom and sisters squirt... Your family should be breeding stock for future pornstars."
+    AD "Il modo in cui tu cum, il modo in cui tua mamma e sorelle si sprigiona... La tua famiglia dovrebbe allevare il bestiame per le future pornostar."
 
 # game/UpdateScript0.07.rpy:17131
 translate italian diaz_help_389c2cbe:
 
     # AD "I got lucky to be assigned to such an oversexed family."
+    AD "Ho avuto la fortuna di essere assegnato a una famiglia così oversexed."
 
 # game/UpdateScript0.07.rpy:17132
 translate italian diaz_help_fa945fcc:
 
     # R "We never used to be."
+    R "Non eravamo mai stati."
 
 # game/UpdateScript0.07.rpy:17135
 translate italian diaz_help_7fa91a2b:
 
     # AD "Yeah, I think your sudden sexual awakening was the match that lit the fire."
+    AD "Sì, penso che il tuo improvviso risveglio sessuale sia stato il match che ha acceso il fuoco."
 
 # game/UpdateScript0.07.rpy:17136
 translate italian diaz_help_2b4092b9:
 
     # RT "{i}Huh... She may be right... I wonder how different things would be if I had never seen Mom stripping.{/i}"
+    RT "{i}Huh... Lei potrebbe avere ragione... Mi chiedo come sarebbero diverse cose se non avessi mai visto la mamma stripping.{/i}"
 
 # game/UpdateScript0.07.rpy:17138
 translate italian diaz_help_45681410:
 
     # AD "Well?... Was there anything else you needed while you're here?"
+    AD "Bene?... C'era qualcos'altro che ti serviva mentre sei qui?"
 
 # game/UpdateScript0.07.rpy:17144
 translate italian diaz_help_96314478:
 
     # R "Can your narc get us anymore votes this week?"
+    R "Il tuo narc può ottenere più voti questa settimana?"
 
 # game/UpdateScript0.07.rpy:17145
 translate italian diaz_help_d609568f:
 
     # AD "Sorry, she's already bumping Lauren's numbers as far as she dares this week... Any more and someone could get suspicious."
+    AD "Mi dispiace, sta già urtando i numeri di Lauren per quanto osa questa settimana... Più e qualcuno potrebbe diventare sospetto."
 
 # game/UpdateScript0.07.rpy:17146
 translate italian diaz_help_fbff716a:
 
     # AD "Come back next week, and you can pay us for more votes."
+    AD "Tornate la settimana prossima, e potete pagarci per più voti."
 
 # game/UpdateScript0.07.rpy:17147
 translate italian diaz_help_f6d7e900:
 
     # R "Well, then I guess that's it for today."
+    R "Bene, allora immagino che sia per oggi."
 
 # game/UpdateScript0.07.rpy:17148
 translate italian diaz_help_d740b6ec:
 
     # R "I guess I'll be on my way."
+    R "Credo che sarò sulla mia strada."
 
 # game/UpdateScript0.07.rpy:17149
 translate italian diaz_help_84340a4a:
 
     # AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+    AD "Dite a Lauren che ho detto, e se non ti vedo prima, non vedo l'ora di giovedì."
 
 # game/UpdateScript0.07.rpy:17150
 translate italian diaz_help_dc894400:
 
     # R "Are you ever going to let us off the hook for that?"
+    R "Ci lascerete mai fuori dal gancio per questo?"
 
 # game/UpdateScript0.07.rpy:17151
 translate italian diaz_help_42d8f35b:
 
     # AD "No way... That situation is just too damn good for me."
+    AD "Nessun modo... Quella situazione è troppo dannata per me."
 
 # game/UpdateScript0.07.rpy:17152
 translate italian diaz_help_4af858a8:
 
     # R "Just when I thought we were starting to bond."
+    R "Proprio quando pensavo che stessimo iniziando a legare."
 
 # game/UpdateScript0.07.rpy:17155
 translate italian diaz_help_216511ae:
 
     # AD "Well, don't let a handjob make you think there's more going on between us than there is."
+    AD "Beh, non lasciare che un handjob ti faccia pensare che ci sia più avanti tra di noi di quanto non ci sia."
 
 # game/UpdateScript0.07.rpy:17156
 translate italian diaz_help_e3140a63:
 
     # R "EEcchh... I wouldn't want anything like that from you."
+    R "EEcchh... Non vorrei niente di simile da te."
 
 # game/UpdateScript0.07.rpy:17157
 translate italian diaz_help_d6542b8d:
 
     # AD "Uh huh... Sure."
+    AD "Uh huh... Certo."
 
 # game/UpdateScript0.07.rpy:17158
 translate italian diaz_help_0a659602:
 
     # R "I wouldn't!..."
+    R "Non fare!..."
 
 # game/UpdateScript0.07.rpy:17161
 translate italian diaz_help_13b5a6dc:
 
     # AD "Sure, Romeo."
+    AD "Certo, a Roma."
 
 # game/UpdateScript0.07.rpy:17162
 translate italian diaz_help_f79bacf2:
 
     # R "I'm leaving."
+    R "Io sto partendo."
 
 # game/UpdateScript0.07.rpy:17163
 translate italian diaz_help_023c5527:
 
     # AD "Haha... close the door behind you."
+    AD "Haha... chiudete la porta dietro di voi."
 
 # game/UpdateScript0.07.rpy:17168
 translate italian diaz_help_0d4ba03f:
 
     # R "Yeah, actually, I'd like to buy some of those extra votes you offered before."
+    R "Sì, in realtà, vorrei comprare alcuni di quei voti extra che hai offerto prima."
 
 # game/UpdateScript0.07.rpy:17169
 translate italian diaz_help_38ff4b24:
 
     # R "That is... As long as you can guarantee that Lauren's vote count will go up."
+    R "Questo è... Fino a quando si può garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:17170
 translate italian diaz_help_7c6dfc79_4:
@@ -41272,141 +44814,169 @@ translate italian diaz_help_83b65130_4:
 translate italian diaz_help_e2c0f88a:
 
     # R "Well then, I guess that's it for today."
+    R "Beh, allora, immagino che sia per oggi."
 
 # game/UpdateScript0.07.rpy:17179
 translate italian diaz_help_d740b6ec_1:
 
     # R "I guess I'll be on my way."
+    R "Credo che sarò sulla mia strada."
 
 # game/UpdateScript0.07.rpy:17180
 translate italian diaz_help_84340a4a_1:
 
     # AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+    AD "Dite a Lauren che ho detto, e se non ti vedo prima, non vedo l'ora di giovedì."
 
 # game/UpdateScript0.07.rpy:17181
 translate italian diaz_help_dc894400_1:
 
     # R "Are you ever going to let us off the hook for that?"
+    R "Ci lascerete mai fuori dal gancio per questo?"
 
 # game/UpdateScript0.07.rpy:17182
 translate italian diaz_help_42d8f35b_1:
 
     # AD "No way... That situation is just too damn good for me."
+    AD "Nessun modo... Quella situazione è troppo dannata per me."
 
 # game/UpdateScript0.07.rpy:17183
 translate italian diaz_help_4af858a8_1:
 
     # R "Just when I thought we were starting to bond."
+    R "Proprio quando pensavo che stessimo iniziando a legare."
 
 # game/UpdateScript0.07.rpy:17186
 translate italian diaz_help_216511ae_1:
 
     # AD "Well, don't let a handjob make you think there's more going on between us than there is."
+    AD "Beh, non lasciare che un handjob ti faccia pensare che ci sia più avanti tra di noi di quanto non ci sia."
 
 # game/UpdateScript0.07.rpy:17187
 translate italian diaz_help_e3140a63_1:
 
     # R "EEcchh... I wouldn't want anything like that from you."
+    R "EEcchh... Non vorrei niente di simile da te."
 
 # game/UpdateScript0.07.rpy:17188
 translate italian diaz_help_d6542b8d_1:
 
     # AD "Uh huh... Sure."
+    AD "Uh huh... Certo."
 
 # game/UpdateScript0.07.rpy:17189
 translate italian diaz_help_0a659602_1:
 
     # R "I wouldn't!..."
+    R "Non fare!..."
 
 # game/UpdateScript0.07.rpy:17192
 translate italian diaz_help_13b5a6dc_1:
 
     # AD "Sure, Romeo."
+    AD "Certo, a Roma."
 
 # game/UpdateScript0.07.rpy:17193
 translate italian diaz_help_f79bacf2_1:
 
     # R "I'm leaving."
+    R "Io sto partendo."
 
 # game/UpdateScript0.07.rpy:17194
 translate italian diaz_help_023c5527_1:
 
     # AD "Haha... close the door behind you."
+    AD "Haha... chiudete la porta dietro di voi."
 
 # game/UpdateScript0.07.rpy:17199
 translate italian diaz_help_0e1354d7:
 
     # AD "Well, then I guess that's it for today."
+    AD "Bene, allora immagino che sia per oggi."
 
 # game/UpdateScript0.07.rpy:17200
 translate italian diaz_help_d740b6ec_2:
 
     # R "I guess I'll be on my way."
+    R "Credo che sarò sulla mia strada."
 
 # game/UpdateScript0.07.rpy:17201
 translate italian diaz_help_84340a4a_2:
 
     # AD "Tell Lauren I said hi, and If I don't see you sooner, I'll be looking forward to Thursday."
+    AD "Dite a Lauren che ho detto, e se non ti vedo prima, non vedo l'ora di giovedì."
 
 # game/UpdateScript0.07.rpy:17202
 translate italian diaz_help_dc894400_2:
 
     # R "Are you ever going to let us off the hook for that?"
+    R "Ci lascerete mai fuori dal gancio per questo?"
 
 # game/UpdateScript0.07.rpy:17203
 translate italian diaz_help_42d8f35b_2:
 
     # AD "No way... That situation is just too damn good for me."
+    AD "Nessun modo... Quella situazione è troppo dannata per me."
 
 # game/UpdateScript0.07.rpy:17204
 translate italian diaz_help_4af858a8_2:
 
     # R "Just when I thought we were starting to bond."
+    R "Proprio quando pensavo che stessimo iniziando a legare."
 
 # game/UpdateScript0.07.rpy:17207
 translate italian diaz_help_216511ae_2:
 
     # AD "Well, don't let a handjob make you think there's more going on between us than there is."
+    AD "Beh, non lasciare che un handjob ti faccia pensare che ci sia più avanti tra di noi di quanto non ci sia."
 
 # game/UpdateScript0.07.rpy:17208
 translate italian diaz_help_e3140a63_2:
 
     # R "EEcchh... I wouldn't want anything like that from you."
+    R "EEcchh... Non vorrei niente di simile da te."
 
 # game/UpdateScript0.07.rpy:17209
 translate italian diaz_help_d6542b8d_2:
 
     # AD "Uh huh... Sure."
+    AD "Uh huh... Certo."
 
 # game/UpdateScript0.07.rpy:17210
 translate italian diaz_help_0a659602_2:
 
     # R "I wouldn't!..."
+    R "Non fare!..."
 
 # game/UpdateScript0.07.rpy:17213
 translate italian diaz_help_13b5a6dc_2:
 
     # AD "Sure, Romeo."
+    AD "Certo, a Roma."
 
 # game/UpdateScript0.07.rpy:17214
 translate italian diaz_help_f79bacf2_2:
 
     # R "I'm leaving."
+    R "Io sto partendo."
 
 # game/UpdateScript0.07.rpy:17215
 translate italian diaz_help_023c5527_2:
 
     # AD "Haha... close the door behind you."
+    AD "Haha... chiudete la porta dietro di voi."
 
 # game/UpdateScript0.07.rpy:17223
 translate italian diaz_help_3171708a:
 
     # RT "{i}I could use some more help with Lauren's campaign.{/i}"
+    RT "{i}Potrei utilizzare qualche aiuto in più con la campagna di Lauren.{/i}"
 
 # game/UpdateScript0.07.rpy:17224
 translate italian diaz_help_7b060403:
 
     # RT "{i}I wonder if Agent Diaz is in her van?{/i}"
+    RT "{i}Mi chiedo se l'Agente Diaz sia nel suo furgone?{/i}"
 
 # game/UpdateScript0.07.rpy:17227
 translate italian diaz_help_a9009371_8:
@@ -41418,36 +44988,43 @@ translate italian diaz_help_a9009371_8:
 translate italian diaz_help_246551b7:
 
     # AD "Well, if it isn't the twerp... Did you get that spy cam installed?"
+    AD "Beh, se non è il twerp... Hai ottenuto che spia cam installato?"
 
 # game/UpdateScript0.07.rpy:17233
 translate italian diaz_help_260f3e8f:
 
     # R "No, not yet."
+    R "No, non ancora."
 
 # game/UpdateScript0.07.rpy:17234
 translate italian diaz_help_d07726ba:
 
     # AD "Then what are you doing here?"
+    AD "Allora cosa stai facendo qui?"
 
 # game/UpdateScript0.07.rpy:17235
 translate italian diaz_help_0dd71796:
 
     # R "I'm just looking to see if I can get some more help with Lauren's campaign."
+    R "Sto solo cercando di vedere se posso ottenere un aiuto in più con la campagna di Lauren."
 
 # game/UpdateScript0.07.rpy:17237
 translate italian diaz_help_0113fb07:
 
     # AD "Sure... I can get word to our informant in the school to stuff some more ballots and boost your numbers."
+    AD "Certo... posso ottenere parola al nostro informatore nella scuola per roba qualche altro voto e aumentare i vostri numeri."
 
 # game/UpdateScript0.07.rpy:17238
 translate italian diaz_help_639e1331:
 
     # AD "For the right price, of course."
+    AD "Per il prezzo giusto, naturalmente."
 
 # game/UpdateScript0.07.rpy:17241
 translate italian diaz_help_bc49455e_2:
 
     # R "Yeah, ok... As long as you can guarantee that Lauren's vote count will go up."
+    R "Sì, ok... finché puoi garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:17242
 translate italian diaz_help_7c6dfc79_5:
@@ -41483,11 +45060,13 @@ translate italian diaz_help_83b65130_5:
 translate italian diaz_help_0e561655_2:
 
     # R "Yeah, right... I'm not giving you any more money."
+    R "Sì, giusto... non ti sto dando più denaro."
 
 # game/UpdateScript0.07.rpy:17252
 translate italian diaz_help_85bbc5fc_2:
 
     # AD "Ok, but if you change your mind, you know where to find me."
+    AD "Ok, ma se si cambia idea, si sa dove trovarmi."
 
 # game/UpdateScript0.07.rpy:17253
 translate italian diaz_help_42e46acb_2:
@@ -41499,61 +45078,73 @@ translate italian diaz_help_42e46acb_2:
 translate italian diaz_help_850150d1:
 
     # AD "Is there anything else I can do for you?"
+    AD "C'è altro che posso fare per te?"
 
 # game/UpdateScript0.07.rpy:17257
 translate italian diaz_help_1dc94db4:
 
     # R "Have you found any dirt on Matt?"
+    R "Hai trovato della sporcizia su Matt?"
 
 # game/UpdateScript0.07.rpy:17258
 translate italian diaz_help_ac2cb9bb:
 
     # AD "I'm not even going to try until you get that spy camera installed."
+    AD "Non proverò nemmeno fino a quando non avrai installato quella spia."
 
 # game/UpdateScript0.07.rpy:17259
 translate italian diaz_help_0fa3489c:
 
     # R "I'm just not sure how I'm going to make it into the showers without being seen."
+    R "Non sono sicuro di come farò le docce senza essere visto."
 
 # game/UpdateScript0.07.rpy:17260
 translate italian diaz_help_8ae036b1:
 
     # AD "Go in the early morning, before the locker room gets too busy."
+    AD "Vai la mattina presto, prima che lo spogliatoio diventi troppo occupato."
 
 # game/UpdateScript0.07.rpy:17261
 translate italian diaz_help_21741a97:
 
     # AD "And now, I've got to get back to work."
+    AD "E ora, devo tornare al lavoro."
 
 # game/UpdateScript0.07.rpy:17262
 translate italian diaz_help_eae8475a:
 
     # AD "Get that spy cam installed, and then we can talk some more."
+    AD "Ottenere che spia cam installato, e poi possiamo parlare di più."
 
 # game/UpdateScript0.07.rpy:17265
 translate italian diaz_help_e8995bb8:
 
     # RT "{i}I guess I'd better try to get that camera installed if I want any more help from Agent Diaz.{/i}"
+    RT "{i}Immagino che farei meglio a cercare di installare quella telecamera se voglio altro aiuto da Agent Diaz.{/i}"
 
 # game/UpdateScript0.07.rpy:17272
 translate italian diaz_help_4a82ff25:
 
     # RT "{i}That must be the van Lauren was talking about.{/i}"
+    RT "{i}Deve essere il van Lauren a parlare.{/i}"
 
 # game/UpdateScript0.07.rpy:17273
 translate italian diaz_help_a5780384:
 
     # RT "{i}GEC Electric Company... Pretty generic name... It might just be the FBI.{/i}"
+    RT "{i}GEC Electric Company... Pretty generic name... Potrebbe essere solo l'FBI.{/i}"
 
 # game/UpdateScript0.07.rpy:17274
 translate italian diaz_help_fae0d586:
 
     # RT "{i}If it is, I hope it's just Diaz... I don't know what I'll say if there are other agents inside.{/i}"
+    RT "{i}Se è così, spero che sia solo Diaz... Non so cosa dirò se ci sono altri agenti all'interno.{/i}"
 
 # game/UpdateScript0.07.rpy:17275
 translate italian diaz_help_3d302c11:
 
     # RT "{i}Well, Here goes nothing.{/i}"
+    RT "{i}Beh, qui non va niente.{/i}"
 
 # game/UpdateScript0.07.rpy:17278
 translate italian diaz_help_a9009371_9:
@@ -41565,16 +45156,19 @@ translate italian diaz_help_a9009371_9:
 translate italian diaz_help_8e024a00:
 
     # AD "Well, if it isn't the twerp... To what do I owe the pleasure?"
+    AD "Beh, se non è il twerp... Per che cosa devo il piacere?"
 
 # game/UpdateScript0.07.rpy:17284
 translate italian diaz_help_8c51eaa6:
 
     # R "Oh... I was just noticing how cold it got when I was passing this van... I figured there must be a witch inside."
+    R "Oh... Stavo appena notando quanto freddo ha ottenuto quando stavo passando questo furgone... Ho capito che ci deve essere una strega dentro."
 
 # game/UpdateScript0.07.rpy:17285
 translate italian diaz_help_9b2c939d:
 
     # AD "You found our cliché FBI van. What gave it away, was it our wireless network named \"FBI Surveillance Van\"?"
+    AD "Hai trovato il nostro furgone dell'FBI. Cosa l'ha dato via, era la nostra rete wireless chiamata \"Furgone di sorveglianza dell'FBI\"?"
 
 # game/UpdateScript0.07.rpy:17286
 translate italian diaz_help_435a36a0:
@@ -41586,151 +45180,181 @@ translate italian diaz_help_435a36a0:
 translate italian diaz_help_4956f1cc:
 
     # AD "Haha... Never mind, come in."
+    AD "Haha... Non mi dispiace, entra."
 
 # game/UpdateScript0.07.rpy:17294
 translate italian diaz_help_04c1e5a5:
 
     # AD "Welcome to where the magic happens."
+    AD "Benvenuti in dove avviene la magia."
 
 # game/UpdateScript0.07.rpy:17295
 translate italian diaz_help_d7ff811d:
 
     # R "Oh, my God!... You're literally watching everything we do."
+    R "Oh, mio Dio!... stai letteralmente guardando tutto ciò che facciamo."
 
 # game/UpdateScript0.07.rpy:17302
 translate italian diaz_help_317502b3:
 
     # AD "Like I told you before, I hacked into your cameras, and then I installed a few of my own."
+    AD "Come vi ho detto prima, ho violato le vostre macchine fotografiche, e poi ho installato alcuni dei miei propri."
 
 # game/UpdateScript0.07.rpy:17303
 translate italian diaz_help_f580a8e2:
 
     # R "Oh, God!... Does the entire FBI see everything we do?"
+    R "Oh, Dio!... Tutto l'FBI vede tutto quello che facciamo?"
 
 # game/UpdateScript0.07.rpy:17310
 translate italian diaz_help_a2c7219e:
 
     # AD "Haha... Lucky for you, no. I just send them anything that would be valuable to our investigation."
+    AD "Haha... Fortunato per voi, no. Li mando solo tutto ciò che sarebbe prezioso per la nostra indagine."
 
 # game/UpdateScript0.07.rpy:17311
 translate italian diaz_help_205d2e89:
 
     # AD "You'd be in a world of trouble if anyone besides myself was heading this investigation."
+    AD "Saresti in un mondo di problemi se qualcuno oltre a me stesse stava dirigendo questa indagine."
 
 # game/UpdateScript0.07.rpy:17312
 translate italian diaz_help_5f30f32e:
 
     # AD "But as it is, I delete almost everything since most everything your family does has no value to the FBI, only value to my pussy."
+    AD "Ma così com'è, elimino quasi tutto dal momento che la maggior parte di tutto ciò che la tua famiglia fa non ha valore per l'FBI, solo valore per la mia figa."
 
 # game/UpdateScript0.07.rpy:17313
 translate italian diaz_help_a2b3f44a:
 
     # AD "I'm really doing your family a favor by keeping everything discreet."
+    AD "Sto davvero facendo della tua famiglia un favore mantenendo tutto discreto."
 
 # game/UpdateScript0.07.rpy:17314
 translate italian diaz_help_60d2795e:
 
     # AD "Instead of hating me, you should think of me as your friend."
+    AD "Invece di odiarmi, dovresti pensare a me come al tuo amico."
 
 # game/UpdateScript0.07.rpy:17315
 translate italian diaz_help_e9dafe62:
 
     # R "Well... It's hard to think of someone who is extorting you for money or favors as a friend."
+    R "Bene... È difficile pensare a qualcuno che ti estorce per soldi o favori come un amico."
 
 # game/UpdateScript0.07.rpy:17322
 translate italian diaz_help_d9ec2e20:
 
     # AD "So, was there a reason you became bold enough to come knocking on my FBI van?"
+    AD "C'era un motivo per cui sei diventato abbastanza audace da venire a bussare al mio furgone FBI?"
 
 # game/UpdateScript0.07.rpy:17323
 translate italian diaz_help_f5dadeb0:
 
     # R "Yeah actually... I don't know if you know this, but Lauren is running for..."
+    R "Sì, in realtà... Non so se lo sapete, ma Lauren sta funzionando..."
 
 # game/UpdateScript0.07.rpy:17324
 translate italian diaz_help_6fa5edab:
 
     # AD "Student body president?... Yeah, I know."
+    AD "Presidente del corpo dello studente?... Sì, lo so."
 
 # game/UpdateScript0.07.rpy:17325
 translate italian diaz_help_8642a6c7:
 
     # AD "I can see all her texts and social media... so I know."
+    AD "Posso vedere tutti i suoi testi e social media... così lo so."
 
 # game/UpdateScript0.07.rpy:17326
 translate italian diaz_help_cc4fc2ee:
 
     # R "Ok... well, do you already know what I need from you then?"
+    R "Ok... beh, sai già di che cosa ho bisogno da te allora?"
 
 # game/UpdateScript0.07.rpy:17327
 translate italian diaz_help_a57eeb96:
 
     # AD "Please don't ask me to be Lauren's campaign manager... though... Lauren and I could become quite close if I were managing her campaign..."
+    AD "Per favore non mi chieda di essere il direttore della campagna di Lauren... però... Lauren e io potrei diventare abbastanza vicino se gestissi la sua campagna..."
 
 # game/UpdateScript0.07.rpy:17328
 translate italian diaz_help_6295c546:
 
     # AD "Alright... you talked me into it... I'll manage Lauren's campaign."
+    AD "Bene... mi hai parlato in essa... gestirò la campagna di Lauren."
 
 # game/UpdateScript0.07.rpy:17329
 translate italian diaz_help_fecc0d1b:
 
     # R "No... that's not what I wanted at all!"
+    R "No... non è quello che volevo affatto!"
 
 # game/UpdateScript0.07.rpy:17336
 translate italian diaz_help_a7d8b31c:
 
     # AD "Haha... No shit, Sherlock!"
+    AD "Haha... Nessuna merda, Sherlock!"
 
 # game/UpdateScript0.07.rpy:17337
 translate italian diaz_help_74cfb761:
 
     # AD "I'm just messing with ya."
+    AD "Sto solo disordinando con ya."
 
 # game/UpdateScript0.07.rpy:17338
 translate italian diaz_help_c894c6a4:
 
     # AD "Please... Ask your favor."
+    AD "Per favore... Chiedi il tuo favore."
 
 # game/UpdateScript0.07.rpy:17339
 translate italian diaz_help_2c5d6f3c:
 
     # R "Ok... So the kid Lauren is running against..."
+    R "Ok... Quindi il bambino Lauren sta correndo contro..."
 
 # game/UpdateScript0.07.rpy:17340
 translate italian diaz_help_64c177a7:
 
     # AD "You mean that stud, Matt?"
+    AD "Intendi quel bottino, Matt?"
 
 # game/UpdateScript0.07.rpy:17341
 translate italian diaz_help_4d03c231:
 
     # R "Urrgghhh... He's not as hot shit as everyone thinks he is."
+    R "Urrgghhh... Non è così caldo come tutti pensano che sia."
 
 # game/UpdateScript0.07.rpy:17342
 translate italian diaz_help_c9f49e29:
 
     # AD "Jealous, much?"
+    AD "Gelosa, tanto?"
 
 # game/UpdateScript0.07.rpy:17343
 translate italian diaz_help_d537a9c0:
 
     # R "No!... maybe..."
+    R "No!... forse..."
 
 # game/UpdateScript0.07.rpy:17344
 translate italian diaz_help_c8480ad0:
 
     # R "Anyways, Lauren's chances of beating him are slim, so she wanted me, to ask you, if you could dig up any dirt on him."
+    R "Comunque, le possibilità di Lauren di batterlo sono sottili, così lei voleva che mi chiedessi, se potessi scavare su di lui una sporcizia."
 
 # game/UpdateScript0.07.rpy:17351
 translate italian diaz_help_40c5ba3f:
 
     # AD "Wait..."
+    AD "Attendi..."
 
 # game/UpdateScript0.07.rpy:17352
 translate italian diaz_help_372d557f:
 
     # AD "You want me, to use the resources of the FBI, to find dirt on a kid, so your sister can win a student body election?"
+    AD "Vuoi che io utilizzi le risorse dell'FBI, per trovare sporcizia su un bambino, in modo che tua sorella può vincere una elezione del corpo studente?"
 
 # game/UpdateScript0.07.rpy:17353
 translate italian diaz_help_dabe3809:
@@ -41748,36 +45372,43 @@ translate italian diaz_help_bdd3f8f2_2:
 translate italian diaz_help_e8213fc4:
 
     # R "But... could you?"
+    R "Ma... potevi?"
 
 # game/UpdateScript0.07.rpy:17362
 translate italian diaz_help_a407533f:
 
     # AD "Maybe..."
+    AD "Può darsi..."
 
 # game/UpdateScript0.07.rpy:17363
 translate italian diaz_help_ec543434:
 
     # AD "It would depend on if you'd be willing to do something for me in return."
+    AD "Dipenderebbe se tu fossi disposto a fare qualcosa per me in cambio."
 
 # game/UpdateScript0.07.rpy:17364
 translate italian diaz_help_30acda98:
 
     # R "I should have known."
+    R "Avrei dovuto conoscere."
 
 # game/UpdateScript0.07.rpy:17365
 translate italian diaz_help_e0f8d765:
 
     # AD "Of course you should have known... You don't just get something for nothing."
+    AD "Certo che avreste dovuto saperlo... Non avete solo qualcosa per niente."
 
 # game/UpdateScript0.07.rpy:17366
 translate italian diaz_help_c32160b7:
 
     # R "Ok... And what could an FBI agent want from a high school kid?"
+    R "Ok... E cosa potrebbe desiderare un agente dell'FBI da un bambino della scuola superiore?"
 
 # game/UpdateScript0.07.rpy:17367
 translate italian diaz_help_1a2585ea:
 
     # AD "Give me a second... I wasn't expecting to be offered a favor from a high school student today..."
+    AD "Dammi un secondo... Non mi aspettavo di essere offerto un favore da uno studente di liceo oggi..."
 
 # game/UpdateScript0.07.rpy:17368
 translate italian diaz_help_bdd3f8f2_3:
@@ -41789,26 +45420,31 @@ translate italian diaz_help_bdd3f8f2_3:
 translate italian diaz_help_7de77cb7:
 
     # AD "Ooohhh... That's it!"
+    AD "Ooohhh... È tutto!"
 
 # game/UpdateScript0.07.rpy:17376
 translate italian diaz_help_b4f9af30:
 
     # AD "As a high school student, you've got access to your high school."
+    AD "Come studente delle superiori, hai accesso alla tua scuola superiore."
 
 # game/UpdateScript0.07.rpy:17377
 translate italian diaz_help_7192baf5:
 
     # R "Oh, no... You don't want me to become a narc, do you?"
+    R "Oh, no... Non vuoi che diventi un narc, vero?"
 
 # game/UpdateScript0.07.rpy:17378
 translate italian diaz_help_3ec49ed3:
 
     # AD "No... We've already got an informant in your school."
+    AD "No, abbiamo già un informatore nella tua scuola."
 
 # game/UpdateScript0.07.rpy:17379
 translate italian diaz_help_5514a6d6:
 
     # R "Really?... Who?"
+    R "Davvero?... Chi?"
 
 # game/UpdateScript0.07.rpy:17386
 translate italian diaz_help_bdd3f8f2_4:
@@ -41820,6 +45456,7 @@ translate italian diaz_help_bdd3f8f2_4:
 translate italian diaz_help_460646fd:
 
     # R "Is it a teacher, or a student?"
+    R "È un insegnante, o uno studente?"
 
 # game/UpdateScript0.07.rpy:17388
 translate italian diaz_help_bdd3f8f2_5:
@@ -41831,51 +45468,61 @@ translate italian diaz_help_bdd3f8f2_5:
 translate italian diaz_help_b9599af7:
 
     # R "Right... Never mind."
+    R "A destra... Non preoccuparti."
 
 # game/UpdateScript0.07.rpy:17390
 translate italian diaz_help_6b8de5f9:
 
     # R "So, if you've got a narc, why do you need my help?"
+    R "Se hai un narc, perché hai bisogno del mio aiuto?"
 
 # game/UpdateScript0.07.rpy:17397
 translate italian diaz_help_f7a06c79:
 
     # AD "Because our informant is too straight-laced."
+    AD "Perché il nostro informatore è troppo lineare."
 
 # game/UpdateScript0.07.rpy:17398
 translate italian diaz_help_e5a80aa2:
 
     # AD "She'd report me for sure."
+    AD "Mi avrebbe segnalato di sicuro."
 
 # game/UpdateScript0.07.rpy:17399
 translate italian diaz_help_faa84e09:
 
     # R "Oh, no... This sound like it could be risky."
+    R "Oh, no... Questo suona come potrebbe essere rischioso."
 
 # game/UpdateScript0.07.rpy:17400
 translate italian diaz_help_e7492d41:
 
     # AD "Yeah... You wouldn't want to get caught."
+    AD "Sì... Non vorresti farti catturare."
 
 # game/UpdateScript0.07.rpy:17401
 translate italian diaz_help_15c62016:
 
     # R "So?... What do you need?"
+    R "Quindi?... Che cosa ti serve?"
 
 # game/UpdateScript0.07.rpy:17402
 translate italian diaz_help_c9b055d3:
 
     # AD "I want you to sneak into the girls' locker room and plant a spy camera in the shower for me."
+    AD "Voglio che ti intrufoliate nello spogliatoio delle ragazze e piantate per me una telecamera spia sotto la doccia."
 
 # game/UpdateScript0.07.rpy:17403
 translate italian diaz_help_2610c029:
 
     # R "You want a camera in the high school girls' locker room?"
+    R "Vuoi una macchina fotografica nello spogliatoio delle ragazze delle superiori?"
 
 # game/UpdateScript0.07.rpy:17404
 translate italian diaz_help_419862fe:
 
     # R "There must be drug deals going down in there, or something?"
+    R "Ci devono essere accordi di droga che vanno giù lì, o qualcosa?"
 
 # game/UpdateScript0.07.rpy:17405
 translate italian diaz_help_bdd3f8f2_6:
@@ -41887,66 +45534,79 @@ translate italian diaz_help_bdd3f8f2_6:
 translate italian diaz_help_c3c33a6a:
 
     # AD "Yes... drugs."
+    AD "Sì... droghe."
 
 # game/UpdateScript0.07.rpy:17407
 translate italian diaz_help_6d14521f:
 
     # R "Oh... You just want to see girls changing... Don't you?"
+    R "Oh... Vuoi solo vedere le ragazze cambiare... Non tu?"
 
 # game/UpdateScript0.07.rpy:17414
 translate italian diaz_help_fd15a4eb:
 
     # AD "It can be two things."
+    AD "Possono essere due cose."
 
 # game/UpdateScript0.07.rpy:17415
 translate italian diaz_help_04ad5e03:
 
     # AD "I mean... Who knows what kind of shady things are going on in there."
+    AD "Voglio dire... Chissà che tipo di cose ombreggiate stanno succedendo lì."
 
 # game/UpdateScript0.07.rpy:17416
 translate italian diaz_help_1c980223:
 
     # AD "Once we have a camera in there, we'll know for sure."
+    AD "Una volta che avremo una fotocamera lì dentro, lo sapremo di sicuro."
 
 # game/UpdateScript0.07.rpy:17417
 translate italian diaz_help_2114cf29:
 
     # R "Well, how in the hell am I supposed to plant a camera in the girls' dressing room?"
+    R "Beh, come all'inferno dovrei piantare una macchina fotografica nello spogliatoio delle ragazze?"
 
 # game/UpdateScript0.07.rpy:17424
 translate italian diaz_help_d3b7269a:
 
     # AD "I don't know, have Lauren help you... She'll draw much less attention."
+    AD "Non lo so, hai Lauren ti aiuta... Ti attirerà molto meno attenzione."
 
 # game/UpdateScript0.07.rpy:17425
 translate italian diaz_help_783d5f12:
 
     # R "Yeah, right... Lauren showers in there... She'll never be ok with this."
+    R "Sì, giusto... Lauren acquista lì dentro... Lei non starà mai bene con questo."
 
 # game/UpdateScript0.07.rpy:17426
 translate italian diaz_help_8efa8c25:
 
     # AD "Well then, you could try in the early morning, before school starts. There are students there for extracurricular activities, but there might not be any students in the showers."
+    AD "Beh, allora, si potrebbe provare al mattino, prima che inizi la scuola. Ci sono studenti per le attività extracurricolari, ma potrebbe non esserci alcun studente nelle docce."
 
 # game/UpdateScript0.07.rpy:17427
 translate italian diaz_help_408e3256:
 
     # R "Yeah... I guess I could try that."
+    R "Sì... Immagino che potrei provarlo."
 
 # game/UpdateScript0.07.rpy:17428
 translate italian diaz_help_aca569bf:
 
     # AD "Perfect... Once that camera is live and streaming, I'll see if I can dig up some dirt on your best friend Matt."
+    AD "Perfetto... Una volta che la fotocamera è live e streaming, vedrò se posso scavare un po 'di sporco sul tuo migliore amico Matt."
 
 # game/UpdateScript0.07.rpy:17429
 translate italian diaz_help_3928b036:
 
     # AD "Here's the spy cam."
+    AD "Qui è la spia cam."
 
 # game/UpdateScript0.07.rpy:17430
 translate italian diaz_help_6cb97888:
 
     # {b}{i}\"You received one spy-cam\"{/i}{/b}"
+    new "{b}{i}\"Hai ricevuto una spycam\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17432
 translate italian diaz_help_9c7888a7:
@@ -42582,146 +46242,175 @@ translate italian diaz_help_4881927b_1:
 translate italian diaz_help_6c5a8efe:
 
     # AD "I thought it over while you were so generously licking my pussy, and decided that I need to give you some extra incentive to plant that spy cam in the girls' locker room."
+    AD "Ho pensato che mentre stavate così generosamente leccando la mia figa, e ha deciso che ho bisogno di darvi qualche incentivo in più per piantare quella spia cam nello spogliatoio delle ragazze."
 
 # game/UpdateScript0.07.rpy:17591
 translate italian diaz_help_ff102e13:
 
     # AD "So, you get that camera planted, and I'll get you what I can on Matt, and I'll take care of your little guy."
+    AD "Quindi, ottieni che la macchina fotografica sia piantata, e ti prenderò quello che posso su Matt, e mi prenderò cura del tuo ragazzino."
 
 # game/UpdateScript0.07.rpy:17594
 translate italian diaz_help_367e9f26:
 
     # R "I can't believe you tricked me into licking your pussy."
+    R "Non riesco a credere che tu mi abbia ingannato a leccare la tua figa."
 
 # game/UpdateScript0.07.rpy:17595
 translate italian diaz_help_ce4418d3:
 
     # AD "Yeah... That was kind of a dirty trick, wasn't it?"
+    AD "Sì... Questo era un trucco sporco, vero?"
 
 # game/UpdateScript0.07.rpy:17596
 translate italian diaz_help_b25867a1:
 
     # AD "I feel kind of bad... Let me make it up to you."
+    AD "Mi sento un po' male... Lasciate che lo faccia per voi."
 
 # game/UpdateScript0.07.rpy:17597
 translate italian diaz_help_3f2392cc:
 
     # R "Oh, no... I don't want another one of your tricks."
+    R "Oh, no... non voglio un altro dei tuoi trucchi."
 
 # game/UpdateScript0.07.rpy:17598
 translate italian diaz_help_a864f6d7:
 
     # AD "It's not a trick, it's simply a deal."
+    AD "Non è un trucco, è un affare."
 
 # game/UpdateScript0.07.rpy:17599
 translate italian diaz_help_3d1566b8:
 
     # AD "As I've already told you, we have an informant in your high school."
+    AD "Come vi ho già detto, abbiamo un informatore nella tua scuola superiore."
 
 # game/UpdateScript0.07.rpy:17600
 translate italian diaz_help_0923124b:
 
     # AD "I could use her to help benefit Lauren's campaign."
+    AD "Potrei utilizzarla per aiutare la campagna di Lauren."
 
 # game/UpdateScript0.07.rpy:17601
 translate italian diaz_help_258731c4:
 
     # AD "Would you be willing to pay me to have that informant sneak in some extra votes?"
+    AD "Sareste disposti a pagarmi per avere quel informatore furtivamente in qualche voto in più?"
 
 # game/UpdateScript0.07.rpy:17602
 translate italian diaz_help_ad427d47:
 
     # R "Do you mean you could rig the election?"
+    R "Vuoi dire che potresti rig alle elezioni?"
 
 # game/UpdateScript0.07.rpy:17603
 translate italian diaz_help_d32f06bf:
 
     # AD "Not completely, the informant could only sneak in a limited amount of votes without it being too obvious."
+    AD "Non completamente, l'informatore poteva solo intrufolarsi in un numero limitato di voti senza che fosse troppo ovvio."
 
 # game/UpdateScript0.07.rpy:17604
 translate italian diaz_help_7cf8d4f2:
 
     # R "Do you mean the votes for the weekly polls, or for the actual election?"
+    R "Intendete i voti per i sondaggi settimanali, o per le elezioni effettive?"
 
 # game/UpdateScript0.07.rpy:17605
 translate italian diaz_help_5a7c33c2:
 
     # AD "Probably both. It just depends on if you've paid for them."
+    AD "Probabilmente entrambi. Dipende solo se hai pagato per loro."
 
 # game/UpdateScript0.07.rpy:17606
 translate italian diaz_help_6fd297fb:
 
     # R "But, I thought you said your high school narc was too straight laced for that kind of thing."
+    R "Ma pensavo che tu avessi detto che il tuo narc della scuola superiore era troppo dritto per quel tipo di cose."
 
 # game/UpdateScript0.07.rpy:17607
 translate italian diaz_help_b103a015:
 
     # AD "I just have to convince her that it helps the investigation into your family somehow. Don't worry, I'll figure out what to tell her."
+    AD "Devo solo convincerla che aiuta in qualche modo l'indagine sulla tua famiglia. Non ti preoccupare, capirò cosa dirle."
 
 # game/UpdateScript0.07.rpy:17608
 translate italian diaz_help_b6f76f1f:
 
     # R "Wow!... I wasn't expecting that."
+    R "Wow!... Non mi stavo aspettando."
 
 # game/UpdateScript0.07.rpy:17609
 translate italian diaz_help_d95bc1c4:
 
     # AD "You see... I do have your family's best interests at heart."
+    AD "Vedete... Ho a cuore gli interessi migliori della vostra famiglia."
 
 # game/UpdateScript0.07.rpy:17610
 translate italian diaz_help_1a854268:
 
     # R "Sure, and how much do I have to pay for our best interests?"
+    R "Certo, e quanto ho da pagare per i nostri migliori interessi?"
 
 # game/UpdateScript0.07.rpy:17611
 translate italian diaz_help_25559f5e:
 
     # AD "Hmmm... for an operation this risky... Let's say five hundred dollars for every week that we pad the ballot box."
+    AD "Hmmm... per un'operazione questa rischiosa... Diciamo cinquecento dollari ogni settimana che abbiamo piazzato la scheda elettorale."
 
 # game/UpdateScript0.07.rpy:17612
 translate italian diaz_help_16512d6e:
 
     # R "Five hundred dollars!?"
+    R "Cinquecento dollari!?"
 
 # game/UpdateScript0.07.rpy:17613
 translate italian diaz_help_b55c6b3d:
 
     # R "That's crazy!"
+    R "È folle!"
 
 # game/UpdateScript0.07.rpy:17614
 translate italian diaz_help_9740691e:
 
     # AD "No, think about it... You're paying a lot because it's high risk."
+    AD "No, pensateci... stai pagando molto perché è ad alto rischio."
 
 # game/UpdateScript0.07.rpy:17615
 translate italian diaz_help_fec5b9ba:
 
     # AD "If my informant gets caught, she'll be expelled and we'll have to recruit and train a new asset in your school."
+    AD "Se il mio informatore viene catturato, lei sarà espulsa e dovremo reclutare e formare un nuovo asset nella tua scuola."
 
 # game/UpdateScript0.07.rpy:17616
 translate italian diaz_help_60eae683:
 
     # R "Expelled... Ha!... It is a student."
+    R "Expelled... Ha!... È uno studente."
 
 # game/UpdateScript0.07.rpy:17619
 translate italian diaz_help_e816e336:
 
     # AD "Fuck..."
+    AD "Cazzo..."
 
 # game/UpdateScript0.07.rpy:17620
 translate italian diaz_help_8fc67539:
 
     # R "I wonder who it is..."
+    R "Mi domando chi sia..."
 
 # game/UpdateScript0.07.rpy:17621
 translate italian diaz_help_a9f043ed:
 
     # AD "So do you want to buy some votes, or not?"
+    AD "Quindi vuoi comprare qualche voto, oppure no?"
 
 # game/UpdateScript0.07.rpy:17624
 translate italian diaz_help_b61e382f:
 
     # R "Fine!... As long as you can guarantee that Lauren's vote count will go up."
+    R "Fine!... Finché puoi garantire che il conteggio dei voti di Lauren salirà."
 
 # game/UpdateScript0.07.rpy:17625
 translate italian diaz_help_7c6dfc79_6:
@@ -42757,11 +46446,13 @@ translate italian diaz_help_83b65130_6:
 translate italian diaz_help_0e561655_3:
 
     # R "Yeah, right... I'm not giving you any more money."
+    R "Sì, giusto... non ti sto dando più denaro."
 
 # game/UpdateScript0.07.rpy:17635
 translate italian diaz_help_85bbc5fc_3:
 
     # AD "Ok, but if you change your mind, you know where to find me."
+    AD "Ok, ma se si cambia idea, si sa dove trovarmi."
 
 # game/UpdateScript0.07.rpy:17636
 translate italian diaz_help_42e46acb_3:
@@ -42773,16 +46464,19 @@ translate italian diaz_help_42e46acb_3:
 translate italian diaz_help_e6d2c9e9:
 
     # AD "Now, if that's it, I need to get back to my observations."
+    AD "Ora, se è così, devo ritornare alle mie osservazioni."
 
 # game/UpdateScript0.07.rpy:17640
 translate italian diaz_help_4bd15503:
 
     # AD "So, remember... Like God, I'm always watching."
+    AD "Quindi, ricordatevi... come Dio, sto sempre guardando."
 
 # game/UpdateScript0.07.rpy:17641
 translate italian diaz_help_c85a5eb0:
 
     # RT "{i}Well that's unsettling.{/i}"
+    RT "{i}Beh che è instabile.{/i}"
 
 # game/UpdateScript0.07.rpy:17686
 translate italian diaz_cum_01bf50a0:
@@ -42800,6 +46494,7 @@ translate italian diaz_cum_a9c10774:
 translate italian diaz_cum_06adc1f9:
 
     # AD "Oh, my God!... I really thought I'd be able to swallow it all that time."
+    AD "Oh, mio Dio!... pensavo davvero di poter ingoiare tutto quel tempo."
 
 # game/UpdateScript0.07.rpy:17721
 translate italian diaz_cum_96fb7f7c:
@@ -42811,11 +46506,13 @@ translate italian diaz_cum_96fb7f7c:
 translate italian diaz_cum_ead3c4ef:
 
     # AD "You covered me again!"
+    AD "Mi hai coperto ancora!"
 
 # game/UpdateScript0.07.rpy:17729
 translate italian diaz_cum_d23474ea:
 
     # AD "Satisfied?"
+    AD "Soddisfatto?"
 
 # game/UpdateScript0.07.rpy:17730
 translate italian diaz_cum_947f95a9:
@@ -42827,16 +46524,19 @@ translate italian diaz_cum_947f95a9:
 translate italian diaz_cum_8a7f1af2:
 
     # AD "Haha... I knew you'd like that."
+    AD "Haha... lo sapevo che ti sarebbe piaciuto."
 
 # game/UpdateScript0.07.rpy:17737
 translate italian diaz_cum_1e1493e3:
 
     # AD "Well, next time you're in the market for some shady votes, come and see me."
+    AD "Beh, la prossima volta che sei nel mercato per alcuni voti ombra, vieni a vedermi."
 
 # game/UpdateScript0.07.rpy:17738
 translate italian diaz_cum_3354fab7:
 
     # AD "One free blowjob with every purchase."
+    AD "Un pompino gratuito ad ogni acquisto."
 
 # game/UpdateScript0.07.rpy:17739
 translate italian diaz_cum_c0b47633:
@@ -42848,41 +46548,49 @@ translate italian diaz_cum_c0b47633:
 translate italian diaz_cum_16721db6:
 
     # R "Don't say it!"
+    R "Non lo dica!"
 
 # game/UpdateScript0.07.rpy:17741
 translate italian diaz_cum_ae9dbcf5:
 
     # AD "This is just business... Don't fall in love with me."
+    AD "Questo è solo affari... Non innamoratevi di me."
 
 # game/UpdateScript0.07.rpy:17742
 translate italian diaz_cum_b1d549ae:
 
     # R "Please! Stop!"
+    R "Per favore! Fermato!"
 
 # game/UpdateScript0.07.rpy:17743
 translate italian diaz_cum_0c58ec5b:
 
     # R "You ruin every blowjob by saying that!"
+    R "Si rovinano ogni pompino dicendo che!"
 
 # game/UpdateScript0.07.rpy:17746
 translate italian diaz_cum_68ea45d4:
 
     # AD "Haha... Yet you keep coming back."
+    AD "Haha... Eppure tu continui a tornare."
 
 # game/UpdateScript0.07.rpy:17747
 translate italian diaz_cum_74962427:
 
     # R "Well, I'm leaving now!"
+    R "Beh, sto lasciando ora!"
 
 # game/UpdateScript0.07.rpy:17748
 translate italian diaz_cum_9a1c6c05:
 
     # AD "Hahaha... I'll see you Thursday."
+    AD "Hahaha... Ci vedrò giovedì."
 
 # game/UpdateScript0.07.rpy:17751
 translate italian diaz_cum_21dc291f:
 
     # RT "{i}Why do I let her get under my skin?{/i}"
+    RT "{i}Perché la lascio andare sotto la mia pelle?{/i}"
 
 # game/UpdateScript0.07.rpy:17755
 translate italian diaz_cum_01bf50a0_1:
@@ -43026,116 +46734,139 @@ translate italian diaz_cum_d035e085:
 translate italian diaz_cum_31ebd9b7:
 
     # RT "{i}She did have a point... Calling her a manipulative monster was kinda hypocritical.{/i}"
+    RT "{i}Aveva un punto... Chiamarle un mostro manipolativo era un po' ipocrito.{/i}"
 
 # game/UpdateScript0.07.rpy:17838
 translate italian will_meeting_dcaec954:
 
     # RT "{i}Ok... It says here that Will Tylor's office is on the 69th floor... Nice!{/i}"
+    RT "{i}Ok... Qui dice che l'ufficio di Will Tylor e ' al 69esimo piano... Bello!{/mi}"
 
 # game/UpdateScript0.07.rpy:17841
 translate italian will_meeting_3f71197c:
 
     # X "Hello, sir... How may I help you?"
+    X "Ciao, signore... come posso aiutarti?"
 
 # game/UpdateScript0.07.rpy:17844
 translate italian will_meeting_6abd0892:
 
     # R "Hi... I'm here to see Mr. Will Tylor."
+    R "Ciaochar@@0 Sono qui per vedere Mr. Will Tylor."
 
 # game/UpdateScript0.07.rpy:17845
 translate italian will_meeting_7c0baa70:
 
     # X "Okay... And what's the name for the appointment?"
+    X "Va bene... E qual è il nome dell'appuntamento?"
 
 # game/UpdateScript0.07.rpy:17846
 translate italian will_meeting_8291a0d6:
 
     # R "Oh... I don't have an appointment, I'm a student that goes to one of the schools he's on the board for. I was hoping I could just drop in."
+    R "Oh... Non ho un appuntamento, sono uno studente che va in una delle scuole per le quali è a bordo. Stavo sperando di potervi solo entrare."
 
 # game/UpdateScript0.07.rpy:17847
 translate italian will_meeting_fddcd160:
 
     # X "Oh, I'm very sorry, sir, but without an appointment... Wait... How do I know you?"
+    X "Oh, sono molto dispiaciuto, signore, ma senza un appuntamento... Aspetta... Come ti conosco?"
 
 # game/UpdateScript0.07.rpy:17848
 translate italian will_meeting_0e099b09:
 
     # R "I don't know... I was thinking you look familiar, too."
+    R "Non lo so... stavo pensando che anche tu sembri familiare."
 
 # game/UpdateScript0.07.rpy:17849
 translate italian will_meeting_746eef62:
 
     # X "Hmmm...."
+    X "Hmmm...."
 
 # game/UpdateScript0.07.rpy:17852
 translate italian will_meeting_5a692c28:
 
     # X "Oh... I know."
+    X "Oh... lo so."
 
 # game/UpdateScript0.07.rpy:17853
 translate italian will_meeting_fd5a605f:
 
     # X "I met you at the DeCapo's club."
+    X "Ti ho conosciuto al club di DeCapo."
 
 # game/UpdateScript0.07.rpy:17854
 translate italian will_meeting_20294223:
 
     # R "Oh, yeah... that's right! Candy... wasn't it?"
+    R "Oh, sì... va bene! Candy... vero?"
 
 # game/UpdateScript0.07.rpy:17855
 translate italian will_meeting_64c3d9bf:
 
     # CD "Yeah... Good memory."
+    CD "Sì, buona memoria."
 
 # game/UpdateScript0.07.rpy:17856
 translate italian will_meeting_690a38c0:
 
     # CD "And you're the cute little waitress's brother, [ryan]?"
+    CD "E sei il fratellino della cameriera, [ryan]?"
 
 # game/UpdateScript0.07.rpy:17857
 translate italian will_meeting_779dcdca:
 
     # R "Good memory, yourself."
+    R "Buona memoria, tu stesso."
 
 # game/UpdateScript0.07.rpy:17858
 translate italian will_meeting_3c033e79:
 
     # R "Your hair looks so different like that. If you hadn't said anything I might not have recognized you."
+    R "I tuoi capelli sembrano così diversi. Se non avessi detto nulla avrei potuto non averti riconosciuto."
 
 # game/UpdateScript0.07.rpy:17859
 translate italian will_meeting_12b5b1e3:
 
     # R "So you work in the club, and for Mr. Tylor?"
+    R "Così si lavora nel club, e per il signor Tylor?"
 
 # game/UpdateScript0.07.rpy:17863
 translate italian will_meeting_e03edc82:
 
     # CD "Well, it's like I told you in the club. Unless I miraculously find a way to pay off my husband's gigantic poker debt to Joey DeCapo, He'll forever be my pimp."
+    CD "Beh, è come ti ho detto nel club. A meno che non trovo miracolosamente un modo per pagare il gigantesco debito di poker di mio marito a Joey DeCapo, sarà per sempre il mio pimp."
 
 # game/UpdateScript0.07.rpy:17864
 translate italian will_meeting_e83da912:
 
     # CD "I guess, that is until my face gets too many wrinkles and by boobs get so saggy nobody wants to look at me naked anymore."
+    CD "Immagino che che è fino a quando il mio volto ottiene troppe rughe e da tette ottenere così cadente nessuno vuole guardare me nudo più."
 
 # game/UpdateScript0.07.rpy:17865
 translate italian will_meeting_1e2bb53b:
 
     # CD "He might forget my husband's debt then... But that's a long ways away."
+    CD "Poteva dimenticare il debito di mio marito allora... Ma questo è un lungo cammino di distanza."
 
 # game/UpdateScript0.07.rpy:17866
 translate italian will_meeting_2543f2a7:
 
     # CD "Everything I make at the club goes straight to Joey. If it weren't for this job, we wouldn't have enough money for anything else... at least not for much else. My husband makes minimum wage."
+    CD "Tutto quello che faccio al club va dritto a Joey. Se non fosse stato per questo lavoro, non avremmo abbastanza soldi per qualcos'altro... almeno non per molto altro. Mio marito fa il salario minimo."
 
 # game/UpdateScript0.07.rpy:17867
 translate italian will_meeting_7856ab74:
 
     # R "Does Mr. Tylor know you work at the club?"
+    R "Il signor Tylor sa che lei lavora al club?"
 
 # game/UpdateScript0.07.rpy:17870
 translate italian will_meeting_7e9ed55d:
 
     # CD "Of course. Where do you think I met him?"
+    CD "Certo. Dove pensi che l'abbia conosciuto?"
 
 # game/UpdateScript0.07.rpy:17871
 translate italian will_meeting_cd00e60d:
@@ -43159,106 +46890,127 @@ translate italian will_meeting_1ed9d2d0:
 translate italian will_meeting_86ced1ef:
 
     # CD "I told him my story, and he felt pity on me and gave me a job."
+    CD "Gli ho raccontato la mia storia, e lui mi sentiva pietà e mi ha dato un lavoro."
 
 # game/UpdateScript0.07.rpy:17877
 translate italian will_meeting_6e47a1ca:
 
     # CD "It pays really well, and Will urr... Mr. Tylor gives me great tips when I give him my extra services."
+    CD "Paga davvero bene, e urrà... Mr. Tylor mi dà grandi suggerimenti quando gli do i miei servizi extra."
 
 # game/UpdateScript0.07.rpy:17878
 translate italian will_meeting_8c911231:
 
     # R "Extra services? Does Mr. Tylor pay for lap dances here at his work?"
+    R "Servizi aggiuntivi? Il signor Tylor paga qui per le danze sul grembo al suo lavoro?"
 
 # game/UpdateScript0.07.rpy:17879
 translate italian will_meeting_52c0d99d:
 
     # CD "That and other things, if work is slow. It rarely is, though. I'd make a lot more off him if Will didn't have so many clients."
+    CD "Quella e altre cose, se il lavoro è lento. Raramente è, però. Lo farei molto di più se non avesse così tanti clienti."
 
 # game/UpdateScript0.07.rpy:17880
 translate italian will_meeting_1e45072b:
 
     # R "Wow! Note to self: \"if I ever need a secretary, hire a stripper.\""
+    R "Wow! Nota di sé: \"se mai ho bisogno di una segretaria, assumi uno spogliarello.\""
 
 # game/UpdateScript0.07.rpy:17883
 translate italian will_meeting_649c98ea:
 
     # CD "Haha..."
+    CD "Haha..."
 
 # game/UpdateScript0.07.rpy:17884
 translate italian will_meeting_933165e8:
 
     # CD "You want a quick peek?"
+    CD "Volete un rapido sbircio?"
 
 # game/UpdateScript0.07.rpy:17885
 translate italian will_meeting_cac215ab:
 
     # R "Really?... Of course I do!"
+    R "Davvero?... Naturalmente lo fa!"
 
 # game/UpdateScript0.07.rpy:17886
 translate italian will_meeting_3a1017b7:
 
     # CD "I'll let you stare at my tits for fifty dollars."
+    CD "Ti lascerò guardare le mie tette per cinquanta dollari."
 
 # game/UpdateScript0.07.rpy:17887
 translate italian will_meeting_d5e3c207:
 
     # R "Fifty? That's how much you charge for a lap dance!"
+    R "Cinquanta? È quanto ti addebiti per una danza sul giro!"
 
 # game/UpdateScript0.07.rpy:17888
 translate italian will_meeting_76ba15dd:
 
     # CD "Yeah, but this is at my professional work. These kind of services cost extra in the corporate world."
+    CD "Sì, ma questo è al mio lavoro professionale. Questo tipo di servizi costano in più nel mondo aziendale."
 
 # game/UpdateScript0.07.rpy:17889
 translate italian will_meeting_e89fe022:
 
     # CD "So, what do you say?"
+    CD "Allora, cosa dite?"
 
 # game/UpdateScript0.07.rpy:17892
 translate italian will_meeting_207441ac:
 
     # CD "I knew I liked you."
+    CD "Sapevo che mi piacevate."
 
 # game/UpdateScript0.07.rpy:17893
 translate italian will_meeting_3356816d:
 
     # {b}{i}\"Money -$50\"{/i}{/b}"
+    new "{b}{i}\"Money -$50\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:17901
 translate italian will_meeting_5fffda70:
 
     # CD "Okay... I don't think anyone will be disturbing us."
+    CD "Okay... Non credo che nessuno ci disturberà."
 
 # game/UpdateScript0.07.rpy:17904
 translate italian will_meeting_01a837b9:
 
     # CD "You ready?"
+    CD "Siete pronti?"
 
 # game/UpdateScript0.07.rpy:17905
 translate italian will_meeting_8a8a2079:
 
     # R "For this... Always!"
+    R "Per questo... sempre!"
 
 # game/UpdateScript0.07.rpy:17906
 translate italian will_meeting_a121e864:
 
     # CD "Haha... naughty boy!"
+    CD "Haha... ragazzo cattivo!"
 
 # game/UpdateScript0.07.rpy:17910
 translate italian will_meeting_48f654a4:
 
     # R "Wow!... Those are some of the nicest tits I've ever seen?"
+    R "Wow!... Queste sono alcune delle tette più belle che io abbia mai visto?"
 
 # game/UpdateScript0.07.rpy:17911
 translate italian will_meeting_40847852:
 
     # R "Please don't be offended by this question, but are they real?"
+    R "Non essere offeso da questa domanda, ma sono reali?"
 
 # game/UpdateScript0.07.rpy:17912
 translate italian will_meeting_d6f55332:
 
     # CD "Of course they're real!"
+    CD "Naturalmente sono reali!"
 
 # game/UpdateScript0.07.rpy:17913
 translate italian will_meeting_895a152c:
@@ -43270,6 +47022,7 @@ translate italian will_meeting_895a152c:
 translate italian will_meeting_11a86a62:
 
     # CD "Haha... I'm glad you're enjoying them."
+    CD "Haha... Sono contento che ti stia piacendo."
 
 # game/UpdateScript0.07.rpy:17915
 translate italian will_meeting_372579ba:
@@ -43305,16 +47058,19 @@ translate italian will_meeting_220db1c2:
 translate italian will_meeting_4908fed9:
 
     # CD "Haha... Get one good last look."
+    CD "Haha... Ottieni un buon ultimo aspetto."
 
 # game/UpdateScript0.07.rpy:17926
 translate italian will_meeting_a2b19fc7:
 
     # R "As much as I'd love to, that's just too expensive for me."
+    R "Per quanto mi piace, è troppo costoso per me."
 
 # game/UpdateScript0.07.rpy:17929
 translate italian will_meeting_15bf89f0:
 
     # CD "Ohhh... You're no fun!"
+    CD "Ohhh... Non sei divertimento!"
 
 # game/UpdateScript0.07.rpy:17930
 translate italian will_meeting_372579ba_1:
@@ -43350,31 +47106,37 @@ translate italian will_meeting_220db1c2_1:
 translate italian will_meeting_d8091e50:
 
     # CD "I work at the club because I... well, my husband owes Joey DeCapo a lot of money."
+    CD "Lavoro al club perche... beh, mio marito deve a Joey DeCapo un sacco di soldi."
 
 # game/UpdateScript0.07.rpy:17941
 translate italian will_meeting_894a775b:
 
     # R "Sounds like my family."
+    R "Suona come la mia famiglia."
 
 # game/UpdateScript0.07.rpy:17942
 translate italian will_meeting_d2344c78:
 
     # CD "Exactly... Joey likes having leverage over people, then he can use them however he wants."
+    CD "Esattamente... a Joey piace avere la leva sulle persone, quindi può usarle come vuole."
 
 # game/UpdateScript0.07.rpy:17943
 translate italian will_meeting_5d7f21f3:
 
     # CD "So I'm working to pay off my husband's debt at the club, and working to pay our daily expenses here at Mr. Tylor's office."
+    CD "Così sto lavorando per pagare il debito di mio marito al club, e lavorare per pagare le nostre spese giornaliere qui presso l'ufficio del signor Tylor."
 
 # game/UpdateScript0.07.rpy:17944
 translate italian will_meeting_7856ab74_1:
 
     # R "Does Mr. Tylor know you work at the club?"
+    R "Il signor Tylor sa che lei lavora al club?"
 
 # game/UpdateScript0.07.rpy:17947
 translate italian will_meeting_7e9ed55d_1:
 
     # CD "Of course. Where do you think I met him?"
+    CD "Certo. Dove pensi che l'abbia conosciuto?"
 
 # game/UpdateScript0.07.rpy:17948
 translate italian will_meeting_cd00e60d_1:
@@ -43398,6 +47160,7 @@ translate italian will_meeting_1ed9d2d0_1:
 translate italian will_meeting_86ced1ef_1:
 
     # CD "I told him my story, and he felt pity on me and gave me a job."
+    CD "Gli ho raccontato la mia storia, e lui mi sentiva pietà e mi ha dato un lavoro."
 
 # game/UpdateScript0.07.rpy:17952
 translate italian will_meeting_372579ba_2:
@@ -43433,536 +47196,643 @@ translate italian will_meeting_220db1c2_2:
 translate italian will_meeting_a3194b75:
 
     # R "Hello, Mr. Tylor, it's nice to meet you. My name is [ryan]."
+    R "Ciao, Mr. Tylor, è bello incontrarti. Mi chiamo [ryan]."
 
 # game/UpdateScript0.07.rpy:17966
 translate italian will_meeting_d6f2df05:
 
     # WT "It's nice to meet you too. Now, which of the schools in our district do you attend?"
+    WT "È bello conoscerti anche. Ora, quale delle scuole del nostro quartiere partecipa?"
 
 # game/UpdateScript0.07.rpy:17967
 translate italian will_meeting_8e3f9fd1:
 
     # R "Shagtown high."
+    R "Shagtown alto."
 
 # game/UpdateScript0.07.rpy:17968
 translate italian will_meeting_6ae5f9a6:
 
     # WT "Oh, yes. Go Hornytoads!"
+    WT "Oh, sì. Vai Hornytoads!"
 
 # game/UpdateScript0.07.rpy:17969
 translate italian will_meeting_66c0ee19:
 
     # WT "Please, have a seat. Make yourself comfortable."
+    WT "Si prega di avere un posto a sedere. Rendersi comodo."
 
 # game/UpdateScript0.07.rpy:17972
 translate italian will_meeting_ef64b215:
 
     # WT "Now, what can I do for you?"
+    WT "Ora, che cosa posso fare per te?"
 
 # game/UpdateScript0.07.rpy:17973
 translate italian will_meeting_9432c56a:
 
     # RT "{i}Okay... I need to butter him up first so he'll be more open to help me.{/i}"
+    RT "{i}Okay... Ho bisogno di burrarlo per prima cosa, sarà più aperto per aiutarmi. {/i}"
 
 # game/UpdateScript0.07.rpy:17974
 translate italian will_meeting_eaebc6d5:
 
     # R "First off, I just wanted to let you know that we're studying one of your books on Oedipus Rex and Oedipal complexes in my mom's class at school."
+    R "In primo luogo, Volevo solo farti sapere che stiamo studiando uno dei tuoi libri su complessi Oedipus Rex e Oedipal nella classe di mia mamma a scuola."
 
 # game/UpdateScript0.07.rpy:17975
 translate italian will_meeting_1b28e132:
 
     # WT "Oh, really?... and who is your mother?"
+    WT "Oh, davvero?... e chi è tua madre?"
 
 # game/UpdateScript0.07.rpy:17976
 translate italian will_meeting_2fe6fd72:
 
     # R "Oh, it's Miss [mom_name]"
+    R "Oh, è signorina [mom_name]"
 
 # game/UpdateScript0.07.rpy:17977
 translate italian will_meeting_198ba9f0:
 
     # WT "Ahh... Miss [mom_name] from Shagtown High."
+    WT "Ahh... signorina [mom_name] da Shagtown High."
 
 # game/UpdateScript0.07.rpy:17978
 translate italian will_meeting_0c521d59:
 
     # WT "Let me just pull up my information on her from the school's database."
+    WT "Permettetemi di estrarre le mie informazioni dal database della scuola."
 
 # game/UpdateScript0.07.rpy:17979
 translate italian will_meeting_ec04723a:
 
     # WT "Yes, there she is."
+    WT "Sì, lì è."
 
 # game/UpdateScript0.07.rpy:17982
 translate italian will_meeting_6993091d:
 
     # WTT "{i}Oh, yes... The extremely beautiful and talented Miss [mom_name].{/i}"
+    WTT "{i}Oh, sì... La signorina molto bella e di talento [mom_name].{/i}"
 
 # game/UpdateScript0.07.rpy:17983
 translate italian will_meeting_e8609c46:
 
     # WTT "{i}Which means this young man must be the photographer who set up the Cosplay Heaven page.{/i}"
+    WTT "{i}Il che significa che questo giovane deve essere il fotografo che ha creato la pagina Cosplay Heaven.{/i}"
 
 # game/UpdateScript0.07.rpy:17984
 translate italian will_meeting_e9850bcc:
 
     # WT "I believe I recently met your mom when I last visited your school."
+    WT "Credo di aver recentemente incontrato tua mamma quando ho visitato l'ultima volta la tua scuola."
 
 # game/UpdateScript0.07.rpy:17985
 translate italian will_meeting_d7f29039:
 
     # WT "I helped get an employee family scholarship so that her niece could attend Shagtown High for free."
+    WT "Ho aiutato a ottenere una borsa di studio di famiglia dipendente in modo che la nipote potesse partecipare Shagtown High gratuitamente."
 
 # game/UpdateScript0.07.rpy:17986
 translate italian will_meeting_4d81bc3f:
 
     # R "Yeah, Mandy... We're all really grateful for your help with that. Mandy's loving Shagtown High."
+    R "Sì, Mandy... Siamo tutti davvero grati per il vostro aiuto con quello."
 
 # game/UpdateScript0.07.rpy:17987
 translate italian will_meeting_a42dbb1f:
 
     # WT "Good, I'm glad I could help."
+    WT "Bene, sono contenta di poter aiutare."
 
 # game/UpdateScript0.07.rpy:17988
 translate italian will_meeting_6c7db0b3:
 
     # R "Anyways, I just wanted to say I think your book is really interesting, and I'm getting a lot of good information out of it for my upcoming presentation."
+    R "Comunque, volevo solo dire che penso che il tuo libro sia davvero interessante, e sto ottenendo un sacco di buone informazioni fuori di esso per la mia prossima presentazione."
 
 # game/UpdateScript0.07.rpy:17989
 translate italian will_meeting_cfeaf4bd:
 
     # WTT "{i}This kid is buttering me up for something.{/i}"
+    WTT "{i}Questo bambino mi sta imburrando per qualcosa.{/i}"
 
 # game/UpdateScript0.07.rpy:17990
 translate italian will_meeting_f40905e7:
 
     # WT "Well, let me return the compliment. As I understand it, you are somewhat of an amateur photographer?"
+    WT "Beh, lasciami restituire il complimento. A quanto ho capito, sei un po' di un fotografo dilettante?"
 
 # game/UpdateScript0.07.rpy:17993
 translate italian will_meeting_f77586de:
 
     # RT "{i}Holy shit!... He knows about my Cosplay Heaven account.{/i}"
+    RT "{i}Santa merda!... Conosce il mio account Cosplay Heaven.{/i}"
 
 # game/UpdateScript0.07.rpy:17994
 translate italian will_meeting_3828f147:
 
     # R "Uhhhh... yeah... How did you?..."
+    R "Uhhhh... sì... Come hai fatto?..."
 
 # game/UpdateScript0.07.rpy:17995
 translate italian will_meeting_28596a65:
 
     # WT "Oh, I got an anonymous email letting me know one of our teachers was posting filthy pictures on the internet."
+    WT "Oh, ho ricevuto un'e-mail anonima che mi ha fatto sapere che uno dei nostri insegnanti stava pubblicando immagini sporche su Internet."
 
 # game/UpdateScript0.07.rpy:17996
 translate italian will_meeting_dfbf3618:
 
     # WT "Whoever sent the email was obviously hoping to get Miss [mom_name] fired."
+    WT "Chi ha inviato l'email stava ovviamente sperando di ottenere la signorina [mom_name] licenziata."
 
 # game/UpdateScript0.07.rpy:17997
 translate italian will_meeting_08fc9a83:
 
     # WT "But, I had a look, and actually found them to be quite tastefully done."
+    WT "Ma, ho avuto uno sguardo, e in realtà li trovai essere abbastanza fatto con gusto."
 
 # game/UpdateScript0.07.rpy:17998
 translate italian will_meeting_6603fc21:
 
     # WT "I actually admire Miss [mom_name]'s courage to go against the social norms put on her by the educational establishment."
+    WT "Ammiro davvero il coraggio di Miss [mom_name] di andare contro le norme sociali che le sono state imposte dall'istituto scolastico."
 
 # game/UpdateScript0.07.rpy:17999
 translate italian will_meeting_dd8e4a12:
 
     # WT "I was a little concerned about her posing with a student, until I verified that the student is 18."
+    WT "Ero un po 'preoccupato per lei posa con uno studente, fino a quando ho verificato che lo studente ha 18 anni."
 
 # game/UpdateScript0.07.rpy:18001
 translate italian will_meeting_43b91a58:
 
     # R "Megan was actually the one who talked Mom into doing the shoot with her."
+    R "Megan è stato in realtà colui che ha parlato la mamma a fare lo sparo con lei."
 
 # game/UpdateScript0.07.rpy:18003
 translate italian will_meeting_a529b697:
 
     # R "Megan and her boyfriend were actually the ones who talked Mom into doing the shoot."
+    R "Megan e il suo fidanzato erano in realtà quelli che hanno parlato mamma a fare lo sparo."
 
 # game/UpdateScript0.07.rpy:18004
 translate italian will_meeting_de60d5cd:
 
     # R "It definitely took some convincing."
+    R "Sicuramente ci sono voluti dei convincenti."
 
 # game/UpdateScript0.07.rpy:18005
 translate italian will_meeting_d86ec3c4:
 
     # WT "Well, now I admire her even more for taking an active role in supporting the interests of her students."
+    WT "Beh, ora la ammiro ancora di più per aver preso un ruolo attivo nel sostenere gli interessi dei suoi studenti."
 
 # game/UpdateScript0.07.rpy:18006
 translate italian will_meeting_b22c22e2:
 
     # WT "I'd love to meet with her again and congratulate her on being such an excellent teacher and role model."
+    WT "Mi piacerebbe incontrarla di nuovo e congratularmi con lei per essere un eccellente insegnante e modello di ruolo."
 
 # game/UpdateScript0.07.rpy:18007
 translate italian will_meeting_6c008e03:
 
     # RT "{i}Yeah, right... That's not the only reason this pervert would like to meet with her again.{/i}"
+    RT "{i}Sì, giusto... Questo non è l'unico motivo per cui questo perverso vorrebbe incontrarla nuovamente.{/i}"
 
 # game/UpdateScript0.07.rpy:18008
 translate italian will_meeting_ff9369b8:
 
     # WT "I've got to commend you, too. As a photographer, it can't be easy to distance yourself emotionally while taking these kinds of photos of your own mother."
+    WT "Anche io devo lodarti. Come fotografo, non può essere facile prendere le distanze emotivamente mentre scattate questo tipo di foto di vostra madre."
 
 # game/UpdateScript0.07.rpy:18009
 translate italian will_meeting_d272287e:
 
     # R "How did you know that I'm the photographer? I didn't post any of my personal information on my account."
+    R "Come hai saputo che sono il fotografo? Non ho pubblicato nessuna delle mie informazioni personali sul mio account."
 
 # game/UpdateScript0.07.rpy:18010
 translate italian will_meeting_1f0a62e6:
 
     # WT "Well, the anonymous email I received said that the pictures were taken by Miss [mom_name]'s own perverted son."
+    WT "Bene, l'email anonima che ho ricevuto diceva che le foto sono state scattate dal figlio pervertito della signorina [mom_name]."
 
 # game/UpdateScript0.07.rpy:18011
 translate italian will_meeting_977dfa0a:
 
     # RT "{i}Who would have sent that email!?{/i}"
+    RT "{i}Chi avrebbe inviato questa email!?{/i}"
 
 # game/UpdateScript0.07.rpy:18012
 translate italian will_meeting_d57641bb:
 
     # RT "{i}There are only a handful of people who know.{/i}"
+    RT "{i}Ci sono solo una manciata di persone che sanno.{/mi}"
 
 # game/UpdateScript0.07.rpy:18013
 translate italian will_meeting_a081ffa6:
 
     # RT "{i}Who has it out for Mom and I?{/i}"
+    RT "{i}Chi ha fuori per Mamma e Io? {/i}"
 
 # game/UpdateScript0.07.rpy:18014
 translate italian will_meeting_216d0a2f:
 
     # RT "{i}....Oh, fuck!... I'll bet it was Aunt Cami!{/i}"
+    RT "{i}....Oh, cazza!... Scommetto che era zia Cami!{/i}"
 
 # game/UpdateScript0.07.rpy:18015
 translate italian will_meeting_fa7d5f8d:
 
     # RT "{i}Oooo.. If I can prove it, she's gonna pay!{/i}"
+    RT "{i}Oooo.. Se posso provarlo, lei pagherà!{/i}"
 
 # game/UpdateScript0.07.rpy:18018
 translate italian will_meeting_37c2c107:
 
     # WT "You still with us?"
+    WT "Hai ancora con noi?"
 
 # game/UpdateScript0.07.rpy:18019
 translate italian will_meeting_2c4ca66c:
 
     # R "Yeah... Sorry, I was just trying to figure out who would have sent that email."
+    R "Sì... Scusa, stavo solo cercando di capire chi avrebbe mandato quell'email."
 
 # game/UpdateScript0.07.rpy:18020
 translate italian will_meeting_7f49a07f:
 
     # WT "Well, don't worry. I won't tell anyone."
+    WT "Beh, non preoccuparti. Non lo dirò a nessuno."
 
 # game/UpdateScript0.07.rpy:18021
 translate italian will_meeting_b75134d9:
 
     # WT "I can see how you wouldn't want anyone to know you're taking those kinds of pictures of your own mother."
+    WT "Posso vedere come non vorresti che nessuno sappia che stai scattando quelle foto di tua madre."
 
 # game/UpdateScript0.07.rpy:18022
 translate italian will_meeting_469b7b50:
 
     # R "Or sisters."
+    R "O sorelle."
 
 # game/UpdateScript0.07.rpy:18023
 translate italian will_meeting_10b630dc:
 
     # WT "The other girls are your sisters!?"
+    WT "Le altre ragazze sono tue sorelle!?"
 
 # game/UpdateScript0.07.rpy:18024
 translate italian will_meeting_ed313c4e:
 
     # R "Oh... you didn't kn...fuck!"
+    R "Oh... non hai fatto...cazzo!"
 
 # game/UpdateScript0.07.rpy:18025
 translate italian will_meeting_6338184e:
 
     # WTT "{i}My God! This kid is the living embodiment of all my theories.{/i}"
+    WTT "{i}Mio Dio! Questo bambino è l'incarnazione vivente di tutte le mie teorie.{/i}"
 
 # game/UpdateScript0.07.rpy:18026
 translate italian will_meeting_dab33bbb:
 
     # WTT "{i}I need to study him and his family!{/i}"
+    WTT "{i}Ho bisogno di studiare lui e la sua famiglia!{/i}"
 
 # game/UpdateScript0.07.rpy:18027
 translate italian will_meeting_22a058c8:
 
     # WT "Don't worry, I'll keep that a secret, too."
+    WT "Non ti preoccupare, lo terrò un segreto."
 
 # game/UpdateScript0.07.rpy:18028
 translate italian will_meeting_7f0f9380:
 
     # R "Thanks."
+    R "Grazie."
 
 # game/UpdateScript0.07.rpy:18029
 translate italian will_meeting_a06f8e15:
 
     # WT "I'm sorry. I feel like we've gotten off-subject."
+    WT "Mi dispiace. Mi sento come se fossimo fuori argomento."
 
 # game/UpdateScript0.07.rpy:18030
 translate italian will_meeting_043372d1:
 
     # WT "I believe there was something you wanted to ask me, before I ran away with the conversation."
+    WT "Credo che ci fosse qualcosa che volevi chiedermi, prima di scappare con la conversazione."
 
 # game/UpdateScript0.07.rpy:18033
 translate italian will_meeting_73256b30:
 
     # R "Yes... Thanks."
+    R "Sì... Grazie."
 
 # game/UpdateScript0.07.rpy:18034
 translate italian will_meeting_abd413cf:
 
     # R "So, my sister Lauren is running for student body president."
+    R "Così, mia sorella Lauren è in esecuzione per il presidente del corpo studentesco."
 
 # game/UpdateScript0.07.rpy:18035
 translate italian will_meeting_fe7cb4bc:
 
     # WT "Oh yes, the special election... I was so mad how those poor girls were thrown out of office, merely for acting like real politicians."
+    WT "Oh sì, le elezioni speciali... Ero così pazzo come quelle povere ragazze sono state gettate fuori ufficio, solo per comportarsi come veri politici."
 
 # game/UpdateScript0.07.rpy:18036
 translate italian will_meeting_45f20e83:
 
     # WT "But, I digress... You were saying?"
+    WT "Ma, digresso... Stavi dicendo?"
 
 # game/UpdateScript0.07.rpy:18037
 translate italian will_meeting_e7d245be:
 
     # R "Well, Lauren was trying to think of things that would improve the student's lives at school, and she came up with the idea that we need to revise the dress code."
+    R "Bene, Lauren stava cercando di pensare a cose che avrebbero migliorato la vita dello studente a scuola, e lei è venuta con l'idea che abbiamo bisogno di rivedere il codice di abbigliamento."
 
 # game/UpdateScript0.07.rpy:18038
 translate italian will_meeting_978c2518:
 
     # WT "Oh, really? Please, tell me why."
+    WT "Oh, davvero? Per favore, dicimi perché."
 
 # game/UpdateScript0.07.rpy:18039
 translate italian will_meeting_51bd8196:
 
     # R "Well, first off, the air conditioning in the school doesn't work half the time."
+    R "Beh, prima di tutto, l'aria condizionata nella scuola non funziona la metà del tempo."
 
 # game/UpdateScript0.07.rpy:18040
 translate italian will_meeting_531a95bf:
 
     # WT "Yes... The school maintenance team keeps telling us they fixed it, but then we keep getting reports that it's down again."
+    WT "Sì... Il team di manutenzione della scuola continua a dirci che hanno riparato, ma poi continuiamo a ottenere rapporti che è di nuovo giù."
 
 # game/UpdateScript0.07.rpy:18041
 translate italian will_meeting_5492b539:
 
     # R "Yeah, and we end up so hot that we can't pay attention in class."
+    R "Sì, e finiamo così caldi che non possiamo prestare attenzione in classe."
 
 # game/UpdateScript0.07.rpy:18042
 translate italian will_meeting_9e22425f:
 
     # R "Our pants are made of wool, as are the girls' vests and skirts."
+    R "I nostri pantaloni sono fatti di lana, come i giubbotti e le gonne delle ragazze."
 
 # game/UpdateScript0.07.rpy:18043
 translate italian will_meeting_8170c349:
 
     # WT "Hmmm... I see your point."
+    WT "Hmmm... Vedo il tuo punto."
 
 # game/UpdateScript0.07.rpy:18044
 translate italian will_meeting_4d966020:
 
     # R "And then a lot of the girls just think the uniforms are not very cute or trendy."
+    R "E poi un sacco di ragazze pensano solo che le uniformi non sono molto carino o di tendenza."
 
 # game/UpdateScript0.07.rpy:18047
 translate italian will_meeting_36b33a92:
 
     # WT "Well, we do need to have uniforms, and the current uniforms are a nod to our school's Catholic background and a major source of our funding."
+    WT "Bene, abbiamo bisogno di avere uniformi, e le uniformi attuali sono un cenno al background cattolico della nostra scuola e una fonte importante di finanziamenti."
 
 # game/UpdateScript0.07.rpy:18048
 translate italian will_meeting_1fb1cd09:
 
     # WT "But, I do agree there could be some revisions."
+    WT "Ma sono d'accordo che ci potrebbero essere alcune revisioni."
 
 # game/UpdateScript0.07.rpy:18049
 translate italian will_meeting_114845ce:
 
     # WT "What if we gave the boys the option to wear shorts?"
+    WT "E se avessimo dato ai ragazzi la possibilità di indossare pantaloncini?"
 
 # game/UpdateScript0.07.rpy:18052
 translate italian will_meeting_28008725:
 
     # WT "And for the girls, what if we went with something closer to the Hermione Bang'er outfit you did for your cosplay shoot with Megan and Miss [mom_name]?"
+    WT "Per le ragazze, e se andassimo con qualcosa di più vicino al vestito di Hermione Bang'er che hai fatto per il tuo scatto cosplay con Megan e Miss [mom_name]?"
 
 # game/UpdateScript0.07.rpy:18053
 translate italian will_meeting_4a15f7af:
 
     # R "Really?... Could you do that?"
+    R "Veramente?... Potresti farlo?"
 
 # game/UpdateScript0.07.rpy:18054
 translate italian will_meeting_1e563207:
 
     # WT "Well, the skirt couldn't be quite that short... But shorter than it is now."
+    WT "Beh, la gonna non poteva essere abbastanza breve... Ma più breve di quello che è ora."
 
 # game/UpdateScript0.07.rpy:18055
 translate italian will_meeting_58a3d87c:
 
     # R "So, that's a yes? You'll let us change the dress code?"
+    R "Quindi, è un sì? Ci lascerete cambiare il codice di vestito?"
 
 # game/UpdateScript0.07.rpy:18056
 translate italian will_meeting_cf08561f:
 
     # WT "It's not completely up to me. I'll have to run it by the board, and they'll have to vote to allow it."
+    WT "Non è completamente a me. Dovrò farlo funzionare dal tavolo, e dovranno votare per permetterlo."
 
 # game/UpdateScript0.07.rpy:18057
 translate italian will_meeting_3be01781:
 
     # WT "I definitely hold some influence over the board, so I think there's a good chance I'll be able to sway them."
+    WT "Ho sicuramente un po' di influenza sul tavolo, quindi penso che ci sia una buona possibilità di poterli sviare."
 
 # game/UpdateScript0.07.rpy:18058
 translate italian will_meeting_1b854cdc:
 
     # WTT "{i}Thanks to Joey DeCapo. I had to pay a lot for dirt on all of them, but it's been more than worth it.{/i}"
+    WTT "{i}Grazie a Joey DeCapo. Ho dovuto pagare molto per lo sporco su tutti loro, ma è stato più che valsa la pena.{/i}"
 
 # game/UpdateScript0.07.rpy:18061
 translate italian will_meeting_76d0150a:
 
     # WT "I'd say there's a good chance."
+    WT "Direi che c'è una buona opportunità."
 
 # game/UpdateScript0.07.rpy:18062
 translate italian will_meeting_c80f9d95:
 
     # WT "I only ask for one favor in return."
+    WT "Chiedo solo un favore in cambio."
 
 # game/UpdateScript0.07.rpy:18063
 translate italian will_meeting_c1666057:
 
     # RT "{i}Oh, no... Here it comes.{/i}"
+    RT "{i}Oh, no... Qui viene.{/i}"
 
 # game/UpdateScript0.07.rpy:18064
 translate italian will_meeting_0a583564:
 
     # WT "I'd like you to arrange a meeting between your mother and myself."
+    WT "Vorrei che tu organizzassi un incontro tra tua madre e me stesso."
 
 # game/UpdateScript0.07.rpy:18065
 translate italian will_meeting_f6354571:
 
     # WT "I'd love to take her out to dinner."
+    WT "Vorrei portarla fuori a cena."
 
 # game/UpdateScript0.07.rpy:18066
 translate italian will_meeting_25d5f766:
 
     # R "You do know she's married, right?"
+    R "Tu sai che è sposata, giusto?"
 
 # game/UpdateScript0.07.rpy:18067
 translate italian will_meeting_59421120:
 
     # RT "{i}And belongs to me.{/i}"
+    RT "{i}Ed appartiene a me.{/i}"
 
 # game/UpdateScript0.07.rpy:18068
 translate italian will_meeting_77c73df0:
 
     # WT "Oh, of course... It would be a dinner of a professional nature."
+    WT "Oh, naturalmente... Sarebbe una cena di natura professionale."
 
 # game/UpdateScript0.07.rpy:18069
 translate italian will_meeting_cf109eb0:
 
     # RT "{i}Yeah, I'll bet.{/i}"
+    RT "{i}Sì, scommetterò. {/i}"
 
 # game/UpdateScript0.07.rpy:18070
 translate italian will_meeting_86bb8007:
 
     # WT "I'd just like to tell her what a great teacher I think she is, and maybe help her navigate the school administration so she could be eligible for a raise or even a promotion."
+    WT "Vorrei solo dirle cos'è una grande professoressa, e forse aiutarla a navigare l'amministrazione scolastica in modo che potrebbe essere eleggibile per un rilancio o anche una promozione."
 
 # game/UpdateScript0.07.rpy:18071
 translate italian will_meeting_267e14bb:
 
     # RT "{i}Yeah... and I'm sure you'd want nothing in return.{/i}"
+    RT "{i}Sì... e sono sicuro che non vorresti niente in cambio.{/i}"
 
 # game/UpdateScript0.07.rpy:18074
 translate italian will_meeting_007e6635:
 
     # WTT "{i}I've got to get closer to this woman... I could probably write a follow-up book on this family alone.{/i}"
+    WTT "{i}Devo avvicinarmi a questa donna... Potrei probabilmente scrivere un libro di follow-up solo su questa famiglia.{/i}"
 
 # game/UpdateScript0.07.rpy:18075
 translate italian will_meeting_af76eeef:
 
     # WTT "{i}What is it about her parenting style that's produced a young man with such a strong Oedipal complex?{/i}"
+    WTT "{i}Cos'è il suo stile genitoriale che ha prodotto un giovane con un complesso edipale così forte?{/i}"
 
 # game/UpdateScript0.07.rpy:18076
 translate italian will_meeting_a239a61b:
 
     # WTT "{i}Is it possible that she could have a Jocasta complex as well?{/i}"
+    WTT "{i}È possibile che anche lei abbia un complesso Jocasta?{/i}"
 
 # game/UpdateScript0.07.rpy:18079
 translate italian will_meeting_3defe1d9:
 
     # WT "Well?... What do you say?"
+    WT "Bene?... Cosa dite?"
 
 # game/UpdateScript0.07.rpy:18080
 translate italian will_meeting_9342d8f9:
 
     # RT "{i}Damn!... This is a hard choice.{/i}"
+    RT "{i}Dannazione!... Questa è una scelta difficile. {/i}"
 
 # game/UpdateScript0.07.rpy:18081
 translate italian will_meeting_5048076a:
 
     # RT "{i}On one hand, I don't think Lauren can win this election without something big, like changing the dress code to give her a boost.{/i}"
+    RT "{i}Da un lato, non credo che Lauren possa vincere questa elezione senza qualcosa di grande, come cambiare il codice di vestito per darle una spinta. / i}"
 
 # game/UpdateScript0.07.rpy:18082
 translate italian will_meeting_46100a20:
 
     # RT "{i}On the other hand, this Will guy, is obviously a creep.{/i}"
+    RT "{i}D'altra parte, questo tipo Will è ovviamente un strisciante.{/i}"
 
 # game/UpdateScript0.07.rpy:18083
 translate italian will_meeting_9118b38c:
 
     # RT "{i}What could be his real intentions for my mom?{/i}"
+    RT "{i}Quali potrebbero essere le sue vere intenzioni per mia madre?{/i}"
 
 # game/UpdateScript0.07.rpy:18084
 translate italian will_meeting_c2601a53:
 
     # RT "{i}If Lauren looses the election because I don't get Mr. Tyler to change the dress code, she'll have to fuck Matt, and she'll probably never forgive me.{/i}"
+    RT "{i}Se Lauren perde le elezioni perché non ricevo il signor Tyler per cambiare il codice del vestito, lei dovrà scopare Matt, e probabilmente non mi perdonerà mai.{/i}"
 
 # game/UpdateScript0.07.rpy:18085
 translate italian will_meeting_3b5cd159:
 
     # RT "{i}And it's just a dinner... Maybe it is just professional. Probably nothing bad will come of it.{/i}"
+    RT "{i}Ed è solo una cena... Forse è solo un professionista. Probabilmente non ne verrà nulla di male.{/i}"
 
 # game/UpdateScript0.07.rpy:18086
 translate italian will_meeting_08e2f19b:
 
     # WT "Are you still with me?... Can you arrange a meeting for your mother and me?"
+    WT "Sei ancora con me?... Riesci a organizzare una riunione per tua madre e me?"
 
 # game/UpdateScript0.07.rpy:18089
 translate italian will_meeting_d08349dc:
 
     # RT "{i}What harm could a dinner with Mr. Tylor have on Mom anyways?{/i}"
+    RT "{i}Quale danno potrebbe avere una cena con il signor Tylor sulla mamma comunque? {/i}"
 
 # game/UpdateScript0.07.rpy:18090
 translate italian will_meeting_b34ee478:
 
     # RT "{i}The way she talks about him, I can tell she despises him.{/i}"
+    RT "{i}Il modo in cui parla di lui, posso dirgli che lo disprezzi.{/i}"
 
 # game/UpdateScript0.07.rpy:18091
 translate italian will_meeting_039b57b4:
 
     # RT "{i}She'll probably tell him to hit the road, and that's the last we'll have to deal with him.{/i}"
+    RT "{i}Probabilmente gli dirà di colpire la strada, ed è l'ultima che avremo a che fare con lui.{/i}"
 
 # game/UpdateScript0.07.rpy:18092
 translate italian will_meeting_1bbeab90:
 
     # R "Alright... I'll see if my mom's willing to go to a \"professional\" dinner with you."
+    R "Bene... vedrò se mia mamma è disposta ad andare a una cena \"professionale\" con voi."
 
 # game/UpdateScript0.07.rpy:18093
 translate italian will_meeting_53292529:
 
     # WT "Fantastic. In that case, as soon as Miss [mom_name]'s agreed to meet me, send me an email to my school email and I'll do my best to make sure the dress code change happens."
+    WT "Fantastico. In questo caso, non appena Miss [mom_name] ha accettato di incontrarmi, mandami un'email alla mia email scolastica e farò del mio meglio per assicurarmi che il cambio di vestito avvenga."
 
 # game/UpdateScript0.07.rpy:18094
 translate italian will_meeting_3866d5f1:
 
     # WT "I'm sure Lauren will turn a lot of votes if the students know she can deliver that."
+    WT "Sono sicuro che Lauren girerà un sacco di voti se gli studenti sanno di poterlo fare."
 
 # game/UpdateScript0.07.rpy:18095
 translate italian will_meeting_e20f86c7:
 
     # R "I'll do my best."
+    R "Farò del mio meglio."
 
 # game/UpdateScript0.07.rpy:18096
 translate italian will_meeting_0b9839cb:
@@ -43974,6 +47844,7 @@ translate italian will_meeting_0b9839cb:
 translate italian will_meeting_c624d427:
 
     # WT "Candy can show you out. Oh, and let me know what she says."
+    WT "Candy può mostrarti fuori. Oh, e fatemi sapere quello che dice."
 
 # game/UpdateScript0.07.rpy:18102
 translate italian will_meeting_4e19b570:
@@ -43991,61 +47862,73 @@ translate italian will_meeting_24e99c9a:
 translate italian will_meeting_1355a3fa:
 
     # RT "{i}Alright, I agreed to arrange a dinner between my mom and Will Tylor. Now, I've got to convince Mom to go.{/i}"
+    RT "{i}Bene, ho accettato di organizzare una cena tra mia mamma e Will Tylor. Ora devo convincere la mamma a andare.{/i}"
 
 # game/UpdateScript0.07.rpy:18107
 translate italian will_meeting_7d608e82:
 
     # RT "{i}This might not be easy considering Mom seems to despise Will Tylor. I'd better hit her up at breakfast. She always seems to be in a good mood in the mornings.{/i}"
+    RT "{i}Questo potrebbe non essere facile considerando la mamma sembra disprezzare Will Tylor. Farei meglio a colpirla a colazione. Sembra sempre di buon umore al mattino.{/i}"
 
 # game/UpdateScript0.07.rpy:18113
 translate italian will_meeting_a9c6a5f7:
 
     # RT "{i}This perv only wants in Mom's pants.{/i}"
+    RT "{i}Questo perv vuole solo nei pantaloni della mamma. {/i}"
 
 # game/UpdateScript0.07.rpy:18114
 translate italian will_meeting_b1152072:
 
     # RT "{i}I don't think Mom would ever let that happen, but why give him that chance?{/i}"
+    RT "{i}Non penso che la mamma avrebbe mai lasciato che ciò accadesse, ma perché dargli quella possibilità?{/i}"
 
 # game/UpdateScript0.07.rpy:18115
 translate italian will_meeting_03ab1f6b:
 
     # RT "{i}I won't be able to deliver any good news to Lauren about the dress code.{/i}"
+    RT "{i}Non sarò in grado di consegnare nessuna buona notizia a Lauren sul codice di vestito.{/i}"
 
 # game/UpdateScript0.07.rpy:18116
 translate italian will_meeting_9eae2a19:
 
     # RT "{i}I'm sure Lauren wouldn't want to put Mom in that kind of danger just to win an election.{/i}"
+    RT "{i}Sono sicuro che Lauren non vorrebbe mettere mamma in quel genere di pericolo solo per vincere un'elezione.{/i}"
 
 # game/UpdateScript0.07.rpy:18117
 translate italian will_meeting_2f554b67:
 
     # RT "{i}Yeah, right.{/i}"
+    RT "{i}Si, destra.{/i}"
 
 # game/UpdateScript0.07.rpy:18118
 translate italian will_meeting_8727e35a:
 
     # R "I'm sorry Mr. Tylor, but I don't think my father would like me arranging any dates for my mom, even if they are strictly professional."
+    R "Mi dispiace signor Tylor, ma non penso che mio padre vorrebbe che organizzassi date per mia mamma, anche se sono strettamente professionali."
 
 # game/UpdateScript0.07.rpy:18119
 translate italian will_meeting_3f87e89f:
 
     # WT "I see."
+    WT "Lo vedo."
 
 # game/UpdateScript0.07.rpy:18120
 translate italian will_meeting_66c87ac9:
 
     # WT "Well, if you do change your mind, talk to your lovely mother, and if she's willing to go on that date with me, I'll do my best to make sure the dress code change happens."
+    WT "Beh, se cambi idea, parla con tua bella madre, e se lei è disposta ad andare in quella data con me, farò del mio meglio per assicurarsi che il cambio di codice di abbigliamento accade."
 
 # game/UpdateScript0.07.rpy:18121
 translate italian will_meeting_a8e38c22:
 
     # WT "If she agrees, You can just send an email to my school email address."
+    WT "Se accetta, puoi solo inviare una email al mio indirizzo email di scuola."
 
 # game/UpdateScript0.07.rpy:18122
 translate italian will_meeting_1b5f67ec:
 
     # R "It's not very likely, but I'll keep that in mind."
+    R "Non è molto probabile, ma lo terrò in mente."
 
 # game/UpdateScript0.07.rpy:18123
 translate italian will_meeting_0b9839cb_1:
@@ -44057,6 +47940,7 @@ translate italian will_meeting_0b9839cb_1:
 translate italian will_meeting_c624d427_1:
 
     # WT "Candy can show you out. Oh, and let me know what she says."
+    WT "Candy può mostrarti fuori. Oh, e fatemi sapere quello che dice."
 
 # game/UpdateScript0.07.rpy:18129
 translate italian will_meeting_4e19b570_1:
@@ -44074,170 +47958,171 @@ translate italian will_meeting_24e99c9a_1:
 translate italian will_meeting_2fa41d0a:
 
     # RT "{i}Shit!... The only way to get the dress code changed is by setting my mom up on a date with Will. He says it's purely professional, but is it worth the risk?{/i}"
+    RT "{i}Mossa!... L'unico modo per ottenere il codice di abbigliamento cambiato è quello di impostare la mia mamma su un appuntamento con Volontà. Egli dice che è puramente professionale, ma vale la pena il rischio?{/i}"
 
 # game/UpdateScript0.07.rpy:18134
 translate italian will_meeting_f8853787:
 
     # RT "{i}If I do decide to set them up, It would probably best to speak to Mom at breakfast. I'm pretty sure she despises Will Tylor, so she'd probably be more open to it in the morning.{/i}"
-    new ""
+    RT "{i}Se decido di impostarli, probabilmente sarebbe meglio parlare con la mamma a colazione. Sono abbastanza sicuro che disprezza Will Tylor, quindi probabilmente sarebbe più aperta ad esso la mattina.{/i}"
 
 translate italian strings:
 
     # game/UpdateScript0.07.rpy:17
     old "Voice over intercom"
-    new ""
+    new "Voice over intercom"
 
     # game/UpdateScript0.07.rpy:18
     old "Principal Hardun"
-    new ""
+    new "Principal Hardun"
 
     # game/UpdateScript0.07.rpy:19
     old "Miss Jessica"
-    new ""
+    new "Sig. na Jessica"
 
     # game/UpdateScript0.07.rpy:20
     old "Zack"
-    new ""
+    new "Zacks"
 
     # game/UpdateScript0.07.rpy:21
     old "Unknown Boy"
-    new ""
+    new "Bambino Sconosciuto"
 
     # game/UpdateScript0.07.rpy:22
     old "Another Unknown Boy"
-    new ""
+    new "Un altro Ragazzo Sconosciuto"
 
     # game/UpdateScript0.07.rpy:23
     old "Stacy"
-    new ""
+    new "Stacy"
 
     # game/UpdateScript0.07.rpy:24
     old "Mrs. Stone's Thoughts"
-    new ""
+    new "Pensieri Della Signora Stone"
 
     # game/UpdateScript0.07.rpy:25
     old "Locker Room Girl"
-    new ""
+    new "Camera Armadio Ragazza"
 
     # game/UpdateScript0.07.rpy:26
     old "Brooke"
-    new ""
+    new "Brooke"
 
     # game/UpdateScript0.07.rpy:27
     old "Reagan"
-    new ""
+    new "Reagan"
 
     # game/UpdateScript0.07.rpy:28
     old "Haylee"
-    new ""
+    new "Haylee"
 
     # game/UpdateScript0.07.rpy:1332
     old "Lick that clit!"
-    new ""
+    new "Lick quel clit!"
 
     # game/UpdateScript0.07.rpy:1332
     old "Where's your pride, man?"
-    new ""
+    new "Dov'è il vostro orgoglio, uomo?"
 
     # game/UpdateScript0.07.rpy:1561
     old "I think our relationship is more than that."
-    new ""
+    new "Penso che il nostro rapporto sia più di questo."
 
     # game/UpdateScript0.07.rpy:1561
     old "Say nothing."
-    new ""
+    new "Non dica nulla."
 
     # game/UpdateScript0.07.rpy:1672
     old "Take what you can get!"
-    new ""
+    new "Prendete quello che potete ottenere!"
 
     # game/UpdateScript0.07.rpy:1672
     old "I can't let her think I'm that desperate."
-    new ""
+    new "Non posso lasciarla pensare che io sia così disperata."
 
     # game/UpdateScript0.07.rpy:1966
     old "Lets go to pound town."
-    new ""
+    new "Permette di andare in città libbre."
 
     # game/UpdateScript0.07.rpy:2044
     old "Pull out!"
-    new ""
+    new "Tira fuori!"
 
     # game/UpdateScript0.07.rpy:2044
     old "Creampie!"
-    new ""
+    new "Sborrata!"
 
     # game/UpdateScript0.07.rpy:2330
     old "Leave her alone"
-    new ""
+    new "La lasci da sola"
 
     # game/UpdateScript0.07.rpy:2536
     old "Cover her face"
-    new ""
+    new "Copri il suo viso"
 
     # game/UpdateScript0.07.rpy:3064
     old "Suggest Anal sex"
-    new ""
+    new "Suggerisci sesso anale"
 
     # game/UpdateScript0.07.rpy:3064
     old "Don't bring up anal"
-    new ""
+    new "Non alleva anale"
 
     # game/UpdateScript0.07.rpy:3836
     old "Stay strong, don't arrange the date."
-    new ""
+    new "Rimanete forti, non organizzare la data."
 
     # game/UpdateScript0.07.rpy:3836
     old "Lauren's election is too important, arrange the date."
-    new ""
+    new "L'elezione di Lauren è troppo importante, organizzare la data."
 
     # game/UpdateScript0.07.rpy:4140
     old "Interrupt."
-    new ""
+    new "Interruzione."
 
     # game/UpdateScript0.07.rpy:4140
     old "Continue to wait."
-    new ""
+    new "Continuare ad aspettare."
 
     # game/UpdateScript0.07.rpy:4164
     old "Cough loudly."
-    new ""
+    new "Tosse rumorosa."
 
     # game/UpdateScript0.07.rpy:4269
     old "Get her attention."
-    new ""
+    new "Prendete la sua attenzione."
 
     # game/UpdateScript0.07.rpy:4309
     old "Pay for posters ($200)"
-    new ""
+    new "Paga i manifesti ($200)"
 
     # game/UpdateScript0.07.rpy:4309
     old "I don't have that much money."
-    new ""
+    new "Io non ho così tanti soldi."
 
     # game/UpdateScript0.07.rpy:4309
     old "I'm not spending that much on posters!"
-    new ""
+    new "Non sto spendendo così tanto sui postini!"
 
     # game/UpdateScript0.07.rpy:4325
     old "Skip Mini-Game."
-    new ""
+    new "Salta Mini-Gioco."
 
     # game/UpdateScript0.07.rpy:4325
     old "Play Mini-Game"
-    new ""
+    new "Gioca A Mini-Gioco"
 
     # game/UpdateScript0.07.rpy:4442
     old "Pay for posters ($300)"
-    new ""
+    new "Paga i manifesti ($300)"
 
     # game/UpdateScript0.07.rpy:6932
     old "Standing doggy"
-    new ""
+    new "In piedi pecorina"
 
     # game/UpdateScript0.07.rpy:7364
     old "Ok, fine!"
-    new ""
+    new "Ok, va bene!"
 
     # game/UpdateScript0.07.rpy:7364
     old "No way!"
@@ -44245,83 +48130,83 @@ translate italian strings:
 
     # game/UpdateScript0.07.rpy:7368
     old "Lick her pussy"
-    new ""
+    new "Lecca la sua figa"
 
     # game/UpdateScript0.07.rpy:7368
     old "Get a blowjob"
-    new ""
+    new "Prendi un pompino"
 
     # game/UpdateScript0.07.rpy:7368
     old "Fuck her missionary style"
-    new ""
+    new "Cazzo lo stile missionario"
 
     # game/UpdateScript0.07.rpy:7368
     old "Fuck her standing doggystyle"
-    new ""
+    new "Cazzo la sua pecorina in piedi"
 
     # game/UpdateScript0.07.rpy:7897
     old "Standing Doggy"
-    new ""
+    new "Pecorina In piedi"
 
     # game/UpdateScript0.07.rpy:7910
     old "Lick her pussy."
-    new ""
+    new "Lecca la sua figa."
 
     # game/UpdateScript0.07.rpy:7936
     old "Lauren squirt"
-    new ""
+    new "Lauren squirt"
 
     # game/UpdateScript0.07.rpy:8408
     old "Ok, I'll bankroll you."
-    new ""
+    new "Ok, ti bancherò."
 
     # game/UpdateScript0.07.rpy:8408
     old "I can't afford another losing campaign."
-    new ""
+    new "Io non posso permettermi un'altra campagna perdente."
 
     # game/UpdateScript0.07.rpy:8408
     old "Sorry, I've got to protect Mom at all costs."
-    new ""
+    new "Mi dispiace, devo proteggere la mamma ad ogni costo."
 
     # game/UpdateScript0.07.rpy:8551
     old "I don't have enough money this week."
-    new ""
+    new "Io non ho abbastanza denaro questa settimana."
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $100"
-    new ""
+    new "Datela $100"
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $250"
-    new ""
+    new "Datela $250"
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $500"
-    new ""
+    new "Datele $500"
 
     # game/UpdateScript0.07.rpy:8953
     old "Go see Mom"
-    new ""
+    new "Vai a vedere la mamma"
 
     # game/UpdateScript0.07.rpy:9119
     old "Talk to Megan"
-    new ""
+    new "Parlare con Megan"
 
     # game/UpdateScript0.07.rpy:9145
     old "Get Lauren's Attention"
-    new ""
+    new "Prendi L'Attenzione Di Lauren"
 
     # game/UpdateScript0.07.rpy:9765
     old "sneak out of class"
-    new ""
+    new "furto fuori lezione"
 
     # game/UpdateScript0.07.rpy:9780
     old "Sneak out of class"
-    new ""
+    new "Furtività fuori classe"
 
     # game/UpdateScript0.07.rpy:10033
     old "Yes ($300)"
-    new ""
+    new "Si ($300)"
 
     # game/UpdateScript0.07.rpy:10082
     old "Cum inside"
@@ -44329,119 +48214,119 @@ translate italian strings:
 
     # game/UpdateScript0.07.rpy:10082
     old "Cum on her ass"
-    new ""
+    new "Sperma sul suo culo"
 
     # game/UpdateScript0.07.rpy:10766
     old "I should get our of here."
-    new ""
+    new "Dovrei prendere il nostro di qui."
 
     # game/UpdateScript0.07.rpy:10824
     old "Yes, let's go back in time."
-    new ""
+    new "Sì, torniamo indietro in tempo."
 
     # game/UpdateScript0.07.rpy:10824
     old "No, I'll keep the consequences of losing."
-    new ""
+    new "No, manterrò le conseguenze della perdita."
 
     # game/UpdateScript0.07.rpy:11422
     old "$100"
-    new ""
+    new "$100"
 
     # game/UpdateScript0.07.rpy:11422
     old "$300"
-    new ""
+    new "$300"
 
     # game/UpdateScript0.07.rpy:11422
     old "$500"
-    new ""
+    new "$500"
 
     # game/UpdateScript0.07.rpy:11715
     old "Sorry, no money right now."
-    new ""
+    new "Siamo spiacenti, in questo momento non c'è denaro."
 
     # game/UpdateScript0.07.rpy:12221
     old "Lauren, you sound a little bit crazy."
-    new ""
+    new "Lauren, sembri un po' pazzo."
 
     # game/UpdateScript0.07.rpy:12221
     old "Lauren, I think you might be on to something."
-    new ""
+    new "Lauren, penso che potresti essere su qualcosa."
 
     # game/UpdateScript0.07.rpy:12438
     old "Lick Lauren's ass"
-    new ""
+    new "Asino di Lick Lauren"
 
     # game/UpdateScript0.07.rpy:12438
     old "Get a blowjob from Lauren"
-    new ""
+    new "Ricevi un pompino da Lauren"
 
     # game/UpdateScript0.07.rpy:12438
     old "Invite Mandy"
-    new ""
+    new "Invita Il Mandy"
 
     # game/UpdateScript0.07.rpy:12483
     old "Go see Mrs. Stone."
-    new ""
+    new "Vada a vedere la signora Pietra."
 
     # game/UpdateScript0.07.rpy:12483
     old "I'll go another time."
-    new ""
+    new "Io andrò un'altra volta."
 
     # game/UpdateScript0.07.rpy:12515
     old "Down Lauren's throat"
-    new ""
+    new "Giù la gola di Lauren"
 
     # game/UpdateScript0.07.rpy:12515
     old "All over Lauren's Face"
-    new ""
+    new "Tutto sul volto di Lauren"
 
     # game/UpdateScript0.07.rpy:13172
     old "Lick your ass!"
-    new ""
+    new "Lick il tuo culo!"
 
     # game/UpdateScript0.07.rpy:13172
     old "I'd love another blowjob!"
-    new ""
+    new "Io amerei un altro pompino!"
 
     # game/UpdateScript0.07.rpy:13873
     old "Maybe..."
-    new ""
+    new "Forse..."
 
     # game/UpdateScript0.07.rpy:14019
     old "Put this dream out of it's misery."
-    new ""
+    new "Mettete questo sogno fuori dalla sua miseria."
 
     # game/UpdateScript0.07.rpy:14019
     old "Encourage her to keep going."
-    new ""
+    new "Incoraggiarla a continuare a andare."
 
     # game/UpdateScript0.07.rpy:15052
     old "I was busy."
-    new ""
+    new "Ero impegnata."
 
     # game/UpdateScript0.07.rpy:15052
     old "I didn't have the money."
-    new ""
+    new "Non avevo il denaro."
 
     # game/UpdateScript0.07.rpy:15052
     old "I don't know... I'm really sorry."
-    new ""
+    new "Non lo so... mi dispiace veramente."
 
     # game/UpdateScript0.07.rpy:15244
     old "In Lauren's mouth"
-    new ""
+    new "In bocca a Lauren"
 
     # game/UpdateScript0.07.rpy:15244
     old "On Lauren's face"
-    new ""
+    new "Sulla faccia di Lauren"
 
     # game/UpdateScript0.07.rpy:15862
     old "Missionary Position"
-    new ""
+    new "Funzione Missionaria"
 
     # game/UpdateScript0.07.rpy:15965
     old "Reverse Cowgirl"
-    new ""
+    new "Invertire Cowgirl"
 
     # game/UpdateScript0.07.rpy:15990
     old "Pull Out"
@@ -44449,57 +48334,57 @@ translate italian strings:
 
     # game/UpdateScript0.07.rpy:16050
     old "Suggest Anal Sex"
-    new ""
+    new "Suggerisci Anale Sesso"
 
     # game/UpdateScript0.07.rpy:16050
     old "Keep Quiet"
-    new ""
+    new "Mantieni Silenzioso"
 
     # game/UpdateScript0.07.rpy:16131
     old "Uhh... Never mind... It wasn't a good idea."
-    new ""
+    new "Uhh... Mai pensare... Non era una buona idea."
 
     # game/UpdateScript0.07.rpy:16235
     old "Suggest Anal Sex."
-    new ""
+    new "Suggerisci Sesso Anale."
 
     # game/UpdateScript0.07.rpy:16235
     old "Wait! Bad idea."
-    new ""
+    new "Aspetta! Cattiva."
 
     # game/UpdateScript0.07.rpy:16383
     old "Go visit Will Tylor"
-    new ""
+    new "Vai a visita Will Tylor"
 
     # game/UpdateScript0.07.rpy:16383
     old "Maybe another time."
-    new ""
+    new "Forse un’altra volta."
 
     # game/UpdateScript0.07.rpy:16399
     old "Check out the van."
-    new ""
+    new "Dai un'occhiata al furgone."
 
     # game/UpdateScript0.07.rpy:16399
     old "Maybe later."
-    new ""
+    new "Forse più tardi."
 
     # game/UpdateScript0.07.rpy:16503
     old "Yes ($500)"
-    new ""
+    new "Sì ($500)"
 
     # game/UpdateScript0.07.rpy:17141
     old "Buy School Influence ($500)"
-    new ""
+    new "Acquista Influenza Scuola ($500)"
 
     # game/UpdateScript0.07.rpy:17141
     old "Nothing else."
-    new ""
+    new "Nient'altro."
 
     # game/UpdateScript0.07.rpy:17890
     old "Yeah, why not?"
-    new ""
+    new "Sì, perché no?"
 
     # game/UpdateScript0.07.rpy:17890
     old "No, that's too expensive."
-    new ""
+    new "No, è troppo caro."
 

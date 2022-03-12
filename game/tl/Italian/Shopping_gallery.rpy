@@ -1,11 +1,11 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: a-family-venture\n"
-# "X-Crowdin-Project-ID: 492487\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Shopping_gallery.po\n"
-# "X-Crowdin-File-ID: 1319\n"
+# "X-italian-Project: a-family-venture\n"
+# "X-italian-Project-ID: 492487\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/Shopping_gallery.po\n"
+# "X-italian-File-ID: 1319\n"
 # "Project-Id-Version: a-family-venture\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
@@ -15,906 +15,906 @@
 # TODO: Translation updated at 2022-02-20 HH:HH
 
 # game/Shopping_gallery.rpy:253
-translate crowdin online_shopping_d0d5deb3:
+translate italian online_shopping_d0d5deb3:
 
     # RT "{i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
     RT "{i}HardnLong. Lungo è il miglior negozio online che ha i prezzi migliori, che consegnano ovunque e accettano anche la valuta online che mi aiuterà a essere anonimo.{/i}"
 
 # game/Shopping_gallery.rpy:259
-translate crowdin online_shopping_d23d2b8d:
+translate italian online_shopping_d23d2b8d:
 
     # RT "{i}Since I don't want the FBI to know I'm spending money, and I don't want my family to know what I'm buying, I'll have my purchases delivered to Dad's warehouse.{/i}"
     RT "{i}Dal momento che non voglio che l'FBI sappia che sto spendendo soldi, e non voglio che la mia famiglia sappia cosa sto comprando, avrò i miei acquisti consegnati al magazzino di papà. /i}"
 
 # game/Shopping_gallery.rpy:261
-translate crowdin online_shopping_d23d2b8d_1:
+translate italian online_shopping_d23d2b8d_1:
 
     # RT "{i}Since I don't want the FBI to know I'm spending money, and I don't want my family to know what I'm buying, I'll have my purchases delivered to Dad's warehouse.{/i}"
     RT "{i}Dal momento che non voglio che l'FBI sappia che sto spendendo soldi, e non voglio che la mia famiglia sappia cosa sto comprando, avrò i miei acquisti consegnati al magazzino di papà. /i}"
 
 # game/Shopping_gallery.rpy:262
-translate crowdin online_shopping_f96564b7:
+translate italian online_shopping_f96564b7:
 
     # RT "{i}Plus, since I'm going to become a HardnLong prime member, my items will already have been delivered before I can even drive over there.{/i}"
     RT "{i}Plus, dal momento che diventerò un primo membro di HardnLong, i miei oggetti saranno già stati consegnati prima di poter guidare anche laggiù. /i}"
 
 # game/Shopping_gallery.rpy:271
-translate crowdin online_shopping_9cde849a:
+translate italian online_shopping_9cde849a:
 
     # RT "{i}HardnLong is taking over the world!{/i}"
     RT "{i}HardnLong sta assumendo il mondo!{/i}"
 
 # game/Shopping_gallery.rpy:314
-translate crowdin buying_label_0eb80284:
+translate italian buying_label_0eb80284:
 
     # RT "{i}Is there a girl in the world who doesn't like chocolate? This gift would make anyone less angry.{/i}"
     RT "{i}C'è una ragazza al mondo a cui non piace il cioccolato? Questo regalo renderebbe qualcuno meno arrabbiato.{/i}"
 
 # game/Shopping_gallery.rpy:316
-translate crowdin buying_label_b4ac69d5:
+translate italian buying_label_b4ac69d5:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:319
-translate crowdin buying_label_df03e1df:
+translate italian buying_label_df03e1df:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:321
-translate crowdin buying_label_e8b6d93f:
+translate italian buying_label_e8b6d93f:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:327
-translate crowdin buying_label_e7a9af50:
+translate italian buying_label_e7a9af50:
 
     # You bought one chocolate bar."
     new "Hai comprato una barretta di cioccolato."
 
 # game/Shopping_gallery.rpy:328
-translate crowdin buying_label_42292d87:
+translate italian buying_label_42292d87:
 
     # RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Avrò bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:330
-translate crowdin buying_label_ee2b767d:
+translate italian buying_label_ee2b767d:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:332
-translate crowdin buying_label_f2fb2328:
+translate italian buying_label_f2fb2328:
 
     # RT "{i}This seems like a good gift when the FBI is trying to track the money we spend.{/i}"
     RT "{i}Questo sembra un buon regalo quando l'FBI sta cercando di tracciare i soldi che spendiamo.{/i}"
 
 # game/Shopping_gallery.rpy:334
-translate crowdin buying_label_b4ac69d5_1:
+translate italian buying_label_b4ac69d5_1:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:337
-translate crowdin buying_label_df03e1df_1:
+translate italian buying_label_df03e1df_1:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:339
-translate crowdin buying_label_e8b6d93f_1:
+translate italian buying_label_e8b6d93f_1:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:345
-translate crowdin buying_label_6af083ce:
+translate italian buying_label_6af083ce:
 
     # You bought one gift card."
     new "Hai comprato una carta regalo."
 
 # game/Shopping_gallery.rpy:346
-translate crowdin buying_label_42292d87_1:
+translate italian buying_label_42292d87_1:
 
     # RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Avrò bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:348
-translate crowdin buying_label_ee2b767d_1:
+translate italian buying_label_ee2b767d_1:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:351
-translate crowdin buying_label_b4ac69d5_2:
+translate italian buying_label_b4ac69d5_2:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:354
-translate crowdin buying_label_df03e1df_2:
+translate italian buying_label_df03e1df_2:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:356
-translate crowdin buying_label_e8b6d93f_2:
+translate italian buying_label_e8b6d93f_2:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:362
-translate crowdin buying_label_ec631be8:
+translate italian buying_label_ec631be8:
 
     # You bought one bouquet of flowers."
     new "Hai comprato un mazzo di fiori."
 
 # game/Shopping_gallery.rpy:363
-translate crowdin buying_label_42292d87_2:
+translate italian buying_label_42292d87_2:
 
     # RT "{i}I'll need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Avrò bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:365
-translate crowdin buying_label_ee2b767d_2:
+translate italian buying_label_ee2b767d_2:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:367
-translate crowdin buying_label_62f9a4e6:
+translate italian buying_label_62f9a4e6:
 
     # RT "{i}Ok, this is the strongest over the counter sleep aid I can buy.{/i}"
     RT "{i}Ok, questo è il più forte sopra l'aiuto del sonno del contatore che posso comprare.{/i}"
 
 # game/Shopping_gallery.rpy:368
-translate crowdin buying_label_2ff35624:
+translate italian buying_label_2ff35624:
 
     # RT "{i}Oh look, it's all natural...non addictive...So it won't be bad for my family.{/i}"
     RT "{i}Oh guarda, è tutto naturale...non coinvolgente...Quindi non sarà male per la mia famiglia.{/i}"
 
 # game/Shopping_gallery.rpy:370
-translate crowdin buying_label_b4ac69d5_3:
+translate italian buying_label_b4ac69d5_3:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:372
-translate crowdin buying_label_5b013d92:
+translate italian buying_label_5b013d92:
 
     # You don't need any more of this."
     new "Non ti serve altro di questo."
 
 # game/Shopping_gallery.rpy:379
-translate crowdin buying_label_689e106e:
+translate italian buying_label_689e106e:
 
     # You bought a bottle of Melatonin."
     new "Hai comprato una bottiglia di Melatonin."
 
 # game/Shopping_gallery.rpy:380
-translate crowdin buying_label_2d609e58:
+translate italian buying_label_2d609e58:
 
     # RT "{i}Awesome. Now I've just got to figure out how to get Mom and my sisters to take some each night.{/i}"
     RT "{i}Fantastico. Ora devo solo capire come far sì che mamma e mie sorelle prendano un po' ogni notte.{/i}"
 
 # game/Shopping_gallery.rpy:381
-translate crowdin buying_label_0bda74b1:
+translate italian buying_label_0bda74b1:
 
     # RT "{i}But first I need to go pick it up at the warehouse.{/i}"
     RT "{i}Ma prima devo andare a prenderlo al magazzino.{/i}"
 
 # game/Shopping_gallery.rpy:383
-translate crowdin buying_label_ee2b767d_3:
+translate italian buying_label_ee2b767d_3:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:385
-translate crowdin buying_label_58136dd2:
+translate italian buying_label_58136dd2:
 
     # RT "{i}This could come in handy for a pervert like me.{/i}"
     RT "{i}Questo potrebbe essere utile per un perverso come me.{/i}"
 
 # game/Shopping_gallery.rpy:387
-translate crowdin buying_label_b4ac69d5_4:
+translate italian buying_label_b4ac69d5_4:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:393
-translate crowdin buying_label_8675cce7:
+translate italian buying_label_8675cce7:
 
     # RT "{i}Good thing this is being delivered to Dad's warehouse. If anyone saw what I ordered, it could raise a few questions.{/i}"
     RT "{i}Buona cosa che viene consegnata al magazzino del papà. Se qualcuno vide quello che ho ordinato, potrebbe sollevare alcune domande.{/i}"
 
 # game/Shopping_gallery.rpy:396
-translate crowdin buying_label_1614efdb:
+translate italian buying_label_1614efdb:
 
     # RT "{i}Let's not go overboard.{/i}"
     RT "{i}Non esageriamo.{/i}"
 
 # game/Shopping_gallery.rpy:398
-translate crowdin buying_label_8eb4f041:
+translate italian buying_label_8eb4f041:
 
     # RT "{i}I need to set up some of these before I buy anymore.{/i}"
     RT "{i}Ho bisogno di impostare alcuni di questi prima di acquistare più.{/i}"
 
 # game/Shopping_gallery.rpy:404
-translate crowdin buying_label_8675cce7_1:
+translate italian buying_label_8675cce7_1:
 
     # RT "{i}Good thing this is being delivered to Dad's warehouse. If anyone saw what I ordered, it could raise a few questions.{/i}"
     RT "{i}Buona cosa che viene consegnata al magazzino del papà. Se qualcuno vide quello che ho ordinato, potrebbe sollevare alcune domande.{/i}"
 
 # game/Shopping_gallery.rpy:406
-translate crowdin buying_label_ee2b767d_4:
+translate italian buying_label_ee2b767d_4:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:408
-translate crowdin buying_label_ffa825ca:
+translate italian buying_label_ffa825ca:
 
     # RT "{i}I could make whatever background I want for my photo shoots!{/i}"
     RT "{i}Potrei fare quello che voglio per i miei scatti fotografici!{/i}"
 
 # game/Shopping_gallery.rpy:410
-translate crowdin buying_label_b4ac69d5_5:
+translate italian buying_label_b4ac69d5_5:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:413
-translate crowdin buying_label_df03e1df_3:
+translate italian buying_label_df03e1df_3:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:415
-translate crowdin buying_label_e8b6d93f_3:
+translate italian buying_label_e8b6d93f_3:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:421
-translate crowdin buying_label_1526a744:
+translate italian buying_label_1526a744:
 
     # You bought a green screen."
     new "Hai comprato uno schermo verde."
 
 # game/Shopping_gallery.rpy:422
-translate crowdin buying_label_d843ed8c:
+translate italian buying_label_d843ed8c:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:424
-translate crowdin buying_label_ee2b767d_5:
+translate italian buying_label_ee2b767d_5:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:426
-translate crowdin buying_label_2ed0f9e6:
+translate italian buying_label_2ed0f9e6:
 
     # RT "{i}The flash on my camera just doesn't do enough.{/i}"
     RT "{i}Il flash sulla mia macchina fotografica non basta.{/i}"
 
 # game/Shopping_gallery.rpy:428
-translate crowdin buying_label_b4ac69d5_6:
+translate italian buying_label_b4ac69d5_6:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:431
-translate crowdin buying_label_df03e1df_4:
+translate italian buying_label_df03e1df_4:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:433
-translate crowdin buying_label_e8b6d93f_4:
+translate italian buying_label_e8b6d93f_4:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:439
-translate crowdin buying_label_eb62cd53:
+translate italian buying_label_eb62cd53:
 
     # You bought professional lights for your studio."
     new "Hai comprato delle luci professionali per il tuo studio."
 
 # game/Shopping_gallery.rpy:440
-translate crowdin buying_label_d843ed8c_1:
+translate italian buying_label_d843ed8c_1:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:442
-translate crowdin buying_label_ee2b767d_6:
+translate italian buying_label_ee2b767d_6:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:444
-translate crowdin buying_label_6c37a294:
+translate italian buying_label_6c37a294:
 
     # RT "{i}This camera makes me drool!{/i}"
     RT "{i}Questa fotocamera mi fa sbavare!{/i}"
 
 # game/Shopping_gallery.rpy:446
-translate crowdin buying_label_b4ac69d5_7:
+translate italian buying_label_b4ac69d5_7:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:449
-translate crowdin buying_label_df03e1df_5:
+translate italian buying_label_df03e1df_5:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:451
-translate crowdin buying_label_e8b6d93f_5:
+translate italian buying_label_e8b6d93f_5:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:457
-translate crowdin buying_label_249fc77d:
+translate italian buying_label_249fc77d:
 
     # You bought a new DSLR camera."
     new "Hai comprato una nuova fotocamera DSLR."
 
 # game/Shopping_gallery.rpy:458
-translate crowdin buying_label_d843ed8c_2:
+translate italian buying_label_d843ed8c_2:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:460
-translate crowdin buying_label_ee2b767d_7:
+translate italian buying_label_ee2b767d_7:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:463
-translate crowdin buying_label_b4ac69d5_8:
+translate italian buying_label_b4ac69d5_8:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:466
-translate crowdin buying_label_df03e1df_6:
+translate italian buying_label_df03e1df_6:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:468
-translate crowdin buying_label_e8b6d93f_6:
+translate italian buying_label_e8b6d93f_6:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:474
-translate crowdin buying_label_9aef3168:
+translate italian buying_label_9aef3168:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:475
-translate crowdin buying_label_d843ed8c_3:
+translate italian buying_label_d843ed8c_3:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:477
-translate crowdin buying_label_ee2b767d_8:
+translate italian buying_label_ee2b767d_8:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:480
-translate crowdin buying_label_b4ac69d5_9:
+translate italian buying_label_b4ac69d5_9:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:483
-translate crowdin buying_label_df03e1df_7:
+translate italian buying_label_df03e1df_7:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:485
-translate crowdin buying_label_e8b6d93f_7:
+translate italian buying_label_e8b6d93f_7:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:491
-translate crowdin buying_label_9aef3168_1:
+translate italian buying_label_9aef3168_1:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:492
-translate crowdin buying_label_d843ed8c_4:
+translate italian buying_label_d843ed8c_4:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:494
-translate crowdin buying_label_ee2b767d_9:
+translate italian buying_label_ee2b767d_9:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:497
-translate crowdin buying_label_b4ac69d5_10:
+translate italian buying_label_b4ac69d5_10:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:500
-translate crowdin buying_label_df03e1df_8:
+translate italian buying_label_df03e1df_8:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:502
-translate crowdin buying_label_e8b6d93f_8:
+translate italian buying_label_e8b6d93f_8:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:508
-translate crowdin buying_label_9aef3168_2:
+translate italian buying_label_9aef3168_2:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:509
-translate crowdin buying_label_d843ed8c_5:
+translate italian buying_label_d843ed8c_5:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:511
-translate crowdin buying_label_ee2b767d_10:
+translate italian buying_label_ee2b767d_10:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:514
-translate crowdin buying_label_b4ac69d5_11:
+translate italian buying_label_b4ac69d5_11:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:517
-translate crowdin buying_label_df03e1df_9:
+translate italian buying_label_df03e1df_9:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:519
-translate crowdin buying_label_e8b6d93f_9:
+translate italian buying_label_e8b6d93f_9:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:525
-translate crowdin buying_label_9aef3168_3:
+translate italian buying_label_9aef3168_3:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:526
-translate crowdin buying_label_d843ed8c_6:
+translate italian buying_label_d843ed8c_6:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:528
-translate crowdin buying_label_ee2b767d_11:
+translate italian buying_label_ee2b767d_11:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:531
-translate crowdin buying_label_b4ac69d5_12:
+translate italian buying_label_b4ac69d5_12:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:534
-translate crowdin buying_label_df03e1df_10:
+translate italian buying_label_df03e1df_10:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:536
-translate crowdin buying_label_e8b6d93f_10:
+translate italian buying_label_e8b6d93f_10:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:542
-translate crowdin buying_label_9aef3168_4:
+translate italian buying_label_9aef3168_4:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:543
-translate crowdin buying_label_d843ed8c_7:
+translate italian buying_label_d843ed8c_7:
 
     # RT "{i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora le immagini saranno di qualità superiore e ci porterà più likes! Avrò solo bisogno di prenderlo al magazzino del Papà. /i}"
 
 # game/Shopping_gallery.rpy:545
-translate crowdin buying_label_ee2b767d_12:
+translate italian buying_label_ee2b767d_12:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:548
-translate crowdin buying_label_b4ac69d5_13:
+translate italian buying_label_b4ac69d5_13:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:551
-translate crowdin buying_label_df03e1df_11:
+translate italian buying_label_df03e1df_11:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:553
-translate crowdin buying_label_e8b6d93f_11:
+translate italian buying_label_e8b6d93f_11:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:559
-translate crowdin buying_label_9aef3168_5:
+translate italian buying_label_9aef3168_5:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:560
-translate crowdin buying_label_4c1f7824:
+translate italian buying_label_4c1f7824:
 
     # RT "{i}Great, now with this microphone we can make videos for more money. I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora con questo microfono possiamo fare video per più soldi. Ho solo bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:562
-translate crowdin buying_label_ee2b767d_13:
+translate italian buying_label_ee2b767d_13:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:565
-translate crowdin buying_label_b4ac69d5_14:
+translate italian buying_label_b4ac69d5_14:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:568
-translate crowdin buying_label_df03e1df_12:
+translate italian buying_label_df03e1df_12:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:570
-translate crowdin buying_label_e8b6d93f_12:
+translate italian buying_label_e8b6d93f_12:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:576
-translate crowdin buying_label_9aef3168_6:
+translate italian buying_label_9aef3168_6:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:577
-translate crowdin buying_label_07d87587:
+translate italian buying_label_07d87587:
 
     # RT "{i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora la qualità del video sarà migliore e ci porterà più likes. Avrò solo bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:579
-translate crowdin buying_label_ee2b767d_14:
+translate italian buying_label_ee2b767d_14:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:582
-translate crowdin buying_label_b4ac69d5_15:
+translate italian buying_label_b4ac69d5_15:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:585
-translate crowdin buying_label_df03e1df_13:
+translate italian buying_label_df03e1df_13:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:587
-translate crowdin buying_label_e8b6d93f_13:
+translate italian buying_label_e8b6d93f_13:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:593
-translate crowdin buying_label_9aef3168_7:
+translate italian buying_label_9aef3168_7:
 
     # You bought a new camera accessory."
     new "Hai comprato un nuovo accessorio per fotocamera."
 
 # game/Shopping_gallery.rpy:594
-translate crowdin buying_label_07d87587_1:
+translate italian buying_label_07d87587_1:
 
     # RT "{i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Grande, ora la qualità del video sarà migliore e ci porterà più likes. Avrò solo bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:596
-translate crowdin buying_label_ee2b767d_15:
+translate italian buying_label_ee2b767d_15:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:598
-translate crowdin buying_label_ce229c09:
+translate italian buying_label_ce229c09:
 
     # RT "{i}Mmmmm... I can imagine all the girls in this... But I think it would look best on Mom.{/i}"
     RT "{i}Mmmmm... Posso immaginare tutte le ragazze in questo... Ma penso che sarebbe meglio su Mamma {/i}"
 
 # game/Shopping_gallery.rpy:600
-translate crowdin buying_label_b4ac69d5_16:
+translate italian buying_label_b4ac69d5_16:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:603
-translate crowdin buying_label_df03e1df_14:
+translate italian buying_label_df03e1df_14:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:605
-translate crowdin buying_label_e8b6d93f_14:
+translate italian buying_label_e8b6d93f_14:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:611
-translate crowdin buying_label_4e98bab6:
+translate italian buying_label_4e98bab6:
 
     # You bought a new swimsuit."
     new "Hai comprato un nuovo costume da bagno."
 
 # game/Shopping_gallery.rpy:612
-translate crowdin buying_label_d5c7abcb:
+translate italian buying_label_d5c7abcb:
 
     # RT "{i}Wow! That's expensive, but Mom will only wear the most stylish swimsuits to the club pool. I'll just need to pick it up at Dad's warehouse.{/i}"
     RT "{i}Wow! È costoso, ma la mamma indosserà solo i costumi da bagno più eleganti alla piscina del club. Avrò solo bisogno di prenderlo al magazzino del papà.{/i}"
 
 # game/Shopping_gallery.rpy:614
-translate crowdin buying_label_ee2b767d_16:
+translate italian buying_label_ee2b767d_16:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:617
-translate crowdin buying_label_b4ac69d5_17:
+translate italian buying_label_b4ac69d5_17:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:620
-translate crowdin buying_label_df03e1df_15:
+translate italian buying_label_df03e1df_15:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:623
-translate crowdin buying_label_e8b6d93f_15:
+translate italian buying_label_e8b6d93f_15:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:626
-translate crowdin buying_label_8e69bfda:
+translate italian buying_label_8e69bfda:
 
     # RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
     RT "{i}Ho già comprato questo... devo ancora andare a prenderlo al magazzino.{/i}"
 
 # game/Shopping_gallery.rpy:632
-translate crowdin buying_label_1fbd6f50:
+translate italian buying_label_1fbd6f50:
 
     # You bought a ball gag."
     new "Ha comprato un gag di palla."
 
 # game/Shopping_gallery.rpy:633
-translate crowdin buying_label_a3a66a09:
+translate italian buying_label_a3a66a09:
 
     # RT "{i}I don't know what I'm going to use this for, but it never hurts to have a ball gag on hand. I'd better go to Dad's warehouse to pick it up.{/i}"
     RT "{i}Non so per cosa userò questo per, ma non fa mai male avere una palla gag a portata di mano. Farei meglio ad andare al magazzino del papà per prenderlo.{/i}"
 
 # game/Shopping_gallery.rpy:635
-translate crowdin buying_label_ee2b767d_17:
+translate italian buying_label_ee2b767d_17:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:637
-translate crowdin buying_label_6b949452:
+translate italian buying_label_6b949452:
 
     # RT "{i}Here we go... Perry Hotter and the Sorceror's Bone.{/i}"
     RT "{i}Qui andiamo... Perry Hotter e lo Stregone Bone.{/i}"
 
 # game/Shopping_gallery.rpy:638
-translate crowdin buying_label_24f0c0f3:
+translate italian buying_label_24f0c0f3:
 
     # RT "{i}One hundred and fifty dollars! Holy fuck! I should have just read them when everyone else was reading them. I guess my only option is this hardback collector's edition.{/i}"
     RT "{i}Centocinquanta dollari! Scopata santa! Avrei dovuto leggerli quando tutti gli altri li stavano leggendo. Immagino che la mia unica opzione sia l'edizione di questo hardback collector.{/i}"
 
 # game/Shopping_gallery.rpy:640
-translate crowdin buying_label_b4ac69d5_18:
+translate italian buying_label_b4ac69d5_18:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:643
-translate crowdin buying_label_df03e1df_16:
+translate italian buying_label_df03e1df_16:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:646
-translate crowdin buying_label_e8b6d93f_16:
+translate italian buying_label_e8b6d93f_16:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:649
-translate crowdin buying_label_8e69bfda_1:
+translate italian buying_label_8e69bfda_1:
 
     # RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
     RT "{i}Ho già comprato questo... devo ancora andare a prenderlo al magazzino.{/i}"
 
 # game/Shopping_gallery.rpy:655
-translate crowdin buying_label_7b494822:
+translate italian buying_label_7b494822:
 
     # You bought Perry Hotter Book 1."
     new "Hai comprato Perry Hotter Book 1."
 
 # game/Shopping_gallery.rpy:656
-translate crowdin buying_label_9cc97f0a:
+translate italian buying_label_9cc97f0a:
 
     # RT "{i}This book had better live up to the hype!{/i}"
     RT "{i}Questo libro era meglio a vivere fino all'hype!{/i}"
 
 # game/Shopping_gallery.rpy:658
-translate crowdin buying_label_ee2b767d_18:
+translate italian buying_label_ee2b767d_18:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:660
-translate crowdin buying_label_3c0453c7:
+translate italian buying_label_3c0453c7:
 
     # RT "{i}Here we go... Perry Hotter and her chambers of Secrets. Am I the only one who think's these titles are questionably sexual?{/i}"
     RT "{i}Qui andiamo... Perry Hotter e le sue camere di segreti. Sono io l'unico che pensa che questi titoli siano discutibilmente sessuali?{/i}"
 
 # game/Shopping_gallery.rpy:661
-translate crowdin buying_label_2b18cc45:
+translate italian buying_label_2b18cc45:
 
     # RT "{i}Goddammit! Looks like my only option is the hardback collector's edition for this book too.{/i}"
     RT "{i}Goddammit! Sembra che la mia unica opzione sia l'edizione del collezionista duro anche per questo libro.{/i}"
 
 # game/Shopping_gallery.rpy:663
-translate crowdin buying_label_b4ac69d5_19:
+translate italian buying_label_b4ac69d5_19:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:666
-translate crowdin buying_label_df03e1df_17:
+translate italian buying_label_df03e1df_17:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:669
-translate crowdin buying_label_e8b6d93f_17:
+translate italian buying_label_e8b6d93f_17:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:672
-translate crowdin buying_label_8e69bfda_2:
+translate italian buying_label_8e69bfda_2:
 
     # RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
     RT "{i}Ho già comprato questo... devo ancora andare a prenderlo al magazzino.{/i}"
 
 # game/Shopping_gallery.rpy:678
-translate crowdin buying_label_35160924:
+translate italian buying_label_35160924:
 
     # You bought Perry Hotter Book 2."
     new "Hai comprato Perry Hotter Book 2."
 
 # game/Shopping_gallery.rpy:679
-translate crowdin buying_label_8f18a216:
+translate italian buying_label_8f18a216:
 
     # RT "{i}At least the first book was slightly entertaining... Maybe this one won't be too bad either.{/i}"
     RT "{i}Almeno il primo libro è stato un po' divertente... Forse anche questo non sarà troppo male.{/i}"
 
 # game/Shopping_gallery.rpy:681
-translate crowdin buying_label_ee2b767d_19:
+translate italian buying_label_ee2b767d_19:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
 # game/Shopping_gallery.rpy:683
-translate crowdin buying_label_b0c31640:
+translate italian buying_label_b0c31640:
 
     # RT "{i}Alrigh... Perry Hotter and the prisoner of Moldevorts Dungeon. Oh come on... Even the cover is overtly sexual.{/i}"
     RT "{i}Alrigh... Perry Hotter e il prigioniero di Moldevorts Dungeon. Oh viene... Anche la copertura è eccessivamente sessuale.{/i}"
 
 # game/Shopping_gallery.rpy:684
-translate crowdin buying_label_177f6c0f:
+translate italian buying_label_177f6c0f:
 
     # RT "{i}Of course! Another collector's edition. I guess third times the charm.{/i}"
     RT "{i}Certo! Un altro collezionista edizione. Immagino che il fascino sia terzo volte.{/i}"
 
 # game/Shopping_gallery.rpy:686
-translate crowdin buying_label_b4ac69d5_20:
+translate italian buying_label_b4ac69d5_20:
 
     # You don't have enough money."
     new "Non hai abbastanza soldi."
 
 # game/Shopping_gallery.rpy:689
-translate crowdin buying_label_df03e1df_18:
+translate italian buying_label_df03e1df_18:
 
     # You already have enough."
     new "Avete già abbastanza."
 
 # game/Shopping_gallery.rpy:692
-translate crowdin buying_label_e8b6d93f_18:
+translate italian buying_label_e8b6d93f_18:
 
     # You have enough already."
     new "Tu hai già abbastanza."
 
 # game/Shopping_gallery.rpy:695
-translate crowdin buying_label_8e69bfda_3:
+translate italian buying_label_8e69bfda_3:
 
     # RT "{i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
     RT "{i}Ho già comprato questo... devo ancora andare a prenderlo al magazzino.{/i}"
 
 # game/Shopping_gallery.rpy:701
-translate crowdin buying_label_4eb61aad:
+translate italian buying_label_4eb61aad:
 
     # You bought Perry Hotter Book 3."
     new "Hai comprato Perry Hotter Book 3."
 
 # game/Shopping_gallery.rpy:702
-translate crowdin buying_label_e3c6c266:
+translate italian buying_label_e3c6c266:
 
     # RT "{i}I can't admit to anyone that I kind of like these stories.{/i}"
     RT "{i}Non posso ammettere a nessuno che mi piacciono queste storie.{/i}"
 
 # game/Shopping_gallery.rpy:704
-translate crowdin buying_label_ee2b767d_20:
+translate italian buying_label_ee2b767d_20:
 
     # RT "{i}Not right now.{/i}"
     RT "{i}Non in questo momento.{/i}"
 
-translate crowdin strings:
+translate italian strings:
 
     # game/Shopping_gallery.rpy:323
     old "Buy chocolate"

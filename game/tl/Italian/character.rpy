@@ -1,18 +1,18 @@
 #     old ""
 #     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: a-family-venture\n"
-# "X-Crowdin-Project-ID: 492487\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/character.po\n"
-# "X-Crowdin-File-ID: 1335\n"
+# "X-italian-Project: a-family-venture\n"
+# "X-italian-Project-ID: 492487\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/character.po\n"
+# "X-italian-File-ID: 1335\n"
 # "Project-Id-Version: a-family-venture\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 10:50\n"
+# "PO-Revision-Date: 2022-03-07 10:44\n"
 
-translate crowdin strings:
+translate italian strings:
 
     # game/character.rpy:43
     old "[ryan]'s Thoughts"
@@ -64,5 +64,5 @@ translate crowdin strings:
 
     # game/character.rpy:61
     old "Aunt Camille's Thoughts"
-    new "Pensieri Della Zia Camille"
+    new "Pensieri Della Zia Camilla"
 

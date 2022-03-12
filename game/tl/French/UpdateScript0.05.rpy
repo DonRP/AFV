@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-01 20:06\n"
+# "PO-Revision-Date: 2022-03-12 09:54\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -30,16 +30,19 @@ translate french sidneys_home_late_bacad9cc:
 translate french sidneys_home_late_246eb5ce:
 
     # S "Oh.... I'm sorry I woke you.... I was trying to be as quiet as I can."
+    S "Oh.... Je suis désolée de t'avoir réveillé.... J'essayais d'être aussi calme que possible."
 
 # game/UpdateScript0.05.rpy:478
 translate french sidneys_home_late_a7c564df:
 
     # R "It's ok. I think I just barely dozed off, so I should be able to fall right back asleep."
+    R "C'est bon. Je pense que je me suis à peine assoupi, alors je devrais pouvoir me rendormir."
 
 # game/UpdateScript0.05.rpy:481
 translate french sidneys_home_late_c46957d2:
 
     # S "Well, since you're awake, let me give you part of the money from work tonight. Please use it for the Mafia debt, or some other way that's good for our family."
+    S "Eh bien, puisque tu es réveillé, laisses-moi te donner une partie de l'argent du travail de ce soir. Utilises-le pour la dette de la Mafia, ou d'une autre manière qui est bonne pour notre famille."
 
 # game/UpdateScript0.05.rpy:482
 translate french sidneys_home_late_1490106d:
@@ -51,16 +54,19 @@ translate french sidneys_home_late_1490106d:
 translate french sidneys_home_late_63defa7e:
 
     # R "Thank you so much! This will help out a lot!"
+    R "Merci beaucoup! Cela aidera beaucoup!"
 
 # game/UpdateScript0.05.rpy:489
 translate french sidneys_home_late_11b17b2f:
 
     # S "My pleasure.... Now scootch over!.... I've got to get to sleep. Work was exhausting, and I've had a cup of tea to help calm my nerves."
+    S "Mon plaisir.... Maintenant, vas-y!.... Je dois dormir. Le travail était épuisant, et j'ai pris une tasse de thé pour calmer mes nerfs."
 
 # game/UpdateScript0.05.rpy:492
 translate french sidneys_home_late_015af989:
 
     # R "Wait.... Sidney?.... Arent you going to change first?.... Your clothes smell like alcohol."
+    R "Attends.... Sidney ?.... Tu ne vas pas te changer d'abord ?.... Tes vêtements sentent l'alcool."
 
 # game/UpdateScript0.05.rpy:493
 translate french sidneys_home_late_f9190b91:
@@ -90,6 +96,7 @@ translate french sidneys_home_late_bca1ed1b:
 translate french sidneys_home_late_0b7e00d7:
 
     # R "Pssst.... Sidney!"
+    R "Pssst.... Sidney !"
 
 # game/UpdateScript0.05.rpy:504
 translate french sidneys_home_late_db6e2c6b:
@@ -161,6 +168,7 @@ translate french sidneys_home_late_c11da9aa:
 translate french sidneys_home_late_d0c7d9b7:
 
     # R "Hhhnnnnggghhhh...."
+    R "Hhhnnnnggghhhh...."
 
 # game/UpdateScript0.05.rpy:541
 translate french sidneys_home_late_e1575e02:
@@ -214,56 +222,67 @@ translate french fix_bulb_89312161:
 translate french fix_bulb_626085c4:
 
     # R "Hey, Mom! Way to rock that broom."
+    R "Hé, maman! C'est une façon de balancer ce balai."
 
 # game/UpdateScript0.05.rpy:579
 translate french fix_bulb_5a82f1a7:
 
     # M "What is it, [ryan]? I still don't have time for your playful banter."
+    M "Qu'est-ce que c'est, [ryan]? Je n'ai toujours pas le temps pour tes plaisanteries espiègles."
 
 # game/UpdateScript0.05.rpy:580
 translate french fix_bulb_7b75b195:
 
     # R "Sorry.... I know.... I should stop trying."
+    R "Désolé.... Je sais.... Je devrais arrêter d'essayer."
 
 # game/UpdateScript0.05.rpy:581
 translate french fix_bulb_5b012d7d:
 
     # R "I was just wondering if you needed any help with the house."
+    R "Je me demandais juste si tu avais besoin d'aide pour la maison."
 
 # game/UpdateScript0.05.rpy:582
 translate french fix_bulb_abac6e82:
 
     # M "You still want to help me around the house?...."
+    M "Tu veux toujours m'aider dans la maison?...."
 
 # game/UpdateScript0.05.rpy:583
 translate french fix_bulb_3464456c:
 
     # R "Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
+    R "Eh bien, oui.... Papa est toujours parti, et votre 'liste de choses à faire' doit encore s'allonger."
 
 # game/UpdateScript0.05.rpy:586
 translate french fix_bulb_461327b2:
 
     # M "I guess I just didn't think you'd still want to help me after I let you fall that time."
+    M "Je suppose que je ne pensais pas que tu voudrais toujours m'aider après que je t'ai laissé tomber à ce moment-là."
 
 # game/UpdateScript0.05.rpy:587
 translate french fix_bulb_a61cbcd6:
 
     # M "Are your knees at least feeling better?"
+    M "Tes genoux se sentent-ils au moins mieux?"
 
 # game/UpdateScript0.05.rpy:588
 translate french fix_bulb_4b12a2f0:
 
     # R "Oh yeah, of course, and I still don't want you to feel like you're in this thing all on your own. I want to help you whenever I can."
+    R "Oh oui, bien sûr, et je ne veux toujours pas que tu aies l'impression d'être dans cette chose toute seule. Je veux t'aider quand je peux."
 
 # game/UpdateScript0.05.rpy:591
 translate french fix_bulb_aaa38376:
 
     # M "hmmm.... Well, that is a very sweet of you, and there are a number of things that I can't do myself around the house. Are you still feeling pretty handy?"
+    M "hmmm.... C'est très gentil de ta part, et il y a un certain nombre de choses que je ne peux pas faire moi-même dans la maison. Tu te sens encore assez disponible?"
 
 # game/UpdateScript0.05.rpy:592
 translate french fix_bulb_1e78102a:
 
     # R "For sure!"
+    R "Pour sûr !"
 
 # game/UpdateScript0.05.rpy:593
 translate french fix_bulb_f4c5fa30:
@@ -275,21 +294,25 @@ translate french fix_bulb_f4c5fa30:
 translate french fix_bulb_70623939:
 
     # M "Alright, well, we still need to stay right here in the lounge."
+    M "D'accord, eh bien, nous devons toujours rester ici dans le salon."
 
 # game/UpdateScript0.05.rpy:598
 translate french fix_bulb_86e3e129:
 
     # M "I have no idea how, but that same light seems to have come loose again."
+    M "Je n'ai aucune idée de comment, mais cette même lampe semble s'être à nouveau clignotée."
 
 # game/UpdateScript0.05.rpy:599
 translate french fix_bulb_2233f35f:
 
     # M "The flickering is starting to drive me crazy."
+    M "Le scintillement commence à me rendre folle."
 
 # game/UpdateScript0.05.rpy:600
 translate french fix_bulb_d92022d5:
 
     # M "Do you think you could climb up there again, and make sure you screw it in nice and tight?"
+    M "Penses-tu pouvoir remonter là-haut et t'assurer de bien la visser?"
 
 # game/UpdateScript0.05.rpy:601
 translate french fix_bulb_13d40842:
@@ -301,11 +324,13 @@ translate french fix_bulb_13d40842:
 translate french fix_bulb_4411cc07:
 
     # R "Do you promise not to let go this time.... or surprise me like you did before?"
+    R "Promets-tu de ne pas me lâcher cette fois.... ou me surprendre comme avant?"
 
 # game/UpdateScript0.05.rpy:603
 translate french fix_bulb_8b111ee6:
 
     # M "No.... Of course not.... I'm sorry.... It won't happen again.... I don't know what came over me.... "
+    M "Non.... Bien sûr que non.... Je suis désolée.... Ça ne se reproduira plus.... Je ne sais pas ce qui m'est arrivé.... "
 
 # game/UpdateScript0.05.rpy:604
 translate french fix_bulb_6fb550ee:
@@ -323,6 +348,7 @@ translate french fix_bulb_13cc0967:
 translate french fix_bulb_ea18d9de:
 
     # M "Wait a second honey, let me hold onto you. I don't want you to fall."
+    M "Attends une seconde chéri, laisse-moi t'accrocher. Je ne veux pas que tu tombes."
 
 # game/UpdateScript0.05.rpy:612
 translate french fix_bulb_11d39a3b:
@@ -340,6 +366,7 @@ translate french fix_bulb_1d38e504:
 translate french fix_bulb_feca5ec9:
 
     # M "That's right honey. That same one as last time.... Oh, please be careful!"
+    M "C'est vrai chérie. Le même que la dernière fois.... Oh, s'il te plaît, fais attention!"
 
 # game/UpdateScript0.05.rpy:619
 translate french fix_bulb_14c9b90e:
@@ -429,22 +456,25 @@ translate french fix_bulb_f646fa7c:
 translate french fix_bulb_7908fabf:
 
     # R "Ok.... I'm done.... I'm coming down."
+    R "D'accord.... J'ai fini.... Je descends."
 
 # game/UpdateScript0.05.rpy:641
 translate french fix_bulb_33b74b97:
 
     # M "So, did you screw it really good this time?"
+    M "Alors, l'as-tu vraiment bien vissé cette fois?"
 
 # game/UpdateScript0.05.rpy:642
 translate french fix_bulb_4584de80:
 
     # RT "{i}I'll screw you really good someday.{/i}"
-    RT "{i}Je te baiserai vraiment bien un jour.{/i}"
+    RT "{i}Je te baiserais vraiment bien un jour.{/i}"
 
 # game/UpdateScript0.05.rpy:643
 translate french fix_bulb_8f7043da:
 
     # R "I think so. Though I thought I got it good last time too."
+    R "Je pense que oui. Même si je pensais que je l'avais bien fait la dernière fois aussi."
 
 # game/UpdateScript0.05.rpy:644
 translate french fix_bulb_9040f0a8:
@@ -456,6 +486,7 @@ translate french fix_bulb_9040f0a8:
 translate french fix_bulb_dca42589:
 
     # M "Yeah, it's weird that it won't stay in."
+    M "Ouais, c'est bizarre qu'elle ne reste pas dedans."
 
 # game/UpdateScript0.05.rpy:646
 translate french fix_bulb_93850dd1:
@@ -473,42 +504,49 @@ translate french fix_bulb_357189aa:
 translate french fix_bulb_0c2a4d91:
 
     # R "Well, hopefully we took care of it for good that time."
+    R "Eh bien, j'espère que nous nous en sommes occupés pour de bon cette fois-ci."
 
 # game/UpdateScript0.05.rpy:649
 translate french fix_bulb_d1e87027:
 
     # R "Do you need me for anything else?"
+    R "As-tu besoin de moi pour autre chose?"
 
 # game/UpdateScript0.05.rpy:650
 translate french fix_bulb_814bf6d4:
 
     # M "Uhhh.... No.... I think we're good for today."
+    M "Uhhh .... Non ... Je pense que nous sommes bons pour aujourd'hui."
 
 # game/UpdateScript0.05.rpy:651
 translate french fix_bulb_c9548d43:
 
     # R "Alright.... I'm outta here."
+    R "D'accord.... Je m'en vais."
 
 # game/UpdateScript0.05.rpy:654
 translate french fix_bulb_38506a33:
 
     # M "Well, thanks for your help today."
+    M "Eh bien, merci pour ton aide aujourd'hui."
 
 # game/UpdateScript0.05.rpy:655
 translate french fix_bulb_0914063d:
 
     # M "Uhhh.... "
+    M "Uhhh.... "
 
 # game/UpdateScript0.05.rpy:656
 translate french fix_bulb_a3f1f1f9:
 
     # M "And good job!"
+    M "Et bon travail!"
 
 # game/UpdateScript0.05.rpy:657
 translate french fix_bulb_9b74cd7b:
 
     # RT "{i}Did Mom just give me a congratulatory butt slap?{/i}"
-    RT "{i}Maman m'a-t-elle donné une gifle de félicitations?{/i}"
+    RT "{i}Maman m'a-t-elle donné une tappe de félicitations?{/i}"
 
 # game/UpdateScript0.05.rpy:660
 translate french fix_bulb_499681b1:
@@ -550,61 +588,73 @@ translate french fix_bulb_ee17bf3e:
 translate french fix_bulb_373d7162:
 
     # R "Hey, Mom! Working hard, or hardly working?"
+    R "Hé, maman! Travailler dur ou à peine travailler?"
 
 # game/UpdateScript0.05.rpy:681
 translate french fix_bulb_8d8d683f:
 
     # M "What is it, [ryan]? I don't have time for playful banter."
+    M "Qu'est-ce que, [ryan]? Je n'ai pas le temps de plaisanter."
 
 # game/UpdateScript0.05.rpy:682
 translate french fix_bulb_0c2450e2:
 
     # R "Sorry.... I know.... That was stupid."
+    R "Désolé.... Je sais.... C'était stupide."
 
 # game/UpdateScript0.05.rpy:683
 translate french fix_bulb_5b012d7d_1:
 
     # R "I was just wondering if you needed any help with the house."
+    R "Je me demandais juste si tu avais besoin d'aide pour la maison."
 
 # game/UpdateScript0.05.rpy:684
 translate french fix_bulb_acb1b1ec:
 
     # M "You want to help me around the house?...."
+    M "Tu veux m'aider dans la maison?...."
 
 # game/UpdateScript0.05.rpy:685
 translate french fix_bulb_8d96023b:
 
     # R "Well, yeah.... Now that Dad's gone, your list of things around the house for.... you know.... like, manly work, must be getting pretty long."
+    R "Eh bien, oui.... Maintenant que papa est parti, ta liste de choses à faire pour la maison.... tu sais.... le travail viril doit être assez difficile."
 
 # game/UpdateScript0.05.rpy:688
 translate french fix_bulb_c025272b:
 
     # M "Are you talking about the \"honey-do list\"?"
+    M "Parles-tu de la 'liste de choses à faire'?"
 
 # game/UpdateScript0.05.rpy:689
 translate french fix_bulb_d29a60ee:
 
     # M "Are you hoping to become my surrogate honey while your dad's in prison?"
+    M "Espères-tu devenir mon chéri de substitution pendant que ton père est en prison?"
 
 # game/UpdateScript0.05.rpy:690
 translate french fix_bulb_c6a06898:
 
     # R "Well, it sounds kind of weird when you put it like that, but sure, why not?"
+    R "Eh bien, cela semble un peu bizarre quand tu le dis comme ça, mais bien sûr, pourquoi pas?"
 
 # game/UpdateScript0.05.rpy:691
 translate french fix_bulb_e5d2e9f3:
 
     # R "You already call me honey anyways, and there's plenty of handyman work to do around the house. The least I can do is chip in a little."
+    R "Tu m'appelles déjà chéri de toute façon, et il y a beaucoup de travail pour un bricoleur à faire autour de la maison. Le moins que je puisse faire, c'est d'aider un peu."
 
 # game/UpdateScript0.05.rpy:694
 translate french fix_bulb_a3038c12:
 
     # M "hmmm.... Well, that is a very generous offer, and there are a number of things that I can't do myself around the house. Do you really think you're handy enough to help me tackle them?"
+    M "hmmm.... Eh bien, c'est une offre très généreuse, et il y a un certain nombre de choses que je ne peux pas faire moi-même autour de la maison. Penses-tu vraiment que tu es assez fort pour m'aider à les affronter?"
 
 # game/UpdateScript0.05.rpy:695
 translate french fix_bulb_7de40ba3:
 
     # R "For sure, and anything I don't know how to do, I can just look up online."
+    R "Bien sûr, et tout ce que je ne sais pas faire, je peux simplement rechercher en ligne."
 
 # game/UpdateScript0.05.rpy:696
 translate french fix_bulb_f4c5fa30_1:
@@ -616,21 +666,25 @@ translate french fix_bulb_f4c5fa30_1:
 translate french fix_bulb_6580be01:
 
     # M "Alright, well let's start out right here in the lounge."
+    M "Très bien, commençons juste ici dans le salon."
 
 # game/UpdateScript0.05.rpy:701
 translate french fix_bulb_b621e761:
 
     # M "You've probably noticed that the light bulb above the tv flickers sometimes."
+    M "Tu as probablement remarqué que l'ampoule au-dessus du téléviseur clignote parfois."
 
 # game/UpdateScript0.05.rpy:702
 translate french fix_bulb_56acacbf:
 
     # M "I'd just fix it myself, but I'm afraid I would fall off the cabinet without anybody holding onto me."
+    M "Je la réparerais moi-même, mais j'ai peur de tomber de l'escabeau sans que personne ne me tienne."
 
 # game/UpdateScript0.05.rpy:703
 translate french fix_bulb_4430f8b9:
 
     # M "Do you think you could climb up there if I support you, and make sure the light bulb is screwed in nice and tight?"
+    M "Penses-tu que tu pourrais monter là-haut si je te soutiens, et assures-toi que l'ampoule est bien vissée et bien serrée?"
 
 # game/UpdateScript0.05.rpy:704
 translate french fix_bulb_6482aac6:
@@ -654,6 +708,7 @@ translate french fix_bulb_ffe4a8a2:
 translate french fix_bulb_ea18d9de_1:
 
     # M "Wait a second honey, let me hold onto you. I don't want you to fall."
+    M "Attends une seconde chéri, laisse-moi t'accrocher. Je ne veux pas que tu tombes."
 
 # game/UpdateScript0.05.rpy:713
 translate french fix_bulb_11d39a3b_1:
@@ -671,16 +726,19 @@ translate french fix_bulb_1d38e504_1:
 translate french fix_bulb_368e8610:
 
     # M "That's right honey. That one right there.... Oh, please be careful!"
+    M "C'est vrai chéri. Celui-là.... Oh, s'il te plaît, fais attention!"
 
 # game/UpdateScript0.05.rpy:720
 translate french fix_bulb_67e97733:
 
     # R "The lights are still on. Won't the light bulb burn me?"
+    R "Les lumières sont toujours allumées. L'ampoule ne me brûlera pas ?"
 
 # game/UpdateScript0.05.rpy:721
 translate french fix_bulb_c8b18a35:
 
     # M "Oh, don't worry. They're LED lights, so they don't get hot."
+    M "Oh, ne t'inquiète pas. Ce sont des lumières LED, donc elles ne chauffent pas."
 
 # game/UpdateScript0.05.rpy:722
 translate french fix_bulb_7eb35e60:
@@ -740,6 +798,7 @@ translate french fix_bulb_221be1d4:
 translate french fix_bulb_ef9b888b:
 
     # R "Mom!.... Don't let go please.... I'll lose my balance!"
+    R "Maman!.... Ne me lâche pas s'il te plaît.... Je perdrais l'équilibre !"
 
 # game/UpdateScript0.05.rpy:749
 translate french fix_bulb_91e978a5:
@@ -751,11 +810,13 @@ translate french fix_bulb_91e978a5:
 translate french fix_bulb_11d16a44:
 
     # R "What are you?.... Watch out!.... I'm going to fall!...."
+    R "Que fais-tu?.... Attention !.... Je vais tomber!...."
 
 # game/UpdateScript0.05.rpy:762
 translate french fix_bulb_a490a6e8:
 
     # R "Ohhhhoooohoooohoooo.... Oooo.... Ouch!...."
+    R "Ohhhhhhhoohoooohoooo.... Oooo.... Aïe!...."
 
 # game/UpdateScript0.05.rpy:764
 translate french fix_bulb_f272fe2a:
@@ -779,6 +840,7 @@ translate french fix_bulb_d827281a:
 translate french fix_bulb_9dbbda13:
 
     # R "Fuck.... Ohhh.... My knees...."
+    R "Merde.... Ohhh.... Mes genoux...."
 
 # game/UpdateScript0.05.rpy:772
 translate french fix_bulb_fa2ffa60:
@@ -802,6 +864,7 @@ translate french fix_bulb_c4bc3325:
 translate french fix_bulb_e7d56259:
 
     # M "No, not bad, I just couldn't breathe with you tea-bagging me."
+    M "Non, pas mal, je n'arrivais pas à respirer quand tu te moquais de moi."
 
 # game/UpdateScript0.05.rpy:779
 translate french fix_bulb_dc7a84b6_1:
@@ -819,11 +882,13 @@ translate french fix_bulb_9df52b27:
 translate french fix_bulb_c43f152a:
 
     # R "Hahaha...."
+    R "Hahaha...."
 
 # game/UpdateScript0.05.rpy:784
 translate french fix_bulb_68ae3e32:
 
     # R "I was tea-bagging you, wasn't I?"
+    R "Je plaisantais avec toi, n'est-ce pas ?"
 
 # game/UpdateScript0.05.rpy:785
 translate french fix_bulb_42051a9a:
@@ -835,11 +900,13 @@ translate french fix_bulb_42051a9a:
 translate french fix_bulb_55237cf2:
 
     # M "Yeah.... hahaha.... but please don't repeat that outside of this conversation."
+    M "Oui.... hahaha... mais s'il te plaît, ne répètes pas cela en dehors de cette conversation."
 
 # game/UpdateScript0.05.rpy:787
 translate french fix_bulb_8063cdb0:
 
     # M "I don't think it would sound very good out of context."
+    M "Je ne pense pas que cela paraisse très bon en dehors du contexte."
 
 # game/UpdateScript0.05.rpy:788
 translate french fix_bulb_dc7a84b6_2:
@@ -851,6 +918,7 @@ translate french fix_bulb_dc7a84b6_2:
 translate french fix_bulb_8427d80e:
 
     # R "Well, I think the light bulb will at least stop flickering."
+    R "Eh bien, je pense que l'ampoule cessera au moins de clignoter."
 
 # game/UpdateScript0.05.rpy:790
 translate french fix_bulb_380c0c00:
@@ -862,67 +930,79 @@ translate french fix_bulb_380c0c00:
 translate french fix_bulb_a73b5cd6:
 
     # R "Are there any more home repairs you need help with?"
+    R "Y a-t-il d'autres réparations pour lesquelles tu as besoin d'aide?"
 
 # game/UpdateScript0.05.rpy:792
 translate french fix_bulb_21d141d8:
 
     # M "Not right now.... Let's call it a day."
+    M "Pas tout de suite... On s’arrête là pour aujourd’hui."
 
 # game/UpdateScript0.05.rpy:793
 translate french fix_bulb_61b36f85:
 
     # M "Thank you so much for being so willing to help!"
+    M "Merci beaucoup d’être si disposé à aider!"
 
 # game/UpdateScript0.05.rpy:794
 translate french fix_bulb_1b0e680e:
 
     # R "Of course! Love ya, Mom.."
+    R "Bien sûr! Je t'aime, Maman.."
 
 # game/UpdateScript0.05.rpy:795
 translate french fix_bulb_8e7b6823:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:809
 translate french sidney_morning_jog_a2375aea:
 
     # RT "{i}Looks like Sidney's all ready to go running.{/i}"
-    RT "{i}On dirait que Sidney est prêt à courir.{/i}"
+    RT "{i}On dirait que Sidney est prêt à y aller.{/i}"
 
 # game/UpdateScript0.05.rpy:812
 translate french sidney_morning_jog_66f4c51e:
 
     # R "Hey Sid."
+    R "Hey Sid."
 
 # game/UpdateScript0.05.rpy:813
 translate french sidney_morning_jog_a1d9a63c:
 
     # S "Hey, [ryan]. Are you ready to go running?"
+    S "Hé, [ryan]. Es-tu prêt à y aller?"
 
 # game/UpdateScript0.05.rpy:816
 translate french sidney_morning_jog_5bf3f68a:
 
     # R "You bet I am. Let me run and change my clothes and I'll meet you outside."
+    R "Tu paries que je le suis. Laisses-moi aller et changer mes vêtements et je te retrouve à l’extérieur."
 
 # game/UpdateScript0.05.rpy:819
 translate french sidney_morning_jog_10bf2f50:
 
     # R "Sorry Sid, I'm just not feeling it today."
+    R "Désolé Sid, je ne le sens tout simplement pas aujourd'hui."
 
 # game/UpdateScript0.05.rpy:820
 translate french sidney_morning_jog_cad1873f:
 
     # S "That's ok. Ever since Mr. Peterson got put back into his nursing home, I don't feel afraid to go running there all alone."
+    S "C'est ok. Depuis que M. Peterson a été remis dans sa maison de retraite, je n'ai pas peur d'aller courir toute seule."
 
 # game/UpdateScript0.05.rpy:821
 translate french sidney_morning_jog_0c80c60a:
 
     # S "But hopefully you'll be up for it next time."
+    S "Mais j'espère que tu seras prêt la prochaine fois."
 
 # game/UpdateScript0.05.rpy:822
 translate french sidney_morning_jog_2314d5e2:
 
     # S "It's nice to not have to run alone."
+    S "C'est bien de ne pas avoir à courir seul."
 
 # game/UpdateScript0.05.rpy:828
 translate french sidney_morning_jog_aed139c8:
@@ -940,51 +1020,61 @@ translate french sidney_morning_jog_60878d09:
 translate french sidney_morning_jog_0ac6f7d1:
 
     # R "Hey Sid, you look like you're about ready to go jogging."
+    R "Hey Sid, tu as l'air d'être sur le point d'aller faire du jogging."
 
 # game/UpdateScript0.05.rpy:833
 translate french sidney_morning_jog_079f582d:
 
     # S "Yes, your skills of observation are unmatched."
+    S "Oui, tes compétences d'observation sont inégalées."
 
 # game/UpdateScript0.05.rpy:834
 translate french sidney_morning_jog_8b278dc4:
 
     # R "Man, you're funny!"
+    R "Mec, tu es drôle!"
 
 # game/UpdateScript0.05.rpy:837
 translate french sidney_morning_jog_28e93c51:
 
     # S "Haha.... I know it."
+    S "Haha.... Je le sais."
 
 # game/UpdateScript0.05.rpy:838
 translate french sidney_morning_jog_0a4e9596:
 
     # S "So, are you going to come and keep me safe at the park today?"
+    S "Alors, vas-tu venir me garder en sécurité au parc aujourd'hui?"
 
 # game/UpdateScript0.05.rpy:841
 translate french sidney_morning_jog_5bf3f68a_1:
 
     # R "You bet I am. Let me run and change my clothes and I'll meet you outside."
+    R "Tu paries que je le suis. Laisses-moi aller et changer mes vêtements et je te retrouve à l’extérieur."
 
 # game/UpdateScript0.05.rpy:844
 translate french sidney_morning_jog_10bf2f50_1:
 
     # R "Sorry Sid, I'm just not feeling it today."
+    R "Désolé Sid, je ne le sens tout simplement pas aujourd'hui."
 
 # game/UpdateScript0.05.rpy:845
 translate french sidney_morning_jog_16acb775:
 
     # S "That's ok, I'll just head to the indoor track then."
+    S "C'est ok, je vais juste me diriger vers la piste intérieure alors."
 
 # game/UpdateScript0.05.rpy:846
 translate french sidney_morning_jog_0c80c60a_1:
 
     # S "But hopefully you'll be up for it next time."
+    S "Mais j'espère que tu seras prêt la prochaine fois."
 
 # game/UpdateScript0.05.rpy:847
 translate french sidney_morning_jog_855b2893:
 
     # S "I'm starting to enjoy running with you."
+    S "Je commence à prendre du plaisir à courir avec toi."
 
 # game/UpdateScript0.05.rpy:853
 translate french sidney_morning_jog_6247429b:
@@ -996,36 +1086,43 @@ translate french sidney_morning_jog_6247429b:
 translate french sidney_morning_jog_f8adcf49:
 
     # R "Hey Sidney. Are you off to the indoor track?"
+    R "Salut Sidney. Vas-tu sur la piste intérieure?"
 
 # game/UpdateScript0.05.rpy:857
 translate french sidney_morning_jog_4e19d281:
 
     # S "Yep, though I really wish I could go run in the park."
+    S "Oui, bien que j'aimerais vraiment pouvoir aller courir dans le parc."
 
 # game/UpdateScript0.05.rpy:860
 translate french sidney_morning_jog_0f08e71b:
 
     # S "Please hurry up and get into shape so you can keep me safe in the park from Mr. Peterson."
+    S "Dépêches-toi et mets-toi en forme pour que tu puisses me protéger dans le parc de M. Peterson."
 
 # game/UpdateScript0.05.rpy:861
 translate french sidney_morning_jog_1c91e03a:
 
     # R "I'll try, but how will I know when I'm ready?"
+    R "Je vais essayer, mais comment saurai-je quand je serais prêt?"
 
 # game/UpdateScript0.05.rpy:862
 translate french sidney_morning_jog_fed92884:
 
     # S "When you can make it there in 9 minutes or less."
+    S "Lorsque tu peux y arriver en 9 minutes ou moins."
 
 # game/UpdateScript0.05.rpy:863
 translate french sidney_morning_jog_e95ba4fc:
 
     # R "Alright, I'll let you know when I'm in good enough shape."
+    R "D'accord, je te le ferais savoir quand je serais en forme."
 
 # game/UpdateScript0.05.rpy:864
 translate french sidney_morning_jog_b63201e7:
 
     # R "Have a good run today."
+    R "Bonne course aujourd'hui."
 
 # game/UpdateScript0.05.rpy:874
 translate french sidney_morning_jog_081d7f53:
@@ -1037,66 +1134,79 @@ translate french sidney_morning_jog_081d7f53:
 translate french sidney_morning_jog_4e1ff6a9:
 
     # R "Hey Sid, It looks like you're off again for your morning jog."
+    R "Hé Sid, on dirait que tu es de nouveau parti pour ton jogging matinal."
 
 # game/UpdateScript0.05.rpy:878
 translate french sidney_morning_jog_63fecdf3:
 
     # S "Did you figure that one out all by yourself, Captain Obvious?"
+    S "L'as-tu compris tout seul, capitaine Obvious ?"
 
 # game/UpdateScript0.05.rpy:879
 translate french sidney_morning_jog_d7f766a9:
 
     # R "Oh, hardy har."
+    R "Oh, hardy har."
 
 # game/UpdateScript0.05.rpy:880
 translate french sidney_morning_jog_3f0c3cda:
 
     # R "I was just wondering if you were going to risk runnning in the park again."
+    R "Je me demandais juste si tu allais risquer de courir à nouveau dans le parc."
 
 # game/UpdateScript0.05.rpy:883
 translate french sidney_morning_jog_77f62311:
 
     # S "Well, I really want to, but I'm worried about running into crazy old Mr. Peterson again."
+    S "Eh bien, je le veux vraiment, mais je crains de croiser à nouveau le vieux M. Peterson."
 
 # game/UpdateScript0.05.rpy:884
 translate french sidney_morning_jog_e2f9f65c:
 
     # S "Do you think it would be too risky? Should I go running at the country club's indoor track instead?"
+    S "Penses-tu que ce serait trop risqué? Devrais-je aller courir sur la piste intérieure du country club à la place?"
 
 # game/UpdateScript0.05.rpy:889
 translate french sidney_morning_jog_f0059adb:
 
     # R "Yeah, I think maybe you should just stick to running at the indoor track until Mr. Peterson has been caught."
+    R "Ouais, je pense que tu devrais peut-être t'en tenir à courir sur la piste intérieure jusqu'à ce que M. Peterson ait été attrapé."
 
 # game/UpdateScript0.05.rpy:890
 translate french sidney_morning_jog_e21b2347:
 
     # S "Uurrgghh.... I think you're right, but I just hate running inside when the weather is so nice."
+    S "Uurrgghh.... Je pense que tu as raison, mais je déteste courir à l'intérieur quand il fait si beau."
 
 # game/UpdateScript0.05.rpy:891
 translate french sidney_morning_jog_e8344314:
 
     # S "Alright, well I'm out of here. Good luck at school, or work, or whatever you're doing today."
+    S "D'accord, eh bien je suis sorti d'ici. Bonne chance à l'école, au travail ou tout ce que tu fais aujourd'hui."
 
 # game/UpdateScript0.05.rpy:892
 translate french sidney_morning_jog_f7d05019:
 
     # R "Thanks Sid! Have a good run."
+    R "Merci Sid! Bonne course."
 
 # game/UpdateScript0.05.rpy:898
 translate french sidney_morning_jog_9ab1f8fc:
 
     # R "Yeah, why don't you go running at the indoor track today. I'll take a jog to the park and see if I think it's safe for next time."
+    R "Ouais, pourquoi ne courrais-tu pas sur la piste intérieure aujourd'hui. Je vais faire un jogging au parc et voir si je pense que c'est sûr pour la prochaine fois."
 
 # game/UpdateScript0.05.rpy:899
 translate french sidney_morning_jog_17c928b9:
 
     # S "Really? You'd do that for me?"
+    S "Vraiment? Tu ferais ça pour moi ?"
 
 # game/UpdateScript0.05.rpy:900
 translate french sidney_morning_jog_63688242:
 
     # R "Yeah, of course! I need the exercise anyways."
+    R "Oui, bien sûr! J'ai besoin de l'exercice de toute façon."
 
 # game/UpdateScript0.05.rpy:901
 translate french sidney_morning_jog_43a49173:
@@ -1108,46 +1218,55 @@ translate french sidney_morning_jog_43a49173:
 translate french sidney_morning_jog_1bef7fd5:
 
     # S "I'd really appreciate that."
+    S "J'apprécierais vraiment cela."
 
 # game/UpdateScript0.05.rpy:904
 translate french sidney_morning_jog_1a2b6642:
 
     # R "Yeah, think nothing of it."
+    R "Ouais, n'y penses pas."
 
 # game/UpdateScript0.05.rpy:905
 translate french sidney_morning_jog_ad999840:
 
     # S "Alright, I'll see you later. Be careful at the park."
+    S "D'accord, à plus tard. Sois prudent au parc."
 
 # game/UpdateScript0.05.rpy:906
 translate french sidney_morning_jog_4f9bb9b7:
 
     # R "I will, and enjoy your run at the club."
+    R "Je vais, et profiter de ta course au club."
 
 # game/UpdateScript0.05.rpy:911
 translate french sidney_morning_jog_ff5ea291:
 
     # R "Don't go to the indoor track."
+    R "Ne vas pas sur la piste intérieure."
 
 # game/UpdateScript0.05.rpy:912
 translate french sidney_morning_jog_aa49260b:
 
     # R "Mr. Peterson is harmless. Plus, I'll go with you and keep you safe."
+    R "M. Peterson est inoffensif. En plus, je t'accompagnerais et je te garderais en sécurité."
 
 # game/UpdateScript0.05.rpy:913
 translate french sidney_morning_jog_21059373:
 
     # S "Are you sure you can keep up with me this time?"
+    S "Es-tu sûr de pouvoir me suivre cette fois ?"
 
 # game/UpdateScript0.05.rpy:914
 translate french sidney_morning_jog_c9e9e881:
 
     # R "I'll try my best."
+    R "Je ferais de mon mieux."
 
 # game/UpdateScript0.05.rpy:915
 translate french sidney_morning_jog_d97002b2:
 
     # S "Alright, run and change and I'll meet you in front of the house."
+    S "D'accord, cours et change-toi et je te retrouve devant la maison."
 
 # game/UpdateScript0.05.rpy:920
 translate french sidney_morning_jog_77ca21f9:
@@ -1165,131 +1284,157 @@ translate french sidney_morning_jog_1c82bb60:
 translate french sidney_morning_jog_69b45edd:
 
     # R "Hey Sid. You're up early."
+    R "Salut Sid. Tu te lèves tôt."
 
 # game/UpdateScript0.05.rpy:925
 translate french sidney_morning_jog_9460579b:
 
     # S "Yeah, remember what I told you?"
+    S "Ouais, tu te souviens de ce que je t'ai dit?"
 
 # game/UpdateScript0.05.rpy:926
 translate french sidney_morning_jog_dd992cf3:
 
     # R "About what?"
+    R "À propos de quoi?"
 
 # game/UpdateScript0.05.rpy:929
 translate french sidney_morning_jog_0b87c51c:
 
     # S "I have to get up early so that Mom and Lauren don't discover me sleeping in your bed."
+    S "Je dois me lever tôt pour que Maman et Lauren ne me découvrent pas en train de dormir dans ton lit."
 
 # game/UpdateScript0.05.rpy:930
 translate french sidney_morning_jog_ad757ca9:
 
     # S "Mom would flip out if she knew."
+    S "Maman se retournerait si elle savait."
 
 # game/UpdateScript0.05.rpy:931
 translate french sidney_morning_jog_837b5bf9:
 
     # R "Oh yeah, that probably is a good precaution to take."
+    R "Oh oui, c'est probablement une bonne précaution à prendre."
 
 # game/UpdateScript0.05.rpy:932
 translate french sidney_morning_jog_aecddfac:
 
     # S "So yeah, since I'm up early anyways, I decided it would be good for me to take an early morning run."
+    S "Alors oui, puisque je me lève tôt de toute façon, j'ai décidé que ce serait bien pour moi de courir tôt le matin."
 
 # game/UpdateScript0.05.rpy:933
 translate french sidney_morning_jog_58b82c5b:
 
     # S "It probably wouldn't hurt you to do some exercising as well."
+    S "Cela ne te ferais probablement pas de mal de faire de l'exercice aussi."
 
 # game/UpdateScript0.05.rpy:934
 translate french sidney_morning_jog_3e9bd1ea:
 
     # S "Do you do anything even remotely active?"
+    S "Fais-tu quelque chose même à distance?"
 
 # game/UpdateScript0.05.rpy:935
 translate french sidney_morning_jog_30a10864:
 
     # R "I used to play basketball, but now I cant make the team anymore because I'm too short."
+    R "J'avais l'habitude de jouer au basket, mais maintenant je ne peux plus faire d'équipe parce que je suis trop petite."
 
 # game/UpdateScript0.05.rpy:938
 translate french sidney_morning_jog_ce94d4c4:
 
     # S "Ohhh.... Don't worry, I'm sure you're not done growing yet."
+    S "Ohhh.... Ne t'inquiète pas, je suis sûr que tu n'as pas encore fini de grandir."
 
 # game/UpdateScript0.05.rpy:939
 translate french sidney_morning_jog_d3abb74d:
 
     # R "Man, I hope not."
+    R "Man, j'espère que non."
 
 # game/UpdateScript0.05.rpy:940
 translate french sidney_morning_jog_e7bc04e4:
 
     # R "But you're right, I should do more to stay in shape. Wait for me, I'm going to go get my running shoes."
+    R "Mais tu as raison, je devrais en faire plus pour rester en forme. Attends-moi, je vais chercher mes chaussures de course."
 
 # game/UpdateScript0.05.rpy:943
 translate french sidney_morning_jog_6dff1dc0:
 
     # S "No, that's not what I meant. Do you even think you could keep up with me?"
+    S "Non, ce n'est pas ce que je voulais dire. Tu penses même que tu pourrais me suivre ?"
 
 # game/UpdateScript0.05.rpy:944
 translate french sidney_morning_jog_17f354d3:
 
     # R "I don't know, it has been a while since I did any running."
+    R "Je ne sais pas, cela fait un moment que je n'ai pas couru."
 
 # game/UpdateScript0.05.rpy:945
 translate french sidney_morning_jog_873d1c88:
 
     # S "Ok, well, you're welcome to come with me, but don't expect me to wait for you if you can't keep up."
+    S "Ok, eh bien, tu peux venir avec moi, mais ne t'attends pas à ce que je t'attende si tu ne peux pas suivre."
 
 # game/UpdateScript0.05.rpy:946
 translate french sidney_morning_jog_7ec64e3b:
 
     # R "Awesome! Sounds fun. I'll just run and change."
+    R "Génial ! Ça a l'air amusant. Je vais juste courir et me changer."
 
 # game/UpdateScript0.05.rpy:947
 translate french sidney_morning_jog_b25dda73:
 
     # S "Ok, I'll meet you in front of the house."
+    S "Ok, je vais t'attendre devant la maison."
 
 # game/UpdateScript0.05.rpy:952
 translate french sidney_morning_jog_9f9b4dae:
 
     # S "There you are. Don't forget to stretch out a bit."
+    S "Te voilà. N'oublies pas de t'étirer un peu."
 
 # game/UpdateScript0.05.rpy:953
 translate french sidney_morning_jog_74aa63ad:
 
     # R "Oh, I'm fine. I don't need to stretch."
+    R "Oh, ça va. Je n'ai pas besoin de m'étirer."
 
 # game/UpdateScript0.05.rpy:954
 translate french sidney_morning_jog_e9c703c8:
 
     # S "Ok, if you're sure."
+    S "Ok, si tu es sûr."
 
 # game/UpdateScript0.05.rpy:955
 translate french sidney_morning_jog_045562f9:
 
     # R "Yeah, I'm sure. Are we running over to the club to use their indoor track?"
+    R "Oui, je suis sûr. Faut-il aller au club pour utiliser leur piste intérieure ?"
 
 # game/UpdateScript0.05.rpy:956
 translate french sidney_morning_jog_ad596a01:
 
     # S "No, we're running to the park by the mall and back. I don't want to run indoors on a beautiful day like today."
+    S "Non, nous courons vers le parc par le centre commercial. Je ne veux pas courir à l'intérieur par une belle journée comme aujourd'hui."
 
 # game/UpdateScript0.05.rpy:957
 translate french sidney_morning_jog_60cb0f01:
 
     # R "Oh really? That far?"
+    R "Oh vraiment? Si loin ?"
 
 # game/UpdateScript0.05.rpy:958
 translate french sidney_morning_jog_b4a746ff:
 
     # S "Well, you can always stay home and paint your nails if it's too far for you."
+    S "Eh bien, tu peux toujours rester à la maison et peindre tes ongles si c'est trop loin pour toi."
 
 # game/UpdateScript0.05.rpy:959
 translate french sidney_morning_jog_09cfc7a6:
 
     # R "It's not too far. I'll beat you there!"
+    R "Ce n'est pas trop loin. Je vais te battre!"
 
 # game/UpdateScript0.05.rpy:960
 translate french sidney_morning_jog_c3fa57c2:
@@ -1307,17 +1452,19 @@ translate french sidney_morning_jog_a2caf46c:
 translate french sidney_morning_jog_181c4c86:
 
     # S "Yeah right, I'll even give you a 1 minute head start."
+    S "Oui, je vais même te donner une longueur d'avance de 1 minute."
 
 # game/UpdateScript0.05.rpy:963
 translate french sidney_morning_jog_acd9e707:
 
     # S "On your mark... get set... go!"
+    S "À vos marques... prêt... Vas-y!"
 
 # game/UpdateScript0.05.rpy:969
 translate french sidney_morning_jog_a7fb9998:
 
     # RT "{i}Oh, shit!.... I pushed it too hard, too fast.{/i}"
-    RT "{i}Oh, merde!.... Je l'ai poussé trop fort, trop vite.{/i}"
+    RT "{i}Oh, merde!.... J'ai poussé trop fort, trop vite.{/i}"
 
 # game/UpdateScript0.05.rpy:970
 translate french sidney_morning_jog_73608fa1:
@@ -1329,16 +1476,19 @@ translate french sidney_morning_jog_73608fa1:
 translate french sidney_morning_jog_bba8ad95:
 
     # S "Hey, slow poke! On your right!"
+    S "Hé, pousses-toi lentement! Sur ta droite!"
 
 # game/UpdateScript0.05.rpy:974
 translate french sidney_morning_jog_755283f0:
 
     # R "Hey wait! Don't go on without me."
+    R "Hé attends! Ne continue pas sans moi."
 
 # game/UpdateScript0.05.rpy:975
 translate french sidney_morning_jog_3f40ce34:
 
     # S "Yeah right, I'm not waiting for you."
+    S "Ouais d'accord, je ne t'attends pas."
 
 # game/UpdateScript0.05.rpy:977
 translate french sidney_morning_jog_299e80af:
@@ -1506,36 +1656,43 @@ translate french sidney_morning_jog_a1b85b5a:
 translate french sidney_morning_jog_06312834:
 
     # CM "Well, hello there pretty thing!"
+    CM "Eh bien, bonjour jolie chose!"
 
 # game/UpdateScript0.05.rpy:1033
 translate french sidney_morning_jog_670ac3ac:
 
     # S "Who... who are you?"
+    S "Qui ... qui êtes-vous?"
 
 # game/UpdateScript0.05.rpy:1034
 translate french sidney_morning_jog_c07d51a5:
 
     # CM "Oh that doesn't matter now, does it? I'm just a paying customer."
+    CM "Oh ça n'a pas d'importance maintenant, n'est-ce pas? Je suis juste un client payant."
 
 # game/UpdateScript0.05.rpy:1035
 translate french sidney_morning_jog_dc8dbeba:
 
     # S "A paying customer? What.... does that mean?"
+    S "Un client payant ? Qu'est-ce que ça veut dire ?"
 
 # game/UpdateScript0.05.rpy:1036
 translate french sidney_morning_jog_8fd0c7d5:
 
     # CM "And I pay in dollars, which are a lot more valuable than your currency."
+    CM "Et je paie en dollars, qui sont beaucoup plus précieux que ta monnaie."
 
 # game/UpdateScript0.05.rpy:1037
 translate french sidney_morning_jog_56c70b5a:
 
     # S "What in the hell are you talking about?"
+    S "De quoi dans l'enfer parlez-vous?"
 
 # game/UpdateScript0.05.rpy:1038
 translate french sidney_morning_jog_756aa3de:
 
     # CM "Plus, I think you'll like what I've got right down here."
+    CM "De plus, je pense que vous aimerez ce que j'ai ici."
 
 # game/UpdateScript0.05.rpy:1041
 translate french sidney_morning_jog_39511a1c:
@@ -1553,16 +1710,19 @@ translate french sidney_morning_jog_cd6695a3:
 translate french sidney_morning_jog_b8479521:
 
     # S "FLASHER!!"
+    S "EXHIBITIONNISTE!!"
 
 # game/UpdateScript0.05.rpy:1046
 translate french sidney_morning_jog_be657233:
 
     # S "HELP!.... FLASHER!... HELP!"
+    S "A L'AIDE!.... EXHIBITIONNISTE!... A L'AIDE!"
 
 # game/UpdateScript0.05.rpy:1047
 translate french sidney_morning_jog_ff56d4fd:
 
     # X "Hey you! Stay right there!"
+    X "Hé toi ! Restes là !"
 
 # game/UpdateScript0.05.rpy:1048
 translate french sidney_morning_jog_ec8f0b4c:
@@ -1574,41 +1734,49 @@ translate french sidney_morning_jog_ec8f0b4c:
 translate french sidney_morning_jog_897a6ad0:
 
     # CM "You'll never catch me alive, you commie bastard!"
+    CM "Tu ne me rattraperas jamais vivant, bâtard !"
 
 # game/UpdateScript0.05.rpy:1052
 translate french sidney_morning_jog_e2a3b9de:
 
     # S "HELP!.... FLASHER!... Please! Someone catch him!"
+    S "A L'AIDE!.... EXHIBITIONNISTE!... S'il vous plaît! Quelqu'un l'attrape !"
 
 # game/UpdateScript0.05.rpy:1055
 translate french sidney_morning_jog_0646fc74:
 
     # P "Mr. Peterson!.... Please stop!.... Your family is worried about you!"
+    P "Monsieur Peterson!.... Arrêtez!... Votre famille s'inquiète de vous!"
 
 # game/UpdateScript0.05.rpy:1056
 translate french sidney_morning_jog_c4a7be3a:
 
     # CM "You commie bastards will thank us one day after we win this war!"
+    CM "Vous les bâtards nous remercierez un jour après avoir gagné cette guerre!"
 
 # game/UpdateScript0.05.rpy:1057
 translate french sidney_morning_jog_25d720e5:
 
     # P "No! Please stop!"
+    P "Non! Veuillez vous arrêter!"
 
 # game/UpdateScript0.05.rpy:1060
 translate french sidney_morning_jog_bda055f2:
 
     # S "Holy shit!.... What in the hell?.... That crazy guy flashed me his junk!"
+    S "Putain de merde!.... C'est quoi, bordel?.... Ce fou m'a exposé ses ordures!"
 
 # game/UpdateScript0.05.rpy:1061
 translate french sidney_morning_jog_fede6c40:
 
     # S "And it appears that [ryan] isn't coming!"
+    S "Et il semble que [ryan] ne vienne pas !"
 
 # game/UpdateScript0.05.rpy:1062
 translate french sidney_morning_jog_b1c79a14:
 
     # S "I'm going to give him hell when I get home!"
+    S "Je vais le tuer quand je rentrerais chez moi !"
 
 # game/UpdateScript0.05.rpy:1068
 translate french sidney_morning_jog_ad907d01:
@@ -1632,136 +1800,163 @@ translate french sidney_morning_jog_6ef8629b:
 translate french sidney_morning_jog_719a2317:
 
     # S "So there you are!"
+    S "Alors voilà !"
 
 # game/UpdateScript0.05.rpy:1074
 translate french sidney_morning_jog_7618b22c:
 
     # R "Oh, good! You made it home."
+    R "Oh, bien! Tu es rentrée."
 
 # game/UpdateScript0.05.rpy:1075
 translate french sidney_morning_jog_8e15f671:
 
     # R "Sorry I didn't meet you at the park.... My a.... ankle was acting up.... an old basketball injury."
+    R "Désolé de ne pas t'avoir ratrappé au parc.... Mon a.... la cheville se relevait.... une vieille blessure au basket."
 
 # game/UpdateScript0.05.rpy:1078
 translate french sidney_morning_jog_1069e521:
 
     # S "Don't make up excuses for being a pussy!"
+    S "Ne trouves pas d'excuses pour être un con!"
 
 # game/UpdateScript0.05.rpy:1079
 translate french sidney_morning_jog_fbb443cd:
 
     # S "I waited a long time at the park for you."
+    S "J'ai attendu longtemps au parc pour toi."
 
 # game/UpdateScript0.05.rpy:1080
 translate french sidney_morning_jog_6692d1e8:
 
     # S "Long enough for a crazy old man to flash me his junk."
+    S "Assez longtemps pour qu'un vieil homme fou me montre sa camelote."
 
 # game/UpdateScript0.05.rpy:1081
 translate french sidney_morning_jog_e257cf6e:
 
     # R "Oh my God! Really?"
+    R "Oh mon Dieu! Vrai?"
 
 # game/UpdateScript0.05.rpy:1082
 translate french sidney_morning_jog_245c8524:
 
     # S "Yeah, after he confused me for a prostitute."
+    S "Oui, après qu'il m'ait confondue avec une prostituée."
 
 # game/UpdateScript0.05.rpy:1083
 translate french sidney_morning_jog_4acd994e:
 
     # S "Is my workout outfit really that revealing?"
+    S "Ma tenue d'entraînement est-elle vraiment révélatrice ?"
 
 # game/UpdateScript0.05.rpy:1084
 translate french sidney_morning_jog_a6407be0:
 
     # R "No.... It's pretty sexy though.... I wonder if it was poor old Mr. Peterson."
+    R "Non.... C'est assez sexy cependant.... Je me demande si c'était le pauvre vieux M. Peterson."
 
 # game/UpdateScript0.05.rpy:1087
 translate french sidney_morning_jog_383f175b:
 
     # S "Yeah, I think I heard the police officer yell that name while he was chasing him."
+    S "Oui, je crois que j'ai entendu le policier crier ce nom alors qu'il le poursuivait."
 
 # game/UpdateScript0.05.rpy:1088
 translate french sidney_morning_jog_0bd35fb1:
 
     # R "Oh wow! You should have tried to catch him."
+    R "Oh wow! Tu aurais dû essayer de l'attraper."
 
 # game/UpdateScript0.05.rpy:1089
 translate french sidney_morning_jog_f518f628:
 
     # S ".... Are you crazy? He wanted to pay me for sex!"
+    S ".... Tu es fou ? Il voulait me payer pour du sexe!"
 
 # game/UpdateScript0.05.rpy:1090
 translate french sidney_morning_jog_d2512208:
 
     # R "Oh, he's just a little confused. He's a war hero you know."
+    R "Oh, il est juste un peu confus. C'est un héros de guerre."
 
 # game/UpdateScript0.05.rpy:1091
 translate french sidney_morning_jog_d78c7067:
 
     # R "You would have been a hero too, if you had caught him."
+    R "Tu aurais été un héros aussi, si tu l'avais attrapé."
 
 # game/UpdateScript0.05.rpy:1092
 translate french sidney_morning_jog_9932f0cc:
 
     # R "His poor family."
+    R "Sa pauvre famille."
 
 # game/UpdateScript0.05.rpy:1095
 translate french sidney_morning_jog_a08f0dfb:
 
     # S "His poor family? What about me? He flashed me his nasty old wrinkly junk."
+    S "Sa pauvre famille? Et moi ? Il m'a montré sa vieille cochonne ridée."
 
 # game/UpdateScript0.05.rpy:1096
 translate french sidney_morning_jog_25f68bb2:
 
     # R "Yeah, well I'm sure he's been off of his meds for a while now."
+    R "Ouais, eh bien, je suis sûr qu'il a arrêté ses médicaments depuis un moment maintenant."
 
 # game/UpdateScript0.05.rpy:1097
 translate french sidney_morning_jog_276dcf90:
 
     # R "Didn't you hear about him on the news?"
+    R "N'as-tu pas entendu parler de lui aux nouvelles?"
 
 # game/UpdateScript0.05.rpy:1098
 translate french sidney_morning_jog_0284e0ea:
 
     # S "No.... I've been at college, I wasn't following your local news."
+    S "Non.... J'ai été à la fac, je ne suivais pas vos nouvelles locales."
 
 # game/UpdateScript0.05.rpy:1099
 translate french sidney_morning_jog_6154b0df:
 
     # R "Well, he escaped from the nursing home a few weeks ago."
+    R "Eh bien, il s'est échappé de la maison de retraite il y a quelques semaines."
 
 # game/UpdateScript0.05.rpy:1100
 translate french sidney_morning_jog_5bdf1df5:
 
     # R "No one's been sure if he's dead or alive, but people keep having sightings of him."
+    R "Personne ne sait s'il est mort ou vivant, mais les gens continuent de l'apercevoir."
 
 # game/UpdateScript0.05.rpy:1101
 translate french sidney_morning_jog_40e3a431:
 
     # R "Nobody's been able to catch him either. They say his survival training from the army is probably keeping him alive."
+    R "Personne n'a pu l'attraper non plus. Ils disent que son entraînement à la survie de l'armée le maintient probablement en vie."
 
 # game/UpdateScript0.05.rpy:1102
 translate french sidney_morning_jog_c70a0569:
 
     # R "Poor Mr. Peterson."
+    R "Pauvre M. Peterson."
 
 # game/UpdateScript0.05.rpy:1103
 translate french sidney_morning_jog_24d6b4b5:
 
     # S "Stop feeling sorry for my flasher!"
+    S "Arrête de te sentir désolé pour mon exhibitionniste!"
 
 # game/UpdateScript0.05.rpy:1104
 translate french sidney_morning_jog_f546ba8d:
 
     # R "But he's...."
+    R "Mais il l'est...."
 
 # game/UpdateScript0.05.rpy:1105
 translate french sidney_morning_jog_5052d7ed:
 
     # S "I don't care."
+    S "Je m'en fiche."
 
 # game/UpdateScript0.05.rpy:1108
 translate french sidney_morning_jog_ab68f524:
@@ -1959,6 +2154,7 @@ translate french sidney_search_970855d5:
 translate french sidney_search_2ad5f047:
 
     # R "Wow, Mom! Looking good as ever!"
+    R "Wow, maman! Toujours aussi belle!"
 
 # game/UpdateScript0.05.rpy:1175
 translate french sidney_search_6656fe70:
@@ -1982,6 +2178,7 @@ translate french sidney_search_74239e20:
 translate french sidney_search_47a155b9:
 
     # R "I've just got to run to my room and get it. I'll be right back."
+    R "Je dois juste aller dans ma chambre et l'obtenir. Je reviens tout de suite."
 
 # game/UpdateScript0.05.rpy:1187
 translate french sidney_search_b897a39c:
@@ -2023,46 +2220,55 @@ translate french sidney_search_6a591152:
 translate french sidney_search_82b413ae:
 
     # R "So, it turns out that I can't find my cash."
+    R "Donc, il s'avère que je ne trouve pas mon argent."
 
 # game/UpdateScript0.05.rpy:1198
 translate french sidney_search_74201a25:
 
     # M "What? No that can't be. Let me come help you look for it."
+    M "Quoi? Non, ça ne peut pas être. Laisses-moi venir t'aider à le chercher."
 
 # game/UpdateScript0.05.rpy:1199
 translate french sidney_search_e9f77b15:
 
     # J "I'm sorry [mom_name], but we aren't going to just hang around at your house until you find where your son Ron misplaced his cash."
+    J "Je suis désolé [mom_name], mais nous n'allons pas traîner chez toi jusqu'à ce que tu trouves où ton fils Ron a égaré son argent."
 
 # game/UpdateScript0.05.rpy:1200
 translate french sidney_search_4189a79f:
 
     # R "My name's [ryan], actually."
+    R "Je m'appelle [ryan], en fait."
 
 # game/UpdateScript0.05.rpy:1201
 translate french sidney_search_eeddfe87:
 
     # J "So either you've got it, or you don't."
+    J "Donc soit tu l'as, soit tu ne l'as pas."
 
 # game/UpdateScript0.05.rpy:1204
 translate french sidney_search_5f829f6c:
 
     # J "And it looks like you don't got it."
+    J "Et il semble que tu ne l'aies pas."
 
 # game/UpdateScript0.05.rpy:1205
 translate french sidney_search_6428a2de:
 
     # J "So [mom_name], Why don't we go ahead and jump in the car."
+    J "Donc [mom_name], Pourquoi ne pas aller de l'avant et aller dans la voiture."
 
 # game/UpdateScript0.05.rpy:1206
 translate french sidney_search_3f6e100a:
 
     # R "I'm so sorry Mom! I really have it. I just don't have a clue where it is right now."
+    R "Je suis tellement désolé maman! Je l'ai vraiment. Je n'ai pas la moindre idée d'où il se trouve en ce moment."
 
 # game/UpdateScript0.05.rpy:1207
 translate french sidney_search_d13dcdb9:
 
     # M "It's ok honey. We'll find it, and at least I won't have to go next week."
+    M "Ça va, chéri. On le trouvera, et au moins je n'aurai pas à y aller la semaine prochaine."
 
 # game/UpdateScript0.05.rpy:1208
 translate french sidney_search_5bc5c0af:
@@ -2116,6 +2322,7 @@ translate french sidney_search_a0525bab_1:
 translate french sidney_search_5291e93d:
 
     # J "Ok, Let's get on our way."
+    J "Ok, allons-y."
 
 # game/UpdateScript0.05.rpy:1224
 translate french sidney_search_bb64a15e:
@@ -2181,56 +2388,67 @@ translate french sidney_search_d89517b3:
 translate french sidney_search_20b46912:
 
     # S "Uhhh.... Hi.... Can I come in?"
+    S "Uhhh.... Salut.... Je peux entrer ?"
 
 # game/UpdateScript0.05.rpy:1251
 translate french sidney_search_668ff27f:
 
     # G "Do you know the password?"
+    G "Connaissez-vous le mot de passe ?"
 
 # game/UpdateScript0.05.rpy:1252
 translate french sidney_search_cfd5d96f:
 
     # S "Uhh.... is it Scarface?"
+    S "Heu.... c'est Scarface ?"
 
 # game/UpdateScript0.05.rpy:1253
 translate french sidney_search_7570e50a:
 
     # G "Is that supposed to be a joke?"
+    G "Est-ce censé être une blague?"
 
 # game/UpdateScript0.05.rpy:1254
 translate french sidney_search_9975f3de:
 
     # S "Ummmm.... I don't actually know the password.... But, my mom is one of the dancers, and I was hoping to go see her."
+    S "UmmMm.... Je ne connais pas vraiment le mot de passe.... Mais, ma mère est l'une des danseuses, et j'espérais aller la voir."
 
 # game/UpdateScript0.05.rpy:1255
 translate french sidney_search_0c31e2da:
 
     # G "Oh really? Which one?"
+    G "Oh vraiment? Laquelle ?"
 
 # game/UpdateScript0.05.rpy:1256
 translate french sidney_search_15900924:
 
     # S "Ummm.... [mom_name]."
+    S "Hmmm.... [mom_name]."
 
 # game/UpdateScript0.05.rpy:1257
 translate french sidney_search_cfc03a7d:
 
     # G "Oh yeah, [mom_name], of course! Why didn't you just say so in the first place."
+    G "Oh oui, [mom_name], bien sûr! Pourquoi tu ne l'as pas dit en premier lieu."
 
 # game/UpdateScript0.05.rpy:1258
 translate french sidney_search_16f0e484:
 
     # G "We are, after all, a family establishment, and we try to be very accommodating to the families of our employees."
+    G "Nous sommes, après tout, un établissement familial et nous essayons d'être très accommodants avec les familles de nos employés."
 
 # game/UpdateScript0.05.rpy:1259
 translate french sidney_search_15119a9e:
 
     # S "Ummm.... Thank you?"
+    S "Ummm.... Merci ?"
 
 # game/UpdateScript0.05.rpy:1260
 translate french sidney_search_19d9ae53:
 
     # G "Of course.... Come on in."
+    G "Bien sûr.... Entre."
 
 # game/UpdateScript0.05.rpy:1269
 translate french sidney_search_345a2083:
@@ -2260,298 +2478,355 @@ translate french sidney_search_7ed38fc3:
 translate french sidney_search_9b66c3b0:
 
     # J "Well, hello there young lady."
+    J "Eh bien, bonjour jeune femme."
 
 # game/UpdateScript0.05.rpy:1276
 translate french sidney_search_0aad4e90:
 
     # S "Oh shit!.... You scared me."
+    S "Oh merde!.... Tu m'as fait peur."
 
 # game/UpdateScript0.05.rpy:1277
 translate french sidney_search_dd39d110:
 
     # J "I'm so sorry, allow me to introduce myself."
+    J "Je suis désolé, permettez-moi de me présenter."
 
 # game/UpdateScript0.05.rpy:1280
 translate french sidney_search_ebea7511:
 
     # J "My name is Joey DeCapo."
+    J "Je m'appelle Joey DeCapo."
 
 # game/UpdateScript0.05.rpy:1281
 translate french sidney_search_c5a58c93:
 
     # J "And you must be [mom_name]'s oldest.... Sidney.... I think?"
+    J "Et vous devez être la plus âgé de [mom_name].... Sidney.... Je pense?"
 
 # game/UpdateScript0.05.rpy:1282
 translate french sidney_search_171494c7:
 
     # S "Yes.... but how did you?...."
+    S "Oui... mais comment avez-vous deviné?...."
 
 # game/UpdateScript0.05.rpy:1283
 translate french sidney_search_74d6ad58:
 
     # J "I pay a lot of people a lot of money to make sure I know everything about everyone of interest to me."
+    J "Je paie beaucoup d'argent à beaucoup de gens pour m'assurer de tout savoir sur tout ce qui m'intéresse."
 
 # game/UpdateScript0.05.rpy:1284
 translate french sidney_search_1eaae61d:
 
     # J "And your family has been very interesting this last little while."
+    J "Et votre famille a été très intéressante ces derniers temps."
 
 # game/UpdateScript0.05.rpy:1287
 translate french sidney_search_d15e5051:
 
     # J "But I must say that you are much prettier in person."
+    J "Mais je dois dire que vous êtes beaucoup plus jolie en personne."
 
 # game/UpdateScript0.05.rpy:1288
 translate french sidney_search_396e3966:
 
     # J "You don't look very much like your mother. Maybe you take after your dad's side of the family?"
+    J "Vous ne ressemblez pas beaucoup à votre mère. Peut-être prenez-vous après le côté de votre papa de la famille?"
 
 # game/UpdateScript0.05.rpy:1291
 translate french sidney_search_5841f3ee:
 
     # S "Uhhhh.... Thank you?"
+    S "Uhhhh.... Merci ?"
 
 # game/UpdateScript0.05.rpy:1292
 translate french sidney_search_390e0902:
 
     # S "And you're the guy we have to pay every week to keep our mom out of the club?"
+    S "Et vous êtes le gars que nous devons payer chaque semaine pour garder notre mère hors du club ?"
 
 # game/UpdateScript0.05.rpy:1293
 translate french sidney_search_3ade86f6:
 
     # J "A very regrettable situation, but in life, all debts must be paid."
+    J "Une situation très regrettable, mais dans la vie, toutes les dettes doivent être payées."
 
 # game/UpdateScript0.05.rpy:1294
 translate french sidney_search_831eadab:
 
     # S "But Dad took out the loan, not us."
+    S "Mais Papa a contracté le prêt, pas nous."
 
 # game/UpdateScript0.05.rpy:1295
 translate french sidney_search_c41b1e11:
 
     # J "And when he took it out, we made sure it was very clear to him that the debt would fall on his family if anything happened to him."
+    J "Et quand il l'a retiré, nous nous sommes assurés qu'il était très clair pour lui que la dette incomberait à sa famille s'il lui arrivait quelque chose."
 
 # game/UpdateScript0.05.rpy:1296
 translate french sidney_search_9ee2623f:
 
     # J "So, he knew the risks."
+    J "Donc, il connaissait les risques."
 
 # game/UpdateScript0.05.rpy:1297
 translate french sidney_search_6bd709d8:
 
     # S "That asshole!"
+    S "Ce connard!"
 
 # game/UpdateScript0.05.rpy:1298
 translate french sidney_search_20d522cf:
 
     # J "Haha.... We can arrange for him to stay in prison for as long as you like."
+    J "Haha.... Nous pouvons nous arranger pour qu'il reste en prison aussi longtemps que vous le souhaitez."
 
 # game/UpdateScript0.05.rpy:1299
 translate french sidney_search_7adea004:
 
     # S "We might just take you up on that offer."
+    S "Nous pourrions simplement vous suivre pour cette offre."
 
 # game/UpdateScript0.05.rpy:1300
 translate french sidney_search_73fc5dd0:
 
     # J "But where are my manners. Let's go sit down and have a drink."
+    J "Mais où sont mes manières. Allons nous asseoir et prendre un verre."
 
 # game/UpdateScript0.05.rpy:1301
 translate french sidney_search_d6fd8077:
 
     # J "Come.... Follow me."
+    J "Venez ... Suivez-moi."
 
 # game/UpdateScript0.05.rpy:1304
 translate french sidney_search_2c023f61:
 
     # J "This is the pole room, and this is our very lovely dancer Emma."
+    J "Voici la salle des pôles, et voici notre très belle danseuse Emma."
 
 # game/UpdateScript0.05.rpy:1305
 translate french sidney_search_32d57bb1:
 
     # S "She's very beautiful."
+    S "Elle est très belle."
 
 # game/UpdateScript0.05.rpy:1306
 translate french sidney_search_0a655488:
 
     # J "Yes, she's quite popular, but not nearly as popular as your mother."
+    J "Oui, elle est très populaire, mais pas aussi populaire que votre mère."
 
 # game/UpdateScript0.05.rpy:1307
 translate french sidney_search_74b4f012:
 
     # S "Oh God!.... She's here isn't she?"
+    S "Oh Mon Dieu!.... Elle est là, n'est-ce pas ?"
 
 # game/UpdateScript0.05.rpy:1308
 translate french sidney_search_4d2f3e20:
 
     # J "Haha.... yes, she's in the dressing room, she goes on after the next dancer."
+    J "Haha.... oui, elle est dans la loge, elle continue après la danseuse suivante."
 
 # game/UpdateScript0.05.rpy:1309
 translate french sidney_search_0bfd4db0:
 
     # J "Shall we take a seat?"
+    J "Allons-nous nous asseoir ?"
 
 # game/UpdateScript0.05.rpy:1312
 translate french sidney_search_aca9c857:
 
     # J "I want you to know that I feel very sorry for your family's situation."
+    J "Je veux que vous sachiez que je suis vraiment désolé pour la situation de votre famille."
 
 # game/UpdateScript0.05.rpy:1313
 translate french sidney_search_f922f6a9:
 
     # J "And I know I'm in an awkward position to help you all out, being your creditor and all."
+    J "Et je sais que je suis dans une position inconfortable pour vous aider tous, étant votre créance et tout."
 
 # game/UpdateScript0.05.rpy:1314
 translate french sidney_search_74174243:
 
     # J "But I have a way you can help your family make the monthly payments, and maybe get you some spending money besides."
+    J "Mais j'ai un moyen d'aider votre famille à faire les paiements mensuels, et peut-être vous faire dépenser de l'argent en plus."
 
 # game/UpdateScript0.05.rpy:1315
 translate french sidney_search_b97cb517:
 
     # J "I heard how the FBI cut out your discretionary spending."
+    J "J'ai entendu comment le FBI a réduit vos dépenses."
 
 # game/UpdateScript0.05.rpy:1316
 translate french sidney_search_8e00f764:
 
     # S "I'm not becomming a stripper, if that's what you're thinking."
+    S "Je ne suis pas en train de devenir une strip-teaseuse, si c'est ce que vous pensez."
 
 # game/UpdateScript0.05.rpy:1317
 translate french sidney_search_1f739f57:
 
     # J "Haha.... No of course not! We wouldn't hire you even if you wanted to."
+    J "Haha.... Non bien sûr que non! On ne vous engagerait pas même si vous le vouliez."
 
 # game/UpdateScript0.05.rpy:1318
 translate french sidney_search_2edab44f:
 
     # S "What?.... Why not?"
+    S "Quoi?.... Pourquoi pas?"
 
 # game/UpdateScript0.05.rpy:1319
 translate french sidney_search_b814872c:
 
     # J "You don't have the dancing experience like your mother does."
+    J "Vous n'avez pas l'expérience de la danse comme le fait votre mère."
 
 # game/UpdateScript0.05.rpy:1320
 translate french sidney_search_7b7b1433:
 
     # J "But I do have another decent paying job that doesn't take any experience to get into, and only requires a pretty face."
+    J "Mais j'ai un autre travail rémunéré décent qui ne nécessite aucune expérience et ne nécessite qu'un joli visage."
 
 # game/UpdateScript0.05.rpy:1321
 translate french sidney_search_9560318f:
 
     # S "What would that be?"
+    S "Qu'est-ce que ce serait?"
 
 # game/UpdateScript0.05.rpy:1322
 translate french sidney_search_64a44913:
 
     # J "Take a look over there."
+    J "Jetez un oeil là-bas."
 
 # game/UpdateScript0.05.rpy:1325
 translate french sidney_search_846300ec:
 
     # J "Do you see that girl in the tights and blue shirt serving drinks to the customers?"
+    J "Voyez-vous cette fille en collants et chemise bleue servant des boissons aux clients?"
 
 # game/UpdateScript0.05.rpy:1326
 translate french sidney_search_afd5cbd9:
 
     # S "Yeah."
+    S "Ouais."
 
 # game/UpdateScript0.05.rpy:1327
 translate french sidney_search_017c4b06:
 
     # J "Well, she wants to be a bartender, so I'm letting her help tend the bar whenever things get a little slower."
+    J "Eh bien, elle veut être barman, alors je la laisse aider à s'occuper du bar chaque fois que les choses deviennent un peu plus lentes."
 
 # game/UpdateScript0.05.rpy:1328
 translate french sidney_search_152710b1:
 
     # J "So, she needs some help filling her job while she's practicing her drink mixing skills."
+    J "Donc, elle a besoin d'aide pour remplir son travail pendant qu'elle pratique ses compétences en mélange de boissons."
 
 # game/UpdateScript0.05.rpy:1329
 translate french sidney_search_7d1a995d:
 
     # J "Let me call her over here so you can meet her."
+    J "Laissez-moi l'appeler ici pour que vous puissiez la rencontrer."
 
 # game/UpdateScript0.05.rpy:1332
 translate french sidney_search_68717c9c:
 
     # J "HEY! Armani! Can I get a couple drinks?"
+    J "HÉ! Armani ! Je peux prendre quelques verres?"
 
 # game/UpdateScript0.05.rpy:1335
 translate french sidney_search_2abdd7c4:
 
     # A "Hey Uncle! Do you want the usual?"
-    A "Salut mon oncle! Voulez-vous comme d'habitue?"
+    A "Salut mon oncle! Voulez-vous comme d’habitude?"
 
 # game/UpdateScript0.05.rpy:1336
 translate french sidney_search_f2eb0d18:
 
     # J "Yes darling!, and get Sidney here whatever she wants."
+    J "Oui chéri! et amène à Sidney ici ce qu'elle veut."
 
 # game/UpdateScript0.05.rpy:1337
 translate french sidney_search_ad752753:
 
     # S "I don't want anything. I'm actually not old enough to buy a drink."
+    S "Je ne veux rien. En fait, je ne suis pas assez vieille pour acheter un verre."
 
 # game/UpdateScript0.05.rpy:1338
 translate french sidney_search_0c2676df:
 
     # J "Yeah, well regular rules don't apply here."
+    J "Ouais, eh bien les règles régulières ne s'appliquent pas ici."
 
 # game/UpdateScript0.05.rpy:1339
 translate french sidney_search_9db52021:
 
     # S "I'm really ok."
+    S "Je suis vraiment d'accord."
 
 # game/UpdateScript0.05.rpy:1340
 translate french sidney_search_8b77dee6:
 
     # J "Suit yourself."
+    J "J'y conviens."
 
 # game/UpdateScript0.05.rpy:1341
 translate french sidney_search_89aa9450:
 
     # J "Armani, this is Sidney.... She's thinking about coming here sometimes to help you serve drinks."
+    J "Armani, voici Sidney.... Elle pense parfois venir ici pour vous aider à servir des boissons."
 
 # game/UpdateScript0.05.rpy:1342
 translate french sidney_search_c94a1eae:
 
     # J "Sidney, this is my neice Armani."
+    J "Sidney, c'est ma nièce Armani."
 
 # game/UpdateScript0.05.rpy:1345
 translate french sidney_search_8a2d51b0:
 
     # A "Aren't you a pretty thing?"
-    A "N'es-tu pas une jolie chose?"
+    A "N'êtes-vous pas une jolie chose?"
 
 # game/UpdateScript0.05.rpy:1346
 translate french sidney_search_2f90028e:
 
     # S "I wasn't really thinking about serving drinks...."
+    S "Je ne pensais pas vraiment à servir des boissons...."
 
 # game/UpdateScript0.05.rpy:1347
 translate french sidney_search_ebabb98d:
 
     # J "Not yet, you mean."
+    J "Pas encore, vous voulez dire."
 
 # game/UpdateScript0.05.rpy:1348
 translate french sidney_search_b9d930f7:
 
     # A "Well, I would sure love to work with someone as beautiful as you, and we can make a ton in tips in one night."
+    A "Eh bien, j'aimerais bien travailler avec quelqu'un d'aussi beau que vous, et nous pouvons faire une tonne de pourboires en une nuit."
 
 # game/UpdateScript0.05.rpy:1349
 translate french sidney_search_3494722b:
 
     # A "So, think about it."
+    A "Alors, pensez-y."
 
 # game/UpdateScript0.05.rpy:1352
 translate french sidney_search_9b656435:
 
     # J "And you'd be under very little commitment. I would only require you to be here on Mondays, since that's when Armani's at the bar full time."
+    J "Et vous seriez sous très peu d'engagement. Je voudrais seulement que tu sois ici le lundi, car c'est à ce moment-là qu'Armani est au bar à plein temps."
 
 # game/UpdateScript0.05.rpy:1353
 translate french sidney_search_8d1c0bb0:
 
     # J "Other than that, you could come in any day you want. Oh.... except Saturdays, since your mother might be here."
+    J "En dehors de cela, vous pouvez venir n'importe quand vous voulez. Oh.... sauf le samedi, puisque ta mère est peut-être là."
 
 # game/UpdateScript0.05.rpy:1354
 translate french sidney_search_6196b8fb:
@@ -2569,31 +2844,37 @@ translate french sidney_search_d9ecee9e:
 translate french sidney_search_d9b21643:
 
     # S "That's a very tempting offer."
+    S "C'est une offre très tentante."
 
 # game/UpdateScript0.05.rpy:1357
 translate french sidney_search_7815ca65:
 
     # J "Well, then why don't you run along with Armani and she can show you the ropes. You can keep any tips you make tonight."
+    J "Eh bien, pourquoi ne allez-vous pas avec Armani et elle pourra vous montrer les ficelles du métier. Vous pouvez garder tous les conseils que vous faites ce soir."
 
 # game/UpdateScript0.05.rpy:1358
 translate french sidney_search_55f2407f:
 
     # S "Ok.... Thank you."
+    S "Ok .... Je vous remercie."
 
 # game/UpdateScript0.05.rpy:1361
 translate french sidney_search_aa726d46:
 
     # J "Oh.... and Sidney! I almost forgot."
+    J "Oh.... et Sidney ! J'ai presque oublié."
 
 # game/UpdateScript0.05.rpy:1362
 translate french sidney_search_e6f0339e:
 
     # J "It would be best if your mother didn't know that you were here. If you are inclined to peek like your brother does, just don't get caught."
+    J "Il serait préférable que votre mère ne sache pas que vous étiez ici. Si vous avez tendance à jeter un coup d'œil comme votre frère, ne vous faites pas attraper."
 
 # game/UpdateScript0.05.rpy:1363
 translate french sidney_search_804412d2:
 
     # J "I don't even think my best \"Made Man\" could stop her from murdering me, if she knew you were here."
+    J "Je ne pense même pas que mon meilleur 'Made Man' puisse l'empêcher de me tuer, si elle savait que vous étiez là."
 
 # game/UpdateScript0.05.rpy:1364
 translate french sidney_search_8d3ec460:
@@ -2605,16 +2886,19 @@ translate french sidney_search_8d3ec460:
 translate french sidney_search_e104edeb:
 
     # S "Ok.... I'll be careful."
+    S "Ok .... Je serai prudente."
 
 # game/UpdateScript0.05.rpy:1371
 translate french sidney_search_66c7ce4f:
 
     # R "Hey Lurch, How's it hanging?"
+    R "Salut Lurch, comment ça va?"
 
 # game/UpdateScript0.05.rpy:1372
 translate french sidney_search_5aaa2f26:
 
     # R "Are you just gonna leave me hanging?"
+    R "Tu vas me laisser faire?"
 
 # game/UpdateScript0.05.rpy:1373
 translate french sidney_search_5f9b772e:
@@ -2626,6 +2910,7 @@ translate french sidney_search_5f9b772e:
 translate french sidney_search_dcfdd779:
 
     # R "Alright, I'll just show myself in then."
+    R "D'accord, je me montrerais alors."
 
 # game/UpdateScript0.05.rpy:1379
 translate french sidney_search_192c1766:
@@ -2727,6 +3012,7 @@ translate french sidney_search_b8e87b3f:
 translate french sidney_search_0fddf94d:
 
     # S "Hey buddy! I don't think you're supposed to be...."
+    S "Salut mon pote! Je ne pense pas que tu sois censé être...."
 
 # game/UpdateScript0.05.rpy:1421
 translate french sidney_search_0588e17d:
@@ -2738,21 +3024,25 @@ translate french sidney_search_0588e17d:
 translate french sidney_search_8524db54:
 
     # S "[ryan]!.... What the fuck?"
+    S "[ryan]!.... C'est quoi, bordel ?"
 
 # game/UpdateScript0.05.rpy:1428
 translate french sidney_search_12dd668a:
 
     # R "Holy fuck!.... Sidney what are you wearing, and what the hell are you doing here?"
+    R "Putain!.... Sidney qu'est-ce que tu portes, et qu'est-ce que tu fais ici ?"
 
 # game/UpdateScript0.05.rpy:1431
 translate french sidney_search_03a16ff9:
 
     # S "I might ask you the same thing, but I think that's pretty obvious."
+    S "Je pourrais te demander la même chose, mais je pense que c'est assez évident."
 
 # game/UpdateScript0.05.rpy:1432
 translate french sidney_search_57a65d74:
 
     # S "I can't even believe you would do that in public. Do you have no shame?"
+    S "Je ne peux même pas croire que tu ferais ça en public. Tu n'as pas honte ?"
 
 # game/UpdateScript0.05.rpy:1433
 translate french sidney_search_dc7a84b6:
@@ -2764,61 +3054,73 @@ translate french sidney_search_dc7a84b6:
 translate french sidney_search_827c1d7a:
 
     # R "It's not really about not having any shame, more just a lack of self control."
+    R "Il ne s'agit pas vraiment de ne pas avoir de honte, plus simplement d'un manque de maîtrise de soi."
 
 # game/UpdateScript0.05.rpy:1435
 translate french sidney_search_f458e555:
 
     # S "Hmmm.... Yeah, I can see that."
+    S "Hmmm.... Oui, je peux le voir."
 
 # game/UpdateScript0.05.rpy:1436
 translate french sidney_search_5bb3b48f:
 
     # S "So, is it still Emma out there on the stage?"
+    S "Alors, est-ce toujours Emma sur la scène?"
 
 # game/UpdateScript0.05.rpy:1437
 translate french sidney_search_a0a8493b:
 
     # R "Uuuhhh.... Yeah, she's.... really doing a great job."
+    R "Uuuhhh.... Oui, elle l'est.... fait vraiment du bon travail."
 
 # game/UpdateScript0.05.rpy:1438
 translate french sidney_search_44c02699:
 
     # S "Scoot over, I want to take a peek."
+    S "Vas-y, je veux jeter un coup d’œil."
 
 # game/UpdateScript0.05.rpy:1441
 translate french sidney_search_0b0eae91:
 
     # R "Uhhh.... wait! I don't think that's a good idea."
+    R "Uhhh.... Attends! Je ne pense pas que ce soit une bonne idée."
 
 # game/UpdateScript0.05.rpy:1442
 translate french sidney_search_3fecdb89:
 
     # S "What? Why the hell not?"
+    S "Quoi? Pourquoi pas?"
 
 # game/UpdateScript0.05.rpy:1443
 translate french sidney_search_e3afc574:
 
     # R "Ummm.... What if you like what you see, and want to become a pole dancer yourself? I just want to protect you from that."
+    R "Ummm .... Et si tu aimais ce que tu vois, et si tu veux devenir une danseuse toi-même? Je veux juste te protéger de ça."
 
 # game/UpdateScript0.05.rpy:1444
 translate french sidney_search_1f522512:
 
     # S "[ryan], that is the stupidest thing I've ever heard. Now, move over!"
+    S "[ryan], c'est la chose la plus stupide que j'ai jamais entendue. Maintenant, vas-y !"
 
 # game/UpdateScript0.05.rpy:1445
 translate french sidney_search_6cc8fe99:
 
     # R "Uhhhh.... No...."
+    R "Uhhhh .... Non ...."
 
 # game/UpdateScript0.05.rpy:1446
 translate french sidney_search_e9cd8ae3:
 
     # S "Move over, or I'll scream and draw attention to your little jack off session."
+    S "Déplaces-toi, ou je vais crier et attirer l'attention sur ta petite session."
 
 # game/UpdateScript0.05.rpy:1447
 translate french sidney_search_4ad86b18:
 
     # R "Shit Sidney!.... Just.... Fine...."
+    R "Merde Sidney!.... Juste.... Et bien...."
 
 # game/UpdateScript0.05.rpy:1450
 translate french sidney_search_e8d0ed78:
@@ -2830,21 +3132,25 @@ translate french sidney_search_e8d0ed78:
 translate french sidney_search_a8c9fa77:
 
     # S "What the actual fuck, [ryan]?"
+    S "Qu'est-ce que le problème réel, [ryan]?"
 
 # game/UpdateScript0.05.rpy:1452
 translate french sidney_search_7d4e0bba:
 
     # S "You've been jacking off to Mom?"
+    S "Tu t'es branlé devant maman?"
 
 # game/UpdateScript0.05.rpy:1455
 translate french sidney_search_678efc4d:
 
     # S "What the hell is wrong with you?"
+    S "Qu'est-ce qui ne va pas chez toi?"
 
 # game/UpdateScript0.05.rpy:1456
 translate french sidney_search_d2e44034:
 
     # S "I mean.... Just.... Do you care to explain yourself?"
+    S "Je veux dire.... Juste.... Veux-tu t'expliquer?"
 
 # game/UpdateScript0.05.rpy:1457
 translate french sidney_search_898680f9:
@@ -2856,16 +3162,19 @@ translate french sidney_search_898680f9:
 translate french sidney_search_17e3aae0:
 
     # RT "...."
+    RT "...."
 
 # game/UpdateScript0.05.rpy:1459
 translate french sidney_search_1ab8d6dd:
 
     # R "Sorry.... I don't know what to say, you know?.... I guess I got a little messed up the first time I saw Mom stripping, and I can't stop coming back when I know she's going to be here."
+    R "Désolé.... Je ne sais pas quoi dire, tu sais?.... Je suppose que j'ai un peu foiré la première fois que j'ai vu maman se déshabiller, et je ne peux pas arrêter de revenir quand je sais qu'elle sera là."
 
 # game/UpdateScript0.05.rpy:1460
 translate french sidney_search_e9a82432:
 
     # R "But I'm not sorry! If that hadn't happened, I would have stayed a prude, and freaked out when you started jacking me off in your sleep."
+    R "Mais je ne suis pas désolé! Si cela ne s'était pas produit, je serais resté prude et j'aurais paniqué quand tu as commencé à me branler dans ton sommeil."
 
 # game/UpdateScript0.05.rpy:1463
 translate french sidney_search_b4caa6c2:
@@ -2877,16 +3186,19 @@ translate french sidney_search_b4caa6c2:
 translate french sidney_search_ace36b10:
 
     # R "I would have freaked out and kicked you out, told Mom, and you probably would have been kicked out of the house. Then we wouldn't have gotten as close as we have this past little while."
+    R "J'aurais paniqué et je t'aurais viré, dit à maman, et tu aurais probablement été expulsé de la maison. Ensuite, nous n'aurions pas été aussi proches que nous l'avons fait depuis peu de temps."
 
 # game/UpdateScript0.05.rpy:1465
 translate french sidney_search_6d8cb97d:
 
     # R "Which has been one of the only good things that's been going on for me amidst all the shit with Dad and the Mafia."
+    R "Qui a été l'une des seules bonnes choses qui se sont passées pour moi au milieu de toutes les conneries avec papa et la Mafia."
 
 # game/UpdateScript0.05.rpy:1466
 translate french sidney_search_ec61421f:
 
     # R "I guess I'm just trying to tell you how much I've loved getting closer to you."
+    R "Je suppose que j'essaie juste de te dire à quel point j'ai aimé me rapprocher de toi."
 
 # game/UpdateScript0.05.rpy:1467
 translate french sidney_search_dc7a84b6_1:
@@ -2898,81 +3210,97 @@ translate french sidney_search_dc7a84b6_1:
 translate french sidney_search_52f053a1:
 
     # S "That's really sweet..."
+    S "C'est vraiment gentil..."
 
 # game/UpdateScript0.05.rpy:1471
 translate french sidney_search_41c7fd9e:
 
     # R "Really?...."
+    R "Vraiment?...."
 
 # game/UpdateScript0.05.rpy:1472
 translate french sidney_search_2cb8f274:
 
     # S "Probably eighty percent bullshit, but still sweet, nonetheless."
+    S "Probablement quatre-vingts pour cent de conneries, mais toujours agréable, néanmoins."
 
 # game/UpdateScript0.05.rpy:1473
 translate french sidney_search_b17b5f1a:
 
     # S "I also would have accepted the argument that you were just really, really, horny."
+    S "J'aurais aussi accepté l'argument selon lequel tu étais vraiment, vraiment, excité."
 
 # game/UpdateScript0.05.rpy:1474
 translate french sidney_search_1f54821a:
 
     # R "Excuse me?"
+    R "Excuses-moi ?"
 
 # game/UpdateScript0.05.rpy:1475
 translate french sidney_search_d96df80a:
 
     # S "Yeah, I realized about halfway through your moving speech, that I have no room to be critical of you."
+    S "Oui, j'ai réalisé à peu près à mi-chemin de ton émouvant discours, que je n'ai pas la place d'être critique envers toi."
 
 # game/UpdateScript0.05.rpy:1476
 translate french sidney_search_a593792b:
 
     # S "I mean, look at the questionable decisions I've been making lately."
+    S "Je veux dire, regardes les décisions douteuses que j'ai prises ces derniers temps."
 
 # game/UpdateScript0.05.rpy:1477
 translate french sidney_search_85dba085:
 
     # S "And I feel partly responsible for the progression of your perversions, because of the.... well you know."
+    S "Et je me sens en partie responsable de la progression de tes perversions, à cause de la.... eh bien tu sais."
 
 # game/UpdateScript0.05.rpy:1478
 translate french sidney_search_c8a82c7f:
 
     # S "And I get that Mom's a total babe.... I mean, she doesn't do a lot for me, but I get why a horny teenage boy would want to see more of her."
+    S "Et je comprends que maman est une fille totale.... Je veux dire, elle ne fait pas grand-chose pour moi, mais je comprends pourquoi un adolescent excité voudrait la voir plus dénudée."
 
 # game/UpdateScript0.05.rpy:1479
 translate french sidney_search_fe75dc47:
 
     # S "Even if she's his mother."
+    S "Même si c'est sa mère."
 
 # game/UpdateScript0.05.rpy:1480
 translate french sidney_search_fafacd4b:
 
     # R "Wow.... I thought you would be disgusted in me."
+    R "Wow.... Je pensais que tu serais dégoûtée de moi."
 
 # game/UpdateScript0.05.rpy:1481
 translate french sidney_search_6d457b32:
 
     # S "Well, you definitely don't have a monopoly on perversion in this family. I mean just take a look around that corner for example."
+    S "Eh bien, tu n'as certainement pas le monopole de la perversion dans cette famille. Je veux dire, jetes un coup d'œil dans ce coin par exemple."
 
 # game/UpdateScript0.05.rpy:1482
 translate french sidney_search_cf98187b:
 
     # S "And I've been going through some stuff myself lately."
+    S "Et j'ai vécu des choses moi-même dernièrement."
 
 # game/UpdateScript0.05.rpy:1483
 translate french sidney_search_02866583:
 
     # S "We've just got to be careful not to go too far."
+    S "Nous devons juste faire attention à ne pas aller trop loin."
 
 # game/UpdateScript0.05.rpy:1484
 translate french sidney_search_29adc075:
 
     # S "I'm not worried too much with your little crush on Mom."
+    S "Je ne m'inquiète pas trop de ton petit béguin pour maman."
 
 # game/UpdateScript0.05.rpy:1485
 translate french sidney_search_35f7698a:
 
     # S "It's not like anything could actually ever come of it."
+    S "Ce n'est pas comme si quelque chose pouvait en sortir."
 
 # game/UpdateScript0.05.rpy:1486
 translate french sidney_search_03a76a4d:
@@ -2984,6 +3312,7 @@ translate french sidney_search_03a76a4d:
 translate french sidney_search_d7f32768:
 
     # S "And I'm sure it will pass quickly."
+    S "Et je suis sûr que cela passera rapidement."
 
 # game/UpdateScript0.05.rpy:1488
 translate french sidney_search_a3e863fe:
@@ -2995,11 +3324,13 @@ translate french sidney_search_a3e863fe:
 translate french sidney_search_f7f4dcc5:
 
     # S "The stuff we're doing together is just to help keep our hormones in check until we both have other people to do it for us."
+    S "Les choses que nous faisons ensemble, c'est juste pour aider à contrôler nos hormones jusqu'à ce que nous ayons tous les deux d'autres personnes pour le faire pour nous."
 
 # game/UpdateScript0.05.rpy:1490
 translate french sidney_search_50796d87:
 
     # S "So yeah, let's just be careful."
+    S "Alors oui, soyons prudents."
 
 # game/UpdateScript0.05.rpy:1491
 translate french sidney_search_dc7a84b6_2:
@@ -3011,6 +3342,7 @@ translate french sidney_search_dc7a84b6_2:
 translate french sidney_search_b89139fd:
 
     # R "Hey Sid?"
+    R "Hé Sid?"
 
 # game/UpdateScript0.05.rpy:1493
 translate french sidney_search_f3f04389:
@@ -3022,46 +3354,55 @@ translate french sidney_search_f3f04389:
 translate french sidney_search_b4b670d0:
 
     # R "I need some hormone checking really bad right now!"
+    R "J'ai besoin d'un contrôle hormonal vraiment en ce moment!"
 
 # game/UpdateScript0.05.rpy:1497
 translate french sidney_search_cd554298:
 
     # S "Are you kidding me?"
+    S "Tu te moques de moi ?"
 
 # game/UpdateScript0.05.rpy:1498
 translate french sidney_search_5a1e6317:
 
     # S "Right now?.... Right here?...."
+    S "Maintenant?.... Juste ici?...."
 
 # game/UpdateScript0.05.rpy:1499
 translate french sidney_search_63e72de9:
 
     # R "Yeah, I mean you kind of interrupted me in the middle of my thing...."
+    R "Ouais, je veux dire que tu m'as un peu interrompu au milieu de mon truc...."
 
 # game/UpdateScript0.05.rpy:1500
 translate french sidney_search_3ad4aab0:
 
     # S "Ok.... I'll leave and let you get back to it."
+    S "D'accord.... Je pars et je te laisse y retourner."
 
 # game/UpdateScript0.05.rpy:1501
 translate french sidney_search_7bd448f0:
 
     # R "No.... I mean.... I was hoping you could help me out."
+    R "Non.... Je veux dire.... J'espérais que tu pourrais m'aider."
 
 # game/UpdateScript0.05.rpy:1502
 translate french sidney_search_1577b81e:
 
     # S "...."
+    S "...."
 
 # game/UpdateScript0.05.rpy:1503
 translate french sidney_search_852e5841:
 
     # S ".... I guess.... I did say...."
+    S ".... Je suppose.... Je l'ai dit...."
 
 # game/UpdateScript0.05.rpy:1504
 translate french sidney_search_60230caa:
 
     # S "Alright.... Just this once."
+    S "D'accord.... Juste cette fois."
 
 # game/UpdateScript0.05.rpy:1509
 translate french sidney_search_09d8c793:
@@ -3097,6 +3438,7 @@ translate french sidney_search_953d32b7:
 translate french sidney_search_977a5989:
 
     # S "Hey [ryan]?"
+    S "Hé [ryan]?"
 
 # game/UpdateScript0.05.rpy:1515
 translate french sidney_search_95428694:
@@ -3108,16 +3450,19 @@ translate french sidney_search_95428694:
 translate french sidney_search_c5b002ca:
 
     # S "You need to finish in my mouth, since I don't want cum anywhere on my face or outfit."
+    S "Tu dois finir dans ma bouche, car je ne veux pas de foutre sur mon visage ou sur ma tenue."
 
 # game/UpdateScript0.05.rpy:1517
 translate french sidney_search_61caa487:
 
     # R "That's a sacrifice I'm willing to make."
+    R "C'est un sacrifice que je suis prêt à faire."
 
 # game/UpdateScript0.05.rpy:1518
 translate french sidney_search_ccfcb358:
 
     # S "Haha.... smartass!"
+    S "Haha.... petit malin !"
 
 # game/UpdateScript0.05.rpy:1523
 translate french sidney_search_99cbc916:
@@ -3213,26 +3558,31 @@ translate french tv_together_e85188a6:
 translate french tv_together_330b18ca:
 
     # R "Ok, should we watch the next episode of \"Game of Thots\"?"
+    R "Ok, faut-il regarder le prochain épisode de 'Game of Thots'?"
 
 # game/UpdateScript0.05.rpy:1565
 translate french tv_together_0567f871:
 
     # L "I don't know, it's getting pretty scary!"
+    L "Je ne sais pas, ça devient assez effrayant!"
 
 # game/UpdateScript0.05.rpy:1566
 translate french tv_together_4a32206b:
 
     # L "Those white walkers creep me out so bad!"
+    L "Ces marcheurs blancs me donnent des frissons!"
 
 # game/UpdateScript0.05.rpy:1567
 translate french tv_together_aa5e3ad6:
 
     # R "You don't want to miss the rest of the show just because of the white walkers, do you?"
+    R "Tu ne veux pas manquer le reste du spectacle à cause des marcheurs blancs, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:1568
 translate french tv_together_15da39be:
 
     # L "Well.... No.... but can I at least sit really close to you in case I get too scared?"
+    L "Bien.... Non.... mais puis-je au moins m'asseoir très près de toi au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:1569
 translate french tv_together_a28c1504:
@@ -3244,11 +3594,13 @@ translate french tv_together_a28c1504:
 translate french tv_together_cf83b622:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci ! Je me sens beaucoup plus en sécurité !"
 
 # game/UpdateScript0.05.rpy:1573
 translate french tv_together_a5b60643:
 
     # R "Me too!"
+    R "Moi aussi!"
 
 # game/UpdateScript0.05.rpy:1574
 translate french tv_together_a8a86d5f:
@@ -3260,6 +3612,7 @@ translate french tv_together_a8a86d5f:
 translate french tv_together_6c6ed1a8:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:1580
 translate french tv_together_c1b1ea8a:
@@ -3271,11 +3624,13 @@ translate french tv_together_c1b1ea8a:
 translate french tv_together_406eadfd:
 
     # L "Holy shit! A blowjob on every episode!"
+    L "Putain de merde! Une pipe à chaque épisode !"
 
 # game/UpdateScript0.05.rpy:1589
 translate french tv_together_6800ab21:
 
     # R "Well, at least you're clearly enjoying it?"
+    R "Eh bien, au moins, tu l'apprécies clairement?"
 
 # game/UpdateScript0.05.rpy:1590
 translate french tv_together_faf376b6:
@@ -3287,6 +3642,7 @@ translate french tv_together_faf376b6:
 translate french tv_together_e62859a5:
 
     # R "The way you're rubbing yourself."
+    R "La façon dont Tu te caresses."
 
 # game/UpdateScript0.05.rpy:1594
 translate french tv_together_2656cbcc:
@@ -3304,11 +3660,13 @@ translate french tv_together_72fd485a:
 translate french tv_together_3f4f3492:
 
     # L "No!.... Sometimes I do it without thinking."
+    L "Non!.... Parfois, je le fais sans réfléchir."
 
 # game/UpdateScript0.05.rpy:1599
 translate french tv_together_2e90a48d:
 
     # R "Well.... Do you need some relief?"
+    R "Bien.... As-tu besoin d'un soulagement?"
 
 # game/UpdateScript0.05.rpy:1600
 translate french tv_together_817e73ec:
@@ -3320,41 +3678,49 @@ translate french tv_together_817e73ec:
 translate french tv_together_78783cf4:
 
     # L "What?.... No!"
+    L "Quoi?.... Non!"
 
 # game/UpdateScript0.05.rpy:1604
 translate french tv_together_2e88ed48:
 
     # L "I might be rubbing myself unconsciously, but I'm not desperate enough to ask you for help."
+    L "Je me caresse peut-être inconsciemment, mais je ne suis pas assez désespéré pour te demander de l'aide."
 
 # game/UpdateScript0.05.rpy:1605
 translate french tv_together_6cfb0f61:
 
     # R "Well.... Ok.... But if you ever do get desperate enough...."
+    R "Bien.... Ok.... Mais si jamais tu deviens assez désespérée...."
 
 # game/UpdateScript0.05.rpy:1606
 translate french tv_together_f6003502:
 
     # R "Don't forget what they teach us in school."
+    R "N'oubliez pas ce qu'ils nous enseignent à l'école."
 
 # game/UpdateScript0.05.rpy:1607
 translate french tv_together_6951d8f4:
 
     # R "You don't have to be ashamed to ask for help."
+    R "Tu n'as pas à avoir honte de demander de l'aide."
 
 # game/UpdateScript0.05.rpy:1610
 translate french tv_together_8439881a:
 
     # L "You overconfident idiot! Can we get back to the show now?"
+    L "Espèce d'idiot trop confiant ! On peut revenir au spectacle maintenant ?"
 
 # game/UpdateScript0.05.rpy:1611
 translate french tv_together_bcd39282:
 
     # R "Of course!.... I'm not the one causing interruptions."
+    R "Bien sûr!.... Ce n'est pas moi qui cause les interruptions."
 
 # game/UpdateScript0.05.rpy:1612
 translate french tv_together_f56878f5:
 
     # L "Clearly."
+    L "Clairement."
 
 # game/UpdateScript0.05.rpy:1615
 translate french tv_together_f99745f4:
@@ -3402,11 +3768,13 @@ translate french tv_together_e85188a6_1:
 translate french tv_together_7b2b4ab7:
 
     # R "Ok, let's watch the next episode of \"Game of Thots\"!"
+    R "Regardons le prochain épisode de 'Game of Thots'!"
 
 # game/UpdateScript0.05.rpy:1643
 translate french tv_together_3eedcaee:
 
     # L "Well.... As long as I can sit close to you again, in case I get too scared?"
+    L "Bien.... Tant que je peux m'asseoir à nouveau près de toi, au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:1644
 translate french tv_together_a28c1504_1:
@@ -3418,11 +3786,13 @@ translate french tv_together_a28c1504_1:
 translate french tv_together_cf83b622_1:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci! Je me sens tellement plus en sécurité!"
 
 # game/UpdateScript0.05.rpy:1648
 translate french tv_together_a5b60643_1:
 
     # R "Me too!"
+    R "Moi aussi !"
 
 # game/UpdateScript0.05.rpy:1649
 translate french tv_together_a8a86d5f_1:
@@ -3434,6 +3804,7 @@ translate french tv_together_a8a86d5f_1:
 translate french tv_together_6c6ed1a8_1:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:1655
 translate french tv_together_c1b1ea8a_1:
@@ -3445,26 +3816,31 @@ translate french tv_together_c1b1ea8a_1:
 translate french tv_together_424fe0fb:
 
     # R "Well, we've reached the mandatory sex scene for this episode!"
+    R "Eh bien, nous avons atteint la scène de sexe obligatoire pour cet épisode!"
 
 # game/UpdateScript0.05.rpy:1663
 translate french tv_together_c15798c7:
 
     # L "So, does that mean you're ready for some foolin' around?"
+    L "Donc, cela signifie-t-il que tu es prêt pour des folies?"
 
 # game/UpdateScript0.05.rpy:1664
 translate french tv_together_6501eefc:
 
     # R "I love that you're taking the initiative now!"
+    R "J'adore que tu prennes l'initiative maintenant!"
 
 # game/UpdateScript0.05.rpy:1667
 translate french tv_together_8524e2d1:
 
     # L "Yeah, well.... We both know we can't keep doing this.... So, this has to be our last time."
+    L "Ouais, eh bien.... Nous savons tous les deux que nous ne pouvons pas continuer à faire ça.... Donc, ça doit être notre dernière fois."
 
 # game/UpdateScript0.05.rpy:1668
 translate french tv_together_7922165b:
 
     # R "Ok.... It's a deal."
+    R "Ok .... C'est un accord."
 
 # game/UpdateScript0.05.rpy:1669
 translate french tv_together_3b18b3aa:
@@ -3476,6 +3852,7 @@ translate french tv_together_3b18b3aa:
 translate french tv_together_2dc5b6cd:
 
     # L "So, what should we do?"
+    L "Alors, que devons-nous faire?"
 
 # game/UpdateScript0.05.rpy:1691
 translate french tv_together_e85188a6_2:
@@ -3487,11 +3864,13 @@ translate french tv_together_e85188a6_2:
 translate french tv_together_7b2b4ab7_1:
 
     # R "Ok, let's watch the next episode of \"Game of Thots\"!"
+    R "Regardons le prochain épisode de 'Game of Thots'!"
 
 # game/UpdateScript0.05.rpy:1695
 translate french tv_together_3eedcaee_1:
 
     # L "Well.... As long as I can sit close to you again, in case I get too scared?"
+    L "Bien.... Tant que je peux m'asseoir à nouveau près de toi, au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:1696
 translate french tv_together_a28c1504_2:
@@ -3503,11 +3882,13 @@ translate french tv_together_a28c1504_2:
 translate french tv_together_cf83b622_2:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci! Je me sens tellement plus en sécurité!"
 
 # game/UpdateScript0.05.rpy:1700
 translate french tv_together_a5b60643_2:
 
     # R "Me too!"
+    R "Moi aussi !"
 
 # game/UpdateScript0.05.rpy:1701
 translate french tv_together_a8a86d5f_2:
@@ -3519,6 +3900,7 @@ translate french tv_together_a8a86d5f_2:
 translate french tv_together_6c6ed1a8_2:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:1707
 translate french tv_together_c1b1ea8a_2:
@@ -3530,116 +3912,139 @@ translate french tv_together_c1b1ea8a_2:
 translate french tv_together_2c922c9f:
 
     # L "I'm amazed at how the actress who plays Cersei can get his cock all the way down her throat."
+    L "Je suis étonné de voir comment l'actrice qui joue Cersei peut avoir sa bite jusqu'au fond de sa gorge."
 
 # game/UpdateScript0.05.rpy:1713
 translate french tv_together_4268939d:
 
     # R "Yeah, she's definitely talented."
+    R "Oui, elle est vraiment talentueuse."
 
 # game/UpdateScript0.05.rpy:1716
 translate french tv_together_0d8d221b:
 
     # L "How do you even think it's possible?"
+    L "Comment penses-tu que c'est possible?"
 
 # game/UpdateScript0.05.rpy:1717
 translate french tv_together_9255a0ec:
 
     # R "I don't know.... Do I look like an expert on sucking cocks?"
+    R "Je ne sais pas.... Ai-je l'air d'un expert en succion de bites?"
 
 # game/UpdateScript0.05.rpy:1720
 translate french tv_together_d5c882a2:
 
     # R "Don't answer that!"
+    R "Ne réponds pas à ça!"
 
 # game/UpdateScript0.05.rpy:1723
 translate french tv_together_b467b045:
 
     # L "I wonder if I could do it too."
+    L "Je me demande si je pourrais le faire aussi."
 
 # game/UpdateScript0.05.rpy:1724
 translate french tv_together_2a9f4e82:
 
     # R "I guess you'd just have to take it slow, and see if you can suppress your gag reflex."
+    R "Je suppose que tu devrais juste ralentir, et voir si tu peux supprimer ton réflexe nauséeux."
 
 # game/UpdateScript0.05.rpy:1725
 translate french tv_together_431c03b5:
 
     # R "I'm willing to be your guinea pig, if you want to try."
+    R "Je suis prêt à être ton cobaye, si tu veux essayer."
 
 # game/UpdateScript0.05.rpy:1728
 translate french tv_together_162c1c75:
 
     # L "What?.... I couldn't suck my brother's dick!"
+    L "Quoi?.... Je ne pouvais pas sucer la bite de mon frère!"
 
 # game/UpdateScript0.05.rpy:1729
 translate french tv_together_9be70d5c:
 
     # R "Are you really pretending to be shocked by my suggestion?"
+    R "Fais-tu vraiment semblant d'être choqué par ma suggestion?"
 
 # game/UpdateScript0.05.rpy:1730
 translate french tv_together_6588e789:
 
     # R "You know you only brought it up because you've been wanting to try it."
+    R "Tu sais que tu ne l'as évoqué que parce que tu voulais l'essayer."
 
 # game/UpdateScript0.05.rpy:1733
 translate french tv_together_d49743be:
 
     # L "Well.... when I know I shouldn't do something, but I really want to do it anyways...."
+    L "Bien.... quand je sais que je ne devrais pas faire quelque chose, mais je veux vraiment le faire de toute façon...."
 
 # game/UpdateScript0.05.rpy:1734
 translate french tv_together_2bf6a98c:
 
     # L "Shouldn't I at least pretend I don't want to?"
+    L "Ne devrais-je pas au moins prétendre que je ne veux pas?"
 
 # game/UpdateScript0.05.rpy:1735
 translate french tv_together_3e48238d:
 
     # R "I guess if it makes you feel better that you're trying to talk yourself out of it."
+    R "Je suppose que si cela te fait te sentir mieux, tu essaies de t'en sortir."
 
 # game/UpdateScript0.05.rpy:1736
 translate french tv_together_d1147884:
 
     # R "But you don't have to pretend for my sake."
+    R "Mais tu n'as pas à faire semblant pour moi."
 
 # game/UpdateScript0.05.rpy:1739
 translate french tv_together_d1842237:
 
     # L "Hmmmm.... well.... that gives me a lot to think about."
+    L "Hmmmm.... Bien.... ça me donne beaucoup de choses à penser."
 
 # game/UpdateScript0.05.rpy:1740
 translate french tv_together_3a8a5da6:
 
     # L "But how about I think about it later."
+    L "Mais je penserais à cela plus tard."
 
 # game/UpdateScript0.05.rpy:1741
 translate french tv_together_fdba1803:
 
     # L "Right now I want to learn a new skill."
+    L "En ce moment, je veux apprendre une nouvelle compétence."
 
 # game/UpdateScript0.05.rpy:1746
 translate french tv_together_af5d3630:
 
     # L "I have been experimenting with a dildo, but it's not nearly as big as you."
+    L "J'ai expérimenté un gode, mais il n'est pas aussi grand que toi."
 
 # game/UpdateScript0.05.rpy:1747
 translate french tv_together_8947fa0e:
 
     # L "So, don't be too disappointed if I don't do a very good job."
+    L "Alors, ne sois pas trop déçu si je ne fais pas un très bon travail."
 
 # game/UpdateScript0.05.rpy:1748
 translate french tv_together_2d1e9cb1:
 
     # R "Don't worry, Lauren! I'm going to love it just because it's you doing it!"
+    R "Ne t'inquiète pas, Lauren! Je vais l'adorer juste parce que c'est toi qui le fais!"
 
 # game/UpdateScript0.05.rpy:1749
 translate french tv_together_08333cae:
 
     # L "I hope that's true."
+    L "J'espère que c'est vrai."
 
 # game/UpdateScript0.05.rpy:1753
 translate french tv_together_2e007d34:
 
     # R "Oh yeah, Lauren, it's already feeling great!"
+    R "Oh oui, Lauren, ça va déjà bien !"
 
 # game/UpdateScript0.05.rpy:1757
 translate french tv_together_0a3d847b:
@@ -3657,6 +4062,7 @@ translate french tv_together_2eb9ffe8:
 translate french tv_together_1cabcfd8:
 
     # R "That's great, Lauren!.... You should see if you can go a little deeper."
+    R "C'est génial, Lauren!.... Tu devrais voir si tu peux aller un peu plus loin."
 
 # game/UpdateScript0.05.rpy:1768
 translate french tv_together_37849139:
@@ -3668,11 +4074,13 @@ translate french tv_together_37849139:
 translate french tv_together_f24b6048:
 
     # R "Oh, God!...."
+    R "Oh, mon Dieu!...."
 
 # game/UpdateScript0.05.rpy:1771
 translate french tv_together_22bad2e1:
 
     # R "You're doing incredible.... but are you ready to really develop your skill?"
+    R "Tu es incroyable.... mais es-tu prête à vraiment développer tes compétences?"
 
 # game/UpdateScript0.05.rpy:1777
 translate french tv_together_add1ebf6:
@@ -3690,6 +4098,7 @@ translate french tv_together_5c2fb945:
 translate french tv_together_d420ebfc:
 
     # R "Oh my God, Lauren! How are you so good for your first time?"
+    R "Oh mon Dieu, Lauren! Comme tu le fais si bien pour ta première fois?"
 
 # game/UpdateScript0.05.rpy:1780
 translate french tv_together_4d89b547:
@@ -3701,11 +4110,13 @@ translate french tv_together_4d89b547:
 translate french tv_together_7820ac89:
 
     # R "Oh fuck, Lauren! I'm getting close!"
+    R "Oh putain, Lauren! Je m'approche !"
 
 # game/UpdateScript0.05.rpy:1783
 translate french tv_together_f76504d4:
 
     # R "Don't be alarmed, but I'm going to shoot it down your throat!"
+    R "Ne t'inquiètes pas, mais je vais te pousser au fond de la gorge!"
 
 # game/UpdateScript0.05.rpy:1784
 translate french tv_together_6aa289e8:
@@ -3717,6 +4128,7 @@ translate french tv_together_6aa289e8:
 translate french tv_together_f40129c7:
 
     # R "Don't worry! You can do this!"
+    R "Ne t'inquiètes pas! Tu peux le faire!"
 
 # game/UpdateScript0.05.rpy:1786
 translate french tv_together_a6c792ff:
@@ -3728,71 +4140,85 @@ translate french tv_together_a6c792ff:
 translate french tv_together_066282b0:
 
     # R "You have to do this! Mom will kill me if she sees any more bodily fluids in the lounge."
+    R "Tu dois le faire! Maman me tuera si elle voit plus de sperme dans le salon."
 
 # game/UpdateScript0.05.rpy:1789
 translate french tv_together_d4415005:
 
     # R "Oh, fuck!.... Here it comes!"
+    R "Oh, putain!.... Voilà !"
 
 # game/UpdateScript0.05.rpy:1802
 translate french tv_together_2154e341:
 
     # L "Holy fuck, I did it!"
+    L "Putain, je l'ai fait!"
 
 # game/UpdateScript0.05.rpy:1803
 translate french tv_together_a2579c7c:
 
     # R "You did amazing!"
+    R "Tu as été incroyable!"
 
 # game/UpdateScript0.05.rpy:1804
 translate french tv_together_ad5a24d3:
 
     # R "Are you sure that's your first time?"
+    R "Es-tu sûr que c'est ta première fois?"
 
 # game/UpdateScript0.05.rpy:1805
 translate french tv_together_089646a5:
 
     # L "I promise!"
+    L "Je le promets!"
 
 # game/UpdateScript0.05.rpy:1806
 translate french tv_together_01f520c1:
 
     # R "Well, then an extra \"Wow!\" to you!"
+    R "Eh bien, un extra 'Wow!' à toi!"
 
 # game/UpdateScript0.05.rpy:1809
 translate french tv_together_f9b35120:
 
     # L "Shit!.... Right on time! Mom's shower just turned off."
+    L "Merde!.... Juste à l'heure! La douche de maman vient d'être éteinte."
 
 # game/UpdateScript0.05.rpy:1810
 translate french tv_together_c6d0740e:
 
     # R "Fuck!.... Help me find my shorts!"
+    R "Merde!.... Aides-moi à trouver mon short!"
 
 # game/UpdateScript0.05.rpy:1813
 translate french tv_together_77c028c2:
 
     # R "Oh, thank God!.... We made it this time."
+    R "Oh, Dieu merci!.... On a réussi cette fois."
 
 # game/UpdateScript0.05.rpy:1814
 translate french tv_together_e53da8c8:
 
     # R "Oh, wait!.... Fuck.... Lauren, you still have cum on your...."
+    R "Oh, attends!.... Merde.... Lauren, tu as encore du sperme sur toi...."
 
 # game/UpdateScript0.05.rpy:1817
 translate french tv_together_d407016a:
 
     # M "Hey guys!.... Watching your dragon show again?"
+    M "Salut les gars!.... Vous rgarder à nouveau votre émission de dragon?"
 
 # game/UpdateScript0.05.rpy:1820
 translate french tv_together_ba79018e:
 
     # L "It's not just about dragons, its...."
+    L "Il ne s'agit pas seulement de dragons, c'est...."
 
 # game/UpdateScript0.05.rpy:1821
 translate french tv_together_904f2f04:
 
     # M "Hey Lauren, you've got something dripping from your bottom lip."
+    M "Hé Lauren, tu as quelque chose qui coule de ta lèvre inférieure."
 
 # game/UpdateScript0.05.rpy:1822
 translate french tv_together_b1c9820f:
@@ -3804,21 +4230,25 @@ translate french tv_together_b1c9820f:
 translate french tv_together_5c2efd36:
 
     # L "Do I?.... Oh.... It must be frosting from the cinnamon roll I was eating earlier."
+    L "Dois-je?.... Oh.... Ça doit être de la glaçe du rouleau de cannelle que je mangeais plus tôt."
 
 # game/UpdateScript0.05.rpy:1824
 translate french tv_together_865f693c:
 
     # L "How embarassing."
+    L "C'était tellement embarrassant."
 
 # game/UpdateScript0.05.rpy:1827
 translate french tv_together_b868b2ed:
 
     # L "Mmmmm...."
+    L "Mmmmm...."
 
 # game/UpdateScript0.05.rpy:1830
 translate french tv_together_298241d9:
 
     # L "Still tastes good!"
+    L "Ça a toujours bon goût!"
 
 # game/UpdateScript0.05.rpy:1831
 translate french tv_together_abd64d9b:
@@ -3860,21 +4290,25 @@ translate french tv_together_57fce0be:
 translate french tv_together_a7a46777:
 
     # L "Did I get it?"
+    L "L'ai-je eu?"
 
 # game/UpdateScript0.05.rpy:1840
 translate french tv_together_3cc76fc4:
 
     # M "Yep.... You two have fun! I'm going to run to my room and.... get some clothes on."
+    M "Oui.... Amusez-vous bien! Je vais aller dans ma chambre et.... habillez-vous."
 
 # game/UpdateScript0.05.rpy:1843
 translate french tv_together_53133c13:
 
     # R "Holy fuck, Lauren!.... That was hot!"
+    R "Putain, Lauren!.... C'était chaud !"
 
 # game/UpdateScript0.05.rpy:1844
 translate french tv_together_da36d008:
 
     # L "Haha.... I thought you'd like that!"
+    L "Haha .... Je pensais que tu aimerais ça !"
 
 # game/UpdateScript0.05.rpy:1863
 translate french tv_together_e85188a6_3:
@@ -3886,11 +4320,13 @@ translate french tv_together_e85188a6_3:
 translate french tv_together_7b2b4ab7_2:
 
     # R "Ok, let's watch the next episode of \"Game of Thots\"!"
+    R "ok, regardons le prochain épisode de 'Game of Thots'!"
 
 # game/UpdateScript0.05.rpy:1867
 translate french tv_together_3eedcaee_2:
 
     # L "Well.... As long as I can sit close to you again, in case I get too scared?"
+    L "Bien.... Tant que je peux m'asseoir à nouveau près de toi, au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:1868
 translate french tv_together_a28c1504_3:
@@ -3902,11 +4338,13 @@ translate french tv_together_a28c1504_3:
 translate french tv_together_cf83b622_3:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci ! Je me sens beaucoup plus en sécurité !"
 
 # game/UpdateScript0.05.rpy:1872
 translate french tv_together_a5b60643_3:
 
     # R "Me too!"
+    R "Moi aussi!"
 
 # game/UpdateScript0.05.rpy:1873
 translate french tv_together_a8a86d5f_3:
@@ -3918,6 +4356,7 @@ translate french tv_together_a8a86d5f_3:
 translate french tv_together_6c6ed1a8_3:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:1879
 translate french tv_together_c1b1ea8a_3:
@@ -3929,111 +4368,133 @@ translate french tv_together_c1b1ea8a_3:
 translate french tv_together_53f3be42:
 
     # L "I was just curious what you think about Cersei's and Jamie's relationship on \"Game of Thots\"."
+    L "J'étais juste curieux de savoir ce que tu penses de la relation de Cersei et Jamie sur 'Game of Thots'."
 
 # game/UpdateScript0.05.rpy:1885
 translate french tv_together_6b339e47:
 
     # R "Well, if it isn't hurting anyone else, then who cares?"
+    R "Eh bien, si cela ne fait de mal à personne d'autre, alors qui s'en soucie?"
 
 # game/UpdateScript0.05.rpy:1886
 translate french tv_together_860cd90f:
 
     # L "Well, it did hurt someone else. Jamie pushed that Bran kid out the window, so that no one would find out."
+    L "Eh bien, cela a fait du mal à quelqu'un d'autre. Jamie a poussé ce gamin Bran par la fenêtre, pour que personne ne le sache."
 
 # game/UpdateScript0.05.rpy:1887
 translate french tv_together_b96d4912:
 
     # R "Well, as bad as that is, the real crime is that their society looks so down on the way they choose to live their lives, that Jamie felt like he had to do that to protect the girl he loves."
+    R "Eh bien, aussi grave soit-il, le vrai crime est que leur société regarde si mal la façon dont ils choisissent de vivre leur vie, que Jamie a eu l'impression qu'il devait le faire pour protéger la fille qu'il aime."
 
 # game/UpdateScript0.05.rpy:1888
 translate french tv_together_3a86f978:
 
     # L "Yeah.... I never thought about it like that."
+    L "Ouais.... Je n'y ai jamais pensé comme ça."
 
 # game/UpdateScript0.05.rpy:1889
 translate french tv_together_dd154ff5:
 
     # R "People should just \"live and let live\"."
+    R "Les gens devraient simplement 'vivre et laisser vivre'."
 
 # game/UpdateScript0.05.rpy:1890
 translate french tv_together_26e496f5:
 
     # R "If Cersei wants to suck her brother's dick, then what business is that of anybody else?"
+    R "Si Cersei veut sucer la bite de son frère, alors quelles sont les affaires de quelqu'un d'autre?"
 
 # game/UpdateScript0.05.rpy:1893
 translate french tv_together_aaf7a951:
 
     # R "At least you clearly enjoy it."
+    R "Au moins, tu l'apprécies clairement."
 
 # game/UpdateScript0.05.rpy:1894
 translate french tv_together_6b19fecc:
 
     # R "Lauren.... You're rubbing yourself again."
+    R "Lauren.... Tu te caresses encore."
 
 # game/UpdateScript0.05.rpy:1895
 translate french tv_together_590fea8d:
 
     # L "I know.... You don't mind, do you?"
+    L "Je sais.... Ça ne te dérange pas, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:1896
 translate french tv_together_78bf209d:
 
     # L "\"Live and let live\", is what you said."
+    L "'Vivre et laisser vivre', c'est ce que tu as dit."
 
 # game/UpdateScript0.05.rpy:1897
 translate french tv_together_55ac254f:
 
     # R "Oh.... Hell no.... I don't mind."
+    R "Oh.... Enfer non.... Ça ne me dérange pas."
 
 # game/UpdateScript0.05.rpy:1898
 translate french tv_together_4bd90681:
 
     # R "But I think I could do something for you that would feel even better."
+    R "Mais je pense que je pourrais faire quelque chose pour toi qui se sentirait encore mieux."
 
 # game/UpdateScript0.05.rpy:1901
 translate french tv_together_c67d16a6:
 
     # L "I don't know. you said Mom was pretty pissed about the cum all over her table the other day."
+    L "Je ne sais pas. tu as dit que maman était plutôt énervée à propos du sperme sur sa table l'autre jour."
 
 # game/UpdateScript0.05.rpy:1902
 translate french tv_together_8c8b15b5:
 
     # L "Plus, you already helped me out once, and I've helped you out once too. Now we're even."
+    L "De plus, tu m'as déjà aidé une fois, et je t'ai aussi aidé une fois. Maintenant, on est quittes."
 
 # game/UpdateScript0.05.rpy:1903
 translate french tv_together_e3d6ad72:
 
     # R "Yeah, but I didn't give you an orgasm, where you clearly gave me one."
+    R "Oui, mais je ne t'ai pas donné d'orgasme, où tu m'en as clairement donné un."
 
 # game/UpdateScript0.05.rpy:1904
 translate french tv_together_ac3c44c4:
 
     # R "Have you ever had anyone, besides yourself, give you an orgasm?"
+    R "As-tu déjà eu quelqu'un, à part toi-même, qui t'as donner un orgasme?"
 
 # game/UpdateScript0.05.rpy:1905
 translate french tv_together_17e13a8f:
 
     # L "No.... I haven't."
+    L "Non.... Je n'ai pas."
 
 # game/UpdateScript0.05.rpy:1906
 translate french tv_together_e620c289:
 
     # R "Are you sure you don't want to try?"
+    R "Es-tu sûr de ne pas vouloir essayer?"
 
 # game/UpdateScript0.05.rpy:1909
 translate french tv_together_f231a949:
 
     # L "Well.... when you put it that way...."
+    L "Bien.... quand tu le dis comme ça...."
 
 # game/UpdateScript0.05.rpy:1910
 translate french tv_together_b6d3ec64:
 
     # R "Awesome!"
+    R "Génial!"
 
 # game/UpdateScript0.05.rpy:1911
 translate french tv_together_8edd15bf:
 
     # R "I want you to get on your hands and knees this time."
+    R "Je veux que tu te mets à genoux cette fois."
 
 # game/UpdateScript0.05.rpy:1912
 translate french tv_together_f484a32b:
@@ -4045,41 +4506,49 @@ translate french tv_together_f484a32b:
 translate french tv_together_e4d031f5:
 
     # R "Something I saw in a porno.... I think you'll like it."
+    R "Quelque chose que j'ai vu dans un porno.... Je pense que ça te plaira."
 
 # game/UpdateScript0.05.rpy:1916
 translate french tv_together_6443c540:
 
     # L "Wait! They do a lot of dirty, scary things in pornos."
+    L "Attends! Ils font beaucoup de choses sales et effrayantes dans les pornos."
 
 # game/UpdateScript0.05.rpy:1917
 translate french tv_together_2a4d38b1:
 
     # R "Don't worry. I wouldn't do it, if I didn't think you'd like it."
+    R "Ne t'inquiètes pas. Je ne le ferais pas, si je pensais que ça ne te plairait pas."
 
 # game/UpdateScript0.05.rpy:1918
 translate french tv_together_db98d671:
 
     # L "I hope not!"
+    L "J'espère que non!"
 
 # game/UpdateScript0.05.rpy:1919
 translate french tv_together_7ec7f5ef:
 
     # R "And risk you not wanting to ever fool around again?"
+    R "Et risques-tu de ne plus jamais vouloir t'amuser?"
 
 # game/UpdateScript0.05.rpy:1920
 translate french tv_together_c760f22a:
 
     # L "Well!.... we should make it a goal never to fool around again!"
+    L "Eh bien!.... nous devrions nous donner comme objectif de ne plus jamais nous tromper!"
 
 # game/UpdateScript0.05.rpy:1921
 translate french tv_together_41c482be:
 
     # L "We are brother and sister after all."
+    L "Nous sommes frère et sœur après tout."
 
 # game/UpdateScript0.05.rpy:1924
 translate french tv_together_37a1f2cb:
 
     # L "But let's just do it this last time."
+    L "Mais faisons ça cette dernière fois."
 
 # game/UpdateScript0.05.rpy:1925
 translate french tv_together_9376c772:
@@ -4097,11 +4566,13 @@ translate french tv_together_ec38d19a:
 translate french tv_together_d76ca1b7:
 
     # R "Lauren, you have no idea how amazing this position looks from my perspective!"
+    R "Lauren, tu n'as aucune idée à quel point cette position est incroyable de mon point de vue!"
 
 # game/UpdateScript0.05.rpy:1932
 translate french tv_together_f6f9fe85:
 
     # L "Oh, shut up! Are you going to leave me waiting all day?"
+    L "Oh, tais-toi! Tu vas me laisser attendre toute la journée ?"
 
 # game/UpdateScript0.05.rpy:1933
 translate french tv_together_6b429465:
@@ -4113,16 +4584,19 @@ translate french tv_together_6b429465:
 translate french tv_together_7141851f:
 
     # R "Ok.... brace yourself!.... Don't cry out in ecstasy!.... remember that Sidney might hear."
+    R "D'accord.... prépares-toi!.... Ne crie pas en extase!.... rappelles-toi que Sidney pourrait entendre."
 
 # game/UpdateScript0.05.rpy:1937
 translate french tv_together_d7da912f:
 
     # L "Stop making me wait!"
+    L "Arrête de me faire attendre!"
 
 # game/UpdateScript0.05.rpy:1940
 translate french tv_together_15cc8ab3:
 
     # L "Oh wait, oh wait, oh wait!"
+    L "Oh attends, oh attends, oh attends!"
 
 # game/UpdateScript0.05.rpy:1941
 translate french tv_together_3a253326:
@@ -4134,26 +4608,31 @@ translate french tv_together_3a253326:
 translate french tv_together_6e1d377d:
 
     # L "I don't think I want you going in there."
+    L "Je ne pense pas que je veux que tu y ailles."
 
 # game/UpdateScript0.05.rpy:1943
 translate french tv_together_1b15a0e1:
 
     # R "Just relax!"
+    R "Détends-toi!"
 
 # game/UpdateScript0.05.rpy:1944
 translate french tv_together_b911154d:
 
     # R "I've read that most dirty girls love this."
+    R "J'ai lu que la plupart des filles sales adorent ça."
 
 # game/UpdateScript0.05.rpy:1945
 translate french tv_together_49e7320b:
 
     # L "I'm not a dirty girl though...."
+    L "Je ne suis pas une fille sale...."
 
 # game/UpdateScript0.05.rpy:1946
 translate french tv_together_41d2aa18:
 
     # R "Well.... we won't know until we try."
+    R "Bien.... nous ne le saurons pas avant d'essayer."
 
 # game/UpdateScript0.05.rpy:1947
 translate french tv_together_4c89374f:
@@ -4165,6 +4644,7 @@ translate french tv_together_4c89374f:
 translate french tv_together_e3af4a0e:
 
     # R "Don't worry! It's just one finger."
+    R "Ne t'inquiètes pas! C'est juste un doigt."
 
 # game/UpdateScript0.05.rpy:1949
 translate french tv_together_1ca55932:
@@ -4176,16 +4656,19 @@ translate french tv_together_1ca55932:
 translate french tv_together_5e83d0b6:
 
     # L "Ok, but you don't stop when I say to, I'll scream, and you can explain to Mom and Sidney what's been going on between us."
+    L "Ok, mais si tu ne t'arrêtes pas quand je dis, je vais crier, et tu pourras expliquer à maman et à Sidney ce qui se passe entre nous."
 
 # game/UpdateScript0.05.rpy:1951
 translate french tv_together_9a9d09b7:
 
     # R "Alright.... Deal!"
+    R "D'accord.... Deal!"
 
 # game/UpdateScript0.05.rpy:1955
 translate french tv_together_6874f7f1:
 
     # L "Oh, wow!.... That's a different feeling!"
+    L "Oh, wow!.... C'est un sentiment différent!"
 
 # game/UpdateScript0.05.rpy:1956
 translate french tv_together_efd8956d:
@@ -4197,46 +4680,55 @@ translate french tv_together_efd8956d:
 translate french tv_together_f03c8f88:
 
     # L "Ok.... I'm starting to get used to it!"
+    L "Ok.... Je commence à m'y habituer!"
 
 # game/UpdateScript0.05.rpy:1961
 translate french tv_together_8b75981f:
 
     # L "Ohh.... That's starting to feel good!"
+    L "Ohh.... Ça commence à faire du bien !"
 
 # game/UpdateScript0.05.rpy:1965
 translate french tv_together_91fbf18f:
 
     # L "Oh fuck, oh fuck, oh fuck!"
+    L "Oh merde, oh merde, oh merde !"
 
 # game/UpdateScript0.05.rpy:1969
 translate french tv_together_8a48db8e:
 
     # L "Hey, why did you stop?"
+    L "Hé, pourquoi t'es-tu arrêté ?"
 
 # game/UpdateScript0.05.rpy:1970
 translate french tv_together_1e23bef9:
 
     # R "I was just wondering if you're liking this."
+    R "Je me demandais juste si cela te plaisait."
 
 # game/UpdateScript0.05.rpy:1971
 translate french tv_together_db8edbd6:
 
     # L "Ummmm.... well.... yeah, it does feel a lot better than I thought it would."
+    L "UmmMm.... Bien.... oui, ça va beaucoup mieux que je ne le pensais."
 
 # game/UpdateScript0.05.rpy:1972
 translate french tv_together_6095a07c:
 
     # R "So, should I keep going?"
+    R "Alors, devrais-je continuer?"
 
 # game/UpdateScript0.05.rpy:1973
 translate french tv_together_8a397f34:
 
     # L "Yes! Hurry! We don't have much time before Mom finishes her shower!"
+    L "Oui! Dépêche-toi! Nous n'avons pas beaucoup de temps avant que maman ne termine sa douche!"
 
 # game/UpdateScript0.05.rpy:1974
 translate french tv_together_e0adb2a8:
 
     # R "So.... Are you a dirty girl then?"
+    R "Donc.... Tu es une sale fille alors ?"
 
 # game/UpdateScript0.05.rpy:1975
 translate french tv_together_096e26d8:
@@ -4248,42 +4740,49 @@ translate french tv_together_096e26d8:
 translate french tv_together_79337a9f:
 
     # R "You know, that thing I read, that only dirty girls enjoy this?"
+    R "Tu sais, cette chose que j'ai lue, que seules les filles sales aiment ça?"
 
 # game/UpdateScript0.05.rpy:1977
 translate french tv_together_e3a1f6d5:
 
     # L "[ryan]! Just shut up and fuck me with those fingers!"
+    L "[ryan]! Tais-toi et baise-moi avec ces doigts!"
 
 # game/UpdateScript0.05.rpy:1978
 translate french tv_together_e0c741e6:
 
     # R "Ok, but first you have to tell me that you're a dirty girl."
+    R "Ok, mais d'abord tu dois me dire que tu es une sale fille."
 
 # game/UpdateScript0.05.rpy:1979
 translate french tv_together_9ae20085:
 
     # L "What? You are so weird, [ryan]!"
+    L "Quoi? Tu es si bizarre, [ryan]!"
 
 # game/UpdateScript0.05.rpy:1980
 translate french tv_together_c7d4bd45:
 
     # R "If you want me to continue, you have to say it."
+    R "Si tu veux que je continue, tu dois le dire."
 
 # game/UpdateScript0.05.rpy:1981
 translate french tv_together_78d3ce1d:
 
     # L "Fine! {i}(mumbling){/i} I'm a dirty girl."
-    L "Bien! {i}(en marmonnant){/i} Je suis une méchante fille."
+    L "Bien! {i}(en marmonnant) {/i} Je suis une sale fille."
 
 # game/UpdateScript0.05.rpy:1982
 translate french tv_together_3c4f1d17:
 
     # R "Oh, come on Lauren! Like you believe it!"
+    R "Oh, allez Lauren! Comme tu le crois !"
 
 # game/UpdateScript0.05.rpy:1983
 translate french tv_together_ba19e259:
 
     # L "Now you sound like a creepy motivational speaker."
+    L "Maintenant, tu ressembles à un conférencier motivateur effrayant."
 
 # game/UpdateScript0.05.rpy:1984
 translate french tv_together_dc7a84b6:
@@ -4295,26 +4794,31 @@ translate french tv_together_dc7a84b6:
 translate french tv_together_8d86d275:
 
     # L "Fine!.... I'm a dirty girl!"
+    L "Bien!.... Je suis une sale fille!"
 
 # game/UpdateScript0.05.rpy:1986
 translate french tv_together_2e041f92:
 
     # R "Ssshhhh.... Not so loud!.... Sidney will hear you!"
+    R "Ssshhhh.... Pas si fort!.... Sidney t'entendra !"
 
 # game/UpdateScript0.05.rpy:1987
 translate french tv_together_f336bb93:
 
     # L "[ryan]! I'm going to kill you!"
+    L "[ryan]! Je vais te tuer!"
 
 # game/UpdateScript0.05.rpy:1988
 translate french tv_together_e10b2562:
 
     # R "Hahaha.... Ok, ok!"
+    R "Hahaha.... Ok, ok !"
 
 # game/UpdateScript0.05.rpy:1993
 translate french tv_together_04669380:
 
     # L "Oh.... Thank God!...."
+    L "Oh.... Dieu Merci !...."
 
 # game/UpdateScript0.05.rpy:1994
 translate french tv_together_fff0af16:
@@ -4338,6 +4842,7 @@ translate french tv_together_e7c4f12b:
 translate french tv_together_9e0f9773:
 
     # L "Ohhh.... Fuuuck!"
+    L "Ohhh .... Meeerrrrdddeee!"
 
 # game/UpdateScript0.05.rpy:2007
 translate french tv_together_fb75ab3a:
@@ -4349,6 +4854,7 @@ translate french tv_together_fb75ab3a:
 translate french tv_together_89accacf:
 
     # L "Holy shit, [ryan]! That's the best orgasm I have ever had!"
+    L "Merde, [ryan]! C'est le meilleur orgasme que j'ai jamais eue!"
 
 # game/UpdateScript0.05.rpy:2011
 translate french tv_together_de144e4d:
@@ -4360,41 +4866,49 @@ translate french tv_together_de144e4d:
 translate french tv_together_e1772631:
 
     # R "Wow!.... I didn't even know it was possible for a girl to squirt so much!"
+    R "Wow!.... Je ne savais même pas qu'il était possible pour une fille de gicler autant!"
 
 # game/UpdateScript0.05.rpy:2014
 translate french tv_together_3f7f51b4:
 
     # L "Oh, God!.... I'm so embarassed!"
+    L "Oh, mon Dieu!.... Je suis tellement embarrassée !"
 
 # game/UpdateScript0.05.rpy:2015
 translate french tv_together_52542421:
 
     # R "No.... Don't be.... That was amazing!"
+    R "Non.... Ne le sois pas.... C'était incroyable!"
 
 # game/UpdateScript0.05.rpy:2018
 translate french tv_together_9bf2672b:
 
     # R "Oh, shit!.... Is that?...."
+    R "Oh, merde!.... C'est ça ?...."
 
 # game/UpdateScript0.05.rpy:2019
 translate french tv_together_51416887:
 
     # L "Mom's shower stopped!"
+    L "La douche de maman s'est arrêtée!"
 
 # game/UpdateScript0.05.rpy:2022
 translate french tv_together_80d3df51:
 
     # R "Where are you going?"
+    R "Où vas-tu ?"
 
 # game/UpdateScript0.05.rpy:2023
 translate french tv_together_5a0f589b:
 
     # R "You need to clean this up!"
+    R "Tu dois nettoyer ça !"
 
 # game/UpdateScript0.05.rpy:2024
 translate french tv_together_ab07382e:
 
     # L "Mom will kill me if she catches me without pants! Good luck!"
+    L "Maman me tuera si elle m'attrape sans pantalon! Bonne chance!"
 
 # game/UpdateScript0.05.rpy:2027
 translate french tv_together_6039a323:
@@ -4412,81 +4926,97 @@ translate french tv_together_378dca64:
 translate french tv_together_fa14e5dd:
 
     # M "[ryan]! What did you spill all over my couch?"
+    M "[ryan]! Qu'as-tu renversé sur mon canapé ?"
 
 # game/UpdateScript0.05.rpy:2032
 translate french tv_together_469ea86f:
 
     # R "Oh!.... Goddammit! You scared the shit out of me!"
+    R "Oh!.... Bordel! Tu m'as fait peur !"
 
 # game/UpdateScript0.05.rpy:2035
 translate french tv_together_69d25516:
 
     # M "[ryan]? Would you please mind your language?"
+    M "[ryan]? Veux-tu tenir ta langue?"
 
 # game/UpdateScript0.05.rpy:2036
 translate french tv_together_50618f7e:
 
     # R "Sorry Mom, but you really did startle me."
+    R "Désolé maman, mais tu m'as vraiment fait peur."
 
 # game/UpdateScript0.05.rpy:2037
 translate french tv_together_d32870d9:
 
     # M "Sorry, I didn't mean to! I just saw that you'd spilled somthing all over my couch!"
+    M "Désolé, je ne le voulais pas! Je viens de voir que tu avais renversé quelque chose sur mon canapé!"
 
 # game/UpdateScript0.05.rpy:2038
 translate french tv_together_e28c3b4d:
 
     # R "Oh.... yeah.... sorry about that! I just knocked over a glass of water. I was about to clean it up."
+    R "Oh.... ouais.... désolé pour ça! Je viens de renverser un verre d'eau. J'étais sur le point de le nettoyer."
 
 # game/UpdateScript0.05.rpy:2039
 translate french tv_together_7804f8b5:
 
     # M "Where's the glass?"
+    M "Où est le verre?"
 
 # game/UpdateScript0.05.rpy:2040
 translate french tv_together_5db692cd:
 
     # R "Oh, it.... must have rolled under the coffee table or something."
+    R "Oh, ça.... Il a dû rouler sous la table basse ou quelque chose comme ça."
 
 # game/UpdateScript0.05.rpy:2041
 translate french tv_together_ddd89e47:
 
     # M "Well, ok.... Just clean it up fast. Even though the couch is leather, I don't think it's good for it if liquids sit on it too long."
+    M "Eh bien, d'accord.... Nettoies ça vite. Même si le canapé est en cuir, je ne pense pas que ce soit bon pour lui si des liquides restent trop longtemps dessus."
 
 # game/UpdateScript0.05.rpy:2044
 translate french tv_together_d205a91e:
 
     # R "Alright Mom! I'll just run grab a towel!"
+    R "D'accord Maman! Je vais juste courir prendre une serviette!"
 
 # game/UpdateScript0.05.rpy:2047
 translate french tv_together_29b0928b:
 
     # M "Thanks honey, and please try to hurry before it drips between the cushions."
+    M "Merci chéri, et essaies de te dépêcher avant qu'il ne coule entre les coussins."
 
 # game/UpdateScript0.05.rpy:2048
 translate french tv_together_a49a3583:
 
     # R "I'll take care of it!"
+    R "Je m'en occuperai !"
 
 # game/UpdateScript0.05.rpy:2053
 translate french tv_together_b1643e8d:
 
     # M "Haha.... you cheeky bastard!"
+    M "Haha.... espèce de salaud effronté !"
 
 # game/UpdateScript0.05.rpy:2054
 translate french tv_together_389e56a3:
 
     # R "Mom.... calling me a bastard is more of an insult to you than to me!"
+    R "Maman.... me traiter de batard est plus une insulte pour toi que pour moi!"
 
 # game/UpdateScript0.05.rpy:2055
 translate french tv_together_be78ab0a:
 
     # M "Oh.... You're right!"
+    M "Oh.... Tu as raison !"
 
 # game/UpdateScript0.05.rpy:2056
 translate french tv_together_aa487e60:
 
     # M "Well, stop being a smartass and get this cleaned up before it leaks between the cushions."
+    M "Eh bien, arrêtes d'être un petit trou du cul et nettoies-le avant qu'il ne fuit entre les coussins."
 
 # game/UpdateScript0.05.rpy:2057
 translate french tv_together_a54dc98d:
@@ -4522,6 +5052,7 @@ translate french tv_together_bfe9b99f:
 translate french tv_together_9aa1866f:
 
     # M "[ryan].... That wasn't funny, and it was a very inappropriate thing to say to your own mother."
+    M "[ryan].... Ce n'était pas drôle, et c'était une chose très inappropriée à dire à ta propre mère."
 
 # game/UpdateScript0.05.rpy:2066
 translate french tv_together_dcdec28a:
@@ -4533,16 +5064,19 @@ translate french tv_together_dcdec28a:
 translate french tv_together_ba74cc91:
 
     # R "Ok.... sorry Mom, I'll just run grab a towel from the kitchen then."
+    R "D'accord.... désolé maman, je vais juste courir chercher une serviette dans la cuisine alors."
 
 # game/UpdateScript0.05.rpy:2069
 translate french tv_together_6e98a773:
 
     # M "Make sure you hurry, before it drips down between the cushions."
+    M "Assures-toi de te dépêcher avant qu'il ne coule entre les coussins."
 
 # game/UpdateScript0.05.rpy:2070
 translate french tv_together_0c7210b4:
 
     # R "Yes Mom."
+    R "Oui maman."
 
 # game/UpdateScript0.05.rpy:2089
 translate french tv_together_e85188a6_4:
@@ -4554,26 +5088,31 @@ translate french tv_together_e85188a6_4:
 translate french tv_together_7b2b4ab7_3:
 
     # R "Ok, let's watch the next episode of \"Game of Thots\"!"
+    R "ok, regardons le prochain épisode de 'Game of Thots'!"
 
 # game/UpdateScript0.05.rpy:2093
 translate french tv_together_0567f871_1:
 
     # L "I don't know, it's getting pretty scary!"
+    L "Je ne sais pas, ça devient assez effrayant!"
 
 # game/UpdateScript0.05.rpy:2094
 translate french tv_together_4a32206b_1:
 
     # L "Those white walkers creep me out so bad!"
+    L "Ces marcheurs blancs me donnent des frissons!"
 
 # game/UpdateScript0.05.rpy:2095
 translate french tv_together_aa5e3ad6_1:
 
     # R "You don't want to miss the rest of the show just because of the white walkers, do you?"
+    R "Tu ne veux pas manquer le reste du spectacle à cause des marcheurs blancs, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:2096
 translate french tv_together_aa6d799f:
 
     # L "Well.... No.... but can I at least sit really close to you again, in case I get too scared?"
+    L "Bien.... Non.... mais puis-je au moins m'asseoir de nouveau très près de toi au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:2097
 translate french tv_together_a28c1504_4:
@@ -4585,11 +5124,13 @@ translate french tv_together_a28c1504_4:
 translate french tv_together_cf83b622_4:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci! Je me sens tellement plus en sécurité!"
 
 # game/UpdateScript0.05.rpy:2101
 translate french tv_together_a5b60643_4:
 
     # R "Me too!"
+    R "Moi aussi !"
 
 # game/UpdateScript0.05.rpy:2102
 translate french tv_together_a8a86d5f_4:
@@ -4601,6 +5142,7 @@ translate french tv_together_a8a86d5f_4:
 translate french tv_together_6c6ed1a8_4:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:2108
 translate french tv_together_c1b1ea8a_4:
@@ -4612,21 +5154,25 @@ translate french tv_together_c1b1ea8a_4:
 translate french tv_together_5f42fa17:
 
     # L "Well.... There goes Cersei, sucking on her brother's dick again."
+    L "Bien.... Là, Cersei suce à nouveau la bite de son frère."
 
 # game/UpdateScript0.05.rpy:2114
 translate french tv_together_fad9b860:
 
     # L "Do you think that actor got that part because his cock is so huge?"
+    L "Penses-tu que cet acteur a eu ce rôle parce que sa bite est si énorme?"
 
 # game/UpdateScript0.05.rpy:2115
 translate french tv_together_747f5362:
 
     # R "Are you saying I should get into acting?"
+    R "Est-ce que tu dis que je devrais me lancer dans le cinéma?"
 
 # game/UpdateScript0.05.rpy:2116
 translate french tv_together_23378f56:
 
     # L "Haha.... No! Your dick isn't that big!"
+    L "Haha .... Non ! Ta bite n'est pas si grande !"
 
 # game/UpdateScript0.05.rpy:2117
 translate french tv_together_53e9213e:
@@ -4638,11 +5184,13 @@ translate french tv_together_53e9213e:
 translate french tv_together_7dda612b:
 
     # R "You've seen it! You know it's that big!"
+    R "Tu l'as vu! Tu sais que c'est aussi gros !"
 
 # game/UpdateScript0.05.rpy:2119
 translate french tv_together_43113e18:
 
     # L "Yeah.... well.... not the way I remember it."
+    L "Ouais.... Bien.... pas comme je m'en souviens."
 
 # game/UpdateScript0.05.rpy:2120
 translate french tv_together_62b100a1:
@@ -4660,46 +5208,55 @@ translate french tv_together_93f1e34f:
 translate french tv_together_054783c3:
 
     # L "Oh my God....[ryan]!.... I can't believe you just whipped him out like that!"
+    L "Oh mon Dieu....[ryan]!.... Je n'arrive pas à croire que tu l'aies fouetté comme ça !"
 
 # game/UpdateScript0.05.rpy:2125
 translate french tv_together_7a414a40:
 
     # L "Sidney can look over and see us anytime she feels like it."
+    L "Sidney peut regarder par-dessus et nous voir quand elle en a envie."
 
 # game/UpdateScript0.05.rpy:2128
 translate french tv_together_3fd0c8ca:
 
     # R "Yeah.... But she can't see what's going on behind the couch."
+    R "Ouais.... Mais elle ne voit pas ce qui se passe derrière le canapé."
 
 # game/UpdateScript0.05.rpy:2129
 translate french tv_together_49b9776f:
 
     # R "And, like I said before.... She's too involved in her design work to ever look over here."
+    R "Et, comme je l'ai déjà dit.... Elle est trop impliquée dans son travail de conception pour jamais regarder ici."
 
 # game/UpdateScript0.05.rpy:2132
 translate french tv_together_65d884a9:
 
     # L "Yeah.... well.... I still think the actor who plays Jamie has you beat."
+    L "Ouais.... Bien.... Je pense toujours que l'acteur qui joue Jamie vous a battu."
 
 # game/UpdateScript0.05.rpy:2133
 translate french tv_together_3b92db9c:
 
     # R "What? Are you serious? Hmmm.... That's just because it looks extra big next to Cersei's head."
+    R "Quoi? Tu es sérieuse? Hmmm.... C'est juste parce qu'il a l'air très gros à côté de la tête de Cersei."
 
 # game/UpdateScript0.05.rpy:2134
 translate french tv_together_f3be1a35:
 
     # R "You have to get down there and compare it to your head to get an accurate comparison."
+    R "Tu dois t'y rendre et le comparer à ta tête pour obtenir une comparaison précise."
 
 # game/UpdateScript0.05.rpy:2135
 translate french tv_together_be7b24a3:
 
     # R "And while you're down there, maybe you can repay the favor I gave you last time?"
+    R "Et pendant que tu es là-bas, peut-être peux-tu rembourser la faveur que je t'ai donnée la dernière fois?"
 
 # game/UpdateScript0.05.rpy:2138
 translate french tv_together_bfe277f6:
 
     # L "Ahhh!.... You asshole! Are you suggesting I give you a blowjob?"
+    L "Ahhh!.... Espèce de connard ! Tu suggères que je te fasse une fellation?"
 
 # game/UpdateScript0.05.rpy:2139
 translate french tv_together_1283415a:
@@ -4717,6 +5274,7 @@ translate french tv_together_09577cf0:
 translate french tv_together_242c5f0c:
 
     # R "I've just never had a handy from anybody besides myself."
+    R "Je n'ai jamais eu à portée de main de personne d'autre que moi."
 
 # game/UpdateScript0.05.rpy:2142
 translate french tv_together_edbcf538:
@@ -4728,51 +5286,61 @@ translate french tv_together_edbcf538:
 translate french tv_together_df368363:
 
     # R "And since I helped you out when you were feeling horny, I thought you might be willing to do the same for me."
+    R "Et comme je t'ai aidé quand tu te sentais excitée, j'ai pensé que tu pourrais être prêt à faire de même pour moi."
 
 # game/UpdateScript0.05.rpy:2146
 translate french tv_together_cafd349c:
 
     # L "What?.... Are you suggesting that you only fingered my pussy because you expected something in return?...."
+    L "Quoi?.... Suggères-tu que tu as seulement doigté ma chatte parce que tu t'attendais à quelque chose en retour?...."
 
 # game/UpdateScript0.05.rpy:2147
 translate french tv_together_6cbc342a:
 
     # R "Well, I.... no, but.... I was thinking...."
+    R "Eh bien, je.... non, mais.... Je réfléchissais...."
 
 # game/UpdateScript0.05.rpy:2150
 translate french tv_together_abce8258:
 
     # L "Haha.... Just shittin' ya.... I'm happy to do a favor for my brother!"
+    L "Haha.... Je te fais chier.... Je suis heureux de rendre service à mon frère!"
 
 # game/UpdateScript0.05.rpy:2153
 translate french tv_together_de29dbb0:
 
     # L "Now that I'm down here, I declare the size difference between you and Jamie Slanister to be.... inconclusive."
+    L "Maintenant que je suis ici, je déclare que la différence de taille entre toi et Jamie Slanister est.... non concluant."
 
 # game/UpdateScript0.05.rpy:2154
 translate french tv_together_643c2c7d:
 
     # L "I really can't tell.... It's too damn close to call!"
+    L "Je ne peux vraiment pas le dire.... C'est trop proche pour appeler!"
 
 # game/UpdateScript0.05.rpy:2155
 translate french tv_together_3a2f0637:
 
     # L "You should really be proud of yourself...."
+    L "Tu devrais vraiment être fier de toi...."
 
 # game/UpdateScript0.05.rpy:2156
 translate french tv_together_1cdf5e89:
 
     # R "Well, I try not to brag."
+    R "Eh bien, j'essaie de ne pas me vanter."
 
 # game/UpdateScript0.05.rpy:2157
 translate french tv_together_527fcb37:
 
     # R "But how bout we.... you know...."
+    R "Mais comment nous.... tu sais...."
 
 # game/UpdateScript0.05.rpy:2158
 translate french tv_together_6f088371:
 
     # R "We're kind of hurried for time."
+    R "Nous sommes un peu pressés pour le temps."
 
 # game/UpdateScript0.05.rpy:2159
 translate french tv_together_25ce60a8:
@@ -4784,6 +5352,7 @@ translate french tv_together_25ce60a8:
 translate french tv_together_58a27dca:
 
     # R "Wow, Lauren!.... That feels fucking great!"
+    R "Wow, Lauren!.... Ça fait du bien !"
 
 # game/UpdateScript0.05.rpy:2164
 translate french tv_together_83ecea81:
@@ -4819,6 +5388,7 @@ translate french tv_together_2e98dcd5:
 translate french tv_together_c39b38ac:
 
     # R "Ohh.... Shit, Lauren!.... I'm about to cum!"
+    R "Ohh.... Merde, Lauren!.... Je suis sur le point de jouir!"
 
 # game/UpdateScript0.05.rpy:2170
 translate french tv_together_bc551d82:
@@ -4854,31 +5424,37 @@ translate french tv_together_64e7b164:
 translate french tv_together_4502fba6:
 
     # L "Oh my God!.... How long has Mom's shower been off?"
+    L "Oh mon Dieu ! .... Quelle est la durée de la douche de maman?"
 
 # game/UpdateScript0.05.rpy:2188
 translate french tv_together_f3233fe9:
 
     # R "Oh, shit! I don't know!.... I was too preoccupied to notice when it turned off."
+    R "Oh, merde! Je ne sais pas!.... J'étais trop préoccupé pour remarquer quand il ça s'est éteint."
 
 # game/UpdateScript0.05.rpy:2191
 translate french tv_together_ccdeee6f:
 
     # L "I'm getting out of here!"
+    L "Je sors d'ici !"
 
 # game/UpdateScript0.05.rpy:2192
 translate french tv_together_41456325:
 
     # R "Wait!.... Help me find my shorts!"
+    R "Attends ! .... Aide-moi à trouver mes shorts !"
 
 # game/UpdateScript0.05.rpy:2193
 translate french tv_together_4f6b39ba:
 
     # L "Sorry! You're on your own!"
+    L "Désolé! tu es seul !"
 
 # game/UpdateScript0.05.rpy:2196
 translate french tv_together_e4e7135a:
 
     # R "Did I kick them under the coffee table?"
+    R "Est-ce que je les ai mis sous la table basse?"
 
 # game/UpdateScript0.05.rpy:2199
 translate french tv_together_94cd5acf:
@@ -4890,11 +5466,13 @@ translate french tv_together_94cd5acf:
 translate french tv_together_8f3a5256:
 
     # M "Uhhhh.... [ryan]? Do you mind telling me what you're doing?"
+    M "Uhhhh.... [ryan]? Tu peux me dire ce que tu fais ?"
 
 # game/UpdateScript0.05.rpy:2203
 translate french tv_together_b812c592:
 
     # R "Oh.... Holy fuck.... Mom, you scared me!"
+    R "Oh.... Putain de merde.... Maman, tu m'as fait peur!"
 
 # game/UpdateScript0.05.rpy:2204
 translate french tv_together_10ec1afb:
@@ -4906,6 +5484,7 @@ translate french tv_together_10ec1afb:
 translate french tv_together_943c52d3:
 
     # M "And please answer my question."
+    M "Et réponds à ma question."
 
 # game/UpdateScript0.05.rpy:2206
 translate french tv_together_6b0f4b32:
@@ -4935,6 +5514,7 @@ translate french tv_together_fe8fe2c7:
 translate french tv_together_0187bf26:
 
     # M "Where are your penis.... I mean pants.... I meant pants!?"
+    M "Où est ton pénis.... Je veux dire pantalon.... Je voulais dire ton pantalon!?"
 
 # game/UpdateScript0.05.rpy:2213
 translate french tv_together_2bc927f8:
@@ -4946,21 +5526,25 @@ translate french tv_together_2bc927f8:
 translate french tv_together_7481ccae:
 
     # R "Oh.... Well, you've already seen me.... What difference does it make?"
+    R "Oh.... Tu m'as déjà vu.... Quelle différence cela fait-il?"
 
 # game/UpdateScript0.05.rpy:2217
 translate french tv_together_942dfc18:
 
     # M "Yeah, well I guess you're right...."
+    M "Ouais, eh bien je suppose que tu as raison...."
 
 # game/UpdateScript0.05.rpy:2220
 translate french tv_together_a8a0a115:
 
     # M "Oh my God!.... Is that what I think it is all over my coffee table?"
+    M "Oh mon Dieu!.... C'est ce que je pense que c'est sur ma table basse?"
 
 # game/UpdateScript0.05.rpy:2221
 translate french tv_together_3f6070c3:
 
     # M "[ryan]!.... You've got to be fucking kidding me!"
+    M "Putain [ryan]!.... Tu dois te moquer de moi !"
 
 # game/UpdateScript0.05.rpy:2222
 translate french tv_together_b069ad37:
@@ -4972,16 +5556,19 @@ translate french tv_together_b069ad37:
 translate french tv_together_3d5eb0fc:
 
     # M "Don't be a smart-ass with me!"
+    M "Ne joues pas au malin avec moi !"
 
 # game/UpdateScript0.05.rpy:2226
 translate french tv_together_594a9451:
 
     # M "Why in the hell did you blow your load all over my table?"
+    M "Pourquoi diable as-tu fait sauter ta charge sur ma table?"
 
 # game/UpdateScript0.05.rpy:2229
 translate french tv_together_fa569a6a:
 
     # R "Are you kidding me Mom? Do you really think I'd cum all over your table?"
+    R "Tu te moques de moi Maman? Tu penses vraiment que je jouirais sur ta table ?"
 
 # game/UpdateScript0.05.rpy:2230
 translate french tv_together_88fdacc0:
@@ -4993,6 +5580,7 @@ translate french tv_together_88fdacc0:
 translate french tv_together_40448a30:
 
     # R "It's just some sugar glaze from a box of donuts I was eating."
+    R "C'est juste un glaçage au sucre d'une boîte de beignets que je mangeais."
 
 # game/UpdateScript0.05.rpy:2232
 translate french tv_together_421143f1:
@@ -5004,16 +5592,19 @@ translate french tv_together_421143f1:
 translate french tv_together_482d5a48:
 
     # R "Outside in the trash?"
+    R "Dehors dans la poubelle?"
 
 # game/UpdateScript0.05.rpy:2234
 translate french tv_together_a987e2fc:
 
     # M "I'm not that stupid!"
+    M "Je ne suis pas si stupide!"
 
 # game/UpdateScript0.05.rpy:2235
 translate french tv_together_526518ed:
 
     # M "That story might be easier to believe if your pants weren't off."
+    M "Cette histoire pourrait être plus facile à croire si ton pantalon n'était pas descendu."
 
 # game/UpdateScript0.05.rpy:2236
 translate french tv_together_c816878d:
@@ -5025,11 +5616,13 @@ translate french tv_together_c816878d:
 translate french tv_together_ab71dd5b:
 
     # M "You were jacking off to that dragon show, weren't you?"
+    M "Tu te branlais à ce spectacle de dragons, n'est-ce pas ?"
 
 # game/UpdateScript0.05.rpy:2239
 translate french tv_together_41827af0:
 
     # M "I heard some of the other teachers talking about how sexual it can get."
+    M "J'ai entendu certains des autres enseignants parler de la façon dont cela peut devenir sexuel."
 
 # game/UpdateScript0.05.rpy:2240
 translate french tv_together_c6b10553:
@@ -5041,11 +5634,13 @@ translate french tv_together_c6b10553:
 translate french tv_together_24692ecc:
 
     # R "Yes Mom.... There was a scene....that was fairly kinky.... So, I decided to.... practice good sexual health?"
+    R "Oui Maman.... Il y avait une scène....c'était assez pervers.... J'ai donc décidé de le faire.... pratiquer une bonne santé sexuelle?"
 
 # game/UpdateScript0.05.rpy:2243
 translate french tv_together_f5aed8bd:
 
     # R "Uhhh.... Well.... There was a scene on \"Game of Thots\"."
+    R "Uhhh.... Bien.... Il y avait une scène sur 'Game of Thots'."
 
 # game/UpdateScript0.05.rpy:2244
 translate french tv_together_2938522c:
@@ -5057,51 +5652,61 @@ translate french tv_together_2938522c:
 translate french tv_together_81df2fbb:
 
     # R "So, I decided to.... practice good sexual health?"
+    R "Donc, j'ai décidé de le faire.... pour pratiquer une bonne santé sexuelle?"
 
 # game/UpdateScript0.05.rpy:2248
 translate french tv_together_8ceddc4f:
 
     # M "Well.... Honey!"
+    M "Bien.... Chéri!"
 
 # game/UpdateScript0.05.rpy:2249
 translate french tv_together_abc89e8e:
 
     # M "Practicing good sexual health is as important to me as it should be with any other mom."
+    M "Pratiquer une bonne santé sexuelle est aussi important pour moi qu'il devrait l'être avec n'importe quelle autre maman."
 
 # game/UpdateScript0.05.rpy:2250
 translate french tv_together_cefb8bdd:
 
     # M "But you've got to realize there is a time and place for it."
+    M "Mais tu dois réaliser qu'il y a un moment et un lieu pour cela."
 
 # game/UpdateScript0.05.rpy:2251
 translate french tv_together_54210be9:
 
     # M "Like in your your room! When nobody else is around!"
+    M "Comme dans ta chambre! Quand personne d'autre n'est là!"
 
 # game/UpdateScript0.05.rpy:2252
 translate french tv_together_92e55b18:
 
     # M "Did you even notice that Sidney is working just over there in the kitchen?"
+    M "As-tu même remarqué que Sidney travaille juste là-bas dans la cuisine?"
 
 # game/UpdateScript0.05.rpy:2253
 translate french tv_together_0cf0a5be:
 
     # R "Shit.... No!.... I didn't even notice!"
+    R "Merde.... Non!.... Je ne l'ai même pas remarqué!"
 
 # game/UpdateScript0.05.rpy:2254
 translate french tv_together_57287a10:
 
     # M "Well, thank God Lauren didn't come out to watch TV with you today."
+    M "Eh bien, Dieu merci, Lauren n'est pas venue regarder la télévision avec toi aujourd'hui."
 
 # game/UpdateScript0.05.rpy:2255
 translate french tv_together_ea539799:
 
     # M "Now find your shorts and clean off my coffee table, Goddammit!"
+    M "Maintenant, trouve ton short et nettoie ma table basse, Putain!"
 
 # game/UpdateScript0.05.rpy:2258
 translate french tv_together_314dfe42:
 
     # M "Holy shit!.... That is a lot of cum!"
+    M "Putain de merde!.... C'est beaucoup de sperme!"
 
 # game/UpdateScript0.05.rpy:2259
 translate french tv_together_f5c30680:
@@ -5113,11 +5718,13 @@ translate french tv_together_f5c30680:
 translate french tv_together_8b25fd24:
 
     # R "Thanks Mom."
+    R "Merci Maman."
 
 # game/UpdateScript0.05.rpy:2261
 translate french tv_together_6253d8b0:
 
     # M "Shut up [ryan]!"
+    M "Tais-toi [ryan]!"
 
 # game/UpdateScript0.05.rpy:2262
 translate french tv_together_c12ee42a:
@@ -5153,26 +5760,31 @@ translate french tv_together_e85188a6_5:
 translate french tv_together_330b18ca_1:
 
     # R "Ok, should we watch the next episode of \"Game of Thots\"?"
+    R "Ok, faut-il regarder le prochain épisode de 'Game of Thots'?"
 
 # game/UpdateScript0.05.rpy:2292
 translate french tv_together_0567f871_2:
 
     # L "I don't know, it's getting pretty scary!"
+    L "Je ne sais pas, ça devient assez effrayant!"
 
 # game/UpdateScript0.05.rpy:2293
 translate french tv_together_4a32206b_2:
 
     # L "Those white walkers creep me out so bad!"
+    L "Ces marcheurs blancs me donnent des frissons!"
 
 # game/UpdateScript0.05.rpy:2294
 translate french tv_together_aa5e3ad6_2:
 
     # R "You don't want to miss the rest of the show just because of the white walkers, do you?"
+    R "Tu ne veux pas manquer le reste du spectacle à cause des marcheurs blancs, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:2295
 translate french tv_together_15da39be_1:
 
     # L "Well.... No.... but can I at least sit really close to you in case I get too scared?"
+    L "Bien.... Non.... mais puis-je au moins m'asseoir très près de toi au cas où j'aurais trop peur?"
 
 # game/UpdateScript0.05.rpy:2296
 translate french tv_together_a28c1504_5:
@@ -5184,11 +5796,13 @@ translate french tv_together_a28c1504_5:
 translate french tv_together_cf83b622_5:
 
     # L "Thanks! I feel so much safer!"
+    L "Merci! Je me sens tellement plus en sécurité!"
 
 # game/UpdateScript0.05.rpy:2300
 translate french tv_together_a5b60643_5:
 
     # R "Me too!"
+    R "Moi aussi !"
 
 # game/UpdateScript0.05.rpy:2301
 translate french tv_together_a8a86d5f_5:
@@ -5200,6 +5814,7 @@ translate french tv_together_a8a86d5f_5:
 translate french tv_together_6c6ed1a8_5:
 
     # L "Aaahhh!.... protect me, [ryan]!"
+    L "Aaahhh!.... protège-moi, [ryan]!"
 
 # game/UpdateScript0.05.rpy:2307
 translate french tv_together_c1b1ea8a_5:
@@ -5211,41 +5826,49 @@ translate french tv_together_c1b1ea8a_5:
 translate french tv_together_568244b9:
 
     # L "Holy shit! Her brother's dick is even bigger than yours!"
+    L "Putain de merde! La bite de son frère est encore plus grosse que la tienne !"
 
 # game/UpdateScript0.05.rpy:2313
 translate french tv_together_47f0e635:
 
     # R "Do you think?"
+    R "Tu le penses?"
 
 # game/UpdateScript0.05.rpy:2314
 translate french tv_together_f0b9eb9f:
 
     # L "It's pretty close."
+    L "C'est assez proche."
 
 # game/UpdateScript0.05.rpy:2315
 translate french tv_together_12e359bd:
 
     # R "I still can't believe they can get away with this incest shit!"
+    R "Je n'arrive toujours pas à croire qu'ils puissent s'en tirer avec cette merde d'inceste!"
 
 # game/UpdateScript0.05.rpy:2316
 translate french tv_together_6e3c890f:
 
     # R "It's not fair that independent game developers who create incest games get crapped on by major payment processors."
+    R "Il n'est pas juste que les développeurs de jeux indépendants qui créent des jeux d'inceste soient bloqués par les principaux processus de paiement."
 
 # game/UpdateScript0.05.rpy:2317
 translate french tv_together_6904737a:
 
     # R "But those same payment processors allow for millions of people to purchase incest content that's been produced by a major TV studio."
+    R "Mais ces mêmes processus de paiement permettent à des millions de personnes d'acheter du contenu inceste produit par un grand studio de télévision."
 
 # game/UpdateScript0.05.rpy:2318
 translate french tv_together_5a4b70e9:
 
     # R "Fucking hypocrites!"
+    R "Putain d'hypocrites!"
 
 # game/UpdateScript0.05.rpy:2319
 translate french tv_together_324e0b0f:
 
     # L "What are you talking about?"
+    L "De quoi parles-tu?"
 
 # game/UpdateScript0.05.rpy:2320
 translate french tv_together_e9c9d89e:
@@ -5263,11 +5886,13 @@ translate french tv_together_dc7a84b6_1:
 translate french tv_together_5abe4900:
 
     # L "I just can't believe how much they can show on TV anymore."
+    L "Je n'arrive tout simplement plus à croire à quel point ils peuvent montrer à la télévision."
 
 # game/UpdateScript0.05.rpy:2326
 translate french tv_together_6800ab21_1:
 
     # R "Well, at least you're clearly enjoying it?"
+    R "Eh bien, au moins, tu l'apprécies clairement?"
 
 # game/UpdateScript0.05.rpy:2327
 translate french tv_together_faf376b6_1:
@@ -5279,6 +5904,7 @@ translate french tv_together_faf376b6_1:
 translate french tv_together_e62859a5_1:
 
     # R "The way you're rubbing yourself."
+    R "La façon dont tu te caresses."
 
 # game/UpdateScript0.05.rpy:2333
 translate french tv_together_2656cbcc_1:
@@ -5296,11 +5922,13 @@ translate french tv_together_72fd485a_1:
 translate french tv_together_3f4f3492_1:
 
     # L "No!.... Sometimes I do it without thinking."
+    L "Non!.... Parfois, je le fais sans réfléchir."
 
 # game/UpdateScript0.05.rpy:2338
 translate french tv_together_2e90a48d_1:
 
     # R "Well.... Do you need some relief?"
+    R "Bien.... As-tu besoin d'un soulagement?"
 
 # game/UpdateScript0.05.rpy:2339
 translate french tv_together_817e73ec_1:
@@ -5312,21 +5940,25 @@ translate french tv_together_817e73ec_1:
 translate french tv_together_b8dba4f3:
 
     # L "How in the hell would you help with that?"
+    L "Comment diable m'aiderais-tu avec ça?"
 
 # game/UpdateScript0.05.rpy:2341
 translate french tv_together_087658ef:
 
     # R "We can just remove your hand and replace it with mine."
+    R "Nous pouvons simplement retirer ta main et la remplacer par la mienne."
 
 # game/UpdateScript0.05.rpy:2342
 translate french tv_together_70ff4833:
 
     # R "It will also be more effective if your shorts are off."
+    R "Il sera également plus efficace si ton short est enlevé."
 
 # game/UpdateScript0.05.rpy:2345
 translate french tv_together_02a967fb:
 
     # L "Holy shit, [ryan], are you serious?"
+    L "Putain de merde, [ryan], es-tu sérieux?"
 
 # game/UpdateScript0.05.rpy:2346
 translate french tv_together_3d06be47:
@@ -5338,21 +5970,25 @@ translate french tv_together_3d06be47:
 translate french tv_together_efd602c1:
 
     # R "You've rubbed yourself on my dick to try and take care of that itch."
+    R "Tu t'es frotté sur ma bite pour essayer de prendre soin de cette démangeaison."
 
 # game/UpdateScript0.05.rpy:2348
 translate french tv_together_e95057e9:
 
     # L "Yeah.... but.... that was different.... and through both of our clothes."
+    L "Ouais.... mais.... c'était différent.... et à travers nos deux vêtements."
 
 # game/UpdateScript0.05.rpy:2349
 translate french tv_together_18b23829:
 
     # R "It accomplishes the same purpose."
+    R "Il réalise le même but."
 
 # game/UpdateScript0.05.rpy:2350
 translate french tv_together_f5874c7c:
 
     # R "And it doesn't seem nearly as bad as grinding, since my penis isn't involved."
+    R "Et ça ne semble pas aussi mauvais que de mouiller, puisque mon pénis n'est pas impliqué."
 
 # game/UpdateScript0.05.rpy:2351
 translate french tv_together_683ec55d:
@@ -5364,11 +6000,13 @@ translate french tv_together_683ec55d:
 translate french tv_together_b22121df:
 
     # L "When you put it that way.... it doesn't seem so bad."
+    L "Quand tu le dis de cette façon.... ça ne semble pas si mal."
 
 # game/UpdateScript0.05.rpy:2355
 translate french tv_together_292f9335:
 
     # L "Oh, but what about Sidney and Mom?"
+    L "Oh, mais qu'en est-il de Sidney et de maman?"
 
 # game/UpdateScript0.05.rpy:2356
 translate french tv_together_3dcc2a83:
@@ -5380,26 +6018,31 @@ translate french tv_together_3dcc2a83:
 translate french tv_together_94574995:
 
     # L "Well, Sidney is right there in the kitchen, and Mom is just on the other side of that door behind us, taking a shower."
+    L "Eh bien, Sidney est juste là dans la cuisine, et maman est juste de l'autre côté de cette porte derrière nous, prenant une douche."
 
 # game/UpdateScript0.05.rpy:2362
 translate french tv_together_fe69676a:
 
     # R "Yeah, she's so close.... We'd better be extremely cautious!"
+    R "Ouais, elle est si proche.... Nous ferions mieux d'être extrêmement prudents!"
 
 # game/UpdateScript0.05.rpy:2363
 translate french tv_together_2f9e6862:
 
     # R "Sidney is usually super focused when she's making clothing designs. Hopefully she'll never even look up."
+    R "Sidney est généralement très concentrée lorsqu'elle crée des vêtements. J'espère qu'elle ne lèvera jamais les yeux."
 
 # game/UpdateScript0.05.rpy:2364
 translate french tv_together_f04143c0:
 
     # R "And we'll know when Mom is done with her shower, because we'll hear the water turn off."
+    R "Et nous saurons quand maman aura fini sa douche, car nous entendrons l'eau s'éteindre."
 
 # game/UpdateScript0.05.rpy:2365
 translate french tv_together_adf945ac:
 
     # L "Hmmmm.... Well, if we're super cautious.... Ok.... If you insist."
+    L "Hmmmm.... Eh bien, si nous sommes super prudents.... Ok.... Si tu insistes."
 
 # game/UpdateScript0.05.rpy:2366
 translate french tv_together_c00662a5:
@@ -5411,26 +6054,31 @@ translate french tv_together_c00662a5:
 translate french tv_together_e08c7d89:
 
     # R "That shouldn't concern you! Sidney doesn't ever look up from her computer when she's working."
+    R "Cela ne devrait pas te concerner! Sidney ne regarde jamais depuis son ordinateur quand elle travaille."
 
 # game/UpdateScript0.05.rpy:2370
 translate french tv_together_7f6705d2:
 
     # R "Even if she did, I'm sure I could talk my way out of it."
+    R "Même si elle le faisait, je suis sûr que je pourrais m'en sortir."
 
 # game/UpdateScript0.05.rpy:2371
 translate french tv_together_f04143c0_1:
 
     # R "And we'll know when Mom is done with her shower, because we'll hear the water turn off."
+    R "Et nous saurons quand maman aura fini sa douche, car nous entendrons l'eau s'éteindre."
 
 # game/UpdateScript0.05.rpy:2372
 translate french tv_together_6a0cab0a:
 
     # L "That sounds so risky!"
+    L "Cela semble si risqué!"
 
 # game/UpdateScript0.05.rpy:2373
 translate french tv_together_979be53a:
 
     # R "You've just got to trust me."
+    R "Tu dois juste me faire confiance."
 
 # game/UpdateScript0.05.rpy:2374
 translate french tv_together_c335f1dc:
@@ -5448,41 +6096,49 @@ translate french tv_together_444ae30c:
 translate french tv_together_eb6409ef:
 
     # R "Great! Just take off your shorts."
+    R "Génial! Enlève ton short."
 
 # game/UpdateScript0.05.rpy:2382
 translate french tv_together_c3ebda85:
 
     # L "Hmmmm.... This feels really awkward."
+    L "Hmmmm.... Cela semble vraiment gênant."
 
 # game/UpdateScript0.05.rpy:2383
 translate french tv_together_1630c5ce:
 
     # R "Well, let's replace that feeling with another one."
+    R "Eh bien, remplaçons ce sentiment par un autre."
 
 # game/UpdateScript0.05.rpy:2384
 translate french tv_together_10029ff4:
 
     # L "I hope we don't get caught!"
+    L "J'espère qu'on ne se fera pas prendre !"
 
 # game/UpdateScript0.05.rpy:2387
 translate french tv_together_a3111075:
 
     # L "Oh, God!.... [ryan], I'm feeling so self-conscious with you staring at my pussy like that!"
+    L "Oh, mon Dieu!.... [ryan], je me sens tellement consciente de toi en regardant ma chatte comme ça!"
 
 # game/UpdateScript0.05.rpy:2388
 translate french tv_together_f2a1b0e4:
 
     # R "Lauren, you've got the cutest little pussy I've ever seen."
+    R "Lauren, tu as la petite chatte la plus mignonne que j'ai jamais vue."
 
 # game/UpdateScript0.05.rpy:2392
 translate french tv_together_30f2052a:
 
     # L "Oh, fuck! I can't believe you're touching my pussy!"
+    L "Oh, putain! Je n'arrive pas à croire que tu touches ma chatte!"
 
 # game/UpdateScript0.05.rpy:2393
 translate french tv_together_fbdf9413:
 
     # R "Sssshhhh.... Don't forget that Sidney is just in the kitchen."
+    R "Sssshhhh.... N’oublies pas que Sidney est juste dans la cuisine."
 
 # game/UpdateScript0.05.rpy:2394
 translate french tv_together_665c0641:
@@ -5506,16 +6162,19 @@ translate french tv_together_8be84f23:
 translate french tv_together_abfac76e:
 
     # L "Oh fuck, [ryan].... that feels good!"
+    L "Oh putain, [ryan].... ça fait du bien !"
 
 # game/UpdateScript0.05.rpy:2404
 translate french tv_together_ca581f7d:
 
     # R "I'm looking for your G-spot.... Did I find it?"
+    R "Je cherche ton point G.... Je l'ai trouvé ?"
 
 # game/UpdateScript0.05.rpy:2405
 translate french tv_together_91185ee5:
 
     # L "I think you need to go deeper, but this is still feeling really good!"
+    L "Je pense que tu dois aller plus loin, mais cela fait toujours du bien!"
 
 # game/UpdateScript0.05.rpy:2408
 translate french tv_together_abb4b061:
@@ -5539,31 +6198,37 @@ translate french tv_together_64e7b164_1:
 translate french tv_together_d98df879:
 
     # L "Oh, shit!.... Mom's shower just turned off!"
+    L "Oh, merde!.... La douche de maman vient de s'éteindre!"
 
 # game/UpdateScript0.05.rpy:2416
 translate french tv_together_401123e1:
 
     # L "Shit!.... Where are my shorts!"
+    L "Merde!.... Où sont mes shorts!"
 
 # game/UpdateScript0.05.rpy:2421
 translate french tv_together_d74577e2:
 
     # R "Shit.... Lauren! Try not to look so nervous!"
+    R "Merde.... Lauren! Essaies de ne pas avoir l'air si nerveuse!"
 
 # game/UpdateScript0.05.rpy:2422
 translate french tv_together_e153ecfe:
 
     # L "I can't help it!.... It just feels like Mom's going to know somehow!"
+    L "Je ne peux pas m'en empêcher!.... C'est comme si maman allait le savoir d'une manière ou d'une autre!"
 
 # game/UpdateScript0.05.rpy:2423
 translate french tv_together_73712abd:
 
     # R "No way. It was the perfect crime."
+    R "Pas moyen. C'était le crime parfait."
 
 # game/UpdateScript0.05.rpy:2426
 translate french tv_together_345d2375:
 
     # M "Hey, you two!"
+    M "Hé, vous deux!"
 
 # game/UpdateScript0.05.rpy:2427
 translate french tv_together_413e4459:
@@ -5575,16 +6240,19 @@ translate french tv_together_413e4459:
 translate french tv_together_c0e12677:
 
     # R "It's that HBO show everyone used to talk about, \"Game of Thots\"."
+    R "C'est cette émission de HBO dont tout le monde parlait, 'Game of Thots'."
 
 # game/UpdateScript0.05.rpy:2429
 translate french tv_together_49df301f:
 
     # M "Well, it looks scary! Lauren, I'm surprised you aren't cuddled up to [ryan] for protection."
+    M "Eh bien, ça a l'air effrayant! Lauren, je suis surprise que tu ne sois pas câlinée jusqu'au [ryan] pour te protéger."
 
 # game/UpdateScript0.05.rpy:2430
 translate french tv_together_fdc33928:
 
     # L "What?.... No!.... Why would I do that?...."
+    L "Quoi?.... Non!.... Pourquoi je ferais ça ?...."
 
 # game/UpdateScript0.05.rpy:2431
 translate french tv_together_e57ac091:
@@ -5596,36 +6264,43 @@ translate french tv_together_e57ac091:
 translate french tv_together_5a6000ff:
 
     # M "Well, you certainly are brave then! You two have fun! I'm going to run and get some clothes on."
+    M "Eh bien, vous êtes certainement courageux alors! Amusez-vous bien! Je vais y aller et m'habiller."
 
 # game/UpdateScript0.05.rpy:2435
 translate french tv_together_b66f6f55:
 
     # R "Wow!.... You're a nervous wreck!"
+    R "Wow!.... Tu es une épave nerveuse!"
 
 # game/UpdateScript0.05.rpy:2436
 translate french tv_together_6436062a:
 
     # R "It's a good thing Mom wasn't looking at your face."
+    R "C'est une bonne chose que maman ne te regarde pas."
 
 # game/UpdateScript0.05.rpy:2437
 translate french tv_together_5acb2a7b:
 
     # R "You have guilty written all over."
+    R "Tu as écrit coupable partout."
 
 # game/UpdateScript0.05.rpy:2438
 translate french tv_together_44bd63cd:
 
     # L "Sorry!.... I don't have as much experience hiding my sexual deviance as you!"
+    L "Désolé!.... Je n'ai pas autant d'expérience que toi pour cacher ma déviance sexuelle !"
 
 # game/UpdateScript0.05.rpy:2439
 translate french tv_together_3fb428bd:
 
     # R "Don't worry! I'll help you get there."
+    R "Ne t'inquiètes pas! Je t'aiderais à y arriver."
 
 # game/UpdateScript0.05.rpy:2440
 translate french tv_together_9d2fffad:
 
     # L "Yeah, right.... We're not doing that again!"
+    L "Ouais, c'est ça.... On ne recommence pas !"
 
 # game/UpdateScript0.05.rpy:2441
 translate french tv_together_10b3d90f:
@@ -5637,31 +6312,37 @@ translate french tv_together_10b3d90f:
 translate french lounge_hj_93c10f22:
 
     # L "Yeah, I'm up for that."
+    L "Ouais, je suis pour ça."
 
 # game/UpdateScript0.05.rpy:2459
 translate french lounge_hj_e5789353:
 
     # L "I've been lotioning my hands to make this feel even better for you. Can you tell?"
+    L "J'ai mis de la lotion sur mes mains pour que cela soit encore mieux pour toi. Peux-tu le dire?"
 
 # game/UpdateScript0.05.rpy:2460
 translate french lounge_hj_c82c3178:
 
     # R "Oh yeah, feels as soft as my old fleshlight."
+    R "Oh oui, je me sens aussi douce que ma vieille chair."
 
 # game/UpdateScript0.05.rpy:2461
 translate french lounge_hj_12a1d75a:
 
     # L "Oh, gross!"
+    L "Oh, dégueulasse!"
 
 # game/UpdateScript0.05.rpy:2462
 translate french lounge_hj_6eb946d0:
 
     # R "Haha...."
+    R "Haha...."
 
 # game/UpdateScript0.05.rpy:2466
 translate french lounge_hj_58a27dca:
 
     # R "Wow, Lauren!.... That feels fucking great!"
+    R "Wow, Lauren!.... Ça fait du bien !"
 
 # game/UpdateScript0.05.rpy:2467
 translate french lounge_hj_dda90ee9:
@@ -5679,11 +6360,13 @@ translate french lounge_hj_891d34eb:
 translate french lounge_hj_c39b38ac:
 
     # R "Ohh.... Shit, Lauren!.... I'm about to cum!"
+    R "Ohh.... Merde, Lauren!.... Je suis sur le point de jouir!"
 
 # game/UpdateScript0.05.rpy:2470
 translate french lounge_hj_9aed12b3:
 
     # L "Ohhhh, fuck yeah!...."
+    L "Ohhhh, putain ouais!...."
 
 # game/UpdateScript0.05.rpy:2471
 translate french lounge_hj_bdf9bcbb:
@@ -5713,76 +6396,91 @@ translate french lounge_hj_31f60458:
 translate french lounge_hj_f29cf2d1:
 
     # L "I'll run and get a towel to clean up this mess."
+    L "Je vais aller chercher une serviette pour nettoyer ça."
 
 # game/UpdateScript0.05.rpy:2490
 translate french lounge_hj_84d74e7d:
 
     # L "So, are we still watching the same episode we watched last time?"
+    L "Alors, regardons-nous toujours le même épisode que la dernière fois?"
 
 # game/UpdateScript0.05.rpy:2491
 translate french lounge_hj_e13b83db:
 
     # R "Yeah.... For some reason we can't ever get through an entire episode."
+    R "Ouais.... Pour une raison quelconque, nous ne pouvons jamais finir un épisode entier."
 
 # game/UpdateScript0.05.rpy:2492
 translate french lounge_hj_210da45d:
 
     # L "Mmmmm.... For a good reason!"
+    L "Mmmmm.... Pour une bonne raison !"
 
 # game/UpdateScript0.05.rpy:2495
 translate french lounge_hj_831b822d:
 
     # M "Oohhhh.... I love seeing you so close! You two haven't been this chummy in a while."
+    M "Oohhhh.... J'adore te voir si près! Tu n'as pas été aussi proche depuis un moment."
 
 # game/UpdateScript0.05.rpy:2496
 translate french lounge_hj_763fe10f:
 
     # M "You almost look like a couple."
+    M "Vous ressemblez presque à un couple."
 
 # game/UpdateScript0.05.rpy:2497
 translate french lounge_hj_41822f99:
 
     # M "So, just make sure you don't act like that in front of anybody we know."
+    M "Donc, assurez-vous de ne pas agir comme ça devant quelqu'un que nous connaissons."
 
 # game/UpdateScript0.05.rpy:2498
 translate french lounge_hj_16d917c8:
 
     # L "Ok Mom, but can you just let us watch the show?"
+    L "Ok Maman, mais peux-tu nous laisser regarder le spectacle?"
 
 # game/UpdateScript0.05.rpy:2499
 translate french lounge_hj_a8171d60:
 
     # M "Oh.... right.... Sorry! I'd better go get my clothes on anyways!"
+    M "Oh.... d'accord... Désolé ! Je ferais mieux d'aller m'habiller quand même !"
 
 # game/UpdateScript0.05.rpy:2502
 translate french lounge_hj_c42665e3:
 
     # L "Oh my God!.... She has no idea!"
+    L "Oh mon Dieu!.... Elle n'en a aucune idée !"
 
 # game/UpdateScript0.05.rpy:2503
 translate french lounge_hj_84c41599:
 
     # R "And if she did, she'd probably cut my nuts off!"
+    R "Et si elle le faisait, elle me couperait probablement les couilles!"
 
 # game/UpdateScript0.05.rpy:2504
 translate french lounge_hj_dfd7f350:
 
     # L "Hehehe...."
+    L "Hehehe...."
 
 # game/UpdateScript0.05.rpy:2513
 translate french lounge_finger_363e4415:
 
     # L "I would love to do that again!"
+    L "J'aimerais refaire ça!"
 
 # game/UpdateScript0.05.rpy:2514
 translate french lounge_finger_93f6195c:
 
     # R "Alright, get those pants off and get on all fours."
+    R "D'accord, enlève ce pantalon et mets-toi à quatre pattes."
 
 # game/UpdateScript0.05.rpy:2519
 translate french lounge_finger_4185ce1f:
 
     # L "Ok.... I'm ready!"
+    L "D'accord.... Je suis prête!"
 
 # game/UpdateScript0.05.rpy:2523
 translate french lounge_finger_efd8956d:
@@ -5794,36 +6492,43 @@ translate french lounge_finger_efd8956d:
 translate french lounge_finger_30fdbf8d:
 
     # L "Still takes.... a minute to get used to it!"
+    L "Prend encore.... une minute pour s'y habituer!"
 
 # game/UpdateScript0.05.rpy:2528
 translate french lounge_finger_0852e17a:
 
     # L "Ohh.... That's starting to feel good again!"
+    L "Ohh .... Ça commence à se sentir bien !"
 
 # game/UpdateScript0.05.rpy:2532
 translate french lounge_finger_91fbf18f:
 
     # L "Oh fuck, oh fuck, oh fuck!"
+    L "Oh merde, oh merde, oh merde !"
 
 # game/UpdateScript0.05.rpy:2536
 translate french lounge_finger_8a48db8e:
 
     # L "Hey, why did you stop?"
+    L "Hé, pourquoi t'es-tu arrêté ?"
 
 # game/UpdateScript0.05.rpy:2537
 translate french lounge_finger_afb48226:
 
     # R "You know what you need to say if you want me to keep going."
+    R "Tu sais ce que tu dois dire si tu veux que je continue."
 
 # game/UpdateScript0.05.rpy:2538
 translate french lounge_finger_d2411c65:
 
     # L "Fuck yeah.... I'm a dirty girl!"
+    L "Putain ouais.... Je suis une sale fille!"
 
 # game/UpdateScript0.05.rpy:2543
 translate french lounge_finger_368a5c95:
 
     # L "I'm a dirty girl, I'm a dirty girl, I'm a dirty girl!...."
+    L "Je suis une sale fille, je suis une sale fille, je suis une sale fille!...."
 
 # game/UpdateScript0.05.rpy:2544
 translate french lounge_finger_fff0af16:
@@ -5847,6 +6552,7 @@ translate french lounge_finger_e7c4f12b:
 translate french lounge_finger_9e0f9773:
 
     # L "Ohhh.... Fuuuck!"
+    L "Ohhh .... Meeerrrrdddeee!"
 
 # game/UpdateScript0.05.rpy:2557
 translate french lounge_finger_fb75ab3a:
@@ -5858,6 +6564,7 @@ translate french lounge_finger_fb75ab3a:
 translate french lounge_finger_6a3ce845:
 
     # L "Holy shit, [ryan]! I can't even believe how much I love getting fingered like that!!"
+    L "Merde, [ryan]! Je ne peux même pas croire à quel point j'aime me faire doigter comme ça!!"
 
 # game/UpdateScript0.05.rpy:2561
 translate french lounge_finger_de144e4d:
@@ -5869,76 +6576,91 @@ translate french lounge_finger_de144e4d:
 translate french lounge_finger_cf6c1d76:
 
     # R "Haha.... I'll run and get a towel to clean up this mess!"
+    R "Haha.... Je vais chercher une serviette pour nettoyer ce bordel!"
 
 # game/UpdateScript0.05.rpy:2568
 translate french lounge_finger_84d74e7d:
 
     # L "So, are we still watching the same episode we watched last time?"
+    L "Alors, regardons-nous toujours le même épisode que la dernière fois?"
 
 # game/UpdateScript0.05.rpy:2569
 translate french lounge_finger_e13b83db:
 
     # R "Yeah.... For some reason we can't ever get through an entire episode."
+    R "Ouais.... Pour une raison quelconque, nous ne pouvons jamais finir un épisode entier."
 
 # game/UpdateScript0.05.rpy:2570
 translate french lounge_finger_210da45d:
 
     # L "Mmmmm.... For a good reason!"
+    L "Mmmmm.... Pour une bonne raison !"
 
 # game/UpdateScript0.05.rpy:2573
 translate french lounge_finger_831b822d:
 
     # M "Oohhhh.... I love seeing you so close! You two haven't been this chummy in a while."
+    M "Oohhhh.... J'adore te voir si près! Tu n'as pas été aussi proche depuis un moment."
 
 # game/UpdateScript0.05.rpy:2574
 translate french lounge_finger_763fe10f:
 
     # M "You almost look like a couple."
+    M "Vous ressemblez presque à un couple."
 
 # game/UpdateScript0.05.rpy:2575
 translate french lounge_finger_41822f99:
 
     # M "So, just make sure you don't act like that in front of anybody we know."
+    M "Donc, assurez-vous de ne pas agir comme ça devant quelqu'un que nous connaissons."
 
 # game/UpdateScript0.05.rpy:2576
 translate french lounge_finger_16d917c8:
 
     # L "Ok Mom, but can you just let us watch the show?"
+    L "Ok Maman, mais peux-tu nous laisser regarder le spectacle?"
 
 # game/UpdateScript0.05.rpy:2577
 translate french lounge_finger_a8171d60:
 
     # M "Oh.... right.... Sorry! I'd better go get my clothes on anyways!"
+    M "Oh.... d'accord... Désolé ! Je ferais mieux d'aller m'habiller quand même !"
 
 # game/UpdateScript0.05.rpy:2580
 translate french lounge_finger_c42665e3:
 
     # L "Oh my God!.... She has no idea!"
+    L "Oh mon Dieu!.... Elle n'en a aucune idée !"
 
 # game/UpdateScript0.05.rpy:2581
 translate french lounge_finger_84c41599:
 
     # R "And if she did, she'd probably cut my nuts off!"
+    R "Et si elle le faisait, elle me couperait probablement les couilles!"
 
 # game/UpdateScript0.05.rpy:2582
 translate french lounge_finger_dfd7f350:
 
     # L "Hehehe...."
+    L "Hehehe...."
 
 # game/UpdateScript0.05.rpy:2591
 translate french lounge_bj_2152f7d6:
 
     # L "Yeah.... I'd love to get more practice!"
+    L "Ouais.... J'aimerais avoir plus de pratique!"
 
 # game/UpdateScript0.05.rpy:2596
 translate french lounge_bj_34cfcad8:
 
     # L "This one's going to feel even better than the last one!"
+    L "Celui-ci va se sentir encore mieux que le dernier!"
 
 # game/UpdateScript0.05.rpy:2597
 translate french lounge_bj_ad51e31a:
 
     # R "I can't wait!"
+    R "Je ne peux pas attendre !"
 
 # game/UpdateScript0.05.rpy:2605
 translate french lounge_bj_0a3d847b:
@@ -5956,71 +6678,85 @@ translate french lounge_bj_c2ef5c96:
 translate french lounge_finish_d4415005:
 
     # R "Oh, fuck!.... Here it comes!"
+    R "Oh, putain!.... Voilà !"
 
 # game/UpdateScript0.05.rpy:2666
 translate french lounge_finish_95183902:
 
     # L "Holy fuck, I did it again!"
+    L "Putain, je l'ai fait de nouveau!"
 
 # game/UpdateScript0.05.rpy:2667
 translate french lounge_finish_ca9a9190:
 
     # R "Yeah! You are definitely getting better!"
+    R "Oui! Tu t'améliores!"
 
 # game/UpdateScript0.05.rpy:2672
 translate french lounge_finish_84d74e7d:
 
     # L "So, are we still watching the same episode we watched last time?"
+    L "Alors, regardons-nous toujours le même épisode que la dernière fois?"
 
 # game/UpdateScript0.05.rpy:2673
 translate french lounge_finish_e13b83db:
 
     # R "Yeah.... For some reason we can't ever get through an entire episode."
+    R "Ouais.... Pour une raison quelconque, nous ne pouvons jamais finir un épisode entier."
 
 # game/UpdateScript0.05.rpy:2674
 translate french lounge_finish_210da45d:
 
     # L "Mmmmm.... For a good reason!"
+    L "Mmmmm.... Pour une bonne raison !"
 
 # game/UpdateScript0.05.rpy:2677
 translate french lounge_finish_831b822d:
 
     # M "Oohhhh.... I love seeing you so close! You two haven't been this chummy in a while."
+    M "Oohhhh.... J'adore te voir si près! Tu n'as pas été aussi proche depuis un moment."
 
 # game/UpdateScript0.05.rpy:2678
 translate french lounge_finish_763fe10f:
 
     # M "You almost look like a couple."
+    M "Vous ressemblez presque à un couple."
 
 # game/UpdateScript0.05.rpy:2679
 translate french lounge_finish_41822f99:
 
     # M "So, just make sure you don't act like that in front of anybody we know."
+    M "Donc, assurez-vous de ne pas agir comme ça devant quelqu'un que nous connaissons."
 
 # game/UpdateScript0.05.rpy:2680
 translate french lounge_finish_16d917c8:
 
     # L "Ok Mom, but can you just let us watch the show?"
+    L "Ok Maman, mais peux-tu nous laisser regarder le spectacle?"
 
 # game/UpdateScript0.05.rpy:2681
 translate french lounge_finish_a8171d60:
 
     # M "Oh.... right.... Sorry! I'd better go get my clothes on anyways!"
+    M "Oh.... d'accord... Désolé ! Je ferais mieux d'aller m'habiller quand même !"
 
 # game/UpdateScript0.05.rpy:2684
 translate french lounge_finish_c42665e3:
 
     # L "Oh my God!.... She has no idea!"
+    L "Oh mon Dieu!.... Elle n'en a aucune idée !"
 
 # game/UpdateScript0.05.rpy:2685
 translate french lounge_finish_84c41599:
 
     # R "And if she did, she'd probably cut my nuts off!"
+    R "Et si elle le faisait, elle me couperait probablement les couilles!"
 
 # game/UpdateScript0.05.rpy:2686
 translate french lounge_finish_dfd7f350:
 
     # L "Hehehe...."
+    L "Hehehe...."
 
 # game/UpdateScript0.05.rpy:2697
 translate french reward_for_payment_34a9d44a:
@@ -6098,6 +6834,7 @@ translate french reward_for_payment_136da53b:
 translate french reward_for_payment_1b50618c:
 
     # M "Oh, my little man!"
+    M "Oh, mon petit homme !"
 
 # game/UpdateScript0.05.rpy:2724
 translate french reward_for_payment_28ffd828:
@@ -6217,96 +6954,115 @@ translate french reward_for_payment_004f965b:
 translate french reward_for_payment_820b350c:
 
     # M "Wait!.... Honey, please wait!.... Don't drop me!"
+    M "Attends ! .... Chéri, S'il te plait, attends! .... Ne me laisse pas tomber !"
 
 # game/UpdateScript0.05.rpy:2759
 translate french reward_for_payment_1dd15601:
 
     # R "Uhhh.... but...."
+    R "Uhhh .... mais ...."
 
 # game/UpdateScript0.05.rpy:2760
 translate french reward_for_payment_b1570aef:
 
     # M "I know already that you have an erection, and not the runs."
+    M "Je sais déjà que tu as une érection, et pas les manèges."
 
 # game/UpdateScript0.05.rpy:2761
 translate french reward_for_payment_b758f357:
 
     # M "Now, please gently, let me down."
+    M "Maintenant, doucement, laisses-moi tomber."
 
 # game/UpdateScript0.05.rpy:2765
 translate french reward_for_payment_2f13a96a:
 
     # R "God!.... This is so embarrassing!"
+    R "Mon dieu !.... C'est si embarrassant!"
 
 # game/UpdateScript0.05.rpy:2766
 translate french reward_for_payment_7430be9b:
 
     # M "Embarrassing, and a bit of a problem, isn't it?"
+    M "Embarrassant, et un peu problématique, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:2767
 translate french reward_for_payment_ab65f08e:
 
     # M "You get one every time you hug me, don't you?"
+    M "Tu l'obtiens un chaque fois que tu me câline, n'est-ce pas?"
 
 # game/UpdateScript0.05.rpy:2768
 translate french reward_for_payment_15eb8c50:
 
     # R "Ummmm.... Mostly, yes...."
+    R "Ummmm.... En général, oui...."
 
 # game/UpdateScript0.05.rpy:2769
 translate french reward_for_payment_37bb3102:
 
     # M "Well, let me see how bad it is."
+    M "Eh bien, laisses-moi voir à quel point c'est mauvais."
 
 # game/UpdateScript0.05.rpy:2772
 translate french reward_for_payment_5e7aedfc:
 
     # R "Holy shit, Mom!.... You're grabbing my cock!"
+    R "Merde, Maman!.... Tu attrapes ma bite!"
 
 # game/UpdateScript0.05.rpy:2773
 translate french reward_for_payment_5b89bba6:
 
     # M "SShhhh.... I don't want your sisters to hear!"
+    M "SShhhh.... Je ne veux pas que tes sœurs l'entendent!"
 
 # game/UpdateScript0.05.rpy:2774
 translate french reward_for_payment_81a2a53a:
 
     # M "Just as I thought.... Hard as a rock!"
+    M "Comme je le pensais.... Dur comme un roc !"
 
 # game/UpdateScript0.05.rpy:2775
 translate french reward_for_payment_ea75a6e4:
 
     # R "Mom!...."
+    R "Maman!...."
 
 # game/UpdateScript0.05.rpy:2776
 translate french reward_for_payment_1f4bcbee:
 
     # M "Ok.... Here's what I need you to do."
+    M "D'accord.... Voici ce que j'ai besoin que tu fasses."
 
 # game/UpdateScript0.05.rpy:2777
 translate french reward_for_payment_5c737139:
 
     # M "Go into the bathroom, and wait for me."
+    M "Vas dans la salle de bain et attends-moi."
 
 # game/UpdateScript0.05.rpy:2778
 translate french reward_for_payment_644623a4:
 
     # M "I'm going to send your sisters on an errand so they're out of the house, and then I'll come find you in the bathroom."
+    M "Je vais envoyer tes sœurs faire une course pour qu'elles sortent de la maison, et ensuite je viendrais te trouver dans la salle de bain."
 
 # game/UpdateScript0.05.rpy:2779
 translate french reward_for_payment_0136ef1f:
 
     # R "But, what is...."
+    R "Mais, qu'est-ce que c'est...."
 
 # game/UpdateScript0.05.rpy:2780
 translate french reward_for_payment_85cc46fa:
 
     # M "Don't argue, just do what I say."
+    M "Ne discutes pas, faites simplement ce que je dis."
 
 # game/UpdateScript0.05.rpy:2781
 translate french reward_for_payment_3ed3c9db:
 
     # R "Yes, Mom!"
+    R "Oui, Maman!"
 
 # game/UpdateScript0.05.rpy:2784
 translate french reward_for_payment_2e1c4340:
@@ -6318,76 +7074,91 @@ translate french reward_for_payment_2e1c4340:
 translate french reward_for_payment_3316e2cf:
 
     # M "I'm going to lock the doors, just in case the girls come back for something."
+    M "Je vais verrouiller les portes, juste au cas où les filles reviendraient pour quelque chose."
 
 # game/UpdateScript0.05.rpy:2788
 translate french reward_for_payment_5b9ac000:
 
     # R "Mom, what is going on?"
+    R "Maman, que se passe-t-il?"
 
 # game/UpdateScript0.05.rpy:2789
 translate french reward_for_payment_a9baeb85:
 
     # M "Patience, dear."
+    M "Patience, mon chère."
 
 # game/UpdateScript0.05.rpy:2790
 translate french reward_for_payment_38c894fd:
 
     # M "I'll explain in just a second."
+    M "Je vais t'expliquer en une seconde."
 
 # game/UpdateScript0.05.rpy:2793
 translate french reward_for_payment_f919c5ab:
 
     # M "So, it looks like your erection hasn't gone down at all?"
+    M "Donc, on dirait que ton érection n'a pas du tout baissé?"
 
 # game/UpdateScript0.05.rpy:2794
 translate french reward_for_payment_fe02b357:
 
     # R "How could it when you've left me in such uncertain anticipation?"
+    R "Comment est-ce possible quand tu m'as laissé dans une anticipation aussi incertaine ?"
 
 # game/UpdateScript0.05.rpy:2795
 translate french reward_for_payment_09380079:
 
     # M "Yeah.... Sorry to be so vague."
+    M "Ouais.... Désolé d'être si vague."
 
 # game/UpdateScript0.05.rpy:2796
 translate french reward_for_payment_5445f725:
 
     # M "I didn't dare say anything until your sisters were out of the house."
+    M "Je n'ai rien osé dire jusqu'à ce que tes sœurs soient sorties de la maison."
 
 # game/UpdateScript0.05.rpy:2797
 translate french reward_for_payment_e5b187f6:
 
     # M "I was worried they might overhear something I'm about to talk to you about."
+    M "J'avais peur qu'ils entendent quelque chose dont je vais te parler."
 
 # game/UpdateScript0.05.rpy:2798
 translate french reward_for_payment_b453fdc1:
 
     # R "What is this about?"
+    R "De quoi s'agit-il ?"
 
 # game/UpdateScript0.05.rpy:2801
 translate french reward_for_payment_66ed71c8:
 
     # M "So, you know how we've been studying an Oedipus Rex centered curriculum in my literature class?"
+    M "Donc, tu sais comment nous avons étudié un programme centré sur Œdipe Rex dans mon cours de littérature?"
 
 # game/UpdateScript0.05.rpy:2802
 translate french reward_for_payment_dfdc38a3:
 
     # R "Yeah...."
+    R "Ouais...."
 
 # game/UpdateScript0.05.rpy:2803
 translate french reward_for_payment_29f7eba8:
 
     # M "And how we've talked about Sigmund Freud and his Oedipal complex?"
+    M "Et comment avons-nous parlé de Sigmund Freud et de son complexe œdipien?"
 
 # game/UpdateScript0.05.rpy:2804
 translate french reward_for_payment_f0eb8e0b:
 
     # R "Wait!.... Do you think?...."
+    R "Attends ! .... Penses-tu?...."
 
 # game/UpdateScript0.05.rpy:2807
 translate french reward_for_payment_ff721ac8:
 
     # M "Please, don't interrupt me."
+    M "S'il te plait, ne m'interromps pas."
 
 # game/UpdateScript0.05.rpy:2808
 translate french reward_for_payment_ecc45e0b:
@@ -6399,81 +7170,97 @@ translate french reward_for_payment_ecc45e0b:
 translate french reward_for_payment_43830f4b:
 
     # M "As part of the curriculum, one of the books that we have to read as teachers, is by a member of our school board Will Tylor."
+    M "Dans le cadre du programme d'études, l'un des livres que nous devons lire en tant qu'enseignants est écrit par un membre de notre commission scolaire, Will Tylor."
 
 # game/UpdateScript0.05.rpy:2810
 translate french reward_for_payment_488f0adf:
 
     # R "Ohhh.... Is he that creepy school board member that sometimes visits, and walks around the halls trying to peek up girls skirts when they bend over?"
+    R "Ohhh.... Est-il ce membre effrayant du conseil scolaire qui visite parfois et se promène dans les couloirs en essayant de regarder les jupes des filles quand elles se penchent?"
 
 # game/UpdateScript0.05.rpy:2811
 translate french reward_for_payment_f26cb3a8:
 
     # M "Yes, the very same."
+    M "Oui, lui même."
 
 # game/UpdateScript0.05.rpy:2812
 translate french reward_for_payment_683140f6:
 
     # M "Anyways, he wrote a book about Oedipal complexes, that at first I thought was total bullshit, but I'm starting to think he may be onto something, as it seems to be playing out between you and me."
+    M "De toute façon, il a écrit un livre sur les complexes œdipiens, qu'au début je pensais être une connerie totale, mais je commence à penser qu'il est peut-être sur quelque chose, car cela semble se jouer entre toi et moi."
 
 # game/UpdateScript0.05.rpy:2813
 translate french reward_for_payment_9d74a85c:
 
     # R "Playing out?"
+    R "Jouer à l'extérieur?"
 
 # game/UpdateScript0.05.rpy:2816
 translate french reward_for_payment_668f024a:
 
     # M "You know.... Following me to a strip club and watching me dance.... Your overwhelming desire to provide for me.... The way you get erections whenever I hug you...."
+    M "Tu sais.... Me suivre dans un club de strip-tease et me regarder danser.... Ton désir impérieux de subvenir à mes besoins.... La façon dont tu as des érections chaque fois que je te serre dans mes bras...."
 
 # game/UpdateScript0.05.rpy:2817
 translate french reward_for_payment_754bbf38:
 
     # M "Your interests in a certain genre of H-games, and what happened between us in my office as a consequence...."
+    M "Tes intérêts dans un certain genre de jeux H, et ce qui s'est passé entre nous dans mon bureau en conséquence...."
 
 # game/UpdateScript0.05.rpy:2819
 translate french reward_for_payment_f2b09675:
 
     # M "....Then there's the incident at the pool...."
+    M "....Ensuite, il y a l'incident à la piscine...."
 
 # game/UpdateScript0.05.rpy:2820
 translate french reward_for_payment_d77766ef:
 
     # R "You were the one who...."
+    R "C’est toi qui...."
 
 # game/UpdateScript0.05.rpy:2821
 translate french reward_for_payment_b3a6beec:
 
     # M "I'm not talking about that, I'm talking about when you grabbed my breasts to \"try and protect me\"."
+    M "Je ne parle pas de ça, je parle de quand tu as attrapé mes seins pour 'essayer de me protéger'."
 
 # game/UpdateScript0.05.rpy:2822
 translate french reward_for_payment_3e273ce5:
 
     # R "Oh...."
+    R "Oh ...."
 
 # game/UpdateScript0.05.rpy:2825
 translate french reward_for_payment_5bb94ae7:
 
     # M "Anyways.... I'm sure you won't argue that there's been an increase in these types of incidents since your father went to prison."
+    M "De toute façon.... Je suis sûr que tu ne diras pas qu'il y a eu une augmentation de ce genre d'incidents depuis que ton père est allé en prison."
 
 # game/UpdateScript0.05.rpy:2826
 translate french reward_for_payment_f4804993:
 
     # R "Yeah, I guess I can't argue with that."
+    R "Ouais, je suppose que je ne peux pas discuter avec ça."
 
 # game/UpdateScript0.05.rpy:2829
 translate french reward_for_payment_d8e74a8f:
 
     # M "So, the big question is.... What do we do about it?"
+    M "Donc, la grande question est.... Que faisons-nous à ce sujet?"
 
 # game/UpdateScript0.05.rpy:2830
 translate french reward_for_payment_6a587648:
 
     # R "I guess.... I can try to be less perverted?"
+    R "Je suppose.... Je peux essayer d'être moins pervers?"
 
 # game/UpdateScript0.05.rpy:2831
 translate french reward_for_payment_d9e6736d:
 
     # M "No, I mean what can we \"realistically\" do about this?"
+    M "Non, je veux dire que pouvons-nous faire 'de manière réaliste' à ce sujet?"
 
 # game/UpdateScript0.05.rpy:2832
 translate french reward_for_payment_dc7a84b6:
@@ -6485,71 +7272,85 @@ translate french reward_for_payment_dc7a84b6:
 translate french reward_for_payment_dabacab4:
 
     # M "So, Will Tylor theorizes that a young man can get stuck in an Oedipal phase if he's not allowed to let it run it's course."
+    M "Ainsi, Will Tylor théorise qu'un jeune homme peut rester coincé dans une phase œdipienne s'il n'est pas autorisé à le laisser suivre son cours."
 
 # game/UpdateScript0.05.rpy:2836
 translate french reward_for_payment_1d7cfac8:
 
     # M "Kind of like how children can get stuck in oral phases when you take their pacifier away, or make them stop sucking their thumbs before they are ready."
+    M "Un peu comme la façon dont les enfants peuvent rester coincés dans les phases orales lorsque vous enlevez leur tétine ou les obligez à arrêter de sucer leurs pouces avant qu'ils ne soient prêts."
 
 # game/UpdateScript0.05.rpy:2837
 translate french reward_for_payment_1c41966f:
 
     # M "When you do that to a child, it makes them constantly want to stick things in their mouths."
+    M "Lorsque vous faites cela à un enfant, cela lui donne constamment envie de lui coller des choses dans la bouche."
 
 # game/UpdateScript0.05.rpy:2838
 translate french reward_for_payment_745a9bf0:
 
     # M "So, if Will Tylor is right, if we don't let this phase run it's course, you might never get rid of these propensities."
+    M "Donc, si Will Tylor a raison, si nous ne laissons pas cette phase se dérouler, tu pourrais ne jamais te débarrasser de ces propensions."
 
 # game/UpdateScript0.05.rpy:2839
 translate french reward_for_payment_545fae76:
 
     # R "So, what does that mean?"
+    R "Alors, qu'est-ce que cela signifie?"
 
 # game/UpdateScript0.05.rpy:2840
 translate french reward_for_payment_0de18989:
 
     # M "I don't know.... Will Tylor doesn't elaborate, so I guess it's up to our own interpretation."
+    M "Je ne sais pas.... Will Tylor n'élabore pas, donc je suppose que c'est à notre propre interprétation."
 
 # game/UpdateScript0.05.rpy:2843
 translate french reward_for_payment_a3d2ef80:
 
     # M "I want to try killing two birds with one stone."
+    M "Je veux essayer de faire d'une pierre deux coups."
 
 # game/UpdateScript0.05.rpy:2844
 translate french reward_for_payment_128c4d5d:
 
     # R "So, you have a plan?"
+    R "Alors, tu as un plan?"
 
 # game/UpdateScript0.05.rpy:2845
 translate french reward_for_payment_d7f7b307:
 
     # M "Only if you agree to it."
+    M "Seulement si tu l'acceptes."
 
 # game/UpdateScript0.05.rpy:2846
 translate french reward_for_payment_d566d40d:
 
     # R "I'm all ears."
+    R "Je suis tout ouïe."
 
 # game/UpdateScript0.05.rpy:2849
 translate french reward_for_payment_8e55057d:
 
     # M "I'm really grateful for the way you've been keeping me from having to work at the strip club, so, I really want to reward you for your selfless efforts on my behalf."
+    M "Je suis vraiment reconnaissante de la façon dont tu m'as empêché de travailler au club de strip-tease, alors je veux vraiment te récompenser pour tes efforts désintéressés en mon nom."
 
 # game/UpdateScript0.05.rpy:2850
 translate french reward_for_payment_e26d88ba:
 
     # M "And I think I can safely give you the kind of reward that might, at the same time, help us transition you out of your Oedipal phase."
+    M "Et je pense pouvoir te donner en toute sécurité le genre de récompense qui pourrait, en même temps, nous aider à te faire sortir de ta phase œdipienne."
 
 # game/UpdateScript0.05.rpy:2851
 translate french reward_for_payment_95f92483:
 
     # R "I'm still listening."
+    R "J'écoute toujours."
 
 # game/UpdateScript0.05.rpy:2854
 translate french reward_for_payment_e0649597:
 
     # M "What if I were to.... Oh, how do I put this delicately?.... Give you a handjob?"
+    M "Et si je le devais.... Oh, comment je mets ça délicatement?.... Te donner une branlette?"
 
 # game/UpdateScript0.05.rpy:2855
 translate french reward_for_payment_dc7a84b6_1:
@@ -6561,46 +7362,55 @@ translate french reward_for_payment_dc7a84b6_1:
 translate french reward_for_payment_e4955c27:
 
     # R "Are you testing me?"
+    R "Tu me teste?"
 
 # game/UpdateScript0.05.rpy:2857
 translate french reward_for_payment_34ad2997:
 
     # R "Is this some sort of trap where you'll kick me out of the house if I give you the wrong answer?"
+    R "Est-ce une sorte de piège où tu me chasseras de la maison si je te donne la mauvaise réponse?"
 
 # game/UpdateScript0.05.rpy:2858
 translate french reward_for_payment_30511248:
 
     # M "No!.... nothing like that."
+    M "Non!.... rien de tel."
 
 # game/UpdateScript0.05.rpy:2861
 translate french reward_for_payment_03be484a:
 
     # M "I'm completely serious, and I'm willing to do this for you if you can be mature about it."
+    M "Je suis complètement sérieuse, et je suis prêt à le faire pour toi si tu peux être mature à ce sujet."
 
 # game/UpdateScript0.05.rpy:2862
 translate french reward_for_payment_f16f0cd3:
 
     # R "Uhhhh...."
+    R "Uhhhh ...."
 
 # game/UpdateScript0.05.rpy:2863
 translate french reward_for_payment_56bf1eb2:
 
     # R "I'm shocked.... This reminds me of one of those ga...."
+    R "Je suis choqué.... Cela me rappelle l'un de ces ga...."
 
 # game/UpdateScript0.05.rpy:2864
 translate french reward_for_payment_dcaa5441:
 
     # M "Don't you dare say it's like one of your H-games!"
+    M "N'oses pas me dire que c'est comme l'un de tes H-games!"
 
 # game/UpdateScript0.05.rpy:2865
 translate french reward_for_payment_a1974920:
 
     # M "In those games the MC gets to have sex.... That's not going to happen between us!"
+    M "Dans ces jeux, le MC peut avoir des relations sexuelles.... Ça n'arrivera pas entre nous !"
 
 # game/UpdateScript0.05.rpy:2866
 translate french reward_for_payment_89b50a3a:
 
     # R "Oh, gross!.... You're my mom.... I could never think about doing that with you."
+    R "Oh, dégueulasse!.... Tu es ma mère.... Je ne pourrais jamais penser à faire ça avec toi."
 
 # game/UpdateScript0.05.rpy:2867
 translate french reward_for_payment_190a465f:
@@ -6612,36 +7422,43 @@ translate french reward_for_payment_190a465f:
 translate french reward_for_payment_c4852743:
 
     # M "Well, you better not have your hopes set on anything like that, because that won't happen in a million years."
+    M "Eh bien, tu ferais mieux de ne pas avoir d'espoirs sur quelque chose comme ça, parce que cela n'arrivera pas dans un million d'années."
 
 # game/UpdateScript0.05.rpy:2869
 translate french reward_for_payment_f1fd42c0:
 
     # M "And this isn't going to be erotic, this is homemade therapy because we can't afford the real kind."
+    M "Et ce ne sera pas érotique, c'est une thérapie maison parce que nous ne pouvons pas nous permettre le vrai genre."
 
 # game/UpdateScript0.05.rpy:2870
 translate french reward_for_payment_5c6d9ec0:
 
     # R "Wow, Mom.... You're making this experience incredibly hot for me.... Do you teach classes on how to set the mood?"
+    R "Wow, Maman.... Tu rends cette expérience incroyablement chaude pour moi.... Enseignes-tu des cours sur la façon de mettre l'ambiance?"
 
 # game/UpdateScript0.05.rpy:2871
 translate french reward_for_payment_96cb4af2:
 
     # M "Don't be a smartass!"
+    M "Ne sois pas un petit con!"
 
 # game/UpdateScript0.05.rpy:2872
 translate french reward_for_payment_fff7d5b5:
 
     # M "So, if you want me to do this, get your shorts off, and jump up on the vanity."
+    M "Donc, si tu veux que je fasse ça, enlève ton short et saute sur ta vanité."
 
 # game/UpdateScript0.05.rpy:2878
 translate french reward_for_payment_36e5bd82:
 
     # R "Like this?"
+    R "Comme ça?"
 
 # game/UpdateScript0.05.rpy:2879
 translate french reward_for_payment_23d51e32:
 
     # M "Ummm.... Yeah...."
+    M "Euh.... Oui...."
 
 # game/UpdateScript0.05.rpy:2880
 translate french reward_for_payment_35e234e8:
@@ -6665,11 +7482,13 @@ translate french reward_for_payment_7818dec8:
 translate french reward_for_payment_7dd770a3:
 
     # M "Uuummm.... So, are you ready?...."
+    M "Uuummm .... Alors, es-tu prêt?...."
 
 # game/UpdateScript0.05.rpy:2886
 translate french reward_for_payment_d21f94fe:
 
     # R "Uuuhhh.... This is weird.... and feels kind of wrong.... but I think you're right.... we should see if this works."
+    R "Uuuhhh.... C'est bizarre.... et se sent un peu mal.... mais je pense que tu as raison.... on devrait voir si ça marche."
 
 # game/UpdateScript0.05.rpy:2887
 translate french reward_for_payment_08834637:
@@ -6681,6 +7500,7 @@ translate french reward_for_payment_08834637:
 translate french reward_for_payment_879c5a15:
 
     # M "Ok.... Here goes nothing."
+    M "Ok.... Ça ne marche pas."
 
 # game/UpdateScript0.05.rpy:2892
 translate french reward_for_payment_51838061:
@@ -6728,6 +7548,7 @@ translate french reward_for_payment_6fa02354:
 translate french reward_for_payment_43656978:
 
     # M "Is something wrong [ryan]? I thought for sure you would have ejaculated by now!"
+    M "Quelque chose ne va pas [ryan]? Je pensais que tu aurais éjaculé maintenant!"
 
 # game/UpdateScript0.05.rpy:2908
 translate french reward_for_payment_85047c5d:
@@ -6745,71 +7566,85 @@ translate french reward_for_payment_f3a1df96:
 translate french reward_for_payment_598ffddb:
 
     # R "I think it's just about the way we're going about this.... It's just not very sexy."
+    R "Je pense que c'est juste la façon dont nous allons à ce sujet.... C'est juste pas très sexy."
 
 # game/UpdateScript0.05.rpy:2912
 translate french reward_for_payment_a1d32420:
 
     # M "Well, I don't want it to be very sexy.... I just want you to ejaculate so we can see if this is going to help you."
+    M "Eh bien, je ne veux pas que ce soit très sexy.... Je veux juste que tu éjacules pour qu'on puisse voir si ça va t'aider."
 
 # game/UpdateScript0.05.rpy:2913
 translate french reward_for_payment_e516c125:
 
     # R "Yeah.... That's what I mean.... How am I supposed to cum, when this feels more like a check-up at the doctor's office?"
+    R "Ouais.... C'est ce que je veux dire.... Comment suis-je censé jouir, alors que cela ressemble plus à un check-up chez le médecin?"
 
 # game/UpdateScript0.05.rpy:2914
 translate french reward_for_payment_1b79b09c:
 
     # M "[ryan], I hope you've never had a visit to the doctor's office like this."
+    M "[ryan], j'espère que tu n'as jamais eu de visite chez le médecin comme ça."
 
 # game/UpdateScript0.05.rpy:2915
 translate french reward_for_payment_5a8fd81d:
 
     # R "No, I just mean, that this is cold, impersonal.... boring."
+    R "Non, je veux juste dire que c'est froid, impersonnel.... ennuyeux."
 
 # game/UpdateScript0.05.rpy:2918
 translate french reward_for_payment_c67c0dbf:
 
     # M "Well, you're still hard."
+    M "Eh bien, tu es toujours dur."
 
 # game/UpdateScript0.05.rpy:2919
 translate french reward_for_payment_b46e6f4a:
 
     # R "That's how I am half of the day."
+    R "C'est comme ça que je suis la moitié de la journée."
 
 # game/UpdateScript0.05.rpy:2920
 translate french reward_for_payment_8532053b:
 
     # M "Hmmmm.... Well, what do you suggest?"
+    M "Hmmmm.... Que suggères-tu?"
 
 # game/UpdateScript0.05.rpy:2921
 translate french reward_for_payment_d56bf7fb:
 
     # R "I don't know, make it sexy!"
+    R "Je ne sais pas, le rendre sexy !"
 
 # game/UpdateScript0.05.rpy:2922
 translate french reward_for_payment_fbba07ff:
 
     # R "Act like you are enjoying it."
+    R "Agis comme si tu l'appréciais."
 
 # game/UpdateScript0.05.rpy:2923
 translate french reward_for_payment_f73949b6:
 
     # R "Talk dirty to me."
+    R "Parles-moi sale."
 
 # game/UpdateScript0.05.rpy:2926
 translate french reward_for_payment_16bb28a4:
 
     # M "Ohhh.... I don't know if that's a good idea."
+    M "Ohhh.... Je ne sais pas si c'est une bonne idée."
 
 # game/UpdateScript0.05.rpy:2927
 translate french reward_for_payment_ab9571de:
 
     # M "I'm just going to keep going the way I am if it's all the same to you."
+    M "Je vais juste continuer comme je suis si c'est pareil pour toi."
 
 # game/UpdateScript0.05.rpy:2928
 translate french reward_for_payment_c4832489:
 
     # R "Alright, but this could take a while!"
+    R "D'accord, mais cela pourrait prendre un certain temps!"
 
 # game/UpdateScript0.05.rpy:2932
 translate french reward_for_payment_7315addb:
@@ -6839,11 +7674,13 @@ translate french reward_for_payment_4b31337d:
 translate french reward_for_payment_33fb1dab:
 
     # M "Are you close yet?"
+    M "Es-tu prêt ?"
 
 # game/UpdateScript0.05.rpy:2946
 translate french reward_for_payment_3a2fe1f4:
 
     # R "Not yet!"
+    R "Pas encore!"
 
 # game/UpdateScript0.05.rpy:2947
 translate french reward_for_payment_0d313082:
@@ -6855,21 +7692,25 @@ translate french reward_for_payment_0d313082:
 translate french reward_for_payment_9a1b613b:
 
     # M "Shit!.... Your sisters are going to be home soon!"
+    M "Merde!.... Tes sœurs vont bientôt rentrer!"
 
 # game/UpdateScript0.05.rpy:2950
 translate french reward_for_payment_b8c42acd:
 
     # R "I'm trying!.... It just feels more like pressure to perform, than fun."
+    R "J'essaie!.... Cela ressemble plus à de la pression pour performer qu'à du plaisir."
 
 # game/UpdateScript0.05.rpy:2953
 translate french reward_for_payment_901cf462:
 
     # M "Uuuuuuhhhhh.... Fine!...."
+    M "Uuuuuuhhhhh.... Très bien !...."
 
 # game/UpdateScript0.05.rpy:2957
 translate french reward_for_payment_9e40e14f:
 
     # M "Oh, fuck!.... I love this huge, meaty cock!"
+    M "Oh, putain!.... J'adore cette énorme bite charnue!"
 
 # game/UpdateScript0.05.rpy:2958
 translate french reward_for_payment_238ab466:
@@ -6881,6 +7722,7 @@ translate french reward_for_payment_238ab466:
 translate french reward_for_payment_ec1184d8:
 
     # M "I want to take it down my throat and fill my stomach with your cum!"
+    M "Je veux la prendre dans ma gorge et me remplir le ventre de ton sperme!"
 
 # game/UpdateScript0.05.rpy:2960
 translate french reward_for_payment_341c7156:
@@ -6892,11 +7734,13 @@ translate french reward_for_payment_341c7156:
 translate french reward_for_payment_9fff7642:
 
     # M "I need that cum soooo bad!"
+    M "J'ai besoin de ce sperme tellement mauvais!"
 
 # game/UpdateScript0.05.rpy:2962
 translate french reward_for_payment_4e5c35c3:
 
     # M "Please! I need my big strong boy to shoot his load all over my face!"
+    M "S'il te plaît! J'ai besoin de mon grand garçon fort pour tirer sa charge sur mon visage!"
 
 # game/UpdateScript0.05.rpy:2963
 translate french reward_for_payment_1d55fc06:
@@ -6914,11 +7758,13 @@ translate french reward_for_payment_5f707b55:
 translate french reward_for_payment_2f6a6165:
 
     # R "Oh, fuck Mom! That did it!"
+    R "Oh, putain de maman! Ça le fait!"
 
 # game/UpdateScript0.05.rpy:2968
 translate french reward_for_payment_fafacc7c:
 
     # R "Here I cuuummm!"
+    R "Ici je joouuuiiiiisss!"
 
 # game/UpdateScript0.05.rpy:2971
 translate french reward_for_payment_a7adba91:
@@ -6954,6 +7800,7 @@ translate french reward_for_payment_2b6e3c0e:
 translate french reward_for_payment_1d59c4e3:
 
     # M "Oh, my poor boy!.... Why don't you run to the bathroom, and I'll go get rid of your sisters."
+    M "Oh, mon pauvre garçon!.... Pourquoi ne courrais-tu pas aux toilettes, et j'irai me débarrasser de tes sœurs."
 
 # game/UpdateScript0.05.rpy:2983
 translate french reward_for_payment_2e1c4340_1:
@@ -6965,56 +7812,67 @@ translate french reward_for_payment_2e1c4340_1:
 translate french reward_for_payment_e020075c:
 
     # M "The door is locked this time.... Just in case."
+    M "La porte est verrouillée cette fois.... Au cas où."
 
 # game/UpdateScript0.05.rpy:2989
 translate french reward_for_payment_b5a89075:
 
     # M "So, did you masturbate this week like I asked you?"
+    M "Alors, tu t'es masturbé cette semaine comme je t'ai demandé?"
 
 # game/UpdateScript0.05.rpy:2990
 translate french reward_for_payment_7e6a24e1:
 
     # R "Yeah, I did a few times."
+    R "Oui, je l'ai fait quelques fois."
 
 # game/UpdateScript0.05.rpy:2991
 translate french reward_for_payment_b33a1d5e:
 
     # M "Good boy! Way to go above and beyond."
+    M "Bon garçon! Moyen d'aller au-delà."
 
 # game/UpdateScript0.05.rpy:2994
 translate french reward_for_payment_28fb440f:
 
     # M "So, do you need another handy this week?"
+    M "Alors, as-tu besoin d'une autre pratique cette semaine?"
 
 # game/UpdateScript0.05.rpy:2997
 translate french reward_for_payment_07cb576f:
 
     # M "Good. Hopefully it will get us closer to taking care of your extra cum production, and your Oedipal phase at the same time."
+    M "Bien. J'espère que cela nous rapprochera de la prise en charge de ta production de sperme supplémentaire et de ta phase œdipienne en même temps."
 
 # game/UpdateScript0.05.rpy:2998
 translate french reward_for_payment_3f1f6df3:
 
     # R "You are one efficient mom!"
+    R "Tu es une maman efficace!"
 
 # game/UpdateScript0.05.rpy:2999
 translate french reward_for_payment_f7acd117:
 
     # M "It comes with being a school teacher."
+    M "Cela vient avec le fait d'être professeur d'école."
 
 # game/UpdateScript0.05.rpy:3000
 translate french reward_for_payment_cc559e70:
 
     # M "Alright, get your shorts off and jump up on the vanity."
+    M "D'accord, enlève ton short et saute sur la vanité."
 
 # game/UpdateScript0.05.rpy:3006
 translate french reward_for_payment_36e5bd82_1:
 
     # R "Like this?"
+    R "Comme ça?"
 
 # game/UpdateScript0.05.rpy:3007
 translate french reward_for_payment_dbe19c75:
 
     # M "Perfect, once again...."
+    M "Parfait, encore une fois...."
 
 # game/UpdateScript0.05.rpy:3008
 translate french reward_for_payment_97db6a7f:
@@ -7038,16 +7896,19 @@ translate french reward_for_payment_d2999e88:
 translate french reward_for_payment_7dd770a3_1:
 
     # M "Uuummm.... So, are you ready?...."
+    M "Uuummm .... Alors, es-tu prêt?...."
 
 # game/UpdateScript0.05.rpy:3014
 translate french reward_for_payment_115fc37b:
 
     # R "Yeah.... I'll try to be faster this time."
+    R "Ouais.... Je vais essayer d'être plus rapide cette fois."
 
 # game/UpdateScript0.05.rpy:3015
 translate french reward_for_payment_879c5a15_1:
 
     # M "Ok.... Here goes nothing."
+    M "Ok.... Ça ne marche pas."
 
 # game/UpdateScript0.05.rpy:3019
 translate french reward_for_payment_91c14525:
@@ -7065,16 +7926,19 @@ translate french reward_for_payment_948618b1:
 translate french reward_for_payment_8f98b212:
 
     # R "Oh.... God!.... Mom, you have the softest hands!"
+    R "Oh.... Dieu !.... Maman, tu as les mains les plus douces!"
 
 # game/UpdateScript0.05.rpy:3025
 translate french reward_for_payment_09fcedfb:
 
     # M "Alright, [ryan]! This time, we don't have time to mess around! I'm going to jump straight to the dirty talk."
+    M "D'accord, [ryan]! Cette fois, on n'a pas le temps de déconner ! Je vais passer directement au sale discours."
 
 # game/UpdateScript0.05.rpy:3029
 translate french reward_for_payment_61c0f43f:
 
     # M "Oh, damn!.... I just can't get enough of that cock!"
+    M "Oh, putain!.... Je n'en ai pas assez de cette bite !"
 
 # game/UpdateScript0.05.rpy:3030
 translate french reward_for_payment_238ab466_1:
@@ -7086,6 +7950,7 @@ translate french reward_for_payment_238ab466_1:
 translate french reward_for_payment_ec1184d8_1:
 
     # M "I want to take it down my throat and fill my stomach with your cum!"
+    M "Je veux la prendre dans ma gorge et me remplir le ventre de ton sperme!"
 
 # game/UpdateScript0.05.rpy:3032
 translate french reward_for_payment_341c7156_1:
@@ -7097,6 +7962,7 @@ translate french reward_for_payment_341c7156_1:
 translate french reward_for_payment_9fff7642_1:
 
     # M "I need that cum soooo bad!"
+    M "J'ai besoin de ce sperme tellement mauvais!"
 
 # game/UpdateScript0.05.rpy:3034
 translate french reward_for_payment_53b85461:
@@ -7114,66 +7980,79 @@ translate french reward_for_payment_3265e8ee:
 translate french reward_for_payment_4e5c35c3_1:
 
     # M "Please! I need my big strong boy to shoot his load all over my face!"
+    M "S'il te plaît! J'ai besoin de mon grand garçon fort pour tirer sa charge sur mon visage!"
 
 # game/UpdateScript0.05.rpy:3038
 translate french reward_for_payment_d8ab19cc:
 
     # R "Oh fuck, Mom! That did it!"
+    R "Oh putain, maman! Ça arrive!"
 
 # game/UpdateScript0.05.rpy:3039
 translate french reward_for_payment_fafacc7c_1:
 
     # R "Here I cuuummm!"
+    R "Ici je joouuuiiiiisss!"
 
 # game/UpdateScript0.05.rpy:3044
 translate french reward_for_payment_a6c85f35:
 
     # M "Alright, suit yourself."
+    M "D'accord, comme tu veux."
 
 # game/UpdateScript0.05.rpy:3045
 translate french reward_for_payment_697951ec:
 
     # M "But I'm glad you don't feel like you need me to do that for you this week!"
+    M "Mais je suis content que tu n'as pas envie que je fasse ça pour toi cette semaine!"
 
 # game/UpdateScript0.05.rpy:3046
 translate french reward_for_payment_00d52871:
 
     # M "That's definitely progress!"
+    M "C'est vraiment du progrès!"
 
 # game/UpdateScript0.05.rpy:3065
 translate french bath_hj_cum_62322017:
 
     # M "Fuck, [ryan]! That's still too much cum!"
+    M "Putain, [ryan]! C'est encore trop de sperme!"
 
 # game/UpdateScript0.05.rpy:3067
 translate french bath_hj_cum_3d577af7:
 
     # M "Fuck, [ryan]! That's a lot of cum!"
+    M "Putain, [ryan]! C'est beaucoup de sperme!"
 
 # game/UpdateScript0.05.rpy:3071
 translate french bath_hj_cum_4d73eb3b:
 
     # M "God! There's more?"
+    M "Mon dieu! Il y en a plus ?"
 
 # game/UpdateScript0.05.rpy:3074
 translate french bath_hj_cum_36d7bcf9:
 
     # M "[ryan], that was way more cum than you should have!"
+    M "[ryan], c'était beaucoup plus de sperme que tu n'aurais dû!"
 
 # game/UpdateScript0.05.rpy:3075
 translate french bath_hj_cum_47f89b68:
 
     # M "I'm worried you're not masturbating enough."
+    M "J'ai peur que tu ne te masturbes pas assez."
 
 # game/UpdateScript0.05.rpy:3076
 translate french bath_hj_cum_1d5867ec:
 
     # R "But I masturbate almost every...."
+    R "Mais je me masturbe presque tous les...."
 
 # game/UpdateScript0.05.rpy:3077
 translate french bath_hj_cum_0df21fc6:
 
     # M "You should probably be masturbating at least twice a week."
+    M "Tu devrais probablement te masturber au moins deux fois par semaine."
 
 # game/UpdateScript0.05.rpy:3078
 translate french bath_hj_cum_126aba23:
@@ -7185,36 +8064,43 @@ translate french bath_hj_cum_126aba23:
 translate french bath_hj_cum_335190b5:
 
     # M "If you keep paying the Mafia debt, I'll take care of it once a week, and you can take care of yourself sometime in the middle of the week."
+    M "Si tu continues à payer la dette de la Mafia, je m'en occuperais une fois par semaine, et tu pourras prendre soin de toi au milieu de la semaine."
 
 # game/UpdateScript0.05.rpy:3082
 translate french bath_hj_cum_be1f9485:
 
     # M "Does that sound like something you can do?"
+    M "Cela ressemble-t-il à quelque chose que tu peux faire?"
 
 # game/UpdateScript0.05.rpy:3083
 translate french bath_hj_cum_ec200cd0:
 
     # R "Don't worry, Mom! I'm all over it."
+    R "Ne t'inquiète pas, maman! Je m'en occupe."
 
 # game/UpdateScript0.05.rpy:3086
 translate french bath_hj_cum_ccb9aa00:
 
     # M "That's a good boy! Now clean this up before your sisters get home, and I'm going to go get ready for bed."
+    M "C'est un bon garçon! Maintenant, nettoies ça avant que tes sœurs ne rentrent à la maison, et je vais me préparer pour le lit."
 
 # game/UpdateScript0.05.rpy:3087
 translate french bath_hj_cum_aab5479a:
 
     # R "Thanks, Mom!"
+    R "Merci, maman!"
 
 # game/UpdateScript0.05.rpy:3090
 translate french bath_hj_cum_5c62abc7:
 
     # M "Don't mention it!"
+    M "N'en parle pas !"
 
 # game/UpdateScript0.05.rpy:3091
 translate french bath_hj_cum_c6658ecf:
 
     # M "And I mean ever!"
+    M "Et je veux dire jamais!"
 
 # game/UpdateScript0.05.rpy:3105
 translate french fix_sink_2ee69f22:
@@ -7232,36 +8118,43 @@ translate french fix_sink_89312161:
 translate french fix_sink_626085c4:
 
     # R "Hey, Mom! Way to rock that broom."
+    R "Hé, maman! C'est une façon de balancer ce balai."
 
 # game/UpdateScript0.05.rpy:3112
 translate french fix_sink_5a82f1a7:
 
     # M "What is it, [ryan]? I still don't have time for your playful banter."
+    M "Qu'est-ce que c'est, [ryan]? Je n'ai toujours pas le temps pour tes plaisanteries espiègles."
 
 # game/UpdateScript0.05.rpy:3113
 translate french fix_sink_7b75b195:
 
     # R "Sorry.... I know.... I should stop trying."
+    R "Désolé.... Je sais.... Je devrais arrêter d'essayer."
 
 # game/UpdateScript0.05.rpy:3114
 translate french fix_sink_5b012d7d:
 
     # R "I was just wondering if you needed any help with the house."
+    R "Je me demandais juste si tu avais besoin d'aide pour la maison."
 
 # game/UpdateScript0.05.rpy:3115
 translate french fix_sink_abac6e82:
 
     # M "You still want to help me around the house?...."
+    M "Tu veux toujours m'aider dans la maison?...."
 
 # game/UpdateScript0.05.rpy:3118
 translate french fix_sink_3464456c:
 
     # R "Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
+    R "Eh bien, oui.... Papa est toujours parti, et votre 'liste de choses à faire' doit encore s'allonger."
 
 # game/UpdateScript0.05.rpy:3119
 translate french fix_sink_15b88f70:
 
     # M "Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
+    M "Eh bien oui, c'est vrai, mais malheureusement, nous n'avons même pas coché la dernière chose que nous avions sur la liste."
 
 # game/UpdateScript0.05.rpy:3120
 translate french fix_sink_b2504771:
@@ -7273,36 +8166,43 @@ translate french fix_sink_b2504771:
 translate french fix_sink_0d7b3787:
 
     # M "The sink started leaking again."
+    M "L'évier a recommencé à fuir."
 
 # game/UpdateScript0.05.rpy:3122
 translate french fix_sink_f146f5dc:
 
     # R "Really?.... Again?.... Well, let's go fix it."
+    R "Vraiment?.... Encore?.... Allons réparer ça."
 
 # game/UpdateScript0.05.rpy:3125
 translate french fix_sink_b05d18e5:
 
     # M "Again?.... I don't want to end up cold and wet again."
+    M "Encore?.... Je ne veux plus finir froide et mouillée."
 
 # game/UpdateScript0.05.rpy:3126
 translate french fix_sink_54cdfdcd:
 
     # M "Let's just get a plumber."
+    M "Allons chercher un plombier."
 
 # game/UpdateScript0.05.rpy:3127
 translate french fix_sink_ffe76534:
 
     # R "We're not spending money on a plumber. They'll charge us $200 just to drive out here."
+    R "Nous ne dépensons pas d'argent pour un plombier. Ils nous factureront 200$ pour venir ici."
 
 # game/UpdateScript0.05.rpy:3128
 translate french fix_sink_b36bf3e3:
 
     # M "Alright.... Fine!"
+    M "D'accord.... Très bien !"
 
 # game/UpdateScript0.05.rpy:3134
 translate french fix_sink_7ce70ec2:
 
     # R "Alright, so we'll just do the same thing we did last time?"
+    R "D'accord, donc on va faire la même chose que la dernière fois ?"
 
 # game/UpdateScript0.05.rpy:3135
 translate french fix_sink_fb6bb70e:
@@ -7314,26 +8214,31 @@ translate french fix_sink_fb6bb70e:
 translate french fix_sink_25cffa1c:
 
     # M "Hmmmm.... I'm just trying to decide which part of this job is the least likely to get me wet."
+    M "Hmmmm.... J'essaie juste de décider quelle partie de ce travail est la moins susceptible de me mouiller."
 
 # game/UpdateScript0.05.rpy:3137
 translate french fix_sink_a448ec3c:
 
     # R "Ok.... I'll let you choose whichever one you want to."
+    R "D'accord.... Je te laisse choisir celui que tu veux."
 
 # game/UpdateScript0.05.rpy:3138
 translate french fix_sink_0355bde2:
 
     # M "Hmmmmmm.... I'll take...."
+    M "Hmmmmmm.... Je prends...."
 
 # game/UpdateScript0.05.rpy:3141
 translate french fix_sink_c376cd2f:
 
     # M "I'll climb under the sink this time."
+    M "Je vais grimper sous l'évier cette fois."
 
 # game/UpdateScript0.05.rpy:3144
 translate french fix_sink_9198793c:
 
     # R "Ok.... Just let me know when you've got the coupling secured."
+    R "D'accord.... Préviens-moi quand tu auras l'attelage sécurisé."
 
 # game/UpdateScript0.05.rpy:3145
 translate french fix_sink_a9f72512:
@@ -7487,6 +8392,7 @@ translate french fix_sink_f6b72f7e:
 translate french fix_sink_8e7b6823:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3192
 translate french fix_sink_5e09379b:
@@ -7502,6 +8408,7 @@ translate french fix_sink_adbba1c4:
 translate french fix_sink_c9e9e881:
 
     # R "I'll try my best."
+    R "Je ferais de mon mieux."
 
 # game/UpdateScript0.05.rpy:3197
 translate french fix_sink_dcc557c3:
@@ -7735,6 +8642,7 @@ translate french fix_sink_f6b72f7e_1:
 translate french fix_sink_8e7b6823_1:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3265
 translate french fix_sink_2ee69f22_1:
@@ -7752,36 +8660,43 @@ translate french fix_sink_89312161_1:
 translate french fix_sink_626085c4_1:
 
     # R "Hey, Mom! Way to rock that broom."
+    R "Hé, maman! C'est une façon de balancer ce balai."
 
 # game/UpdateScript0.05.rpy:3272
 translate french fix_sink_5a82f1a7_1:
 
     # M "What is it, [ryan]? I still don't have time for your playful banter."
+    M "Qu'est-ce que c'est, [ryan]? Je n'ai toujours pas le temps pour tes plaisanteries espiègles."
 
 # game/UpdateScript0.05.rpy:3273
 translate french fix_sink_7b75b195_1:
 
     # R "Sorry.... I know.... I should stop trying."
+    R "Désolé.... Je sais.... Je devrais arrêter d'essayer."
 
 # game/UpdateScript0.05.rpy:3274
 translate french fix_sink_5b012d7d_1:
 
     # R "I was just wondering if you needed any help with the house."
+    R "Je me demandais juste si tu avais besoin d'aide pour la maison."
 
 # game/UpdateScript0.05.rpy:3275
 translate french fix_sink_abac6e82_1:
 
     # M "You still want to help me around the house?...."
+    M "Tu veux toujours m'aider dans la maison?...."
 
 # game/UpdateScript0.05.rpy:3278
 translate french fix_sink_3464456c_1:
 
     # R "Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
+    R "Eh bien, oui.... Papa est toujours parti, et votre 'liste de choses à faire' doit encore s'allonger."
 
 # game/UpdateScript0.05.rpy:3279
 translate french fix_sink_15b88f70_1:
 
     # M "Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
+    M "Eh bien oui, c'est vrai, mais malheureusement, nous n'avons même pas coché la dernière chose que nous avions sur la liste."
 
 # game/UpdateScript0.05.rpy:3280
 translate french fix_sink_b2504771_1:
@@ -7793,6 +8708,7 @@ translate french fix_sink_b2504771_1:
 translate french fix_sink_0d7b3787_1:
 
     # M "The sink started leaking again."
+    M "L'évier a recommencé à fuir."
 
 # game/UpdateScript0.05.rpy:3282
 translate french fix_sink_d1acac5f:
@@ -8093,6 +9009,7 @@ translate french fix_sink_f6b72f7e_2:
 translate french fix_sink_8e7b6823_2:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3382
 translate french fix_sink_5094a847:
@@ -8143,6 +9060,7 @@ translate french fix_sink_f6b72f7e_3:
 translate french fix_sink_8e7b6823_3:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3392
 translate french fix_sink_1df14e34:
@@ -8494,6 +9412,7 @@ translate french fix_sink_f6b72f7e_4:
 translate french fix_sink_8e7b6823_4:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3514
 translate french fix_sink_b5cbc568:
@@ -8554,6 +9473,7 @@ translate french fix_sink_f6b72f7e_5:
 translate french fix_sink_8e7b6823_5:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:3526
 translate french fix_sink_1cec7336:
@@ -8784,6 +9704,7 @@ translate french breakfast_events_4a66ad35:
 translate french breakfast_events_f16f0cd3:
 
     # R "Uhhhh...."
+    R "Uhhhh ...."
 
 # game/UpdateScript0.05.rpy:3692
 translate french breakfast_events_99866278:
@@ -9453,6 +10374,7 @@ translate french breakfast_events_3265e8ee:
 translate french breakfast_events_aab5479a:
 
     # R "Thanks, Mom!"
+    R "Merci, maman!"
 
 # game/UpdateScript0.05.rpy:4114
 translate french breakfast_events_baf3b20e:
@@ -9752,6 +10674,7 @@ translate french breakfast_events_3265e8ee_1:
 translate french breakfast_events_aab5479a_1:
 
     # R "Thanks, Mom!"
+    R "Merci, maman!"
 
 # game/UpdateScript0.05.rpy:4290
 translate french breakfast_events_baf3b20e_1:
@@ -9945,36 +10868,43 @@ translate french fix_washer_89312161:
 translate french fix_washer_626085c4:
 
     # R "Hey, Mom! Way to rock that broom."
+    R "Hé, maman! C'est une façon de balancer ce balai."
 
 # game/UpdateScript0.05.rpy:4429
 translate french fix_washer_5a82f1a7:
 
     # M "What is it, [ryan]? I still don't have time for your playful banter."
+    M "Qu'est-ce que c'est, [ryan]? Je n'ai toujours pas le temps pour tes plaisanteries espiègles."
 
 # game/UpdateScript0.05.rpy:4430
 translate french fix_washer_7b75b195:
 
     # R "Sorry.... I know.... I should stop trying."
+    R "Désolé.... Je sais.... Je devrais arrêter d'essayer."
 
 # game/UpdateScript0.05.rpy:4431
 translate french fix_washer_5b012d7d:
 
     # R "I was just wondering if you needed any help with the house."
+    R "Je me demandais juste si tu avais besoin d'aide pour la maison."
 
 # game/UpdateScript0.05.rpy:4432
 translate french fix_washer_abac6e82:
 
     # M "You still want to help me around the house?...."
+    M "Tu veux toujours m'aider dans la maison?...."
 
 # game/UpdateScript0.05.rpy:4435
 translate french fix_washer_3464456c:
 
     # R "Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
+    R "Eh bien, oui.... Papa est toujours parti, et votre 'liste de choses à faire' doit encore s'allonger."
 
 # game/UpdateScript0.05.rpy:4436
 translate french fix_washer_15b88f70:
 
     # M "Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
+    M "Eh bien oui, c'est vrai, mais malheureusement, nous n'avons même pas coché la dernière chose que nous avions sur la liste."
 
 # game/UpdateScript0.05.rpy:4438
 translate french fix_washer_a1840564:
@@ -10490,6 +11420,7 @@ translate french fix_washer_f6b72f7e:
 translate french fix_washer_8e7b6823:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:4620
 translate french fix_washer_89b4a3c7:
@@ -10652,6 +11583,7 @@ translate french fix_washer_f6b72f7e_1:
 translate french fix_washer_8e7b6823_1:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:4670
 translate french fix_washer_9c3357db:
@@ -11288,6 +12220,7 @@ translate french fix_washer_f6b72f7e_2:
 translate french fix_washer_8e7b6823_2:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:4901
 translate french fix_washer_89b4a3c7_1:
@@ -11438,6 +12371,7 @@ translate french fix_washer_f6b72f7e_3:
 translate french fix_washer_8e7b6823_3:
 
     # M "I love you too."
+    M "Je t'aime aussi."
 
 # game/UpdateScript0.05.rpy:4945
 translate french fix_washer_9c3357db_1:

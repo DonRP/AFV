@@ -1,12 +1,12 @@
 #     old ""
 #     new ""
-# "[DS] You added $[addmoney] and now have: $[money].\n"
+# "DS "You added $[addmoney] and now have: $[money].\n"
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: a-family-venture\n"
-# "X-Crowdin-Project-ID: 492487\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Patreon_$5_Gallery/D.S.Mod.po\n"
-# "X-Crowdin-File-ID: 1985\n"
+# "X-italian-Project: a-family-venture\n"
+# "X-italian-Project-ID: 492487\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/Patreon_$5_Gallery/D.S.Mod.po\n"
+# "X-italian-File-ID: 1985\n"
 # "Project-Id-Version: a-family-venture\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
@@ -16,78 +16,78 @@
 # TODO: Translation updated at 2022-02-20 HH:HH
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2324
-translate crowdin input_money_9c2e4d68:
+translate italian input_money_9c2e4d68:
 
     # DS "You added $[addmoney] and now have: $[money]."
     DS "Hai aggiunto $[addmoney] e ora hanno: $[money]."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2362
-translate crowdin change_names_34819df8:
+translate italian change_names_34819df8:
 
     # Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
     new "Ok, il tuo nuovo nome è: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2387
-translate crowdin ds_change_name_mom_2e923a8a:
+translate italian ds_change_name_mom_2e923a8a:
 
     # DS "Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
     DS "Okay, il suo nuovo nome è: ({color=#0000CC}[mom_name]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2403
-translate crowdin ds_change_name_Ryan_602ad794:
+translate italian ds_change_name_Ryan_602ad794:
 
     # DS "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
     DS "Ok, il tuo nuovo nome è: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2408
-translate crowdin ds_mod_info_3abf1dee:
+translate italian ds_mod_info_3abf1dee:
 
     # DS "This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
     DS "Questo mod(v[mod_version]) è stato fatto da {color=#00589E}D.S. sama{/color} per {color=#E60000}WillTylor{/color} e il suo gioco, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Divertiti a giocare e farci sapere se trovi qualche bug."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2413
-translate crowdin ds_anger_reset_nfo_47ed8249:
+translate italian ds_anger_reset_nfo_47ed8249:
 
     # DS "You have reset the anger lvl for all girls!"
     DS "Hai azzerato il lvl di rabbia per tutte le ragazze!"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2418
-translate crowdin ds_libido_2max_nfo_04ab0d4c:
+translate italian ds_libido_2max_nfo_04ab0d4c:
 
     # DS "You have set the libido lvl to max for all girls!"
     DS "Hai impostato la libido lvl al massimo per tutte le ragazze!"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2423
-translate crowdin info_spy_cams_4be81734:
+translate italian info_spy_cams_4be81734:
 
     # DS "To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
     DS "Per impostare le camme spia nelle stanze devi prima avere il 'progresso >= 6' (dopo l'evento quando Sidney torna a casa) e come condizione supplementare per impostare la fotocamera nella stanza di Lauren devi avere 'sidneyfingerlaurenprogress > 4' (Sidney deve spostarsi dalla sua stanza)."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2496
-translate crowdin adv_rest_jump_24ddb230:
+translate italian adv_rest_jump_24ddb230:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}Scuola è finita, devo tornare a casa{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2504
-translate crowdin adv_rest_jump_24ddb230_1:
+translate italian adv_rest_jump_24ddb230_1:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}Scuola è finita, devo tornare a casa{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2510
-translate crowdin adv_rest_jump_24ddb230_2:
+translate italian adv_rest_jump_24ddb230_2:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}Scuola è finita, devo tornare a casa{/i}"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2516
-translate crowdin adv_rest_jump_24ddb230_3:
+translate italian adv_rest_jump_24ddb230_3:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}Scuola è finita, devo tornare a casa{/i}"
 
-translate crowdin strings:
+translate italian strings:
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:160
     old "label name: [store.current_label]"

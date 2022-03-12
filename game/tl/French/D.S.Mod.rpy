@@ -1,6 +1,6 @@
 #     old ""
-# "
-# "DS "You added $[addmoney] and now have: $[money].\n"
+#     new ""
+# "[DS] You added $[addmoney] and now have: $[money].\n"
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -11,7 +11,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-02-20 17:49\n"
+# "PO-Revision-Date: 2022-03-10 17:00\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -247,15 +247,15 @@ translate french strings:
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
     old "{image=iconA} [Auntie]"
-    new ""
+    new "{image=iconA} [Auntie]"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
     old "{image=iconM} {color=#E60000}[Mom]{/color}"
-    new ""
+    new "{image=iconM} {color=#E60000}[Mom]{/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
     old "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
-    new ""
+    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
     old "Increase respect!"
@@ -267,7 +267,7 @@ translate french strings:
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
     old "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
-    new ""
+    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
 
     # game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
     old "Increase affection!"

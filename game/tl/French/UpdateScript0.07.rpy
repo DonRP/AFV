@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-01 20:06\n"
+# "PO-Revision-Date: 2022-03-12 09:54\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH
 
@@ -2540,6 +2540,7 @@ translate french lounge_sex_c1b1ea8a:
 translate french lounge_sex_406eadfd:
 
     # L "Holy shit! A blowjob on every episode!"
+    L "Putain de merde! Une pipe à chaque épisode !"
 
 # game/UpdateScript0.07.rpy:1884
 translate french lounge_sex_6800ab21:
@@ -2588,41 +2589,49 @@ translate french lounge_sex_817e73ec:
 translate french lounge_sex_78783cf4:
 
     # L "What?.... No!"
+    L "Quoi?.... Non!"
 
 # game/UpdateScript0.07.rpy:1899
 translate french lounge_sex_2e88ed48:
 
     # L "I might be rubbing myself unconsciously, but I'm not desperate enough to ask you for help."
+    L "Je me caresse peut-être inconsciemment, mais je ne suis pas assez désespéré pour te demander de l'aide."
 
 # game/UpdateScript0.07.rpy:1900
 translate french lounge_sex_6cfb0f61:
 
     # R "Well.... Ok.... But if you ever do get desperate enough...."
+    R "Bien.... Ok.... Mais si jamais tu deviens assez désespérée...."
 
 # game/UpdateScript0.07.rpy:1901
 translate french lounge_sex_f6003502:
 
     # R "Don't forget what they teach us in school."
+    R "N'oubliez pas ce qu'ils nous enseignent à l'école."
 
 # game/UpdateScript0.07.rpy:1902
 translate french lounge_sex_6951d8f4:
 
     # R "You don't have to be ashamed to ask for help."
+    R "Tu n'as pas à avoir honte de demander de l'aide."
 
 # game/UpdateScript0.07.rpy:1905
 translate french lounge_sex_8439881a:
 
     # L "You overconfident idiot! Can we get back to the show now?"
+    L "Espèce d'idiot trop confiant ! On peut revenir au spectacle maintenant ?"
 
 # game/UpdateScript0.07.rpy:1906
 translate french lounge_sex_bcd39282:
 
     # R "Of course!.... I'm not the one causing interruptions."
+    R "Bien sûr!.... Ce n'est pas moi qui cause les interruptions."
 
 # game/UpdateScript0.07.rpy:1907
 translate french lounge_sex_f56878f5:
 
     # L "Clearly."
+    L "Clairement."
 
 # game/UpdateScript0.07.rpy:1910
 translate french lounge_sex_f99745f4:
@@ -2713,26 +2722,31 @@ translate french lounge_sex_c1b1ea8a_1:
 translate french lounge_sex_424fe0fb:
 
     # R "Well, we've reached the mandatory sex scene for this episode!"
+    R "Eh bien, nous avons atteint la scène de sexe obligatoire pour cet épisode!"
 
 # game/UpdateScript0.07.rpy:1958
 translate french lounge_sex_c15798c7:
 
     # L "So, does that mean you're ready for some foolin' around?"
+    L "Donc, cela signifie-t-il que tu es prêt pour des folies?"
 
 # game/UpdateScript0.07.rpy:1959
 translate french lounge_sex_6501eefc:
 
     # R "I love that you're taking the initiative now!"
+    R "J'adore que tu prennes l'initiative maintenant!"
 
 # game/UpdateScript0.07.rpy:1962
 translate french lounge_sex_8524e2d1:
 
     # L "Yeah, well.... We both know we can't keep doing this.... So, this has to be our last time."
+    L "Ouais, eh bien.... Nous savons tous les deux que nous ne pouvons pas continuer à faire ça.... Donc, ça doit être notre dernière fois."
 
 # game/UpdateScript0.07.rpy:1963
 translate french lounge_sex_7922165b:
 
     # R "Ok.... It's a deal."
+    R "Ok .... C'est un accord."
 
 # game/UpdateScript0.07.rpy:1964
 translate french lounge_sex_3b18b3aa:
@@ -2744,6 +2758,7 @@ translate french lounge_sex_3b18b3aa:
 translate french lounge_sex_2dc5b6cd:
 
     # L "So, what should we do?"
+    L "Alors, que devons-nous faire?"
 
 # game/UpdateScript0.07.rpy:1975
 translate french lounge_sex_1625e5eb:
@@ -6850,6 +6865,7 @@ translate french breakfast_for_will_08df4621:
 translate french breakfast_for_will_aab5479a:
 
     # R "Thanks, Mom!"
+    R "Merci, maman!"
 
 # game/UpdateScript0.07.rpy:3945
 translate french breakfast_for_will_baf3b20e:
@@ -7525,6 +7541,7 @@ translate french meeting_miss_jessica_dc7a84b6_13:
 translate french meeting_miss_jessica_d9f5fd82:
 
     # R "Fuck!"
+    R "Merde!"
 
 # game/UpdateScript0.07.rpy:4220
 translate french meeting_miss_jessica_31de464c:
@@ -11166,6 +11183,7 @@ translate french finished_painting_66fce99e:
 translate french finished_painting_a4fbb287:
 
     # R "Are you serious?"
+    R "Es-tu sérieuse?"
 
 # game/UpdateScript0.07.rpy:5591
 translate french finished_painting_8673607c:
@@ -16135,6 +16153,7 @@ translate french shared_sex_2b305a73:
 translate french shared_sex_d9f5fd82:
 
     # R "Fuck!"
+    R "Merde!"
 
 # game/UpdateScript0.07.rpy:7595
 translate french shared_sex_62344a8c:
@@ -19510,31 +19529,37 @@ translate french mom_angry_about_posters_e03ea699:
 translate french new_jacky_caught_office_4c90c24b:
 
     # R "Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
+    R "Oh, salut Megan, salut Matt. Où est Mademoiselle [mom_name]? Je pensais l'avoir vue ici."
 
 # game/UpdateScript0.07.rpy:8931
 translate french new_jacky_caught_office_ec48f479:
 
     # MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
+    MG "Elle est partie, elle semblait un peu pressée. Il fallait probablement faire quelque chose avant le début de son prochain cours."
 
 # game/UpdateScript0.07.rpy:8932
 translate french new_jacky_caught_office_8b78ea83:
 
     # MG "Is everything ok?"
+    MG "Tout va bien?"
 
 # game/UpdateScript0.07.rpy:8933
 translate french new_jacky_caught_office_3a55d753:
 
     # R "Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
+    R "Ouais.... bien sûr.... J'ai juste besoin de lui parler un peu plus de cette stupide mission d'Œdipe."
 
 # game/UpdateScript0.07.rpy:8934
 translate french new_jacky_caught_office_acb772d1:
 
     # MB "Haha.... yeah, that's some kinky shit to be teaching us in school."
+    MB "Haha.... ouais, c'est de la merde de nous enseigner ça à l'école."
 
 # game/UpdateScript0.07.rpy:8935
 translate french new_jacky_caught_office_f570eda3:
 
     # MB "Are you sure you're not just exploring the Oedipal Complex side of this assignment with your mom in her office? Hahahahah..."
+    MB "Es-tu sûr que tu n'explores pas seulement le côté complexe œdipien de cette mission avec ta mère dans son bureau? Hahahahah..."
 
 # game/UpdateScript0.07.rpy:8936
 translate french new_jacky_caught_office_8eb0e85f:
@@ -19545,6 +19570,7 @@ translate french new_jacky_caught_office_8eb0e85f:
 translate french new_jacky_caught_office_40cd6e2d:
 
     # MG "Holy shit!"
+    MG "Putain de merde!"
 
 # game/UpdateScript0.07.rpy:8938
 translate french new_jacky_caught_office_4881927b:
@@ -19556,11 +19582,13 @@ translate french new_jacky_caught_office_4881927b:
 translate french new_jacky_caught_office_9f8333c6:
 
     # MG "I just got a mental image.... wow!.... That really turns me on for some reason."
+    MG "Je viens d'avoir une image mentale.... Ça alors!.... Cela m'excite vraiment pour une raison quelconque."
 
 # game/UpdateScript0.07.rpy:8940
 translate french new_jacky_caught_office_4580e4dd:
 
     # R "What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
+    R "Quoi?.... Non.... pas d'image mentale!.... Il n'y a rien pour obtenir une image.... il ne se passe rien avec moi et Mademoiselle [mom_name]!"
 
 # game/UpdateScript0.07.rpy:8941
 translate french new_jacky_caught_office_2c78093e:
@@ -19950,6 +19978,7 @@ translate french new_classroom_afternoon_a27d74c9:
 translate french new_classroom_afternoon_b6d3ec64:
 
     # R "Awesome!"
+    R "Génial!"
 
 # game/UpdateScript0.07.rpy:9224
 translate french new_classroom_afternoon_b9db3564:
@@ -22212,6 +22241,7 @@ translate french talk_to_megan_32cb2b06:
 translate french talk_to_megan_8322f092:
 
     # R "Hmmmm..."
+    R "Hmmmm..."
 
 # game/UpdateScript0.07.rpy:10234
 translate french talk_to_megan_7b6b4ff3:
@@ -24221,6 +24251,7 @@ translate french bad_shower_end_94d452bb:
 translate french bad_shower_end_a8048e82:
 
     # R "Nice!"
+    R "Sympa!"
 
 # game/UpdateScript0.07.rpy:11101
 translate french bad_shower_end_189a4159:
@@ -24237,6 +24268,7 @@ translate french bad_shower_end_f1a8a712:
 translate french bad_shower_end_aab5479a:
 
     # R "Thanks, Mom!"
+    R "Merci, maman!"
 
 # game/UpdateScript0.07.rpy:11104
 translate french bad_shower_end_66f15c1a:
