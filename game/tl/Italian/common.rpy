@@ -1098,9 +1098,9 @@ translate italian strings:
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Ricarica il gioco dal disco, salvando e ripristinando lo stato di gioco se possibile."
 
-    # renpy/common/_errorhandling.rpym:617
-    old "Console"
-    new "Console"
+    # # renpy/common/_errorhandling.rpym:617
+    # old "Console"
+    # new "Console"
 
     # renpy/common/_errorhandling.rpym:619
     old "Opens a console to allow debugging the problem."
