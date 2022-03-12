@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:53\n"
+"PO-Revision-Date: 2022-03-10 17:00\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
@@ -223,15 +223,15 @@ msgstr "{image=iconS} Sidney"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
 msgid "{image=iconA} [Auntie]"
-msgstr ""
+msgstr "{image=iconA} [Auntie]"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
 msgid "{image=iconM} {color=#E60000}[Mom]{/color}"
-msgstr ""
+msgstr "{image=iconM} {color=#E60000}[Mom]{/color}"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
 msgid "Increase respect!"
@@ -243,7 +243,7 @@ msgstr "Diminuer le respect !"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
-msgstr ""
+msgstr "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
 msgid "Increase affection!"

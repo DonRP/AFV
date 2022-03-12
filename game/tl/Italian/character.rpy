@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 10:50\n"
+"PO-Revision-Date: 2022-03-07 10:44\n"
 
 # XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid "[ryan]'s Thoughts"
@@ -62,5 +62,5 @@ msgstr "Zia Camille"
 
 # XX## game/character.rpy:61
 msgid "Aunt Camille's Thoughts"
-msgstr "Pensieri Della Zia Camille"
+msgstr "Pensieri Della Zia Camilla"
 
