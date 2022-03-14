@@ -1155,8 +1155,8 @@ translate french strings:
     new "Recharger le jeu depuis le disque, sauvegarder et restaurer le jeu dans son état actuel si possible."
 
     # renpy/common/_errorhandling.rpym:635
-    old "Console"
-    new "Console"
+    # old "Console"
+    # new "Console"
 
     # renpy/common/_errorhandling.rpym:637
     old "Opens a console to allow debugging the problem."
