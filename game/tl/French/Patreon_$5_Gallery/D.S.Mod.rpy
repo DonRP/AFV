@@ -1,6 +1,6 @@
 #     old ""
 #     new ""
-# "[DS] You added $[addmoney] and now have: $[money].\n"
+# "DS "You added $[addmoney] and now have: $[money].\n"
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
