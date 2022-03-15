@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-14 09:50\n"
+"PO-Revision-Date: 2022-03-15 10:08\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -3890,11 +3890,11 @@ msgstr "[RT] {i}J'espère tellement que maman habillée comme ça 'est' la nouve
 
 # game/UpdateScript0.06.rpy:2830 ## translate crowdin update_six_bfasts_b34ac591:
 msgid "[R] Would you mind pouring more maple syrup on my pancakes?"
-msgstr "[R] Pourriez-vous verser plus de sirop d'érable sur mes crêpes?"
+msgstr "[R] Pourrais-tu verser plus de sirop d'érable sur mes crêpes?"
 
 # game/UpdateScript0.06.rpy:2831 ## translate crowdin update_six_bfasts_e17ae3da:
 msgid "[M] I can pass it to you, and you can pour it yourself."
-msgstr "[M] Je peux vous le passer, et vous pouvez le verser vous-même."
+msgstr "[M] Je peux te le passer, et tu peux le verser toi-même."
 
 # game/UpdateScript0.06.rpy:2832 ## translate crowdin update_six_bfasts_a2ac8956:
 msgid "[R] But I always pour too much, and it ruins my pancakes."
@@ -3902,7 +3902,7 @@ msgstr "[R] Mais je verse toujours trop, et ça ruine mes crêpes."
 
 # game/UpdateScript0.06.rpy:2833 ## translate crowdin update_six_bfasts_9a25c148:
 msgid "[R] You always do it just right."
-msgstr "[R] Vous le faites toujours comme il faut."
+msgstr "[R] Tu le fais toujours comme il faut."
 
 # game/UpdateScript0.06.rpy:2834 ## translate crowdin update_six_bfasts_735f0028:
 msgid "[M] Ok... I guess I can do that."
@@ -4022,7 +4022,7 @@ msgstr "[S] C'était tellement embarrassant!"
 
 # game/UpdateScript0.06.rpy:2942 ## translate crowdin update_six_bfasts_1092ccca:
 msgid "[M] What did your professor say?"
-msgstr "[M] Qu'a dit votre professeur?"
+msgstr "[M] Qu'a dit ton professeur?"
 
 # game/UpdateScript0.06.rpy:2943 ## translate crowdin update_six_bfasts_48316325:
 msgid "[S] Oh... uhh... \"Nice outfit.\""
@@ -4034,7 +4034,7 @@ msgstr "[R] Hein..."
 
 # game/UpdateScript0.06.rpy:2945 ## translate crowdin update_six_bfasts_1b544818:
 msgid "[M] No offense Sidney, but that story was a bit anticlimactic."
-msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anticlimactique."
+msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anti-climactique."
 
 # game/UpdateScript0.06.rpy:2946 ## translate crowdin update_six_bfasts_76a92955:
 msgid "[S] Uhhh... yeah... sorry."
@@ -4090,11 +4090,11 @@ msgstr "[M] Maintenant, prenons notre petit déjeuner avant d'être en retard po
 
 # game/UpdateScript0.06.rpy:2993 ## translate crowdin update_six_bfasts_b34ac591_1:
 msgid "[R] Would you mind pouring more maple syrup on my pancakes?"
-msgstr "[R] Pourriez-vous verser plus de sirop d'érable sur mes crêpes?"
+msgstr "[R] Pourrais-tu verser plus de sirop d'érable sur mes crêpes?"
 
 # game/UpdateScript0.06.rpy:2994 ## translate crowdin update_six_bfasts_e17ae3da_1:
 msgid "[M] I can pass it to you, and you can pour it yourself."
-msgstr "[M] Je peux vous le passer, et vous pouvez le verser vous-même."
+msgstr "[M] Je peux te le passer, et tu peux le verser toi-même."
 
 # game/UpdateScript0.06.rpy:2995 ## translate crowdin update_six_bfasts_a2ac8956_1:
 msgid "[R] But I always pour too much, and it ruins my pancakes."
@@ -4102,7 +4102,7 @@ msgstr "[R] Mais je verse toujours trop, et ça ruine mes crêpes."
 
 # game/UpdateScript0.06.rpy:2996 ## translate crowdin update_six_bfasts_9a25c148_1:
 msgid "[R] You always do it just right."
-msgstr "[R] Vous le faites toujours comme il faut."
+msgstr "[R] Tu le fais toujours comme il faut."
 
 # game/UpdateScript0.06.rpy:2997 ## translate crowdin update_six_bfasts_735f0028_1:
 msgid "[M] Ok... I guess I can do that."
@@ -4222,7 +4222,7 @@ msgstr "[S] C'était tellement embarrassant!"
 
 # game/UpdateScript0.06.rpy:3105 ## translate crowdin update_six_bfasts_1092ccca_1:
 msgid "[M] What did your professor say?"
-msgstr "[M] Qu'a dit votre professeur?"
+msgstr "[M] Qu'a dit ton professeur?"
 
 # game/UpdateScript0.06.rpy:3106 ## translate crowdin update_six_bfasts_48316325_1:
 msgid "[S] Oh... uhh... \"Nice outfit.\""
@@ -4234,7 +4234,7 @@ msgstr "[R] Hein..."
 
 # game/UpdateScript0.06.rpy:3108 ## translate crowdin update_six_bfasts_1b544818_1:
 msgid "[M] No offense Sidney, but that story was a bit anticlimactic."
-msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anticlimactique."
+msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anti-climactique."
 
 # game/UpdateScript0.06.rpy:3109 ## translate crowdin update_six_bfasts_76a92955_1:
 msgid "[S] Uhhh... yeah... sorry."
@@ -17702,7 +17702,7 @@ msgstr "[A] Sidney, surveille le bar pendant que je suis parti."
 
 # game/UpdateScript0.06.rpy:10085 ## translate crowdin post_bondage_chat_64f9f447:
 msgid "[S] You got it!"
-msgstr "[S] Vous l'avez!"
+msgstr "[S] Tu l'as eu !"
 
 # game/UpdateScript0.06.rpy:10088 ## translate crowdin post_bondage_chat_9cf1104a:
 msgid "[S] So, was there something you wanted to talk to me about?"
