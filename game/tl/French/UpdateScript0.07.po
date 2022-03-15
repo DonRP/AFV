@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-14 09:50\n"
+"PO-Revision-Date: 2022-03-15 10:08\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -5142,11 +5142,11 @@ msgstr "[RT] {i}Je suppose que je vais juste me détendre et ne pas m'en soucier
 
 # game/UpdateScript0.07.rpy:3906 ## translate crowdin breakfast_for_will_b34ac591:
 msgid "[R] Would you mind pouring more maple syrup on my pancakes?"
-msgstr "[R] Pourriez-vous verser plus de sirop d'érable sur mes crêpes?"
+msgstr "[R] Pourrais-tu verser plus de sirop d'érable sur mes crêpes?"
 
 # game/UpdateScript0.07.rpy:3907 ## translate crowdin breakfast_for_will_e17ae3da:
 msgid "[M] I can pass it to you, and you can pour it yourself."
-msgstr "[M] Je peux vous le passer, et vous pouvez le verser vous-même."
+msgstr "[M] Je peux te le passer, et tu peux le verser toi-même."
 
 # game/UpdateScript0.07.rpy:3908 ## translate crowdin breakfast_for_will_a2ac8956:
 msgid "[R] But I always pour too much, and it ruins my pancakes."
@@ -5154,7 +5154,7 @@ msgstr "[R] Mais je verse toujours trop, et ça ruine mes crêpes."
 
 # game/UpdateScript0.07.rpy:3909 ## translate crowdin breakfast_for_will_9a25c148:
 msgid "[R] You always do it just right."
-msgstr "[R] Vous le faites toujours comme il faut."
+msgstr "[R] Tu le fais toujours comme il faut."
 
 # game/UpdateScript0.07.rpy:3910 ## translate crowdin breakfast_for_will_735f0028:
 msgid "[M] Ok... I guess I can do that."
@@ -5274,7 +5274,7 @@ msgstr "[S] C'était tellement embarrassant!"
 
 # game/UpdateScript0.07.rpy:4018 ## translate crowdin breakfast_for_will_1092ccca:
 msgid "[M] What did your professor say?"
-msgstr "[M] Qu'a dit votre professeur?"
+msgstr "[M] Qu'a dit ton professeur?"
 
 # game/UpdateScript0.07.rpy:4019 ## translate crowdin breakfast_for_will_48316325:
 msgid "[S] Oh... uhh... \"Nice outfit.\""
@@ -5286,7 +5286,7 @@ msgstr "[R] Hein..."
 
 # game/UpdateScript0.07.rpy:4021 ## translate crowdin breakfast_for_will_1b544818:
 msgid "[M] No offense Sidney, but that story was a bit anticlimactic."
-msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anticlimactique."
+msgstr "[M] Sans vouloir offenser Sidney, mais cette histoire était un peu anti-climactique."
 
 # game/UpdateScript0.07.rpy:4022 ## translate crowdin breakfast_for_will_76a92955:
 msgid "[S] Uhhh... yeah... sorry."
@@ -6334,7 +6334,7 @@ msgstr "[MS] Exactement... Si vous pouvez poser à nouveau un peu après que nou
 
 # game/UpdateScript0.07.rpy:4580 ## translate crowdin stones_classroom_ee903cde:
 msgid "[R] You got it."
-msgstr "[R] Ok, qu'est-ce que tu regardes?"
+msgstr "[R] Tu l'as eu."
 
 # game/UpdateScript0.07.rpy:4581 ## translate crowdin stones_classroom_a54823e4_2:
 msgid "[MS] Great! Let's get started.."
@@ -6582,7 +6582,7 @@ msgstr "[MS] Exactement... Si vous pouvez poser à nouveau un peu après que nou
 
 # game/UpdateScript0.07.rpy:4715 ## translate crowdin stones_classroom_ee903cde_1:
 msgid "[R] You got it."
-msgstr "[R] Ok, qu'est-ce que tu regardes?"
+msgstr "[R] Tu l'as eu."
 
 # game/UpdateScript0.07.rpy:4716 ## translate crowdin stones_classroom_a54823e4_3:
 msgid "[MS] Great! Let's get started.."
@@ -20266,7 +20266,7 @@ msgstr "[L] Non, mais continuez à vérifier... J'aurai des emplois pour toi ass
 
 # game/UpdateScript0.07.rpy:12143 ## translate crowdin campaign_headquarters_afternoon_ee903cde:
 msgid "[R] You got it."
-msgstr "[R] Ok, qu'est-ce que tu regardes?"
+msgstr "[R] Tu l'as eu."
 
 # game/UpdateScript0.07.rpy:12144 ## translate crowdin campaign_headquarters_afternoon_d530e499:
 msgid "[R] Later, my cunties."
