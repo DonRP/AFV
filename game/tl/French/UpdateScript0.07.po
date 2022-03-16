@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-15 10:08\n"
+"PO-Revision-Date: 2022-03-16 10:04\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -5162,7 +5162,7 @@ msgstr "[M] D'accord... Je suppose que je peux le faire."
 
 # game/UpdateScript0.07.rpy:3917 ## translate crowdin breakfast_for_will_f830f74c:
 msgid "[M] There... how's that?"
-msgstr "[M] Oh comme c'est choux! Je les aime !"
+msgstr "[M] Voilà... comment ça se passe ?"
 
 # game/UpdateScript0.07.rpy:3924 ## translate crowdin breakfast_for_will_3bcfcf74:
 msgid "[R] They're perfect... I mean the syrup's perfect!"
@@ -5238,7 +5238,7 @@ msgstr "[M] Ça va, Lauren ? Tu es exceptionnellement calme."
 
 # game/UpdateScript0.07.rpy:3995 ## translate crowdin breakfast_for_will_5f5a4fb7:
 msgid "[L] Uhhh... yeah... I'm great!..."
-msgstr "[L] Ouais, je suis presque sûr que ce n'est pas une chose normal."
+msgstr "[L] Uhhh... ouais... je suis super !..."
 
 # game/UpdateScript0.07.rpy:3996 ## translate crowdin breakfast_for_will_657dc9c8:
 msgid "{b}{i}\"Lauren's Libido +1\"{/i}{/b}"
@@ -5270,7 +5270,7 @@ msgstr "[M] Quoi?"
 
 # game/UpdateScript0.07.rpy:4017 ## translate crowdin breakfast_for_will_dc76e6ad:
 msgid "[S] Huhhh?..."
-msgstr "[S] C'était tellement embarrassant!"
+msgstr "[S] Huhhh?..."
 
 # game/UpdateScript0.07.rpy:4018 ## translate crowdin breakfast_for_will_1092ccca:
 msgid "[M] What did your professor say?"
@@ -5278,11 +5278,11 @@ msgstr "[M] Qu'a dit ton professeur?"
 
 # game/UpdateScript0.07.rpy:4019 ## translate crowdin breakfast_for_will_48316325:
 msgid "[S] Oh... uhh... \"Nice outfit.\""
-msgstr "[S] Oh... euhh... \" Belle tenue.\""
+msgstr "[S] Oh... euhh... 'Belle tenue.'"
 
 # game/UpdateScript0.07.rpy:4020 ## translate crowdin breakfast_for_will_bc712a12:
 msgid "[M] Huh..."
-msgstr "[R] Hein..."
+msgstr "[M] Huh..."
 
 # game/UpdateScript0.07.rpy:4021 ## translate crowdin breakfast_for_will_1b544818:
 msgid "[M] No offense Sidney, but that story was a bit anticlimactic."
@@ -21014,7 +21014,7 @@ msgstr "[M] j’espère que tu as faim."
 
 # game/UpdateScript0.07.rpy:12582 ## translate crowdin best_polls_aftermath_039ab76e:
 msgid "[R] How could I not?"
-msgstr "[R] Tu aurais pu m'appeler."
+msgstr "[R] Comment pourrais-je ne pas le remarquer?"
 
 # game/UpdateScript0.07.rpy:12583 ## translate crowdin best_polls_aftermath_d0522160:
 msgid "[L] That's what I like to hear."
@@ -22510,7 +22510,7 @@ msgstr "[M] j’espère que tu as faim."
 
 # game/UpdateScript0.07.rpy:13316 ## translate crowdin best_polls_aftermath_039ab76e_1:
 msgid "[R] How could I not?"
-msgstr "[R] Tu aurais pu m'appeler."
+msgstr "[R] Comment pourrais-je ne pas le remarquer?"
 
 # game/UpdateScript0.07.rpy:13317 ## translate crowdin best_polls_aftermath_d0522160_1:
 msgid "[L] That's what I like to hear."
@@ -22722,7 +22722,7 @@ msgstr "[M] j’espère que tu as faim."
 
 # game/UpdateScript0.07.rpy:13444 ## translate crowdin best_polls_aftermath_039ab76e_2:
 msgid "[R] How could I not?"
-msgstr "[R] Tu aurais pu m'appeler."
+msgstr "[R] Comment pourrais-je ne pas le remarquer?"
 
 # game/UpdateScript0.07.rpy:13445 ## translate crowdin best_polls_aftermath_d0522160_2:
 msgid "[L] That's what I like to hear."
@@ -23786,7 +23786,7 @@ msgstr "[R] J'apprécie vraiment que vous me fassiez remarquer que j'étais toxi
 
 # game/UpdateScript0.07.rpy:14041 ## translate crowdin bad_polls_aftermath_91c62d4f:
 msgid "[R] I'm sorry!"
-msgstr "[R] Je suis désolé, je ne l'ai pas vu."
+msgstr "[R] Je suis désolé !"
 
 # game/UpdateScript0.07.rpy:14044 ## translate crowdin bad_polls_aftermath_29d5d454:
 msgid "[R] I still really want to help you become our next student body president."
