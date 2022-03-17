@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-16 10:04\n"
+"PO-Revision-Date: 2022-03-17 10:29\n"
 
 # TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -13886,7 +13886,7 @@ msgstr "[L] Et est-il possible d'obtenir un peu d'argent supplémentaire pour fa
 
 # game/UpdateScript0.07.rpy:8550 ## translate crowdin hall_ambush_8c516dbd:
 msgid "[R] Hmmm...."
-msgstr "[RT] {i}.... hmmm.... {/i}"
+msgstr "[R] Hmmm...."
 
 # game/UpdateScript0.07.rpy:8555 ## translate crowdin hall_ambush_4c4d8734:
 msgid "[R] Sorry, money is too tight this week."
@@ -17030,7 +17030,7 @@ msgstr "[MG] D'accord, quel genre de code avez-vous en tête?"
 
 # game/UpdateScript0.07.rpy:10363 ## translate crowdin talk_to_megan_82f30cfd:
 msgid "[R] Hmmm..."
-msgstr "[RT] {i}.... hmmm.... {/i}"
+msgstr "[R] Hmmm..."
 
 # game/UpdateScript0.07.rpy:10364 ## translate crowdin talk_to_megan_706a336e:
 msgid "[R] How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
@@ -17086,7 +17086,7 @@ msgstr "[MG] D'accord, quel genre de code avez-vous en tête?"
 
 # game/UpdateScript0.07.rpy:10385 ## translate crowdin talk_to_megan_82f30cfd_1:
 msgid "[R] Hmmm..."
-msgstr "[RT] {i}.... hmmm.... {/i}"
+msgstr "[R] Hmmm..."
 
 # game/UpdateScript0.07.rpy:10386 ## translate crowdin talk_to_megan_706a336e_1:
 msgid "[R] How about if I say, \"I've got to go work on some anatomy homework\", you'll know to come to the bathroom shortly after I leave."
@@ -19350,7 +19350,7 @@ msgstr "[L] Je veux que nous réfléchissions à une très bonne idée que nous 
 
 # game/UpdateScript0.07.rpy:11643 ## translate crowdin campaign_headquarters_afternoon_82f30cfd:
 msgid "[R] Hmmm..."
-msgstr "[RT] {i}.... hmmm.... {/i}"
+msgstr "[R] Hmmm..."
 
 # game/UpdateScript0.07.rpy:11646 ## translate crowdin campaign_headquarters_afternoon_8e1f8c0c:
 msgid "[K] What about an extra ten minutes for lunch?"
@@ -19370,7 +19370,7 @@ msgstr "[L] Nous garderons l'idée à l'esprit."
 
 # game/UpdateScript0.07.rpy:11652 ## translate crowdin campaign_headquarters_afternoon_221640a5:
 msgid "[MD] Hmmm..."
-msgstr "[RT] {i}.... hmmm.... {/i}"
+msgstr "[MD] Hmmm..."
 
 # game/UpdateScript0.07.rpy:11653 ## translate crowdin campaign_headquarters_afternoon_3fac1aa0:
 msgid "[MD] What if we made every Friday pizza day?"
@@ -26654,7 +26654,7 @@ msgstr "[L] Je ne suis pas encore assez mouillé... J'ai besoin de préliminaire
 
 # game/UpdateScript0.07.rpy:15391 ## translate crowdin htbyd_fuck_ce13a1a8:
 msgid "[R] Fine..."
-msgstr "[R] Ok, très bien je pars."
+msgstr "[R] Bien..."
 
 # game/UpdateScript0.07.rpy:15395 ## translate crowdin htbyd_fuck_f44ab2d8:
 msgid "[RT] {i}God!... This feels good!{/i}"
@@ -30298,7 +30298,7 @@ msgstr "[AD] Non... Nous avons déjà un informateur dans ton école."
 
 # game/UpdateScript0.07.rpy:17379 ## translate crowdin diaz_help_5514a6d6:
 msgid "[R] Really?... Who?"
-msgstr "[M] Mmmhhh.... qui.... Qui est là?"
+msgstr "[R] Vraiment ?... Qui ?"
 
 # game/UpdateScript0.07.rpy:17386 ## translate crowdin diaz_help_bdd3f8f2_4:
 msgid "[AD] ...."
