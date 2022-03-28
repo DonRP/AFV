@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Booble_screen.po\n"
+"X-Crowdin-File-ID: 1283\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2022-02-20 18:54\n"
+
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
+msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
+msgstr "[RT] {i}Я должен поискать на booble.com, чтобы найти способ купить то, что мне нужно, чтобы ФБР не спросило меня, откуда у меня деньги.{/i}"
+
+# game/Booble_screen.rpy:67 ## translate crowdin booble_search_ce876757:
+msgid "[RT] {i}What should I do today on the internet?{/i}"
+msgstr "[RT] {i}Что мне сегодня делать в Интернете?{/i}"
+
+# XXtranslate crowdin strings:XX# XX## game/Booble_screen.rpy:33
+msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
+msgstr "{color=#ffffff}{b}интернет-магазины hardnlong.dong{/b}{/цвет}"
+
+# XX## game/Booble_screen.rpy:39
+msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
+msgstr "{color=#ffffff}{b} косплей - сайт cosplayheaven.cos{/b}{/цвет}"
+

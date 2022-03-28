@@ -1,0 +1,1259 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Phone_event_screen.po\n"
+"X-Crowdin-File-ID: 3233\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2022-02-20 18:57\n"
+
+# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
+msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:861 ## translate crowdin event_info_02_f0ec2643:
+msgid "[RT] {i}I need to go talk to Uncle Bobby at the warehouse. I can get there by looking at the city map.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:867 ## translate crowdin event_info_03_5e0c9bb1:
+msgid "[RT] {i}I need to complete event 2 before I can even start event 3.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:869 ## translate crowdin event_info_03_c3b1ca7a:
+msgid "[RT] {i}I need to go to my house and talk to Mom. She should be in the kitchen.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:875 ## translate crowdin event_info_04_0796bb88:
+msgid "[RT] {i}I need to complete event 3 before I can even start event 4.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:877 ## translate crowdin event_info_04_d8815923:
+msgid "[RT] {i}I think Mom's probably pretty shook up. I should go check on her in her room.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:883 ## translate crowdin event_info_05_e3b3be92:
+msgid "[RT] {i}I need to complete event 4 before I can even start event 5.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:885 ## translate crowdin event_info_05_9f6b4bbd:
+msgid "[RT] {i}Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:891 ## translate crowdin event_info_06_b3234975:
+msgid "[RT] {i}I need to finish event 5 before I can even start event 6.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:893 ## translate crowdin event_info_06_b69019fb:
+msgid "[RT] {i}I should go to the kitchen in the evening for family dinner.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:899 ## translate crowdin event_info_07_ba6340d4:
+msgid "[RT] {i}I need to complete event 4 before I can even start event 7.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:901 ## translate crowdin event_info_07_97177a83:
+msgid "[RT] {i}I need to go to school in the late morning or afternoon.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:903 ## translate crowdin event_info_07_5fd67134:
+msgid "[RT] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:905 ## translate crowdin event_info_07_bb2914ce:
+msgid "[RT] {i}Weird.... I can't finish this event until after I finish event 27.... Must be because I told Matt I didn't want his help seducing Mom.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:907 ## translate crowdin event_info_07_f2f2499a:
+msgid "[RT] {i}I need to go to school and hang out in the hallway in the late morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:913 ## translate crowdin event_info_08_64f81887:
+msgid "[RT] {i}I need to complete event 4 before I can even start event 8.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:915 ## translate crowdin event_info_08_fb2fbedc:
+msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:921 ## translate crowdin event_info_09_600b427f:
+msgid "[RT] {i}I need to complete event 6 before I can even start event 9.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:923 ## translate crowdin event_info_09_48bf4440:
+msgid "[RT] {i}I need to sneak into Lauren's room at night and see if I can use subliminal messages on the girls.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:925 ## translate crowdin event_info_09_b310ccef:
+msgid "[RT] {i}I need to buy some melatonin from the online store on my laptop in my bedroom and spike the tea in the kitchen.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:927 ## translate crowdin event_info_09_40c65cba:
+msgid "[RT] {i}The girls should be sleeping deeper at night. I should go pay them another visit.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:929 ## translate crowdin event_info_09_fb75c678:
+msgid "[RT] {i}I need to keep sneaking into the girls room at night until I complete this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:935 ## translate crowdin event_info_10_026b4497:
+msgid "[RT] {i}I should keep running with Sidney during the early morning to complete this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:938 ## translate crowdin event_info_10_57ba7153:
+msgid "[RT] {i}I should go see Sidney during the early morning in the lounge and see if she needs a running buddy.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:941 ## translate crowdin event_info_10_4c372eab:
+msgid "[RT] {i}I should see if I can scare Sidney in the lounge at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:944 ## translate crowdin event_info_10_1804cb0d:
+msgid "[RT] {i}I need to complete event 9 before I can start event 10.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:949 ## translate crowdin event_info_11_e5f646d5:
+msgid "[RT] {i}I should go to sleep and talk to Lauren and Cousin Mandy in the morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:951 ## translate crowdin event_info_11_9e99a5a5:
+msgid "[RT] {i}I should keep visiting the kitchen in the evening until Sidney is done with the cosplay costumes.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:953 ## translate crowdin event_info_11_a1e3928e:
+msgid "[RT] {i}I need to visit Sidney in the evening and commission a cosplay outfit for Lauren.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:955 ## translate crowdin event_info_11_515ddd4c:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 11.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:961 ## translate crowdin event_info_12_613b46ad:
+msgid "[RT] {i}I need to keep whispering subliminal messages in Mom's ear at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:963 ## translate crowdin event_info_12_454d1251:
+msgid "[RT] {i}I should go have breakfast with my family early in the morning and see if Mom's wearing her bathrobe.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:964 ## translate crowdin event_info_12_50531b10:
+msgid "[RT] {i}I wonder what she would wear if the bathrobe were to suddenly dissapear.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:966 ## translate crowdin event_info_12_8876d34d:
+msgid "[RT] {i}I need to find and hide Mom's bathrobe. Most likely spot would be in her room.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:971 ## translate crowdin event_info_13_5d37785f:
+msgid "[RT] {i}I need to complete event 12 before I can begin working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:973 ## translate crowdin event_info_13_0c499352:
+msgid "[RT] {i}I should keep visiting Mom at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:979 ## translate crowdin event_info_14_4b734fbf:
+msgid "[RT] {i}I need to keep whispering subliminal messages in Lauren's ear at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:981 ## translate crowdin event_info_14_2941cfc4:
+msgid "[RT] {i}I should keep visiting Lauren at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:987 ## translate crowdin event_info_15_74e46a31:
+msgid "[RT] {i}I need to complete event 4 before I can begin event 15.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:990 ## translate crowdin event_info_15_4c6c0b4b:
+msgid "[RT] {i}If I don't pay the Mafia for more than 3 weeks in a row, I might just complete this NTR event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:993 ## translate crowdin event_info_15_5f29faef:
+msgid "[RT] {i}When Mom goes to the club, I need to go check on her to see how she's doing.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:999 ## translate crowdin event_info_16_43d71896:
+msgid "[RT] {i}I need to complete event 8 before I can begin event 16.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1002 ## translate crowdin event_info_16_84d22cbc:
+msgid "[RT] {i}I need to get mom to loosen up a little more. Maybe I can corrupt her with our Oedipus assignment at school.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1005 ## translate crowdin event_info_16_fb2fbedc:
+msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1011 ## translate crowdin event_info_17_5f3dd9c0:
+msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1013 ## translate crowdin event_info_17_c5e375e6:
+msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1015 ## translate crowdin event_info_17_d41be065:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 17.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1021 ## translate crowdin event_info_18_2cff7759:
+msgid "[RT] {i}I've placed the spycam in Mom's bedroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1023 ## translate crowdin event_info_18_f693ae09:
+msgid "[RT] {i}I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1025 ## translate crowdin event_info_18_e3b5b646:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 18.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1031 ## translate crowdin event_info_19_4b775fb3:
+msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1033 ## translate crowdin event_info_19_c5e375e6:
+msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1035 ## translate crowdin event_info_19_77d79ef8:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 19.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1041 ## translate crowdin event_info_20_0c3965e8:
+msgid "[RT] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1043 ## translate crowdin event_info_20_2d973a36:
+msgid "[RT] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1045 ## translate crowdin event_info_20_79f0399b:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 20.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1051 ## translate crowdin event_info_21_4cbfb321:
+msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1053 ## translate crowdin event_info_21_c5e375e6:
+msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1055 ## translate crowdin event_info_21_90330b75:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 21.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1061 ## translate crowdin event_info_22_678e43f0:
+msgid "[RT] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1063 ## translate crowdin event_info_22_2d973a36:
+msgid "[RT] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1065 ## translate crowdin event_info_22_91ca5144:
+msgid "[RT] {i}I need to start working on event 8 before I can start working on event 22.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1071 ## translate crowdin event_info_23_484257b4:
+msgid "[RT] {i}I need to complete event 4 before I can begin event 23.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1073 ## translate crowdin event_info_23_777548cd:
+msgid "[RT] {i}I need to keep Mom out of the club by paying the Mafia debt for more than 3 weeks in a row.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1075 ## translate crowdin event_info_23_44d89b63:
+msgid "[RT] {i}I got an email ad on my phone for a bikini. I better buy it as soon as I can just in case I need it before the next weekend.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1081 ## translate crowdin event_info_24_0f55153d:
+msgid "[RT] {i}I need to complete event 23 before I can begin event 24.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1083 ## translate crowdin event_info_24_9a5d3eb2:
+msgid "[RT] {i}I've got the bikini now. I would be smart to make sure Mom's libido and submission are as high as possible, then maybe I can ask her to try on the swimsuit for me.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1089 ## translate crowdin event_info_25_7278f786:
+msgid "[RT] {i}I need to complete event 4 before I can begin event 25.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1091 ## translate crowdin event_info_25_d26bab62:
+msgid "[RT] {i}I need to keep Mom out of the club by paying the Mafia debt for more than 3 weeks in a row. Maybe she'll reward me with some one-on-one time.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1097 ## translate crowdin event_info_26_e7bc06e0:
+msgid "[RT] {i}I should keep checking the kitchen to see when Sidney will be done with Lauren's cosplay outfit.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1099 ## translate crowdin event_info_26_9a13761b:
+msgid "[RT] {i}I should go talk to Sidney about commissioning another cosplay outfit.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1101 ## translate crowdin event_info_26_c37d642e:
+msgid "[RT] {i}I need to complete event 11 before I can start working on event 26.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1107 ## translate crowdin event_info_27_3f72f56c:
+msgid "[RT] {i}I need to complete event 26 before I can start on event 27.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1109 ## translate crowdin event_info_27_1f943033:
+msgid "[RT] {i}I need to go to the warehouse in the late morning to take pictures with Lauren.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1115 ## translate crowdin event_info_28_47c24f89:
+msgid "[RT] {i}I need to complete event 27 before I can start on event 28.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1117 ## translate crowdin event_info_28_8f0a41a8:
+msgid "[RT] {i}I need to keep taking these \"How to Breed your Dragon\" pictures with Lauren until we've got every kind of picture we need.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1123 ## translate crowdin event_info_29_08fa7659:
+msgid "[RT] {i}I need to complete event 27 before I can complete event 29.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1125 ## translate crowdin event_info_29_e740bd82:
+msgid "[RT] {i}I've got a visitor coming on Thursday morning, but I don't know that yet. I need to pay the visitor off when I'm given the option.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1131 ## translate crowdin event_info_30_7bb2eeee:
+msgid "[RT] {i}I need to complete event 27 before I can complete event 30.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1133 ## translate crowdin event_info_30_6b8a9288:
+msgid "[RT] {i}I've got a visitor coming on Thursday morning, but I don't know that yet. I need to refuse to pay them when I'm given the option.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1139 ## translate crowdin event_info_31_81292d29:
+msgid "[RT] {i}I need to complete event 28 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1142 ## translate crowdin event_info_31_473d992e:
+msgid "[RT] {i}I should watch some tv with Lauren in the Lounge. Maybe the more she watches \"Game of Thots\", the more open she'll be to messing around a little.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1145 ## translate crowdin event_info_31_599ee4c0:
+msgid "[RT] {i}I've heard the school is going to start doing morning announcements every Monday again. They stopped when the student body officers left for New York on their mock UN trip.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1146 ## translate crowdin event_info_31_2863d310:
+msgid "[RT] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1151 ## translate crowdin event_info_32_c886cab1:
+msgid "[RT] {i}I need to complete event 31 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1154 ## translate crowdin event_info_32_c4ae42b2:
+msgid "[RT] {i}I've got a great idea to help Lauren win votes. I need to keep trying to convince her until she agrees.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1159 ## translate crowdin event_info_33_14df4daf:
+msgid "[RT] {i}I need to complete event 4 before I can complete event 33.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1161 ## translate crowdin event_info_33_b0d7745d:
+msgid "[RT] {i}I need to attend class until I have the option to \"Talk to Mom about the Oedipus assignment.\"{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1163 ## translate crowdin event_info_33_36abc496:
+msgid "[RT] {i}I need to keep \"Talking to Mom about the Oedipus assignment\" in her office until I have the option to look for Matt and Megan.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1164 ## translate crowdin event_info_33_fd736865:
+msgid "[RT] {i}Once I have that option, I need to look in the girls locker room.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1170 ## translate crowdin event_info_34_c18e322d:
+msgid "[RT] {i}I need to complete most of event 33 before I complete event 34.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1172 ## translate crowdin event_info_34_6b81c7bc:
+msgid "[RT] {i}I just need to choose to resist the urge to peek, instead of looking for Matt and Megan.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1178 ## translate crowdin event_info_35_3cfc47e2:
+msgid "[RT] {i}I need to complete event 32 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1181 ## translate crowdin event_info_35_ad23c68f:
+msgid "[RT] {i}After our afternoon campaign meetings in the girls bathroom, I have the option to go see Mrs. Stone. {p}She can help me make some kick-ass posters.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1186 ## translate crowdin event_info_36_258c5c45:
+msgid "[RT] {i}I need to complete event 16 before I complete event 36.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1189 ## translate crowdin event_info_36_74f0fd9b:
+msgid "[RT] {i}I need to complete event 34 before I can complete 36.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1192 ## translate crowdin event_info_36_fb2fbedc:
+msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1198 ## translate crowdin event_info_37_9290b520:
+msgid "[RT] {i}I need to complete either event 28 or event 29 to start working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1201 ## translate crowdin event_info_37_ac245b59:
+msgid "[RT] {i}I need to keep visiting Lauren in the lounge during the evening to see how much she'll do for me.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1206 ## translate crowdin event_info_38_54cce139:
+msgid "[RT] {i} I need to complete event 27 to begin working on event 38.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1208 ## translate crowdin event_info_38_4d718bc2:
+msgid "[RT] {i}I should see if I can push Sidney any further when we sleep together at night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1210 ## translate crowdin event_info_38_45b14492:
+msgid "[RT] {i}I need to keep checking the kitchen during the evenings to see if Sidney is done with her outfit.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1212 ## translate crowdin event_info_38_96bbb77e:
+msgid "[RT] {i}I need to visit the photo-studio at the warehouse during the afternoon.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1218 ## translate crowdin event_info_39_2c867298:
+msgid "[RT] {i}I need to complete event 35 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1221 ## translate crowdin event_info_39_33b6d5a9:
+msgid "[RT] {i}I need to complete event 29 or 30 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1224 ## translate crowdin event_info_39_e4bb07c4:
+msgid "[RT] {i}I need to keep meeting with the campaign team in the girls bathroom in the afternoon. Lauren is sure to come up with some good strategies.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1227 ## translate crowdin event_info_39_6d1efae0:
+msgid "[RT] {i}We decided it would be good to visit Diaz and see if she can dig up some dirt on Matt. I can probably find her van on my map on a weekday evening.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1230 ## translate crowdin event_info_39_c98a2588:
+msgid "[RT] {i}I need to put a spy camera in the girls locker room. It would probably be best to go early in the morning before it gets crowded.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1235 ## translate crowdin event_info_40_cb7e7f31:
+msgid "[RT] {i}I need to keep taking these \"Womb Raider\" pictures with Sidney until we've got every kind of picture we need.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1237 ## translate crowdin event_info_40_52a74f48:
+msgid "[RT] {i}I need to complete event 38 to begin working on event 40.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1243 ## translate crowdin event_info_41_3d45462f:
+msgid "[RT] {i}I need to complete event 40 to begin working on event 41.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1245 ## translate crowdin event_info_41_e3fb8d8d:
+msgid "[RT] {i}I need to go have a visit with Sidney in my bed tonight.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1251 ## translate crowdin event_info_42_49415960:
+msgid "[RT] {i}I need to complete event 39 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1254 ## translate crowdin event_info_42_47e170e9:
+msgid "[RT] {i}I need to keep visiting Diaz in her van until I complete this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1259 ## translate crowdin event_info_43_cfa0cbf7:
+msgid "[RT] {i}I need to complete event 31 before I can start on this NTR event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1262 ## translate crowdin event_info_43_84f4ff15:
+msgid "[RT] {i}I need to complete event 37 before I can finish this NTR event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1265 ## translate crowdin event_info_43_91105538:
+msgid "[RT] {i}If I don't help Lauren do well on her weekly poll numbers, I might not like the consequences.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1270 ## translate crowdin event_info_44_29774d59:
+msgid "[RT] {i}I need to complete event 34 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1273 ## translate crowdin event_info_44_9637dc6e:
+msgid "[RT] {i}Same thing every weekend. Pay the Mafia, hug Mom, get a boner, and throw her on the floor.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1274 ## translate crowdin event_info_44_58b13184:
+msgid "[RT] {i}Hopefully something will be different the next time I pay the Mafia debt.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1279 ## translate crowdin event_info_45_7a1ea729:
+msgid "[RT] {i}I need to keep visiting Mom in her school office.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1282 ## translate crowdin event_info_45_7a1ea729_1:
+msgid "[RT] {i}I need to keep visiting Mom in her school office.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1285 ## translate crowdin event_info_45_f554d8f6:
+msgid "[RT] {i}I need to complete events 7, 40, and 44 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1288 ## translate crowdin event_info_45_f554d8f6_1:
+msgid "[RT] {i}I need to complete events 7, 40, and 44 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1294 ## translate crowdin event_info_46_33b26b3b:
+msgid "[RT] {i}I should start the photshoot with Mom and Megan by going to the warehouse on a weekday evening.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1297 ## translate crowdin event_info_46_33b26b3b_1:
+msgid "[RT] {i}I should start the photshoot with Mom and Megan by going to the warehouse on a weekday evening.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1300 ## translate crowdin event_info_46_9a9c83a7:
+msgid "[RT] {i}I need to get a ball gag from somewhere.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1303 ## translate crowdin event_info_46_9a9c83a7_1:
+msgid "[RT] {i}I need to get a ball gag from somewhere.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1306 ## translate crowdin event_info_46_f47e1f1e:
+msgid "[RT] {i}I need to complete event 45 before I can start working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1311 ## translate crowdin event_info_47_df9eb61d:
+msgid "[RT] {i}I need to complete event 46 before I can start working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1313 ## translate crowdin event_info_47_c788e25d:
+msgid "[RT] {i}I should keep building Mom's submission by pushing her to do new things at the photoshoot.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1319 ## translate crowdin event_info_48_881f6cce:
+msgid "[RT] {i}I need to complete events 10 and 40 before I can start working on event 48.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1322 ## translate crowdin event_info_48_af3b6ce1:
+msgid "[RT] {i}I need to complete event 40 before I can start working on event 48.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1325 ## translate crowdin event_info_48_852ffa9d:
+msgid "[RT] {i}I need to complete event 10 before I can start working on event 48.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1328 ## translate crowdin event_info_48_dd1778fe:
+msgid "[RT] {i}I need to keep running with Sidney during the early morning in the park to complete this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1333 ## translate crowdin event_info_49_1eddf451:
+msgid "[RT] {i}I need to complete event 40 before I can start working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1336 ## translate crowdin event_info_49_db295b3d:
+msgid "[RT] {i}Sidney was acting funny when I told her about Mom. I'd better keep an eye on her this weekend when the Mafia comes for their weekly payment.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1341 ## translate crowdin event_info_50_d1ba1b49:
+msgid "[RT] {i}I need to finish event 48 before I can start working on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1344 ## translate crowdin event_info_50_df590c99:
+msgid "[RT] {i}I need to visit Sidney while she's working at the club, maybe she'll have some time for a little more fun.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1349 ## translate crowdin event_info_51_0dbec413:
+msgid "[RT] {i}I need to complete event 11 before I can begin working on event 51.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1351 ## translate crowdin event_info_51_89d7214a:
+msgid "[RT] {i}I'll bet Aunt Cami will be angry about the pictures I took of Cousin Mandy. I should just wait for her visit.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1353 ## translate crowdin event_info_51_0fdc3e88:
+msgid "[RT] {i}I've heard rumor that there's been some heat on Uncle Bobby I wonder if I'll hear from him soon.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1355 ## translate crowdin event_info_51_be96a731:
+msgid "[RT] {i}I wonder what that text was about. I should go to the warehouse to see if Uncle Bobby is ok.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1361 ## translate crowdin event_info_52_f7fd09d4:
+msgid "[RT] {i}I need to complete event 51 before I can begin working on event 52.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1363 ## translate crowdin event_info_52_7b8ce07a:
+msgid "[RT] {i}I should keep visiting Sidney in the evenings until Aunt Cami comes to visit again.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1369 ## translate crowdin event_info_53_e449431f:
+msgid "[RT] {i}I need to complete event 52 before I can begin working on event 53.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1371 ## translate crowdin event_info_53_b7b6bc3f:
+msgid "[RT] {i}I should keep visiting the lounge in the late morning until I see Aunt Cami again.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1373 ## translate crowdin event_info_53_a21fc395:
+msgid "[RT] {i}I should keep going to the kitchen in the late morning until I can assign Aunt Cami a chore to work on.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1375 ## translate crowdin event_info_53_2f25f546:
+msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can do something even more mischievous to her in the bathroom.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1381 ## translate crowdin event_info_54_fbd675dc:
+msgid "[RT] {i}I need to start working of event 53 before I can begin working on event 54.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1383 ## translate crowdin event_info_54_730ba105:
+msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can make a deal with her in the lounge.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1389 ## translate crowdin event_info_55_ca299051:
+msgid "[RT] {i}I need to start working of event 53 before I can begin working on event 55.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1391 ## translate crowdin event_info_55_9c0e2742:
+msgid "[RT] {i}I need to build up Aunt Cami's libido or submission so I can make a deal with her in the kitchen.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1397 ## translate crowdin event_info_56_e559f0b3:
+msgid "[RT] {i}I need to complete either event 29 or 30 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1398 ## translate crowdin event_info_56_8a3ebdbc:
+msgid "[RT] {i}I also need to complete event 41.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1400 ## translate crowdin event_info_56_51bca888:
+msgid "[RT] {i}I need to complete event 41 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1402 ## translate crowdin event_info_56_4ddd2cc5:
+msgid "[RT] {i}I need to complete either event 29 or 30 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1404 ## translate crowdin event_info_56_dea813c9:
+msgid "[RT] {i}I have a strange feeling something weird is about to happen to me. Maybe the feeling will go away when I go to sleep tonight.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1409 ## translate crowdin event_info_57_67d02759:
+msgid "[RT] {i}I need to complete event 48 before I can start event 56.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1412 ## translate crowdin event_info_57_58a00b43:
+msgid "[RT] {i}I need to go running with Sidney in the early morning and try everything she has to offer at the park.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1417 ## translate crowdin event_info_58_734f2059:
+msgid "[RT] {i}I need to complete event 13 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1420 ## translate crowdin event_info_58_f2864629:
+msgid "[RT] {i}I need to complete event 14 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1423 ## translate crowdin event_info_58_33365f4f:
+msgid "[RT] {i}I need to complete either event 29 and or 30 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1426 ## translate crowdin event_info_58_53d39af0:
+msgid "[RT] {i}I need to complete event 53 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1429 ## translate crowdin event_info_58_4f6714d7:
+msgid "[RT] {i}Now I just need to wait for something to happen early Sunday morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1434 ## translate crowdin event_info_59_c0d6cb65:
+msgid "[RT] {i}I need to complete event 57 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1437 ## translate crowdin event_info_59_0c3762d2:
+msgid "[RT] {i}I need to complete event 58 before I can start on this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1440 ## translate crowdin event_info_59_0908ed64:
+msgid "[RT] {i}I need to visit Sidney at the club and choose all the options.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1443 ## translate crowdin event_info_59_80fabc3c:
+msgid "[RT] {i}I need to visit Sidney at the club on Monday night.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1448 ## translate crowdin event_info_60_355ad075:
+msgid "[RT] {i}I need to complete event 35 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1451 ## translate crowdin event_info_60_30ec8796:
+msgid "[RT] {i}I need to complete event 59 before I can finish this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1454 ## translate crowdin event_info_60_fee57787:
+msgid "[RT] {i}Mrs. Stone is up for almost anything... I wonder how far she'll go if I keep visiting her each week.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1459 ## translate crowdin event_info_61_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1462 ## translate crowdin event_info_61_78a44907:
+msgid "[RT] {i}I think I've heard Mandy watching TV in the lounge with Lauren in the evenings. I should go see them.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1467 ## translate crowdin event_info_62_3f5f4b2a:
+msgid "[RT] {i}I need to complete event 39 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1470 ## translate crowdin event_info_62_30ec8796:
+msgid "[RT] {i}I need to complete event 59 before I can finish this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1473 ## translate crowdin event_info_62_0c599b15:
+msgid "[RT] {i}I should talk to Megan in class about what Diaz recorded in the locker room.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1478 ## translate crowdin event_info_63_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1480 ## translate crowdin event_info_63_fd524874:
+msgid "[RT] {i}Mandy always showers with Lauren, how am I going to catch her masturbating in the shower?{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1481 ## translate crowdin event_info_63_5383f972:
+msgid "[RT] {i}Wait! Doesn't she shower alone on Sundays?... If I visit the bathroom when her libido is full...{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1486 ## translate crowdin event_info_64_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1488 ## translate crowdin event_info_64_af102ad8:
+msgid "[RT] {i}Mandy's always alone in her room in the evening. I wonder what I'll see if her libido is full.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1493 ## translate crowdin event_info_65_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1495 ## translate crowdin event_info_65_1a28dd4a:
+msgid "[RT] {i}Aunt Cami always showers in the afternoon, I wonder what I'll see if I spy on her when her libido is full.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1500 ## translate crowdin event_info_66_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1502 ## translate crowdin event_info_66_87fe1c2d:
+msgid "[RT] {i}Aunt Cami's always alone in Mom's room in the evening. I wonder what I'll see if her libido is full.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1507 ## translate crowdin event_info_67_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1509 ## translate crowdin event_info_67_01033ce4:
+msgid "[RT] {i}I should just keep visiting Lauren's room at night. I want to see where it will lead.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1514 ## translate crowdin event_info_68_d9646c97:
+msgid "[RT] {i}I need to complete event 31 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1517 ## translate crowdin event_info_68_b070076c:
+msgid "[RT] {i}I need to keep Lauren happy by helping her do as good as possible in the polls. I also need to complete event 66 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1520 ## translate crowdin event_info_68_dbc0dd24:
+msgid "[RT] {i}I need to keep Lauren happy by helping her do as good as possible in the polls.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1525 ## translate crowdin event_info_69_0e5fe308:
+msgid "[RT] {i}I need to complete event 67 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1527 ## translate crowdin event_info_69_6617e691:
+msgid "[RT] {i}With Cousin Mandy in Lauren's room, Agent Diaz's visits could get interesting. I should still make sure to pay to keep them safe.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1532 ## translate crowdin event_info_70_0e5fe308:
+msgid "[RT] {i}I need to complete event 67 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1534 ## translate crowdin event_info_70_d0f42af3:
+msgid "[RT] {i}With Cousin Mandy in Lauren's room, Agent Diaz's visits could get interesting. What would happen if I dont pay her off?{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1539 ## translate crowdin event_info_71_355ad075:
+msgid "[RT] {i}I need to complete event 35 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1542 ## translate crowdin event_info_71_2ee2a4d5:
+msgid "[RT] {i}I need to complete event 42 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1545 ## translate crowdin event_info_71_6f77717e:
+msgid "[RT] {i}I need to complete event 62 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1548 ## translate crowdin event_info_71_a9ae9fb4:
+msgid "[RT] {i}I need to keep visiting Lauren's afternoon campaign meetings in the bathroom. She's bound to have an idea that's fire.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1551 ## translate crowdin event_info_71_3a3558ac:
+msgid "[RT] {i}I need to visit school board member Will Tylor. I can probably find his office on my map in the late morning or afternoon.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1554 ## translate crowdin event_info_71_ba138732:
+msgid "[RT] {i}Will Tylor wants a fucking date with my mom?... Should I help him out?... Changing the dress code would almost guarantee that Lauren would win.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1555 ## translate crowdin event_info_71_0b52e09f:
+msgid "[RT] {i}I'd have to convince Mom to go to dinner with him though... I don't know if she would. I think she hates him... I could ask her at breakfast. She seems to be in a better mood in the morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1558 ## translate crowdin event_info_71_44bcec30:
+msgid "[RT] {i}I've sent Will an email letting him know my mom is willing to meet him for dinner. Now I've just got to wait for his reply. I'm sure it won't take longer than a week. I'll bet he sends it on Saturday when he's got a little more time.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1563 ## translate crowdin event_info_72_7b791f8b:
+msgid "[RT] {i}I need to complete event 58 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1565 ## translate crowdin event_info_72_a06cd21d:
+msgid "[RT] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further at the park.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1570 ## translate crowdin event_info_73_e22c4d79:
+msgid "[RT] {i}I need to complete event 59 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1572 ## translate crowdin event_info_73_349607b2:
+msgid "[RT] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further in the bedroom.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1577 ## translate crowdin event_info_74_e22c4d79:
+msgid "[RT] {i}I need to complete event 59 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1579 ## translate crowdin event_info_74_3525a635:
+msgid "[RT] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further after a photoshoot.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1584 ## translate crowdin event_info_75_e22c4d79:
+msgid "[RT] {i}I need to complete event 59 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1586 ## translate crowdin event_info_75_c09fbcc3:
+msgid "[RT] {i}After what Sidney and I did in the club, I wonder if she'll be willing to keep doing it there.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1591 ## translate crowdin event_info_76_e22c4d79:
+msgid "[RT] {i}I need to complete event 59 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1593 ## translate crowdin event_info_76_c87dd0d8:
+msgid "[RT] {i}The more events, and school influence I gain, the better the outcome of the election. {p}The election will start on a Friday. I just need to be in class when it begins.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1594 ## translate crowdin event_info_76_e82579f1:
+msgid "[RT] {i}I'd better be sure I've completed all my tasks before... I won't be able to do them after the election.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1599 ## translate crowdin event_info_77_7b4b4894:
+msgid "[RT] {i}I need to complete event 76 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1601 ## translate crowdin event_info_77_9051e9d4:
+msgid "[RT] {i}Now that Lauren is the student body president, she gets to read the morning announcements. I should listen to a few of them on Monday mornings.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1606 ## translate crowdin event_info_78_7b4b4894:
+msgid "[RT] {i}I need to complete event 76 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1608 ## translate crowdin event_info_78_6c53e1cb:
+msgid "[RT] {i}I'll bet I can go even further with Lauren when we watch tv in the evenings.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1613 ## translate crowdin event_info_79_7b4b4894:
+msgid "[RT] {i}I need to complete event 76 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1615 ## translate crowdin event_info_79_f0affadf:
+msgid "[RT] {i}I think Lauren and I both feel extra horny after a photoshoot. I wonder if I can push things any further after our next photo session.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1617 ## translate crowdin event_info_79_9b93ea4a:
+msgid "[RT] {i}I'll bet I can breed with Lauren the dragon breeder after our next photo session.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1622 ## translate crowdin event_info_80_7b4b4894:
+msgid "[RT] {i}I need to complete event 76 before I can start this event.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1624 ## translate crowdin event_info_80_c0ddeef9:
+msgid "[RT] {i}With so many people in the house, it's hard to catch Lauren alone... She usually showers alone early on Saturday. That might be a good opportunity for some more fun.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1639 ## translate crowdin again_tutorial_50b4b06e:
+msgid "[R] Testing.... Testing.... Ok.... It looks like it's recording."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1642 ## translate crowdin again_tutorial_eb7ecfdc:
+msgid "[R] My name is [ryan].... And if you are watching this recording, it means that I am dead."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1643 ## translate crowdin again_tutorial_0d8199d8:
+msgid "[R] Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1646 ## translate crowdin again_tutorial_a7a71d55:
+msgid "[R] Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1647 ## translate crowdin again_tutorial_4941a26d:
+msgid "[R] But probably the kind of tv series you could only see on HBO."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1650 ## translate crowdin again_tutorial_047a76a4:
+msgid "[R] Please God, just don't let anybody make a crappy H-game out of this."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1654 ## translate crowdin again_tutorial_29d73646:
+msgid "[WT] Ummm.... Hi!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1655 ## translate crowdin again_tutorial_327b2971:
+msgid "[WT] Sorry to interrupt."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1656 ## translate crowdin again_tutorial_3f364fff:
+msgid "[WT] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
+msgstr ""
+
+# game/Phone_event_screen.rpy:1657 ## translate crowdin again_tutorial_6be1bbb5:
+msgid "[WT] Back to you [ryan]."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1662 ## translate crowdin again_tutorial_9888c663:
+msgid "[R] I wanted to record my version of the remarkable events that have occured over the last little while."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1663 ## translate crowdin again_tutorial_f9858483:
+msgid "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1664 ## translate crowdin again_tutorial_15e2c4a9:
+msgid "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1667 ## translate crowdin again_tutorial_7be5f7b4:
+msgid "[WT] Thanks [ryan]. Let me do a little explaining from here."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1670 ## translate crowdin again_tutorial_cf17643b:
+msgid "[WT] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1673 ## translate crowdin again_tutorial_c3f79235:
+msgid "[WT] You can keep track of the items you acquire by clicking on this blue backpack."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1676 ## translate crowdin again_tutorial_0556842f:
+msgid "[WT] This will open up your inventory,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1679 ## translate crowdin again_tutorial_d644837a:
+msgid "[WT] where you will be able to see how much money you have earned,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1682 ## translate crowdin again_tutorial_25ecef9b:
+msgid "[WT] and what items you have acquired."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1685 ## translate crowdin again_tutorial_48f3259e:
+msgid "[WT] There are several other important items on the game screen I'd like to draw your attention to."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1688 ## translate crowdin again_tutorial_25fc2c00:
+msgid "[WT] This symbol shows you what day of the week it is,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1691 ## translate crowdin again_tutorial_0665f6d0:
+msgid "[WT] while this symbol show you the time of day."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1694 ## translate crowdin again_tutorial_2c6857c0:
+msgid "[WT] I'll let you get back to [ryan] again."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1697 ## translate crowdin again_tutorial_4f74ea21:
+msgid "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1700 ## translate crowdin again_tutorial_88c4b13a:
+msgid "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1703 ## translate crowdin again_tutorial_33df29b8:
+msgid "[WT] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1704 ## translate crowdin again_tutorial_c69197d0:
+msgid "[WT] You will find that navigation is very important in this type of game, so let me just show you how that's done."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1707 ## translate crowdin again_tutorial_850d20d8:
+msgid "[WT] On the game map, you can get around to many locations by using the travel buttons."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1710 ## translate crowdin again_tutorial_6bfbd2da:
+msgid "[WT] This button right here will open up a map of the house, where you can pick any room you would like to go to."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1713 ## translate crowdin again_tutorial_1e2916f7:
+msgid "[WT] You can also hover your cursor over this button, to open up the quick travel options."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1714 ## translate crowdin again_tutorial_65da6e59:
+msgid "[WT] These buttons will take you to any room in the house, as well as the world map."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1715 ## translate crowdin again_tutorial_82d216eb:
+msgid "[WT] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1716 ## translate crowdin again_tutorial_604a535f:
+msgid "[WT] So have fun exploring!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1722 ## translate crowdin again_tutorial_c83ea849:
+msgid "[R] I never can be sure who is following me, even though I have my suspicions."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1723 ## translate crowdin again_tutorial_7346a4af:
+msgid "[R] Always having to watch my back, has made me grow closer to the few people I can trust."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1724 ## translate crowdin again_tutorial_51e7cbc3:
+msgid "[R] And who can I trust better than those that live right here with me?"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1725 ## translate crowdin again_tutorial_033e4640:
+msgid "{i}\"(knock knock knock....)\"{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1726 ## translate crowdin again_tutorial_c1bfb181:
+msgid "[M] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1729 ## translate crowdin again_tutorial_a8730e81:
+msgid "[R] No Mom!.... But I'm really busy right now!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1730 ## translate crowdin again_tutorial_ecfc0255:
+msgid "[M] With what?"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1731 ## translate crowdin again_tutorial_2f540835:
+msgid "[R] Ummm.... Homework.... of course!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1732 ## translate crowdin again_tutorial_d3cb05bf:
+msgid "[M] Well, ok.... But you know, you don't need to take care of yourself, right?"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1733 ## translate crowdin again_tutorial_ef4266bd:
+msgid "[M] You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1736 ## translate crowdin again_tutorial_c8d5a1ef:
+msgid "[R] Ok!.... thanks Mom!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1737 ## translate crowdin again_tutorial_b7d2b788:
+msgid "[R] Please don't judge me until you've heard my side of the story."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1740 ## translate crowdin again_tutorial_483a3f0e:
+msgid "[R] It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1743 ## translate crowdin again_tutorial_0f68a40c:
+msgid "[WT] Let me just jump in here one more time."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1746 ## translate crowdin again_tutorial_c7f3d7ec:
+msgid "[WT] To be successful, [ryan] has to influence those around him."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1747 ## translate crowdin again_tutorial_762d3d13:
+msgid "[WT] Relationship management is the most important part of this game."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1748 ## translate crowdin again_tutorial_6141dd6f:
+msgid "[WT] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1749 ## translate crowdin again_tutorial_11cac143:
+msgid "[WT] So it's pretty important that you keep track of those stats."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1750 ## translate crowdin again_tutorial_6f912c38:
+msgid "[WT] You can access a girls stats,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1753 ## translate crowdin again_tutorial_9491e3d1:
+msgid "[WT] by pressing the \"P\" button on your keyboard."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1756 ## translate crowdin again_tutorial_b769c99b:
+msgid "[WT] You can cycle through the girls in the game by clicking on the left or right arrows."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1759 ## translate crowdin again_tutorial_c8ef2a6f:
+msgid "[WT] Once you've found the girl you want to track, you can figure out her stats by looking at the icons by her name and picture."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1762 ## translate crowdin again_tutorial_418686a5:
+msgid "[WT] The heart icon stands for love."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1765 ## translate crowdin again_tutorial_c3bbac67:
+msgid "[WT] These hands represent respect."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1768 ## translate crowdin again_tutorial_3c0737b4:
+msgid "[WT] The angry emoji stands for a girls anger towards you. It's hard to get them to do anything for you when they are mad."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1771 ## translate crowdin again_tutorial_e38fd42a:
+msgid "[WT] This whip icon, represents a girls submission to you."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1774 ## translate crowdin again_tutorial_2bd860cf:
+msgid "[WT] And these lips represent a girls libido."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1777 ## translate crowdin again_tutorial_d4d20a80:
+msgid "[WT] To close the stats window, just press the \"P\" on your keyboard again."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1778 ## translate crowdin again_tutorial_f429d6fe:
+msgid "[WT] Another handy way to track a girls stats is through your phone."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1781 ## translate crowdin again_tutorial_bb9483d0:
+msgid "[WT] You can access your phone by clicking on this button."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1784 ## translate crowdin again_tutorial_f595b29b:
+msgid "[WT] Once your phone is pulled up, you can track a girls stats,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1787 ## translate crowdin again_tutorial_d3037095:
+msgid "[WT] by clicking on this button right here."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1790 ## translate crowdin again_tutorial_6d29e98a:
+msgid "[WT] There are also some other handy things you can do with your phone as well."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1793 ## translate crowdin again_tutorial_c65434ed:
+msgid "[WT] For those of you who support us at the \"Friend\" tier on SubscribeStar or Patreon, you can install a mod that you can access by pressing on this button."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1794 ## translate crowdin again_tutorial_c33007ea:
+msgid "[WT] The mod is pretty awesome! It allows you to change the name of your character, manipulate the stats of other characters, add and remove items, and add money to your backpack."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1797 ## translate crowdin again_tutorial_aadd8f32:
+msgid "[WT] This button allows you to track your progress. When you click on it,"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1800 ## translate crowdin again_tutorial_69912aa8:
+msgid "[WT] A screen that lists events will pop up."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1803 ## translate crowdin again_tutorial_7a7c9308:
+msgid "[WT] And when you click on the three question marks \"???\", you will receive hints to help you know how to complete that event."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1806 ## translate crowdin again_tutorial_caf2f581:
+msgid "[WT] A couple other useful buttons are on the bottom of the phone."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1809 ## translate crowdin again_tutorial_ce5b1c76:
+msgid "[WT] This button lets you see any pictures of girls that you may take throughout the course of the game."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1812 ## translate crowdin again_tutorial_89244cba:
+msgid "[WT] And this extremely useful button let's you move forward in time."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1815 ## translate crowdin again_tutorial_e27d758f:
+msgid "[WT] So that's all the tips we have for you. Everything else you will have to figure out on your own, or I guess you could always find the walkthrough, or ask for help online."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1816 ## translate crowdin again_tutorial_ca4042fa:
+msgid "[WT] However you decide to play. We hope you enjoy the game."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1819 ## translate crowdin again_tutorial_4c175238:
+msgid "[WT] Go ahead and take it from here [ryan]!"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1822 ## translate crowdin again_tutorial_26e720f0:
+msgid "[R] I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1823 ## translate crowdin again_tutorial_a0f32abe:
+msgid "[R] And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1826 ## translate crowdin again_tutorial_e6d5853d:
+msgid "[R] .... So, until fairly recently, I was just a normal teenage kid like everybody else."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1827 ## translate crowdin again_tutorial_e48aa4ec:
+msgid "[R] Until I was woken up really early one day, by a phone call that would change my life forever...."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1828 ## translate crowdin again_tutorial_dc7a84b6:
+msgid "[R] ...."
+msgstr ""
+
+# game/Phone_event_screen.rpy:1831 ## translate crowdin again_tutorial_076a53a8:
+msgid "End of tutorial."
+msgstr ""
+
+# XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
+msgid "[event_num]:"
+msgstr ""
+
+# XX## game/Phone_event_screen.rpy:40
+msgid "???"
+msgstr ""
+
+# XX## game/Phone_event_screen.rpy:802
+msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
+"             hints!"
+msgstr ""
+
+# XX## game/Phone_event_screen.rpy:805
+msgid "Watch the tutorial again!"
+msgstr ""
+
+# XX## game/Phone_event_screen.rpy:811
+msgid "{color=#E60000}-------------------------------------{/color}"
+msgstr ""
+

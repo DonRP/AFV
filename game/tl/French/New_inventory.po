@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/New_inventory.po\n"
+"X-Crowdin-File-ID: 1299\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-02-20 18:54\n"
+
+# XXtranslate crowdin strings:XX# XX## game/New_inventory.rpy:219
+msgid "Lauren's first cosplay outfit, you can sell it online to make money."
+msgstr "La première tenue de cosplay de Lauren, vous pouvez la vendre en ligne pour gagner de l’argent."
+
+# XX## game/New_inventory.rpy:220
+msgid "Mandy's first cosplay outfit, you can sell it online to make money."
+msgstr "La première tenue de cosplay de Mandy, vous pouvez la vendre en ligne pour gagner de l’argent."
+
+# XX## game/New_inventory.rpy:222
+msgid "Expensive, but the most stylish swimsuit for my mom."
+msgstr "Cher, mais c'est le maillot de bain le plus élégant pour ma mère."
+
+# XX## game/New_inventory.rpy:225
+msgid "Generic milk chocolate bar."
+msgstr "Barre de chocolat au lait."
+
+# XX## game/New_inventory.rpy:226
+msgid "hardnLong.com $25 Gift Card(s)."
+msgstr "hardnLong.com 25$ Carte cadeau(s)."
+
+# XX## game/New_inventory.rpy:227
+msgid "Flowers for my ladies."
+msgstr "Des fleurs pour mes femmes."
+
+# XX## game/New_inventory.rpy:228
+msgid "Melatonin, the strongest over the counter sleep aid that I can buy. It's all natural... non addictive..."
+msgstr "De la mélatonine, aide au sommeil en vente libre, la plus forte que je puisse acheter. Tout est naturel... non addictif..."
+
+# XX## game/New_inventory.rpy:229
+msgid "Webcam(s), I can use this item to spy on the girls."
+msgstr "Webcam(s), je peux utiliser cet objet pour espionner les filles."
+
+# XX## game/New_inventory.rpy:230
+msgid "Ball Gag, a device used in sexual bondage and BDSM roleplay. Let's see how I can use it!"
+msgstr "Ball Gag, un dispositif utilisé dans le bondage sexuel et le jeu de rôle BDSM. Voyons comment je peux l’utiliser!"
+
+# XX## game/New_inventory.rpy:231
+msgid "The best DSLR camera I can afford for now."
+msgstr "Le meilleur appareil photo reflex numérique que je peux me permettre pour l’instant."
+
+# XX## game/New_inventory.rpy:232
+msgid "A green screen will make us look more professional."
+msgstr "Un fond vert nous donnera un aspect plus professionnel."
+
+# XX## game/New_inventory.rpy:233
+msgid "With this lights the photos will look better and we'll get more likes."
+msgstr "Avec ces projecteurs, les photos seront plus belles et nous obtiendrons plus de likes."
+
+# XX## game/New_inventory.rpy:234
+msgid "This items helps you get more likes from images."
+msgstr "Cet élément vous aide à obtenir plus de likes à partir des images."
+
+# XX## game/New_inventory.rpy:239
+msgid "This items is needed to make videos."
+msgstr "Ces éléments sont nécessaires pour faire des vidéos."
+
+# XX## game/New_inventory.rpy:240
+msgid "This items helps you get more likes from videos."
+msgstr "Cet élément vous aide à obtenir plus de likes à partir des vidéos."
+
+# XX## game/New_inventory.rpy:242
+msgid "A childrens book that turned out to be full of hidden sexual themes and innuendos... Maybe it is my kind of book!"
+msgstr "Un livre pour enfants qui s’est avéré être plein de thèmes sexuels cachés et d’insinuations... C’est peut-être mon genre de livre!"
+
+# XX## game/New_inventory.rpy:243
+msgid "Second book in the Perry Hotter Series."
+msgstr "Deuxième livre de la série Perry Hotter."
+
+# XX## game/New_inventory.rpy:244
+msgid "Third book in the Perry Hotter Series."
+msgstr "Troisième livre de la série Perry Hotter."
+
+# XX## game/New_inventory.rpy:257
+msgid "Money:$[money]"
+msgstr "Argent: [money]$"
+
+# XX## game/New_inventory.rpy:259
+msgid "INVENTORY"
+msgstr "INVENTAIRE"
+
+# XX## game/New_inventory.rpy:291
+msgid "[amount]"
+msgstr "[amount]"
+
