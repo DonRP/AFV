@@ -1,126 +1,157 @@
-﻿# TODO: Translation updated at 2022-02-20 12:36
+﻿# TODO: Translation updated at 2022-04-23 11:06
 
 # XXtranslate crowdin strings:XX# XX## game/Points_screen.rpy:115
 msgid  "Mom's stats:"
-msgstr  "Mom's stats:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mom's stats:"
 
 # XX## game/Points_screen.rpy:125
 msgid  "[momaffection]"
-msgstr  "[momaffection]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[momaffection]"
 
 # XX## game/Points_screen.rpy:126
 msgid  "[momrespect]"
-msgstr  "[momrespect]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[momrespect]"
 
 # XX## game/Points_screen.rpy:127
 msgid  "[momlibido]"
-msgstr  "[momlibido]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[momlibido]"
 
 # XX## game/Points_screen.rpy:128
 msgid  "[momsubmission]"
-msgstr  "[momsubmission]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[momsubmission]"
 
 # XX## game/Points_screen.rpy:129
 msgid  "[momanger]"
-msgstr  "[momanger]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[momanger]"
 
 # XX## game/Points_screen.rpy:136
 msgid  "Lauren's stats:"
-msgstr  "Lauren's stats:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Lauren's stats:"
 
 # XX## game/Points_screen.rpy:145
 msgid  "[laurenaffection]"
-msgstr  "[laurenaffection]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[laurenaffection]"
 
 # XX## game/Points_screen.rpy:146
 msgid  "[laurenrespect]"
-msgstr  "[laurenrespect]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[laurenrespect]"
 
 # XX## game/Points_screen.rpy:147
 msgid  "[laurenlibido]"
-msgstr  "[laurenlibido]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[laurenlibido]"
 
 # XX## game/Points_screen.rpy:148
 msgid  "[laurensubmission]"
-msgstr  "[laurensubmission]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[laurensubmission]"
 
 # XX## game/Points_screen.rpy:149
 msgid  "[laurenanger]"
-msgstr  "[laurenanger]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[laurenanger]"
 
 # XX## game/Points_screen.rpy:156
 msgid  "Sidney's stats:"
-msgstr  "Sidney's stats:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Sidney's stats:"
 
 # XX## game/Points_screen.rpy:165
 msgid  "[sidneyaffection]"
-msgstr  "[sidneyaffection]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[sidneyaffection]"
 
 # XX## game/Points_screen.rpy:166
 msgid  "[sidneyrespect]"
-msgstr  "[sidneyrespect]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[sidneyrespect]"
 
 # XX## game/Points_screen.rpy:167
 msgid  "[sidneylibido]"
-msgstr  "[sidneylibido]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[sidneylibido]"
 
 # XX## game/Points_screen.rpy:168
 msgid  "[sidneysubmission]"
-msgstr  "[sidneysubmission]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[sidneysubmission]"
 
 # XX## game/Points_screen.rpy:169
 msgid  "[sidneyanger]"
-msgstr  "[sidneyanger]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[sidneyanger]"
 
 # XX## game/Points_screen.rpy:188
 msgid  "[auntaffection]"
-msgstr  "[auntaffection]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[auntaffection]"
 
 # XX## game/Points_screen.rpy:189
 msgid  "[auntrespect]"
-msgstr  "[auntrespect]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[auntrespect]"
 
 # XX## game/Points_screen.rpy:190
 msgid  "[auntlibido]"
-msgstr  "[auntlibido]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[auntlibido]"
 
 # XX## game/Points_screen.rpy:191
 msgid  "[auntsubmission]"
-msgstr  "[auntsubmission]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[auntsubmission]"
 
 # XX## game/Points_screen.rpy:192
 msgid  "[auntanger]"
-msgstr  "[auntanger]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[auntanger]"
 
 # XX## game/Points_screen.rpy:202
 msgid  "Mandy's stats:"
-msgstr  "Mandy's stats:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mandy's stats:"
 
 # XX## game/Points_screen.rpy:211
 msgid  "[cousinaffection]"
-msgstr  "[cousinaffection]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[cousinaffection]"
 
 # XX## game/Points_screen.rpy:212
 msgid  "[cousinrespect]"
-msgstr  "[cousinrespect]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[cousinrespect]"
 
 # XX## game/Points_screen.rpy:213
 msgid  "[cousinlibido]"
-msgstr  "[cousinlibido]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[cousinlibido]"
 
 # XX## game/Points_screen.rpy:214
 msgid  "[cousinsubmission]"
-msgstr  "[cousinsubmission]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[cousinsubmission]"
 
 # XX## game/Points_screen.rpy:215
 msgid  "[cousinanger]"
-msgstr  "[cousinanger]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "[cousinanger]"
 
 # XX## game/Points_screen.rpy:217
 msgid  "<<"
-msgstr  "<<"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "<<"
 
 # XX## game/Points_screen.rpy:228
 msgid  ">>"
-msgstr  ">>"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  ">>"
 

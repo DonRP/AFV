@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
+﻿# TODO: Translation updated at 2022-04-23 11:06
+
+# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
 msgstr "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
 
@@ -6980,13 +6982,16 @@ msgstr "[RT] {i}I do feel pretty tired.{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScriptChristmasEvent.rpy:6
 msgid  "Ghost of XXX-mas Past"
-msgstr  "Ghost of XXX-mas Past"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Ghost of XXX-mas Past"
 
 # XX## game/UpdateScriptChristmasEvent.rpy:7
 msgid  "Ghost of XXX-mas Present"
-msgstr  "Ghost of XXX-mas Present"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Ghost of XXX-mas Present"
 
 # XX## game/UpdateScriptChristmasEvent.rpy:8
 msgid  "Ghost of XXX-mas Future"
-msgstr  "Ghost of XXX-mas Future"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Ghost of XXX-mas Future"
 

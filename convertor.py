@@ -13,7 +13,7 @@ translate crowdin""": """ ## translate crowdin""",
     # """: """:
 msgid \"""",
     """    old \"""": """msgid  \"""",
-    """    new \"""": """msgstr  \"""",
+    """    new \"""": """msgid_plural "Ignore this. translate only: One"\nmsgstr[0]  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",
@@ -94,6 +94,7 @@ msgid \"""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
     """12:36\n\n# game""": """HH:HH# game""",
+    """12:36\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # only rpytopo
     """msgid \"\"""": """msgid \"""",
     """msgstr \"\"""": """msgstr \"""",

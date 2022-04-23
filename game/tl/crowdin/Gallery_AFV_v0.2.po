@@ -1,38 +1,47 @@
-﻿# TODO: Translation updated at 2022-02-20 12:36
+﻿# TODO: Translation updated at 2022-04-23 11:06
 
 # XXtranslate crowdin strings:XX# XX## game/Gallery_AFV_v0.2.rpy:225
 msgid  "Mom's gallery"
-msgstr  "Mom's gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mom's gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:393
 msgid  "Lauren's gallery"
-msgstr  "Lauren's gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Lauren's gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:521
 msgid  "Sidney's gallery"
-msgstr  "Sidney's gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Sidney's gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:667
 msgid  "Aunt Camille's gallery"
-msgstr  "Aunt Camille's gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Aunt Camille's gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:756
 msgid  "Mandy's gallery"
-msgstr  "Mandy's gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Mandy's gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:838
 msgid  "Harem \n     gallery"
-msgstr  "Harem \n     gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Harem \n     gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:941
 msgid  "Other girls gallery"
-msgstr  "Other girls gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Other girls gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:1037
 msgid  "NTR gallery"
-msgstr  "NTR gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "NTR gallery"
 
 # XX## game/Gallery_AFV_v0.2.rpy:1158
 msgid  "Cosplay gallery"
-msgstr  "Cosplay gallery"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0]  "Cosplay gallery"
 
