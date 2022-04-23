@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid  "[ryan]'s Thoughts"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "[ryan]'s Thoughts"

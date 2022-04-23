@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 ## translate crowdin HTBYD_game_start_lbl_2bc58679:
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 ## translate crowdin HTBYD_game_start_lbl_2bc58679:
 msgid "[MS] That's the picture of Lauren you're going to use?"
 msgstr "[MS] That's the picture of Lauren you're going to use?"
 

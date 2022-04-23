@@ -93,8 +93,8 @@ msgid \"""",
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
-    """12:36\n\n# game""": """HH:HH# game""",
-    """12:36\n\n# XXtranslate""": """HH:HH# XXtranslate""",
+    """11:06\n\n# game""": """HH:HH# game""",
+    """11:06\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # only rpytopo
     """msgid \"\"""": """msgid \"""",
     """msgstr \"\"""": """msgstr \"""",

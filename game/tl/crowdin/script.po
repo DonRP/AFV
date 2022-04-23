@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
 msgstr "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
 msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
 msgstr "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
 

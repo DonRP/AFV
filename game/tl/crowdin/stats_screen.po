@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# XXtranslate crowdin strings:XX# XX## game/stats_screen.rpy:28
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/stats_screen.rpy:28
 msgid  "{color=#42f456}Mom's:{/color}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=#42f456}Mom's:{/color}"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# XXtranslate crowdin strings:XX# XX## game/Phone_gallery.rpy:54
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Phone_gallery.rpy:54
 msgid  "{image=images/interface_images/phone_screen_images/images_phone.png} Photo Gallery"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{image=images/interface_images/phone_screen_images/images_phone.png} Photo Gallery"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-23 11:06
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
+﻿# TODO: Translation updated at 2022-04-23 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
 msgstr "[DS] You added $[addmoney] and now have: $[money]."
 
