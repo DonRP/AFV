@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-16 10:04\n"
+"PO-Revision-Date: 2022-04-23 09:38\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
 msgstr "{i}(Pas feutrés et grincements de porte.){/i}"
 
@@ -11542,193 +11542,289 @@ msgstr "[S] Alors, y avait-il autre chose dont tu voulais me parler ?"
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.05.rpy:7
 msgid "Crazy Old Man"
-msgstr "Vieil homme fou"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:8
 msgid "Crazy Old Man's Thoughts"
-msgstr "Pensées du vieil homme fou"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:9
 msgid "Mr. Peterson"
-msgstr "M. Peterson"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:10
 msgid "Mr. Peterson's Thoughts"
-msgstr "Pensées de M. Peterson"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:11
 msgid "Policeman"
-msgstr "Policier"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:12
 msgid "Mrs. Stone"
-msgstr "Mme Stone"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:13
 msgid "Armani"
-msgstr "Armani"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:509
 msgid "I'm not going to miss this opportunity."
-msgstr "Je ne vais pas rater cette occasion."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:509
 msgid "Just go to sleep."
-msgstr "Aller juste dormir."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:574
 msgid "Help Mom."
-msgstr "Aider maman."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:574
 msgid "Don't help Mom."
-msgstr "Ne pas aider maman."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:865
 msgid "Run to the park"
-msgstr "Courir au parc"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:865
 msgid "I don't feel like running today."
-msgstr "Je n'ai pas envie de courir aujourd'hui."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:885
 msgid "You should go to the indoor track."
-msgstr "Vous devriez aller sur la piste intérieure."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:885
 msgid "I'll go to the park myself and see if it's safe."
-msgstr "Je vais aller au parc moi-même et voir si c'est sûr."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:885
 msgid "Let's go jogging in the park together. I'll keep you safe. (Light NTR Warning)"
-msgstr "Allons faire du jogging dans le parc ensemble. Je te protégerai. (Avertissement NTR léger)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:1671
 msgid "Can I get a handjob?"
-msgstr "Je peux avoir une branlette?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:1671
 msgid "Do you want me to finger you again?"
-msgstr "Tu veux que je te doigte encore ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:1671
 msgid "How about another blowjob?"
-msgstr "Et une autre fellation?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:2610
 msgid "Deep"
-msgstr "Profond"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:2900
 msgid "Hold the line!"
-msgstr "Tenir la ligne!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:2938
 msgid "Hold strong.... Hold strong.... Hold strong...."
-msgstr "Tiens bon.... Tiens bon.... Tiens bon...."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Mom"
-msgstr "Taquiner maman"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Lauren"
-msgstr "Taquiner Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:4072
 msgid "Tease Sidney"
-msgstr "Taquiner Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "Public Fingering"
-msgstr "Doigté en public"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr "{s}Doigté Sindney en public{/s} {i}(La libido de Sidney 8+){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "Public Handjob"
-msgstr "Branlette en publique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "Eat Pussy"
-msgstr "Manger la chatte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Eat Pussy{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr "{s}Manger sa chatte{/s} {i}(La Libido de Sidney 8+) {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "Blowjob"
-msgstr "Fellation"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "Sex {i}(Bonus){/i}"
-msgstr "Sexe {i}(Bonus) {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5584
 msgid "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
-msgstr "{s}Sexe avec elle{/s} {i}(La libido de Sidney 8+) {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5758
 msgid "That feels so good!"
-msgstr "Ça fait tellement de bien !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5758
 msgid "Yeah, suck it whore!"
-msgstr "Ouais, suces-la, pute!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5777
 msgid "Cum down her throat."
-msgstr "Sperme dans sa gorge."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5777
 msgid "Cum all over her face."
-msgstr "Sperme sur son visage."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:5856
 msgid "Finish"
-msgstr "Terminer"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6096
 msgid "Yes!.... Peek!"
-msgstr "Oui!.... Jeter un coup d'œil!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6096
 msgid "No!.... Don't risk it."
-msgstr "Non!.... Ne prends pas le risque."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6136
 msgid "Working for the Mafia"
-msgstr "Travailler pour la Mafia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6136
 msgid "Are you making good money?"
-msgstr "Vous gagnez beaucoup d'argent?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6136
 msgid "Can we?.... You know...."
-msgstr "On peut ?.... Tu sais...."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6200
 msgid "Joey (NTR Warning)"
-msgstr "Joey (Avertissement NTR)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6215
 msgid "That's all for tonight."
-msgstr "C'est tout pour ce soir."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6256
 msgid "Working for the Mafia."
-msgstr "Travailler pour la Mafia."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6256
 msgid "Can we?.... you know...."
-msgstr "On peut ?.... Tu sais...."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.05.rpy:6294
 msgid "Sex"
-msgstr "Sexe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
