@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-01 20:06\n"
+"PO-Revision-Date: 2022-04-23 09:35\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
 msgstr "[RT] {i}J'ai enfin terminé le travail Zad 3D et la retouche photo.{/i}"
 
@@ -9446,69 +9446,103 @@ msgstr "[RT] {i}Hein ? Oh, mec ! J'adorerais voir maman là-dedans ! Je devrais 
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.03.rpy:11
 msgid "Kenzie's Thoughts"
-msgstr "Les pensées de Kenzie"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:12
 msgid "Waitress"
-msgstr "Serveuse"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:13
 msgid "Everybody Else"
-msgstr "Tout les autres"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:14
 msgid "Matt's Thoughts"
-msgstr "Les pensées de Matt"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:15
 msgid "Agent Diaz"
-msgstr "Agent Diaz"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:16
 msgid "Agent Diaz's Thoughts"
-msgstr "Pensées de l'Agent Diaz"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "Of course I'll protect Lauren!"
-msgstr "Bien sûr que je protégerai Lauren!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "Shit!.... I don't have the money to protect her this week!"
-msgstr "Merde!.... Je n'ai pas l'argent pour la protéger cette semaine !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
-msgstr "J'ai besoin de cet argent pour autre chose.... Le cul de Lauren devra payer la facture cette semaine."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:897
 msgid "Just Leave her alone."
-msgstr "La laisser tranquille."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:1071
 msgid "Commission a new cosplay outfit."
-msgstr "Commander une nouvelle tenue de cosplay."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr "Demander d'enlever sa jupe. {i}(soumission +5 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr "Demander de montrer son string en peau de daim par derrière. {i}(soumission +7 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-msgstr "Demander d'enlever son soutien-gorge en peau de daim. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her titties. {i}(submission 14+){/i}"
-msgstr "Demander de montrer ses nichons. {i}(soumission +14){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
-msgstr "Demander d'enlever son string en peau de daim. {i}(soumission +19){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her for explicit close-ups. {i}(submission 25+){/i}"
-msgstr "Demander des gros plans explicites. {i}(soumission +25) {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
