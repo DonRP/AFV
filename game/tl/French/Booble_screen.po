@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:54\n"
+"PO-Revision-Date: 2022-04-23 09:32\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
 msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
 msgstr "[RT] {i}Je devrais faire une recherche sur booble.com pour trouver un moyen d’acheter les choses dont j’ai besoin afin que le FBI ne me demande pas d’où j’ai obtenu de l’argent. {/i}"
 
@@ -22,9 +22,13 @@ msgstr "[RT] {i}Que dois-je faire aujourd’hui sur Internet ? {/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-msgstr "{color=#ffffff}{b}hardnLong.dong achats en ligne{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
-msgstr "{color=#ffffff}{b}cosplayheaven.cos site de cosplay{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
