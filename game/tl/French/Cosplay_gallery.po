@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:54\n"
+"PO-Revision-Date: 2022-04-23 09:33\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Cosplay_gallery.rpy:1213 ## translate crowdin cosplay_label_c1f386dd:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Cosplay_gallery.rpy:1213 ## translate crowdin cosplay_label_c1f386dd:
 msgid "[RT] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
 msgstr "[RT] {i}Oui... J'ai vendu une autre paire de vêtements pour [sold]$ de plus.{/i}"
 
@@ -78,49 +78,65 @@ msgstr "[RT] {i}j’espère que nous pourrons en vendre davantage. {/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
-msgstr "{color=#ffffff}{b}Supporters{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:566
 msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
-msgstr "{color=#ffffff}Publicité{b}{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:570
 msgid "{color=#ffffff}{b}Images\n"
 "Videos{/b}{/color}"
-msgstr "{color=#ffffff}{b}Images\n"
-"Vidéos{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:575
 msgid "{color=#ffffff}{b}Outfits{/b}{/color}"
-msgstr "{color=#ffffff}{b}Tenues{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-msgstr "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
-msgstr "{color=#ffffff}{b}Appuyez sur pour changer \n"
-" j'aime l'argent{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
-msgstr "{color=#000000}{b}Vente{/b}{/couleur}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
-msgstr "{color=#000000}{b}tenues{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
-msgstr "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Cosplay_gallery.rpy:1084
 msgid " {b}{color=#ffffff}Press to receive\n"
 "{size=18} monthly earnings:{/size}\n"
 "{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-msgstr " {b}{color=#ffffff}Cliquez pour recevoir\n"
-"{size=18} gains mensuels:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
