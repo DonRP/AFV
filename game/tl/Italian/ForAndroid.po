@@ -10,21 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-04-23 09:33\n"
 
-# XXtranslate crowdin strings:XX# XX## game/ForAndroid.rpy:36
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/ForAndroid.rpy:36
 msgid "Quick Menu"
-msgstr "Menu Rapido"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/ForAndroid.rpy:70
 msgid "Menu"
-msgstr "Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/ForAndroid.rpy:112
 msgid "Console"
-msgstr "Console"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/ForAndroid.rpy:114
 msgid "Close quick menu!"
-msgstr "Chiudi il menu rapido!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
