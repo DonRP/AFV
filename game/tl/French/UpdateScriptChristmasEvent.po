@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-25 18:14\n"
+"PO-Revision-Date: 2022-04-23 09:35\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
 msgstr "Bienvenue à notre événement de Noël! ATTENTION !! Cet événement a des éléments de NTR (tricherie / inceste), qui sont complètement évitables! Les choix qui mènent au contenu NTR sont clairement marqués!"
 
@@ -6994,13 +6994,19 @@ msgstr "[RT] {i}Je me sens assez fatigué.{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScriptChristmasEvent.rpy:6
 msgid "Ghost of XXX-mas Past"
-msgstr "Fantôme du Noël x du passé"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScriptChristmasEvent.rpy:7
 msgid "Ghost of XXX-mas Present"
-msgstr "Fantôme du Noël x du présent"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScriptChristmasEvent.rpy:8
 msgid "Ghost of XXX-mas Future"
-msgstr "Fantôme du Noël x du futur"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
