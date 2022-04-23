@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-10 16:27\n"
+"PO-Revision-Date: 2022-04-23 09:36\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
 msgstr "[RT] {i}Ok, je pense que j'ai eu assez de mains, il est temps d'augmenter les choses d'un cran.{/i}"
 
@@ -12690,125 +12690,187 @@ msgstr "[S] À plus tard frère!"
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.04.rpy:320
 msgid "Just leave her alone."
-msgstr "La laisser tranquille."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:623
 msgid "Wake Sidney for a chat."
-msgstr "Réveiller Sidney pour discuter."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:633
 msgid "I wonder what she'll do now."
-msgstr "Je me demande ce qu'elle va faire maintenant."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:706
 msgid "Let her sleep."
-msgstr "La laisser dormir."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:966
 msgid "Let's just see if she's up for it."
-msgstr "Voyons si elle est prête."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:1630
 msgid "No Deal"
-msgstr "Pas d'accord conclu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:2093
 msgid "No Deal."
-msgstr "Pas d'accord conclu."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:2316
 msgid "And actually, I have the $200 right here."
-msgstr "Et en fait, j'ai les 200$ juste ici."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:2316
 msgid "So, I'll get you the money soon."
-msgstr "Alors, je vais bientôt t'obtenir de l'argent."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:2638
 msgid "Let her choose one herself."
-msgstr "La laisser choisir elle-même."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "We need those shorts to come off. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr "Enlever ce short. {i}(soumission +5 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just move onto taking off your shirt, but keeping the nips covered. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr "Commencer par enlever la chemise et libérer les nichons. {i}(soumission +7 {b}{color=#0000ff}ou{/b} libido +9){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just jump into some scenes where you show off your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-msgstr "Passer à quelques scènes où elle montre ses nichons. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Your ass will look better in ripped underwear. {i}(submission 14+){/i}"
-msgstr "Ton cul sera plus beau en sous-vêtements déchirés. {i}(soumission +14){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Let's just jump into some explicit close-ups {i}(submission 19+){/i}"
-msgstr "Passer simplement à des gros plans explicites {i}(soumission +19){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Have you ever heard of anal gaping? {i}(submission 25+){/i}"
-msgstr "As-tu déjà entendu parler d'ouverture anale? {i}(soumission +25){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4351
 msgid "Actually, let's call it a day."
-msgstr "En fait, appelons ça un jour."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Remove the shirt, but hide the nips. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr "Enlever la chemise, mais cacher les tétons. {i}(soumission +7 {b}{color= #0000ff} ou {/color}{/b} libido +9){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Take some action shots where we can see your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-msgstr "Prendre des photos en action où on peut voir les nichons. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Get rid of the shirt, and rip a revealing hole in your panties. {i}(submission 14+){/i}"
-msgstr "Se débarrasser de la chemise et déchirer un trou révélateur dans la culotte. {i}(soumission +14){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Jump straight into some explicit close-ups {i}(submission 19+){/i}"
-msgstr "Sauter directement à des gros plans explicites {i}(soumission +19){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Try something pretty crazy! I'm thinking an anal gape shot? {i}(submission 25+){/i}"
-msgstr "Essayer quelque chose d'assez fou! Je pense à un coup d'ouverture anale? {i}(soumission +25){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4671
 msgid "Just call it a day."
-msgstr "L'appeler simplement un jour."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4993
 msgid "Wow! Are you a mind reader? {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-msgstr "Ça alors! As-tu lu dans mon esprit? {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:4993
 msgid "No, let's just call it a day."
-msgstr "Non, appelons-le un autre jour."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5027
 msgid "Rip a hole in your panties. {i}(submission 14+){/i}"
-msgstr "Faire un trou dans la culotte. {i}(soumission +14){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5027
 msgid "Get some explicit close-ups. {i}(submission 19+){/i}"
-msgstr "Obtenir des gros plans explicites. {i}(soumission +19){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5027
 msgid "Try a pose where you do a small anal gape. {i}(submission 25+){/i}"
-msgstr "Essayer une pose où il y a une petite ouverture anale. {i}(soumission +25){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5271
 msgid "Rip a hole in those panties. {i}(submission 14+){/i}"
-msgstr "Faire un trou dans cette culotte. {i}(soumission +14){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5717
 msgid "I think we should go for it anyways. {i}(submission 25+){/i}"
-msgstr "Je pense que nous devrions tout de même y aller. {i}(soumission 25+){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.04.rpy:5717
 msgid "I think we should call it quits for today."
-msgstr "Je pense que nous devrions arrêter pour aujourd'hui."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
