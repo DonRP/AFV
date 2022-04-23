@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:53\n"
+"PO-Revision-Date: 2022-04-23 09:36\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
 msgstr "[RT] {i}je devrais d’abord aller au portrait de famille pour me souvenir. {/i}"
 
@@ -1238,23 +1238,32 @@ msgstr "Fin du tutoriel."
 
 # XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
-msgstr "[event_num]:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:40
 msgid "???"
-msgstr "???"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:802
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
-msgstr "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n"
-"             indices!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:805
 msgid "Watch the tutorial again!"
-msgstr "Regardez le tutoriel à nouveau!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:811
 msgid "{color=#E60000}-------------------------------------{/color}"
-msgstr "{color=#E60000}-------------------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
