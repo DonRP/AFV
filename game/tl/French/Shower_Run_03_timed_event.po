@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-04-23 09:33\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125 ## translate crowdin Shower_Run03_game_start_lbl_3033e668:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125 ## translate crowdin Shower_Run03_game_start_lbl_3033e668:
 msgid "[RT] {i}I can't even believe my luck.{/i}"
 msgstr "[RT] {i}je n’arrive même pas à croire en ma chance. {/i}"
 
