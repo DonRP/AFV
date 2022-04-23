@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-04-23 09:31\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 ## translate crowdin HTBYD_game_start_lbl_2bc58679:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 ## translate crowdin HTBYD_game_start_lbl_2bc58679:
 msgid "[MS] That's the picture of Lauren you're going to use?"
 msgstr "[MS] C’est la photo de Lauren que vous allez utiliser ?"
 
