@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-04-23 09:32\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125 ## translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125 ## translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
 msgid "[RT] {i}I've just got to move as silently as a ninja.{/i}"
 msgstr "[RT] {i}Je dois me déplacer aussi silencieusement qu'un ninja. {/i}"
 
