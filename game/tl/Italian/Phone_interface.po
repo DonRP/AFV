@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:52\n"
+"PO-Revision-Date: 2022-04-23 09:33\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
 msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
 msgstr "[RT] {i}Non posso perdere tempo in questo momento, il DeCapos sarà qui alcun minuto.{/i}"
 
