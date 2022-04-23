@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-04-23 09:31\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:126 ## translate crowdin ASS_Affect_game_start_lbl_aadc3f05:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:126 ## translate crowdin ASS_Affect_game_start_lbl_aadc3f05:
 msgid "[MS] Oh... I see Lauren is in a similar pose for this picture too."
 msgstr "[MS] Oh... Je vois que Lauren est dans une pose similaire pour cette photo également."
 
