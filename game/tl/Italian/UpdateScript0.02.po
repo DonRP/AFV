@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-04-24 09:38\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.02.rpy:10 ## translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -6079,96 +6079,96 @@ msgstr "[R] Merda, ha finito, farei meglio a sparire."
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.02.rpy:233
 msgid "What will she do?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Cosa farà?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:233
 msgid "Skip event."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Salta l'evento."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:316
 msgid "Let's keep things going with Sidney."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Continuiamo le cose con Sidney."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:316
 msgid "Just sleep."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dormi e basta."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:766
 msgid "Try to make it better."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Cerca di farla stare meglio."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:766
 msgid "Just leave her alone, you've tortured her enough."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lasciala in pace, l'hai torturata abbastanza."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:772
 msgid "Bang your metal bat on the floor"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Batti la tua mazza di metallo sul pavimento"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:802
 msgid "Make some creepy noises"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Fai dei rumori inquietanti"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:825
 msgid "You're right, I should save up a little more money first."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hai ragione, dovrei risparmiare un pò di soldi prima."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:913
 msgid "Now let's see how you pose when they ask you to take pics from behind."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ora vediamo come ti metti in posa quando ti chiedono di fare foto da dietro."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:913
 msgid "Have a good time at the convention!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Divertiti alla convention!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:969
 msgid "Set up new spy-cam."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Imposta la nuova spy-cam."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:1538
 msgid "Peek through spy-cam."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sbircia attraverso la spy-cam."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2186
 msgid "Pinch."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pizzica."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2261
 msgid "Not now."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non ora."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2832
 msgid "Look through spy-cam"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Guarda attraverso la spy-cam"
+msgstr[1] "Ignore this. translate only: One"
 
