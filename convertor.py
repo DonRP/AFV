@@ -4,7 +4,10 @@ import os
 
 # ATTENTION: there must not be 2 equal key or value
 dict = {
-    # potorpy only
+    # potorpy only#--- "Ignore this. translate only: One"
+    """\n  """: """#--- \"Ignore this. translate only: One\"\n\n  """,
+    """ """: """#p--- \"Ignore this. translate only: One\"\n """,
+    """:\n\n    # """: """:\n    # """,
     # not traslate
     """\n# game""": """    new \"\"\n\n# game""",
     # accapo
@@ -14,7 +17,7 @@ dict = {
     """""": """\"\n\"""",
     """""": """\"\n\"""",
     """    old \"""": """msgid \"""",
-    """    new \"""": """    \"""",
+    """    new \"""": """msgstr[0] \"""",
 
     # search_text : replace_text
     """
@@ -99,15 +102,18 @@ msgid \"""",
     # Fix
     """msgstr \"\"[""": """msgstr \"[@""",
     """msgid \"\"[""": """msgid \"[@""",
-    # Final
+    #Final
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
     """HH:HH\n\n# game""": """HH:HH# game""",
+    """HH:HH\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # potorpy only
     """msgstr \"[""": """msgstr \"\"[""",
     """msgstr \"\"""": """msgstr \"""",
     """""": """msgstr \"\"""",
+    """#p---""": """msgid_plural""",
+    """#---""": """msgstr[1]""",
 }
 
 
