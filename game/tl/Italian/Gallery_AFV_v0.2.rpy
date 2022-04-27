@@ -10,43 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-04-24 09:36\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Gallery_AFV_v0.2.rpy:225
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Gallery_AFV_v0.2.rpy:225
 msgid "Mom's gallery"
-msgstr "Galleria della mamma"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria della mamma"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:393
 msgid "Lauren's gallery"
-msgstr "Galleria di Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria di Lauren"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:521
 msgid "Sidney's gallery"
-msgstr "Galleria di Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria di Sidney"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:667
 msgid "Aunt Camille's gallery"
-msgstr "Galleria della zia di Camille"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria della zia di Camille"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:756
 msgid "Mandy's gallery"
-msgstr "Galleria di Mandy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria di Mandy"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:838
 msgid "Harem \n"
 "     gallery"
-msgstr "Harem \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Harem \n"
 "     galleria"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:941
 msgid "Other girls gallery"
-msgstr "Altre ragazze galleria"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Altre ragazze galleria"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:1037
 msgid "NTR gallery"
-msgstr "Galleria NTR"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria NTR"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Gallery_AFV_v0.2.rpy:1158
 msgid "Cosplay gallery"
-msgstr "Galleria di Cosplay"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Galleria di Cosplay"
+msgstr[1] "Ignore this. translate only: One"
 

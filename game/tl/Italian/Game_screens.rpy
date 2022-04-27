@@ -10,41 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-04-24 09:36\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid " My\n"
 "Room"
-msgstr " La mia\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] " La mia\n"
 "stanza"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:77
 msgid "Bath"
-msgstr "Bagno"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bagno"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:110
 msgid "City"
-msgstr "Città"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Città"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:125
 msgid "Hallway"
-msgstr "Corridoio"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Corridoio"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:134
 msgid "Class"
-msgstr "Classe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Classe"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr "{size=29} {/size}Armadietto\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{size=29} {/size}Armadietto\n"
 "Delle Ragazze\n"
 "{size=25} {/size}Stanza"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
-msgstr "Campagna\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Campagna\n"
 "   HQ"
+msgstr[1] "Ignore this. translate only: One"
 

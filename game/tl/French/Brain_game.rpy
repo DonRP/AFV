@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 18:54\n"
+"PO-Revision-Date: 2022-04-23 09:32\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
 msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
@@ -30,9 +30,13 @@ msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
 msgid "You lose!"
-msgstr "Vous avez perdu !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/Brain_game.rpy:519
 msgid "YOU WON!!!"
-msgstr "VOUS AVEZ GAGNÉ !!!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

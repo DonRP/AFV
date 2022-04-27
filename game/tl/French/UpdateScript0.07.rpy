@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-24 18:01\n"
+"PO-Revision-Date: 2022-04-23 09:37\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
 msgstr "[RT] {i}Ok, j'ai fait savoir à Will Tylor que maman sera prête à le rencontrer pour le dîner, maintenant j'ai juste besoin d'attendre et de voir s'il va réussir à imposer les changements de code vestimentaire.{/i}"
 
@@ -31982,421 +31982,631 @@ msgstr "[RT] {i}Si je décide de les mettre en place, Il serait probablement pr�
 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.07.rpy:17
 msgid "Voice over intercom"
-msgstr "Voix à travers l'interphone"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:18
 msgid "Principal Hardun"
-msgstr "Monsieur le principal Hardun"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:19
 msgid "Miss Jessica"
-msgstr "Mme Jessica"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:20
 msgid "Zack"
-msgstr "Zack"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:21
 msgid "Unknown Boy"
-msgstr "Garçon Inconnu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:22
 msgid "Another Unknown Boy"
-msgstr "Un Autre garçon Inconnu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:23
 msgid "Stacy"
-msgstr "Stacy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:24
 msgid "Mrs. Stone's Thoughts"
-msgstr "Pensées de Mme Stone"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:25
 msgid "Locker Room Girl"
-msgstr "Fille du vestiaire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:26
 msgid "Brooke"
-msgstr "Brooke"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:27
 msgid "Reagan"
-msgstr "Reagan"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:28
 msgid "Haylee"
-msgstr "Haylee"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1332
 msgid "Lick that clit!"
-msgstr "Lécher ce clitoris!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1332
 msgid "Where's your pride, man?"
-msgstr "Où est ta fierté, mec ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1561
 msgid "I think our relationship is more than that."
-msgstr "Je pense que notre relation est plus que cela."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1561
 msgid "Say nothing."
-msgstr "Ne rien dire."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1672
 msgid "Take what you can get!"
-msgstr "Prends ce que tu veux obtenir!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1672
 msgid "I can't let her think I'm that desperate."
-msgstr "Je ne peux pas la laisser croire que je suis si désespéré."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:1966
 msgid "Lets go to pound town."
-msgstr "Allons à pound town."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:2044
 msgid "Pull out!"
-msgstr "Retirer!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:2044
 msgid "Creampie!"
-msgstr "Éjaculation interne!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:2330
 msgid "Leave her alone"
-msgstr "La laisser tranquille"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:2536
 msgid "Cover her face"
-msgstr "Couvrir son visage"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:3064
 msgid "Suggest Anal sex"
-msgstr "Suggérer le sexe anal"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:3064
 msgid "Don't bring up anal"
-msgstr "Ne pas faire mention de l'anal"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:3836
 msgid "Stay strong, don't arrange the date."
-msgstr "Rester fort, ne pas organiser de rdv."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:3836
 msgid "Lauren's election is too important, arrange the date."
-msgstr "L'élection de Lauren est trop importante, planifier la date."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4140
 msgid "Interrupt."
-msgstr "Interrompre."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4140
 msgid "Continue to wait."
-msgstr "Continuer à attendre."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4164
 msgid "Cough loudly."
-msgstr "Tousser fort."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4269
 msgid "Get her attention."
-msgstr "Attirer son attention."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4309
 msgid "Pay for posters ($200)"
-msgstr "Payer pour les affiches (200$)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4309
 msgid "I don't have that much money."
-msgstr "Je n'ai pas beaucoup d'argent."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4309
 msgid "I'm not spending that much on posters!"
-msgstr "Je ne dépense pas beaucoup en affiches !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4325
 msgid "Skip Mini-Game."
-msgstr "Ignorer le mini-jeu."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4325
 msgid "Play Mini-Game"
-msgstr "Jouer au mini-jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:4442
 msgid "Pay for posters ($300)"
-msgstr "Payer pour les affiches (300$)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:6932
 msgid "Standing doggy"
-msgstr "Chien debout"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7364
 msgid "Ok, fine!"
-msgstr "Ok, bien!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7364
 msgid "No way!"
-msgstr "Pas question !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7368
 msgid "Lick her pussy"
-msgstr "Lécher sa chatte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7368
 msgid "Get a blowjob"
-msgstr "Obtenir une pipe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7368
 msgid "Fuck her missionary style"
-msgstr "Baiser en style missionnaire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7368
 msgid "Fuck her standing doggystyle"
-msgstr "Baiser debout en levrette"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7897
 msgid "Standing Doggy"
-msgstr "Chien Debout"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7910
 msgid "Lick her pussy."
-msgstr "Lécher sa chatte."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:7936
 msgid "Lauren squirt"
-msgstr "Lauren gicle"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8408
 msgid "Ok, I'll bankroll you."
-msgstr "Ok, je vais te financer."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8408
 msgid "I can't afford another losing campaign."
-msgstr "Je ne peux pas me permettre une autre campagne perdue."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8408
 msgid "Sorry, I've got to protect Mom at all costs."
-msgstr "Désolé, je dois protéger maman à tout prix."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8551
 msgid "I don't have enough money this week."
-msgstr "Je n'ai pas assez d'argent cette semaine."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $100"
-msgstr "Lui donner 100$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $250"
-msgstr "Lui donner 250$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8551
 msgid "Give her $500"
-msgstr "Lui donner 500$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:8953
 msgid "Go see Mom"
-msgstr "Aller voir maman"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:9119
 msgid "Talk to Megan"
-msgstr "Parler à Megan"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:9145
 msgid "Get Lauren's Attention"
-msgstr "Attirer l'attention de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:9765
 msgid "sneak out of class"
-msgstr "se faufiler hors de la classe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:9780
 msgid "Sneak out of class"
-msgstr "Se faufiler hors de la classe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10033
 msgid "Yes ($300)"
-msgstr "Oui (300$)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10082
 msgid "Cum inside"
-msgstr "Sperme à l'intérieur"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10082
 msgid "Cum on her ass"
-msgstr "Sperme sur son cul"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10766
 msgid "I should get our of here."
-msgstr "Je devrais prendre ma part."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10824
 msgid "Yes, let's go back in time."
-msgstr "Oui, remontons le temps."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:10824
 msgid "No, I'll keep the consequences of losing."
-msgstr "Non, j'assumerai les conséquences de perdre."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:11422
 msgid "$100"
-msgstr "100$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:11422
 msgid "$300"
-msgstr "300$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:11422
 msgid "$500"
-msgstr "500$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:11715
 msgid "Sorry, no money right now."
-msgstr "Désolé, pas d'argent pour le moment."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12221
 msgid "Lauren, you sound a little bit crazy."
-msgstr "Lauren, tu as l'air un peu énervée."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12221
 msgid "Lauren, I think you might be on to something."
-msgstr "Lauren, je pense que tu tiens peut-être sur quelque chose."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12438
 msgid "Lick Lauren's ass"
-msgstr "Lécher le cul de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12438
 msgid "Get a blowjob from Lauren"
-msgstr "Obtenir une pipe de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12438
 msgid "Invite Mandy"
-msgstr "Inviter Mandy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12483
 msgid "Go see Mrs. Stone."
-msgstr "Aller voir Mme Stone."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12483
 msgid "I'll go another time."
-msgstr "J'irais une autre fois."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12515
 msgid "Down Lauren's throat"
-msgstr "Dans la gorge de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:12515
 msgid "All over Lauren's Face"
-msgstr "Sur le visage de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:13172
 msgid "Lick your ass!"
-msgstr "Lèche ton cul!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:13172
 msgid "I'd love another blowjob!"
-msgstr "J'adorerais une autre pipe!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:13873
 msgid "Maybe..."
-msgstr "Peut-être..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:14019
 msgid "Put this dream out of it's misery."
-msgstr "Sortir ce rêve de la misère."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:14019
 msgid "Encourage her to keep going."
-msgstr "L'encourager à continuer."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15052
 msgid "I was busy."
-msgstr "J'étais occupé."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15052
 msgid "I didn't have the money."
-msgstr "Je n’ai pas d'argent."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15052
 msgid "I don't know... I'm really sorry."
-msgstr "Je ne sais pas... Je suis vraiment désolé."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15244
 msgid "In Lauren's mouth"
-msgstr "Dans la bouche de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15244
 msgid "On Lauren's face"
-msgstr "Sur le visage de Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15862
 msgid "Missionary Position"
-msgstr "Position du missionnaire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15965
 msgid "Reverse Cowgirl"
-msgstr "Cover-girl inversé"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:15990
 msgid "Pull Out"
-msgstr "Retirer"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16050
 msgid "Suggest Anal Sex"
-msgstr "Suggérer le sexe anal"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16050
 msgid "Keep Quiet"
-msgstr "Garder le silence"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16131
 msgid "Uhh... Never mind... It wasn't a good idea."
-msgstr "Euhh... Ça ne fait rien... Ce n'était pas une bonne idée."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16235
 msgid "Suggest Anal Sex."
-msgstr "Suggérer le sexe anal."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16235
 msgid "Wait! Bad idea."
-msgstr "Attends! Mauvaise idée."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16383
 msgid "Go visit Will Tylor"
-msgstr "Aller visiter Will Tylor"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16383
 msgid "Maybe another time."
-msgstr "Peut-être une autre fois."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16399
 msgid "Check out the van."
-msgstr "Regarder dans la fourgonnette."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16399
 msgid "Maybe later."
-msgstr "Peut-être plus tard."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:16503
 msgid "Yes ($500)"
-msgstr "Oui (500$)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:17141
 msgid "Buy School Influence ($500)"
-msgstr "Acheter Influence scolaire (500$)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:17141
 msgid "Nothing else."
-msgstr "Rien d'autre."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:17890
 msgid "Yeah, why not?"
-msgstr "Ouais, pourquoi pas?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/UpdateScript0.07.rpy:17890
 msgid "No, that's too expensive."
-msgstr "Non, c'est trop cher."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

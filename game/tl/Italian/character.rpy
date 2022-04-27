@@ -10,57 +10,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-07 10:44\n"
+"PO-Revision-Date: 2022-04-24 09:37\n"
 
-# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid "[ryan]'s Thoughts"
-msgstr "I Pensieri di [ryan]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "I Pensieri di [ryan]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:45
 msgid "Mom's Thoughts"
-msgstr "Pensieri Di Mamma"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensieri Di Mamma"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:46
 msgid "Dad"
-msgstr "Papà"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Papà"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:49
 msgid "Lauren's Thoughts"
-msgstr "Pensieri Di Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensieri Di Lauren"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:50
 msgid "Joey"
-msgstr "Joey"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Joey"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:51
 msgid "Mafia Goon"
-msgstr "Mafia Goon"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mafia Goon"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:52
 msgid "Voice over Microphone"
-msgstr "Voice over Microfono"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Voice over Microfono"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:53
 msgid "?????"
-msgstr "?????"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "?????"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:56
 msgid "Sidney's Thoughts"
-msgstr "Pensieri Di Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensieri Di Sidney"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:57
 msgid "Megan"
-msgstr "Megan"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Megan"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:59
 msgid "Mandy's Thoughts"
-msgstr "Pensieri Di Mandy"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensieri Di Mandy"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:60
 msgid "Aunt Camille"
-msgstr "Zia Camille"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Zia Camille"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/character.rpy:61
 msgid "Aunt Camille's Thoughts"
-msgstr "Pensieri Della Zia Camilla"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensieri Della Zia Camilla"
+msgstr[1] "Ignore this. translate only: One"
 

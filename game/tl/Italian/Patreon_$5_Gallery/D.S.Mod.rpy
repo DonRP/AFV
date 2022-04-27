@@ -11,9 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 10:49\n"
+"PO-Revision-Date: 2022-04-24 09:35\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
 msgstr "[DS] Hai aggiunto $[addmoney] e ora hanno: $[money]."
 
@@ -63,341 +63,509 @@ msgstr "[RT] {i}Scuola è finita, devo tornare a casa{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:160
 msgid "label name: [store.current_label]"
-msgstr "nome dell'etichetta: [store.current_label]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "nome dell'etichetta: [store.current_label]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:161
 msgid "iPatch: [persistent.patreonsafe]"
-msgstr "iPatch: [persistent.patreonsafe]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "iPatch: [persistent.patreonsafe]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:356
 msgid "[screen_on]"
-msgstr "[screen_on]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "[screen_on]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:459
 msgid "Mod Info!"
-msgstr "Mod Info!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mod Info!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:508
 msgid "{color=#00589E}Name_changes------------------{/color}"
-msgstr "{color=#00589E}Name_changes------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Name_changes------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:510
 msgid "Change your name. \n"
 "{color=#1DDB16}(Current name is: [ryan]){/color}"
-msgstr "Cambia il tuo nome. \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cambia il tuo nome. \n"
 "{color=#1DDB16}(Il nome attuale è: [ryan]){/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:523
 msgid "{color=#00589E}Points_and_items--------------{/color}"
-msgstr "{color=#00589E}Points_and_items--------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Points_and_items--------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:525
 msgid "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
-msgstr "{color=#1DDB16}Add{/color}/{color=#E60000}Rimuovi{/color} elementi"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#1DDB16}Add{/color}/{color=#E60000}Rimuovi{/color} elementi"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:555
 msgid "Change girls stats"
-msgstr "Cambiare le statistiche delle ragazze"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cambiare le statistiche delle ragazze"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:621
 msgid "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
-msgstr "{color=#00589E}Orario:[timeofdaycounter]---------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Orario:[timeofdaycounter]---------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:623
 msgid " Press to jump to the right\n"
 "                   time!"
-msgstr " Premi per saltare al giusto\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] " Premi per saltare al giusto\n"
 "                   tempo!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:629
 msgid "Advance Time"
-msgstr "Tempo Di Avanzamento"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Tempo Di Avanzamento"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:644
 msgid "Regress Time"
-msgstr "Tempo Di Rigress"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Tempo Di Rigress"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:658
 msgid "Set week day"
-msgstr "Imposta giorno settimana"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Imposta giorno settimana"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:684
 msgid "{color=#00589E}Money:[money]----------------------{/color}"
-msgstr "{color=#00589E}Soldi:[money]----------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soldi:[money]----------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:686
 msgid "Add $1000"
-msgstr "Aggiungi $1000"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aggiungi $1000"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:690
 msgid "Remove $1000"
-msgstr "Rimuovi $1000"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Rimuovi $1000"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:699
 msgid "Input money"
-msgstr "Inserisci denaro"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Inserisci denaro"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:703
 msgid "{color=#00589E}Gallery unlocker-----------------{/color}"
-msgstr "{color=#00589E}Galleria unlocker-----------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Galleria unlocker-----------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:750
 msgid "{color=#E60000}Add/Remove items{/color}"
-msgstr "{color=#E60000}Aggiungi/Rimuovi articoli{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000}Aggiungi/Rimuovi articoli{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:782
 msgid "{color=#000000}-------------------------------------{/color}"
-msgstr "{color=#000000}-----------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#000000}-----------------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:792
 msgid "Add!"
-msgstr "Aggiungi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aggiungi!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:799
 msgid "Remove!"
-msgstr "Rimuovi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Rimuovi!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1123
 msgid "{color=#E60000}Day of the week:{/color}"
-msgstr "{color=#E60000}Giorno della settimana:{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000}Giorno della settimana:{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1124
 msgid "{color=#E60000}[day]{/color}"
-msgstr "{color=#E60000}[day]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000}[day]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1127
 msgid "{color=#000000}------------------------------------------{/color}"
-msgstr "{color=#000000}----------------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#000000}----------------------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
 msgid "Monday!"
-msgstr "Lunedì!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lunedì!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1138
 msgid "Tuesday!"
-msgstr "Martedì!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Martedì!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1147
 msgid "Wednesday!"
-msgstr "Mercoledì!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mercoledì!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1156
 msgid "Thursday!"
-msgstr "Giovedì!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Giovedì!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1165
 msgid "Friday!"
-msgstr "Venerdì!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Venerdì!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1175
 msgid "Saturday!"
-msgstr "Sabato!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sabato!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1184
 msgid "Sunday!"
-msgstr "Domenica!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Domenica!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1257
 msgid "{color=#E60000}Change girls stats{/color}"
-msgstr "{color=#E60000}Cambia le statistiche delle ragazze{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000}Cambia le statistiche delle ragazze{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1261
 msgid "Reset all girls anger lvl!"
-msgstr "Azzera tutte le ragazze rabbia lvl!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Azzera tutte le ragazze rabbia lvl!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1271
 msgid "Set all girls libido lvl to max!"
-msgstr "Imposta tutte le ragazze libido lvl al massimo!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Imposta tutte le ragazze libido lvl al massimo!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1290
 msgid "{image=iconM} [Mom]"
-msgstr "{image=iconM} [Mom]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconM} [Mom]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1306
 msgid "{image=iconL} Lauren"
-msgstr "{image=iconL} Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconL} Lauren"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1322
 msgid "{image=iconS} Sidney"
-msgstr "{image=iconS} Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconS} Sidney"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
 msgid "{image=iconA} [Auntie]"
-msgstr "{image=iconA} [Auntie]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconA} [Auntie]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
 msgid "{image=iconM} {color=#E60000}[Mom]{/color}"
-msgstr "{image=iconM} {color=#E60000}[Mom]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconM} {color=#E60000}[Mom]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
-msgstr "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
 msgid "Increase respect!"
-msgstr "Aumenta rispetto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumenta rispetto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
 msgid "Decrease respect!"
-msgstr "Riduci rispetto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Riduci rispetto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
-msgstr "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
 msgid "Increase affection!"
-msgstr "Aumenta l'affetto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumenta l'affetto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1478
 msgid "Decrease affection!"
-msgstr "Diminuisci affetto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuisci affetto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1489
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
-msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1493
 msgid "Increase libido!"
-msgstr "Aumenta la libido!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumenta la libido!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1502
 msgid "Decrease libido!"
-msgstr "Diminuisci libido!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuisci libido!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1513
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
-msgstr "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[momsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[momsubmission]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1517
 msgid "Increase submission!"
-msgstr "Aumentare la sottomissione!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumentare la sottomissione!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1526
 msgid "Decrease submission!"
-msgstr "Diminuire la sottomissione!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuire la sottomissione!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1537
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
-msgstr "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[momanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[momanger]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1541
 msgid "Reset anger!"
-msgstr "Resetta la rabbia!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Resetta la rabbia!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
 msgid "Increase anger!"
-msgstr "Aumentare la rabbia!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumentare la rabbia!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
 msgid "Decrease anger!"
-msgstr "Diminuire la rabbia!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuire la rabbia!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1602
 msgid "{image=iconL} {color=#E60000}Lauren{/color}"
-msgstr "{image=iconL} {color=#E60000}Lauren{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconL} {color=#E60000}Lauren{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
-msgstr "{color=#00589E}Rispetto:{/color} {color=#1DDB16}[laurenrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rispetto:{/color} {color=#1DDB16}[laurenrespect]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
-msgstr "{color=#00589E}Affetto:{/color} {color=#1DDB16}[laurenaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affetto:{/color} {color=#1DDB16}[laurenaffection]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1659
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
-msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
-msgstr "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[laurensubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[laurensubmission]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1707
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
-msgstr "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[laurenanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[laurenanger]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1738
 msgid "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
-msgstr "{color=#00589E}Influenza della scuola:{/color} {color=#1DDB16}[school_influence]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Influenza della scuola:{/color} {color=#1DDB16}[school_influence]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
 msgid "Increase influence!"
-msgstr "Aumenta l'influenza!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aumenta l'influenza!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
 msgid "Decrease influence!"
-msgstr "Diminuisci l'influenza!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuisci l'influenza!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1797
 msgid "{image=iconS} {color=#E60000}Sidney{/color}"
-msgstr "{image=iconS} {color=#E60000}Sidney{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconS} {color=#E60000}Sidney{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
-msgstr "{color=#00589E}Rispetto:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rispetto:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
-msgstr "{color=#00589E}Affetto:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affetto:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
-msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
-msgstr "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Sottomissione:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
-msgstr "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[sidneyanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rabbia:{/color} {color=#1DDB16}[sidneyanger]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
 msgid "{image=iconA} {color=#E60000}[Auntie]{/color}"
-msgstr "{image=iconA} {color=#E60000}[Auntie]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconA} {color=#E60000}[Auntie]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
-msgstr "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[auntrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[auntrespect]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
-msgstr "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[auntaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[auntaffection]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
-msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
-msgstr "{color=#00589E}Invia:{/color} {color=#1DDB16}[auntsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Invia:{/color} {color=#1DDB16}[auntsubmission]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
-msgstr "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
-msgstr "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[cousinrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Rispetta:{/color} {color=#1DDB16}[cousinrespect]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
-msgstr "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[cousinaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affeziono:{/color} {color=#1DDB16}[cousinaffection]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
-msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
-msgstr "{color=#00589E}Invia:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Invia:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
-msgstr "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
 msgid "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
-msgstr "Vuoi cambiare il tuo nome? Il nome predefinito è: {color=#0000CC}Ryan{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Vuoi cambiare il tuo nome? Il nome predefinito è: {color=#0000CC}Ryan{/color}"
+msgstr[1] "Ignore this. translate only: One"
 

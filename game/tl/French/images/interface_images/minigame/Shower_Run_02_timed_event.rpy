@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-20 17:49\n"
+"PO-Revision-Date: 2022-04-23 09:32\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126 ## translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126 ## translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
 msgid "[RT] {i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
 msgstr "[RT] {i}Ok... Pas de panique!... Je dois juste me faufiler devant eux aussi. {/i}"
 

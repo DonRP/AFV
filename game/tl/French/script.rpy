@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-23 19:21\n"
+"PO-Revision-Date: 2022-04-23 09:35\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
 msgstr "Si c’est la première fois que vous jouez à ce jeu, nous vous recommandons vivement de regarder le didacticiel."
 
@@ -8258,405 +8258,607 @@ msgstr "[RT] {i}Maintenant, je ferais mieux de sortir d'ici avant qu'elle ne me 
 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:310
 msgid "Would you like to see the tutorial?"
-msgstr "Voulez-vous voir le tutoriel?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:310
 msgid "Yes."
-msgstr "Oui."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:310
 msgid "No."
-msgstr "Non."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:317
 msgid "Skip to the end of v0.01b"
-msgstr "Passer à la fin de la version 0.01b"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:317
 msgid "Don't skip the game"
-msgstr "Ne pas passer le jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:319
 msgid "Chose your route!"
-msgstr "Choisissez votre itinéraire!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:319
 msgid "Loyalty route"
-msgstr "Voie de la fidélité"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:319
 msgid "NTR route"
-msgstr "Voie NTR"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:319
 msgid "Back"
-msgstr "Retour"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:700
 msgid "Peek down her robe"
-msgstr "Jetez un coup d'œil sous sa robe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:700
 msgid "Gross!! That's just weird!"
-msgstr "Dégueulasse !! C'est juste bizarre!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:780
 msgid "Lauren, what the hell are you doing?"
-msgstr "Lauren, qu'est-ce que tu fous, bordel ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1043
 msgid "Sleep"
-msgstr "Dormir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1043
 msgid "Never mind"
-msgstr "Peu importe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1058
 msgid "Memes (Advances time)"
-msgstr "Mêmes (Avance de temps)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1586
 msgid "Go sit down"
-msgstr "Aller vous asseoir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1592
 msgid "Ask Mom about her day"
-msgstr "Demander à maman pour sa journée"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1592
 msgid "Ask Lauren about her day"
-msgstr "Demander à Lauren pour sa journée"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1869
 msgid "Yes"
-msgstr "Oui"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1869
 msgid "No"
-msgstr "Non"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1993
 msgid "Skip event and sleep till tomorrow"
-msgstr "Sauter l'événement et dormir jusqu'à demain"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1993
 msgid "Jump to Mafia payment event."
-msgstr "Aller à l'événement de paiement de la mafia."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1998
 msgid "I'll pay them $1,000."
-msgstr "Je leur paierais 1'000$."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1998
 msgid "Shit!... I don't have enough money to pay the Mafia."
-msgstr "Merde!... Je n'ai pas assez d'argent pour payer la Mafia."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:1998
 msgid "Let Mom use her \"ass\"ets to pay the debt this week."
-msgstr "Laisser maman utiliser sa carte 'cul' pour payer la dette de cette semaine."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:2194
 msgid "Look down"
-msgstr "Regarder en bas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:2203
 msgid "Look up"
-msgstr "Regarder vers le haut"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:2227
 msgid "Cover up"
-msgstr "Recouvrir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:2227
 msgid "\"Why should I?\""
-msgstr "'Pourquoi devrais-je?'"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:2669
 msgid "Watch TV with Lauren"
-msgstr "Regarder la télévision avec Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3346
 msgid "Look."
-msgstr "Regarder."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3346
 msgid "Never mind."
-msgstr "Peu importe."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3634
 msgid "Peek"
-msgstr "Coup d’oeil"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3731
 msgid "Have Dinner"
-msgstr "Avoir le dîner"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3748
 msgid "Hey Mom, it's good to see you up and about!"
-msgstr "Hé maman, c'est bon de te revoir!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:3748
 msgid "Are you drinking again?!"
-msgstr "Tu bois encore ?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4132
 msgid "Look around"
-msgstr "Regarder aux alentours"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4152
 msgid "Talk to Sidney"
-msgstr "Parler à Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4197
 msgid "Try to keep eye contact"
-msgstr "Essayer de garder un contact visuel"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4218
 msgid "Just a really quick peek"
-msgstr "Juste un coup d’œil très rapide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4218
 msgid "Don't risk it"
-msgstr "Ne pas risquer"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4247
 msgid "Give her money for Lauren's cosplay outfit."
-msgstr "Lui donner de l'argent pour la tenue de cosplay de Lauren."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4247
 msgid "Ask her to work at club."
-msgstr "Lui demander de travailler au club."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4333
 msgid "Take a look"
-msgstr "Jeter un coup d'oeil"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4333
 msgid "Stay Strong"
-msgstr "Rester Fort"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4349
 msgid "What do you think, slut?!"
-msgstr "Qu'en penses-tu, salope ?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4349
 msgid "Nothing!"
-msgstr "Rien !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4358
 msgid "Just walk away"
-msgstr "Juste à pied"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4489
 msgid "Knock on her door"
-msgstr "Frapper à sa porte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4721
 msgid "Look closer."
-msgstr "Regarder de plus près."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4737
 msgid "Try using subliminal messages"
-msgstr "Essayer d'utiliser des messages subliminaux"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4737
 msgid "Just leave her alone, she's had a rough few days."
-msgstr "La laisser tranquille, elle a eu quelques jours difficiles."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4776
 msgid "Subliminal messages"
-msgstr "Messages subliminaux"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4818
 msgid "Peek through the spy-cam."
-msgstr "Coup d’œil à travers la camera espion."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4818
 msgid "Nah, she's probably just sleeping."
-msgstr "Non, elle dort probablement."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4835
 msgid "Knock"
-msgstr "Toquer"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4835
 msgid "Peek through spy-cam"
-msgstr "Coup d’œil à travers la camera espion"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4835
 msgid "I'm just going to give her some time to cool down"
-msgstr "Je vais juste lui laisser le temps de se calmer"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4841
 msgid "Give her a gift"
-msgstr "Lui offrir un cadeau"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4841
 msgid "I just wanted to apologize"
-msgstr "Je voulais juste m'excuser"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her a chocolate bar"
-msgstr "Lui donner une barre de chocolat"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her Hardnlong gift card"
-msgstr "Lui offrir une carte-cadeau Hardnlong"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her flowers"
-msgstr "Lui donner des fleurs"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5091
 msgid "Get a closer look"
-msgstr "Regarder de plus près"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5091
 msgid "Why would I even think of looking?"
-msgstr "Pourquoi devrais-je même penser à regarder?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5275
 msgid "Use spy-cam."
-msgstr "Utiliser une caméra espion."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5275
 msgid "Not right now."
-msgstr "Pas pour le moment."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5381
 msgid "Take a peek."
-msgstr "Jeter un coup d’œil."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5396
 msgid "Let's just take a peek at what she's doing."
-msgstr "Jetons un coup d'œil à ce qu'elle fait."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5855
 msgid "Yes, I need an ally"
-msgstr "Oui, j'ai besoin d'un allié"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5899
 msgid "More subliminal messages!"
-msgstr "Plus de messages subliminaux!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:5899
 msgid "Not tonight."
-msgstr "Pas ce soir."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6017
 msgid "Spy on Sidney"
-msgstr "Espionner Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6017
 msgid "Keep looking around"
-msgstr "Continuer à regarder autour"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6103
 msgid "Just a little bit"
-msgstr "Juste un peu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6103
 msgid "Nothing"
-msgstr "Rien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6140
 msgid "Of course!"
-msgstr "Bien sûr!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6197
 msgid "Continue sneaking"
-msgstr "Continuer à se faufiler"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6197
 msgid "Leave"
-msgstr "Partir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6621
 msgid "Attend Class"
-msgstr "Participer à la classe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6621
 msgid "Start Election Campaign Storyline"
-msgstr "Début de la campagne électorale"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6673
 msgid "Talk to Mom about Oedipus assignment"
-msgstr "Parler à maman au sujet de l'affectation d'Œdipe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6854
 msgid "Accept Matt's help (\"WARNING\" future NTR content)"
-msgstr "Accepter l'aide de Matt ('AVERTISSEMENT' futur contenu NTR)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:6854
 msgid "Tell Matt to go fuck himself"
-msgstr "Dire à Matt d'aller se faire foutre"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7054
 msgid "Just the tip"
-msgstr "Juste le pourboire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7054
 msgid "Throat Fuck"
-msgstr "Baise en gorge profonde"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7065
 msgid "Deeper"
-msgstr "Plus profond"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7065
 msgid "Cum"
-msgstr "Jouir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7114
 msgid "Down Megan's throat"
-msgstr "Dans la gorge de Megan"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7114
 msgid "All over her face"
-msgstr "Sur son visage"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7422
 msgid "Make Deliveries"
-msgstr "Faire des livraisons"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7479
 msgid "Pick up Items"
-msgstr "Ramasser les objets"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7479
 msgid "Go to Photo Studio."
-msgstr "Aller dans studio photo."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7479
 msgid "Return to Map"
-msgstr "Retour à la carte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7975
 msgid "Tell them about the conversation with Uncle Bobby"
-msgstr "Leur parler de la conversation avec Oncle Bobby"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:7990
 msgid "Tell them about visit with Uncle Bobby"
-msgstr "Leur parler de la visite avec Oncle Bobby"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:8135
 msgid "Stay and Watch"
-msgstr "Rester et regarder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:8135
 msgid "Go home"
-msgstr "Rentrer chez moi"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:8167
 msgid "Keep Watching"
-msgstr "Continuer à regarder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:8306
 msgid "Go answer the door"
-msgstr "Aller répondre à la porte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:8320
 msgid "No (lie)"
-msgstr "Non (mensonge)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

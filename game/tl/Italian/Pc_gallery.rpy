@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 17:51\n"
+"PO-Revision-Date: 2022-04-23 09:34\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/Pc_gallery.rpy:824 ## translate crowdin fap_mom_18b092ef:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Pc_gallery.rpy:824 ## translate crowdin fap_mom_18b092ef:
 msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
 msgstr "[RT] {i}Non ho tempo per questo. Il DeCapos sarà qui alcun minuto.{/i}"
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 10:49\n"
+"PO-Revision-Date: 2022-04-24 09:35\n"
 
-# TODO: Translation updated at 2022-02-20 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
+# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
 msgid "[@betPickVar]"
 msgstr "[@betPickVar]"
 
@@ -182,19 +182,27 @@ msgstr "[RLT_dealer] Hai perso! Il numero che ha rotolato è [theRoll] ed è [th
 
 # XXtranslate crowdin strings:XX# XX## game/images/interface_images/Roulette/RouletteGame.rpy:235
 msgid "Croupier"
-msgstr "Croupier"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Croupier"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid "Do you want to play the Roulette?"
-msgstr "Vuoi suonare la Roulette?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Vuoi suonare la Roulette?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/Roulette/RouletteGame.rpy:340
 msgid "What type of game do you want to play?"
-msgstr "Che tipo di gioco vuoi giocare?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Che tipo di gioco vuoi giocare?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/Roulette/RouletteGame.rpy:521
 msgid "Game type: [betType]\n"
 "You bet on: [playerPiked]"
-msgstr "Tipo di gioco: [betType]\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Tipo di gioco: [betType]\n"
 "Scommetti su: [playerPiked]"
+msgstr[1] "Ignore this. translate only: One"
 

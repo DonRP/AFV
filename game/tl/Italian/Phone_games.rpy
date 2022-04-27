@@ -10,9 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-20 18:56\n"
+"PO-Revision-Date: 2022-04-24 09:37\n"
 
-# XXtranslate crowdin strings:XX# XX## game/Phone_games.rpy:31
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Phone_games.rpy:31
 msgid "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
-msgstr "{image=images/interface_images/phone_screen_images/Games_small.webp} Giochi"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=images/interface_images/phone_screen_images/Games_small.webp} Giochi"
+msgstr[1] "Ignore this. translate only: One"
 
