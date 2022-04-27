@@ -1,32 +1,38 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: a-family-venture\n"
-# "X-italian-Project-ID: 492487\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/ForAndroid.po\n"
-# "X-italian-File-ID: 1291\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-02-20 15:03\n"
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/ForAndroid.po\n"
+"X-Crowdin-File-ID: 1291\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-04-24 09:36\n"
 
-translate italian strings:
+# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/ForAndroid.rpy:36
+msgid "Quick Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Menu Rapido"
+msgstr[1] "Ignore this. translate only: One"
 
-    # game/ForAndroid.rpy:36
-    old "Quick Menu"
-    new "Menu Rapido"
+# XX## game/ForAndroid.rpy:70
+msgid "Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Menu"
+msgstr[1] "Ignore this. translate only: One"
 
-    # game/ForAndroid.rpy:70
-    old "Menu"
-    new "Menu"
+# XX## game/ForAndroid.rpy:112
+msgid "Console"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Console"
+msgstr[1] "Ignore this. translate only: One"
 
-    # game/ForAndroid.rpy:112
-    old "Console"
-    new "Console"
-
-    # game/ForAndroid.rpy:114
-    old "Close quick menu!"
-    new "Chiudi il menu rapido!"
+# XX## game/ForAndroid.rpy:114
+msgid "Close quick menu!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Chiudi il menu rapido!"
+msgstr[1] "Ignore this. translate only: One"
 

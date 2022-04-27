@@ -1,427 +1,571 @@
-#     old ""
-#     new ""
-# "DS "You added $[addmoney] and now have: $[money].\n"
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Patreon_$5_Gallery/D.S.Mod.po\n"
-# "X-french-File-ID: 1985\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-10 17:00\n"
-
-# TODO: Translation updated at 2022-02-20 HH:HH
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324
-translate french input_money_9c2e4d68:
-
-    # DS "You added $[addmoney] and now have: $[money]."
-    DS "Vous avez ajouté [addmoney]$ et avez maintenant: [money]$."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2362
-translate french change_names_34819df8:
-
-    # Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-    new "D’accord, votre nouveau nom est : ({color=#0000CC}[ryan]{/color})."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2387
-translate french ds_change_name_mom_2e923a8a:
-
-    # DS "Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
-    DS "D’accord, son nouveau nom est : ({color=#0000CC}[mom_name]{/color})."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2403
-translate french ds_change_name_Ryan_602ad794:
-
-    # DS "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-    DS "D’accord, votre nouveau nom est : ({color=#0000CC}[ryan]{/color})."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2408
-translate french ds_mod_info_3abf1dee:
-
-    # DS "This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
-    DS "Ce mod (v [mod_version]) a été réalisé par {color=#00589E}D.S.-sama{/color} pour {color=#E60000}WillTylor{/color} et son jeu, {color=#34f500}A Family Venture version [game_version]{/color}. Amusez-vous bien à jouer à ce jeu et faites-nous savoir si vous trouvez des bugs."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2413
-translate french ds_anger_reset_nfo_47ed8249:
-
-    # DS "You have reset the anger lvl for all girls!"
-    DS "Vous avez remis à zéro le niveau de colère pour toutes les filles !"
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2418
-translate french ds_libido_2max_nfo_04ab0d4c:
-
-    # DS "You have set the libido lvl to max for all girls!"
-    DS "Vous avez défini le niveau de libido au maximum pour toutes les filles !"
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2423
-translate french info_spy_cams_4be81734:
-
-    # DS "To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
-    DS "Pour configurer les caméras espions dans les pièces, vous devez d'abord avoir le 'progrès >= 6' (après l'événement quand Sidney vient à la maison) et en tant que condition supplémentaire pour définir la caméra dans la salle de Lauren, vous devez avoir 'sidneyfingerlaurenprogress > 4' (Sidney doit quitter sa pièce)."
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2496
-translate french adv_rest_jump_24ddb230:
-
-    # RT "{i}School has ended, I must return home{/i}"
-    RT "{i}l’école est terminée, je dois rentrer chez moi{/i}"
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2504
-translate french adv_rest_jump_24ddb230_1:
-
-    # RT "{i}School has ended, I must return home{/i}"
-    RT "{i}l’école est terminée, je dois rentrer chez moi{/i}"
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2510
-translate french adv_rest_jump_24ddb230_2:
-
-    # RT "{i}School has ended, I must return home{/i}"
-    RT "{i}l’école est terminée, je dois rentrer chez moi{/i}"
-
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2516
-translate french adv_rest_jump_24ddb230_3:
-
-    # RT "{i}School has ended, I must return home{/i}"
-    RT "{i}l’école est terminée, je dois rentrer chez moi{/i}"
-
-translate french strings:
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:160
-    old "label name: [store.current_label]"
-    new "nom de l’étiquette : [store.current_label]"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:161
-    old "iPatch: [persistent.patreonsafe]"
-    new "iCorrectif: [persistent.patreonsafe]"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:356
-    old "[screen_on]"
-    new "[screen_on]"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:459
-    old "Mod Info!"
-    new "Infos du mod !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:508
-    old "{color=#00589E}Name_changes------------------{/color}"
-    new "{color=#00589E}Name_changes------------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:510
-    old "Change your name. \n{color=#1DDB16}(Current name is: [ryan]){/color}"
-    new "Changez votre nom. \n{color=#1DDB16}(Nom actuel : [ryan]){/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:523
-    old "{color=#00589E}Points_and_items--------------{/color}"
-    new "{color=#00589E} Points_et_objets--------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:525
-    old "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
-    new "{color=#1DDB16} Ajouter {/color}/{color=#E60000} Supprimer des éléments {/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:555
-    old "Change girls stats"
-    new "Changer les statistiques des filles"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:621
-    old "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
-    new "{couleur=#00589E} Heure :[timeofdaycounter]-----------------------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:623
-    old " Press to jump to the right\n                   time!"
-    new " Cliquez pour sauter à la bonne\n                   heure!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:629
-    old "Advance Time"
-    new "Avancer le temps"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:644
-    old "Regress Time"
-    new "Reculer le temps"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:658
-    old "Set week day"
-    new "Définir le jour de la semaine"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:684
-    old "{color=#00589E}Money:[money]----------------------{/color}"
-    new "{couleur=#00589E} Argent:[money]----------------------{/couleur}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:686
-    old "Add $1000"
-    new "Ajouter 1000$"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:690
-    old "Remove $1000"
-    new "Retirer 1000$"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:699
-    old "Input money"
-    new "Saisir le montant d'argent"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:703
-    old "{color=#00589E}Gallery unlocker-----------------{/color}"
-    new "{couleur=#00589E} Déverrouiller la galerie-----------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:750
-    old "{color=#E60000}Add/Remove items{/color}"
-    new "{couleur=#E60000} Ajouter/Supprimer des éléments{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:782
-    old "{color=#000000}-------------------------------------{/color}"
-    new "{color=#000000}-------------------------------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:792
-    old "Add!"
-    new "Ajouté!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:799
-    old "Remove!"
-    new "Retiré!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1123
-    old "{color=#E60000}Day of the week:{/color}"
-    new "{couleur=#E60000} Jour de la semaine:{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1124
-    old "{color=#E60000}[day]{/color}"
-    new "{color=#E60000}[day]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1127
-    old "{color=#000000}------------------------------------------{/color}"
-    new "{color=#000000}------------------------------------------{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
-    old "Monday!"
-    new "Lundi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1138
-    old "Tuesday!"
-    new "Mardi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1147
-    old "Wednesday!"
-    new "Mercredi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1156
-    old "Thursday!"
-    new "Jeudi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1165
-    old "Friday!"
-    new "Vendredi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1175
-    old "Saturday!"
-    new "Samedi!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1184
-    old "Sunday!"
-    new "Dimanche!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1257
-    old "{color=#E60000}Change girls stats{/color}"
-    new "{couleur=#E60000} Changer les statistiques des filles{/couleur}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1261
-    old "Reset all girls anger lvl!"
-    new "Réinitialiser le niveau de colère de toutes les filles!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1271
-    old "Set all girls libido lvl to max!"
-    new "Mettez toutes les filles libido niv. max !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1290
-    old "{image=iconM} [Mom]"
-    new "{image=iconM} [Mom]"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1306
-    old "{image=iconL} Lauren"
-    new "{image=iconL} Lauren"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1322
-    old "{image=iconS} Sidney"
-    new "{image=iconS} Sidney"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
-    old "{image=iconA} [Auntie]"
-    new "{image=iconA} [Auntie]"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
-    old "{image=iconM} {color=#E60000}[Mom]{/color}"
-    new "{image=iconM} {color=#E60000}[Mom]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
-    old "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
-    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
-    old "Increase respect!"
-    new "Augmenter le respect!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
-    old "Decrease respect!"
-    new "Diminuer le respect !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
-    old "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
-    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
-    old "Increase affection!"
-    new "Augmenter l'affection!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1478
-    old "Decrease affection!"
-    new "Diminuer l'affection !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1489
-    old "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
-    new "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1493
-    old "Increase libido!"
-    new "Augmenter la libido !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1502
-    old "Decrease libido!"
-    new "Diminuer la libido !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1513
-    old "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
-    new "{color=#00589E}Soumission:{/color} {color=#1DDB16}[momsubmission]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1517
-    old "Increase submission!"
-    new "Augmenter la soumission !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1526
-    old "Decrease submission!"
-    new "Diminuer la soumission!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1537
-    old "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
-    new "{color=#00589E}Colère:{/color} {color=#1DDB16}[momanger]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1541
-    old "Reset anger!"
-    new "Réinitialiser la colère !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
-    old "Increase anger!"
-    new "Augmenter la colère!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
-    old "Decrease anger!"
-    new "Diminuer la colère !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1602
-    old "{image=iconL} {color=#E60000}Lauren{/color}"
-    new "{image=iconL} {color=#E60000}Lauren{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
-    old "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
-    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
-    old "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
-    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1659
-    old "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
-    new "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
-    old "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
-    new "{color=#00589E}Soumission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1707
-    old "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
-    new "{color=#00589E}Colère:{/color} {color=#1DDB16}[laurenanger]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1738
-    old "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
-    new "{ color=#00589E}Influence à l'école:{ /color} { color=#1DDB16}[school_influence]{ /color }"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
-    old "Increase influence!"
-    new "Augmenter l'influence!"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
-    old "Decrease influence!"
-    new "Diminuer l’influence !"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1797
-    old "{image=iconS} {color=#E60000}Sidney{/color}"
-    new "{image=iconS} {color=#E60000}Sidney{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
-    old "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
-    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
-    old "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
-    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
-    old "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
-    new "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
-    old "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
-    new "{color=#00589E}Soumission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
-    old "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
-    new "{color=#00589E}Colère:{/color} {color=#1DDB16}[sidneyanger]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
-    old "{image=iconA} {color=#E60000}[Auntie]{/color}"
-    new "{image=iconA} {color=#E60000}[Auntie]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
-    old "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
-    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
-    old "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
-    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
-    old "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
-    new "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
-    old "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
-    new "{color=#00589E}Soumission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
-    old "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
-    new "{color=#00589E}Colère:{/color} {color=#1DDB16}[auntanger]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
-    old "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
-    new "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
-    old "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
-    new "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
-    old "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
-    new "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
-    old "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
-    new "{color=#00589E}Soumission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
-    old "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
-    new "{color=#00589E}Colère:{/color} {color=#1DDB16}[cousinanger]{/color}"
-
-    # game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
-    old "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
-    new "Voulez-vous changer votre nom? Le nom par défaut est : {color=#0000CC}Ryan{/color}"
+msgid ""
+msgstr ""
+"[DS] You added $[addmoney] and now have: $[money].\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Patreon_$5_Gallery/D.S.Mod.po\n"
+"X-Crowdin-File-ID: 1985\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-04-27 09:21\n"
+
+# TODO: Translation updated at 2022-04-23 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
+msgid "[DS] You added $[addmoney] and now have: $[money]."
+msgstr "[DS] Vous avez ajouté [addmoney]$ et avez maintenant: [money]$."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2362 ## translate crowdin change_names_34819df8:
+msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
+msgstr "D’accord, votre nouveau nom est : ({color=#0000CC}[ryan]{/color})."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2387 ## translate crowdin ds_change_name_mom_2e923a8a:
+msgid "[DS] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
+msgstr "[DS] D’accord, son nouveau nom est : ({color=#0000CC}[mom_name]{/color})."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2403 ## translate crowdin ds_change_name_Ryan_602ad794:
+msgid "[DS] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
+msgstr "[DS] D’accord, votre nouveau nom est : ({color=#0000CC}[ryan]{/color})."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2408 ## translate crowdin ds_mod_info_3abf1dee:
+msgid "[DS] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
+msgstr "[DS] Ce mod (v [mod_version]) a été réalisé par {color=#00589E}D.S.-sama{/color} pour {color=#E60000}WillTylor{/color} et son jeu, {color=#34f500}A Family Venture version [game_version]{/color}. Amusez-vous bien à jouer à ce jeu et faites-nous savoir si vous trouvez des bugs."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2413 ## translate crowdin ds_anger_reset_nfo_47ed8249:
+msgid "[DS] You have reset the anger lvl for all girls!"
+msgstr "[DS] Vous avez remis à zéro le niveau de colère pour toutes les filles !"
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2418 ## translate crowdin ds_libido_2max_nfo_04ab0d4c:
+msgid "[DS] You have set the libido lvl to max for all girls!"
+msgstr "[DS] Vous avez défini le niveau de libido au maximum pour toutes les filles !"
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2423 ## translate crowdin info_spy_cams_4be81734:
+msgid "[DS] To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
+msgstr "[DS] Pour configurer les caméras espions dans les pièces, vous devez d'abord avoir le 'progrès >= 6' (après l'événement quand Sidney vient à la maison) et en tant que condition supplémentaire pour définir la caméra dans la salle de Lauren, vous devez avoir 'sidneyfingerlaurenprogress > 4' (Sidney doit quitter sa pièce)."
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2496 ## translate crowdin adv_rest_jump_24ddb230:
+msgid "[RT] {i}School has ended, I must return home{/i}"
+msgstr "[RT] {i}l’école est terminée, je dois rentrer chez moi{/i}"
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2504 ## translate crowdin adv_rest_jump_24ddb230_1:
+msgid "[RT] {i}School has ended, I must return home{/i}"
+msgstr "[RT] {i}l’école est terminée, je dois rentrer chez moi{/i}"
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2510 ## translate crowdin adv_rest_jump_24ddb230_2:
+msgid "[RT] {i}School has ended, I must return home{/i}"
+msgstr "[RT] {i}l’école est terminée, je dois rentrer chez moi{/i}"
+
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2516 ## translate crowdin adv_rest_jump_24ddb230_3:
+msgid "[RT] {i}School has ended, I must return home{/i}"
+msgstr "[RT] {i}l’école est terminée, je dois rentrer chez moi{/i}"
+
+# XXtranslate crowdin strings:XX# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:160
+msgid "label name: [store.current_label]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "nom de l’étiquette : [store.current_label]"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:161
+msgid "iPatch: [persistent.patreonsafe]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "iCorrectif: [persistent.patreonsafe]"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:356
+msgid "[screen_on]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "[screen_on]"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:459
+msgid "Mod Info!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Infos du mod !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:508
+msgid "{color=#00589E}Name_changes------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Name_changes------------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:510
+msgid "Change your name. \n"
+"{color=#1DDB16}(Current name is: [ryan]){/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Changez votre nom. \n"
+"{color=#1DDB16}(Nom actuel : [ryan]){/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:523
+msgid "{color=#00589E}Points_and_items--------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E} Points_et_objets--------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:525
+msgid "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#1DDB16} Ajouter {/color}/{color=#E60000} Supprimer des éléments {/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:555
+msgid "Change girls stats"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Changer les statistiques des filles"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:621
+msgid "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E} Heure :[timeofdaycounter]-----------------------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:623
+msgid " Press to jump to the right\n"
+"                   time!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] " Cliquez pour sauter à la bonne\n"
+"                   heure!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:629
+msgid "Advance Time"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Avancer le temps"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:644
+msgid "Regress Time"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Reculer le temps"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:658
+msgid "Set week day"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Définir le jour de la semaine"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:684
+msgid "{color=#00589E}Money:[money]----------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E} Argent:[money]----------------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:686
+msgid "Add $1000"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ajouter 1000$"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:690
+msgid "Remove $1000"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Retirer 1000$"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:699
+msgid "Input money"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Saisir le montant d'argent"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:703
+msgid "{color=#00589E}Gallery unlocker-----------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E} Déverrouiller la galerie-----------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:750
+msgid "{color=#E60000}Add/Remove items{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000} Ajouter/Supprimer des éléments{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:782
+msgid "{color=#000000}-------------------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#000000}-------------------------------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:792
+msgid "Add!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ajouté!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:799
+msgid "Remove!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Retiré!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1123
+msgid "{color=#E60000}Day of the week:{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000} Jour de la semaine:{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1124
+msgid "{color=#E60000}[day]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000}[day]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1127
+msgid "{color=#000000}------------------------------------------{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#000000}------------------------------------------{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
+msgid "Monday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lundi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1138
+msgid "Tuesday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mardi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1147
+msgid "Wednesday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mercredi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1156
+msgid "Thursday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Jeudi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1165
+msgid "Friday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Vendredi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1175
+msgid "Saturday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Samedi!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1184
+msgid "Sunday!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Dimanche!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1257
+msgid "{color=#E60000}Change girls stats{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#E60000} Changer les statistiques des filles{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1261
+msgid "Reset all girls anger lvl!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Réinitialiser le niveau de colère de toutes les filles!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1271
+msgid "Set all girls libido lvl to max!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mettez toutes les filles libido niv. max !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1290
+msgid "{image=iconM} [Mom]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconM} [Mom]"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1306
+msgid "{image=iconL} Lauren"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconL} Lauren"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1322
+msgid "{image=iconS} Sidney"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconS} Sidney"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1338
+msgid "{image=iconA} [Auntie]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconA} [Auntie]"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1432
+msgid "{image=iconM} {color=#E60000}[Mom]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconM} {color=#E60000}[Mom]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
+msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
+msgid "Increase respect!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter le respect!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
+msgid "Decrease respect!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer le respect !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
+msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
+msgid "Increase affection!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter l'affection!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1478
+msgid "Decrease affection!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer l'affection !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1489
+msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1493
+msgid "Increase libido!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter la libido !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1502
+msgid "Decrease libido!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer la libido !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1513
+msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soumission:{/color} {color=#1DDB16}[momsubmission]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1517
+msgid "Increase submission!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter la soumission !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1526
+msgid "Decrease submission!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer la soumission!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1537
+msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Colère:{/color} {color=#1DDB16}[momanger]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1541
+msgid "Reset anger!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Réinitialiser la colère !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
+msgid "Increase anger!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter la colère!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
+msgid "Decrease anger!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer la colère !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1602
+msgid "{image=iconL} {color=#E60000}Lauren{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconL} {color=#E60000}Lauren{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
+msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
+msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1659
+msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
+msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soumission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1707
+msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Colère:{/color} {color=#1DDB16}[laurenanger]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1738
+msgid "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Influence à l'école:{/color} {color=#1DDB16}[school_influence]{/color }"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
+msgid "Increase influence!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Augmenter l'influence!"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
+msgid "Decrease influence!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Diminuer l’influence !"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1797
+msgid "{image=iconS} {color=#E60000}Sidney{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconS} {color=#E60000}Sidney{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
+msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
+msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1854
+msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1878
+msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soumission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1902
+msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Colère:{/color} {color=#1DDB16}[sidneyanger]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1990
+msgid "{image=iconA} {color=#E60000}[Auntie]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{image=iconA} {color=#E60000}[Auntie]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
+msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
+msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2047
+msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2071
+msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soumission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2095
+msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Colère:{/color} {color=#1DDB16}[auntanger]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
+msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
+msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2219
+msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2243
+msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Soumission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2267
+msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{color=#00589E}Colère:{/color} {color=#1DDB16}[cousinanger]{/color}"
+msgstr[1] ""
+
+# XX## game/Patreon_$5_Gallery/D.S.Mod.rpy:2349
+msgid "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Voulez-vous changer votre nom? Le nom par défaut est : {color=#0000CC}Ryan{/color}"
+msgstr[1] ""
 
