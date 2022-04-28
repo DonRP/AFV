@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-27 09:21\n"
+"PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
@@ -56,53 +56,53 @@ msgstr "[BJ_dealer] Désolé ! Vous n’avez pas assez d’argent! {w=2.0}{nw}"
 msgid "Dealer"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Croupier"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Placez vos mises!"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:244
 msgid "Do you want to bet $100 and start the game?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Voulez-vous miser 100 $ et commencer la partie ?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:252
 msgid "Do you want to bet $500 and start the game?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Voulez-vous miser 500$ et commencer le jeu?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:260
 msgid "Do you want to bet $1000 and start the game?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Voulez-vous miser 1000 $ et commencer la partie?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:268
 msgid "Do you want to leave the BlackJack game?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Voulez-vous quitter la partie de BlackJack ?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Parties gagnées : [persistent.playerWin] / parties perdues : [persistent.computerWin]"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid "Player cards: [playerScore]"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Cartes du joueur : [playerScore]"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid "Do you want to play again?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Voulez-vous jouer de nouveau ?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
