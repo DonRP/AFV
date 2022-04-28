@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -786,7 +786,7 @@ msgstr "[AD] Maintenant, ne sois pas comme ça..."
 
 # game/UpdateScript0.03.rpy:832 ## translate crowdin diazvisit_53c3cb2f:
 msgid "[AD] I'm going to be a big part of your family's lives here in the near future. So, let's try to keep things civil."
-msgstr "[AD] Je vais être présente une grande partie de la vie de ta famille ici dans un avenir proche. Alors, essayons de garder des rapports amicaux."
+msgstr "[AD] Je vais être présente une grande partie de la vie de ta famille ici dans un avenir proche. Alors, essayons de garder des rapports corrects."
 
 # game/UpdateScript0.03.rpy:835 ## translate crowdin diazvisit_b65e53d7:
 msgid "[AD] For now, let me just say, that I hope you enjoy your week."
@@ -1938,15 +1938,15 @@ msgstr "[AD] C'est bien.... comme tu veux."
 
 # game/UpdateScript0.03.rpy:1343 ## translate crowdin diaz_and_lauren_29515934:
 msgid "[LT] {i}I can't believe I've got a legitimate creeper in my room.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire que j'ai un pervers légitime dans ma chambre.{/i}"
+msgstr "[LT] {i}Je n'arrive pas à croire que j'ai une perverse fédérale dans ma chambre.{/i}"
 
 # game/UpdateScript0.03.rpy:1344 ## translate crowdin diaz_and_lauren_bacd6814:
 msgid "[LT] {i}At least it's not some nasty old man like Mom has to deal with at the club.{/i}"
-msgstr "[LT] {i}Au moins, ce n'est pas un vieil homme méchant comme maman doit faire face au club.{/i}"
+msgstr "[LT] {i}Au moins, ce n'est pas un vieil homme méchant comme maman doit le faire au club.{/i}"
 
 # game/UpdateScript0.03.rpy:1345 ## translate crowdin diaz_and_lauren_cb9e72e0:
 msgid "[LT] {i}I can't believe Mom hid that from me.{/i}"
-msgstr "[LT] {i}Je n'arrive pas à croire que maman me l'ait caché.{/i}"
+msgstr "[LT] {i}Je n'arrive pas à croire que maman me l'aie caché.{/i}"
 
 # game/UpdateScript0.03.rpy:1346 ## translate crowdin diaz_and_lauren_fab5d714:
 msgid "[LT] {i}And that [ryan] knew, and didn't tell me.{/i}"
@@ -1962,7 +1962,7 @@ msgstr "[LT] {i}J'aurais aimé qu'il puisse me sortir de là.{/i}"
 
 # game/UpdateScript0.03.rpy:1349 ## translate crowdin diaz_and_lauren_bbc87f40:
 msgid "[LT] {i}Diaz is even pretty hot.... I wonder what drove her to like other women.... {/i}"
-msgstr "[LT] {i}Diaz est même assez chaud.... Je me demande ce qui l'a poussée à aimer les autres femmes.... {/i}"
+msgstr "[LT] {i}Diaz est même assez chaude.... Je me demande ce qui l'a poussée à aimer les autres femmes.... {/i}"
 
 # game/UpdateScript0.03.rpy:1350 ## translate crowdin diaz_and_lauren_03aea652:
 msgid "[LT] {i}Probably some kind of traumatic experience like this one.{/i}"
@@ -1978,7 +1978,7 @@ msgstr "[LT] {i}Je pense que Diaz est assez sexy!{/i}"
 
 # game/UpdateScript0.03.rpy:1354 ## translate crowdin diaz_and_lauren_5a87628d:
 msgid "[LT] {i}And Kenzie and I have experimented a little.{/i}"
-msgstr "[LT] {i}Et Kenzie et moi avons un peu expérimenté.{/i}"
+msgstr "[LT] {i}Et Kenzie et moi avons un peu expérimenté ça.{/i}"
 
 # game/UpdateScript0.03.rpy:1355 ## translate crowdin diaz_and_lauren_2733d9fa:
 msgid "[LT] {i}But seeing [ryan]'s cock made me feel some pretty confusing feelings too.{/i}"
@@ -1986,7 +1986,7 @@ msgstr "[LT] {i}Mais voir la bite de [ryan] m'a aussi fait ressentir des sentime
 
 # game/UpdateScript0.03.rpy:1356 ## translate crowdin diaz_and_lauren_4c2f1e60:
 msgid "[LT] {i}Shit.... I'm getting pretty screwed up.{/i}"
-msgstr "[LT] {i}Merde.... Je deviens assez folle.{/i}"
+msgstr "[LT] {i}Merde.... Je deviens folle.{/i}"
 
 # game/UpdateScript0.03.rpy:1360 ## translate crowdin diaz_and_lauren_70e847a8:
 msgid "[L] Well, Is this sexy enough for you?"
@@ -5030,7 +5030,7 @@ msgstr "[M] C'est bon, il suffit de le garder en bas..."
 
 # game/UpdateScript0.03.rpy:3088 ## translate crowdin clubpool_62e20235:
 msgid "[M] {i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-msgstr "[M] {i}(murmure){/i} Nous ne voulons pas que tout le monde dans la piscine sache ce qui s'est passé. J'espère qu'ils ne l'ont pas remarqué."
+msgstr "[M] {i}(murmure){/i} Nous ne voulons pas que tout le monde dans la piscine entende ce qui s'est passé. Espérons qu'ils ne l'ont pas remarqué."
 
 # game/UpdateScript0.03.rpy:3089 ## translate crowdin clubpool_f4a57f40:
 msgid "[RT] {i}Yeah right, fat chance of that.{/i}"
@@ -5262,7 +5262,7 @@ msgstr "[K] Ok, promis."
 
 # game/UpdateScript0.03.rpy:3273 ## translate crowdin clubpool_1e6150db:
 msgid "[M] {i}(whispering){/i} Could you tell what just happened?"
-msgstr "[M] {i}(murmure){/i} Pourrais-tu me dire ce qui vient de se passer?"
+msgstr "[M] {i}(murmure){/i} Pourriez-vous me dire ce qui vient de se passer?"
 
 # game/UpdateScript0.03.rpy:3274 ## translate crowdin clubpool_27c76aa1:
 msgid "[R] What do you mean? Did you get Kenzie? Is she it now?"
@@ -5306,7 +5306,7 @@ msgstr "[M] Disons simplement qu'il pourrait être un peu gênant pour Kenzie de
 
 # game/UpdateScript0.03.rpy:3284 ## translate crowdin clubpool_fe66232a:
 msgid "[MT] {i}I can't believe I was groping her tight little pussy and ass like that.{/i}"
-msgstr "[MT] {i}Je n'arrive pas à croire que je tâtonnais sa petite chatte et son cul serrés comme ça.{/i}"
+msgstr "[MT] {i}Je n'arrive pas à croire que je tâtais sa petite chatte et son cul serrés comme ça.{/i}"
 
 # game/UpdateScript0.03.rpy:3285 ## translate crowdin clubpool_0d2cfb50:
 msgid "[MT] {i}And she just let it happen.... didn't say a word for a long time.... did she like it?.... {/i}"
@@ -9447,102 +9447,102 @@ msgstr "[RT] {i}Hein ? Oh, mec ! J'adorerais voir maman là-dedans ! Je devrais 
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.03.rpy:11
 msgid "Kenzie's Thoughts"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Les pensées de Kenzie"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:12
 msgid "Waitress"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Serveuse"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:13
 msgid "Everybody Else"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tout les autres"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:14
 msgid "Matt's Thoughts"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Les pensées de Matt"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:15
 msgid "Agent Diaz"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Agent Diaz"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:16
 msgid "Agent Diaz's Thoughts"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pensées de l'Agent Diaz"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "Of course I'll protect Lauren!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bien sûr que je protégerai Lauren!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "Shit!.... I don't have the money to protect her this week!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Merde!.... Je n'ai pas l'argent pour la protéger cette semaine !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:790
 msgid "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "J'ai besoin de cet argent pour autre chose.... Le cul de Lauren devra payer la facture cette semaine."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:897
 msgid "Just Leave her alone."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "La laisser tranquille."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:1071
 msgid "Commission a new cosplay outfit."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Commander une nouvelle tenue de cosplay."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander d'enlever sa jupe. {i}(soumission +5 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander de montrer son string en peau de daim par derrière. {i}(soumission +7 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander d'enlever son soutien-gorge en peau de daim. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to show her titties. {i}(submission 14+){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander de montrer ses nichons. {i}(soumission +14){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander d'enlever son string en peau de daim. {i}(soumission +19){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.03.rpy:3816
 msgid "Ask her for explicit close-ups. {i}(submission 25+){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Demander des gros plans explicites. {i}(soumission +25) {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
