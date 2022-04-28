@@ -17,10 +17,8 @@
 translate italian strings:
 
     # game/Game_screens.rpy:59
-    old " My\n"
-"Room"
-    new " La mia\n"
-"stanza"
+    old " My\nRoom"
+    new " La mia\nstanza"
 
     # game/Game_screens.rpy:77
     old "Bath"
@@ -39,17 +37,11 @@ translate italian strings:
     new "Classe"
 
     # game/Game_screens.rpy:152
-    old "{size=29} {/size}Girls\n"
-"Locker\n"
-"{size=25} {/size}Room"
-    new "{size=29} {/size}Armadietto\n"
-"Delle Ragazze\n"
-"{size=25} {/size}Stanza"
+    old "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+    new "{size=29} {/size}Armadietto\nDelle Ragazze\n{size=25} {/size}Stanza"
 
     # game/Game_screens.rpy:208
-    old "Campaign\n"
-"   HQ"
-    new "Campagna\n"
-"   HQ"
+    old "Campaign\n   HQ"
+    new "Campagna\n   HQ"
 #--- "Ignore this. translate only: One"
 

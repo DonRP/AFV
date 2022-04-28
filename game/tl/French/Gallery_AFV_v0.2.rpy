@@ -42,8 +42,7 @@ translate french strings:
 #--- ""
 
     # game/Gallery_AFV_v0.2.rpy:838
-    old "Harem \n"
-"     gallery"
+    old "Harem \n     gallery"
     new ""
 #--- ""
 

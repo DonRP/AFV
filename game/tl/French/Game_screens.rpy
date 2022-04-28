@@ -17,8 +17,7 @@
 translate french strings:
 
     # game/Game_screens.rpy:59
-    old " My\n"
-"Room"
+    old " My\nRoom"
     new ""
 #--- ""
 
@@ -43,15 +42,12 @@ translate french strings:
 #--- ""
 
     # game/Game_screens.rpy:152
-    old "{size=29} {/size}Girls\n"
-"Locker\n"
-"{size=25} {/size}Room"
+    old "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
     new ""
 #--- ""
 
     # game/Game_screens.rpy:208
-    old "Campaign\n"
-"   HQ"
+    old "Campaign\n   HQ"
     new ""
 #--- ""
 

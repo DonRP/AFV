@@ -123,8 +123,7 @@ translate french strings:
 #--- ""
 
     # game/Cosplay_gallery.rpy:570
-    old "{color=#ffffff}{b}Images\n"
-"Videos{/b}{/color}"
+    old "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
     new ""
 #--- ""
 
@@ -139,8 +138,7 @@ translate french strings:
 #--- ""
 
     # game/Cosplay_gallery.rpy:582
-    old "{color=#ffffff}{b}Press to change \n"
-" likes to money{/b}{/color}"
+    old "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
     new ""
 #--- ""
 
@@ -160,9 +158,7 @@ translate french strings:
 #--- ""
 
     # game/Cosplay_gallery.rpy:1084
-    old " {b}{color=#ffffff}Press to receive\n"
-"{size=18} monthly earnings:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+    old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
     new ""
 #--- ""
 

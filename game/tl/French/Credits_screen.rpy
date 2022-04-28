@@ -37,8 +37,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:157
-    old "\n"
-"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
+    old "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -48,8 +47,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:161
-    old "\n"
-"{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
+    old "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -59,8 +57,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:165
-    old "\n"
-"{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
+    old "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -70,8 +67,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:169
-    old "\n"
-"{b}{i}Ghost Writer:{/i}{/b} \n"
+    old "\n{b}{i}Ghost Writer:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -81,8 +77,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:173
-    old "\n"
-"{b}{i}My Family with Benefits:{/i}{/b} \n"
+    old "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -102,8 +97,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:179
-    old "\n"
-"{b}{i}My Family:{/i}{/b} \n"
+    old "\n{b}{i}My Family:{/i}{/b} \n"
     new ""
 #--- ""
 
@@ -168,8 +162,7 @@ translate french strings:
 #--- ""
 
     # game/Credits_screen.rpy:194
-    old "\n"
-"{b}{i}My BFFS:{/i}{/b} \n"
+    old "\n{b}{i}My BFFS:{/i}{/b} \n"
     new ""
 #--- ""
 

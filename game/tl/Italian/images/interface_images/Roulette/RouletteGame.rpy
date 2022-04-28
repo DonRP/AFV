@@ -281,9 +281,7 @@ translate italian strings:
     new "Che tipo di gioco vuoi giocare?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:521
-    old "Game type: [betType]\n"
-"You bet on: [playerPiked]"
-    new "Tipo di gioco: [betType]\n"
-"Scommetti su: [playerPiked]"
+    old "Game type: [betType]\nYou bet on: [playerPiked]"
+    new "Tipo di gioco: [betType]\nScommetti su: [playerPiked]"
 #--- "Ignore this. translate only: One"
 

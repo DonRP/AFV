@@ -1863,8 +1863,7 @@ translate french strings:
 #--- ""
 
     # game/Phone_event_screen.rpy:802
-    old "Press the \"{color=#E60000}???{/color}\" to see \n"
-"             hints!"
+    old "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
     new ""
 #--- ""
 

@@ -93,10 +93,8 @@ translate italian strings:
     new "Versione [config.version!t]\n"
 
     # game/screens.rpy:586
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
-"[renpy.license!t]"
-    new "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
-"[renpy.license!t]"
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:626
     old "Page {}"
@@ -315,26 +313,20 @@ translate italian strings:
     new "Click Destro"
 
     # game/screens.rpy:1160
-    old "Mouse Wheel Up\n"
-"Click Rollback Side"
-    new "Mouse Wheel Up\n"
-"Click Rollback Lato"
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Lato"
 
     # game/screens.rpy:1164
     old "Mouse Wheel Down"
     new "Ruota Del Mouse Giù"
 
     # game/screens.rpy:1171
-    old "Right Trigger\n"
-"A/Bottom Button"
-    new "Trigger destro\n"
-"/ Pulsante inferiore"
+    old "Right Trigger\nA/Bottom Button"
+    new "Trigger destro\n/ Pulsante inferiore"
 
     # game/screens.rpy:1175
-    old "Left Trigger\n"
-"Left Shoulder"
-    new "Innesco sinistro\n"
-"Spalla sinistra"
+    old "Left Trigger\nLeft Shoulder"
+    new "Innesco sinistro\nSpalla sinistra"
 
     # game/screens.rpy:1179
     old "Right Shoulder"

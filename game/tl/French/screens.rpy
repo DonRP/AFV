@@ -112,8 +112,7 @@ translate french strings:
 #--- ""
 
     # game/screens.rpy:586
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
-"[renpy.license!t]"
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new ""
 #--- ""
 
@@ -388,8 +387,7 @@ translate french strings:
 #--- ""
 
     # game/screens.rpy:1160
-    old "Mouse Wheel Up\n"
-"Click Rollback Side"
+    old "Mouse Wheel Up\nClick Rollback Side"
     new ""
 #--- ""
 
@@ -399,14 +397,12 @@ translate french strings:
 #--- ""
 
     # game/screens.rpy:1171
-    old "Right Trigger\n"
-"A/Bottom Button"
+    old "Right Trigger\nA/Bottom Button"
     new ""
 #--- ""
 
     # game/screens.rpy:1175
-    old "Left Trigger\n"
-"Left Shoulder"
+    old "Left Trigger\nLeft Shoulder"
     new ""
 #--- ""
 

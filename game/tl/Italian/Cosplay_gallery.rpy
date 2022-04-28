@@ -121,10 +121,8 @@ translate italian strings:
     new "{color=#ffffff}{b}Pubblicità{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:570
-    old "{color=#ffffff}{b}Images\n"
-"Videos{/b}{/color}"
-    new "{color=#ffffff}{b}Immagini\n"
-"Video{/b}{/color}"
+    old "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
+    new "{color=#ffffff}{b}Immagini\nVideo{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:575
     old "{color=#ffffff}{b}Outfits{/b}{/color}"
@@ -135,10 +133,8 @@ translate italian strings:
     new "{color=#000000}{b}Mi piace: [total_likes]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:582
-    old "{color=#ffffff}{b}Press to change \n"
-" likes to money{/b}{/color}"
-    new "{color=#ffffff}{b}Premi per cambiare \n"
-" mi piace denaro{/b}{/color}"
+    old "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
+    new "{color=#ffffff}{b}Premi per cambiare \n mi piace denaro{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:709
     old "{color=#000000}{b}Sell{/b}{/color}"
@@ -153,11 +149,7 @@ translate italian strings:
     new "{color=#ff0000}{b}Sostenitori: [var_total_supporters]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:1084
-    old " {b}{color=#ffffff}Press to receive\n"
-"{size=18} monthly earnings:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-    new " {b}{color=#ffffff}Premi per ricevere\n"
-"{size=18} guadagni mensili:{/size}\n"
-"{color=#00ff00}{outlinecolor=#000000}{size=16} $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+    old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+    new " {b}{color=#ffffff}Premi per ricevere\n{size=18} guadagni mensili:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16} $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 #--- "Ignore this. translate only: One"
 
