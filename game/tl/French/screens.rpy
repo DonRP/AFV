@@ -1,522 +1,442 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: a-family-venture\n"
-"X-Crowdin-Project-ID: 492487\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/screens.po\n"
-"X-Crowdin-File-ID: 1353\n"
-"Project-Id-Version: a-family-venture\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:34\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-french-Project: a-family-venture\n"
+# "X-french-Project-ID: 492487\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /[DonRP.AFV] main/game/tl/french/screens.po\n"
+# "X-french-File-ID: 1353\n"
+# "Project-Id-Version: a-family-venture\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-04-23 09:34\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:256
-msgid "History"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+# TODO: Translation updated at 2022-04-23 HH:HH
 
-# XX## game/screens.rpy:257
-msgid "Skip"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+translate french strings:
 
-# XX## game/screens.rpy:258
-msgid "Auto"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:256
+    old "History"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:259
-msgid "Save"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:257
+    old "Skip"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:260
-msgid "Load"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:258
+    old "Auto"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:261
-msgid "Q.Save"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:259
+    old "Save"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:262
-msgid "Q.Load"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:260
+    old "Load"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:263
-msgid "Prefs"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:261
+    old "Q.Save"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:308
-msgid "Start"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:262
+    old "Q.Load"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:319
-msgid "Gallery"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:263
+    old "Prefs"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:321
-msgid "Preferences"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:308
+    old "Start"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:325
-msgid "End Replay"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:319
+    old "Gallery"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:329
-msgid "Main Menu"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:321
+    old "Preferences"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:331
-msgid "About"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:325
+    old "End Replay"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:334
-msgid "Credits"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:329
+    old "Main Menu"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:339
-msgid "Help"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:331
+    old "About"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:342
-msgid "Quit"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:334
+    old "Credits"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:496
-msgid "Return"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:339
+    old "Help"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:580
-msgid "Version [config.version!t]\n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:342
+    old "Quit"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:586
-msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+    # game/screens.rpy:496
+    old "Return"
+    new ""
+#--- ""
+
+    # game/screens.rpy:580
+    old "Version [config.version!t]\n"
+    new ""
+#--- ""
+
+    # game/screens.rpy:586
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:626
-msgid "Page {}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:626
+    old "Page {}"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:626
-msgid "Automatic saves"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:626
+    old "Automatic saves"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:626
-msgid "Quick saves"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:626
+    old "Quick saves"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:668
-msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:668
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:668
-msgid "empty slot"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:668
+    old "empty slot"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:694
-msgid "<"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:694
+    old "<"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:697
-msgid "{#auto_page}A"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:697
+    old "{#auto_page}A"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:700
-msgid "{#quick_page}Q"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:700
+    old "{#quick_page}Q"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:706
-msgid ">"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:706
+    old ">"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:763
-msgid "Display"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:763
+    old "Display"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:764
-msgid "Window"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:764
+    old "Window"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:765
-msgid "Fullscreen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:765
+    old "Fullscreen"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:769
-msgid "Rollback Side"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:769
+    old "Rollback Side"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:770
-msgid "Disable"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:770
+    old "Disable"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:771
-msgid "Left"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:771
+    old "Left"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:772
-msgid "Right"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:772
+    old "Right"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:777
-msgid "Unseen Text"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:777
+    old "Unseen Text"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:778
-msgid "After Choices"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:778
+    old "After Choices"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:779
-msgid "Transitions"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:779
+    old "Transitions"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:783
-msgid "Navigation settings"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:783
+    old "Navigation settings"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:790
-msgid "Language"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:790
+    old "Language"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:847
-msgid "Text Speed"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:847
+    old "Text Speed"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:851
-msgid "Auto-Forward Time"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:851
+    old "Auto-Forward Time"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:858
-msgid "Music Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:858
+    old "Music Volume"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:865
-msgid "Sound Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:865
+    old "Sound Volume"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:871
-msgid "Test"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:871
+    old "Test"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:875
-msgid "Voice Volume"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:875
+    old "Voice Volume"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:886
-msgid "Mute All"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:886
+    old "Mute All"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1014
-msgid "The dialogue history is empty."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1014
+    old "The dialogue history is empty."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1084
-msgid "Keyboard"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1084
+    old "Keyboard"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1085
-msgid "Mouse"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1085
+    old "Mouse"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1088
-msgid "Gamepad"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1088
+    old "Gamepad"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1101
-msgid "Enter"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1101
+    old "Enter"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1102
-msgid "Advances dialogue and activates the interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1102
+    old "Advances dialogue and activates the interface."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1105
-msgid "Space"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1105
+    old "Space"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1106
-msgid "Advances dialogue without selecting choices."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1106
+    old "Advances dialogue without selecting choices."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1109
-msgid "Arrow Keys"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1109
+    old "Arrow Keys"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1110
-msgid "Navigate the interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1110
+    old "Navigate the interface."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1113
-msgid "Escape"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1113
+    old "Escape"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1114
-msgid "Accesses the game menu."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1114
+    old "Accesses the game menu."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1117
-msgid "Ctrl"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1117
+    old "Ctrl"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1118
-msgid "Skips dialogue while held down."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1118
+    old "Skips dialogue while held down."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1121
-msgid "Tab"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1121
+    old "Tab"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1122
-msgid "Toggles dialogue skipping."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1122
+    old "Toggles dialogue skipping."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1125
-msgid "Page Up"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1125
+    old "Page Up"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1126
-msgid "Rolls back to earlier dialogue."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1126
+    old "Rolls back to earlier dialogue."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1129
-msgid "Page Down"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1129
+    old "Page Down"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1130
-msgid "Rolls forward to later dialogue."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1130
+    old "Rolls forward to later dialogue."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1134
-msgid "Hides the user interface."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1134
+    old "Hides the user interface."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1138
-msgid "Takes a screenshot."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1138
+    old "Takes a screenshot."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1142
-msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1142
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1148
-msgid "Left Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1148
+    old "Left Click"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1152
-msgid "Middle Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1152
+    old "Middle Click"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1156
-msgid "Right Click"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1156
+    old "Right Click"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1160
-msgid "Mouse Wheel Up\n"
+    # game/screens.rpy:1160
+    old "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1164
-msgid "Mouse Wheel Down"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1164
+    old "Mouse Wheel Down"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1171
-msgid "Right Trigger\n"
+    # game/screens.rpy:1171
+    old "Right Trigger\n"
 "A/Bottom Button"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1175
-msgid "Left Trigger\n"
+    # game/screens.rpy:1175
+    old "Left Trigger\n"
 "Left Shoulder"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1179
-msgid "Right Shoulder"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1179
+    old "Right Shoulder"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1184
-msgid "D-Pad, Sticks"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1184
+    old "D-Pad, Sticks"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1188
-msgid "Start, Guide"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1188
+    old "Start, Guide"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1192
-msgid "Y/Top Button"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1192
+    old "Y/Top Button"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1195
-msgid "Calibrate"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1195
+    old "Calibrate"
+    new ""
+#--- ""
 
-# XX## game/screens.rpy:1307
-msgid "Skipping"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # game/screens.rpy:1307
+    old "Skipping"
+    new ""
+#--- ""
 

@@ -1,42 +1,51 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: a-family-venture\n"
-"X-Crowdin-Project-ID: 492487\n"
-"X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Brain_game.po\n"
-"X-Crowdin-File-ID: 1285\n"
-"Project-Id-Version: a-family-venture\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Italian\n"
-"Language: it_IT\n"
-"PO-Revision-Date: 2022-04-24 09:36\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-italian-Project: a-family-venture\n"
+# "X-italian-Project-ID: 492487\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/Brain_game.po\n"
+# "X-italian-File-ID: 1285\n"
+# "Project-Id-Version: a-family-venture\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Italian\n"
+# "Language: it_IT\n"
+# "PO-Revision-Date: 2022-04-24 09:36\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# TODO: Translation updated at 2022-04-23 HH:HH
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# game/Brain_game.rpy:599
+translate italian map_location_e011db0e:
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Scuola è finita, devo tornare a casa.{/i}"
+# game/Brain_game.rpy:607
+translate italian map_location_e011db0e_1:
 
-# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
-msgid "You lose!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Hai perso!"
-msgstr[1] "Ignore this. translate only: One"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
 
-# XX## game/Brain_game.rpy:519
-msgid "YOU WON!!!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "HAI VINTO!!!"
-msgstr[1] "Ignore this. translate only: One"
+# game/Brain_game.rpy:613
+translate italian map_location_e011db0e_2:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
+
+# game/Brain_game.rpy:619
+translate italian map_location_e011db0e_3:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}Scuola è finita, devo tornare a casa.{/i}"
+
+translate italian strings:
+
+    # game/Brain_game.rpy:497
+    old "You lose!"
+    new "Hai perso!"
+
+    # game/Brain_game.rpy:519
+    old "YOU WON!!!"
+    new "HAI VINTO!!!"
+#--- "Ignore this. translate only: One"
 

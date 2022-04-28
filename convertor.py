@@ -24,7 +24,6 @@ dict = {
 translate crowdin""": """ ## translate crowdin""",
     """    # game""": """# XX## game""",
     """:
-
     # """: """:
 msgid \"""",
     """\" nointeract""": """ [nointeract]\"""",

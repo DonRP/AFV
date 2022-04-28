@@ -1,20 +1,23 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: a-family-venture\n"
-"X-Crowdin-Project-ID: 492487\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Phone_games.po\n"
-"X-Crowdin-File-ID: 1311\n"
-"Project-Id-Version: a-family-venture\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:34\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-french-Project: a-family-venture\n"
+# "X-french-Project-ID: 492487\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /[DonRP.AFV] main/game/tl/french/Phone_games.po\n"
+# "X-french-File-ID: 1311\n"
+# "Project-Id-Version: a-family-venture\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-04-23 09:34\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Phone_games.rpy:31
-msgid "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+# TODO: Translation updated at 2022-04-23 HH:HH
+
+translate french strings:
+
+    # game/Phone_games.rpy:31
+    old "{image=images/interface_images/phone_screen_images/Games_small.webp} Games"
+    new ""
+#--- ""
 

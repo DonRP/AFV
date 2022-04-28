@@ -1,42 +1,52 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: a-family-venture\n"
-"X-Crowdin-Project-ID: 492487\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Brain_game.po\n"
-"X-Crowdin-File-ID: 1285\n"
-"Project-Id-Version: a-family-venture\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:32\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-french-Project: a-family-venture\n"
+# "X-french-Project-ID: 492487\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /[DonRP.AFV] main/game/tl/french/Brain_game.po\n"
+# "X-french-File-ID: 1285\n"
+# "Project-Id-Version: a-family-venture\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-04-23 09:32\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# TODO: Translation updated at 2022-04-23 HH:HH
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Brain_game.rpy:599
+translate french map_location_e011db0e:
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}L’école est terminée, je dois rentrer chez moi.{/i}"
+# game/Brain_game.rpy:607
+translate french map_location_e011db0e_1:
 
-# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
-msgid "You lose!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
 
-# XX## game/Brain_game.rpy:519
-msgid "YOU WON!!!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+# game/Brain_game.rpy:613
+translate french map_location_e011db0e_2:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+# game/Brain_game.rpy:619
+translate french map_location_e011db0e_3:
+
+    # RT "{i}School has ended, I must return home.{/i}"
+    RT "{i}L’école est terminée, je dois rentrer chez moi.{/i}"
+
+translate french strings:
+
+    # game/Brain_game.rpy:497
+    old "You lose!"
+    new ""
+#--- ""
+
+    # game/Brain_game.rpy:519
+    old "YOU WON!!!"
+    new ""
+#--- ""
 
