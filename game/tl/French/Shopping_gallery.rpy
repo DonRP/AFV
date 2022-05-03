@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Shopping_gallery.rpy:253 ## translate crowdin online_shopping_d0d5deb3:
 msgid "[RT] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -230,7 +230,7 @@ msgstr "[RT] {i}Pas pour l'instant.{/i}"
 
 # game/Shopping_gallery.rpy:444 ## translate crowdin buying_label_6c37a294:
 msgid "[RT] {i}This camera makes me drool!{/i}"
-msgstr "[RT] {i}Cet appareil photo me fait baver ! {/i}"
+msgstr "[RT] {i}Cet appareil photo me fait baver! {/i}"
 
 # game/Shopping_gallery.rpy:446 ## translate crowdin buying_label_b4ac69d5_7:
 msgid "You don't have enough money."
@@ -615,96 +615,96 @@ msgstr "[RT] {i}Pas pour l'instant.{/i}"
 # XXtranslate crowdin strings:XX# XX## game/Shopping_gallery.rpy:323
 msgid "Buy chocolate"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter du chocolat"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:323
 msgid "Don't buy"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ne pas acheter"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:341
 msgid "Buy giftcard"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter une carte cadeau"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:358
 msgid "Buy Flowers"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter des Fleurs"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:374
 msgid "Buy melatonin."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter de la mélatonine."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:400
 msgid "Buy spycam."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter une caméra espion."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:417
 msgid "Buy green screen."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter un fond vert."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:435
 msgid "Buy pro lights."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter des projecteurs pro."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:453
 msgid "Buy DSLR camera."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Achetez un appareil photo reflex numérique."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:470
 msgid "Buy camera accessory."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter un accessoire de l'appareil photo."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:589
 msgid "Buy camera accessory"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter un accessoire de l'appareil photo"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:607
 msgid "Buy bikini"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter un bikini"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:628
 msgid "Buy ball gag."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter ball gag."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:651
 msgid "Buy Perry Hotter Book 1."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Acheter Perry Hotter Livre 1."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:674
 msgid "Buy Perry Hotter Book 2."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Achetez Perry Hotter livre 2."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Shopping_gallery.rpy:697
 msgid "Buy Perry Hotter Book 3."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Achetez Perry Hotter livre 3."
+msgstr[1] "Ignore this. translate only: One"
 

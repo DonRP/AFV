@@ -10,513 +10,517 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:34\n"
+"PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:256
 msgid "History"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Historique"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:257
 msgid "Skip"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ignorer"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:258
 msgid "Auto"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Auto"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:259
 msgid "Save"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sauvegarder"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:260
 msgid "Load"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Charger"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:261
 msgid "Q.Save"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Q.Enregistrer"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:262
 msgid "Q.Load"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Q.Charger"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:263
 msgid "Prefs"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Préf"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:308
 msgid "Start"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Commencer"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:319
 msgid "Gallery"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Galerie"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:321
 msgid "Preferences"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Préférences"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:325
 msgid "End Replay"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Terminer le replay"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:329
 msgid "Main Menu"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Menu Principal"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:331
 msgid "About"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "À propos"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:334
 msgid "Credits"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Crédits"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:339
 msgid "Help"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Aide"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:342
 msgid "Quit"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quitter"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:496
 msgid "Return"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Retour"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:580
 msgid "Version [config.version!t]\n"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Version [config.version!t]\n"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:586
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:626
 msgid "Page {}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Page {}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:626
 msgid "Automatic saves"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sauvegardes automatiques"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:626
 msgid "Quick saves"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Enregistrements rapides"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:668
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:668
 msgid "empty slot"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "emplacement vide"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:694
 msgid "<"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:697
 msgid "{#auto_page}A"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{#auto_page}A"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:700
 msgid "{#quick_page}Q"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{#quick_page}Q"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:706
 msgid ">"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ">"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:763
 msgid "Display"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Affichage"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:764
 msgid "Window"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Fenêtre"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:765
 msgid "Fullscreen"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Plein écran"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:769
 msgid "Rollback Side"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Revenir"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:770
 msgid "Disable"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désactiver"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:771
 msgid "Left"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gauche"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:772
 msgid "Right"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Droite"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:777
 msgid "Unseen Text"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Texte invisible"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:778
 msgid "After Choices"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Après les choix"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:779
 msgid "Transitions"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Transitions"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:783
 msgid "Navigation settings"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Paramètres de navigation"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:790
 msgid "Language"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Langue"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:847
 msgid "Text Speed"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vitesse du texte"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:851
 msgid "Auto-Forward Time"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Délai d'avancement automatique"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:858
 msgid "Music Volume"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Volume Musique"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:865
 msgid "Sound Volume"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Volume du son"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:871
 msgid "Test"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Test"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:875
 msgid "Voice Volume"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Volume des voix"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:886
 msgid "Mute All"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tous muets"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1014
 msgid "The dialogue history is empty."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "L’histoire du dialogue est vide."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1084
 msgid "Keyboard"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Clavier"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1085
 msgid "Mouse"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Souris"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1088
 msgid "Gamepad"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Manette de jeu"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1101
 msgid "Enter"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Entrer"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1102
 msgid "Advances dialogue and activates the interface."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Permet de faire avancer le dialogue et d'activer l'interface."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1105
 msgid "Space"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Espace"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1106
 msgid "Advances dialogue without selecting choices."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Fait avancer le dialogue sans sélectionner de choix."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1109
 msgid "Arrow Keys"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Touches de direction"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1110
 msgid "Navigate the interface."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Naviguer dans l'interface."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1113
 msgid "Escape"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Echap"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1114
 msgid "Accesses the game menu."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Accéder au menu du jeu."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1117
 msgid "Ctrl"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ctrl"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1118
 msgid "Skips dialogue while held down."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ignorer le dialogue pendant qu'il est maintenu."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1121
 msgid "Tab"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tabulation"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1122
 msgid "Toggles dialogue skipping."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Active ou désactive le dialogue."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1125
 msgid "Page Up"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Page haut"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1126
 msgid "Rolls back to earlier dialogue."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Revient au dialogue précédent."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1129
 msgid "Page Down"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Page bas"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1130
 msgid "Rolls forward to later dialogue."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Passe au dialogue suivant."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1134
 msgid "Hides the user interface."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Masque l'interface utilisateur."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1138
 msgid "Takes a screenshot."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Prend une capture d'écran."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1142
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Active/désactive l'assistance {a=https://www.renpy.org/l/voicing}voix automatique{/a}."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1148
 msgid "Left Click"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Clic gauche"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1152
 msgid "Middle Click"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Click molette"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1156
 msgid "Right Click"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Clic droit"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1160
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Molette de la souris vers le haut\n"
+"cliquez sur le côté"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1164
 msgid "Mouse Wheel Down"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Roulette de la souris vers le bas"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1171
 msgid "Right Trigger\n"
 "A/Bottom Button"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Déclencheur droit\n"
+"A/Bouton en bas"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1175
 msgid "Left Trigger\n"
 "Left Shoulder"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Déclencheur de gauche\n"
+"bouton de gauche"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1179
 msgid "Right Shoulder"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bouton de droite"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1184
 msgid "D-Pad, Sticks"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "D-Pad, Sticks"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1188
 msgid "Start, Guide"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Démarrer, tutoriel"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1192
 msgid "Y/Top Button"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Y/Bouton du haut"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1195
 msgid "Calibrate"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Calibrer"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:1307
 msgid "Skipping"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ignorer"
+msgstr[1] "Ignore this. translate only: One"
 

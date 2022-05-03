@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.02.rpy:10 ## translate crowdin cosplaywakeme_8a3aa425:
 msgid "[L] See, it's like this almost every morning."
@@ -714,7 +714,7 @@ msgstr "[RT] {i}Ok, et maintenant, il suffit de mettre sa main en place.{/i}"
 
 # game/UpdateScript0.02.rpy:415 ## translate crowdin sidneysleepswithryan_e39ee42d:
 msgid "[RT] {i}Ohh.... ho.... hngggg.... wow!{/i}"
-msgstr "[RT] {i}Ohh.... ho.... hngggg.... wow!{/i}"
+msgstr "[RT] {i}Ohh.... Ho.... hngggg.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:416 ## translate crowdin sidneysleepswithryan_154150a7:
 msgid "[RT] {i}She just started gripping like before! Like she was expecting it.{/i}"
@@ -738,7 +738,7 @@ msgstr "[RT] {i}Ok, [ryan] concentré! Je ne veux pas la ruiner déjà!{/i}"
 
 # game/UpdateScript0.02.rpy:423 ## translate crowdin sidneysleepswithryan_95b021cc:
 msgid "[RT] {i}Now, I just have to give her a little pinch again, and act like I'm still asleep.{/i}"
-msgstr "[RT] {i}Maintenant, je dois juste lui donner un petit pincement à nouveau, et agir comme si je dormais encore.{/i}"
+msgstr "[RT] {i}Maintenant, je dois juste lui donner un petit pincement, et agir comme si je dormais encore.{/i}"
 
 # game/UpdateScript0.02.rpy:426 ## translate crowdin sidneysleepswithryan_25274c25:
 msgid "[ST] {i}Huh.... did.... what?.... {/i}"
@@ -814,7 +814,7 @@ msgstr "[ST] {i}Sur tout mon visage!!{/i}"
 
 # game/UpdateScript0.02.rpy:470 ## translate crowdin sidneysleepswithryan_18a3967a:
 msgid "[ST] {i}Fuck, he's still going!{/i}"
-msgstr "[ST] {i}Putain, il va arriver!{/i}"
+msgstr "[ST] {i}Putain, il est arriver!{/i}"
 
 # game/UpdateScript0.02.rpy:477 ## translate crowdin sidneysleepswithryan_db47d66c:
 msgid "[ST] {i}Why won't it stop?!!{/i}"
@@ -1818,7 +1818,7 @@ msgstr "[RT] {i}Mais il a la possibilité pour moi de prendre des photos lorsque
 
 # game/UpdateScript0.02.rpy:976 ## translate crowdin spycambath_e6731e48:
 msgid "[RT] {i}Ok, let's get this baby set up.{/i}"
-msgstr "[RT] {i}Ok, allons mettre en place ce bébé.{/i}"
+msgstr "[RT] {i}Ok, préparons ce joujou.{/i}"
 
 # game/UpdateScript0.02.rpy:979 ## translate crowdin spycambath_bf7b2b87:
 msgid "[RT] {i}Ok, I just need to get this footstool moved over here.... {/i}"
@@ -2638,7 +2638,7 @@ msgstr "[RT] {i}Sans parler de ce que je fais dans le mien.{/i}"
 
 # game/UpdateScript0.02.rpy:1654 ## translate crowdin momspycamroomhorny_1346ff7c:
 msgid "[RT] {i}And that makes 3 for 3.{/i}"
-msgstr "[RT] {i}Et cela en fait 3 sur 3.{/i}"
+msgstr "[RT] {i}Et cela fait 3 pour 3.{/i}"
 
 # game/UpdateScript0.02.rpy:1655 ## translate crowdin momspycamroomhorny_1119f5a2:
 msgid "[RT] {i}Squirting is obviously hereditary.{/i}"
@@ -3642,7 +3642,7 @@ msgstr "[LT] {i}Mais ça faisait tellement du bien!{/i}"
 
 # game/UpdateScript0.02.rpy:2373 ## translate crowdin laurenspycamroomhorny_ab62532f:
 msgid "[LT] {i}What's wrong with me.{/i}"
-msgstr "[LT] {i}Qu’est-ce qui ne va pas chez moi? {/i}"
+msgstr "[LT] {i}Quelque chose ne va pas chez moi?{/i}"
 
 # game/UpdateScript0.02.rpy:2374 ## translate crowdin laurenspycamroomhorny_afdff9dc:
 msgid "[LT] {i}Maybe I should stop watching \"Game of Thots.\"{/i}"
@@ -4878,7 +4878,7 @@ msgstr "[M] Mais si je ne peux pas t'appeler chéri, tu dois m'appeler Mademoise
 
 # game/UpdateScript0.02.rpy:3272 ## translate crowdin invitemomtooffice_5a5a3f30:
 msgid "[R] Ok Miss [mom_name]."
-msgstr "[R] Ok Mademoiselle [mom_name]."
+msgstr "[R] Ok Madame [mom_name]."
 
 # game/UpdateScript0.02.rpy:3273 ## translate crowdin invitemomtooffice_ae756d3c:
 msgid "[M] We were all actually just talking about you."
@@ -6079,96 +6079,96 @@ msgstr "[R] Merde, elle a fini, je ferais mieux de me faire discret."
 # XXtranslate crowdin strings:XX# XX## game/UpdateScript0.02.rpy:233
 msgid "What will she do?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Que fera-t-elle ?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:233
 msgid "Skip event."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sauter l'événement."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:316
 msgid "Let's keep things going with Sidney."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Continuons avec Sidney."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:316
 msgid "Just sleep."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Juste dormir."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:766
 msgid "Try to make it better."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Essayer de l'améliorer."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:766
 msgid "Just leave her alone, you've tortured her enough."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "La laisser tranquille, tu l'as assez torturée."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:772
 msgid "Bang your metal bat on the floor"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Frapper votre batte de métal sur le sol"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:802
 msgid "Make some creepy noises"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Faire des bruits effrayants"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:825
 msgid "You're right, I should save up a little more money first."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tu as raison, je devrais d'abord économiser un peu plus d'argent."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:913
 msgid "Now let's see how you pose when they ask you to take pics from behind."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voyons maintenant comment tu poses quand ils te demandent de prendre des photos par derrière."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:913
 msgid "Have a good time at the convention!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Passer un bon moment à la convention!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:969
 msgid "Set up new spy-cam."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Installer une nouvelle caméra espion."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:1538
 msgid "Peek through spy-cam."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Coup d’œil à travers la camera espion."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2186
 msgid "Pinch."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pincer."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2261
 msgid "Not now."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pas maintenant."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.02.rpy:2832
 msgid "Look through spy-cam"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Regarder à travers la caméra espion"
+msgstr[1] "Ignore this. translate only: One"
 

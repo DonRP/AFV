@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-23 09:36\n"
+"PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -478,7 +478,7 @@ msgstr "[RT] {i}je dois terminer l’événement 37 avant de pouvoir terminer ce
 
 # game/Phone_event_screen.rpy:1265 ## translate crowdin event_info_43_91105538:
 msgid "[RT] {i}If I don't help Lauren do well on her weekly poll numbers, I might not like the consequences.{/i}"
-msgstr "[RT] {i}Si je n'aide pas Lauren à bien faire son enquête hebdomadaire, je pourrais ne pas aimer les conséquences. {/i}"
+msgstr "[RT] {i}Si je n'aide pas Lauren à bien faire avec son sondage hebdomadaire, je pourrais ne pas aimer les conséquences.{/i}"
 
 # game/Phone_event_screen.rpy:1270 ## translate crowdin event_info_44_29774d59:
 msgid "[RT] {i}I need to complete event 34 before I can start on this event.{/i}"
@@ -1239,31 +1239,32 @@ msgstr "Fin du tutoriel."
 # XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "[event_num]:"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Phone_event_screen.rpy:40
 msgid "???"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "???"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Phone_event_screen.rpy:802
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n"
+"             indices!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Phone_event_screen.rpy:805
 msgid "Watch the tutorial again!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Regardez le tutoriel à nouveau!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Phone_event_screen.rpy:811
 msgid "{color=#E60000}-------------------------------------{/color}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{color=#E60000}-------------------------------------{/color}"
+msgstr[1] "Ignore this. translate only: One"
 
