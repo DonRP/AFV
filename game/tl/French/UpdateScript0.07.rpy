@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:37\n"
+# "PO-Revision-Date: 2022-04-28 09:23\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -114,13 +114,13 @@ translate french receive_will_email_54783769:
 translate french receive_will_email_1dc4a9f4:
 
     # RT "{i}Holy shit!... He pulled it off!{/i}"
-    RT "{i}Merde !... Il l'a arraché !{/i}"
+    RT "{i}Merde !... Il l'a accepté!{/i}"
 
 # game/UpdateScript0.07.rpy:1060
 translate french receive_will_email_2e46a0af:
 
     # RT "{i}If this doesn't win the election for Lauren, I don't know what will.{/i}"
-    RT "{i}Si cela ne remporte pas l'élection de Lauren, je ne sais pas ce qu'il lui fera.{/i}"
+    RT "{i}Si cela ne fait pas remporter l'élection à Lauren, je ne sais pas ce qu'il le fera.{/i}"
 
 # game/UpdateScript0.07.rpy:1061
 translate french receive_will_email_2a7f1f0a:
@@ -3078,7 +3078,7 @@ translate french lounge_sex_2dc5b6cd:
 translate french lounge_sex_1625e5eb:
 
     # L "Pound town?... You're gonna keep using that one, huh?"
-    L "livre ville?... Tu vas continuer à l'utiliser, hein ?"
+    L "Pound Town?... Tu vas continuer à l'utiliser, hein ?"
 
 # game/UpdateScript0.07.rpy:1976
 translate french lounge_sex_d7db4d40:
@@ -3528,13 +3528,13 @@ translate french lounge_sex_66aa4866:
 translate french lounge_sex_9b72ade7:
 
     # L "Pound town?... What are you, ten years old?"
-    L "livre ville?... Tu as quoi, dix ans ?"
+    L "Pound Town?... Tu as quoi, dix ans?"
 
 # game/UpdateScript0.07.rpy:2148
 translate french lounge_sex_fcb53501:
 
     # R "Would you prefer the bone yard?"
-    R "Veux-tu préférer la courbe osseuse ?"
+    R "Veux-tu préférer la queue en os?"
 
 # game/UpdateScript0.07.rpy:2151
 translate french lounge_sex_a461e346:
@@ -3564,7 +3564,7 @@ translate french lounge_sex_1d0681d0:
 translate french lounge_sex_d48ca8b8:
 
     # L "Well, you're in luck... I'm actually feeling pretty frisky myself right now."
-    L "Eh bien, vous avez de la chance... Je me sens moi-même assez fringant en ce moment."
+    L "Eh bien, tu as de la chance... Je me sens moi-même assez fringante en ce moment."
 
 # game/UpdateScript0.07.rpy:2158
 translate french lounge_sex_389e2d4c:
@@ -3600,7 +3600,7 @@ translate french lounge_sex_5cfd579b:
 translate french lounge_sex_97bb3748:
 
     # L "Are you trying to cock-block yourself?"
-    L "Essaies-tu de te bloquer?"
+    L "Essaies-tu de me taquinner?"
 
 # game/UpdateScript0.07.rpy:2170
 translate french lounge_sex_c1574310_1:
@@ -8118,7 +8118,7 @@ translate french meeting_miss_jessica_78e6ec72:
 translate french meeting_miss_jessica_17e3aae0:
 
     # RT "...."
-    new "[RT]...."
+    RT "...."
 
 # game/UpdateScript0.07.rpy:4130
 translate french meeting_miss_jessica_e492cef9_1:
@@ -10476,7 +10476,7 @@ translate french stones_classroom_c72e6aa2:
 translate french stones_classroom_2298e267:
 
     # MS "Great! Let's get those posters designed and printed, and then I'll have you pose for me."
-    MS "Super ! Allons concevoir et imprimer ces posters, et ensuite je te ferai poser pour moi."
+    MS "Super! Allons concevoir et imprimer ces posters, et ensuite je te ferai poser pour moi."
 
 # game/UpdateScript0.07.rpy:4887
 translate french stones_classroom_58fbc7a1:
@@ -10488,7 +10488,7 @@ translate french stones_classroom_58fbc7a1:
 translate french stones_classroom_91f70cc5:
 
     # R "Yeah, I just need to pull them off the internet."
-    R "Ouais, j'ai juste besoin de les retirer d'Internet."
+    R "Ouais, j'ai juste besoin de les sortir d'internet."
 
 # game/UpdateScript0.07.rpy:4889
 translate french stones_classroom_36bdb72a:
@@ -10638,7 +10638,7 @@ translate french finished_painting_5a05cf2a:
 translate french finished_painting_0e919a44:
 
     # MS "Uh... yes, please, but try really hard not to get aroused this time... If possible?"
-    MS "Euh... oui, s'il te plait, mais essayez vraiment de ne pas t'exciter cette fois... Si possible ?"
+    MS "Euh... oui, s'il te plait, mais essaies vraiment de ne pas t'exciter cette fois... Si possible ?"
 
 # game/UpdateScript0.07.rpy:4934
 translate french finished_painting_40d2fe6b:
@@ -10788,7 +10788,7 @@ translate french finished_painting_345e6a44:
 translate french finished_painting_a2fa8dc5:
 
     # MS "Oh, my God!... I feel so full!"
-    MS "Oh, mon Dieu!... Je me sens si rassasiée !"
+    MS "Oh, mon Dieu!... Je me sens si pleine!"
 
 # game/UpdateScript0.07.rpy:4994
 translate french finished_painting_00850925:
@@ -10806,7 +10806,7 @@ translate french finished_painting_3e3072a9:
 translate french finished_painting_cdb34e86:
 
     # RT "Oh, fuck!"
-    RT "Oh, putain!"
+    RT "Oh, merde !"
 
 # game/UpdateScript0.07.rpy:4997
 translate french finished_painting_ebf47662:
@@ -10848,7 +10848,7 @@ translate french finished_painting_fc1e65c2:
 translate french finished_painting_e2964c25:
 
     # MS "Don't you dare!"
-    MS "N'ose pas !"
+    MS "N'oses pas!"
 
 # game/UpdateScript0.07.rpy:5009
 translate french finished_painting_12c82bfe:
@@ -13110,7 +13110,7 @@ translate french finished_painting_8e368220:
 translate french finished_painting_50ae4db5:
 
     # R "Yeah... As soon as I need some more posters."
-    R "Ouais... Dès que j'ai besoin de quelques affiches supplémentaires."
+    R "Ouais... Dès que j'ai besoin de plus d'affiches."
 
 # game/UpdateScript0.07.rpy:5709
 translate french finished_painting_79e1431c:
@@ -14442,7 +14442,7 @@ translate french actual_election_0d0527fb:
 translate french actual_election_3131f36d:
 
     # L "I can't look!"
-    L "Je ne peux pas regarder !"
+    L "Je ne peux pas regarder!"
 
 # game/UpdateScript0.07.rpy:6271
 translate french actual_election_9180a755:
@@ -16962,7 +16962,7 @@ translate french exclusive_sex_19d7027f:
 translate french exclusive_sex_7add6819:
 
     # R "You just let me know if I'm not."
-    R "Faites-moi savoir si je ne le suis pas."
+    R "Fais-moi savoir si je ne le suis pas."
 
 # game/UpdateScript0.07.rpy:7140
 translate french exclusive_sex_fb1472a6:
@@ -17004,7 +17004,7 @@ translate french exclusive_sex_c42576d0:
 translate french exclusive_sex_4edeedcb:
 
     # L "I've got to run to the office and make sure Matt took care of everything. I want to make sure they make me the student body president as soon as possible."
-    L "Je dois courir au bureau et m'assurer que Matt s'occupe de tout. Je veux m'assurer qu'ils fassent de moi la présidente du corps étudiant dès que possible."
+    L "Je dois aller au bureau et m'assurer que Matt s'occupe de tout. Je veux m'assurer qu'ils fassent de moi la présidente du corps étudiant dès que possible."
 
 # game/UpdateScript0.07.rpy:7149
 translate french exclusive_sex_a40af98e:
@@ -22212,7 +22212,7 @@ translate french new_jacky_caught_office_2c78093e:
 translate french new_jacky_caught_office_9b07cf0a:
 
     # MG "...."
-    new "[MG]...."
+    MG "...."
 
 # game/UpdateScript0.07.rpy:8943
 translate french new_jacky_caught_office_e200a835:
@@ -22680,7 +22680,7 @@ translate french newclasslecture_9040f0a8:
 translate french newclasslecture_f94a78ef:
 
     # M "[ryan]!... Please pay attention!"
-    M "[ryan]! Tins ta langue! S'il te plaît!"
+    M "[ryan]! Tiens ta langue! S'il te plaît!"
 
 # game/UpdateScript0.07.rpy:9263
 translate french newclasslecture_ebaae931:
@@ -23196,7 +23196,7 @@ translate french newclasslecture_9040f0a8_1:
 translate french newclasslecture_f94a78ef_1:
 
     # M "[ryan]!... Please pay attention!"
-    M "[ryan]! Tins ta langue! S'il te plaît!"
+    M "[ryan]! Tiens ta langue! S'il te plaît!"
 
 # game/UpdateScript0.07.rpy:9410
 translate french newclasslecture_ebaae931_1:
@@ -23556,7 +23556,7 @@ translate french newclasslecture_9040f0a8_2:
 translate french newclasslecture_f94a78ef_2:
 
     # M "[ryan]!... Please pay attention!"
-    M "[ryan]! Tins ta langue! S'il te plaît!"
+    M "[ryan]! Tiens ta langue! S'il te plaît!"
 
 # game/UpdateScript0.07.rpy:9520
 translate french newclasslecture_170fdfa8:
@@ -27516,7 +27516,7 @@ translate french bad_shower_end_aa991d34:
 translate french bad_shower_end_aa13ce48:
 
     # M "I can't belive you did this! Now, you stay here and wait for me! It's not going to be easy to get your ass out of hot water!"
-    M "Je ne peux pas croire que tu as fait ça! Reste ici et attends-moi! Ça ne va pas être facile de sortir ton cul de l'eau chaude!"
+    M "Je ne peux pas croire que tu as fait ça! Maintenant, tu restes ici et attends-moi! Ça ne sera pas facile d'avoir de l'eau chaude!"
 
 # game/UpdateScript0.07.rpy:11096
 translate french bad_shower_end_7684dc99_1:
@@ -27582,7 +27582,7 @@ translate french bad_shower_end_86298de9:
 translate french bad_shower_end_322ea6e6:
 
     # M "I've got to run. I'm going to be late for my class."
-    M "Je dois courir. Je vais être en retard pour mon cours."
+    M "Je dois y aller. Je vais être en retard pour mon cours."
 
 # game/UpdateScript0.07.rpy:11111
 translate french bad_shower_end_256eac77:
@@ -27684,7 +27684,7 @@ translate french good_shower_end_25b87e7d:
 translate french good_shower_end_828799ee:
 
     # RT "{i}Oh, wow!... Lauren isn't doing a very good job of covering up down south.{/i}"
-    RT "{i}Oh, wow !... Lauren ne fait pas un très bon travail pour se couvrir vers le sud.{/i}"
+    RT "{i}Oh, wow !... Lauren ne fait pas un très bon travail pour se couvrir à droite.{/i}"
 
 # game/UpdateScript0.07.rpy:11149
 translate french good_shower_end_ff3496d9:
@@ -28398,13 +28398,13 @@ translate french campaign_headquarters_afternoon_1b945386:
 translate french campaign_headquarters_afternoon_8f7b12f2:
 
     # K "{i}(yelling){/i} Boy coming in! Is everyone decent?"
-    K "{i}(en criant){/i} Un garçon arrive! Est-ce que tout le monde est décent?"
+    K "{i}(en criant){/i} Un garçon arrive! Est-ce que tout le monde est décente?"
 
 # game/UpdateScript0.07.rpy:11468
 translate french campaign_headquarters_afternoon_341edded:
 
     # L "{i}(distant yelling){/i} Is it my brother?"
-    L "{i}(cris lointains){/i} Est-ce toi mon frère?"
+    L "{i}(cris lointains){/i} Est-ce mon frère?"
 
 # game/UpdateScript0.07.rpy:11469
 translate french campaign_headquarters_afternoon_5e5f9529:
@@ -30480,13 +30480,13 @@ translate french campaign_headquarters_afternoon_80b10d7f:
 translate french campaign_headquarters_afternoon_35d3be1a:
 
     # R "Cleared?"
-    R "Effacé?"
+    R "Autorisé?"
 
 # game/UpdateScript0.07.rpy:12176
 translate french campaign_headquarters_afternoon_4111caed:
 
     # R "Is this \"Bathroom 51\" or something?"
-    R "Est-ce 'Salle de bain 51' ou quelque chose comme ça?"
+    R "Est-ce 'Salle de bain AREA 51' ou quelque chose comme ça?"
 
 # game/UpdateScript0.07.rpy:12177
 translate french campaign_headquarters_afternoon_ed8ee0ea:
@@ -31854,13 +31854,13 @@ translate french best_polls_aftermath_c51441c2:
 translate french best_polls_aftermath_255da29f:
 
     # L "So, are you ready for me?"
-    L "Alors, es-tu prêt pour moi?"
+    L "Alors, es-tu prête pour moi?"
 
 # game/UpdateScript0.07.rpy:12688
 translate french best_polls_aftermath_942acf0f:
 
     # MD "I can't wait!"
-    MD "Je ne peux pas attendre !"
+    MD "J'ai hâte!"
 
 # game/UpdateScript0.07.rpy:12693
 translate french best_polls_aftermath_c281c3fe:
@@ -31926,7 +31926,7 @@ translate french best_polls_aftermath_e59a8db4:
 translate french best_polls_aftermath_5b3b4a92:
 
     # MD "Ok... We're ready!"
-    MD "Ok... On est prêt!"
+    MD "D'accord... Nous sommes prêtes !"
 
 # game/UpdateScript0.07.rpy:12716
 translate french best_polls_aftermath_d5a22c7a:
@@ -32298,7 +32298,7 @@ translate french best_polls_aftermath_29ba090b:
 translate french best_polls_aftermath_9dd1486d:
 
     # MDT "{i}....{/i}"
-    MDT "{i}.... {/i}"
+    MDT "{i}....{/i}"
 
 # game/UpdateScript0.07.rpy:12861
 translate french best_polls_aftermath_291b7768:
@@ -33984,7 +33984,7 @@ translate french best_polls_aftermath_272f825a_2:
 translate french best_polls_aftermath_1d06972f:
 
     # L "You blasted cum out my nose!"
-    L "Tu m'as soufflé du sperme sur le nez!"
+    L "Tu m'as giclé du sperme jusque dans le nez!"
 
 # game/UpdateScript0.07.rpy:13418
 translate french best_polls_aftermath_7e5940b2_4:
@@ -35550,7 +35550,7 @@ translate french bad_polls_aftermath_69c849a5:
 translate french bad_polls_aftermath_06c8e056:
 
     # L "Of course, I have to be running against the captain of the basketball team!"
-    L "Bien sûr, je dois courir contre le capitaine de l'équipe de basket!"
+    L "Bien sûr, je dois concourir contre le capitaine de l'équipe de basket!"
 
 # game/UpdateScript0.07.rpy:14010
 translate french bad_polls_aftermath_ff70d996:
@@ -36768,7 +36768,7 @@ translate french bad_polls_aftermath_94c820e6:
 translate french bad_polls_aftermath_708b086a:
 
     # R "Zack!"
-    R "Attends!"
+    R "Zack!"
 
 # game/UpdateScript0.07.rpy:14314
 translate french bad_polls_aftermath_1da663ea:
@@ -36966,7 +36966,7 @@ translate french bad_polls_aftermath_0c61b01b:
 translate french bad_polls_aftermath_1b069f94:
 
     # SY "I got it."
-    SY "Je l'ai eu."
+    SY "J'ai compris."
 
 # game/UpdateScript0.07.rpy:14389
 translate french bad_polls_aftermath_7e3cce04:
@@ -38292,7 +38292,7 @@ translate french bad_polls_aftermath_b30b24c0:
 translate french bad_polls_aftermath_c3ea5a14:
 
     # UB "Oh fuck, that feels so good, Lauren!"
-    UB "Oh putain, ça fait du bien, Lauren!"
+    UB "Oh putain, ça fait tellement du bien, Lauren!"
 
 # game/UpdateScript0.07.rpy:14823
 translate french bad_polls_aftermath_f2b59bf0:
@@ -43014,7 +43014,7 @@ translate french diaz_help_26c5091b:
 translate french diaz_help_0cd0d956:
 
     # AD "Mmmmm...."
-    AD "Mmmmm..."
+    AD "Mmmmm...."
 
 # game/UpdateScript0.07.rpy:16540
 translate french diaz_help_ea776cbd:
@@ -43038,7 +43038,7 @@ translate french diaz_help_b3c3d8b8:
 translate french diaz_help_f57334a5:
 
     # AD "Bllleerrrccchhhh..."
-    AD "Bllleerrrccchhhh..."
+    AD "Mmmmooouuucccchhhee..."
 
 # game/UpdateScript0.07.rpy:16549
 translate french diaz_help_e4952929:
@@ -47970,526 +47970,422 @@ translate french strings:
 
     # game/UpdateScript0.07.rpy:17
     old "Voice over intercom"
-    new ""
-#--- ""
+    new "Voix à travers l'interphone"
 
     # game/UpdateScript0.07.rpy:18
     old "Principal Hardun"
-    new ""
-#--- ""
+    new "Monsieur le principal Hardun"
 
     # game/UpdateScript0.07.rpy:19
     old "Miss Jessica"
-    new ""
-#--- ""
+    new "Mme Jessica"
 
     # game/UpdateScript0.07.rpy:20
     old "Zack"
-    new ""
-#--- ""
+    new "Zack"
 
     # game/UpdateScript0.07.rpy:21
     old "Unknown Boy"
-    new ""
-#--- ""
+    new "Garçon Inconnu"
 
     # game/UpdateScript0.07.rpy:22
     old "Another Unknown Boy"
-    new ""
-#--- ""
+    new "Un Autre garçon Inconnu"
 
     # game/UpdateScript0.07.rpy:23
     old "Stacy"
-    new ""
-#--- ""
+    new "Stacy"
 
     # game/UpdateScript0.07.rpy:24
     old "Mrs. Stone's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de Mme Stone"
 
     # game/UpdateScript0.07.rpy:25
     old "Locker Room Girl"
-    new ""
-#--- ""
+    new "Fille du vestiaire"
 
     # game/UpdateScript0.07.rpy:26
     old "Brooke"
-    new ""
-#--- ""
+    new "Brooke"
 
     # game/UpdateScript0.07.rpy:27
     old "Reagan"
-    new ""
-#--- ""
+    new "Reagan"
 
     # game/UpdateScript0.07.rpy:28
     old "Haylee"
-    new ""
-#--- ""
+    new "Haylee"
 
     # game/UpdateScript0.07.rpy:1332
     old "Lick that clit!"
-    new ""
-#--- ""
+    new "Lécher ce clitoris!"
 
     # game/UpdateScript0.07.rpy:1332
     old "Where's your pride, man?"
-    new ""
-#--- ""
+    new "Où est ta fierté, mec ?"
 
     # game/UpdateScript0.07.rpy:1561
     old "I think our relationship is more than that."
-    new ""
-#--- ""
+    new "Je pense que notre relation est plus que cela."
 
     # game/UpdateScript0.07.rpy:1561
     old "Say nothing."
-    new ""
-#--- ""
+    new "Ne rien dire."
 
     # game/UpdateScript0.07.rpy:1672
     old "Take what you can get!"
-    new ""
-#--- ""
+    new "Prends ce que tu veux obtenir!"
 
     # game/UpdateScript0.07.rpy:1672
     old "I can't let her think I'm that desperate."
-    new ""
-#--- ""
+    new "Je ne peux pas la laisser croire que je suis si désespéré."
 
     # game/UpdateScript0.07.rpy:1966
     old "Lets go to pound town."
-    new ""
-#--- ""
+    new "Allons à Pound Town."
 
     # game/UpdateScript0.07.rpy:2044
     old "Pull out!"
-    new ""
-#--- ""
+    new "Retirer!"
 
     # game/UpdateScript0.07.rpy:2044
     old "Creampie!"
-    new ""
-#--- ""
+    new "Éjaculation interne!"
 
     # game/UpdateScript0.07.rpy:2330
     old "Leave her alone"
-    new ""
-#--- ""
+    new "La laisser tranquille"
 
     # game/UpdateScript0.07.rpy:2536
     old "Cover her face"
-    new ""
-#--- ""
+    new "Couvrir son visage"
 
     # game/UpdateScript0.07.rpy:3064
     old "Suggest Anal sex"
-    new ""
-#--- ""
+    new "Suggérer le sexe anal"
 
     # game/UpdateScript0.07.rpy:3064
     old "Don't bring up anal"
-    new ""
-#--- ""
+    new "Ne pas faire mention de l'anal"
 
     # game/UpdateScript0.07.rpy:3836
     old "Stay strong, don't arrange the date."
-    new ""
-#--- ""
+    new "Rester fort, ne pas organiser de rdv."
 
     # game/UpdateScript0.07.rpy:3836
     old "Lauren's election is too important, arrange the date."
-    new ""
-#--- ""
+    new "L'élection de Lauren est trop importante, planifier la date."
 
     # game/UpdateScript0.07.rpy:4140
     old "Interrupt."
-    new ""
-#--- ""
+    new "Interrompre."
 
     # game/UpdateScript0.07.rpy:4140
     old "Continue to wait."
-    new ""
-#--- ""
+    new "Continuer à attendre."
 
     # game/UpdateScript0.07.rpy:4164
     old "Cough loudly."
-    new ""
-#--- ""
+    new "Tousser fort."
 
     # game/UpdateScript0.07.rpy:4269
     old "Get her attention."
-    new ""
-#--- ""
+    new "Attirer son attention."
 
     # game/UpdateScript0.07.rpy:4309
     old "Pay for posters ($200)"
-    new ""
-#--- ""
+    new "Payer pour les affiches (200$)"
 
     # game/UpdateScript0.07.rpy:4309
     old "I don't have that much money."
-    new ""
-#--- ""
+    new "Je n'ai pas beaucoup d'argent."
 
     # game/UpdateScript0.07.rpy:4309
     old "I'm not spending that much on posters!"
-    new ""
-#--- ""
+    new "Je ne dépense pas beaucoup en affiches !"
 
     # game/UpdateScript0.07.rpy:4325
     old "Skip Mini-Game."
-    new ""
-#--- ""
+    new "Ignorer le mini-jeu."
 
     # game/UpdateScript0.07.rpy:4325
     old "Play Mini-Game"
-    new ""
-#--- ""
+    new "Jouer au mini-jeu"
 
     # game/UpdateScript0.07.rpy:4442
     old "Pay for posters ($300)"
-    new ""
-#--- ""
+    new "Payer pour les affiches (300$)"
 
     # game/UpdateScript0.07.rpy:6932
     old "Standing doggy"
-    new ""
-#--- ""
+    new "Chien debout"
 
     # game/UpdateScript0.07.rpy:7364
     old "Ok, fine!"
-    new ""
-#--- ""
+    new "Ok, bien!"
 
     # game/UpdateScript0.07.rpy:7364
     old "No way!"
-    new ""
-#--- ""
+    new "Pas question !"
 
     # game/UpdateScript0.07.rpy:7368
     old "Lick her pussy"
-    new ""
-#--- ""
+    new "Lécher sa chatte"
 
     # game/UpdateScript0.07.rpy:7368
     old "Get a blowjob"
-    new ""
-#--- ""
+    new "Obtenir une pipe"
 
     # game/UpdateScript0.07.rpy:7368
     old "Fuck her missionary style"
-    new ""
-#--- ""
+    new "Baiser en style missionnaire"
 
     # game/UpdateScript0.07.rpy:7368
     old "Fuck her standing doggystyle"
-    new ""
-#--- ""
+    new "Baiser debout en levrette"
 
     # game/UpdateScript0.07.rpy:7897
     old "Standing Doggy"
-    new ""
-#--- ""
+    new "Chien Debout"
 
     # game/UpdateScript0.07.rpy:7910
     old "Lick her pussy."
-    new ""
-#--- ""
+    new "Lécher sa chatte."
 
     # game/UpdateScript0.07.rpy:7936
     old "Lauren squirt"
-    new ""
-#--- ""
+    new "Lauren gicle"
 
     # game/UpdateScript0.07.rpy:8408
     old "Ok, I'll bankroll you."
-    new ""
-#--- ""
+    new "Ok, je vais te financer."
 
     # game/UpdateScript0.07.rpy:8408
     old "I can't afford another losing campaign."
-    new ""
-#--- ""
+    new "Je ne peux pas me permettre une autre campagne perdue."
 
     # game/UpdateScript0.07.rpy:8408
     old "Sorry, I've got to protect Mom at all costs."
-    new ""
-#--- ""
+    new "Désolé, je dois protéger maman à tout prix."
 
     # game/UpdateScript0.07.rpy:8551
     old "I don't have enough money this week."
-    new ""
-#--- ""
+    new "Je n'ai pas assez d'argent cette semaine."
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $100"
-    new ""
-#--- ""
+    new "Lui donner 100$"
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $250"
-    new ""
-#--- ""
+    new "Lui donner 250$"
 
     # game/UpdateScript0.07.rpy:8551
     old "Give her $500"
-    new ""
-#--- ""
+    new "Lui donner 500$"
 
     # game/UpdateScript0.07.rpy:8953
     old "Go see Mom"
-    new ""
-#--- ""
+    new "Aller voir maman"
 
     # game/UpdateScript0.07.rpy:9119
     old "Talk to Megan"
-    new ""
-#--- ""
+    new "Parler à Megan"
 
     # game/UpdateScript0.07.rpy:9145
     old "Get Lauren's Attention"
-    new ""
-#--- ""
+    new "Attirer l'attention de Lauren"
 
     # game/UpdateScript0.07.rpy:9765
     old "sneak out of class"
-    new ""
-#--- ""
+    new "se faufiler hors de la classe"
 
     # game/UpdateScript0.07.rpy:9780
     old "Sneak out of class"
-    new ""
-#--- ""
+    new "Se faufiler hors de la classe"
 
     # game/UpdateScript0.07.rpy:10033
     old "Yes ($300)"
-    new ""
-#--- ""
+    new "Oui (300$)"
 
     # game/UpdateScript0.07.rpy:10082
     old "Cum inside"
-    new ""
-#--- ""
+    new "Sperme à l'intérieur"
 
     # game/UpdateScript0.07.rpy:10082
     old "Cum on her ass"
-    new ""
-#--- ""
+    new "Sperme sur son cul"
 
     # game/UpdateScript0.07.rpy:10766
     old "I should get our of here."
-    new ""
-#--- ""
+    new "Je devrais sortir."
 
     # game/UpdateScript0.07.rpy:10824
     old "Yes, let's go back in time."
-    new ""
-#--- ""
+    new "Oui, remontons le temps."
 
     # game/UpdateScript0.07.rpy:10824
     old "No, I'll keep the consequences of losing."
-    new ""
-#--- ""
+    new "Non, j'assumerai les conséquences de perdre."
 
     # game/UpdateScript0.07.rpy:11422
     old "$100"
-    new ""
-#--- ""
+    new "100$"
 
     # game/UpdateScript0.07.rpy:11422
     old "$300"
-    new ""
-#--- ""
+    new "300$"
 
     # game/UpdateScript0.07.rpy:11422
     old "$500"
-    new ""
-#--- ""
+    new "500$"
 
     # game/UpdateScript0.07.rpy:11715
     old "Sorry, no money right now."
-    new ""
-#--- ""
+    new "Désolé, pas d'argent pour le moment."
 
     # game/UpdateScript0.07.rpy:12221
     old "Lauren, you sound a little bit crazy."
-    new ""
-#--- ""
+    new "Lauren, tu as l'air un peu schizophrène."
 
     # game/UpdateScript0.07.rpy:12221
     old "Lauren, I think you might be on to something."
-    new ""
-#--- ""
+    new "Lauren, je pense que tu tiens peut-être quelque chose."
 
     # game/UpdateScript0.07.rpy:12438
     old "Lick Lauren's ass"
-    new ""
-#--- ""
+    new "Lécher le cul de Lauren"
 
     # game/UpdateScript0.07.rpy:12438
     old "Get a blowjob from Lauren"
-    new ""
-#--- ""
+    new "Obtenir une pipe de Lauren"
 
     # game/UpdateScript0.07.rpy:12438
     old "Invite Mandy"
-    new ""
-#--- ""
+    new "Inviter Mandy"
 
     # game/UpdateScript0.07.rpy:12483
     old "Go see Mrs. Stone."
-    new ""
-#--- ""
+    new "Aller voir Mme Stone."
 
     # game/UpdateScript0.07.rpy:12483
     old "I'll go another time."
-    new ""
-#--- ""
+    new "J'irais une autre fois."
 
     # game/UpdateScript0.07.rpy:12515
     old "Down Lauren's throat"
-    new ""
-#--- ""
+    new "Dans la gorge de Lauren"
 
     # game/UpdateScript0.07.rpy:12515
     old "All over Lauren's Face"
-    new ""
-#--- ""
+    new "Sur le visage de Lauren"
 
     # game/UpdateScript0.07.rpy:13172
     old "Lick your ass!"
-    new ""
-#--- ""
+    new "Lèche ton cul!"
 
     # game/UpdateScript0.07.rpy:13172
     old "I'd love another blowjob!"
-    new ""
-#--- ""
+    new "J'adorerais une autre pipe!"
 
     # game/UpdateScript0.07.rpy:13873
     old "Maybe..."
-    new ""
-#--- ""
+    new "Peut-être..."
 
     # game/UpdateScript0.07.rpy:14019
     old "Put this dream out of it's misery."
-    new ""
-#--- ""
+    new "La sortir de ce rêve misérable."
 
     # game/UpdateScript0.07.rpy:14019
     old "Encourage her to keep going."
-    new ""
-#--- ""
+    new "L'encourager à continuer."
 
     # game/UpdateScript0.07.rpy:15052
     old "I was busy."
-    new ""
-#--- ""
+    new "J'étais occupé."
 
     # game/UpdateScript0.07.rpy:15052
     old "I didn't have the money."
-    new ""
-#--- ""
+    new "Je n’ai pas d'argent."
 
     # game/UpdateScript0.07.rpy:15052
     old "I don't know... I'm really sorry."
-    new ""
-#--- ""
+    new "Je ne sais pas... Je suis vraiment désolé."
 
     # game/UpdateScript0.07.rpy:15244
     old "In Lauren's mouth"
-    new ""
-#--- ""
+    new "Dans la bouche de Lauren"
 
     # game/UpdateScript0.07.rpy:15244
     old "On Lauren's face"
-    new ""
-#--- ""
+    new "Sur le visage de Lauren"
 
     # game/UpdateScript0.07.rpy:15862
     old "Missionary Position"
-    new ""
-#--- ""
+    new "Position du missionnaire"
 
     # game/UpdateScript0.07.rpy:15965
     old "Reverse Cowgirl"
-    new ""
-#--- ""
+    new "Cover-girl inversé"
 
     # game/UpdateScript0.07.rpy:15990
     old "Pull Out"
-    new ""
-#--- ""
+    new "Retirer"
 
     # game/UpdateScript0.07.rpy:16050
     old "Suggest Anal Sex"
-    new ""
-#--- ""
+    new "Suggérer le sexe anal"
 
     # game/UpdateScript0.07.rpy:16050
     old "Keep Quiet"
-    new ""
-#--- ""
+    new "Garder le silence"
 
     # game/UpdateScript0.07.rpy:16131
     old "Uhh... Never mind... It wasn't a good idea."
-    new ""
-#--- ""
+    new "Euhh... Ça ne fait rien... Ce n'était pas une bonne idée."
 
     # game/UpdateScript0.07.rpy:16235
     old "Suggest Anal Sex."
-    new ""
-#--- ""
+    new "Suggérer le sexe anal."
 
     # game/UpdateScript0.07.rpy:16235
     old "Wait! Bad idea."
-    new ""
-#--- ""
+    new "Attends! Mauvaise idée."
 
     # game/UpdateScript0.07.rpy:16383
     old "Go visit Will Tylor"
-    new ""
-#--- ""
+    new "Aller visiter Will Tylor"
 
     # game/UpdateScript0.07.rpy:16383
     old "Maybe another time."
-    new ""
-#--- ""
+    new "Peut-être une autre fois."
 
     # game/UpdateScript0.07.rpy:16399
     old "Check out the van."
-    new ""
-#--- ""
+    new "Regarder dans la fourgonnette."
 
     # game/UpdateScript0.07.rpy:16399
     old "Maybe later."
-    new ""
-#--- ""
+    new "Peut-être plus tard."
 
     # game/UpdateScript0.07.rpy:16503
     old "Yes ($500)"
-    new ""
-#--- ""
+    new "Oui (500$)"
 
     # game/UpdateScript0.07.rpy:17141
     old "Buy School Influence ($500)"
-    new ""
-#--- ""
+    new "Acheter Influence scolaire (500$)"
 
     # game/UpdateScript0.07.rpy:17141
     old "Nothing else."
-    new ""
-#--- ""
+    new "Rien d'autre."
 
     # game/UpdateScript0.07.rpy:17890
     old "Yeah, why not?"
-    new ""
-#--- ""
+    new "Ouais, pourquoi pas?"
 
     # game/UpdateScript0.07.rpy:17890
     old "No, that's too expensive."
-    new ""
-#--- ""
+    new "Non, c'est trop cher."
+#--- "Ignore this. translate only: One"
 

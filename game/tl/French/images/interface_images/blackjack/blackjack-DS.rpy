@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-27 09:21\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -79,45 +79,37 @@ translate french strings:
     # game/images/interface_images/blackjack/blackjack-DS.rpy:198
     old "Dealer"
     new "Croupier"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:236
     old "Place your bets!"
     new "Placez vos mises!"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:244
     old "Do you want to bet $100 and start the game?"
     new "Voulez-vous miser 100 $ et commencer la partie ?"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:252
     old "Do you want to bet $500 and start the game?"
     new "Voulez-vous miser 500$ et commencer le jeu?"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:260
     old "Do you want to bet $1000 and start the game?"
     new "Voulez-vous miser 1000 $ et commencer la partie?"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:268
     old "Do you want to leave the BlackJack game?"
     new "Voulez-vous quitter la partie de BlackJack ?"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:276
     old "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
     new "Parties gagnées : [persistent.playerWin] / parties perdues : [persistent.computerWin]"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:321
     old "Player cards: [playerScore]"
     new "Cartes du joueur : [playerScore]"
-#--- ""
 
     # game/images/interface_images/blackjack/blackjack-DS.rpy:480
     old "Do you want to play again?"
     new "Voulez-vous jouer de nouveau ?"
-#--- ""
+#--- "Ignore this. translate only: One"
 

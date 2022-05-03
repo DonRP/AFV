@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:35\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -1068,7 +1068,7 @@ translate french sidneysleepswithryan_d94dd63d:
 translate french sidneysleepswithryan_e39ee42d:
 
     # RT "{i}Ohh.... ho.... hngggg.... wow!{/i}"
-    RT "{i}Ohh.... ho.... hngggg.... wow!{/i}"
+    RT "{i}Ohh.... Ho.... hngggg.... Ça alors!{/i}"
 
 # game/UpdateScript0.02.rpy:416
 translate french sidneysleepswithryan_154150a7:
@@ -1104,7 +1104,7 @@ translate french sidneysleepswithryan_b18ab89b:
 translate french sidneysleepswithryan_95b021cc:
 
     # RT "{i}Now, I just have to give her a little pinch again, and act like I'm still asleep.{/i}"
-    RT "{i}Maintenant, je dois juste lui donner un petit pincement à nouveau, et agir comme si je dormais encore.{/i}"
+    RT "{i}Maintenant, je dois juste lui donner un petit pincement, et agir comme si je dormais encore.{/i}"
 
 # game/UpdateScript0.02.rpy:426
 translate french sidneysleepswithryan_25274c25:
@@ -1218,7 +1218,7 @@ translate french sidneysleepswithryan_59adf085:
 translate french sidneysleepswithryan_18a3967a:
 
     # ST "{i}Fuck, he's still going!{/i}"
-    ST "{i}Putain, il va arriver!{/i}"
+    ST "{i}Putain, il est arriver!{/i}"
 
 # game/UpdateScript0.02.rpy:477
 translate french sidneysleepswithryan_db47d66c:
@@ -2724,7 +2724,7 @@ translate french spycambath_da46de46:
 translate french spycambath_e6731e48:
 
     # RT "{i}Ok, let's get this baby set up.{/i}"
-    RT "{i}Ok, allons mettre en place ce bébé.{/i}"
+    RT "{i}Ok, préparons ce joujou.{/i}"
 
 # game/UpdateScript0.02.rpy:979
 translate french spycambath_bf7b2b87:
@@ -3954,7 +3954,7 @@ translate french momspycamroomhorny_cc9874e5:
 translate french momspycamroomhorny_1346ff7c:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    RT "{i}Et cela en fait 3 sur 3.{/i}"
+    RT "{i}Et cela fait 3 pour 3.{/i}"
 
 # game/UpdateScript0.02.rpy:1655
 translate french momspycamroomhorny_1119f5a2:
@@ -5460,7 +5460,7 @@ translate french laurenspycamroomhorny_0a2a29e5:
 translate french laurenspycamroomhorny_ab62532f:
 
     # LT "{i}What's wrong with me.{/i}"
-    LT "{i}Qu’est-ce qui ne va pas chez moi? {/i}"
+    LT "{i}Quelque chose ne va pas chez moi?{/i}"
 
 # game/UpdateScript0.02.rpy:2374
 translate french laurenspycamroomhorny_afdff9dc:
@@ -7314,7 +7314,7 @@ translate french invitemomtooffice_66b15a2d:
 translate french invitemomtooffice_5a5a3f30:
 
     # R "Ok Miss [mom_name]."
-    R "Ok Mademoiselle [mom_name]."
+    R "Ok Madame [mom_name]."
 
 # game/UpdateScript0.02.rpy:3273
 translate french invitemomtooffice_ae756d3c:
@@ -9114,81 +9114,66 @@ translate french strings:
 
     # game/UpdateScript0.02.rpy:233
     old "What will she do?"
-    new ""
-#--- ""
+    new "Que fera-t-elle ?"
 
     # game/UpdateScript0.02.rpy:233
     old "Skip event."
-    new ""
-#--- ""
+    new "Sauter l'événement."
 
     # game/UpdateScript0.02.rpy:316
     old "Let's keep things going with Sidney."
-    new ""
-#--- ""
+    new "Continuons avec Sidney."
 
     # game/UpdateScript0.02.rpy:316
     old "Just sleep."
-    new ""
-#--- ""
+    new "Juste dormir."
 
     # game/UpdateScript0.02.rpy:766
     old "Try to make it better."
-    new ""
-#--- ""
+    new "Essayer de l'améliorer."
 
     # game/UpdateScript0.02.rpy:766
     old "Just leave her alone, you've tortured her enough."
-    new ""
-#--- ""
+    new "La laisser tranquille, tu l'as assez torturée."
 
     # game/UpdateScript0.02.rpy:772
     old "Bang your metal bat on the floor"
-    new ""
-#--- ""
+    new "Frapper votre batte de métal sur le sol"
 
     # game/UpdateScript0.02.rpy:802
     old "Make some creepy noises"
-    new ""
-#--- ""
+    new "Faire des bruits effrayants"
 
     # game/UpdateScript0.02.rpy:825
     old "You're right, I should save up a little more money first."
-    new ""
-#--- ""
+    new "Tu as raison, je devrais d'abord économiser un peu plus d'argent."
 
     # game/UpdateScript0.02.rpy:913
     old "Now let's see how you pose when they ask you to take pics from behind."
-    new ""
-#--- ""
+    new "Voyons maintenant comment tu poses quand ils te demandent de prendre des photos par derrière."
 
     # game/UpdateScript0.02.rpy:913
     old "Have a good time at the convention!"
-    new ""
-#--- ""
+    new "Passer un bon moment à la convention!"
 
     # game/UpdateScript0.02.rpy:969
     old "Set up new spy-cam."
-    new ""
-#--- ""
+    new "Installer une nouvelle caméra espion."
 
     # game/UpdateScript0.02.rpy:1538
     old "Peek through spy-cam."
-    new ""
-#--- ""
+    new "Coup d’œil à travers la camera espion."
 
     # game/UpdateScript0.02.rpy:2186
     old "Pinch."
-    new ""
-#--- ""
+    new "Pincer."
 
     # game/UpdateScript0.02.rpy:2261
     old "Not now."
-    new ""
-#--- ""
+    new "Pas maintenant."
 
     # game/UpdateScript0.02.rpy:2832
     old "Look through spy-cam"
-    new ""
-#--- ""
+    new "Regarder à travers la caméra espion"
+#--- "Ignore this. translate only: One"
 

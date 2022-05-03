@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:35\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -1176,7 +1176,7 @@ translate french diazvisit_0d5e051e:
 translate french diazvisit_53c3cb2f:
 
     # AD "I'm going to be a big part of your family's lives here in the near future. So, let's try to keep things civil."
-    AD "Je vais être présente une grande partie de la vie de ta famille ici dans un avenir proche. Alors, essayons de garder des rapports amicaux."
+    AD "Je vais être présente une grande partie de la vie de ta famille ici dans un avenir proche. Alors, essayons de garder des rapports corrects."
 
 # game/UpdateScript0.03.rpy:835
 translate french diazvisit_b65e53d7:
@@ -2904,19 +2904,19 @@ translate french diaz_and_lauren_6e20b891:
 translate french diaz_and_lauren_29515934:
 
     # LT "{i}I can't believe I've got a legitimate creeper in my room.{/i}"
-    LT "{i}Je n'arrive pas à croire que j'ai un pervers légitime dans ma chambre.{/i}"
+    LT "{i}Je n'arrive pas à croire que j'ai une perverse fédérale dans ma chambre.{/i}"
 
 # game/UpdateScript0.03.rpy:1344
 translate french diaz_and_lauren_bacd6814:
 
     # LT "{i}At least it's not some nasty old man like Mom has to deal with at the club.{/i}"
-    LT "{i}Au moins, ce n'est pas un vieil homme méchant comme maman doit faire face au club.{/i}"
+    LT "{i}Au moins, ce n'est pas un vieil homme méchant comme maman doit le faire au club.{/i}"
 
 # game/UpdateScript0.03.rpy:1345
 translate french diaz_and_lauren_cb9e72e0:
 
     # LT "{i}I can't believe Mom hid that from me.{/i}"
-    LT "{i}Je n'arrive pas à croire que maman me l'ait caché.{/i}"
+    LT "{i}Je n'arrive pas à croire que maman me l'aie caché.{/i}"
 
 # game/UpdateScript0.03.rpy:1346
 translate french diaz_and_lauren_fab5d714:
@@ -2940,7 +2940,7 @@ translate french diaz_and_lauren_08aeedd5:
 translate french diaz_and_lauren_bbc87f40:
 
     # LT "{i}Diaz is even pretty hot.... I wonder what drove her to like other women.... {/i}"
-    LT "{i}Diaz est même assez chaud.... Je me demande ce qui l'a poussée à aimer les autres femmes.... {/i}"
+    LT "{i}Diaz est même assez chaude.... Je me demande ce qui l'a poussée à aimer les autres femmes.... {/i}"
 
 # game/UpdateScript0.03.rpy:1350
 translate french diaz_and_lauren_03aea652:
@@ -2964,7 +2964,7 @@ translate french diaz_and_lauren_13804788:
 translate french diaz_and_lauren_5a87628d:
 
     # LT "{i}And Kenzie and I have experimented a little.{/i}"
-    LT "{i}Et Kenzie et moi avons un peu expérimenté.{/i}"
+    LT "{i}Et Kenzie et moi avons un peu expérimenté ça.{/i}"
 
 # game/UpdateScript0.03.rpy:1355
 translate french diaz_and_lauren_2733d9fa:
@@ -2976,7 +2976,7 @@ translate french diaz_and_lauren_2733d9fa:
 translate french diaz_and_lauren_4c2f1e60:
 
     # LT "{i}Shit.... I'm getting pretty screwed up.{/i}"
-    LT "{i}Merde.... Je deviens assez folle.{/i}"
+    LT "{i}Merde.... Je deviens folle.{/i}"
 
 # game/UpdateScript0.03.rpy:1360
 translate french diaz_and_lauren_70e847a8:
@@ -7542,7 +7542,7 @@ translate french clubpool_9f075c1f:
 translate french clubpool_62e20235:
 
     # M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-    M "{i}(murmure){/i} Nous ne voulons pas que tout le monde dans la piscine sache ce qui s'est passé. J'espère qu'ils ne l'ont pas remarqué."
+    M "{i}(murmure){/i} Nous ne voulons pas que tout le monde dans la piscine entende ce qui s'est passé. Espérons qu'ils ne l'ont pas remarqué."
 
 # game/UpdateScript0.03.rpy:3089
 translate french clubpool_f4a57f40:
@@ -7890,7 +7890,7 @@ translate french clubpool_a44c1e9c:
 translate french clubpool_1e6150db:
 
     # M "{i}(whispering){/i} Could you tell what just happened?"
-    M "{i}(murmure){/i} Pourrais-tu me dire ce qui vient de se passer?"
+    M "{i}(murmure){/i} Pourriez-vous me dire ce qui vient de se passer?"
 
 # game/UpdateScript0.03.rpy:3274
 translate french clubpool_27c76aa1:
@@ -7956,7 +7956,7 @@ translate french clubpool_5e90e9ae:
 translate french clubpool_fe66232a:
 
     # MT "{i}I can't believe I was groping her tight little pussy and ass like that.{/i}"
-    MT "{i}Je n'arrive pas à croire que je tâtonnais sa petite chatte et son cul serrés comme ça.{/i}"
+    MT "{i}Je n'arrive pas à croire que je tâtais sa petite chatte et son cul serrés comme ça.{/i}"
 
 # game/UpdateScript0.03.rpy:3285
 translate french clubpool_0d2cfb50:
@@ -14166,86 +14166,70 @@ translate french strings:
 
     # game/UpdateScript0.03.rpy:11
     old "Kenzie's Thoughts"
-    new ""
-#--- ""
+    new "Les pensées de Kenzie"
 
     # game/UpdateScript0.03.rpy:12
     old "Waitress"
-    new ""
-#--- ""
+    new "Serveuse"
 
     # game/UpdateScript0.03.rpy:13
     old "Everybody Else"
-    new ""
-#--- ""
+    new "Tout les autres"
 
     # game/UpdateScript0.03.rpy:14
     old "Matt's Thoughts"
-    new ""
-#--- ""
+    new "Les pensées de Matt"
 
     # game/UpdateScript0.03.rpy:15
     old "Agent Diaz"
-    new ""
-#--- ""
+    new "Agent Diaz"
 
     # game/UpdateScript0.03.rpy:16
     old "Agent Diaz's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de l'Agent Diaz"
 
     # game/UpdateScript0.03.rpy:790
     old "Of course I'll protect Lauren!"
-    new ""
-#--- ""
+    new "Bien sûr que je protégerai Lauren!"
 
     # game/UpdateScript0.03.rpy:790
     old "Shit!.... I don't have the money to protect her this week!"
-    new ""
-#--- ""
+    new "Merde!.... Je n'ai pas l'argent pour la protéger cette semaine !"
 
     # game/UpdateScript0.03.rpy:790
     old "I need that money elsewhere.... Lauren's ass will have to pay the bill this week."
-    new ""
-#--- ""
+    new "J'ai besoin de cet argent pour autre chose.... Le cul de Lauren devra payer la facture cette semaine."
 
     # game/UpdateScript0.03.rpy:897
     old "Just Leave her alone."
-    new ""
-#--- ""
+    new "La laisser tranquille."
 
     # game/UpdateScript0.03.rpy:1071
     old "Commission a new cosplay outfit."
-    new ""
-#--- ""
+    new "Commander une nouvelle tenue de cosplay."
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Demander d'enlever sa jupe. {i}(soumission +5 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Demander de montrer son string en peau de daim par derrière. {i}(soumission +7 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
-#--- ""
+    new "Demander d'enlever son soutien-gorge en peau de daim. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her to show her titties. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Demander de montrer ses nichons. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Demander d'enlever son string en peau de daim. {i}(soumission +19){/i}"
 
     # game/UpdateScript0.03.rpy:3816
     old "Ask her for explicit close-ups. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "Demander des gros plans explicites. {i}(soumission +25) {/i}"
+#--- "Ignore this. translate only: One"
 

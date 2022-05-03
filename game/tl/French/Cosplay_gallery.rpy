@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:33\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -114,51 +114,42 @@ translate french strings:
 
     # game/Cosplay_gallery.rpy:562
     old "{color=#ffffff}{b}Supporters{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ffffff}{b}Supporters{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:566
     old "{color=#ffffff}{b}Advertising{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ffffff}Publicité{b}{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:570
     old "{color=#ffffff}{b}Images\nVideos{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ffffff}{b}Images\nVidéos{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:575
     old "{color=#ffffff}{b}Outfits{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ffffff}{b}Tenues{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:581
     old "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:582
     old "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ffffff}{b}Appuyez sur pour changer \n j'aime l'argent{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:709
     old "{color=#000000}{b}Sell{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#000000}{b}Vente{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:710
     old "{color=#000000}{b}outfits{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#000000}{b}tenues{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:1077
     old "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
-    new ""
-#--- ""
+    new "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:1084
     old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-    new ""
-#--- ""
+    new " {b}{color=#ffffff}Cliquez{size=18} gains mensuels:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+#--- "Ignore this. translate only: One"
 

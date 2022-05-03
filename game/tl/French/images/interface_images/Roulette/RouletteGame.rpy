@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-27 09:21\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -271,20 +271,17 @@ translate french strings:
     # game/images/interface_images/Roulette/RouletteGame.rpy:235
     old "Croupier"
     new "Croupier"
-#--- ""
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:322
     old "Do you want to play the Roulette?"
     new "Voulez-vous jouer à la roulette?"
-#--- ""
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:340
     old "What type of game do you want to play?"
     new "À quel type de jeu voulez-vous jouer ?"
-#--- ""
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:521
     old "Game type: [betType]\nYou bet on: [playerPiked]"
     new "Type de jeu : [betType]\nVous avez misé sur: [playerPiked]"
-#--- ""
+#--- "Ignore this. translate only: One"
 

@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:36\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -714,7 +714,7 @@ translate french event_info_43_84f4ff15:
 translate french event_info_43_91105538:
 
     # RT "{i}If I don't help Lauren do well on her weekly poll numbers, I might not like the consequences.{/i}"
-    RT "{i}Si je n'aide pas Lauren à bien faire son enquête hebdomadaire, je pourrais ne pas aimer les conséquences. {/i}"
+    RT "{i}Si je n'aide pas Lauren à bien faire avec son sondage hebdomadaire, je pourrais ne pas aimer les conséquences.{/i}"
 
 # game/Phone_event_screen.rpy:1270
 translate french event_info_44_29774d59:
@@ -1854,26 +1854,22 @@ translate french strings:
 
     # game/Phone_event_screen.rpy:25
     old "[event_num]:"
-    new ""
-#--- ""
+    new "[event_num]:"
 
     # game/Phone_event_screen.rpy:40
     old "???"
-    new ""
-#--- ""
+    new "???"
 
     # game/Phone_event_screen.rpy:802
     old "Press the \"{color=#E60000}???{/color}\" to see \n             hints!"
-    new ""
-#--- ""
+    new "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n             indices!"
 
     # game/Phone_event_screen.rpy:805
     old "Watch the tutorial again!"
-    new ""
-#--- ""
+    new "Regardez le tutoriel à nouveau!"
 
     # game/Phone_event_screen.rpy:811
     old "{color=#E60000}-------------------------------------{/color}"
-    new ""
-#--- ""
+    new "{color=#E60000}-------------------------------------{/color}"
+#--- "Ignore this. translate only: One"
 

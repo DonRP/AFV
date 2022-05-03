@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:35\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -342,7 +342,7 @@ translate french buying_label_ee2b767d_6:
 translate french buying_label_6c37a294:
 
     # RT "{i}This camera makes me drool!{/i}"
-    RT "{i}Cet appareil photo me fait baver ! {/i}"
+    RT "{i}Cet appareil photo me fait baver! {/i}"
 
 # game/Shopping_gallery.rpy:446
 translate french buying_label_b4ac69d5_7:
@@ -918,81 +918,66 @@ translate french strings:
 
     # game/Shopping_gallery.rpy:323
     old "Buy chocolate"
-    new ""
-#--- ""
+    new "Acheter du chocolat"
 
     # game/Shopping_gallery.rpy:323
     old "Don't buy"
-    new ""
-#--- ""
+    new "Ne pas acheter"
 
     # game/Shopping_gallery.rpy:341
     old "Buy giftcard"
-    new ""
-#--- ""
+    new "Acheter une carte cadeau"
 
     # game/Shopping_gallery.rpy:358
     old "Buy Flowers"
-    new ""
-#--- ""
+    new "Acheter des Fleurs"
 
     # game/Shopping_gallery.rpy:374
     old "Buy melatonin."
-    new ""
-#--- ""
+    new "Acheter de la mélatonine."
 
     # game/Shopping_gallery.rpy:400
     old "Buy spycam."
-    new ""
-#--- ""
+    new "Acheter une caméra espion."
 
     # game/Shopping_gallery.rpy:417
     old "Buy green screen."
-    new ""
-#--- ""
+    new "Acheter un fond vert."
 
     # game/Shopping_gallery.rpy:435
     old "Buy pro lights."
-    new ""
-#--- ""
+    new "Acheter des projecteurs pro."
 
     # game/Shopping_gallery.rpy:453
     old "Buy DSLR camera."
-    new ""
-#--- ""
+    new "Achetez un appareil photo reflex numérique."
 
     # game/Shopping_gallery.rpy:470
     old "Buy camera accessory."
-    new ""
-#--- ""
+    new "Acheter un accessoire de l'appareil photo."
 
     # game/Shopping_gallery.rpy:589
     old "Buy camera accessory"
-    new ""
-#--- ""
+    new "Acheter un accessoire de l'appareil photo"
 
     # game/Shopping_gallery.rpy:607
     old "Buy bikini"
-    new ""
-#--- ""
+    new "Acheter un bikini"
 
     # game/Shopping_gallery.rpy:628
     old "Buy ball gag."
-    new ""
-#--- ""
+    new "Acheter ball gag."
 
     # game/Shopping_gallery.rpy:651
     old "Buy Perry Hotter Book 1."
-    new ""
-#--- ""
+    new "Acheter Perry Hotter Livre 1."
 
     # game/Shopping_gallery.rpy:674
     old "Buy Perry Hotter Book 2."
-    new ""
-#--- ""
+    new "Achetez Perry Hotter livre 2."
 
     # game/Shopping_gallery.rpy:697
     old "Buy Perry Hotter Book 3."
-    new ""
-#--- ""
+    new "Achetez Perry Hotter livre 3."
+#--- "Ignore this. translate only: One"
 

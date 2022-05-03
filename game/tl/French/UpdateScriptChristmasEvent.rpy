@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:35\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -114,7 +114,7 @@ translate french xmas_dream_4231b67a:
 translate french xmas_dream_e3b1781d:
 
     # RT "{i}Huh.... what?....{/i}"
-    RT "{i}Huh.... quoi ?....{/i}"
+    RT "{i}Hein.... Quoi?....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:297
 translate french xmas_dream_cfc9079c:
@@ -198,7 +198,7 @@ translate french xmas_dream_25013382:
 translate french xmas_dream_a870c1e2:
 
     # R "Though I'm still about 90 percent sure that this is just a dream."
-    R "Bien que je sois toujours sûr à 90% que ce n'est qu'un rêve."
+    R "Bien que je sois toujours sûr à 90%% que ce n'est qu'un rêve."
 
 # game/UpdateScriptChristmasEvent.rpy:311
 translate french xmas_dream_9254ac2e:
@@ -2100,7 +2100,7 @@ translate french tutorial_3f364fff:
 translate french tutorial_a1128353:
 
     # WT "Back to you, [ryan]."
-    WT "Reviens à toi, [ryan]."
+    WT "Revenons à toi, [ryan]."
 
 # game/UpdateScriptChristmasEvent.rpy:830
 translate french tutorial_23e6109b:
@@ -2130,7 +2130,7 @@ translate french tutorial_7be5f7b4:
 translate french tutorial_308a5fdb:
 
     # WT "This is a typical in-game screen. As [ryan] mentioned, you will acquire many items in the game."
-    WT "Il s'agit d'un écran typique du jeu. Comme [ryan] l'a mentionné, tu acquérais de nombreux objets dans le jeu."
+    WT "Il s'agit d'un écran typique du jeu. Comme [ryan] l'a mentionné, vous acquérez de nombreux objets dans le jeu."
 
 # game/UpdateScriptChristmasEvent.rpy:841
 translate french tutorial_c3f79235:
@@ -2172,7 +2172,7 @@ translate french tutorial_25fc2c00:
 translate french tutorial_75aeed33:
 
     # WT "while this symbol shows you the time of day."
-    WT "alors que ce symbole t'indique l'heure de la journée."
+    WT "alors que ce symbole vous indique l'heure de la journée."
 
 # game/UpdateScriptChristmasEvent.rpy:862
 translate french tutorial_2c6857c0:
@@ -2208,13 +2208,13 @@ translate french tutorial_c69197d0:
 translate french tutorial_f5ab5820:
 
     # WT "On the game screen, you can get around to many locations by using the travel buttons."
-    WT "Sur l'écran de jeu, Tu peux te déplacer à de nombreux endroits en utilisant les boutons voyage."
+    WT "Sur l'écran de jeu, vous pouvez vous déplacer à de nombreux endroits en utilisant les boutons voyage."
 
 # game/UpdateScriptChristmasEvent.rpy:878
 translate french tutorial_4f84e77b:
 
     # WT "This button right here, will open up a map of the house, where you can pick any room you would like to go to."
-    WT "Ce bouton ici, ouvrira une carte de la maison, où tu pourras choisir n'importe quelle pièce dans laquelle tu souhaites aller."
+    WT "Ce bouton ici, ouvrira une carte de la maison, où vous pourrez choisir n'importe quelle pièce dans laquelle vous souhaitez aller."
 
 # game/UpdateScriptChristmasEvent.rpy:881
 translate french tutorial_1e2916f7:
@@ -2238,7 +2238,7 @@ translate french tutorial_82d216eb:
 translate french tutorial_60f71c6f:
 
     # WT "So, have fun exploring!"
-    WT "Alors, amuses-toi à explorer!"
+    WT "Alors, amusez-vous à explorer!"
 
 # game/UpdateScriptChristmasEvent.rpy:890
 translate french tutorial_c83ea849:
@@ -2346,13 +2346,13 @@ translate french tutorial_6141dd6f:
 translate french tutorial_4329ffca:
 
     # WT "So, it's pretty important that you keep track of those stats."
-    WT "Donc, il est assez important que tu gardais une trace de ces statistiques."
+    WT "Donc, il est assez important que vous gardiez une trace de ces statistiques."
 
 # game/UpdateScriptChristmasEvent.rpy:918
 translate french tutorial_12be52d2:
 
     # WT "You can access a girl's stats,"
-    WT "Tu peux accéder aux statistiques d'une fille,"
+    WT "Vous pouvez accéder aux statistiques d'une fille,"
 
 # game/UpdateScriptChristmasEvent.rpy:921
 translate french tutorial_9491e3d1:
@@ -2388,13 +2388,13 @@ translate french tutorial_c3bbac67:
 translate french tutorial_0b232737:
 
     # WT "The angry emoji stands for a girl's anger towards you. It's hard to get them to do anything for you when they are mad."
-    WT "L'emoji en colère représente la colère d'une fille envers toi. Il est difficile de les amener à faire quoi que ce soit pour toi quand elles sont énervées."
+    WT "L'emoji en colère représente la colère d'une fille envers vous. Il est difficile de les amener à faire quoi que ce soit pour vous quand elles sont énervées."
 
 # game/UpdateScriptChristmasEvent.rpy:939
 translate french tutorial_b93cb628:
 
     # WT "This whip icon, represents a girl's submission to you."
-    WT "Cette icône de fouet représente la soumission d'une fille envers toi."
+    WT "Cette icône de fouet représente la soumission d'une fille envers vous."
 
 # game/UpdateScriptChristmasEvent.rpy:942
 translate french tutorial_f8468e18:
@@ -2412,7 +2412,7 @@ translate french tutorial_d4d20a80:
 translate french tutorial_d933deaa:
 
     # WT "Another handy way to track a girl's stats is through your phone."
-    WT "Un autre moyen pratique de suivre les statistiques d'une fille est via ton téléphone."
+    WT "Un autre moyen pratique de suivre les statistiques d'une fille est via votre téléphone."
 
 # game/UpdateScriptChristmasEvent.rpy:949
 translate french tutorial_bb9483d0:
@@ -2424,7 +2424,7 @@ translate french tutorial_bb9483d0:
 translate french tutorial_b2eba79a:
 
     # WT "Once your phone is pulled up, you can track a girl's stats,"
-    WT "Une fois que ton téléphone est tiré, tu peux suivre les statistiques d'une fille,"
+    WT "Une fois que votre téléphone est actif, vous pouvez suivre les statistiques d'une fille,"
 
 # game/UpdateScriptChristmasEvent.rpy:955
 translate french tutorial_d3037095:
@@ -2478,7 +2478,7 @@ translate french tutorial_caf2f581:
 translate french tutorial_ce5b1c76:
 
     # WT "This button lets you see any pictures of girls that you may take throughout the course of the game."
-    WT "Ce bouton vous permet de voir toutes les photos de filles que vous pouvez prendre tout au long du jeu."
+    WT "Ce bouton vous permet de voir toutes les photos de filles que vous pouvez photografier tout au long du jeu."
 
 # game/UpdateScriptChristmasEvent.rpy:980
 translate french tutorial_631f34ab:
@@ -2490,19 +2490,19 @@ translate french tutorial_631f34ab:
 translate french tutorial_bc435dec:
 
     # WT "So, that's all the tips we have for you. Everything else you will have to figure out on your own, or I guess you could always find the walkthrough, or ask for help online."
-    WT "Voilà donc tous les conseils que nous avons pour toi. Tout le reste, tu devras le découvrir toi-même, ou je suppose que tu peux toujours trouver la procédure pas à pas, ou demander de l'aide en ligne."
+    WT "Voilà donc tous les conseils que nous avons pour vous. Tout le reste, vous devrez le découvrir vous-même, ou je suppose que vous pouvez toujours trouver la procédure pas à pas, ou demander de l'aide en ligne."
 
 # game/UpdateScriptChristmasEvent.rpy:984
 translate french tutorial_d431e493:
 
     # WT "However you decide to play, we hope you enjoy the game!"
-    WT "Quelle que soit la façon dont tu décides de jouer, nous espérons que tu apprécieras le jeu!"
+    WT "Quelle que soit la façon dont vous décidez de jouer, nous espérons que vous apprécierez le jeu!"
 
 # game/UpdateScriptChristmasEvent.rpy:987
 translate french tutorial_bd43ab24:
 
     # WT "Go ahead and take it from here, [ryan]!"
-    WT "Allez-y et reprenez-le d'ici, [ryan]!"
+    WT "Allez-y et reprenez ici le speech de [ryan]!"
 
 # game/UpdateScriptChristmasEvent.rpy:990
 translate french tutorial_d6f0f5d3:
@@ -3774,7 +3774,7 @@ translate french cookies_in_oven_59ebf449:
 translate french cookies_in_oven_cfd6e0e1:
 
     # L "You refused to pay for the treatment, so we did it the cheap and dirty way."
-    L "Tu as refusé de payer le traitement, alors nous l'avons fait de manière sale et bon marché."
+    L "Vous avez refusé de payer le traitement, alors nous l'avons fait de manière sale et bon marché."
 
 # game/UpdateScriptChristmasEvent.rpy:1417
 translate french cookies_in_oven_f2cc61bb:
@@ -3804,13 +3804,13 @@ translate french cookies_in_oven_27439301:
 translate french cookies_in_oven_1fd9872f:
 
     # L "Well, we didn't ask you."
-    L "Eh bien, nous ne te l'avons pas demandé."
+    L "Eh bien, nous ne vous l'avons pas demandé."
 
 # game/UpdateScriptChristmasEvent.rpy:1422
 translate french cookies_in_oven_3ee0ff4b:
 
     # L "So, when her older brother couldn't knock me up, we let her younger brother give it a try."
-    L "Alors, quand son frère aîné n'a pas pu me sauter, nous avons laissé son frère cadet essayer."
+    L "Alors, quand son frère aîné n'a pas pu me frapper, nous avons laissé son frère cadet essayer."
 
 # game/UpdateScriptChristmasEvent.rpy:1423
 translate french cookies_in_oven_c5c6418a:
@@ -3822,7 +3822,7 @@ translate french cookies_in_oven_c5c6418a:
 translate french cookies_in_oven_5e1b91fd:
 
     # L "So, Diaz's father volunteered to knock me up."
-    L "Donc, le père de Diaz s'est porté volontaire pour me baiser."
+    L "Donc, le père de Diaz s'est porté volontaire pour me frapper."
 
 # game/UpdateScriptChristmasEvent.rpy:1427
 translate french cookies_in_oven_d34288cf:
@@ -3840,13 +3840,13 @@ translate french cookies_in_oven_f603c571:
 translate french cookies_in_oven_9cb5c0ca:
 
     # L "And so I wouldn't feel too awkward, Agent Diaz would join us sometimes."
-    L "Et pour que je ne me sente pas trop gênée, l'agent Diaz nous rejoignait parfois."
+    L "Et pour que je ne me sente pas trop gêné, l'agent Diaz nous rejoignait parfois."
 
 # game/UpdateScriptChristmasEvent.rpy:1430
 translate french cookies_in_oven_e0fd3193:
 
     # R "Holy shit!"
-    R "Putain de merde!"
+    R "Quoi?"
 
 # game/UpdateScriptChristmasEvent.rpy:1433
 translate french cookies_in_oven_dfb9def3:
@@ -3858,7 +3858,7 @@ translate french cookies_in_oven_dfb9def3:
 translate french cookies_in_oven_4f4abfd5:
 
     # R "Yeah, just skip to the part where you got pregnant."
-    R "Oui, il suffit de passer à la partie où tu es tombé enceinte."
+    R "Oui, passez simplement à la partie où vous êtes tombée enceinte."
 
 # game/UpdateScriptChristmasEvent.rpy:1435
 translate french cookies_in_oven_65b3db75:
@@ -3876,19 +3876,19 @@ translate french cookies_in_oven_856f2d49:
 translate french cookies_in_oven_fee8246c:
 
     # R "And you don't even know which one of them got you pregnant?"
-    R "Et tu ne sais même pas lequel d'entre eux t'a fait tomber enceinte?"
+    R "Et vous ne savez même pas lequel d'entre eux vous a fait tomber enceinte?"
 
 # game/UpdateScriptChristmasEvent.rpy:1438
 translate french cookies_in_oven_cb6f8ada:
 
     # L "It doesn't matter. It's Agent Diaz's and my baby not theirs."
-    L "Peu importe. C'est à l'agent Diaz et c'est mon bébé pas le leurs."
+    L "Peu importe. C'est à l'agent Diaz et mon bébé pas à eux."
 
 # game/UpdateScriptChristmasEvent.rpy:1439
 translate french cookies_in_oven_b6dfb8b4:
 
     # R "You guys are married, and you still call her Agent Diaz?"
-    R "Tu es marié, et tu l'appelles toujours agent Diaz?"
+    R "Vous êtes mariés, et vous appelez toujours son agent Diaz?"
 
 # game/UpdateScriptChristmasEvent.rpy:1440
 translate french cookies_in_oven_641159f3:
@@ -3906,7 +3906,7 @@ translate french cookies_in_oven_d4a66d19:
 translate french cookies_in_oven_60e17e3a:
 
     # L "I've already told you several times. If you can't remember, you're on your own."
-    L "Je te l'ai déjà dit plusieurs fois. Si tu ne t'en souviens pas, tu es le seul."
+    L "Je vous l'ai déjà dit plusieurs fois. Si tu ne t'en souviens pas, tu es seul."
 
 # game/UpdateScriptChristmasEvent.rpy:1445
 translate french cookies_in_oven_4e48cd6f:
@@ -3918,7 +3918,7 @@ translate french cookies_in_oven_4e48cd6f:
 translate french cookies_in_oven_60e49b42:
 
     # L "well then state it for the record yourself."
-    L "eh bien, indiques-le toi-même pour l'enregistrement."
+    L "eh bien, indiquez-le vous-même pour l'enregistrement."
 
 # game/UpdateScriptChristmasEvent.rpy:1447
 translate french cookies_in_oven_240f04cc:
@@ -3930,7 +3930,7 @@ translate french cookies_in_oven_240f04cc:
 translate french cookies_in_oven_3374bc65:
 
     # R "Are you screwing anybody else?"
-    R "Es-tu en train de baiser quelqu'un d'autre?"
+    R "Êtes-vous en train de baiser quelqu'un d'autre?"
 
 # game/UpdateScriptChristmasEvent.rpy:1449
 translate french cookies_in_oven_2af71d35:
@@ -3954,7 +3954,7 @@ translate french cookies_in_oven_29dcfe45:
 translate french cookies_in_oven_b05d712c:
 
     # L "Yeah it does. It makes perfect sense. I'll just have Agent Diaz explain it to you, the same way she explained it to me. You'll see."
-    L "Oui, c'est le cas. C'est parfaitement logique. Je demanderai à l'agent Diaz de te l'expliquer, comme elle me l'a expliqué. Tu verras."
+    L "Oui, c'est le cas. C'est parfaitement logique. Je demanderai à l'agent Diaz de vous l'expliquer, comme elle me l'a expliqué. Tu verras."
 
 # game/UpdateScriptChristmasEvent.rpy:1453
 translate french cookies_in_oven_013d2019:
@@ -4002,7 +4002,7 @@ translate french cookies_in_oven_4206f7d5:
 translate french cookies_in_oven_f8948aa8:
 
     # L "And I know you enjoy it when Diaz joins in."
-    L "Et je sais que tu aimes quand Diaz se joint à nous."
+    L "Et je sais que vous aimez quand Diaz se joint à nous."
 
 # game/UpdateScriptChristmasEvent.rpy:1461
 translate french cookies_in_oven_efc70f52:
@@ -4020,19 +4020,19 @@ translate french cookies_in_oven_6b85a50a:
 translate french cookies_in_oven_3d63ffd6:
 
     # L "She told me to tell you that if you ever fuck her ass that hard again, she's going to have an FBI drug dog bite your cock off."
-    L "Elle m'a dit de te dire que si jamais tu la baises à nouveau aussi fort, elle va avoir un chien de drogue du FBI qui te mordra la bite."
+    L "Elle m'a dit de vous dire que si jamais vous lui baisez à nouveau aussi fort, elle va avoir un chien de drogue du FBI qui vous mordra la bite."
 
 # game/UpdateScriptChristmasEvent.rpy:1466
 translate french cookies_in_oven_ff8a5a20:
 
     # GF "Well, at least you have that perk."
-    GF "Eh bien, au moins tu as cet avantage."
+    GF "Eh bien, au moins vous avez cet avantage."
 
 # game/UpdateScriptChristmasEvent.rpy:1467
 translate french cookies_in_oven_6837d0d1:
 
     # R "But if.... we're intimate.... how can you be sure the baby's not mine?"
-    R "Mais si.... on est intimes.... comment peux-tu être sûr que le bébé n'est pas de moi?"
+    R "Mais si.... on est intimes.... comment pouvez-vous être sûr que le bébé n'est pas à moi?"
 
 # game/UpdateScriptChristmasEvent.rpy:1468
 translate french cookies_in_oven_7365351c:
@@ -4044,19 +4044,19 @@ translate french cookies_in_oven_7365351c:
 translate french cookies_in_oven_e4b301f5:
 
     # L "So, unless you were poking holes in the condom."
-    L "Donc, à moins que tu ne percais des trous dans le préservatif."
+    L "Donc, à moins que vous ne perciez des trous dans le préservatif."
 
 # game/UpdateScriptChristmasEvent.rpy:1470
 translate french cookies_in_oven_54df3aab:
 
     # L "And I warn you that you better not have!"
-    L "Et je te préviens que tu ferais mieux de ne pas l'avoir fait!"
+    L "Et je vous préviens que vous feriez mieux de ne pas l'avoir!"
 
 # game/UpdateScriptChristmasEvent.rpy:1471
 translate french cookies_in_oven_7f0786d3:
 
     # L "If Agent Diaz suspects that child isn't half hers, she'll do a DNA test, and if you're the father, she'll deport both of you to Cuba."
-    L "Si l'Agent Diaz soupçonne que l'enfant n'est pas à moitié le sien, elle fera un test ADN, et si tu es le père, elle vous expulsera tous les deux à Cuba."
+    L "Si l'Agent Diaz soupçonne que l'enfant n'est pas à moitié le sien, elle fera un test ADN, et si vous êtes le père, elle vous expulsera tous les deux à Cuba."
 
 # game/UpdateScriptChristmasEvent.rpy:1472
 translate french cookies_in_oven_7e368287:
@@ -4140,7 +4140,7 @@ translate french cookies_in_oven_65847b74:
 translate french cookies_in_oven_cd47a34d:
 
     # GF "Haha.... that was pretty smooth."
-    GF "Haha.... c'était plutôt fluide."
+    GF "Haha.... c'était plutôt lisse."
 
 # game/UpdateScriptChristmasEvent.rpy:1496
 translate french cookies_in_oven_8f1622e6:
@@ -4152,7 +4152,7 @@ translate french cookies_in_oven_8f1622e6:
 translate french cookies_in_oven_dc96db1f:
 
     # R "And are you ok with getting pregnant from your brother?"
-    R "Et es-tu d'accord pour tomber enceinte de ton frère?"
+    R "Et êtes-vous d'accord pour tomber enceinte de votre frère?"
 
 # game/UpdateScriptChristmasEvent.rpy:1498
 translate french cookies_in_oven_f4dba509:
@@ -4188,7 +4188,7 @@ translate french cookies_in_oven_d022717e_1:
 translate french cookies_in_oven_0406b030:
 
     # R "Here.... I'm recording you on my phone. Now will you please state for the record, the story of your pregnancy."
-    R "Ici.... Je t'enregistre sur mon téléphone. Maintenant, vas-tu indiquer pour le compte rendu, l'histoire de ta grossesse."
+    R "Ici.... Je t'enregistre sur mon téléphone. Maintenant, allez-vous indiquer pour le compte rendu, l'histoire de votre grossesse."
 
 # game/UpdateScriptChristmasEvent.rpy:1504
 translate french cookies_in_oven_e560be0c:
@@ -4206,31 +4206,31 @@ translate french cookies_in_oven_5b560295:
 translate french cookies_in_oven_b7a8afd5:
 
     # L "Even though at any point, you could have done the easy thing, and left us to care for ourselves."
-    L "Même si à tout moment, tu aurais pu faire la chose facile et nous laisser prendre soin de nous-mêmes."
+    L "Même si à tout moment, vous auriez pu faire la chose facile et nous laisser prendre soin de nous-mêmes."
 
 # game/UpdateScriptChristmasEvent.rpy:1509
 translate french cookies_in_oven_011cdeeb:
 
     # L "But I think the moment I was head over heels for you, was when you finally were able to get Agent Diaz off our backs, or I guess out of my pants in my case."
-    L "Mais je pense que le moment où j'ai été éperdue pour toi, c'est quand tu as finalement pu retirer l'Agent Diaz de notre dos, ou je suppose que de mon pantalon dans mon cas."
+    L "Mais je pense que le moment où j'ai été éperdue pour vous, c'est quand vous avez finalement pu retirer l'Agent Diaz de notre dos, ou je suppose que de mon pantalon dans mon cas."
 
 # game/UpdateScriptChristmasEvent.rpy:1510
 translate french cookies_in_oven_75ccf71c:
 
     # R "Ooohhh, that sounds like a good story!.... Why don't you tell me about that!.... For the record."
-    R "Ooohhh, cela ressemble à une bonne histoire!.... Parles-moi de ça !.... Pour mémoire."
+    R "Ooohhh, cela ressemble à une bonne histoire!.... Parlez-moi de ça !.... Pour mémoire."
 
 # game/UpdateScriptChristmasEvent.rpy:1511
 translate french cookies_in_oven_9100225b:
 
     # L "You already know the story!.... And I'm pretty sure we don't want that on any kind of record."
-    L "Tu connais déjà l'histoire !.... Et je suis presque sûr qu'on ne veut pas ça sur un disque."
+    L "Vous connaissez déjà l'histoire !.... Et je suis presque sûr qu'on ne veut pas ça sur un disque."
 
 # game/UpdateScriptChristmasEvent.rpy:1512
 translate french cookies_in_oven_b53866e6:
 
     # L "You know.... Incriminating evidence and that sort of thing."
-    L "Tu sais.... Des preuves incriminantes et ce genre de choses."
+    L "Vous savez.... Des preuves incriminantes et ce genre de choses."
 
 # game/UpdateScriptChristmasEvent.rpy:1513
 translate french cookies_in_oven_ca83ee53:
@@ -4248,7 +4248,7 @@ translate french cookies_in_oven_3b7568b2:
 translate french cookies_in_oven_223c0f55:
 
     # GF "Well, it looks like you were able to figure it out on your own, so when you go back to the present, just keep an eye out for that opportunity."
-    GF "Eh bien, il semble que tu aies pu le comprendre par toi-même, alors quand tu reviens au présent, gardes juste un œil sur cette opportunité."
+    GF "Eh bien, il semble que vous ayez pu le comprendre par vous-même, alors quand vous revenez au présent, gardez juste un œil sur cette opportunité."
 
 # game/UpdateScriptChristmasEvent.rpy:1516
 translate french cookies_in_oven_dcf373f8:
@@ -4272,7 +4272,7 @@ translate french cookies_in_oven_fb009ddb:
 translate french cookies_in_oven_74ebcc85:
 
     # R "So, did you get pregnant on purpose?"
-    R "Alors, es-tu tombée enceinte exprès?"
+    R "Alors, êtes-vous tombée enceinte exprès?"
 
 # game/UpdateScriptChristmasEvent.rpy:1522
 translate french cookies_in_oven_beaf5b8d:
@@ -4284,19 +4284,19 @@ translate french cookies_in_oven_beaf5b8d:
 translate french cookies_in_oven_a7bbc898:
 
     # L "When it happened though, It just made me happy!"
-    L "Quand c'est arrivé, Ça m'a juste rendu heureuse!"
+    L "Quand c'est arrivé, Ça m'a juste rendu heureux!"
 
 # game/UpdateScriptChristmasEvent.rpy:1526
 translate french cookies_in_oven_ca1412d8:
 
     # L "And I'm so glad that you're ok with being a daddy!"
-    L "Et je suis tellement contente que tu sois d'accord pour être papa!"
+    L "Et je suis tellement content que tu sois d'accord pour être papa!"
 
 # game/UpdateScriptChristmasEvent.rpy:1528
 translate french cookies_in_oven_0994739e:
 
     # R "How do you feel about the fact that I got Mom pregnant too?"
-    R "Que penses-tu du fait que je sois aussi père de l'enfant de maman?"
+    R "Que pensez-vous du fait que je sois aussi enceinte de maman?"
 
 # game/UpdateScriptChristmasEvent.rpy:1531
 translate french cookies_in_oven_e1b24fd1:
@@ -4308,13 +4308,13 @@ translate french cookies_in_oven_e1b24fd1:
 translate french cookies_in_oven_67d01cdb:
 
     # L "Kind of happy even."
-    L "Un peu heureuse même."
+    L "Un peu heureux même."
 
 # game/UpdateScriptChristmasEvent.rpy:1536
 translate french cookies_in_oven_4fbdea30:
 
     # R "Hypothetically, would it bother you if I shared my affection with another?"
-    R "Hypothétiquement, cela te dérangerait-il si je partageais mon affection avec une autre?"
+    R "Hypothétiquement, cela vous dérangerait-il si je partageais mon affection avec un autre?"
 
 # game/UpdateScriptChristmasEvent.rpy:1539
 translate french cookies_in_oven_807a277c:
@@ -4332,19 +4332,19 @@ translate french cookies_in_oven_8c1ce33e:
 translate french cookies_in_oven_e2f582db:
 
     # L "You work so hard for all of us, and it's only natural that we all have those kinds of feelings towards you."
-    L "Tu travailles si dur pour nous tous, et il est naturel que nous ayons tous ce genre de sentiments envers toi."
+    L "Vous travaillez si dur pour nous tous, et il est naturel que nous ayons tous ce genre de sentiments envers vous."
 
 # game/UpdateScriptChristmasEvent.rpy:1542
 translate french cookies_in_oven_4e62b7ad:
 
     # L "And you deserve to receive all of our thanks for your dedication to us."
-    L "Et tu mérites de recevoir tous nos remerciements pour ton dévouement envers nous."
+    L "Et vous méritez de recevoir tous nos remerciements pour votre dévouement envers nous."
 
 # game/UpdateScriptChristmasEvent.rpy:1543
 translate french cookies_in_oven_91f8489d:
 
     # GF "You sir, are the Ernest Hemingway of bullshit and manipulation. My Santa hat is off to you!"
-    GF "Monsieur, tu es l'Ernest Hemingway des conneries et de la manipulation. Mon chapeau de Père Noël est à toi!"
+    GF "Monsieur, vous êtes l'Ernest Hemingway des conneries et de la manipulation. Mon chapeau de Père Noël est à vous!"
 
 # game/UpdateScriptChristmasEvent.rpy:1544
 translate french cookies_in_oven_10017616_1:
@@ -4392,7 +4392,7 @@ translate french cookies_in_oven_2b1600b8:
 translate french cookies_in_oven_0a589716:
 
     # GF "Yeah, and if you're not super jazzed about taking care of babies, you can always just get a vasectomy when you're back to the present."
-    GF "Oui, et si tu n'es pas très enthousiaste à l'idée de prendre soin des bébés, tu peux toujours subir une vasectomie lorsque tu reviens au présent."
+    GF "Oui, et si vous n'êtes pas très enthousiaste à l'idée de prendre soin des bébés, vous pouvez toujours subir une vasectomie lorsque vous revenez au présent."
 
 # game/UpdateScriptChristmasEvent.rpy:1556
 translate french cookies_in_oven_75586cbc:
@@ -4416,19 +4416,19 @@ translate french christmas_shoot_7e5940b2:
 translate french christmas_shoot_079d0025:
 
     # R "Ooofff.... "
-    R "Ooofff.... "
+    R "Non je ne le suis pas!"
 
 # game/UpdateScriptChristmasEvent.rpy:1579
 translate french christmas_shoot_f12a060c:
 
     # GCP "Oh, no!.... Not again!"
-    GCP "Oh, non!.... Pas encore!"
+    M "Oh, et chéri?"
 
 # game/UpdateScriptChristmasEvent.rpy:1582
 translate french christmas_shoot_0e264417:
 
     # GCP "That's so embarrassing!"
-    GCP "C'est tellement embarrassant!"
+    D "Alors ne te laisser pas être emmerder!"
 
 # game/UpdateScriptChristmasEvent.rpy:1583
 translate french christmas_shoot_e5e42ff3:
@@ -4440,7 +4440,7 @@ translate french christmas_shoot_e5e42ff3:
 translate french christmas_shoot_a75a4ed3:
 
     # R "Are you sure the Ghost of Christmas Past didn't put you up to it?"
-    R "Es-tu sûr que le Fantôme de Noël passé ne t'a pas mis à la hauteur?"
+    R "Êtes-vous sûr que le Fantôme de Noël passé ne vous a pas mis à la hauteur?"
 
 # game/UpdateScriptChristmasEvent.rpy:1585
 translate french christmas_shoot_4a1eea03:
@@ -4458,7 +4458,7 @@ translate french christmas_shoot_a5d9cc33:
 translate french christmas_shoot_410d7744:
 
     # GCP "That's a good question. Why on earth would you make your sisters do a photo shoot on Christmas Eve?"
-    GCP "C'est une bonne question. Pourquoi diable ferais-tu faire une séance photo à tes sœurs la veille de Noël?"
+    GCP "C'est une bonne question. Pourquoi diable feriez-vous faire une séance photo à vos sœurs la veille de Noël?"
 
 # game/UpdateScriptChristmasEvent.rpy:1588
 translate french christmas_shoot_96eca841:
@@ -4482,7 +4482,7 @@ translate french christmas_shoot_326ac472:
 translate french christmas_shoot_2359c046:
 
     # R "Are you sure we're not doing this photo shoot because you gave me the idea?"
-    R "Es-tu sûr que nous ne faisons pas cette séance photo parce que tu m'en as donné l'idée?"
+    R "Êtes-vous sûr que nous ne faisons pas cette séance photo parce que vous m'en avez donné l'idée?"
 
 # game/UpdateScriptChristmasEvent.rpy:1592
 translate french christmas_shoot_8aa22782:
@@ -4500,55 +4500,55 @@ translate french christmas_shoot_74113f39:
 translate french christmas_shoot_1f7635df:
 
     # GCP "And I want you to see how much they resent you for it."
-    GCP "Et je veux que tu voies à quel point elles t'en veulent."
+    GCP "Et je veux que vous voyiez à quel point ils vous en veulent."
 
 # game/UpdateScriptChristmasEvent.rpy:1595
 translate french christmas_shoot_b50bb370:
 
     # GCP "And how much they resent you for making them show off their bodies for money."
-    GCP "Et combien elles t'en veulent de leur avoir fait montrer leur corps pour de l'argent."
+    GCP "Et combien ils vous en veulent de leur avoir fait montrer leur corps pour de l'argent."
 
 # game/UpdateScriptChristmasEvent.rpy:1596
 translate french christmas_shoot_458a8191:
 
     # R "How will you be able to show me that?"
-    R "Comment vas-tu pouvoir me montrer cela?"
+    R "Comment allez-vous pouvoir me montrer cela?"
 
 # game/UpdateScriptChristmasEvent.rpy:1597
 translate french christmas_shoot_1ccfbd26:
 
     # GCP "I'm giving you the power to read their thoughts."
-    GCP "Je te donne le pouvoir de lire leurs pensées."
+    GCP "Je vous donne le pouvoir de lire leurs pensées."
 
 # game/UpdateScriptChristmasEvent.rpy:1598
 translate french christmas_shoot_8b520856:
 
     # R "What?.... That's awesome!"
-    R "Quoi?.... C'est génial!"
+    R "Quelle heure est-il ?"
 
 # game/UpdateScriptChristmasEvent.rpy:1599
 translate french christmas_shoot_e1da6a32:
 
     # GCP "It will only work while we're here in the \"Christmas Present\". And we'll only be here a very short while."
-    GCP "Cela ne fonctionnera que pendant que nous sommes ici dans le 'Cadeau de Noël'. Et nous ne serons là que très peu de temps."
+    GCP "Cela ne fonctionnera que pendant que nous sommes ici dans le \"Cadeau de Noël\". Et nous ne serons là que très peu de temps."
 
 # game/UpdateScriptChristmasEvent.rpy:1600
 translate french christmas_shoot_93b68d81:
 
     # GCP "And you may not enjoy it as much as you think, once you hear how your sisters really feel towards you, and your slimy manipulations."
-    GCP "Et tu ne l'apprécieras peut-être pas autant que tu le penses, une fois que tu auras entendu ce que tes sœurs ressentent vraiment envers toi et tes manipulations visqueuses."
+    GCP "Et vous ne l'apprécierez peut-être pas autant que vous le pensez, une fois que vous aurez entendu ce que vos sœurs ressentent vraiment envers vous et vos manipulations visqueuses."
 
 # game/UpdateScriptChristmasEvent.rpy:1601
 translate french christmas_shoot_2e21f803:
 
     # GCP "After you hear how they feel about you, you should send them home, instead of making them do the photo shoot."
-    GCP "Après avoir entendu ce qu'elles pensent de toi, tu devrais les renvoyer chez elles, au lieu de leur faire faire la séance photo."
+    GCP "Après avoir entendu ce qu'ils pensent de vous, vous devriez les renvoyer chez eux, au lieu de leur faire faire la séance photo."
 
 # game/UpdateScriptChristmasEvent.rpy:1602
 translate french christmas_shoot_297981d0:
 
     # GCP "I think once you hear how happy that will make them, you'll have a stronger desire to treat them, and their bodies, with respect."
-    GCP "Je pense qu'une fois que tu auras entendu à quel point cela les rendra heureuse, tu auras un désir plus fort de les traiter, ainsi que leur corps, avec respect."
+    GCP "Je pense qu'une fois que vous aurez entendu à quel point cela les rendra heureux, vous aurez un désir plus fort de les traiter, ainsi que leur corps, avec respect."
 
 # game/UpdateScriptChristmasEvent.rpy:1603
 translate french christmas_shoot_2408ed15:
@@ -4560,13 +4560,13 @@ translate french christmas_shoot_2408ed15:
 translate french christmas_shoot_cbd180fc:
 
     # S "Who are you talking too?"
-    S "De qui parles-tu aussi?"
+    S "De qui parlez-vous aussi?"
 
 # game/UpdateScriptChristmasEvent.rpy:1607
 translate french christmas_shoot_25d1a7b6:
 
     # L "Were you just talking to yourself?"
-    L "Étais-tu en train de te parler?"
+    L "Étiez-vous en train de vous parler?"
 
 # game/UpdateScriptChristmasEvent.rpy:1610
 translate french christmas_shoot_be0beffe:
@@ -4608,7 +4608,7 @@ translate french christmas_shoot_7fbb3df6:
 translate french christmas_shoot_4e18b37a:
 
     # R "Uhhh.... never mind."
-    R "Uhhh.... Ça ne fait rien."
+    R "Euhhh... N’est-ce pas samedi?..."
 
 # game/UpdateScriptChristmasEvent.rpy:1617
 translate french christmas_shoot_8034e877:
@@ -4638,7 +4638,7 @@ translate french christmas_shoot_46632c48:
 translate french christmas_shoot_0f916946:
 
     # S "I should have charged you more than the $1,500 dollars you gave me."
-    S "J'aurais dû te facturer plus que les 1 500 dollars que tu m'as donnés."
+    S "J'aurais dû vous facturer plus que les 1 500 dollars que vous m'avez donnés."
 
 # game/UpdateScriptChristmasEvent.rpy:1624
 translate french christmas_shoot_940a15be:
@@ -4650,7 +4650,7 @@ translate french christmas_shoot_940a15be:
 translate french christmas_shoot_c81a9ac3:
 
     # S "$1,500! You remember!.... You made almost as big a deal of it as you are now."
-    S "1'500$ ! Tu te souviens !... Tu as fait presque une affaire aussi importante que maintenant."
+    S "$1,500! Tu te souviens !.... Tu en as fait presque autant que maintenant."
 
 # game/UpdateScriptChristmasEvent.rpy:1626
 translate french christmas_shoot_16b5bfbc:
@@ -4686,7 +4686,7 @@ translate french christmas_shoot_a1626485:
 translate french christmas_shoot_1b40e870:
 
     # S "Thanks [ryan]! It's always nice to get some appreciation."
-    S "Merci [ryan]! C'est toujours agréable d'être appréciée."
+    S "Merci [ryan]! C'est toujours agréable d'être apprécié."
 
 # game/UpdateScriptChristmasEvent.rpy:1637
 translate french christmas_shoot_826e6d9a:
@@ -4698,7 +4698,7 @@ translate french christmas_shoot_826e6d9a:
 translate french christmas_shoot_5dad9b80:
 
     # GCP "Yeah.... be careful.... If you always talk about what they are thinking, they'll get pretty weirded out."
-    GCP "Ouais.... fais attention.... Si tu parles toujours de ce qu'ils pensent, elles seront assez bizarres."
+    GCP "Ouais.... fais attention.... Si vous parlez toujours de ce qu'ils pensent, ils seront assez bizarres."
 
 # game/UpdateScriptChristmasEvent.rpy:1639
 translate french christmas_shoot_02e7c009:
@@ -4710,7 +4710,7 @@ translate french christmas_shoot_02e7c009:
 translate french christmas_shoot_3fe9446c:
 
     # L "I want to get this over with, so I can get that Hard'n'long gift card you promised me."
-    L "Je veux en finir avec ça, pour que je puisse obtenir cette carte-cadeau Hard'n'long que tu m'as promise."
+    L "Je veux en finir avec ça, pour que je puisse obtenir cette carte-cadeau Hard'n'long que vous m'avez promise."
 
 # game/UpdateScriptChristmasEvent.rpy:1641
 translate french christmas_shoot_b46d979e:
@@ -4734,13 +4734,13 @@ translate french christmas_shoot_6f7f0b30:
 translate french christmas_shoot_8203bd83:
 
     # GCP "Yep. I told ya. Now all you have to do is give them the day off, and for good measure, you could throw in those gift cards as Christmas gifts."
-    GCP "Oui. Je te l'ai dit. Maintenant, tout ce que tu as à faire est de leur donner un jour de congé, et pour faire bonne mesure, tu peux donner ces cartes-cadeaux comme cadeaux de Noël."
+    GCP "Oui. Je te l'ai dit. Maintenant, tout ce que vous avez à faire est de leur donner un jour de congé, et pour faire bonne mesure, vous pouvez jeter ces cartes-cadeaux comme cadeaux de Noël."
 
 # game/UpdateScriptChristmasEvent.rpy:1645
 translate french christmas_shoot_e63a47d5:
 
     # GCP "You'll see how much better they think of you, and that should make you want to stop exploiting them."
-    GCP "Tu verras à quel point elles pensent mieux de toi, et cela devrait te donner envie d'arrêter de les exploiter."
+    GCP "Vous verrez à quel point ils pensent mieux de vous, et cela devrait vous donner envie d'arrêter de les exploiter."
 
 # game/UpdateScriptChristmasEvent.rpy:1646
 translate french christmas_shoot_71d37fda:
@@ -4776,7 +4776,7 @@ translate french christmas_shoot_a5f6c71f:
 translate french christmas_shoot_799f9322:
 
     # R "Why don't you take the day off, and you can even have those gift cards I promised you as a gift, instead of as a wage for today's work."
-    R "Pourquoi ne prenez-vous pas un jour de congé, et vous pouvez même avoir ces cartes-cadeaux que je vous ai promises comme cadeau, au lieu de servir de salaire pour le travail d'aujourd'hui."
+    R "Pourquoi ne prenez-vous pas le jour de congé, et vous pouvez même avoir ces cartes-cadeaux que je vous ai promises comme cadeau, au lieu de servir de salaire pour le travail d'aujourd'hui."
 
 # game/UpdateScriptChristmasEvent.rpy:1657
 translate french christmas_shoot_a1fc4f51:
@@ -4812,7 +4812,7 @@ translate french christmas_shoot_f1c07e1b:
 translate french christmas_shoot_83ecc93d:
 
     # GCP "No you cannot! What a hussy! No wonder you're struggling so much with this!"
-    GCP "Non, tu ne peux pas! Quelle coquine! Pas étonnant que tu luttais tellement avec ça!"
+    GCP "Non, vous ne pouvez pas! Quelle coquine! Pas étonnant que vous luttiez tellement avec ça!"
 
 # game/UpdateScriptChristmasEvent.rpy:1668
 translate french christmas_shoot_5b16d5aa:
@@ -4824,7 +4824,7 @@ translate french christmas_shoot_5b16d5aa:
 translate french christmas_shoot_51a32b90:
 
     # R "Yeah, what the fuck?"
-    R "Ouais, putain ?"
+    R ".... oui?..."
 
 # game/UpdateScriptChristmasEvent.rpy:1670
 translate french christmas_shoot_afd55f19:
@@ -4848,7 +4848,7 @@ translate french christmas_shoot_c689c401:
 translate french christmas_shoot_34e0a31a:
 
     # GCP "No.... remember. Just like in the past, We're stuck here for a certain amount of time."
-    GCP "Non... souvenez-vous. Comme par le passé, nous sommes restés ici pendant un certain temps."
+    GCP "Non.... rappeler. Comme par le passé, Nous sommes coincés ici pendant un certain temps."
 
 # game/UpdateScriptChristmasEvent.rpy:1674
 translate french christmas_shoot_fe7aab64:
@@ -4872,7 +4872,7 @@ translate french christmas_shoot_4500ce88:
 translate french christmas_shoot_b7f18c05:
 
     # R "(breathing heavily) What are you doing here?"
-    R "(respire fortement) Que fais-tu ici?"
+    R "(respirer fortement) Que faites-vous ici?"
 
 # game/UpdateScriptChristmasEvent.rpy:1683
 translate french christmas_shoot_555f21f1:
@@ -4932,7 +4932,7 @@ translate french christmas_shoot_d4ffbcfe:
 translate french christmas_shoot_15584b21:
 
     # GCP "Get rid of her!"
-    GCP "Débarrasses-toi d'elle!"
+    GCP "Débarrassez-vous d'elle!"
 
 # game/UpdateScriptChristmasEvent.rpy:1695
 translate french christmas_shoot_bd4dc978:
@@ -4986,7 +4986,7 @@ translate french christmas_shoot_669676e0:
 translate french christmas_shoot_91e035b2:
 
     # R "Yeah, I don't think so! Here's the $500, and why don't you take your broom and fly away."
-    R "Ouais, je ne pense pas! Voici les 500$, et pourquoi ne pas prendre ton balai et t'envoler."
+    R "Ouais, je ne pense pas! Voici les 500 $, et pourquoi ne pas prendre votre balai et vous envoler."
 
 # game/UpdateScriptChristmasEvent.rpy:1708
 translate french christmas_shoot_24e0e0c3:
@@ -5004,25 +5004,25 @@ translate french christmas_shoot_60388158:
 translate french christmas_shoot_9eabab67:
 
     # S "What's going on, [ryan]?"
-    S "Que se passe-t-il, [ryan]?"
+    S "Comment ça se passe à l'école ?"
 
 # game/UpdateScriptChristmasEvent.rpy:1713
 translate french christmas_shoot_0da086dc:
 
     # S "Is she gone?"
-    S "Est-elle partie ?"
+    S "AAHHAAHHAHHHEMMMMM..."
 
 # game/UpdateScriptChristmasEvent.rpy:1714
 translate french christmas_shoot_e9a348eb:
 
     # R "Yeah.... you know, it was just some woman looking for her cat."
-    R "Ouais... vous savez, c'était juste une femme à la recherche de son chat."
+    R "Ouais.... c'était juste une femme qui cherchait son chat."
 
 # game/UpdateScriptChristmasEvent.rpy:1716
 translate french christmas_shoot_7d6c73d1:
 
     # S "You don't have to lie.... Lauren just told me what's going on."
-    S "Tu n'as pas à mentir.... Lauren vient de me dire ce qui se passe."
+    S "Vous n'avez pas à mentir.... Lauren vient de me dire ce qui se passe."
 
 # game/UpdateScriptChristmasEvent.rpy:1717
 translate french christmas_shoot_69a8a4b6:
@@ -5034,13 +5034,13 @@ translate french christmas_shoot_69a8a4b6:
 translate french christmas_shoot_267aee7f:
 
     # L "Well, not everything, but most of it."
-    L "Eh bien, pas tout, mais la plupart."
+    L "Eh bien, c'était un peu gênant!"
 
 # game/UpdateScriptChristmasEvent.rpy:1719
 translate french christmas_shoot_a3ffc063:
 
     # R "Did you tell her what happens when I don't have enough money to pay her?"
-    R "As-tu dit ce qui se passe quand je n'ai pas assez d'argent pour la payer?"
+    R "Lui avez-vous dit ce qui se passe quand je n'ai pas assez d'argent pour la payer?"
 
 # game/UpdateScriptChristmasEvent.rpy:1720
 translate french christmas_shoot_626c45d7:
@@ -5070,7 +5070,7 @@ translate french christmas_shoot_50aee4b9:
 translate french christmas_shoot_a3a1c994:
 
     # S "That disgusting old sleaze hole!"
-    S "Ce vieux trou de manche répugnant !"
+    S "Ce vieux trou dégoûtant!"
 
 # game/UpdateScriptChristmasEvent.rpy:1725
 translate french christmas_shoot_d5774408:
@@ -5082,7 +5082,7 @@ translate french christmas_shoot_d5774408:
 translate french christmas_shoot_0411c235:
 
     # GCP "Yay!"
-    GCP "Ouah!"
+    GCP "Et ?"
 
 # game/UpdateScriptChristmasEvent.rpy:1727
 translate french christmas_shoot_e0356c7b:
@@ -5100,7 +5100,7 @@ translate french christmas_shoot_44fefe39:
 translate french christmas_shoot_eb92663b:
 
     # S "I'm sorry [ryan].... I had no idea you had this added pressure on you, on top of everything else you're trying to do to keep a roof over our heads."
-    S "Je suis désolée [ryan].... Je ne savais pas que tu avais cette pression supplémentaire sur toi, en plus de tout ce que tu essaies de faire pour garder un toit au-dessus de nos têtes."
+    S "Je suis désolé [ryan].... Je ne savais pas que tu avais cette pression supplémentaire sur toi, en plus de tout ce que tu essaies de faire pour garder un toit au-dessus de nos têtes."
 
 # game/UpdateScriptChristmasEvent.rpy:1730
 translate french christmas_shoot_d87e8231:
@@ -5142,7 +5142,7 @@ translate french christmas_shoot_c495d151:
 translate french christmas_shoot_f65598f0:
 
     # S "I know it has the potential to bring in a lot of money, and I want to help you out by doing my part."
-    S "Je sais qu'elle a le potentiel de rapporter beaucoup d'argent, et je veux t'aider en faisant ma part."
+    S "Je sais qu'il a le potentiel de rapporter beaucoup d'argent, et je veux vous aider en faisant ma part."
 
 # game/UpdateScriptChristmasEvent.rpy:1737
 translate french christmas_shoot_b3ac0b52:
@@ -5190,13 +5190,13 @@ translate french christmas_shoot_68b67806:
 translate french christmas_shoot_04f0462d:
 
     # GCP "No!.... I wanted you to see the error of your ways, and stop taking sexy pictures of your sisters!"
-    GCP "Non!.... Je voulais que tu voies les erreurs de tes manières, et que tu arrêtes de prendre des photos sexy de tes sœurs!"
+    GCP "Non!.... Je voulais que vous voyiez l'erreur de vos manières, et que vous arrêtiez de prendre des photos sexy de vos sœurs!"
 
 # game/UpdateScriptChristmasEvent.rpy:1749
 translate french christmas_shoot_c79946fa:
 
     # RT "But why? They're into it now. They're fully consenting adults."
-    RT "Mais pourquoi? Elles sont dedans maintenant. Ce sont des adultes pleinement consentantes."
+    RT "Mais pourquoi? Ils sont dedans maintenant. Ce sont des adultes pleinement consentants."
 
 # game/UpdateScriptChristmasEvent.rpy:1750
 translate french christmas_shoot_5593a202:
@@ -5226,7 +5226,7 @@ translate french christmas_shoot_57b367f6:
 translate french christmas_shoot_aeef8a08:
 
     # L "So, are you ready to shoot us in sexy poses?"
-    L "Alors, es-tu prêt à nous photographier dessus dans des poses sexy?"
+    L "Alors, êtes-vous prêt à nous tirer dessus dans des poses sexy?"
 
 # game/UpdateScriptChristmasEvent.rpy:1759
 translate french christmas_shoot_a724a720:
@@ -5286,7 +5286,7 @@ translate french christmas_shoot_d146882e:
 translate french christmas_shoot_1582bafc:
 
     # R "Sounds good, but do it in a sexy way."
-    R "Ça sonne bien, mais faites-le de manière sexy."
+    R "Sonne bien, mais faites-le de manière sexy."
 
 # game/UpdateScriptChristmasEvent.rpy:1777
 translate french christmas_shoot_5600fdf4:
@@ -5346,7 +5346,7 @@ translate french christmas_shoot_7da240c4:
 translate french christmas_shoot_ae729c76:
 
     # L "Haha, yeah.... mine isn't, either."
-    L "Haha, ouais... ce n'est pas le mien."
+    L "Haha, ouais.... le mien non plus."
 
 # game/UpdateScriptChristmasEvent.rpy:1793
 translate french christmas_shoot_c2fc30e3:
@@ -5364,7 +5364,7 @@ translate french christmas_shoot_d5f16439:
 translate french christmas_shoot_8434226f:
 
     # R "Geat! Run and grab them, and then get into a good pose."
-    R "Geat! Allez et attrapez-les, puis prenez une bonne pose."
+    R "Geat! Courez et attrapez-les, puis prenez une bonne pose."
 
 # game/UpdateScriptChristmasEvent.rpy:1800
 translate french christmas_shoot_53b0adca:
@@ -5418,7 +5418,7 @@ translate french christmas_shoot_43d804d1:
 translate french christmas_shoot_b4af2796:
 
     # R "Alright.... why don't you thank each other with a passionate kiss."
-    R "D'accord.... remerciez-vous les unes les autres avec un baiser passionné."
+    R "D'accord.... remerciez-vous les uns les autres avec un baiser passionné."
 
 # game/UpdateScriptChristmasEvent.rpy:1821
 translate french christmas_shoot_feb8d233:
@@ -5478,7 +5478,7 @@ translate french christmas_shoot_719ba3e8:
 translate french christmas_shoot_82ff560c:
 
     # S "Uhhh.... this is outside a lot!"
-    S "Uhhh.... ceci est en dehors de beaucoup !"
+    S "Uhhh.... c'est beaucoup dehors!"
 
 # game/UpdateScriptChristmasEvent.rpy:1831
 translate french christmas_shoot_827334e2:
@@ -5520,7 +5520,7 @@ translate french christmas_shoot_f1b3db03:
 translate french christmas_shoot_826b8a70:
 
     # S "Just hurry up and take the picture!"
-    S "Dépêches-toi et prends la photo!"
+    S "Dépêchez-vous et prenez la photo!"
 
 # game/UpdateScriptChristmasEvent.rpy:1842
 translate french christmas_shoot_4deb5453:
@@ -5592,7 +5592,7 @@ translate french christmas_shoot_82b56236:
 translate french christmas_shoot_fe31079c:
 
     # S "Play with our..."
-    S "Jouer avec notre..."
+    S "Jouez avec notre..."
 
 # game/UpdateScriptChristmasEvent.rpy:1861
 translate french christmas_shoot_f7e421e8:
@@ -5670,7 +5670,7 @@ translate french christmas_shoot_0b2b81d3:
 translate french christmas_shoot_55a83b56:
 
     # S "Uuuhhh.... ok Lauren.... let's.... get.... into position."
-    S "Uuuuhhh.... ok Lauren.... mettrons-nous en position."
+    S "Uuuhhh.... ok Lauren.... allons-y.... obtenir.... en position."
 
 # game/UpdateScriptChristmasEvent.rpy:1877
 translate french christmas_shoot_f53eaa6f:
@@ -5688,7 +5688,7 @@ translate french christmas_shoot_152213b3:
 translate french christmas_shoot_512abdf3:
 
     # R "Let me get a quick shot of it."
-    R "Permettez-moi d'en prendre une photo rapide."
+    R "Laisses-moi y jeter un coup d’œil."
 
 # game/UpdateScriptChristmasEvent.rpy:1884
 translate french christmas_shoot_1c0ca9e8:
@@ -5838,7 +5838,7 @@ translate french christmas_shoot_c46e5f40:
 translate french christmas_shoot_1ad20c45:
 
     # L "(whispering) You're so mean today!"
-    L "(murmure) Tu es si méchant aujourd'hui!"
+    L "(murmure) Tu es si méchante aujourd'hui!"
 
 # game/UpdateScriptChristmasEvent.rpy:1921
 translate french christmas_shoot_c057f23d:
@@ -5856,7 +5856,7 @@ translate french christmas_shoot_6673b4e8:
 translate french christmas_shoot_333e953d:
 
     # L "(whispering) I.... I don't.... want my own sister.... to fuck my pussy!"
-    L "(murmure) Je.... Je ne le sais pas.... je veux ma propre sœur.... pour baiser sa chatte!"
+    L "(murmure) Je.... Je ne le sais pas.... je veux ma propre sœur.... pour baiser ma chatte!"
 
 # game/UpdateScriptChristmasEvent.rpy:1924
 translate french christmas_shoot_a160c384:
@@ -6336,13 +6336,13 @@ translate french christmas_shoot_73b4864e:
 translate french christmas_shoot_435f48e5:
 
     # RT "{i}Shit! Sidney's taking over!{/i}"
-    RT "{i}Merde! Sidney prend le relais !{/i}"
+    RT "{i}Merde! Sidney prend la relève!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2051
 translate french christmas_shoot_2e21b49f:
 
     # R "Uhh.... Sidney, we're all done here.... you can run home. Lauren?.... Would you mind sticking around here and helping me clean up?"
-    R "Heu.... Sidney, on a tous fini ici.... tu peux rentrer chez toi. Lauren ?.... Pourrais-tu rester ici et m'aider à nettoyer?"
+    R "Heu.... Sidney, on a tous fini ici.... tu peux rentrer chez toi. Lauren ?.... Pourriez-vous rester ici et m'aider à nettoyer?"
 
 # game/UpdateScriptChristmasEvent.rpy:2052
 translate french christmas_shoot_11e22be4:
@@ -6396,7 +6396,7 @@ translate french christmas_shoot_01d5fc25:
 translate french christmas_shoot_5bf2102f:
 
     # R "Feeling any better?"
-    R "Tu te sens mieux?"
+    R "Vous vous sentez mieux?"
 
 # game/UpdateScriptChristmasEvent.rpy:2066
 translate french christmas_shoot_f5149242:
@@ -6420,13 +6420,13 @@ translate french christmas_shoot_924fc367:
 translate french christmas_shoot_2b0ac8ec:
 
     # GCP "You don't have to lie to me. All your thoughts were so sexually charged, I could hear them all the way in the bar down the street."
-    GCP "Tu n'as pas à me mentir. Toutes tes pensées étaient si chargées sexuellement que je les entendais tout le long dans le bar de la rue."
+    GCP "Vous n'avez pas à me mentir. Toutes vos pensées étaient si chargées sexuellement que je les entendais tout le long dans le bar de la rue."
 
 # game/UpdateScriptChristmasEvent.rpy:2070
 translate french christmas_shoot_8ad287a2:
 
     # GCP "I have never failed so spectacularly in all the decades I've been doing this."
-    GCP "Je n'ai jamais échoué aussi spectaculairement dans toutes les décennies que j'ai fais cela."
+    GCP "Je n'ai jamais échoué aussi spectaculairement dans toutes les décennies que j'ai faites cela."
 
 # game/UpdateScriptChristmasEvent.rpy:2071
 translate french christmas_shoot_f1c8567d:
@@ -6450,7 +6450,7 @@ translate french christmas_shoot_63850416:
 translate french christmas_shoot_ce30431f:
 
     # R "But if it makes you feel better.... I learned a couple really valuable things."
-    R "Mais si cela te fait te sentir mieux.... J'ai appris quelques choses vraiment précieuses."
+    R "Mais si cela vous fait vous sentir mieux.... J'ai appris quelques choses vraiment précieuses."
 
 # game/UpdateScriptChristmasEvent.rpy:2075
 translate french christmas_shoot_6678e393:
@@ -6474,25 +6474,25 @@ translate french christmas_shoot_e10e8622:
 translate french christmas_shoot_30e02bf7:
 
     # R "And I learned that I need to keep them from getting too intimate with each other right away, or they're going to cut me out of their sex lives."
-    R "Et j'ai appris que je devais les empêcher de devenir trop intimes l'une avec l'autre tout de suite, sinon elles vont me couper de leur vie sexuelle."
+    R "Et j'ai appris que je devais les empêcher de devenir trop intimes l'un avec l'autre tout de suite, sinon ils vont me couper de leur vie sexuelle."
 
 # game/UpdateScriptChristmasEvent.rpy:2079
 translate french christmas_shoot_dd8296f2:
 
     # R "I think I need to work on getting each one of them attached to me more, before I bring them together."
-    R "Je pense que je dois travailler à m'attacher davantage à chacun d'elles, avant de les réunir."
+    R "Je pense que je dois travailler à m'attacher davantage à chacun d'eux, avant de les réunir."
 
 # game/UpdateScriptChristmasEvent.rpy:2080
 translate french christmas_shoot_a98dab55:
 
     # GCP "(sarcastically) What a treasure trove of moral lessons you've learned today."
-    GCP "(sarcastiquement) Quel trésor de leçons morales tu as apprises aujourd'hui."
+    GCP "(sarcastiquement) Quel trésor de leçons morales vous avez apprises aujourd'hui."
 
 # game/UpdateScriptChristmasEvent.rpy:2081
 translate french christmas_shoot_8f328987:
 
     # R "I really am sorry it didn't work out for you the way you wanted. But if you'll now excuse me. I've got a pretty hot event I need to go spy on."
-    R "Je suis vraiment désolé que cela n'ait pas fonctionné pour toi comme tu le voulais. Mais excusez-moi maintenant. J'ai un événement assez chaud que je dois espionner."
+    R "Je suis vraiment désolé que cela n'ait pas fonctionné pour vous comme vous le vouliez. Mais excusez-moi maintenant. J'ai un événement assez chaud que je dois espionner."
 
 # game/UpdateScriptChristmasEvent.rpy:2082
 translate french christmas_shoot_57f382dc:
@@ -6522,7 +6522,7 @@ translate french christmas_shoot_2af19843:
 translate french christmas_shoot_07a3f443:
 
     # GCP "You can expect the third, and final ghost, when the clock strikes three."
-    GCP "Tu peux t'attendre au troisième et dernier fantôme lorsque l'horloge sonnera trois fois."
+    GCP "Vous pouvez vous attendre au troisième et dernier fantôme lorsque l'horloge sonne trois."
 
 # game/UpdateScriptChristmasEvent.rpy:2087
 translate french christmas_shoot_87163a6f:
@@ -6582,7 +6582,7 @@ translate french christmas_shoot_e44c0b82:
 translate french christmas_shoot_9ecfe47e:
 
     # R "Yeah, I don't think so! I'm going to pay you the $500, and then you can take your broom and fly away."
-    R "Ouais, je ne pense pas! Je vais te payer les 500$, et tu pourras prendre ton balai et t'envoler."
+    R "Ouais, je ne pense pas! Je vais te payer les 500 $, et tu pourras prendre ton balai et t'envoler."
 
 # game/UpdateScriptChristmasEvent.rpy:2110
 translate french christmas_shoot_6c3b1d98:
@@ -6618,19 +6618,19 @@ translate french christmas_shoot_1909b358:
 translate french christmas_shoot_2bca0929:
 
     # GCP "You see, each ghost has one magic trick. The Ghost of Christmas Past could make you produce anything you needed."
-    GCP "Tu vois, chaque fantôme a un tour de magie. Le Fantôme de Noël passé pourrait te faire produire tout ce dont tu as besoin."
+    GCP "Vous voyez, chaque fantôme a un tour de magie. Le Fantôme de Noël passé pourrait vous faire produire tout ce dont vous avez besoin."
 
 # game/UpdateScriptChristmasEvent.rpy:2116
 translate french christmas_shoot_466b0a56:
 
     # GCP "But my magic trick is to let you read minds, so sorry! No magic pockets."
-    GCP "Mais mon tour de magie est de te laisser lire dans les pensées, alors désolé! Pas de poches magiques."
+    GCP "Mais mon tour de magie est de vous laisser lire dans les pensées, alors désolé! Pas de poches magiques."
 
 # game/UpdateScriptChristmasEvent.rpy:2117
 translate french christmas_shoot_38c90e91:
 
     # GCP "But damn, I wish you had them. We need this bitch to leave!"
-    GCP "Mais bon sang, j'aimerais que tu les aies. Il faut que cette salope parte !"
+    GCP "Mais bon sang, j'aimerais que vous les ayez. Il faut que cette salope parte !"
 
 # game/UpdateScriptChristmasEvent.rpy:2118
 translate french christmas_shoot_32fcb17d:
@@ -6672,7 +6672,7 @@ translate french christmas_shoot_a9572131:
 translate french christmas_shoot_7127d6ba:
 
     # S "You don't have to lie to us. Lauren just told me everything."
-    S "Tu n'as pas à nous mentir. Lauren m'a tout dit."
+    S "Vous n'avez pas à nous mentir. Lauren m'a tout dit."
 
 # game/UpdateScriptChristmasEvent.rpy:2129
 translate french christmas_shoot_92a483fa:
@@ -6810,7 +6810,7 @@ translate french christmas_shoot_93462efb:
 translate french christmas_shoot_c3fe2f78:
 
     # GCP "I wish God was as vengeful to the wicked as she used to be. Turn her into a pillar of salt or better yet, a puddle of cum."
-    GCP "J'aimerais que Dieu soit aussi vengeur envers les méchants qu'elle l'était auparavant. Transformes-la en un pilier de sel ou mieux encore, une flaque de sperme."
+    GCP "J'aimerais que Dieu soit aussi vengeur envers les méchants qu'elle l'était auparavant. Transformez-la en un pilier de sel ou mieux encore, une flaque de sperme."
 
 # game/UpdateScriptChristmasEvent.rpy:2161
 translate french christmas_shoot_055a614c:
@@ -6828,7 +6828,7 @@ translate french christmas_shoot_55d5db61:
 translate french christmas_shoot_700ce378:
 
     # GCP "I don't know.... I give up.... try to keep your eyes out for some life lessons.... I guess."
-    GCP "Je ne sais pas.... J'abandonne.... essaies de garder les yeux ouverts pour quelques leçons de vie.... Je suppose."
+    GCP "Je ne sais pas.... J'abandonne.... essayez de garder les yeux ouverts pour quelques leçons de vie.... Je suppose."
 
 # game/UpdateScriptChristmasEvent.rpy:2164
 translate french christmas_shoot_e4184402:
@@ -6876,7 +6876,7 @@ translate french christmas_shoot_1cc4a049:
 translate french christmas_shoot_e7ac152a:
 
     # L "Ok Agent Diaz, I think we're ready"
-    L "Ok Agent Diaz, je pense que nous sommes prêtes"
+    L "Ok Agent Diaz, je pense que nous sommes prêts"
 
 # game/UpdateScriptChristmasEvent.rpy:2177
 translate french christmas_shoot_88877bdd:
@@ -7182,7 +7182,7 @@ translate french christmas_shoot_393537ee:
 translate french christmas_shoot_826b8a70_1:
 
     # S "Just hurry up and take the picture!"
-    S "Dépêches-toi et prends la photo!"
+    S "Dépêchez-vous et prenez la photo!"
 
 # game/UpdateScriptChristmasEvent.rpy:2261
 translate french christmas_shoot_4deb5453_1:
@@ -7254,7 +7254,7 @@ translate french christmas_shoot_28c3dbd7:
 translate french christmas_shoot_fe31079c_1:
 
     # S "Play with our..."
-    S "Jouer avec notre..."
+    S "Jouez avec notre..."
 
 # game/UpdateScriptChristmasEvent.rpy:2279
 translate french christmas_shoot_f7e421e8_1:
@@ -7482,7 +7482,7 @@ translate french christmas_shoot_6d31b345:
 translate french christmas_shoot_7cc22acc:
 
     # R "Agent Diaz? Can I quickly show you a couple of settings on that camera that will make the shots even better?"
-    R "Agent Diaz ? Puis-je rapidement te montrer quelques réglages sur cet appareil photo qui rendront les prises de vue encore meilleures?"
+    R "Agent Diaz ? Puis-je rapidement vous montrer quelques réglages sur cet appareil photo qui rendront les prises de vue encore meilleures?"
 
 # game/UpdateScriptChristmasEvent.rpy:2334
 translate french christmas_shoot_1570a005:
@@ -7494,7 +7494,7 @@ translate french christmas_shoot_1570a005:
 translate french christmas_shoot_aa4cd1ac:
 
     # R "Great! Let me show you a few things."
-    R "Génial! Laisses-moi te montrer quelques choses."
+    R "Génial! Laissez-moi vous montrer quelques choses."
 
 # game/UpdateScriptChristmasEvent.rpy:2338
 translate french christmas_shoot_fadaf516_1:
@@ -7926,7 +7926,7 @@ translate french christmas_shoot_1f301d67:
 translate french christmas_shoot_4e274397:
 
     # R "So that should be all! I think that will improve your pictures a lot!"
-    R "Donc ça devrait être tout! Je pense que cela améliorera beaucoup tes photos!"
+    R "Donc ça devrait être tout! Je pense que cela améliorera beaucoup vos photos!"
 
 # game/UpdateScriptChristmasEvent.rpy:2436
 translate french christmas_shoot_9ca5761e:
@@ -8154,7 +8154,7 @@ translate french christmas_shoot_f4a86f79:
 translate french christmas_shoot_caabec64:
 
     # R "There.... that pose is perfect!"
-    R "Là.... cette pose est parfaite!"
+    RT "{i}Le thé?.... Parfait.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2489
 translate french christmas_shoot_e27625cc:
@@ -8178,7 +8178,7 @@ translate french christmas_shoot_b3b72fe0:
 translate french christmas_shoot_b91e5bf9:
 
     # R "What why not?"
-    R "Et pourquoi pas?"
+    R "Quoi?.... Pourquoi pas?"
 
 # game/UpdateScriptChristmasEvent.rpy:2501
 translate french christmas_shoot_f4c0d074:
@@ -8304,7 +8304,7 @@ translate french christmas_shoot_435f48e5_1:
 translate french christmas_shoot_2e21b49f_1:
 
     # R "Uhh.... Sidney, we're all done here.... you can run home. Lauren?.... Would you mind sticking around here and helping me clean up?"
-    R "Heu.... Sidney, on a tous fini ici.... tu peux rentrer chez toi. Lauren ?.... Pourrais-tu rester ici et m'aider à nettoyer?"
+    R "Heu.... Sidney, on a tous fini ici.... tu peux rentrer chez toi. Lauren ?.... Pourriez-vous rester ici et m'aider à nettoyer?"
 
 # game/UpdateScriptChristmasEvent.rpy:2536
 translate french christmas_shoot_11e22be4_1:
@@ -8376,7 +8376,7 @@ translate french christmas_shoot_01d5fc25_1:
 translate french christmas_shoot_5bf2102f_1:
 
     # R "Feeling any better?"
-    R "Tu te sens mieux?"
+    R "Vous vous sentez mieux?"
 
 # game/UpdateScriptChristmasEvent.rpy:2553
 translate french christmas_shoot_f5149242_1:
@@ -8400,7 +8400,7 @@ translate french christmas_shoot_924fc367_1:
 translate french christmas_shoot_2b0ac8ec_1:
 
     # GCP "You don't have to lie to me. All your thoughts were so sexually charged, I could hear them all the way in the bar down the street."
-    GCP "Tu n'as pas à me mentir. Toutes tes pensées étaient si chargées sexuellement que je les entendais tout le long dans le bar de la rue."
+    GCP "Vous n'avez pas à me mentir. Toutes vos pensées étaient si chargées sexuellement que je les entendais tout le long dans le bar de la rue."
 
 # game/UpdateScriptChristmasEvent.rpy:2557
 translate french christmas_shoot_99e807f9:
@@ -8412,13 +8412,13 @@ translate french christmas_shoot_99e807f9:
 translate french christmas_shoot_0df59a27:
 
     # R "Fucking Diaz."
-    R "Putain de Diaz."
+    R ".... oui?..."
 
 # game/UpdateScriptChristmasEvent.rpy:2559
 translate french christmas_shoot_8ad287a2_1:
 
     # GCP "I have never failed so spectacularly in all the decades I've been doing this."
-    GCP "Je n'ai jamais échoué aussi spectaculairement dans toutes les décennies que j'ai fais cela."
+    GCP "Je n'ai jamais échoué aussi spectaculairement dans toutes les décennies que j'ai faites cela."
 
 # game/UpdateScriptChristmasEvent.rpy:2560
 translate french christmas_shoot_f1c8567d_1:
@@ -8472,25 +8472,25 @@ translate french christmas_shoot_e10e8622_1:
 translate french christmas_shoot_30e02bf7_1:
 
     # R "And I learned that I need to keep them from getting too intimate with each other right away, or they're going to cut me out of their sex lives."
-    R "Et j'ai appris que je devais les empêcher de devenir trop intimes l'une avec l'autre tout de suite, sinon elles vont me couper de leur vie sexuelle."
+    R "Et j'ai appris que je devais les empêcher de devenir trop intimes l'un avec l'autre tout de suite, sinon ils vont me couper de leur vie sexuelle."
 
 # game/UpdateScriptChristmasEvent.rpy:2569
 translate french christmas_shoot_dd8296f2_1:
 
     # R "I think I need to work on getting each one of them attached to me more, before I bring them together."
-    R "Je pense que je dois travailler à m'attacher davantage à chacun d'elles, avant de les réunir."
+    R "Je pense que je dois travailler à m'attacher davantage à chacun d'eux, avant de les réunir."
 
 # game/UpdateScriptChristmasEvent.rpy:2570
 translate french christmas_shoot_a98dab55_1:
 
     # GCP "(sarcastically) What a treasure trove of moral lessons you've learned today."
-    GCP "(sarcastiquement) Quel trésor de leçons morales tu as apprises aujourd'hui."
+    GCP "(sarcastiquement) Quel trésor de leçons morales vous avez apprises aujourd'hui."
 
 # game/UpdateScriptChristmasEvent.rpy:2571
 translate french christmas_shoot_8f328987_1:
 
     # R "I really am sorry it didn't work out for you the way you wanted. But if you'll now excuse me. I've got a pretty hot event I need to go spy on."
-    R "Je suis vraiment désolé que cela n'ait pas fonctionné pour toi comme tu le voulais. Mais excusez-moi maintenant. J'ai un événement assez chaud que je dois espionner."
+    R "Je suis vraiment désolé que cela n'ait pas fonctionné pour vous comme vous le vouliez. Mais excusez-moi maintenant. J'ai un événement assez chaud que je dois espionner."
 
 # game/UpdateScriptChristmasEvent.rpy:2572
 translate french christmas_shoot_57f382dc_1:
@@ -8520,7 +8520,7 @@ translate french christmas_shoot_2af19843_1:
 translate french christmas_shoot_07a3f443_1:
 
     # GCP "You can expect the third, and final ghost, when the clock strikes three."
-    GCP "Tu peux t'attendre au troisième et dernier fantôme lorsque l'horloge sonnera trois fois."
+    GCP "Vous pouvez vous attendre au troisième et dernier fantôme lorsque l'horloge sonne trois."
 
 # game/UpdateScriptChristmasEvent.rpy:2577
 translate french christmas_shoot_87163a6f_1:
@@ -8586,7 +8586,7 @@ translate french christmas_club_c46a683d:
 translate french christmas_club_2e99b96e:
 
     # GP "Just hold it in for a second.... the feeling wears off really quick."
-    GP "Tiens-le juste une seconde.... le sentiment s'estompe très rapidement."
+    GP "Tenez-le juste une seconde.... le sentiment s'estompe très rapidement."
 
 # game/UpdateScriptChristmasEvent.rpy:2618
 translate french christmas_club_df86fb2a:
@@ -8598,7 +8598,7 @@ translate french christmas_club_df86fb2a:
 translate french christmas_club_d1523318:
 
     # GP "Sssshhhhhh.... try not to speak out loud to me in public. Don't forget, I can hear your thoughts. People will think you're loony if you're talking to someone on your shoulder."
-    GP "Sssshhhhhh.... essaies de ne pas me parler à haute voix en public. N'oublie pas, j'entends tes pensées. Les gens penseront que tu es fou si tu parles à quelqu'un sur ton épaule."
+    GP "Sssshhhhhh.... essayez de ne pas me parler à haute voix en public. N'oublie pas, j'entends tes pensées. Les gens penseront que vous êtes fou si vous parlez à quelqu'un sur votre épaule."
 
 # game/UpdateScriptChristmasEvent.rpy:2620
 translate french christmas_club_de7f40e6:
@@ -8622,7 +8622,7 @@ translate french christmas_club_91fb80ea:
 translate french christmas_club_c56ccb17:
 
     # GP "You have assumed correctly."
-    GP "Tu as supposé correctement."
+    GP "Vous avez supposé correctement."
 
 # game/UpdateScriptChristmasEvent.rpy:2624
 translate french christmas_club_ce658f9d:
@@ -8634,7 +8634,7 @@ translate french christmas_club_ce658f9d:
 translate french christmas_club_91aa5921:
 
     # GP "The more appropriate question would be, \"When are we?\""
-    GP "La question la plus appropriée serait : 'Quand sommes-nous?'"
+    GP "La question la plus appropriée serait : \" Quand sommes-nous?\""
 
 # game/UpdateScriptChristmasEvent.rpy:2626
 translate french christmas_club_664de4a3:
@@ -8646,13 +8646,13 @@ translate french christmas_club_664de4a3:
 translate french christmas_club_8ad24c45:
 
     # GP "So glad you asked.... we have gone back to a Christmas 20 years ago."
-    GP "Tellement content que tu as demandé.... nous sommes revenus à un Noël il y a 20 ans."
+    GP "Tellement content que vous ayez demandé.... nous sommes revenus à un Noël il y a 20 ans."
 
 # game/UpdateScriptChristmasEvent.rpy:2628
 translate french christmas_club_c4d2d487:
 
     # GP "To the day that your parents met."
-    GP "Jusqu'au jour où tes parents se sont rencontrés."
+    GP "Jusqu'au jour où vos parents se sont rencontrés."
 
 # game/UpdateScriptChristmasEvent.rpy:2629
 translate french christmas_club_d7557e14:
@@ -8676,7 +8676,7 @@ translate french christmas_club_3f85e9ad:
 translate french christmas_club_2355700d:
 
     # GP "And you're lucky enough to get to see it."
-    GP "Et tu as la chance de le voir."
+    GP "Et vous avez la chance de le voir."
 
 # game/UpdateScriptChristmasEvent.rpy:2635
 translate french christmas_club_885e830c:
@@ -8706,13 +8706,13 @@ translate french christmas_club_dede6874:
 translate french christmas_club_6157ab87:
 
     # GP "So, let's look around and see if we can find your parents."
-    GP "Alors, regardons autour de nous et voyons si nous pouvons trouver tes parents."
+    GP "Alors, regardons autour de nous et voyons si nous pouvons trouver vos parents."
 
 # game/UpdateScriptChristmasEvent.rpy:2640
 translate french christmas_club_51c2ee90:
 
     # VOM "Let's welcome to the stage the only one of our dancers desperate enough to come in on Christmas, to perform for a single patron, Oh, I guess there's two of you now.... I didn't see you come in."
-    VOM "Accueillons sur scène la seule de nos danseuses assez désespérée pour venir à Noël, pour jouer pour un seul patron, Oh, je suppose que vous êtes deux maintenant.... Je ne t'ai pas vu entrer."
+    VOM "Accueillons sur scène le seul de nos danseurs assez désespéré pour venir à Noël, pour jouer pour un seul patron, Oh, je suppose que vous êtes deux maintenant.... Je ne t'ai pas vu entrer."
 
 # game/UpdateScriptChristmasEvent.rpy:2641
 translate french christmas_club_e15e5f72:
@@ -8730,7 +8730,7 @@ translate french christmas_club_2e1c5d62:
 translate french christmas_club_25f6bcb9:
 
     # VOM "Once again! Let's welcome to the stage, Santa's sexy helper, the one and only, [mom_name]!"
-    VOM "Encore une fois! Bienvenue sur la scène, l'aide sexy du Père Noël, le seule et unique, [mom_name]!"
+    VOM "Encore une fois! Bienvenue sur la scène, l'aide sexy du Père Noël, la seule et unique, [mom_name]!"
 
 # game/UpdateScriptChristmasEvent.rpy:2646
 translate french christmas_club_d39dd80c:
@@ -8760,7 +8760,7 @@ translate french christmas_club_cf684800:
 translate french christmas_club_91aca590:
 
     # GP "Yeah, well.... stop ogling at your mother.... and don't forget why we're here!"
-    GP "Ouais, eh bien.... arrête de regarder ta mère.... et n'oublies pas pourquoi nous sommes ici!"
+    GP "Ouais, eh bien.... arrête de regarder ta mère.... et n'oubliez pas pourquoi nous sommes ici!"
 
 # game/UpdateScriptChristmasEvent.rpy:2653
 translate french christmas_club_cdf0b438:
@@ -8772,7 +8772,7 @@ translate french christmas_club_cdf0b438:
 translate french christmas_club_078ff073:
 
     # GP "So you can see your parents fall in love! I'm pretty sure If you see the moment they fall in love, you wouldn't possibly want to do anything to ruin their marriage."
-    GP "Pour que tu puisses voir tes parents tomber amoureux! Je suis presque sûr que si tu vois le moment où ils tombent amoureux, tu ne voudrais peut-être rien faire pour ruiner leur mariage."
+    GP "Pour que vous puissiez voir vos parents tomber amoureux! Je suis presque sûr que Si vous voyez le moment où ils tombent amoureux, vous ne voudriez peut-être rien faire pour ruiner leur mariage."
 
 # game/UpdateScriptChristmasEvent.rpy:2655
 translate french christmas_club_61ab6a49:
@@ -8790,7 +8790,7 @@ translate french christmas_club_57ccd245:
 translate french christmas_club_5f80101e:
 
     # GP "Look! Is that your dad over there?"
-    GP "Regardes! C'est ton père là-bas ?"
+    GP "Regardez! C'est ton père là-bas ?"
 
 # game/UpdateScriptChristmasEvent.rpy:2660
 translate french christmas_club_6ac5ee2f:
@@ -8814,7 +8814,7 @@ translate french christmas_club_ad24f4d6:
 translate french christmas_club_99cb7158:
 
     # GP "Oh look, how sweet!.... He's tipping your mom for her hard work!"
-    GP "Oh regardes, comme c'est gentil!.... Il donne un pourboire à ta mère pour son travail acharné!"
+    GP "Oh regardez, comme c'est doux!.... Il donne un pourboire à ta mère pour son travail acharné!"
 
 # game/UpdateScriptChristmasEvent.rpy:2666
 translate french christmas_club_1667a823:
@@ -8838,7 +8838,7 @@ translate french christmas_club_2e5bac34:
 translate french christmas_club_49d996c3:
 
     # GP "Oh, stop thinking with your cock, and try to appreciate this moment. You're about to see them fall in love!"
-    GP "Oh, arrête de penser avec ta bite, et essaie d'apprécier ce moment. Tu es sur le point de les voir tomber amoureux!"
+    GP "Oh, arrête de penser avec ta bite, et essaie d'apprécier ce moment. Vous êtes sur le point de les voir tomber amoureux!"
 
 # game/UpdateScriptChristmasEvent.rpy:2672
 translate french christmas_club_40e8a5e1:
@@ -8868,13 +8868,13 @@ translate french christmas_club_d1cd41da:
 translate french christmas_club_73717b7f:
 
     # GP "You should be able to pull anything you need out of your pocket.... you know, like money.... all you need to do is think really hard about it."
-    GP "Tu devrais pouvoir sortir de ta poche tout ce dont tu as besoin.... tu sais, comme l'argent.... tout ce que tu dois faire est d'y réfléchir très fort."
+    GP "Vous devriez pouvoir sortir de votre poche tout ce dont vous avez besoin.... tu sais, comme l'argent.... tout ce que vous devez faire est d'y réfléchir très fort."
 
 # game/UpdateScriptChristmasEvent.rpy:2677
 translate french christmas_club_2250e01b:
 
     # M "Oh, be nice!.... Nobody should feel pressured into tipping me, but I'll tell you what I'll do. Whichever of you tips me the most tonight will get a private lap dance from me."
-    M "Oh, sois gentil!.... Personne ne devrait se sentir obligé de me donner un pourboire, mais je vais te dire ce que je vais faire. Celui d'entre vous qui me donne le plus de pourboires ce soir aura un tour de danse privé de ma part."
+    M "Oh, sois gentil!.... Personne ne devrait se sentir obligé de me donner un pourboire, mais je vais vous dire ce que je vais faire. Celui d'entre vous qui me donne le plus de conseils ce soir aura un tour de danse privé de ma part."
 
 # game/UpdateScriptChristmasEvent.rpy:2678
 translate french christmas_club_ba7ef94b:
@@ -8922,7 +8922,7 @@ translate french christmas_club_4f5cab17:
 translate french christmas_club_df2b6619:
 
     # GP "Well, you might not learn the lesson that I'm trying to teach you!"
-    GP "Eh bien, tu pourrais ne pas apprendre la leçon que j'essaie de t'enseigner!"
+    GP "Eh bien, vous pourriez ne pas apprendre la leçon que j'essaie de vous enseigner!"
 
 # game/UpdateScriptChristmasEvent.rpy:2686
 translate french christmas_club_901c4d6d:
@@ -8940,13 +8940,13 @@ translate french christmas_club_27b2494d:
 translate french christmas_club_3ad9ebed:
 
     # M "Yay!.... I'll start dancing and you guys start tipping!"
-    M "Ouah!.... Je vais commencer à danser et vous les gars commencez à faire des trucs !"
+    M "Ouah!.... Je vais commencer à danser et vous commencez à basculer!"
 
 # game/UpdateScriptChristmasEvent.rpy:2689
 translate french christmas_club_96d1c805:
 
     # M "Let the \"tip off\" begin!"
-    M "Que le 'pourboire' commence!"
+    M "Que le \"pourboire\" commence!"
 
 # game/UpdateScriptChristmasEvent.rpy:2692
 translate french christmas_club_8e37c225:
@@ -8976,7 +8976,7 @@ translate french christmas_club_818b12ce:
 translate french christmas_club_f6562421:
 
     # GP "Get away you hussy!"
-    GP "Éloignes-toi de ton mari !"
+    GP "Éloignez-vous, garce!"
 
 # game/UpdateScriptChristmasEvent.rpy:2701
 translate french christmas_club_fcc741c3:
@@ -9006,7 +9006,7 @@ translate french christmas_club_5ec0eb33:
 translate french christmas_club_07e06a6f:
 
     # GP "That's it [dad_name]! Keep on bidding! Win [mom_name]'s love!"
-    GP "C'est ça [dad_name]! Continues à enchérir! Gagnes l'amour de [mom_name]!"
+    GP "C'est ça [dad_name]! Continuez à enchérir! Gagnez l'amour de [mom_name]!"
 
 # game/UpdateScriptChristmasEvent.rpy:2710
 translate french christmas_club_1a9908fc:
@@ -9078,7 +9078,7 @@ translate french christmas_club_dcb0f90b:
 translate french christmas_club_8cf9748d:
 
     # GP "You'd just have to think about an ID hard enough, and then you could pull it out of your pocket."
-    GP "Il te suffirait de penser à une pièce d'identité assez fort, puis de la sortir de ta poche."
+    GP "Il vous suffirait de penser à une pièce d'identité assez fort, puis de la sortir de votre poche."
 
 # game/UpdateScriptChristmasEvent.rpy:2724
 translate french christmas_club_bd99ce18:
@@ -9102,7 +9102,7 @@ translate french christmas_club_e3a2579b:
 translate french christmas_club_1026fd34:
 
     # GP "Alright [ryan].... I think this should be our last tip.... I don't know how much more [dad_name] can afford."
-    GP "D'accord [ryan].... Je pense que ça devrait être notre dernier pourboire.... Je ne sais pas combien plus [dad_name] peut se permettre."
+    GP "D'accord [ryan].... Je pense que ça devrait être notre dernier conseil.... Je ne sais pas combien plus [dad_name] peut se permettre."
 
 # game/UpdateScriptChristmasEvent.rpy:2732
 translate french christmas_club_aecdea9b:
@@ -9114,13 +9114,13 @@ translate french christmas_club_aecdea9b:
 translate french christmas_club_73b0404b:
 
     # GP "Don't forget why we're here!"
-    GP "N'oublies pas pourquoi nous sommes ici!"
+    GP "N'oubliez pas pourquoi nous sommes ici!"
 
 # game/UpdateScriptChristmasEvent.rpy:2734
 translate french christmas_club_b406f334:
 
     # GP "If you don't get to see your parents fall in love than this whole trip will have been for nothing!"
-    GP "Si tu ne vois pas tes parents tomber amoureux, tout ce voyage n'aura servi à rien!"
+    GP "Si vous ne voyez pas vos parents tomber amoureux, tout ce voyage n'aura servi à rien!"
 
 # game/UpdateScriptChristmasEvent.rpy:2735
 translate french christmas_club_382aac6e:
@@ -9150,13 +9150,13 @@ translate french christmas_club_8106ad46:
 translate french christmas_club_2ce15aec:
 
     # GP "Dammit [ryan]! Show some self-restraint, for God's sake!"
-    GP "Bon sang [ryan]! Fais preuve de retenue, pour l'amour de Dieu!"
+    GP "Bon sang [ryan]! Faites preuve de retenue, pour l'amour de Dieu!"
 
 # game/UpdateScriptChristmasEvent.rpy:2744
 translate french christmas_club_f08dbc76:
 
     # GP "Resist that perfect ass!"
-    GP "Résistes à ce cul parfait!"
+    GP "Résistez à ce cul parfait!"
 
 # game/UpdateScriptChristmasEvent.rpy:2747
 translate french christmas_club_fa7c958c:
@@ -9174,13 +9174,13 @@ translate french christmas_club_e491831a:
 translate french christmas_club_60112cd2:
 
     # D "Hey, sexy! I've got something over here that's going to sweeten your whole Christmas!"
-    D "Salut, sexy! J'ai quelque chose ici qui va adoucir tout ton Noël!"
+    D "Salut, sexy! J'ai quelque chose ici qui va adoucir tout votre Noël!"
 
 # game/UpdateScriptChristmasEvent.rpy:2752
 translate french christmas_club_0a923769:
 
     # D "And just so you know, little boy.... hey!.... Are you even old enough to be in a bar?"
-    D "Et juste pour que tu saches, petit garçon.... hé!.... Es-tu même assez vieux pour être dans un bar?"
+    D "Et juste pour que tu saches, petit garçon.... hé!.... Êtes-vous même assez vieux pour être dans un bar?"
 
 # game/UpdateScriptChristmasEvent.rpy:2753
 translate french christmas_club_f267cc74:
@@ -9216,13 +9216,13 @@ translate french christmas_club_0370d319:
 translate french christmas_club_c82a2ab9:
 
     # D "So, feel free to leave any time, because I can guarantee your Christmas is going to end in disappointment."
-    D "Alors, n'hésites pas à partir à tout moment, car je peux te garantir que ton Noël va se terminer en déception."
+    D "Alors, n'hésitez pas à partir à tout moment, car je peux vous garantir que votre Noël va se terminer en déception."
 
 # game/UpdateScriptChristmasEvent.rpy:2761
 translate french christmas_club_17f93351:
 
     # D "Merry Christmas, beautiful!"
-    D "Joyeux Noël, magnifique!"
+    D "Joyeux Noël, beau!"
 
 # game/UpdateScriptChristmasEvent.rpy:2762
 translate french christmas_club_bf6d6810:
@@ -9246,7 +9246,7 @@ translate french christmas_club_5447bdcb:
 translate french christmas_club_9ff9f283:
 
     # M "That's the biggest tip I've ever seen!"
-    M "C'est le plus gros pourboire que j'ai jamais vu!"
+    M "C'est le plus gros conseil que j'ai jamais vu!"
 
 # game/UpdateScriptChristmasEvent.rpy:2768
 translate french christmas_club_dc551855:
@@ -9294,7 +9294,7 @@ translate french christmas_club_7365feb5:
 translate french christmas_club_07254025:
 
     # GP "Oh no, please, [ryan]! It's too perfect! Please!.... Just let it play out from here!"
-    GP "Oh non, s'il te plait, [ryan]! C'est trop parfait ! S'il te plaît!.... Laisses-le jouer à partir d'ici!"
+    GP "Oh non, s'il vous plait, [ryan]! C'est trop parfait ! S'il te plaît!.... Laissez-le jouer à partir d'ici!"
 
 # game/UpdateScriptChristmasEvent.rpy:2776
 translate french christmas_club_e85ebd6f:
@@ -9324,13 +9324,13 @@ translate french christmas_club_0d61ec20:
 translate french christmas_club_08f4515e:
 
     # D "So head on home, back to mommy, little boy."
-    D "Alors rentres chez toi, retournes voir maman, petit garçon."
+    D "Alors rentrez chez vous, retournez à maman, petit garçon."
 
 # game/UpdateScriptChristmasEvent.rpy:2785
 translate french christmas_club_481f0d54:
 
     # D "Maybe you can suck on her tits tonight."
-    D "Peut-être que tu peux sucer ses seins ce soir."
+    D "Peut-être que vous pouvez sucer ses seins ce soir."
 
 # game/UpdateScriptChristmasEvent.rpy:2786
 translate french christmas_club_16fc3473:
@@ -9354,7 +9354,7 @@ translate french christmas_club_00abae6b:
 translate french christmas_club_85b61c14:
 
     # GP "Well, just remember.... If he didn't fuck your mom, you wouldn't have been born."
-    GP "Eh bien, rappelles-toi juste.... S'il n'avait pas baisé ta mère, tu ne serais pas née."
+    GP "Eh bien, rappelez-vous juste.... S'il n'avait pas baisé ta mère, tu ne serais pas née."
 
 # game/UpdateScriptChristmasEvent.rpy:2790
 translate french christmas_club_92d107ef:
@@ -9372,7 +9372,7 @@ translate french christmas_club_34121dbf:
 translate french christmas_club_c15147df:
 
     # D "Get one good last look, loser! Because that ass is going to be rubbing all over my lap tonight!"
-    D "Obtiens un bon dernier regard, de perdant! Parce que ce cul va se frotter sur mes genoux ce soir!"
+    D "Obtenez un bon dernier regard, perdant! Parce que ce cul va se frotter sur mes genoux ce soir!"
 
 # game/UpdateScriptChristmasEvent.rpy:2797
 translate french christmas_club_f1975969:
@@ -9396,7 +9396,7 @@ translate french christmas_club_b7680d41:
 translate french christmas_club_adfbbb81:
 
     # GP "Wasn't that amazing?.... You know.... to see the beginnings of your parents's relationship?"
-    GP "N'était-ce pas incroyable?.... Tu sais.... pour voir les débuts de la relation de tes parents?"
+    GP "N'était-ce pas incroyable?.... Tu sais.... pour voir les débuts de la relation de vos parents?"
 
 # game/UpdateScriptChristmasEvent.rpy:2805
 translate french christmas_club_b770b8d4:
@@ -9420,13 +9420,13 @@ translate french christmas_club_beb3c6c9:
 translate french christmas_club_74f41bc4:
 
     # GP "This has to be a life changing event for you!"
-    GP "Cela doit être un événement qui change ta vie pour toi!"
+    GP "Cela doit être un événement qui change votre vie pour vous!"
 
 # game/UpdateScriptChristmasEvent.rpy:2809
 translate french christmas_club_eb976d82:
 
     # GP "This is supposed to make you want to stop trying to fuck your mom, and stop trying to fuck over your dad!"
-    GP "Cela est censé te donner envie d'arrêter d'essayer de baiser ta mère et d'arrêter d'essayer de baiser ton père!"
+    GP "Cela est censé vous donner envie d'arrêter d'essayer de baiser votre mère et d'arrêter d'essayer de baiser votre père!"
 
 # game/UpdateScriptChristmasEvent.rpy:2810
 translate french christmas_club_8d89fd17:
@@ -9456,19 +9456,19 @@ translate french christmas_club_78f6791d:
 translate french christmas_club_a498da8a:
 
     # GP "You haven't had a life changing event, so we're going to follow them until you do!"
-    GP "Tu n'as pas eu d'événement qui a changé ta vie, alors nous allons les suivre jusqu'à ce que tu le fasses!"
+    GP "Vous n'avez pas eu d'événement qui a changé votre vie, alors nous allons les suivre jusqu'à ce que vous le fassiez!"
 
 # game/UpdateScriptChristmasEvent.rpy:2815
 translate french christmas_club_4b2bba9c:
 
     # GP "Now follow me upstairs!"
-    GP "Maintenant suis-moi à l'étage!"
+    GP "Maintenant suivez-moi à l'étage!"
 
 # game/UpdateScriptChristmasEvent.rpy:2818
 translate french christmas_club_86651a58:
 
     # GP "Ok, now see if you can open the door a crack and take a peek."
-    GP "Ok, maintenant, vois si tu peux ouvrir la porte légèrement et jeter un coup d'œil."
+    GP "Ok, maintenant, voyez si vous pouvez ouvrir la porte une fissure et jetez un coup d'œil."
 
 # game/UpdateScriptChristmasEvent.rpy:2819
 translate french christmas_club_b6c233ab:
@@ -9504,7 +9504,7 @@ translate french christmas_club_c88832fc:
 translate french christmas_club_0efa089c:
 
     # GP "You're right, that's why I'm going to let you see through my eyes."
-    GP "Tu as raison, c'est pourquoi je vais te laisser voir à travers mes yeux."
+    GP "Vous avez raison, c'est pourquoi je vais vous laisser voir à travers mes yeux."
 
 # game/UpdateScriptChristmasEvent.rpy:2827
 translate french christmas_club_3ea60cb0:
@@ -9522,7 +9522,7 @@ translate french christmas_club_dfc7ac17:
 translate french christmas_club_21a0b683:
 
     # GP "Ok, can you see anything yet?."
-    GP "Ok, peux-tu encore voir quelque chose?."
+    GP "Ok, pouvez-vous encore voir quelque chose?."
 
 # game/UpdateScriptChristmasEvent.rpy:2836
 translate french christmas_club_671ccd9c:
@@ -9534,7 +9534,7 @@ translate french christmas_club_671ccd9c:
 translate french christmas_club_fcb26b9e:
 
     # GP "OK, give it just another second."
-    GP "Ok, donnes-lui juste une seconde de plus."
+    GP "OK, donnez-lui juste une seconde de plus."
 
 # game/UpdateScriptChristmasEvent.rpy:2842
 translate french christmas_club_39c9b5e8:
@@ -9552,7 +9552,7 @@ translate french christmas_club_d1de4048:
 translate french christmas_club_30c05914:
 
     # GP "Well, he did just tip her $1,500. Your little competition raised the stakes."
-    GP "Eh bien, il lui a juste donné un pourboire de 1'500$. Ta petite compétition a fait monter les enchères."
+    GP "Eh bien, il lui a juste donné un pourboire de 1 500 $. Votre petite compétition a fait monter les enchères."
 
 # game/UpdateScriptChristmasEvent.rpy:2845
 translate french christmas_club_9f3ebec8:
@@ -9570,7 +9570,7 @@ translate french christmas_club_1de3d6b0:
 translate french christmas_club_791ed571:
 
     # GP "This is all thanks to you."
-    GP "C'est grâce à toi."
+    GP "C'est grâce à vous."
 
 # game/UpdateScriptChristmasEvent.rpy:2848
 translate french christmas_club_fa491e3e:
@@ -9588,7 +9588,7 @@ translate french christmas_club_b07661a4:
 translate french christmas_club_a3155621:
 
     # GP "That's because you can only see what I can see."
-    GP "C'est parce que tu ne peux voir que ce que je peux voir."
+    GP "C'est parce que vous ne pouvez voir que ce que je peux voir."
 
 # game/UpdateScriptChristmasEvent.rpy:2851
 translate french christmas_club_f2dcc471:
@@ -9606,13 +9606,13 @@ translate french christmas_club_864bec3c:
 translate french christmas_club_fe0dd1a1:
 
     # GP "When a man ejaculates, it releases all kinds of chemicals that could make [mom_name] fall in love with [dad_name]."
-    GP "Lorsqu'un homme éjacule, il libère toutes sortes de produits chimiques qui pourraient faire tomber [mom_name] amoureuse de [dad_name]."
+    GP "Lorsqu'un homme éjacule, il libère toutes sortes de produits chimiques qui pourraient faire tomber [mom_name] amoureux de [dad_name]."
 
 # game/UpdateScriptChristmasEvent.rpy:2854
 translate french christmas_club_caa08817:
 
     # GP "I need you to see them fall in love! For your own good."
-    GP "J'ai besoin que tu les voies tomber amoureux! Pour ton propre bien."
+    GP "J'ai besoin que vous les voyiez tomber amoureux! Pour ton propre bien."
 
 # game/UpdateScriptChristmasEvent.rpy:2855
 translate french christmas_club_fc45fbf1:
@@ -9702,7 +9702,7 @@ translate french christmas_club_c56b939e:
 translate french christmas_club_a02d1b7e:
 
     # GP "It's not that little! It's just little compared to yours."
-    GP "Ce n'est pas si petit! C'est juste peu comparé au tien."
+    GP "Ce n'est pas si petit! C'est juste peu comparé au vôtre."
 
 # game/UpdateScriptChristmasEvent.rpy:2877
 translate french christmas_club_4ee2e824:
@@ -9750,7 +9750,7 @@ translate french christmas_club_0eac5d99:
 translate french christmas_club_65f048e2:
 
     # GP "Well, the only thing you need to know about them right now is that you should expect the next ghost when the bell tolls two."
-    GP "Eh bien, la seule chose que tu dois savoir à leur sujet en ce moment est que tu devrais t'attendre au prochain fantôme lorsque la cloche sonnera deux fois."
+    GP "Eh bien, la seule chose que vous devez savoir à leur sujet en ce moment est que vous devriez vous attendre au prochain fantôme lorsque la cloche sonnera deux."
 
 # game/UpdateScriptChristmasEvent.rpy:2891
 translate french christmas_club_f39bd6d2:
@@ -9762,7 +9762,7 @@ translate french christmas_club_f39bd6d2:
 translate french christmas_club_b8d56e34:
 
     # GP "You know.... like the bell in the clock tower."
-    GP "Tu sais.... comme la cloche de la tour de l'horloge."
+    GP "Vous savez.... comme la cloche de la tour de l'horloge."
 
 # game/UpdateScriptChristmasEvent.rpy:2893
 translate french christmas_club_cd8d1862:
@@ -9774,7 +9774,7 @@ translate french christmas_club_cd8d1862:
 translate french christmas_club_251a6ba5:
 
     # GP "Well.... shit!"
-    GP "Bien.... Merde!"
+    L "Eh bien, c'était un peu gênant!"
 
 # game/UpdateScriptChristmasEvent.rpy:2895
 translate french christmas_club_48338516:
@@ -9786,7 +9786,7 @@ translate french christmas_club_48338516:
 translate french christmas_club_4f6b00da:
 
     # GP "I guess just go to sleep and the ghost will wake you up when it gets there."
-    GP "Je suppose qu'il suffit d'aller dormir et le fantôme te réveillera quand il y arrivera."
+    GP "Je suppose qu'il suffit d'aller dormir et le fantôme vous réveillera quand il y arrivera."
 
 # game/UpdateScriptChristmasEvent.rpy:2899
 translate french christmas_club_6a50afa7:
@@ -9840,13 +9840,13 @@ translate french christmas_club_6c25c4ce:
 translate french christmas_club_1c3b1adf:
 
     # GP "[ryan] No!.... Please let [dad_name] win!"
-    GP "[ryan] Non!.... Laisses [dad_name] gagner!"
+    GP "[ryan] Non!.... Veuillez laisser [dad_name] gagner!"
 
 # game/UpdateScriptChristmasEvent.rpy:2917
 translate french christmas_club_52b7ac9e:
 
     # R "And you should stop rubbing that money all over yourself.... you don't know where it's been."
-    R "Et tu devrais arrêter de frotter cet argent sur toi-même.... tu ne sais pas où ça a été."
+    R "Et vous devriez arrêter de frotter cet argent sur vous-même.... tu ne sais pas où ça a été."
 
 # game/UpdateScriptChristmasEvent.rpy:2920
 translate french christmas_club_3a8faf12:
@@ -9858,7 +9858,7 @@ translate french christmas_club_3a8faf12:
 translate french christmas_club_31219dbf:
 
     # GP "[ryan]!.... You asshole!"
-    GP "[ryan]!.... Espèce de connard !"
+    L "[ryan]? Tu es réveillé ?"
 
 # game/UpdateScriptChristmasEvent.rpy:2922
 translate french christmas_club_f8aab42e:
@@ -9876,7 +9876,7 @@ translate french christmas_club_92275895:
 translate french christmas_club_728d0f91:
 
     # R "Oh.... and you should probably get used to losing to me more in the future."
-    R "Oh.... et tu devrais probablement t'habituer à perdre plus contre moi à l'avenir."
+    R "Oh.... et vous devriez probablement vous habituer à perdre plus contre moi à l'avenir."
 
 # game/UpdateScriptChristmasEvent.rpy:2927
 translate french christmas_club_55f09327:
@@ -9894,7 +9894,7 @@ translate french christmas_club_f7010b03:
 translate french christmas_club_0670e0f9:
 
     # R "You'll find out in about 20 years."
-    R "Tu le sauras dans environ 20 ans."
+    R "Vous le saurez dans environ 20 ans."
 
 # game/UpdateScriptChristmasEvent.rpy:2930
 translate french christmas_club_ddd87cc8:
@@ -9912,13 +9912,13 @@ translate french christmas_club_9447f0c7:
 translate french christmas_club_995ff9b2:
 
     # D "I'm leaving! There's nothing else for me to stick around here for."
-    D "Je pars ! Il n'y a rien d'autre pour lequel je peux rester ici."
+    D "Je pars! Il n'y a rien d'autre pour lequel je peux rester ici."
 
 # game/UpdateScriptChristmasEvent.rpy:2933
 translate french christmas_club_7cefa8f6:
 
     # R "Good, because we've never needed you anyway!"
-    R "Bien, car nous n'avons jamais eu besoin de toi de toute façon!"
+    R "Bien, car nous n'avons jamais eu besoin de vous de toute façon!"
 
 # game/UpdateScriptChristmasEvent.rpy:2934
 translate french christmas_club_24e5c3c7:
@@ -9936,7 +9936,7 @@ translate french christmas_club_1e46c42f:
 translate french christmas_club_5f1fa3a7:
 
     # R "Oh, hell yeah!"
-    R "Oh, bon sang!"
+    R "Oh oui.... bien sûr."
 
 # game/UpdateScriptChristmasEvent.rpy:2939
 translate french christmas_club_f8a63d31:
@@ -9960,7 +9960,7 @@ translate french christmas_club_5b419665:
 translate french christmas_club_66a89c68:
 
     # GP "Yeah.... not really."
-    GP "Ouais.... Pas vraiment."
+    R ".... oui?..."
 
 # game/UpdateScriptChristmasEvent.rpy:2945
 translate french christmas_club_c8db3fc7:
@@ -10002,31 +10002,31 @@ translate french christmas_club_7ad0d7ee:
 translate french christmas_club_9d100de1:
 
     # M "Are you coming?"
-    M "Tu viens ?"
+    M "Merci beaucoup!"
 
 # game/UpdateScriptChristmasEvent.rpy:2955
 translate french christmas_club_5f1fa3a7_1:
 
     # R "Oh, hell yeah!"
-    R "Oh, bon sang!"
+    R "Oh oui.... bien sûr."
 
 # game/UpdateScriptChristmasEvent.rpy:2960
 translate french christmas_club_a695f80f:
 
     # M "So, are you ready for that lap dance?"
-    M "Alors, es-tu prêt pour ce tour de danse?"
+    M "Alors, êtes-vous prêt pour ce tour de danse?"
 
 # game/UpdateScriptChristmasEvent.rpy:2961
 translate french christmas_club_35f56a55:
 
     # R "You have no idea!"
-    R "Tu n'en as aucune idée!"
+    R "Tu aurais pu m'appeler."
 
 # game/UpdateScriptChristmasEvent.rpy:2962
 translate french christmas_club_0161667b:
 
     # M "Are you sure you're 21?"
-    M "Es-tu sûr d'avoir 21 ans?"
+    M "Êtes-vous sûr d'avoir 21 ans?"
 
 # game/UpdateScriptChristmasEvent.rpy:2963
 translate french christmas_club_61894366:
@@ -10038,7 +10038,7 @@ translate french christmas_club_61894366:
 translate french christmas_club_f7a245bb:
 
     # M "I'd have a hard time even believing that you're 18."
-    M "J'aurais même du mal à croire que tu as 18."
+    M "J'aurais du mal à croire que tu as 18 ans."
 
 # game/UpdateScriptChristmasEvent.rpy:2965
 translate french christmas_club_393321d4:
@@ -10062,7 +10062,7 @@ translate french christmas_club_e892e379:
 translate french christmas_club_b2c6cee4:
 
     # M "You're not from around here are you?"
-    M "Tu n'es pas d'ici, n'est-ce pas?"
+    M "Vous n'êtes pas d'ici, n'est-ce pas?"
 
 # game/UpdateScriptChristmasEvent.rpy:2969
 translate french christmas_club_4b40a928:
@@ -10086,7 +10086,7 @@ translate french christmas_club_ec2cc875:
 translate french christmas_club_3e295e72:
 
     # R "Yeah.... most people haven't."
-    R "Ouais.... la plupart des gens ne connaissent pas en fait."
+    R "Ouais.... la plupart des gens ne l'ont pas fait."
 
 # game/UpdateScriptChristmasEvent.rpy:2973
 translate french christmas_club_a9c37287:
@@ -10110,19 +10110,19 @@ translate french christmas_club_d8bf5ca9:
 translate french christmas_club_c4566c7d:
 
     # R "I just gave you $2,000. Don't you think I deserve more than a dance?"
-    R "Je viens de te donner 2'000$. Tu ne crois pas que je mérite plus qu'une danse ?"
+    R "Je viens de vous donner 2 000 $. Tu ne crois pas que je mérite plus qu'une danse ?"
 
 # game/UpdateScriptChristmasEvent.rpy:2977
 translate french christmas_club_bd793359:
 
     # M "I'm going to be rubbing my ass all over your dick. What more do you want?"
-    M "Je vais me frotter le cul sur ta bite. Que veux-tu de plus?"
+    M "Je vais me frotter le cul sur ta bite. Que voulez-vous de plus?"
 
 # game/UpdateScriptChristmasEvent.rpy:2978
 translate french christmas_club_60592929:
 
     # R "I was just wondering what you'd be willing to do for another two grand?"
-    R "Je me demandais juste ce que tu serais prête à faire pour deux autres milles?"
+    R "Je me demandais juste ce que vous seriez prêt à faire pour deux autres grands?"
 
 # game/UpdateScriptChristmasEvent.rpy:2981
 translate french christmas_club_fa111f57:
@@ -10140,7 +10140,7 @@ translate french christmas_club_53556959:
 translate french christmas_club_9b84a6f1:
 
     # R "Oh, no!.... I wasn't trying to put any presssure on you to fuck me. Although I wouldn't object if you were willing."
-    R "Oh, non!.... Je n'essayais pas de te pousser à me baiser. Bien que je ne m'y opposerais pas si tu le veux."
+    R "Oh, non!.... Je n'essayais pas de te pousser à me baiser. Bien que je ne m'y opposerais pas si vous le vouliez."
 
 # game/UpdateScriptChristmasEvent.rpy:2984
 translate french christmas_club_f6027dbd:
@@ -10152,7 +10152,7 @@ translate french christmas_club_f6027dbd:
 translate french christmas_club_a3a109c4:
 
     # M "A blowjob?"
-    M "Une fellation?"
+    M "[ryan], réveille-toi!"
 
 # game/UpdateScriptChristmasEvent.rpy:2986
 translate french christmas_club_204035d1:
@@ -10224,13 +10224,13 @@ translate french christmas_club_7c39d5bc:
 translate french christmas_club_1c553c11:
 
     # R "Really!?"
-    R "Vraiment!?"
+    R "Non vraiment.... cela peut arriver."
 
 # game/UpdateScriptChristmasEvent.rpy:2998
 translate french christmas_club_d85670c9:
 
     # M "Hurry before I change my mind..."
-    M "Dépêches-toi avant que je change d'avis..."
+    M "Dépêchez-vous avant de changer d'avis..."
 
 # game/UpdateScriptChristmasEvent.rpy:3002
 translate french christmas_club_58cf727c:
@@ -10278,7 +10278,7 @@ translate french christmas_club_ab3ce303:
 translate french christmas_club_9d6cd058:
 
     # GP "Oh, hey.... I'm done drinking, and I wanted to tell you that it's almost time to go!"
-    GP "Oh, salut.... J'ai fini de boire, et je voulais te dire qu'il est presque temps d'y aller!"
+    GP "Oh, salut.... J'ai fini de boire, et je voulais vous dire qu'il est presque temps d'y aller!"
 
 # game/UpdateScriptChristmasEvent.rpy:3020
 translate french christmas_club_1f713dd5:
@@ -10308,13 +10308,13 @@ translate french christmas_club_973c525a:
 translate french christmas_club_bc12f2a8:
 
     # GP "Wait! What the hell are you doing! You were just supposed to get a lap dance! Not let your own mother suck your cock!"
-    GP "Attends! Qu'est-ce que tu fais, bordel ! Tu devais juste faire un tour de danse! Ne laisses pas ta propre mère sucer ta bite!"
+    GP "Attendez! Qu'est-ce que tu fais, bordel ! Tu devais juste faire un tour de danse! Ne laissez pas votre propre mère sucer votre bite!"
 
 # game/UpdateScriptChristmasEvent.rpy:3039
 translate french christmas_club_739bf879:
 
     # GP "What a tramp! No wonder you're so messed up!"
-    GP "Quel piège ! Pas étonnant que tu sois si enfoiré !"
+    GP "Quel clochard! Pas étonnant que tu sois si foiré!"
 
 # game/UpdateScriptChristmasEvent.rpy:3042
 translate french christmas_club_bd3d21cd:
@@ -10368,7 +10368,7 @@ translate french christmas_club_d97998d8:
 translate french christmas_club_b92b0e39:
 
     # GP "I think you have a problem! You're like a cum fire hose!.... That much cum is not normal!"
-    GP "Je pense que tu as un problème! Tu es comme un tuyau d'incendie!.... Autant de sperme ce n'est pas normal!"
+    GP "Je pense que vous avez un problème! Tu es comme un tuyau d'incendie!.... Autant de sperme n'est pas normal!"
 
 # game/UpdateScriptChristmasEvent.rpy:3061
 translate french christmas_club_b6e55499_1:
@@ -10404,7 +10404,7 @@ translate french christmas_club_0eac5d99_1:
 translate french christmas_club_65f048e2_1:
 
     # GP "Well, the only thing you need to know about them right now is that you should expect the next ghost when the bell tolls two."
-    GP "Eh bien, la seule chose que tu dois savoir à leur sujet en ce moment est que tu devrais t'attendre au prochain fantôme lorsque la cloche sonnera deux fois."
+    GP "Eh bien, la seule chose que vous devez savoir à leur sujet en ce moment est que vous devriez vous attendre au prochain fantôme lorsque la cloche sonnera deux."
 
 # game/UpdateScriptChristmasEvent.rpy:3067
 translate french christmas_club_f39bd6d2_1:
@@ -10416,7 +10416,7 @@ translate french christmas_club_f39bd6d2_1:
 translate french christmas_club_b8d56e34_1:
 
     # GP "You know.... like the bell in the clock tower."
-    GP "Tu sais.... comme la cloche de la tour de l'horloge."
+    GP "Vous savez.... comme la cloche de la tour de l'horloge."
 
 # game/UpdateScriptChristmasEvent.rpy:3069
 translate french christmas_club_cd8d1862_1:
@@ -10428,7 +10428,7 @@ translate french christmas_club_cd8d1862_1:
 translate french christmas_club_251a6ba5_1:
 
     # GP "Well.... shit!"
-    GP "Bien.... Merde!"
+    L "Eh bien, c'était un peu gênant!"
 
 # game/UpdateScriptChristmasEvent.rpy:3071
 translate french christmas_club_48338516_1:
@@ -10440,7 +10440,7 @@ translate french christmas_club_48338516_1:
 translate french christmas_club_4f6b00da_1:
 
     # GP "I guess just go to sleep and the ghost will wake you up when it gets there."
-    GP "Je suppose qu'il suffit d'aller dormir et le fantôme te réveillera quand il y arrivera."
+    GP "Je suppose qu'il suffit d'aller dormir et le fantôme vous réveillera quand il y arrivera."
 
 # game/UpdateScriptChristmasEvent.rpy:3073
 translate french christmas_club_90f79fae:
@@ -10488,16 +10488,14 @@ translate french strings:
 
     # game/UpdateScriptChristmasEvent.rpy:6
     old "Ghost of XXX-mas Past"
-    new ""
-#--- ""
+    new "Fantôme du Noël x du passé"
 
     # game/UpdateScriptChristmasEvent.rpy:7
     old "Ghost of XXX-mas Present"
-    new ""
-#--- ""
+    new "Fantôme du Noël x du présent"
 
     # game/UpdateScriptChristmasEvent.rpy:8
     old "Ghost of XXX-mas Future"
-    new ""
-#--- ""
+    new "Fantôme du Noël x du futur"
+#--- "Ignore this. translate only: One"
 

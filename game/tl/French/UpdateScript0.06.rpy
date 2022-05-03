@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:36\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -1074,7 +1074,7 @@ translate french move_in_day_69ebb598:
 translate french move_in_day_8e64534a:
 
     # MD "You got it, Aunt [mom_name]."
-    MD "Tu l'as, Tante [mom_name]."
+    MD "C'est bon, Tante [mom_name]."
 
 # game/UpdateScript0.06.rpy:993
 translate french move_in_day_0287fbcc:
@@ -1092,7 +1092,7 @@ translate french move_in_day_11e4b5b6:
 translate french move_in_day_aa54bb7d:
 
     # M "Please don't make your attitude conditional on her!"
-    M "Veuillez ne pas lui subordonner votre attitude!"
+    M "Ne lui laisse pas subordonner ton attitude!"
 
 # game/UpdateScript0.06.rpy:998
 translate french move_in_day_a0525bab:
@@ -1746,7 +1746,7 @@ translate french sidney_bed_sex_9ac92c80:
 translate french sidney_bed_sex_cfa4ae8a:
 
     # S "What?"
-    S "Quoi?"
+    S "Quoi ?"
 
 # game/UpdateScript0.06.rpy:1367
 translate french sidney_bed_sex_39a98742:
@@ -1758,7 +1758,7 @@ translate french sidney_bed_sex_39a98742:
 translate french sidney_bed_sex_56b422f2:
 
     # S "Ok..."
-    S "D'accord..."
+    S "Ok..."
 
 # game/UpdateScript0.06.rpy:1369
 translate french sidney_bed_sex_d98009dc:
@@ -1914,7 +1914,7 @@ translate french sidney_bed_sex_30231946:
 translate french sidney_bed_sex_7dce3990:
 
     # R "Sidney... I'm going to..."
-    R "Sidney... J'y vais..."
+    R "Sidney... Je vais..."
 
 # game/UpdateScript0.06.rpy:1432
 translate french sidney_bed_sex_7fe7e2ba:
@@ -3006,7 +3006,7 @@ translate french ph_reading_time_664a228d:
 translate french ph_reading_time_504bad96:
 
     # RT "{i}Who is \"her?\"{/i}"
-    RT "{i}Qui est 't'elle?' {/i}"
+    RT "{i}Qui est-'elle?' {/i}"
 
 # game/UpdateScript0.06.rpy:1785
 translate french ph_reading_time_c4186265:
@@ -4368,7 +4368,7 @@ translate french mandybathspycam_d9c0cf6f:
 translate french mandybathspycam_abbc4049:
 
     # RT "{i}I've got to get a picture.{/i}"
-    RT "{i}Je dois prendre une photo.{/i}"
+    RT "{i}je dois me rapprocher. {/i}"
 
 # game/UpdateScript0.06.rpy:2250
 translate french mandybathspycam_2786ec1c:
@@ -7020,7 +7020,7 @@ translate french naughty_pranks_on_mom_32a05702:
 translate french naughty_pranks_on_mom_6d03abe7:
 
     # RT "{i}Ohhh... I'm gonna cum!{/i}"
-    RT "{i}Ohhhhh... Je vais jouir!{/i}"
+    RT "{i}Ohhh... Je vais jouir!{/i}"
 
 # game/UpdateScript0.06.rpy:3496
 translate french naughty_pranks_on_mom_382c52f5:
@@ -7764,7 +7764,7 @@ translate french moms_update_six_mbate_thoughts_cc9874e5:
 translate french moms_update_six_mbate_thoughts_1346ff7c:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    RT "{i}Et cela en fait 3 sur 3.{/i}"
+    RT "{i}Et cela fait 3 pour 3.{/i}"
 
 # game/UpdateScript0.06.rpy:3852
 translate french moms_update_six_mbate_thoughts_8213ea1f:
@@ -11094,7 +11094,7 @@ translate french truth_sequence_34143c45:
 translate french truth_sequence_09e910a4:
 
     # MD "No... it's an honest question... And I'm genuinely curious."
-    MD "Non... c'est une question honnête... Et je suis sincèrement curieux."
+    MD "Non... c'est une question honnête... Et je suis sincèrement curieuse."
 
 # game/UpdateScript0.06.rpy:5010
 translate french truth_sequence_52709e40:
@@ -16506,7 +16506,7 @@ translate french mandyhornybedroom_132a06b5:
 translate french mandyhornybedroom_13e11303:
 
     # RT "{i}I guess I'll go check on Aunt Cami.{/i}"
-    RT "{i}Je suppose que je vais aller voir tante Cami.{/i}"
+    RT "{i}Je suppose que je vais aller voir Camille.{/i}"
 
 # game/UpdateScript0.06.rpy:6877
 translate french mandyhornybedroom_a31e5ecd:
@@ -17994,7 +17994,7 @@ translate french diaz_is_back_4b04ae8e_4:
 translate french diaz_is_back_7f2a85a6:
 
     # MD "Thank you for rescuing us!"
-    MD "Merci de nous avoir sauvés !"
+    MD "Merci de nous avoir sauvées !"
 
 # game/UpdateScript0.06.rpy:7423
 translate french diaz_is_back_76e3dbec:
@@ -18648,7 +18648,7 @@ translate french diaz_is_back_1820ad4f:
 translate french diaz_is_back_c432d8f6:
 
     # AD "Mandy saw Lauren smoking in the school bathroom, and came to me to tattle."
-    AD "Mandy a vu Lauren fumer dans la salle de bain, et est venu cafter."
+    AD "Mandy a vu Lauren fumer dans la salle de bain, et est venu me voir pour cafter."
 
 # game/UpdateScript0.06.rpy:7634
 translate french diaz_is_back_2cdfb8bf:
@@ -19104,7 +19104,7 @@ translate french diaz_is_back_bcd848a4_1:
 translate french diaz_is_back_50560e02:
 
     # ADT "{i}It's a rare thing to find a family that's this perverted.{/i}"
-    ADT "{i}C'est une chose rare de trouver une famille aussi pervertie.{/i}"
+    ADT "{i}C'est une chose rare de trouver une famille qui est pervertie. {/i}"
 
 # game/UpdateScript0.06.rpy:7752
 translate french diaz_is_back_1c461274_1:
@@ -21504,7 +21504,7 @@ translate french both_caught_e29c4414:
 translate french both_caught_f1c4b8d8:
 
     # MT "..."
-    new "[MT]..."
+    MT "..."
 
 # game/UpdateScript0.06.rpy:8545
 translate french both_caught_9eaf5062:
@@ -23874,7 +23874,7 @@ translate french sid_sex_event_eb293ea1:
 translate french sid_sex_event_999048c1:
 
     # VP "...."
-    new "[VP]...."
+    VP "...."
 
 # game/UpdateScript0.06.rpy:9234
 translate french sid_sex_event_216ce321:
@@ -25098,7 +25098,7 @@ translate french find_sidney_00c977b4:
 translate french find_sidney_d6aa9611:
 
     # RT "{i}What's behind this doo...{/i}"
-    RT "{i}Qu'est-ce qui se cache derrière ce doo...{/i}"
+    RT "{i}Qu'est-ce qui se cache derrière cette port...{/i}"
 
 # game/UpdateScript0.06.rpy:9624
 translate french find_sidney_d6aa9611_1:
@@ -25116,7 +25116,7 @@ translate french find_sidney_aec4b66d:
 translate french find_sidney_a745c0e3:
 
     # RT "{i}Is that Sidny and Armani in the tights?{/i}"
-    RT "{i}Est-ce que Sidny et Armani sont dans les bras ?{/i}"
+    RT "{i}Est-ce que Sidny et Armani sont en collants?{/i}"
 
 # game/UpdateScript0.06.rpy:9632
 translate french find_sidney_66a3a5f5:
@@ -26034,7 +26034,7 @@ translate french find_sidney_1c03a980:
 translate french find_sidney_debfa8cd:
 
     # R "I'm sorry! It's just too risky!"
-    R "Je suis désolé ! C'est trop risqué !"
+    R "Je suis désolé! C'est trop risqué !"
 
 # game/UpdateScript0.06.rpy:9904
 translate french find_sidney_9a89b2c2:
@@ -26118,7 +26118,7 @@ translate french find_sidney_7984de58:
 translate french find_sidney_97756f08:
 
     # S "What the hell?... I told you not to cum in my pussy!"
-    S "C'est quoi ce bordel ?... Je t'ai dit de ne pas jouir dans ma chatte !"
+    S "C'est quoi ce bordel?... Je t'ai dit de ne pas jouir dans ma chatte !"
 
 # game/UpdateScript0.06.rpy:9956
 translate french find_sidney_332274ab:
@@ -26916,7 +26916,7 @@ translate french club_sex_9a89b2c2:
 translate french club_sex_3b8104b6:
 
     # S "Fuck, [ryan]! That is so... much... cum!"
-    S "Putain, [ryan]! Il en est ainsi... beaucoup... jouis!"
+    S "Putain, [ryan]! Il y a... beaucoup... de sperme!"
 
 # game/UpdateScript0.06.rpy:10271
 translate french club_sex_ce51531c:
@@ -27030,7 +27030,7 @@ translate french club_sex_445042f6_1:
 translate french club_sex_97756f08:
 
     # S "What the hell?... I told you not to cum in my pussy!"
-    S "C'est quoi ce bordel ?... Je t'ai dit de ne pas jouir dans ma chatte !"
+    S "C'est quoi ce bordel?... Je t'ai dit de ne pas jouir dans ma chatte !"
 
 # game/UpdateScript0.06.rpy:10331
 translate french club_sex_332274ab:
@@ -30900,7 +30900,7 @@ translate french advanced_ph_shoot_continued_0b243e4b:
 translate french advanced_ph_shoot_continued_b9ce595c:
 
     # R "Wow! You're a great storyteller. I felt like I was in the story."
-    R "Wow ! Tu es une grande contesse. J'avais l'impression d'être dans l'histoire."
+    R "Wow! Tu es une grande conteuse. J'avais l'impression d'être dans l'histoire."
 
 # game/UpdateScript0.06.rpy:11818
 translate french advanced_ph_shoot_continued_ea166723:
@@ -43680,7 +43680,7 @@ translate french megan_spanked_d1e35401:
 translate french megan_spanked_8f6b40ee:
 
     # RT "{i}What a relief... She's finally doing something without me having to convince her... I'm almost out of bullshit.{/i}"
-    RT "{i}Quel soulagement... Elle fait enfin quelque chose sans que je doive la convaincre... Je n'ai presque plus d’emmerdements.{/i}"
+    RT "{i}Quel soulagement... Elle fait enfin quelque chose sans que je doive la convaincre... Je n'ai presque plus d'emerdements.{/i}"
 
 # game/UpdateScript0.06.rpy:15399
 translate french megan_spanked_f1c01ca0:
@@ -44070,7 +44070,7 @@ translate french megan_spanked_e6e33275:
 translate french megan_spanked_71d58ccb:
 
     # MB "Or... Whatever you want to call them."
-    MB "Ou... Peu importe comment vous voulez les appeler."
+    MB "Ou... Peu importe comment tu veux les appeler."
 
 # game/UpdateScript0.06.rpy:15528
 translate french megan_spanked_d29750b5_1:
@@ -46614,7 +46614,7 @@ translate french no_panties_shot_22f04a95:
 translate french no_panties_shot_063039c7:
 
     # MT "{i}What is wrong with me?{/i}"
-    MT "{i}Qu’est-ce qui ne va pas chez moi? {/i}"
+    MT "{i}Qu'est-ce qui ne va pas chez moi?{/i}"
 
 # game/UpdateScript0.06.rpy:16282
 translate french no_panties_shot_e9919e8f:
@@ -46836,7 +46836,7 @@ translate french no_panties_shot_3ea5fd8b:
 translate french no_panties_shot_bc043fe9:
 
     # R "You ok, Mom?"
-    R "Tu vas bien, maman ?"
+    R "Ça va, Maman?"
 
 # game/UpdateScript0.06.rpy:16332
 translate french no_panties_shot_045c753c:
@@ -46902,7 +46902,7 @@ translate french no_panties_shot_3b8f4c46:
 translate french no_panties_shot_c0294650:
 
     # M "Well... You're not going to."
-    M "Bien... Tu ne le feras pas."
+    M "Eh bien... Tu ne vas pas le faire."
 
 # game/UpdateScript0.06.rpy:16346
 translate french no_panties_shot_c5c4460a:
@@ -49056,7 +49056,7 @@ translate french wr_sex_event_c06a627d:
 translate french wr_sex_event_2229bab9:
 
     # S "Wow!... I'm getting pretty good at that aren't I?..."
-    S "Wow !... Je deviens plutôt bon à ça, n'est-ce pas ?..."
+    S "Wow !... Je deviens plutôt bonne à ça, n'est-ce pas ?..."
 
 # game/UpdateScript0.06.rpy:17078
 translate french wr_sex_event_ac922b67:
@@ -49068,7 +49068,7 @@ translate french wr_sex_event_ac922b67:
 translate french wr_sex_event_dcd73c55:
 
     # R "Holy shit, yes!..."
-    R "Putain de merde, oui !..."
+    R "Putain de merde, oui!..."
 
 # game/UpdateScript0.06.rpy:17081
 translate french wr_sex_event_409592a2:
@@ -49884,531 +49884,426 @@ translate french strings:
 
     # game/UpdateScript0.06.rpy:6
     old "SWAT Guy"
-    new ""
-#--- ""
+    new "Le Gars de SWAT"
 
     # game/UpdateScript0.06.rpy:7
     old "Charlie the Chin"
-    new ""
-#--- ""
+    new "Charlie le Chin"
 
     # game/UpdateScript0.06.rpy:8
     old "Voice on Phone"
-    new ""
-#--- ""
+    new "Voix au téléphone"
 
     # game/UpdateScript0.06.rpy:9
     old "Stripper"
-    new ""
-#--- ""
+    new "Stripteaseuse"
 
     # game/UpdateScript0.06.rpy:10
     old "Stripper's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de la stripteaseuse"
 
     # game/UpdateScript0.06.rpy:11
     old "Candy"
-    new ""
-#--- ""
+    new "Candy"
 
     # game/UpdateScript0.06.rpy:12
     old "Candy's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de Candy"
 
     # game/UpdateScript0.06.rpy:13
     old "Player 1"
-    new ""
-#--- ""
+    new "Joueur 1"
 
     # game/UpdateScript0.06.rpy:14
     old "Hermione Bang'er"
-    new ""
-#--- ""
+    new "Le baiseur d'Hermione"
 
     # game/UpdateScript0.06.rpy:15
     old "Hermione's Thoughts"
-    new ""
-#--- ""
+    new "Les pensées d'Hermione"
 
     # game/UpdateScript0.06.rpy:16
     old "Professor McGargleCum"
-    new ""
-#--- ""
+    new "Professeur McGargleCum"
 
     # game/UpdateScript0.06.rpy:17
     old "Professor McGargleCum's Thoughts"
-    new ""
-#--- ""
+    new "Pensées du professeur McGargleCum"
 
     # game/UpdateScript0.06.rpy:18
     old "Eerie Voice"
-    new ""
-#--- ""
+    new "Voix étrange"
 
     # game/UpdateScript0.06.rpy:19
     old "Megan's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de Megan"
 
     # game/UpdateScript0.06.rpy:20
     old "Will Tylor's Thoughts"
-    new ""
-#--- ""
+    new "Les pensées de Will Tylor"
 
     # game/UpdateScript0.06.rpy:767
     old "If I can watch what happens in the van later, I will."
-    new ""
-#--- ""
+    new "Si je peux regarder ce qui se passe dans le van plus tard, je le ferai."
 
     # game/UpdateScript0.06.rpy:767
     old "Alright... anything to get that image of Diaz in the van out of my head."
-    new ""
-#--- ""
+    new "D'accord... tout pour que cette image de Diaz dans la camionnette me sorte de la tête."
 
     # game/UpdateScript0.06.rpy:991
     old "I'm in!"
-    new ""
-#--- ""
+    new "Ok!"
 
     # game/UpdateScript0.06.rpy:991
     old "Only if Aunt Cami does."
-    new ""
-#--- ""
+    new "Seulement si tante Camille le fait."
 
     # game/UpdateScript0.06.rpy:1174
     old "Mess around."
-    new ""
-#--- ""
+    new "Bordel."
 
     # game/UpdateScript0.06.rpy:1174
     old "Go to sleep."
-    new ""
-#--- ""
+    new "Aller dormir."
 
     # game/UpdateScript0.06.rpy:1191
     old "Sixty nine."
-    new ""
-#--- ""
+    new "Soixante-neuf."
 
     # game/UpdateScript0.06.rpy:1191
     old "Have sex!"
-    new ""
-#--- ""
+    new "Faire l'amour!"
 
     # game/UpdateScript0.06.rpy:1777
     old "NO"
-    new ""
-#--- ""
+    new "NON"
 
     # game/UpdateScript0.06.rpy:2497
     old "Peek up her skirt."
-    new ""
-#--- ""
+    new "Jetez un coup d'œil sous sa jupe."
 
     # game/UpdateScript0.06.rpy:2497
     old "Better Not."
-    new ""
-#--- ""
+    new "Mieux vaut pas."
 
     # game/UpdateScript0.06.rpy:3151
     old "I should leave."
-    new ""
-#--- ""
+    new "Je devrais partir."
 
     # game/UpdateScript0.06.rpy:3198
     old "look closer"
-    new ""
-#--- ""
+    new "regarder de plus près"
 
     # game/UpdateScript0.06.rpy:3198
     old "Resist and say hi"
-    new ""
-#--- ""
+    new "Résister et dire bonjour"
 
     # game/UpdateScript0.06.rpy:3441
     old "Footjob."
-    new ""
-#--- ""
+    new "Branlette des pieds."
 
     # game/UpdateScript0.06.rpy:3441
     old "Hotdog her ass."
-    new ""
-#--- ""
+    new "Bite entre ses fesses."
 
     # game/UpdateScript0.06.rpy:3537
     old "Take off her panties."
-    new ""
-#--- ""
+    new "Enlever sa culotte."
 
     # game/UpdateScript0.06.rpy:3602
     old "Take off her bra."
-    new ""
-#--- ""
+    new "Enlever son soutien-gorge."
 
     # game/UpdateScript0.06.rpy:3613
     old "How about a foot job?"
-    new ""
-#--- ""
+    new "Que dirais-tu d'une branlette avec les pieds?"
 
     # game/UpdateScript0.06.rpy:3674
     old "Check spycam."
-    new ""
-#--- ""
+    new "Vérifier la caméra espion."
 
     # game/UpdateScript0.06.rpy:3674
     old "Who cares?"
-    new ""
-#--- ""
+    new "Qui s'en soucie ?"
 
     # game/UpdateScript0.06.rpy:3980
     old "Knock."
-    new ""
-#--- ""
+    new "Toquer."
 
     # game/UpdateScript0.06.rpy:4061
     old "Fuck Lauren's thighs"
-    new ""
-#--- ""
+    new "Baiser les cuisses de Lauren"
 
     # game/UpdateScript0.06.rpy:4249
     old "knock"
-    new ""
-#--- ""
+    new "toquer"
 
     # game/UpdateScript0.06.rpy:4249
     old "Leave them alone tonight."
-    new ""
-#--- ""
+    new "Les laisser tranquilles ce soir."
 
     # game/UpdateScript0.06.rpy:4263
     old "Flash them."
-    new ""
-#--- ""
+    new "Regarder son intimité."
 
     # game/UpdateScript0.06.rpy:4339
     old "Truth"
-    new ""
-#--- ""
+    new "Vérité"
 
     # game/UpdateScript0.06.rpy:4339
     old "Dare"
-    new ""
-#--- ""
+    new "Action"
 
     # game/UpdateScript0.06.rpy:4351
     old "Aunt Cami"
-    new ""
-#--- ""
+    new "Tante Camille"
 
     # game/UpdateScript0.06.rpy:4351
     old "Uncle Bobby"
-    new ""
-#--- ""
+    new "Oncle Bobby"
 
     # game/UpdateScript0.06.rpy:4659
     old "Take a look."
-    new ""
-#--- ""
+    new "Regarder."
 
     # game/UpdateScript0.06.rpy:4659
     old "I don't feel like it."
-    new ""
-#--- ""
+    new "Je n'en ai pas envie."
 
     # game/UpdateScript0.06.rpy:4682
     old "Mischief with Lauren"
-    new ""
-#--- ""
+    new "Bêtises avec Lauren"
 
     # game/UpdateScript0.06.rpy:4682
     old "Not tonight"
-    new ""
-#--- ""
+    new "Pas ce soir"
 
     # game/UpdateScript0.06.rpy:4697
     old "Lift her shirt"
-    new ""
-#--- ""
+    new "Soulever sa chemise"
 
     # game/UpdateScript0.06.rpy:4702
     old "Use Lauren's hand."
-    new ""
-#--- ""
+    new "Utiliser la main de Lauren."
 
     # game/UpdateScript0.06.rpy:4702
     old "Use Lauren's feet."
-    new ""
-#--- ""
+    new "Utiliser les pieds de Lauren."
 
     # game/UpdateScript0.06.rpy:4792
     old "lift her shirt"
-    new ""
-#--- ""
+    new "soulever sa chemise"
 
     # game/UpdateScript0.06.rpy:4915
     old "Truth (always a safe bet)"
-    new ""
-#--- ""
+    new "Vérité (toujours une valeur sûre)"
 
     # game/UpdateScript0.06.rpy:4915
     old "Safe dare ({i}Submission {b}5 {color=#0000ff}or{/color}{/b} Libido {b}8{/b}{/i} )"
-    new ""
-#--- ""
+    new "Jouer la sécurité ({i}Soumission {b}5 {color=#0000ff}ou{/color}{/b} Libido {b}8{/b}{/i})"
 
     # game/UpdateScript0.06.rpy:4915
     old "Slightly risky dare ({i}Submission {b}8 {color=#0000ff}or{/color}{/b} Libido {b}9{/b}{/i} )"
-    new ""
-#--- ""
+    new "Action légèrement risquée ({i}Soumission {b}8 {color=#0000ff}ou{/color}{/b} Libido {b}9{/b}{/i})"
 
     # game/UpdateScript0.06.rpy:4915
     old "Risky dare ({i}Submission {b}12{/b}{/i} )"
-    new ""
-#--- ""
+    new "Action risquée ({i}Soumission {b}12{/b}{/i})"
 
     # game/UpdateScript0.06.rpy:4915
     old "Very risky dare ({i}Submission {b}17{/b}{/i})"
-    new ""
-#--- ""
+    new "Action très risquée ({i}Soumission {b}17{/b}{/i})"
 
     # game/UpdateScript0.06.rpy:4944
     old "Missionary"
-    new ""
-#--- ""
+    new "Missionnaire"
 
     # game/UpdateScript0.06.rpy:4944
     old "Doggy"
-    new ""
-#--- ""
+    new "Chien"
 
     # game/UpdateScript0.06.rpy:4944
     old "Cowgirl"
-    new ""
-#--- ""
+    new "Col-girl"
 
     # game/UpdateScript0.06.rpy:4944
     old "Doesn't matter, as long as it's anal."
-    new ""
-#--- ""
+    new "Peu importe, tant que c'est anal."
 
     # game/UpdateScript0.06.rpy:6364
     old "Mandy Handjob"
-    new ""
-#--- ""
+    new "Branlette de Mandy"
 
     # game/UpdateScript0.06.rpy:6823
     old "Take a closer look."
-    new ""
-#--- ""
+    new "Regarder de plus près."
 
     # game/UpdateScript0.06.rpy:7105
     old "Of course I'll protect them!"
-    new ""
-#--- ""
+    new "Bien sûr que je les protégerai!"
 
     # game/UpdateScript0.06.rpy:7105
     old "Shit!.... I don't have the money to protect them this week!"
-    new ""
-#--- ""
+    new "Merde!.... Je n'ai pas l'argent pour les protéger cette semaine !"
 
     # game/UpdateScript0.06.rpy:7105
     old "I need that money elsewhere.... their asses will have to pay the bill this week."
-    new ""
-#--- ""
+    new "J'ai besoin de cet argent pour autre chose.... Leurs culs devront payer la facture cette semaine."
 
     # game/UpdateScript0.06.rpy:7189
     old "Pay her $1,000."
-    new ""
-#--- ""
+    new "Le payer 1'000$."
 
     # game/UpdateScript0.06.rpy:7189
     old "Let Lauren and Mandy pay in favors"
-    new ""
-#--- ""
+    new "Laisser Lauren et Mandy payer en faveur sexuelle"
 
     # game/UpdateScript0.06.rpy:8594
     old "Yes! I don't want to see any NTR shit!"
-    new ""
-#--- ""
+    new "Oui ! Je ne veux pas voir de merde de NTR!"
 
     # game/UpdateScript0.06.rpy:8594
     old "No, for fucks sake! Stop asking. Let me enjoy my punishment."
-    new ""
-#--- ""
+    new "Non, pour l'amour de Dieu! Arrête de me demander. Laisse-moi profiter de ma punition."
 
     # game/UpdateScript0.06.rpy:9327
     old "Please... I don't have time for this!"
-    new ""
-#--- ""
+    new "S'il te plaît... Je n'ai pas le temps pour ça !"
 
     # game/UpdateScript0.06.rpy:9327
     old "I don't have enough money."
-    new ""
-#--- ""
+    new "Je n'ai pas assez d'argent."
 
     # game/UpdateScript0.06.rpy:9379
     old "Please... I've got to run!"
-    new ""
-#--- ""
+    new "S'il te plaît... Je y aller!"
 
     # game/UpdateScript0.06.rpy:9423
     old "I'm out of cash"
-    new ""
-#--- ""
+    new "Je n'ai plus d'argent"
 
     # game/UpdateScript0.06.rpy:9867
     old "Fill her pussy! {i}(Best if Sidney's affection is 10 or greater.){/i}"
-    new ""
-#--- ""
+    new "Remplir sa chatte! {i}(Mieux si l'affection de Sidney est de 10 ou plus.){/i}"
 
     # game/UpdateScript0.06.rpy:10089
     old "Can we?... You know...."
-    new ""
-#--- ""
+    new "On peut ?... Tu sais...."
 
     # game/UpdateScript0.06.rpy:10455
     old "Buy a lapdance. ($50)"
-    new ""
-#--- ""
+    new "Acheter un lap-dance. (50$)"
 
     # game/UpdateScript0.06.rpy:10455
     old "I'm too poor!"
-    new ""
-#--- ""
+    new "Je suis trop pauvre !"
 
     # game/UpdateScript0.06.rpy:10455
     old "Sorry, not today."
-    new ""
-#--- ""
+    new "Désolé, pas aujourd'hui."
 
     # game/UpdateScript0.06.rpy:10455
     old "Get to know Candy."
-    new ""
-#--- ""
+    new "Apprendre à connaître Candy."
 
     # game/UpdateScript0.06.rpy:10755
     old "A) Obviously to kill baby Moldevort."
-    new ""
-#--- ""
+    new "A) Évidemment pour tuer le bébé Moldevort."
 
     # game/UpdateScript0.06.rpy:10755
     old "B) To stop the dementors gangbang with Hermione"
-    new ""
-#--- ""
+    new "B) Pour arrêter le gang-bang des détracteurs avec Hermione"
 
     # game/UpdateScript0.06.rpy:10755
     old "C) To save Hermione's new love interest, Blackbeak."
-    new ""
-#--- ""
+    new "C) Pour sauver le nouvel amour d'Hermione, Blackbeak."
 
     # game/UpdateScript0.06.rpy:10803
     old "A) Secret sex dungeon?"
-    new ""
-#--- ""
+    new "A) Donjon sexuel secret?"
 
     # game/UpdateScript0.06.rpy:10803
     old "B) Aren't they just metephors for a girls vagina and asshole?"
-    new ""
-#--- ""
+    new "B) Ne sont-ils pas juste des métaphores pour un vagin et un trou du cul de filles?"
 
     # game/UpdateScript0.06.rpy:10803
     old "C) For sexual awakening?"
-    new ""
-#--- ""
+    new "C) Pour l'éveil sexuel?"
 
     # game/UpdateScript0.06.rpy:10846
     old "A) The boy who jizzed?"
-    new ""
-#--- ""
+    new "A) Le garçon qui a éjaculé?"
 
     # game/UpdateScript0.06.rpy:10846
     old "B) The boy with the golden snatch?"
-    new ""
-#--- ""
+    new "B) Le garçon avec le cafteur d'or?"
 
     # game/UpdateScript0.06.rpy:10846
     old "C) The boy who cockblocked Moldevort?"
-    new ""
-#--- ""
+    new "C) Le garçon qui a enculé Moldevort?"
 
     # game/UpdateScript0.06.rpy:10941
     old "Watch recap"
-    new ""
-#--- ""
+    new "Regarder le récapitulatif"
 
     # game/UpdateScript0.06.rpy:10941
     old "Jump to the photo shoot."
-    new ""
-#--- ""
+    new "Aller à la séance photo."
 
     # game/UpdateScript0.06.rpy:11799
     old "Stay in story mode."
-    new ""
-#--- ""
+    new "Restez en mode histoire."
 
     # game/UpdateScript0.06.rpy:11799
     old "In photo shoot mode."
-    new ""
-#--- ""
+    new "En mode séance photo."
 
     # game/UpdateScript0.06.rpy:11799
     old "Skip to the end."
-    new ""
-#--- ""
+    new "Passer à la fin."
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Megan lick Mom's boot. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Demander à Megan de lécher les bottes de maman. {i}(soumission 5+ {b}{color=#0000ff}ou{/color}{/b} libido 9+){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Mom rip open Megan's shirt. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Demander à maman d'ouvrir la chemise de Megan. {i}(soumission +7 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Mom tie Megan up and humiliate her. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
-#--- ""
+    new "Demander à maman d'attacher Megan et de l'humilier. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Mom expose her breasts and gag Megan. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Demander à maman d'exposer ses seins et de bâillonner Mégan. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Mom remove Megan's panties and spank her. {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Demander à maman d'enlever la culotte de Megan et de lui donner une fessée. {i}(soumission +19){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Have Mom remove her panties and pose with Megan. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "Demander à maman d'enlever sa culotte et de poser avec Megan. {i}(soumission +25){/i}"
 
     # game/UpdateScript0.06.rpy:11894
     old "Maybe we should end the shoot for today."
-    new ""
-#--- ""
+    new "On devrait peut-être finir le tournage pour aujourd'hui."
 
     # game/UpdateScript0.06.rpy:14265
     old "Megan needs a gag in her mouth. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Megan a besoin d'un bâton dans sa bouche. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.06.rpy:14265
     old "Megan needs her bare ass spanked. {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Megan a besoin d'une fessée sur son cul nu. {i}(soumission +19){/i}"
 
     # game/UpdateScript0.06.rpy:14265
     old "We need a really good full nudity pose. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "J'ai besoin d'une très bonne pose de nu complet. {i}(soumission +25){/i}"
 
     # game/UpdateScript0.06.rpy:15507
     old "We need a really good full nudity shot. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "J'ai besoin d'une très bonne photo de nu complet. {i}(soumission +25){/i}"
+#--- "Ignore this. translate only: One"
 

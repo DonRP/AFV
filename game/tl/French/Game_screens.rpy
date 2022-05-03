@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:33\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -18,36 +18,30 @@ translate french strings:
 
     # game/Game_screens.rpy:59
     old " My\nRoom"
-    new ""
-#--- ""
+    new " Ma\nchambre"
 
     # game/Game_screens.rpy:77
     old "Bath"
-    new ""
-#--- ""
+    new "Bain"
 
     # game/Game_screens.rpy:110
     old "City"
-    new ""
-#--- ""
+    new "Ville"
 
     # game/Game_screens.rpy:125
     old "Hallway"
-    new ""
-#--- ""
+    new "Hall"
 
     # game/Game_screens.rpy:134
     old "Class"
-    new ""
-#--- ""
+    new "Salle \n de \nclasse"
 
     # game/Game_screens.rpy:152
     old "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
-    new ""
-#--- ""
+    new "Casier\n des \nfilles"
 
     # game/Game_screens.rpy:208
     old "Campaign\n   HQ"
-    new ""
-#--- ""
+    new "  QG de \nCampagne"
+#--- "Ignore this. translate only: One"
 

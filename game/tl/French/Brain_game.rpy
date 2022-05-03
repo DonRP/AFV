@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:32\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -42,11 +42,10 @@ translate french strings:
 
     # game/Brain_game.rpy:497
     old "You lose!"
-    new ""
-#--- ""
+    new "Vous avez perdu !"
 
     # game/Brain_game.rpy:519
     old "YOU WON!!!"
-    new ""
-#--- ""
+    new "VOUS AVEZ GAGNÉ !!!"
+#--- "Ignore this. translate only: One"
 

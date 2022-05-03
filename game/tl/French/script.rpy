@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:35\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -150,7 +150,7 @@ translate french gamestart_b068f8f2:
 translate french gamestart_6d94f86d:
 
     # R "I'd tell them to get the fuck out of my room!"
-    R "merde, je leur disais de sortir de ma chambre!"
+    R "Merde, je leur dirais de sortir de ma chambre!"
 
 # game/script.rpy:697
 translate french gamestart_882cacf9:
@@ -204,7 +204,7 @@ translate french peek_3341b692:
 translate french peek_5a1372bb:
 
     # MT "{i}Did my boy just look down my robe?.... {/i}"
-    MT "{i}Mon garçon n'a-t-il pas regardé sous ma robe?.... {/i}"
+    MT "{i}Mon garçon n'a-t-il pas regardé ma poitrine dans ma robe?.... {/i}"
 
 # game/script.rpy:718
 translate french peek_7c440bee:
@@ -270,7 +270,7 @@ translate french gross_2702cdee:
 translate french main_48550dd5:
 
     # R "Dad! Are you ok? Why are you in jail?!"
-    R "papa! Tu vas bien? Pourquoi es-tu en prison?!"
+    R "Papa! Tu vas bien? Pourquoi es-tu en prison?!"
 
 # game/script.rpy:748
 translate french main_e424ec5d:
@@ -282,7 +282,7 @@ translate french main_e424ec5d:
 translate french main_7d94ec04:
 
     # R "Shouldn't you have called your lawyer?"
-    R "n’aurais-tu pas dû appeler ton avocat?"
+    R "N’aurais-tu pas dû appeler ton avocat?"
 
 # game/script.rpy:750
 translate french main_8c30da8a:
@@ -324,7 +324,7 @@ translate french main_c3c55ed3:
 translate french main_1b795747:
 
     # R "Of course Dad! Are you going to be ok?"
-    R "Bien sûr Papa! Ça va aller ?"
+    R "Je t'en prie, papa! Ça va aller ?"
 
 # game/script.rpy:759
 translate french main_29fe1190:
@@ -3936,7 +3936,7 @@ translate french sidneyenters_e4c8e9ae:
 translate french sidneyenters_cd5fea1e:
 
     # M "Honey! Please just sit and try to calm down. Then you can tell us what's wrong."
-    M "Chéris! S'il vous plait, asseyez-vous et essayez de vous calmer. Ensuite, tu peux nous dire ce qui ne va pas."
+    M "Chérie! S'il te plait, assieds-toi et essaies de te calmer. Ensuite, tu peux nous dire ce qui ne va pas."
 
 # game/script.rpy:4078
 translate french sidneyenters_eaa0af85:
@@ -4056,7 +4056,7 @@ translate french sidneyenters_e3112721:
 translate french sidneyenters_9cd7fc4b:
 
     # M "Honey, I will feel much better if you can find a better way to make money than working at your father's warehouse."
-    M "Chérie, je me sentirai beaucoup mieux si tu trouves un meilleur moyen de gagner de l'argent que de travailler dans l'entrepôt de ton père."
+    M "Chéri, je me sentirai beaucoup mieux si tu trouves un meilleur moyen de gagner de l'argent que de travailler dans l'entrepôt de ton père."
 
 # game/script.rpy:4104
 translate french sidneyenters_a6613a93:
@@ -4080,7 +4080,7 @@ translate french sidneyenters_fb8bb52b:
 translate french sidneyenters_abbca5c9:
 
     # M "[ryan]! Language! Please!"
-    M "[ryan]! Tins ta langue! S'il te plaît!"
+    M "[ryan]! Tiens ta langue! S'il te plaît!"
 
 # game/script.rpy:4108
 translate french sidneyenters_ca7862cc:
@@ -5802,7 +5802,7 @@ translate french momnightstand_18b9b842_2:
 translate french momnightstand_1ab296cb:
 
     # RT "{i}Nope.... no loose money lying around.{/i}"
-    new "[RT]{i}Non... pas d'argent à portée de main.{/i}"
+    RT "{i}Non... pas d'argent à portée de main.{/i}"
 
 # game/script.rpy:4984
 translate french momdresser_2ae2e421:
@@ -8130,7 +8130,7 @@ translate french sidneylaurensneakingnight_89808008:
 translate french sidneylaurensneakingnight_a82af8f5:
 
     # RT "{i}It's always going to be hard for me to get away with much if they are in the same bed.{/i}"
-    RT "{i}Ce sera toujours difficile pour moi de m'en tirer avec beaucoup s'ils sont dans le même lit.{/i}"
+    RT "{i}Ce sera toujours difficile pour moi de m'en tirer avec beaucoup de chance si elles sont dans le même lit.{/i}"
 
 # game/script.rpy:6415
 translate french sidneylaurensneakingnight_f00d32cc:
@@ -9372,7 +9372,7 @@ translate french stripclub_88b6beea:
 translate french warehous_studion_6c06a23a:
 
     # RT "{i}Ok, off to the studio!{/i}"
-    RT "{i}Ok, hors du studio! {/i}"
+    RT "{i}Ok, allons au studio!{/i}"
 
 # game/script.rpy:7289
 translate french warehouse_66905161:
@@ -9408,7 +9408,7 @@ translate french warehouse_76fc90e2:
 translate french warehouse_35885d12:
 
     # RT "{i}Ok, off to the warehouse!{/i}"
-    RT "{i}Ok, hors de l'entrepôt !{/i}"
+    RT "{i}Ok, en route pour l'entrepôt !{/i}"
 
 # game/script.rpy:7315
 translate french warehouse_1779dff4:
@@ -9456,19 +9456,19 @@ translate french warehouse_c3754572:
 translate french warehouse_d9714301:
 
     # B "The Feds got wise to us, is what's going on."
-    B "Les fédéraux sont devenus sages avec nous, voilà ce qui se passe."
+    B "Les fédéraux sont devenus méfiants avec nous, voilà ce qui se passe."
 
 # game/script.rpy:7332
 translate french warehouse_6d663920:
 
     # R "The Feds got wise to what?"
-    R "Les Fédéraux sont devenus sages pour quoi?"
+    R "Les Fédéraux sont devenus méfiants pour quoi?"
 
 # game/script.rpy:7334
 translate french warehouse_51c79197:
 
     # B "To our not so legitimate business operations."
-    B "À nos opérations commerciales pas si légitimes que ça."
+    B "À nos opérations commerciales pas si légales que ça."
 
 # game/script.rpy:7335
 translate french warehouse_135bab17:
@@ -9684,7 +9684,7 @@ translate french warehouse_4f5187e9:
 translate french warehouse_e277ab6f:
 
     # B "The clients will pay you directly, and you can keep the money they give you."
-    B "Les clients te paieront directement et tus pourras conserver l'argent qu'ils te donnent."
+    B "Les clients te paieront directement et tu pourras conserver l'argent qu'ils te donnent."
 
 # game/script.rpy:7385
 translate french warehouse_b85c8284:
@@ -10362,7 +10362,7 @@ translate french dinnerfirst_32f0afae:
 translate french dinnerfirst_23a6c031:
 
     # L "OMG [ryan], you missed everything! A bunch of hunky FBI guys were here digging through all our junk, combing through our trash. They even copied everything on my phone and our computers! I better not find any of my selfies on the internet!"
-    L "OMG [ryan], tu as tout raté! Des mecs du FBI étaient là pour fouiller toutes nos ordures, fouiller nos ordures. Ils ont même tout copié sur mon téléphone et nos ordinateurs! Je ferais mieux de ne trouver aucun de mes selfies sur Internet!"
+    L "OMG [ryan], tu as tout raté! Des mecs du FBI étaient là pour fouiller toutes nos ordures. Ils ont même tout copié depuis mon téléphone et nos ordinateurs! Je ferais mieux de ne trouver aucun de mes selfies sur Internet!"
 
 # game/script.rpy:7987
 translate french dinnerfirst_c611c3b9_1:
@@ -10638,7 +10638,7 @@ translate french dinnerfirst_fd8e388e:
 translate french dinnerfirst_283a4cc1:
 
     # M "Finish cleaning up!"
-    M "Termine le nettoyage!"
+    M "Terminez le nettoyage!"
 
 # game/script.rpy:8066
 translate french dinnerfirst_96319498:
@@ -10782,7 +10782,7 @@ translate french dinnerfirst_e7ba0a10:
 translate french dinnerfirst_e75bdb21:
 
     # M "Well, I hope you're happy!?!"
-    M "Eh bien, j'espère que vous êtes heureux!?!"
+    M "Eh bien, j'espère que tu es heureux!?!"
 
 # game/script.rpy:8102
 translate french dinnerfirst_99c726ea:
@@ -10866,7 +10866,7 @@ translate french dinnerfirst_344188e0:
 translate french dinnerfirst_f2a5d7e5:
 
     # VOM "A hot housewife and teasing teacher, will make you want to misbehave to have her paddle your bum with her yardstick."
-    VOM "Une femme au foyer chaude et une enseignante taquine, vous donnera envie de vous conduire mal pour qu'elle piétine vos fesses avec son étalon."
+    VOM "Une femme au foyer chaude et une enseignante taquine, vous donnera envie de vous conduire mal pour qu'elle piétine vos fesses avec ses talons."
 
 # game/script.rpy:8125
 translate french dinnerfirst_f8f960dd:
@@ -10878,7 +10878,7 @@ translate french dinnerfirst_f8f960dd:
 translate french dinnerfirst_6d8a4ae7:
 
     # RT "{i}A teacher! What the hell! Are they talking about Mom!?! I've got to find out where that stage is.{/i}"
-    RT "{i}Un professeur! Que diable! Ils parlent de maman !?! Je dois savoir où se trouve cette scène.{/i}"
+    RT "{i}Une professeure! Que diable! Ils parlent de maman !?! Je dois savoir où se trouve cette scène.{/i}"
 
 # game/script.rpy:8129
 translate french dinnerfirst_2dd7fa66:
@@ -10908,7 +10908,7 @@ translate french dinnerfirst_23fc11fc:
 translate french dinnerfirst_7f92cfb2:
 
     # RT "{i}This is soooo wrong!.... {p}But I've got to know if she even knows what she's doing.... {p}How would she know how to work a stripper pole?{/i}"
-    RT "{i}C'est tellement mauvais!.... {p}Mais je dois savoir si elle sait même ce qu'elle fait.... {p}Comment saurait-elle travailler sur un poteau de strip-teaseuse?{/i}"
+    RT "{i}C'est tellement mal!.... {p}Mais je dois savoir si elle sait même ce qu'elle fait.... {p}Comment saurait-elle travailler sur un poteau de strip-tease?{/i}"
 
 # game/script.rpy:8141
 translate french dinnerfirst_4a721ba9:
@@ -10992,7 +10992,7 @@ translate french dinnerfirst_26e6bdf5:
 translate french dinnerfirst_1d0c76a2:
 
     # MT "{i}Oh, God! Why me? What did I do wrong to end up like this? Get me out of this situation, and I'll be the most pure and chaste woman there is! I'll leave my husband and become a nun!{/i}"
-    MT "{i}Oh, mon Dieu ! Pourquoi moi ? Qu'est-ce que j'ai fait de mal pour finir comme ça ? Sors de cette situation, et je serai la femme la plus pure et la plus chaste qui soit ! Je vais quitter mon mari et devenir religieuse !{/i}"
+    MT "{i}Oh, mon Dieu ! Pourquoi moi ? Qu'est-ce que j'ai fait de mal pour finir comme ça ? Je sors de cette situation, et je serais la femme la plus pure et la plus chaste qui soit! Je vais quitter mon mari et devenir religieuse !{/i}"
 
 # game/script.rpy:8161
 translate french dinnerfirst_dfd37489:
@@ -11010,25 +11010,25 @@ translate french dinnerfirst_fb09d7e4:
 translate french dinnerfirst_f2be51b0:
 
     # MT "{i}Outside I'm smiling and happy, but I've never felt so down and depressed.{/i}"
-    MT "{i}Dehors, je suis souriante et heureuse, mais je ne me suis jamais sentie aussi déprimée.{/i}"
+    MT "{i}En apparence, je suis souriante et heureuse, mais je ne me suis jamais sentie aussi déprimée.{/i}"
 
 # game/script.rpy:8166
 translate french dinnerfirst_2824857b:
 
     # RT "{i}Ok.... now her boobs are out!.... I can't believe this is happening.{p}Is this going to damage me psychologically? Should I keep watching?{/i}"
-    RT "{i}Ok.... maintenant, ses seins sont sortis!.... Je n'arrive pas à croire que ça arrive.{p}Est-ce que cela va me nuire psychologiquement? Dois-je continuer à regarder?{/i}"
+    RT "{i}Ok.... maintenant, ses seins sont nus!.... Je n'arrive pas à croire que ça arrive.{p}Est-ce que cela va me nuire psychologiquement? Dois-je continuer à regarder?{/i}"
 
 # game/script.rpy:8170
 translate french dinnerfirst_ad70c8ad:
 
     # RT "{i}I'll take the psychological damage! It's not everyday you get in a situation like this. I'll deal with the consequences later.{/i}"
-    RT "{i}Je prends des dégâts psychologiques ! Ce n'est pas tous les jours que je me retrouve dans une telle situation. Je m'occuperais des conséquences plus tard.{/i}"
+    RT "{i}Je prends des dégâts psychologiques! Ce n'est pas tous les jours que je me retrouve dans une telle situation. Je m'occuperais des conséquences plus tard.{/i}"
 
 # game/script.rpy:8171
 translate french dinnerfirst_c8164d13:
 
     # MT "{i}Ok, I can't let myself get so down! This isn't my fault.{/i}"
-    MT "{i}Ok, je ne peux pas me laisser aller ! Ce n'est pas de ma faute.{/i}"
+    MT "{i}Ok, je ne peux pas me laisser aller! Ce n'est pas de ma faute.{/i}"
 
 # game/script.rpy:8172
 translate french dinnerfirst_a0e9f0b4:
@@ -11052,7 +11052,7 @@ translate french dinnerfirst_34fdee76:
 translate french dinnerfirst_aa5db14c:
 
     # RT "{i}I can't wait to check it out later.{/i}"
-    RT "{i}J'ai hâte de le vérifier plus tard.{/i}"
+    RT "{i}J'ai hâte de la vérifier plus tard.{/i}"
 
 # game/script.rpy:8180
 translate french dinnerfirst_31a3b755:
@@ -11070,7 +11070,7 @@ translate french dinnerfirst_41cd4b62:
 translate french dinnerfirst_50324767:
 
     # RT "{i}Oh, this is sooo wrong. But I think that's why it's sooo hot!{/i}"
-    RT "{i}Oh, c'est tellement faux. Mais je pense que c'est pour ça qu'il fait tellement chaud!{/i}"
+    RT "{i}Oh, c'est tellement mal. Mais je pense que c'est pour ça qu'il fait tellement chaud!{/i}"
 
 # game/script.rpy:8183
 translate french dinnerfirst_d7a1933a:
@@ -11172,7 +11172,7 @@ translate french dinnerfirst_3483255f:
 translate french dinnerfirst_93d5a6a1:
 
     # RT "{i}NNNNyyyyhhhhhaaaaa.... !!{/i}"
-    RT "{i}NNNNyyyyhhhhhaaaaa .... ! ! {/i}"
+    RT "{i}NNNNNyyyyhhhhhaaaaa.... !!{/i}"
 
 # game/script.rpy:8229
 translate french dinnerfirst_a20cefa7:
@@ -11232,7 +11232,7 @@ translate french dinnerfirst_b47c24a5:
 translate french dinnerfirst_b8e25b67:
 
     # RT "{i}OH shit!{/i}"
-    RT "{i}Oh, merde{/i}"
+    RT "{i}OH merde ! {/i }"
 
 # game/script.rpy:8248
 translate french dinnerfirst_4c74f703:
@@ -11940,7 +11940,7 @@ translate french nightclubbing_8eade7e1:
 translate french nightclubbing_d2ba2861:
 
     # M "Did you really not have enough money to pay off our weekly Mafia debt?"
-    M "N'aa-tu vraiment pas assez d'argent pour rembourser notre dette hebdomadaire de la Mafia?"
+    M "N'as-tu vraiment pas assez d'argent pour rembourser notre dette hebdomadaire de la Mafia?"
 
 # game/script.rpy:8513
 translate french nightclubbing_387f83dd:
@@ -12384,506 +12384,406 @@ translate french strings:
 
     # game/script.rpy:310
     old "Would you like to see the tutorial?"
-    new ""
-#--- ""
+    new "Voulez-vous voir le tutoriel?"
 
     # game/script.rpy:310
     old "Yes."
-    new ""
-#--- ""
+    new "Oui."
 
     # game/script.rpy:310
     old "No."
-    new ""
-#--- ""
+    new "Non."
 
     # game/script.rpy:317
     old "Skip to the end of v0.01b"
-    new ""
-#--- ""
+    new "Passer à la fin de la version 0.01b"
 
     # game/script.rpy:317
     old "Don't skip the game"
-    new ""
-#--- ""
+    new "Ne pas passer le jeu"
 
     # game/script.rpy:319
     old "Chose your route!"
-    new ""
-#--- ""
+    new "Choisissez votre itinéraire!"
 
     # game/script.rpy:319
     old "Loyalty route"
-    new ""
-#--- ""
+    new "Voie de la fidélité"
 
     # game/script.rpy:319
     old "NTR route"
-    new ""
-#--- ""
+    new "Voie NTR"
 
     # game/script.rpy:319
     old "Back"
-    new ""
-#--- ""
+    new "Retour"
 
     # game/script.rpy:700
     old "Peek down her robe"
-    new ""
-#--- ""
+    new "Jetez un coup d'œil sur sa robe"
 
     # game/script.rpy:700
     old "Gross!! That's just weird!"
-    new ""
-#--- ""
+    new "Dégueulasse !! C'est juste bizarre!"
 
     # game/script.rpy:780
     old "Lauren, what the hell are you doing?"
-    new ""
-#--- ""
+    new "Lauren, qu'est-ce que tu fous, bordel ?"
 
     # game/script.rpy:1043
     old "Sleep"
-    new ""
-#--- ""
+    new "Dormir"
 
     # game/script.rpy:1043
     old "Never mind"
-    new ""
-#--- ""
+    new "Peu importe"
 
     # game/script.rpy:1058
     old "Memes (Advances time)"
-    new ""
-#--- ""
+    new "Visioner le tél. (Avance de temps)"
 
     # game/script.rpy:1586
     old "Go sit down"
-    new ""
-#--- ""
+    new "Aller vous asseoir"
 
     # game/script.rpy:1592
     old "Ask Mom about her day"
-    new ""
-#--- ""
+    new "Demander à maman pour sa journée"
 
     # game/script.rpy:1592
     old "Ask Lauren about her day"
-    new ""
-#--- ""
+    new "Demander à Lauren pour sa journée"
 
     # game/script.rpy:1869
     old "Yes"
-    new ""
-#--- ""
+    new "Oui"
 
     # game/script.rpy:1869
     old "No"
-    new ""
-#--- ""
+    new "Non"
 
     # game/script.rpy:1993
     old "Skip event and sleep till tomorrow"
-    new ""
-#--- ""
+    new "Sauter l'événement et dormir jusqu'à demain"
 
     # game/script.rpy:1993
     old "Jump to Mafia payment event."
-    new ""
-#--- ""
+    new "Aller à l'événement de paiement de la mafia."
 
     # game/script.rpy:1998
     old "I'll pay them $1,000."
-    new ""
-#--- ""
+    new "Je leur paierais 1'000$."
 
     # game/script.rpy:1998
     old "Shit!... I don't have enough money to pay the Mafia."
-    new ""
-#--- ""
+    new "Merde!... Je n'ai pas assez d'argent pour payer la Mafia."
 
     # game/script.rpy:1998
     old "Let Mom use her \"ass\"ets to pay the debt this week."
-    new ""
-#--- ""
+    new "Laisser maman utiliser sa carte 'cul' pour payer la dette de cette semaine."
 
     # game/script.rpy:2194
     old "Look down"
-    new ""
-#--- ""
+    new "Regarder en bas"
 
     # game/script.rpy:2203
     old "Look up"
-    new ""
-#--- ""
+    new "Regarder vers le haut"
 
     # game/script.rpy:2227
     old "Cover up"
-    new ""
-#--- ""
+    new "Recouvrir"
 
     # game/script.rpy:2227
     old "\"Why should I?\""
-    new ""
-#--- ""
+    new "'Pourquoi devrais-je?'"
 
     # game/script.rpy:2669
     old "Watch TV with Lauren"
-    new ""
-#--- ""
+    new "Regarder la télévision avec Lauren"
 
     # game/script.rpy:3346
     old "Look."
-    new ""
-#--- ""
+    new "Regarder."
 
     # game/script.rpy:3346
     old "Never mind."
-    new ""
-#--- ""
+    new "Peu importe."
 
     # game/script.rpy:3634
     old "Peek"
-    new ""
-#--- ""
+    new "Coup d’oeil"
 
     # game/script.rpy:3731
     old "Have Dinner"
-    new ""
-#--- ""
+    new "Aller dîner"
 
     # game/script.rpy:3748
     old "Hey Mom, it's good to see you up and about!"
-    new ""
-#--- ""
+    new "Hé maman, c'est bon de te revoir!"
 
     # game/script.rpy:3748
     old "Are you drinking again?!"
-    new ""
-#--- ""
+    new "Tu bois encore ?!"
 
     # game/script.rpy:4132
     old "Look around"
-    new ""
-#--- ""
+    new "Regarder aux alentours"
 
     # game/script.rpy:4152
     old "Talk to Sidney"
-    new ""
-#--- ""
+    new "Parler à Sidney"
 
     # game/script.rpy:4197
     old "Try to keep eye contact"
-    new ""
-#--- ""
+    new "Essayer de garder un contact visuel"
 
     # game/script.rpy:4218
     old "Just a really quick peek"
-    new ""
-#--- ""
+    new "Juste un coup d’œil très rapide"
 
     # game/script.rpy:4218
     old "Don't risk it"
-    new ""
-#--- ""
+    new "Ne pas risquer"
 
     # game/script.rpy:4247
     old "Give her money for Lauren's cosplay outfit."
-    new ""
-#--- ""
+    new "Lui donner de l'argent pour la tenue de cosplay de Lauren."
 
     # game/script.rpy:4247
     old "Ask her to work at club."
-    new ""
-#--- ""
+    new "Lui demander de travailler au club."
 
     # game/script.rpy:4333
     old "Take a look"
-    new ""
-#--- ""
+    new "Jeter un coup d'oeil"
 
     # game/script.rpy:4333
     old "Stay Strong"
-    new ""
-#--- ""
+    new "Rester Fort"
 
     # game/script.rpy:4349
     old "What do you think, slut?!"
-    new ""
-#--- ""
+    new "Qu'en penses-tu, salope ?!"
 
     # game/script.rpy:4349
     old "Nothing!"
-    new ""
-#--- ""
+    new "Rien !"
 
     # game/script.rpy:4358
     old "Just walk away"
-    new ""
-#--- ""
+    new "Juste à pied"
 
     # game/script.rpy:4489
     old "Knock on her door"
-    new ""
-#--- ""
+    new "Frapper à sa porte"
 
     # game/script.rpy:4721
     old "Look closer."
-    new ""
-#--- ""
+    new "Regarder de plus près."
 
     # game/script.rpy:4737
     old "Try using subliminal messages"
-    new ""
-#--- ""
+    new "Essayer d'utiliser des messages subliminaux"
 
     # game/script.rpy:4737
     old "Just leave her alone, she's had a rough few days."
-    new ""
-#--- ""
+    new "La laisser tranquille, elle a eu quelques jours difficiles."
 
     # game/script.rpy:4776
     old "Subliminal messages"
-    new ""
-#--- ""
+    new "Messages subliminaux"
 
     # game/script.rpy:4818
     old "Peek through the spy-cam."
-    new ""
-#--- ""
+    new "Coup d’œil à travers la camera espion."
 
     # game/script.rpy:4818
     old "Nah, she's probably just sleeping."
-    new ""
-#--- ""
+    new "Non, elle dort probablement."
 
     # game/script.rpy:4835
     old "Knock"
-    new ""
-#--- ""
+    new "Toquer"
 
     # game/script.rpy:4835
     old "Peek through spy-cam"
-    new ""
-#--- ""
+    new "Coup d’œil à travers la camera espion"
 
     # game/script.rpy:4835
     old "I'm just going to give her some time to cool down"
-    new ""
-#--- ""
+    new "Je vais juste lui laisser le temps de se calmer"
 
     # game/script.rpy:4841
     old "Give her a gift"
-    new ""
-#--- ""
+    new "Lui offrir un cadeau"
 
     # game/script.rpy:4841
     old "I just wanted to apologize"
-    new ""
-#--- ""
+    new "Je voulais juste m'excuser"
 
     # game/script.rpy:4847
     old "Give her a chocolate bar"
-    new ""
-#--- ""
+    new "Lui donner une barre de chocolat"
 
     # game/script.rpy:4847
     old "Give her Hardnlong gift card"
-    new ""
-#--- ""
+    new "Lui offrir une carte-cadeau Hardnlong"
 
     # game/script.rpy:4847
     old "Give her flowers"
-    new ""
-#--- ""
+    new "Lui donner des fleurs"
 
     # game/script.rpy:5091
     old "Get a closer look"
-    new ""
-#--- ""
+    new "Regarder de plus près"
 
     # game/script.rpy:5091
     old "Why would I even think of looking?"
-    new ""
-#--- ""
+    new "Pourquoi devrais-je même penser à regarder?"
 
     # game/script.rpy:5275
     old "Use spy-cam."
-    new ""
-#--- ""
+    new "Utiliser une caméra espion."
 
     # game/script.rpy:5275
     old "Not right now."
-    new ""
-#--- ""
+    new "Pas pour le moment."
 
     # game/script.rpy:5381
     old "Take a peek."
-    new ""
-#--- ""
+    new "Jeter un coup d’œil."
 
     # game/script.rpy:5396
     old "Let's just take a peek at what she's doing."
-    new ""
-#--- ""
+    new "Jetons un coup d'œil à ce qu'elle fait."
 
     # game/script.rpy:5855
     old "Yes, I need an ally"
-    new ""
-#--- ""
+    new "Oui, j'ai besoin d'un allié"
 
     # game/script.rpy:5899
     old "More subliminal messages!"
-    new ""
-#--- ""
+    new "Plus de messages subliminaux!"
 
     # game/script.rpy:5899
     old "Not tonight."
-    new ""
-#--- ""
+    new "Pas ce soir."
 
     # game/script.rpy:6017
     old "Spy on Sidney"
-    new ""
-#--- ""
+    new "Espionner Sidney"
 
     # game/script.rpy:6017
     old "Keep looking around"
-    new ""
-#--- ""
+    new "Continuer à regarder autour"
 
     # game/script.rpy:6103
     old "Just a little bit"
-    new ""
-#--- ""
+    new "Juste un peu"
 
     # game/script.rpy:6103
     old "Nothing"
-    new ""
-#--- ""
+    new "Rien"
 
     # game/script.rpy:6140
     old "Of course!"
-    new ""
-#--- ""
+    new "Bien sûr!"
 
     # game/script.rpy:6197
     old "Continue sneaking"
-    new ""
-#--- ""
+    new "Continuer à se faufiler"
 
     # game/script.rpy:6197
     old "Leave"
-    new ""
-#--- ""
+    new "Partir"
 
     # game/script.rpy:6621
     old "Attend Class"
-    new ""
-#--- ""
+    new "Participer à la classe"
 
     # game/script.rpy:6621
     old "Start Election Campaign Storyline"
-    new ""
-#--- ""
+    new "Début de la campagne électorale"
 
     # game/script.rpy:6673
     old "Talk to Mom about Oedipus assignment"
-    new ""
-#--- ""
+    new "Parler à maman au sujet de l'affectation d'Œdipe"
 
     # game/script.rpy:6854
     old "Accept Matt's help (\"WARNING\" future NTR content)"
-    new ""
-#--- ""
+    new "Accepter l'aide de Matt ('AVERTISSEMENT' futur contenu NTR)"
 
     # game/script.rpy:6854
     old "Tell Matt to go fuck himself"
-    new ""
-#--- ""
+    new "DireIgnore this. translate only: One à Matt d'aller se faire foutre"
 
     # game/script.rpy:7054
     old "Just the tip"
-    new ""
-#--- ""
+    new "Juste le bout"
 
     # game/script.rpy:7054
     old "Throat Fuck"
-    new ""
-#--- ""
+    new "Gorge profonde"
 
     # game/script.rpy:7065
     old "Deeper"
-    new ""
-#--- ""
+    new "Plus profond"
 
     # game/script.rpy:7065
     old "Cum"
-    new ""
-#--- ""
+    new "Jouir"
 
     # game/script.rpy:7114
     old "Down Megan's throat"
-    new ""
-#--- ""
+    new "Dans la gorge de Megan"
 
     # game/script.rpy:7114
     old "All over her face"
-    new ""
-#--- ""
+    new "Sur son visage"
 
     # game/script.rpy:7422
     old "Make Deliveries"
-    new ""
-#--- ""
+    new "Faire des livraisons"
 
     # game/script.rpy:7479
     old "Pick up Items"
-    new ""
-#--- ""
+    new "Ramasser les objets"
 
     # game/script.rpy:7479
     old "Go to Photo Studio."
-    new ""
-#--- ""
+    new "Aller dans studio photo."
 
     # game/script.rpy:7479
     old "Return to Map"
-    new ""
-#--- ""
+    new "Retour à la carte"
 
     # game/script.rpy:7975
     old "Tell them about the conversation with Uncle Bobby"
-    new ""
-#--- ""
+    new "Leur parler de la conversation avec Oncle Bobby"
 
     # game/script.rpy:7990
     old "Tell them about visit with Uncle Bobby"
-    new ""
-#--- ""
+    new "Leur parler de la visite avec Oncle Bobby"
 
     # game/script.rpy:8135
     old "Stay and Watch"
-    new ""
-#--- ""
+    new "Rester et regarder"
 
     # game/script.rpy:8135
     old "Go home"
-    new ""
-#--- ""
+    new "Rentrer chez moi"
 
     # game/script.rpy:8167
     old "Keep Watching"
-    new ""
-#--- ""
+    new "Continuer à regarder"
 
     # game/script.rpy:8306
     old "Go answer the door"
-    new ""
-#--- ""
+    new "Aller répondre à la porte"
 
     # game/script.rpy:8320
     old "No (lie)"
-    new ""
-#--- ""
+    new "Non (mensonge)"
+#--- "Ignore this. translate only: One"
 

@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:38\n"
+# "PO-Revision-Date: 2022-04-28 09:22\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -2352,7 +2352,7 @@ translate french sidney_search_74ae3aac:
 translate french sidney_search_632ce6d3:
 
     # ST "{i}Now to follow from a discreet distance.{/i}"
-    ST "{i}Maintenant à suivre à distance discrète.{/i}"
+    ST "{i}Maintenant les suivre à distance discrète.{/i}"
 
 # game/UpdateScript0.05.rpy:1241
 translate french sidney_search_0ceef333:
@@ -2484,7 +2484,7 @@ translate french sidney_search_9b66c3b0:
 translate french sidney_search_0aad4e90:
 
     # S "Oh shit!.... You scared me."
-    S "Oh merde!.... Tu m'as fait peur."
+    S "Oh merde!.... Vous m'avez fait peur."
 
 # game/UpdateScript0.05.rpy:1277
 translate french sidney_search_dd39d110:
@@ -2556,7 +2556,7 @@ translate french sidney_search_3ade86f6:
 translate french sidney_search_831eadab:
 
     # S "But Dad took out the loan, not us."
-    S "Mais Papa a contracté le prêt, pas nous."
+    S "Mais c'est papa qui a contracté le prêt, pas nous."
 
 # game/UpdateScript0.05.rpy:1295
 translate french sidney_search_c41b1e11:
@@ -3354,7 +3354,7 @@ translate french sidney_search_f3f04389:
 translate french sidney_search_b4b670d0:
 
     # R "I need some hormone checking really bad right now!"
-    R "J'ai besoin d'un contrôle hormonal vraiment en ce moment!"
+    R "J'ai besoin de contrôler mes hormones vraiment en ce moment!"
 
 # game/UpdateScript0.05.rpy:1497
 translate french sidney_search_cd554298:
@@ -3594,13 +3594,13 @@ translate french tv_together_a28c1504:
 translate french tv_together_cf83b622:
 
     # L "Thanks! I feel so much safer!"
-    L "Merci ! Je me sens beaucoup plus en sécurité !"
+    L "Merci! Je me sens tellement plus en sécurité!"
 
 # game/UpdateScript0.05.rpy:1573
 translate french tv_together_a5b60643:
 
     # R "Me too!"
-    R "Moi aussi!"
+    R "Moi aussi !"
 
 # game/UpdateScript0.05.rpy:1574
 translate french tv_together_a8a86d5f:
@@ -3642,7 +3642,7 @@ translate french tv_together_faf376b6:
 translate french tv_together_e62859a5:
 
     # R "The way you're rubbing yourself."
-    R "La façon dont Tu te caresses."
+    R "La façon dont tu te caresses."
 
 # game/UpdateScript0.05.rpy:1594
 translate french tv_together_2656cbcc:
@@ -3768,7 +3768,7 @@ translate french tv_together_e85188a6_1:
 translate french tv_together_7b2b4ab7:
 
     # R "Ok, let's watch the next episode of \"Game of Thots\"!"
-    R "Regardons le prochain épisode de 'Game of Thots'!"
+    R "ok, regardons le prochain épisode de 'Game of Thots'!"
 
 # game/UpdateScript0.05.rpy:1643
 translate french tv_together_3eedcaee:
@@ -7728,7 +7728,7 @@ translate french reward_for_payment_ec1184d8:
 translate french reward_for_payment_341c7156:
 
     # RT "{i}Oh, fuck!....{/i}"
-    RT "{i}Oh, putain !....{/i}"
+    RT "{i}Oh, putain!....{/i}"
 
 # game/UpdateScript0.05.rpy:2961
 translate french reward_for_payment_9fff7642:
@@ -8238,7 +8238,7 @@ translate french fix_sink_c376cd2f:
 translate french fix_sink_9198793c:
 
     # R "Ok.... Just let me know when you've got the coupling secured."
-    R "D'accord.... Préviens-moi quand tu auras l'attelage sécurisé."
+    R "Ok.... Faites-moi savoir quand tu auras sécurisé le couplage."
 
 # game/UpdateScript0.05.rpy:3145
 translate french fix_sink_a9f72512:
@@ -8442,7 +8442,7 @@ translate french fix_sink_c9e9e881:
 translate french fix_sink_dcc557c3:
 
     # R "Ok.... I've got the coupling braced from below. Go ahead and turn it clockwise, and we'll see if that stops the leak."
-    R "Ok .... J'ai le raccord de dessous. Vas-y et tourne dans le sens des aiguilles d'une montre, et on verra si ça arrête la fuite."
+    R "D'accord.... J'ai le raccord fixé par le bas. Vas-y et tournes-le dans le sens des aiguilles d'une montre, et nous verrons si cela arrête la fuite."
 
 # game/UpdateScript0.05.rpy:3198
 translate french fix_sink_8b1d9b72:
@@ -8514,7 +8514,7 @@ translate french fix_sink_b039f000:
 translate french fix_sink_e11fb5e2:
 
     # M "Get your ass up here and fix it!"
-    M "Ramène ton cul ici et répare-le !"
+    M "Monte ton cul ici et répare-le!"
 
 # game/UpdateScript0.05.rpy:3217
 translate french fix_sink_0438a498:
@@ -8526,7 +8526,7 @@ translate french fix_sink_0438a498:
 translate french fix_sink_37adefed:
 
     # R "I'm sorry.... There.... I've almost got it...."
-    R "Je suis désolé.... Voilà.... J'y suis presque...."
+    R "Je suis désolé.... Voilà.... Je l'ai presque...."
 
 # game/UpdateScript0.05.rpy:3219
 translate french fix_sink_dc7a84b6:
@@ -11688,7 +11688,7 @@ translate french fix_washer_b24ae712:
 translate french fix_washer_7c9af8eb:
 
     # R "Yep!.... So close!...."
-    R "Oui !.... Si proche !...."
+    R "Yep !.... Presque au but!...."
 
 # game/UpdateScript0.05.rpy:4567
 translate french fix_washer_899ed479:
@@ -11724,7 +11724,7 @@ translate french fix_washer_99c1f390:
 translate french fix_washer_a454e3a4:
 
     # R "Aaahhh...Wait just a second!"
-    R "Aaahhh...Attends juste une seconde !"
+    R "Aaahhh...Attends une seconde!"
 
 # game/UpdateScript0.05.rpy:4591
 translate french fix_washer_d56c0e38:
@@ -11748,7 +11748,7 @@ translate french fix_washer_8a8c67d6:
 translate french fix_washer_36d6d486:
 
     # RT "{i}Pheww.... That was close.{/i}"
-    RT "{i}Ouf.... C'était limite.{/i}"
+    RT "{i}Ouf.... C'était proche.{/i}"
 
 # game/UpdateScript0.05.rpy:4599
 translate french fix_washer_09d67b08:
@@ -12660,7 +12660,7 @@ translate french fix_washer_36d6d486_2:
 translate french fix_washer_15faf34e:
 
     # M "[ryan]?.... What the hell?.... Was all of that grinding really necessary?"
-    M "[ryan]?.... C'est quoi, bordel ?.... Tout ce travail était-il vraiment nécessaire ?"
+    M "[ryan]?.... C'est quoi, bordel ?.... Tout ce cirque était-il vraiment nécessaire?"
 
 # game/UpdateScript0.05.rpy:4881
 translate french fix_washer_853895e5:
@@ -12672,7 +12672,7 @@ translate french fix_washer_853895e5:
 translate french fix_washer_ce72d2a2:
 
     # M "Yeah.... Well.... That would've been fine, if you hadn't been pitching a tent the entire time!"
-    M "Ouais.... Bien.... Ça aurait été bien, si tu n'avais pas planté une tente pendant tout ce temps !"
+    M "Ouais.... Bien.... Ça aurait été bien, si tu n'avais pas planté une tente tout le temps !"
 
 # game/UpdateScript0.05.rpy:4883
 translate french fix_washer_5a4e5500:
@@ -12684,7 +12684,7 @@ translate french fix_washer_5a4e5500:
 translate french fix_washer_4f658f3d:
 
     # R "Well, that was your fault for making it sexual!"
-    R "Eh bien, c'était ta faute de l'avoir rendu ça sexuel!"
+    R "Eh bien, c'était ta faute de l'avoir rendu sexuel!"
 
 # game/UpdateScript0.05.rpy:4885
 translate french fix_washer_ffbe7dda:
@@ -13248,7 +13248,7 @@ translate french not_fit_enough_bf013315:
 translate french not_fit_enough_2a126f8d:
 
     # S "I really don't want to. I'm trying to get better at running not worse."
-    S "Je ne veux vraiment pas. J'essaie de m'améliorer pour courir au mieux."
+    S "Je ne veux vraiment pas. J'essaie de m'améliorer pour courir mieux."
 
 # game/UpdateScript0.05.rpy:5067
 translate french not_fit_enough_ea33c383:
@@ -14418,7 +14418,7 @@ translate french park_activities_cd99e398:
 translate french park_activities_d51ba584:
 
     # S "Would you like it to be more?"
-    S "Souhaites-tu que ce soit plus ?"
+    S "Voulais-tu que ce soit plus?"
 
 # game/UpdateScript0.05.rpy:5445
 translate french park_activities_bd39e475:
@@ -15156,7 +15156,7 @@ translate french park_menu_6b9f4114:
 translate french park_menu_30ca78fd:
 
     # R "But, what if it's someone we know?"
-    R "Mais, et si c'est quelqu'un qu'on connaît ?"
+    R "Je ne sais pas ce que cela signifie."
 
 # game/UpdateScript0.05.rpy:5692
 translate french park_menu_d72aa9bf:
@@ -15540,7 +15540,7 @@ translate french first_club_cum_9e817dfe:
 translate french first_club_cum_5f2de500:
 
     # S "I was able to swallow all of it without it blasting into my sinuses!"
-    S "J'ai pu tout avaler sans qu'il n'explose dans mes sinus !"
+    S "J'ai pu tout avaler sans que ça explose dans mes sinus !"
 
 # game/UpdateScript0.05.rpy:5928
 translate french first_club_cum_1f80b437:
@@ -15552,7 +15552,7 @@ translate french first_club_cum_1f80b437:
 translate french first_club_cum_771795d1:
 
     # R "I'll say.... That was incredible!"
-    R "Je dirai ... C'était incroyable !"
+    R "Je vais dire.... C'était incroyable !"
 
 # game/UpdateScript0.05.rpy:5930
 translate french first_club_cum_4dfb9f36:
@@ -17310,241 +17310,194 @@ translate french strings:
 
     # game/UpdateScript0.05.rpy:7
     old "Crazy Old Man"
-    new ""
-#--- ""
+    new "Vieil homme fou"
 
     # game/UpdateScript0.05.rpy:8
     old "Crazy Old Man's Thoughts"
-    new ""
-#--- ""
+    new "Pensées du vieil homme fou"
 
     # game/UpdateScript0.05.rpy:9
     old "Mr. Peterson"
-    new ""
-#--- ""
+    new "M. Peterson"
 
     # game/UpdateScript0.05.rpy:10
     old "Mr. Peterson's Thoughts"
-    new ""
-#--- ""
+    new "Pensées de M. Peterson"
 
     # game/UpdateScript0.05.rpy:11
     old "Policeman"
-    new ""
-#--- ""
+    new "Policier"
 
     # game/UpdateScript0.05.rpy:12
     old "Mrs. Stone"
-    new ""
-#--- ""
+    new "Mme Stone"
 
     # game/UpdateScript0.05.rpy:13
     old "Armani"
-    new ""
-#--- ""
+    new "Armani"
 
     # game/UpdateScript0.05.rpy:509
     old "I'm not going to miss this opportunity."
-    new ""
-#--- ""
+    new "Je ne vais pas rater cette occasion."
 
     # game/UpdateScript0.05.rpy:509
     old "Just go to sleep."
-    new ""
-#--- ""
+    new "Aller juste dormir."
 
     # game/UpdateScript0.05.rpy:574
     old "Help Mom."
-    new ""
-#--- ""
+    new "Aider maman."
 
     # game/UpdateScript0.05.rpy:574
     old "Don't help Mom."
-    new ""
-#--- ""
+    new "Ne pas aider maman."
 
     # game/UpdateScript0.05.rpy:865
     old "Run to the park"
-    new ""
-#--- ""
+    new "Courir au parc"
 
     # game/UpdateScript0.05.rpy:865
     old "I don't feel like running today."
-    new ""
-#--- ""
+    new "Je n'ai pas envie de courir aujourd'hui."
 
     # game/UpdateScript0.05.rpy:885
     old "You should go to the indoor track."
-    new ""
-#--- ""
+    new "Vous devriez aller sur la piste intérieure."
 
     # game/UpdateScript0.05.rpy:885
     old "I'll go to the park myself and see if it's safe."
-    new ""
-#--- ""
+    new "Je vais aller au parc moi-même et voir si c'est sûr."
 
     # game/UpdateScript0.05.rpy:885
     old "Let's go jogging in the park together. I'll keep you safe. (Light NTR Warning)"
-    new ""
-#--- ""
+    new "Allons faire du jogging dans le parc ensemble. Je te protégerai. (Avertissement NTR léger)"
 
     # game/UpdateScript0.05.rpy:1671
     old "Can I get a handjob?"
-    new ""
-#--- ""
+    new "Je peux avoir une branlette?"
 
     # game/UpdateScript0.05.rpy:1671
     old "Do you want me to finger you again?"
-    new ""
-#--- ""
+    new "Tu veux que je te doigte encore ?"
 
     # game/UpdateScript0.05.rpy:1671
     old "How about another blowjob?"
-    new ""
-#--- ""
+    new "Et une autre fellation?"
 
     # game/UpdateScript0.05.rpy:2610
     old "Deep"
-    new ""
-#--- ""
+    new "Profond"
 
     # game/UpdateScript0.05.rpy:2900
     old "Hold the line!"
-    new ""
-#--- ""
+    new "Tenir la ligne!"
 
     # game/UpdateScript0.05.rpy:2938
     old "Hold strong.... Hold strong.... Hold strong...."
-    new ""
-#--- ""
+    new "Tiens bon.... Tiens bon.... Tiens bon...."
 
     # game/UpdateScript0.05.rpy:4072
     old "Tease Mom"
-    new ""
-#--- ""
+    new "Taquiner maman"
 
     # game/UpdateScript0.05.rpy:4072
     old "Tease Lauren"
-    new ""
-#--- ""
+    new "Taquiner Lauren"
 
     # game/UpdateScript0.05.rpy:4072
     old "Tease Sidney"
-    new ""
-#--- ""
+    new "Taquiner Sidney"
 
     # game/UpdateScript0.05.rpy:5584
     old "Public Fingering"
-    new ""
-#--- ""
+    new "Doigté en public"
 
     # game/UpdateScript0.05.rpy:5584
     old "{s}Public Fingering{/s} {i}(Sidney's Libido 8+){/i}"
-    new ""
-#--- ""
+    new "{s}Doigté Sindney en public{/s} {i}(La libido de Sidney 8+){/i}"
 
     # game/UpdateScript0.05.rpy:5584
     old "Public Handjob"
-    new ""
-#--- ""
+    new "Branlette en publique"
 
     # game/UpdateScript0.05.rpy:5584
     old "Eat Pussy"
-    new ""
-#--- ""
+    new "Manger la chatte"
 
     # game/UpdateScript0.05.rpy:5584
     old "{s}Eat Pussy{/s} {i}(Sidney's Libido 8+){/i}"
-    new ""
-#--- ""
+    new "{s}Manger sa chatte{/s} {i}(La Libido de Sidney 8+) {/i}"
 
     # game/UpdateScript0.05.rpy:5584
     old "Blowjob"
-    new ""
-#--- ""
+    new "Fellation"
 
     # game/UpdateScript0.05.rpy:5584
     old "Sex {i}(Bonus){/i}"
-    new ""
-#--- ""
+    new "Sexe {i}(Bonus) {/i}"
 
     # game/UpdateScript0.05.rpy:5584
     old "{s}Sex{/s} {i}(Sidney's Libido 8+){/i}"
-    new ""
-#--- ""
+    new "{s}Sexe avec elle{/s} {i}(La libido de Sidney 8+) {/i}"
 
     # game/UpdateScript0.05.rpy:5758
     old "That feels so good!"
-    new ""
-#--- ""
+    new "Ça fait tellement de bien !"
 
     # game/UpdateScript0.05.rpy:5758
     old "Yeah, suck it whore!"
-    new ""
-#--- ""
+    new "Ouais, suces-la, pute!"
 
     # game/UpdateScript0.05.rpy:5777
     old "Cum down her throat."
-    new ""
-#--- ""
+    new "Sperme dans sa gorge."
 
     # game/UpdateScript0.05.rpy:5777
     old "Cum all over her face."
-    new ""
-#--- ""
+    new "Sperme sur son visage."
 
     # game/UpdateScript0.05.rpy:5856
     old "Finish"
-    new ""
-#--- ""
+    new "Terminer"
 
     # game/UpdateScript0.05.rpy:6096
     old "Yes!.... Peek!"
-    new ""
-#--- ""
+    new "Oui!.... Jeter un coup d'œil!"
 
     # game/UpdateScript0.05.rpy:6096
     old "No!.... Don't risk it."
-    new ""
-#--- ""
+    new "Non!.... Ne prends pas le risque."
 
     # game/UpdateScript0.05.rpy:6136
     old "Working for the Mafia"
-    new ""
-#--- ""
+    new "Travailler pour la Mafia"
 
     # game/UpdateScript0.05.rpy:6136
     old "Are you making good money?"
-    new ""
-#--- ""
+    new "Tu as gagné beaucoup d'argent?"
 
     # game/UpdateScript0.05.rpy:6136
     old "Can we?.... You know...."
-    new ""
-#--- ""
+    new "On peut?.... Tu sais...."
 
     # game/UpdateScript0.05.rpy:6200
     old "Joey (NTR Warning)"
-    new ""
-#--- ""
+    new "Joey (Avertissement NTR)"
 
     # game/UpdateScript0.05.rpy:6215
     old "That's all for tonight."
-    new ""
-#--- ""
+    new "C'est tout pour ce soir."
 
     # game/UpdateScript0.05.rpy:6256
     old "Working for the Mafia."
-    new ""
-#--- ""
+    new "Travailler pour la Mafia."
 
     # game/UpdateScript0.05.rpy:6256
     old "Can we?.... you know...."
-    new ""
-#--- ""
+    new "On peut?.... tu sais...."
 
     # game/UpdateScript0.05.rpy:6294
     old "Sex"
-    new ""
-#--- ""
+    new "Sexe"
+#--- "Ignore this. translate only: One"
 

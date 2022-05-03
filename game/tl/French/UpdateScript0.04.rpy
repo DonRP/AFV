@@ -1,5 +1,5 @@
 #     old ""
-#     ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-french-Project: a-family-venture\n"
 # "X-french-Project-ID: 492487\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-23 09:36\n"
+# "PO-Revision-Date: 2022-04-28 09:21\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH
 
@@ -432,7 +432,7 @@ translate french get_sidney_modeling_fc9a3727:
 translate french get_sidney_modeling_35597202:
 
     # ST "{i}Just pretend it's a popsicle.... {/i}"
-    ST "{i}Faire comme si c'était une glace.... {/i}"
+    ST "{i}Mais suis-je aussi pervertse que lui?.... {/i}"
 
 # game/UpdateScript0.04.rpy:440
 translate french get_sidney_modeling_fe38e542:
@@ -3216,19 +3216,19 @@ translate french maid_outfit_fitting_6621a290:
 translate french maid_outfit_fitting_a9526f71:
 
     # R "{i}Damn, it's no fun to call her Aunt Cami if she's gonna let me.... I'll just go back to calling her Camille now, a nice French name for a French maid.{/i}"
-    R "{i}Putain, ce n'est pas marrant d'appeler sa tante Camille si elle me laisse faire.... Je vais juste revenir à l'appeler Camille maintenant, un joli nom français pour une femme de chambre française.{/i}"
+    R "{i}Putain, ce n'est pas marrant de l'appeler Camille si elle me laisse faire.... Je vais juste revenir à l'appeler Camille maintenant, un joli nom français pour une femme de chambre française.{/i}"
 
 # game/UpdateScript0.04.rpy:1456
 translate french maid_outfit_fitting_bc0fe233:
 
     # R "That looks really good on you Aunt Camille!"
-    R "Ça te va très bien Camille!"
+    R "Ça te va très bien tante Camille!"
 
 # game/UpdateScript0.04.rpy:1457
 translate french maid_outfit_fitting_00837342:
 
     # C "You remembered to call me Camille.... I think that's the first time since you were a little boy."
-    C "Tu t'es souvenu de m'appeler Camille.... Je pense que c'est la première fois depuis que tu es petit."
+    C "Tu t'es souvenu de m'appeler tante Camille.... Je pense que c'est la première fois depuis que tu es petit."
 
 # game/UpdateScript0.04.rpy:1458
 translate french maid_outfit_fitting_63a0166e:
@@ -4008,7 +4008,7 @@ translate french aunt_clean_lounge_7846b730:
 translate french aunt_clean_lounge_36c1f8a6:
 
     # CT "{i}I've lost the moral high ground to [mom_name].... {/i}"
-    CT "{i}J'ai perdu le haut niveau moral en [mom_name].... {/i}"
+    CT "{i}J'ai perdu le haut niveau moral envers [mom_name].... {/i}"
 
 # game/UpdateScript0.04.rpy:1670
 translate french aunt_clean_lounge_f2c09324:
@@ -5574,7 +5574,7 @@ translate french aunt_clean_bath_2af0e740:
 translate french aunt_clean_bath_2b9ea869:
 
     # CT "{i}Did I really expose my boobs to my nephew for money?{/i}"
-    CT "{i}Ais-je vraiment exposé mes seins à mon neveu pour de l'argent?{/i}"
+    CT "{i}Ai-je vraiment exposé mes seins à mon neveu pour de l'argent?{/i}"
 
 # game/UpdateScript0.04.rpy:2130
 translate french aunt_clean_bath_82444345:
@@ -9966,7 +9966,7 @@ translate french jacky_caught_office_7a9f7a98:
 translate french jacky_caught_office_5fa743d2:
 
     # RT "{i}They're going at it again.{/i}"
-    RT "{i}Ils recommencent.{/i}"
+    RT "{i}Elles recommencent.{/i}"
 
 # game/UpdateScript0.04.rpy:3530
 translate french jacky_caught_office_4ee92848:
@@ -11550,7 +11550,7 @@ translate french jacky_at_Laptop_2a2d84ac:
 translate french bye_bobby_35885d12:
 
     # RT "{i}Ok, off to the warehouse!{/i}"
-    RT "{i}Ok, hors de l'entrepôt !{/i}"
+    RT "{i}Ok, allons à l'entrepôt!{/i}"
 
 # game/UpdateScript0.04.rpy:4065
 translate french bye_bobby_1779dff4:
@@ -13008,7 +13008,7 @@ translate french wrshoot_bd1298bc:
 translate french wrshoot_67b1ecde:
 
     # S "{i}(sarcastically){/i} Sounds plausible."
-    S "{i}(ton sarcastique){/i} ça semble plausible."
+    S "{i}(ton sarcastique){/i} Semble plausible."
 
 # game/UpdateScript0.04.rpy:4484
 translate french wrshoot_e186ce4a:
@@ -18216,7 +18216,7 @@ translate french wr_gape_37b121d8:
 translate french wr_gape_4361b632:
 
     # S "{i}\"Bleurghch\"{/i}"
-    S "{i}'Bleurghch'{/i}"
+    S "{i}\"Bleurghch\"{/i}"
 
 # game/UpdateScript0.04.rpy:5975
 translate french wr_gape_95264930:
@@ -18228,7 +18228,7 @@ translate french wr_gape_95264930:
 translate french wr_gape_15426258:
 
     # S "{i}\"Schhhhluurrrrp\"{/i}"
-    S "{i}'Schhhhluurrrrp'{/i}"
+    S "{i}\"Schhhhluurrrrp\"{/i}"
 
 # game/UpdateScript0.04.rpy:6021
 translate french wr_gape_98332e8e:
@@ -19032,156 +19032,126 @@ translate french strings:
 
     # game/UpdateScript0.04.rpy:320
     old "Just leave her alone."
-    new ""
-#--- ""
+    new "La laisser tranquille."
 
     # game/UpdateScript0.04.rpy:623
     old "Wake Sidney for a chat."
-    new ""
-#--- ""
+    new "Réveiller Sidney pour discuter."
 
     # game/UpdateScript0.04.rpy:633
     old "I wonder what she'll do now."
-    new ""
-#--- ""
+    new "Je me demande ce qu'elle va faire maintenant."
 
     # game/UpdateScript0.04.rpy:706
     old "Let her sleep."
-    new ""
-#--- ""
+    new "La laisser dormir."
 
     # game/UpdateScript0.04.rpy:966
     old "Let's just see if she's up for it."
-    new ""
-#--- ""
+    new "Voyons si elle est prête."
 
     # game/UpdateScript0.04.rpy:1630
     old "No Deal"
-    new ""
-#--- ""
+    new "Pas d'accord conclu"
 
     # game/UpdateScript0.04.rpy:2093
     old "No Deal."
-    new ""
-#--- ""
+    new "Pas d'accord conclu."
 
     # game/UpdateScript0.04.rpy:2316
     old "And actually, I have the $200 right here."
-    new ""
-#--- ""
+    new "Et en fait, j'ai les 200$ juste ici."
 
     # game/UpdateScript0.04.rpy:2316
     old "So, I'll get you the money soon."
-    new ""
-#--- ""
+    new "Alors, je vais bientôt t'obtenir de l'argent."
 
     # game/UpdateScript0.04.rpy:2638
     old "Let her choose one herself."
-    new ""
-#--- ""
+    new "La laisser choisir elle-même."
 
     # game/UpdateScript0.04.rpy:4351
     old "We need those shorts to come off. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Enlever ce short. {i}(soumission +5 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Let's just move onto taking off your shirt, but keeping the nips covered. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Commencer par enlever la chemise et libérer les nichons. {i}(soumission +7 {b}{color=#0000ff}ou{/b} libido +9){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Let's just jump into some scenes where you show off your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
-#--- ""
+    new "Passer à quelques scènes où elle montre ses nichons. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Your ass will look better in ripped underwear. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Ton cul sera plus beau en sous-vêtements déchirés. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Let's just jump into some explicit close-ups {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Passer simplement à des gros plans explicites {i}(soumission +19){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Have you ever heard of anal gaping? {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "As-tu déjà entendu parler d'ouverture anale? {i}(soumission +25){/i}"
 
     # game/UpdateScript0.04.rpy:4351
     old "Actually, let's call it a day."
-    new ""
-#--- ""
+    new "En fait, appelons ça un jour."
 
     # game/UpdateScript0.04.rpy:4671
     old "Remove the shirt, but hide the nips. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
-#--- ""
+    new "Enlever la chemise, mais cacher les tétons. {i}(soumission +7 {b}{color=#0000ff}ou{/color}{/b} libido +9){/i}"
 
     # game/UpdateScript0.04.rpy:4671
     old "Take some action shots where we can see your titties. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
-#--- ""
+    new "Prendre des photos en action où on peut voir les nichons. {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.04.rpy:4671
     old "Get rid of the shirt, and rip a revealing hole in your panties. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Se débarrasser de la chemise et déchirer un trou révélateur dans la culotte. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.04.rpy:4671
     old "Jump straight into some explicit close-ups {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Sauter directement à des gros plans explicites {i}(soumission +19){/i}"
 
     # game/UpdateScript0.04.rpy:4671
     old "Try something pretty crazy! I'm thinking an anal gape shot? {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "Essayer quelque chose d'assez fou! Je pense à un coup d'ouverture anale? {i}(soumission +25){/i}"
 
     # game/UpdateScript0.04.rpy:4671
     old "Just call it a day."
-    new ""
-#--- ""
+    new "L'appeler simplement un jour."
 
     # game/UpdateScript0.04.rpy:4993
     old "Wow! Are you a mind reader? {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
-#--- ""
+    new "Ça alors! As-tu lu dans mon esprit? {i}(soumission +10 {b}{color=#0000ff}ou{/color}{/b} libido 10){/i}"
 
     # game/UpdateScript0.04.rpy:4993
     old "No, let's just call it a day."
-    new ""
-#--- ""
+    new "Non, appelons-le un autre jour."
 
     # game/UpdateScript0.04.rpy:5027
     old "Rip a hole in your panties. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Faire un trou dans la culotte. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.04.rpy:5027
     old "Get some explicit close-ups. {i}(submission 19+){/i}"
-    new ""
-#--- ""
+    new "Obtenir des gros plans explicites. {i}(soumission +19){/i}"
 
     # game/UpdateScript0.04.rpy:5027
     old "Try a pose where you do a small anal gape. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "Essayer une pose où il y a une petite ouverture anale. {i}(soumission +25){/i}"
 
     # game/UpdateScript0.04.rpy:5271
     old "Rip a hole in those panties. {i}(submission 14+){/i}"
-    new ""
-#--- ""
+    new "Faire un trou dans cette culotte. {i}(soumission +14){/i}"
 
     # game/UpdateScript0.04.rpy:5717
     old "I think we should go for it anyways. {i}(submission 25+){/i}"
-    new ""
-#--- ""
+    new "Je pense que nous devrions tout de même y aller. {i}(soumission 25+){/i}"
 
     # game/UpdateScript0.04.rpy:5717
     old "I think we should call it quits for today."
-    new ""
-#--- ""
+    new "Je pense que nous devrions arrêter pour aujourd'hui."
+#--- "Ignore this. translate only: One"
 
