@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-24 09:39\n"
+"PO-Revision-Date: 2022-05-13 00:12\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.07.rpy:1024 ## translate crowdin send_will_email_910761e6:
 msgid "[RT] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -1014,11 +1014,11 @@ msgstr "[RT] {i}Oh, che inferno?{/i}"
 
 # game/UpdateScript0.07.rpy:1489 ## translate crowdin ntr_lounge_sex_f0649c26:
 msgid "[RT] {i}Why the fuck is Matt here?{/i}"
-msgstr "[RT] {i}Perché il cazzo è Matt qui?{/i}"
+msgstr "[RT] {i}Perché cazzo Matt è qui?{/i}"
 
 # game/UpdateScript0.07.rpy:1490 ## translate crowdin ntr_lounge_sex_981f0049:
 msgid "[RT] {i}And why is he cuddling with my sister on the couch?{/i}"
-msgstr "[RT] {i}E perché è coccolato con mia sorella sul divano?{/i}"
+msgstr "[RT] {i}E perché si sta coccolando mia sorella sul divano?{/i}"
 
 # game/UpdateScript0.07.rpy:1491 ## translate crowdin ntr_lounge_sex_7dd8553f:
 msgid "[RT] {i}Oh, hell no!... They're watching \"Game of Thots\" without me!{/i}"
@@ -1030,7 +1030,7 @@ msgstr "[RT] {i}Mi chiedo se Sidney sappia qualcosa su questo.{/i}"
 
 # game/UpdateScript0.07.rpy:1497 ## translate crowdin ntr_lounge_sex_9709fde8:
 msgid "[S] Can this wait?... I'm really busy, and I don't want to be bothered."
-msgstr "[S] Questo può aspettare?... Sono davvero occupato, e non voglio essere infastidito."
+msgstr "[S] Questo può aspettare?... Sono davvero occupata, e non voglio essere infastidita."
 
 # game/UpdateScript0.07.rpy:1498 ## translate crowdin ntr_lounge_sex_b09e813c:
 msgid "[R] Too busy to notice, or care that our little sister is cuddling on the couch with some creepy dude?"
@@ -1042,7 +1042,7 @@ msgstr "[S] Cosa?... Stai parlando di Matt?"
 
 # game/UpdateScript0.07.rpy:1502 ## translate crowdin ntr_lounge_sex_1380ebe9:
 msgid "[R] You know him?"
-msgstr "[R] Lo conoscete?"
+msgstr "[R] Lo conosci?"
 
 # game/UpdateScript0.07.rpy:1503 ## translate crowdin ntr_lounge_sex_8656b8e7:
 msgid "[S] Well... I mean I just met him... He came up and introduced himself, and he seems like a really great guy."
@@ -32073,7 +32073,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/UpdateScript0.07.rpy:1561
 msgid "Say nothing."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Non dica nulla."
+msgstr[0] "Non dire nulla."
 msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/UpdateScript0.07.rpy:1672
