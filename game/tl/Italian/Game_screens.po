@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-05-12 00:10\n"
+"PO-Revision-Date: 2022-05-13 00:11\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid " My\n"
@@ -50,8 +50,8 @@ msgid "{size=29} {/size}Girls\n"
 "{size=25} {/size}Room"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{size=29} {/size}Armadietto\n"
-"Delle Ragazze\n"
-"{size=25} {/size}Stanza"
+"Delle\n"
+"{size=25} {/size}Ragazze"
 msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/Game_screens.rpy:208
