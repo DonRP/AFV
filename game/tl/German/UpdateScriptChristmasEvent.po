@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-05-13 00:12\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
-msgstr ""
+msgstr "Willkommen zu unserer Weihnachtsveranstaltung! ACHTUNG!!! Dieses Event hat NTR-Elemente, die komplett vermeidbar sind! Auswahlmöglichkeiten, die zu NTR-Inhalten führen, sind deutlich gekennzeichnet!"
 
 # game/UpdateScriptChristmasEvent.rpy:248 ## translate crowdin xmas_dream_fbb90359:
 msgid "Do not choose an NTR option if it offends you, only to complain about it later on some online forum!!"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:249 ## translate crowdin xmas_dream_074aaa65:
 msgid "This event also has pregnancy content."
-msgstr ""
+msgstr "Diese Veranstaltung ist auch für Schwangere geeignet."
 
 # game/UpdateScriptChristmasEvent.rpy:250 ## translate crowdin xmas_dream_835e42bc:
 msgid "Would you like to play the Christmas event at this time? (Choosing \"No\" will complete this event and make it so you can only watch it in the gallery menu.)"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:268 ## translate crowdin xmas_dream_41c1aef9:
 msgid "[RT] {i}Thank God the Christmas break is coming! I'm so tired of school.{/i}"
-msgstr ""
+msgstr "[RT] {i}Gott sei Dank, die Weihnachtsferien sind da! Ich bin so müde von der Schule.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:269 ## translate crowdin xmas_dream_93bf0873:
 msgid "[RT] {i}Now I'll have even more time to work on seducing the girls.{/i}"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:270 ## translate crowdin xmas_dream_0c80fdb1:
 msgid "[RT] {i}I've got to really work hard if I want to unwrap those beautiful boxes for the holidays.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ich muss mich wirklich anstrengen, wenn ich diese schönen Schachteln für die Feiertage auspacken will.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:271 ## translate crowdin xmas_dream_7c3c9a34:
 msgid "[RT] {i}And those are some great mental images to fall asleep to.... zzzzzz.... {/i}"
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:272 ## translate crowdin xmas_dream_e27ce5cd:
 msgid "[RT] {i}zzzzzzz.... {/i}"
-msgstr ""
+msgstr "[RT] {i}zzzzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:273 ## translate crowdin xmas_dream_a20cefa7_1:
 msgid "..."
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:275 ## translate crowdin xmas_dream_6bb809b3:
 msgid "[X] Hey [ryan]..."
-msgstr ""
+msgstr "[X] Hey [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:280 ## translate crowdin xmas_dream_1e1e85d8:
 msgid "[X] Wake up [ryan]!..."
@@ -454,7 +454,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:432 ## translate crowdin xmas_present_e27ce5cd:
 msgid "[RT] {i}zzzzzzz.... {/i}"
-msgstr ""
+msgstr "[RT] {i}zzzzzzzzz.... {/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:433 ## translate crowdin xmas_present_a20cefa7:
 msgid "..."
@@ -466,7 +466,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:435 ## translate crowdin xmas_present_6bb809b3:
 msgid "[X] Hey [ryan]..."
-msgstr ""
+msgstr "[X] Hey [ryan]..."
 
 # game/UpdateScriptChristmasEvent.rpy:440 ## translate crowdin xmas_present_1e1e85d8:
 msgid "[X] Wake up [ryan]!..."
