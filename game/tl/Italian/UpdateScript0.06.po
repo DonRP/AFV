@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-24 09:39\n"
+"PO-Revision-Date: 2022-05-13 00:12\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -838,7 +838,7 @@ msgstr "[WTT] {i} Farò tutto il possibile per difendere un'insegnante come ques
 
 # game/UpdateScript0.06.rpy:1090 ## translate crowdin posting_ph_pics_cc3ecee5:
 msgid "[KT] {i}More pics of Megan and Miss [mom_name]?{/i}"
-msgstr "[KT] {i} Altre foto di Megan e della signorina [nome_mamma]? {/i}"
+msgstr "[KT] {i}Altre foto di Megan e della signorina [mom_name]? {/i}"
 
 # game/UpdateScript0.06.rpy:1091 ## translate crowdin posting_ph_pics_f0822d93_1:
 msgid "[KT] {i}I've got to have this!{/i}"
@@ -878,7 +878,7 @@ msgstr "[B] Queste foto andranno nella mia cartella \"Wank_Later\"."
 
 # game/UpdateScript0.06.rpy:1133 ## translate crowdin posting_ph_pics_9c54902b:
 msgid "[WTT] {i}How lovely! More pics of our lovely teacher [mom_name] and the beautiful Megan.{/i}"
-msgstr "[WTT] {i}Che bello! Altre foto della nostra adorabile insegnante [nome_mamma] e della bellissima Megan.{/i}"
+msgstr "[WTT] {i}Che bello! Altre foto della nostra adorabile insegnante [mom_name] e della bellissima Megan.{/i}"
 
 # game/UpdateScript0.06.rpy:1134 ## translate crowdin posting_ph_pics_cbe3261f:
 msgid "[WTT] {i}I was so glad to find that Megan is an adult.{/i}"
