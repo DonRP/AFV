@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-04-23 09:33\n"
+"PO-Revision-Date: 2022-05-31 04:16\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Cosplay_gallery.rpy:1213 ## translate crowdin cosplay_label_c1f386dd:
 msgid "[RT] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sim... Vendi outro par de oufits por $[sold] more.{/i}"
 
 # game/Cosplay_gallery.rpy:1218 ## translate crowdin cosplay_label_16130f80:
 msgid "[RT] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
-msgstr ""
+msgstr "[RT] {i}Devo verificar se tenho algum gosto e se posso transferir o dinheiro para a minha conta.{/i}"
 
 # game/Cosplay_gallery.rpy:1793 ## translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
