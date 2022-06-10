@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-05-13 00:12\n"
+"PO-Revision-Date: 2022-06-10 15:57\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
@@ -55,8 +55,8 @@ msgstr "[BJ_dealer] Entschuldigung! Sie haben nicht genug Geld!{w=2.0}{nw}"
 # XXtranslate crowdin strings:XX# XX## game/images/interface_images/blackjack/blackjack-DS.rpy:198
 msgid "Dealer"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Händler"
-msgstr[1] ""
+msgstr[0] "Geber"
+msgstr[1] "Ignore this. translate only: Geber"
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
