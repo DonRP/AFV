@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:33\n"
+"PO-Revision-Date: 2022-06-26 19:24\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
 msgid " My\n"
 "Room"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] " Mein Zimmer"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:77
 msgid "Bath"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Bad"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:110
 msgid "City"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Stadt"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:125
 msgid "Hallway"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Flur"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:134
 msgid "Class"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Klasse"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:152
@@ -48,13 +48,16 @@ msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{size=29} {/size}Mädchen\n"
+"Schließfach\n"
+"{size=25} {/size}Raum"
 msgstr[1] ""
 
 # XX## game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Kampagne\n"
+"   HQ"
 msgstr[1] ""
 
