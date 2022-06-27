@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-05-13 00:11\n"
+"PO-Revision-Date: 2022-06-27 19:29\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
 msgid "You lose!"
@@ -37,6 +37,6 @@ msgstr[1] ""
 # XX## game/Brain_game.rpy:519
 msgid "YOU WON!!!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "GEWONNEN!!!"
+msgstr[0] "DU HAST GEWONNEN!!!"
 msgstr[1] ""
 
