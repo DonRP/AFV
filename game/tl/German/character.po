@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:35\n"
+"PO-Revision-Date: 2022-06-27 19:29\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid "[ryan]'s Thoughts"
@@ -21,7 +21,7 @@ msgstr[1] ""
 # XX## game/character.rpy:45
 msgid "Mom's Thoughts"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Gedanken der Mutter"
 msgstr[1] ""
 
 # XX## game/character.rpy:46
@@ -33,13 +33,13 @@ msgstr[1] ""
 # XX## game/character.rpy:49
 msgid "Lauren's Thoughts"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Laurens Gedanken"
 msgstr[1] ""
 
 # XX## game/character.rpy:50
 msgid "Joey"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Joey"
 msgstr[1] ""
 
 # XX## game/character.rpy:51
@@ -69,7 +69,7 @@ msgstr[1] ""
 # XX## game/character.rpy:57
 msgid "Megan"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Megan"
 msgstr[1] ""
 
 # XX## game/character.rpy:59
@@ -81,7 +81,7 @@ msgstr[1] ""
 # XX## game/character.rpy:60
 msgid "Aunt Camille"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Tante Camille"
 msgstr[1] ""
 
 # XX## game/character.rpy:61
