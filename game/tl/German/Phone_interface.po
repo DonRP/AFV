@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-05-13 00:11\n"
+"PO-Revision-Date: 2022-06-27 19:29\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
 msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
@@ -26,25 +26,25 @@ msgstr ""
 
 # game/Phone_interface.rpy:280 ## translate crowdin campaign_warning_88e99dc5:
 msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ich kann keine Zeit verlieren. Ich muss in die Schule gehen und sehen, wie Lauren bei der Wahl zur Schülervertretung abschneidet {/i}"
 
 # game/Phone_interface.rpy:477 ## translate crowdin memes_time_skip_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Phone_interface.rpy:485 ## translate crowdin memes_time_skip_e011db0e_1:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Phone_interface.rpy:491 ## translate crowdin memes_time_skip_e011db0e_2:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Phone_interface.rpy:497 ## translate crowdin memes_time_skip_e011db0e_3:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
 # game/Phone_interface.rpy:510 ## translate crowdin memes_time_skip_e011db0e_4:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause gehen.{/i}"
+msgstr "[RT] {i}Die Schule ist zu Ende, ich muss nach Hause.{/i}"
 
