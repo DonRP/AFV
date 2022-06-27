@@ -10,18 +10,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:34\n"
+"PO-Revision-Date: 2022-06-27 19:30\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:256
 msgid "History"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Geschichte"
 msgstr[1] ""
 
 # XX## game/screens.rpy:257
 msgid "Skip"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Überspringen"
 msgstr[1] ""
 
 # XX## game/screens.rpy:258
@@ -33,13 +33,13 @@ msgstr[1] ""
 # XX## game/screens.rpy:259
 msgid "Save"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Speichern"
 msgstr[1] ""
 
 # XX## game/screens.rpy:260
 msgid "Load"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Laden"
 msgstr[1] ""
 
 # XX## game/screens.rpy:261
@@ -57,25 +57,25 @@ msgstr[1] ""
 # XX## game/screens.rpy:263
 msgid "Prefs"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Einstellungen"
 msgstr[1] ""
 
 # XX## game/screens.rpy:308
 msgid "Start"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Start"
 msgstr[1] ""
 
 # XX## game/screens.rpy:319
 msgid "Gallery"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Galerie"
 msgstr[1] ""
 
 # XX## game/screens.rpy:321
 msgid "Preferences"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Optionen"
 msgstr[1] ""
 
 # XX## game/screens.rpy:325
@@ -99,62 +99,63 @@ msgstr[1] ""
 # XX## game/screens.rpy:334
 msgid "Credits"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Mitwirkende"
 msgstr[1] ""
 
 # XX## game/screens.rpy:339
 msgid "Help"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Hilfe"
 msgstr[1] ""
 
 # XX## game/screens.rpy:342
 msgid "Quit"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Beenden"
 msgstr[1] ""
 
 # XX## game/screens.rpy:496
 msgid "Return"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Zurück"
 msgstr[1] ""
 
 # XX## game/screens.rpy:580
 msgid "Version [config.version!t]\n"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Version [config.version!t]\n"
 msgstr[1] ""
 
 # XX## game/screens.rpy:586
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Erstellt mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 msgstr[1] ""
 
 # XX## game/screens.rpy:626
 msgid "Page {}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Seite {}"
 msgstr[1] ""
 
 # XX## game/screens.rpy:626
 msgid "Automatic saves"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Automatisch speichern"
 msgstr[1] ""
 
 # XX## game/screens.rpy:626
 msgid "Quick saves"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Schnellspeichern"
 msgstr[1] ""
 
 # XX## game/screens.rpy:668
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{#file_time}%A, %B %d %Y, %H:%M"
 msgstr[1] ""
 
 # XX## game/screens.rpy:668
@@ -190,19 +191,19 @@ msgstr[1] ""
 # XX## game/screens.rpy:763
 msgid "Display"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Anzeige"
 msgstr[1] ""
 
 # XX## game/screens.rpy:764
 msgid "Window"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Fenster"
 msgstr[1] ""
 
 # XX## game/screens.rpy:765
 msgid "Fullscreen"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Vollbildmodus"
 msgstr[1] ""
 
 # XX## game/screens.rpy:769
@@ -220,13 +221,13 @@ msgstr[1] ""
 # XX## game/screens.rpy:771
 msgid "Left"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Links"
 msgstr[1] ""
 
 # XX## game/screens.rpy:772
 msgid "Right"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Rechts"
 msgstr[1] ""
 
 # XX## game/screens.rpy:777
@@ -250,19 +251,19 @@ msgstr[1] ""
 # XX## game/screens.rpy:783
 msgid "Navigation settings"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Navigationseinstellungen"
 msgstr[1] ""
 
 # XX## game/screens.rpy:790
 msgid "Language"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sprache"
 msgstr[1] ""
 
 # XX## game/screens.rpy:847
 msgid "Text Speed"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Textgeschwindigkeit"
 msgstr[1] ""
 
 # XX## game/screens.rpy:851
@@ -292,13 +293,13 @@ msgstr[1] ""
 # XX## game/screens.rpy:875
 msgid "Voice Volume"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Stimmen Lautstärke"
 msgstr[1] ""
 
 # XX## game/screens.rpy:886
 msgid "Mute All"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Alles stumm schalten"
 msgstr[1] ""
 
 # XX## game/screens.rpy:1014
