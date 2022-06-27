@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:31\n"
+"PO-Revision-Date: 2022-06-27 19:29\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:126 ## translate crowdin ASS_Affect_game_start_lbl_aadc3f05:
 msgid "[MS] Oh... I see Lauren is in a similar pose for this picture too."
-msgstr ""
+msgstr "[MS] Oh... Ich sehe, dass Lauren auch für dieses Bild in einer ähnlichen Pose steht."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:127 ## translate crowdin ASS_Affect_game_start_lbl_e52bac6b:
 msgid "[MS] She is very photogenic from that angle."
-msgstr ""
+msgstr "[MS] Aus diesem Blickwinkel ist sie sehr fotogen."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:128 ## translate crowdin ASS_Affect_game_start_lbl_cb04a16f:
 msgid "[R] Yeah, what she lacks in the bra, she makes up for in the trunk."
-msgstr ""
+msgstr "[R] Ja, was ihr im BH fehlt, macht sie mit ihrem Hintern wieder wett."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:129 ## translate crowdin ASS_Affect_game_start_lbl_737e5d1a:
 msgid "[MS] Haha... [ryan]..."
-msgstr ""
+msgstr "[MS] Haha... [ryan]..."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:130 ## translate crowdin ASS_Affect_game_start_lbl_38ce0b4a:
 msgid "[R] Oh, right... I shouldn't talk like that in school, sorry."
-msgstr ""
+msgstr "[R] Oh, richtig... Ich sollte so etwas in der Schule nicht sagen, tut mir leid."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:131 ## translate crowdin ASS_Affect_game_start_lbl_43bfb9e7:
 msgid "[MS] Uh huh... And who is Lauren supposed to be in this picture?"
-msgstr ""
+msgstr "[MS] Uh huh... Und wer soll Lauren auf diesem Bild sein?"
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:132 ## translate crowdin ASS_Affect_game_start_lbl_2c794b2d:
 msgid "[R] Well, she's supposed to be Penny Roberson from \"Missing in Space\", but she could pass for any number of sci-fi girls."
-msgstr ""
+msgstr "[R] Nun, sie soll Penny Roberto aus \"Messing in Space\" sein, aber sie könnte als jedes beliebige Sci-Fi-Girl durchgehen."
 
 # game/images/interface_images/minigame/ASS_Affect_paint_timed_event.rpy:133 ## translate crowdin ASS_Affect_game_start_lbl_ea3d16ca:
 msgid "[MS] Ok, great... So remember, think of a theme, a background, and a slogan."
