@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
 errors.txt
 log.txt
 traceback.txt
@@ -136,16 +137,5 @@ game/saves
 game/cache
 *.bak
 
-# Art
-game/.gitignore
-game/images
-
-# Photoshop
-*.psd
-*.webp
-game/gui
-game/core
-*.webm
-*.TTF
-*.otf
-*.png
+# Templete files
+.renpy-sdk
